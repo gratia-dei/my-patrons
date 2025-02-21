@@ -1821,6 +1821,106 @@
     }
   },
 
+  "MP": {
+    "name": {
+      "pl": "Misja Pobożności"
+    },
+    "selectable": false,
+    "description": {
+      "params": [],
+      "template": {
+        "pl": "pl/wyzwania/misja-poboznosci"
+      }
+    },
+    "numbers": false,
+    "uniqueness": [
+      ["person"],
+      ["notes/type", "date|first-7-characters-only"]
+    ],
+    "addition-type": "",
+    "person": {
+      "types": ["Patrons"],
+      "description": {
+        "params": [],
+        "template": {
+          "pl": "pl/osoby/patron-ktoremu-powierzona-bedzie-misja-poboznosci"
+        }
+      },
+      "requirements": {
+        "anybody-having-challenges": ["I"],
+        "person-not-having-challenges": ["MP"]
+      }
+    },
+    "checklist": {
+      "participation": {
+        "to-complete-on-selected-date": true,
+        "required": true,
+        "name": {
+          "pl": "weź udział w nabożeństwie lub akcie pobożności"
+        },
+        "description": {
+          "params": ["person-name"],
+          "template": {
+            "pl": "pl/kroki/wez-udzial-w-nabozenstwie-lub-akcie-poboznosci"
+          }
+        }
+      },
+      "prayer": {
+        "to-complete-on-selected-date": true,
+        "required": true,
+        "name": {
+          "pl": "powierz Patronowi swoją Misję Pobożności"
+        },
+        "description": {
+          "params": ["person-name"],
+          "template": {
+            "pl": "pl/kroki/powierz-patronowi-swoja-misje-poboznosci"
+          }
+        }
+      },
+      "note": {
+        "to-complete-on-selected-date": false,
+        "required": false,
+        "name": {
+          "pl": "uzupełnij dowolne notatki"
+        },
+        "description": {
+          "params": ["row-id"],
+          "template": {
+            "pl": "pl/kroki/uzupelnij-dowolne-notatki"
+          }
+        }
+      }
+    },
+    "notes": {
+      "piety-cycle": {
+        "type": {
+          "type-of-piety-cycle": [1, 1]
+        },
+        "name": {
+          "pl": "typ cyklu pobożności"
+        }
+      },
+      "forename": {
+        "type": {
+          "forename": [0, 1]
+        },
+        "name": {
+          "pl": "usłyszane imię"
+        }
+      },
+      "other": {
+        "type": {
+          "description": [0, 0]
+        },
+        "name": {
+          "en": "additional information",
+          "pl": "informacje dodatkowe"
+        }
+      }
+    }
+  },
+
   "N": {
     "name": {
       "pl": "Patron Mentor"

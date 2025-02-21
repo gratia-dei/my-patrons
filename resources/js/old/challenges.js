@@ -232,6 +232,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   const REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS = 'challenge-date-is-in-liturgical-seasons';
   const REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM = 'day-of-month-having-maximum';
   const REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END = 'first-challenge-date-must-be-earlier-than-days-before-liturgical-season-end';
+  const REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX = 'challenge-type-name-prefix';
 
   const PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES = {
     [REQUIREMENT_ANYBODY_HAVING_CHALLENGES]: {
@@ -251,6 +252,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   const NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED = 'last-year-or-10-challenges-sorted';
   const NOTE_CONFIG_SOURCE_TYPE_LIST = 'list';
   const NOTE_CONFIG_SOURCE_TYPE_PATRONS = 'patrons';
+  const NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES = 'challenge-types';
 
   const JSON_MIME_TYPE = 'application/json';
   const JSON_DATA_FILE_EXTENSION = '.mypatrons.json';
@@ -1830,6 +1832,13 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return getLanguageVariable(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
   }
 
+  function getChallengeTypeName(challengeTypeId) {
+    const nameLanguagesData = (challengesConfig[challengeTypeId] ?? {}).name ?? {};
+    const name = getLanguageVariable('name', false, nameLanguagesData);
+
+    return name + ' [' + challengeTypeId + ']';
+  }
+
   function getAllPersonsDataSubelements(personIdPrefix = '') {
     return Object.keys(personsData).filter(v =>
       (personIdPrefix === '' || v.substring(0, personIdPrefix.length + 1) == personIdPrefix + '/')
@@ -2062,6 +2071,22 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return result;
   }
 
+  function getChallengeTypesWithRequirements(config) {
+    let result = {};
+
+    const namePrefix = config[REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX] ?? '';
+
+    for (const challengeTypeId in challengesConfig) {
+      if (namePrefix.length > 0 && challengeTypeId.substring(0, namePrefix.length) !== namePrefix) {
+        continue;
+      }
+
+      result[challengeTypeId] = challengeTypeId;
+    }
+
+    return result;
+  }
+
 
 
   function resetDateInput() {
@@ -2111,7 +2136,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
       let options = {};
       for (let type in challengesConfig) {
         const challengeConfig = challengesConfig[type] ?? {};
-        const name = getLanguageVariable('name', false, challengeConfig.name);
+        const name = getChallengeTypeName(type);
         const requirements = challengeConfig.person.requirements ?? {};
         const additionType = challengeConfig[CONFIG_FIELD_ADDITION_TYPE] ?? '';
         const isSelectable = challengeConfig[CONFIG_FIELD_SELECTABLE] ?? false;
@@ -2148,7 +2173,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
 
       for (const [type, name] of sorted) {
         const isSelected = (type === selectedChallengeType);
-        addOptionToSelect(challengeTypeSelect, type, name + ' [' + type + ']', isSelected);
+        addOptionToSelect(challengeTypeSelect, type, name, isSelected);
       }
     }
 
@@ -3139,10 +3164,9 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     const person = getPersonDataName(challenge.person ?? '');
     const addition = getPersonDataAdditionName(personId, additionType, additionId);
     const personString = person + (additionId === '' ? '' : ' (' + addition + ')');
-    const typeName = getLanguageVariable('name', true, config.name ?? {});
 
     let challengeDescInfoValue = document.getElementById(CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
-    challengeDescInfoValue.innerHTML = typeName + ' [' + challengeType + ']';
+    challengeDescInfoValue.innerHTML = getChallengeTypeName(challengeType);
 
     let personDescInfoValue = document.getElementById(PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
     personDescInfoValue.innerHTML = personString;
@@ -3523,6 +3547,9 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     if ((noteTypeConfig.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_PATRONS] != undefined) {
       escapedContent = getPersonDataName(escapedContent);
     }
+    if ((noteTypeConfig.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] != undefined) {
+      escapedContent = getChallengeTypeName(escapedContent);
+    }
 
     const isEditFormMode = (isEditMode && (lastFormModeNoteCellElementIdSuffix[itemType] ?? '') === itemPathString);
 
@@ -3595,7 +3622,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   }
 
   function getNotesPatronsValues(config, fileDataValues, rowId, currentValue) {
-    result = [];
+    let result = [];
 
     let persons = {};
 
@@ -3639,6 +3666,47 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
         result.push({
           [foundNoteId]: personId,
           name: getPersonDataName(personId)
+        });
+      }
+    }
+
+    return result.sort(function(a, b) {
+      var x = getDiacriticalRepresentationStringForSort(a['name']);
+      var y = getDiacriticalRepresentationStringForSort(b['name']);
+      return x < y ? -1 : x > y ? 1 : 0;
+    });
+  }
+
+  function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
+    let result = [];
+
+    let challengeTypes = getChallengeTypesWithRequirements(config);
+
+    if (Object.keys(challengeTypes).length > 0 || currentValue.length > 0) {
+      let challengeTypesIdKeys = {};
+      for (const noteId in fileDataValues) {
+        challengeTypesIdKeys[fileDataValues[noteId]] = noteId;
+      }
+
+      if (currentValue.length > 0) {
+        challengeTypes[currentValue] = currentValue;
+      }
+
+      let noteId = 0;
+      for (let challengeTypeId of Object.keys(challengeTypes)) {
+        let foundNoteId = challengeTypesIdKeys[challengeTypeId] ?? EMPTY_NOTE_ID;
+        while (foundNoteId === EMPTY_ROW_ID) {
+          noteId++;
+          if (fileDataValues[noteId] === undefined) {
+            foundNoteId = noteId;
+          }
+        }
+
+        const name = getChallengeTypeName(challengeTypeId);
+
+        result.push({
+          [foundNoteId]: challengeTypeId,
+          name: name
         });
       }
     }
@@ -3897,6 +3965,26 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
               addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
               selectableValues[noteId] = personId;
+            }
+          }
+          break;
+
+        case NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES:
+          const challengeTypesValues = getNotesChallengeTypesValues(noteSources[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? {}, fileDataValues, rowId, currentValue);
+          for (const row of challengeTypesValues) {
+            const noteId = Object.keys(row)[0] ?? '';
+            const challengeTypeId = row[noteId] ?? [];
+
+            isSelected = (!foundSelectedOption && currentNoteId.toString() === noteId);
+            if (isSelected) {
+              foundSelectedOption = true;
+            }
+            if (siblingsNoteIds[noteId] == undefined) {
+              const value = row.name ?? MISSING_NOTE_ID_SIGN;
+              const escapedValue = getHtmlTagsEscapedString(value);
+              addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
+              anySelectOptionAddedAfterSeparator = true;
+              selectableValues[noteId] = challengeTypeId;
             }
           }
           break;

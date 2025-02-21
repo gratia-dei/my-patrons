@@ -265,22 +265,6 @@
     },
     "hint": {}
   },
-  "type-of-handicraft": {
-    "index": "types-of-handicraft",
-    "name": {
-      "en": "types of handicraft",
-      "pl": "typy rękodzieła"
-    },
-    "source": {
-      "list": [
-        {"1": {
-          "en": "",
-          "pl": ""
-        }}
-      ]
-    },
-    "hint": {}
-  },
   "mysteries-of-the-rosary": {
     "index": "mysteries-of-the-rosary",
     "name": {
@@ -473,6 +457,37 @@
     "hint": {
       "pl": "np. w formacie „<strong>HH:MM</strong>” (HH - godzina, MM - minuta), ale można stosować też określenia np.: „około”, „przed”, „po”, „podczas Mszy”, itp. "
     }
+  },
+  "type-of-handicraft": {
+    "index": "types-of-handicrafts",
+    "name": {
+      "en": "types of handicraft",
+      "pl": "typy rękodzieła"
+    },
+    "source": {
+      "list": [
+        {"1": {
+          "en": "",
+          "pl": ""
+        }}
+      ]
+    },
+    "hint": {
+      "pl": "Jeżeli Twoim zdaniem warto dopisać coś do tej listy, <a target=\"_blank\" href=\"/contact\">napisz do nas</a>."
+    }
+  },
+  "type-of-piety-cycle": {
+    "index": "types-of-piety-cycles",
+    "name": {
+      "en": "type of piety cycle",
+      "pl": "typ cyklu pobożności"
+    },
+    "source": {
+      "challenge-types": {
+        "challenge-type-name-prefix": "E"
+      }
+    },
+    "hint": {}
   },
   "type-of-secular-place": {
     "index": "types-of-secular-places",
