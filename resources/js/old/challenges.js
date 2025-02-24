@@ -233,6 +233,8 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   const REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM = 'day-of-month-having-maximum';
   const REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END = 'first-challenge-date-must-be-earlier-than-days-before-liturgical-season-end';
   const REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX = 'challenge-type-name-prefix';
+  const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY = 'challenge-requirements-to-copy';
+  const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER = 'challenge-requirements-to-copy-from-other';
 
   const PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES = {
     [REQUIREMENT_ANYBODY_HAVING_CHALLENGES]: {
@@ -1820,6 +1822,23 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return true;
   }
 
+  function checkBasicRequirements(challengeType, requirements, challenges, challengeDate) {
+    return (
+      checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY] ?? [], challenges, challengeDate, 1)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS] ?? [], challenges, challengeDate, 7)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS] ?? [], challenges, challengeDate, 40)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS] ?? [], challenges, challengeDate, 100)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate, 0)
+      && checkNotExistingChallengeTypes(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
+      && checkNotExistingChallengeTypesOnTheSameDay(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate)
+      && checkIfChallengeDayOfWeekIsOnWhitelist(requirements[REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST] ?? [], challengeDate)
+      && checkIfChallengeMonthIsOnWhitelist(requirements[REQUIREMENT_MONTH_HAVING_WHITELIST] ?? [], challengeDate)
+      && checkIfChallengeDayOfMonthIsNotGreaterThanMaximum(requirements[REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM] ?? 0, challengeDate)
+      && checkIfChallengeDateIsInLiturgicalSeasons(requirements[REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS] ?? [], challengeDate)
+    );
+  }
+
   function getPersonDataName(personId) {
     const data = personsData[personId] ?? [];
 
@@ -2071,13 +2090,38 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return result;
   }
 
-  function getChallengeTypesWithRequirements(config) {
+  function getChallengeTypesWithRequirements(config, rowId) {
     let result = {};
 
     const namePrefix = config[REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX] ?? '';
 
     for (const challengeTypeId in challengesConfig) {
       if (namePrefix.length > 0 && challengeTypeId.substring(0, namePrefix.length) !== namePrefix) {
+        continue;
+      }
+
+      const challengeRequirements = structuredClone((challengesConfig[challengeTypeId].person ?? {}).requirements ?? {});
+      const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+      const challengeDate = (challenges[rowId - 1] ?? {}).date ?? document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+
+      let requirements = {};
+      for (const reqName of config[REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY] ?? []) {
+        const reqValues = challengeRequirements[reqName] ?? null;
+        if (reqValues !== null) {
+          requirements[reqName] = reqValues;
+        }
+      }
+
+      for (const [srcReqName, dstReqName] of config[REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER] ?? []) {
+        requirements[dstReqName] = requirements[dstReqName] ?? [];
+
+        const srcReqValues = challengeRequirements[srcReqName] ?? [];
+        for (const srcReqValue of srcReqValues) {
+          requirements[dstReqName].push(srcReqValue);
+        }
+      }
+
+      if (!checkBasicRequirements(challengeTypeId, requirements, challenges, challengeDate)) {
         continue;
       }
 
@@ -2148,19 +2192,8 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
         }
 
         if ((!isSelectable && !advancedMode)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY] ?? [], challenges, challengeDate, 1)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS] ?? [], challenges, challengeDate, 7)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS] ?? [], challenges, challengeDate, 40)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS] ?? [], challenges, challengeDate, 100)
-          || !checkExistingChallengeTypesBeforeDate(type, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate, 0)
-          || !checkNotExistingChallengeTypes(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
-          || !checkNotExistingChallengeTypesOnTheSameDay(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate)
+          || !checkBasicRequirements(type, requirements, challenges, challengeDate)
           || !checkIfAnyPersonOrAdditionPossibleForChallengeTypeRequirements(requirements, additionType, allPersonsToTakeForChallengeType, challengeDate)
-          || !checkIfChallengeDayOfWeekIsOnWhitelist(requirements[REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST] ?? [], challengeDate)
-          || !checkIfChallengeMonthIsOnWhitelist(requirements[REQUIREMENT_MONTH_HAVING_WHITELIST] ?? [], challengeDate)
-          || !checkIfChallengeDayOfMonthIsNotGreaterThanMaximum(requirements[REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM] ?? 0, challengeDate)
-          || !checkIfChallengeDateIsInLiturgicalSeasons(requirements[REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS] ?? [], challengeDate)
           || (newChallengeNumber <= 1 && !checkIfChallengeDateIsEarlierThanDaysBeforeLiturgicalSeasonEnd(requirements[REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END] ?? [], challengeDate))
         ) {
           continue;
@@ -3680,7 +3713,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
     let result = [];
 
-    let challengeTypes = getChallengeTypesWithRequirements(config);
+    let challengeTypes = getChallengeTypesWithRequirements(config, rowId);
 
     if (Object.keys(challengeTypes).length > 0 || currentValue.length > 0) {
       let challengeTypesIdKeys = {};

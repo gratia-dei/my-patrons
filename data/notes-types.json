@@ -484,7 +484,17 @@
     },
     "source": {
       "challenge-types": {
-        "challenge-type-name-prefix": "E"
+        "challenge-type-name-prefix": "E",
+        "challenge-requirements-to-copy": [
+          "anybody-having-challenges",
+          "challenge-date-is-in-liturgical-seasons",
+          "day-of-month-having-maximum",
+          "day-of-week-having-whitelist",
+          "month-having-whitelist"
+        ],
+        "challenge-requirements-to-copy-from-other": [
+          ["everybody-not-having-challenges", "anybody-having-challenges"]
+        ]
       }
     },
     "hint": {}
