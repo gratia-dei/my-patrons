@@ -1,6 +1,6 @@
-Wykonaj **dowolne rękodzieło** z wizerunkiem **Osoby Boskiej** lub Twojego **Patrona Opiekuna**<sup>1</sup>. Może to być np. rysunek, malunek, ikona, rzeźba, wyklejanka, witraż, itp.<sup>2</sup>
+Wykonaj **dowolne rękodzieło** z wizerunkiem **Osoby Boskiej** lub Twojego **Patrona Opiekuna**<sup>1</sup>. Może to być np. rysunek, malowidło, ikona, rzeźba, kolaż, mozaika, itp.<sup>2</sup>
 
-**Podpisz swoje dzieło**! Jeśli praca zajęła Ci więcej niż jeden dzień, w polu **„data wyzwania”** wpisz datę zakończenia pracy!
+**Podpisz swoje dzieło**! Jeśli praca zajęła Ci więcej niż jeden dzień, w polu **„Data wyzwania”** wpisz datę zakończenia pracy!
 
 
 ---

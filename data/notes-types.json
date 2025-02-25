@@ -467,8 +467,112 @@
     "source": {
       "list": [
         {"1": {
-          "en": "",
-          "pl": ""
+          "en": "drawing",
+          "pl": "rysunek"
+        }},
+        {"2": {
+          "en": "painting",
+          "pl": "malowidło"
+        }},
+        {"3": {
+          "en": "icon",
+          "pl": "ikona"
+        }},
+        {"4": {
+          "en": "decoupage",
+          "pl": "decoupage"
+        }},
+        {"5": {
+          "en": "collage",
+          "pl": "kolaż"
+        }},
+        {"41": {
+          "en": "ceramic sculpture or relief",
+          "pl": "rzeźba lub relief z ceramiki"
+        }},
+        {"42": {
+          "en": "modeling paste sculpture or relief",
+          "pl": "rzeźba lub relief z masy plastycznej"
+        }},
+        {"43": {
+          "en": "metal sculpture or relief",
+          "pl": "rzeźba lub relief z metalu"
+        }},
+        {"44": {
+          "en": "stone sculpture or relief",
+          "pl": "rzeźba lub relief z kamienia"
+        }},
+        {"45": {
+          "en": "wood sculpture or relief",
+          "pl": "rzeźba lub relief z drewna"
+        }},
+        {"46": {
+          "en": "paper mâché",
+          "pl": "papier mâché"
+        }},
+        {"47": {
+          "en": "intarsia",
+          "pl": "intarsja"
+        }},
+        {"48": {
+          "en": "pyrography",
+          "pl": "pirografia"
+        }},
+        {"81": {
+          "en": "origami",
+          "pl": "origami"
+        }},
+        {"82": {
+          "en": "quilling",
+          "pl": "quilling"
+        }},
+        {"83": {
+          "en": "cutout",
+          "pl": "wycinanka"
+        }},
+        {"121": {
+          "en": "embroidery",
+          "pl": "haft"
+        }},
+        {"122": {
+          "en": "crochet",
+          "pl": "robótka szydełkowa"
+        }},
+        {"123": {
+          "en": "knit",
+          "pl": "dzianina"
+        }},
+        {"124": {
+          "en": "sewn goods",
+          "pl": "wyrób krawiecki"
+        }},
+        {"125": {
+          "en": "fabric product",
+          "pl": "tkanina"
+        }},
+        {"126": {
+          "en": "tapestry",
+          "pl": "gobelin"
+        }},
+        {"127": {
+          "en": "macramé",
+          "pl": "makrama"
+        }},
+        {"128": {
+          "en": "patchwork",
+          "pl": "patchwork"
+        }},
+        {"129": {
+          "en": "quilting",
+          "pl": "pikowana tkanina"
+        }},
+        {"161": {
+          "en": "stained glass",
+          "pl": "witraż"
+        }},
+        {"162": {
+          "en": "mosaic",
+          "pl": "mozaika"
         }}
       ]
     },

@@ -3298,7 +3298,7 @@
     "name": {
       "pl": "Rękodzieło"
     },
-    "selectable": false,
+    "selectable": true,
     "description": {
       "params": [],
       "template": {
