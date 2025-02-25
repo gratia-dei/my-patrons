@@ -1125,7 +1125,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
                 continue;
               }
 
-              let challengeTypes = getChallengeTypesWithRequirements(noteReqs, rowId);
+              let challengeTypes = getChallengeTypesWithRequirements(noteReqs, challengeDate);
               if (Object.keys(challengeTypes).length <= 0) {
                 throw {
                   message: 'lang-challenge-parse-error-for-requirement-notes-with-challenge-types-have-any-possible-value',
@@ -1843,6 +1843,26 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return true;
   }
 
+  function checkIfNotesWithChallengeTypesHaveAnyPossibleValue(noteIds, challengeDate, challengeConfig) {
+    for (const noteId of noteIds) {
+      const noteTypes = (challengeConfig[CONFIG_FIELD_NOTES] ?? {})[noteId].type ?? {};
+      for (const noteTypeId of Object.keys(noteTypes)) {
+        const noteConfigForType = notesTypesConfig[noteTypeId] ?? {};
+        const noteReqs = (noteConfigForType.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? null;
+        if (noteReqs == null) {
+          continue;
+        }
+
+        let challengeTypes = getChallengeTypesWithRequirements(noteReqs, challengeDate);
+        if (Object.keys(challengeTypes).length <= 0) {
+          return false;
+        }
+      }
+    }
+
+    return true;
+  }
+
   function checkBasicRequirements(challengeType, requirements, challenges, challengeDate) {
     return (
       checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
@@ -2111,7 +2131,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return result;
   }
 
-  function getChallengeTypesWithRequirements(config, rowId) {
+  function getChallengeTypesWithRequirements(config, challengeDate) {
     let result = {};
 
     const namePrefix = config[REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX] ?? '';
@@ -2123,7 +2143,6 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
 
       const challengeRequirements = structuredClone((challengesConfig[challengeTypeId].person ?? {}).requirements ?? {});
       const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
-      const challengeDate = (challenges[rowId - 1] ?? {}).date ?? document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
 
       let requirements = {};
       for (const reqName of config[REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY] ?? []) {
@@ -2216,6 +2235,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
           || !checkBasicRequirements(type, requirements, challenges, challengeDate)
           || !checkIfAnyPersonOrAdditionPossibleForChallengeTypeRequirements(requirements, additionType, allPersonsToTakeForChallengeType, challengeDate)
           || (newChallengeNumber <= 1 && !checkIfChallengeDateIsEarlierThanDaysBeforeLiturgicalSeasonEnd(requirements[REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END] ?? [], challengeDate))
+          || !checkIfNotesWithChallengeTypesHaveAnyPossibleValue(requirements[REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE] ?? [], challengeDate, challengeConfig)
         ) {
           continue;
         }
@@ -3734,7 +3754,8 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
     let result = [];
 
-    let challengeTypes = getChallengeTypesWithRequirements(config, rowId);
+    const challengeDate = (challenges[rowId - 1] ?? {}).date ?? document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeTypes = getChallengeTypesWithRequirements(config, challengeDate);
 
     if (Object.keys(challengeTypes).length > 0 || currentValue.length > 0) {
       let challengeTypesIdKeys = {};

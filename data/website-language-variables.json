@@ -565,8 +565,8 @@
     },
 
     "lang-challenge-parse-error-for-requirement-notes-with-challenge-types-have-any-possible-value": {
-        "en": "notes with challenge type has none possible value to choice",
-        "pl": "notatka z typem wyzwania nie ma żadnej możliwej wartości do wyboru"
+        "en": "notes with challenge type has none possible valid value to choice",
+        "pl": "notatka z typem wyzwania nie ma żadnej możliwej poprawnej wartości do wyboru"
     },
 
     "lang-challenge-parse-error-for-requirement-person-addition-is-not-empty": {
