@@ -1835,7 +1835,7 @@
     "numbers": false,
     "uniqueness": [
       ["person"],
-      ["notes/type", "date|first-7-characters-only"]
+      ["notes/piety-cycle", "date|first-7-characters-only"]
     ],
     "addition-type": "",
     "person": {
@@ -1848,7 +1848,8 @@
       },
       "requirements": {
         "anybody-having-challenges": ["I"],
-        "person-not-having-challenges": ["MP"]
+        "person-not-having-challenges": ["MP"],
+        "notes-with-challenge-types-have-any-possible-value": ["piety-cycle"]
       }
     },
     "checklist": {

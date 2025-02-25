@@ -544,6 +544,16 @@
         "pl": "dzień tygodnia wyzwania nie jest na liście dozwolonych"
     },
 
+    "lang-challenge-parse-error-for-requirement-everybody-not-having-challenges": {
+        "en": "this type of challenge has been assigned to anyone before mote times than there is allowed",
+        "pl": "ten typ wyzwania został już przypisany wcześniej do jakiejkolwiek osoby więcej niż dozwolona liczba razy"
+    },
+
+    "lang-challenge-parse-error-for-requirement-everybody-not-having-challenges-on-the-same-day": {
+        "en": "this challenge type has already been created for this day",
+        "pl": "ten typ wyzwania został już utworzony dla tego dnia"
+    },
+
     "lang-challenge-parse-error-for-requirement-first-challenge-date-must-be-earlier-than-days-before-liturgical-season-end": {
         "en": "date of first challenge with specified type is not earlier than number of days before liturgical season end",
         "pl": "data pierwszego wyzwania tego typu nie jest wcześniejsza niż liczba dni przed końcem okresu liturgicznego"
@@ -554,14 +564,9 @@
         "pl": "miesiąc wyzwania nie jest na liście dozwolonych"
     },
 
-    "lang-challenge-parse-error-for-requirement-everybody-not-having-challenges": {
-        "en": "this type of challenge has been assigned to anyone before mote times than there is allowed",
-        "pl": "ten typ wyzwania został już przypisany wcześniej do jakiejkolwiek osoby więcej niż dozwolona liczba razy"
-    },
-
-    "lang-challenge-parse-error-for-requirement-everybody-not-having-challenges-on-the-same-day": {
-        "en": "this challenge type has already been created for this day",
-        "pl": "ten typ wyzwania został już utworzony dla tego dnia"
+    "lang-challenge-parse-error-for-requirement-notes-with-challenge-types-have-any-possible-value": {
+        "en": "notes with challenge type has none possible value to choice",
+        "pl": "notatka z typem wyzwania nie ma żadnej możliwej wartości do wyboru"
     },
 
     "lang-challenge-parse-error-for-requirement-person-addition-is-not-empty": {
@@ -599,7 +604,7 @@
         "pl": "niepoprawna liczba notatek"
     },
 
-    "lang-challenge-parse-error-invelid-status-in-checklist-step-to-complete-on-selected-date": {
+    "lang-challenge-parse-error-invalid-status-in-checklist-step-to-complete-on-selected-date": {
         "en": "checklist step required to be completed on the day of the challenge must be marked as completed",
         "pl": "krok checklisty wymagany do wykonania w dniu wyzwania musi być oznaczony jako zrobiony"
     },

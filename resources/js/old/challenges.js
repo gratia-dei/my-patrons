@@ -235,6 +235,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   const REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX = 'challenge-type-name-prefix';
   const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY = 'challenge-requirements-to-copy';
   const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER = 'challenge-requirements-to-copy-from-other';
+  const REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE = 'notes-with-challenge-types-have-any-possible-value';
 
   const PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES = {
     [REQUIREMENT_ANYBODY_HAVING_CHALLENGES]: {
@@ -1114,6 +1115,26 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
           }
           break;
 
+        case REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE:
+          for (const noteId of reqTypes) {
+            const noteTypes = configNotes[noteId].type ?? {};
+            for (const noteTypeId of Object.keys(noteTypes)) {
+              const noteConfigForType = notesTypesConfig[noteTypeId] ?? {};
+              const noteReqs = (noteConfigForType.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? null;
+              if (noteReqs == null) {
+                continue;
+              }
+
+              let challengeTypes = getChallengeTypesWithRequirements(noteReqs, rowId);
+              if (Object.keys(challengeTypes).length <= 0) {
+                throw {
+                  message: 'lang-challenge-parse-error-for-requirement-notes-with-challenge-types-have-any-possible-value',
+                  data: [noteId]
+                };
+              }
+            }
+          }
+          break;
 
         default:
           throw {
@@ -1196,7 +1217,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
       const toCompleteOnSelectedDate = (configChecklist[stepType] ?? {})[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
       if (toCompleteOnSelectedDate && true !== (challengeChecklist[stepType] ?? false)) {
         throw {
-          message: 'lang-challenge-parse-error-invelid-status-in-checklist-step-to-complete-on-selected-date',
+          message: 'lang-challenge-parse-error-invalid-status-in-checklist-step-to-complete-on-selected-date',
           data: [stepName]
         };
       }
