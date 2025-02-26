@@ -1020,6 +1020,7 @@ a.button-3:hover {
     width: auto;
 }
 
+button.data-list-btn,
 button.date-form-btn,
 button.load-btn,
 button.save-btn,
@@ -1079,7 +1080,8 @@ button.tab-btn.active {
     background-image: none;
 }
 
-button.date-form-btn {
+button.date-form-btn,
+button.data-list-btn {
     margin: 5px;
     background-color: var(--color3);
     color: var(--white);
@@ -1087,6 +1089,7 @@ button.date-form-btn {
     padding: 16px 18px 16px 18px !important;
     background-image: none;
 }
+
 
 button.load-btn:hover,
 button.save-btn:hover,

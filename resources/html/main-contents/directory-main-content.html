@@ -6,10 +6,9 @@
         </div>
         <div class="col-12 col-lg-10 offset-lg-1 page-content">
             <div class="directory-search">
-              <input id="search-input" onkeyup="if (event.key == 'Enter') loadNewSearch()" />
-              <button class="btn btn-primary" onclick="loadNewSearch()">#lang-search|capitalize#</button>
+              <input id="search-input" class="input-form" onkeyup="if (event.key == 'Enter') loadNewSearch()" />
+              <button class="data-list-btn" onclick="loadNewSearch()">#lang-search|capitalize#</button>
             </div>
-            <hr />
             <div id="directory-not-found" style="display: none">#lang-not-found|capitalize#</div>
             <div>
               <ul>#list-content#</ul>
