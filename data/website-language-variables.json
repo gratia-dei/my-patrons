@@ -1719,14 +1719,19 @@
         "pl": "Aby uchronić się przed utratą swoich plików z <em>wyzwaniami</em>, warto regularnie robić ich kopię bezpieczeństwa, zapisując je np. w innej lokalizacji na dysku, na innym dysku zewnętrznym, w chmurze czy nawet wysyłając te pliki jako załącznik na swój własny adres e-mail."
     },
 
+    "lang-search": {
+        "en": "search",
+        "pl": "szukaj"
+    },
+
     "lang-second-or-further-name": {
         "en": "second or further name",
         "pl": "drugie imię lub dalsza nazwa"
     },
 
-    "lang-search": {
-        "en": "search",
-        "pl": "szukaj"
+    "lang-see-more-in-indexes": {
+        "en": "see more in indexes",
+        "pl": "zobacz więcej w indeksach"
     },
 
     "lang-select": {

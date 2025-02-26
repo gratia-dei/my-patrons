@@ -3,6 +3,7 @@
 class CategoryContentBlock extends ContentBlock implements ContentBlockInterface
 {
     private const CATEGORIES_PATH = '/records/categories';
+    private const INDEXES_PATH = self::INDEXES_ROOT_PATH . '/categories';
 
     private const DESCRIPTION_INDEX = 'description';
     private const COLOR_INDEX = 'color';
@@ -37,9 +38,12 @@ class CategoryContentBlock extends ContentBlock implements ContentBlockInterface
         $fileData = $this->fileData;
         $textVariables = $this->textVariables;
 
+        $categoryName = $this->stripTags($translatedName);
+
         $variables = [];
         $variables['category-color'] = $fileData[self::MAIN_FILE_DATA_INDEX][self::COLOR_INDEX] ?? self::MISSING_CATEGORY_COLOR;
         $variables['category-name'] = $translatedName;
+        $variables['link-to-indexes'] = self::INDEXES_PATH . '/' . $this->getNameHash($categoryName);
 
         $mainContent = $this->getReplacedContent($mainContent, $variables);
 
