@@ -42,10 +42,14 @@ class FeastContentBlock extends ContentBlock implements ContentBlockInterface
 
         $fileData = $this->getConsolidatedFileData();
         $textVariables = $this->textVariables;
+        $path = $this->path;
+
+        $feastCode = $this->getFeastCodeFromPath($path);
+        $linksContent = $this->getLinksContent($fileData[self::LINKS_INDEX] ?? [], $recordContent);
 
         $variables = [];
         $variables['gallery'] = $this->getGalleryContent();
-        $variables['links'] = $this->getLinksContent($fileData[self::LINKS_INDEX] ?? [], $recordContent);
+        $variables['links'] = $this->addFeastAnchorsToLinksContent($linksContent, $feastCode);
 
         $mainContent = $this->getReplacedContent($mainContent, $variables);
 
@@ -77,5 +81,13 @@ class FeastContentBlock extends ContentBlock implements ContentBlockInterface
             ->prepare($this->path)
             ->getFullContent('')
         ;
+    }
+
+    private function getFeastCodeFromPath(string $path): string {
+        return preg_replace('~^.+/~', '', $path);
+    }
+
+    private function addFeastAnchorsToLinksContent(string $linksContent, string $feastCode): string {
+        return preg_replace('~("/.*)(' . self::RECORD_ID_WITH_NAME_EXTENSION_SEPARATOR . '.+)?(")~U', '\\1' . self::FEAST_ID_SEPARATOR . $feastCode . '\\2#' . $feastCode . '\\3', $linksContent);
     }
 }
