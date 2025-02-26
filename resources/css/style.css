@@ -278,6 +278,7 @@ img.modal-close-icon {
 
 .select-form-for-new-challenges,
 .select-form-for-notes,
+.select-form-for-dates,
 .select-form {
     width: 100%;
     max-width: 320px;
@@ -301,6 +302,11 @@ img.modal-close-icon {
 
 .select-form-for-new-challenges {
     max-width: 1000px;
+}
+
+.select-form-for-dates {
+    width: auto;
+    margin-bottom: 0px;
 }
 
 .input-form-for-notes,
@@ -1014,6 +1020,7 @@ a.button-3:hover {
     width: auto;
 }
 
+button.date-form-btn,
 button.load-btn,
 button.save-btn,
 button.add-btn,
@@ -1069,6 +1076,15 @@ button.tab-btn.active {
     color: var(--white);
     border: var(--color1) solid 3px;
     padding: 12px 18px 12px 18px !important;
+    background-image: none;
+}
+
+button.date-form-btn {
+    margin: 5px;
+    background-color: var(--color3);
+    color: var(--white);
+    border: none;
+    padding: 16px 18px 16px 18px !important;
     background-image: none;
 }
 
@@ -1660,6 +1676,26 @@ iframe {
 
 
 
+.form-error-message {
+  color: var(--color-red);
+  font-weight: bold;
+}
+
+.date-form-section, table.date-forms-table td {
+  width: auto;
+  margin: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--white);
+  background-color: var(--color2-transparent);
+  color: var(--color1);
+}
+
+.date-form-section {
+  text-align: center;
+}
 
 
 

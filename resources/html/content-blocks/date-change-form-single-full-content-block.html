@@ -1,12 +1,9 @@
-<!--prefactoring-->
 <div id="date-change-form-content">
   <input type="hidden" id="form-type" value="single-full" />
   <p>#lang-select-date|capitalize#:</p>
-  <button type="button" class="btn-my" onClick="goToPreviousFullDate()">&lt;&lt;&lt;</button>
-&nbsp;&nbsp;&nbsp;
-  <span class="form-section">
-#lang-year|capitalize#:
-    <select class="form-select-my" id="year-1000" onChange="clearFormErrorMessage(1)">
+  <div class="date-form-section">
+    <label class="form-select-label" for="year-1000">#lang-year|capitalize#:</label>
+    <select class="select-form-for-dates" id="year-1000" onChange="clearFormErrorMessage(1)">
       <option value="0">0</option>
       <option value="1">1</option>
       <option value="2">2</option>
@@ -18,7 +15,7 @@
       <option value="8">8</option>
       <option value="9">9</option>
     </select>
-    <select class="form-select-my" id="year-100" onChange="clearFormErrorMessage(1)">
+    <select class="select-form-for-dates" id="year-100" onChange="clearFormErrorMessage(1)">
       <option value="0">0</option>
       <option value="1">1</option>
       <option value="2">2</option>
@@ -30,7 +27,7 @@
       <option value="8">8</option>
       <option value="9">9</option>
     </select>
-    <select class="form-select-my" id="year-10" onChange="clearFormErrorMessage(1)">
+    <select class="select-form-for-dates" id="year-10" onChange="clearFormErrorMessage(1)">
       <option value="0">0</option>
       <option value="1">1</option>
       <option value="2">2</option>
@@ -42,7 +39,7 @@
       <option value="8">8</option>
       <option value="9">9</option>
     </select>
-    <select class="form-select-my" id="year-1" onChange="clearFormErrorMessage(1)">
+    <select class="select-form-for-dates" id="year-1" onChange="clearFormErrorMessage(1)">
       <option value="0">0</option>
       <option value="1">1</option>
       <option value="2">2</option>
@@ -54,8 +51,8 @@
       <option value="8">8</option>
       <option value="9">9</option>
     </select>
-&nbsp;#lang-month|capitalize#:
-    <select class="form-select-my" id="month-1" onChange="clearFormErrorMessage(1)">
+    <label class="form-select-label" for="month-1">#lang-month|capitalize#:</label>
+    <select class="select-form-for-dates" id="month-1" onChange="clearFormErrorMessage(1)">
       <option value="01">I</option>
       <option value="02">II</option>
       <option value="03">III</option>
@@ -69,8 +66,8 @@
       <option value="11">XI</option>
       <option value="12">XII</option>
     </select>
-  &nbsp;#lang-day|capitalize#:
-    <select class="form-select-my" id="day-1" onChange="clearFormErrorMessage(1)">
+    <label class="form-select-label" for="day-1">#lang-day|capitalize#:</label>
+    <select class="select-form-for-dates" id="day-1" onChange="clearFormErrorMessage(1)">
       <option value="01">01</option>
       <option value="02">02</option>
       <option value="03">03</option>
@@ -103,10 +100,12 @@
       <option value="30">30</option>
       <option value="31">31</option>
     </select>
-    <button type="button" class="btn-my" onClick="goToSelectedFullDate()">&gt;</button>
+    <button type="button" class="date-form-btn" onClick="goToSelectedFullDate()">#lang-select|capitalize#</button>
     <span class="form-error-message error-message" id="form-error-message-1"></span>
-  </span>
-&nbsp;&nbsp;&nbsp;
-  <button type="button" class="btn-my" onClick="goToNextFullDate()">&gt;&gt;&gt;</button>
+  </div>
+  <div class="date-form-section">
+    <button type="button" class="date-form-btn" onClick="goToPreviousFullDate()">#lang-previous-day|capitalize#</button>
+    <button type="button" class="date-form-btn" onClick="goToNextFullDate()">#lang-next-day|capitalize#</button>
+  </div>
 </div>
 <script src="/files/resources/js/dates-forms.js"></script>

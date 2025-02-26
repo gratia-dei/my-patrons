@@ -831,8 +831,8 @@
     },
 
     "lang-dates-multi-year-days-form-select-info": {
-        "en": "Choose the dates of birth and <strong>first reception</strong> of each sacrament by the <strong>chosen person</strong> to find out which Patrons he or she can become a <strong>Messenger</strong>:",
-        "pl": "Wybierz daty urodzenia i <strong>pierwszego przyjęcia</strong> każdego sakramentu przez <strong>wybraną osobę</strong>, aby dowiedzieć się, których Patronów może stać się ona <strong>Posłańcem</strong>:"
+        "en": "Choose the dates of birth and <strong>first reception</strong> of each sacrament by the <strong>chosen person</strong> to find out which Patrons he or she can become a <strong>Messenger</strong>",
+        "pl": "Wybierz daty urodzenia i <strong>pierwszego przyjęcia</strong> każdego sakramentu przez <strong>wybraną osobę</strong>, aby dowiedzieć się, których Patronów może stać się ona <strong>Posłańcem</strong>"
     },
 
     "lang-day": {
@@ -1399,6 +1399,11 @@
         "pl": "dalej"
     },
 
+    "lang-next-day": {
+        "en": "next day",
+        "pl": "następny dzień"
+    },
+
     "lang-new-challenge-created-successfully": {
         "en": "new challenge created successfully! Don't delay completing missing steps of its checklist.",
         "pl": "nowe wyzwanie zostało utworzone pomyślnie! Nie zwlekaj z wykonaniem brakujących kroków jego checklisty."
@@ -1563,6 +1568,11 @@
         "pl": "skala (PPI: piksele na cal)"
     },
 
+    "lang-previous-day": {
+        "en": "previous day",
+        "pl": "poprzedni dzień"
+    },
+
     "lang-project-initiative-info": {
         "en": "\"My Patrons\" is a project of the \"<a href=\"https://en.gratiadei.org\">Gratia Dei</a>\" initiative",
         "pl": "„My Patrons” jest jednym z projektów inicjatywy „<a href=\"https://pl.gratiadei.org\">Gratia Dei</a>”"
@@ -1610,6 +1620,10 @@
         "pl": "odśwież pola"
     },
 
+    "lang-date-source-reliable-death-anniversary": {
+        "en": "reliable death anniversary",
+        "pl": "wiarygodna rocznica śmierci"
+    },
     "lang-remove-challenge": {
         "en": "remove challenge",
         "pl": "usuń wyzwanie"
@@ -1713,6 +1727,11 @@
     "lang-search": {
         "en": "search",
         "pl": "szukaj"
+    },
+
+    "lang-select": {
+        "en": "select",
+        "pl": "wybierz"
     },
 
     "lang-select-date": {

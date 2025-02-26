@@ -1,21 +1,23 @@
-<!--prefactoring-->
 <div id="date-change-form-content">
   <input type="hidden" id="form-type" value="multi-year-days" />
   <p>#lang-dates-multi-year-days-form-select-info|capitalize#:</p>
-  <table class="forms-table">
+  <table class="date-forms-table">
     <tr>
       <td>
-        <strong>#lang-birth|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-1" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" disabled="disabled" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-1" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus(); this.checked = true;" />
+          <label class="form-check-label" for="activity-1">#lang-birth|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-1">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-1" type="checkbox" onChange="clearFormErrorMessage(1)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-1" onChange="clearFormErrorMessage(1)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-1" type="checkbox" role="switch" onChange="clearFormErrorMessage(1)" />
+            <label class="form-check-label" for="year-1"></label>
+          </div>
+          <label class="form-select-label" for="month-1">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-1" onChange="clearFormErrorMessage(1)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -29,8 +31,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-1" onChange="clearFormErrorMessage(1)">
+          <label class="form-select-label" for="day-1">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-1" onChange="clearFormErrorMessage(1)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -70,17 +72,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-baptism|capitalize-all#</strong>
-      </td>
-      <td>
-        <input id="activity-2" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-2" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-2">#lang-sacrament-baptism|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-2">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-2" type="checkbox" onChange="clearFormErrorMessage(2)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-2" onChange="clearFormErrorMessage(2)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-2" type="checkbox" role="switch" onChange="clearFormErrorMessage(2)" />
+            <label class="form-check-label" for="year-2"></label>
+          </div>
+          <label class="form-select-label" for="month-2">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-2" onChange="clearFormErrorMessage(2)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -94,8 +99,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-2" onChange="clearFormErrorMessage(2)">
+          <label class="form-select-label" for="day-2">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-2" onChange="clearFormErrorMessage(2)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -135,17 +140,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-confirmation|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-3" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-3" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-3">#lang-sacrament-confirmation|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-3">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-3" type="checkbox" onChange="clearFormErrorMessage(3)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-3" onChange="clearFormErrorMessage(3)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-3" type="checkbox" role="switch" onChange="clearFormErrorMessage(3)" />
+            <label class="form-check-label" for="year-3"></label>
+          </div>
+          <label class="form-select-label" for="month-3">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-3" onChange="clearFormErrorMessage(3)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -159,8 +167,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-3" onChange="clearFormErrorMessage(3)">
+          <label class="form-select-label" for="day-3">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-3" onChange="clearFormErrorMessage(3)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -200,17 +208,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-holy-communion|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-4" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-4" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-4">#lang-sacrament-holy-communion|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-4">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-4" type="checkbox" onChange="clearFormErrorMessage(4)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-4" onChange="clearFormErrorMessage(4)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-4" type="checkbox" role="switch" onChange="clearFormErrorMessage(4)" />
+            <label class="form-check-label" for="year-4"></label>
+          </div>
+          <label class="form-select-label" for="month-4">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-4" onChange="clearFormErrorMessage(4)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -224,8 +235,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-4" onChange="clearFormErrorMessage(4)">
+          <label class="form-select-label" for="day-4">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-4" onChange="clearFormErrorMessage(4)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -265,17 +276,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-penance|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-5" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-5" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-5">#lang-sacrament-penance|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-5">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-5" type="checkbox" onChange="clearFormErrorMessage(5)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-5" onChange="clearFormErrorMessage(5)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-5" type="checkbox" role="switch" onChange="clearFormErrorMessage(5)" />
+            <label class="form-check-label" for="year-5"></label>
+          </div>
+          <label class="form-select-label" for="month-5">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-5" onChange="clearFormErrorMessage(5)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -289,8 +303,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-5" onChange="clearFormErrorMessage(5)">
+          <label class="form-select-label" for="day-5">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-5" onChange="clearFormErrorMessage(5)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -330,17 +344,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-anointing-of-the-sick|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-6" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-6" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-6">#lang-sacrament-anointing-of-the-sick|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-6">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-6" type="checkbox" onChange="clearFormErrorMessage(6)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-6" onChange="clearFormErrorMessage(6)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-6" type="checkbox" role="switch" onChange="clearFormErrorMessage(6)" />
+            <label class="form-check-label" for="year-6"></label>
+          </div>
+          <label class="form-select-label" for="month-6">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-6" onChange="clearFormErrorMessage(6)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -354,8 +371,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-6" onChange="clearFormErrorMessage(6)">
+          <label class="form-select-label" for="day-6">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-6" onChange="clearFormErrorMessage(6)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -395,17 +412,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-holy-orders|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-7" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-7" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-7">#lang-sacrament-holy-orders|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-7">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-7" type="checkbox" onChange="clearFormErrorMessage(7)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-7" onChange="clearFormErrorMessage(7)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-7" type="checkbox" role="switch" onChange="clearFormErrorMessage(7)" />
+            <label class="form-check-label" for="year-7"></label>
+          </div>
+          <label class="form-select-label" for="month-7">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-7" onChange="clearFormErrorMessage(7)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -419,8 +439,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-7" onChange="clearFormErrorMessage(7)">
+          <label class="form-select-label" for="day-7">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-7" onChange="clearFormErrorMessage(7)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -460,17 +480,20 @@
 
     <tr>
       <td>
-        <strong>#lang-sacrament-marriage|capitalize-all#:</strong>
-      </td>
-      <td>
-        <input id="activity-8" type="checkbox" onChange="refreshMultiYearDaysFormStatus()" />
+        <div class="form-check form-switch form-check-inline">
+          <input class="form-check-input" id="activity-8" type="checkbox" role="switch" onChange="refreshMultiYearDaysFormStatus()" />
+          <label class="form-check-label" for="activity-8">#lang-sacrament-marriage|capitalize-all#</label>
+        </div>
       </td>
       <td>
         <div id="date-selection-8">
-&nbsp;#lang-leap-year|capitalize#:
-          <input id="year-8" type="checkbox" onChange="clearFormErrorMessage(8)" />
-&nbsp;#lang-month|capitalize#:
-          <select class="form-select-my" id="month-8" onChange="clearFormErrorMessage(8)">
+          <label class="form-check-label">#lang-leap-year|capitalize#:</label>
+          <div class="form-check form-switch form-check-inline">
+            <input class="form-check-input" id="year-8" type="checkbox" role="switch" onChange="clearFormErrorMessage(8)" />
+            <label class="form-check-label" for="year-8"></label>
+          </div>
+          <label class="form-select-label" for="month-8">#lang-month|capitalize#:</label>
+          <select class="select-form-for-dates" id="month-8" onChange="clearFormErrorMessage(8)">
             <option value="01">I</option>
             <option value="02">II</option>
             <option value="03">III</option>
@@ -484,8 +507,8 @@
             <option value="11">XI</option>
             <option value="12">XII</option>
           </select>
-&nbsp;#lang-day|capitalize#:
-          <select class="form-select-my" id="day-8" onChange="clearFormErrorMessage(8)">
+          <label class="form-select-label" for="day-8">#lang-day|capitalize#:</label>
+          <select class="select-form-for-dates" id="day-8" onChange="clearFormErrorMessage(8)">
             <option value="01">01</option>
             <option value="02">02</option>
             <option value="03">03</option>
@@ -525,7 +548,7 @@
 
     <tr>
       <td colspan="4" align="right">
-        <button type="button" class="btn-my" onClick="goToSelectedYearDays()">&gt;</button>
+        <button type="button" class="date-form-btn" onClick="goToSelectedYearDays()">#lang-select|capitalize#</button>
       </td<>
     </tr>
 
