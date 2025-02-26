@@ -6,7 +6,7 @@
         </div>
         <div class="col-12 col-lg-10 offset-lg-1 page-content">
             <div class="directory-search">
-              <input id="search-input" />
+              <input id="search-input" onkeyup="if (event.key == 'Enter') loadNewSearch()" />
               <button class="btn btn-primary" onclick="loadNewSearch()">#lang-search|capitalize#</button>
             </div>
             <hr />

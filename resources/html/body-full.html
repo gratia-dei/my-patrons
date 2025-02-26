@@ -48,7 +48,7 @@
                         </select>
                     </div>
                     <div class="col-12 d-flex justify-content-center">
-                        <input type="text" class="input-form" id="search" name="search" required="" maxlength="50">
+                        <input type="text" class="input-form" id="search" name="search" required="" maxlength="50" onkeyup="if (event.key == 'Enter') location = '/indexes/' + (document.getElementById('search-select').value ?? '') + '?q=' + document.getElementById('search').value">
                     </div>
                     <div class="col-10 offset-1 d-flex justify-content-center">
                         <button type="button" class="modal-bt" onclick="location = '/indexes/' + (document.getElementById('search-select').value ?? '') + '?q=' + document.getElementById('search').value">#lang-search|capitalize#</button>
