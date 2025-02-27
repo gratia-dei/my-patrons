@@ -3,6 +3,7 @@
 class ForenameContentBlock extends ContentBlock implements ContentBlockInterface
 {
     private const FORENAMES_PATH = '/records/forenames';
+    private const INDEXES_PATH = self::INDEXES_ROOT_PATH . '/forenames';
 
     private const NAMES_INDEX = 'names';
 
@@ -36,8 +37,13 @@ class ForenameContentBlock extends ContentBlock implements ContentBlockInterface
         $fileData = $this->fileData;
         $textVariables = $this->textVariables;
 
-        //$variables = [];
-        //$mainContent = $this->getReplacedContent($mainContent, $variables);
+        $forenameName = $this->stripTags($translatedName);
+
+        $variables = [];
+        $variables['forename'] = $translatedName;
+        $variables['link-to-indexes'] = self::INDEXES_PATH . '/' . $this->getNameHash($forenameName);
+
+        $mainContent = $this->getReplacedContent($mainContent, $variables);
 
         return $this->getReplacedContent($mainContent, $textVariables, true);
     }
