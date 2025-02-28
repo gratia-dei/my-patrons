@@ -124,6 +124,11 @@
         "pl": "po"
     },
 
+    "lang-anniversary": {
+        "en": "anniversary",
+        "pl": "rocznica"
+    },
+
     "lang-around": {
         "en": "around",
         "la": "circa",
@@ -133,6 +138,11 @@
     "lang-back": {
         "en": "back",
         "pl": "wróć"
+    },
+
+    "lang-basic-data": {
+        "en": "basic data",
+        "pl": "dane podstawowe"
     },
 
     "lang-beatification": {
@@ -777,6 +787,16 @@
     "lang-dates": {
         "en": "dates",
         "pl": "daty"
+    },
+
+    "lang-date-source-anniversary": {
+        "en": "Anniversary",
+        "pl": "Rocznica"
+    },
+
+    "lang-date-source-reliable-death-anniversary": {
+        "en": "reliable death anniversary",
+        "pl": "wiarygodna rocznica śmierci"
     },
 
     "lang-date-source-mr-1956": {
@@ -1620,10 +1640,6 @@
         "pl": "odśwież pola"
     },
 
-    "lang-date-source-reliable-death-anniversary": {
-        "en": "reliable death anniversary",
-        "pl": "wiarygodna rocznica śmierci"
-    },
     "lang-remove-challenge": {
         "en": "remove challenge",
         "pl": "usuń wyzwanie"
@@ -1776,6 +1792,11 @@
 
     "lang-source-link": {
         "en": "https://source.mypatrons.org"
+    },
+
+    "lang-sources": {
+        "en": "sources",
+        "pl": "źródła"
     },
 
     "lang-success": {

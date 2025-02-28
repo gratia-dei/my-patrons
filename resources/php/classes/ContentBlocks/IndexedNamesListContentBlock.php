@@ -54,6 +54,7 @@ class IndexedNamesListContentBlock extends ContentBlock implements ContentBlockI
         $variables = [
             'records' => $contents,
         ];
+
         return $this->getReplacedContent($mainContent, $variables);
     }
 

@@ -400,102 +400,12 @@ footer {
   text-align: center;
 }
 
-.record-type-elements-list-item, .indexed-name-list-item {
-  width: auto;
-  min-width: 20px;
-  height: 20px;
-  margin: 0px;
-  padding: 3px;
-  border-radius: 5px;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #000000;
-  background-color: #FFFFFF;
-  color: #000000;
-}
-.category-color {
-  border-radius: 50px;
-  font-size: 25px;
-}
-
-.center {
-  text-align: center;
-}
 
 
 
 
-.svg-image {
-  width: 30px;
-  height: 30px;
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%); /* #FFFFFF */
-}
-a .svg-image {
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%); /* #FFFFFF */
-}
-a:hover .svg-image {
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%); /* #FFFFFF */
-}
-main a .svg-image {
-  filter: brightness(0) saturate(100%) invert(10%) sepia(98%) saturate(5907%) hue-rotate(177deg) brightness(96%) contrast(103%); /* #006464 */
-}
-main a:hover .svg-image {
-  filter: brightness(0) saturate(100%) invert(10%) sepia(98%) saturate(5907%) hue-rotate(177deg) brightness(96%) contrast(103%); /* #006464 */
-}
-button .svg-image {
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%); /* #FFFFFF */
-}
-.error-message .svg-image {
-  filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(24%) hue-rotate(114deg) brightness(108%) contrast(108%); /* #FFFFFF */
-}
-.challenge-success-status-icon-todo .svg-image {
-  filter: brightness(0) saturate(100%) invert(56%) sepia(34%) saturate(3434%) hue-rotate(3deg) brightness(100%) contrast(101%); /* #FA8901 */
-}
-.challenge-success-status-icon-aborted .svg-image {
-  filter: brightness(0) saturate(100%) invert(11%) sepia(98%) saturate(6687%) hue-rotate(17deg) brightness(90%) contrast(121%); /* #DD0000 */
-}
-.challenge-success-status-icon-waiting .svg-image {
-  filter: brightness(0) saturate(100%) invert(10%) sepia(100%) saturate(6840%) hue-rotate(247deg) brightness(77%) contrast(139%); /* #0000DD */
-}
-.challenge-success-status-icon-done .svg-image {
-  filter: brightness(0) saturate(100%) invert(29%) sepia(48%) saturate(2473%) hue-rotate(95deg) brightness(103%) contrast(107%); /* #00FF00 */
-}
-
-.btn-sm .svg-image {
-  width: 20px;
-  height: 20px;
-}
 
 
-
-.navbar-toggler {
-  border-color: white !important;
-}
-.navbar-brand {
-  color: white !important;
-  font-size: 2em;
-  font-weight: bold;
-  vertical-align: top;
-}
-
-.nav-link {
-  font-weight: bold;
-}
-li.nav-item > a {
-  color: white !important;
-}
-li.nav-item > a:hover {
-  color: white !important;
-}
-
-#nav-challenges {
-  overflow-x: scroll;
-}
-
-
-.no-wrap {
-  white-space: pre;
-}
 
 .image-change-icon {
   max-height: 100px;

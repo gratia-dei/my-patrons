@@ -7,6 +7,7 @@
     --color4: #5A5A5A;
     --white: #ffffff;
     --black: #000000;
+    --yellow: yellow;
     --red: red;
     --gray1: #f1f1f1;
     --gray2: #e6e6e6;
@@ -17,6 +18,8 @@
     --Regular: 400;
     --SemiBold: 500;
     --Bold: 700;
+
+    --active-record-color: var(--yellow);
 
     --status-error: #FBBABA;
     --status-warning: #F5FBBA;
@@ -485,6 +488,14 @@ img.section-1-img {
     border: var(--color3) 2px solid !important;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.section-line-for-patron {
+    display: block;
+    width: 100%;
+    border: var(--color2) 2px solid !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* --------------------------- END Section 1 --------------------------- */
@@ -1381,6 +1392,88 @@ thead {
     background: var(--gray4);
 }
 
+.patron-main-data-table {
+    table-layout: fixed;
+    width: 100%;
+    border: none;
+}
+.patron-main-data-table td {
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.patron-main-data-table td:nth-child(odd):after {
+    content: ":";
+}
+.patron-main-data-table td:nth-child(odd) {
+    font-weight: var(--Bold);
+    text-align: right;
+}
+
+
+
+.data-links-record-main-table {
+    width: 100%;
+}
+
+.data-links-record-main-table td {
+    padding: 10px;
+    border: none;
+}
+
+.data-links-record-table {
+    width: 100%;
+    border: none;
+}
+
+.data-links-record-table th {
+    background-color: var(--color1);
+    color: var(--white);
+    border: none;
+    padding: 15px;
+    padding-bottom: 0px;
+}
+
+.data-links-record-table td {
+    background-color: var(--color1);
+    color: var(--white);
+    border: none;
+    padding: 10px;
+}
+
+.data-links-record-table-row-table {
+    width: 100%;
+}
+
+.data-links-record-table-row-table th {
+    background-color: var(--color3-light);
+    width: 10px;
+}
+
+.data-links-record-table-row-table th .breadcrumb {
+    padding: 5px;
+    margin: 0px;
+}
+
+.data-links-record-table-row-table td {
+    width: 100%;
+    background-color: var(--white);
+    color: var(--color1);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.data-links-record-title {
+    /*background-color: var(--color2) !important;*/
+    padding: 5px;
+    margin: 0px;
+}
+
+.data-links-list-title {
+    background-color: var(--color2-transparent);
+}
 
 /* ----------------------------- Tabs ------------------------------- */
 
@@ -1699,8 +1792,6 @@ iframe {
 .date-form-section {
   text-align: center;
 }
-
-
 .category-color {
   display: inline-block;
 
@@ -1719,3 +1810,29 @@ iframe {
   padding: 0px;
 }
 
+
+.record-type-elements-list-item,
+.indexed-name-list-item {
+  display: inline-block;
+
+  margin-top: 1px;
+  margin-bottom: 1px;
+  padding: 5px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: var(--color1);
+  background-color: var(--color1);
+
+  font-weight: var(--Bold);
+  font-size: 15px;
+}
+
+.record-type-elements-list-item a,
+.indexed-name-list-item a {
+  text-decoration: none;
+}
+
+.record-active {
+  background-color: var(--active-record-color);
+}

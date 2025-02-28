@@ -1,30 +1,72 @@
-<!--prefactoring-->
-<div id="patron-content-block">
-  <span class="headline headline-red">#names|first-element#</span>
-  <br />
-  <span class="headline headline-small">#names|without-first-element|comma-separated-list#</span>
-  <hr />
-
-  <ul>
-    <li><b>#lang-categories#:</b> #categories|comma-separated-list#</li>
-    <li><b>#lang-date-of-birth#:</b> #date-of-birth|comma-separated-list#</li>
-    <li><b>#lang-date-of-death#:</b> #date-of-death|comma-separated-list#</li>
-    <li><b>#lang-beatification#:</b> #beatification#</li>
-    <li><b>#lang-canonization#:</b> #canonization#</li>
-    <li><b>#lang-other-martyrology-days#:</b> #other-martyrology-days|comma-separated-list#</li>
-    <li><b>#lang-other-memorial-days#:</b> #other-memorial-days|comma-separated-list#</li>
-    <li><b>#lang-order#:</b> #order|comma-separated-list#</li>
-    <li><b>#lang-order-founder#:</b> #order-founder|comma-separated-list#</li>
-    <li><b>#lang-forenames#</b>:</b> #forenames|comma-separated-list#</li>
-    <li><b>#lang-surnames#</b>:</b> #surnames#</li>
-    <li><b>#lang-epithets#</b>:</b> #epithets#</li>
-  </ul>
-
-  <hr />
-#gallery#
-  <hr />
-
-#data-links-content-block#
-
-#feasts-items#
+<div id="patron-content-block" class="container">
+    <h1>#names|first-element#</h1>
+    <p>#names|without-first-element|comma-separated-list#</p>
+    <div class="section-line-for-patron"></div>
+    <h2>#lang-basic-data|capitalize#:</h2>
+    <table class="patron-main-data-table">
+        <tr>
+            <td>#lang-forenames#</td>
+            <td>#forenames|comma-separated-list#</td>
+        </tr>
+        <tr>
+            <td>#lang-surnames#</td>
+            <td>#surnames#</td>
+        </tr>
+        <tr>
+            <td>#lang-epithets#</td>
+            <td>#epithets#</td>
+        </tr>
+        <tr>
+            <td>#lang-categories#</td>
+            <td>#categories|comma-separated-list#</td>
+        </tr>
+    </table>
+    <div class="section-line-for-patron"></div>
+    <table class="patron-main-data-table">
+        <tr>
+            <td>#lang-date-of-birth#</td>
+            <td>#date-of-birth|comma-separated-list#</td>
+        </tr>
+        <tr>
+            <td>#lang-date-of-death#</td>
+            <td>#date-of-death|comma-separated-list#</td>
+        </tr>
+        <tr>
+            <td>#lang-beatification#</td>
+            <td>#beatification#</td>
+        </tr>
+        <tr>
+            <td>#lang-canonization#</td>
+            <td>#canonization#</td>
+        </tr>
+        <tr>
+            <td>#lang-anniversary#</td>
+            <td>#anniversaries-days|comma-separated-list#</td>
+        </tr>
+        <tr>
+            <td>#lang-other-martyrology-days#</td>
+            <td>#other-martyrology-days|comma-separated-list#</td>
+        </tr>
+        <tr>
+            <td>#lang-other-memorial-days#</td>
+            <td>#other-memorial-days|comma-separated-list#</td>
+        </tr>
+    </table>
+    <!--<div class="section-line-for-patron"></div>-->
+    <!--<table class="patron-main-data-table">-->
+        <!--<tr>-->
+            <!--<td>#lang-order#</td>-->
+            <!--<td>#lang-coming-soon# ...</td>-->
+        <!--</tr>-->
+        <!--<tr>-->
+            <!--<td>#lang-order-founder#</td>-->
+            <!--<td>#lang-coming-soon# ...</td>-->
+        <!--</tr>-->
+    <!--</table>-->
+    <!--<div class="section-line-for-patron"></div>-->
+    <div style="display: none">#gallery#</div>
+    <div class="section-line-for-patron"></div>
+    <h2>#lang-sources|capitalize#:</h2>
+    <div>#data-links-content-block#</div>
+    <div>#feasts-items#</div>
 </div>
