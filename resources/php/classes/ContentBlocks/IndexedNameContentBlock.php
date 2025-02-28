@@ -36,7 +36,7 @@ class IndexedNameContentBlock extends ContentBlock implements ContentBlockInterf
         $fileData = $this->fileData;
 
         $nameTypeVariableName = self::NAME_TYPES[basename(dirname($path))] ?? self::INVALID_SIGN;
-        $nameTypeVariable = self::VARIABLE_NAME_SIGN . $nameTypeVariableName . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
+        $nameTypeVariable = self::VARIABLE_NAME_SIGN . $nameTypeVariableName . self::VARIABLE_NAME_SIGN;
 
         $variables = [
             'type' => $nameTypeVariable,

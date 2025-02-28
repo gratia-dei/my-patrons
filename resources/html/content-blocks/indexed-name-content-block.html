@@ -1,16 +1,10 @@
-<!--prefactoring-->
-<div id="indexed-content-block">
-  <span class="headline headline-small">#type#:</span>
-  <span class="headline headline-red">#name#</span>
-  <span class="headline headline-small headline-gray">(#lang-language#: #language-codes|comma-separated-list#)</span>
-  <hr />
-#lang-translations|capitalize#:
-  <ul>
-#translations#
-  </ul>
-  <hr />
-#lang-linkages|capitalize#:
-  <ul>
-#links#
-  </ul>
+<div id="indexed-name-content-block" class="container">
+    <h1>#name# (#type#)</h1>
+    <p>(#lang-language#: #language-codes|comma-separated-list#)</p>
+
+    <h2>#lang-translations|capitalize#</h2>
+    <ul>#translations#</ul>
+
+    <h2>#lang-linkages|capitalize#</h2>
+    <ul>#links#</ul>
 </div>
