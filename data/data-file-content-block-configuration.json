@@ -3,12 +3,12 @@
     "/records/forenames/": "ForenameContentBlock",
     "/records/feasts/": "FeastContentBlock",
     "/records/god/": "PatronContentBlock",
-    "/records/liturgical-calendar-feasts/": "LiturgicalCalendarFeastsContentBlock",
     "/records/patrons/": "PatronContentBlock",
 
     "/indexes/": "IndexedNameContentBlock",
 
     "/sources/popes/": "PopesContentBlock",
+    "/sources/other-patrons-and-feasts/": "OtherPatronsAndFeastsContentBlock",
 
     "/sources/martyrologium-romanum/2004/editio/": "RomanMartyrologyEditionContentBlock",
     "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesTypeAContentBlock",

@@ -110,15 +110,6 @@
     },
 
     {
-        "class": "GenerateDateDataFileProcedure",
-        "params": ["liturgical-calendar-feasts", "movable-dates-file", "/records/liturgical-calendar-feasts", "feasts", "/generated/dates-feasts-movable"]
-    },
-    {
-        "class": "GenerateDateDataFileProcedure",
-        "params": ["liturgical-calendar-feasts", "movable-dates-file", "/records/liturgical-calendar-feasts", "feasts", "/generated/dates-feasts-immovable"]
-    },
-
-    {
         "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
         "params": ["/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/i-sancti-cum-nomine-descripti/", "la"]
     },

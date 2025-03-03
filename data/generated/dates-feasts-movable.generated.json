@@ -132,23 +132,6 @@
         }
     },
     "getMissingDate|0": {
-        "records/god/tri#mis": {
-            "name": {
-                "pl": "Trójca Przenajświętsza (Miłosierdzie Boże)"
-            },
-            "sources": {
-                "liturgical-calendar-feasts": "#MIS"
-            }
-        },
-        "records/patrons/maria/naz#mrp": {
-            "name": {
-                "en": "Mary, mother of Jesus (The Most Holy Virgin Mary, Queen of Poland)",
-                "pl": "Maria z Nazaretu (Najświętsza Maryja Panna Królowa Polski)"
-            },
-            "sources": {
-                "liturgical-calendar-feasts": "#MRP"
-            }
-        },
         "records/god/fil#aso": {
             "name": {
                 "la": "Iesus Christus (Octava Ascensionis Iesu Christi)",

@@ -835,11 +835,6 @@
         "pl": "Martyrologium Rzymskie 2004 święta ruchome"
     },
 
-    "lang-date-source-liturgical-calendar-feasts": {
-        "en": "liturgical calendar feasts",
-        "pl": "święta z kalendarza liturgicznego"
-    },
-
     "lang-date-source-other-martyrology-days": {
         "en": "Roman Martyrology",
         "pl": "Martyrologium Rzymskie"
@@ -848,6 +843,11 @@
     "lang-date-source-other-memorial-days": {
         "en": "other memorial days",
         "pl": "inne dni wspomnienia"
+    },
+
+    "lang-date-source-other-patrons-and-feasts": {
+        "en": "other Patrons and feasts",
+        "pl": "pozostali Patroni i święta"
     },
 
     "lang-dates-multi-year-days-form-select-info": {
@@ -1499,6 +1499,11 @@
     "lang-other-memorial-days": {
         "en": "other memorial days",
         "pl": "inne dni wspomnienia"
+    },
+
+    "lang-other-patrons-and-feasts": {
+        "en": "other Patrons and feasts",
+        "pl": "pozostali Patroni i święta"
     },
 
     "lang-our-initiatives": {

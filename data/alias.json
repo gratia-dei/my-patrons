@@ -13,10 +13,11 @@
     "feasts": "/records/feasts/",
     "forenames": "/records/forenames/",
     "god": "/records/god/",
-    "liturgical-calendar-feasts": "/records/liturgical-calendar-feasts",
     "patrons": "/records/patrons/",
 
     "popes": "/sources/popes",
+    "other-patrons-and-feasts": "/sources/other-patrons-and-feasts",
+
     "mr-2004": "/sources/martyrologium-romanum/2004/martyrologium-romanum/",
     "mr-2004-editio": "/sources/martyrologium-romanum/2004/editio",
     "mr-2004-index": "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/",
