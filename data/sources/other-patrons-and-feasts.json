@@ -3,20 +3,20 @@
         "base": "getMissingDate",
         "move": 0,
         "name": {
-            "pl": "[1|Miłosierdzie Boże]"
+            "pl": "[1|Trójca Przenajświętsza (Miłosierdzie Boże)]"
         },
         "description": {
-            "pl": "pierwsza niedziela po Zmartwychwstaniu (kalendarz rzymski)"
+            "pl": "Rzymski kalendarz liturgiczny: pierwsza niedziela po Zmartwychwstaniu."
         }
     },
     "MRP": {
         "base": "getMissingDate",
         "move": 0,
         "name": {
-            "pl": "[1|Najświętsza Maryja Panna Królowa Polski]"
+            "pl": "[1|Maria z Nazaretu (Najświętsza Maryja Panna Królowa Polski)]"
         },
         "description": {
-            "pl": "3 maja (kalendarz Polski)"
+            "pl": "Kalendarz liturgiczny Polski: 3 maja."
         }
     }
 }
