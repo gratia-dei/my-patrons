@@ -637,6 +637,14 @@ img.section-3-img {
     transition: all 0.25s;
 }
 
+.data-links-list-title .breadcrumb,
+.data-links-record-name-with-path p,
+.data-links-record-name-with-path .breadcrumb {
+    margin: 0px;
+    padding: 0px;
+    white-space: normal;
+}
+
 img.home {
     width: 19px;
 }
@@ -659,11 +667,13 @@ img.home {
 }
 
 .hint-content a,
+.source-content a,
 .challenges-description a,
 .page-content a {
     color: var(--color3);
 }
 
+.source-content ul,
 .challenges-description ul,
 .page-content ul {
     padding-left: 0px;
@@ -671,6 +681,7 @@ img.home {
 }
 
 
+.source-content li,
 .challenges-description li,
 .page-content li {
     font-size: 14px;
@@ -1680,6 +1691,7 @@ iframe {
   width: 100%;
 }
 
+.source-content,
 .challenges-description {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1692,6 +1704,8 @@ iframe {
   margin-bottom: 0px;
 }
 
+.source-content p,
+.source-content li,
 .challenges-description p,
 .challenges-description li
 {
@@ -1835,4 +1849,16 @@ iframe {
 
 .record-active {
   background-color: var(--active-record-color);
+}
+
+
+.copyright-hidden-content-info {
+  color: gray;
+  font-weight: var(--Bold);
+  font-style: italic;
+}
+.deleted-record-info {
+  color: gray;
+  font-weight: var(--Bold);
+  font-style: italic;
 }

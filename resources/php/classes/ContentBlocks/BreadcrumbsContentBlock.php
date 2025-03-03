@@ -9,7 +9,7 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
 
     private const MAIN_PAGE_ICON = '<img class="home" src="/files/resources/svg/home.svg">';
     private const FULL_CONTENT_WRAPPER_PREFIX = '<ol>';
-    private const FULL_CONTENT_WRAPPER_SUFFIX = '</ul>';
+    private const FULL_CONTENT_WRAPPER_SUFFIX = '</ol>';
     private const DATA_VARIABLE = self::VARIABLE_NAME_SIGN . 'lang-data' . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
 
     private const BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS = [
@@ -154,7 +154,9 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
             'name' => "#$anchor",
         ];
 
-        return $this->getReplacedContent($activeLinkContent, $variables);
+        $linkContent = $this->getReplacedContent($activeLinkContent, $variables);
+
+        return self::FULL_CONTENT_WRAPPER_PREFIX . $linkContent . self::FULL_CONTENT_WRAPPER_SUFFIX;
     }
 
     private function getTidyPath(string $path): string

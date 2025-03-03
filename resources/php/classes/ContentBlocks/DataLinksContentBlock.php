@@ -5,8 +5,7 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
     private const DATA_LINKS_FIELD_NAME = 'data-links';
 
     private const LIST_PATH_NAME = '';
-    private const RECORD_PATH_NAME = self::VARIABLE_NAME_SIGN . 'lang-resource' . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
-    private const RECORD_NAME = self::VARIABLE_NAME_SIGN . 'lang-position' . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
+    private const RECORD_PATH_NAME = '';
 
     private $data = [];
     private $pathData = [];
@@ -94,7 +93,7 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
                 }
 
                 $recordName = self::RECORD_PATH_NAME;
-                $recordTitle = $this->getTranslatedNameForPath($recordName, $fullPath, $mainPath);
+                $recordResource = $this->getTranslatedNameForPath($recordName, $fullPath, $mainPath);
                 $recordIdLink = $this->getActiveBreadcrumbsLink($fullPath, $recordId);
                 $recordContent = (new $contentBlockClass())->prepare($fullPath)->getRecordContent($recordId);
 
@@ -102,7 +101,8 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
                 $recordContent = str_replace(self::RECORD_ACTIVENESS_CLASS_ACTIVE, self::RECORD_ACTIVENESS_CLASS_INACTIVE, $recordContent);
 
                 $variables = [
-                    'record-title' => "$recordTitle | " . self::RECORD_NAME . ": $recordIdLink",
+                    'record-resource' => $recordResource,
+                    'record-position' => $recordIdLink,
                     'record-content' => $recordContent,
                 ];
                 $listContent .= $this->getReplacedContent($recordContentItem, $variables);
