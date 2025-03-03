@@ -34,7 +34,7 @@
   "feasts": {
     "mis": {
       "data-links": {
-        "other-patrons-and-feasts": ["1:#MIS"]
+        "not-in-mr": ["1:#MIS"]
       }
     },
     "tri": {

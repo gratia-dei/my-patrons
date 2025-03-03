@@ -166,7 +166,7 @@
     },
     "mrp": {
       "data-links": {
-        "other-patrons-and-feasts": ["1:#MRP"]
+        "not-in-mr": ["1:#MRP"]
       }
     },
     "civ": {

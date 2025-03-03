@@ -845,9 +845,9 @@
         "pl": "inne dni wspomnienia"
     },
 
-    "lang-date-source-other-patrons-and-feasts": {
-        "en": "other Patrons and feasts",
-        "pl": "pozostali Patroni i święta"
+    "lang-date-source-patrons-and-feasts-not-included-in-the-roman-martyrology": {
+        "en": "Patrons and feasts not included in the Roman Martyrology",
+        "pl": "Patroni i święta spoza Martyrologium Rzymskiego"
     },
 
     "lang-dates-multi-year-days-form-select-info": {
@@ -1501,9 +1501,9 @@
         "pl": "inne dni wspomnienia"
     },
 
-    "lang-other-patrons-and-feasts": {
-        "en": "other Patrons and feasts",
-        "pl": "pozostali Patroni i święta"
+    "lang-patrons-and-feasts-not-included-in-the-roman-martyrology": {
+        "en": "Patrons and feasts not included in the Roman Martyrology",
+        "pl": "Patroni i święta spoza Martyrologium Rzymskiego"
     },
 
     "lang-our-initiatives": {

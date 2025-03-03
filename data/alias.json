@@ -16,7 +16,7 @@
     "patrons": "/records/patrons/",
 
     "popes": "/sources/popes",
-    "other-patrons-and-feasts": "/sources/other-patrons-and-feasts",
+    "not-in-mr": "/sources/patrons-and-feasts-not-included-in-the-roman-martyrology",
 
     "mr-2004": "/sources/martyrologium-romanum/2004/martyrologium-romanum/",
     "mr-2004-editio": "/sources/martyrologium-romanum/2004/editio",

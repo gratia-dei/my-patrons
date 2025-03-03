@@ -1,6 +1,6 @@
 <?php
 
-class OtherPatronsAndFeastsContentBlock extends ContentBlock implements ContentBlockInterface
+class PatronsAndFeastsNotIncludedInTheRomanMartyrologyContentBlock extends ContentBlock implements ContentBlockInterface
 {
     private const BASE_INDEX = 'base';
     private const MOVE_INDEX = 'move';
@@ -13,7 +13,7 @@ class OtherPatronsAndFeastsContentBlock extends ContentBlock implements ContentB
 
     public function prepare(string $path): ContentBlock
     {
-        $recordContent = $this->getOriginalHtmlFileContent('items/other-patrons-and-feasts-item.html');
+        $recordContent = $this->getOriginalHtmlFileContent('items/patrons-and-feasts-not-included-in-the-roman-martyrology-item.html');
 
         $this->prepareConsolidatedDataFilesArray($path);
 
@@ -32,7 +32,7 @@ class OtherPatronsAndFeastsContentBlock extends ContentBlock implements ContentB
 
     public function getFullContent(string $translatedName): string
     {
-        $contentBlockContent = $this->getOriginalHtmlFileContent('content-blocks/other-patrons-and-feasts-content-block.html');
+        $contentBlockContent = $this->getOriginalHtmlFileContent('content-blocks/patrons-and-feasts-not-included-in-the-roman-martyrology-content-block.html');
         $mainFileData = $this->getMainFileData();
 
         $recordsContent = '';
@@ -41,8 +41,8 @@ class OtherPatronsAndFeastsContentBlock extends ContentBlock implements ContentB
         }
 
         $variables = [
-            'feasts-title' => $translatedName,
-            'feasts-items-content' => $recordsContent,
+            'title' => $translatedName,
+            'items-content' => $recordsContent,
         ];
         $result = $this->getReplacedContent($contentBlockContent, $variables);
 
@@ -53,8 +53,8 @@ class OtherPatronsAndFeastsContentBlock extends ContentBlock implements ContentB
     {
         $variables = [
             'record-id' => $recordId,
-            'feast-name' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'name' . self::VAR_SUFFIX . mb_strtolower($recordId) . self::VARIABLE_NAME_SIGN,
-            'feast-description' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'description' . self::VAR_SUFFIX . mb_strtolower($recordId) . self::VARIABLE_NAME_SIGN,
+            'name' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'name' . self::VAR_SUFFIX . mb_strtolower($recordId) . self::VARIABLE_NAME_SIGN,
+            'description' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'description' . self::VAR_SUFFIX . mb_strtolower($recordId) . self::VARIABLE_NAME_SIGN,
             'record-activeness-class' => $this->getRecordActivenessClass($recordId),
         ];
         $content = $this->getReplacedContent($this->recordContent, $variables);
