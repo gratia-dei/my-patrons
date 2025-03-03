@@ -3,5 +3,10 @@
         "la": "Martyrologium Romanum",
         "en": "Roman Martyrology",
         "pl": "Martyrologium Rzymskie"
+    },
+    "popes": {
+        "en": "Popes",
+        "la": "Papae",
+        "pl": "Papieże"
     }
 }

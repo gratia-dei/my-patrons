@@ -5,9 +5,10 @@
     "/records/god/": "PatronContentBlock",
     "/records/liturgical-calendar-feasts/": "LiturgicalCalendarFeastsContentBlock",
     "/records/patrons/": "PatronContentBlock",
-    "/records/popes/": "PopesContentBlock",
 
     "/indexes/": "IndexedNameContentBlock",
+
+    "/sources/popes/": "PopesContentBlock",
 
     "/sources/martyrologium-romanum/2004/editio/": "RomanMartyrologyEditionContentBlock",
     "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesTypeAContentBlock",

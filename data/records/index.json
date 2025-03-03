@@ -1,36 +1,31 @@
 {
-    "categories": {
-        "en": "Categories",
-        "la": "Categoriae",
-        "pl": "Kategorie"
-    },
-    "feasts": {
-        "en": "Feasts",
-        "la": "Festa",
-        "pl": "Święta"
-    },
-    "forenames": {
-        "en": "Forenames",
-        "la": "Praenomina",
-        "pl": "Imiona"
-    },
     "god": {
         "en": "God",
         "la": "Deus",
         "pl": "Bóg"
-    },
-    "liturgical-calendar-feasts": {
-        "en": "Liturgical calendar feasts",
-        "pl": "Święta z kalendarza liturgicznego"
     },
     "patrons": {
         "en": "Patrons",
         "la": "Patroni",
         "pl": "Patroni"
     },
-    "popes": {
-        "en": "Popes",
-        "la": "Papae",
-        "pl": "Papieże"
+    "feasts": {
+        "en": "Feasts",
+        "la": "Festa",
+        "pl": "Święta"
+    },
+    "liturgical-calendar-feasts": {
+        "en": "Liturgical calendar feasts",
+        "pl": "Święta z kalendarza liturgicznego"
+    },
+    "categories": {
+        "en": "Categories",
+        "la": "Categoriae",
+        "pl": "Kategorie"
+    },
+    "forenames": {
+        "en": "Forenames",
+        "la": "Praenomina",
+        "pl": "Imiona"
     }
 }
