@@ -5,10 +5,11 @@
     --color3: #F08719;
     --color3-light: #FEF3E8;
     --color4: #5A5A5A;
-    --white: #ffffff;
-    --black: #000000;
+    --white: white;
+    --black: black;
     --yellow: yellow;
     --red: red;
+    --gray: gray;
     --gray1: #f1f1f1;
     --gray2: #e6e6e6;
     --gray3: #585858;
@@ -494,6 +495,14 @@ img.section-1-img {
     display: block;
     width: 100%;
     border: var(--color2) 2px solid !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section-line-for-roman-martyrology {
+    display: block;
+    width: 100%;
+    border: var(--color4) 2px solid !important;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -1861,4 +1870,18 @@ iframe {
   color: gray;
   font-weight: var(--Bold);
   font-style: italic;
+}
+
+.roman-martyrology-black-color a,
+.roman-martyrology-black-color {
+  color: var(--black);
+}
+
+.roman-martyrology-red-color a,
+.roman-martyrology-red-color {
+  color: var(--red);
+}
+
+.roman-martyrology-gray-color {
+  color: var(--gray);
 }
