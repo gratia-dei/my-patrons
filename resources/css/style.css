@@ -1885,3 +1885,6 @@ iframe {
 .roman-martyrology-gray-color {
   color: var(--gray);
 }
+.roman-martyrology-first-letter {
+  font-size: 45px;
+}
