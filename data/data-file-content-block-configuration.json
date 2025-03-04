@@ -11,17 +11,17 @@
     "/sources/patrons-and-feasts-not-included-in-the-roman-martyrology/": "PatronsAndFeastsNotIncludedInTheRomanMartyrologyContentBlock",
 
     "/sources/martyrologium-romanum/2004/editio/": "RomanMartyrologyEditionContentBlock",
-    "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesTypeAContentBlock",
-    "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/": "RomanMartyrologyIndexTypeAContentBlock",
-    "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus/": "RomanMartyrologyMovableFeastsTypeAContentBlock",
+    "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince2001ContentBlock",
+    "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus/": "RomanMartyrologyMovableFeastsSince2001ContentBlock",
 
     "/sources/martyrologium-romanum/1956/editio/": "RomanMartyrologyEditionContentBlock",
-    "/sources/martyrologium-romanum/1956/martyrologium-romanum/": "RomanMartyrologyDayElogiesTypeBContentBlock",
-    "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/": "RomanMartyrologyIndexTypeAContentBlock",
-    "/sources/martyrologium-romanum/1956/ii-index-festorum-quae-non-sunt-sanctorum-natalitia-et-officiorum-quae-elogio-sunt-decorata/": "RomanMartyrologyIndexTypeAContentBlock",
-    "/sources/martyrologium-romanum/1956/iii-index-locorum-qui-in-martyrologio-indicantur/": "RomanMartyrologyIndexTypeAContentBlock",
-    "/sources/martyrologium-romanum/1956/sancti-eorumque-officia-sine-indicatione-loci/": "RomanMartyrologyIndexTypeAContentBlock",
-    "/sources/martyrologium-romanum/1956/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsTypeBContentBlock",
-    "/sources/martyrologium-romanum/1956/variationes/martyrologium-romanum/": "RomanMartyrologyDayElogiesTypeBContentBlock",
-    "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsTypeBContentBlock"
+    "/sources/martyrologium-romanum/1956/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/ii-index-festorum-quae-non-sunt-sanctorum-natalitia-et-officiorum-quae-elogio-sunt-decorata/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/iii-index-locorum-qui-in-martyrologio-indicantur/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/sancti-eorumque-officia-sine-indicatione-loci/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/variationes/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1922ContentBlock",
+    "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsSince1922ContentBlock"
 }

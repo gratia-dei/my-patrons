@@ -1,8 +1,11 @@
 <?php
 
-class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implements ContentBlockInterface
+class RomanMartyrologyDayElogiesSince2001ContentBlock extends ContentBlock implements ContentBlockInterface
 {
     private const PAGE_INDEX = 'page';
+    private const MARK_INDEX = 'mark';
+
+    private const IMPORTANT_RECORD_MARK_SIGN = '!';
 
     private const VAR_PREFIX = 'record-text-';
     private const VAR_FIRST_CHARACTER_ONLY_SUFFIX = '-first-character-only';
@@ -14,8 +17,8 @@ class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implement
 
     public function prepare(string $path): ContentBlock
     {
-        $importantRecordContent = $this->getOriginalHtmlFileContent('items/roman-martyrology-day-elogy-type-b-important-item.html');
-        $normalRecordContent = $this->getOriginalHtmlFileContent('items/roman-martyrology-day-elogy-type-b-normal-item.html');
+        $importantRecordContent = $this->getOriginalHtmlFileContent('items/roman-martyrology-day-elogy-since-2001-important-item.html');
+        $normalRecordContent = $this->getOriginalHtmlFileContent('items/roman-martyrology-day-elogy-since-2001-normal-item.html');
 
         $this->prepareConsolidatedDataFilesArray($path);
 
@@ -35,7 +38,7 @@ class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implement
 
     public function getFullContent(string $translatedName): string
     {
-        $contentBlockContent = $this->getOriginalHtmlFileContent('content-blocks/roman-martyrology-day-elogies-type-b-content-block.html');
+        $contentBlockContent = $this->getOriginalHtmlFileContent('content-blocks/roman-martyrology-day-elogies-since-2001-content-block.html');
         $pageHeaderContent = $this->getOriginalHtmlFileContent('items/page-header-item.html');
         $mainFileData = $this->getMainFileData();
 
@@ -61,9 +64,18 @@ class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implement
             $prevPageNumber = $pageNumber;
         }
 
-        $dayHeader = $translatedName;
+        $mainDayName = $translatedName;
+        $romanCalendarDayName = '';
+        if (preg_match("/^(?'opentag'<[^>]+>)?(?'main'.+)\s\((?'roman'.+)\)(?'closetag'<\/[^>]+>)?/", $mainDayName, $matches)) {
+            $openTag = $matches['opentag'] ?? '';
+            $closeTag = $matches['closetag'] ?? '';
+
+            $mainDayName = $openTag . $matches['main'] . $closeTag;
+            $romanCalendarDayName = $openTag . $matches['roman'] . $closeTag;
+        }
         $variables = [
-            'day-header' => $dayHeader,
+            'main-day-name' => $mainDayName,
+            'roman-calendar-day-name' => $romanCalendarDayName,
             'elogies-content' => $elogiesContent,
         ];
         $result = $this->getReplacedContent($contentBlockContent, $variables);
@@ -73,16 +85,19 @@ class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implement
 
     public function getRecordContent(string $recordId): string
     {
+        $mainFileData = $this->getMainFileData();
+        $recordType = $mainFileData[$recordId][self::MARK_INDEX] ?? '';
+
         $variables = [
             'record-id' => $recordId,
+            'record-type' => $recordType,
             'record-text' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . $recordId . self::VARIABLE_NAME_SIGN,
             'record-text-first-character-only' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . $recordId . self::VAR_FIRST_CHARACTER_ONLY_SUFFIX . self::VARIABLE_NAME_SIGN,
             'record-text-without-first-character' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . $recordId . self::VAR_WITHOUT_FIRST_CHARACTER_SUFFIX . self::VARIABLE_NAME_SIGN,
             'record-activeness-class' => $this->getRecordActivenessClass($recordId),
         ];
 
-        $isRecordImportant = ($recordId === '1');
-        if ($isRecordImportant) {
+        if ($recordType === self::IMPORTANT_RECORD_MARK_SIGN) {
             $result = $this->getReplacedContent($this->importantRecordContent, $variables);
         } else {
             $result = $this->getReplacedContent($this->normalRecordContent, $variables);
@@ -97,6 +112,7 @@ class RomanMartyrologyDayElogiesTypeBContentBlock extends ContentBlock implement
 
         foreach ($data as $key => $values) {
             unset($values[self::PAGE_INDEX]);
+            unset($values[self::MARK_INDEX]);
 
             $result[self::VAR_PREFIX . $key] = $values;
             foreach ($values as $language => $text) {
