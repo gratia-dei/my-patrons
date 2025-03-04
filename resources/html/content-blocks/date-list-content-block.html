@@ -1,4 +1,3 @@
-<!--prefactoring-->
 <div id="date-list-content-block">
   <h3 class="date-form-name">##list-name-variable#|capitalize#:</h3>
   <p class="date-form-date">#dates#</p>
@@ -6,13 +5,11 @@
   <div class="date-list">
     <p>#date-form-info#</p>
     <div>
-      #lang-in-random-order|capitalize#:
+      <span>#lang-in-random-order|capitalize#:</span>
       <button type="button" class="date-form-btn" onClick="window.location.reload()">
         <img class="svg-image" src="/files/resources/svg/shuffle.svg" />
       </button>
     </div>
-    <ul>
-#patrons-list#
-    </ul>
+    <ul>#patrons-list#</ul>
   </div>
 </div>
