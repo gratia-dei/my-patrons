@@ -86,7 +86,7 @@ class IndexedNameContentBlock extends ContentBlock implements ContentBlockInterf
             }
         }
 
-        $sortedData = $this->getNaturalSortedListByKeys($dataToSort);
+        $sortedData = $this->getSort()->getSortedListByKeys($dataToSort);
         foreach ($sortedData as $key => list($languageCode, $languageName, $linkName)) {
             $link = dirname($path) . '/' . $this->getNameHash($linkName);
             $variables = [

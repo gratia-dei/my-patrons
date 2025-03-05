@@ -60,14 +60,14 @@ class DirectoryMainContent extends MainContent implements MainContentInterface
             $key = $this->stripTags($translatedName);
 
             while (isset($listData[$key])) {
-                $key .=self::TEXT_CHARACTER_SORTED_AFTER_OTHERS;
+                $key .= $this->getSort()->getCharacterSortedBeforeOthers();
             }
 
             $listData[$key] = [$translatedName, $link];
         }
 
         if ($usedGeneratedIndexFile) {
-            $listData = $this->getNaturalSortedListByKeys($listData);
+            $listData = $this->getSort()->getSortedListByKeys($listData);
         }
 
         $listContent = '';

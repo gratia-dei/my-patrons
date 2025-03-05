@@ -178,7 +178,7 @@ abstract class ContentBlock extends Content
             $dataToSort[$translatedNameWithoutTags] = [$url, $translatedName];
         }
 
-        $sortedData = $this->getNaturalSortedListByKeys($dataToSort);
+        $sortedData = $this->getSort()->getSortedListByKeys($dataToSort);
         foreach ($sortedData as $key => list($url, $translatedName)) {
             $variables = [
                 'href' => $this->getRecordIdPathWithNameExtension('/' . $url, $translatedName),

@@ -7,6 +7,7 @@ abstract class Base
     private $file;
     private $json;
     private $path;
+    private $sort;
     private $movableFeastBase;
 
     protected const SELECTABLE_LANGUAGES_ORDER = ['en', 'la', 'pl'];
@@ -37,8 +38,6 @@ abstract class Base
 
     protected const DATA_LINKS_GENERATED_FILES_INDEX = 'data-links';
 
-    protected const TEXT_CHARACTER_SORTED_AFTER_OTHERS = 'ﻩ';
-
     protected const DELETED_RECORD_TAG = '[x]';
 
     protected const RECORD_ID_WITH_NAME_EXTENSION_SEPARATOR = '--';
@@ -60,6 +59,7 @@ abstract class Base
         $this->file = new File();
         $this->json = new Json();
         $this->path = new Path();
+        $this->sort = new Sort();
         $this->movableFeastBase = new MovableFeastBase();
     }
 
@@ -86,6 +86,11 @@ abstract class Base
     protected function getPath(): Path
     {
         return $this->path;
+    }
+
+    protected function getSort(): Sort
+    {
+        return $this->sort;
     }
 
     protected function getMovableFeastBase(): MovableFeastBase
@@ -247,15 +252,6 @@ abstract class Base
             '\1' . ($extension === '' ? '' : self::RECORD_ID_WITH_NAME_EXTENSION_SEPARATOR . $extension) . '\2',
             $path
         );
-    }
-
-    protected function getNaturalSortedListByKeys(array $list): array
-    {
-        ksort($list, SORT_NATURAL | SORT_FLAG_CASE);
-
-        //todo need to add valid diacritical order feature
-
-        return $list;
     }
 
     protected function getNameHash(string $name): string
