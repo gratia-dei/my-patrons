@@ -406,12 +406,12 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     return id.replace(new RegExp('[/' + PERSON_ADDITION_SEPARATOR + '].*$'), '');
   }
 
-  function showNotification(type, message, rowId = EMPTY_ROW_ID) {
+  function getPreparedNotificationMessageAndLink(message, rowId) {
     if (rowId > EMPTY_ROW_ID) {
       const link = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
-      uNotification.show(type, '[#' + rowId + '] ' + message, link);
+      return ['[#' + rowId + '] ' + message, link];
     } else {
-      uNotification.show(type, message);
+      return [message, null];
     }
   }
 
@@ -428,19 +428,23 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
   }
 
   function errorNotification(message, rowId = EMPTY_ROW_ID) {
-    showNotification('error', message, rowId);
+    const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
+    uNotification.error(newMessage, link);
   }
 
   function warningNotification(message, rowId = EMPTY_ROW_ID) {
-    showNotification('warning', message, rowId);
+    const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
+    uNotification.warning(newMessage, link);
   }
 
   function infoNotification(message, rowId = EMPTY_ROW_ID) {
-    showNotification('info', message, rowId);
+    [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
+    uNotification.info(newMessage, link);
   }
 
   function successNotification(message, rowId = EMPTY_ROW_ID) {
-    showNotification('success', message, rowId);
+    const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
+    uNotification.success(newMessage, link);
   }
 
   function gotoChallenge(rowId) {
