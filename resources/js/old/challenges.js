@@ -360,11 +360,11 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   function getDiacriticalRepresentationStringForSort(text) {
     return text
       .toLowerCase()
-      .replace('ł', "l")
       .replace('ż', "żż")
       .normalize("NFD")
       .replace(/(\p{Diacritic})/gu, '$1' + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
       .replace(/(\p{Diacritic})/gu, '')
+      .replace('ł', "l" + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
     ;
   }
 
