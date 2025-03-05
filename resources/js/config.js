@@ -7,6 +7,7 @@ requirejs.config({
     date: "js/utils/date",
     dom: "js/utils/dom",
     env: "js/utils/env",
+    file: "js/utils/file",
     global: "js/utils/global",
     language: "js/utils/language",
     location: "js/utils/location",

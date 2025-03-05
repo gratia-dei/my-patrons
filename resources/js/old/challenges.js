@@ -1,4 +1,4 @@
-requirejs(["const", "marked"], function(uConst, libMarked) {
+requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
   uConst
     .set("ADD_NEW_CHALLENGE", addNewChallenge)
@@ -301,8 +301,6 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   let challengesConfig = {};
   let notesTypesConfig = {};
   let languageVariables = {};
-  let filesContents = {};
-  let filesContentsErrors = {};
   let personsData = {};
   let personsDataSubelementsCache = {};
   let personsAdditionDataElementsCache = {};
@@ -412,7 +410,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
 
   async function showNotification(prefix, message, type, rowId = EMPTY_ROW_ID) {
     const notifications = document.getElementById(NOTIFICATIONS_ELEMENT_ID);
-    const content = await getFileContent(NOTIFICATION_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(NOTIFICATION_ITEM_TEMPLATE_FILE_PATH);
     const rowIdInfo = (rowId === EMPTY_ROW_ID) ? '' : '[#' + rowId + ']';
 
     const wrapper = document.createElement('a');
@@ -516,28 +514,8 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     return result;
   }
 
-  const getFileContent = async function(path) {
-    if (filesContents[path] !== undefined) {
-      return filesContents[path];
-    } else if (filesContentsErrors[path] !== undefined) {
-      throw new Error(filesContentsErrors[path]);
-    }
-
-    let response = await fetch(path);
-    if (!response.ok) {
-      const errorMessage = 'HTTP status: ' + response.status;
-      filesContentsErrors[path] = errorMessage;
-      throw new Error(errorMessage);
-    }
-
-    const result = await response.text();
-    filesContents[path] = result;
-
-    return result;
-  }
-
   const getJsonFromFile = async function(path) {
-    const content = await getFileContent(path);
+    const content = await uFile.getFileContent(path);
 
     return JSON.parse(content);
   }
@@ -1347,7 +1325,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     const list = document.getElementById(CHALLENGES_ELEMENT_ID);
     list.innerHTML = '';
 
-    const content = await getFileContent(CHALLENGE_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(CHALLENGE_ITEM_TEMPLATE_FILE_PATH);
 
     let allRowsData = [];
     let numbers = {};
@@ -2979,7 +2957,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
     const statusColor = CHECKLIST_STATUSES[status].color;
     const statusName = getLanguageVariable(CHECKLIST_STATUSES[status].variable);
 
-    const content = await getFileContent(CHECKLIST_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(CHECKLIST_ITEM_TEMPLATE_FILE_PATH);
     element.innerHTML = content
       .replace(/#type#/g, itemType)
       .replace(/#name#/g, name)
@@ -3094,8 +3072,8 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
 
     const fullFilePath = MARKDOWN_FILES_ROOT_PATH + filePath + MARKDOWN_FILE_EXTENSION;
     try {
-      const template = await getFileContent(DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH);
-      let content = await getFileContent(fullFilePath);
+      const template = await uFile.getFileContent(DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH);
+      let content = await uFile.getFileContent(fullFilePath);
       content = libMarked.parse(content);
 
       for (let paramName of params) {
@@ -3163,7 +3141,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
 
     row.innerHTML = '';
     if (challenge !== undefined) {
-      const content = await getFileContent(CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH);
+      const content = await uFile.getFileContent(CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH);
 
       let date = challenge.date ?? '';
       let personUrl = (challenge.person ?? '');
@@ -3369,7 +3347,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
       name = itemType;
     }
 
-    const content = await getFileContent(NOTE_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(NOTE_ITEM_TEMPLATE_FILE_PATH);
     element.innerHTML = content
       .replace(/#name#/g, name)
       .replace(/#row-id#/g, rowId)
@@ -3567,7 +3545,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
   }
 
   async function showCreateNoteCellContent(cellElement, rowId, challengeType, itemType, itemPath, newNoteNumber) {
-    const template = await getFileContent(CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH);
+    const template = await uFile.getFileContent(CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH);
     const itemPathString = itemPath.join('-');
     const cellElementId = itemType + '-' + itemPathString + '-' + newNoteNumber + '-' + EMPTY_NOTE_ID;
 
@@ -3634,7 +3612,7 @@ requirejs(["const", "marked"], function(uConst, libMarked) {
         templatePath = FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH;
       }
     }
-    const template = await getFileContent(templatePath);
+    const template = await uFile.getFileContent(templatePath);
 
     let editButtonVisible = INVISIBLE_STYLE;
     let moveUpButtonVisible = INVISIBLE_STYLE;
