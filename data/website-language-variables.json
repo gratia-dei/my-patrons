@@ -1449,26 +1449,6 @@
         "pl": "notatki"
     },
 
-    "lang-notification-error": {
-        "en": "error",
-        "pl": "błąd"
-    },
-
-    "lang-notification-info": {
-        "en": "information",
-        "pl": "informacja"
-    },
-
-    "lang-notification-success": {
-        "en": "success",
-        "pl": "sukces"
-    },
-
-    "lang-notification-warning": {
-        "en": "warning",
-        "pl": "ostrzeżenie"
-    },
-
     "lang-number": {
         "en": "number",
         "pl": "numer"

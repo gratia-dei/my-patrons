@@ -1,4 +1,4 @@
-requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
+requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, uNotification, libMarked) {
 
   uConst
     .set("ADD_NEW_CHALLENGE", addNewChallenge)
@@ -90,7 +90,6 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
   const CHECKLIST_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-checklist-item.html';
   const NOTE_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-note-item.html';
   const DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH = '/files/resources/html/content-blocks/challenges-description-content-block.html';
-  const NOTIFICATION_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-notification-item.html';
   const READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-read-mode-note-cell-item.html';
   const EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-edit-mode-note-cell-item.html';
   const FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-form-mode-note-cell-item.html';
@@ -111,7 +110,6 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
   const CHALLENGE_ROW_ELEMENT_ID_PREFIX = 'id-';
   const CHALLENGES_ELEMENT_ID = 'challenges';
   const JSON_EDITOR_TEXTAREA_ELEMENT_ID = 'json-editor-textarea';
-  const NOTIFICATIONS_ELEMENT_ID = 'notifications';
   const CHALLENGE_DATE_INPUT_ELEMENT_ID = 'challenge-date-input';
   const CHALLENGE_TYPE_SELECT_ELEMENT_ID = 'challenge-type-select';
   const LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID = 'last-selected-challenge-type';
@@ -335,7 +333,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
     doActionsDependentOfAdvancedMode();
     reloadFileTab();
 
-    info(getLanguageVariable('lang-challenges-form-info', true));
+    infoNotification(getLanguageVariable('lang-challenges-form-info', true));
   }
 
   function isAdvancedMode() {
@@ -408,56 +406,41 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
     return id.replace(new RegExp('[/' + PERSON_ADDITION_SEPARATOR + '].*$'), '');
   }
 
-  async function showNotification(prefix, message, type, rowId = EMPTY_ROW_ID) {
-    const notifications = document.getElementById(NOTIFICATIONS_ELEMENT_ID);
-    const content = await uFile.getFileContent(NOTIFICATION_ITEM_TEMPLATE_FILE_PATH);
-    const rowIdInfo = (rowId === EMPTY_ROW_ID) ? '' : '[#' + rowId + ']';
-
-    const wrapper = document.createElement('a');
+  function showNotification(type, message, rowId = EMPTY_ROW_ID) {
     if (rowId > EMPTY_ROW_ID) {
-      wrapper.href = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
+      const link = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
+      uNotification.show(type, '[#' + rowId + '] ' + message, link);
+    } else {
+      uNotification.show(type, message);
     }
-    wrapper.innerHTML = content
-      .replace(/#type#/g, type)
-      .replace(/#prefix#/g, prefix)
-      .replace(/#row-id-info#/g, rowIdInfo)
-      .replace(/#message#/g, message)
-    ;
-
-    notifications.append(wrapper);
   }
 
   function showLoadFileWarningIfNeeded() {
     clearNotifications();
     const message = getLanguageVariable('lang-load-file-warning', true);
     if (unchangedFileContent !== fileContent) {
-      warning(message);
+      warningNotification(message);
     }
   }
 
   function clearNotifications() {
-    const notifications = document.getElementById(NOTIFICATIONS_ELEMENT_ID);
-    notifications.innerHTML = '';
+    uNotification.clear();
   }
 
-  function error(message, rowId = EMPTY_ROW_ID) {
-    const prefix = getLanguageVariable('lang-notification-error', true);
-    showNotification(prefix, message, 'error', rowId);
+  function errorNotification(message, rowId = EMPTY_ROW_ID) {
+    showNotification('error', message, rowId);
   }
 
-  function warning(message, rowId = EMPTY_ROW_ID) {
-    const prefix = getLanguageVariable('lang-notification-warning', true);
-    showNotification(prefix, message, 'warning', rowId);
+  function warningNotification(message, rowId = EMPTY_ROW_ID) {
+    showNotification('warning', message, rowId);
   }
 
-  function info(message, rowId = EMPTY_ROW_ID) {
-    const prefix = getLanguageVariable('lang-notification-info', true);
-    showNotification(prefix, message, 'info', rowId);
+  function infoNotification(message, rowId = EMPTY_ROW_ID) {
+    showNotification('info', message, rowId);
   }
 
-  function success(message, rowId = EMPTY_ROW_ID) {
-    const prefix = getLanguageVariable('lang-notification-success', true);
-    showNotification(prefix, message, 'success', rowId);
+  function successNotification(message, rowId = EMPTY_ROW_ID) {
+    showNotification('success', message, rowId);
   }
 
   function gotoChallenge(rowId) {
@@ -596,9 +579,9 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       unchangedFileContent = fileContent;
 
-      success(getLanguageVariable('lang-file-loaded-successfully', true));
+      successNotification(getLanguageVariable('lang-file-loaded-successfully', true));
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -637,9 +620,9 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       unchangedFileContent = fileContent;
 
-      success(getLanguageVariable('lang-file-prepared-to-save-successfully', true));
+      successNotification(getLanguageVariable('lang-file-prepared-to-save-successfully', true));
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -660,7 +643,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       inputForFilenameWithoutExtension.value = fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_JSON_FILENAME;
       datetimeCheckboxForFilenameWithoutExtension.checked = fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE;
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -669,7 +652,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       clearNotifications();
       resetAchievements(fileData);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -682,7 +665,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       parseChallenges(challengesData);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -698,7 +681,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       document.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value = content;
       fileData = parseFileDataFromContent(fileContent);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -709,7 +692,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       fileData = parseFileDataFromContent(fileContent);
       await reloadChallengesTab();
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -753,7 +736,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       const data = e.data ?? [];
 
       isDataValid = false;
-      warning(message + ((data.length > 0) ? ': ["' + data.join('", "') + '"]' : ''), rowId);
+      warningNotification(message + ((data.length > 0) ? ': ["' + data.join('", "') + '"]' : ''), rowId);
     }
   }
 
@@ -1290,7 +1273,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       fileContent = JSON.stringify(fileData);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -1304,7 +1287,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       fileContent = JSON.stringify(fileData);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -1317,7 +1300,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
 
       fileContent = JSON.stringify(fileData);
     } catch (e) {
-      error(e.message);
+      errorNotification(e.message);
     }
   }
 
@@ -2747,7 +2730,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
       }
       rowId++;
     }
-    success(getLanguageVariable('lang-new-challenge-created-successfully', true), gotoRowId);
+    successNotification(getLanguageVariable('lang-new-challenge-created-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3186,7 +3169,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
     await reloadChallengesTab();
 
     const gotoRowId = Math.max(1, rowId - 1);
-    success(getLanguageVariable('lang-challenge-removed-successfully', true), gotoRowId);
+    successNotification(getLanguageVariable('lang-challenge-removed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3272,7 +3255,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
     await reloadChallengesTab();
 
     const gotoRowId = Math.max(1, rowId - 1);
-    success(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
+    successNotification(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3289,7 +3272,7 @@ requirejs(["const", "file", "marked"], function(uConst, uFile, libMarked) {
     await reloadChallengesTab();
 
     const gotoRowId = rowId + 1;
-    success(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
+    successNotification(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 

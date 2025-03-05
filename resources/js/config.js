@@ -12,6 +12,7 @@ requirejs.config({
     language: "js/utils/language",
     location: "js/utils/location",
     marked: "external/marked-js-14-1-2/marked.min",
+    notification: "js/utils/notification",
     scroll: "js/utils/scroll",
     usefulPhrases: "js/utils/useful-phrases"
   },
@@ -31,6 +32,9 @@ requirejs.config({
     },
     location: {
       deps: ["env"]
+    },
+    notification: {
+      deps: ["const", "dom", "file"]
     },
     scroll: {
       deps: ["env"]
