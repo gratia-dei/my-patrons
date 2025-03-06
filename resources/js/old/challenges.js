@@ -1,4 +1,7 @@
-requirejs(["const", "file", "notification", "useful", "marked"], function(uConst, uFile, uNotification, uUseful, libMarked) {
+requirejs(
+  ["const", "file", "notification", "sort", "useful", "marked"],
+  function(uConst, uFile, uNotification, uSort, uUseful, libMarked
+) {
 
   uConst
     .set("ADD_NEW_CHALLENGE", addNewChallenge)
@@ -56,7 +59,6 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
   const ANCHOR_CHARACTER = '#';
   const UNIQUENESS_STRING_SEPARATOR = '|#|#|';
   const UNIQUENESS_FIELD_MODIFIER_SEPARATOR = '|';
-  const TEXT_CHARACTER_SORTED_AFTER_OTHERS = 'ﻩ';
 
   const IMMOVABLE_DATES_PATRONS_LIST_CHARACTER = '#';
   const IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST = ['B', 'SB', 'SC', 'SE', 'SP', 'SA', 'SO', 'SM']; //order is important!
@@ -2070,7 +2072,7 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
         options[type] = name;
       }
 
-      let sorted = getSortedArray(options);
+      let sorted = uSort.getSortedObject(options);
 
       for (const [type, name] of sorted) {
         const isSelected = (type === selectedChallengeType);
@@ -2341,7 +2343,7 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
       }
     }
 
-    let persons = getSortedArray(personsToSort);
+    let persons = uSort.getSortedObject(personsToSort);
     if (persons.length > 1) {
       addOptionToSelect(personSelect, '', SELECT_NAME);
     }
@@ -2396,7 +2398,7 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
         }
       }
 
-      const sortedNames = getSortedArray(namesToSort);
+      const sortedNames = uSort.getSortedObject(namesToSort);
       let additions = {};
       for (let additionData of sortedNames) {
         const key = additionData[0];
@@ -3547,11 +3549,7 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
       }
     }
 
-    return result.sort(function(a, b) {
-      var x = getDiacriticalRepresentationStringForSort(a['name']);
-      var y = getDiacriticalRepresentationStringForSort(b['name']);
-      return x < y ? -1 : x > y ? 1 : 0;
-    });
+    return uSort.getSortedArray(result, 'name');
   }
 
   function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
@@ -3589,11 +3587,7 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
       }
     }
 
-    return result.sort(function(a, b) {
-      var x = getDiacriticalRepresentationStringForSort(a['name']);
-      var y = getDiacriticalRepresentationStringForSort(b['name']);
-      return x < y ? -1 : x > y ? 1 : 0;
-    });
+    return uSort.getSortedArray(result, 'name');
   }
 
   function getNotesFileDataValues(index) {
@@ -3776,10 +3770,10 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
         case NOTE_CONFIG_SOURCE_TYPE_VALUES:
           let valuesData = structuredClone(fileDataValues);
           if (sourceData === NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED) {
-            valuesData = getSortedArray(valuesData);
+            valuesData = uSort.getSortedObject(valuesData);
           } else if (sourceData === NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED) {
             valuesData = getLastYearOrTenChallengesValuesData(valuesData, rowId, noteType);
-            valuesData = getSortedArray(valuesData);
+            valuesData = uSort.getSortedObject(valuesData);
           } else {
             valuesData = Object.entries(valuesData);
           }
@@ -4176,27 +4170,6 @@ requirejs(["const", "file", "notification", "useful", "marked"], function(uConst
 
 
   //////////////////////// functions to migrate
-
-  //sort
-  function getSortedArray(object) {
-    return Object.entries(object).sort(function(a, b) {
-      var x = getDiacriticalRepresentationStringForSort(a[1]);
-      var y = getDiacriticalRepresentationStringForSort(b[1]);
-      return x < y ? -1 : x > y ? 1 : 0;
-    });
-  }
-
-  function getDiacriticalRepresentationStringForSort(text) {
-    return text
-      .toLowerCase()
-      .replace('ż', "żż")
-      .normalize("NFD")
-      .replace(/(\p{Diacritic})/gu, '$1' + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
-      .replace(/(\p{Diacritic})/gu, '')
-      .replace('ł', "l" + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
-    ;
-  }
-
 
 
 

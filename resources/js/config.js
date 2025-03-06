@@ -14,6 +14,7 @@ requirejs.config({
     marked: "external/marked-js-14-1-2/marked.min",
     notification: "js/utils/notification",
     scroll: "js/utils/scroll",
+    sort: "js/utils/sort",
     useful: "js/utils/useful"
   },
 
@@ -38,6 +39,9 @@ requirejs.config({
     },
     scroll: {
       deps: ["env"]
+    },
+    sort: {
+      deps: ["const"]
     },
     useful: {
       deps: ["const"]
