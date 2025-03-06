@@ -324,12 +324,12 @@ requirejs(
         }
     }
 
-    languageVariables = await getJsonFromFile(LANGUAGE_JSON_FILE);
-    challengesConfig = await getJsonFromFile(CHALLENGES_CONFIG_JSON_FILE);
-    notesTypesConfig = await getJsonFromFile(NOTES_CONFIG_JSON_FILE);
-    personsData = await getJsonFromFile(PERSONS_DATA_JSON_FILE);
+    languageVariables = await uFile.getJsonFromFile(LANGUAGE_JSON_FILE);
+    challengesConfig = await uFile.getJsonFromFile(CHALLENGES_CONFIG_JSON_FILE);
+    notesTypesConfig = await uFile.getJsonFromFile(NOTES_CONFIG_JSON_FILE);
+    personsData = await uFile.getJsonFromFile(PERSONS_DATA_JSON_FILE);
     immovableDatesPatronsData = await getImmovableDatesPatronsData([DATES_FEASTS_IMMOVABLE_JSON_FILE, DATES_PATRONS_IMMOVABLE_JSON_FILE]);
-    liturgicalSeasonsData = await getJsonFromFile(LITURGICAL_SEASONS_JSON_FILE);
+    liturgicalSeasonsData = await uFile.getJsonFromFile(LITURGICAL_SEASONS_JSON_FILE);
 
     doActionsDependentOfAdvancedMode();
     reloadFileTab();
@@ -419,7 +419,7 @@ requirejs(
     const personPrefixNeeded = PERSON_TYPE_PATRONS.toLowerCase();
 
     for (const filePath of filePaths) {
-      const fileData = await getJsonFromFile(filePath);
+      const fileData = await uFile.getJsonFromFile(filePath);
       for (const monthWithDay of Object.keys(fileData)) {
         const dayData = fileData[monthWithDay] ?? {};
         for (const patronWithAdditionId of Object.keys(dayData)) {
@@ -4133,7 +4133,7 @@ requirejs(
     const button = document.getElementById(RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID);
     button.innerHTML = getLanguageVariable('lang-randomize-the-chapter', true);
 
-    const data = await getJsonFromFile(BIBLE_CHAPTERS_DATA_JSON_FILE);
+    const data = await uFile.getJsonFromFile(BIBLE_CHAPTERS_DATA_JSON_FILE);
 
     let allBibleChapters = [];
     for (const [book, chaptersCount] of Object.entries(data[language] ?? {})) {
@@ -4228,14 +4228,6 @@ requirejs(
 
 
 
-  //env
-  function getHostname() {
-    return window.location.hostname.toLowerCase().replace(DEV_HOSTNAME_REMOVE_STRING + '.', '.');
-  }
-
-  function getSearchString() {
-    return window.location.search;
-  }
 
 
 
@@ -4280,12 +4272,20 @@ requirejs(
   }
 
 
-  //file
-  async function getJsonFromFile(path) {
-    const content = await uFile.getFileContent(path);
 
-    return JSON.parse(content);
+
+  //env
+  function getHostname() {
+    return window.location.hostname.toLowerCase().replace(DEV_HOSTNAME_REMOVE_STRING + '.', '.');
   }
+
+  function getSearchString() {
+    return window.location.search;
+  }
+
+
+
+
 
 
   //achievements

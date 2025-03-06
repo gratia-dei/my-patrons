@@ -26,8 +26,15 @@ define([], function() {
     return result;
   }
 
+  async function getJsonFromFile(path) {
+    const content = await getFileContent(path);
+
+    return JSON.parse(content);
+  }
+
   return {
-    getFileContent
+    getFileContent,
+    getJsonFromFile
   };
 
 });
