@@ -192,6 +192,7 @@ img.menu-icon {
 label.modal-bt,
 input.modal-bt,
 input.modal-bt:focus,
+button.modal-bt-for-challenge-description,
 button.modal-bt {
     background-color: var(--color3);
     border-radius: 25px;
@@ -208,6 +209,11 @@ button.modal-bt {
 label.modal-bt {
     text-align: center;
     cursor: pointer;
+}
+
+button.modal-bt-for-challenge-description {
+  width: auto;
+  max-width: none;
 }
 
 button.modal-bt:disabled {

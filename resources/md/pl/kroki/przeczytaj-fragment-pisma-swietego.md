@@ -1,6 +1,6 @@
 **Wybierz** dowolny fragment **Pisma Świętego**<sup>1</sup> (możesz wcześniej poprosić zapraszanego **Patrona Mentora** o pomoc w jego wybraniu i zrozumieniu). Może to być kolejny lub losowy rozdział, akapit, inna logiczna całość, czy fragment z lekcjonarza związany z wybranym Patronem<sup>2</sup>.
 
-<button class="modal-bt" id="random-bible-chapter" onclick="setRandomBibleChapter('pl')">Losuj rozdział</button>
+<button class="modal-bt-for-challenge-description" id="random-bible-chapter" onclick="setRandomBibleChapter('pl')">Losuj rozdział</button>
 
 ---
 Przypisy:
