@@ -22,14 +22,6 @@ define(["const"], function(uConst) {
     return array.indexOf(value) !== uConst.get("USEFUL/MISSING_INDEX_OF_VALUE");
   }
 
-  function makeAsChecked(element) {
-    element.checked = uConst.get("USEFUL/CHECKBOX_CHECKED");
-  }
-
-  function makeAsSelected(element) {
-    element.selected = uConst.get("USEFUL/SELECT_OPTION_SELECTED");
-  }
-
   function makeVisibility(element, isVisible) {
     element.style.display = uConst.get(isVisible ? "USEFUL/STYLE_DISPLAY_VISIBLE" : "USEFUL/STYLE_DISPLAY_INVISIBLE");
   }
@@ -41,8 +33,6 @@ define(["const"], function(uConst) {
   return {
     getStringWithTidySpaces,
     inArray,
-    makeAsChecked,
-    makeAsSelected,
     makeVisibility,
     sleep
   };

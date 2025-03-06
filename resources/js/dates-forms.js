@@ -138,7 +138,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       }
 
       if (select.options[optionId].value == optionValue) {
-        uUseful.makeAsSelected(select.options[optionId]);
+        select.options[optionId].selected = true;
       }
     }
   }
@@ -190,9 +190,9 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
       const year = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId);
 
-      uUseful.makeAsChecked(activity);
+      activity.checked = true;
       if (yearDay[2] === uConst.get("LEAP_YEAR_SEPARATOR")) {
-        uUseful.makeAsChecked(year);
+        year.checked = true;
       }
 
       makeSelectOptionSelected(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + rowId, yearDay.substring(0, 2));
