@@ -349,49 +349,10 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     jsonEditorButton.style = advancedMode ? VISIBLE_STYLE : INVISIBLE_STYLE;
   }
 
-  function inArray(value, array) {
-    return array.indexOf(value) != MISSING_INDEX_OF_VALUE;
-  }
-
-  function getDiacriticalRepresentationStringForSort(text) {
-    return text
-      .toLowerCase()
-      .replace('ż', "żż")
-      .normalize("NFD")
-      .replace(/(\p{Diacritic})/gu, '$1' + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
-      .replace(/(\p{Diacritic})/gu, '')
-      .replace('ł', "l" + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
-    ;
-  }
-
   function getHtmlTagsEscapedString(string) {
     return string.replace(/[&<>]/g, function(str) {
       return HTML_TAGS_TO_ESCAPE[str] || str;
     });
-  }
-
-  function getCleanedString(string) {
-    return string
-      .replace(/\s+/g, ' ')
-      .trim()
-    ;
-  }
-
-  function getDatesDiffInDays(firstDateStr, secondDateStr) {
-    const dayMiliseconds = 24 * 60 * 60 * 1000;
-    const firstDate = Date.parse(firstDateStr);
-    const secondDate = Date.parse(secondDateStr);
-    const diffInDays = Math.round((firstDate - secondDate) / dayMiliseconds);
-
-    return diffInDays;
-  }
-
-  function isYearLeap(year) {
-    return ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
-  }
-
-  function getDateYear(date) {
-    return Number(date.substring(0, 4));
   }
 
   function getPersonsDataDirName(id) {
@@ -449,62 +410,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
   function gotoChallenge(rowId) {
     location.hash = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
-  }
-
-  async function sleep(miliseconds) {
-    await new Promise(r => setTimeout(r, miliseconds));
-  }
-
-  const getHostname = function() {
-    return window.location.hostname.toLowerCase().replace(DEV_HOSTNAME_REMOVE_STRING + '.', '.');
-  }
-
-  const getSearchString = function() {
-    return window.location.search;
-  }
-
-  const getLanguage = function() {
-    const hostname = getHostname();
-
-    return hostname.replace(/\..*$/, '');
-  }
-
-  const getLanguageVariable = function(variable, capitalize = false, variableTranslations = languageVariables[variable]) {
-    let result = LANGUAGE_MISSING_VARIABLE_SIGN;
-
-    if (variableTranslations === undefined) {
-      return result;
-    }
-
-    let language = getLanguage();
-    let translation = variableTranslations[language];
-    let foundLanguageTranslation = true;
-
-    if (translation === undefined) {
-      foundLanguageTranslation = false;
-      for (language in variableTranslations) {
-        result = variableTranslations[language];
-        break;
-      }
-    } else {
-      result = translation;
-    }
-
-    if (capitalize) {
-      result = result.charAt(0).toUpperCase() + result.slice(1);
-    }
-
-    if (!foundLanguageTranslation) {
-      result += ' [' + language + ']';
-    }
-
-    return result;
-  }
-
-  const getJsonFromFile = async function(path) {
-    const content = await uFile.getFileContent(path);
-
-    return JSON.parse(content);
   }
 
   async function getImmovableDatesPatronsData(filePaths) {
@@ -646,15 +551,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
       inputForOwner.value = fileData[DATA_FIELD_OWNER] ?? '';
       inputForFilenameWithoutExtension.value = fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_JSON_FILENAME;
       datetimeCheckboxForFilenameWithoutExtension.checked = fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE;
-    } catch (e) {
-      errorNotification(e.message);
-    }
-  }
-
-  function reloadAchievementsTab() {
-    try {
-      clearNotifications();
-      resetAchievements(fileData);
     } catch (e) {
       errorNotification(e.message);
     }
@@ -1460,25 +1356,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     return challengeStatus === CHALLENGE_SUCCESS_STATUS_ABORTED;
   }
 
-  function getWeekdayForDateString(dateString) {
-    return new Date(dateString).toLocaleString('en-us', {weekday: 'long'}).toLowerCase();
-  }
-
-  function getDayOfMonthForDateString(dateString) {
-    return Number(dateString.substring(8));
-  }
-
-  function getMonthForDateString(dateString) {
-    return new Date(dateString).toLocaleString('en-us', {month: 'long'}).toLowerCase();
-  }
-
-  function getDateFormat(dateString) {
-    const weekday = getWeekdayForDateString(dateString);
-    const prefix = getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
-
-    return prefix + ' ' + dateString;
-  }
-
   function sortChallengesByDate() {
     if (fileData[DATA_FIELD_CHALLENGES] == undefined) {
       fileData[DATA_FIELD_CHALLENGES] = [];
@@ -1499,22 +1376,8 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     resetDateInput();
   }
 
-  function getToday() {
-    return new Date().toJSON().slice(0, 10);
-  }
-
-  function getDatetimeSuffix() {
-    return new Date()
-      .toJSON()
-      .replace(/[.].*$/g, '')
-      .replace(/[^0-9T]/g, '')
-      .replace('T', '-')
-    ;
-  }
-
   function getTypesArrayWithDuplications(array) {
     let result = [];
-
     for (let value of array) {
       if (value.match(/^[0-9]+x[A-Z]+$/)) {
         const xPos = value.indexOf('x');
@@ -2669,30 +2532,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
     let button = document.getElementById(ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID);
     button.disabled = !(requiredChecklistStepsDone.length > 0);
-  }
-
-  function addOptionToSelect(select, value, name, isSelected = false, isDisabled = false) {
-    const option = document.createElement('option');
-    option.innerHTML = name;
-    option.value = value;
-    if (isSelected) {
-      option.selected = true;
-    }
-    if (isDisabled) {
-      option.disabled = true;
-    }
-
-    select.append(option);
-
-    return option;
-  }
-
-  function getSortedArray(object) {
-    return Object.entries(object).sort(function(a, b) {
-      var x = getDiacriticalRepresentationStringForSort(a[1]);
-      var y = getDiacriticalRepresentationStringForSort(b[1]);
-      return x < y ? -1 : x > y ? 1 : 0;
-    });
   }
 
   async function addNewChallenge() {
@@ -4044,7 +3883,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
   function getLastYearOrTenChallengesValuesData(valuesData, challengeRowId, selectedNoteType) {
     let result = {};
 
-    const lastMiliseconds = 366 * 24 * 60 * 60 * 1000;
+    const lastMiliseconds = (366 + 60) * 24 * 60 * 60 * 1000; //60 days more to now hide movable feasts to early
     const lastRows = 10;
 
     const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
@@ -4333,6 +4172,185 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     return false;
   }
 
+  build();
+
+
+
+
+
+  //////////////////////// functions to migrate
+
+  //useful
+  function inArray(value, array) {
+    return array.indexOf(value) != MISSING_INDEX_OF_VALUE;
+  }
+
+  async function sleep(miliseconds) {
+    await new Promise(r => setTimeout(r, miliseconds));
+  }
+
+  function getCleanedString(string) {
+    return string
+      .replace(/\s+/g, ' ')
+      .trim()
+    ;
+  }
+
+  //sort
+  function getSortedArray(object) {
+    return Object.entries(object).sort(function(a, b) {
+      var x = getDiacriticalRepresentationStringForSort(a[1]);
+      var y = getDiacriticalRepresentationStringForSort(b[1]);
+      return x < y ? -1 : x > y ? 1 : 0;
+    });
+  }
+
+  function getDiacriticalRepresentationStringForSort(text) {
+    return text
+      .toLowerCase()
+      .replace('ż', "żż")
+      .normalize("NFD")
+      .replace(/(\p{Diacritic})/gu, '$1' + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
+      .replace(/(\p{Diacritic})/gu, '')
+      .replace('ł', "l" + TEXT_CHARACTER_SORTED_AFTER_OTHERS)
+    ;
+  }
+
+
+
+
+  //dom
+  function addOptionToSelect(select, value, name, isSelected = false, isDisabled = false) {
+    const option = document.createElement('option');
+    option.innerHTML = name;
+    option.value = value;
+    if (isSelected) {
+      option.selected = true;
+    }
+    if (isDisabled) {
+      option.disabled = true;
+    }
+
+    select.append(option);
+
+    return option;
+  }
+
+
+  //date
+  function getDatesDiffInDays(firstDateStr, secondDateStr) {
+    const dayMiliseconds = 24 * 60 * 60 * 1000;
+    const firstDate = Date.parse(firstDateStr);
+    const secondDate = Date.parse(secondDateStr);
+    const diffInDays = Math.round((firstDate - secondDate) / dayMiliseconds);
+
+    return diffInDays;
+  }
+
+  function isYearLeap(year) {
+    return ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
+  }
+
+  function getDateYear(date) {
+    return Number(date.substring(0, 4));
+  }
+
+  function getWeekdayForDateString(dateString) {
+    return new Date(dateString).toLocaleString('en-us', {weekday: 'long'}).toLowerCase();
+  }
+
+  function getDayOfMonthForDateString(dateString) {
+    return Number(dateString.substring(8));
+  }
+
+  function getMonthForDateString(dateString) {
+    return new Date(dateString).toLocaleString('en-us', {month: 'long'}).toLowerCase();
+  }
+
+  function getDateFormat(dateString) {
+    const weekday = getWeekdayForDateString(dateString);
+    const prefix = getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
+
+    return prefix + ' ' + dateString;
+  }
+
+  function getToday() {
+    return new Date().toJSON().slice(0, 10);
+  }
+
+  function getDatetimeSuffix() {
+    return new Date()
+      .toJSON()
+      .replace(/[.].*$/g, '')
+      .replace(/[^0-9T]/g, '')
+      .replace('T', '-')
+    ;
+  }
+
+
+
+
+  //env
+  function getHostname() {
+    return window.location.hostname.toLowerCase().replace(DEV_HOSTNAME_REMOVE_STRING + '.', '.');
+  }
+
+  function getSearchString() {
+    return window.location.search;
+  }
+
+
+
+
+  //language
+  function getLanguage() {
+    const hostname = getHostname();
+
+    return hostname.replace(/\..*$/, '');
+  }
+
+  function getLanguageVariable(variable, capitalize = false, variableTranslations = languageVariables[variable]) {
+    let result = LANGUAGE_MISSING_VARIABLE_SIGN;
+
+    if (variableTranslations === undefined) {
+      return result;
+    }
+
+    let language = getLanguage();
+    let translation = variableTranslations[language];
+    let foundLanguageTranslation = true;
+
+    if (translation === undefined) {
+      foundLanguageTranslation = false;
+      for (language in variableTranslations) {
+        result = variableTranslations[language];
+        break;
+      }
+    } else {
+      result = translation;
+    }
+
+    if (capitalize) {
+      result = result.charAt(0).toUpperCase() + result.slice(1);
+    }
+
+    if (!foundLanguageTranslation) {
+      result += ' [' + language + ']';
+    }
+
+    return result;
+  }
+
+
+  //file
+  async function getJsonFromFile(path) {
+    const content = await uFile.getFileContent(path);
+
+    return JSON.parse(content);
+  }
+
+
+  //achievements
   function resetAchievements(fileData) {
     const data = {};
 
@@ -4422,7 +4440,17 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     }
   }
 
-  build();
+
+
+
+
+
+
+
+
+
+
+
 
 //-----------------------------
 
