@@ -1,4 +1,4 @@
-requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, uNotification, libMarked) {
+requirejs(["const", "file", "notification", "useful", "marked"], function(uConst, uFile, uNotification, uUseful, libMarked) {
 
   uConst
     .set("ADD_NEW_CHALLENGE", addNewChallenge)
@@ -65,7 +65,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
   const MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR = 'b';
   const MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR = 'n';
 
-  const MISSING_INDEX_OF_VALUE = -1;
   const MISSING_TABLE_HEADER_NOTE_NAME = '?';
   const EMPTY_NOTE_ID = 0;
   const EMPTY_ROW_ID = 0;
@@ -840,7 +839,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
         case REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES:
           const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
-          if (subelements.indexOf(challengePerson) !== MISSING_INDEX_OF_VALUE) {
+          if (uUseful.inArray(challengePerson, subelements)) {
             isPersonGodHavingNeededChallenges = true;
           }
           break;
@@ -872,7 +871,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
             }
           }
 
-          if (!foundAny && inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, reqTypes)) {
+          if (!foundAny && uUseful.inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, reqTypes)) {
             for (const challengeTypeToCheck of IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST) {
               const dateToCheck = manyPersonsDatesContext[challengeTypeToCheck] ?? null;
               if (dateToCheck == null) {
@@ -916,7 +915,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         case REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST:
           const weekday = getWeekdayForDateString(challengeDate);
           const allowedDaysOfWeek = reqTypes;
-          if (!inArray(weekday, allowedDaysOfWeek)) {
+          if (!uUseful.inArray(weekday, allowedDaysOfWeek)) {
             let daysNames = [];
             for (const englishName of allowedDaysOfWeek) {
               daysNames.push(getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + englishName));
@@ -931,7 +930,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         case REQUIREMENT_MONTH_HAVING_WHITELIST:
           const month = getMonthForDateString(challengeDate);
           const allowedMonths = reqTypes;
-          if (!inArray(month, allowedMonths)) {
+          if (!uUseful.inArray(month, allowedMonths)) {
             let monthsNames = [];
             for (const englishName of allowedMonths) {
               monthsNames.push(getLanguageVariable(MONTH_LANGUAGE_VARIABLES_PREFIX + englishName));
@@ -1465,8 +1464,8 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
           }
         }
 
-        foundPosition = types.indexOf(type);
-        if (foundPosition != MISSING_INDEX_OF_VALUE) {
+        if (uUseful.inArray(type, types)) {
+          const foundPosition = types.indexOf(type);
           types.splice(foundPosition, 1);
 
           if (types.length == 0) {
@@ -1514,7 +1513,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
         const type = ch.type;
 
-        if (inArray(type, types)) {
+        if (uUseful.inArray(type, types)) {
           if (exceededCounts[type] === 1) {
             return false;
           }
@@ -1547,7 +1546,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
           continue;
         }
 
-        if (inArray(type, types)) {
+        if (uUseful.inArray(type, types)) {
           return false;
         }
       }
@@ -1625,7 +1624,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     if (allowedDaysOfWeek.length > 0) {
       const weekday = getWeekdayForDateString(challengeDate);
 
-      return inArray(weekday, allowedDaysOfWeek);
+      return uUseful.inArray(weekday, allowedDaysOfWeek);
     }
 
     return true;
@@ -1635,7 +1634,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     if (allowedMonths.length > 0) {
       const month = getMonthForDateString(challengeDate);
 
-      return inArray(month, allowedMonths);
+      return uUseful.inArray(month, allowedMonths);
     }
 
     return true;
@@ -1823,7 +1822,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         continue;
       }
 
-      if (inArray(ch.type, types)) {
+      if (uUseful.inArray(ch.type, types)) {
         if (withAnyType[ch.person] == undefined) {
           withAnyType[ch.person] = {};
         }
@@ -1858,7 +1857,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         continue;
       }
 
-      if (inArray(ch.type, types) && ch.addition.length > 0) {
+      if (uUseful.inArray(ch.type, types) && ch.addition.length > 0) {
         if (withAnyType[ch.person] == undefined) {
           withAnyType[ch.person] = {};
         }
@@ -1885,7 +1884,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     let result = {};
     let rowId = 0;
 
-    const isImmovableDatesChallengeType = inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, types);
+    const isImmovableDatesChallengeType = uUseful.inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, types);
     let immovableTakenDates = {};
 
     const checkDate = null ? null : Date.parse(checkDateString);
@@ -1901,11 +1900,11 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         continue;
       }
 
-      if (inArray(ch.type, types)) {
+      if (uUseful.inArray(ch.type, types)) {
         result[ch.person] = ch.person;
       }
 
-      if (isImmovableDatesChallengeType && inArray(ch.type, IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST)) {
+      if (isImmovableDatesChallengeType && uUseful.inArray(ch.type, IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST)) {
         immovableTakenDates[ch.date] = true;
       }
     }
@@ -1950,7 +1949,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
         continue;
       }
 
-      if (inArray(ch.type, types) && ch.addition.length > 0) {
+      if (uUseful.inArray(ch.type, types) && ch.addition.length > 0) {
         const key = ch.person + PERSON_ADDITION_SEPARATOR + getPersonsDataBaseName(ch.addition);
         result[key] = key;
       }
@@ -2268,7 +2267,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
     let personsToSort = {};
 
-    if (inArray(personTypeValue, COPY_PERSON_TYPE_TO_NAME_IDS)) {
+    if (uUseful.inArray(personTypeValue, COPY_PERSON_TYPE_TO_NAME_IDS)) {
       personsToSort[personTypeValue] = personTypeValue;
     } else if (personTypeValue.length > 0) {
       personSelect.style = VISIBLE_STYLE;
@@ -3626,7 +3625,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
     for (const row of context) {
       const siblingNoteId = Number(Object.keys(row)[0] ?? EMPTY_NOTE_ID);
-      if ([noteId, EMPTY_NOTE_ID].indexOf(siblingNoteId) == MISSING_INDEX_OF_VALUE) {
+      if (!uUseful.inArray(siblingNoteId, [noteId, EMPTY_NOTE_ID])) {
         result[siblingNoteId] = siblingNoteId;
       }
     }
@@ -3681,15 +3680,13 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
       inputElement.onblur();
     }
     inputElement.onchange = function() {
-      const value = getCleanedString(inputElement.value);
+      const value = uUseful.getStringWithTidySpaces(inputElement.value);
 
       setNewNoteButtonElement.style = INVISIBLE_STYLE;
       setExistingNoteButtonElement.style = INVISIBLE_STYLE;
 
       if (value.length > 0) {
-        const noteNumber = Object.values(fileDataValues).indexOf(value);
-
-        if (noteNumber === MISSING_INDEX_OF_VALUE) {
+        if (!uUseful.inArray(value, Object.values(fileDataValues))) {
           setNewNoteButtonElement.style = VISIBLE_STYLE;
         } else {
           const noteId = Number(Object.keys(fileDataValues).find(key => fileDataValues[key] === value) ?? EMPTY_NOTE_ID);
@@ -3709,7 +3706,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
     }
     setNewNoteButtonElement.onclick = function() {
       const selectedNoteId = selectElement.value ?? '';
-      const selectedValue = getCleanedString(inputElement.value);
+      const selectedValue = uUseful.getStringWithTidySpaces(inputElement.value);
 
       let noteIdToAdd = 0;
       if (selectedNoteId > 0) {
@@ -3742,7 +3739,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
       addNewNote(rowId, challengeType, itemType, path, noteIndex, selectedValue);
     }
     setExistingNoteButtonElement.onclick = function() {
-      const selectedValue = getCleanedString(inputElement.value);
+      const selectedValue = uUseful.getStringWithTidySpaces(inputElement.value);
 
       const newNoteId = Object.keys(fileDataValues).find(key => fileDataValues[key] === selectedValue) ?? EMPTY_NOTE_ID;
       if (newNoteId.toString() !== EMPTY_NOTE_ID.toString()) {
@@ -4057,7 +4054,7 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
   async function addNewNote(rowId, challengeType, itemType, itemPath, noteIndex, inputValue) {
     const rowNotes = getChallengeNotesData(rowId, itemType);
-    const value = getCleanedString(inputValue);
+    const value = uUseful.getStringWithTidySpaces(inputValue);
 
     let path = structuredClone(itemPath);
     const noteId = path.pop();
@@ -4179,22 +4176,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
 
 
   //////////////////////// functions to migrate
-
-  //useful
-  function inArray(value, array) {
-    return array.indexOf(value) != MISSING_INDEX_OF_VALUE;
-  }
-
-  async function sleep(miliseconds) {
-    await new Promise(r => setTimeout(r, miliseconds));
-  }
-
-  function getCleanedString(string) {
-    return string
-      .replace(/\s+/g, ' ')
-      .trim()
-    ;
-  }
 
   //sort
   function getSortedArray(object) {
@@ -4439,8 +4420,6 @@ requirejs(["const", "file", "notification", "marked"], function(uConst, uFile, u
       isFirstRow = false;
     }
   }
-
-
 
 
 

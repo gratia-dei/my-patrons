@@ -7,7 +7,20 @@ define(["const"], function(uConst) {
     .set("USEFUL/STYLE_DISPLAY_VISIBLE", "")
 
     .set("USEFUL/SELECT_OPTION_SELECTED", "selected")
+
+    .set("USEFUL/MISSING_INDEX_OF_VALUE", -1)
   ;
+
+  function getStringWithTidySpaces(string) {
+    return string
+      .replace(/\s+/g, ' ')
+      .trim()
+    ;
+  }
+
+  function inArray(value, array) {
+    return array.indexOf(value) !== uConst.get("USEFUL/MISSING_INDEX_OF_VALUE");
+  }
 
   function makeAsChecked(element) {
     element.checked = uConst.get("USEFUL/CHECKBOX_CHECKED");
@@ -21,10 +34,17 @@ define(["const"], function(uConst) {
     element.style.display = uConst.get(isVisible ? "USEFUL/STYLE_DISPLAY_VISIBLE" : "USEFUL/STYLE_DISPLAY_INVISIBLE");
   }
 
+  async function sleep(miliseconds) {
+    await new Promise(r => setTimeout(r, miliseconds));
+  }
+
   return {
+    getStringWithTidySpaces,
+    inArray,
     makeAsChecked,
     makeAsSelected,
-    makeVisibility
+    makeVisibility,
+    sleep
   };
 
 });
