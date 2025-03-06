@@ -1,4 +1,4 @@
-requirejs(["const", "date", "dom", "env", "location", "usefulPhrases"], function(uConst, uDate, uDom, uEnv, uLocation, uPhrases) {
+requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst, uDate, uDom, uEnv, uLocation, uUseful) {
 
   uConst
     .set("FORM_ERROR_MESSAGE_ID_PREFIX", "form-error-message-")
@@ -138,7 +138,7 @@ requirejs(["const", "date", "dom", "env", "location", "usefulPhrases"], function
       }
 
       if (select.options[optionId].value == optionValue) {
-        select.options[optionId].selected = uPhrases.getSelectOptionSelected();
+        select.options[optionId].selected = uUseful.getSelectOptionSelected();
       }
     }
   }
@@ -190,9 +190,9 @@ requirejs(["const", "date", "dom", "env", "location", "usefulPhrases"], function
       const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
       const year = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId);
 
-      activity.checked = uPhrases.getCheckboxChecked();
+      activity.checked = uUseful.getCheckboxChecked();
       if (yearDay[2] === uConst.get("LEAP_YEAR_SEPARATOR")) {
-        year.checked = uPhrases.getCheckboxChecked();
+        year.checked = uUseful.getCheckboxChecked();
       }
 
       makeSelectOptionSelected(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + rowId, yearDay.substring(0, 2));
@@ -213,7 +213,7 @@ requirejs(["const", "date", "dom", "env", "location", "usefulPhrases"], function
         break;
       }
 
-      select.style = (activity.checked || rowId == 1) ? uPhrases.getStyleDisplayVisible() : uPhrases.getStyleDisplayInvisible();
+      select.style = (activity.checked || rowId == 1) ? uUseful.getStyleDisplayVisible() : uUseful.getStyleDisplayInvisible();
     }
   }
 
@@ -272,7 +272,7 @@ requirejs(["const", "date", "dom", "env", "location", "usefulPhrases"], function
       }
 
       const formElement = uDom.getElementById(uConst.get("DATE_CHANGE_FORM_ELEMENT_ID"));
-      formElement.style = uPhrases.getStyleDisplayVisible();
+      formElement.style = uUseful.getStyleDisplayVisible();
     }
   }
 

@@ -1,4 +1,4 @@
-requirejs(["const", "dom", "env", "location", "usefulPhrases"], function(uConst, uDom, uEnv, uLocation, uPhrases) {
+requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, uEnv, uLocation, uUseful) {
 
   uConst
     .set("SEARCH_QUERY_PARAM", "q")
@@ -31,8 +31,8 @@ requirejs(["const", "dom", "env", "location", "usefulPhrases"], function(uConst,
   function displayOnlyMatchingElements(searchString) {
     const list = uDom.getElementsByClassName(uConst.get("DIRECTORY_LIST_ITEM_ELEMENT_CLASS"));
 
-    const visible = uPhrases.getStyleDisplayVisible();
-    const invisible = uPhrases.getStyleDisplayInvisible();
+    const visible = uUseful.getStyleDisplayVisible();
+    const invisible = uUseful.getStyleDisplayInvisible();
 
     const notFound = uDom.getElementById(uConst.get("NOT_FOUND_ELEMENT_ID"));
     notFound.style = invisible;

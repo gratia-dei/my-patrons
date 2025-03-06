@@ -14,7 +14,7 @@ requirejs.config({
     marked: "external/marked-js-14-1-2/marked.min",
     notification: "js/utils/notification",
     scroll: "js/utils/scroll",
-    usefulPhrases: "js/utils/useful-phrases"
+    useful: "js/utils/useful"
   },
 
   shim: {
@@ -39,7 +39,7 @@ requirejs.config({
     scroll: {
       deps: ["env"]
     },
-    usefulPhrases: {
+    useful: {
       deps: ["const"]
     }
   }
