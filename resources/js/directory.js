@@ -31,29 +31,23 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
   function displayOnlyMatchingElements(searchString) {
     const list = uDom.getElementsByClassName(uConst.get("DIRECTORY_LIST_ITEM_ELEMENT_CLASS"));
 
-    const visible = uUseful.getStyleDisplayVisible();
-    const invisible = uUseful.getStyleDisplayInvisible();
-
     const notFound = uDom.getElementById(uConst.get("NOT_FOUND_ELEMENT_ID"));
-    notFound.style = invisible;
+    uUseful.makeVisibility(notFound, false);
 
     let found = false;
     for (const element of list) {
       const name = getPreparedSearchString(element.innerHTML);
       const isMatching = name.match(new RegExp(searchString, 'g'));
-      const styleValue = isMatching ? visible : invisible;
 
       if (isMatching) {
         found = true;
       }
 
-      element.style = styleValue;
-      element.parentNode.style = styleValue;
+      uUseful.makeVisibility(element, isMatching);
+      uUseful.makeVisibility(element.parentNode, isMatching);
     }
 
-    if (!found) {
-      notFound.style = visible;
-    }
+    uUseful.makeVisibility(notFound, !found);
   }
 
   function loadNewSearch() {

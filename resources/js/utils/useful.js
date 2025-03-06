@@ -3,33 +3,28 @@ define(["const"], function(uConst) {
   uConst
     .set("USEFUL/CHECKBOX_CHECKED", "checked")
 
-    .set("USEFUL/STYLE_DISPLAY_INVISIBLE", "display: none")
+    .set("USEFUL/STYLE_DISPLAY_INVISIBLE", "none")
     .set("USEFUL/STYLE_DISPLAY_VISIBLE", "")
 
     .set("USEFUL/SELECT_OPTION_SELECTED", "selected")
   ;
 
-  function getCheckboxChecked() {
-    return uConst.get("USEFUL/CHECKBOX_CHECKED");
+  function makeAsChecked(element) {
+    element.checked = uConst.get("USEFUL/CHECKBOX_CHECKED");
   }
 
-  function getSelectOptionSelected() {
-    return uConst.get("USEFUL/SELECT_OPTION_SELECTED");
+  function makeAsSelected(element) {
+    element.selected = uConst.get("USEFUL/SELECT_OPTION_SELECTED");
   }
 
-  function getStyleDisplayInvisible() {
-    return uConst.get("USEFUL/STYLE_DISPLAY_INVISIBLE");
-  }
-
-  function getStyleDisplayVisible() {
-    return uConst.get("USEFUL/STYLE_DISPLAY_VISIBLE");
+  function makeVisibility(element, isVisible) {
+    element.style.display = uConst.get(isVisible ? "USEFUL/STYLE_DISPLAY_VISIBLE" : "USEFUL/STYLE_DISPLAY_INVISIBLE");
   }
 
   return {
-    getCheckboxChecked,
-    getSelectOptionSelected,
-    getStyleDisplayInvisible,
-    getStyleDisplayVisible
+    makeAsChecked,
+    makeAsSelected,
+    makeVisibility
   };
 
 });

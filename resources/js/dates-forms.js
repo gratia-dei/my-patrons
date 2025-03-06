@@ -138,7 +138,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       }
 
       if (select.options[optionId].value == optionValue) {
-        select.options[optionId].selected = uUseful.getSelectOptionSelected();
+        uUseful.makeAsSelected(select.options[optionId]);
       }
     }
   }
@@ -190,9 +190,9 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
       const year = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId);
 
-      activity.checked = uUseful.getCheckboxChecked();
+      uUseful.makeAsChecked(activity);
       if (yearDay[2] === uConst.get("LEAP_YEAR_SEPARATOR")) {
-        year.checked = uUseful.getCheckboxChecked();
+        uUseful.makeAsChecked(year);
       }
 
       makeSelectOptionSelected(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + rowId, yearDay.substring(0, 2));
@@ -213,7 +213,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
         break;
       }
 
-      select.style = (activity.checked || rowId == 1) ? uUseful.getStyleDisplayVisible() : uUseful.getStyleDisplayInvisible();
+      uUseful.makeVisibility(select, (activity.checked || rowId == 1));
     }
   }
 
@@ -272,7 +272,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       }
 
       const formElement = uDom.getElementById(uConst.get("DATE_CHANGE_FORM_ELEMENT_ID"));
-      formElement.style = uUseful.getStyleDisplayVisible();
+      uUseful.makeVisibility(formElement, true);
     }
   }
 
