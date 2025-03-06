@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "file", "notification", "sort", "useful", "marked"],
-  function(uConst, uFile, uNotification, uSort, uUseful, libMarked
+  ["const", "dom", "file", "notification", "sort", "useful", "marked"],
+  function(uConst, uDom, uFile, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -2032,7 +2032,7 @@ requirejs(
       && Date.parse(challengeDate) <= Date.parse(getToday())
     ) {
       challengeTypeDiv.style = VISIBLE_STYLE;
-      addOptionToSelect(challengeTypeSelect, '', SELECT_NAME);
+      uDom.addOptionToSelect(challengeTypeSelect, '', SELECT_NAME);
 
       let allPersonsToTakeByPersonType = {};
       let lastPersonType = '';
@@ -2076,7 +2076,7 @@ requirejs(
 
       for (const [type, name] of sorted) {
         const isSelected = (type === selectedChallengeType);
-        addOptionToSelect(challengeTypeSelect, type, name, isSelected);
+        uDom.addOptionToSelect(challengeTypeSelect, type, name, isSelected);
       }
     }
 
@@ -2246,10 +2246,10 @@ requirejs(
         }
 
         if (Object.keys(types).length > 1) {
-          addOptionToSelect(personTypeSelect, '', SELECT_NAME);
+          uDom.addOptionToSelect(personTypeSelect, '', SELECT_NAME);
         }
         for (let i in types) {
-          addOptionToSelect(personTypeSelect, i, types[i]);
+          uDom.addOptionToSelect(personTypeSelect, i, types[i]);
         }
       }
     }
@@ -2345,10 +2345,10 @@ requirejs(
 
     let persons = uSort.getSortedObject(personsToSort);
     if (persons.length > 1) {
-      addOptionToSelect(personSelect, '', SELECT_NAME);
+      uDom.addOptionToSelect(personSelect, '', SELECT_NAME);
     }
     for (let [i, personName] of persons) {
-      addOptionToSelect(personSelect, i, personName);
+      uDom.addOptionToSelect(personSelect, i, personName);
     }
 
     resetAdditionSelect();
@@ -2409,17 +2409,17 @@ requirejs(
 
       const additionsCount = Object.keys(additions).length;
       if (additionsCount > 1) {
-        addOptionToSelect(additionSelect, '', SELECT_NAME);
+        uDom.addOptionToSelect(additionSelect, '', SELECT_NAME);
       }
       if (!additionIsNotEmpty) {
-        addOptionToSelect(additionSelect, personValue, getLanguageVariable(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
+        uDom.addOptionToSelect(additionSelect, personValue, getLanguageVariable(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
 
         if (additionsCount == 0) {
           additionSelect.style = INVISIBLE_STYLE;
         }
       }
       for (let i in additions) {
-        addOptionToSelect(additionSelect, i, additions[i]);
+        uDom.addOptionToSelect(additionSelect, i, additions[i]);
       }
 
       resetNewChallengeNotesValues();
@@ -3747,7 +3747,7 @@ requirejs(
 
     let anySelectOptionAddedAfterSeparator = false;
     if (currentNoteId === EMPTY_NOTE_ID || fileDataValues[currentNoteId] == undefined) {
-      addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_NAME);
+      uDom.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_NAME);
     }
 
     let foundAnySource = false;
@@ -3759,7 +3759,7 @@ requirejs(
       if (foundAnySource && anySelectOptionAddedAfterSeparator) {
         isSelected = false;
         isDisabled = true;
-        addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
+        uDom.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
         anySelectOptionAddedAfterSeparator = false;
       }
       foundAnySource = true;
@@ -3785,7 +3785,7 @@ requirejs(
             }
             if (siblingsNoteIds[noteId] == undefined) {
               const escapedValue = getHtmlTagsEscapedString(value);
-              addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
+              uDom.addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
               selectableValues[noteId] = value;
             }
@@ -3794,10 +3794,10 @@ requirejs(
           isSelected = false;
           isDisabled = true;
           if (anySelectOptionAddedAfterSeparator) {
-            addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
+            uDom.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
           }
 
-          addOptionToSelect(selectElement, '', getLanguageVariable('lang-add-new-your-own-note') + ' ' + SELECT_NAME);
+          uDom.addOptionToSelect(selectElement, '', getLanguageVariable('lang-add-new-your-own-note') + ' ' + SELECT_NAME);
           anySelectOptionAddedAfterSeparator = true;
           break;
 
@@ -3812,7 +3812,7 @@ requirejs(
             }
             if (siblingsNoteIds[noteId] == undefined) {
               const escapedValue = getHtmlTagsEscapedString(value);
-              addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
+              uDom.addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
               selectableValues[noteId] = value;
             }
@@ -3832,7 +3832,7 @@ requirejs(
             if (siblingsNoteIds[noteId] == undefined) {
               const value = getPersonDataName(personId);
               const escapedValue = getHtmlTagsEscapedString(value);
-              addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
+              uDom.addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
               selectableValues[noteId] = personId;
             }
@@ -3852,7 +3852,7 @@ requirejs(
             if (siblingsNoteIds[noteId] == undefined) {
               const value = row.name ?? MISSING_NOTE_ID_SIGN;
               const escapedValue = getHtmlTagsEscapedString(value);
-              addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
+              uDom.addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
               selectableValues[noteId] = challengeTypeId;
             }
@@ -4173,22 +4173,6 @@ requirejs(
 
 
 
-  //dom
-  function addOptionToSelect(select, value, name, isSelected = false, isDisabled = false) {
-    const option = document.createElement('option');
-    option.innerHTML = name;
-    option.value = value;
-    if (isSelected) {
-      option.selected = true;
-    }
-    if (isDisabled) {
-      option.disabled = true;
-    }
-
-    select.append(option);
-
-    return option;
-  }
 
 
   //date
