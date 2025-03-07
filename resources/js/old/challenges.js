@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "date", "dom", "file", "notification", "sort", "useful", "marked"],
-  function(uConst, uDate, uDom, uFile, uNotification, uSort, uUseful, libMarked
+  ["const", "date", "dom", "file", "language", "notification", "sort", "useful", "marked"],
+  function(uConst, uDate, uDom, uFile, uLanguage, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -44,8 +44,6 @@ requirejs(
 
   //-------------
 
-  const DEV_HOSTNAME_REMOVE_STRING = '.dev';
-
   const ACHIEVEMENTS_GENERAL_ALL = 'lang-achievements-section-general-number-of-challenges-started';
   const ACHIEVEMENTS_GENERAL_DONE_COMPLETELY = 'lang-achievements-section-general-done-completely';
   const ACHIEVEMENTS_GENERAL_DONE = 'lang-achievements-section-general-done-without-some-optional-steps';
@@ -74,8 +72,6 @@ requirejs(
   const NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST = 1000;
 
   const MISSING_NOTE_ID_SIGN = '!!!';
-  const LANGUAGE_MISSING_VARIABLE_SIGN = '!!!';
-  const LANGUAGE_JSON_FILE = '/files/data/website-language-variables.json';
   const CHALLENGES_CONFIG_JSON_FILE = '/files/data/challenges.json';
   const NOTES_CONFIG_JSON_FILE = '/files/data/notes-types.json';
   const PERSONS_DATA_JSON_FILE = '/files/data/generated/persons-data.generated.json';
@@ -299,7 +295,6 @@ requirejs(
 
   let challengesConfig = {};
   let notesTypesConfig = {};
-  let languageVariables = {};
   let personsData = {};
   let personsDataSubelementsCache = {};
   let personsAdditionDataElementsCache = {};
@@ -324,7 +319,7 @@ requirejs(
         }
     }
 
-    languageVariables = await uFile.getJsonFromFile(LANGUAGE_JSON_FILE);
+    uLanguage.loadTranslationsFile();
     challengesConfig = await uFile.getJsonFromFile(CHALLENGES_CONFIG_JSON_FILE);
     notesTypesConfig = await uFile.getJsonFromFile(NOTES_CONFIG_JSON_FILE);
     personsData = await uFile.getJsonFromFile(PERSONS_DATA_JSON_FILE);
@@ -334,12 +329,12 @@ requirejs(
     doActionsDependentOfAdvancedMode();
     reloadFileTab();
 
-    infoNotification(getLanguageVariable('lang-challenges-form-info', true));
+    infoNotification(uLanguage.getTranslation('lang-challenges-form-info', true));
   }
 
   function getDateFormat(dateString) {
     const weekday = uDate.getWeekdayName(dateString);
-    const prefix = getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
+    const prefix = uLanguage.getTranslation(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
 
     return prefix + ' ' + dateString;
   }
@@ -386,7 +381,7 @@ requirejs(
 
   function showLoadFileWarningIfNeeded() {
     clearNotifications();
-    const message = getLanguageVariable('lang-load-file-warning', true);
+    const message = uLanguage.getTranslation('lang-load-file-warning', true);
     if (unchangedFileContent !== fileContent) {
       warningNotification(message);
     }
@@ -496,7 +491,7 @@ requirejs(
 
       unchangedFileContent = fileContent;
 
-      successNotification(getLanguageVariable('lang-file-loaded-successfully', true));
+      successNotification(uLanguage.getTranslation('lang-file-loaded-successfully', true));
     } catch (e) {
       errorNotification(e.message);
     }
@@ -510,18 +505,18 @@ requirejs(
         JSON.parse(fileContent);
         synchronizeFileData();
       } catch (e) {
-        throw new Error(getLanguageVariable('lang-cannot-save-invalid-data', true));
+        throw new Error(uLanguage.getTranslation('lang-cannot-save-invalid-data', true));
       }
 
       fileContent = JSON.stringify(fileData);
       await reloadChallengesTab();
 
       if ((fileData[DATA_FIELD_OWNER] ?? '').length === 0) {
-        throw new Error(getLanguageVariable('lang-missing-file-owner', true));
+        throw new Error(uLanguage.getTranslation('lang-missing-file-owner', true));
       } else if ((fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? '').length === 0) {
-        throw new Error(getLanguageVariable('lang-missing-filename-without-extension', true));
+        throw new Error(uLanguage.getTranslation('lang-missing-filename-without-extension', true));
       } else if (!isDataValid) {
-        throw new Error(getLanguageVariable('lang-cannot-save-invalid-data', true));
+        throw new Error(uLanguage.getTranslation('lang-cannot-save-invalid-data', true));
       }
 
       let datetimeSuffix = '';
@@ -537,7 +532,7 @@ requirejs(
 
       unchangedFileContent = fileContent;
 
-      successNotification(getLanguageVariable('lang-file-prepared-to-save-successfully', true));
+      successNotification(uLanguage.getTranslation('lang-file-prepared-to-save-successfully', true));
     } catch (e) {
       errorNotification(e.message);
     }
@@ -609,7 +604,7 @@ requirejs(
     try {
       data = JSON.parse(content);
     } catch (e) {
-      let message = getLanguageVariable('lang-invalid-json-file', true);
+      let message = uLanguage.getTranslation('lang-invalid-json-file', true);
       throw new Error(message + ' (' + e.message + ')');
     }
 
@@ -639,7 +634,7 @@ requirejs(
     } catch (e) {
       let message = e.message;
       if (LANGUAGE_VARIABLE_PREFIX === message.substring(0, LANGUAGE_VARIABLE_PREFIX.length)) {
-        message = getLanguageVariable(message, true);
+        message = uLanguage.getTranslation(message, true);
       }
       const data = e.data ?? [];
 
@@ -927,7 +922,7 @@ requirejs(
           if (!uUseful.inArray(weekday, allowedDaysOfWeek)) {
             let daysNames = [];
             for (const englishName of allowedDaysOfWeek) {
-              daysNames.push(getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + englishName));
+              daysNames.push(uLanguage.getTranslation(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + englishName));
             }
             throw {
               message: 'lang-challenge-parse-error-for-requirement-day-of-week-having-whitelist',
@@ -942,7 +937,7 @@ requirejs(
           if (!uUseful.inArray(month, allowedMonths)) {
             let monthsNames = [];
             for (const englishName of allowedMonths) {
-              monthsNames.push(getLanguageVariable(MONTH_LANGUAGE_VARIABLES_PREFIX + englishName));
+              monthsNames.push(uLanguage.getTranslation(MONTH_LANGUAGE_VARIABLES_PREFIX + englishName));
             }
             throw {
               message: 'lang-challenge-parse-error-for-requirement-month-having-whitelist',
@@ -1017,7 +1012,7 @@ requirejs(
     //check notes quantities
     for (const itemType of Object.keys(configNotes)) {
       const noteType = configNotes[itemType].type ?? {};
-      const noteName = getLanguageVariable('name', true, configNotes[itemType].name ?? {});
+      const noteName = uLanguage.getTranslation('name', true, configNotes[itemType].name ?? {});
       if (!validateNotesQuantity(challengeNotes[itemType] ?? {}, noteType)) {
         throw {
           message: 'lang-challenge-parse-error-invalid-notes-quantities',
@@ -1082,7 +1077,7 @@ requirejs(
 
     //check if checklist steps to complete on selected date are done
     for (const stepType of Object.keys(configChecklist)) {
-      const stepName = getLanguageVariable('name', true, configChecklist[stepType].name ?? {});
+      const stepName = uLanguage.getTranslation('name', true, configChecklist[stepType].name ?? {});
       const toCompleteOnSelectedDate = (configChecklist[stepType] ?? {})[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
       if (toCompleteOnSelectedDate && true !== (challengeChecklist[stepType] ?? false)) {
         throw {
@@ -1250,7 +1245,7 @@ requirejs(
           numbers[rowData.type][rowData.personUrl]--;
         }
       }
-      const typeName = getLanguageVariable('name', true, config.name ?? {});
+      const typeName = uLanguage.getTranslation('name', true, config.name ?? {});
 
       innerHtmlToSet += content
         .replace(/#row-id#/g, rowData.rowId)
@@ -1719,18 +1714,18 @@ requirejs(
   function getPersonDataName(personId) {
     const data = personsData[personId] ?? [];
 
-    return getLanguageVariable(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
+    return uLanguage.getTranslation(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
   }
 
   function getPersonDataAdditionName(personId, additionType, additionId) {
     const data = ((personsData[personId] ?? {})[additionType] ?? {})[additionId] ?? {};
 
-    return getLanguageVariable(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
+    return uLanguage.getTranslation(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
   }
 
   function getChallengeTypeName(challengeTypeId) {
     const nameLanguagesData = (challengesConfig[challengeTypeId] ?? {}).name ?? {};
-    const name = getLanguageVariable('name', false, nameLanguagesData);
+    const name = uLanguage.getTranslation('name', false, nameLanguagesData);
 
     return name + ' [' + challengeTypeId + ']';
   }
@@ -2119,12 +2114,12 @@ requirejs(
       lastSelectedChallengeType.value = challengeType;
 
       const challengeDescData = challengesConfig[challengeType].description ?? {};
-      const challengeDescFilePath = getLanguageVariable('description', false, challengeDescData.template ?? {});
+      const challengeDescFilePath = uLanguage.getTranslation('description', false, challengeDescData.template ?? {});
       const challengeDescParams = challengeDescData.params ?? [];
       importMarkdownDescription(challengeDescDiv, challengeDescFilePath, challengeDescParams, descValues);
 
       const personDescData = (challengesConfig[challengeType].person ?? {}).description ?? {};
-      const personDescFilePath = getLanguageVariable('description', false, personDescData.template ?? {});
+      const personDescFilePath = uLanguage.getTranslation('description', false, personDescData.template ?? {});
       const personDescParams = personDescData.params ?? [];
       importMarkdownDescription(personDescDiv, personDescFilePath, personDescParams, descValues);
 
@@ -2419,7 +2414,7 @@ requirejs(
         uDom.addOptionToSelect(additionSelect, '', SELECT_NAME);
       }
       if (!additionIsNotEmpty) {
-        uDom.addOptionToSelect(additionSelect, personValue, getLanguageVariable(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
+        uDom.addOptionToSelect(additionSelect, personValue, uLanguage.getTranslation(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
 
         if (additionsCount == 0) {
           additionSelect.style = INVISIBLE_STYLE;
@@ -2581,7 +2576,7 @@ requirejs(
       }
       rowId++;
     }
-    successNotification(getLanguageVariable('lang-new-challenge-created-successfully', true), gotoRowId);
+    successNotification(uLanguage.getTranslation('lang-new-challenge-created-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -2752,7 +2747,7 @@ requirejs(
     let checklist = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_CHECKLIST] ?? [];
 
     if (Object.keys(checklist).length == 0 || challengeType == null) {
-      modalBody.innerHTML = getLanguageVariable('lang-checklist-is-empty', true);
+      modalBody.innerHTML = uLanguage.getTranslation('lang-checklist-is-empty', true);
 
       return;
     }
@@ -2773,7 +2768,7 @@ requirejs(
       return;
     }
     const required = config.required ?? true;
-    const name = getLanguageVariable('name', true, config.name ?? {});
+    const name = uLanguage.getTranslation('name', true, config.name ?? {});
 
     let status = null;
     switch (value) {
@@ -2789,7 +2784,7 @@ requirejs(
         break;
     }
     const statusColor = CHECKLIST_STATUSES[status].color;
-    const statusName = getLanguageVariable(CHECKLIST_STATUSES[status].variable);
+    const statusName = uLanguage.getTranslation(CHECKLIST_STATUSES[status].variable);
 
     const content = await uFile.getFileContent(CHECKLIST_ITEM_TEMPLATE_FILE_PATH);
     element.innerHTML = content
@@ -2844,7 +2839,7 @@ requirejs(
     }
     const toCompleteOnSelectedDate = config[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
     const required = config.required ?? true;
-    const name = getLanguageVariable('name', true, config.name ?? {});
+    const name = uLanguage.getTranslation('name', true, config.name ?? {});
 
     const rowData = (fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {};
     const personId = rowData.person ?? document.getElementById(PERSON_SELECT_ELEMENT_ID).value;
@@ -2853,7 +2848,7 @@ requirejs(
     const additionName = getPersonDataAdditionName(personId, additionType, additionId);
 
     const descData = config.description ?? {};
-    const descFilePath = getLanguageVariable('description', false, descData.template ?? {});
+    const descFilePath = uLanguage.getTranslation('description', false, descData.template ?? {});
     const descParams = descData.params ?? [];
     const descValues = {
       ['row-id']: rowId,
@@ -2994,7 +2989,7 @@ requirejs(
           }
         }
       }
-      const typeName = getLanguageVariable('name', true, config.name ?? {});
+      const typeName = uLanguage.getTranslation('name', true, config.name ?? {});
 
       row.innerHTML = content
         .replace(/#row-id#/g, rowId)
@@ -3020,7 +3015,7 @@ requirejs(
     await reloadChallengesTab();
 
     const gotoRowId = Math.max(1, rowId - 1);
-    successNotification(getLanguageVariable('lang-challenge-removed-successfully', true), gotoRowId);
+    successNotification(uLanguage.getTranslation('lang-challenge-removed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3062,12 +3057,12 @@ requirejs(
     };
 
     const challengeDescData = challengesConfig[challengeType].description ?? {};
-    const challengeDescFilePath = getLanguageVariable('description', false, challengeDescData.template ?? {});
+    const challengeDescFilePath = uLanguage.getTranslation('description', false, challengeDescData.template ?? {});
     const challengeDescParams = challengeDescData.params ?? [];
     importMarkdownDescription(challengeDescInfoDiv, challengeDescFilePath, challengeDescParams, descValues);
 
     const personDescData = (challengesConfig[challengeType].person ?? {}).description ?? {};
-    const personDescFilePath = getLanguageVariable('description', false, personDescData.template ?? {});
+    const personDescFilePath = uLanguage.getTranslation('description', false, personDescData.template ?? {});
     const personDescParams = personDescData.params ?? [];
     importMarkdownDescription(personDescInfoDiv, personDescFilePath, personDescParams, descValues);
   }
@@ -3106,7 +3101,7 @@ requirejs(
     await reloadChallengesTab();
 
     const gotoRowId = Math.max(1, rowId - 1);
-    successNotification(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
+    successNotification(uLanguage.getTranslation('lang-challenges-order-changed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3123,7 +3118,7 @@ requirejs(
     await reloadChallengesTab();
 
     const gotoRowId = rowId + 1;
-    successNotification(getLanguageVariable('lang-challenges-order-changed-successfully', true), gotoRowId);
+    successNotification(uLanguage.getTranslation('lang-challenges-order-changed-successfully', true), gotoRowId);
     gotoChallenge(gotoRowId);
   }
 
@@ -3162,7 +3157,7 @@ requirejs(
     let notes = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_NOTES] ?? {};
 
     if (Object.keys(notes).length == 0 || challengeType == null) {
-      notesListElement.innerHTML = getLanguageVariable('lang-there-is-no-note-for-this-challenge', true);
+      notesListElement.innerHTML = uLanguage.getTranslation('lang-there-is-no-note-for-this-challenge', true);
 
       return;
     }
@@ -3176,8 +3171,8 @@ requirejs(
     const element = document.createElement('div');
 
     const config = ((challengesConfig[challengeType] ?? [])[CONFIG_FIELD_NOTES] ?? [])[itemType] ?? {};
-    let name = getLanguageVariable('name', true, config.name ?? {});
-    if (name.substring(0, 3) === LANGUAGE_MISSING_VARIABLE_SIGN) {
+    let name = uLanguage.getTranslation('name', true, config.name ?? {});
+    if (name.substring(0, 3) === uLanguage.getMissingVariableSign()) {
       name = itemType;
     }
 
@@ -3232,8 +3227,8 @@ requirejs(
   function getNoteTableHeaders(data, challengeConfig, depthLevelsCount) {
     let result = [];
     for (const noteType of Object.keys(challengeConfig.type ?? {})) {
-      let noteName = getLanguageVariable('name', true, (notesTypesConfig[noteType] ?? {}).name ?? {});
-      if (noteName.substring(0, 3) === LANGUAGE_MISSING_VARIABLE_SIGN) {
+      let noteName = uLanguage.getTranslation('name', true, (notesTypesConfig[noteType] ?? {}).name ?? {});
+      if (noteName.substring(0, 3) === uLanguage.getMissingVariableSign()) {
         noteName = MISSING_TABLE_HEADER_NOTE_NAME;
       }
 
@@ -3281,11 +3276,11 @@ requirejs(
     const challengeConfig = ((challengesConfig[challengeType] ?? {})[CONFIG_FIELD_NOTES] ?? {})[itemType] ?? {};
 
     if (!isNoteDataStructureValid(value)) {
-      noteElement.innerHTML = getLanguageVariable('lang-you-cannot-read-this-note-due-to-its-invalid-structure', true);
+      noteElement.innerHTML = uLanguage.getTranslation('lang-you-cannot-read-this-note-due-to-its-invalid-structure', true);
       noteElement.innerHTML += ' (json:' + JSON.stringify(value) + ')';
       return;
     } else if (!isEditMode && value.length === 0) {
-      noteElement.innerHTML = getLanguageVariable('lang-non-existence');
+      noteElement.innerHTML = uLanguage.getTranslation('lang-non-existence');
       return;
     }
 
@@ -3411,7 +3406,7 @@ requirejs(
     if (note.length > 0) {
       return note;
     } else if (noteId == 0) {
-      return getLanguageVariable('lang-empty-note-form-warning', true);
+      return uLanguage.getTranslation('lang-empty-note-form-warning', true);
     }
 
     return MISSING_NOTE_ID_SIGN + noteId + MISSING_NOTE_ID_SIGN;
@@ -3428,7 +3423,7 @@ requirejs(
     const noteNo = Number(itemPath.at(-2) ?? '0') + 1;
     const noteIndex = noteTypeConfig.index ?? '';
     const content = getNoteFromFileData(noteIndex, noteId);
-    const hint = Object.keys(noteTypeConfig.hint ?? {}).length === 0 ? '' : getLanguageVariable('name', false, noteTypeConfig.hint);
+    const hint = Object.keys(noteTypeConfig.hint ?? {}).length === 0 ? '' : uLanguage.getTranslation('name', false, noteTypeConfig.hint);
     let escapedContent = getHtmlTagsEscapedString(content);
     if ((noteTypeConfig.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_PATRONS] != undefined) {
       escapedContent = getPersonDataName(escapedContent);
@@ -3499,7 +3494,7 @@ requirejs(
 
     for (const row of list) {
       const noteId = Object.keys(row)[0] ?? '';
-      value = getLanguageVariable('name', false, row[noteId] ?? {});
+      value = uLanguage.getTranslation('name', false, row[noteId] ?? {});
 
       result.push({[noteId]: value});
     }
@@ -3804,7 +3799,7 @@ requirejs(
             uDom.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
           }
 
-          uDom.addOptionToSelect(selectElement, '', getLanguageVariable('lang-add-new-your-own-note') + ' ' + SELECT_NAME);
+          uDom.addOptionToSelect(selectElement, '', uLanguage.getTranslation('lang-add-new-your-own-note') + ' ' + SELECT_NAME);
           anySelectOptionAddedAfterSeparator = true;
           break;
 
@@ -4138,7 +4133,7 @@ requirejs(
 
   async function setRandomBibleChapter(language) {
     const button = document.getElementById(RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID);
-    button.innerHTML = getLanguageVariable('lang-randomize-the-chapter', true);
+    button.innerHTML = uLanguage.getTranslation('lang-randomize-the-chapter', true);
 
     const data = await uFile.getJsonFromFile(BIBLE_CHAPTERS_DATA_JSON_FILE);
 
@@ -4178,51 +4173,12 @@ requirejs(
 
 
 
-  //language
-  function getLanguage() {
-    const hostname = getHostname();
-
-    return hostname.replace(/\..*$/, '');
-  }
-
-  function getLanguageVariable(variable, capitalize = false, variableTranslations = languageVariables[variable]) {
-    let result = LANGUAGE_MISSING_VARIABLE_SIGN;
-
-    if (variableTranslations === undefined) {
-      return result;
-    }
-
-    let language = getLanguage();
-    let translation = variableTranslations[language];
-    let foundLanguageTranslation = true;
-
-    if (translation === undefined) {
-      foundLanguageTranslation = false;
-      for (language in variableTranslations) {
-        result = variableTranslations[language];
-        break;
-      }
-    } else {
-      result = translation;
-    }
-
-    if (capitalize) {
-      result = result.charAt(0).toUpperCase() + result.slice(1);
-    }
-
-    if (!foundLanguageTranslation) {
-      result += ' [' + language + ']';
-    }
-
-    return result;
-  }
-
 
 
 
   //env
   function getHostname() {
-    return window.location.hostname.toLowerCase().replace(DEV_HOSTNAME_REMOVE_STRING + '.', '.');
+    return window.location.hostname.toLowerCase();
   }
 
   function getSearchString() {
@@ -4301,7 +4257,7 @@ requirejs(
       const row = document.createElement('tr');
 
       const nameCell = document.createElement('td');
-      const name = getLanguageVariable(label, isUpperCase);
+      const name = uLanguage.getTranslation(label, isUpperCase);
       nameCell.innerHTML = (isFirstRow ? '' : '- ') + name;
       row.append(nameCell);
 

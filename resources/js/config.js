@@ -29,7 +29,7 @@ requirejs.config({
       deps: ["env"]
     },
     language: {
-      deps: ["env", "location"]
+      deps: ["const", "env", "file", "location"]
     },
     location: {
       deps: ["env"]
