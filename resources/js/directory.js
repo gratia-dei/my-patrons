@@ -32,7 +32,7 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
     const list = uDom.getElementsByClassName(uConst.get("DIRECTORY_LIST_ITEM_ELEMENT_CLASS"));
 
     const notFound = uDom.getElementById(uConst.get("NOT_FOUND_ELEMENT_ID"));
-    uUseful.makeVisibility(notFound, false);
+    uUseful.setVisibility(notFound, false);
 
     let found = false;
     for (const element of list) {
@@ -43,11 +43,11 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
         found = true;
       }
 
-      uUseful.makeVisibility(element, isMatching);
-      uUseful.makeVisibility(element.parentNode, isMatching);
+      uUseful.setVisibility(element, isMatching);
+      uUseful.setVisibility(element.parentNode, isMatching);
     }
 
-    uUseful.makeVisibility(notFound, !found);
+    uUseful.setVisibility(notFound, !found);
   }
 
   function loadNewSearch() {

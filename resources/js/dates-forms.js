@@ -213,7 +213,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
         break;
       }
 
-      uUseful.makeVisibility(select, (activity.checked || rowId == 1));
+      uUseful.setVisibility(select, (activity.checked || rowId == 1));
     }
   }
 
@@ -272,7 +272,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
       }
 
       const formElement = uDom.getElementById(uConst.get("DATE_CHANGE_FORM_ELEMENT_ID"));
-      uUseful.makeVisibility(formElement, true);
+      uUseful.setVisibility(formElement, true);
     }
   }
 
