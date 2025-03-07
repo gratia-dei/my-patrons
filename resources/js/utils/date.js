@@ -22,9 +22,72 @@ define(["const"], function(uConst) {
     return yearStr + "-" + monthStr + "-" + dayStr;
   }
 
+  function getToday() {
+    return new Date().toJSON().slice(0, 10);
+  }
+
+  function getUtcDatetime() {
+    return new Date()
+      .toJSON()
+      .replace(/[.].*$/g, '')
+      .replace('T', ' ')
+    ;
+  }
+
+
+
+  function getYear(dateStr) {
+    return dateStr.toString().replace(/[^0-9].+$/, "");
+  }
+
+  function getMonth(dateStr) {
+    return dateStr.toString().slice(-5).substring(0, 2);
+  }
+
   function getDay(dateStr) {
     return dateStr.toString().slice(-2);
   }
+
+  function getWeekdayName(dateStr) {
+    return new Date(dateStr).toLocaleString('en-us', {weekday: 'long'}).toLowerCase();
+  }
+
+  function getMonthName(dateStr) {
+    return new Date(dateStr).toLocaleString('en-us', {month: 'long'}).toLowerCase();
+  }
+
+
+
+  function getIntYear(dateStr) {
+    const valueStr = getYear(dateStr);
+
+    return Number(valueStr);
+  }
+
+  function getIntMonth(dateStr) {
+    const valueStr = getMonth(dateStr);
+
+    return Number(valueStr);
+  }
+
+  function getIntDay(dateStr) {
+    const valueStr = getDay(dateStr);
+
+    return Number(valueStr);
+  }
+
+
+
+  function isValid(dateStr) {
+    return null !== getValidYearMonthDayArray(dateStr);
+  }
+
+  function isYearLeap(year) {
+    return !(year % 4 != 0 || (year % 100 == 0 && year % 400 != 0));
+  }
+
+
+
 
   function getDateMovedByDays(dateStr, daysToAdd) {
     const yearMonthDay = getValidYearMonthDayArray(dateStr);
@@ -46,7 +109,7 @@ define(["const"], function(uConst) {
         if (day > currentMonthDaysCount) {
           month++;
           day = 1;
-          if(month > 12) {
+          if (month > 12) {
             year++;
             month = 1;
           }
@@ -82,26 +145,13 @@ define(["const"], function(uConst) {
     return yearStr + "-" + monthStr + "-" + dayStr;
   }
 
-  function getIntDay(dateStr) {
-    const valueStr = getDay(dateStr);
+  function getDatesDiffInDays(firstDateStr, secondDateStr) {
+    const dayMiliseconds = 24 * 60 * 60 * 1000;
+    const firstDate = Date.parse(firstDateStr);
+    const secondDate = Date.parse(secondDateStr);
+    const diffInDays = Math.round((firstDate - secondDate) / dayMiliseconds);
 
-    return Number(valueStr);
-  }
-
-  function getIntMonth(dateStr) {
-    const valueStr = getMonth(dateStr);
-
-    return Number(valueStr);
-  }
-
-  function getIntYear(dateStr) {
-    const valueStr = getYear(dateStr);
-
-    return Number(valueStr);
-  }
-
-  function getMonth(dateStr) {
-    return dateStr.toString().slice(-5).substring(0, 2);
+    return diffInDays;
   }
 
   function getMonthDaysCount(year, month) {
@@ -120,6 +170,8 @@ define(["const"], function(uConst) {
     return null;
   }
 
+
+
   function getLeapYearExample() {
     return uConst.get("DATE/LEAP_YEAR_EXAMPLE");
   }
@@ -127,6 +179,8 @@ define(["const"], function(uConst) {
   function getNonLeapYearExample() {
     return uConst.get("DATE/NON_LEAP_YEAR_EXAMPLE");
   }
+
+
 
   function getValidYearMonthDayArray(dateStr) {
     const matches = dateStr.match(/^([0-9]{1,4})-([0-9]{2})-([0-9]{2})$/);
@@ -151,36 +205,29 @@ define(["const"], function(uConst) {
     return [year, month, day];
   }
 
-  function isValid(dateStr) {
-    return null !== getValidYearMonthDayArray(dateStr);
-  }
-
-  function getYear(dateStr) {
-    return dateStr.toString().replace(/[^0-9].+$/, "");
-  }
-
-  function isYearLeap(year) {
-    return !(year % 4 != 0 || (year % 100 == 0 && year % 400 != 0));
-  }
-
   return {
     getCurrentDate,
-
-    getDateMovedByDays,
+    getToday,
+    getUtcDatetime,
 
     getDay,
     getMonth,
     getYear,
+    getWeekdayName,
+    getMonthName,
 
     getIntDay,
     getIntMonth,
     getIntYear,
 
-    getNonLeapYearExample,
-    getLeapYearExample,
-
     isValid,
-    isYearLeap
+    isYearLeap,
+
+    getDateMovedByDays,
+    getDatesDiffInDays,
+
+    getNonLeapYearExample,
+    getLeapYearExample
   };
 
 });

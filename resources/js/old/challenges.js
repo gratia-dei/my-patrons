@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "dom", "file", "notification", "sort", "useful", "marked"],
-  function(uConst, uDom, uFile, uNotification, uSort, uUseful, libMarked
+  ["const", "date", "dom", "file", "notification", "sort", "useful", "marked"],
+  function(uConst, uDate, uDom, uFile, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -337,6 +337,13 @@ requirejs(
     infoNotification(getLanguageVariable('lang-challenges-form-info', true));
   }
 
+  function getDateFormat(dateString) {
+    const weekday = uDate.getWeekdayName(dateString);
+    const prefix = getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
+
+    return prefix + ' ' + dateString;
+  }
+
   function isAdvancedMode() {
     const search = getSearchString();
 
@@ -519,7 +526,7 @@ requirejs(
 
       let datetimeSuffix = '';
       if (true === (fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE)) {
-        datetimeSuffix = '-' + getDatetimeSuffix();
+        datetimeSuffix = '-' + uDate.getUtcDatetime().replace(/[^ 0-9]/g, '').replace(/ /, '-');
       }
 
       var blob = new Blob([fileContent], {type: JSON_MIME_TYPE});
@@ -643,7 +650,7 @@ requirejs(
 
   function parseChallenge(rowId, challenge, contextData) {
     const challengeType = challenge.type ?? '';
-    const challengeDate = challenge.date ?? getToday();
+    const challengeDate = challenge.date ?? uDate.getToday();
     const challengePerson = challenge.person ?? '';
     const challengeAddition = challenge.addition ?? '';
     const challengePersonWithAddition = challengePerson + PERSON_ADDITION_SEPARATOR + challengeAddition;
@@ -705,7 +712,7 @@ requirejs(
         case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY:
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
-              || getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 1
+              || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 1
             ) {
               if (challengeType !== type || (manyPersonsCountsContext[type] ?? null) !== null) {
                 throw {
@@ -720,7 +727,7 @@ requirejs(
         case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS:
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
-              || getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 7
+              || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 7
             ) {
               if (!isWarningIgnoredForOldChallenges(challengeDate, type, reqName)
                 && (challengeType !== type || (manyPersonsCountsContext[type] ?? null) !== null)
@@ -737,7 +744,7 @@ requirejs(
         case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS:
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
-              || getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 40
+              || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 40
             ) {
               if (!isWarningIgnoredForOldChallenges(challengeDate, type, reqName)
                 && (challengeType !== type || (manyPersonsCountsContext[type] ?? null) !== null)
@@ -754,7 +761,7 @@ requirejs(
         case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS:
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
-              || getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 100
+              || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 100
             ) {
               if (!isWarningIgnoredForOldChallenges(challengeDate, type, reqName)
                 && (challengeType !== type || (manyPersonsCountsContext[type] ?? null) !== null)
@@ -771,7 +778,7 @@ requirejs(
         case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY:
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
-              || getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) !== 0
+              || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) !== 0
             ) {
               throw {
                 message: 'lang-challenge-parse-error-for-requirement-anybody-having-challenges-on-the-same-day',
@@ -886,7 +893,7 @@ requirejs(
                 break;
               }
 
-              const isDateToCheckYearLeap = isYearLeap(dateToCheck.substring(0, 4));
+              const isDateToCheckYearLeap = uDate.isYearLeap(dateToCheck.substring(0, 4));
               const leapYearSeparator = isDateToCheckYearLeap ? MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR : MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR;
               if (true === ((immovableDatesPatronsData[monthWithDay.replace('-', leapYearSeparator)] ?? {})[challengePerson] ?? false)) {
                 foundAny = true;
@@ -915,7 +922,7 @@ requirejs(
           break;
 
         case REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST:
-          const weekday = getWeekdayForDateString(challengeDate);
+          const weekday = uDate.getWeekdayName(challengeDate);
           const allowedDaysOfWeek = reqTypes;
           if (!uUseful.inArray(weekday, allowedDaysOfWeek)) {
             let daysNames = [];
@@ -930,7 +937,7 @@ requirejs(
           break;
 
         case REQUIREMENT_MONTH_HAVING_WHITELIST:
-          const month = getMonthForDateString(challengeDate);
+          const month = uDate.getMonthName(challengeDate);
           const allowedMonths = reqTypes;
           if (!uUseful.inArray(month, allowedMonths)) {
             let monthsNames = [];
@@ -945,7 +952,7 @@ requirejs(
           break;
 
         case REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM:
-          const dayOfMonth = getDayOfMonthForDateString(challengeDate);
+          const dayOfMonth = uDate.getIntDay(challengeDate);
           const maxAllowedDayOfMonth = reqTypes;
           if (dayOfMonth > maxAllowedDayOfMonth) {
             throw {
@@ -1397,7 +1404,7 @@ requirejs(
   }
 
   function isChallengeDateInLiturgicalSeason(challengeDate, liturgicalSeason) {
-    const year = getDateYear(challengeDate);
+    const year = uDate.getIntYear(challengeDate);
     const dateRangeString = (liturgicalSeasonsData[liturgicalSeason] ?? {})[year] ?? null;
 
     if (dateRangeString === null) {
@@ -1422,14 +1429,14 @@ requirejs(
     }
     const daysBeforeLiturgicalSeasonEnd = Number(liturgicalSeasonDaysDiffArray[1] ?? 0);
 
-    const year = getDateYear(challengeDate);
+    const year = uDate.getIntYear(challengeDate);
     const dateRangeString = (liturgicalSeasonsData[liturgicalSeason] ?? {})[year] ?? null;
     if (dateRangeString === null) {
       return false;
     }
     const dateRangeArray = dateRangeString.split(' ');
 
-    const daysDiff = getDatesDiffInDays(dateRangeArray[1], challengeDate);
+    const daysDiff = uDate.getDatesDiffInDays(dateRangeArray[1], challengeDate);
 
     return daysDiff > daysBeforeLiturgicalSeasonEnd;
   }
@@ -1460,7 +1467,7 @@ requirejs(
         }
 
         if (numberOfDaysBeforeCheckDate !== null) {
-          const diffInDays = getDatesDiffInDays(checkDateString, date);
+          const diffInDays = uDate.getDatesDiffInDays(checkDateString, date);
           if (diffInDays > numberOfDaysBeforeCheckDate) {
             continue;
           }
@@ -1624,7 +1631,7 @@ requirejs(
 
   function checkIfChallengeDayOfWeekIsOnWhitelist(allowedDaysOfWeek, challengeDate) {
     if (allowedDaysOfWeek.length > 0) {
-      const weekday = getWeekdayForDateString(challengeDate);
+      const weekday = uDate.getWeekdayName(challengeDate);
 
       return uUseful.inArray(weekday, allowedDaysOfWeek);
     }
@@ -1634,7 +1641,7 @@ requirejs(
 
   function checkIfChallengeMonthIsOnWhitelist(allowedMonths, challengeDate) {
     if (allowedMonths.length > 0) {
-      const month = getMonthForDateString(challengeDate);
+      const month = uDate.getMonthName(challengeDate);
 
       return uUseful.inArray(month, allowedMonths);
     }
@@ -1644,7 +1651,7 @@ requirejs(
 
   function checkIfChallengeDayOfMonthIsNotGreaterThanMaximum(maximum, challengeDate) {
     if (maximum > 0) {
-      const dayOfMonth = getDayOfMonthForDateString(challengeDate);
+      const dayOfMonth = uDate.getIntDay(challengeDate);
 
       return dayOfMonth <= maximum;
     }
@@ -1912,11 +1919,11 @@ requirejs(
     }
 
     if (isImmovableDatesChallengeType) {
-      const isCheckDateYearLeap = isYearLeap(checkDateString.substring(0, 4));
+      const isCheckDateYearLeap = uDate.isYearLeap(checkDateString.substring(0, 4));
 
       let monthWithDayList = {};
       for (const dateString of Object.keys(immovableTakenDates)) {
-        const isDateYearLeap = isYearLeap(dateString.substring(0, 4));
+        const isDateYearLeap = uDate.isYearLeap(dateString.substring(0, 4));
         const monthWithDay = dateString.substring(5);
         const leapYearSeparator = isDateYearLeap ? MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR : MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR;
 
@@ -2004,7 +2011,7 @@ requirejs(
 
   function resetDateInput() {
     let dateInput = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID);
-    dateInput.value = getToday();
+    dateInput.value = uDate.getToday();
 
     let challengeTypeSelect = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
     challengeTypeSelect.value = '';
@@ -2029,7 +2036,7 @@ requirejs(
 
     if (challengeDate.match(/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/)
       && Date.parse(challengeDate) >= Date.parse(MIN_CHALLENGE_DATE_ALLOWED)
-      && Date.parse(challengeDate) <= Date.parse(getToday())
+      && Date.parse(challengeDate) <= Date.parse(uDate.getToday())
     ) {
       challengeTypeDiv.style = VISIBLE_STYLE;
       uDom.addOptionToSelect(challengeTypeSelect, '', SELECT_NAME);
@@ -2919,7 +2926,7 @@ requirejs(
       case DESCRIPTION_VALUE_PARAM:
         return paramValue;
       case 'current-year':
-        return getToday().substring(0, 4);
+        return uDate.getToday().substring(0, 4);
       case 'immovable-dates':
         return getImmovableDatesSiteParam();
       default:
@@ -2947,7 +2954,7 @@ requirejs(
     for (const challengeType of IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST) {
       const dateString = lastDates[challengeType] ?? '';
       let monthWithDay = dateString.substring(5);
-      if (isYearLeap(dateString.substring(0, 4))) {
+      if (uDate.isYearLeap(dateString.substring(0, 4))) {
         monthWithDay = monthWithDay.replace(/-/, MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE);
       }
 
@@ -3516,7 +3523,7 @@ requirejs(
       const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
       let challengeDate = (challenges[rowId - 1] ?? {}).date ?? null;
       if (challengeDate == null) {
-        challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value ?? getToday();
+        challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value ?? uDate.getToday();
       }
 
       persons = getPersonsHavingAllChallenges(typesNeeded, challengeDate);
@@ -3882,7 +3889,7 @@ requirejs(
       challengeRowId = challenges.length;
     }
 
-    const challengeDate = Date.parse((challenges[challengeRowId - 1] ?? {}).date ?? getToday());
+    const challengeDate = Date.parse((challenges[challengeRowId - 1] ?? {}).date ?? uDate.getToday());
 
     let rowId = 0;
     for (const challenge of challenges) {
@@ -3891,7 +3898,7 @@ requirejs(
         break;
       }
 
-      const date = Date.parse(challenge.date ?? getToday());
+      const date = Date.parse(challenge.date ?? uDate.getToday());
       const type = challenge.type;
       const notes = challenge.notes;
       const notesConfig = (challengesConfig[type] ?? {})[DATA_FIELD_NOTES] ?? {};
@@ -4167,68 +4174,7 @@ requirejs(
 
 
 
-
-
   //////////////////////// functions to migrate
-
-
-
-
-
-  //date
-  function getDatesDiffInDays(firstDateStr, secondDateStr) {
-    const dayMiliseconds = 24 * 60 * 60 * 1000;
-    const firstDate = Date.parse(firstDateStr);
-    const secondDate = Date.parse(secondDateStr);
-    const diffInDays = Math.round((firstDate - secondDate) / dayMiliseconds);
-
-    return diffInDays;
-  }
-
-  function isYearLeap(year) {
-    return ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
-  }
-
-  function getDateYear(date) {
-    return Number(date.substring(0, 4));
-  }
-
-  function getWeekdayForDateString(dateString) {
-    return new Date(dateString).toLocaleString('en-us', {weekday: 'long'}).toLowerCase();
-  }
-
-  function getDayOfMonthForDateString(dateString) {
-    return Number(dateString.substring(8));
-  }
-
-  function getMonthForDateString(dateString) {
-    return new Date(dateString).toLocaleString('en-us', {month: 'long'}).toLowerCase();
-  }
-
-  function getDateFormat(dateString) {
-    const weekday = getWeekdayForDateString(dateString);
-    const prefix = getLanguageVariable(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
-
-    return prefix + ' ' + dateString;
-  }
-
-  function getToday() {
-    return new Date().toJSON().slice(0, 10);
-  }
-
-  function getDatetimeSuffix() {
-    return new Date()
-      .toJSON()
-      .replace(/[.].*$/g, '')
-      .replace(/[^0-9T]/g, '')
-      .replace('T', '-')
-    ;
-  }
-
-
-
-
-
 
 
 
