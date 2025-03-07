@@ -5,7 +5,7 @@ requirejs.config({
   paths: {
     const: "js/utils/const",
     date: "js/utils/date",
-    dom: "js/utils/dom",
+    document: "js/utils/document",
     env: "js/utils/env",
     file: "js/utils/file",
     global: "js/utils/global",
@@ -25,7 +25,7 @@ requirejs.config({
     date: {
       deps: ["const"]
     },
-    dom: {
+    document: {
       deps: ["env"]
     },
     language: {
@@ -35,7 +35,7 @@ requirejs.config({
       deps: ["env"]
     },
     notification: {
-      deps: ["const", "dom", "file"]
+      deps: ["const", "document", "file"]
     },
     scroll: {
       deps: ["env"]

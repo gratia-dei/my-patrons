@@ -1,4 +1,4 @@
-define(["const", "dom", "file"], function(uConst, uDom, uFile) {
+define(["const", "document", "file"], function(uConst, uDocument, uFile) {
 
   uConst
     .set("NOTIFICATION/ELEMENT_ID", "notifications")
@@ -11,7 +11,7 @@ define(["const", "dom", "file"], function(uConst, uDom, uFile) {
   ;
 
   async function show(type, message, link) {
-    const notifications = uDom.getElementById(uConst.get("NOTIFICATION/ELEMENT_ID"));
+    const notifications = uDocument.getElementById(uConst.get("NOTIFICATION/ELEMENT_ID"));
     const content = await uFile.getFileContent(uConst.get("NOTIFICATION/TEMPLATE_FILE_PATH"));
 
     const wrapper = document.createElement('a');
@@ -28,7 +28,7 @@ define(["const", "dom", "file"], function(uConst, uDom, uFile) {
   }
 
   function clear() {
-    const notifications = uDom.getElementById(uConst.get("NOTIFICATION/ELEMENT_ID"));
+    const notifications = uDocument.getElementById(uConst.get("NOTIFICATION/ELEMENT_ID"));
     notifications.innerHTML = '';
   }
 

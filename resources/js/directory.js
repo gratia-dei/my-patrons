@@ -1,4 +1,4 @@
-requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, uEnv, uLocation, uUseful) {
+requirejs(["const", "document", "env", "location", "useful"], function(uConst, uDocument, uEnv, uLocation, uUseful) {
 
   uConst
     .set("SEARCH_QUERY_PARAM", "q")
@@ -29,9 +29,9 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
   }
 
   function displayOnlyMatchingElements(searchString) {
-    const list = uDom.getElementsByClassName(uConst.get("DIRECTORY_LIST_ITEM_ELEMENT_CLASS"));
+    const list = uDocument.getElementsByClassName(uConst.get("DIRECTORY_LIST_ITEM_ELEMENT_CLASS"));
 
-    const notFound = uDom.getElementById(uConst.get("NOT_FOUND_ELEMENT_ID"));
+    const notFound = uDocument.getElementById(uConst.get("NOT_FOUND_ELEMENT_ID"));
     uUseful.setVisibility(notFound, false);
 
     let found = false;
@@ -51,7 +51,7 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
   }
 
   function loadNewSearch() {
-    const searchInput = uDom.getElementById(uConst.get("SEARCH_INPUT_ELEMENT_ID"));
+    const searchInput = uDocument.getElementById(uConst.get("SEARCH_INPUT_ELEMENT_ID"));
     const value = searchInput.value ?? '';
 
     const params = uLocation.getUrlSearchParams();
@@ -65,7 +65,7 @@ requirejs(["const", "dom", "env", "location", "useful"], function(uConst, uDom, 
     const params = uLocation.getUrlSearchParams();
     const searchParam = uLocation.getSearchParam(params, uConst.get("SEARCH_QUERY_PARAM")) ?? '';
 
-    const searchInput = uDom.getElementById(uConst.get("SEARCH_INPUT_ELEMENT_ID"));
+    const searchInput = uDocument.getElementById(uConst.get("SEARCH_INPUT_ELEMENT_ID"));
     searchInput.value = searchParam;
 
     const preparedSearchParam = getPreparedSearchString(searchParam);

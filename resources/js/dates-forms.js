@@ -1,4 +1,4 @@
-requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst, uDate, uDom, uEnv, uLocation, uUseful) {
+requirejs(["const", "date", "document", "env", "location", "useful"], function(uConst, uDate, uDocument, uEnv, uLocation, uUseful) {
 
   uConst
     .set("FORM_ERROR_MESSAGE_ID_PREFIX", "form-error-message-")
@@ -83,13 +83,13 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
 
     const dateStr = getSettedFullDate();
 
-    const year1000 = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "1000").value;
-    const year100 = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "100").value;
-    const year10 = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "10").value;
-    const year1 = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "1").value;
+    const year1000 = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "1000").value;
+    const year100 = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "100").value;
+    const year10 = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "10").value;
+    const year1 = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + "1").value;
     const year = year1000 * 1000 + year100 * 100 + year10 * 10 + year1 * 1;
-    const monthStr = uDom.getElementById(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + "1").value;
-    const dayStr = uDom.getElementById(uConst.get("FORM_FIELD_DAY_ELEMENT_ID_PREFIX") + "1").value;
+    const monthStr = uDocument.getElementById(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + "1").value;
+    const dayStr = uDocument.getElementById(uConst.get("FORM_FIELD_DAY_ELEMENT_ID_PREFIX") + "1").value;
 
     const selectedDateStr = year.toString() + "-" + monthStr + "-" + dayStr;
 
@@ -102,7 +102,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
   }
 
   function setFormErrorMessage(id, message) {
-    uDom.getElementById(uConst.get("FORM_ERROR_MESSAGE_ID_PREFIX") + id).innerHTML = message;
+    uDocument.getElementById(uConst.get("FORM_ERROR_MESSAGE_ID_PREFIX") + id).innerHTML = message;
   }
 
   function buildSingleFullForm() {
@@ -127,7 +127,7 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
   }
 
   function makeSelectOptionSelected(selectId, optionValue) {
-    let select = uDom.getElementById(selectId);
+    let select = uDocument.getElementById(selectId);
     if (!select || !select.options) {
       return;
     }
@@ -187,8 +187,8 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
         continue;
       }
 
-      const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
-      const year = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId);
+      const activity = uDocument.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
+      const year = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId);
 
       activity.checked = true;
       if (yearDay[2] === uConst.get("LEAP_YEAR_SEPARATOR")) {
@@ -207,8 +207,8 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
     while (true) {
       rowId++;
 
-      const select = uDom.getElementById(uConst.get("FORM_FIELD_DATE_SELECTION_ELEMENT_ID_PREFIX") + rowId);
-      const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
+      const select = uDocument.getElementById(uConst.get("FORM_FIELD_DATE_SELECTION_ELEMENT_ID_PREFIX") + rowId);
+      const activity = uDocument.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
       if (select == null || activity == null) {
         break;
       }
@@ -226,17 +226,17 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
     while (true) {
       rowId++;
 
-      const activity = uDom.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
+      const activity = uDocument.getElementById(uConst.get("FORM_FIELD_ACTIVITY_ELEMENT_ID_PREFIX") + rowId);
       if (activity == null) {
         break;
       }
 
       if (activity.checked) {
-        const isYearLeap = uDom.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId).checked;
+        const isYearLeap = uDocument.getElementById(uConst.get("FORM_FIELD_YEAR_ELEMENT_ID_PREFIX") + rowId).checked;
 
         const yearStr = isYearLeap ? uDate.getLeapYearExample() : uDate.getNonLeapYearExample();
-        const monthStr = uDom.getElementById(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + rowId).value;
-        const dayStr = uDom.getElementById(uConst.get("FORM_FIELD_DAY_ELEMENT_ID_PREFIX") + rowId).value;
+        const monthStr = uDocument.getElementById(uConst.get("FORM_FIELD_MONTH_ELEMENT_ID_PREFIX") + rowId).value;
+        const dayStr = uDocument.getElementById(uConst.get("FORM_FIELD_DAY_ELEMENT_ID_PREFIX") + rowId).value;
 
         if (!uDate.isValid(yearStr + "-" + monthStr + "-" + dayStr)) {
           setFormErrorMessage(rowId, uConst.get("ERROR_ICON"));
@@ -264,14 +264,14 @@ requirejs(["const", "date", "dom", "env", "location", "useful"], function(uConst
     const formVisibleMode = uLocation.getSearchParam(params, uConst.get("FORM_VISIBLE_MODE_FIELD_NAME")) ?? '';
 
     if (formVisibleMode !== uConst.get("FORM_VISIBLE_MODE_FIELD_VALUE")) {
-      const formType = uDom.getElementById(uConst.get("FORM_TYPE_ELEMENT_ID")).value;
+      const formType = uDocument.getElementById(uConst.get("FORM_TYPE_ELEMENT_ID")).value;
       if (formType == uConst.get("FORM_TYPE_SINGLE_FULL")) {
         buildSingleFullForm();
       } else if (formType == uConst.get("FORM_TYPE_MULTI_YEAR_DAYS")) {
         buildMultiYearDaysForm();
       }
 
-      const formElement = uDom.getElementById(uConst.get("DATE_CHANGE_FORM_ELEMENT_ID"));
+      const formElement = uDocument.getElementById(uConst.get("DATE_CHANGE_FORM_ELEMENT_ID"));
       uUseful.setVisibility(formElement, true);
     }
   }
