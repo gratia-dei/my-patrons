@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "date", "dom", "file", "language", "location", "notification", "sort", "useful", "marked"],
-  function(uConst, uDate, uDom, uFile, uLanguage, uLocation, uNotification, uSort, uUseful, libMarked
+  ["const", "date", "dom", "env", "file", "language", "location", "notification", "sort", "useful", "marked"],
+  function(uConst, uDate, uDom, uEnv, uFile, uLanguage, uLocation, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -86,9 +86,6 @@ requirejs(
   const CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-create-mode-note-cell-item.html';
   const MARKDOWN_FILES_ROOT_PATH = '/files/resources/md/';
 
-  const INVISIBLE_STYLE = 'display: none';
-  const VISIBLE_STYLE = '';
-
   const DEFAULT_JSON_FILENAME = '';
   const DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE = true;
   const MIN_CHALLENGE_DATE_ALLOWED = '1901-01-01';
@@ -142,6 +139,11 @@ requirejs(
   const REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID = 'required-checklist-steps-list';
   const REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID = 'required-checklist-steps-info';
   const NOTE_CELL_ELEMENT_ID_PREFIX = 'note-cell-';
+  const NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX = '-edit-button';
+  const NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX = '-move-up-button';
+  const NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX = '-move-down-button';
+  const NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX = '-remove-button';
+  const NOTE_CELL_HINT_ELEMENT_ID_SUFFIX = '-hint';
   const NOTE_ITEM_ELEMENT_ID_PREFIX = 'note-item-';
   const NOTE_VALUE_ELEMENT_ID_PREFIX = 'note-value-';
   const NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX = '-table-body';
@@ -340,8 +342,8 @@ requirejs(
   function doActionsDependentOfAdvancedMode() {
     const advancedMode = isAdvancedMode();
 
-    const jsonEditorButton = document.getElementById(JSON_EDITOR_BUTTON_ELEMENT_ID);
-    jsonEditorButton.style = advancedMode ? VISIBLE_STYLE : INVISIBLE_STYLE;
+    const jsonEditorButton = uDom.getElementById(JSON_EDITOR_BUTTON_ELEMENT_ID);
+    uUseful.setVisibility(jsonEditorButton, advancedMode);
   }
 
   function getHtmlTagsEscapedString(string) {
@@ -450,14 +452,14 @@ requirejs(
   }
 
   function setDivVisibilities(challengesCount) {
-    noRowsElements = document.getElementsByClassName(CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID);
-    anyRowsElements = document.getElementsByClassName(CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID);
+    noRowsElements = uDom.getElementsByClassName(CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID);
+    anyRowsElements = uDom.getElementsByClassName(CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID);
 
     for (const element of noRowsElements) {
-      element.style = challengesCount > 0 ? INVISIBLE_STYLE : VISIBLE_STYLE;
+      uUseful.setVisibility(element, (challengesCount <= 0));
     }
     for (const element of anyRowsElements) {
-      element.style = challengesCount > 0 ? VISIBLE_STYLE : INVISIBLE_STYLE;
+      uUseful.setVisibility(element, (challengesCount > 0));
     }
   }
 
@@ -517,9 +519,9 @@ requirejs(
       }
 
       var blob = new Blob([fileContent], {type: JSON_MIME_TYPE});
-      var a = document.createElement('a');
+      var a = uDom.createElement('a');
       a.download = fileName + datetimeSuffix + JSON_DATA_FILE_EXTENSION;
-      a.href = window.URL.createObjectURL(blob);
+      a.href = uEnv.getWindow().URL.createObjectURL(blob);
       a.click();
 
       unchangedFileContent = fileContent;
@@ -534,9 +536,9 @@ requirejs(
     try {
       clearNotifications();
 
-      let inputForOwner = document.getElementById(INPUT_FOR_OWNER_ELEMENT_ID);
-      let inputForFilenameWithoutExtension = document.getElementById(INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
-      let datetimeCheckboxForFilenameWithoutExtension = document.getElementById(DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
+      let inputForOwner = uDom.getElementById(INPUT_FOR_OWNER_ELEMENT_ID);
+      let inputForFilenameWithoutExtension = uDom.getElementById(INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
+      let datetimeCheckboxForFilenameWithoutExtension = uDom.getElementById(DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
 
       inputForOwner.value = '';
       inputForFilenameWithoutExtension.value = '';
@@ -573,7 +575,7 @@ requirejs(
       let content = fileContent;
       content = JSON.stringify(fileData, null, JSON_STRINGIFY_SPACES);
 
-      document.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value = content;
+      uDom.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value = content;
       fileData = parseFileDataFromContent(fileContent);
     } catch (e) {
       errorNotification(e.message);
@@ -583,7 +585,7 @@ requirejs(
   async function setFileContentFromJsonEditor() {
     try {
       clearNotifications();
-      fileContent = document.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value;
+      fileContent = uDom.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value;
       fileData = parseFileDataFromContent(fileContent);
       await reloadChallengesTab();
     } catch (e) {
@@ -1200,7 +1202,7 @@ requirejs(
   }
 
   async function fillChallenges(challenges) {
-    const list = document.getElementById(CHALLENGES_ELEMENT_ID);
+    const list = uDom.getElementById(CHALLENGES_ELEMENT_ID);
     list.innerHTML = '';
 
     const content = await uFile.getFileContent(CHALLENGE_ITEM_TEMPLATE_FILE_PATH);
@@ -1257,16 +1259,17 @@ requirejs(
     list.innerHTML = innerHtmlToSet;
 
     for (let rowData of allRowsData) {
-      const personUrlElement = document.getElementById(PERSON_URL_ELEMENT_ID_PREFIX + rowData.rowId);
-      const additionUrlElement = document.getElementById(ADDITION_URL_ELEMENT_ID_PREFIX + rowData.rowId);
-      const moveChallengeUpButton = document.getElementById(MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
-      const moveChallengeDownButton = document.getElementById(MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
+      const personUrlElement = uDom.getElementById(PERSON_URL_ELEMENT_ID_PREFIX + rowData.rowId);
+      const additionUrlElement = uDom.getElementById(ADDITION_URL_ELEMENT_ID_PREFIX + rowData.rowId);
+      const moveChallengeUpButton = uDom.getElementById(MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
+      const moveChallengeDownButton = uDom.getElementById(MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
 
       if (rowData.date !== (challenges[rowData.rowId - 2] ?? {}).date ?? '') {
-        moveChallengeUpButton.style = INVISIBLE_STYLE;
+        uUseful.setVisibility(moveChallengeUpButton, false);
+
       }
       if (rowData.date !== (challenges[rowData.rowId] ?? {}).date ?? '') {
-        moveChallengeDownButton.style = INVISIBLE_STYLE;
+        uUseful.setVisibility(moveChallengeDownButton, false);
       }
 
       drawProgressBarValue(rowData.rowId);
@@ -1275,17 +1278,17 @@ requirejs(
         additionUrlElement.removeAttribute('href');
       }
 
-      const successStatusIconTodo = document.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconAborted = document.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconWaiting = document.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconDone = document.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconDoneWithoutAnyOptionalSteps = document.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconTodo = uDom.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconAborted = uDom.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconWaiting = uDom.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconDone = uDom.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconDoneWithoutAnyOptionalSteps = uDom.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX + rowData.rowId);
 
-      successStatusIconTodo.style = INVISIBLE_STYLE;
-      successStatusIconAborted.style = INVISIBLE_STYLE;
-      successStatusIconWaiting.style = INVISIBLE_STYLE;
-      successStatusIconDone.style = INVISIBLE_STYLE;
-      successStatusIconDoneWithoutAnyOptionalSteps.style = INVISIBLE_STYLE;
+      uUseful.setVisibility(successStatusIconTodo, false);
+      uUseful.setVisibility(successStatusIconAborted, false);
+      uUseful.setVisibility(successStatusIconWaiting, false);
+      uUseful.setVisibility(successStatusIconDone, false);
+      uUseful.setVisibility(successStatusIconDoneWithoutAnyOptionalSteps, false);
 
       switch (getChallengeSuccessStatus(rowData.rowId)) {
         case CHALLENGE_SUCCESS_STATUS_DONE:
@@ -1297,23 +1300,23 @@ requirejs(
           }
 
           if (foundAnyUndone) {
-            successStatusIconDoneWithoutAnyOptionalSteps.style = VISIBLE_STYLE;
+            uUseful.setVisibility(successStatusIconDoneWithoutAnyOptionalSteps, true);
           } else {
-            successStatusIconDone.style = VISIBLE_STYLE;
+            uUseful.setVisibility(successStatusIconDone, true);
           }
           break;
 
         case CHALLENGE_SUCCESS_STATUS_ABORTED:
-          successStatusIconAborted.style = VISIBLE_STYLE;
+          uUseful.setVisibility(successStatusIconAborted, true);
           break;
 
         case CHALLENGE_SUCCESS_STATUS_WAITING:
-          successStatusIconWaiting.style = VISIBLE_STYLE;
+          uUseful.setVisibility(successStatusIconWaiting, true);
           break;
 
         case CHALLENGE_SUCCESS_STATUS_TODO:
         default:
-          successStatusIconTodo.style = VISIBLE_STYLE;
+          uUseful.setVisibility(successStatusIconTodo, true);
           break;
       }
     }
@@ -1364,7 +1367,7 @@ requirejs(
   function addNewChallengeReset() {
     clearNotifications();
 
-    const lastSelectedChallengeType = document.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+    const lastSelectedChallengeType = uDom.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
     lastSelectedChallengeType.value = '';
 
     sortChallengesByDate();
@@ -1997,10 +2000,10 @@ requirejs(
 
 
   function resetDateInput() {
-    let dateInput = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID);
+    let dateInput = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID);
     dateInput.value = uDate.getToday();
 
-    let challengeTypeSelect = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
+    let challengeTypeSelect = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
     challengeTypeSelect.value = '';
 
     resetChallengeTypeSelect();
@@ -2009,15 +2012,15 @@ requirejs(
   function resetChallengeTypeSelect() {
     const advancedMode = isAdvancedMode();
 
-    let challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeDate = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
 
-    let challengeTypeDiv = document.getElementById(CHALLENGE_TYPE_DIV_ELEMENT_ID);
-    challengeTypeDiv.style = INVISIBLE_STYLE;
+    let challengeTypeDiv = uDom.getElementById(CHALLENGE_TYPE_DIV_ELEMENT_ID);
+    uUseful.setVisibility(challengeTypeDiv, false);
 
-    let lastSelectedChallengeType = document.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+    let lastSelectedChallengeType = uDom.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
     const selectedChallengeType = lastSelectedChallengeType.value;
 
-    let challengeTypeSelect = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
+    let challengeTypeSelect = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
     challengeTypeSelect.innerHTML = '';
     challengeTypeSelect.value = '';
 
@@ -2025,7 +2028,7 @@ requirejs(
       && Date.parse(challengeDate) >= Date.parse(MIN_CHALLENGE_DATE_ALLOWED)
       && Date.parse(challengeDate) <= Date.parse(uDate.getToday())
     ) {
-      challengeTypeDiv.style = VISIBLE_STYLE;
+      uUseful.setVisibility(challengeTypeDiv, true);
       uDom.addOptionToSelect(challengeTypeSelect, '', SELECT_NAME);
 
       let allPersonsToTakeByPersonType = {};
@@ -2078,31 +2081,31 @@ requirejs(
   }
 
   function resetPersonTypeSelect() {
-    let challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeType = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
 
-    let personDiv = document.getElementById(PERSON_DIV_ELEMENT_ID);
-    personDiv.style = INVISIBLE_STYLE;
+    let personDiv = uDom.getElementById(PERSON_DIV_ELEMENT_ID);
+    uUseful.setVisibility(personDiv, false);
 
-    let challengeDescDiv = document.getElementById(CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID);
+    let challengeDescDiv = uDom.getElementById(CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID);
     challengeDescDiv.innerHTML = '';
 
-    let personDescDiv = document.getElementById(PERSON_DESCRIPTION_DIV_ELEMENT_ID);
+    let personDescDiv = uDom.getElementById(PERSON_DESCRIPTION_DIV_ELEMENT_ID);
     personDescDiv.innerHTML = '';
 
-    let personTypeSelect = document.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID);
+    let personTypeSelect = uDom.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID);
     personTypeSelect.innerHTML = '';
-    personTypeSelect.style = INVISIBLE_STYLE;
+    uUseful.setVisibility(personTypeSelect, false);
     personTypeSelect.value = '';
 
     if (challengeType.length > 0) {
-      personDiv.style = VISIBLE_STYLE;
+      uUseful.setVisibility(personDiv, true);
 
       const descValues = {
         ['challenge-date']: challengeDate
       };
 
-      const lastSelectedChallengeType = document.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+      const lastSelectedChallengeType = uDom.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
       lastSelectedChallengeType.value = challengeType;
 
       const challengeDescData = challengesConfig[challengeType].description ?? {};
@@ -2178,7 +2181,7 @@ requirejs(
 
       const personTypes = challengesConfig[challengeType].person.types ?? [];
       if (personTypes.length > 0) {
-        personTypeSelect.style = VISIBLE_STYLE;
+        uUseful.setVisibility(personTypeSelect, true);
 
         let types = {};
         for (let personType of personTypes) {
@@ -2252,13 +2255,13 @@ requirejs(
   }
 
   async function resetPersonSelect() {
-    let challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    let personTypeValue = document.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeType = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    let personTypeValue = uDom.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID).value;
 
-    let personSelect = document.getElementById(PERSON_SELECT_ELEMENT_ID);
+    let personSelect = uDom.getElementById(PERSON_SELECT_ELEMENT_ID);
     personSelect.innerHTML = '';
-    personSelect.style = INVISIBLE_STYLE;
+    uUseful.setVisibility(personSelect, false);
     personSelect.value = '';
 
     let personsToSort = {};
@@ -2266,7 +2269,7 @@ requirejs(
     if (uUseful.inArray(personTypeValue, COPY_PERSON_TYPE_TO_NAME_IDS)) {
       personsToSort[personTypeValue] = personTypeValue;
     } else if (personTypeValue.length > 0) {
-      personSelect.style = VISIBLE_STYLE;
+      uUseful.setVisibility(personSelect, true);
 
       const addGodToListNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES] ?? false;
 
@@ -2349,13 +2352,13 @@ requirejs(
   }
 
   function resetAdditionSelect() {
-    let challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    let personValue = document.getElementById(PERSON_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeType = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    let personValue = uDom.getElementById(PERSON_SELECT_ELEMENT_ID).value;
 
-    let additionSelect = document.getElementById(ADDITION_SELECT_ELEMENT_ID);
+    let additionSelect = uDom.getElementById(ADDITION_SELECT_ELEMENT_ID);
     additionSelect.innerHTML = '';
-    additionSelect.style = INVISIBLE_STYLE;
+    uUseful.setVisibility(additionSelect, false);
     additionSelect.value = '';
 
     if (personValue.length > 0) {
@@ -2366,7 +2369,7 @@ requirejs(
 
       let namesToSort = {};
       if (additionIsNotEmpty || additionHavingChallenges.length > 0 || additionNotHavingChallenges.length > 0) {
-        additionSelect.style = VISIBLE_STYLE;
+        uUseful.setVisibility(additionSelect, true);
 
         const typesNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES] ?? null;
         let additionsToList = {};
@@ -2409,7 +2412,7 @@ requirejs(
         uDom.addOptionToSelect(additionSelect, personValue, uLanguage.getTranslation(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
 
         if (additionsCount == 0) {
-          additionSelect.style = INVISIBLE_STYLE;
+          uUseful.setVisibility(additionSelect, false);
         }
       }
       for (let i in additions) {
@@ -2423,22 +2426,22 @@ requirejs(
   }
 
   async function resetRequiredNotes() {
-    const challengeType = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const additionValue = document.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const challengeType = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    const additionValue = uDom.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
 
-    let requiredNotesDiv = document.getElementById(REQUIRED_NOTES_DIV_ELEMENT_ID);
-    requiredNotesDiv.style = INVISIBLE_STYLE;
+    let requiredNotesDiv = uDom.getElementById(REQUIRED_NOTES_DIV_ELEMENT_ID);
+    uUseful.setVisibility(requiredNotesDiv, false);
 
-    let requiredNotesDoneInput = document.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID);
+    let requiredNotesDoneInput = uDom.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID);
     requiredNotesDoneInput.value = '';
 
     if (additionValue.length > 0) {
       lastEditedNoteItem = [];
       lastFormModeNoteCellElementIdSuffix = {};
 
-      const notesListElement = document.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
+      const notesListElement = uDom.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
       notesListElement.innerHTML = '';
-      const notesListEditElement = document.getElementById(NOTES_LIST_ELEMENT_ID);
+      const notesListEditElement = uDom.getElementById(NOTES_LIST_ELEMENT_ID);
       notesListEditElement.innerHTML = '';
 
       let isNextStepAvailable = true;
@@ -2450,7 +2453,7 @@ requirejs(
         const firstSubtypeQuantity = Object.values(noteType)[0] ?? [];
 
         if ((firstSubtypeQuantity[0] ?? 0) > 0) {
-          requiredNotesDiv.style = VISIBLE_STYLE;
+          uUseful.setVisibility(requiredNotesDiv, true);
 
           if (newChallengeNotesValues[itemType] == undefined) {
             newChallengeNotesValues[itemType] = [];
@@ -2471,20 +2474,20 @@ requirejs(
   }
 
   async function resetRequiredChecklistSteps() {
-    const challengeType = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const requiredNotesDone = document.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID).value;
+    const challengeType = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    const requiredNotesDone = uDom.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID).value;
 
-    let requiredChecklistStepsDiv = document.getElementById(REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID);
-    requiredChecklistStepsDiv.style = INVISIBLE_STYLE;
+    let requiredChecklistStepsDiv = uDom.getElementById(REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID);
+    uUseful.setVisibility(requiredChecklistStepsDiv, false);
 
-    let requiredChecklistStepsDoneInput = document.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID);
+    let requiredChecklistStepsDoneInput = uDom.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID);
     requiredChecklistStepsDoneInput.value = '';
 
-    let requiredChecklistStepsInfo = document.getElementById(REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID);
-    requiredChecklistStepsInfo.style = INVISIBLE_STYLE;
+    let requiredChecklistStepsInfo = uDom.getElementById(REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID);
+    uUseful.setVisibility(requiredChecklistStepsInfo, false);
 
     if (requiredNotesDone.length > 0) {
-      let checklistStepsList = document.getElementById(REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID);
+      let checklistStepsList = uDom.getElementById(REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID);
       checklistStepsList.innerHTML = '';
 
       const rowId = 0;
@@ -2507,7 +2510,7 @@ requirejs(
             allValuesAreDone = false;
           }
 
-          requiredChecklistStepsInfo.style = VISIBLE_STYLE;
+          uUseful.setVisibility(requiredChecklistStepsInfo, true);
         }
       }
 
@@ -2515,7 +2518,7 @@ requirejs(
         requiredChecklistStepsDoneInput.value = '1';
       }
       if (isAnyValue) {
-        requiredChecklistStepsDiv.style = VISIBLE_STYLE;
+        uUseful.setVisibility(requiredChecklistStepsDiv, true);
       }
     }
 
@@ -2523,18 +2526,18 @@ requirejs(
   }
 
   function resetAddNewChallengeButton() {
-    const requiredChecklistStepsDone = document.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID).value;
+    const requiredChecklistStepsDone = uDom.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID).value;
 
-    let button = document.getElementById(ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID);
+    let button = uDom.getElementById(ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID);
     button.disabled = !(requiredChecklistStepsDone.length > 0);
   }
 
   async function addNewChallenge() {
-    const additionValue = document.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const additionValue = uDom.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
 
-    const date = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    const type = document.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const person = document.getElementById(PERSON_SELECT_ELEMENT_ID).value;
+    const date = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    const type = uDom.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    const person = uDom.getElementById(PERSON_SELECT_ELEMENT_ID).value;
     const addition = additionValue !== person ? additionValue : '';
     const checklist = newChallengeChecklistValues;
     const notes = newChallengeNotesValues;
@@ -2714,9 +2717,9 @@ requirejs(
       donePercent += missingPercent;
     }
 
-    let doneProgress = document.getElementById(PROGRESS_DONE_ELEMENT_ID_PREFIX + rowId);
-    let optionalProgress = document.getElementById(PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX + rowId);
-    let abortedProgress = document.getElementById(PROGRESS_ABORTED_ELEMENT_ID_PREFIX + rowId);
+    let doneProgress = uDom.getElementById(PROGRESS_DONE_ELEMENT_ID_PREFIX + rowId);
+    let optionalProgress = uDom.getElementById(PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX + rowId);
+    let abortedProgress = uDom.getElementById(PROGRESS_ABORTED_ELEMENT_ID_PREFIX + rowId);
 
     setProgressBarPartValues(doneProgress, doneCount, donePercent, totalCount);
     setProgressBarPartValues(optionalProgress, optionalCount, optionalPercent, totalCount);
@@ -2732,7 +2735,7 @@ requirejs(
   async function checklistListReset(rowId) {
     clearNotifications();
 
-    let modalBody = document.getElementById(CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID);
+    let modalBody = uDom.getElementById(CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID);
     modalBody.innerHTML = '';
 
     let challengeType = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {}).type ?? null;
@@ -2753,7 +2756,7 @@ requirejs(
   }
 
   async function drawChecklistRow(contentElement, rowId, challengeType, itemType, value, backToAddNewChallengeModal) {
-    const element = document.createElement('div');
+    const element = uDom.createElement('div');
 
     const config = ((challengesConfig[challengeType] ?? [])[CONFIG_FIELD_CHECKLIST] ?? [])[itemType] ?? {};
     if (Object.keys(config).length == 0) {
@@ -2794,24 +2797,24 @@ requirejs(
   }
 
   async function drawChecklistInfo(challengeType, rowId, itemType, itemStatus, backToAddNewChallengeModal) {
-    const descElement = document.getElementById(CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID);
-    const labelElement = document.getElementById(CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID);
-    const rowIdElement = document.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
-    const itemTypeElement = document.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
+    const descElement = uDom.getElementById(CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID);
+    const labelElement = uDom.getElementById(CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID);
+    const rowIdElement = uDom.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
+    const itemTypeElement = uDom.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
 
     rowIdElement.value = rowId;
     itemTypeElement.value = itemType;
 
-    const closeButton = document.getElementById(CHECKLIST_BUTTON_CLOSE_ELEMENT_ID);
-    const abortedButton = document.getElementById(CHECKLIST_BUTTON_ABORTED_ELEMENT_ID);
-    const optionalWaitingButton = document.getElementById(CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID);
-    const waitingButton = document.getElementById(CHECKLIST_BUTTON_WAITING_ELEMENT_ID);
-    const doneButton = document.getElementById(CHECKLIST_BUTTON_DONE_ELEMENT_ID);
+    const closeButton = uDom.getElementById(CHECKLIST_BUTTON_CLOSE_ELEMENT_ID);
+    const abortedButton = uDom.getElementById(CHECKLIST_BUTTON_ABORTED_ELEMENT_ID);
+    const optionalWaitingButton = uDom.getElementById(CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID);
+    const waitingButton = uDom.getElementById(CHECKLIST_BUTTON_WAITING_ELEMENT_ID);
+    const doneButton = uDom.getElementById(CHECKLIST_BUTTON_DONE_ELEMENT_ID);
 
-    abortedButton.style = INVISIBLE_STYLE;
-    optionalWaitingButton.style = INVISIBLE_STYLE;
-    waitingButton.style = INVISIBLE_STYLE;
-    doneButton.style = INVISIBLE_STYLE;
+    uUseful.setVisibility(abortedButton, false);
+    uUseful.setVisibility(optionalWaitingButton, false);
+    uUseful.setVisibility(waitingButton, false);
+    uUseful.setVisibility(doneButton, false);
 
     const modalTargetAttributeToSet = backToAddNewChallengeModal
       ? CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET
@@ -2834,8 +2837,8 @@ requirejs(
     const name = uLanguage.getTranslation('name', true, config.name ?? {});
 
     const rowData = (fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {};
-    const personId = rowData.person ?? document.getElementById(PERSON_SELECT_ELEMENT_ID).value;
-    const additionId = rowData.addition ?? document.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const personId = rowData.person ?? uDom.getElementById(PERSON_SELECT_ELEMENT_ID).value;
+    const additionId = rowData.addition ?? uDom.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
     const personName = getPersonDataName(personId)
     const additionName = getPersonDataAdditionName(personId, additionType, additionId);
 
@@ -2851,20 +2854,20 @@ requirejs(
     labelElement.innerHTML = name;
     importMarkdownDescription(descElement, descFilePath, descParams, descValues);
 
-    doneButton.style = VISIBLE_STYLE;
+    uUseful.setVisibility(doneButton, true);
     if (!toCompleteOnSelectedDate) {
       if (required) {
-        waitingButton.style = VISIBLE_STYLE;
+        uUseful.setVisibility(waitingButton, true);
       } else {
-        optionalWaitingButton.style = VISIBLE_STYLE;
+        uUseful.setVisibility(optionalWaitingButton, true);
       }
-      abortedButton.style = VISIBLE_STYLE;
+      uUseful.setVisibility(abortedButton, true);
     }
   }
 
   async function setChecklistStatus(newValue) {
-    const rowIdElement = document.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
-    const itemTypeElement = document.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
+    const rowIdElement = uDom.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
+    const itemTypeElement = uDom.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
 
     const rowId = rowIdElement.value ?? 0;
     const itemType = itemTypeElement.value ?? '';
@@ -2913,7 +2916,7 @@ requirejs(
       case DESCRIPTION_VALUE_PARAM:
         return paramValue;
       case 'current-year':
-        return uDate.getToday().substring(0, 4);
+        return uDate.getYear(uDate.getCurrentDate());
       case 'immovable-dates':
         return getImmovableDatesSiteParam();
       default:
@@ -2954,8 +2957,8 @@ requirejs(
   async function removeChallengeReset(rowId) {
     clearNotifications();
 
-    const row = document.getElementById(CHALLENGE_TO_REMOVE_ELEMENT_ID);
-    const modalRowId = document.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
+    const row = uDom.getElementById(CHALLENGE_TO_REMOVE_ELEMENT_ID);
+    const modalRowId = uDom.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
 
     const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
     const challenge = challenges[rowId - 1] ?? undefined;
@@ -3000,7 +3003,7 @@ requirejs(
   }
 
   async function removeChallenge() {
-    const rowId = document.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0;
+    const rowId = uDom.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0;
 
     (fileData[DATA_FIELD_CHALLENGES] ?? []).splice(rowId - 1, 1);
 
@@ -3014,10 +3017,10 @@ requirejs(
   async function challengeInfoReset(rowId) {
     clearNotifications();
 
-    let challengeDescInfoDiv = document.getElementById(CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID);
+    let challengeDescInfoDiv = uDom.getElementById(CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID);
     challengeDescInfoDiv.innerHTML = '';
 
-    let personDescInfoDiv = document.getElementById(PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID);
+    let personDescInfoDiv = uDom.getElementById(PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID);
     personDescInfoDiv.innerHTML = '';
 
 
@@ -3038,10 +3041,10 @@ requirejs(
     const addition = getPersonDataAdditionName(personId, additionType, additionId);
     const personString = person + (additionId === '' ? '' : ' (' + addition + ')');
 
-    let challengeDescInfoValue = document.getElementById(CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
+    let challengeDescInfoValue = uDom.getElementById(CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
     challengeDescInfoValue.innerHTML = getChallengeTypeName(challengeType);
 
-    let personDescInfoValue = document.getElementById(PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
+    let personDescInfoValue = uDom.getElementById(PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
     personDescInfoValue.innerHTML = personString;
 
     const descValues = {
@@ -3062,16 +3065,16 @@ requirejs(
   async function moveChallengeReset(rowId, direction) {
     clearNotifications();
 
-    const modalRowId = document.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
-    const modalDirection = document.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID);
+    const modalRowId = uDom.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
+    const modalDirection = uDom.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID);
 
     modalRowId.value = rowId;
     modalDirection.value = direction;
   }
 
   async function moveChallenge() {
-    const rowId = Number(document.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
-    const direction = document.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID).value ?? '';
+    const rowId = Number(uDom.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
+    const direction = uDom.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID).value ?? '';
 
     if (direction === MOVE_CHALLENGE_DIRECTION_DOWN) {
       moveChallengeDown(rowId);
@@ -3140,9 +3143,9 @@ requirejs(
     lastEditedNoteItem = [];
     lastFormModeNoteCellElementIdSuffix = {};
 
-    const notesListElement = document.getElementById(NOTES_LIST_ELEMENT_ID);
+    const notesListElement = uDom.getElementById(NOTES_LIST_ELEMENT_ID);
     notesListElement.innerHTML = '';
-    const notesListForAddNewChallengeElement = document.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
+    const notesListForAddNewChallengeElement = uDom.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
     notesListForAddNewChallengeElement.innerHTML = '';
 
     let challengeType = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {}).type ?? null;
@@ -3160,7 +3163,7 @@ requirejs(
   }
 
   async function drawNoteRow(contentElement, rowId, challengeType, itemType) {
-    const element = document.createElement('div');
+    const element = uDom.createElement('div');
 
     const config = ((challengesConfig[challengeType] ?? [])[CONFIG_FIELD_NOTES] ?? [])[itemType] ?? {};
     let name = uLanguage.getTranslation('name', true, config.name ?? {});
@@ -3261,7 +3264,7 @@ requirejs(
     const noteElementId = NOTE_VALUE_ELEMENT_ID_PREFIX + itemType;
     const noteTableBodyElementId = noteElementId + NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX;
 
-    const noteElement = document.getElementById(noteElementId);
+    const noteElement = uDom.getElementById(noteElementId);
     noteElement.innerHTML = '';
 
     const value = getChallengeNotesData(rowId, itemType);
@@ -3282,7 +3285,7 @@ requirejs(
     noteElement.innerHTML = '<thead><tr><th>' + tableHeaders.join('</th><th>') + '</th></tr></thead>';
     noteElement.innerHTML += '<tbody id="' + noteTableBodyElementId + '"></tbody>';
 
-    const tableBodyElement = document.getElementById(noteTableBodyElementId);
+    const tableBodyElement = uDom.getElementById(noteTableBodyElementId);
     let tableRowElement = tableBodyElement.insertRow(0);
     await showNoteValue(tableBodyElement, tableRowElement, rowId, challengeType, challengeConfig, itemType, value, [], tableHeaders.length, isEditMode);
   }
@@ -3435,31 +3438,6 @@ requirejs(
     }
     const template = await uFile.getFileContent(templatePath);
 
-    let editButtonVisible = INVISIBLE_STYLE;
-    let moveUpButtonVisible = INVISIBLE_STYLE;
-    let moveDownButtonVisible = INVISIBLE_STYLE;
-    let removeButtonVisible = INVISIBLE_STYLE;
-    let hintVisible = INVISIBLE_STYLE;
-    if (isEditMode) {
-      if (Object.keys(noteTypeConfig).length > 0) {
-        editButtonVisible = VISIBLE_STYLE;
-      }
-      if (noteNo > 1) {
-        moveUpButtonVisible = VISIBLE_STYLE;
-      }
-      if (noteNo < totalNotes) {
-        moveDownButtonVisible = VISIBLE_STYLE;
-      }
-      if (noteNo > noteQuantityMin) {
-        removeButtonVisible = VISIBLE_STYLE;
-      }
-    }
-    if (isEditFormMode) {
-      if (hint !== '') {
-        hintVisible = VISIBLE_STYLE;
-      }
-    }
-
     cellElement.innerHTML = template
       .replace(/#note-cell-id#/g, cellElementId)
       .replace(/#rows-count#/g, rowsCount)
@@ -3468,13 +3446,35 @@ requirejs(
       .replace(/#challenge-type#/g, challengeType)
       .replace(/#item-type#/g, itemType)
       .replace(/#item-path#/g, '[' + itemPath.join(', ') + ']')
-      .replace(/#edit-button-visible#/g, editButtonVisible)
-      .replace(/#move-up-button-visible#/g, moveUpButtonVisible)
-      .replace(/#move-down-button-visible#/g, moveDownButtonVisible)
-      .replace(/#remove-button-visible#/g, removeButtonVisible)
-      .replace(/#hint-visible#/g, hintVisible)
       .replace(/#hint#/g, hint)
     ;
+
+    if (isEditMode) {
+      const editButton = uDom.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX);
+      const moveUpButton = uDom.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX);
+      const moveDownButton = uDom.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX);
+      const removeButton = uDom.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX);
+
+      if (editButton && Object.keys(noteTypeConfig).length <= 0) {
+        uUseful.setVisibility(editButton, false);
+      }
+      if (moveUpButton && noteNo <= 1) {
+        uUseful.setVisibility(moveUpButton, false);
+      }
+      if (moveDownButton && noteNo >= totalNotes) {
+        uUseful.setVisibility(moveDownButton, false);
+      }
+      if (removeButton && noteNo <= noteQuantityMin) {
+        uUseful.setVisibility(removeButton, false);
+      }
+    }
+    if (isEditFormMode) {
+      const hintElement = uDom.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_HINT_ELEMENT_ID_SUFFIX);
+
+      if (hintElement && hint === '') {
+        uUseful.setVisibility(hintElement, false);
+      }
+    }
 
     if (isEditFormMode) {
       await showNoteCellContentInFormMode(cellElement, rowId, challengeType, itemType, itemPath, noteType, noteTypeConfig);
@@ -3510,7 +3510,7 @@ requirejs(
       const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
       let challengeDate = (challenges[rowId - 1] ?? {}).date ?? null;
       if (challengeDate == null) {
-        challengeDate = document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value ?? uDate.getToday();
+        challengeDate = uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value ?? uDate.getToday();
       }
 
       persons = getPersonsHavingAllChallenges(typesNeeded, challengeDate);
@@ -3549,7 +3549,7 @@ requirejs(
   function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
     let result = [];
 
-    const challengeDate = (challenges[rowId - 1] ?? {}).date ?? document.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    const challengeDate = (challenges[rowId - 1] ?? {}).date ?? uDom.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
     let challengeTypes = getChallengeTypesWithRequirements(config, challengeDate);
 
     if (Object.keys(challengeTypes).length > 0 || currentValue.length > 0) {
@@ -3624,15 +3624,15 @@ requirejs(
   async function showNoteCellContentInFormMode(cellElement, rowId, challengeType, itemType, itemPath, noteType, noteTypeConfig) {
     const currentNoteId = Number(itemPath.at(-1));
 
-    const selectElement = document.getElementById(NOTE_CELL_SELECT_ELEMENT_ID);
-    const inputElement = document.getElementById(NOTE_CELL_INPUT_ELEMENT_ID);
-    const setExistingNoteButtonElement = document.getElementById(NOTE_CELL_SET_EXISTING_NOTE_BUTTON);
-    const setNewNoteButtonElement = document.getElementById(NOTE_CELL_SET_NEW_NOTE_BUTTON);
+    const selectElement = uDom.getElementById(NOTE_CELL_SELECT_ELEMENT_ID);
+    const inputElement = uDom.getElementById(NOTE_CELL_INPUT_ELEMENT_ID);
+    const setExistingNoteButtonElement = uDom.getElementById(NOTE_CELL_SET_EXISTING_NOTE_BUTTON);
+    const setNewNoteButtonElement = uDom.getElementById(NOTE_CELL_SET_NEW_NOTE_BUTTON);
 
-    selectElement.style = INVISIBLE_STYLE;
-    inputElement.style = INVISIBLE_STYLE;
-    setExistingNoteButtonElement.style = INVISIBLE_STYLE;
-    setNewNoteButtonElement.style = INVISIBLE_STYLE;
+    uUseful.setVisibility(selectElement, false);
+    uUseful.setVisibility(inputElement, false);
+    uUseful.setVisibility(setExistingNoteButtonElement, false);
+    uUseful.setVisibility(setNewNoteButtonElement, false);
 
     const noteIndex = noteTypeConfig.index ?? '';
     const noteSources = noteTypeConfig.source ?? {};
@@ -3651,15 +3651,15 @@ requirejs(
 
       inputElement.value = value;
 
-      inputElement.style = INVISIBLE_STYLE;
-      setNewNoteButtonElement.style = INVISIBLE_STYLE;
-      setExistingNoteButtonElement.style = INVISIBLE_STYLE;
+      uUseful.setVisibility(inputElement, false);
+      uUseful.setVisibility(setNewNoteButtonElement, false);
+      uUseful.setVisibility(setExistingNoteButtonElement, false);
 
       if (noteId === '') {
-        inputElement.style = VISIBLE_STYLE;
+        uUseful.setVisibility(inputElement, true);
       }
       if (Number(noteId) === currentNoteId) {
-        setExistingNoteButtonElement.style = VISIBLE_STYLE;
+        uUseful.setVisibility(setExistingNoteButtonElement, true);
       }
 
       inputElement.onchange();
@@ -3670,25 +3670,25 @@ requirejs(
     inputElement.onchange = function() {
       const value = uUseful.getStringWithTidySpaces(inputElement.value);
 
-      setNewNoteButtonElement.style = INVISIBLE_STYLE;
-      setExistingNoteButtonElement.style = INVISIBLE_STYLE;
+      uUseful.setVisibility(setNewNoteButtonElement, false);
+      uUseful.setVisibility(setExistingNoteButtonElement, false);
 
       if (value.length > 0) {
         if (!uUseful.inArray(value, Object.values(fileDataValues))) {
-          setNewNoteButtonElement.style = VISIBLE_STYLE;
+          uUseful.setVisibility(setNewNoteButtonElement, true);
         } else {
           const noteId = Number(Object.keys(fileDataValues).find(key => fileDataValues[key] === value) ?? EMPTY_NOTE_ID);
 
           if (siblingsNoteIds[noteId] == undefined || noteId === currentNoteId) {
-            setExistingNoteButtonElement.style = VISIBLE_STYLE;
+            uUseful.setVisibility(setExistingNoteButtonElement, true);
           }
         }
       }
     }
     inputElement.onblur = function() {
-      if (setNewNoteButtonElement.style.display === '') {
+      if (uUseful.isVisible(setNewNoteButtonElement)) {
         setNewNoteButtonElement.onclick();
-      } else if (setExistingNoteButtonElement.style.display === '') {
+      } else if (uUseful.isVisible(setExistingNoteButtonElement)) {
         setExistingNoteButtonElement.onclick();
       }
     }
@@ -3856,11 +3856,11 @@ requirejs(
     }
 
     if (!foundAnySource) {
-      inputElement.style = VISIBLE_STYLE;
+      uUseful.setVisibility(inputElement, true);
       inputElement.value = currentValue;
       inputElement.onchange();
     } else {
-      selectElement.style = VISIBLE_STYLE;
+      uUseful.setVisibility(selectElement, true);
       selectElement.onchange();
     }
   }
@@ -3996,17 +3996,17 @@ requirejs(
   function removeNoteModalReset(rowId, challengeType, itemType, itemPath) {
     clearNotifications();
 
-    document.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value = rowId;
-    document.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value = challengeType;
-    document.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value = itemType;
-    document.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value = itemPath.join('/');
+    uDom.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value = rowId;
+    uDom.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value = challengeType;
+    uDom.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value = itemType;
+    uDom.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value = itemPath.join('/');
   }
 
   async function removeNote() {
-    const rowId = Number(document.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
-    const challengeType = document.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value ?? '';
-    const itemType = document.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value ?? '';
-    const itemPath = document.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value.split('/') ?? [];
+    const rowId = Number(uDom.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
+    const challengeType = uDom.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value ?? '';
+    const itemType = uDom.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value ?? '';
+    const itemPath = uDom.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value.split('/') ?? [];
 
     const rowNotes = getChallengeNotesData(rowId, itemType);
     if (itemType.length < 2) {
@@ -4124,7 +4124,7 @@ requirejs(
   }
 
   async function setRandomBibleChapter(language) {
-    const button = document.getElementById(RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID);
+    const button = uDom.getElementById(RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID);
     button.innerHTML = uLanguage.getTranslation('lang-randomize-the-chapter', true);
 
     const data = await uFile.getJsonFromFile(BIBLE_CHAPTERS_DATA_JSON_FILE);

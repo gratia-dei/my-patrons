@@ -17,6 +17,10 @@ define(["env"], function(uEnv) {
     return option;
   }
 
+  function createElement(localName, options) {
+    return uEnv.getDocument().createElement(localName, options);
+  }
+
   function getElementById(id) {
     return uEnv.getDocument().getElementById(id);
   }
@@ -27,6 +31,7 @@ define(["env"], function(uEnv) {
 
   return {
     addOptionToSelect,
+    createElement,
     getElementById,
     getElementsByClassName,
   };

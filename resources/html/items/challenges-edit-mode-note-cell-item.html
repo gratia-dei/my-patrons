@@ -1,15 +1,15 @@
 <div id="note-cell-#note-cell-id#" class="note-edit-mode-cell" rowspan="#rows-count#">
   <span class="selectable-content">#content#</span>
-  <a class="note-action-button" style="#edit-button-visible#" role="button" onclick="setNoteCellModeToForm(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
+  <a id="note-cell-#note-cell-id#-edit-button" class="note-action-button" role="button" onclick="setNoteCellModeToForm(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
     <img class="svg-image" src="/files/resources/svg/pencil-fill.svg" />
   </a>
-  <a class="note-action-button" style="#move-up-button-visible#" role="button" onclick="moveUpNote(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
+  <a id="note-cell-#note-cell-id#-move-up-button" class="note-action-button" role="button" onclick="moveUpNote(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
     <img class="svg-image" src="/files/resources/svg/caret-up-square-fill.svg" />
   </a>
-  <a class="note-action-button" style="#move-down-button-visible#" role="button" onclick="moveDownNote(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
+  <a id="note-cell-#note-cell-id#-move-down-button" class="note-action-button" role="button" onclick="moveDownNote(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
     <img class="svg-image" src="/files/resources/svg/caret-down-square-fill.svg" />
   </a>
-  <a class="note-action-button" data-bs-toggle="modal" href="#remove-note-modal-toggle" style="#remove-button-visible#" role="button" onclick="removeNoteModalReset(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
+  <a id="note-cell-#note-cell-id#-remove-button" class="note-action-button" data-bs-toggle="modal" href="#remove-note-modal-toggle" role="button" onclick="removeNoteModalReset(#row-id#, '#challenge-type#', '#item-type#', #item-path#)">
     <img class="svg-image" src="/files/resources/svg/trash.svg" />
   </a>
 </div>

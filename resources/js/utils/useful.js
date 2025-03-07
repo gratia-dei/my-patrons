@@ -22,6 +22,10 @@ define(["const"], function(uConst) {
     return array.indexOf(value) !== uConst.get("USEFUL/MISSING_INDEX_OF_VALUE");
   }
 
+  function isVisible(element) {
+    return (element.style.display !== uConst.get("USEFUL/STYLE_DISPLAY_INVISIBLE"));
+  }
+
   function setVisibility(element, isVisible) {
     element.style.display = uConst.get(isVisible ? "USEFUL/STYLE_DISPLAY_VISIBLE" : "USEFUL/STYLE_DISPLAY_INVISIBLE");
   }
@@ -33,6 +37,7 @@ define(["const"], function(uConst) {
   return {
     getStringWithTidySpaces,
     inArray,
+    isVisible,
     setVisibility,
     sleep
   };
