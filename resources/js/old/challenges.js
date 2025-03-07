@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "date", "dom", "file", "language", "notification", "sort", "useful", "marked"],
-  function(uConst, uDate, uDom, uFile, uLanguage, uNotification, uSort, uUseful, libMarked
+  ["const", "date", "dom", "file", "language", "location", "notification", "sort", "useful", "marked"],
+  function(uConst, uDate, uDom, uFile, uLanguage, uLocation, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -340,7 +340,7 @@ requirejs(
   }
 
   function isAdvancedMode() {
-    const search = getSearchString();
+    const search = uLocation.getSearch();
 
     return (search.match(/[?&]mode=advanced(&.*)?$/) !== null);
   }
@@ -4171,19 +4171,6 @@ requirejs(
 
   //////////////////////// functions to migrate
 
-
-
-
-
-
-  //env
-  function getHostname() {
-    return window.location.hostname.toLowerCase();
-  }
-
-  function getSearchString() {
-    return window.location.search;
-  }
 
 
 
