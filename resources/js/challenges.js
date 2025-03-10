@@ -40,249 +40,247 @@ requirejs(
     .set("SET_VALUE_AS_FILENAME_WITHOUT_EXTENSION", setValueAsFilenameWithoutExtension)
     .set("SET_VALUE_AS_OWNER", setValueAsOwner)
     .set("SHOW_LOAD_FILE_WARNING_IF_NEEDED", showLoadFileWarningIfNeeded)
+
+    .set("SELECT_NAME", '...')
+    .set("SELECT_SEPARATOR", '----------')
+
+    .set("ANCHOR_CHARACTER", '#')
+    .set("UNIQUENESS_STRING_SEPARATOR", '|#|#|')
+    .set("UNIQUENESS_FIELD_MODIFIER_SEPARATOR", '|')
+
+    .set("IMMOVABLE_DATES_PATRONS_LIST_CHARACTER", '#')
+    .set("IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST", ['B', 'SB', 'SC', 'SE', 'SP', 'SA', 'SO', 'SM']) //order is important!
+
+    .set("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE", '!')
+    .set("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR", 'b')
+    .set("MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR", 'n')
+
+    .set("MISSING_TABLE_HEADER_NOTE_NAME", '?')
+    .set("EMPTY_NOTE_ID", 0)
+    .set("EMPTY_ROW_ID", 0)
+    .set("NOTE_QUANTITY_INFINITY_MAX", 0)
+    .set("NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST", 1000)
+
+    .set("MISSING_NOTE_ID_SIGN", '!!!')
+    .set("CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
+    .set("NOTES_CONFIG_JSON_FILE", '/files/data/notes-types.json')
+    .set("PERSONS_DATA_JSON_FILE", '/files/data/generated/persons-data.generated.json')
+    .set("BIBLE_CHAPTERS_DATA_JSON_FILE", '/files/data/bible-chapters.json')
+    .set("DATES_FEASTS_IMMOVABLE_JSON_FILE", '/files/data/generated/dates-feasts-immovable.generated.json')
+    .set("DATES_PATRONS_IMMOVABLE_JSON_FILE", '/files/data/generated/dates-patrons-immovable.generated.json')
+    .set("LITURGICAL_SEASONS_JSON_FILE", '/files/data/generated/liturgical-seasons.generated.json')
+
+    .set("PARSE_CHALLENGE_MANY_PERSONS_SIGN", '*')
+
+    .set("CHALLENGE_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-challenge-item.html')
+    .set("CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-challenge-to-remove-item.html')
+    .set("CHECKLIST_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-checklist-item.html')
+    .set("NOTE_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-note-item.html')
+    .set("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH", '/files/resources/html/content-blocks/challenges-description-content-block.html')
+    .set("READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-read-mode-note-cell-item.html')
+    .set("EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-edit-mode-note-cell-item.html')
+    .set("FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-form-mode-note-cell-item.html')
+    .set("CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-create-mode-note-cell-item.html')
+    .set("MARKDOWN_FILES_ROOT_PATH", '/files/resources/md/')
+
+    .set("DEFAULT_JSON_FILENAME", '')
+    .set("DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE", true)
+    .set("MIN_CHALLENGE_DATE_ALLOWED", '1901-01-01')
+
+    .set("MOVE_CHALLENGE_DIRECTION_UP", 'up')
+    .set("MOVE_CHALLENGE_DIRECTION_DOWN", 'down')
+
+    .set("JSON_EDITOR_BUTTON_ELEMENT_ID", 'json-editor-button')
+    .set("CHALLENGE_ROW_ELEMENT_ID_PREFIX", 'id-')
+    .set("CHALLENGES_ELEMENT_ID", 'challenges')
+    .set("JSON_EDITOR_TEXTAREA_ELEMENT_ID", 'json-editor-textarea')
+    .set("CHALLENGE_DATE_INPUT_ELEMENT_ID", 'challenge-date-input')
+    .set("CHALLENGE_TYPE_SELECT_ELEMENT_ID", 'challenge-type-select')
+    .set("LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID", 'last-selected-challenge-type')
+    .set("CHALLENGE_TYPE_DIV_ELEMENT_ID", 'challenge-type-div')
+    .set("CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID", 'challenge-description-div')
+    .set("CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID", 'challenge-description-info-div')
+    .set("CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID", 'challenge-description-info-value')
+    .set("PERSON_DESCRIPTION_DIV_ELEMENT_ID", 'person-description-div')
+    .set("PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID", 'person-description-info-div')
+    .set("PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID", 'person-description-info-value')
+    .set("ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID", 'add-new-challenge-button')
+    .set("PERSON_DIV_ELEMENT_ID", 'person-div')
+    .set("PERSON_TYPE_SELECT_ELEMENT_ID", 'person-type-select')
+    .set("PERSON_SELECT_ELEMENT_ID", 'person-select')
+    .set("ADDITION_SELECT_ELEMENT_ID", 'addition-select')
+    .set("PERSON_URL_ELEMENT_ID_PREFIX", 'person-url-')
+    .set("ADDITION_URL_ELEMENT_ID_PREFIX", 'addition-url-')
+    .set("CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID", 'checklist-list-modal-body')
+    .set("NOTES_LIST_ELEMENT_ID", 'notes-list')
+    .set("NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID", 'notes-list-for-add-new-challenge')
+    .set("CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID", 'checklist-item-description')
+    .set("CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID", 'checklist-item-modal-toggle-label')
+    .set("CHECKLIST_BUTTON_CLOSE_ELEMENT_ID", 'checklist-button-close')
+    .set("CHECKLIST_BUTTON_ABORTED_ELEMENT_ID", 'checklist-button-aborted')
+    .set("CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID", 'checklist-button-optional-waiting')
+    .set("CHECKLIST_BUTTON_WAITING_ELEMENT_ID", 'checklist-button-waiting')
+    .set("CHECKLIST_BUTTON_DONE_ELEMENT_ID", 'checklist-button-done')
+    .set("CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID", 'checklist-item-modal-row-id')
+    .set("CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID", 'checklist-item-modal-item-type')
+    .set("CHALLENGE_TO_REMOVE_ELEMENT_ID", 'challenge-to-remove')
+    .set("REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID", 'remove-challenge-modal-row-id')
+    .set("MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID", 'move-challenge-modal-row-id')
+    .set("MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID", 'move-challenge-modal-direction')
+    .set("MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX", 'move-challenge-up-button-')
+    .set("MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX", 'move-challenge-down-button-')
+    .set("REQUIRED_NOTES_DIV_ELEMENT_ID", 'required-notes-div')
+    .set("REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID", 'required-checklist-steps-div')
+    .set("REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID", 'required-notes-done')
+    .set("REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID", 'required-checklist-steps-done')
+    .set("REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID", 'required-checklist-steps-list')
+    .set("REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID", 'required-checklist-steps-info')
+    .set("NOTE_CELL_ELEMENT_ID_PREFIX", 'note-cell-')
+    .set("NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX", '-edit-button')
+    .set("NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX", '-move-up-button')
+    .set("NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX", '-move-down-button')
+    .set("NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX", '-remove-button')
+    .set("NOTE_CELL_HINT_ELEMENT_ID_SUFFIX", '-hint')
+    .set("NOTE_ITEM_ELEMENT_ID_PREFIX", 'note-item-')
+    .set("NOTE_VALUE_ELEMENT_ID_PREFIX", 'note-value-')
+    .set("NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX", '-table-body')
+    .set("REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID", 'remove-note-modal-row-id')
+    .set("REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID", 'remove-note-modal-challenge-type')
+    .set("REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID", 'remove-note-modal-item-type')
+    .set("REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID", 'remove-note-modal-item-path')
+    .set("NOTE_CELL_INPUT_ELEMENT_ID", 'note-cell-input')
+    .set("NOTE_CELL_SELECT_ELEMENT_ID", 'note-cell-select')
+    .set("NOTE_CELL_SET_EXISTING_NOTE_BUTTON", 'note-cell-set-existing-note-button')
+    .set("NOTE_CELL_SET_NEW_NOTE_BUTTON", 'note-cell-set-new-note-button')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-todo-')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-aborted-')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-waiting-')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-done-')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-done-without-any-optional-steps-')
+    .set("RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID", 'random-bible-chapter')
+    .set("CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID", 'challenges-show-for-no-rows')
+    .set("CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID", 'challenges-show-for-any-rows')
+
+    .set("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME", 'data-bs-target')
+    .set("CHECKLIST_ITEM_BACK_TO_CHECKLIST_LIST_MODAL_TARGET", '#checklist-list-modal-toggle')
+    .set("CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET", '#add-new-challenge-modal-toggle')
+
+    .set("PROGRESS_DONE_ELEMENT_ID_PREFIX", 'progress-done-')
+    .set("PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX", 'progress-optional-')
+    .set("PROGRESS_ABORTED_ELEMENT_ID_PREFIX", 'progress-aborted-')
+
+    .set("PERSON_ADDITION_SEPARATOR", '@')
+
+    .set("INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID", 'input-for-filename-without-extension')
+    .set("DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID", 'datetime-checkbox-for-filename-without-extension')
+    .set("INPUT_FOR_OWNER_ELEMENT_ID", 'input-for-owner')
+
+    .set("PERSONS_DATA_FIELD_NAMES", 'names')
+
+    .set("DATA_FIELD_CHALLENGES", 'challenges')
+    .set("DATA_FIELD_FILENAME_WITHOUT_EXTENSION", 'filename-without-extension')
+    .set("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION", 'add-datetime-suffix-to-filename-without-extension')
+    .set("DATA_FIELD_OWNER", 'owner')
+    .set("DATA_FIELD_CHECKLIST", 'checklist')
+    .set("DATA_FIELD_NOTES", 'notes')
+
+    .set("CONFIG_FIELD_ADDITION_TYPE", 'addition-type')
+    .set("CONFIG_FIELD_CHECKLIST", 'checklist')
+    .set("CONFIG_FIELD_NOTES", 'notes')
+    .set("CONFIG_FIELD_SELECTABLE", 'selectable')
+    .set("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", 'to-complete-on-selected-date')
+
+    .set("PERSON_PREFIX_NEEDED", 'patrons')
+    .set("COPY_PERSON_TYPE_TO_NAME_IDS", ['me'])
+    .set("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL", 'god')
+
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES", 'anybody-having-challenges')
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY", 'anybody-having-challenges-in-last-1-day')
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS", 'anybody-having-challenges-in-last-7-days')
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS", 'anybody-having-challenges-in-last-40-days')
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS", 'anybody-having-challenges-in-last-100-days')
+    .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY", 'anybody-having-challenges-on-the-same-day')
+    .set("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES", 'everybody-not-having-challenges')
+    .set("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY", 'everybody-not-having-challenges-on-the-same-day')
+    .set("REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES", 'god-having-needed-challenges')
+    .set("REQUIREMENT_GOD_OR_ANY_PATRON", 'god-or-any-patron')
+    .set("REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE", 'person-having-any-challenge')
+    .set("REQUIREMENT_PERSON_HAVING_CHALLENGES", 'person-having-challenges')
+    .set("REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES", 'person-not-having-challenges')
+    .set("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY", 'person-addition-is-not-empty')
+    .set("REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES", 'person-addition-having-challenges')
+    .set("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES", 'person-addition-not-having-challenges')
+    .set("REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST", 'day-of-week-having-whitelist')
+    .set("REQUIREMENT_MONTH_HAVING_WHITELIST", 'month-having-whitelist')
+    .set("REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS", 'challenge-date-is-in-liturgical-seasons')
+    .set("REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM", 'day-of-month-having-maximum')
+    .set("REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END", 'first-challenge-date-must-be-earlier-than-days-before-liturgical-season-end')
+    .set("REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX", 'challenge-type-name-prefix')
+    .set("REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY", 'challenge-requirements-to-copy')
+    .set("REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER", 'challenge-requirements-to-copy-from-other')
+    .set("REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE", 'notes-with-challenge-types-have-any-possible-value')
+
+    .set("PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES", {
+      [uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES")]: {
+        I: '2022-02-01',
+        MM: '2023-06-01'
+      },
+      [uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES")]: {
+        MM: '2023-06-01'
+      },
+      [uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS")]: {
+        SPA: '2024-01-01'
+      }
+    })
+
+    .set("NOTE_CONFIG_SOURCE_TYPE_VALUES", 'values')
+    .set("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED", 'sorted')
+    .set("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED", 'last-year-or-10-challenges-sorted')
+    .set("NOTE_CONFIG_SOURCE_TYPE_LIST", 'list')
+    .set("NOTE_CONFIG_SOURCE_TYPE_PATRONS", 'patrons')
+    .set("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES", 'challenge-types')
+
+    .set("JSON_MIME_TYPE", 'application/json')
+    .set("JSON_DATA_FILE_EXTENSION", '.mypatrons.json')
+    .set("MARKDOWN_FILE_EXTENSION", '.md')
+
+    .set("DESCRIPTION_VALUE_PARAM", 'value')
+
+    .set("JSON_STRINGIFY_SPACES", 2)
+    .set("MAX_NOTE_OBJECT_STRUCTURE_LEVELS", 5)
+
+    .set("LANGUAGE_VARIABLE_PREFIX", 'lang-')
+    .set("WEEKDAY_LANGUAGE_VARIABLES_PREFIX", 'lang-weekday-abbreviation-')
+    .set("MONTH_LANGUAGE_VARIABLES_PREFIX", 'lang-month-')
+
+    .set("SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME", 'lang-without-addition-selection')
+
+    .set("CHECKLIST_STATUS_WAITING", 'waiting')
+    .set("CHECKLIST_STATUS_OPTIONAL_WAITING", 'optional-waiting')
+    .set("CHECKLIST_STATUS_ABORTED", 'aborted')
+    .set("CHECKLIST_STATUS_DONE", 'done')
+    .set("CHECKLIST_STATUSES", {
+      [uConst.get("CHECKLIST_STATUS_WAITING")]: {variable: 'lang-checklist-status-waiting', color: uConst.get("CHECKLIST_STATUS_WAITING")},
+      [uConst.get("CHECKLIST_STATUS_OPTIONAL_WAITING")]: {variable: 'lang-checklist-status-optional-waiting', color: uConst.get("CHECKLIST_STATUS_OPTIONAL_WAITING")},
+      [uConst.get("CHECKLIST_STATUS_ABORTED")]: {variable: 'lang-checklist-status-aborted', color: uConst.get("CHECKLIST_STATUS_ABORTED")},
+      [uConst.get("CHECKLIST_STATUS_DONE")]: {variable: 'lang-checklist-status-done', color: uConst.get("CHECKLIST_STATUS_DONE")}
+    })
+
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED", false)
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING", null)
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_DONE", true)
+
+    .set("CHALLENGE_SUCCESS_STATUS_TODO", 'todo')
+    .set("CHALLENGE_SUCCESS_STATUS_ABORTED", 'aborted')
+    .set("CHALLENGE_SUCCESS_STATUS_WAITING", 'waiting')
+    .set("CHALLENGE_SUCCESS_STATUS_DONE", 'done')
+
+    .set("HTML_TAGS_TO_ESCAPE", {
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;'
+    })
   ;
-
-  //-------------
-
-  const SELECT_NAME = '...';
-  const SELECT_SEPARATOR = '----------';
-
-  const ANCHOR_CHARACTER = '#';
-  const UNIQUENESS_STRING_SEPARATOR = '|#|#|';
-  const UNIQUENESS_FIELD_MODIFIER_SEPARATOR = '|';
-
-  const IMMOVABLE_DATES_PATRONS_LIST_CHARACTER = '#';
-  const IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST = ['B', 'SB', 'SC', 'SE', 'SP', 'SA', 'SO', 'SM']; //order is important!
-
-  const MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE = '!';
-  const MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR = 'b';
-  const MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR = 'n';
-
-  const MISSING_TABLE_HEADER_NOTE_NAME = '?';
-  const EMPTY_NOTE_ID = 0;
-  const EMPTY_ROW_ID = 0;
-  const NOTE_QUANTITY_INFINITY_MAX = 0;
-  const NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST = 1000;
-
-  const MISSING_NOTE_ID_SIGN = '!!!';
-  const CHALLENGES_CONFIG_JSON_FILE = '/files/data/challenges.json';
-  const NOTES_CONFIG_JSON_FILE = '/files/data/notes-types.json';
-  const PERSONS_DATA_JSON_FILE = '/files/data/generated/persons-data.generated.json';
-  const BIBLE_CHAPTERS_DATA_JSON_FILE = '/files/data/bible-chapters.json';
-  const DATES_FEASTS_IMMOVABLE_JSON_FILE = '/files/data/generated/dates-feasts-immovable.generated.json';
-  const DATES_PATRONS_IMMOVABLE_JSON_FILE = '/files/data/generated/dates-patrons-immovable.generated.json';
-  const LITURGICAL_SEASONS_JSON_FILE = '/files/data/generated/liturgical-seasons.generated.json';
-
-  const PARSE_CHALLENGE_MANY_PERSONS_SIGN = '*';
-
-  const CHALLENGE_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-challenge-item.html';
-  const CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-challenge-to-remove-item.html';
-  const CHECKLIST_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-checklist-item.html';
-  const NOTE_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-note-item.html';
-  const DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH = '/files/resources/html/content-blocks/challenges-description-content-block.html';
-  const READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-read-mode-note-cell-item.html';
-  const EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-edit-mode-note-cell-item.html';
-  const FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-form-mode-note-cell-item.html';
-  const CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH = '/files/resources/html/items/challenges-create-mode-note-cell-item.html';
-  const MARKDOWN_FILES_ROOT_PATH = '/files/resources/md/';
-
-  const DEFAULT_JSON_FILENAME = '';
-  const DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE = true;
-  const MIN_CHALLENGE_DATE_ALLOWED = '1901-01-01';
-
-  const MOVE_CHALLENGE_DIRECTION_UP = 'up';
-  const MOVE_CHALLENGE_DIRECTION_DOWN = 'down';
-
-  const JSON_EDITOR_BUTTON_ELEMENT_ID = 'json-editor-button';
-  const CHALLENGE_ROW_ELEMENT_ID_PREFIX = 'id-';
-  const CHALLENGES_ELEMENT_ID = 'challenges';
-  const JSON_EDITOR_TEXTAREA_ELEMENT_ID = 'json-editor-textarea';
-  const CHALLENGE_DATE_INPUT_ELEMENT_ID = 'challenge-date-input';
-  const CHALLENGE_TYPE_SELECT_ELEMENT_ID = 'challenge-type-select';
-  const LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID = 'last-selected-challenge-type';
-  const CHALLENGE_TYPE_DIV_ELEMENT_ID = 'challenge-type-div';
-  const CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID = 'challenge-description-div';
-  const CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID = 'challenge-description-info-div';
-  const CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID = 'challenge-description-info-value';
-  const PERSON_DESCRIPTION_DIV_ELEMENT_ID = 'person-description-div';
-  const PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID = 'person-description-info-div';
-  const PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID = 'person-description-info-value';
-  const ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID = 'add-new-challenge-button';
-  const PERSON_DIV_ELEMENT_ID = 'person-div';
-  const PERSON_TYPE_SELECT_ELEMENT_ID = 'person-type-select';
-  const PERSON_SELECT_ELEMENT_ID = 'person-select';
-  const ADDITION_SELECT_ELEMENT_ID = 'addition-select';
-  const PERSON_URL_ELEMENT_ID_PREFIX = 'person-url-';
-  const ADDITION_URL_ELEMENT_ID_PREFIX = 'addition-url-';
-  const CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID = 'checklist-list-modal-body';
-  const NOTES_LIST_ELEMENT_ID = 'notes-list';
-  const NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID = 'notes-list-for-add-new-challenge';
-  const CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID = 'checklist-item-description';
-  const CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID = 'checklist-item-modal-toggle-label';
-  const CHECKLIST_BUTTON_CLOSE_ELEMENT_ID = 'checklist-button-close';
-  const CHECKLIST_BUTTON_ABORTED_ELEMENT_ID = 'checklist-button-aborted';
-  const CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID = 'checklist-button-optional-waiting';
-  const CHECKLIST_BUTTON_WAITING_ELEMENT_ID = 'checklist-button-waiting';
-  const CHECKLIST_BUTTON_DONE_ELEMENT_ID = 'checklist-button-done';
-  const CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID = 'checklist-item-modal-row-id';
-  const CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID = 'checklist-item-modal-item-type';
-  const CHALLENGE_TO_REMOVE_ELEMENT_ID = 'challenge-to-remove';
-  const REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID = 'remove-challenge-modal-row-id';
-  const MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID = 'move-challenge-modal-row-id';
-  const MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID = 'move-challenge-modal-direction';
-  const MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX = 'move-challenge-up-button-'
-  const MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX = 'move-challenge-down-button-'
-  const REQUIRED_NOTES_DIV_ELEMENT_ID = 'required-notes-div';
-  const REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID = 'required-checklist-steps-div';
-  const REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID = 'required-notes-done';
-  const REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID = 'required-checklist-steps-done';
-  const REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID = 'required-checklist-steps-list';
-  const REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID = 'required-checklist-steps-info';
-  const NOTE_CELL_ELEMENT_ID_PREFIX = 'note-cell-';
-  const NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX = '-edit-button';
-  const NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX = '-move-up-button';
-  const NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX = '-move-down-button';
-  const NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX = '-remove-button';
-  const NOTE_CELL_HINT_ELEMENT_ID_SUFFIX = '-hint';
-  const NOTE_ITEM_ELEMENT_ID_PREFIX = 'note-item-';
-  const NOTE_VALUE_ELEMENT_ID_PREFIX = 'note-value-';
-  const NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX = '-table-body';
-  const REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID = 'remove-note-modal-row-id';
-  const REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID = 'remove-note-modal-challenge-type';
-  const REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID = 'remove-note-modal-item-type';
-  const REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID = 'remove-note-modal-item-path';
-  const NOTE_CELL_INPUT_ELEMENT_ID = 'note-cell-input';
-  const NOTE_CELL_SELECT_ELEMENT_ID = 'note-cell-select';
-  const NOTE_CELL_SET_EXISTING_NOTE_BUTTON = 'note-cell-set-existing-note-button';
-  const NOTE_CELL_SET_NEW_NOTE_BUTTON = 'note-cell-set-new-note-button';
-  const CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX = 'challenge-success-status-icon-todo-';
-  const CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX = 'challenge-success-status-icon-aborted-';
-  const CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX = 'challenge-success-status-icon-waiting-';
-  const CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX = 'challenge-success-status-icon-done-';
-  const CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX = 'challenge-success-status-icon-done-without-any-optional-steps-';
-  const RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID = 'random-bible-chapter';
-  const CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID = 'challenges-show-for-no-rows';
-  const CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID = 'challenges-show-for-any-rows';
-
-  const CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME = 'data-bs-target';
-  const CHECKLIST_ITEM_BACK_TO_CHECKLIST_LIST_MODAL_TARGET = '#checklist-list-modal-toggle';
-  const CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET = '#add-new-challenge-modal-toggle';
-
-  const PROGRESS_DONE_ELEMENT_ID_PREFIX = 'progress-done-';
-  const PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX = 'progress-optional-';
-  const PROGRESS_ABORTED_ELEMENT_ID_PREFIX = 'progress-aborted-';
-
-  const PERSON_ADDITION_SEPARATOR = '@';
-
-  const INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID = 'input-for-filename-without-extension';
-  const DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID = 'datetime-checkbox-for-filename-without-extension';
-  const INPUT_FOR_OWNER_ELEMENT_ID = 'input-for-owner';
-
-  const PERSONS_DATA_FIELD_NAMES = 'names';
-
-  const DATA_FIELD_CHALLENGES = 'challenges';
-  const DATA_FIELD_FILENAME_WITHOUT_EXTENSION = 'filename-without-extension';
-  const DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION = 'add-datetime-suffix-to-filename-without-extension';
-  const DATA_FIELD_OWNER = 'owner';
-  const DATA_FIELD_CHECKLIST = 'checklist';
-  const DATA_FIELD_NOTES = 'notes';
-
-  const CONFIG_FIELD_ADDITION_TYPE = 'addition-type';
-  const CONFIG_FIELD_CHECKLIST = 'checklist';
-  const CONFIG_FIELD_NOTES = 'notes';
-  const CONFIG_FIELD_SELECTABLE = 'selectable';
-  const CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE = 'to-complete-on-selected-date';
-
-  const PERSON_PREFIX_NEEDED = 'patrons';
-  const COPY_PERSON_TYPE_TO_NAME_IDS = ['me'];
-  const GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL = 'god';
-
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES = 'anybody-having-challenges';
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY = 'anybody-having-challenges-in-last-1-day';
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS = 'anybody-having-challenges-in-last-7-days';
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS = 'anybody-having-challenges-in-last-40-days';
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS = 'anybody-having-challenges-in-last-100-days';
-  const REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY = 'anybody-having-challenges-on-the-same-day';
-  const REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES = 'everybody-not-having-challenges';
-  const REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY = 'everybody-not-having-challenges-on-the-same-day';
-  const REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES = 'god-having-needed-challenges';
-  const REQUIREMENT_GOD_OR_ANY_PATRON = 'god-or-any-patron';
-  const REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE = 'person-having-any-challenge';
-  const REQUIREMENT_PERSON_HAVING_CHALLENGES = 'person-having-challenges';
-  const REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES = 'person-not-having-challenges';
-  const REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY = 'person-addition-is-not-empty';
-  const REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES = 'person-addition-having-challenges';
-  const REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES = 'person-addition-not-having-challenges';
-  const REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST = 'day-of-week-having-whitelist';
-  const REQUIREMENT_MONTH_HAVING_WHITELIST = 'month-having-whitelist';
-  const REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS = 'challenge-date-is-in-liturgical-seasons';
-  const REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM = 'day-of-month-having-maximum';
-  const REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END = 'first-challenge-date-must-be-earlier-than-days-before-liturgical-season-end';
-  const REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX = 'challenge-type-name-prefix';
-  const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY = 'challenge-requirements-to-copy';
-  const REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER = 'challenge-requirements-to-copy-from-other';
-  const REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE = 'notes-with-challenge-types-have-any-possible-value';
-
-  const PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES = {
-    [REQUIREMENT_ANYBODY_HAVING_CHALLENGES]: {
-      I: '2022-02-01',
-      MM: '2023-06-01'
-    },
-    [REQUIREMENT_PERSON_HAVING_CHALLENGES]: {
-      MM: '2023-06-01'
-    },
-    [REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS]: {
-      SPA: '2024-01-01'
-    }
-  };
-
-  const NOTE_CONFIG_SOURCE_TYPE_VALUES = 'values';
-  const NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED = 'sorted';
-  const NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED = 'last-year-or-10-challenges-sorted';
-  const NOTE_CONFIG_SOURCE_TYPE_LIST = 'list';
-  const NOTE_CONFIG_SOURCE_TYPE_PATRONS = 'patrons';
-  const NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES = 'challenge-types';
-
-  const JSON_MIME_TYPE = 'application/json';
-  const JSON_DATA_FILE_EXTENSION = '.mypatrons.json';
-  const MARKDOWN_FILE_EXTENSION = '.md';
-
-  const DESCRIPTION_VALUE_PARAM = 'value';
-
-  const JSON_STRINGIFY_SPACES = 2;
-  const MAX_NOTE_OBJECT_STRUCTURE_LEVELS = 5;
-
-  const LANGUAGE_VARIABLE_PREFIX = 'lang-';
-  const WEEKDAY_LANGUAGE_VARIABLES_PREFIX = 'lang-weekday-abbreviation-';
-  const MONTH_LANGUAGE_VARIABLES_PREFIX = 'lang-month-';
-
-  const SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME = 'lang-without-addition-selection';
-
-  const CHECKLIST_STATUS_WAITING = 'waiting';
-  const CHECKLIST_STATUS_OPTIONAL_WAITING = 'optional-waiting';
-  const CHECKLIST_STATUS_ABORTED = 'aborted';
-  const CHECKLIST_STATUS_DONE = 'done';
-  const CHECKLIST_STATUSES = {
-    [CHECKLIST_STATUS_WAITING]: {variable: 'lang-checklist-status-waiting', color: CHECKLIST_STATUS_WAITING},
-    [CHECKLIST_STATUS_OPTIONAL_WAITING]: {variable: 'lang-checklist-status-optional-waiting', color: CHECKLIST_STATUS_OPTIONAL_WAITING},
-    [CHECKLIST_STATUS_ABORTED]: {variable: 'lang-checklist-status-aborted', color: CHECKLIST_STATUS_ABORTED},
-    [CHECKLIST_STATUS_DONE]: {variable: 'lang-checklist-status-done', color: CHECKLIST_STATUS_DONE}
-  }
-
-  const CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED = false;
-  const CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING = null;
-  const CHALLENGE_SUCCESS_STATUS_IN_DATA_DONE = true;
-
-  const CHALLENGE_SUCCESS_STATUS_TODO = 'todo';
-  const CHALLENGE_SUCCESS_STATUS_ABORTED = 'aborted';
-  const CHALLENGE_SUCCESS_STATUS_WAITING = 'waiting';
-  const CHALLENGE_SUCCESS_STATUS_DONE = 'done';
-
-  const HTML_TAGS_TO_ESCAPE = {
-    '&': '&amp;',
-    '<': '&lt;',
-    '>': '&gt;'
-  }
 
   let challengesConfig = {};
   let notesTypesConfig = {};
@@ -292,7 +290,7 @@ requirejs(
   let immovableDatesPatronsData = {};
   let liturgicalSeasonsData = {};
 
-  let fileName = DEFAULT_JSON_FILENAME;
+  let fileName = uConst.get("DEFAULT_JSON_FILENAME");
   let fileContent = '{}';
   let fileData = {};
   let unchangedFileContent = fileContent;
@@ -311,11 +309,11 @@ requirejs(
     }
 
     uLanguage.loadTranslationsFile();
-    challengesConfig = await uFile.getJsonFromFile(CHALLENGES_CONFIG_JSON_FILE);
-    notesTypesConfig = await uFile.getJsonFromFile(NOTES_CONFIG_JSON_FILE);
-    personsData = await uFile.getJsonFromFile(PERSONS_DATA_JSON_FILE);
-    immovableDatesPatronsData = await getImmovableDatesPatronsData([DATES_FEASTS_IMMOVABLE_JSON_FILE, DATES_PATRONS_IMMOVABLE_JSON_FILE]);
-    liturgicalSeasonsData = await uFile.getJsonFromFile(LITURGICAL_SEASONS_JSON_FILE);
+    challengesConfig = await uFile.getJsonFromFile(uConst.get("CHALLENGES_CONFIG_JSON_FILE"));
+    notesTypesConfig = await uFile.getJsonFromFile(uConst.get("NOTES_CONFIG_JSON_FILE"));
+    personsData = await uFile.getJsonFromFile(uConst.get("PERSONS_DATA_JSON_FILE"));
+    immovableDatesPatronsData = await getImmovableDatesPatronsData([uConst.get("DATES_FEASTS_IMMOVABLE_JSON_FILE"), uConst.get("DATES_PATRONS_IMMOVABLE_JSON_FILE")]);
+    liturgicalSeasonsData = await uFile.getJsonFromFile(uConst.get("LITURGICAL_SEASONS_JSON_FILE"));
 
     doActionsDependentOfAdvancedMode();
     reloadFileTab();
@@ -325,7 +323,7 @@ requirejs(
 
   function getDateFormat(dateString) {
     const weekday = uDate.getWeekdayName(dateString);
-    const prefix = uLanguage.getTranslation(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + weekday.toLowerCase());
+    const prefix = uLanguage.getTranslation(uConst.get("WEEKDAY_LANGUAGE_VARIABLES_PREFIX") + weekday.toLowerCase());
 
     return prefix + ' ' + dateString;
   }
@@ -339,31 +337,31 @@ requirejs(
   function doActionsDependentOfAdvancedMode() {
     const advancedMode = isAdvancedMode();
 
-    const jsonEditorButton = uDocument.getElementById(JSON_EDITOR_BUTTON_ELEMENT_ID);
+    const jsonEditorButton = uDocument.getElementById(uConst.get("JSON_EDITOR_BUTTON_ELEMENT_ID"));
     uUseful.setVisibility(jsonEditorButton, advancedMode);
   }
 
   function getHtmlTagsEscapedString(string) {
     return string.replace(/[&<>]/g, function(str) {
-      return HTML_TAGS_TO_ESCAPE[str] || str;
+      return uConst.get("HTML_TAGS_TO_ESCAPE")[str] || str;
     });
   }
 
   function getPersonsDataDirName(id) {
-    return id.replace(new RegExp('[/' + PERSON_ADDITION_SEPARATOR + '][^/' + PERSON_ADDITION_SEPARATOR + ']+[/' + PERSON_ADDITION_SEPARATOR + ']?$'), '');
+    return id.replace(new RegExp('[/' + uConst.get("PERSON_ADDITION_SEPARATOR") + '][^/' + uConst.get("PERSON_ADDITION_SEPARATOR") + ']+[/' + uConst.get("PERSON_ADDITION_SEPARATOR") + ']?$'), '');
   }
 
   function getPersonsDataBaseName(id) {
-    return id.replace(new RegExp('^.*[/' + PERSON_ADDITION_SEPARATOR + ']'), '');
+    return id.replace(new RegExp('^.*[/' + uConst.get("PERSON_ADDITION_SEPARATOR") + ']'), '');
   }
 
   function getPersonsDataRootName(id) {
-    return id.replace(new RegExp('[/' + PERSON_ADDITION_SEPARATOR + '].*$'), '');
+    return id.replace(new RegExp('[/' + uConst.get("PERSON_ADDITION_SEPARATOR") + '].*$'), '');
   }
 
   function getPreparedNotificationMessageAndLink(message, rowId) {
-    if (rowId > EMPTY_ROW_ID) {
-      const link = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
+    if (rowId > uConst.get("EMPTY_ROW_ID")) {
+      const link = uConst.get("ANCHOR_CHARACTER") + uConst.get("CHALLENGE_ROW_ELEMENT_ID_PREFIX") + rowId;
       return ['[#' + rowId + '] ' + message, link];
     } else {
       return [message, null];
@@ -382,34 +380,34 @@ requirejs(
     uNotification.clear();
   }
 
-  function errorNotification(message, rowId = EMPTY_ROW_ID) {
+  function errorNotification(message, rowId = uConst.get("EMPTY_ROW_ID")) {
     const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
     uNotification.error(newMessage, link);
   }
 
-  function warningNotification(message, rowId = EMPTY_ROW_ID) {
+  function warningNotification(message, rowId = uConst.get("EMPTY_ROW_ID")) {
     const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
     uNotification.warning(newMessage, link);
   }
 
-  function infoNotification(message, rowId = EMPTY_ROW_ID) {
+  function infoNotification(message, rowId = uConst.get("EMPTY_ROW_ID")) {
     [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
     uNotification.info(newMessage, link);
   }
 
-  function successNotification(message, rowId = EMPTY_ROW_ID) {
+  function successNotification(message, rowId = uConst.get("EMPTY_ROW_ID")) {
     const [newMessage, link] = getPreparedNotificationMessageAndLink(message, rowId);
     uNotification.success(newMessage, link);
   }
 
   function gotoChallenge(rowId) {
-    location.hash = ANCHOR_CHARACTER + CHALLENGE_ROW_ELEMENT_ID_PREFIX + rowId;
+    location.hash = uConst.get("ANCHOR_CHARACTER") + uConst.get("CHALLENGE_ROW_ELEMENT_ID_PREFIX") + rowId;
   }
 
   async function getImmovableDatesPatronsData(filePaths) {
     let result = {};
 
-    const personPrefixNeeded = PERSON_PREFIX_NEEDED;
+    const personPrefixNeeded = uConst.get("PERSON_PREFIX_NEEDED");
 
     for (const filePath of filePaths) {
       const fileData = await uFile.getJsonFromFile(filePath);
@@ -445,12 +443,12 @@ requirejs(
     fileContent = JSON.stringify(fileData);
     fileData = parseFileDataFromContent(fileContent);
 
-    setDivVisibilities((fileData[DATA_FIELD_CHALLENGES] ?? []).length);
+    setDivVisibilities((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? []).length);
   }
 
   function setDivVisibilities(challengesCount) {
-    noRowsElements = uDocument.getElementsByClassName(CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID);
-    anyRowsElements = uDocument.getElementsByClassName(CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID);
+    noRowsElements = uDocument.getElementsByClassName(uConst.get("CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID"));
+    anyRowsElements = uDocument.getElementsByClassName(uConst.get("CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID"));
 
     for (const element of noRowsElements) {
       uUseful.setVisibility(element, (challengesCount <= 0));
@@ -466,14 +464,14 @@ requirejs(
 
       const data = input.files[0];
 
-      fileName = data.name.replace(new RegExp('[0-9]{8}-[0-9]{6}' + JSON_DATA_FILE_EXTENSION + '$'), '');
+      fileName = data.name.replace(new RegExp('[0-9]{8}-[0-9]{6}' + uConst.get("JSON_DATA_FILE_EXTENSION") + '$'), '');
       fileContent = await data.text();
       fileData = parseFileDataFromContent(fileContent);
 
-      if (fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION]) {
-        fileName = fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION];
+      if (fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")]) {
+        fileName = fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")];
       } else {
-        fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] = fileName;
+        fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")] = fileName;
       }
 
       synchronizeFileData();
@@ -502,22 +500,22 @@ requirejs(
       fileContent = JSON.stringify(fileData);
       await reloadChallengesTab();
 
-      if ((fileData[DATA_FIELD_OWNER] ?? '').length === 0) {
+      if ((fileData[uConst.get("DATA_FIELD_OWNER")] ?? '').length === 0) {
         throw new Error(uLanguage.getTranslation('lang-missing-file-owner', true));
-      } else if ((fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? '').length === 0) {
+      } else if ((fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")] ?? '').length === 0) {
         throw new Error(uLanguage.getTranslation('lang-missing-filename-without-extension', true));
       } else if (!isDataValid) {
         throw new Error(uLanguage.getTranslation('lang-cannot-save-invalid-data', true));
       }
 
       let datetimeSuffix = '';
-      if (true === (fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE)) {
+      if (true === (fileData[uConst.get("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION")] ?? uConst.get("DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE"))) {
         datetimeSuffix = '-' + uDate.getUtcDatetime().replace(/[^ 0-9]/g, '').replace(/ /, '-');
       }
 
-      var blob = new Blob([fileContent], {type: JSON_MIME_TYPE});
+      var blob = new Blob([fileContent], {type: uConst.get("JSON_MIME_TYPE")});
       var a = uDocument.createElement('a');
-      a.download = fileName + datetimeSuffix + JSON_DATA_FILE_EXTENSION;
+      a.download = fileName + datetimeSuffix + uConst.get("JSON_DATA_FILE_EXTENSION");
       a.href = uEnv.getWindow().URL.createObjectURL(blob);
       a.click();
 
@@ -533,18 +531,18 @@ requirejs(
     try {
       clearNotifications();
 
-      let inputForOwner = uDocument.getElementById(INPUT_FOR_OWNER_ELEMENT_ID);
-      let inputForFilenameWithoutExtension = uDocument.getElementById(INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
-      let datetimeCheckboxForFilenameWithoutExtension = uDocument.getElementById(DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID);
+      let inputForOwner = uDocument.getElementById(uConst.get("INPUT_FOR_OWNER_ELEMENT_ID"));
+      let inputForFilenameWithoutExtension = uDocument.getElementById(uConst.get("INPUT_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID"));
+      let datetimeCheckboxForFilenameWithoutExtension = uDocument.getElementById(uConst.get("DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID"));
 
       inputForOwner.value = '';
       inputForFilenameWithoutExtension.value = '';
       datetimeCheckboxForFilenameWithoutExtension.checked = false;
       fileData = parseFileDataFromContent(fileContent);
 
-      inputForOwner.value = fileData[DATA_FIELD_OWNER] ?? '';
-      inputForFilenameWithoutExtension.value = fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_JSON_FILENAME;
-      datetimeCheckboxForFilenameWithoutExtension.checked = fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE;
+      inputForOwner.value = fileData[uConst.get("DATA_FIELD_OWNER")] ?? '';
+      inputForFilenameWithoutExtension.value = fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")] ?? uConst.get("DEFAULT_JSON_FILENAME");
+      datetimeCheckboxForFilenameWithoutExtension.checked = fileData[uConst.get("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION")] ?? uConst.get("DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE");
     } catch (e) {
       errorNotification(e.message);
     }
@@ -554,7 +552,7 @@ requirejs(
     try {
       synchronizeFileData();
 
-      const challengesData = fileData[DATA_FIELD_CHALLENGES] ?? [];
+      const challengesData = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
       await fillChallenges(challengesData);
 
       parseChallenges(challengesData);
@@ -570,9 +568,9 @@ requirejs(
       parseFileDataFromContent(fileContent);
 
       let content = fileContent;
-      content = JSON.stringify(fileData, null, JSON_STRINGIFY_SPACES);
+      content = JSON.stringify(fileData, null, uConst.get("JSON_STRINGIFY_SPACES"));
 
-      uDocument.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value = content;
+      uDocument.getElementById(uConst.get("JSON_EDITOR_TEXTAREA_ELEMENT_ID")).value = content;
       fileData = parseFileDataFromContent(fileContent);
     } catch (e) {
       errorNotification(e.message);
@@ -582,7 +580,7 @@ requirejs(
   async function setFileContentFromJsonEditor() {
     try {
       clearNotifications();
-      fileContent = uDocument.getElementById(JSON_EDITOR_TEXTAREA_ELEMENT_ID).value;
+      fileContent = uDocument.getElementById(uConst.get("JSON_EDITOR_TEXTAREA_ELEMENT_ID")).value;
       fileData = parseFileDataFromContent(fileContent);
       await reloadChallengesTab();
     } catch (e) {
@@ -624,7 +622,7 @@ requirejs(
       isDataValid = true;
     } catch (e) {
       let message = e.message;
-      if (LANGUAGE_VARIABLE_PREFIX === message.substring(0, LANGUAGE_VARIABLE_PREFIX.length)) {
+      if (uConst.get("LANGUAGE_VARIABLE_PREFIX") === message.substring(0, uConst.get("LANGUAGE_VARIABLE_PREFIX").length)) {
         message = uLanguage.getTranslation(message, true);
       }
       const data = e.data ?? [];
@@ -639,9 +637,9 @@ requirejs(
     const challengeDate = challenge.date ?? uDate.getToday();
     const challengePerson = challenge.person ?? '';
     const challengeAddition = challenge.addition ?? '';
-    const challengePersonWithAddition = challengePerson + PERSON_ADDITION_SEPARATOR + challengeAddition;
-    const challengeChecklist = challenge[DATA_FIELD_CHECKLIST] ?? {};
-    const challengeNotes = challenge[DATA_FIELD_NOTES] ?? {};
+    const challengePersonWithAddition = challengePerson + uConst.get("PERSON_ADDITION_SEPARATOR") + challengeAddition;
+    const challengeChecklist = challenge[uConst.get("DATA_FIELD_CHECKLIST")] ?? {};
+    const challengeNotes = challenge[uConst.get("DATA_FIELD_NOTES")] ?? {};
     const challengeStatus = getChallengeSuccessStatus(rowId);
     const challengeNumber = (contextData.lastNumbers[challengeType] ?? 0) + 1;
 
@@ -656,13 +654,13 @@ requirejs(
     const configPersonData = config.person ?? {};
     const configPersonReqsData = configPersonData.requirements ?? {};
     const configUniqueness = config.uniqueness ?? [];
-    const configChecklist = config[CONFIG_FIELD_CHECKLIST] ?? {};
-    const configNotes = config[CONFIG_FIELD_NOTES] ?? {};
+    const configChecklist = config[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? {};
+    const configNotes = config[uConst.get("CONFIG_FIELD_NOTES")] ?? {};
 
-    const manyPersonsCountsContext = contextData.persons.counts[PARSE_CHALLENGE_MANY_PERSONS_SIGN] ?? {};
+    const manyPersonsCountsContext = contextData.persons.counts[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] ?? {};
     const specifiedPersonCountsContext = contextData.persons.counts[challengePerson] ?? {};
     const specifiedPersonAdditionCountsContext = contextData.additions.counts[challengePersonWithAddition] ?? {};
-    const manyPersonsDatesContext = contextData.persons.dates[PARSE_CHALLENGE_MANY_PERSONS_SIGN] ?? {};
+    const manyPersonsDatesContext = contextData.persons.dates[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] ?? {};
     const specifiedPersonDatesContext = contextData.persons.dates[challengePerson] ?? {};
     const uniqs = contextData.uniqs[challengeType] ?? [];
 
@@ -678,7 +676,7 @@ requirejs(
       }
 
       switch (reqName) {
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES"):
           let neededCounts = {};
           for (const type of reqTypesWithDuplications) {
             neededCounts[type] = (neededCounts[type] ?? 0) + 1;
@@ -695,7 +693,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
               || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 1
@@ -710,7 +708,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
               || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 7
@@ -727,7 +725,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
               || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 40
@@ -744,7 +742,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
               || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) > 100
@@ -761,7 +759,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY:
+        case uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === null
               || uDate.getDatesDiffInDays(challengeDate, manyPersonsDatesContext[type]) !== 0
@@ -774,7 +772,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES"):
           let exceededCounts = {};
           for (const type of reqTypesWithDuplications) {
             exceededCounts[type] = (exceededCounts[type] ?? 0) + 1;
@@ -789,7 +787,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY:
+        case uConst.get("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY"):
           for (const type of reqTypes) {
             if ((manyPersonsDatesContext[type] ?? null) === challengeDate) {
               throw {
@@ -800,7 +798,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES"):
           for (const type of reqTypes) {
             if ((specifiedPersonAdditionCountsContext[type] ?? 0) === 0
               && challengeAddition !== ''
@@ -813,7 +811,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES"):
           for (const type of reqTypes) {
             if ((specifiedPersonAdditionCountsContext[type] ?? null) !== null) {
               throw {
@@ -824,7 +822,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY:
+        case uConst.get("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY"):
           if (challengeAddition === '') {
             throw {
               message: 'lang-challenge-parse-error-for-requirement-person-addition-is-not-empty'
@@ -832,14 +830,14 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES:
-          const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
+        case uConst.get("REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES"):
+          const subelements = getPersonsDataSubelements(uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL"));
           if (uUseful.inArray(challengePerson, subelements)) {
             isPersonGodHavingNeededChallenges = true;
           }
           break;
 
-        case REQUIREMENT_PERSON_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES"):
           for (const type of reqTypes) {
             if ((specifiedPersonCountsContext[type] ?? 0) === 0
               && !isPersonGodHavingNeededChallenges
@@ -852,7 +850,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE:
+        case uConst.get("REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE"):
           let foundAny = false;
           for (const type of reqTypes) {
             if ((specifiedPersonCountsContext[type] ?? 0) > 0
@@ -866,8 +864,8 @@ requirejs(
             }
           }
 
-          if (!foundAny && uUseful.inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, reqTypes)) {
-            for (const challengeTypeToCheck of IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST) {
+          if (!foundAny && uUseful.inArray(uConst.get("IMMOVABLE_DATES_PATRONS_LIST_CHARACTER"), reqTypes)) {
+            for (const challengeTypeToCheck of uConst.get("IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST")) {
               const dateToCheck = manyPersonsDatesContext[challengeTypeToCheck] ?? null;
               if (dateToCheck == null) {
                 continue;
@@ -880,7 +878,7 @@ requirejs(
               }
 
               const isDateToCheckYearLeap = uDate.isYearLeap(dateToCheck.substring(0, 4));
-              const leapYearSeparator = isDateToCheckYearLeap ? MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR : MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR;
+              const leapYearSeparator = isDateToCheckYearLeap ? uConst.get("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR") : uConst.get("MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR");
               if (true === ((immovableDatesPatronsData[monthWithDay.replace('-', leapYearSeparator)] ?? {})[challengePerson] ?? false)) {
                 foundAny = true;
                 break;
@@ -896,7 +894,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES:
+        case uConst.get("REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES"):
           for (const type of reqTypes) {
             if ((specifiedPersonCountsContext[type] ?? null) !== null) {
               throw {
@@ -907,13 +905,13 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST:
+        case uConst.get("REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST"):
           const weekday = uDate.getWeekdayName(challengeDate);
           const allowedDaysOfWeek = reqTypes;
           if (!uUseful.inArray(weekday, allowedDaysOfWeek)) {
             let daysNames = [];
             for (const englishName of allowedDaysOfWeek) {
-              daysNames.push(uLanguage.getTranslation(WEEKDAY_LANGUAGE_VARIABLES_PREFIX + englishName));
+              daysNames.push(uLanguage.getTranslation(uConst.get("WEEKDAY_LANGUAGE_VARIABLES_PREFIX") + englishName));
             }
             throw {
               message: 'lang-challenge-parse-error-for-requirement-day-of-week-having-whitelist',
@@ -922,13 +920,13 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_MONTH_HAVING_WHITELIST:
+        case uConst.get("REQUIREMENT_MONTH_HAVING_WHITELIST"):
           const month = uDate.getMonthName(challengeDate);
           const allowedMonths = reqTypes;
           if (!uUseful.inArray(month, allowedMonths)) {
             let monthsNames = [];
             for (const englishName of allowedMonths) {
-              monthsNames.push(uLanguage.getTranslation(MONTH_LANGUAGE_VARIABLES_PREFIX + englishName));
+              monthsNames.push(uLanguage.getTranslation(uConst.get("MONTH_LANGUAGE_VARIABLES_PREFIX") + englishName));
             }
             throw {
               message: 'lang-challenge-parse-error-for-requirement-month-having-whitelist',
@@ -937,7 +935,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM:
+        case uConst.get("REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM"):
           const dayOfMonth = uDate.getIntDay(challengeDate);
           const maxAllowedDayOfMonth = reqTypes;
           if (dayOfMonth > maxAllowedDayOfMonth) {
@@ -948,7 +946,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS:
+        case uConst.get("REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS"):
           for (const liturgicalSeason of reqTypes) {
             if (!isChallengeDateInLiturgicalSeason(challengeDate, liturgicalSeason)) {
               throw {
@@ -959,7 +957,7 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END:
+        case uConst.get("REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END"):
           for (const liturgicalSeasonDaysDiff of reqTypes) {
             if (challengeNumber <= 1 && !isChallengeDateEarlierThanDaysBeforeLiturgicalSeasonEnd(challengeDate, liturgicalSeasonDaysDiff)) {
               throw {
@@ -970,12 +968,12 @@ requirejs(
           }
           break;
 
-        case REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE:
+        case uConst.get("REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE"):
           for (const noteId of reqTypes) {
             const noteTypes = configNotes[noteId].type ?? {};
             for (const noteTypeId of Object.keys(noteTypes)) {
               const noteConfigForType = notesTypesConfig[noteTypeId] ?? {};
-              const noteReqs = (noteConfigForType.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? null;
+              const noteReqs = (noteConfigForType.source ?? {})[uConst.get("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES")] ?? null;
               if (noteReqs == null) {
                 continue;
               }
@@ -1021,13 +1019,13 @@ requirejs(
         noteLevel++;
 
         const noteConfigForType = notesTypesConfig[noteConfigType] ?? {};
-        const noteReqs = (noteConfigForType.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_PATRONS] ?? null;
+        const noteReqs = (noteConfigForType.source ?? {})[uConst.get("NOTE_CONFIG_SOURCE_TYPE_PATRONS")] ?? null;
         if (noteReqs == null) {
           continue;
         }
 
         const noteIndex = noteConfigForType.index ?? '';
-        const notesIndexValues = (fileData[DATA_FIELD_NOTES] ?? {})[noteIndex] ?? {};
+        const notesIndexValues = (fileData[uConst.get("DATA_FIELD_NOTES")] ?? {})[noteIndex] ?? {};
         const noteIds = getNotesIdsForLevel(challengeNotes[itemType] ?? [], noteLevel);
         for (const noteId of Object.keys(noteIds)) {
           const notePerson = notesIndexValues[noteId];
@@ -1037,10 +1035,10 @@ requirejs(
             const noteSpecifiedPersonCountsContext = contextData.persons.counts[notePerson] ?? {};
 
             switch (reqName) {
-              case REQUIREMENT_GOD_OR_ANY_PATRON:
+              case uConst.get("REQUIREMENT_GOD_OR_ANY_PATRON"):
                 break;
 
-              case REQUIREMENT_PERSON_HAVING_CHALLENGES:
+              case uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES"):
                 for (const type of reqTypes) {
 
                   if (!isWarningIgnoredForOldChallenges(challengeDate, type, reqName)
@@ -1069,7 +1067,7 @@ requirejs(
     //check if checklist steps to complete on selected date are done
     for (const stepType of Object.keys(configChecklist)) {
       const stepName = uLanguage.getTranslation('name', true, configChecklist[stepType].name ?? {});
-      const toCompleteOnSelectedDate = (configChecklist[stepType] ?? {})[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
+      const toCompleteOnSelectedDate = (configChecklist[stepType] ?? {})[uConst.get("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE")] ?? false;
       if (toCompleteOnSelectedDate && true !== (challengeChecklist[stepType] ?? false)) {
         throw {
           message: 'lang-challenge-parse-error-invalid-status-in-checklist-step-to-complete-on-selected-date',
@@ -1101,22 +1099,22 @@ requirejs(
     }
 
     //add context data
-    if (contextData.persons.counts[PARSE_CHALLENGE_MANY_PERSONS_SIGN] === undefined) {
-      contextData.persons.counts[PARSE_CHALLENGE_MANY_PERSONS_SIGN] = {};
+    if (contextData.persons.counts[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] === undefined) {
+      contextData.persons.counts[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] = {};
     }
     if (contextData.persons.counts[challengePerson] === undefined) {
       contextData.persons.counts[challengePerson] = {};
     }
-    contextData.persons.counts[PARSE_CHALLENGE_MANY_PERSONS_SIGN][challengeType] = (contextData.persons.counts[PARSE_CHALLENGE_MANY_PERSONS_SIGN][challengeType] ?? 0) + 1;
+    contextData.persons.counts[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")][challengeType] = (contextData.persons.counts[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")][challengeType] ?? 0) + 1;
     contextData.persons.counts[challengePerson][challengeType] = (contextData.persons.counts[challengePerson][challengeType] ?? 0) + 1;
 
-    if (contextData.persons.dates[PARSE_CHALLENGE_MANY_PERSONS_SIGN] === undefined) {
-      contextData.persons.dates[PARSE_CHALLENGE_MANY_PERSONS_SIGN] = {};
+    if (contextData.persons.dates[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] === undefined) {
+      contextData.persons.dates[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")] = {};
     }
     if (contextData.persons.dates[challengePerson] === undefined) {
       contextData.persons.dates[challengePerson] = {};
     }
-    contextData.persons.dates[PARSE_CHALLENGE_MANY_PERSONS_SIGN][challengeType] = challengeDate;
+    contextData.persons.dates[uConst.get("PARSE_CHALLENGE_MANY_PERSONS_SIGN")][challengeType] = challengeDate;
     contextData.persons.dates[challengePerson][challengeType] = challengeDate;
 
     if (contextData.additions.counts[challengePersonWithAddition] === undefined) {
@@ -1132,7 +1130,7 @@ requirejs(
     let resultArr = [];
 
     for (const fieldPathWithModifiers of uniqFields) {
-      const modifiers = fieldPathWithModifiers.split(UNIQUENESS_FIELD_MODIFIER_SEPARATOR);
+      const modifiers = fieldPathWithModifiers.split(uConst.get("UNIQUENESS_FIELD_MODIFIER_SEPARATOR"));
       const fieldPath = modifiers.shift();
 
       let context = challenge;
@@ -1155,7 +1153,7 @@ requirejs(
       resultArr.push(string);
     }
 
-    return resultArr.join(UNIQUENESS_STRING_SEPARATOR);
+    return resultArr.join(uConst.get("UNIQUENESS_STRING_SEPARATOR"));
   }
 
   function setValueAsOwner(value) {
@@ -1163,7 +1161,7 @@ requirejs(
       clearNotifications();
       fileData = parseFileDataFromContent(fileContent);
 
-      fileData[DATA_FIELD_OWNER] = value;
+      fileData[uConst.get("DATA_FIELD_OWNER")] = value;
 
       fileContent = JSON.stringify(fileData);
     } catch (e) {
@@ -1176,7 +1174,7 @@ requirejs(
       clearNotifications();
       fileData = parseFileDataFromContent(fileContent);
 
-      fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] = value;
+      fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")] = value;
       fileName = value;
 
       fileContent = JSON.stringify(fileData);
@@ -1190,7 +1188,7 @@ requirejs(
       clearNotifications();
       fileData = parseFileDataFromContent(fileContent);
 
-      fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] = checked;
+      fileData[uConst.get("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION")] = checked;
 
       fileContent = JSON.stringify(fileData);
     } catch (e) {
@@ -1199,10 +1197,10 @@ requirejs(
   }
 
   async function fillChallenges(challenges) {
-    const list = uDocument.getElementById(CHALLENGES_ELEMENT_ID);
+    const list = uDocument.getElementById(uConst.get("CHALLENGES_ELEMENT_ID"));
     list.innerHTML = '';
 
-    const content = await uFile.getFileContent(CHALLENGE_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(uConst.get("CHALLENGE_ITEM_TEMPLATE_FILE_PATH"));
 
     let allRowsData = [];
     let numbers = {};
@@ -1220,10 +1218,10 @@ requirejs(
       rowData.type = challenge.type ?? '';
       rowData.number = '';
       rowData.notes = challenge.notes ?? [];
-      rowData.steps = challenge[DATA_FIELD_CHECKLIST] ?? {};
+      rowData.steps = challenge[uConst.get("DATA_FIELD_CHECKLIST")] ?? {};
 
       const config = challengesConfig[rowData.type] ?? {};
-      const additionType = config[CONFIG_FIELD_ADDITION_TYPE] ?? '';
+      const additionType = config[uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
       if (config.numbers ?? false) {
         if (numbers[rowData.type] == undefined) {
           numbers[rowData.type] = {};
@@ -1256,10 +1254,10 @@ requirejs(
     list.innerHTML = innerHtmlToSet;
 
     for (let rowData of allRowsData) {
-      const personUrlElement = uDocument.getElementById(PERSON_URL_ELEMENT_ID_PREFIX + rowData.rowId);
-      const additionUrlElement = uDocument.getElementById(ADDITION_URL_ELEMENT_ID_PREFIX + rowData.rowId);
-      const moveChallengeUpButton = uDocument.getElementById(MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
-      const moveChallengeDownButton = uDocument.getElementById(MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX + rowData.rowId);
+      const personUrlElement = uDocument.getElementById(uConst.get("PERSON_URL_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const additionUrlElement = uDocument.getElementById(uConst.get("ADDITION_URL_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const moveChallengeUpButton = uDocument.getElementById(uConst.get("MOVE_CHALLENGE_UP_BUTTON_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const moveChallengeDownButton = uDocument.getElementById(uConst.get("MOVE_CHALLENGE_DOWN_BUTTON_ELEMENT_ID_PREFIX") + rowData.rowId);
 
       if (rowData.date !== (challenges[rowData.rowId - 2] ?? {}).date ?? '') {
         uUseful.setVisibility(moveChallengeUpButton, false);
@@ -1275,11 +1273,11 @@ requirejs(
         additionUrlElement.removeAttribute('href');
       }
 
-      const successStatusIconTodo = uDocument.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconAborted = uDocument.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconWaiting = uDocument.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconDone = uDocument.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX + rowData.rowId);
-      const successStatusIconDoneWithoutAnyOptionalSteps = uDocument.getElementById(CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX + rowData.rowId);
+      const successStatusIconTodo = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const successStatusIconAborted = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const successStatusIconWaiting = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const successStatusIconDone = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const successStatusIconDoneWithoutAnyOptionalSteps = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX") + rowData.rowId);
 
       uUseful.setVisibility(successStatusIconTodo, false);
       uUseful.setVisibility(successStatusIconAborted, false);
@@ -1288,7 +1286,7 @@ requirejs(
       uUseful.setVisibility(successStatusIconDoneWithoutAnyOptionalSteps, false);
 
       switch (getChallengeSuccessStatus(rowData.rowId)) {
-        case CHALLENGE_SUCCESS_STATUS_DONE:
+        case uConst.get("CHALLENGE_SUCCESS_STATUS_DONE"):
           let foundAnyUndone = false;
           for (let stepStatus of Object.values(rowData.steps)) {
             if (stepStatus !== true) {
@@ -1303,15 +1301,15 @@ requirejs(
           }
           break;
 
-        case CHALLENGE_SUCCESS_STATUS_ABORTED:
+        case uConst.get("CHALLENGE_SUCCESS_STATUS_ABORTED"):
           uUseful.setVisibility(successStatusIconAborted, true);
           break;
 
-        case CHALLENGE_SUCCESS_STATUS_WAITING:
+        case uConst.get("CHALLENGE_SUCCESS_STATUS_WAITING"):
           uUseful.setVisibility(successStatusIconWaiting, true);
           break;
 
-        case CHALLENGE_SUCCESS_STATUS_TODO:
+        case uConst.get("CHALLENGE_SUCCESS_STATUS_TODO"):
         default:
           uUseful.setVisibility(successStatusIconTodo, true);
           break;
@@ -1320,27 +1318,27 @@ requirejs(
   }
 
   function getChallengeSuccessStatus(rowId) {
-    let result = CHALLENGE_SUCCESS_STATUS_TODO;
+    let result = uConst.get("CHALLENGE_SUCCESS_STATUS_TODO");
 
-    const challenge = (fileData[DATA_FIELD_CHALLENGES] ?? {})[rowId - 1] ?? {};
+    const challenge = (fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? {})[rowId - 1] ?? {};
     const challengeType = challenge.type ?? '';
-    const checklistData = challenge[DATA_FIELD_CHECKLIST] ?? {};
-    const config = (challengesConfig[challengeType] ?? {})[CONFIG_FIELD_CHECKLIST] ?? {};
+    const checklistData = challenge[uConst.get("DATA_FIELD_CHECKLIST")] ?? {};
+    const config = (challengesConfig[challengeType] ?? {})[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? {};
 
     for (const stepId of Object.keys(checklistData)) {
-      if (result === CHALLENGE_SUCCESS_STATUS_TODO) {
-        result = CHALLENGE_SUCCESS_STATUS_DONE;
+      if (result === uConst.get("CHALLENGE_SUCCESS_STATUS_TODO")) {
+        result = uConst.get("CHALLENGE_SUCCESS_STATUS_DONE");
       }
 
-      const status = checklistData[stepId] ?? CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING;
+      const status = checklistData[stepId] ?? uConst.get("CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING");
       const isRequired = (config[stepId] ?? {}).required ?? true;
 
-      if (status === CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING && isRequired) {
-        return CHALLENGE_SUCCESS_STATUS_WAITING;
+      if (status === uConst.get("CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING") && isRequired) {
+        return uConst.get("CHALLENGE_SUCCESS_STATUS_WAITING");
       }
 
-      if (status === CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED) {
-        result = CHALLENGE_SUCCESS_STATUS_ABORTED;
+      if (status === uConst.get("CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED")) {
+        result = uConst.get("CHALLENGE_SUCCESS_STATUS_ABORTED");
       }
     }
 
@@ -1348,15 +1346,15 @@ requirejs(
   }
 
   function isChallengeStatusToSkip(challengeStatus) {
-    return challengeStatus === CHALLENGE_SUCCESS_STATUS_ABORTED;
+    return challengeStatus === uConst.get("CHALLENGE_SUCCESS_STATUS_ABORTED");
   }
 
   function sortChallengesByDate() {
-    if (fileData[DATA_FIELD_CHALLENGES] == undefined) {
-      fileData[DATA_FIELD_CHALLENGES] = [];
+    if (fileData[uConst.get("DATA_FIELD_CHALLENGES")] == undefined) {
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")] = [];
     }
 
-    fileData[DATA_FIELD_CHALLENGES].sort(function(a, b) {
+    fileData[uConst.get("DATA_FIELD_CHALLENGES")].sort(function(a, b) {
       return Date.parse(a.date) - Date.parse(b.date);
     });
   }
@@ -1364,7 +1362,7 @@ requirejs(
   function addNewChallengeReset() {
     clearNotifications();
 
-    const lastSelectedChallengeType = uDocument.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+    const lastSelectedChallengeType = uDocument.getElementById(uConst.get("LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID"));
     lastSelectedChallengeType.value = '';
 
     sortChallengesByDate();
@@ -1552,10 +1550,10 @@ requirejs(
   }
 
   function checkIfAnyPersonOrAdditionPossibleForChallengeTypeRequirements(requirements, additionType, allPersonsToTake, challengeDate) {
-    const addGodToListNeeded = requirements[REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES] ?? false;
-    const typesNotAllowed = requirements[REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES] ?? [];
-    const typesNeeded = requirements[REQUIREMENT_PERSON_HAVING_CHALLENGES] ?? null;
-    const typesNeededForAny = requirements[REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE] ?? null;
+    const addGodToListNeeded = requirements[uConst.get("REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES")] ?? false;
+    const typesNotAllowed = requirements[uConst.get("REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES")] ?? [];
+    const typesNeeded = requirements[uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES")] ?? null;
+    const typesNeededForAny = requirements[uConst.get("REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE")] ?? null;
 
     let personsToSkip = {};
     let personsToTake = allPersonsToTake;
@@ -1585,7 +1583,7 @@ requirejs(
     }
 
     if (addGodToListNeeded) {
-      const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
+      const subelements = getPersonsDataSubelements(uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL"));
       for (let subelement of subelements) {
         personsToTake[subelement] = subelement;
       }
@@ -1598,8 +1596,8 @@ requirejs(
       return false;
     }
 
-    const additionIsNotEmpty = requirements[REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY] ?? false;
-    const additionNotHavingChallenges = requirements[REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES] ?? [];
+    const additionIsNotEmpty = requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY")] ?? false;
+    const additionNotHavingChallenges = requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES")] ?? [];
     if (additionIsNotEmpty) {
       let additionsToSkip = getPersonsAdditionsHavingAnyChallenge(additionNotHavingChallenges, challengeDate);
 
@@ -1668,10 +1666,10 @@ requirejs(
 
   function checkIfNotesWithChallengeTypesHaveAnyPossibleValue(noteIds, challengeDate, challengeConfig) {
     for (const noteId of noteIds) {
-      const noteTypes = (challengeConfig[CONFIG_FIELD_NOTES] ?? {})[noteId].type ?? {};
+      const noteTypes = (challengeConfig[uConst.get("CONFIG_FIELD_NOTES")] ?? {})[noteId].type ?? {};
       for (const noteTypeId of Object.keys(noteTypes)) {
         const noteConfigForType = notesTypesConfig[noteTypeId] ?? {};
-        const noteReqs = (noteConfigForType.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? null;
+        const noteReqs = (noteConfigForType.source ?? {})[uConst.get("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES")] ?? null;
         if (noteReqs == null) {
           continue;
         }
@@ -1688,31 +1686,31 @@ requirejs(
 
   function checkBasicRequirements(challengeType, requirements, challenges, challengeDate) {
     return (
-      checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
-      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY] ?? [], challenges, challengeDate, 1)
-      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS] ?? [], challenges, challengeDate, 7)
-      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS] ?? [], challenges, challengeDate, 40)
-      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS] ?? [], challenges, challengeDate, 100)
-      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate, 0)
-      && checkNotExistingChallengeTypes(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES] ?? [], challenges, challengeDate)
-      && checkNotExistingChallengeTypesOnTheSameDay(requirements[REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY] ?? [], challenges, challengeDate)
-      && checkIfChallengeDayOfWeekIsOnWhitelist(requirements[REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST] ?? [], challengeDate)
-      && checkIfChallengeMonthIsOnWhitelist(requirements[REQUIREMENT_MONTH_HAVING_WHITELIST] ?? [], challengeDate)
-      && checkIfChallengeDayOfMonthIsNotGreaterThanMaximum(requirements[REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM] ?? 0, challengeDate)
-      && checkIfChallengeDateIsInLiturgicalSeasons(requirements[REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS] ?? [], challengeDate)
+      checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES")] ?? [], challenges, challengeDate)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY")] ?? [], challenges, challengeDate, 1)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_7_DAYS")] ?? [], challenges, challengeDate, 7)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_40_DAYS")] ?? [], challenges, challengeDate, 40)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_100_DAYS")] ?? [], challenges, challengeDate, 100)
+      && checkExistingChallengeTypesBeforeDate(challengeType, requirements[uConst.get("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_ON_THE_SAME_DAY")] ?? [], challenges, challengeDate, 0)
+      && checkNotExistingChallengeTypes(requirements[uConst.get("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES")] ?? [], challenges, challengeDate)
+      && checkNotExistingChallengeTypesOnTheSameDay(requirements[uConst.get("REQUIREMENT_EVERYBODY_NOT_HAVING_CHALLENGES_ON_THE_SAME_DAY")] ?? [], challenges, challengeDate)
+      && checkIfChallengeDayOfWeekIsOnWhitelist(requirements[uConst.get("REQUIREMENT_DAY_OF_WEEK_HAVING_WHITELIST")] ?? [], challengeDate)
+      && checkIfChallengeMonthIsOnWhitelist(requirements[uConst.get("REQUIREMENT_MONTH_HAVING_WHITELIST")] ?? [], challengeDate)
+      && checkIfChallengeDayOfMonthIsNotGreaterThanMaximum(requirements[uConst.get("REQUIREMENT_DAY_OF_MONTH_HAVING_MAXIMUM")] ?? 0, challengeDate)
+      && checkIfChallengeDateIsInLiturgicalSeasons(requirements[uConst.get("REQUIREMENT_CHALLENGE_DATE_IS_IN_LITURGICAL_SEASONS")] ?? [], challengeDate)
     );
   }
 
   function getPersonDataName(personId) {
     const data = personsData[personId] ?? [];
 
-    return uLanguage.getTranslation(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
+    return uLanguage.getTranslation(uConst.get("PERSONS_DATA_FIELD_NAMES"), true, data[uConst.get("PERSONS_DATA_FIELD_NAMES")] ?? []);
   }
 
   function getPersonDataAdditionName(personId, additionType, additionId) {
     const data = ((personsData[personId] ?? {})[additionType] ?? {})[additionId] ?? {};
 
-    return uLanguage.getTranslation(PERSONS_DATA_FIELD_NAMES, true, data[PERSONS_DATA_FIELD_NAMES] ?? []);
+    return uLanguage.getTranslation(uConst.get("PERSONS_DATA_FIELD_NAMES"), true, data[uConst.get("PERSONS_DATA_FIELD_NAMES")] ?? []);
   }
 
   function getChallengeTypeName(challengeTypeId) {
@@ -1760,7 +1758,7 @@ requirejs(
 
       const additions = Object.keys((personsData[personId] ?? {})[additionType] ?? {});
       for (const additionId of additions) {
-        const addition = personId + PERSON_ADDITION_SEPARATOR + getPersonsDataBaseName(additionId);
+        const addition = personId + uConst.get("PERSON_ADDITION_SEPARATOR") + getPersonsDataBaseName(additionId);
         result.push(addition);
       }
 
@@ -1779,7 +1777,7 @@ requirejs(
 
     const checkDate = null ? null : Date.parse(checkDateString);
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
       rowId++;
 
@@ -1807,7 +1805,7 @@ requirejs(
 
     const checkDate = null ? null : Date.parse(checkDateString);
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
       rowId++;
       const challengeStatus = getChallengeSuccessStatus(rowId);
@@ -1842,7 +1840,7 @@ requirejs(
 
     const checkDate = null ? null : Date.parse(checkDateString);
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
       rowId++;
       const challengeStatus = getChallengeSuccessStatus(rowId);
@@ -1867,7 +1865,7 @@ requirejs(
     for (let person in withAnyType) {
       for (let addition in withAnyType[person]) {
         if (Object.keys(withAnyType[person][addition]).length == types.length) {
-          const key = person + PERSON_ADDITION_SEPARATOR + getPersonsDataBaseName(addition);
+          const key = person + uConst.get("PERSON_ADDITION_SEPARATOR") + getPersonsDataBaseName(addition);
           result[key] = key;
         }
       }
@@ -1880,12 +1878,12 @@ requirejs(
     let result = {};
     let rowId = 0;
 
-    const isImmovableDatesChallengeType = uUseful.inArray(IMMOVABLE_DATES_PATRONS_LIST_CHARACTER, types);
+    const isImmovableDatesChallengeType = uUseful.inArray(uConst.get("IMMOVABLE_DATES_PATRONS_LIST_CHARACTER"), types);
     let immovableTakenDates = {};
 
     const checkDate = null ? null : Date.parse(checkDateString);
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
       rowId++;
       const challengeStatus = getChallengeSuccessStatus(rowId);
@@ -1900,7 +1898,7 @@ requirejs(
         result[ch.person] = ch.person;
       }
 
-      if (isImmovableDatesChallengeType && uUseful.inArray(ch.type, IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST)) {
+      if (isImmovableDatesChallengeType && uUseful.inArray(ch.type, uConst.get("IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST"))) {
         immovableTakenDates[ch.date] = true;
       }
     }
@@ -1912,7 +1910,7 @@ requirejs(
       for (const dateString of Object.keys(immovableTakenDates)) {
         const isDateYearLeap = uDate.isYearLeap(dateString.substring(0, 4));
         const monthWithDay = dateString.substring(5);
-        const leapYearSeparator = isDateYearLeap ? MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR : MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR;
+        const leapYearSeparator = isDateYearLeap ? uConst.get("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR") : uConst.get("MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR");
 
         monthWithDayList[monthWithDay] = true;
         monthWithDayList[monthWithDay.replace('-', leapYearSeparator)] = true;
@@ -1934,7 +1932,7 @@ requirejs(
 
     const checkDate = null ? null : Date.parse(checkDateString);
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
       rowId++;
       const challengeStatus = getChallengeSuccessStatus(rowId);
@@ -1946,7 +1944,7 @@ requirejs(
       }
 
       if (uUseful.inArray(ch.type, types) && ch.addition.length > 0) {
-        const key = ch.person + PERSON_ADDITION_SEPARATOR + getPersonsDataBaseName(ch.addition);
+        const key = ch.person + uConst.get("PERSON_ADDITION_SEPARATOR") + getPersonsDataBaseName(ch.addition);
         result[key] = key;
       }
     }
@@ -1957,7 +1955,7 @@ requirejs(
   function getChallengeTypesWithRequirements(config, challengeDate) {
     let result = {};
 
-    const namePrefix = config[REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX] ?? '';
+    const namePrefix = config[uConst.get("REQUIREMENT_CHALLENGE_TYPE_NAME_PREFIX")] ?? '';
 
     for (const challengeTypeId in challengesConfig) {
       if (namePrefix.length > 0 && challengeTypeId.substring(0, namePrefix.length) !== namePrefix) {
@@ -1965,17 +1963,17 @@ requirejs(
       }
 
       const challengeRequirements = structuredClone((challengesConfig[challengeTypeId].person ?? {}).requirements ?? {});
-      const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+      const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
 
       let requirements = {};
-      for (const reqName of config[REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY] ?? []) {
+      for (const reqName of config[uConst.get("REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY")] ?? []) {
         const reqValues = challengeRequirements[reqName] ?? null;
         if (reqValues !== null) {
           requirements[reqName] = reqValues;
         }
       }
 
-      for (const [srcReqName, dstReqName] of config[REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER] ?? []) {
+      for (const [srcReqName, dstReqName] of config[uConst.get("REQUIREMENT_CHALLENGE_REQUIREMENTS_TO_COPY_FROM_OTHER")] ?? []) {
         requirements[dstReqName] = requirements[dstReqName] ?? [];
 
         const srcReqValues = challengeRequirements[srcReqName] ?? [];
@@ -1997,10 +1995,10 @@ requirejs(
 
 
   function resetDateInput() {
-    let dateInput = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID);
+    let dateInput = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID"));
     dateInput.value = uDate.getToday();
 
-    let challengeTypeSelect = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
+    let challengeTypeSelect = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID"));
     challengeTypeSelect.value = '';
 
     resetChallengeTypeSelect();
@@ -2009,24 +2007,24 @@ requirejs(
   function resetChallengeTypeSelect() {
     const advancedMode = isAdvancedMode();
 
-    let challengeDate = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    let challengeDate = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
 
-    let challengeTypeDiv = uDocument.getElementById(CHALLENGE_TYPE_DIV_ELEMENT_ID);
+    let challengeTypeDiv = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_DIV_ELEMENT_ID"));
     uUseful.setVisibility(challengeTypeDiv, false);
 
-    let lastSelectedChallengeType = uDocument.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+    let lastSelectedChallengeType = uDocument.getElementById(uConst.get("LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID"));
     const selectedChallengeType = lastSelectedChallengeType.value;
 
-    let challengeTypeSelect = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID);
+    let challengeTypeSelect = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID"));
     challengeTypeSelect.innerHTML = '';
     challengeTypeSelect.value = '';
 
     if (challengeDate.match(/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/)
-      && Date.parse(challengeDate) >= Date.parse(MIN_CHALLENGE_DATE_ALLOWED)
+      && Date.parse(challengeDate) >= Date.parse(uConst.get("MIN_CHALLENGE_DATE_ALLOWED"))
       && Date.parse(challengeDate) <= Date.parse(uDate.getToday())
     ) {
       uUseful.setVisibility(challengeTypeDiv, true);
-      uDocument.addOptionToSelect(challengeTypeSelect, '', SELECT_NAME);
+      uDocument.addOptionToSelect(challengeTypeSelect, '', uConst.get("SELECT_NAME"));
 
       let allPersonsToTakeByPersonType = {};
       let lastPersonType = '';
@@ -2039,14 +2037,14 @@ requirejs(
         }
       }
 
-      const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+      const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
       let options = {};
       for (let type in challengesConfig) {
         const challengeConfig = challengesConfig[type] ?? {};
         const name = getChallengeTypeName(type);
         const requirements = challengeConfig.person.requirements ?? {};
-        const additionType = challengeConfig[CONFIG_FIELD_ADDITION_TYPE] ?? '';
-        const isSelectable = challengeConfig[CONFIG_FIELD_SELECTABLE] ?? false;
+        const additionType = challengeConfig[uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
+        const isSelectable = challengeConfig[uConst.get("CONFIG_FIELD_SELECTABLE")] ?? false;
         const newChallengeNumber = getChallengeTypeMaxNumberForDate(type, challengeDate) + 1;
 
         let allPersonsToTakeForChallengeType = {};
@@ -2057,8 +2055,8 @@ requirejs(
         if ((!isSelectable && !advancedMode)
           || !checkBasicRequirements(type, requirements, challenges, challengeDate)
           || !checkIfAnyPersonOrAdditionPossibleForChallengeTypeRequirements(requirements, additionType, allPersonsToTakeForChallengeType, challengeDate)
-          || (newChallengeNumber <= 1 && !checkIfChallengeDateIsEarlierThanDaysBeforeLiturgicalSeasonEnd(requirements[REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END] ?? [], challengeDate))
-          || !checkIfNotesWithChallengeTypesHaveAnyPossibleValue(requirements[REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE] ?? [], challengeDate, challengeConfig)
+          || (newChallengeNumber <= 1 && !checkIfChallengeDateIsEarlierThanDaysBeforeLiturgicalSeasonEnd(requirements[uConst.get("REQUIREMENT_FIRST_CHALLENGE_DATE_MUST_BE_EARLIER_THAN_DAYS_BEFORE_LITURGICAL_SEASON_END")] ?? [], challengeDate))
+          || !checkIfNotesWithChallengeTypesHaveAnyPossibleValue(requirements[uConst.get("REQUIREMENT_NOTES_WITH_CHALLENGE_TYPES_HAVE_ANY_POSSIBLE_VALUE")] ?? [], challengeDate, challengeConfig)
         ) {
           continue;
         }
@@ -2078,19 +2076,19 @@ requirejs(
   }
 
   function resetPersonTypeSelect() {
-    let challengeDate = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
+    let challengeType = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
 
-    let personDiv = uDocument.getElementById(PERSON_DIV_ELEMENT_ID);
+    let personDiv = uDocument.getElementById(uConst.get("PERSON_DIV_ELEMENT_ID"));
     uUseful.setVisibility(personDiv, false);
 
-    let challengeDescDiv = uDocument.getElementById(CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID);
+    let challengeDescDiv = uDocument.getElementById(uConst.get("CHALLENGE_DESCRIPTION_DIV_ELEMENT_ID"));
     challengeDescDiv.innerHTML = '';
 
-    let personDescDiv = uDocument.getElementById(PERSON_DESCRIPTION_DIV_ELEMENT_ID);
+    let personDescDiv = uDocument.getElementById(uConst.get("PERSON_DESCRIPTION_DIV_ELEMENT_ID"));
     personDescDiv.innerHTML = '';
 
-    let personTypeSelect = uDocument.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID);
+    let personTypeSelect = uDocument.getElementById(uConst.get("PERSON_TYPE_SELECT_ELEMENT_ID"));
     personTypeSelect.innerHTML = '';
     uUseful.setVisibility(personTypeSelect, false);
     personTypeSelect.value = '';
@@ -2102,7 +2100,7 @@ requirejs(
         ['challenge-date']: challengeDate
       };
 
-      const lastSelectedChallengeType = uDocument.getElementById(LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID);
+      const lastSelectedChallengeType = uDocument.getElementById(uConst.get("LAST_SELECTED_CHALLENGE_TYPE_ELEMENT_ID"));
       lastSelectedChallengeType.value = challengeType;
 
       const challengeDescData = challengesConfig[challengeType].description ?? {};
@@ -2115,11 +2113,11 @@ requirejs(
       const personDescParams = personDescData.params ?? [];
       importMarkdownDescription(personDescDiv, personDescFilePath, personDescParams, descValues);
 
-      const addGodToListNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES] ?? false;
+      const addGodToListNeeded = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES")] ?? false;
       let personsUnlocked = {};
 
       let personsTypesToList = {};
-      const typesNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_HAVING_CHALLENGES] ?? null;
+      const typesNeeded = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES")] ?? null;
       if (typesNeeded != null) {
         personsUnlocked = getPersonsHavingAllChallenges(typesNeeded, challengeDate);
 
@@ -2131,7 +2129,7 @@ requirejs(
 
       let personsTypesToListForAny = {};
       let personsUnlockedForAny = {};
-      const typesNeededForAny = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE] ?? null;
+      const typesNeededForAny = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE")] ?? null;
       if (typesNeededForAny != null) {
         personsUnlockedForAny = getPersonsHavingAnyChallenge(typesNeededForAny, challengeDate);
 
@@ -2143,16 +2141,16 @@ requirejs(
       }
 
       if ((typesNeeded != null || typesNeededForAny != null) && addGodToListNeeded) {
-        personsTypesToList[GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL] = GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL;
-        personsTypesToListForAny[GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL] = GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL;
+        personsTypesToList[uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL")] = uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL");
+        personsTypesToListForAny[uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL")] = uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL");
 
-        const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
+        const subelements = getPersonsDataSubelements(uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL"));
         for (let subelement of subelements) {
           personsUnlocked[subelement] = subelement;
         }
       }
 
-      const typesNotAllowed = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES] ?? [];
+      const typesNotAllowed = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES")] ?? [];
       let personsTypesToSkipCounts = {};
       if (typesNotAllowed.length > 0) {
         const personsToSkip = getPersonsHavingAnyChallenge(typesNotAllowed, challengeDate);
@@ -2163,9 +2161,9 @@ requirejs(
         }
       }
 
-      const additionType = challengesConfig[challengeType][CONFIG_FIELD_ADDITION_TYPE] ?? '';
-      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY] ?? false;
-      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES] ?? [];
+      const additionType = challengesConfig[challengeType][uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
+      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY")] ?? false;
+      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES")] ?? [];
 
       let personsTypesWithAdditionsToSkipCounts = {};
       if (additionIsNotEmpty) {
@@ -2240,7 +2238,7 @@ requirejs(
         }
 
         if (Object.keys(types).length > 1) {
-          uDocument.addOptionToSelect(personTypeSelect, '', SELECT_NAME);
+          uDocument.addOptionToSelect(personTypeSelect, '', uConst.get("SELECT_NAME"));
         }
         for (let i in types) {
           uDocument.addOptionToSelect(personTypeSelect, i, types[i]);
@@ -2252,56 +2250,56 @@ requirejs(
   }
 
   async function resetPersonSelect() {
-    let challengeDate = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    let personTypeValue = uDocument.getElementById(PERSON_TYPE_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
+    let challengeType = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
+    let personTypeValue = uDocument.getElementById(uConst.get("PERSON_TYPE_SELECT_ELEMENT_ID")).value;
 
-    let personSelect = uDocument.getElementById(PERSON_SELECT_ELEMENT_ID);
+    let personSelect = uDocument.getElementById(uConst.get("PERSON_SELECT_ELEMENT_ID"));
     personSelect.innerHTML = '';
     uUseful.setVisibility(personSelect, false);
     personSelect.value = '';
 
     let personsToSort = {};
 
-    if (uUseful.inArray(personTypeValue, COPY_PERSON_TYPE_TO_NAME_IDS)) {
+    if (uUseful.inArray(personTypeValue, uConst.get("COPY_PERSON_TYPE_TO_NAME_IDS"))) {
       personsToSort[personTypeValue] = personTypeValue;
     } else if (personTypeValue.length > 0) {
       uUseful.setVisibility(personSelect, true);
 
-      const addGodToListNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES] ?? false;
+      const addGodToListNeeded = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_GOD_HAVING_NEEDED_CHALLENGES")] ?? false;
 
-      const typesNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_HAVING_CHALLENGES] ?? null;
+      const typesNeeded = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES")] ?? null;
       let personsToList = {};
       if (typesNeeded != null) {
         personsToList = getPersonsHavingAllChallenges(typesNeeded, challengeDate);
 
         if (addGodToListNeeded) {
-          const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
+          const subelements = getPersonsDataSubelements(uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL"));
           for (let subelement of subelements) {
             personsToList[subelement] = subelement;
           }
         }
       }
 
-      const typesNeededForAny = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE] ?? null;
+      const typesNeededForAny = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_HAVING_ANY_CHALLENGE")] ?? null;
       let personsToListForAny = {};
       if (typesNeededForAny != null) {
         personsToListForAny = getPersonsHavingAnyChallenge(typesNeededForAny, challengeDate);
 
         if (addGodToListNeeded) {
-          const subelements = getPersonsDataSubelements(GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL);
+          const subelements = getPersonsDataSubelements(uConst.get("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL"));
           for (let subelement of subelements) {
             personsToListForAny[subelement] = subelement;
           }
         }
       }
 
-      const typesNotAllowed = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES] ?? [];
+      const typesNotAllowed = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_NOT_HAVING_CHALLENGES")] ?? [];
       const personsToSkip = getPersonsHavingAnyChallenge(typesNotAllowed, challengeDate);
 
-      const additionType = challengesConfig[challengeType][CONFIG_FIELD_ADDITION_TYPE] ?? '';
-      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY] ?? false;
-      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES] ?? [];
+      const additionType = challengesConfig[challengeType][uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
+      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY")] ?? false;
+      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES")] ?? [];
 
       let personsWithAdditionsToSkipCounts = {};
       if (additionIsNotEmpty) {
@@ -2339,7 +2337,7 @@ requirejs(
 
     let persons = uSort.getSortedObject(personsToSort);
     if (persons.length > 1) {
-      uDocument.addOptionToSelect(personSelect, '', SELECT_NAME);
+      uDocument.addOptionToSelect(personSelect, '', uConst.get("SELECT_NAME"));
     }
     for (let [i, personName] of persons) {
       uDocument.addOptionToSelect(personSelect, i, personName);
@@ -2349,32 +2347,32 @@ requirejs(
   }
 
   function resetAdditionSelect() {
-    let challengeDate = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    let challengeType = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    let personValue = uDocument.getElementById(PERSON_SELECT_ELEMENT_ID).value;
+    let challengeDate = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
+    let challengeType = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
+    let personValue = uDocument.getElementById(uConst.get("PERSON_SELECT_ELEMENT_ID")).value;
 
-    let additionSelect = uDocument.getElementById(ADDITION_SELECT_ELEMENT_ID);
+    let additionSelect = uDocument.getElementById(uConst.get("ADDITION_SELECT_ELEMENT_ID"));
     additionSelect.innerHTML = '';
     uUseful.setVisibility(additionSelect, false);
     additionSelect.value = '';
 
     if (personValue.length > 0) {
-      const additionType = challengesConfig[challengeType][CONFIG_FIELD_ADDITION_TYPE] ?? '';
-      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY] ?? false;
-      const additionHavingChallenges = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES] ?? [];
-      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES] ?? [];
+      const additionType = challengesConfig[challengeType][uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
+      const additionIsNotEmpty = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_IS_NOT_EMPTY")] ?? false;
+      const additionHavingChallenges = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES")] ?? [];
+      const additionNotHavingChallenges = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES")] ?? [];
 
       let namesToSort = {};
       if (additionIsNotEmpty || additionHavingChallenges.length > 0 || additionNotHavingChallenges.length > 0) {
         uUseful.setVisibility(additionSelect, true);
 
-        const typesNeeded = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES] ?? null;
+        const typesNeeded = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_HAVING_CHALLENGES")] ?? null;
         let additionsToList = {};
         if (typesNeeded != null) {
           additionsToList = getPersonsAdditionsHavingAllChallenges(typesNeeded, challengeDate);
         }
 
-        const typesNotAllowed = challengesConfig[challengeType].person.requirements[REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES] ?? [];
+        const typesNotAllowed = challengesConfig[challengeType].person.requirements[uConst.get("REQUIREMENT_PERSON_ADDITION_NOT_HAVING_CHALLENGES")] ?? [];
         const additionsToSkip = getPersonsAdditionsHavingAnyChallenge(typesNotAllowed, challengeDate);
 
         const subelements = getPersonsAdditionDataElements(personValue, additionType);
@@ -2403,10 +2401,10 @@ requirejs(
 
       const additionsCount = Object.keys(additions).length;
       if (additionsCount > 1) {
-        uDocument.addOptionToSelect(additionSelect, '', SELECT_NAME);
+        uDocument.addOptionToSelect(additionSelect, '', uConst.get("SELECT_NAME"));
       }
       if (!additionIsNotEmpty) {
-        uDocument.addOptionToSelect(additionSelect, personValue, uLanguage.getTranslation(SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME));
+        uDocument.addOptionToSelect(additionSelect, personValue, uLanguage.getTranslation(uConst.get("SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME")));
 
         if (additionsCount == 0) {
           uUseful.setVisibility(additionSelect, false);
@@ -2423,27 +2421,27 @@ requirejs(
   }
 
   async function resetRequiredNotes() {
-    const challengeType = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const additionValue = uDocument.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const challengeType = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
+    const additionValue = uDocument.getElementById(uConst.get("ADDITION_SELECT_ELEMENT_ID")).value;
 
-    let requiredNotesDiv = uDocument.getElementById(REQUIRED_NOTES_DIV_ELEMENT_ID);
+    let requiredNotesDiv = uDocument.getElementById(uConst.get("REQUIRED_NOTES_DIV_ELEMENT_ID"));
     uUseful.setVisibility(requiredNotesDiv, false);
 
-    let requiredNotesDoneInput = uDocument.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID);
+    let requiredNotesDoneInput = uDocument.getElementById(uConst.get("REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID"));
     requiredNotesDoneInput.value = '';
 
     if (additionValue.length > 0) {
       lastEditedNoteItem = [];
       lastFormModeNoteCellElementIdSuffix = {};
 
-      const notesListElement = uDocument.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
+      const notesListElement = uDocument.getElementById(uConst.get("NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID"));
       notesListElement.innerHTML = '';
-      const notesListEditElement = uDocument.getElementById(NOTES_LIST_ELEMENT_ID);
+      const notesListEditElement = uDocument.getElementById(uConst.get("NOTES_LIST_ELEMENT_ID"));
       notesListEditElement.innerHTML = '';
 
       let isNextStepAvailable = true;
-      const rowId = EMPTY_ROW_ID;
-      const challengeConfig = ((challengesConfig[challengeType] ?? {})[CONFIG_FIELD_NOTES] ?? {});
+      const rowId = uConst.get("EMPTY_ROW_ID");
+      const challengeConfig = ((challengesConfig[challengeType] ?? {})[uConst.get("CONFIG_FIELD_NOTES")] ?? {});
 
       for (const itemType of Object.keys(challengeConfig)) {
         const noteType = challengeConfig[itemType].type ?? {};
@@ -2471,30 +2469,30 @@ requirejs(
   }
 
   async function resetRequiredChecklistSteps() {
-    const challengeType = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const requiredNotesDone = uDocument.getElementById(REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID).value;
+    const challengeType = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
+    const requiredNotesDone = uDocument.getElementById(uConst.get("REQUIRED_NOTES_DONE_INPUT_ELEMENT_ID")).value;
 
-    let requiredChecklistStepsDiv = uDocument.getElementById(REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID);
+    let requiredChecklistStepsDiv = uDocument.getElementById(uConst.get("REQUIRED_CHECKLIST_STEPS_DIV_ELEMENT_ID"));
     uUseful.setVisibility(requiredChecklistStepsDiv, false);
 
-    let requiredChecklistStepsDoneInput = uDocument.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID);
+    let requiredChecklistStepsDoneInput = uDocument.getElementById(uConst.get("REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID"));
     requiredChecklistStepsDoneInput.value = '';
 
-    let requiredChecklistStepsInfo = uDocument.getElementById(REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID);
+    let requiredChecklistStepsInfo = uDocument.getElementById(uConst.get("REQUIRED_CHECKLIST_STEPS_INFO_ELEMENT_ID"));
     uUseful.setVisibility(requiredChecklistStepsInfo, false);
 
     if (requiredNotesDone.length > 0) {
-      let checklistStepsList = uDocument.getElementById(REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID);
+      let checklistStepsList = uDocument.getElementById(uConst.get("REQUIRED_CHECKLIST_STEPS_LIST_ELEMENT_ID"));
       checklistStepsList.innerHTML = '';
 
       const rowId = 0;
-      const checklist = (challengesConfig[challengeType] ?? {})[CONFIG_FIELD_CHECKLIST] ?? {};
+      const checklist = (challengesConfig[challengeType] ?? {})[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? {};
 
       let isAnyValue = false;
       let allValuesAreDone = true;
       for (let data of Object.entries(checklist)) {
         const itemType = data[0] ?? null;
-        const toCompleteOnSelectedDate = (data[1] ?? {})[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
+        const toCompleteOnSelectedDate = (data[1] ?? {})[uConst.get("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE")] ?? false;
 
         if (toCompleteOnSelectedDate) {
           isAnyValue = true;
@@ -2523,18 +2521,18 @@ requirejs(
   }
 
   function resetAddNewChallengeButton() {
-    const requiredChecklistStepsDone = uDocument.getElementById(REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID).value;
+    const requiredChecklistStepsDone = uDocument.getElementById(uConst.get("REQUIRED_CHECKLIST_STEPS_DONE_INPUT_ELEMENT_ID")).value;
 
-    let button = uDocument.getElementById(ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID);
+    let button = uDocument.getElementById(uConst.get("ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID"));
     button.disabled = !(requiredChecklistStepsDone.length > 0);
   }
 
   async function addNewChallenge() {
-    const additionValue = uDocument.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const additionValue = uDocument.getElementById(uConst.get("ADDITION_SELECT_ELEMENT_ID")).value;
 
-    const date = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
-    const type = uDocument.getElementById(CHALLENGE_TYPE_SELECT_ELEMENT_ID).value;
-    const person = uDocument.getElementById(PERSON_SELECT_ELEMENT_ID).value;
+    const date = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
+    const type = uDocument.getElementById(uConst.get("CHALLENGE_TYPE_SELECT_ELEMENT_ID")).value;
+    const person = uDocument.getElementById(uConst.get("PERSON_SELECT_ELEMENT_ID")).value;
     const addition = additionValue !== person ? additionValue : '';
     const checklist = newChallengeChecklistValues;
     const notes = newChallengeNotesValues;
@@ -2542,8 +2540,8 @@ requirejs(
     resetNewChallengeChecklistValues();
     resetNewChallengeNotesValues();
 
-    if (fileData[DATA_FIELD_CHALLENGES] == undefined) {
-      fileData[DATA_FIELD_CHALLENGES] = [];
+    if (fileData[uConst.get("DATA_FIELD_CHALLENGES")] == undefined) {
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")] = [];
     }
 
     const record = {
@@ -2554,14 +2552,14 @@ requirejs(
       checklist: checklist,
       notes: notes
     };
-    fileData[DATA_FIELD_CHALLENGES].push(record);
+    fileData[uConst.get("DATA_FIELD_CHALLENGES")].push(record);
 
     await reloadChallengesTab();
 
-    let gotoRowId = fileData[DATA_FIELD_CHALLENGES].length;
+    let gotoRowId = fileData[uConst.get("DATA_FIELD_CHALLENGES")].length;
     const challengeDate = Date.parse(date);
     let rowId = 0;
-    for (const challenge of fileData[DATA_FIELD_CHALLENGES]) {
+    for (const challenge of fileData[uConst.get("DATA_FIELD_CHALLENGES")]) {
       if (Date.parse(challenge.date) > challengeDate) {
         gotoRowId = rowId;
         break;
@@ -2583,8 +2581,8 @@ requirejs(
     }
 
     for (const rowObject of srcData) {
-      const noteId = Number(Object.keys(rowObject)[0] ?? EMPTY_NOTE_ID);
-      if (noteId !== EMPTY_NOTE_ID) {
+      const noteId = Number(Object.keys(rowObject)[0] ?? uConst.get("EMPTY_NOTE_ID"));
+      if (noteId !== uConst.get("EMPTY_NOTE_ID")) {
         const subNotesData = getRecalculatedNotesData(rowObject[noteId] ?? [], [...noteTypes], usedNoteIdsByIndexes);
 
         dstData.push({ [noteId]: subNotesData });
@@ -2603,7 +2601,7 @@ requirejs(
   function recalculateFileData() {
     let usedNoteIdsByIndexes = {};
     let challenges = [];
-    for (let ch of fileData[DATA_FIELD_CHALLENGES] ?? []) {
+    for (let ch of fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? []) {
       let oldChecklist = structuredClone(ch.checklist);
       let checklist = {};
       for (let i in challengesConfig[ch.type].checklist ?? {}) {
@@ -2634,11 +2632,11 @@ requirejs(
     }
 
     let notes = {};
-    const notesData = fileData[DATA_FIELD_NOTES] ?? {};
+    const notesData = fileData[uConst.get("DATA_FIELD_NOTES")] ?? {};
     for (let noteIndex of Object.keys(notesData)) {
       notes[noteIndex] = {};
       for (let noteId of Object.keys(notesData[noteIndex])) {
-        if (noteId.toString() === EMPTY_NOTE_ID.toString()) {
+        if (noteId.toString() === uConst.get("EMPTY_NOTE_ID").toString()) {
           continue;
         }
         if (!((usedNoteIdsByIndexes[noteIndex] ?? {})[noteId] ?? false)
@@ -2657,20 +2655,20 @@ requirejs(
     }
 
     fileData = {
-      [DATA_FIELD_OWNER]: fileData[DATA_FIELD_OWNER] ?? '',
-      [DATA_FIELD_FILENAME_WITHOUT_EXTENSION]: fileData[DATA_FIELD_FILENAME_WITHOUT_EXTENSION] ?? '',
-      [DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION]: fileData[DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION] ?? DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE,
-      [DATA_FIELD_CHALLENGES]: challenges,
-      [DATA_FIELD_NOTES]: notes,
+      [uConst.get("DATA_FIELD_OWNER")]: fileData[uConst.get("DATA_FIELD_OWNER")] ?? '',
+      [uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")]: fileData[uConst.get("DATA_FIELD_FILENAME_WITHOUT_EXTENSION")] ?? '',
+      [uConst.get("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION")]: fileData[uConst.get("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION")] ?? uConst.get("DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE"),
+      [uConst.get("DATA_FIELD_CHALLENGES")]: challenges,
+      [uConst.get("DATA_FIELD_NOTES")]: notes,
     };
   }
 
 
 
   function drawProgressBarValue(rowId) {
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     const rowData = challenges[rowId - 1] ?? {};
-    const stepsConfig = challengesConfig[rowData.type][CONFIG_FIELD_CHECKLIST] ?? [];
+    const stepsConfig = challengesConfig[rowData.type][uConst.get("CONFIG_FIELD_CHECKLIST")] ?? [];
     const totalCount = Object.keys(stepsConfig).length;
 
     let doneCount = 0;
@@ -2678,7 +2676,7 @@ requirejs(
     let abortedCount = 0;
     let waitingCount = 0;
     for (let stepId in stepsConfig) {
-      switch (rowData[DATA_FIELD_CHECKLIST][stepId] ?? null) {
+      switch (rowData[uConst.get("DATA_FIELD_CHECKLIST")][stepId] ?? null) {
         case null:
           if (false == (stepsConfig[stepId].required ?? true)) {
             optionalCount++;
@@ -2714,9 +2712,9 @@ requirejs(
       donePercent += missingPercent;
     }
 
-    let doneProgress = uDocument.getElementById(PROGRESS_DONE_ELEMENT_ID_PREFIX + rowId);
-    let optionalProgress = uDocument.getElementById(PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX + rowId);
-    let abortedProgress = uDocument.getElementById(PROGRESS_ABORTED_ELEMENT_ID_PREFIX + rowId);
+    let doneProgress = uDocument.getElementById(uConst.get("PROGRESS_DONE_ELEMENT_ID_PREFIX") + rowId);
+    let optionalProgress = uDocument.getElementById(uConst.get("PROGRESS_OPTIONAL_ELEMENT_ID_PREFIX") + rowId);
+    let abortedProgress = uDocument.getElementById(uConst.get("PROGRESS_ABORTED_ELEMENT_ID_PREFIX") + rowId);
 
     setProgressBarPartValues(doneProgress, doneCount, donePercent, totalCount);
     setProgressBarPartValues(optionalProgress, optionalCount, optionalPercent, totalCount);
@@ -2732,11 +2730,11 @@ requirejs(
   async function checklistListReset(rowId) {
     clearNotifications();
 
-    let modalBody = uDocument.getElementById(CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID);
+    let modalBody = uDocument.getElementById(uConst.get("CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID"));
     modalBody.innerHTML = '';
 
-    let challengeType = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {}).type ?? null;
-    let checklist = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_CHECKLIST] ?? [];
+    let challengeType = ((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {}).type ?? null;
+    let checklist = ((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {})[uConst.get("DATA_FIELD_CHECKLIST")] ?? [];
 
     if (Object.keys(checklist).length == 0 || challengeType == null) {
       modalBody.innerHTML = uLanguage.getTranslation('lang-checklist-is-empty', true);
@@ -2755,7 +2753,7 @@ requirejs(
   async function drawChecklistRow(contentElement, rowId, challengeType, itemType, value, backToAddNewChallengeModal) {
     const element = uDocument.createElement('div');
 
-    const config = ((challengesConfig[challengeType] ?? [])[CONFIG_FIELD_CHECKLIST] ?? [])[itemType] ?? {};
+    const config = ((challengesConfig[challengeType] ?? [])[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? [])[itemType] ?? {};
     if (Object.keys(config).length == 0) {
       return;
     }
@@ -2765,20 +2763,20 @@ requirejs(
     let status = null;
     switch (value) {
       case true:
-        status = CHECKLIST_STATUS_DONE;
+        status = uConst.get("CHECKLIST_STATUS_DONE");
         break;
       case false:
-        status = CHECKLIST_STATUS_ABORTED;
+        status = uConst.get("CHECKLIST_STATUS_ABORTED");
         break;
       case null:
       default:
-        status = required ? CHECKLIST_STATUS_WAITING : CHECKLIST_STATUS_OPTIONAL_WAITING;
+        status = required ? uConst.get("CHECKLIST_STATUS_WAITING") : uConst.get("CHECKLIST_STATUS_OPTIONAL_WAITING");
         break;
     }
-    const statusColor = CHECKLIST_STATUSES[status].color;
-    const statusName = uLanguage.getTranslation(CHECKLIST_STATUSES[status].variable);
+    const statusColor = uConst.get("CHECKLIST_STATUSES")[status].color;
+    const statusName = uLanguage.getTranslation(uConst.get("CHECKLIST_STATUSES")[status].variable);
 
-    const content = await uFile.getFileContent(CHECKLIST_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(uConst.get("CHECKLIST_ITEM_TEMPLATE_FILE_PATH"));
     element.innerHTML = content
       .replace(/#type#/g, itemType)
       .replace(/#name#/g, name)
@@ -2794,19 +2792,19 @@ requirejs(
   }
 
   async function drawChecklistInfo(challengeType, rowId, itemType, itemStatus, backToAddNewChallengeModal) {
-    const descElement = uDocument.getElementById(CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID);
-    const labelElement = uDocument.getElementById(CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID);
-    const rowIdElement = uDocument.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
-    const itemTypeElement = uDocument.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
+    const descElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_DESCRIPTION_ELEMENT_ID"));
+    const labelElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_MODAL_TOGGLE_LABEL_ELEMENT_ID"));
+    const rowIdElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID"));
+    const itemTypeElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID"));
 
     rowIdElement.value = rowId;
     itemTypeElement.value = itemType;
 
-    const closeButton = uDocument.getElementById(CHECKLIST_BUTTON_CLOSE_ELEMENT_ID);
-    const abortedButton = uDocument.getElementById(CHECKLIST_BUTTON_ABORTED_ELEMENT_ID);
-    const optionalWaitingButton = uDocument.getElementById(CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID);
-    const waitingButton = uDocument.getElementById(CHECKLIST_BUTTON_WAITING_ELEMENT_ID);
-    const doneButton = uDocument.getElementById(CHECKLIST_BUTTON_DONE_ELEMENT_ID);
+    const closeButton = uDocument.getElementById(uConst.get("CHECKLIST_BUTTON_CLOSE_ELEMENT_ID"));
+    const abortedButton = uDocument.getElementById(uConst.get("CHECKLIST_BUTTON_ABORTED_ELEMENT_ID"));
+    const optionalWaitingButton = uDocument.getElementById(uConst.get("CHECKLIST_BUTTON_OPTIONAL_WAITING_ELEMENT_ID"));
+    const waitingButton = uDocument.getElementById(uConst.get("CHECKLIST_BUTTON_WAITING_ELEMENT_ID"));
+    const doneButton = uDocument.getElementById(uConst.get("CHECKLIST_BUTTON_DONE_ELEMENT_ID"));
 
     uUseful.setVisibility(abortedButton, false);
     uUseful.setVisibility(optionalWaitingButton, false);
@@ -2814,28 +2812,28 @@ requirejs(
     uUseful.setVisibility(doneButton, false);
 
     const modalTargetAttributeToSet = backToAddNewChallengeModal
-      ? CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET
-      : CHECKLIST_ITEM_BACK_TO_CHECKLIST_LIST_MODAL_TARGET
+      ? uConst.get("CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET")
+      : uConst.get("CHECKLIST_ITEM_BACK_TO_CHECKLIST_LIST_MODAL_TARGET")
     ;
-    closeButton.setAttribute(CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME, modalTargetAttributeToSet);
-    abortedButton.setAttribute(CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME, modalTargetAttributeToSet);
-    optionalWaitingButton.setAttribute(CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME, modalTargetAttributeToSet);
-    waitingButton.setAttribute(CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME, modalTargetAttributeToSet);
-    doneButton.setAttribute(CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME, modalTargetAttributeToSet);
+    closeButton.setAttribute(uConst.get("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME"), modalTargetAttributeToSet);
+    abortedButton.setAttribute(uConst.get("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME"), modalTargetAttributeToSet);
+    optionalWaitingButton.setAttribute(uConst.get("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME"), modalTargetAttributeToSet);
+    waitingButton.setAttribute(uConst.get("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME"), modalTargetAttributeToSet);
+    doneButton.setAttribute(uConst.get("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME"), modalTargetAttributeToSet);
 
     const challengeConfig = challengesConfig[challengeType] ?? {};
-    const additionType = challengeConfig[CONFIG_FIELD_ADDITION_TYPE] ?? '';
-    const config = (challengeConfig[CONFIG_FIELD_CHECKLIST] ?? [])[itemType] ?? [];
+    const additionType = challengeConfig[uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
+    const config = (challengeConfig[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? [])[itemType] ?? [];
     if (Object.keys(config).length == 0) {
       return;
     }
-    const toCompleteOnSelectedDate = config[CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE] ?? false;
+    const toCompleteOnSelectedDate = config[uConst.get("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE")] ?? false;
     const required = config.required ?? true;
     const name = uLanguage.getTranslation('name', true, config.name ?? {});
 
-    const rowData = (fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {};
-    const personId = rowData.person ?? uDocument.getElementById(PERSON_SELECT_ELEMENT_ID).value;
-    const additionId = rowData.addition ?? uDocument.getElementById(ADDITION_SELECT_ELEMENT_ID).value;
+    const rowData = (fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {};
+    const personId = rowData.person ?? uDocument.getElementById(uConst.get("PERSON_SELECT_ELEMENT_ID")).value;
+    const additionId = rowData.addition ?? uDocument.getElementById(uConst.get("ADDITION_SELECT_ELEMENT_ID")).value;
     const personName = getPersonDataName(personId)
     const additionName = getPersonDataAdditionName(personId, additionType, additionId);
 
@@ -2863,16 +2861,16 @@ requirejs(
   }
 
   async function setChecklistStatus(newValue) {
-    const rowIdElement = uDocument.getElementById(CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID);
-    const itemTypeElement = uDocument.getElementById(CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID);
+    const rowIdElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_MODAL_ROW_ID_ELEMENT_ID"));
+    const itemTypeElement = uDocument.getElementById(uConst.get("CHECKLIST_ITEM_MODAL_ITEM_TYPE_ELEMENT_ID"));
 
     const rowId = rowIdElement.value ?? 0;
     const itemType = itemTypeElement.value ?? '';
 
-    if (rowId > EMPTY_ROW_ID) {
-      const oldValues = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_CHECKLIST] ?? {};
+    if (rowId > uConst.get("EMPTY_ROW_ID")) {
+      const oldValues = ((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {})[uConst.get("DATA_FIELD_CHECKLIST")] ?? {};
       if (Object.keys(oldValues).length > 0 && oldValues[itemType] !== undefined) {
-        fileData[DATA_FIELD_CHALLENGES][rowId - 1][DATA_FIELD_CHECKLIST][itemType] = newValue;
+        fileData[uConst.get("DATA_FIELD_CHALLENGES")][rowId - 1][uConst.get("DATA_FIELD_CHECKLIST")][itemType] = newValue;
 
         await checklistListReset(rowId);
         await reloadChallengesTab();
@@ -2891,15 +2889,15 @@ requirejs(
   async function importMarkdownDescription(element, filePath, params = [], values = {}) {
     element.innerHTML = '';
 
-    const fullFilePath = MARKDOWN_FILES_ROOT_PATH + filePath + MARKDOWN_FILE_EXTENSION;
+    const fullFilePath = uConst.get("MARKDOWN_FILES_ROOT_PATH") + filePath + uConst.get("MARKDOWN_FILE_EXTENSION");
     try {
-      const template = await uFile.getFileContent(DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH);
+      const template = await uFile.getFileContent(uConst.get("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH"));
       let content = await uFile.getFileContent(fullFilePath);
       content = libMarked.parse(content);
 
       for (let paramName of params) {
         const value = values[paramName] ?? null;
-        const name = value === null ? paramName : DESCRIPTION_VALUE_PARAM;
+        const name = value === null ? paramName : uConst.get("DESCRIPTION_VALUE_PARAM");
         content = content.replace(new RegExp('#' + paramName + '#', 'g'), getDescriptionParamValue(name, value));
       }
 
@@ -2910,7 +2908,7 @@ requirejs(
 
   function getDescriptionParamValue(paramName, paramValue) {
     switch (paramName) {
-      case DESCRIPTION_VALUE_PARAM:
+      case uConst.get("DESCRIPTION_VALUE_PARAM"):
         return paramValue;
       case 'current-year':
         return uDate.getYear(uDate.getCurrentDate());
@@ -2927,7 +2925,7 @@ requirejs(
     let rowId = 0;
     let lastDates = {};
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (const challenge of challenges) {
       rowId++;
       const challengeStatus = getChallengeSuccessStatus(rowId);
@@ -2938,11 +2936,11 @@ requirejs(
       lastDates[challenge.type] = challenge.date;
     }
 
-    for (const challengeType of IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST) {
+    for (const challengeType of uConst.get("IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST")) {
       const dateString = lastDates[challengeType] ?? '';
       let monthWithDay = dateString.substring(5);
       if (uDate.isYearLeap(dateString.substring(0, 4))) {
-        monthWithDay = monthWithDay.replace(/-/, MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE);
+        monthWithDay = monthWithDay.replace(/-/, uConst.get("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE"));
       }
 
       result = result + monthWithDay + ',';
@@ -2954,15 +2952,15 @@ requirejs(
   async function removeChallengeReset(rowId) {
     clearNotifications();
 
-    const row = uDocument.getElementById(CHALLENGE_TO_REMOVE_ELEMENT_ID);
-    const modalRowId = uDocument.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
+    const row = uDocument.getElementById(uConst.get("CHALLENGE_TO_REMOVE_ELEMENT_ID"));
+    const modalRowId = uDocument.getElementById(uConst.get("REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID"));
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     const challenge = challenges[rowId - 1] ?? undefined;
 
     row.innerHTML = '';
     if (challenge !== undefined) {
-      const content = await uFile.getFileContent(CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH);
+      const content = await uFile.getFileContent(uConst.get("CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH"));
 
       let date = challenge.date ?? '';
       let personUrl = (challenge.person ?? '');
@@ -2972,7 +2970,7 @@ requirejs(
       let number = '';
 
       const config = challengesConfig[type] ?? {};
-      const additionType = config[CONFIG_FIELD_ADDITION_TYPE] ?? '';
+      const additionType = config[uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
       if (config.numbers ?? false) {
         number = 1;
         for (let i = 0; i < rowId - 1; i++) {
@@ -3000,9 +2998,9 @@ requirejs(
   }
 
   async function removeChallenge() {
-    const rowId = uDocument.getElementById(REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0;
+    const rowId = uDocument.getElementById(uConst.get("REMOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID")).value ?? 0;
 
-    (fileData[DATA_FIELD_CHALLENGES] ?? []).splice(rowId - 1, 1);
+    (fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? []).splice(rowId - 1, 1);
 
     await reloadChallengesTab();
 
@@ -3014,14 +3012,14 @@ requirejs(
   async function challengeInfoReset(rowId) {
     clearNotifications();
 
-    let challengeDescInfoDiv = uDocument.getElementById(CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID);
+    let challengeDescInfoDiv = uDocument.getElementById(uConst.get("CHALLENGE_DESCRIPTION_INFO_DIV_ELEMENT_ID"));
     challengeDescInfoDiv.innerHTML = '';
 
-    let personDescInfoDiv = uDocument.getElementById(PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID);
+    let personDescInfoDiv = uDocument.getElementById(uConst.get("PERSON_DESCRIPTION_INFO_DIV_ELEMENT_ID"));
     personDescInfoDiv.innerHTML = '';
 
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     const challenge = challenges[rowId - 1] ?? undefined;
     if (challenge === undefined) {
       return;
@@ -3033,15 +3031,15 @@ requirejs(
     const additionId = challenge.addition;
 
     const config = challengesConfig[challengeType] ?? {};
-    const additionType = config[CONFIG_FIELD_ADDITION_TYPE] ?? '';
+    const additionType = config[uConst.get("CONFIG_FIELD_ADDITION_TYPE")] ?? '';
     const person = getPersonDataName(challenge.person ?? '');
     const addition = getPersonDataAdditionName(personId, additionType, additionId);
     const personString = person + (additionId === '' ? '' : ' (' + addition + ')');
 
-    let challengeDescInfoValue = uDocument.getElementById(CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
+    let challengeDescInfoValue = uDocument.getElementById(uConst.get("CHALLENGE_DESCRIPTION_INFO_VALUE_ELEMENT_ID"));
     challengeDescInfoValue.innerHTML = getChallengeTypeName(challengeType);
 
-    let personDescInfoValue = uDocument.getElementById(PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID);
+    let personDescInfoValue = uDocument.getElementById(uConst.get("PERSON_DESCRIPTION_INFO_VALUE_ELEMENT_ID"));
     personDescInfoValue.innerHTML = personString;
 
     const descValues = {
@@ -3062,32 +3060,32 @@ requirejs(
   async function moveChallengeReset(rowId, direction) {
     clearNotifications();
 
-    const modalRowId = uDocument.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID);
-    const modalDirection = uDocument.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID);
+    const modalRowId = uDocument.getElementById(uConst.get("MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID"));
+    const modalDirection = uDocument.getElementById(uConst.get("MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID"));
 
     modalRowId.value = rowId;
     modalDirection.value = direction;
   }
 
   async function moveChallenge() {
-    const rowId = Number(uDocument.getElementById(MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
-    const direction = uDocument.getElementById(MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID).value ?? '';
+    const rowId = Number(uDocument.getElementById(uConst.get("MOVE_CHALLENGE_MODAL_ROW_ID_ELEMENT_ID")).value ?? 0);
+    const direction = uDocument.getElementById(uConst.get("MOVE_CHALLENGE_MODAL_DIRECTION_ELEMENT_ID")).value ?? '';
 
-    if (direction === MOVE_CHALLENGE_DIRECTION_DOWN) {
+    if (direction === uConst.get("MOVE_CHALLENGE_DIRECTION_DOWN")) {
       moveChallengeDown(rowId);
-    } else if (direction === MOVE_CHALLENGE_DIRECTION_UP) {
+    } else if (direction === uConst.get("MOVE_CHALLENGE_DIRECTION_UP")) {
       moveChallengeUp(rowId);
     }
   }
 
   async function moveChallengeUp(rowId) {
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     const current = challenges[rowId - 1] ?? {};
     const previous = challenges[rowId - 2] ?? {};
 
     if (Object.keys(current).length > 0 && current.date === previous.date) {
-      fileData[DATA_FIELD_CHALLENGES][rowId - 1] = previous;
-      fileData[DATA_FIELD_CHALLENGES][rowId - 2] = current;
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")][rowId - 1] = previous;
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")][rowId - 2] = current;
     }
 
     await reloadChallengesTab();
@@ -3098,13 +3096,13 @@ requirejs(
   }
 
   async function moveChallengeDown(rowId) {
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     const current = challenges[rowId - 1] ?? {};
     const next = challenges[rowId] ?? {};
 
     if (Object.keys(current).length > 0 && current.date === next.date) {
-      fileData[DATA_FIELD_CHALLENGES][rowId - 1] = next;
-      fileData[DATA_FIELD_CHALLENGES][rowId] = current;
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")][rowId - 1] = next;
+      fileData[uConst.get("DATA_FIELD_CHALLENGES")][rowId] = current;
     }
 
     await reloadChallengesTab();
@@ -3140,13 +3138,13 @@ requirejs(
     lastEditedNoteItem = [];
     lastFormModeNoteCellElementIdSuffix = {};
 
-    const notesListElement = uDocument.getElementById(NOTES_LIST_ELEMENT_ID);
+    const notesListElement = uDocument.getElementById(uConst.get("NOTES_LIST_ELEMENT_ID"));
     notesListElement.innerHTML = '';
-    const notesListForAddNewChallengeElement = uDocument.getElementById(NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID);
+    const notesListForAddNewChallengeElement = uDocument.getElementById(uConst.get("NOTES_LIST_FOR_ADD_NEW_CHALLENGE_ELEMENT_ID"));
     notesListForAddNewChallengeElement.innerHTML = '';
 
-    let challengeType = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {}).type ?? null;
-    let notes = ((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_NOTES] ?? {};
+    let challengeType = ((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {}).type ?? null;
+    let notes = ((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {})[uConst.get("DATA_FIELD_NOTES")] ?? {};
 
     if (Object.keys(notes).length == 0 || challengeType == null) {
       notesListElement.innerHTML = uLanguage.getTranslation('lang-there-is-no-note-for-this-challenge', true);
@@ -3162,13 +3160,13 @@ requirejs(
   async function drawNoteRow(contentElement, rowId, challengeType, itemType) {
     const element = uDocument.createElement('div');
 
-    const config = ((challengesConfig[challengeType] ?? [])[CONFIG_FIELD_NOTES] ?? [])[itemType] ?? {};
+    const config = ((challengesConfig[challengeType] ?? [])[uConst.get("CONFIG_FIELD_NOTES")] ?? [])[itemType] ?? {};
     let name = uLanguage.getTranslation('name', true, config.name ?? {});
     if (name.substring(0, 3) === uLanguage.getMissingVariableSign()) {
       name = itemType;
     }
 
-    const content = await uFile.getFileContent(NOTE_ITEM_TEMPLATE_FILE_PATH);
+    const content = await uFile.getFileContent(uConst.get("NOTE_ITEM_TEMPLATE_FILE_PATH"));
     element.innerHTML = content
       .replace(/#name#/g, name)
       .replace(/#row-id#/g, rowId)
@@ -3181,7 +3179,7 @@ requirejs(
   }
 
   function isNoteDataStructureValid(data, level = 0) {
-    if (level > MAX_NOTE_OBJECT_STRUCTURE_LEVELS || !Array.isArray(data)) {
+    if (level > uConst.get("MAX_NOTE_OBJECT_STRUCTURE_LEVELS") || !Array.isArray(data)) {
       return false;
     }
 
@@ -3221,14 +3219,14 @@ requirejs(
     for (const noteType of Object.keys(challengeConfig.type ?? {})) {
       let noteName = uLanguage.getTranslation('name', true, (notesTypesConfig[noteType] ?? {}).name ?? {});
       if (noteName.substring(0, 3) === uLanguage.getMissingVariableSign()) {
-        noteName = MISSING_TABLE_HEADER_NOTE_NAME;
+        noteName = uConst.get("MISSING_TABLE_HEADER_NOTE_NAME");
       }
 
       result.push(noteName);
     }
 
     for (let i = result.length; i < depthLevelsCount; i++) {
-      result.push(MISSING_TABLE_HEADER_NOTE_NAME);
+      result.push(uConst.get("MISSING_TABLE_HEADER_NOTE_NAME"));
     }
 
     return result;
@@ -3246,26 +3244,26 @@ requirejs(
     const isEditMode = true;
     await showNoteContent(rowId, challengeType, itemType, isEditMode);
 
-    location.hash = ANCHOR_CHARACTER + NOTE_ITEM_ELEMENT_ID_PREFIX + itemType;
+    location.hash = uConst.get("ANCHOR_CHARACTER") + uConst.get("NOTE_ITEM_ELEMENT_ID_PREFIX") + itemType;
   }
 
   function getChallengeNotesData(rowId, itemType) {
-    if (rowId === EMPTY_ROW_ID) {
+    if (rowId === uConst.get("EMPTY_ROW_ID")) {
       return newChallengeNotesValues[itemType] ?? [];
     } else {
-      return (((fileData[DATA_FIELD_CHALLENGES] ?? [])[rowId - 1] ?? {})[DATA_FIELD_NOTES] ?? {})[itemType] ?? [];
+      return (((fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [])[rowId - 1] ?? {})[uConst.get("DATA_FIELD_NOTES")] ?? {})[itemType] ?? [];
     }
   }
 
   async function showNoteContent(rowId, challengeType, itemType, isEditMode = false) {
-    const noteElementId = NOTE_VALUE_ELEMENT_ID_PREFIX + itemType;
-    const noteTableBodyElementId = noteElementId + NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX;
+    const noteElementId = uConst.get("NOTE_VALUE_ELEMENT_ID_PREFIX") + itemType;
+    const noteTableBodyElementId = noteElementId + uConst.get("NOTE_VALUE_TABLE_BODY_ELEMENT_ID_SUFFIX");
 
     const noteElement = uDocument.getElementById(noteElementId);
     noteElement.innerHTML = '';
 
     const value = getChallengeNotesData(rowId, itemType);
-    const challengeConfig = ((challengesConfig[challengeType] ?? {})[CONFIG_FIELD_NOTES] ?? {})[itemType] ?? {};
+    const challengeConfig = ((challengesConfig[challengeType] ?? {})[uConst.get("CONFIG_FIELD_NOTES")] ?? {})[itemType] ?? {};
 
     if (!isNoteDataStructureValid(value)) {
       noteElement.innerHTML = uLanguage.getTranslation('lang-you-cannot-read-this-note-due-to-its-invalid-structure', true);
@@ -3293,7 +3291,7 @@ requirejs(
     let noteType = '';
     let noteTypeConfig = {};
     let noteQuantityMin = 0;
-    let noteQuantityMax = NOTE_QUANTITY_INFINITY_MAX;
+    let noteQuantityMax = uConst.get("NOTE_QUANTITY_INFINITY_MAX");
     let doubleLoopTimes = path.length;
     for (const noteTypeData of Object.entries(challengeConfig.type ?? {})) {
       if (doubleLoopTimes <= 0) {
@@ -3303,7 +3301,7 @@ requirejs(
         const noteQuantity = noteTypeData[1] ?? [];
 
         noteQuantityMin = noteQuantity[0] ?? 0;
-        noteQuantityMax = noteQuantity[1] ?? NOTE_QUANTITY_INFINITY_MAX;
+        noteQuantityMax = noteQuantity[1] ?? uConst.get("NOTE_QUANTITY_INFINITY_MAX");
         break;
       }
       doubleLoopTimes -= 2;
@@ -3337,7 +3335,7 @@ requirejs(
     if (isEditMode
       && (isNewTableRowNeeded || (totalRows === 0 && level === 1))
       && Object.keys(noteTypeConfig).length > 0
-      && (noteQuantityMax === NOTE_QUANTITY_INFINITY_MAX || noteQuantityMax > noteItemsCount)
+      && (noteQuantityMax === uConst.get("NOTE_QUANTITY_INFINITY_MAX") || noteQuantityMax > noteItemsCount)
     ) {
       tableRowElementToUse = tableBodyElement.insertRow(-1);
       let cellElement = tableRowElementToUse.insertCell(-1);
@@ -3366,9 +3364,9 @@ requirejs(
   }
 
   async function showCreateNoteCellContent(cellElement, rowId, challengeType, itemType, itemPath, newNoteNumber) {
-    const template = await uFile.getFileContent(CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH);
+    const template = await uFile.getFileContent(uConst.get("CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH"));
     const itemPathString = itemPath.join('-');
-    const cellElementId = itemType + '-' + itemPathString + '-' + newNoteNumber + '-' + EMPTY_NOTE_ID;
+    const cellElementId = itemType + '-' + itemPathString + '-' + newNoteNumber + '-' + uConst.get("EMPTY_NOTE_ID");
 
     cellElement.innerHTML = template
       .replace(/#note-cell-id#/g, cellElementId)
@@ -3387,13 +3385,13 @@ requirejs(
     for (const i of itemPath) {
       context = context[i];
     }
-    context[newNoteNumber] = {[EMPTY_NOTE_ID]: []};
+    context[newNoteNumber] = {[uConst.get("EMPTY_NOTE_ID")]: []};
 
-    await setNoteCellModeToForm(rowId, challengeType, itemType, itemPath.concat([newNoteNumber, EMPTY_NOTE_ID]));
+    await setNoteCellModeToForm(rowId, challengeType, itemType, itemPath.concat([newNoteNumber, uConst.get("EMPTY_NOTE_ID")]));
   }
 
   function getNoteFromFileData(index, noteId) {
-    const note = ((fileData[DATA_FIELD_NOTES] ?? {})[index] ?? {})[noteId] ?? '';
+    const note = ((fileData[uConst.get("DATA_FIELD_NOTES")] ?? {})[index] ?? {})[noteId] ?? '';
 
     if (note.length > 0) {
       return note;
@@ -3401,7 +3399,7 @@ requirejs(
       return uLanguage.getTranslation('lang-empty-note-form-warning', true);
     }
 
-    return MISSING_NOTE_ID_SIGN + noteId + MISSING_NOTE_ID_SIGN;
+    return uConst.get("MISSING_NOTE_ID_SIGN") + noteId + uConst.get("MISSING_NOTE_ID_SIGN");
   }
 
   async function showNoteCellContent(
@@ -3417,20 +3415,20 @@ requirejs(
     const content = getNoteFromFileData(noteIndex, noteId);
     const hint = Object.keys(noteTypeConfig.hint ?? {}).length === 0 ? '' : uLanguage.getTranslation('name', false, noteTypeConfig.hint);
     let escapedContent = getHtmlTagsEscapedString(content);
-    if ((noteTypeConfig.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_PATRONS] != undefined) {
+    if ((noteTypeConfig.source ?? {})[uConst.get("NOTE_CONFIG_SOURCE_TYPE_PATRONS")] != undefined) {
       escapedContent = getPersonDataName(escapedContent);
     }
-    if ((noteTypeConfig.source ?? {})[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] != undefined) {
+    if ((noteTypeConfig.source ?? {})[uConst.get("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES")] != undefined) {
       escapedContent = getChallengeTypeName(escapedContent);
     }
 
     const isEditFormMode = (isEditMode && (lastFormModeNoteCellElementIdSuffix[itemType] ?? '') === itemPathString);
 
-    let templatePath = READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH;
+    let templatePath = uConst.get("READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH");
     if (isEditMode) {
-      templatePath = EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH;
+      templatePath = uConst.get("EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH");
       if (isEditFormMode) {
-        templatePath = FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH;
+        templatePath = uConst.get("FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH");
       }
     }
     const template = await uFile.getFileContent(templatePath);
@@ -3447,10 +3445,10 @@ requirejs(
     ;
 
     if (isEditMode) {
-      const editButton = uDocument.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX);
-      const moveUpButton = uDocument.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX);
-      const moveDownButton = uDocument.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX);
-      const removeButton = uDocument.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX);
+      const editButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_EDIT_BUTTON_ELEMENT_ID_SUFFIX"));
+      const moveUpButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX"));
+      const moveDownButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX"));
+      const removeButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX"));
 
       if (editButton && Object.keys(noteTypeConfig).length <= 0) {
         uUseful.setVisibility(editButton, false);
@@ -3466,7 +3464,7 @@ requirejs(
       }
     }
     if (isEditFormMode) {
-      const hintElement = uDocument.getElementById(NOTE_CELL_ELEMENT_ID_PREFIX + cellElementId + NOTE_CELL_HINT_ELEMENT_ID_SUFFIX);
+      const hintElement = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_HINT_ELEMENT_ID_SUFFIX"));
 
       if (hintElement && hint === '') {
         uUseful.setVisibility(hintElement, false);
@@ -3496,18 +3494,18 @@ requirejs(
 
     let persons = {};
 
-    const isGodAndAllPatrons = config[REQUIREMENT_GOD_OR_ANY_PATRON] ?? null;
-    const typesNeeded = config[REQUIREMENT_PERSON_HAVING_CHALLENGES] ?? null;
+    const isGodAndAllPatrons = config[uConst.get("REQUIREMENT_GOD_OR_ANY_PATRON")] ?? null;
+    const typesNeeded = config[uConst.get("REQUIREMENT_PERSON_HAVING_CHALLENGES")] ?? null;
 
     if (isGodAndAllPatrons) {
       for (let personId of getAllPersonsDataSubelements()) {
         persons[personId] = personId;
       }
     } else if (typesNeeded != null) {
-      const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
+      const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
       let challengeDate = (challenges[rowId - 1] ?? {}).date ?? null;
       if (challengeDate == null) {
-        challengeDate = uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value ?? uDate.getToday();
+        challengeDate = uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
       }
 
       persons = getPersonsHavingAllChallenges(typesNeeded, challengeDate);
@@ -3525,8 +3523,8 @@ requirejs(
 
       let noteId = 0;
       for (let personId of Object.keys(persons)) {
-        let foundNoteId = personIdKeys[personId] ?? EMPTY_NOTE_ID;
-        while (foundNoteId === EMPTY_ROW_ID) {
+        let foundNoteId = personIdKeys[personId] ?? uConst.get("EMPTY_NOTE_ID");
+        while (foundNoteId === uConst.get("EMPTY_ROW_ID")) {
           noteId++;
           if (fileDataValues[noteId] === undefined) {
             foundNoteId = noteId;
@@ -3546,7 +3544,7 @@ requirejs(
   function getNotesChallengeTypesValues(config, fileDataValues, rowId, currentValue) {
     let result = [];
 
-    const challengeDate = (challenges[rowId - 1] ?? {}).date ?? uDocument.getElementById(CHALLENGE_DATE_INPUT_ELEMENT_ID).value;
+    const challengeDate = (challenges[rowId - 1] ?? {}).date ?? uDocument.getElementById(uConst.get("CHALLENGE_DATE_INPUT_ELEMENT_ID")).value;
     let challengeTypes = getChallengeTypesWithRequirements(config, challengeDate);
 
     if (Object.keys(challengeTypes).length > 0 || currentValue.length > 0) {
@@ -3561,8 +3559,8 @@ requirejs(
 
       let noteId = 0;
       for (let challengeTypeId of Object.keys(challengeTypes)) {
-        let foundNoteId = challengeTypesIdKeys[challengeTypeId] ?? EMPTY_NOTE_ID;
-        while (foundNoteId === EMPTY_ROW_ID) {
+        let foundNoteId = challengeTypesIdKeys[challengeTypeId] ?? uConst.get("EMPTY_NOTE_ID");
+        while (foundNoteId === uConst.get("EMPTY_ROW_ID")) {
           noteId++;
           if (fileDataValues[noteId] === undefined) {
             foundNoteId = noteId;
@@ -3584,7 +3582,7 @@ requirejs(
   function getNotesFileDataValues(index) {
     let result = {};
 
-    const notes = (fileData[DATA_FIELD_NOTES] ?? {})[index] ?? {};
+    const notes = (fileData[uConst.get("DATA_FIELD_NOTES")] ?? {})[index] ?? {};
     for (const [noteId, value] of Object.entries(notes)) {
       if (value.length > 0) {
         result[noteId] = value;
@@ -3609,8 +3607,8 @@ requirejs(
     }
 
     for (const row of context) {
-      const siblingNoteId = Number(Object.keys(row)[0] ?? EMPTY_NOTE_ID);
-      if (!uUseful.inArray(siblingNoteId, [noteId, EMPTY_NOTE_ID])) {
+      const siblingNoteId = Number(Object.keys(row)[0] ?? uConst.get("EMPTY_NOTE_ID"));
+      if (!uUseful.inArray(siblingNoteId, [noteId, uConst.get("EMPTY_NOTE_ID")])) {
         result[siblingNoteId] = siblingNoteId;
       }
     }
@@ -3621,10 +3619,10 @@ requirejs(
   async function showNoteCellContentInFormMode(cellElement, rowId, challengeType, itemType, itemPath, noteType, noteTypeConfig) {
     const currentNoteId = Number(itemPath.at(-1));
 
-    const selectElement = uDocument.getElementById(NOTE_CELL_SELECT_ELEMENT_ID);
-    const inputElement = uDocument.getElementById(NOTE_CELL_INPUT_ELEMENT_ID);
-    const setExistingNoteButtonElement = uDocument.getElementById(NOTE_CELL_SET_EXISTING_NOTE_BUTTON);
-    const setNewNoteButtonElement = uDocument.getElementById(NOTE_CELL_SET_NEW_NOTE_BUTTON);
+    const selectElement = uDocument.getElementById(uConst.get("NOTE_CELL_SELECT_ELEMENT_ID"));
+    const inputElement = uDocument.getElementById(uConst.get("NOTE_CELL_INPUT_ELEMENT_ID"));
+    const setExistingNoteButtonElement = uDocument.getElementById(uConst.get("NOTE_CELL_SET_EXISTING_NOTE_BUTTON"));
+    const setNewNoteButtonElement = uDocument.getElementById(uConst.get("NOTE_CELL_SET_NEW_NOTE_BUTTON"));
 
     uUseful.setVisibility(selectElement, false);
     uUseful.setVisibility(inputElement, false);
@@ -3635,7 +3633,7 @@ requirejs(
     const noteSources = noteTypeConfig.source ?? {};
 
     const fileDataValues = getNotesFileDataValues(noteIndex);
-    const listValues = getNotesConfiguredListValues(noteSources[NOTE_CONFIG_SOURCE_TYPE_LIST] ?? []);
+    const listValues = getNotesConfiguredListValues(noteSources[uConst.get("NOTE_CONFIG_SOURCE_TYPE_LIST")] ?? []);
     const siblingsNoteIds = getSiblingsNoteIds(rowId, itemType, itemPath);
 
     const currentValue = fileDataValues[currentNoteId] ?? '';
@@ -3674,7 +3672,7 @@ requirejs(
         if (!uUseful.inArray(value, Object.values(fileDataValues))) {
           uUseful.setVisibility(setNewNoteButtonElement, true);
         } else {
-          const noteId = Number(Object.keys(fileDataValues).find(key => fileDataValues[key] === value) ?? EMPTY_NOTE_ID);
+          const noteId = Number(Object.keys(fileDataValues).find(key => fileDataValues[key] === value) ?? uConst.get("EMPTY_NOTE_ID"));
 
           if (siblingsNoteIds[noteId] == undefined || noteId === currentNoteId) {
             uUseful.setVisibility(setExistingNoteButtonElement, true);
@@ -3705,7 +3703,7 @@ requirejs(
           }
         }
         if (maxUsedNoteId > 0) {
-          maxUsedNoteId += NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST;
+          maxUsedNoteId += uConst.get("NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST");
         }
         for (const key of Object.keys(fileDataValues)) {
           const noteId = Number(key);
@@ -3726,8 +3724,8 @@ requirejs(
     setExistingNoteButtonElement.onclick = function() {
       const selectedValue = uUseful.getStringWithTidySpaces(inputElement.value);
 
-      const newNoteId = Object.keys(fileDataValues).find(key => fileDataValues[key] === selectedValue) ?? EMPTY_NOTE_ID;
-      if (newNoteId.toString() !== EMPTY_NOTE_ID.toString()) {
+      const newNoteId = Object.keys(fileDataValues).find(key => fileDataValues[key] === selectedValue) ?? uConst.get("EMPTY_NOTE_ID");
+      if (newNoteId.toString() !== uConst.get("EMPTY_NOTE_ID").toString()) {
         let path = structuredClone(itemPath);
         path.pop();
         path = path.concat([newNoteId]);
@@ -3737,8 +3735,8 @@ requirejs(
     }
 
     let anySelectOptionAddedAfterSeparator = false;
-    if (currentNoteId === EMPTY_NOTE_ID || fileDataValues[currentNoteId] == undefined) {
-      uDocument.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_NAME);
+    if (currentNoteId === uConst.get("EMPTY_NOTE_ID") || fileDataValues[currentNoteId] == undefined) {
+      uDocument.addOptionToSelect(selectElement, uConst.get("EMPTY_NOTE_ID"), uConst.get("SELECT_NAME"));
     }
 
     let foundAnySource = false;
@@ -3750,7 +3748,7 @@ requirejs(
       if (foundAnySource && anySelectOptionAddedAfterSeparator) {
         isSelected = false;
         isDisabled = true;
-        uDocument.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
+        uDocument.addOptionToSelect(selectElement, uConst.get("EMPTY_NOTE_ID"), uConst.get("SELECT_SEPARATOR"), isSelected, isDisabled);
         anySelectOptionAddedAfterSeparator = false;
       }
       foundAnySource = true;
@@ -3758,11 +3756,11 @@ requirejs(
       const sourceData = noteSources[source];
 
       switch (source) {
-        case NOTE_CONFIG_SOURCE_TYPE_VALUES:
+        case uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES"):
           let valuesData = structuredClone(fileDataValues);
-          if (sourceData === NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED) {
+          if (sourceData === uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED")) {
             valuesData = uSort.getSortedObject(valuesData);
-          } else if (sourceData === NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED) {
+          } else if (sourceData === uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED")) {
             valuesData = getLastYearOrTenChallengesValuesData(valuesData, rowId, noteType);
             valuesData = uSort.getSortedObject(valuesData);
           } else {
@@ -3785,14 +3783,14 @@ requirejs(
           isSelected = false;
           isDisabled = true;
           if (anySelectOptionAddedAfterSeparator) {
-            uDocument.addOptionToSelect(selectElement, EMPTY_NOTE_ID, SELECT_SEPARATOR, isSelected, isDisabled);
+            uDocument.addOptionToSelect(selectElement, uConst.get("EMPTY_NOTE_ID"), uConst.get("SELECT_SEPARATOR"), isSelected, isDisabled);
           }
 
-          uDocument.addOptionToSelect(selectElement, '', uLanguage.getTranslation('lang-add-new-your-own-note') + ' ' + SELECT_NAME);
+          uDocument.addOptionToSelect(selectElement, '', uLanguage.getTranslation('lang-add-new-your-own-note') + ' ' + uConst.get("SELECT_NAME"));
           anySelectOptionAddedAfterSeparator = true;
           break;
 
-        case NOTE_CONFIG_SOURCE_TYPE_LIST:
+        case uConst.get("NOTE_CONFIG_SOURCE_TYPE_LIST"):
           for (const row of listValues) {
             const noteId = Object.keys(row)[0] ?? '';
             const value = row[noteId] ?? [];
@@ -3810,8 +3808,8 @@ requirejs(
           }
           break;
 
-        case NOTE_CONFIG_SOURCE_TYPE_PATRONS:
-          const patronsValues = getNotesPatronsValues(noteSources[NOTE_CONFIG_SOURCE_TYPE_PATRONS] ?? {}, fileDataValues, rowId, currentValue);
+        case uConst.get("NOTE_CONFIG_SOURCE_TYPE_PATRONS"):
+          const patronsValues = getNotesPatronsValues(noteSources[uConst.get("NOTE_CONFIG_SOURCE_TYPE_PATRONS")] ?? {}, fileDataValues, rowId, currentValue);
           for (const row of patronsValues) {
             const noteId = Object.keys(row)[0] ?? '';
             const personId = row[noteId] ?? [];
@@ -3830,8 +3828,8 @@ requirejs(
           }
           break;
 
-        case NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES:
-          const challengeTypesValues = getNotesChallengeTypesValues(noteSources[NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES] ?? {}, fileDataValues, rowId, currentValue);
+        case uConst.get("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES"):
+          const challengeTypesValues = getNotesChallengeTypesValues(noteSources[uConst.get("NOTE_CONFIG_SOURCE_TYPE_CHALLENGE_TYPES")] ?? {}, fileDataValues, rowId, currentValue);
           for (const row of challengeTypesValues) {
             const noteId = Object.keys(row)[0] ?? '';
             const challengeTypeId = row[noteId] ?? [];
@@ -3841,7 +3839,7 @@ requirejs(
               foundSelectedOption = true;
             }
             if (siblingsNoteIds[noteId] == undefined) {
-              const value = row.name ?? MISSING_NOTE_ID_SIGN;
+              const value = row.name ?? uConst.get("MISSING_NOTE_ID_SIGN");
               const escapedValue = getHtmlTagsEscapedString(value);
               uDocument.addOptionToSelect(selectElement, noteId, escapedValue, isSelected);
               anySelectOptionAddedAfterSeparator = true;
@@ -3868,8 +3866,8 @@ requirejs(
     const lastMiliseconds = (366 + 60) * 24 * 60 * 60 * 1000; //60 days more to now hide movable feasts to early
     const lastRows = 10;
 
-    const challenges = fileData[DATA_FIELD_CHALLENGES] ?? [];
-    if (challengeRowId == EMPTY_ROW_ID) {
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
+    if (challengeRowId == uConst.get("EMPTY_ROW_ID")) {
       challengeRowId = challenges.length;
     }
 
@@ -3885,7 +3883,7 @@ requirejs(
       const date = Date.parse(challenge.date ?? uDate.getToday());
       const type = challenge.type;
       const notes = challenge.notes;
-      const notesConfig = (challengesConfig[type] ?? {})[DATA_FIELD_NOTES] ?? {};
+      const notesConfig = (challengesConfig[type] ?? {})[uConst.get("DATA_FIELD_NOTES")] ?? {};
 
       if ((challengeRowId - rowId) > lastRows && (challengeDate - date) > lastMiliseconds) {
         continue;
@@ -3993,17 +3991,17 @@ requirejs(
   function removeNoteModalReset(rowId, challengeType, itemType, itemPath) {
     clearNotifications();
 
-    uDocument.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value = rowId;
-    uDocument.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value = challengeType;
-    uDocument.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value = itemType;
-    uDocument.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value = itemPath.join('/');
+    uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID")).value = rowId;
+    uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID")).value = challengeType;
+    uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID")).value = itemType;
+    uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID")).value = itemPath.join('/');
   }
 
   async function removeNote() {
-    const rowId = Number(uDocument.getElementById(REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID).value ?? 0);
-    const challengeType = uDocument.getElementById(REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID).value ?? '';
-    const itemType = uDocument.getElementById(REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID).value ?? '';
-    const itemPath = uDocument.getElementById(REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID).value.split('/') ?? [];
+    const rowId = Number(uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ROW_ID_ELEMENT_ID")).value ?? 0);
+    const challengeType = uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_CHALLENGE_TYPE_ELEMENT_ID")).value ?? '';
+    const itemType = uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ITEM_TYPE_ELEMENT_ID")).value ?? '';
+    const itemPath = uDocument.getElementById(uConst.get("REMOVE_NOTE_MODAL_ITEM_PATH_ELEMENT_ID")).value.split('/') ?? [];
 
     const rowNotes = getChallengeNotesData(rowId, itemType);
     if (itemType.length < 2) {
@@ -4051,13 +4049,13 @@ requirejs(
     }
     context[newNoteNumber] = {[noteId]: []};
 
-    if (fileData[DATA_FIELD_NOTES] == undefined) {
-      fileData[DATA_FIELD_NOTES] = {};
+    if (fileData[uConst.get("DATA_FIELD_NOTES")] == undefined) {
+      fileData[uConst.get("DATA_FIELD_NOTES")] = {};
     }
-    if (fileData[DATA_FIELD_NOTES][noteIndex] == undefined) {
-      fileData[DATA_FIELD_NOTES][noteIndex] = {};
+    if (fileData[uConst.get("DATA_FIELD_NOTES")][noteIndex] == undefined) {
+      fileData[uConst.get("DATA_FIELD_NOTES")][noteIndex] = {};
     }
-    fileData[DATA_FIELD_NOTES][noteIndex][noteId] = value;
+    fileData[uConst.get("DATA_FIELD_NOTES")][noteIndex][noteId] = value;
 
     synchronizeFileData();
 
@@ -4095,22 +4093,22 @@ requirejs(
     }
 
     const minQuantity = quantities[noteType][0] ?? 0;
-    const maxQuantity = quantities[noteType][1] ?? NOTE_QUANTITY_INFINITY_MAX;
+    const maxQuantity = quantities[noteType][1] ?? uConst.get("NOTE_QUANTITY_INFINITY_MAX");
     delete quantities[noteType];
 
     const dataCount = data.length;
 
     if (dataCount < minQuantity
-      || (maxQuantity !== NOTE_QUANTITY_INFINITY_MAX && dataCount > maxQuantity)
+      || (maxQuantity !== uConst.get("NOTE_QUANTITY_INFINITY_MAX") && dataCount > maxQuantity)
     ) {
       return false;
     }
 
     for (const itemObject of data) {
-      const itemNoteId = Number(Object.keys(itemObject)[0] ?? EMPTY_NOTE_ID);
+      const itemNoteId = Number(Object.keys(itemObject)[0] ?? uConst.get("EMPTY_NOTE_ID"));
       const itemData = itemObject[itemNoteId] ?? [];
 
-      if (itemNoteId === EMPTY_NOTE_ID
+      if (itemNoteId === uConst.get("EMPTY_NOTE_ID")
         || !validateNotesQuantity(itemData, quantities)
       ) {
         return false;
@@ -4121,10 +4119,10 @@ requirejs(
   }
 
   async function setRandomBibleChapter(language) {
-    const button = uDocument.getElementById(RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID);
+    const button = uDocument.getElementById(uConst.get("RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID"));
     button.innerHTML = uLanguage.getTranslation('lang-randomize-the-chapter', true);
 
-    const data = await uFile.getJsonFromFile(BIBLE_CHAPTERS_DATA_JSON_FILE);
+    const data = await uFile.getJsonFromFile(uConst.get("BIBLE_CHAPTERS_DATA_JSON_FILE"));
 
     let allBibleChapters = [];
     for (const [book, chaptersCount] of Object.entries(data[language] ?? {})) {
@@ -4142,7 +4140,7 @@ requirejs(
   }
 
   function isWarningIgnoredForOldChallenges(challengeDateString, challengeType, requirementName) {
-    const inactiveDateString = (PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES[requirementName] ?? {})[challengeType] ?? null;
+    const inactiveDateString = (uConst.get("PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES")[requirementName] ?? {})[challengeType] ?? null;
 
     if (inactiveDateString !== null) {
       const challengeDate = Date.parse(challengeDateString);

@@ -3,7 +3,7 @@ define(["env"], function(uEnv) {
   const values = {};
 
   function get(id) {
-    const result = values[id] ?? undefined;
+    const result = values[id];
     if (result === undefined) {
       error("Missing const \"" + id.toString() + "\"");
     }
