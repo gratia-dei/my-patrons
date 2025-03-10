@@ -1848,7 +1848,7 @@
     "numbers": false,
     "uniqueness": [
       ["person"],
-      ["notes/piety-cycle", "date|first-7-characters-only"]
+      ["notes/piety-cycle", "date"]
     ],
     "addition-type": "",
     "person": {

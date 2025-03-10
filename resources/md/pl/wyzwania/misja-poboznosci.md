@@ -4,6 +4,4 @@ Biorąc udział w **nabożeństwach** i wykonując przeróżne **akty pobożnoś
 
 Powierzając Misję Pobożności Patronowi, **prosisz go**, aby **wspomagał Cię** i **motywował** do dalszego udziału w nabożeństwach i aktach pobożności, by **modlił** się za Ciebie i wszystkich innych, do których **Twoja pobożność dotrze**, o zwiększanie się ich wiary i pobożności oraz o jak największe jej owoce w budowaniu Królestwa Niebieskiego na ziemi.
 
-Pamiętaj, że:
-- można powierzyć **wiele Misji Pobożności** jednego dnia, jeżeli w tym dniu zbiega się więcej wypełnionych wcześniej cyklów pobożności, np. w Wielki Piątek, prócz Liturgii Męki Pańskiej ([ET] Triduum Paschalne), może być też pierwszy piątek miesiąca ([EF] Nabożeństwo IX Pierwszych Piątków Miesiąca),
-- Misję Pobożności dotyczącą **określonego cyklu**, można powierzyć **nie więcej niż jeden raz w miesiącu kalendarzowym**!
+Pamiętaj, że można powierzyć **wiele Misji Pobożności** jednego dnia, jeżeli w tym dniu zbiega się więcej wypełnionych wcześniej cyklów pobożności, np. w Wielki Piątek, prócz Liturgii Męki Pańskiej ([ET] Triduum Paschalne), może być też pierwszy piątek miesiąca ([EF] Nabożeństwo IX Pierwszych Piątków Miesiąca).
