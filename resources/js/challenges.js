@@ -179,7 +179,6 @@ requirejs(
   const INPUT_FOR_OWNER_ELEMENT_ID = 'input-for-owner';
 
   const PERSONS_DATA_FIELD_NAMES = 'names';
-  const PERSONS_DATA_FIELD_DIED = 'died';
 
   const DATA_FIELD_CHALLENGES = 'challenges';
   const DATA_FIELD_FILENAME_WITHOUT_EXTENSION = 'filename-without-extension';
@@ -194,9 +193,7 @@ requirejs(
   const CONFIG_FIELD_SELECTABLE = 'selectable';
   const CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE = 'to-complete-on-selected-date';
 
-  const PERSON_TYPE_GOD = 'God';
-  const PERSON_TYPE_ME = 'Me';
-  const PERSON_TYPE_PATRONS = 'Patrons';
+  const PERSON_PREFIX_NEEDED = 'patrons';
   const COPY_PERSON_TYPE_TO_NAME_IDS = ['me'];
   const GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL = 'god';
 
@@ -412,7 +409,7 @@ requirejs(
   async function getImmovableDatesPatronsData(filePaths) {
     let result = {};
 
-    const personPrefixNeeded = PERSON_TYPE_PATRONS.toLowerCase();
+    const personPrefixNeeded = PERSON_PREFIX_NEEDED;
 
     for (const filePath of filePaths) {
       const fileData = await uFile.getJsonFromFile(filePath);
