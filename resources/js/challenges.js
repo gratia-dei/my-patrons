@@ -649,6 +649,16 @@ requirejs(
         message: 'lang-challenge-parse-error-missing-configuration-for-challenge-type',
         data: [challengeType]
       };
+    } else if (!uDate.isValid(challengeDate)) {
+      throw {
+        message: 'lang-challenge-parse-error-invalid-challenge-date',
+        data: [challengeDate]
+      };
+    } else if (!personsData[challengePerson]) {
+      throw {
+        message: 'lang-challenge-parse-error-invalid-person',
+        data: [challengePerson]
+      };
     }
 
     const configPersonData = config.person ?? {};

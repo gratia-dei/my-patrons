@@ -609,9 +609,19 @@
         "pl": "ten typ wyzwania został już przypisany wcześniej do tej osoby"
     },
 
+    "lang-challenge-parse-error-invalid-challenge-date": {
+        "en": "invalid challenge date",
+        "pl": "niepoprawna data wyzwania"
+    },
+
     "lang-challenge-parse-error-invalid-notes-quantities": {
         "en": "invalid notes quantities",
         "pl": "niepoprawna liczba notatek"
+    },
+
+    "lang-challenge-parse-error-invalid-person": {
+        "en": "invalid person assigned to challenge",
+        "pl": "niepoprawna osoba przypisana do wyzwania"
     },
 
     "lang-challenge-parse-error-invalid-status-in-checklist-step-to-complete-on-selected-date": {
