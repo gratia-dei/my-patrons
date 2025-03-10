@@ -1,13 +1,20 @@
-requirejs(["const", "language", "notification"], function(uConst, uLanguage, uNotification) {
+requirejs(["const", "date", "document", "language", "notification"], function(uConst, uDate, uDocument, uLanguage, uNotification) {
 
   uConst
     .set("LOAD_FILE", loadFile)
+    .set("REFRESH_ALL_TABS", refreshAllTabs)
+
+    .set("DATE_INPUT_ELEMENT_ID", "date-input")
   ;
 
   let fileData = {};
 
-  function build() {
-    uLanguage.loadTranslationsFile();
+  async function build() {
+    uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value = uDate.getToday();
+
+    await uLanguage.loadTranslationsFile();
+
+    refreshAllTabs();
   };
 
   async function loadFile(input) {
@@ -18,10 +25,21 @@ requirejs(["const", "language", "notification"], function(uConst, uLanguage, uNo
       const fileContent = await data.text();
 
       fileData = JSON.parse(fileContent);
+      refreshAllTabs();
 
       uNotification.success(uLanguage.getTranslation('lang-file-loaded-successfully', true));
     } catch (e) {
       uNotification.error(e.message);
+    }
+  }
+
+  function refreshAllTabs() {
+    const dateInput = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID"));
+    let date = dateInput.value;
+
+    if (!uDate.isValid(date)) {
+      date = uDate.getToday();
+      dateInput.value = date;
     }
   }
 
@@ -129,5 +147,11 @@ requirejs(["const", "language", "notification"], function(uConst, uLanguage, uNo
 function loadFile(input) {
   requirejs(["const"], function(uConst) {
     uConst.get("LOAD_FILE")(input);
+  });
+}
+
+function refreshAllTabs() {
+  requirejs(["const"], function(uConst) {
+    uConst.get("REFRESH_ALL_TABS")();
   });
 }

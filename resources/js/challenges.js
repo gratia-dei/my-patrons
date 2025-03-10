@@ -310,7 +310,7 @@ requirejs(
         }
     }
 
-    uLanguage.loadTranslationsFile();
+    await uLanguage.loadTranslationsFile();
     challengesConfig = await uFile.getJsonFromFile(uConst.get("CHALLENGES_CONFIG_JSON_FILE"));
     notesTypesConfig = await uFile.getJsonFromFile(uConst.get("NOTES_CONFIG_JSON_FILE"));
     personsData = await uFile.getJsonFromFile(uConst.get("PERSONS_DATA_JSON_FILE"));
