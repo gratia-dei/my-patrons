@@ -24,6 +24,7 @@ requirejs(
     .set("REMOVE_CHALLENGE", removeChallenge)
     .set("REMOVE_CHALLENGE_RESET", removeChallengeReset)
     .set("REMOVE_NOTE", removeNote)
+    .set("REMOVE_NOTE_DURING_ADD_NEW_CHALLENGE", removeNoteDuringAddNewChallenge)
     .set("REMOVE_NOTE_MODAL_RESET", removeNoteModalReset)
     .set("RESET_ADDITION_SELECT", resetAdditionSelect)
     .set("RESET_CHALLENGE_TYPE_SELECT", resetChallengeTypeSelect)
@@ -140,6 +141,7 @@ requirejs(
     .set("NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX", '-move-up-button')
     .set("NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX", '-move-down-button')
     .set("NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX", '-remove-button')
+    .set("NOTE_CELL_REMOVE_DURING_ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID_SUFFIX", '-remove-during-add-new-challenge-button')
     .set("NOTE_CELL_HINT_ELEMENT_ID_SUFFIX", '-hint')
     .set("NOTE_ITEM_ELEMENT_ID_PREFIX", 'note-item-')
     .set("NOTE_VALUE_ELEMENT_ID_PREFIX", 'note-value-')
@@ -3459,6 +3461,7 @@ requirejs(
       const moveUpButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_MOVE_UP_BUTTON_ELEMENT_ID_SUFFIX"));
       const moveDownButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_MOVE_DOWN_BUTTON_ELEMENT_ID_SUFFIX"));
       const removeButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_REMOVE_BUTTON_ELEMENT_ID_SUFFIX"));
+      const removeDuringAddNewChallengeButton = uDocument.getElementById(uConst.get("NOTE_CELL_ELEMENT_ID_PREFIX") + cellElementId + uConst.get("NOTE_CELL_REMOVE_DURING_ADD_NEW_CHALLENGE_BUTTON_ELEMENT_ID_SUFFIX"));
 
       if (editButton && Object.keys(noteTypeConfig).length <= 0) {
         uUseful.setVisibility(editButton, false);
@@ -3469,8 +3472,11 @@ requirejs(
       if (moveDownButton && noteNo >= totalNotes) {
         uUseful.setVisibility(moveDownButton, false);
       }
-      if (removeButton && noteNo <= noteQuantityMin) {
+      if (removeButton && (rowId === uConst.get("EMPTY_ROW_ID") || noteNo <= noteQuantityMin)) {
         uUseful.setVisibility(removeButton, false);
+      }
+      if (removeDuringAddNewChallengeButton && (rowId > uConst.get("EMPTY_ROW_ID") || noteNo <= noteQuantityMin)) {
+        uUseful.setVisibility(removeDuringAddNewChallengeButton, false);
       }
     }
     if (isEditFormMode) {
@@ -4033,6 +4039,27 @@ requirejs(
     await showNoteContent(rowId, challengeType, itemType, isEditMode);
   }
 
+  async function removeNoteDuringAddNewChallenge(rowId, challengeType, itemType, itemPath) {
+    const rowNotes = getChallengeNotesData(rowId, itemType);
+    if (itemType.length < 2) {
+      return;
+    }
+
+    const noteId = itemPath.pop();
+    const noteKey = itemPath.pop();
+
+    let context = rowNotes;
+    for (const i of itemPath) {
+      context = context[i];
+    }
+    context.splice(noteKey, 1);
+
+    synchronizeFileData();
+
+    const isEditMode = true;
+    await showNoteContent(rowId, challengeType, itemType, isEditMode);
+  }
+
   async function setNoteCellModeToForm(rowId, challengeType, itemType, itemPath) {
     for (const oldItemType of Object.keys(lastFormModeNoteCellElementIdSuffix)) {
       showNoteContent(rowId, challengeType, oldItemType);
@@ -4282,6 +4309,12 @@ function removeChallengeReset(rowId) {
 function removeNote() {
   requirejs(["const"], function(uConst) {
     uConst.get("REMOVE_NOTE")();
+  });
+}
+
+function removeNoteDuringAddNewChallenge(rowId, challengeType, itemType, itemPath) {
+  requirejs(["const"], function(uConst) {
+    uConst.get("REMOVE_NOTE_DURING_ADD_NEW_CHALLENGE")(rowId, challengeType, itemType, itemPath);
   });
 }
 
