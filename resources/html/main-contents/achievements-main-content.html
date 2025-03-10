@@ -13,12 +13,12 @@
 
         <div class="col-12 col-xl-8 d-flex justify-content-center justify-content-lg-start justify-content-xl-end">
             <div class="buttons-line">
-                <button class="load-btn" data-bs-toggle="modal" data-bs-target="#load-file-modal">#lang-load-file|capitalize#</button>
+                <button class="load-btn" data-bs-toggle="modal" data-bs-target="#load-file-modal-toggle">#lang-load-file|capitalize#</button>
             </div>
         </div>
     </div>
 
-    <div class="modal fade" id="load-file-modal" tabindex="-1" aria-labelledby="load-modal-label" aria-hidden="true">
+    <div class="modal fade" id="load-file-modal-toggle" tabindex="-1" aria-labelledby="load-modal-label" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-head">
@@ -33,11 +33,11 @@
                 </div>
                 <div class="row modal-container">
                     <div class="col-12">
-                        <h4>#lang-load-file|capitalize#</h4>
-                        <p>#lang-coming-soon|capitalize# ...</p>
+                        <p>#lang-load-file-info#</p>
                     </div>
                     <div class="col-10 offset-1 d-flex justify-content-center">
-                        <!--<button type="button" class="modal-bt">#lang-load-file|capitalize#</button>-->
+                        <label for="file-input" class="form-control modal-bt">#lang-challenges-load-file|capitalize#</label>
+                        <input id="file-input" data-bs-dismiss="modal" class="form-control" style="display: none;" accept=".mypatrons.json" type="file" onChange="loadFile(this)" />
                     </div>
                 </div>
             </div>
@@ -92,4 +92,6 @@
             </div>
         </div>
     </div>
+
+    <script src="/files/resources/js/achievements.js"></script>
 </div>

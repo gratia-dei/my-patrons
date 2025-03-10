@@ -1,7 +1,29 @@
-requirejs([], function() {
+requirejs(["const", "language", "notification"], function(uConst, uLanguage, uNotification) {
+
+  uConst
+    .set("LOAD_FILE", loadFile)
+  ;
+
+  let fileData = {};
 
   function build() {
+    uLanguage.loadTranslationsFile();
   };
+
+  async function loadFile(input) {
+    try {
+      uNotification.clear();
+
+      const data = input.files[0];
+      const fileContent = await data.text();
+
+      fileData = JSON.parse(fileContent);
+
+      uNotification.success(uLanguage.getTranslation('lang-file-loaded-successfully', true));
+    } catch (e) {
+      uNotification.error(e.message);
+    }
+  }
 
   //const ACHIEVEMENTS_GENERAL_ALL = 'lang-achievements-section-general-number-of-challenges-started';
   //const ACHIEVEMENTS_GENERAL_DONE_COMPLETELY = 'lang-achievements-section-general-done-completely';
@@ -103,3 +125,9 @@ requirejs([], function() {
 
   build();
 });
+
+function loadFile(input) {
+  requirejs(["const"], function(uConst) {
+    uConst.get("LOAD_FILE")(input);
+  });
+}
