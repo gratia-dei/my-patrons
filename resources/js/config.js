@@ -4,6 +4,7 @@ requirejs.config({
 
   paths: {
     const: "js/utils/const",
+    common: "js/utils/common",
     date: "js/utils/date",
     document: "js/utils/document",
     env: "js/utils/env",
@@ -21,6 +22,9 @@ requirejs.config({
   shim: {
     const: {
       deps: ["env"]
+    },
+    common: {
+      deps: ["const", "file"]
     },
     date: {
       deps: ["const"]

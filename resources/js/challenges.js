@@ -1,6 +1,6 @@
 requirejs(
-  ["const", "date", "document", "env", "file", "language", "location", "notification", "sort", "useful", "marked"],
-  function(uConst, uDate, uDocument, uEnv, uFile, uLanguage, uLocation, uNotification, uSort, uUseful, libMarked
+  ["common", "const", "date", "document", "env", "file", "language", "location", "notification", "sort", "useful", "marked"],
+  function(uCommon, uConst, uDate, uDocument, uEnv, uFile, uLanguage, uLocation, uNotification, uSort, uUseful, libMarked
 ) {
 
   uConst
@@ -63,7 +63,6 @@ requirejs(
     .set("NOTES_IDS_SKIPPED_AFTER_PREDEFINED_LIST", 1000)
 
     .set("MISSING_NOTE_ID_SIGN", '!!!')
-    .set("CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
     .set("NOTES_CONFIG_JSON_FILE", '/files/data/notes-types.json')
     .set("PERSONS_DATA_JSON_FILE", '/files/data/generated/persons-data.generated.json')
     .set("BIBLE_CHAPTERS_DATA_JSON_FILE", '/files/data/bible-chapters.json')
@@ -180,19 +179,19 @@ requirejs(
 
     .set("PERSONS_DATA_FIELD_NAMES", 'names')
 
-    .set("DATA_FIELD_CHALLENGES", 'challenges')
-    .set("DATA_FIELD_FILENAME_WITHOUT_EXTENSION", 'filename-without-extension')
-    .set("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION", 'add-datetime-suffix-to-filename-without-extension')
-    .set("DATA_FIELD_OWNER", 'owner')
-    .set("DATA_FIELD_CHECKLIST", 'checklist')
-    .set("DATA_FIELD_NOTES", 'notes')
+    .set("DATA_FIELD_CHALLENGES", uCommon.getConst("DATA_FIELD_CHALLENGES"))
+    .set("DATA_FIELD_FILENAME_WITHOUT_EXTENSION", uCommon.getConst("DATA_FIELD_FILENAME_WITHOUT_EXTENSION"))
+    .set("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION", uCommon.getConst("DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION"))
+    .set("DATA_FIELD_OWNER", uCommon.getConst("DATA_FIELD_OWNER"))
+    .set("DATA_FIELD_CHECKLIST", uCommon.getConst("DATA_FIELD_CHECKLIST"))
+    .set("DATA_FIELD_NOTES", uCommon.getConst("DATA_FIELD_NOTES"))
 
-    .set("CONFIG_FIELD_ADDITION_TYPE", 'addition-type')
-    .set("CONFIG_FIELD_CHECKLIST", 'checklist')
-    .set("CONFIG_FIELD_LONG_TERM_STEP", 'long-term-step')
-    .set("CONFIG_FIELD_NOTES", 'notes')
-    .set("CONFIG_FIELD_SELECTABLE", 'selectable')
-    .set("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", 'to-complete-on-selected-date')
+    .set("CONFIG_FIELD_ADDITION_TYPE", uCommon.getConst("CONFIG_FIELD_ADDITION_TYPE"))
+    .set("CONFIG_FIELD_CHECKLIST", uCommon.getConst("CONFIG_FIELD_CHECKLIST"))
+    .set("CONFIG_FIELD_LONG_TERM_STEP", uCommon.getConst("CONFIG_FIELD_LONG_TERM_STEP"))
+    .set("CONFIG_FIELD_NOTES", uCommon.getConst("CONFIG_FIELD_NOTES"))
+    .set("CONFIG_FIELD_SELECTABLE", uCommon.getConst("CONFIG_FIELD_SELECTABLE"))
+    .set("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", uCommon.getConst("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE"))
 
     .set("PERSON_PREFIX_NEEDED", 'patrons')
     .set("COPY_PERSON_TYPE_TO_NAME_IDS", ['me'])
@@ -270,14 +269,14 @@ requirejs(
       [uConst.get("CHECKLIST_STATUS_DONE")]: {variable: 'lang-checklist-status-done', color: uConst.get("CHECKLIST_STATUS_DONE")}
     })
 
-    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED", false)
-    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING", null)
-    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_DONE", true)
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_ABORTED", uCommon.getConst("CHALLENGE_STATUS_IN_DATA_ABORTED"))
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING", uCommon.getConst("CHALLENGE_STATUS_IN_DATA_WAITING"))
+    .set("CHALLENGE_SUCCESS_STATUS_IN_DATA_DONE", uCommon.getConst("CHALLENGE_STATUS_IN_DATA_DONE"))
 
-    .set("CHALLENGE_SUCCESS_STATUS_TODO", 'todo')
-    .set("CHALLENGE_SUCCESS_STATUS_ABORTED", 'aborted')
-    .set("CHALLENGE_SUCCESS_STATUS_WAITING", 'waiting')
-    .set("CHALLENGE_SUCCESS_STATUS_DONE", 'done')
+    .set("CHALLENGE_SUCCESS_STATUS_TODO", uCommon.getConst("CHALLENGE_STATUS_TODO"))
+    .set("CHALLENGE_SUCCESS_STATUS_ABORTED", uCommon.getConst("CHALLENGE_STATUS_ABORTED"))
+    .set("CHALLENGE_SUCCESS_STATUS_WAITING", uCommon.getConst("CHALLENGE_STATUS_WAITING"))
+    .set("CHALLENGE_SUCCESS_STATUS_DONE", uCommon.getConst("CHALLENGE_STATUS_DONE"))
 
     .set("HTML_TAGS_TO_ESCAPE", {
       '&': '&amp;',
@@ -313,7 +312,7 @@ requirejs(
     }
 
     await uLanguage.loadTranslationsFile();
-    challengesConfig = await uFile.getJsonFromFile(uConst.get("CHALLENGES_CONFIG_JSON_FILE"));
+    challengesConfig = await uCommon.getChallengesConfig();
     notesTypesConfig = await uFile.getJsonFromFile(uConst.get("NOTES_CONFIG_JSON_FILE"));
     personsData = await uFile.getJsonFromFile(uConst.get("PERSONS_DATA_JSON_FILE"));
     immovableDatesPatronsData = await getImmovableDatesPatronsData([uConst.get("DATES_FEASTS_IMMOVABLE_JSON_FILE"), uConst.get("DATES_PATRONS_IMMOVABLE_JSON_FILE")]);

@@ -1,13 +1,24 @@
-requirejs(["const", "date", "document", "file", "language", "notification"], function(uConst, uDate, uDocument, uFile, uLanguage, uNotification) {
+requirejs(
+  ["common", "const", "date", "document", "file", "language", "notification", "useful"],
+  function(uCommon, uConst, uDate, uDocument, uFile, uLanguage, uNotification, uUseful
+) {
 
   uConst
     .set("LOAD_FILE", loadFile)
     .set("REFRESH_ALL_TABS", refreshAllTabs)
+    .set("REFRESH_DATA_TABLE", refreshDataTable)
+
+    .set("PERCENT_SIGN", "%")
+    .set("CONTEXT_PREFIX", " - ")
+    .set("MISSING_VALUE", "!!!")
+    .set("NEWLINE_TAG", "<br />")
 
     .set("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-button-item.html')
     .set("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-content-item.html')
 
+    .set("DATA_TABLE_ELEMENT_ID", "data-table")
     .set("DATE_INPUT_ELEMENT_ID", "date-input")
+    .set("SELECT_ELEMENT_ID_PREFIX", "select-")
     .set("TABS_BUTTONS_ELEMENT_ID", "pills-tab")
     .set("TABS_CONTENTS_ELEMENT_ID", "pills-tab-content")
 
@@ -16,36 +27,184 @@ requirejs(["const", "date", "document", "file", "language", "notification"], fun
         name: "lang-achievements-section-general",
         description: "lang-achievements-section-general-description",
         method: "getTableDataForGeneral",
-        options: {
-          "general-a": "lang-leap-year",
-          "general-b": "lang-about-us"
-        }
+        options: {}
       },
+      //"...": {
+        //name: "lang-achievements-section-...",
+        //description: "lang-achievements-section-...-description",
+        //method: "getTableDataFor...",
+        //options: {
+          //a: "lang-...",
+          //b: "lang-..."
+        //}
+      //},
       "coming-soon": {
-        name: "lang-achievements-section-cmong-soon",
+        name: "lang-achievements-section-coming-soon",
         description: "lang-achievements-section-coming-soon-description",
-        method: "getTableDataForComingSoon",
+        method: "getEmptyTable",
         options: {}
       }
     })
   ;
 
   let fileData = {};
+  let tablesData = {};
+
   const methods = {
-    getTableDataForComingSoon: function (option) {
-      let result = {};
 
-      //...
 
-      return result;
+
+    getEmptyTable: async function (section, option) {
+      return [];
     },
-    getTableDataForGeneral: function (option) {
-      let result = {};
 
-      //...
+
+
+    getTableDataForGeneral: async function (section, option) {
+      const challengesConfig = await uCommon.getChallengesConfig();
+
+      const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+      const lastYearDateStr = uDate.getLastYearDate(selectedDateStr);
+
+      const selectedDate = uDate.getDateParse(selectedDateStr);
+      const lastYearDate = uDate.getDateParse(lastYearDateStr);
+
+      const allSign = '_';
+      const prefix = uConst.get("CONTEXT_PREFIX");
+      const names = {
+        [allSign]: uLanguage.getTranslation("lang-achievements-section-general-number-of-challenges-started", true),
+        [uCommon.getConst("CHALLENGE_STATUS_DONE")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-done-completely"),
+        [uCommon.getConst("CHALLENGE_STATUS_DONE_WITHOUT_ANY_OPTIONAL_STEPS")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-done-without-some-optional-steps"),
+        [uCommon.getConst("CHALLENGE_STATUS_WAITING_WITH_ONLY_LONG_TERM_STEPS_REMAINING")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-long-term-waiting-to-be-completed"),
+        [uCommon.getConst("CHALLENGE_STATUS_WAITING")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-waiting-to-be-completed"),
+        [uCommon.getConst("CHALLENGE_STATUS_ABORTED")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-aborted"),
+        [uCommon.getConst("CHALLENGE_STATUS_TODO")]: prefix + uLanguage.getTranslation("lang-achievements-section-general-with-todo-status"),
+      };
+
+      let statusCounts = {};
+      let statusCountsForLastYear = {};
+      let minIds = {};
+      let rowId = 0;
+      for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+        rowId++;
+
+        const challengeDateStr = uCommon.getChallengeDate(challenge);
+        const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+
+        const challengeDate = uDate.getDateParse(challengeDateStr);
+        if (challengeDate > selectedDate) {
+          break;
+        }
+
+        statusCounts[allSign] = (statusCounts[allSign] ?? 0) + 1;
+        statusCounts[challengeStatus] = (statusCounts[challengeStatus] ?? 0) + 1;
+        if (!minIds[challengeStatus]) {
+          minIds[challengeStatus] = rowId;
+        }
+
+        if (challengeDate >= lastYearDate) {
+          statusCountsForLastYear[allSign] = (statusCountsForLastYear[allSign] ?? 0) + 1;
+          statusCountsForLastYear[challengeStatus] = (statusCountsForLastYear[challengeStatus] ?? 0) + 1;
+        }
+      }
+
+      const nameColumnWidth = "400px";
+      const iconColumnWidth = "60px";
+      const idColumnWidth = "60px";
+
+      let result = [];
+      const row = {
+        name: {
+          style: {
+            width: nameColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-status-name", true)
+        },
+        icon: {
+          style: {
+            width: iconColumnWidth
+          },
+          content: ""
+        },
+        id: {
+          style: {
+            width: idColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-id", true)
+        },
+        count: uLanguage.getTranslation("lang-achievements-table-header-count", true),
+        percent: uLanguage.getTranslation("lang-achievements-table-header-percent", true),
+        lastYearCount: uLanguage.getTranslation("lang-achievements-table-header-count", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
+        lastYearPercent: uLanguage.getTranslation("lang-achievements-table-header-percent", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true)
+      }
+      result.push(row);
+
+      for (const statusId of Object.keys(names)) {
+        const name = names[statusId] ?? '';
+        const minId = minIds[statusId] ?? 1;
+        const count = statusCounts[statusId] ?? 0;
+        const percent = getCountPercentValue(count, statusCounts[allSign] ?? 0) + uConst.get("PERCENT_SIGN");
+        const lastYearCount = statusCountsForLastYear[statusId] ?? 0;
+        const lastYearPercent = getCountPercentValue(lastYearCount, statusCountsForLastYear[allSign] ?? 0) + uConst.get("PERCENT_SIGN");
+
+        if (count === 0) {
+          continue;
+        }
+
+        const row = {
+          name: {
+            style: {
+              "width": nameColumnWidth
+            },
+            content: name
+          },
+          icon: {
+            style: {
+              "width": iconColumnWidth,
+              "text-align": "center"
+            },
+            content: '<div class="challenge-success-status-icon challenge-success-status-icon-' + statusId + '"></div>'
+          },
+          id: {
+            style: {
+              "width": idColumnWidth,
+              "text-align": "center"
+            },
+            content: '#' + minId
+          },
+          count: {
+            style: {
+              "text-align": "center"
+            },
+            content: count
+          },
+          percent: {
+            style: {
+              "text-align": "center"
+            },
+            content: percent
+          },
+          lastYearCount: {
+            style: {
+              "text-align": "center"
+            },
+            content: lastYearCount
+          },
+          lastYearPercent: {
+            style: {
+              "text-align": "center"
+            },
+            content: lastYearPercent
+          }
+        }
+        result.push(row);
+      }
 
       return result;
     }
+
+
+
   };
 
   async function build() {
@@ -79,8 +238,11 @@ requirejs(["const", "date", "document", "file", "language", "notification"], fun
     const tabsButtonsItem = await uFile.getFileContent(uConst.get("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH"));
     const tabsContentsItem = await uFile.getFileContent(uConst.get("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH"));
 
+    const dataTable = uDocument.getElementById(uConst.get("DATA_TABLE_ELEMENT_ID"));
+
     tabsButtons.innerHTML = '';
     tabsContents.innerHTML = '';
+    dataTable.innerHTML = '';
 
     let date = dateInput.value;
     if (!uDate.isValid(date)) {
@@ -88,136 +250,111 @@ requirejs(["const", "date", "document", "file", "language", "notification"], fun
       dateInput.value = date;
     }
 
-    let tablesData = {};
+    tablesData = {};
 
     const config = uConst.get("DATA_TABS_CONFIG");
-    for (const section in config) {
-      const name = config[section].name ?? '';
-      const description = config[section].description ?? '';
-      const method = config[section].method ?? '';
-      const options = config[section].options ?? {};
+    for (const sectionId in config) {
+      const name = config[sectionId].name ?? '';
+      const description = config[sectionId].description ?? '';
+      const method = config[sectionId].method ?? '';
+      const options = config[sectionId].options ?? {};
 
-      if (Object.keys(options).length > 0) {
-        for (const option in options) {
-          tablesData[option] = methods[method](option);
+      const optionsCount = Object.keys(options).length;
+
+      let tabButton = tabsButtonsItem;
+      tabsButtons.innerHTML += tabButton
+        .replace(/#section-id#/g, sectionId)
+        .replace(/#section-name#/g, uLanguage.getTranslation(name))
+      ;
+
+      let tabContent = tabsContentsItem;
+      tabsContents.innerHTML += tabContent
+        .replace(/#section-id#/g, sectionId)
+        .replace(/#section-name#/g, uLanguage.getTranslation(name))
+        .replace(/#section-description#/g, uLanguage.getTranslation(description))
+      ;
+
+      let select = uDocument.getElementById(uConst.get("SELECT_ELEMENT_ID_PREFIX") + sectionId);
+      uUseful.setVisibility(select, optionsCount > 0);
+
+      tablesData[sectionId] = {};
+      if (optionsCount > 0) {
+        for (const optionId in options) {
+          const optionName = uLanguage.getTranslation(options[optionId]);
+
+          tablesData[sectionId][optionId] = await methods[method](sectionId, optionId);
+
+          uDocument.addOptionToSelect(select, optionId, optionName);
         }
       } else {
-        tablesData[section] = methods[method](section);
+        tablesData[sectionId][sectionId] = await methods[method](sectionId, sectionId);
       }
     }
   }
 
+  function refreshDataTable(sectionId) {
+    uNotification.clear();
 
-  //const ACHIEVEMENTS_GENERAL_ALL = 'lang-achievements-section-general-number-of-challenges-started';
-  //const ACHIEVEMENTS_GENERAL_DONE_COMPLETELY = 'lang-achievements-section-general-done-completely';
-  //const ACHIEVEMENTS_GENERAL_DONE = 'lang-achievements-section-general-done-without-some-optional-steps';
-  //const ACHIEVEMENTS_GENERAL_WAITING = 'lang-achievements-section-general-waiting-to-be-completed';
-  //const ACHIEVEMENTS_GENERAL_ABORTED = 'lang-achievements-section-general-aborted';
-  //const ACHIEVEMENTS_GENERAL_TODO = 'lang-achievements-section-general-with-todo-status';
+    const dataTable = uDocument.getElementById(uConst.get("DATA_TABLE_ELEMENT_ID"));
+    const select = uDocument.getElementById(uConst.get("SELECT_ELEMENT_ID_PREFIX") + sectionId);
 
-  //const ACHIEVEMENTS_GENERAL_TABLE_ELEMENT_ID = 'achievements-general-table';
+    const optionId = select.value === '' ? sectionId : select.value;
+    const data = (tablesData[sectionId] ?? {})[optionId] ?? [];
 
-  //function resetAchievements(fileData) {
-    //const data = {};
+    fillDataTableContent(dataTable, data);
+  }
 
-    //let rowId = 0;
-    //for (const challenge of fileData[DATA_FIELD_CHALLENGES] ?? []) {
-      //rowId++;
+  function getCountPercentValue(count, totalCount) {
+    const result = Math.floor(100 * count / Math.max(1, totalCount) * 100) / 100;
+    if (result === 0 && count > 0) {
+      return 0.01;
+    }
 
-      //const successStatus = getChallengeSuccessStatus(rowId);
-      //const checklistSteps = challenge[DATA_FIELD_CHECKLIST] ?? {};
+    return result;
+  }
 
-      ////general
-      //data[ACHIEVEMENTS_GENERAL_ALL] = (data[ACHIEVEMENTS_GENERAL_ALL] ?? 0) + 1;
-      //switch (successStatus) {
-        //case CHALLENGE_SUCCESS_STATUS_DONE:
-          //let index = ACHIEVEMENTS_GENERAL_DONE_COMPLETELY;
-          //for (const statusInData of Object.values(checklistSteps)) {
-            //if (statusInData === CHALLENGE_SUCCESS_STATUS_IN_DATA_WAITING) {
-              //index = ACHIEVEMENTS_GENERAL_DONE;
-              //break;
-            //}
-          //}
-          //data[index] = (data[index] ?? 0) + 1;
-          //break;
+  function fillDataTableContent(tableElement, data) {
+    tableElement.innerHTML = '';
 
-        //case CHALLENGE_SUCCESS_STATUS_WAITING:
-          //data[ACHIEVEMENTS_GENERAL_WAITING] = (data[ACHIEVEMENTS_GENERAL_WAITING] ?? 0) + 1;
-          //break;
+    if (data.length === 0) {
+      return;
+    }
 
-        //case CHALLENGE_SUCCESS_STATUS_ABORTED:
-          //data[ACHIEVEMENTS_GENERAL_ABORTED] = (data[ACHIEVEMENTS_GENERAL_ABORTED] ?? 0) + 1;
-          //break;
+    const totalRows = data.length;
 
-        //case CHALLENGE_SUCCESS_STATUS_TODO:
-          //data[ACHIEVEMENTS_GENERAL_TODO] = (data[ACHIEVEMENTS_GENERAL_TODO] ?? 0) + 1;
-          //break;
-      //}
-    //}
+    let type = '';
+    let rowNumber = 0;
+    for (const row of data) {
+      if (rowNumber <= 1) {
+        type = uDocument.createElement(rowNumber === 0 ? 'thead' : 'tbody');
+      }
 
-    ////general
-    //const labels = {
-      //[ACHIEVEMENTS_GENERAL_ALL]: true,
-      //[ACHIEVEMENTS_GENERAL_DONE_COMPLETELY]: false,
-      //[ACHIEVEMENTS_GENERAL_DONE]: false,
-      //[ACHIEVEMENTS_GENERAL_WAITING]: false,
-      //[ACHIEVEMENTS_GENERAL_ABORTED]: false,
-      //[ACHIEVEMENTS_GENERAL_TODO]: false
-    //};
-    //const showCountZeroRows = false;
-    //createAchievementCounterTable(data, ACHIEVEMENTS_GENERAL_TABLE_ELEMENT_ID, labels, data[ACHIEVEMENTS_GENERAL_ALL] ?? 0, showCountZeroRows);
-  //}
+      const tr = uDocument.createElement('tr');
 
-  //function createAchievementCounterTable(data, tableElementId, labels, houndredPercentCount = 0, showCountZeroRows = true) {
-    //const tableElement = document.getElementById(tableElementId);
-    //tableElement.innerHTML = '';
+      for (const columnName of Object.keys(row)) {
+        const td = uDocument.createElement(rowNumber === 0 ? 'th' : 'td');
 
-    //let isFirstRow = true;
-    //for (const label of Object.keys(labels)) {
-      //const isUpperCase = labels[label] ?? false;
-      //const count = data[label] ?? 0;
-      //if (!showCountZeroRows && count === 0) {
-        //continue;
-      //}
+        let contentObj = row[columnName] ?? '';
+        if (contentObj.style !== undefined) {
+          td.innerHTML = contentObj.content ?? uConst.get("MISSING_VALUE");
+          for (const field of Object.keys(contentObj.style)) {
+            td.style[field] = contentObj.style[field] ?? uConst.get("MISSING_VALUE");
+          }
+        } else {
+          td.innerHTML = contentObj;
+        }
 
-      //const row = document.createElement('tr');
+        tr.append(td);
+      }
 
-      //const nameCell = document.createElement('td');
-      //const name = uLanguage.getTranslation(label, isUpperCase);
-      //nameCell.innerHTML = (isFirstRow ? '' : '- ') + name;
-      //row.append(nameCell);
+      type.append(tr);
 
-      //const countCell = document.createElement('td');
-      //countCell.style.textAlign = 'center';
-      //countCell.innerHTML = count;
-      //row.append(countCell);
-
-      //if (houndredPercentCount > 0) {
-        //const percentCell = document.createElement('td');
-        //const percent = Math.floor(100 * count/houndredPercentCount * 100) / 100;
-        //percentCell.style.textAlign = 'center';
-        //percentCell.innerHTML = '' + percent + '%';
-        //row.append(percentCell);
-      //}
-
-      //tableElement.append(row);
-
-      //isFirstRow = false;
-    //}
-  //}
-  //
-  //
-  //format html w tagu tab-data-table
-                            //<thead>
-                                //<tr>
-                                    //<th>...</th>
-                                //</tr>
-                            //</thead>
-                            //<tbody>
-                                //<tr>
-                                    //<td>...</td>
-                                //</tr>
-                            //</tbody>
+      if (rowNumber === 0 || rowNumber === totalRows - 1) {
+        tableElement.append(type);
+      }
+      rowNumber++;
+    }
+  }
 
   build();
 });
@@ -231,5 +368,11 @@ function loadFile(input) {
 function refreshAllTabs() {
   requirejs(["const"], function(uConst) {
     uConst.get("REFRESH_ALL_TABS")();
+  });
+}
+
+function refreshDataTable(sectionId) {
+  requirejs(["const"], function(uConst) {
+    uConst.get("REFRESH_DATA_TABLE")(sectionId);
   });
 }

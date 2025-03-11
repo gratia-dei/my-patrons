@@ -29,14 +29,44 @@
         "pl": "Wdzięczni Bogu za <strong>dar Jego łaski</strong>, pragniemy być użytecznymi „narzędziami” w Jego rękach. Chcemy poświęcić choć trochę czasu, sił i talentów, jakie Bóg nam ofiarował, aby szerzyć Jego Królestwo na ziemi - pokazywać piękno Jego Kościoła oraz niezawodną drogę Jego Miłości, która jest w stanie dać każdemu niewyobrażalne szczęście już teraz!"
     },
 
+    "lang-achievements-table-header-count": {
+        "en": "count",
+        "pl": "liczba"
+    },
+
+    "lang-achievements-table-header-icon": {
+        "en": "icon",
+        "pl": "symbol"
+    },
+
+    "lang-achievements-table-header-id": {
+        "en": "ID",
+        "pl": "ID"
+    },
+
+    "lang-achievements-table-header-last-year-suffix": {
+        "en": "(last year)",
+        "pl": "(ostatni rok)"
+    },
+
+    "lang-achievements-table-header-percent": {
+        "en": "percent",
+        "pl": "procent"
+    },
+
+    "lang-achievements-table-header-status-name": {
+        "en": "status name",
+        "pl": "nazwa statusu"
+    },
+
     "lang-achievements-section-coming-soon": {
-        "en": "More coming soon ...",
-        "pl": "Więcej już wkrótce ..."
+        "en": "More ...",
+        "pl": "Więcej ..."
     },
 
     "lang-achievements-section-coming-soon-description": {
-        "en": "...",
-        "pl": "..."
+        "en": "More achievements coming soon!",
+        "pl": "Więcej osiągnięć już wkrótce!"
     },
 
     "lang-achievements-section-general": {
@@ -45,8 +75,8 @@
     },
 
     "lang-achievements-section-general-description": {
-        "en": "General statistics",
-        "pl": "Statystyki ogólne"
+        "en": "General challenges statistics:",
+        "pl": "Statystyki ogólne wyzwań:"
     },
 
     "lang-achievements-section-general-aborted": {
@@ -77,6 +107,11 @@
     "lang-achievements-section-general-waiting-to-be-completed": {
         "en": "waiting to be completed",
         "pl": "oczekujące na dokończenie"
+    },
+
+    "lang-achievements-section-general-long-term-waiting-to-be-completed": {
+        "en": "long-term waiting to be completed in long-term",
+        "pl": "długoterminowe oczekujące na dokończenie"
     },
 
     "lang-action-button-checklist-info": {

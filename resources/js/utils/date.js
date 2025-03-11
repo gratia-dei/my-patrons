@@ -36,6 +36,12 @@ define(["const"], function(uConst) {
 
 
 
+  function getDateParse(dateStr) {
+    return Date.parse(dateStr);
+  }
+
+
+
   function getYear(dateStr) {
     return dateStr.toString().replace(/[^0-9].+$/, "");
   }
@@ -88,6 +94,17 @@ define(["const"], function(uConst) {
 
 
 
+  function getLastYearDate(dateStr) {
+    const year = getIntYear(dateStr) - 1;
+    const month = getMonth(dateStr);
+    let day = getDay(dateStr);
+
+    if (month === '02' && day === '29') {
+      day = '28';
+    }
+
+    return getDateMovedByDays(year + "-" + month + "-" + day, 1);
+  }
 
   function getDateMovedByDays(dateStr, daysToAdd) {
     const yearMonthDay = getValidYearMonthDayArray(dateStr);
@@ -210,6 +227,8 @@ define(["const"], function(uConst) {
     getToday,
     getUtcDatetime,
 
+    getDateParse,
+
     getDay,
     getMonth,
     getYear,
@@ -223,6 +242,7 @@ define(["const"], function(uConst) {
     isValid,
     isYearLeap,
 
+    getLastYearDate,
     getDateMovedByDays,
     getDatesDiffInDays,
 
