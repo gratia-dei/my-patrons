@@ -34,6 +34,7 @@
 
     --color-status-aborted: var(--color-step-aborted);
     --color-status-waiting: var(--color4);
+    --color-status-waiting-with-only-long-term-steps-remaining: var(--color2);
     --color-status-done: var(--color-step-done);
     --color-status-done-without-any-optional-steps: var(--color2);
     --color-status-todo: var(--color-step-optional-waiting);
@@ -1608,6 +1609,10 @@ p.tab-p {
 }
 .challenge-success-status-icon-waiting {
   background-color: var(--color-status-waiting);
+  background-image: url(/files/resources/svg/pause-circle-fill.svg);
+}
+.challenge-success-status-icon-waiting-with-only-long-term-steps-remaining {
+  background-color: var(--color-status-waiting-with-only-long-term-steps-remaining);
   background-image: url(/files/resources/svg/pause-circle-fill.svg);
 }
 .challenge-success-status-icon-done {

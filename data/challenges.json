@@ -869,6 +869,7 @@
       "all-in-a-row": {
         "to-complete-on-selected-date": false,
         "required": true,
+        "long-term-step": true,
         "name": {
           "pl": "odpraw IX Nabożeństw Pierwszych Piątków Miesiąca z rzędu"
         },
@@ -968,6 +969,7 @@
       "all-in-a-row": {
         "to-complete-on-selected-date": false,
         "required": true,
+        "long-term-step": true,
         "name": {
           "pl": "weź udział we wszystkich 3 częściach Nabożeństwa Gorzkich Żalów w odpowiedniej kolejności w jednym roku"
         },
@@ -1101,6 +1103,7 @@
       "all-in-a-row": {
         "to-complete-on-selected-date": false,
         "required": true,
+        "long-term-step": true,
         "name": {
           "pl": "zdobądź 8 odpustów listopadowych z rzędu"
         },
@@ -1379,6 +1382,7 @@
       "all-in-a-row": {
         "to-complete-on-selected-date": false,
         "required": true,
+        "long-term-step": true,
         "name": {
           "pl": "weź udział we wszystkich 3 Liturgiach Triduum Paschalnego w jednym roku"
         },
@@ -1492,6 +1496,7 @@
       "all-in-a-row": {
         "to-complete-on-selected-date": false,
         "required": true,
+        "long-term-step": true,
         "name": {
           "pl": "weź udział we wszystkich 7 Nabożeństwach Drogi Krzyżowej w jednym roku"
         },

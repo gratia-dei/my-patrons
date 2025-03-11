@@ -438,6 +438,11 @@
         "pl": "<strong>wyzwanie oczekujące</strong> na wykonanie wymaganych kroków"
     },
 
+    "lang-challenge-status-waiting-with-only-long-term-steps-remaining-info": {
+        "en": "<strong>challenge waiting</strong> for required only <strong>long-term</strong> steps to be completed",
+        "pl": "<strong>wyzwanie oczekujące</strong> na wykonanie tylko pozostałych wymaganych kroków <strong>długoterminowych</strong>"
+    },
+
     "lang-challenges-form-info": {
         "pl": "Edytor wyzwań znajduje się w fazie testów i jest dostępny tylko w języku polskim!"
     },

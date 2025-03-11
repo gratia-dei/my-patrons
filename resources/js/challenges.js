@@ -157,6 +157,7 @@ requirejs(
     .set("CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-todo-')
     .set("CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-aborted-')
     .set("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-waiting-')
+    .set("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_WITH_ONLY_LONG_TERM_STEPS_REMAINING_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-waiting-with-only-long-term-steps-remaining-')
     .set("CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-done-')
     .set("CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX", 'challenge-success-status-icon-done-without-any-optional-steps-')
     .set("RANDOM_BIBLE_CHAPTERS_BUTTON_ELEMENT_ID", 'random-bible-chapter')
@@ -188,6 +189,7 @@ requirejs(
 
     .set("CONFIG_FIELD_ADDITION_TYPE", 'addition-type')
     .set("CONFIG_FIELD_CHECKLIST", 'checklist')
+    .set("CONFIG_FIELD_LONG_TERM_STEP", 'long-term-step')
     .set("CONFIG_FIELD_NOTES", 'notes')
     .set("CONFIG_FIELD_SELECTABLE", 'selectable')
     .set("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", 'to-complete-on-selected-date')
@@ -1288,12 +1290,14 @@ requirejs(
       const successStatusIconTodo = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_TODO_ELEMENT_ID_PREFIX") + rowData.rowId);
       const successStatusIconAborted = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_ABORTED_ELEMENT_ID_PREFIX") + rowData.rowId);
       const successStatusIconWaiting = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_ELEMENT_ID_PREFIX") + rowData.rowId);
+      const successStatusIconWaitingWithOnlyLongTermStepsRemaining = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_WAITING_WITH_ONLY_LONG_TERM_STEPS_REMAINING_ELEMENT_ID_PREFIX") + rowData.rowId);
       const successStatusIconDone = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_DONE_ELEMENT_ID_PREFIX") + rowData.rowId);
       const successStatusIconDoneWithoutAnyOptionalSteps = uDocument.getElementById(uConst.get("CHALLENGE_SUCCESS_STATUS_ICON_DONE_WITHOUT_ANY_OPTIONAL_STEPS_ELEMENT_ID_PREFIX") + rowData.rowId);
 
       uUseful.setVisibility(successStatusIconTodo, false);
       uUseful.setVisibility(successStatusIconAborted, false);
       uUseful.setVisibility(successStatusIconWaiting, false);
+      uUseful.setVisibility(successStatusIconWaitingWithOnlyLongTermStepsRemaining, false);
       uUseful.setVisibility(successStatusIconDone, false);
       uUseful.setVisibility(successStatusIconDoneWithoutAnyOptionalSteps, false);
 
@@ -1318,7 +1322,26 @@ requirejs(
           break;
 
         case uConst.get("CHALLENGE_SUCCESS_STATUS_WAITING"):
-          uUseful.setVisibility(successStatusIconWaiting, true);
+          let foundOnlyLongTermStepRemaining = null;
+          for (let stepId of Object.keys(rowData.steps)) {
+            const stepStatus = rowData.steps[stepId];
+            if (foundOnlyLongTermStepRemaining !== false && stepStatus === null) {
+              const stepConfig = ((challengesConfig[rowData.type] ?? {})[uConst.get("CONFIG_FIELD_CHECKLIST")] ?? {})[stepId] ?? {};
+              const isRequired = stepConfig.required ?? false;
+              const isLongTermStep = stepConfig[uConst.get("CONFIG_FIELD_LONG_TERM_STEP")] ?? false;
+              if (isLongTermStep) {
+                foundOnlyLongTermStepRemaining = true;
+              } else if (isRequired) {
+                foundOnlyLongTermStepRemaining = false;
+              }
+            }
+          }
+
+          if (foundOnlyLongTermStepRemaining === true) {
+            uUseful.setVisibility(successStatusIconWaitingWithOnlyLongTermStepsRemaining, true);
+          } else {
+            uUseful.setVisibility(successStatusIconWaiting, true);
+          }
           break;
 
         case uConst.get("CHALLENGE_SUCCESS_STATUS_TODO"):
