@@ -29,9 +29,24 @@
         "pl": "Wdzięczni Bogu za <strong>dar Jego łaski</strong>, pragniemy być użytecznymi „narzędziami” w Jego rękach. Chcemy poświęcić choć trochę czasu, sił i talentów, jakie Bóg nam ofiarował, aby szerzyć Jego Królestwo na ziemi - pokazywać piękno Jego Kościoła oraz niezawodną drogę Jego Miłości, która jest w stanie dać każdemu niewyobrażalne szczęście już teraz!"
     },
 
+    "lang-achievements-section-coming-soon": {
+        "en": "More coming soon ...",
+        "pl": "Więcej już wkrótce ..."
+    },
+
+    "lang-achievements-section-coming-soon-description": {
+        "en": "...",
+        "pl": "..."
+    },
+
     "lang-achievements-section-general": {
-        "en": "general",
-        "pl": "ogólne"
+        "en": "General",
+        "pl": "Ogólne"
+    },
+
+    "lang-achievements-section-general-description": {
+        "en": "General statistics",
+        "pl": "Statystyki ogólne"
     },
 
     "lang-achievements-section-general-aborted": {
@@ -1382,7 +1397,7 @@
     },
 
     "lang-my-achievements-info": {
-        "pl": "Tutaj sprawdzisz swoje osiągnięcia."
+        "pl": "Tutaj sprawdzisz swoje <strong><em>osiągnięcia</em></strong>. Wszelkie dane osobowe są przetwarzane jedynie w przeglądarce po stronie Użytkownika, a serwis https://mypatrons.org nie ma do nich dostępu."
     },
 
     "lang-my-challenges": {

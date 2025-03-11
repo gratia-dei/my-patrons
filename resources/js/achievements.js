@@ -1,20 +1,58 @@
-requirejs(["const", "date", "document", "language", "notification"], function(uConst, uDate, uDocument, uLanguage, uNotification) {
+requirejs(["const", "date", "document", "file", "language", "notification"], function(uConst, uDate, uDocument, uFile, uLanguage, uNotification) {
 
   uConst
     .set("LOAD_FILE", loadFile)
     .set("REFRESH_ALL_TABS", refreshAllTabs)
 
+    .set("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-button-item.html')
+    .set("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-content-item.html')
+
     .set("DATE_INPUT_ELEMENT_ID", "date-input")
+    .set("TABS_BUTTONS_ELEMENT_ID", "pills-tab")
+    .set("TABS_CONTENTS_ELEMENT_ID", "pills-tab-content")
+
+    .set("DATA_TABS_CONFIG", {
+      "general": {
+        name: "lang-achievements-section-general",
+        description: "lang-achievements-section-general-description",
+        method: "getTableDataForGeneral",
+        options: {
+          "general-a": "lang-leap-year",
+          "general-b": "lang-about-us"
+        }
+      },
+      "coming-soon": {
+        name: "lang-achievements-section-cmong-soon",
+        description: "lang-achievements-section-coming-soon-description",
+        method: "getTableDataForComingSoon",
+        options: {}
+      }
+    })
   ;
 
   let fileData = {};
+  const methods = {
+    getTableDataForComingSoon: function (option) {
+      let result = {};
+
+      //...
+
+      return result;
+    },
+    getTableDataForGeneral: function (option) {
+      let result = {};
+
+      //...
+
+      return result;
+    }
+  };
 
   async function build() {
     uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value = uDate.getToday();
 
     await uLanguage.loadTranslationsFile();
-
-    refreshAllTabs();
+    await refreshAllTabs();
   };
 
   async function loadFile(input) {
@@ -25,7 +63,7 @@ requirejs(["const", "date", "document", "language", "notification"], function(uC
       const fileContent = await data.text();
 
       fileData = JSON.parse(fileContent);
-      refreshAllTabs();
+      await refreshAllTabs();
 
       uNotification.success(uLanguage.getTranslation('lang-file-loaded-successfully', true));
     } catch (e) {
@@ -33,15 +71,42 @@ requirejs(["const", "date", "document", "language", "notification"], function(uC
     }
   }
 
-  function refreshAllTabs() {
+  async function refreshAllTabs() {
     const dateInput = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID"));
-    let date = dateInput.value;
+    const tabsButtons = uDocument.getElementById(uConst.get("TABS_BUTTONS_ELEMENT_ID"));
+    const tabsContents = uDocument.getElementById(uConst.get("TABS_CONTENTS_ELEMENT_ID"));
 
+    const tabsButtonsItem = await uFile.getFileContent(uConst.get("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH"));
+    const tabsContentsItem = await uFile.getFileContent(uConst.get("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH"));
+
+    tabsButtons.innerHTML = '';
+    tabsContents.innerHTML = '';
+
+    let date = dateInput.value;
     if (!uDate.isValid(date)) {
       date = uDate.getToday();
       dateInput.value = date;
     }
+
+    let tablesData = {};
+
+    const config = uConst.get("DATA_TABS_CONFIG");
+    for (const section in config) {
+      const name = config[section].name ?? '';
+      const description = config[section].description ?? '';
+      const method = config[section].method ?? '';
+      const options = config[section].options ?? {};
+
+      if (Object.keys(options).length > 0) {
+        for (const option in options) {
+          tablesData[option] = methods[method](option);
+        }
+      } else {
+        tablesData[section] = methods[method](section);
+      }
+    }
   }
+
 
   //const ACHIEVEMENTS_GENERAL_ALL = 'lang-achievements-section-general-number-of-challenges-started';
   //const ACHIEVEMENTS_GENERAL_DONE_COMPLETELY = 'lang-achievements-section-general-done-completely';
@@ -140,6 +205,19 @@ requirejs(["const", "date", "document", "language", "notification"], function(uC
       //isFirstRow = false;
     //}
   //}
+  //
+  //
+  //format html w tagu tab-data-table
+                            //<thead>
+                                //<tr>
+                                    //<th>...</th>
+                                //</tr>
+                            //</thead>
+                            //<tbody>
+                                //<tr>
+                                    //<td>...</td>
+                                //</tr>
+                            //</tbody>
 
   build();
 });
