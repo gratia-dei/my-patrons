@@ -1389,7 +1389,7 @@ requirejs(
     }
 
     fileData[uConst.get("DATA_FIELD_CHALLENGES")].sort(function(a, b) {
-      return Date.parse(a.date) - Date.parse(b.date);
+      return uDate.getDateParse(a.date) - uDate.getDateParse(b.date);
     });
   }
 
@@ -1461,7 +1461,7 @@ requirejs(
   }
 
   function checkExistingChallengeTypesBeforeDate(challengeType, requirements, challenges, checkDateString, numberOfDaysBeforeCheckDate = null) {
-    const checkDate = Date.parse(checkDateString);
+    const checkDate = uDate.getDateParse(checkDateString);
 
     let types = getTypesArrayWithDuplications(requirements);
     if (types.length > 0) {
@@ -1477,7 +1477,7 @@ requirejs(
         const type = ch.type;
         const date = ch.date;
 
-        if (Date.parse(date) > checkDate) {
+        if (uDate.getDateParse(date) > checkDate) {
           continue;
         }
 
@@ -1519,7 +1519,7 @@ requirejs(
   }
 
   function checkNotExistingChallengeTypes(requirements, challenges, checkDateString) {
-    const checkDate = Date.parse(checkDateString);
+    const checkDate = uDate.getDateParse(checkDateString);
 
     let types = reqTypesWithDuplications = getTypesArrayWithDuplications(requirements);
     if (types.length > 0) {
@@ -1535,7 +1535,7 @@ requirejs(
         if (isChallengeStatusToSkip(challengeStatus)) {
           continue;
         }
-        if (checkDate && Date.parse(ch.date) > checkDate) {
+        if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
           continue;
         }
 
@@ -1555,7 +1555,7 @@ requirejs(
   }
 
   function checkNotExistingChallengeTypesOnTheSameDay(requirements, challenges, checkDateString) {
-    const checkDate = Date.parse(checkDateString);
+    const checkDate = uDate.getDateParse(checkDateString);
 
     let types = requirements;
     if (types.length > 0) {
@@ -1570,7 +1570,7 @@ requirejs(
         const type = ch.type;
         const date = ch.date;
 
-        if (Date.parse(date) != checkDate) {
+        if (uDate.getDateParse(date) != checkDate) {
           continue;
         }
 
@@ -1809,7 +1809,7 @@ requirejs(
     let result = 0;
     let rowId = 0;
 
-    const checkDate = null ? null : Date.parse(checkDateString);
+    const checkDate = null ? null : uDate.getDateParse(checkDateString);
 
     const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
@@ -1822,7 +1822,7 @@ requirejs(
       if (ch.type !== challengeType) {
         continue;
       }
-      if (checkDate && Date.parse(ch.date) > checkDate) {
+      if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
         continue;
       }
 
@@ -1837,7 +1837,7 @@ requirejs(
     let withAnyType = {};
     let rowId = 0;
 
-    const checkDate = null ? null : Date.parse(checkDateString);
+    const checkDate = null ? null : uDate.getDateParse(checkDateString);
 
     const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
@@ -1846,7 +1846,7 @@ requirejs(
       if (isChallengeStatusToSkip(challengeStatus)) {
         continue;
       }
-      if (checkDate && Date.parse(ch.date) > checkDate) {
+      if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
         continue;
       }
 
@@ -1872,7 +1872,7 @@ requirejs(
     let withAnyType = {};
     let rowId = 0;
 
-    const checkDate = null ? null : Date.parse(checkDateString);
+    const checkDate = null ? null : uDate.getDateParse(checkDateString);
 
     const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
@@ -1881,7 +1881,7 @@ requirejs(
       if (isChallengeStatusToSkip(challengeStatus)) {
         continue;
       }
-      if (checkDate && Date.parse(ch.date) > checkDate) {
+      if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
         continue;
       }
 
@@ -1915,7 +1915,7 @@ requirejs(
     const isImmovableDatesChallengeType = uUseful.inArray(uConst.get("IMMOVABLE_DATES_PATRONS_LIST_CHARACTER"), types);
     let immovableTakenDates = {};
 
-    const checkDate = null ? null : Date.parse(checkDateString);
+    const checkDate = null ? null : uDate.getDateParse(checkDateString);
 
     const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
@@ -1924,7 +1924,7 @@ requirejs(
       if (isChallengeStatusToSkip(challengeStatus)) {
         continue;
       }
-      if (checkDate && Date.parse(ch.date) > checkDate) {
+      if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
         continue;
       }
 
@@ -1964,7 +1964,7 @@ requirejs(
     let result = {};
     let rowId = 0;
 
-    const checkDate = null ? null : Date.parse(checkDateString);
+    const checkDate = null ? null : uDate.getDateParse(checkDateString);
 
     const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
     for (let ch of challenges) {
@@ -1973,7 +1973,7 @@ requirejs(
       if (isChallengeStatusToSkip(challengeStatus)) {
         continue;
       }
-      if (checkDate && Date.parse(ch.date) > checkDate) {
+      if (checkDate && uDate.getDateParse(ch.date) > checkDate) {
         continue;
       }
 
@@ -2054,8 +2054,8 @@ requirejs(
     challengeTypeSelect.value = '';
 
     if (challengeDate.match(/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/)
-      && Date.parse(challengeDate) >= Date.parse(uConst.get("MIN_CHALLENGE_DATE_ALLOWED"))
-      && Date.parse(challengeDate) <= Date.parse(uDate.getToday())
+      && uDate.getDateParse(challengeDate) >= uDate.getDateParse(uConst.get("MIN_CHALLENGE_DATE_ALLOWED"))
+      && uDate.getDateParse(challengeDate) <= uDate.getDateParse(uDate.getToday())
     ) {
       uUseful.setVisibility(challengeTypeDiv, true);
       uDocument.addOptionToSelect(challengeTypeSelect, '', uConst.get("SELECT_NAME"));
@@ -2591,10 +2591,10 @@ requirejs(
     await reloadChallengesTab();
 
     let gotoRowId = fileData[uConst.get("DATA_FIELD_CHALLENGES")].length;
-    const challengeDate = Date.parse(date);
+    const challengeDate = uDate.getDateParse(date);
     let rowId = 0;
     for (const challenge of fileData[uConst.get("DATA_FIELD_CHALLENGES")]) {
-      if (Date.parse(challenge.date) > challengeDate) {
+      if (uDate.getDateParse(challenge.date) > challengeDate) {
         gotoRowId = rowId;
         break;
       }
@@ -3909,7 +3909,7 @@ requirejs(
       challengeRowId = challenges.length;
     }
 
-    const challengeDate = Date.parse((challenges[challengeRowId - 1] ?? {}).date ?? uDate.getToday());
+    const challengeDate = uDate.getDateParse((challenges[challengeRowId - 1] ?? {}).date ?? uDate.getToday());
 
     let rowId = 0;
     for (const challenge of challenges) {
@@ -3918,7 +3918,7 @@ requirejs(
         break;
       }
 
-      const date = Date.parse(challenge.date ?? uDate.getToday());
+      const date = uDate.getDateParse(challenge.date ?? uDate.getToday());
       const type = challenge.type;
       const notes = challenge.notes;
       const notesConfig = (challengesConfig[type] ?? {})[uConst.get("DATA_FIELD_NOTES")] ?? {};
@@ -4202,8 +4202,8 @@ requirejs(
     const inactiveDateString = (uConst.get("PARSE_REQUIREMENTS_SINCE_ACTIVE_DATES")[requirementName] ?? {})[challengeType] ?? null;
 
     if (inactiveDateString !== null) {
-      const challengeDate = Date.parse(challengeDateString);
-      const inactiveDate = Date.parse(inactiveDateString);
+      const challengeDate = uDate.getDateParse(challengeDateString);
+      const inactiveDate = uDate.getDateParse(inactiveDateString);
 
       return challengeDate < inactiveDate;
     }

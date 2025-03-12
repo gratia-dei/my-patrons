@@ -164,8 +164,8 @@ define(["const"], function(uConst) {
 
   function getDatesDiffInDays(firstDateStr, secondDateStr) {
     const dayMiliseconds = 24 * 60 * 60 * 1000;
-    const firstDate = Date.parse(firstDateStr);
-    const secondDate = Date.parse(secondDateStr);
+    const firstDate = getDateParse(firstDateStr);
+    const secondDate = getDateParse(secondDateStr);
     const diffInDays = Math.round((firstDate - secondDate) / dayMiliseconds);
 
     return diffInDays;
