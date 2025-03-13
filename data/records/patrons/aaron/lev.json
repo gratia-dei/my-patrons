@@ -27,5 +27,9 @@
   "also-in-martyrology": ["07-01"],
 
   "forenames": ["aaron"],
-  "categories": ["vir", "sacerdos"]
+  "categories": ["vir", "sacerdos"],
+
+  "data-links": {
+    "mr-2004-index": ["1:a/aaron#2"]
+  }
 }

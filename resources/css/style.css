@@ -1905,6 +1905,14 @@ iframe {
 }
 
 .roman-martyrology-black-color a,
+.roman-martyrology-red-color a {
+  text-decoration: none;
+  border-bottom: 3px solid var(--color2);
+  padding-bottom: 1px
+}
+
+
+.roman-martyrology-black-color a,
 .roman-martyrology-black-color {
   color: var(--black);
 }

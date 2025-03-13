@@ -110,31 +110,6 @@
     },
 
     {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/i-sancti-cum-nomine-descripti/", "la"]
-    },
-    {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/ii-sancti-sine-nomine-commemorati/", "la"]
-    },
-    {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/iii-sancti-obiter-nominati", "la"]
-    },
-    {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/1956/ii-index-festorum-quae-non-sunt-sanctorum-natalitia-et-officiorum-quae-elogio-sunt-decorata/", "la"]
-    },
-    {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/1956/iii-index-locorum-qui-in-martyrologio-indicantur/", "la"]
-    },
-    {
-        "class": "GenerateIndexAndAliasFilesForSubDirectoriesPrefixedNamedFilesProcedure",
-        "params": ["/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/", "la"]
-    },
-
-    {
         "class": "GenerateDateDataFileProcedure",
         "params": ["mr-1956", "dates-tree", "/sources/martyrologium-romanum/1956/martyrologium-romanum", "feasts", "/generated/dates-feasts-immovable"]
     },
