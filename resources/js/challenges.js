@@ -1502,7 +1502,7 @@ requirejs(
         }
       }
 
-      if (!foundAnyChallengeWithSameTypeBefore) {
+      if (!foundAnyChallengeWithSameTypeBefore && numberOfDaysBeforeCheckDate !== null) {
         for (let type of types) {
           if (type !== challengeType) {
             return false;
