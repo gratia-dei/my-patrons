@@ -1622,7 +1622,6 @@ requirejs(
         personsToTake[subelement] = subelement;
       }
     }
-
     for (const personId of Object.keys(personsToSkip)) {
       delete personsToTake[personId];
     }
@@ -1757,7 +1756,7 @@ requirejs(
   function getAllPersonsDataSubelements(personIdPrefix = '') {
     return Object.keys(personsData).filter(v =>
       (personIdPrefix === '' || v.substring(0, personIdPrefix.length + 1) == personIdPrefix + '/')
-      && personsData[v].died != undefined
+      && personsData[v].active != undefined
     );
   }
 
@@ -2066,7 +2065,7 @@ requirejs(
         if (key.match(/^[a-zA-Z]+$/)) {
           lastPersonType = key[0].toUpperCase() + key.slice(1);
           allPersonsToTakeByPersonType[lastPersonType] = {};
-        } else if (personsData[key].died != undefined) {
+        } else if (personsData[key].active != undefined) {
           allPersonsToTakeByPersonType[lastPersonType][key] = key;
         }
       }
@@ -2229,12 +2228,12 @@ requirejs(
             if (typesNeeded == null && typesNeededForAny == null) {
               allPersonsWithPersonTypeIdCount = Object.keys(personsData).filter(v =>
                 v.substring(0, personTypeId.length + 1) == personTypeId + '/'
-                && personsData[v].died != undefined
+                && personsData[v].active != undefined
               ).length;
             } else {
               allPersonsWithPersonTypeIdCount = Object.keys(personsData).filter(v =>
                 v.substring(0, personTypeId.length + 1) == personTypeId + '/'
-                && personsData[v].died != undefined
+                && personsData[v].active != undefined
                 && personsUnlocked[v] != undefined
               ).length;
             }
@@ -2374,7 +2373,9 @@ requirejs(
       uDocument.addOptionToSelect(personSelect, '', uConst.get("SELECT_NAME"));
     }
     for (let [i, personName] of persons) {
-      uDocument.addOptionToSelect(personSelect, i, personName);
+      const isSelected = false;
+      const isDisabled = !personsData[i].active && !uUseful.inArray(i, uConst.get("COPY_PERSON_TYPE_TO_NAME_IDS"));
+      uDocument.addOptionToSelect(personSelect, i, personName, isSelected, isDisabled);
     }
 
     resetAdditionSelect();
@@ -2445,7 +2446,9 @@ requirejs(
         }
       }
       for (let i in additions) {
-        uDocument.addOptionToSelect(additionSelect, i, additions[i]);
+        const isSelected = false;
+        const isDisabled = !((((personsData[personValue] ?? {})[additionType] ?? {})[i] ?? {}).active ?? false);
+        uDocument.addOptionToSelect(additionSelect, i, additions[i], isSelected, isDisabled);
       }
 
       resetNewChallengeNotesValues();

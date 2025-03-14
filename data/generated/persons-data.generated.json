@@ -7,6 +7,7 @@
         }
     },
     "god/fil": {
+        "active": false,
         "names": {
             "arc": "ܝܫܘܥ",
             "en": "Jesus Christ",
@@ -19,84 +20,98 @@
         ],
         "feasts": {
             "feasts/d1a": {
+                "active": false,
                 "names": {
                     "la": "Dominica prima Adventus",
                     "pl": "Pierwsza Niedziela Adwentu"
                 }
             },
             "feasts/nav": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Nativitatis Domini",
                     "pl": "Wigilia Narodzenia Pańskiego"
                 }
             },
             "feasts/nat": {
+                "active": false,
                 "names": {
                     "la": "Nativitas Domini",
                     "pl": "Narodzenie Pańskie"
                 }
             },
             "feasts/cir": {
+                "active": false,
                 "names": {
                     "la": "Circumcisio Domini",
                     "pl": "Obrzezanie Pańskie"
                 }
             },
             "feasts/nao": {
+                "active": false,
                 "names": {
                     "la": "Octava Nativitatis Domini",
                     "pl": "Oktawa Narodzenia Pańskiego"
                 }
             },
             "feasts/sni": {
+                "active": false,
                 "names": {
                     "la": "Sanctissimum Nomen Iesus",
                     "pl": "Najświętsze Imię Jezus"
                 }
             },
             "feasts/sfa": {
+                "active": false,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
                 }
             },
             "feasts/epv": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Epiphaniae Domini",
                     "pl": "Wigilia Objawienia Pańskiego"
                 }
             },
             "feasts/epi": {
+                "active": false,
                 "names": {
                     "la": "Epiphania Domini",
                     "pl": "Objawienie Pańskie"
                 }
             },
             "feasts/rel": {
+                "active": false,
                 "names": {
                     "la": "Relatio Pueri Iesu de Aegypto",
                     "pl": "Powrót Dzieciątka Jezus z Egiptu"
                 }
             },
             "feasts/epo": {
+                "active": false,
                 "names": {
                     "la": "Octava Epiphaniae Domini",
                     "pl": "Oktawa Objawienia Pańskiego"
                 }
             },
             "feasts/bad": {
+                "active": false,
                 "names": {
                     "la": "Baptismus Domini",
                     "pl": "Chrzest Pański"
                 }
             },
             "feasts/d70": {
+                "active": false,
                 "names": {
                     "la": "Dominica Septuagesimæ",
                     "pl": "Niedziela Siedemdziesiątnicy"
                 }
             },
             "feasts/prd": {
+                "active": false,
                 "names": {
                     "la": "Praesentatio Domini",
                     "en": "The Presentation of Jesus",
@@ -104,6 +119,7 @@
                 }
             },
             "feasts/and": {
+                "active": false,
                 "names": {
                     "la": "Annuntatio Domini",
                     "en": "The Annunciation of Jesus",
@@ -111,6 +127,7 @@
                 }
             },
             "feasts/dci": {
+                "active": false,
                 "names": {
                     "en": "Ash Wednesday",
                     "la": "Dies Cinerum",
@@ -118,126 +135,147 @@
                 }
             },
             "feasts/d1q": {
+                "active": false,
                 "names": {
                     "la": "Dominica prima in Quadragesima",
                     "pl": "Pierwsza Niedziela Wielkiego Postu"
                 }
             },
             "feasts/dps": {
+                "active": false,
                 "names": {
                     "la": "Dominica Passionis",
                     "pl": "Niedziela Męki Pańskiej"
                 }
             },
             "feasts/dpl": {
+                "active": false,
                 "names": {
                     "la": "Dominica Palmarum",
                     "pl": "Niedziela Palmowa"
                 }
             },
             "feasts/dpp": {
+                "active": false,
                 "names": {
                     "la": "Dominica in Palmis de Passione Domini",
                     "pl": "Niedziela Palmowa Męki Pańskiej"
                 }
             },
             "feasts/f5h": {
+                "active": false,
                 "names": {
                     "la": "Feria quinta Hebdomadae sanctae",
                     "pl": "Wielki Czwartek"
                 }
             },
             "feasts/f6p": {
+                "active": false,
                 "names": {
                     "la": "feria sexta in Passione Domini",
                     "pl": "Wielki Piątek"
                 }
             },
             "feasts/sas": {
+                "active": false,
                 "names": {
                     "la": "Sabbato sancto",
                     "pl": "Wielka Sobota"
                 }
             },
             "feasts/res": {
+                "active": false,
                 "names": {
                     "la": "Resurrectio Iesu Christi",
                     "pl": "Zmartwychwstanie Jezusa Chrystusa"
                 }
             },
             "feasts/dia": {
+                "active": false,
                 "names": {
                     "la": "Dominica in Albis",
                     "pl": "Niedziela Biała"
                 }
             },
             "feasts/ril": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
             "feasts/asv": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Ascensionis Iesu Christi",
                     "pl": "Wigilia Wniebowstąpienia Jezusa Chrystusa"
                 }
             },
             "feasts/asc": {
+                "active": false,
                 "names": {
                     "la": "Ascénsio Iesu Christi",
                     "pl": "Wniebowstąpienie Jezusa Chrystusa"
                 }
             },
             "feasts/aso": {
+                "active": false,
                 "names": {
                     "la": "Octava Ascensionis Iesu Christi",
                     "pl": "Oktawa Wniebowstąpienia Jezusa Chrystusa"
                 }
             },
             "feasts/crp": {
+                "active": false,
                 "names": {
                     "la": "Sanctissimum Corpore Christi",
                     "pl": "Najświętsze Ciało Chrystusa"
                 }
             },
             "feasts/ces": {
+                "active": false,
                 "names": {
                     "la": "Sanctissimum Corpore et Sanguis Christi",
                     "pl": "Najświętsze Ciało i Krew Chrystusa"
                 }
             },
             "feasts/cro": {
+                "active": false,
                 "names": {
                     "la": "Octava Sanctissimi Corporis Christi",
                     "pl": "Oktawa Najświętszego Ciała Chrystusa"
                 }
             },
             "feasts/sci": {
+                "active": false,
                 "names": {
                     "la": "Sanctissimum Cor Iesu",
                     "pl": "Najświętsze Serce Jezusa"
                 }
             },
             "feasts/sco": {
+                "active": false,
                 "names": {
                     "la": "Octava Sacratissimi Cordis Iesu",
                     "pl": "Oktawa Najświętszego Serca Jezusa"
                 }
             },
             "feasts/san": {
+                "active": false,
                 "names": {
                     "la": "Pretiosissimus Sanguis Christi",
                     "pl": "Najdroższa Krew Chrystusa"
                 }
             },
             "feasts/tra": {
+                "active": false,
                 "names": {
                     "la": "Transfiguratio Domini",
                     "pl": "Przemienienie Pańskie"
                 }
             },
             "feasts/exa": {
+                "active": false,
                 "names": {
                     "la": "Exaltatio Satnctae Crucis",
                     "en": "The Exaltation of the Holy Cross",
@@ -245,18 +283,21 @@
                 }
             },
             "feasts/dbl": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
                 }
             },
             "feasts/rex": {
+                "active": false,
                 "names": {
                     "la": "Iesus Christus Rex",
                     "pl": "Jezus Chrystus Król"
                 }
             },
             "feasts/ure": {
+                "active": false,
                 "names": {
                     "la": "Iesus Christus Universorum Rex",
                     "pl": "Jezus Chrystus Król Wszechświata"
@@ -265,6 +306,7 @@
         }
     },
     "god/pat": {
+        "active": false,
         "names": {
             "en": "God the Father",
             "la": "Deus Pater",
@@ -276,6 +318,7 @@
         "feasts": []
     },
     "god/spi": {
+        "active": false,
         "names": {
             "en": "Holy Spirit",
             "la": "Spiritus Sanctus",
@@ -286,18 +329,21 @@
         ],
         "feasts": {
             "feasts/pev": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Pentecostes",
                     "pl": "Wigilia Zesłania Ducha Świętego"
                 }
             },
             "feasts/pen": {
+                "active": false,
                 "names": {
                     "la": "Dies Pentecostes",
                     "pl": "Zesłanie Ducha Świętego"
                 }
             },
             "feasts/peo": {
+                "active": false,
                 "names": {
                     "la": "Octava Pentecostes",
                     "pl": "Oktawa Zesłania Ducha Świętego"
@@ -306,6 +352,7 @@
         }
     },
     "god/tri": {
+        "active": false,
         "names": {
             "en": "Holy Trinity",
             "la": "Sancta Trinitas",
@@ -316,11 +363,13 @@
         ],
         "feasts": {
             "feasts/mis": {
+                "active": false,
                 "names": {
                     "pl": "Miłosierdzie Boże"
                 }
             },
             "feasts/tri": {
+                "active": false,
                 "names": {
                     "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
                     "pl": "Uroczystość Trójcy Przenajświętszej"
@@ -351,6 +400,7 @@
         }
     },
     "patrons/aaron/lev": {
+        "active": false,
         "names": {
             "he": "אַהֲרֹן",
             "la": "Aaron Levi",
@@ -370,6 +420,7 @@
         }
     },
     "patrons/acacius/mel": {
+        "active": false,
         "names": {
             "la": "Acacius Melitenensis",
             "en": "Acathius of Melitene",
@@ -389,6 +440,7 @@
         }
     },
     "patrons/adalbertus/pra": {
+        "active": false,
         "names": {
             "cz": "Vojtěch Slavníkovec",
             "en": "Adalbert of Prague",
@@ -409,6 +461,7 @@
         }
     },
     "patrons/aegidius/abb": {
+        "active": false,
         "names": {
             "fr": "Gilles l'Ermite",
             "pl": "Idzi Eremita",
@@ -431,6 +484,7 @@
         }
     },
     "patrons/aemilianus/kov": {
+        "active": false,
         "names": {
             "uk": "Омелян Ковч",
             "pl": "Emilian Kowcz",
@@ -450,6 +504,7 @@
         }
     },
     "patrons/agatha/cat": {
+        "active": false,
         "names": {
             "la": "Agatha Catanensis",
             "en": "Agatha of Sicily",
@@ -469,6 +524,7 @@
         }
     },
     "patrons/agnes/pra": {
+        "active": false,
         "names": {
             "cs": "Anežka Česká",
             "en": "Agnes of Bohemia",
@@ -482,6 +538,7 @@
         "feasts": []
     },
     "patrons/agnes/rom": {
+        "active": false,
         "names": {
             "la": "Agnes Romana",
             "en": "Agnes of Rome",
@@ -501,6 +558,7 @@
         }
     },
     "patrons/agricola/niv": {
+        "active": false,
         "names": {
             "fr": "Agricole de Nevers",
             "en": "Agricola of Nevers",
@@ -522,6 +580,7 @@
         }
     },
     "patrons/albertus/chm": {
+        "active": false,
         "names": {
             "pl": "Albert Chmielowski",
             "en": "Albert Chmielowski",
@@ -533,6 +592,7 @@
         "feasts": []
     },
     "patrons/albertus/lov": {
+        "active": false,
         "names": {
             "fr": "Albert de Louvain",
             "en": "Albert of Louvain",
@@ -545,6 +605,7 @@
         "feasts": []
     },
     "patrons/albertus/mag": {
+        "active": false,
         "names": {
             "de": "Albert der Große",
             "en": "Albert the Great",
@@ -566,6 +627,7 @@
         }
     },
     "patrons/alexius/fal": {
+        "active": false,
         "names": {
             "it": "Alessio Falconieri",
             "en": "Alexis Falconieri",
@@ -578,6 +640,7 @@
         "feasts": []
     },
     "patrons/alexius/zar": {
+        "active": false,
         "names": {
             "uk": "Олексій Васильович Зарицький",
             "la": "Alexius Zaryckyj",
@@ -599,6 +662,7 @@
         }
     },
     "patrons/aloysius/cam": {
+        "active": false,
         "names": {
             "es": "Luis Campos Górriz",
             "en": "Aloise Campos Górriz",
@@ -611,6 +675,7 @@
         "feasts": []
     },
     "patrons/aloysius/lig": {
+        "active": false,
         "names": {
             "pl": "Alojzy Liguda",
             "la": "Aloise Liguda",
@@ -622,6 +687,7 @@
         "feasts": []
     },
     "patrons/aloysius/ori": {
+        "active": false,
         "names": {
             "it": "Luigi Orione",
             "en": "Aloise Orione",
@@ -642,6 +708,7 @@
         }
     },
     "patrons/alphonsus/lig": {
+        "active": false,
         "names": {
             "it": "Alfonso Maria de' Liguori",
             "en": "Alphonsus Maria Liguori",
@@ -654,6 +721,7 @@
         "feasts": []
     },
     "patrons/alphonsus/maz": {
+        "active": false,
         "names": {
             "pl": "Alfons Maria Mazurek",
             "en": "Alphonsus Maria Mazurek",
@@ -672,6 +740,7 @@
         }
     },
     "patrons/alypius/tha": {
+        "active": false,
         "names": {
             "la": "Alypius Tagastensis",
             "en": "Alypius of Tagaste",
@@ -690,6 +759,7 @@
         }
     },
     "patrons/ambrosius/med": {
+        "active": false,
         "names": {
             "la": "Ambrosius Mediolanensis",
             "en": "Ambrose of Milan",
@@ -708,6 +778,7 @@
         }
     },
     "patrons/anastasia/sir": {
+        "active": false,
         "names": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
@@ -731,6 +802,7 @@
         }
     },
     "patrons/andreas/alr": {
+        "active": false,
         "names": {
             "fr": "André-Abel Alricy",
             "pl": "Andrzej Abel Alricy",
@@ -743,6 +815,7 @@
         "feasts": []
     },
     "patrons/andreas/apo": {
+        "active": false,
         "names": {
             "grc": "Ανδρέας",
             "en": "Andrew the Apostle",
@@ -756,6 +829,7 @@
         "feasts": []
     },
     "patrons/andreas/bes": {
+        "active": false,
         "names": {
             "fr": "André Bessette",
             "en": "Andrew Bessette",
@@ -768,6 +842,7 @@
         "feasts": []
     },
     "patrons/andreas/bob": {
+        "active": false,
         "names": {
             "pl": "Andrzej Bobola",
             "en": "Andrew Bobola",
@@ -779,6 +854,7 @@
         "feasts": []
     },
     "patrons/andreas/cor": {
+        "active": false,
         "names": {
             "it": "Andrea Corsini",
             "en": "Andrew Corsini",
@@ -791,6 +867,7 @@
         "feasts": []
     },
     "patrons/andreas/fou": {
+        "active": false,
         "names": {
             "fr": "André-Hubert Fournet",
             "en": "Andrew Hubert Fournet",
@@ -803,6 +880,7 @@
         "feasts": []
     },
     "patrons/andreas/kim": {
+        "active": false,
         "names": {
             "ko": "김대건 안드레아",
             "en": "Andrew Kim Taegon",
@@ -815,6 +893,7 @@
         "feasts": []
     },
     "patrons/andreas/sov": {
+        "active": false,
         "names": {
             "pt": "André de Soveral",
             "en": "Andrew de Soveral",
@@ -834,6 +913,7 @@
         }
     },
     "patrons/anicetus/kop": {
+        "active": false,
         "names": {
             "pl": "Anicet Kopliński",
             "la": "Anicetus Koplinski",
@@ -856,6 +936,7 @@
         }
     },
     "patrons/anna/mar": {
+        "active": false,
         "names": {
             "he": "חַנָּה‎",
             "en": "Anna mother of Mary",
@@ -875,6 +956,7 @@
         }
     },
     "patrons/anselmus/can": {
+        "active": false,
         "names": {
             "la": "Anselmus Cantuariensis",
             "en": "Anselm of Canterbury",
@@ -894,6 +976,7 @@
         }
     },
     "patrons/ansgarius/ham": {
+        "active": false,
         "names": {
             "de": "Ansgar",
             "en": "Oscar",
@@ -913,6 +996,7 @@
         }
     },
     "patrons/antiochus/ana": {
+        "active": false,
         "names": {
             "la": "Antiochus Anastasiopolitanus",
             "en": "Antiochus of Anastasiopolis",
@@ -932,6 +1016,7 @@
         }
     },
     "patrons/antoninus/apa": {
+        "active": false,
         "names": {
             "la": "Antoninus de Apamea",
             "en": "Antoninus of Apamea",
@@ -943,6 +1028,7 @@
         "feasts": []
     },
     "patrons/antoninus/nic": {
+        "active": false,
         "names": {
             "la": "Antoninus /+ Nicephorus et alii",
             "en": "Antoninus /+ Nicephorus and others",
@@ -965,6 +1051,7 @@
         }
     },
     "patrons/antonius/abb": {
+        "active": false,
         "names": {
             "el": "Ἀντώνιος Μέγας",
             "en": "Anthony the Great",
@@ -977,6 +1064,7 @@
         "feasts": []
     },
     "patrons/antonius/baj": {
+        "active": false,
         "names": {
             "pl": "Antoni Bajewski",
             "en": "Anthony Bajewski",
@@ -988,6 +1076,7 @@
         "feasts": []
     },
     "patrons/antonius/bal": {
+        "active": false,
         "names": {
             "it": "Antonio Baldinucci",
             "la": "Antonius Baldinucci",
@@ -1000,6 +1089,7 @@
         "feasts": []
     },
     "patrons/antonius/cau": {
+        "active": false,
         "names": {
             "el": "Ἀντώνιος Καυλέας",
             "en": "Anthony Cauleas",
@@ -1012,6 +1102,7 @@
         "feasts": []
     },
     "patrons/antonius/chi": {
+        "active": false,
         "names": {
             "it": "Antonio Della Chiesa",
             "en": "Anthony Della Chiesa",
@@ -1024,6 +1115,7 @@
         "feasts": []
     },
     "patrons/antonius/ere": {
+        "active": false,
         "names": {
             "uk": "Антоній Печерський",
             "en": "Anthony of Kiev",
@@ -1037,6 +1129,7 @@
         "feasts": []
     },
     "patrons/antonius/now": {
+        "active": false,
         "names": {
             "pl": "Antoni Julian Nowowiejski",
             "en": "Anthony Julian Nowowiejski",
@@ -1048,6 +1141,7 @@
         "feasts": []
     },
     "patrons/antonius/pat": {
+        "active": false,
         "names": {
             "pt": "Antônio de Pádua",
             "la": "Antonius Patavinus",
@@ -1060,6 +1154,7 @@
         "feasts": []
     },
     "patrons/antonius/rew": {
+        "active": false,
         "names": {
             "pl": "Antoni Rewera",
             "en": "Anthony Rewera",
@@ -1079,6 +1174,7 @@
         }
     },
     "patrons/aristarchus/the": {
+        "active": false,
         "names": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",
@@ -1099,6 +1195,7 @@
         }
     },
     "patrons/aristides/ath": {
+        "active": false,
         "names": {
             "la": "Aristides Atheniensis",
             "en": "Aristides of Athens",
@@ -1117,6 +1214,7 @@
         }
     },
     "patrons/athanasius/ale": {
+        "active": false,
         "names": {
             "la": "Athanasius Magnus",
             "en": "Athanasius the Great",
@@ -1135,6 +1233,7 @@
         }
     },
     "patrons/augustinus/hip": {
+        "active": false,
         "names": {
             "la": "Augustinus Hipponensis",
             "en": "Augustine of Hippo",
@@ -1145,12 +1244,14 @@
         ],
         "feasts": {
             "feasts/tah": {
+                "active": false,
                 "names": {
                     "la": "Translatio corporis sancti Augustini",
                     "pl": "Przeniesienie ciała świętego Augustyna"
                 }
             },
             "feasts/cah": {
+                "active": false,
                 "names": {
                     "la": "Conversio sancti Augustini",
                     "pl": "Nawrócenie świętego Augustyna"
@@ -1159,6 +1260,7 @@
         }
     },
     "patrons/augustinus/zha": {
+        "active": false,
         "names": {
             "zh": "趙榮",
             "en": "Augustine Zhao Rong",
@@ -1178,6 +1280,7 @@
         }
     },
     "patrons/augustus/cza": {
+        "active": false,
         "names": {
             "pl": "August Czartoryski",
             "en": "August Czartoryski",
@@ -1197,6 +1300,7 @@
         }
     },
     "patrons/balbina/rom": {
+        "active": false,
         "names": {
             "it": "Balbina di Roma",
             "en": "Balbina of Rome",
@@ -1216,6 +1320,7 @@
         }
     },
     "patrons/barbara/nic": {
+        "active": false,
         "names": {
             "la": "Barbara Nicomedensis",
             "en": "Barbara of Nicomedia",
@@ -1234,6 +1339,7 @@
         }
     },
     "patrons/barnabas/apo": {
+        "active": false,
         "names": {
             "la": "Barnabas Apostolus",
             "en": "Barnabas the Apostle",
@@ -1254,6 +1360,7 @@
         }
     },
     "patrons/bartholomaeus/apo": {
+        "active": false,
         "names": {
             "la": "Bartholomaeus Apostolus",
             "en": "Bartholomew the Apostle",
@@ -1265,6 +1372,7 @@
         "feasts": []
     },
     "patrons/bartholomaeus/bre": {
+        "active": false,
         "names": {
             "it": "Bartolomeo da Breganze",
             "en": "Bartholomew of Breganze",
@@ -1277,6 +1385,7 @@
         "feasts": []
     },
     "patrons/bartholomaeus/fer": {
+        "active": false,
         "names": {
             "pt": "Bartolomeu dos Mártires",
             "en": "Bartholomew of the Martyrs",
@@ -1289,6 +1398,7 @@
         "feasts": []
     },
     "patrons/bartholomaeus/lon": {
+        "active": false,
         "names": {
             "it": "Bartolo Longo",
             "en": "Bartolo Longo",
@@ -1309,6 +1419,7 @@
         }
     },
     "patrons/basilius/ant": {
+        "active": false,
         "names": {
             "la": "Basilius Antiochenus",
             "en": "Basil of Antioch",
@@ -1321,6 +1432,7 @@
         "feasts": []
     },
     "patrons/basilius/mag": {
+        "active": false,
         "names": {
             "el": "Βασίλειος Μέγας",
             "en": "Basil the Great",
@@ -1341,6 +1453,7 @@
         }
     },
     "patrons/benedictus/11p": {
+        "active": false,
         "names": {
             "it": "Benedetto XI",
             "en": "Benedict XI",
@@ -1353,6 +1466,7 @@
         "feasts": []
     },
     "patrons/benedictus/nur": {
+        "active": false,
         "names": {
             "la": "Benedictus Nursinus",
             "en": "Banadict of Nursia",
@@ -1373,6 +1487,7 @@
         }
     },
     "patrons/benignus/div": {
+        "active": false,
         "names": {
             "fr": "Bénigne de Dijon",
             "en": "Benignus of Dijon",
@@ -1386,6 +1501,7 @@
         "feasts": []
     },
     "patrons/benignus/tud": {
+        "active": false,
         "names": {
             "it": "Benigno da Todi",
             "en": "Benignus of Todi",
@@ -1406,6 +1522,7 @@
         }
     },
     "patrons/bentivolius/bon": {
+        "active": false,
         "names": {
             "it": "Bentivoglio de Bonis",
             "la": "Bentivolius de Bonis",
@@ -1426,6 +1543,7 @@
         }
     },
     "patrons/bernardinus/rea": {
+        "active": false,
         "names": {
             "it": "Bernardino Realino",
             "en": "Bernardine Realino",
@@ -1438,6 +1556,7 @@
         "feasts": []
     },
     "patrons/bernardinus/sen": {
+        "active": false,
         "names": {
             "it": "Bernardino da Siena",
             "en": "Bernardine of Siena",
@@ -1458,6 +1577,7 @@
         }
     },
     "patrons/bernardus/cla": {
+        "active": false,
         "names": {
             "fr": "Bernard de Clairvaux",
             "pl": "Bernard z Clairvaux",
@@ -1478,6 +1598,7 @@
         }
     },
     "patrons/bertholdus/car": {
+        "active": false,
         "names": {
             "it": "Bertoldo di Calabria",
             "en": "Berthold of Calabria",
@@ -1498,6 +1619,7 @@
         }
     },
     "patrons/birgitta/sue": {
+        "active": false,
         "names": {
             "sv": "Birgitta Birgersdotter",
             "en": "Bridget of Sweden",
@@ -1517,6 +1639,7 @@
         }
     },
     "patrons/blasius/seb": {
+        "active": false,
         "names": {
             "la": "Blasius de Sebaste",
             "en": "Blaise of Sebaste",
@@ -1535,6 +1658,7 @@
         }
     },
     "patrons/bogumilus/dob": {
+        "active": false,
         "names": {
             "pl": "Bogumił z Dobrowa",
             "la": "Bogumilus Dobrovensis",
@@ -1553,6 +1677,7 @@
         }
     },
     "patrons/boleslava/lam": {
+        "active": false,
         "names": {
             "pl": "Bolesława Lament",
             "en": "Boleslava Lament",
@@ -1571,6 +1696,7 @@
         }
     },
     "patrons/bonifatius/win": {
+        "active": false,
         "names": {
             "en": "Boniface Wynfreth",
             "la": "Bonifatius Winfrid",
@@ -1582,6 +1708,7 @@
         "feasts": []
     },
     "patrons/bonifatius/zuk": {
+        "active": false,
         "names": {
             "pl": "Bonifacy Żukowski",
             "en": "Boniface Zukowski",
@@ -1600,6 +1727,7 @@
         }
     },
     "patrons/bronislaus/kos": {
+        "active": false,
         "names": {
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",
@@ -1619,6 +1747,7 @@
         }
     },
     "patrons/bruno/ere": {
+        "active": false,
         "names": {
             "de": "Bruno von Köln",
             "en": "Bruno of Cologne",
@@ -1638,6 +1767,7 @@
         }
     },
     "patrons/caecilia/rom": {
+        "active": false,
         "names": {
             "la": "Caecilia Romana",
             "en": "Cecilia of Rome",
@@ -1657,6 +1787,7 @@
         }
     },
     "patrons/caelestina/far": {
+        "active": false,
         "names": {
             "pl": "Celestyna Faron",
             "en": "Celestine Faron",
@@ -1676,6 +1807,7 @@
         }
     },
     "patrons/caesarius/are": {
+        "active": false,
         "names": {
             "la": "Caesarius Arelatensis",
             "pl": "Cezary z Arles",
@@ -1687,6 +1819,7 @@
         "feasts": []
     },
     "patrons/caesarius/naz": {
+        "active": false,
         "names": {
             "la": "Caesarius Nazianzenus",
             "en": "Caesarius of Nazianzus",
@@ -1698,6 +1831,7 @@
         "feasts": []
     },
     "patrons/caesarius/tar": {
+        "active": false,
         "names": {
             "it": "Cesario di Terracina",
             "en": "Caesarius of Terracina",
@@ -1719,6 +1853,7 @@
         }
     },
     "patrons/camillus/lel": {
+        "active": false,
         "names": {
             "it": "Camillo de Lellis",
             "en": "Camillus de Lellis",
@@ -1738,6 +1873,7 @@
         }
     },
     "patrons/carolina/koz": {
+        "active": false,
         "names": {
             "pl": "Karolina Kózka",
             "en": "Karolina Kózka",
@@ -1759,6 +1895,7 @@
         }
     },
     "patrons/carolus/acu": {
+        "active": false,
         "names": {
             "it": "Carlo Acutis",
             "en": "Charles Acutis",
@@ -1771,6 +1908,7 @@
         "feasts": []
     },
     "patrons/carolus/bor": {
+        "active": false,
         "names": {
             "it": "Carlo Borromeo",
             "la": "Carolus Borromeo",
@@ -1783,6 +1921,7 @@
         "feasts": []
     },
     "patrons/carolus/fou": {
+        "active": false,
         "names": {
             "fr": "Charles de Foucauld",
             "en": "Charles de Foucauld",
@@ -1795,6 +1934,7 @@
         "feasts": []
     },
     "patrons/carolus/lwa": {
+        "active": false,
         "names": {
             "lg": "Kaloli Lwanga",
             "en": "Charles Lwanga",
@@ -1814,6 +1954,7 @@
         }
     },
     "patrons/casimirus/gre": {
+        "active": false,
         "names": {
             "pl": "Kazimierz Grelewski",
             "en": "Casimir Grelewski",
@@ -1825,6 +1966,7 @@
         "feasts": []
     },
     "patrons/casimirus/pri": {
+        "active": false,
         "names": {
             "pl": "Kazimierz Królewicz",
             "en": "Casimir Jagiellon",
@@ -1836,6 +1978,7 @@
         "feasts": []
     },
     "patrons/casimirus/syk": {
+        "active": false,
         "names": {
             "pl": "Kazimierz Sykulski",
             "en": "Casimir Sykulski",
@@ -1855,6 +1998,7 @@
         }
     },
     "patrons/cassianus/aug": {
+        "active": false,
         "names": {
             "fr": "Cassien d'Autun",
             "la": "Cassianus episcopus Augustodunensis",
@@ -1877,6 +2021,7 @@
         }
     },
     "patrons/catharina/ale": {
+        "active": false,
         "names": {
             "la": "Catharina Alexandrina",
             "en": "Catherine of Alexandria",
@@ -1888,6 +2033,7 @@
         "feasts": []
     },
     "patrons/catharina/fie": {
+        "active": false,
         "names": {
             "it": "Caterina da Genova",
             "la": "Catharina Genuensis",
@@ -1900,6 +2046,7 @@
         "feasts": []
     },
     "patrons/catharina/lab": {
+        "active": false,
         "names": {
             "fr": "Catherine Labouré",
             "en": "Catherine Labouré",
@@ -1919,6 +2066,7 @@
         }
     },
     "patrons/ceslaus/joz": {
+        "active": false,
         "names": {
             "pl": "Czesław Jóźwiak",
             "en": "Czesław Jóźwiak",
@@ -1938,6 +2086,7 @@
         }
     },
     "patrons/christina/per": {
+        "active": false,
         "names": {
             "fa": "کریستینا",
             "en": "Christina of Persia",
@@ -1958,6 +2107,7 @@
         }
     },
     "patrons/christophorus/lyc": {
+        "active": false,
         "names": {
             "la": "Christophorus Lyciensis",
             "en": "Christopher of Lycia",
@@ -1969,6 +2119,7 @@
         "feasts": []
     },
     "patrons/christophorus/mag": {
+        "active": false,
         "names": {
             "es": "Cristóbal Magallanes Jara",
             "en": "Christopher Magallanes Jara",
@@ -1988,6 +2139,7 @@
         }
     },
     "patrons/chrysanthus/dar": {
+        "active": false,
         "names": {
             "la": "Chrysanthus /+ Daria",
             "en": "Chrysanthus /+ Daria",
@@ -2007,6 +2159,7 @@
         }
     },
     "patrons/clara/asi": {
+        "active": false,
         "names": {
             "it": "Chiara d'Assisi",
             "en": "Clara of Assisi",
@@ -2027,6 +2180,7 @@
         }
     },
     "patrons/clemens/aga": {
+        "active": false,
         "names": {
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",
@@ -2039,6 +2193,7 @@
         "feasts": []
     },
     "patrons/clemens/sep": {
+        "active": false,
         "names": {
             "uk": "Климентій Шептицький",
             "en": "Clement Sheptytsky",
@@ -2059,6 +2214,7 @@
         }
     },
     "patrons/coleta/boy": {
+        "active": false,
         "names": {
             "fr": "Colette Boylet",
             "en": "Colette Boylet",
@@ -2078,6 +2234,7 @@
         }
     },
     "patrons/corbinianus/fri": {
+        "active": false,
         "names": {
             "la": "Corbinianus de Frisingae",
             "en": "Corbinian of Freising",
@@ -2098,6 +2255,7 @@
         }
     },
     "patrons/cosmas/dam": {
+        "active": false,
         "names": {
             "el": "Κοσμάς /+ Δαμιανός",
             "en": "Cosmas /+ Damian",
@@ -2118,6 +2276,7 @@
         }
     },
     "patrons/crispina/tha": {
+        "active": false,
         "names": {
             "la": "Crispina Thagorensis",
             "en": "Crispina of Numidia",
@@ -2136,6 +2295,7 @@
         }
     },
     "patrons/cyprianus/car": {
+        "active": false,
         "names": {
             "la": "Cyprianus Carthaginensis",
             "en": "Cyprian of Carthage",
@@ -2155,6 +2315,7 @@
         }
     },
     "patrons/cyrillus/ale": {
+        "active": false,
         "names": {
             "la": "Cyrillus Alexandrinus",
             "en": "Cyril of Alexandria",
@@ -2166,6 +2327,7 @@
         "feasts": []
     },
     "patrons/cyrillus/hie": {
+        "active": false,
         "names": {
             "el": "Κύριλλος Ιεροσολύμων",
             "en": "Cyril of Jerusalem",
@@ -2178,6 +2340,7 @@
         "feasts": []
     },
     "patrons/cyrillus/met": {
+        "active": false,
         "names": {
             "la": "Cyrillus /+ Methodius",
             "en": "Cyril of Thessalonica",
@@ -2197,6 +2360,7 @@
         }
     },
     "patrons/damianus/cos": {
+        "active": false,
         "names": {
             "el": "Δαμιανός /+ Κοσμάς",
             "en": "Damian /+ Cosmas",
@@ -2217,6 +2381,7 @@
         }
     },
     "patrons/daria/chr": {
+        "active": false,
         "names": {
             "la": "Daria /+ Chrysanthus",
             "en": "Daria /+ Chrysanthus",
@@ -2237,6 +2402,7 @@
         }
     },
     "patrons/david/men": {
+        "active": false,
         "names": {
             "cy": "Dewi Sant",
             "en": "David of Menevia",
@@ -2249,6 +2415,7 @@
         "feasts": []
     },
     "patrons/david/oke": {
+        "active": false,
         "names": {
             "sw": "Daudi Okelo",
             "en": "David Okelo",
@@ -2268,6 +2435,7 @@
         }
     },
     "patrons/deusdedit/1pp": {
+        "active": false,
         "names": {
             "la": "Deusdedit Pp. I",
             "en": "Deusdedit I",
@@ -2287,6 +2455,7 @@
         }
     },
     "patrons/didacus/vit": {
+        "active": false,
         "names": {
             "es": "Diego Luis de San Vitores",
             "en": "Didacus Aloise de San Vitores",
@@ -2308,6 +2477,7 @@
         }
     },
     "patrons/dionysius/1pp": {
+        "active": false,
         "names": {
             "la": "Dionysius Papa",
             "en": "Dionysius Pope",
@@ -2319,6 +2489,7 @@
         "feasts": []
     },
     "patrons/dionysius/cor": {
+        "active": false,
         "names": {
             "el": "Διονύσιος Κορίνθου",
             "en": "Dionysius of Corinth",
@@ -2332,6 +2503,7 @@
         "feasts": []
     },
     "patrons/dionysius/lut": {
+        "active": false,
         "names": {
             "fr": "Denis de Paris",
             "la": "Dionysius Parisiensis",
@@ -2353,6 +2525,7 @@
         }
     },
     "patrons/dominicus/exi": {
+        "active": false,
         "names": {
             "es": "Domingo de Silos",
             "en": "Dominic of Silos",
@@ -2365,6 +2538,7 @@
         "feasts": []
     },
     "patrons/dominicus/oxo": {
+        "active": false,
         "names": {
             "es": "Domingo de Osma",
             "en": "Dominic of Osma",
@@ -2377,6 +2551,7 @@
         "feasts": []
     },
     "patrons/dominicus/sav": {
+        "active": false,
         "names": {
             "it": "Domenico Savio",
             "en": "Dominic Savio",
@@ -2396,6 +2571,7 @@
         }
     },
     "patrons/domninus/cae": {
+        "active": false,
         "names": {
             "la": "Domninus Caesariensis",
             "en": "Domninus of Caesarea",
@@ -2414,6 +2590,7 @@
         }
     },
     "patrons/donatus/sco": {
+        "active": false,
         "names": {
             "en": "Donatus of Fiesole",
             "pl": "Donat z Fiesole",
@@ -2433,6 +2610,7 @@
         }
     },
     "patrons/dorothea/mon": {
+        "active": false,
         "names": {
             "de": "Dorothea von Montau",
             "pl": "Dorota z Mątowów",
@@ -2452,6 +2630,7 @@
         }
     },
     "patrons/edmundus/boj": {
+        "active": false,
         "names": {
             "pl": "Edmund Bojanowski",
             "la": "Edmundus Bojanowski",
@@ -2470,6 +2649,7 @@
         }
     },
     "patrons/eduardus/col": {
+        "active": false,
         "names": {
             "en": "Edward Coleman",
             "pl": "Edward Coleman",
@@ -2481,6 +2661,7 @@
         "feasts": []
     },
     "patrons/eduardus/kaz": {
+        "active": false,
         "names": {
             "pl": "Edward Kaźmierski",
             "en": "Edward Kazmierski",
@@ -2492,6 +2673,7 @@
         "feasts": []
     },
     "patrons/eduardus/kli": {
+        "active": false,
         "names": {
             "pl": "Edward Klinik",
             "en": "Edward Klinik",
@@ -2511,6 +2693,7 @@
         }
     },
     "patrons/elias/the": {
+        "active": false,
         "names": {
             "he": "אֵלִיָּהוּ הַנָּבִיא",
             "la": "Elias Thesbita",
@@ -2534,6 +2717,7 @@
         }
     },
     "patrons/elisabeth/cat": {
+        "active": false,
         "names": {
             "fr": "Élisabeth de la Sainte Trinité",
             "en": "Elizabeth of the Holy Trinity",
@@ -2546,6 +2730,7 @@
         "feasts": []
     },
     "patrons/elisabeth/hun": {
+        "active": false,
         "names": {
             "de": "Elisabeth von Ungarn",
             "en": "Elizabeth of Hungary",
@@ -2558,6 +2743,7 @@
         "feasts": []
     },
     "patrons/elisabeth/lus": {
+        "active": false,
         "names": {
             "es": "Elisabet de Aragón",
             "en": "Elizabeth of Aragon",
@@ -2577,6 +2763,7 @@
         }
     },
     "patrons/emmerammus/rat": {
+        "active": false,
         "names": {
             "la": "Emmeramus Ratisbonensis",
             "en": "Emmeram of Regensburg",
@@ -2597,6 +2784,7 @@
         }
     },
     "patrons/ephraem/syr": {
+        "active": false,
         "names": {
             "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
             "en": "Ephrem the Syrian",
@@ -2616,6 +2804,7 @@
         }
     },
     "patrons/erasmus/for": {
+        "active": false,
         "names": {
             "la": "Erasmus de Formia",
             "en": "Erasmus of Formia",
@@ -2635,6 +2824,7 @@
         }
     },
     "patrons/eulogius/cor": {
+        "active": false,
         "names": {
             "es": "Eulogio de Córdoba",
             "en": "Eulogius of Cordoba",
@@ -2654,6 +2844,7 @@
         }
     },
     "patrons/eunus/iul": {
+        "active": false,
         "names": {
             "la": "Eunus Alexandrinus",
             "en": "Eunus of Alexandria",
@@ -2672,6 +2863,7 @@
         }
     },
     "patrons/eusebius/ver": {
+        "active": false,
         "names": {
             "la": "Eusebius Vercellensis",
             "en": "Eusebius of Vercelli",
@@ -2682,6 +2874,7 @@
         ],
         "feasts": {
             "feasts/oev": {
+                "active": false,
                 "names": {
                     "la": "Ordinatio sancti Eusebii",
                     "pl": "Wyświęcenie na biskupa świętego Euzebiusza"
@@ -2698,6 +2891,7 @@
         }
     },
     "patrons/ezechiel/pro": {
+        "active": false,
         "names": {
             "he": "יְחֶזְקֵאל",
             "en": "Ezekiel",
@@ -2717,6 +2911,7 @@
         }
     },
     "patrons/felicianus/car": {
+        "active": false,
         "names": {
             "la": "Felicianus Carthaginiensis",
             "en": "Felician of Carthage",
@@ -2736,6 +2931,7 @@
         }
     },
     "patrons/felicissimus/rog": {
+        "active": false,
         "names": {
             "la": "Felicissimus /+ Rogatianus",
             "en": "Felicissimus /+ Rogatian",
@@ -2755,6 +2951,7 @@
         }
     },
     "patrons/felicitas/car": {
+        "active": false,
         "names": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
@@ -2774,6 +2971,7 @@
         }
     },
     "patrons/fidelis/sig": {
+        "active": false,
         "names": {
             "de": "Fidelis von Sigmaringen",
             "en": "Fidelis of Sigmaringen",
@@ -2793,6 +2991,7 @@
         }
     },
     "patrons/florianus/lau": {
+        "active": false,
         "names": {
             "la": "Florianus Lauriacensis",
             "en": "Florian of Lauriacum",
@@ -2815,6 +3014,7 @@
         }
     },
     "patrons/franciscus/asi": {
+        "active": false,
         "names": {
             "it": "Francesco d'Assisi",
             "en": "Francis of Assisi",
@@ -2827,6 +3027,7 @@
         "feasts": []
     },
     "patrons/franciscus/bor": {
+        "active": false,
         "names": {
             "es": "Francisco de Borja",
             "en": "Francis Borgia",
@@ -2839,6 +3040,7 @@
         "feasts": []
     },
     "patrons/franciscus/car": {
+        "active": false,
         "names": {
             "it": "Francesco Caracciolo",
             "en": "Francis Caracciolo",
@@ -2851,6 +3053,7 @@
         "feasts": []
     },
     "patrons/franciscus/kes": {
+        "active": false,
         "names": {
             "pl": "Franciszek Kęsy",
             "en": "Franciszek Kęsy",
@@ -2862,6 +3065,7 @@
         "feasts": []
     },
     "patrons/franciscus/mar": {
+        "active": false,
         "names": {
             "pt": "Francisco Marto",
             "en": "Francisco Marto",
@@ -2874,6 +3078,7 @@
         "feasts": []
     },
     "patrons/franciscus/pau": {
+        "active": false,
         "names": {
             "it": "Francesco da Paola",
             "en": "Francis of Paola",
@@ -2886,6 +3091,7 @@
         "feasts": []
     },
     "patrons/franciscus/sal": {
+        "active": false,
         "names": {
             "fr": "François de Sales",
             "en": "Francis de Sales",
@@ -2898,6 +3104,7 @@
         "feasts": []
     },
     "patrons/franciscus/str": {
+        "active": false,
         "names": {
             "pl": "Franciszek Stryjas",
             "en": "Francis Stryjas",
@@ -2909,6 +3116,7 @@
         "feasts": []
     },
     "patrons/franciscus/xav": {
+        "active": false,
         "names": {
             "es": "Francisco Javier",
             "en": "Francis Xavier",
@@ -2929,6 +3137,7 @@
         }
     },
     "patrons/fulgentius/rus": {
+        "active": false,
         "names": {
             "la": "Fulgentius Ruspensis",
             "en": "Fulgentius of Ruspe",
@@ -2948,6 +3157,7 @@
         }
     },
     "patrons/gabriel/arc": {
+        "active": false,
         "names": {
             "la": "Gabriel Archangelus",
             "en": "Archangel Gabriel",
@@ -2959,6 +3169,7 @@
         "feasts": []
     },
     "patrons/gabriel/duf": {
+        "active": false,
         "names": {
             "fr": "Gabriel Taurin Dufresse",
             "en": "Gabriel Taurin Dufresse",
@@ -2979,6 +3190,7 @@
         }
     },
     "patrons/gaspar/ber": {
+        "active": false,
         "names": {
             "it": "Gaspare Bertoni",
             "la": "Gaspar Bertoni",
@@ -2992,6 +3204,7 @@
         "feasts": []
     },
     "patrons/gaspar/buf": {
+        "active": false,
         "names": {
             "it": "Gaspare del Bufalo",
             "en": "Gaspar del Bufalo",
@@ -3011,6 +3224,7 @@
         }
     },
     "patrons/gaudentius/rad": {
+        "active": false,
         "names": {
             "pl": "Radzim Gaudenty",
             "en": "Radim Gaudentius",
@@ -3030,6 +3244,7 @@
         }
     },
     "patrons/gemma/gal": {
+        "active": false,
         "names": {
             "it": "Gemma Galgani",
             "en": "Gemma Galgani",
@@ -3050,6 +3265,7 @@
         }
     },
     "patrons/genovefa/nem": {
+        "active": false,
         "names": {
             "fr": "Geneviève de Paris",
             "en": "Genovefa of Paris",
@@ -3070,6 +3286,7 @@
         }
     },
     "patrons/georgius/kas": {
+        "active": false,
         "names": {
             "pl": "Jerzy Kaszyra",
             "be": "Юрый Кашыра",
@@ -3082,6 +3299,7 @@
         "feasts": []
     },
     "patrons/georgius/mar": {
+        "active": false,
         "names": {
             "la": "Georgius",
             "en": "George of Lydda",
@@ -3094,6 +3312,7 @@
         "feasts": []
     },
     "patrons/georgius/pop": {
+        "active": false,
         "names": {
             "pl": "Jerzy Popiełuszko",
             "la": "Georgius Popiełuszko",
@@ -3113,6 +3332,7 @@
         }
     },
     "patrons/geraldus/bit": {
+        "active": false,
         "names": {
             "fr": "Guiraud de Béziers",
             "en": "Gerald of Béziers",
@@ -3135,6 +3355,7 @@
         }
     },
     "patrons/gerardus/abb": {
+        "active": false,
         "names": {
             "fr": "Gérard de Brogne",
             "en": "Gerard of Brogne",
@@ -3147,6 +3368,7 @@
         "feasts": []
     },
     "patrons/gerardus/sag": {
+        "active": false,
         "names": {
             "it": "Gerardo Sagredo",
             "hu": "Sagredo Gellért",
@@ -3168,6 +3390,7 @@
         }
     },
     "patrons/gertrudis/niv": {
+        "active": false,
         "names": {
             "nl": "Gertrudis van Nijvel",
             "en": "Gertrude of Nivelles",
@@ -3190,6 +3413,7 @@
         }
     },
     "patrons/gregorius/1pp": {
+        "active": false,
         "names": {
             "la": "Gregorius Magnus",
             "en": "Gregory the Great",
@@ -3201,6 +3425,7 @@
         "feasts": []
     },
     "patrons/gregorius/2pp": {
+        "active": false,
         "names": {
             "la": "Gregorius II",
             "en": "Gregory II",
@@ -3212,6 +3437,7 @@
         "feasts": []
     },
     "patrons/gregorius/3pp": {
+        "active": false,
         "names": {
             "la": "Gregorius III",
             "en": "Gregory III",
@@ -3223,6 +3449,7 @@
         "feasts": []
     },
     "patrons/gregorius/fra": {
+        "active": false,
         "names": {
             "pl": "Grzegorz Frąckowiak",
             "en": "Gregory Frąckowiak",
@@ -3234,6 +3461,7 @@
         "feasts": []
     },
     "patrons/gregorius/lak": {
+        "active": false,
         "names": {
             "uk": "Григорій Лакота",
             "pl": "Grzegorz Lakota",
@@ -3246,6 +3474,7 @@
         "feasts": []
     },
     "patrons/gregorius/naz": {
+        "active": false,
         "names": {
             "grc": "Γρηγόριος Ναζιανζηνός",
             "en": "Gregory of Nazianzus",
@@ -3258,6 +3487,7 @@
         "feasts": []
     },
     "patrons/gregorius/nys": {
+        "active": false,
         "names": {
             "el": "Γρηγόριος Νύσσης",
             "en": "Gregory of Nyssa",
@@ -3278,6 +3508,7 @@
         }
     },
     "patrons/guido/con": {
+        "active": false,
         "names": {
             "it": "Guido Maria Conforti",
             "en": "Guido Maria Conforti",
@@ -3298,6 +3529,7 @@
         }
     },
     "patrons/gunthramnus/rex": {
+        "active": false,
         "names": {
             "fr": "Gontran",
             "en": "Guntram",
@@ -3319,6 +3551,7 @@
         }
     },
     "patrons/hedwigis/duc": {
+        "active": false,
         "names": {
             "de": "Hedwig von Andechs",
             "en": "Hedwig of Silesia",
@@ -3332,6 +3565,7 @@
         "feasts": []
     },
     "patrons/hedwigis/hun": {
+        "active": false,
         "names": {
             "hu": "Anjou Hedvig",
             "la": "Hedvigis Andegavensis",
@@ -3351,6 +3585,7 @@
         }
     },
     "patrons/helena/mat": {
+        "active": false,
         "names": {
             "la": "Helena, mater Constantini",
             "en": "Helena, mother of Constantine",
@@ -3370,6 +3605,7 @@
         }
     },
     "patrons/henricus/krz": {
+        "active": false,
         "names": {
             "pl": "Henryk Krzysztofik",
             "en": "Henry Krzysztofik",
@@ -3381,6 +3617,7 @@
         "feasts": []
     },
     "patrons/henricus/mor": {
+        "active": false,
         "names": {
             "es": "Enrique Morant Pellicer",
             "en": "Henry Morant Pellicer",
@@ -3401,6 +3638,7 @@
         }
     },
     "patrons/hieronymus/dal": {
+        "active": false,
         "names": {
             "la": "Hieronymus Stridonensis",
             "en": "Jerome of Stridon",
@@ -3412,6 +3650,7 @@
         "feasts": []
     },
     "patrons/hieronymus/emi": {
+        "active": false,
         "names": {
             "it": "Girolamo Emiliani",
             "en": "Jerome Emiliani",
@@ -3424,6 +3663,7 @@
         "feasts": []
     },
     "patrons/hieronymus/tif": {
+        "active": false,
         "names": {
             "it": "Jeronimo Ranuzzi",
             "la": "Hieronymus Ranuzzi",
@@ -3443,6 +3683,7 @@
         }
     },
     "patrons/hilarius/1pp": {
+        "active": false,
         "names": {
             "la": "Papa Hilarius",
             "en": "Pope Hillary",
@@ -3454,6 +3695,7 @@
         "feasts": []
     },
     "patrons/hilarius/jan": {
+        "active": false,
         "names": {
             "pl": "Hilary Januszewski",
             "en": "Hillary Januszewski",
@@ -3472,6 +3714,7 @@
         }
     },
     "patrons/hormisdas/1pp": {
+        "active": false,
         "names": {
             "la": "Hormisdas",
             "en": "Hormisdas",
@@ -3492,6 +3735,7 @@
         }
     },
     "patrons/hyacintha/mar": {
+        "active": false,
         "names": {
             "it": "Giacinta Marescotti",
             "en": "Hyacintha Mariscotti",
@@ -3504,6 +3748,7 @@
         "feasts": []
     },
     "patrons/hyacintha/mat": {
+        "active": false,
         "names": {
             "pt": "Jacinta Marto",
             "en": "Jacinta Marto",
@@ -3523,6 +3768,7 @@
         }
     },
     "patrons/hyacinthus/cra": {
+        "active": false,
         "names": {
             "pl": "Jacek Odrowąż",
             "en": "Hyacinth of Poland",
@@ -3542,6 +3788,7 @@
         }
     },
     "patrons/iacobinus/can": {
+        "active": false,
         "names": {
             "it": "Giacomino de Canepacci",
             "en": "Jacobinus de Canepacci",
@@ -3563,6 +3810,7 @@
         }
     },
     "patrons/iacobus/ben": {
+        "active": false,
         "names": {
             "it": "Giacomo Benfatti",
             "pl": "Jakub Benfatti",
@@ -3575,6 +3823,7 @@
         "feasts": []
     },
     "patrons/iacobus/ber": {
+        "active": false,
         "names": {
             "fr": "Jacques Berthieu",
             "en": "James Berthieu",
@@ -3587,6 +3836,7 @@
         "feasts": []
     },
     "patrons/iacobus/mai": {
+        "active": false,
         "names": {
             "la": "Iacobus Maior Apostolus",
             "en": "James the Great",
@@ -3599,6 +3849,7 @@
         "feasts": []
     },
     "patrons/iacobus/min": {
+        "active": false,
         "names": {
             "la": "Iacobus Minor Apostolus",
             "en": "James the Less Apostle",
@@ -3610,6 +3861,7 @@
         "feasts": []
     },
     "patrons/iacobus/str": {
+        "active": false,
         "names": {
             "pl": "Jakub Strzemię",
             "en": "James Strzemie",
@@ -3628,6 +3880,7 @@
         }
     },
     "patrons/ianuarius/ben": {
+        "active": false,
         "names": {
             "la": "Ianuarius Beneventanus",
             "en": "Januarius of Benevento",
@@ -3646,6 +3899,7 @@
         }
     },
     "patrons/iarognievus/woj": {
+        "active": false,
         "names": {
             "pl": "Jarogniew Wojciechowski",
             "en": "Jarogniew Wojciechowski",
@@ -3666,6 +3920,7 @@
         }
     },
     "patrons/ieremias/pro": {
+        "active": false,
         "names": {
             "he": "ירמיהו",
             "en": "Jeremiah Prophet",
@@ -3678,6 +3933,7 @@
         "feasts": []
     },
     "patrons/ieremias/val": {
+        "active": false,
         "names": {
             "ro": "Ieremia Valahul",
             "en": "Jeremiah of Wallachia",
@@ -3699,6 +3955,7 @@
         }
     },
     "patrons/iesus/men": {
+        "active": false,
         "names": {
             "es": "Jesús Méndez Montoya",
             "en": "Jesus Mendez Montoya",
@@ -3721,6 +3978,7 @@
         }
     },
     "patrons/ignatius/ant": {
+        "active": false,
         "names": {
             "grc": "Ἰγνάτιος Ἀντιοχείας",
             "en": "Ignatius of Antioch",
@@ -3733,6 +3991,7 @@
         "feasts": []
     },
     "patrons/ignatius/loy": {
+        "active": false,
         "names": {
             "es": "Ignacio de Loyola",
             "la": "Ignatius de Loyola",
@@ -3745,6 +4004,7 @@
         "feasts": []
     },
     "patrons/ignatius/mal": {
+        "active": false,
         "names": {
             "hy": "Իգնատիոս Մալոյան",
             "en": "Ignatius Maloyan",
@@ -3765,6 +4025,7 @@
         }
     },
     "patrons/ioachim/mar": {
+        "active": false,
         "names": {
             "he": "יהוֹיָקִים",
             "en": "Joachim father of Mary",
@@ -3787,6 +4048,7 @@
         }
     },
     "patrons/ioanna/arc": {
+        "active": false,
         "names": {
             "fr": "Jeanne d'Arc",
             "en": "Joan of Arc",
@@ -3799,6 +4061,7 @@
         "feasts": []
     },
     "patrons/ioanna/ber": {
+        "active": false,
         "names": {
             "it": "Gianna Beretta Molla",
             "en": "Joan Beretta Molla",
@@ -3811,6 +4074,7 @@
         "feasts": []
     },
     "patrons/ioanna/les": {
+        "active": false,
         "names": {
             "fr": "Jeanne de Lestonnac",
             "en": "Joan of Lestonnac",
@@ -3823,6 +4087,7 @@
         "feasts": []
     },
     "patrons/ioanna/mai": {
+        "active": false,
         "names": {
             "fr": "Jeanne-Marie de Maillé",
             "en": "Joan Mary of Maille",
@@ -3835,6 +4100,7 @@
         "feasts": []
     },
     "patrons/ioanna/val": {
+        "active": false,
         "names": {
             "fr": "Jeanne de Valois",
             "en": "Joan of Valois",
@@ -3847,6 +4113,7 @@
         "feasts": []
     },
     "patrons/ioanna/ver": {
+        "active": false,
         "names": {
             "fr": "Jeanne Véron",
             "en": "Joan Veron",
@@ -3872,6 +4139,7 @@
         }
     },
     "patrons/ioannes/23p": {
+        "active": false,
         "names": {
             "it": "Giovanni XXIII",
             "en": "John XXIII",
@@ -3884,6 +4152,7 @@
         "feasts": []
     },
     "patrons/ioannes/bap": {
+        "active": false,
         "names": {
             "he": "יוֹחָנָן",
             "en": "John the Baptist",
@@ -3897,24 +4166,28 @@
         ],
         "feasts": {
             "feasts/ril": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
             "feasts/dbl": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
                 }
             },
             "feasts/nib": {
+                "active": false,
                 "names": {
                     "la": "Nativitas sancti Ioannis Baptistae",
                     "pl": "Narodziny świętego Jana Chrzciciela"
                 }
             },
             "feasts/pib": {
+                "active": false,
                 "names": {
                     "la": "Passio sancti Ioannis Baptistae",
                     "pl": "Męczeństwo świętego Jana Chrzciciela"
@@ -3923,6 +4196,7 @@
         }
     },
     "patrons/ioannes/bod": {
+        "active": false,
         "names": {
             "en": "John Bodey",
             "pl": "Jan Bodey",
@@ -3934,6 +4208,7 @@
         "feasts": []
     },
     "patrons/ioannes/bos": {
+        "active": false,
         "names": {
             "it": "Giovanni Bosco",
             "en": "John Bosco",
@@ -3946,6 +4221,7 @@
         "feasts": []
     },
     "patrons/ioannes/cal": {
+        "active": false,
         "names": {
             "it": "Giovanni Giuseppe della Croce",
             "en": "John Joseph of the Cross",
@@ -3958,6 +4234,7 @@
         "feasts": []
     },
     "patrons/ioannes/cap": {
+        "active": false,
         "names": {
             "it": "Giovanni da Capestrano",
             "la": "Ioannes de Capistranus",
@@ -3970,6 +4247,7 @@
         "feasts": []
     },
     "patrons/ioannes/chr": {
+        "active": false,
         "names": {
             "la": "Ioannes Chrysostomus",
             "en": "John Chrysostom",
@@ -3981,6 +4259,7 @@
         "feasts": []
     },
     "patrons/ioannes/deo": {
+        "active": false,
         "names": {
             "pt": "João de Deus",
             "en": "John of God",
@@ -3993,6 +4272,7 @@
         "feasts": []
     },
     "patrons/ioannes/duk": {
+        "active": false,
         "names": {
             "la": "Ioannes de Dukla",
             "en": "John of Dukla",
@@ -4004,6 +4284,7 @@
         "feasts": []
     },
     "patrons/ioannes/dun": {
+        "active": false,
         "names": {
             "de": "Johannes Duns Scotus",
             "en": "John Duns Scotus",
@@ -4016,6 +4297,7 @@
         "feasts": []
     },
     "patrons/ioannes/eva": {
+        "active": false,
         "names": {
             "la": "Ioannes Evangelista",
             "en": "John the Evangelist",
@@ -4026,24 +4308,28 @@
         ],
         "feasts": {
             "feasts/oie": {
+                "active": false,
                 "names": {
                     "la": "Octava sancti Ioannis Apostoli",
                     "pl": "Oktawa świętego Jana Apostoła"
                 }
             },
             "feasts/ole": {
+                "active": false,
                 "names": {
                     "la": "Joannis Apostolus in olei",
                     "pl": "Jan Apostoł w oleju"
                 }
             },
             "feasts/ril": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
             "feasts/dbl": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
@@ -4052,6 +4338,7 @@
         }
     },
     "patrons/ioannes/ham": {
+        "active": false,
         "names": {
             "en": "John Hambley",
             "la": "Ioannes Hambley",
@@ -4063,6 +4350,7 @@
         "feasts": []
     },
     "patrons/ioannes/ket": {
+        "active": false,
         "names": {
             "pl": "Jan Kanty",
             "en": "John Cantius",
@@ -4074,6 +4362,7 @@
         "feasts": []
     },
     "patrons/ioannes/low": {
+        "active": false,
         "names": {
             "en": "John Lowe",
             "la": "Ioannes Lowe",
@@ -4085,6 +4374,7 @@
         "feasts": []
     },
     "patrons/ioannes/nep": {
+        "active": false,
         "names": {
             "cs": "Jan Nepomucký",
             "en": "John of Nepomuk",
@@ -4097,6 +4387,7 @@
         "feasts": []
     },
     "patrons/ioannes/ogi": {
+        "active": false,
         "names": {
             "en": "John Ogilvie",
             "la": "Ioannes Ogilvie",
@@ -4108,6 +4399,7 @@
         "feasts": []
     },
     "patrons/ioannes/p1p": {
+        "active": false,
         "names": {
             "it": "Giovanni Paolo I",
             "la": "Ioannes Paulus Pp. I",
@@ -4120,6 +4412,7 @@
         "feasts": []
     },
     "patrons/ioannes/p2p": {
+        "active": false,
         "names": {
             "pl": "Jan Paweł II",
             "en": "John Paul II",
@@ -4131,6 +4424,7 @@
         "feasts": []
     },
     "patrons/ioannes/rib": {
+        "active": false,
         "names": {
             "es": "Juan de Ribera",
             "en": "John de Ribera",
@@ -4143,6 +4437,7 @@
         "feasts": []
     },
     "patrons/ioannes/sal": {
+        "active": false,
         "names": {
             "fr": "Jean-Baptiste de la Salle",
             "en": "John Baptist de la Salle",
@@ -4155,6 +4450,7 @@
         "feasts": []
     },
     "patrons/ioannes/sar": {
+        "active": false,
         "names": {
             "cs": "Jan Sarkander",
             "en": "John Sarkander",
@@ -4167,6 +4463,7 @@
         "feasts": []
     },
     "patrons/ioannes/tup": {
+        "active": false,
         "names": {
             "la": "Ioannes de Tupharia",
             "en": "John of Tufaria",
@@ -4178,6 +4475,7 @@
         "feasts": []
     },
     "patrons/ioannes/ven": {
+        "active": false,
         "names": {
             "fr": "Jean-Théophane Vénard",
             "en": "John Theophanes Vénard",
@@ -4190,6 +4488,7 @@
         "feasts": []
     },
     "patrons/ioannes/via": {
+        "active": false,
         "names": {
             "fr": "Jean-Marie Vianney",
             "en": "John Mary Vianney",
@@ -4209,6 +4508,7 @@
         }
     },
     "patrons/iosaphat/kun": {
+        "active": false,
         "names": {
             "pl": "Jozafat Kuncewicz",
             "en": "Josaphat Kuntsevych",
@@ -4228,6 +4528,7 @@
         }
     },
     "patrons/ioseph/ari": {
+        "active": false,
         "names": {
             "la": "Joseph ab Arimathaea",
             "en": "Joseph of Arimathea",
@@ -4239,6 +4540,7 @@
         "feasts": []
     },
     "patrons/ioseph/naz": {
+        "active": false,
         "names": {
             "arc": "ܡܪܝ ܝܘܣܦ",
             "en": "Joseph",
@@ -4250,18 +4552,21 @@
         ],
         "feasts": {
             "feasts/sfa": {
+                "active": false,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
                 }
             },
             "feasts/sin": {
+                "active": false,
                 "names": {
                     "la": "loseph Sponsus beatissimae Virginis Mariae",
                     "pl": "Józef Oblubieniec Najświętszej Maryi Panny"
                 }
             },
             "feasts/oin": {
+                "active": false,
                 "names": {
                     "la": "loseph Opifex",
                     "pl": "Józef Rzemieślnik"
@@ -4278,6 +4583,7 @@
         }
     },
     "patrons/iosephina/bak": {
+        "active": false,
         "names": {
             "ar": "جوزفين بخيتة",
             "en": "Josephine Bakhita",
@@ -4301,6 +4607,7 @@
         }
     },
     "patrons/iosephus/esc": {
+        "active": false,
         "names": {
             "es": "Josemaría Escrivá de Balaguer",
             "en": "Josemaría Escrivá de Balaguer",
@@ -4313,6 +4620,7 @@
         "feasts": []
     },
     "patrons/iosephus/kur": {
+        "active": false,
         "names": {
             "pl": "Józef Kurzawa",
             "en": "Joseph Kurzawa",
@@ -4325,6 +4633,7 @@
         "feasts": []
     },
     "patrons/iosephus/kut": {
+        "active": false,
         "names": {
             "pl": "Józef Kut",
             "en": "Joseph Kut",
@@ -4336,6 +4645,7 @@
         "feasts": []
     },
     "patrons/iosephus/mor": {
+        "active": false,
         "names": {
             "fr": "Joseph Moreau",
             "en": "Joseph Moreau",
@@ -4348,6 +4658,7 @@
         "feasts": []
     },
     "patrons/iosephus/ngu": {
+        "active": false,
         "names": {
             "vi": "Giuse Nguyễn Đình Nghi",
             "la": "Iosephus Nguyen Dinh Nghi",
@@ -4360,6 +4671,7 @@
         "feasts": []
     },
     "patrons/iosephus/pel": {
+        "active": false,
         "names": {
             "pl": "Józef Sebastian Pelczar",
             "en": "Joseph Sebastian Pelczar",
@@ -4371,6 +4683,7 @@
         "feasts": []
     },
     "patrons/iosephus/tom": {
+        "active": false,
         "names": {
             "it": "Giuseppe Maria Tomasi",
             "en": "Joseph Mary Tomasi",
@@ -4383,6 +4696,7 @@
         "feasts": []
     },
     "patrons/iosephus/tua": {
+        "active": false,
         "names": {
             "vi": "Giuse Trần Văn Tuấn",
             "en": "Jóseph Trần Văn Tuấn",
@@ -4395,6 +4709,7 @@
         "feasts": []
     },
     "patrons/iosephus/yua": {
+        "active": false,
         "names": {
             "zh": "袁在德若瑟",
             "en": "Joseph John Zaide",
@@ -4407,6 +4722,7 @@
         "feasts": []
     },
     "patrons/iosephus/zap": {
+        "active": false,
         "names": {
             "pl": "Józef Zapłata",
             "en": "Joseph Zaplata",
@@ -4425,6 +4741,7 @@
         }
     },
     "patrons/iosue/nun": {
+        "active": false,
         "names": {
             "la": "Iosue, filius Nun",
             "en": "Joshua, son of Nun",
@@ -4444,6 +4761,7 @@
         }
     },
     "patrons/irmina/tre": {
+        "active": false,
         "names": {
             "la": "Irmina de Oeren",
             "en": "Irmina of Oeren",
@@ -4463,6 +4781,7 @@
         }
     },
     "patrons/isaias/pro": {
+        "active": false,
         "names": {
             "he": "יְשַׁעְיָהוּ",
             "en": "Isaiah",
@@ -4483,6 +4802,7 @@
         }
     },
     "patrons/isidorus/his": {
+        "active": false,
         "names": {
             "la": "Isidorus Hispalensis",
             "en": "Isidore of Seville",
@@ -4501,6 +4821,7 @@
         }
     },
     "patrons/iudas/tha": {
+        "active": false,
         "names": {
             "la": "Iudas Thaddaeus",
             "en": "Judas Thaddaeus",
@@ -4519,6 +4840,7 @@
         }
     },
     "patrons/iulia/rod": {
+        "active": false,
         "names": {
             "pl": "Julia Rodzińska",
             "en": "Julia Rodzińska",
@@ -4538,6 +4860,7 @@
         }
     },
     "patrons/iulitta/cae": {
+        "active": false,
         "names": {
             "el": "Ιουλίτα της Καισάρειας",
             "en": "Julitta of Caesarea",
@@ -4558,6 +4881,7 @@
         }
     },
     "patrons/iustina/pat": {
+        "active": false,
         "names": {
             "it": "Giustina di Padova",
             "la": "Iustina Patavina",
@@ -4578,6 +4902,7 @@
         }
     },
     "patrons/iustinus/iac": {
+        "active": false,
         "names": {
             "it": "Giustino de Jacobis",
             "en": "Justin de Jacobis",
@@ -4597,6 +4922,7 @@
         }
     },
     "patrons/iustus/pas": {
+        "active": false,
         "names": {
             "la": "Iustus /+ Pastor",
             "en": "Justus /+ Pastor",
@@ -4615,6 +4941,7 @@
         }
     },
     "patrons/iuvenalis/nar": {
+        "active": false,
         "names": {
             "la": "Iuvenalis Narniensis",
             "en": "Juvenal of Narni",
@@ -4633,6 +4960,7 @@
         }
     },
     "patrons/kinga/cun": {
+        "active": false,
         "names": {
             "pl": "Kinga",
             "en": "Kinga of Poland",
@@ -4651,6 +4979,7 @@
         }
     },
     "patrons/ladislaus/ulm": {
+        "active": false,
         "names": {
             "pl": "Władysław Ulma",
             "en": "Ladislas Ulma",
@@ -4670,6 +4999,7 @@
         }
     },
     "patrons/laurentius/bru": {
+        "active": false,
         "names": {
             "it": "Lorenzo da Brindisi",
             "en": "Lawrence of Brindisi",
@@ -4682,6 +5012,7 @@
         "feasts": []
     },
     "patrons/laurentius/can": {
+        "active": false,
         "names": {
             "en": "Laurence of Canterbury",
             "la": "Laurentius Cantuariensis",
@@ -4693,6 +5024,7 @@
         "feasts": []
     },
     "patrons/laurentius/rom": {
+        "active": false,
         "names": {
             "la": "Laurentius de Roma",
             "en": "Lawrence of Rome",
@@ -4711,6 +5043,7 @@
         }
     },
     "patrons/lazarus/med": {
+        "active": false,
         "names": {
             "la": "Lazarus Mediolanensis",
             "en": "Lazarus of Milan",
@@ -4729,6 +5062,7 @@
         }
     },
     "patrons/leo/1pp": {
+        "active": false,
         "names": {
             "la": "Leo I Magnus",
             "en": "Leo I the Great",
@@ -4740,6 +5074,7 @@
         "feasts": []
     },
     "patrons/leo/now": {
+        "active": false,
         "names": {
             "pl": "Leon Nowakowski",
             "en": "Leon Nowakowski",
@@ -4759,6 +5094,7 @@
         }
     },
     "patrons/leonardus/ere": {
+        "active": false,
         "names": {
             "fr": "Léonard de Noblat",
             "en": "Leonard of Noblac",
@@ -4780,6 +5116,7 @@
         }
     },
     "patrons/lucas/eva": {
+        "active": false,
         "names": {
             "el": "Ευαγγελιστής Λουκάς",
             "en": "Luke the Evangelist",
@@ -4801,6 +5138,7 @@
         }
     },
     "patrons/lucia/syr": {
+        "active": false,
         "names": {
             "it": "Lucia da Siracusa",
             "en": "Lucia of Syracuse",
@@ -4822,6 +5160,7 @@
         }
     },
     "patrons/ludovica/mar": {
+        "active": false,
         "names": {
             "fr": "Louise de Marillac",
             "en": "Louise de Marillac",
@@ -4842,6 +5181,7 @@
         }
     },
     "patrons/ludovicus/rex": {
+        "active": false,
         "names": {
             "fr": "Louis IX, roi de France",
             "la": "Ludovicus IX, rex Franciae",
@@ -4861,6 +5201,7 @@
         }
     },
     "patrons/lydia/thy": {
+        "active": false,
         "names": {
             "la": "Lydia Thyatirensis",
             "en": "Lydia of Thyatira",
@@ -4880,6 +5221,7 @@
         }
     },
     "patrons/macarius/hie": {
+        "active": false,
         "names": {
             "el": "Μακάριος Ἱεροσολύμων",
             "en": "Macarius of Jerusalem",
@@ -4901,6 +5243,7 @@
         }
     },
     "patrons/magdalena/can": {
+        "active": false,
         "names": {
             "it": "Maddalena di Canossa",
             "en": "Magdalene of Canossa",
@@ -4913,6 +5256,7 @@
         "feasts": []
     },
     "patrons/magdalena/mor": {
+        "active": false,
         "names": {
             "it": "Maddalena Caterina Morano",
             "en": "Magdalene Catherine Morano",
@@ -4933,6 +5277,7 @@
         }
     },
     "patrons/magnus/abb": {
+        "active": false,
         "names": {
             "de": "Magnus von Füssen",
             "la": "Magnus",
@@ -4953,6 +5298,7 @@
         }
     },
     "patrons/malachias/pro": {
+        "active": false,
         "names": {
             "la": "Malachias Propheta",
             "en": "Malachi the Prophet",
@@ -4972,6 +5318,7 @@
         }
     },
     "patrons/marcellina/dar": {
+        "active": false,
         "names": {
             "pl": "Marcelina Darowska",
             "en": "Marcelina Darowska",
@@ -4990,6 +5337,7 @@
         }
     },
     "patrons/marcellinus/1pp": {
+        "active": false,
         "names": {
             "la": "Marcellinus Papa",
             "en": "Pope Marcellinus",
@@ -5008,6 +5356,7 @@
         }
     },
     "patrons/marcellus/1pp": {
+        "active": false,
         "names": {
             "la": "Marcellus Papa",
             "en": "Marcellus Pope",
@@ -5026,6 +5375,7 @@
         }
     },
     "patrons/marcus/eva": {
+        "active": false,
         "names": {
             "la": "Marcus Evangelista",
             "en": "Mark the Evangelist",
@@ -5037,6 +5387,7 @@
         "feasts": []
     },
     "patrons/marcus/hie": {
+        "active": false,
         "names": {
             "la": "Marcus Hierosolymitanus",
             "en": "Mark of Jerusalem",
@@ -5048,6 +5399,7 @@
         "feasts": []
     },
     "patrons/marcus/mar": {
+        "active": false,
         "names": {
             "la": "Marcus /+ Marcellianus",
             "en": "Mark /+ Marcellian",
@@ -5069,6 +5421,7 @@
         }
     },
     "patrons/margarita/ala": {
+        "active": false,
         "names": {
             "fr": "Marguerite-Marie Alacoque",
             "en": "Margaret Mary Alacoque",
@@ -5081,6 +5434,7 @@
         "feasts": []
     },
     "patrons/margarita/cor": {
+        "active": false,
         "names": {
             "it": "Margherita da Cortona",
             "en": "Margaret of Cortona",
@@ -5093,6 +5447,7 @@
         "feasts": []
     },
     "patrons/margarita/ebn": {
+        "active": false,
         "names": {
             "de": "Margareta Ebner",
             "en": "Margaret Ebner",
@@ -5105,6 +5460,7 @@
         "feasts": []
     },
     "patrons/margarita/lot": {
+        "active": false,
         "names": {
             "fr": "Marguerite de Lorraine-Vaudémont",
             "en": "Margaret of Lorraine",
@@ -5117,6 +5473,7 @@
         "feasts": []
     },
     "patrons/margarita/pis": {
+        "active": false,
         "names": {
             "la": "Margarita Antiochena",
             "en": "Margaret of Antioch",
@@ -5128,6 +5485,7 @@
         "feasts": []
     },
     "patrons/margarita/sze": {
+        "active": false,
         "names": {
             "pl": "Małgorzata Łucja Szewczyk",
             "en": "Margaret Lucy Szewczyk",
@@ -5139,6 +5497,7 @@
         "feasts": []
     },
     "patrons/margarita/war": {
+        "active": false,
         "names": {
             "en": "Margaret Ward",
             "la": "Margarita Ward",
@@ -5163,6 +5522,7 @@
         }
     },
     "patrons/maria/aeg": {
+        "active": false,
         "names": {
             "el": "Μαρία η Αιγυπτία",
             "en": "Mary of Egypt",
@@ -5175,6 +5535,7 @@
         "feasts": []
     },
     "patrons/maria/bie": {
+        "active": false,
         "names": {
             "pl": "Maria Anna Biernacka",
             "en": "Maria Anna Biernacka",
@@ -5186,6 +5547,7 @@
         "feasts": []
     },
     "patrons/maria/bor": {
+        "active": false,
         "names": {
             "pl": "Maria Felicyta Borowik",
             "en": "Mary Felicity Borowik",
@@ -5197,6 +5559,7 @@
         "feasts": []
     },
     "patrons/maria/chr": {
+        "active": false,
         "names": {
             "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
             "en": "Mary Canuta of the Agonized Jesus in the Garden",
@@ -5208,6 +5571,7 @@
         "feasts": []
     },
     "patrons/maria/cie": {
+        "active": false,
         "names": {
             "pl": "Maria Gwidona od Miłosierdzia Bożego",
             "en": "Mary Guidona of Divine Mercy",
@@ -5219,6 +5583,7 @@
         "feasts": []
     },
     "patrons/maria/dur": {
+        "active": false,
         "names": {
             "fr": "Marie-Rose Durocher",
             "pl": "Maria Róża Durocher",
@@ -5231,6 +5596,7 @@
         "feasts": []
     },
     "patrons/maria/gal": {
+        "active": false,
         "names": {
             "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
             "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
@@ -5243,6 +5609,7 @@
         "feasts": []
     },
     "patrons/maria/joz": {
+        "active": false,
         "names": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
             "en": "Mary Daniela of Jesus and Immaculate Mary",
@@ -5254,6 +5621,7 @@
         "feasts": []
     },
     "patrons/maria/kar": {
+        "active": false,
         "names": {
             "pl": "Maria Karłowska",
             "en": "Maria Karłowska",
@@ -5265,6 +5633,7 @@
         "feasts": []
     },
     "patrons/maria/kas": {
+        "active": false,
         "names": {
             "de": "Maria Katharina Kasper",
             "en": "Maria Katharina Kasper",
@@ -5277,6 +5646,7 @@
         "feasts": []
     },
     "patrons/maria/kow": {
+        "active": false,
         "names": {
             "pl": "Maria Faustyna Kowalska",
             "en": "Maria Faustyna Kowalska",
@@ -5288,6 +5658,7 @@
         "feasts": []
     },
     "patrons/maria/kra": {
+        "active": false,
         "names": {
             "pl": "Maria Antonina Kratochwil",
             "la": "Maria Antonina Kratochwil",
@@ -5299,6 +5670,7 @@
         "feasts": []
     },
     "patrons/maria/kuk": {
+        "active": false,
         "names": {
             "pl": "Maria Rajmunda od Jezusa i Maryi",
             "en": "Mary Raymunda of Jesus and Mary",
@@ -5310,6 +5682,7 @@
         "feasts": []
     },
     "patrons/maria/mac": {
+        "active": false,
         "names": {
             "pl": "Maria Kanizja Mackiewicz",
             "en": "Mary Canisia Mackiewicz",
@@ -5321,6 +5694,7 @@
         "feasts": []
     },
     "patrons/maria/mag": {
+        "active": false,
         "names": {
             "en": "Mary Magdalene",
             "la": "Maria Magdalena",
@@ -5332,6 +5706,7 @@
         "feasts": []
     },
     "patrons/maria/mar": {
+        "active": false,
         "names": {
             "pl": "Maria Stella od Najświętszego Sakramentu",
             "en": "Maria Stella of the Blessed Sacrament",
@@ -5343,6 +5718,7 @@
         "feasts": []
     },
     "patrons/maria/mat": {
+        "active": false,
         "names": {
             "pl": "Maria Heliodora Matuszewska",
             "en": "Mary Heliodora Matuszewska",
@@ -5354,6 +5730,7 @@
         "feasts": []
     },
     "patrons/maria/nar": {
+        "active": false,
         "names": {
             "pl": "Maria Boromea Narmontowicz",
             "en": "Mary Boromea Narmontowicz",
@@ -5365,6 +5742,7 @@
         "feasts": []
     },
     "patrons/maria/nav": {
+        "active": false,
         "names": {
             "es": "María Ana de Jesús Navarro",
             "en": "Maria Anna of Jesus Navarro",
@@ -5377,6 +5755,7 @@
         "feasts": []
     },
     "patrons/maria/naz": {
+        "active": false,
         "names": {
             "arc": "ܡܪܝܡ",
             "en": "Mary, mother of Jesus",
@@ -5388,6 +5767,7 @@
         ],
         "feasts": {
             "feasts/gen": {
+                "active": false,
                 "names": {
                     "en": "Maria, Holy Mother of God",
                     "la": "Maria, Sancta Dei Genetrix",
@@ -5395,6 +5775,7 @@
                 }
             },
             "feasts/pur": {
+                "active": false,
                 "names": {
                     "la": "Purificatio Beatae Mariae Virginis",
                     "en": "The Purification of the Blessed Virgin Mary",
@@ -5402,12 +5783,14 @@
                 }
             },
             "feasts/lou": {
+                "active": false,
                 "names": {
                     "la": "Beatae Maria Virgo de Lourdes",
                     "pl": "Matka Boża z Lourdes"
                 }
             },
             "feasts/anm": {
+                "active": false,
                 "names": {
                     "la": "Annuntatio beatissimae Virginis Genitricis Dei Mariae",
                     "en": "The Annunciation to the Blessed Virgin Mary",
@@ -5415,12 +5798,14 @@
                 }
             },
             "feasts/fat": {
+                "active": false,
                 "names": {
                     "la": "Beatae Maria Virgo de Fatima",
                     "pl": "Błogosławiona Maryja Dziewica Fatimska"
                 }
             },
             "feasts/vis": {
+                "active": false,
                 "names": {
                     "la": "Visitatio Beatae Mariae Virginis",
                     "en": "The Visitation of the Blessed Virgin Mary",
@@ -5428,6 +5813,7 @@
                 }
             },
             "feasts/mmc": {
+                "active": false,
                 "names": {
                     "en": "Blessed Maria Virgin of Mount Carmel",
                     "la": "Beatae Maria Virgo de Monte Carmelo",
@@ -5435,18 +5821,21 @@
                 }
             },
             "feasts/dbm": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicae Sanctae Mariae in Romae",
                     "pl": "Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie"
                 }
             },
             "feasts/amv": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Assumptionis Beatae Mariae Virginis",
                     "pl": "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
                 }
             },
             "feasts/ass": {
+                "active": false,
                 "names": {
                     "en": "Assumption of Mary",
                     "la": "Assumptio Beatae Mariae Virginis",
@@ -5454,6 +5843,7 @@
                 }
             },
             "feasts/reg": {
+                "active": false,
                 "names": {
                     "la": "Beatae Maria Virgo Regina",
                     "en": "The Blessed Virgin Mary, Queen",
@@ -5461,54 +5851,63 @@
                 }
             },
             "feasts/amo": {
+                "active": false,
                 "names": {
                     "la": "Octava Assumptionis Beatae Mariae Virginis",
                     "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
                 }
             },
             "feasts/sfa": {
+                "active": false,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
                 }
             },
             "feasts/rmm": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctam Mariam Majorem",
                     "pl": "Rzymska mała procesja błagalna do świętej Maryi Większej"
                 }
             },
             "feasts/ico": {
+                "active": false,
                 "names": {
                     "la": "Immaculatum Cor beate Mariae Virginis",
                     "pl": "Niepokalane Serce Najświętszej Maryi Panny"
                 }
             },
             "feasts/snm": {
+                "active": false,
                 "names": {
                     "la": "Sanctissimum Nomen beate Virginis Mariae",
                     "pl": "Najświętsze Imię Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/7dm": {
+                "active": false,
                 "names": {
                     "la": "Septem Dolores beatissimae Vírginis Mariae",
                     "pl": "Siedem Boleści Najświętszej Maryi Panny"
                 }
             },
             "feasts/per": {
+                "active": false,
                 "names": {
                     "la": "Beate Maria Virgo Perdolentis",
                     "pl": "Matka Boska Bolesna"
                 }
             },
             "feasts/ros": {
+                "active": false,
                 "names": {
                     "la": "Beatae Maria Virgo de Rosario",
                     "pl": "Błogosławiona Maryja Dziewica Różańcowa"
                 }
             },
             "feasts/mat": {
+                "active": false,
                 "names": {
                     "en": "The Motherhood of the Blessed Virgin Mary",
                     "la": "Maternitatem beatae Mariae Virginis",
@@ -5516,6 +5915,7 @@
                 }
             },
             "feasts/prm": {
+                "active": false,
                 "names": {
                     "la": "Praesentatio Beatae Mariae Virginis",
                     "en": "The Presentation of the Blessed Virgin Mary",
@@ -5523,24 +5923,28 @@
                 }
             },
             "feasts/mrp": {
+                "active": false,
                 "names": {
                     "en": "The Most Holy Virgin Mary, Queen of Poland",
                     "pl": "Najświętsza Maryja Panna Królowa Polski"
                 }
             },
             "feasts/civ": {
+                "active": false,
                 "names": {
                     "la": "Vigilia Conceptionis Immaculatae beatae Mariae Virginis",
                     "pl": "Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/cim": {
+                "active": false,
                 "names": {
                     "la": "Conceptio Immaculata beatae Mariae Virginis",
                     "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/cio": {
+                "active": false,
                 "names": {
                     "la": "Octava Conceptionis Immaculatae beatae Mariae Virginis",
                     "pl": "Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
@@ -5549,6 +5953,7 @@
         }
     },
     "patrons/maria/pos": {
+        "active": false,
         "names": {
             "fr": "Marie-Madeleine Postel",
             "en": "Mary Magdalene Postel",
@@ -5561,6 +5966,7 @@
         "feasts": []
     },
     "patrons/maria/rap": {
+        "active": false,
         "names": {
             "pl": "Maria Sergia od Matki Bożej Bolesnej",
             "en": "Mary Sergia of Our Lady of Sorrows",
@@ -5572,6 +5978,7 @@
         "feasts": []
     },
     "patrons/maria/rub": {
+        "active": false,
         "names": {
             "it": "Maria Francesca di Gesù",
             "en": "Maria Francesca of Jesus",
@@ -5584,6 +5991,7 @@
         "feasts": []
     },
     "patrons/maria/sch": {
+        "active": false,
         "names": {
             "de": "Maria Theresia Scherer",
             "en": "Maria Therese Scherer",
@@ -5596,6 +6004,7 @@
         "feasts": []
     },
     "patrons/maria/sie": {
+        "active": false,
         "names": {
             "pl": "Maria od Jezusa Dobrego Pasterza",
             "en": "Maria of Jesus the Good Shepherd",
@@ -5607,6 +6016,7 @@
         "feasts": []
     },
     "patrons/maria/sou": {
+        "active": false,
         "names": {
             "fr": "Bernadette-Marie Soubirous",
             "en": "Bernadette Soubirous",
@@ -5619,6 +6029,7 @@
         "feasts": []
     },
     "patrons/maria/zak": {
+        "active": false,
         "names": {
             "pl": "Maria Imelda od Jezusa Hostii",
             "en": "Mary Imelda of the Eucharistic Jesus",
@@ -5637,6 +6048,7 @@
         }
     },
     "patrons/marianus/gor": {
+        "active": false,
         "names": {
             "pl": "Marian Górecki",
             "en": "Marian Górecki",
@@ -5648,6 +6060,7 @@
         "feasts": []
     },
     "patrons/marianus/kon": {
+        "active": false,
         "names": {
             "pl": "Marian Konopiński",
             "en": "Marian Konopiński",
@@ -5666,6 +6079,7 @@
         }
     },
     "patrons/martha/laz": {
+        "active": false,
         "names": {
             "la": "Martha Bethaniae",
             "en": "Martha of Bethany",
@@ -5685,6 +6099,7 @@
         }
     },
     "patrons/martinus/por": {
+        "active": false,
         "names": {
             "es": "Martín de Porres",
             "la": "Martinus de Porres",
@@ -5697,6 +6112,7 @@
         "feasts": []
     },
     "patrons/martinus/tur": {
+        "active": false,
         "names": {
             "la": "Martinus Turonensis",
             "en": "Martin of Tours",
@@ -5716,6 +6132,7 @@
         }
     },
     "patrons/mathildis/reg": {
+        "active": false,
         "names": {
             "de": "Mathilde von Ringelheim",
             "en": "Matilda of Ringelheim",
@@ -5736,6 +6153,7 @@
         }
     },
     "patrons/matthaeus/eva": {
+        "active": false,
         "names": {
             "he": "מתיו האוונגליסט",
             "en": "Matthew the Evengelist",
@@ -5755,6 +6173,7 @@
         }
     },
     "patrons/matthias/apo": {
+        "active": false,
         "names": {
             "en": "Matthias the Apostle",
             "la": "Matthias Apostolus",
@@ -5773,6 +6192,7 @@
         }
     },
     "patrons/mauritius/the": {
+        "active": false,
         "names": {
             "la": "Mauritius Legionis Thebanae",
             "en": "Maurice of the Theban Legion",
@@ -5792,6 +6212,7 @@
         }
     },
     "patrons/maurus/abb": {
+        "active": false,
         "names": {
             "fr": "Maur Abbé",
             "la": "Maurus Abbas",
@@ -5811,6 +6232,7 @@
         }
     },
     "patrons/maximilianus/kol": {
+        "active": false,
         "names": {
             "pl": "Maksymilian Maria Kolbe",
             "en": "Maximilian Maria Kolbe",
@@ -5829,6 +6251,7 @@
         }
     },
     "patrons/maximus/hie": {
+        "active": false,
         "names": {
             "la": "Maximus Hierosolymitanus",
             "en": "Maximus of Jerusalem",
@@ -5848,6 +6271,7 @@
         }
     },
     "patrons/melanius/rhe": {
+        "active": false,
         "names": {
             "fr": "Melaine de Rennes",
             "en": "Melaine of Rennes",
@@ -5867,6 +6291,7 @@
         }
     },
     "patrons/methodius/cyr": {
+        "active": false,
         "names": {
             "la": "Methodius /+ Cyrillus",
             "en": "Methodius /+ Cyril",
@@ -5888,6 +6313,7 @@
         }
     },
     "patrons/michael/arc": {
+        "active": false,
         "names": {
             "la": "Michael Archangelus",
             "en": "Archangel Michael",
@@ -5899,6 +6325,7 @@
         "feasts": []
     },
     "patrons/michael/koz": {
+        "active": false,
         "names": {
             "pl": "Michał Kozal",
             "en": "Michael Kozal",
@@ -5910,6 +6337,7 @@
         "feasts": []
     },
     "patrons/michael/nak": {
+        "active": false,
         "names": {
             "ja": "ミゲル中島",
             "en": "Michael Nakashima",
@@ -5922,6 +6350,7 @@
         "feasts": []
     },
     "patrons/michael/san": {
+        "active": false,
         "names": {
             "ca": "Miquel dels Sants",
             "it": "Michele dei Santi",
@@ -5935,6 +6364,7 @@
         "feasts": []
     },
     "patrons/michael/sop": {
+        "active": false,
         "names": {
             "pl": "Michał Sopoćko",
             "en": "Michael Sopocko",
@@ -5953,6 +6383,7 @@
         }
     },
     "patrons/modestus/hie": {
+        "active": false,
         "names": {
             "la": "Modestus Hierosolymitanus",
             "en": "Modestus of Jerusalem",
@@ -5964,6 +6395,7 @@
         "feasts": []
     },
     "patrons/modestus/tre": {
+        "active": false,
         "names": {
             "de": "Modestus von Trier",
             "en": "Modestus of Trier",
@@ -5983,6 +6415,7 @@
         }
     },
     "patrons/monica/vid": {
+        "active": false,
         "names": {
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",
@@ -6001,6 +6434,7 @@
         }
     },
     "patrons/multi/abr": {
+        "active": false,
         "names": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
@@ -6012,6 +6446,7 @@
         "feasts": []
     },
     "patrons/multi/ang": {
+        "active": false,
         "names": {
             "la": "Angeli Custodes",
             "en": "Guardian Angels",
@@ -6023,6 +6458,7 @@
         "feasts": []
     },
     "patrons/multi/fid": {
+        "active": false,
         "names": {
             "la": "Omnes Fideles Defuncti",
             "en": "All the Faithful Departed",
@@ -6032,6 +6468,7 @@
         "feasts": []
     },
     "patrons/multi/nie": {
+        "active": false,
         "names": {
             "la": "Multa Milia Martyres in Nicomediae Ecclesia",
             "en": "Many Thousands of Martyrs from church in Nicomedia",
@@ -6043,6 +6480,7 @@
         "feasts": []
     },
     "patrons/multi/san": {
+        "active": false,
         "names": {
             "la": "Omnes Sancti",
             "en": "All Saints",
@@ -6060,6 +6498,7 @@
         }
     },
     "patrons/nahum/pro": {
+        "active": false,
         "names": {
             "he": "נחום, הנביא",
             "en": "Nahum, prophet",
@@ -6080,6 +6519,7 @@
         }
     },
     "patrons/narcissus/tur": {
+        "active": false,
         "names": {
             "pl": "Narcyz Turchan",
             "en": "Narcissus Turchan",
@@ -6098,6 +6538,7 @@
         }
     },
     "patrons/natalia/tul": {
+        "active": false,
         "names": {
             "pl": "Natalia Tułasiewicz",
             "en": "Natalie Tułasiewicz",
@@ -6118,6 +6559,7 @@
         }
     },
     "patrons/nicolaus/flu": {
+        "active": false,
         "names": {
             "de": "Niklaus von Flüe",
             "en": "Nicholas of Flüe",
@@ -6130,6 +6572,7 @@
         "feasts": []
     },
     "patrons/nicolaus/myr": {
+        "active": false,
         "names": {
             "el": "Άγιος Νικόλαος",
             "en": "Nicholas of Myra",
@@ -6143,6 +6586,7 @@
         "feasts": []
     },
     "patrons/nicolaus/stu": {
+        "active": false,
         "names": {
             "la": "Nicolaus Studita",
             "en": "Nicholas the Studite",
@@ -6162,6 +6606,7 @@
         }
     },
     "patrons/norbertus/mag": {
+        "active": false,
         "names": {
             "de": "Norbert von Xanten",
             "en": "Norbert of Xanten",
@@ -6181,6 +6626,7 @@
         }
     },
     "patrons/onesiphorus/apo": {
+        "active": false,
         "names": {
             "la": "Onesiphorus, Apostolorum discipulus",
             "en": "Onesiphorus, disciple of Apostles",
@@ -6200,6 +6646,7 @@
         }
     },
     "patrons/oswaldus/nor": {
+        "active": false,
         "names": {
             "en": "Oswald of Northumbria",
             "la": "Oswaldus rex Northumbriae",
@@ -6219,6 +6666,7 @@
         }
     },
     "patrons/otho/bam": {
+        "active": false,
         "names": {
             "de": "Otto von Bamberg",
             "en": "Otto of Bamberg",
@@ -6238,6 +6686,7 @@
         }
     },
     "patrons/pancratius/rom": {
+        "active": false,
         "names": {
             "la": "Pancratius de Roma",
             "en": "Pancras of Rome",
@@ -6256,6 +6705,7 @@
         }
     },
     "patrons/paphnutius/epi": {
+        "active": false,
         "names": {
             "la": "Paphnutius Thebanus",
             "en": "Paphnutius of Thebes",
@@ -6276,6 +6726,7 @@
         }
     },
     "patrons/patiens/met": {
+        "active": false,
         "names": {
             "fr": "Patient de Metz",
             "en": "Patiens of Metz",
@@ -6297,6 +6748,7 @@
         }
     },
     "patrons/patricius/hib": {
+        "active": false,
         "names": {
             "ga": "Naomh Pádraig",
             "en": "Patrick",
@@ -6317,6 +6769,7 @@
         }
     },
     "patrons/paulina/jar": {
+        "active": false,
         "names": {
             "fr": "Pauline Jaricot",
             "en": "Pauline Jaricot",
@@ -6337,6 +6790,7 @@
         }
     },
     "patrons/paulus/apo": {
+        "active": false,
         "names": {
             "he": "שָׁאוּל התרס",
             "la": "Paulus Tersensis",
@@ -6348,18 +6802,21 @@
         ],
         "feasts": {
             "feasts/ppv": {
+                "active": false,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/ppo": {
+                "active": false,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/dba": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
                     "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
@@ -6368,6 +6825,7 @@
         }
     },
     "patrons/paulus/con": {
+        "active": false,
         "names": {
             "la": "Paulus Constantinopolitanus",
             "en": "Paul of Constantinople",
@@ -6379,6 +6837,7 @@
         "feasts": []
     },
     "patrons/paulus/mik": {
+        "active": false,
         "names": {
             "ja": "パウロ三木",
             "en": "Paul Miki",
@@ -6398,6 +6857,7 @@
         }
     },
     "patrons/perpetua/car": {
+        "active": false,
         "names": {
             "la": "Perpetua Carthaginensis",
             "en": "Perpetua of Carthage",
@@ -6416,6 +6876,7 @@
         }
     },
     "patrons/petronius/bon": {
+        "active": false,
         "names": {
             "la": "Petronius Bononiensis",
             "en": "Petronius of Bologna",
@@ -6438,6 +6899,7 @@
         }
     },
     "patrons/petrus/apo": {
+        "active": false,
         "names": {
             "la": "Petrus",
             "en": "Peter the Apostle",
@@ -6448,48 +6910,56 @@
         ],
         "feasts": {
             "feasts/pcr": {
+                "active": false,
                 "names": {
                     "la": "Romae Cathedra sancti Petri Apostoli",
                     "pl": "Katedra Świętego Piotra w Rzymie"
                 }
             },
             "feasts/pca": {
+                "active": false,
                 "names": {
                     "la": "Antiochiae Cathedra sancti Petri Apostoli",
                     "pl": "Katedra Świętego Piotra w Antiochii"
                 }
             },
             "feasts/r1p": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaníae majores ad sanctum Petrum",
                     "pl": "Rzymska wielka procesja błagalna do świętego Piotra"
                 }
             },
             "feasts/r2p": {
+                "active": false,
                 "names": {
                     "la": "Romae Litaníae minores ad sanctum Petrum",
                     "pl": "Rzymska mała procesja błagalna do świętego Piotra"
                 }
             },
             "feasts/ppv": {
+                "active": false,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/ppo": {
+                "active": false,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/pav": {
+                "active": false,
                 "names": {
                     "la": "Petrus Apostolus ad Vincula",
                     "pl": "Piotr w Okowach"
                 }
             },
             "feasts/dba": {
+                "active": false,
                 "names": {
                     "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
                     "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
@@ -6498,6 +6968,7 @@
         }
     },
     "patrons/petrus/cal": {
+        "active": false,
         "names": {
             "tl": "Pedro Calungsod",
             "en": "Pedro Calungsod",
@@ -6510,6 +6981,7 @@
         "feasts": []
     },
     "patrons/petrus/chr": {
+        "active": false,
         "names": {
             "la": "Petrus Chrysologus",
             "en": "Peter Chrysologus",
@@ -6521,6 +6993,7 @@
         "feasts": []
     },
     "patrons/petrus/dam": {
+        "active": false,
         "names": {
             "it": "Pier Damiani",
             "en": "Peter Damian",
@@ -6533,6 +7006,7 @@
         "feasts": []
     },
     "patrons/petrus/dan": {
+        "active": false,
         "names": {
             "pl": "Piotr Edward Dańkowski",
             "en": "Peter Edward Dankowski",
@@ -6544,6 +7018,7 @@
         "feasts": []
     },
     "patrons/petrus/don": {
+        "active": false,
         "names": {
             "nl": "Petrus Donders",
             "en": "Peter Donders",
@@ -6556,6 +7031,7 @@
         "feasts": []
     },
     "patrons/petrus/eym": {
+        "active": false,
         "names": {
             "fr": "Pierre-Julien Eymard",
             "en": "Peter Julian Eymanrd",
@@ -6568,6 +7044,7 @@
         "feasts": []
     },
     "patrons/petrus/lux": {
+        "active": false,
         "names": {
             "fr": "Pierre de Luxembourg",
             "en": "Peter of Luxembourg",
@@ -6588,6 +7065,7 @@
         }
     },
     "patrons/philippa/mar": {
+        "active": false,
         "names": {
             "it": "Filippa Mareri",
             "en": "Philippa Mareri",
@@ -6608,6 +7086,7 @@
         }
     },
     "patrons/philippus/apo": {
+        "active": false,
         "names": {
             "la": "Philippus Apostolus",
             "en": "Philip Apostle",
@@ -6619,6 +7098,7 @@
         "feasts": []
     },
     "patrons/philippus/ben": {
+        "active": false,
         "names": {
             "it": "Filippo Benizi",
             "en": "Philip Benizi",
@@ -6631,6 +7111,7 @@
         "feasts": []
     },
     "patrons/philippus/fel": {
+        "active": false,
         "names": {
             "la": "Philippus /+ Felix et alii, tamquam Septem Fratres",
             "en": "Philip /+ Felix and others, as Seven Brothers",
@@ -6642,6 +7123,7 @@
         "feasts": []
     },
     "patrons/philippus/ner": {
+        "active": false,
         "names": {
             "it": "Filippo Neri",
             "en": "Fhilip Neri",
@@ -6662,6 +7144,7 @@
         }
     },
     "patrons/philomena/rom": {
+        "active": false,
         "names": {
             "it": "Filomena di Roma",
             "la": "Philomena Romana",
@@ -6682,6 +7165,7 @@
         }
     },
     "patrons/pirminus/epi": {
+        "active": false,
         "names": {
             "de": "Pirmin, Bischof",
             "en": "Pirmin, bishop",
@@ -6703,6 +7187,7 @@
         }
     },
     "patrons/pius/10p": {
+        "active": false,
         "names": {
             "it": "Papa Pio X",
             "la": "Pius X",
@@ -6715,6 +7200,7 @@
         "feasts": []
     },
     "patrons/pius/5pp": {
+        "active": false,
         "names": {
             "it": "Pio V",
             "en": "Pope Pius V",
@@ -6727,6 +7213,7 @@
         "feasts": []
     },
     "patrons/pius/pie": {
+        "active": false,
         "names": {
             "it": "Pio da Pietrelcina",
             "en": "Pio of Pietrelcina",
@@ -6747,6 +7234,7 @@
         }
     },
     "patrons/polycarpus/smy": {
+        "active": false,
         "names": {
             "el": "Πολύκαρπος Σμύρνης",
             "en": "Polycarp of Smyrna",
@@ -6766,6 +7254,7 @@
         }
     },
     "patrons/pontianus/1pp": {
+        "active": false,
         "names": {
             "la": "Pontianus Papa",
             "en": "Pontian Pope",
@@ -6785,6 +7274,7 @@
         }
     },
     "patrons/quiricus/iul": {
+        "active": false,
         "names": {
             "el": "Κήρυκος /+ Ιουλίττα",
             "en": "Cyricus /+ Julitta",
@@ -6804,6 +7294,7 @@
         }
     },
     "patrons/raphael/arc": {
+        "active": false,
         "names": {
             "la": "Raphael Archangelus",
             "en": "Archangel Raphael",
@@ -6815,6 +7306,7 @@
         "feasts": []
     },
     "patrons/raphael/chy": {
+        "active": false,
         "names": {
             "pl": "Rafał Chyliński",
             "la": "Raphael Chylinski",
@@ -6834,6 +7326,7 @@
         }
     },
     "patrons/raphaela/por": {
+        "active": false,
         "names": {
             "es": "Rafaela María del Sagrado Corazón",
             "en": "Rafaela Mary of the Sacred Heart",
@@ -6855,6 +7348,7 @@
         }
     },
     "patrons/raymundus/pen": {
+        "active": false,
         "names": {
             "ca": "Ramon de Penyafort",
             "es": "Raimundo de Peñafort",
@@ -6875,6 +7369,7 @@
         }
     },
     "patrons/richardus/per": {
+        "active": false,
         "names": {
             "en": "Richard the Pilgrim",
             "la": "Richardus Peregrinus",
@@ -6894,6 +7389,7 @@
         }
     },
     "patrons/richarius/cen": {
+        "active": false,
         "names": {
             "fr": "Riquier de Centule",
             "en": "Richarius of Centula",
@@ -6914,6 +7410,7 @@
         }
     },
     "patrons/rita/cas": {
+        "active": false,
         "names": {
             "it": "Rita da Cascia",
             "en": "Rita of Cascia",
@@ -6934,6 +7431,7 @@
         }
     },
     "patrons/robertus/bel": {
+        "active": false,
         "names": {
             "it": "Roberto Bellarmino",
             "en": "Robert Bellarmine",
@@ -6946,6 +7444,7 @@
         "feasts": []
     },
     "patrons/robertus/nov": {
+        "active": false,
         "names": {
             "la": "Robertus Novomonasteriensis",
             "en": "Robert of Newminster",
@@ -6965,6 +7464,7 @@
         }
     },
     "patrons/rochus/per": {
+        "active": false,
         "names": {
             "fr": "Roch de Montpellier",
             "en": "Roch",
@@ -6985,6 +7485,7 @@
         }
     },
     "patrons/romanus/abb": {
+        "active": false,
         "names": {
             "fr": "Romain de Condat",
             "pl": "Roman Jurajski",
@@ -6997,6 +7498,7 @@
         "feasts": []
     },
     "patrons/romanus/arc": {
+        "active": false,
         "names": {
             "pl": "Roman Archutowski",
             "en": "Roman Archutowski",
@@ -7016,6 +7518,7 @@
         }
     },
     "patrons/romualdus/cam": {
+        "active": false,
         "names": {
             "it": "Romualdo di Camaldoli",
             "en": "Romuald of Camaldoli",
@@ -7038,6 +7541,7 @@
         }
     },
     "patrons/rosa/lim": {
+        "active": false,
         "names": {
             "es": "Rosa de Lima",
             "en": "Rose of Lima",
@@ -7050,6 +7554,7 @@
         "feasts": []
     },
     "patrons/rosa/ven": {
+        "active": false,
         "names": {
             "it": "Rosa Venerini",
             "en": "Rose Venerini",
@@ -7070,6 +7575,7 @@
         }
     },
     "patrons/rosalia/pan": {
+        "active": false,
         "names": {
             "it": "Rosalia di Palermo",
             "en": "Rosalia of Palermo",
@@ -7091,6 +7597,7 @@
         }
     },
     "patrons/rupertus/may": {
+        "active": false,
         "names": {
             "de": "Rupert Mayer",
             "pl": "Rupert Mayer",
@@ -7103,6 +7610,7 @@
         "feasts": []
     },
     "patrons/rupertus/sal": {
+        "active": false,
         "names": {
             "de": "Rupert von Salzburg",
             "en": "Rupert of Salzburg",
@@ -7122,6 +7630,7 @@
         }
     },
     "patrons/sabigothon/aur": {
+        "active": false,
         "names": {
             "la": "Sabigothon Natalia /+ Aurelius et alii",
             "en": "Sabigothon Natalie /+ Aurelius and others",
@@ -7140,6 +7649,7 @@
         }
     },
     "patrons/sadochus/san": {
+        "active": false,
         "names": {
             "pl": "Sadok z Sandomierza",
             "en": "Sadok of Sandomierz",
@@ -7159,6 +7669,7 @@
         }
     },
     "patrons/salomea/reg": {
+        "active": false,
         "names": {
             "pl": "Salomea Piastówna",
             "en": "Salomea of the Poland",
@@ -7177,6 +7688,7 @@
         }
     },
     "patrons/sancia/szy": {
+        "active": false,
         "names": {
             "pl": "Sancja Szymkowiak",
             "en": "Sancja Szymkowiak",
@@ -7195,6 +7707,7 @@
         }
     },
     "patrons/sarbelius/mak": {
+        "active": false,
         "names": {
             "ar": "شربل مخلوف",
             "en": "Charbel Makhlouf",
@@ -7214,6 +7727,7 @@
         }
     },
     "patrons/saturninus/tol": {
+        "active": false,
         "names": {
             "la": "Saturninus Tolosanensis",
             "en": "Saturnin of Toulouse",
@@ -7232,6 +7746,7 @@
         }
     },
     "patrons/sbigneus/str": {
+        "active": false,
         "names": {
             "pl": "Zbigniew Strzałkowski",
             "en": "Zbigniew Strzalkowski",
@@ -7251,6 +7766,7 @@
         }
     },
     "patrons/secundus/ast": {
+        "active": false,
         "names": {
             "it": "Secondo di Asti",
             "en": "Secundus of Asti",
@@ -7270,6 +7786,7 @@
         }
     },
     "patrons/serapion/alg": {
+        "active": false,
         "names": {
             "la": "Serapion Algirensis",
             "en": "Serapion of Algiers",
@@ -7289,6 +7806,7 @@
         }
     },
     "patrons/sergius/rad": {
+        "active": false,
         "names": {
             "ru": "Сергий Радонежский",
             "la": "Sergius de Radonez",
@@ -7308,6 +7826,7 @@
         }
     },
     "patrons/sigismundus/fel": {
+        "active": false,
         "names": {
             "pl": "Zygmunt Szczęsny Feliński",
             "en": "Zygmunt Szczęsny Feliński",
@@ -7319,6 +7838,7 @@
         "feasts": []
     },
     "patrons/sigismundus/gor": {
+        "active": false,
         "names": {
             "pl": "Zygmunt Gorazdowski",
             "en": "Sigismund Gorazdowski",
@@ -7337,6 +7857,7 @@
         }
     },
     "patrons/silvester/1pp": {
+        "active": false,
         "names": {
             "la": "Silvester I",
             "en": "Sylvester I",
@@ -7355,6 +7876,7 @@
         }
     },
     "patrons/silvia/mat": {
+        "active": false,
         "names": {
             "la": "Silvia, mater Greg6rii Magni",
             "en": "Sylvia, mather of Gregory the Great",
@@ -7373,6 +7895,7 @@
         }
     },
     "patrons/simeon/sta": {
+        "active": false,
         "names": {
             "la": "Symeon Stylita Senior",
             "en": "Simeon Stylites the Elder",
@@ -7391,6 +7914,7 @@
         }
     },
     "patrons/simon/apo": {
+        "active": false,
         "names": {
             "la": "Simon Apostolus",
             "en": "Simon Apostle",
@@ -7402,6 +7926,7 @@
         "feasts": []
     },
     "patrons/simon/lip": {
+        "active": false,
         "names": {
             "pl": "Szymon z Lipnicy",
             "en": "Simon of Lipnica",
@@ -7420,6 +7945,7 @@
         }
     },
     "patrons/sine/ulm": {
+        "active": false,
         "names": {
             "pl": "Nienarodzone dziecko Ulmów",
             "en": "Unborn Child of the Ulma Family",
@@ -7439,6 +7965,7 @@
         }
     },
     "patrons/sophia/fir": {
+        "active": false,
         "names": {
             "it": "Sofia di Fermo",
             "la": "Sophia Firmana",
@@ -7451,6 +7978,7 @@
         "feasts": []
     },
     "patrons/sophia/mac": {
+        "active": false,
         "names": {
             "pl": "Zofia Czeska",
             "en": "Sophia Maciejowska-Czeska",
@@ -7469,6 +7997,7 @@
         }
     },
     "patrons/stanislaus/cra": {
+        "active": false,
         "names": {
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",
@@ -7480,6 +8009,7 @@
         "feasts": []
     },
     "patrons/stanislaus/kos": {
+        "active": false,
         "names": {
             "pl": "Stanisław Kostka",
             "en": "Stanislaus Kostka",
@@ -7491,6 +8021,7 @@
         "feasts": []
     },
     "patrons/stanislaus/sta": {
+        "active": false,
         "names": {
             "pl": "Stanisław Starowieyski",
             "en": "Stanislaus Starowieyski",
@@ -7510,6 +8041,7 @@
         }
     },
     "patrons/stephana/qui": {
+        "active": false,
         "names": {
             "it": "Stefana Quinzani",
             "en": "Stephanie Quinzani",
@@ -7530,6 +8062,7 @@
         }
     },
     "patrons/stephanus/pro": {
+        "active": false,
         "names": {
             "el": "Στέφανος",
             "en": "Stephen Protomartyr",
@@ -7542,6 +8075,7 @@
         "feasts": []
     },
     "patrons/stephanus/wys": {
+        "active": false,
         "names": {
             "pl": "Stefan Wyszyński",
             "en": "Stephen Wyszyński",
@@ -7560,6 +8094,7 @@
         }
     },
     "patrons/susanna/rom": {
+        "active": false,
         "names": {
             "la": "Susanna Romana",
             "en": "Susanna of Rome",
@@ -7579,6 +8114,7 @@
         }
     },
     "patrons/tarsicius/aco": {
+        "active": false,
         "names": {
             "la": "Tarsicius Acolytus",
             "en": "Tarcisius Acolyte",
@@ -7601,6 +8137,7 @@
         }
     },
     "patrons/teresia/ies": {
+        "active": false,
         "names": {
             "es": "Teresa de Jesús",
             "en": "Teresa of Ávila",
@@ -7614,6 +8151,7 @@
         "feasts": []
     },
     "patrons/teresia/inf": {
+        "active": false,
         "names": {
             "fr": "Thérèse de Lisieux",
             "en": "Therese of Lisieux",
@@ -7626,6 +8164,7 @@
         "feasts": []
     },
     "patrons/teresia/ste": {
+        "active": false,
         "names": {
             "de": "Therese Benedicta vom Kreuz",
             "en": "Teresa Benedicta of the Cross",
@@ -7638,6 +8177,7 @@
         "feasts": []
     },
     "patrons/teresia/ver": {
+        "active": false,
         "names": {
             "it": "Teresa Eustochio Verzeri",
             "en": "Teresa Eustochio Verzeri",
@@ -7657,6 +8197,7 @@
         }
     },
     "patrons/thaddaeus/dul": {
+        "active": false,
         "names": {
             "pl": "Tadeusz Dulny",
             "en": "Thaddeus Dulny",
@@ -7676,6 +8217,7 @@
         }
     },
     "patrons/thecla/abb": {
+        "active": false,
         "names": {
             "de": "Thekla von Kitzingen",
             "en": "Thecla of Kitzingen",
@@ -7697,6 +8239,7 @@
         }
     },
     "patrons/theodorus/gra": {
+        "active": false,
         "names": {
             "el": "Θεοδώρος Γράπτος",
             "en": "Theodore the Graptus",
@@ -7709,6 +8252,7 @@
         "feasts": []
     },
     "patrons/theodorus/rom": {
+        "active": false,
         "names": {
             "uk": "Теодор Ромжа",
             "en": "Theodore Romzha",
@@ -7729,6 +8273,7 @@
         }
     },
     "patrons/theophilus/ant": {
+        "active": false,
         "names": {
             "el": "Θεόφιλος Αντιοχείας",
             "en": "Theophilus of Antioch",
@@ -7750,6 +8295,7 @@
         }
     },
     "patrons/thomas/apo": {
+        "active": false,
         "names": {
             "la": "Thomas Apostolus",
             "en": "Thomas the Apostle",
@@ -7761,6 +8307,7 @@
         "feasts": []
     },
     "patrons/thomas/aqu": {
+        "active": false,
         "names": {
             "it": "Tommaso d'Aquino",
             "en": "Thomas Aquinas",
@@ -7773,6 +8320,7 @@
         "feasts": []
     },
     "patrons/thomas/bec": {
+        "active": false,
         "names": {
             "en": "Thomas Becket",
             "la": "Thomas Becket",
@@ -7784,6 +8332,7 @@
         "feasts": []
     },
     "patrons/thomas/gar": {
+        "active": false,
         "names": {
             "en": "Thomas Garnet",
             "la": "Thomas Garnet",
@@ -7802,6 +8351,7 @@
         }
     },
     "patrons/tiburtius/val": {
+        "active": false,
         "names": {
             "la": "Tiburtius /+ Valerianus et Maximus",
             "en": "Tiburtius /+ Valerian and Maximus",
@@ -7821,6 +8371,7 @@
         }
     },
     "patrons/titus/cre": {
+        "active": false,
         "names": {
             "el": "Τίτος Κρήτης",
             "en": "Titus of Crete",
@@ -7840,6 +8391,7 @@
         }
     },
     "patrons/urbanus/1pp": {
+        "active": false,
         "names": {
             "la": "Urbanus I",
             "en": "Urban I",
@@ -7851,6 +8403,7 @@
         "feasts": []
     },
     "patrons/urbanus/2pp": {
+        "active": false,
         "names": {
             "la": "Urbanus II",
             "en": "Urban II",
@@ -7870,6 +8423,7 @@
         }
     },
     "patrons/ursula/led": {
+        "active": false,
         "names": {
             "pl": "Urszula Ledóchowska",
             "en": "Ursula Ledóchowska",
@@ -7881,6 +8435,7 @@
         "feasts": []
     },
     "patrons/ursula/vir": {
+        "active": false,
         "names": {
             "de": "Ursula von Köln",
             "en": "Ursula of Cologne",
@@ -7901,6 +8456,7 @@
         }
     },
     "patrons/valentinus/rom": {
+        "active": false,
         "names": {
             "en": "Valentine of Rome",
             "la": "Valentinus de Roma",
@@ -7920,6 +8476,7 @@
         }
     },
     "patrons/veronica/hie": {
+        "active": false,
         "names": {
             "la": "Veronica",
             "en": "Veronica",
@@ -7938,6 +8495,7 @@
         }
     },
     "patrons/victor/1pp": {
+        "active": false,
         "names": {
             "la": "Victor I",
             "en": "Victor I",
@@ -7958,6 +8516,7 @@
         }
     },
     "patrons/victorinus/pet": {
+        "active": false,
         "names": {
             "it": "Vittorino di Pettau",
             "en": "Victorinus of Pettau",
@@ -7978,6 +8537,7 @@
         }
     },
     "patrons/vincentia/lop": {
+        "active": false,
         "names": {
             "es": "Vicenta María López Vicuña",
             "en": "Vincenta Maria López Vicuña",
@@ -8000,6 +8560,7 @@
         }
     },
     "patrons/vincentius/fer": {
+        "active": false,
         "names": {
             "es": "Vicente Ferrer",
             "en": "Vincent Ferrer",
@@ -8012,6 +8573,7 @@
         "feasts": []
     },
     "patrons/vincentius/gro": {
+        "active": false,
         "names": {
             "it": "Vincenzo Grossi",
             "en": "Vincent Grossi",
@@ -8024,6 +8586,7 @@
         "feasts": []
     },
     "patrons/vincentius/pal": {
+        "active": false,
         "names": {
             "it": "Vincenzo Pallotti",
             "en": "Vincent Pallotti",
@@ -8036,6 +8599,7 @@
         "feasts": []
     },
     "patrons/vincentius/pau": {
+        "active": false,
         "names": {
             "fr": "Vincent de Paul",
             "en": "Vincent de Paul",
@@ -8055,6 +8619,7 @@
         }
     },
     "patrons/virgilius/are": {
+        "active": false,
         "names": {
             "la": "Virgilius Arelatensis",
             "en": "Virgilius of Arles",
@@ -8073,6 +8638,7 @@
         }
     },
     "patrons/vladimirus/las": {
+        "active": false,
         "names": {
             "pl": "Włodzimierz Laskowski",
             "en": "Wlodzimierz Laskowski",
@@ -8091,6 +8657,7 @@
         }
     },
     "patrons/wilfridus/ebo": {
+        "active": false,
         "names": {
             "en": "Wilfrid of York",
             "la": "Wilfridus Eboracensis",
@@ -8109,6 +8676,7 @@
         }
     },
     "patrons/xystus/2pp": {
+        "active": false,
         "names": {
             "la": "Xystus Pp. II",
             "en": "Sixtus II",
@@ -8127,6 +8695,7 @@
         }
     },
     "patrons/zeno/mai": {
+        "active": false,
         "names": {
             "la": "Zenon Maiumitanensis",
             "en": "Zeno of Maiuma",
@@ -8145,6 +8714,7 @@
         }
     },
     "patrons/zita/luc": {
+        "active": false,
         "names": {
             "la": "Zita Lucensis",
             "en": "Zita of Lucca",

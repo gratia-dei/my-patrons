@@ -8,6 +8,7 @@ class GeneratePersonsDataProcedure extends Procedure
     private const FEASTS_PATH = 'feasts';
     private const FEASTS_ROOT_PATH = 'records/' . self::FEASTS_PATH;
 
+    private const DATA_FIELD_ACTIVE = 'active';
     private const DATA_FIELD_NAMES = 'names';
     private const DATA_FIELD_DIED = 'died';
     private const DATA_FIELD_FEASTS = 'feasts';
@@ -114,9 +115,11 @@ class GeneratePersonsDataProcedure extends Procedure
             $feastFilePath = self::FEASTS_ROOT_PATH . '/' . $this->getDataFileSuffix($feastId);
             $feastFileData = $this->getOriginalJsonFileContentArray($feastFilePath);
 
+            $feastsData[$feastKey][self::DATA_FIELD_ACTIVE] = $feastFileData[self::DATA_FIELD_ACTIVE] ?? false;
             $feastsData[$feastKey][self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($feastFileData[self::DATA_FIELD_NAMES] ?? []);
         }
 
+        $result[self::DATA_FIELD_ACTIVE] = $fileData[self::DATA_FIELD_ACTIVE] ?? false;
         $result[self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($fileData[self::DATA_FIELD_NAMES] ?? []);
         $result[self::DATA_FIELD_DIED] = $fileData[self::DATA_FIELD_DIED] ?? [];
         $result[self::DATA_FIELD_FEASTS] = $feastsData;
