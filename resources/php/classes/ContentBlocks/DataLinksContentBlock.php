@@ -39,6 +39,7 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
 
         $contentBlockRouting = $this->getOriginalJsonFileContentArray('data-file-content-block-configuration.json');
 
+        $protectedPageContent = $this->getOriginalHtmlFileContent('content-blocks/protected-page-content-block.html');
         $contentBlockContent = $this->getOriginalHtmlFileContent('content-blocks/data-links-content-block.html');
         $listContentItem = $this->getOriginalHtmlFileContent('items/data-link-list-item.html');
         $recordContentItem = $this->getOriginalHtmlFileContent('items/data-link-record-item.html');
@@ -95,10 +96,14 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
                 $recordName = self::RECORD_PATH_NAME;
                 $recordResource = $this->getTranslatedNameForPath($recordName, $fullPath, $mainPath);
                 $recordIdLink = $this->getActiveBreadcrumbsLink($fullPath, $recordId);
-                $recordContent = (new $contentBlockClass())->prepare($fullPath)->getRecordContent($recordId);
 
-                $recordContent = preg_replace('/ id="([0-9]+)"/U', ' id="record_' . $recordNumber . '"', $recordContent);
-                $recordContent = str_replace(self::RECORD_ACTIVENESS_CLASS_ACTIVE, self::RECORD_ACTIVENESS_CLASS_INACTIVE, $recordContent);
+                if ($this->isRequestPathProtected($fullPath)) {
+                    $recordContent = $protectedPageContent;
+                } else {
+                    $recordContent = (new $contentBlockClass())->prepare($fullPath)->getRecordContent($recordId);
+                    $recordContent = preg_replace('/ id="([0-9]+)"/U', ' id="record_' . $recordNumber . '"', $recordContent);
+                    $recordContent = str_replace(self::RECORD_ACTIVENESS_CLASS_ACTIVE, self::RECORD_ACTIVENESS_CLASS_INACTIVE, $recordContent);
+                }
 
                 $variables = [
                     'record-resource' => $recordResource,

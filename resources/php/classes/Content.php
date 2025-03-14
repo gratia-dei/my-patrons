@@ -27,6 +27,13 @@ abstract class Content extends Base
     private const LANGUAGE_VARIABLE_NAME_AFTER = 'lang-language';
     private const UNKNOWN_LANGUAGE_SIGN = '';
 
+    private const PROTECTED_PATH_ROOTS = [
+        '/sources/martyrologium-romanum',
+    ];
+    private const PROTECTED_PATHS_AVAILABLE = [
+        '/sources/martyrologium-romanum',
+    ];
+
     private $translatedLanguagesVariablesCache;
 
     protected function getLanguage(): string
@@ -248,5 +255,19 @@ abstract class Content extends Base
         }
 
         return $result;
+    }
+
+    protected function isRequestPathProtected($path) {
+        $path = preg_replace('/' . self::FEAST_ID_SEPARATOR . '.*$/', '', $path);
+
+        if ($this->getEnvironment()->isProdServer()) {
+            foreach (self::PROTECTED_PATH_ROOTS as $protectedPath) {
+                if (0 === mb_strpos($path . '/', $protectedPath . '/') && !in_array($path, self::PROTECTED_PATHS_AVAILABLE)) {
+                    return true;
+                }
+            }
+        }
+
+        return false;
     }
 }

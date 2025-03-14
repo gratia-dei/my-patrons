@@ -135,7 +135,9 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
         $linkContent = $inactiveLinkContent;
         if (mb_strpos($name, self::ACTIVE_LINK_NAME_PREFIX) === 0) {
             $name = mb_substr($name, mb_strlen(self::ACTIVE_LINK_NAME_PREFIX));
-            $linkContent = $activeLinkContent;
+            if (!$this->isRequestPathProtected($link)) {
+                $linkContent = $activeLinkContent;
+            }
         }
         $variables = [
             'name' => $name,
@@ -147,16 +149,20 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
 
     public function getLinkWithAnchor(string $path, string $anchor): string
     {
-        $activeLinkContent = $this->activeLinkContent;
+        if ($this->isRequestPathProtected($path)) {
+            $linkContent = $this->inactiveLinkContent;
+        } else {
+            $linkContent = $this->activeLinkContent;
+        }
 
         $variables = [
             'link' => $this->getLinkWithActiveRecordIdForAnchor("$path#$anchor"),
             'name' => "#$anchor",
         ];
 
-        $linkContent = $this->getReplacedContent($activeLinkContent, $variables);
+        $replacedLinkContent = $this->getReplacedContent($linkContent, $variables);
 
-        return self::FULL_CONTENT_WRAPPER_PREFIX . $linkContent . self::FULL_CONTENT_WRAPPER_SUFFIX;
+        return self::FULL_CONTENT_WRAPPER_PREFIX . $replacedLinkContent . self::FULL_CONTENT_WRAPPER_SUFFIX;
     }
 
     private function getTidyPath(string $path): string
