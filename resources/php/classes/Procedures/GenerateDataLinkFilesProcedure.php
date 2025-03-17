@@ -90,6 +90,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             if (!preg_match(self::LANGUAGE_CODE_PATTERN, $field)) {
                                 continue;
                             }
+                            $text = $this->getValueWithPossibleImport($text, $field);
 
                             $tagList = [];
                             $textTags = $this->getTextTags($text);

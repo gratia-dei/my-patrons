@@ -116,6 +116,7 @@ class RomanMartyrologyDayElogiesSince2001ContentBlock extends ContentBlock imple
 
             $result[self::VAR_PREFIX . $key] = $values;
             foreach ($values as $language => $text) {
+                $text = $this->getValueWithPossibleImport($text, $language);
                 $text = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
 
                 $result[self::VAR_PREFIX . $key][$language] = $text;

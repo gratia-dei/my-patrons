@@ -103,6 +103,7 @@ class RomanMartyrologyIndexSince1922ContentBlock extends ContentBlock implements
             unset($values[self::PAGE_COLUMN_INDEX]);
 
             foreach ($values as $language => $text) {
+                $text = $this->getValueWithPossibleImport($text, $language);
                 $result[self::VAR_PREFIX . $key][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
             }
         }

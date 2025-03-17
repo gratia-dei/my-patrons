@@ -273,4 +273,24 @@ abstract class Base
 
         return $result;
     }
+
+    protected function getValueWithPossibleImport($value, string $language)
+    {
+        if (is_string($value) && preg_match("~^\[\^(?'path'[-/a-zA-Z0-9]+)[#](?'index'[-/a-zA-z0-9]+)\]$~", $value, $matches)) {
+            $path = $this->getPathToRedirect($matches['path']);
+            $indexArr = explode('/', $matches['index'] . '/' . $language);
+
+            $dataPath = $this->getDataFileSuffix($path);
+            $content = $this->getOriginalJsonFileContentArray($dataPath);
+
+            foreach ($indexArr as $field) {
+                $content = $content[$field] ?? null;
+            }
+            if ($content !== null && is_string($content)) {
+                $value = $content;
+            }
+        }
+
+        return $value;
+    }
 }

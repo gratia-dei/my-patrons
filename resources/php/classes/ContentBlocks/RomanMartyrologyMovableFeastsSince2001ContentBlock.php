@@ -90,6 +90,7 @@ class RomanMartyrologyMovableFeastsSince2001ContentBlock extends ContentBlock im
             unset($values[self::MOVE_INDEX]);
 
             foreach ($values as $language => $text) {
+                $text = $this->getValueWithPossibleImport($text, $language);
                 $result[self::VAR_PREFIX . $key][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
             }
         }
