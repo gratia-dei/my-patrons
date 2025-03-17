@@ -19,13 +19,11 @@ class GenerateDateDataFileProcedure extends Procedure
 
     private const RECORD_TREE_SOURCE_FIELDS = [
         'reliable-death-anniversary' => self::PATRON_DIED_INDEX,
-        'other-martyrology-days' => self::PATRON_GENERALLY_IN_MARTYROLOGY_INDEX,
-        'other-memorial-days' => self::PATRON_MENTIONED_INDEX,
+        'anniversaries-days' => self::PATRON_ANNIVERSARY_INDEX,
     ];
     private const RECORD_TREE_METHODS = [
         'reliable-death-anniversary' => 'getDeathMonthWithDay',
-        'other-martyrology-days' => 'getMentionedMonthsWithDays',
-        'other-memorial-days' => 'getMentionedMonthsWithDays',
+        'anniversaries-days' => 'getMentionedMonthsWithDays',
     ];
 
     private const FEASTS_ROOT_PATH = 'records/feasts';

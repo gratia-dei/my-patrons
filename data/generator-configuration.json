@@ -94,19 +94,11 @@
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["other-martyrology-days", "records-tree", "/records/god", "feasts", "/generated/dates-feasts-immovable"]
+        "params": ["anniversaries-days", "records-tree", "/records/god", "feasts", "/generated/dates-feasts-immovable"]
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["other-martyrology-days", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
-    },
-    {
-        "class": "GenerateDateDataFileProcedure",
-        "params": ["other-memorial-days", "records-tree", "/records/god", "feasts", "/generated/dates-feasts-immovable"]
-    },
-    {
-        "class": "GenerateDateDataFileProcedure",
-        "params": ["other-memorial-days", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
+        "params": ["anniversaries-days", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
     },
 
     {
