@@ -35,12 +35,12 @@
 
   "feasts": {
     "tah": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:feb/28n#6", "1:feb/29b#6"]
       }
     },
     "cah": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:apr/24#11"]
       }
     }

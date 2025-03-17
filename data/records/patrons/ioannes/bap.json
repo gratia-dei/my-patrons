@@ -36,24 +36,24 @@
 
   "feasts": {
     "ril": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956-movable": ["2:#14"]
       }
     },
     "dbl": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["2:nov/9#1"],
         "mr-1956": ["2:nov/9#1"]
       }
     },
     "nib": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:iun/24#1"],
         "mr-1956": ["1:iun/24#1"]
       }
     },
     "pib": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:aug/29#1"],
         "mr-1956": ["1:aug/29#1"]
       }

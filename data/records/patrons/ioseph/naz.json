@@ -34,20 +34,20 @@
 
   "feasts": {
     "sfa": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004-movable": ["3:#2"],
         "mr-1956-movable": ["3:#3"],
         "mr-1956-movable-variations": ["3:#3-ab-1960-07-26"]
       }
     },
     "sin": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:mar/19#1"],
         "mr-1956": ["1:mar/19#1"]
       }
     },
     "oin": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:mai/1#1"],
         "mr-1956": ["1:mai/1#1"]
       }

@@ -42,7 +42,7 @@
 
   "feasts": {
     "pcr": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:feb/22#1"],
         "mr-1956": ["1:ian/18#1"],
         "mr-1956-variations": [
@@ -52,36 +52,36 @@
       }
     },
     "pca": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:feb/22#1"],
         "mr-1956-variations": ["1:feb/22#1-ab-1960-07-26"]
       }
     },
     "r1p": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:apr/25#1"],
         "mr-1956-movable": ["1:#11"],
         "mr-1956-movable-variations": ["1:#11-ab-1960-07-26"]
       }
     },
     "r2p": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956-movable": ["2:#15"]
       }
     },
     "ppv": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:iun/28#1"]
       }
     },
     "ppo": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:iul/6#1"],
         "mr-1956-variations": ["1:iul/6#1-ab-1960-07-26"]
       }
     },
     "pav": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["1:aug/1#1"],
         "mr-1956-index-2": ["1:v/vincula#1"],
         "mr-1956-variations": [
@@ -91,7 +91,7 @@
       }
     },
     "dba": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["1:nov/18#1"],
         "mr-1956": ["1:nov/18#1"]
       }

@@ -33,12 +33,12 @@
 
   "feasts": {
     "mis": {
-      "data-links": {
+      "data-linksx": {
         "not-in-mr": ["1:#MIS"]
       }
     },
     "tri": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004-movable": ["1:#11"],
         "mr-1956-movable": ["1:#20"]
       }

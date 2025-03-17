@@ -32,18 +32,18 @@
 
   "feasts": {
     "ppv": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["2:iun/28#1"]
       }
     },
     "ppo": {
-      "data-links": {
+      "data-linksx": {
         "mr-1956": ["2:iul/6#1"],
         "mr-1956-variations": ["2:iul/6#1-ab-1960-07-26"]
       }
     },
     "dba": {
-      "data-links": {
+      "data-linksx": {
         "mr-2004": ["2:nov/18#1"],
         "mr-1956": ["2:nov/18#1"]
       }
