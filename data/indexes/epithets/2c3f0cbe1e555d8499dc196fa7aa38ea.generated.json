@@ -7,18 +7,18 @@
             "Primus ex ordine Levitico Sacerdos"
         ],
         "en": [
-            "First Levitical Priest"
+            "The first Priest from the Levitical order"
         ],
         "pl": [
-            "Pierwszy kapłan z pokolenia Lewiego"
+            "Pierwszy Kapłan zakonu Lewitów"
         ]
     },
     "links": {
         "records/patrons/aaron/lev": {
-            "he": "אַהֲרֹן",
-            "la": "Aaron Levi",
-            "en": "Aaron the Levite",
-            "pl": "Aaron Lewi"
+            "he": "אהרן הכהן",
+            "la": "Aaron, sacerdos",
+            "en": "Aaron, priest",
+            "pl": "Aaron, kapłan"
         }
     }
 }

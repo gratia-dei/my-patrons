@@ -21,10 +21,10 @@
             "pl": "Jezus Chrystus"
         },
         "records/patrons/aaron/lev": {
-            "he": "אַהֲרֹן",
-            "la": "Aaron Levi",
-            "en": "Aaron the Levite",
-            "pl": "Aaron Lewi"
+            "he": "אהרן הכהן",
+            "la": "Aaron, sacerdos",
+            "en": "Aaron, priest",
+            "pl": "Aaron, kapłan"
         },
         "records/patrons/acacius/mel": {
             "la": "Acacius Melitenensis",

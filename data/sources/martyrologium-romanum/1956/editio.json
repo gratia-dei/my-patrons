@@ -1,0 +1,46 @@
+{
+    "title": {
+        "la": "[color:red]MARTYROLOGIUM[/]ROMANUM[:color]"
+    },
+    "subtitle": {
+        "la": "GREGORII PAPÆ XIII IUSSU EDITUM[/]URBANI VIII ET CLEMENTIS X[/]AUCTORITATE RECOGNITUM[/]AC DEINDE ANNO MDCCXLIX[/]BENEDICTI XIV OPERA AC STUDIO[/]EMENDATUM ET AUCTUM"
+    },
+
+    "edition": {
+        "la": "[color:red]QUARTA POST TYPICAM EDITIO[:color][/]IUXTA PRIMAM A TYPICA EDITIONEM[/]ANNO MDCCCCXXII[/][color:red]A BENEDICTO XV[:color][/]ADPROBATAM"
+    },
+    "description": {
+        "la": "PROPRIIS RECENTIUM SANCTORUM[/]OFFICIORUM QUE ELOGIIS EXPLETA[/][color:red]SACRÆ RITUUM CONGREGATIONIS[:color][/]CURIS IMPRESSA"
+    },
+
+    "publisher": {
+        "la": "TYPIS POLYGLOTTIS VATICANIS"
+    },
+    "publication-separator": {
+        "la": " - "
+    },
+    "publication-year": {
+        "la": "A.D. MDCCCCLVI"
+    },
+
+    "approbation-title": {
+        "la": "[color:red]APPROBATIO[:color][/]QUARTÆ A TYPICA EDITIONIS MARTYROLOGII ROMANI"
+    },
+    "approbation-date": {
+        "la": "Die 19 Julii 1956."
+    },
+
+    "decree-title": {
+        "la": "[color:red]DECRETUM[:color][/]PRIMAM MARTYROLOGII ROMANI A TYPICA EDITIONEM[/]APPROBANS"
+    },
+    "decree-date": {
+        "la": "Die 11 Januarii 1922."
+    },
+
+    "translation-sources": {
+        "en": "unknown",
+        "la": "nullus",
+        "pl": "nieznane",
+        "pl-maybe-in-future": "MARTYROLOGIUM[/]RZYMSKIE[/]oraz elogia[/]ŚWIĘTYCH I BŁOGOSŁAWIONYCH[/]Z NIEKTÓRYCH MARTYROLOGIÓW ZAKONNYCH[/][/]WYDAWNICTWO APOSTOLSTWA MODLITWY[/]Kraków, ul. Kopernika 26[/][/]Tytuł oryginału[/]MARTYROLOGIUM ROMANUM[/]Typis Polyglottis Vaticanis - A.D. 1956[/][/]Przełożył i opracował[/]PIOTR TURBAK S.J.[/][/][...][/][/]Uwaga: w obecnym przekładzie opuszczono w elogiach Świętych elementy legendarne[/]i historycznie niepewne.[/][/]Imprimi potest: P. ANTONIUS KUŚMIERZ S. J. Praep. Prov. Pol. Min.[/]Cracoviae, die 2. 3. 1967. Nr 76/67. L.S.[/]Nihil obstat: CASIMIRUS FIGLEWICZ, censor, Cracoviae, die 17. 4. 1967.[/] Imprimatur: E Curia Metropolitana, CAROLUS WOJTYŁA ARCHIEP.[/] ST. MARSZOWSKI v. cancel. Cracoviae, die 19. 4. 1967. Nr 651/67 L.S.[/][/][...]"
+    }
+}

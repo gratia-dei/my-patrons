@@ -400,16 +400,14 @@
         }
     },
     "patrons/aaron/lev": {
-        "active": false,
+        "active": true,
         "names": {
-            "he": "אַהֲרֹן",
-            "la": "Aaron Levi",
-            "en": "Aaron the Levite",
-            "pl": "Aaron Lewi"
+            "he": "אהרן הכהן",
+            "la": "Aaron, sacerdos",
+            "en": "Aaron, priest",
+            "pl": "Aaron, kapłan"
         },
-        "died": [
-            "~-1273"
-        ],
+        "died": [],
         "feasts": []
     },
     "patrons/acacius": {

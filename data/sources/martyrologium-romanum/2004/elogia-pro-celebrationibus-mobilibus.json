@@ -1,0 +1,114 @@
+{
+    "1": {
+        "page": 35,
+        "base": "getFirstSundayOfAdventDateValidToday",
+        "move": 0,
+        "la": "..."
+    },
+
+    "2": {
+        "base": "getHolyFamilyFeastDateValidToday",
+        "move": 0,
+        "la": "..."
+    },
+
+    "3": {
+        "base": "getBaptismOfJesusFeastDateValidToday",
+        "move": 0,
+        "la": "..."
+    },
+
+    "4": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": -46,
+        "la": "..."
+    },
+
+    "5": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": -42,
+        "la": "..."
+    },
+
+    "6": {
+        "page": 36,
+        "base": "getResurrectionFeastDateValidToday",
+        "move": -7,
+        "la": "..."
+    },
+
+    "7": {
+        "base": {
+          "1": "getResurrectionFeastDateValidToday",
+          "2": "getResurrectionFeastDateValidToday",
+          "3": "getResurrectionFeastDateValidToday"
+        },
+        "move": {
+            "1": -3,
+            "2": -2,
+            "3": -1
+        },
+        "la": "..."
+    },
+
+    "8": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": 0,
+        "la": "..."
+    },
+
+    "9": {
+        "base": {
+            "1": "getResurrectionFeastDateValidToday",
+            "2": "getResurrectionFeastDateValidToday"
+        },
+        "move": {
+            "1": 39,
+            "2": 42
+        },
+        "la": "..."
+    },
+
+    "10": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": 49,
+        "la": "..."
+    },
+
+    "11": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": 56,
+        "la": "..."
+    },
+
+    "12": {
+        "page": 37,
+        "base": {
+            "1": "getResurrectionFeastDateValidToday",
+            "2": "getResurrectionFeastDateValidToday"
+        },
+        "move": {
+            "1": 60,
+            "2": 63
+        },
+        "la": "..."
+    },
+
+    "13": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": 68,
+        "la": "..."
+    },
+
+    "14": {
+        "base": "getResurrectionFeastDateValidToday",
+        "move": 69,
+        "la": "..."
+    },
+
+    "15": {
+        "base": "getFirstSundayOfAdventDateValidToday",
+        "move": -7,
+        "la": "..."
+    }
+}

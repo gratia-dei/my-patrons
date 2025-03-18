@@ -1,0 +1,160 @@
+{
+    "1": {
+        "la": "1. Kaléndis Júlii",
+        "en": "1. On the July Kalends",
+        "pl": "1. Kalendy lipcowe"
+    },
+    "2": {
+        "la": "2. Sexto Nonas Júlii",
+        "en": "2. The 6th day before July Nones",
+        "pl": "2. 6 dzień przed nonami lipcowymi"
+    },
+    "3": {
+        "la": "3. Quinto Nonas Júlii",
+        "en": "3. The 5th day before the July Nones",
+        "pl": "3. 5 dzień przed nonami lipcowymi"
+    },
+    "4": {
+        "la": "4. Quarto Nonas Júlii",
+        "en": "4. The 4th day before the July Nones",
+        "pl": "4. 4 dzień przed nonami lipcowymi"
+    },
+    "5": {
+        "la": "4. Tértio Nonas Júlii",
+        "en": "4. The 3rd day before the July Nones",
+        "pl": "4. 3 dzień przed nonami lipcowymi"
+    },
+    "6": {
+        "la": "6. Prídie Nonas Júlii",
+        "en": "6. On the day before July Nones",
+        "pl": "6. Przeddzień non lipcowych"
+    },
+    "7": {
+        "la": "7. Nonis Júlii",
+        "en": "7. On the July Nones",
+        "pl": "7. Nony lipcowe"
+    },
+
+
+    "8": {
+        "la": "8. Octávo Idus Júlii",
+        "en": "8. The 8th day before the July Ides",
+        "pl": "8. 8 dzień przed idami lipcowymi"
+    },
+    "9": {
+        "la": "9. Séptimo Idus Júlii",
+        "en": "9. The 7th day before the July Ides",
+        "pl": "9. 7 dzień przed idami lipcowymi"
+    },
+    "10": {
+        "la": "10. Sexto Idus Júlii",
+        "en": "10. The 6th day before the July Ides",
+        "pl": "10. 6 dzień przed idami lipcowymi"
+    },
+    "11": {
+        "la": "11. Quinto Idus Júlii",
+        "en": "11. The 5th day before the July Ides",
+        "pl": "11. 5 dzień przed idami lipcowymi"
+    },
+    "12": {
+        "la": "12. Quarto Idus Júlii",
+        "en": "12. The 4th day before the July Ides",
+        "pl": "12. 4 dzień przed idami lipcowymi"
+    },
+    "13": {
+        "la": "13. Tértio Idus Júlii",
+        "en": "13. The 3rd day before the July Ides",
+        "pl": "13. 3 dzień przed idami lipcowymi"
+    },
+    "14": {
+        "la": "14. Prídie Idus Júlii",
+        "en": "14. On the day before July Ides",
+        "pl": "14. Przeddzień id lipcowych"
+    },
+    "15": {
+        "la": "15. Idibus Júlii",
+        "en": "15. On the July Ides",
+        "pl": "15. Idy lipcowe"
+    },
+    "16": {
+        "la": "16. Décimo séptimo Kaléndas Augústi",
+        "en": "16. The 17th day before August Kalends",
+        "pl": "16. 17 dzień przed kalendami sierpniowymi"
+    },
+
+    "17": {
+        "la": "17. Sextodécimo Kaléndas Augústi",
+        "en": "17. The 16th day before the August Kalends",
+        "pl": "17. 16 dzień przed kalendami sierpniowymi"
+    },
+    "18": {
+        "la": "18. Quintodécimo Kaléndas Augústi",
+        "en": "18. The 15th day before the August Kalends",
+        "pl": "18. 15 dzień przed kalendami sierpniowymi"
+    },
+    "19": {
+        "la": "19. Quartodécimo Kaléndas Augústi",
+        "en": "19. The 14th day before the August Kalends",
+        "pl": "19. 14 dzień przed kalendami sierpniowymi"
+    },
+    "20": {
+        "la": "20. Tértiodécimo Kaléndas Augústi",
+        "en": "20. The 13th day before the August Kalends",
+        "pl": "20. 13 dzień przed kalendami sierpniowymi"
+    },
+    "21": {
+        "la": "21. Duodécimo Kaléndas Augústi",
+        "en": "21. The 12th day before the August Kalends",
+        "pl": "21. 12 dzień przed kalendami sierpniowymi"
+    },
+    "22": {
+        "la": "22. Undécimo Kaléndas Augústi",
+        "en": "22. The 11th day before the August Kalends",
+        "pl": "22. 11 dzień przed kalendami sierpniowymi"
+    },
+    "23": {
+        "la": "23. Décimo Kaléndas Augústi",
+        "en": "23. The 10th day before the August Kalends",
+        "pl": "23. 10 dzień przed kalendami sierpniowymi"
+    },
+    "24": {
+        "la": "24. Nono Kaléndas Augústi",
+        "en": "24. The 9th day before the August Kalends",
+        "pl": "24. 9 dzień przed kalendami sierpniowymi"
+    },
+    "25": {
+        "la": "25. Octávo Kaléndas Augústi",
+        "en": "25. The 8th day before the August Kalends",
+        "pl": "25. 8 dzień przed kalendami sierpniowymi"
+    },
+    "26": {
+        "la": "26. Séptimo Kaléndas Augústi",
+        "en": "26. The 7th day before the August Kalends",
+        "pl": "26. 7 dzień przed kalendami sierpniowymi"
+    },
+    "27": {
+        "la": "27. Sexto Kaléndas Augústi",
+        "en": "27. The 6th day before the August Kalends",
+        "pl": "27. 6 dzień przed kalendami sierpniowymi"
+    },
+    "28": {
+        "la": "28. Quinto Kaléndas Augústi",
+        "en": "28. The 5th day before the August Kalends",
+        "pl": "28. 5 dzień przed kalendami sierpniowymi"
+    },
+    "29": {
+        "la": "29. Quarto Kaléndas Augústi",
+        "en": "29. The 4th day before the August Kalends",
+        "pl": "29. 4 dzień przed kalendami sierpniowymi"
+    },
+    "30": {
+        "la": "30. Tértio Kaléndas Augústi",
+        "en": "30. The 3rd day before the August Kalends",
+        "pl": "30. 3 dzień przed kalendami sierpniowymi"
+    },
+    "31": {
+        "la": "31. Prídie Kaléndas Augústi",
+        "en": "31. On the day before August Kalends",
+        "pl": "31. Przeddzień kalend sierpniowych"
+    }
+}

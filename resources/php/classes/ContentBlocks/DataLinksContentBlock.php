@@ -65,7 +65,7 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
             $listTitle = $this->getTranslatedNameForPath($listName, $mainPath);
             $listContent = '';
 
-            if (is_null($contentBlockClass)) {
+            if (is_null($contentBlockClass) || $aliasData === []) {
                 continue;
             }
 

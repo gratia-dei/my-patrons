@@ -1,0 +1,45 @@
+{
+    "title": {
+        "la": "[color:red]MARTYROLOGIUM[/]ROMANUM[:color]"
+    },
+    "subtitle": {
+        "la": "EX DECRETO SACROSANCTI ŒCUMENICI[/]CONCILII VATICANI II INSTAURATUM[/]AUCTORITATE IOANNIS PAULI PP. II[/]PROMULGATUM"
+    },
+
+    "edition": {
+        "la": "[color:red]EDITIO ALTERA[:color]"
+    },
+    "description": {
+        "la": ""
+    },
+
+    "publisher": {
+        "la": "TYPIS VATICANIS"
+    },
+    "publication-separator": {
+        "la": "[/]"
+    },
+    "publication-year": {
+        "la": "A.D. MMIV"
+    },
+
+    "approbation-title": {
+        "la": ""
+    },
+    "approbation-date": {
+        "la": ""
+    },
+
+    "decree-title": {
+        "la": "[color:red]DECRETUM[:color]"
+    },
+    "decree-date": {
+        "la": "[...], die 29 mensis iunii anni 2004, [...]"
+    },
+
+    "translation-sources": {
+        "en": "unknown",
+        "la": "nullus",
+        "pl": "nieznane"
+    }
+}

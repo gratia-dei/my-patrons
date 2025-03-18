@@ -1857,6 +1857,20 @@
             }
         }
     },
+    "07-01": {
+        "records/patrons/aaron/lev": {
+            "name": {
+                "he": "אהרן הכהן",
+                "la": "Aaron, sacerdos",
+                "en": "Aaron, priest",
+                "pl": "Aaron, kapłan"
+            },
+            "sources": {
+                "mr-1956": "1 VII: #3",
+                "mr-2004": "1 VII: #1"
+            }
+        }
+    },
     "07-02": {
         "records/patrons/bernardinus/rea": {
             "name": {
