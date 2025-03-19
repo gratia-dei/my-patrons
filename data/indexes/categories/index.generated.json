@@ -154,6 +154,9 @@
     "2af19384a5ee00fab3a4e213307626d4": {
         "pl": "wdowa"
     },
+    "2f18e79578f7e0d19064a02ae4f4550f": {
+        "la": "conditor / conditrix"
+    },
     "3012f2de49cdf29c733029ee828680d2": {
         "la": "coenobita"
     },
@@ -166,11 +169,11 @@
     "3214ae902047effa83bf2af517b12559": {
         "pl": "katechumenka"
     },
+    "3266f37b2660846d69a2ce87f6296e29": {
+        "en": "creator / creatress"
+    },
     "3281d64d71abcf40e862001e6a5e7c58": {
         "la": "Deus"
-    },
-    "3710f6ec8ea43c972f6895551b65e8db": {
-        "la": "conditor"
     },
     "37f380c98e68cb79e2f38cf6f108b851": {
         "la": "uxorius"
@@ -281,9 +284,6 @@
         "la": "anachoreta",
         "pl": "anachoreta"
     },
-    "6248c73387aea93b68b12c7b67f3b663": {
-        "en": "creatress"
-    },
     "637023532de9e9f9fd35c298cafb637c": {
         "la": "sanctimonialis"
     },
@@ -364,9 +364,6 @@
     },
     "861da2fdf7ff3cd76aa506b55575d6a4": {
         "pl": "Matka Boża"
-    },
-    "8707bf41bde1524aa4b08034e9d59825": {
-        "la": "conditrix"
     },
     "8862ae30c81f2b05683c299158019d5a": {
         "pl": "doktor Kościoła"
@@ -582,9 +579,6 @@
     "c9ad31e5740747285dae5c168715d2de": {
         "en": "widow"
     },
-    "c9cf58027d3ba34a0841ef24a7aac175": {
-        "pl": "założyciel"
-    },
     "caaa84acca34f6fbe1be609bc4e81c43": {
         "en": "founder"
     },
@@ -605,9 +599,6 @@
     },
     "d13cbaab588de8b3419b6d1e8a35a7e7": {
         "pl": "dziewczynka"
-    },
-    "d2981ad66d7b1554215d9cbdb6a30cbf": {
-        "pl": "założycielka"
     },
     "d3062849c7a26a7a512c4c870ff5991b": {
         "pl": "żonaty"
@@ -651,8 +642,8 @@
     "e71314dc2768dcf6fd370ad09ad30959": {
         "la": "levita"
     },
-    "ee2433259b0fe399b40e81d2c98a38b6": {
-        "en": "creator"
+    "edb6881af488cf172c19b43187f1f407": {
+        "pl": "założyciel / założycielka"
     },
     "f04a8849d5fbd6f51b032d1a29866c81": {
         "la": "constitutor",

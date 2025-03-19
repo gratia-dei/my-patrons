@@ -80,14 +80,9 @@
         "pl": "cenobita"
     },
     "conditor": {
-        "la": "conditor",
-        "en": "creator",
-        "pl": "założyciel"
-    },
-    "conditrix": {
-        "la": "conditrix",
-        "en": "creatress",
-        "pl": "założycielka"
+        "la": "conditor / conditrix",
+        "en": "creator / creatress",
+        "pl": "założyciel / założycielka"
     },
     "confessor": {
         "la": "confessor",

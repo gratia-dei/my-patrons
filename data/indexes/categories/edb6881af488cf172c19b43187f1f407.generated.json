@@ -1,16 +1,16 @@
 {
     "names": {
-        "la": "conditrix"
+        "pl": "założyciel / założycielka"
     },
     "translations": {
         "la": [
-            "conditrix"
+            "conditor / conditrix"
         ],
         "en": [
-            "creatress"
+            "creator / creatress"
         ],
         "pl": [
-            "założycielka"
+            "założyciel / założycielka"
         ]
     },
     "links": {
@@ -24,6 +24,12 @@
             "en": "Joan of Lestonnac",
             "la": "Ioanna de Lestonnac",
             "pl": "Joanna de Lestonnac"
+        },
+        "records/patrons/vincentius/gro": {
+            "it": "Vincenzo Grossi",
+            "en": "Vincent Grossi",
+            "la": "Vincentius Grossi",
+            "pl": "Wincenty Grossi"
         }
     }
 }
