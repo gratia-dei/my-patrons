@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "męczennik"
+        "pl": "męczennik / męczennica"
     },
     "translations": {
         "la": [
             "martyr"
         ],
         "en": [
-            "martyr"
+            "martyr / martyress"
         ],
         "pl": [
-            "męczennik"
+            "męczennik / męczennica"
         ]
     },
     "links": {
@@ -25,6 +25,16 @@
             "pl": "Emilian Kowcz",
             "en": "Emilian Kovch",
             "la": "Aemilianus Kovc"
+        },
+        "records/patrons/agatha/cat": {
+            "la": "Agatha Catanensis",
+            "en": "Agatha of Sicily",
+            "pl": "Agata Sycylijska"
+        },
+        "records/patrons/agnes/rom": {
+            "la": "Agnes Romana",
+            "en": "Agnes of Rome",
+            "pl": "Agnieszka Rzymianka"
         },
         "records/patrons/albertus/lov": {
             "fr": "Albert de Louvain",
@@ -53,6 +63,11 @@
             "pl": "Alfons Maria Mazurek",
             "en": "Alphonsus Maria Mazurek",
             "la": "Alphonsus Maria Mazurek"
+        },
+        "records/patrons/anastasia/sir": {
+            "la": "Anastasia Sirmiensis",
+            "en": "Anastasia of Sirmium",
+            "pl": "Anastazja z Dalmacji"
         },
         "records/patrons/andreas/alr": {
             "fr": "André-Abel Alricy",
@@ -125,6 +140,11 @@
             "la": "Augustinus Zhao Rong",
             "pl": "Augustyn Zhao Rong"
         },
+        "records/patrons/barbara/nic": {
+            "la": "Barbara Nicomedensis",
+            "en": "Barbara of Nicomedia",
+            "pl": "Barbara z Nikomedii"
+        },
         "records/patrons/barnabas/apo": {
             "la": "Barnabas Apostolus",
             "en": "Barnabas the Apostle",
@@ -172,11 +192,26 @@
             "la": "Bronislaus Kostkowski",
             "en": "Bronislaus Kostkowski"
         },
+        "records/patrons/caecilia/rom": {
+            "la": "Caecilia Romana",
+            "en": "Cecilia of Rome",
+            "pl": "Cecylia z Rzymu"
+        },
+        "records/patrons/caelestina/far": {
+            "pl": "Celestyna Faron",
+            "en": "Celestine Faron",
+            "la": "Caelestina Faron"
+        },
         "records/patrons/caesarius/tar": {
             "it": "Cesario di Terracina",
             "en": "Caesarius of Terracina",
             "la": "Caesarius Terracinensis",
             "pl": "Cezary z Terraciny"
+        },
+        "records/patrons/carolina/koz": {
+            "pl": "Karolina Kózka",
+            "en": "Karolina Kózka",
+            "la": "Carolina Kózka"
         },
         "records/patrons/carolus/lwa": {
             "lg": "Kaloli Lwanga",
@@ -194,10 +229,21 @@
             "en": "Casimir Sykulski",
             "la": "Casimirus Sykulski"
         },
+        "records/patrons/catharina/ale": {
+            "la": "Catharina Alexandrina",
+            "en": "Catherine of Alexandria",
+            "pl": "Katarzyna Aleksandryjska"
+        },
         "records/patrons/ceslaus/joz": {
             "pl": "Czesław Jóźwiak",
             "en": "Czesław Jóźwiak",
             "la": "Ceslaus Jóźwiak"
+        },
+        "records/patrons/christina/per": {
+            "fa": "کریستینا",
+            "en": "Christina of Persia",
+            "la": "Christina Persica",
+            "pl": "Krystyna z Persji"
         },
         "records/patrons/christophorus/lyc": {
             "la": "Christophorus Lyciensis",
@@ -232,6 +278,11 @@
             "la": "Cosmas /+ Damianus",
             "pl": "Kosma /+ Damian"
         },
+        "records/patrons/crispina/tha": {
+            "la": "Crispina Thagorensis",
+            "en": "Crispina of Numidia",
+            "pl": "Kryspina z Numidii"
+        },
         "records/patrons/cyprianus/car": {
             "la": "Cyprianus Carthaginensis",
             "en": "Cyprian of Carthage",
@@ -242,6 +293,11 @@
             "en": "Damian /+ Cosmas",
             "la": "Damianus /+ Cosmas",
             "pl": "Damian /+ Kosma"
+        },
+        "records/patrons/daria/chr": {
+            "la": "Daria /+ Chrysanthus",
+            "en": "Daria /+ Chrysanthus",
+            "pl": "Daria /+ Chryzant"
         },
         "records/patrons/david/oke": {
             "sw": "Daudi Okelo",
@@ -322,6 +378,11 @@
             "la": "Felicissimus /+ Rogatianus",
             "en": "Felicissimus /+ Rogatian",
             "pl": "Felicyssym /+ Rogacjan"
+        },
+        "records/patrons/felicitas/car": {
+            "la": "Felicitas Carthaginensis",
+            "en": "Felicity of Carthage",
+            "pl": "Felicyta z Kartaginy"
         },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
@@ -450,6 +511,12 @@
             "la": "Ignatius Maloyan",
             "pl": "Ignacy Maloyan"
         },
+        "records/patrons/ioanna/ver": {
+            "fr": "Jeanne Véron",
+            "en": "Joan Veron",
+            "la": "Ioanna Véron",
+            "pl": "Joanna Veron"
+        },
         "records/patrons/ioannes/bap": {
             "he": "יוֹחָנָן",
             "en": "John the Baptist",
@@ -549,6 +616,23 @@
             "en": "Judas Thaddaeus",
             "pl": "Juda Tadeusz Apostoł"
         },
+        "records/patrons/iulia/rod": {
+            "pl": "Julia Rodzińska",
+            "en": "Julia Rodzińska",
+            "la": "Iulia Rodzińska"
+        },
+        "records/patrons/iulitta/cae": {
+            "el": "Ιουλίτα της Καισάρειας",
+            "en": "Julitta of Caesarea",
+            "la": "Julitta Caesariensis",
+            "pl": "Julita z Cezarei"
+        },
+        "records/patrons/iustina/pat": {
+            "it": "Giustina di Padova",
+            "la": "Iustina Patavina",
+            "en": "Justine of Padua",
+            "pl": "Justyna z Padwy"
+        },
         "records/patrons/iustus/pas": {
             "la": "Iustus /+ Pastor",
             "en": "Justus /+ Pastor",
@@ -568,6 +652,12 @@
             "pl": "Leon Nowakowski",
             "en": "Leon Nowakowski",
             "la": "Leo Nowakowski"
+        },
+        "records/patrons/lucia/syr": {
+            "it": "Lucia da Siracusa",
+            "en": "Lucia of Syracuse",
+            "la": "Lucia Syracusana",
+            "pl": "Łucja z Syrakuz"
         },
         "records/patrons/marcellinus/1pp": {
             "la": "Marcellinus Papa",
@@ -593,6 +683,81 @@
             "la": "Marcus /+ Marcellianus",
             "en": "Mark /+ Marcellian",
             "pl": "Marek /+ Marcelianus"
+        },
+        "records/patrons/margarita/pis": {
+            "la": "Margarita Antiochena",
+            "en": "Margaret of Antioch",
+            "pl": "Małgorzata z Antiochii"
+        },
+        "records/patrons/margarita/war": {
+            "en": "Margaret Ward",
+            "la": "Margarita Ward",
+            "pl": "Małgorzata Ward"
+        },
+        "records/patrons/maria/bie": {
+            "pl": "Maria Anna Biernacka",
+            "en": "Maria Anna Biernacka",
+            "la": "Maria Anna Biernacka"
+        },
+        "records/patrons/maria/bor": {
+            "pl": "Maria Felicyta Borowik",
+            "en": "Mary Felicity Borowik",
+            "la": "Maria Felicitas Borowik"
+        },
+        "records/patrons/maria/chr": {
+            "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
+            "en": "Mary Canuta of the Agonized Jesus in the Garden",
+            "la": "Maria Canuta a Iesu in Horto Getsemani"
+        },
+        "records/patrons/maria/cie": {
+            "pl": "Maria Gwidona od Miłosierdzia Bożego",
+            "en": "Mary Guidona of Divine Mercy",
+            "la": "Maria Guidona a Divina Misericordia"
+        },
+        "records/patrons/maria/joz": {
+            "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
+            "en": "Mary Daniela of Jesus and Immaculate Mary",
+            "la": "Maria Daniela a Iusei et Maria Immaculata"
+        },
+        "records/patrons/maria/kra": {
+            "pl": "Maria Antonina Kratochwil",
+            "la": "Maria Antonina Kratochwil",
+            "en": "Mary Antoinette Kratochwil"
+        },
+        "records/patrons/maria/kuk": {
+            "pl": "Maria Rajmunda od Jezusa i Maryi",
+            "en": "Mary Raymunda of Jesus and Mary",
+            "la": "Maria Raymunda a Iesu et Maria"
+        },
+        "records/patrons/maria/mac": {
+            "pl": "Maria Kanizja Mackiewicz",
+            "en": "Mary Canisia Mackiewicz",
+            "la": "Maria Canisia Mackiewicz"
+        },
+        "records/patrons/maria/mar": {
+            "pl": "Maria Stella od Najświętszego Sakramentu",
+            "en": "Maria Stella of the Blessed Sacrament",
+            "la": "Maria Stella a Sanctissimo Sacramento"
+        },
+        "records/patrons/maria/mat": {
+            "pl": "Maria Heliodora Matuszewska",
+            "en": "Mary Heliodora Matuszewska",
+            "la": "Maria Heliodora Matuszewska"
+        },
+        "records/patrons/maria/nar": {
+            "pl": "Maria Boromea Narmontowicz",
+            "en": "Mary Boromea Narmontowicz",
+            "la": "Maria Boromea Narmontowicz"
+        },
+        "records/patrons/maria/rap": {
+            "pl": "Maria Sergia od Matki Bożej Bolesnej",
+            "en": "Mary Sergia of Our Lady of Sorrows",
+            "la": "Maria Sergia a Virgine Perdolenti"
+        },
+        "records/patrons/maria/zak": {
+            "pl": "Maria Imelda od Jezusa Hostii",
+            "en": "Mary Imelda of the Eucharistic Jesus",
+            "la": "Maria Imelda a Iesu Hostia"
         },
         "records/patrons/marianus/gor": {
             "pl": "Marian Górecki",
@@ -651,6 +816,11 @@
             "en": "Narcissus Turchan",
             "la": "Narcissus Turchan"
         },
+        "records/patrons/natalia/tul": {
+            "pl": "Natalia Tułasiewicz",
+            "en": "Natalie Tułasiewicz",
+            "la": "Natalia Tułasiewicz"
+        },
         "records/patrons/onesiphorus/apo": {
             "la": "Onesiphorus, Apostolorum discipulus",
             "en": "Onesiphorus, disciple of Apostles",
@@ -683,6 +853,11 @@
             "la": "Paulus Miki",
             "pl": "Paweł Miki"
         },
+        "records/patrons/perpetua/car": {
+            "la": "Perpetua Carthaginensis",
+            "en": "Perpetua of Carthage",
+            "pl": "Perpetua z Kartaginy"
+        },
         "records/patrons/petrus/apo": {
             "la": "Petrus",
             "en": "Peter the Apostle",
@@ -709,6 +884,12 @@
             "en": "Philip /+ Felix and others, as Seven Brothers",
             "pl": "Filip /+ Feliks i inni, jako Siedmiu Braci"
         },
+        "records/patrons/philomena/rom": {
+            "it": "Filomena di Roma",
+            "la": "Philomena Romana",
+            "en": "Philomena of Rome",
+            "pl": "Filomena z Rzymu"
+        },
         "records/patrons/polycarpus/smy": {
             "el": "Πολύκαρπος Σμύρνης",
             "en": "Polycarp of Smyrna",
@@ -730,6 +911,11 @@
             "pl": "Roman Archutowski",
             "en": "Roman Archutowski",
             "la": "Romanus Archutowski"
+        },
+        "records/patrons/sabigothon/aur": {
+            "la": "Sabigothon Natalia /+ Aurelius et alii",
+            "en": "Sabigothon Natalie /+ Aurelius and others",
+            "pl": "Sabigotona Natalia /+ Aureliusz i inni"
         },
         "records/patrons/sadochus/san": {
             "pl": "Sadok z Sandomierza",
@@ -767,6 +953,12 @@
             "en": "Unborn Child of the Ulma Family",
             "la": "Infans Non Natus Ulmarum"
         },
+        "records/patrons/sophia/fir": {
+            "it": "Sofia di Fermo",
+            "la": "Sophia Firmana",
+            "en": "Sophia of Fermo",
+            "pl": "Zofia z Fermo"
+        },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",
@@ -783,10 +975,21 @@
             "la": "Stephanus protomartyr",
             "pl": "Szczepan Pramęczennik"
         },
+        "records/patrons/susanna/rom": {
+            "la": "Susanna Romana",
+            "en": "Susanna of Rome",
+            "pl": "Zuzanna Rzymska"
+        },
         "records/patrons/tarsicius/aco": {
             "la": "Tarsicius Acolytus",
             "en": "Tarcisius Acolyte",
             "pl": "Tarsycjusz Akolita"
+        },
+        "records/patrons/teresia/ste": {
+            "de": "Therese Benedicta vom Kreuz",
+            "en": "Teresa Benedicta of the Cross",
+            "la": "Teresia Benedicta a Cruce",
+            "pl": "Teresa Benedykta od Krzyża"
         },
         "records/patrons/thaddaeus/dul": {
             "pl": "Tadeusz Dulny",
@@ -829,6 +1032,12 @@
             "la": "Urbanus I",
             "en": "Urban I",
             "pl": "Urban I"
+        },
+        "records/patrons/ursula/vir": {
+            "de": "Ursula von Köln",
+            "en": "Ursula of Cologne",
+            "la": "Ursula Coloniensis",
+            "pl": "Urszula z Kolonii"
         },
         "records/patrons/valentinus/rom": {
             "en": "Valentine of Rome",

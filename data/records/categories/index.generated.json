@@ -186,13 +186,8 @@
     },
     "martyr": {
         "la": "martyr",
-        "en": "martyr",
-        "pl": "męczennik"
-    },
-    "martyrix": {
-        "la": "martyr",
-        "en": "martyress",
-        "pl": "męczennica"
+        "en": "martyr / martyress",
+        "pl": "męczennik / męczennica"
     },
     "mater-dei": {
         "la": "Mater Dei",
