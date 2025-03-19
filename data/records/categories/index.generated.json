@@ -284,20 +284,10 @@
         "en": "prophet",
         "pl": "prorok"
     },
-    "puella": {
-        "la": "puella",
-        "en": "girl",
-        "pl": "dziewczynka"
-    },
-    "puellus": {
-        "la": "puellus",
-        "en": "boy",
-        "pl": "chłopiec"
-    },
     "puer": {
-        "la": "puer",
-        "en": "child",
-        "pl": "dziecko"
+        "la": "puer / puellus / puella",
+        "en": "child / boy / girl",
+        "pl": "dziecko / chłopiec / dziewczynka"
     },
     "reclusa": {
         "la": "reclusa",
@@ -332,7 +322,7 @@
     "sanctimonialis": {
         "la": "sanctimonialis",
         "en": "nun",
-        "pl": "zakonnica"
+        "pl": "mniszka"
     },
     "socia": {
         "la": "socia",

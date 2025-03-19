@@ -4,6 +4,7 @@
     },
     "translations": {
         "la": [
+            "sanctimonialis",
             "monialis"
         ],
         "en": [
@@ -14,6 +15,12 @@
         ]
     },
     "links": {
+        "records/patrons/hyacintha/mar": {
+            "it": "Giacinta Marescotti",
+            "en": "Hyacintha Mariscotti",
+            "la": "Hyacintha de Mariscottis",
+            "pl": "Hiacynta Mariscotti"
+        },
         "records/patrons/kinga/cun": {
             "pl": "Kinga",
             "en": "Kinga of Poland",

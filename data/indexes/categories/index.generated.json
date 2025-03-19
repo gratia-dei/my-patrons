@@ -11,9 +11,6 @@
     "0476610784907cd95c537fbfe3dfb55d": {
         "la": "sacerdos dioecesanus"
     },
-    "04dd7c039dbdff38b4b0c5feb15ed787": {
-        "la": "puer"
-    },
     "0685f400aabcaedd89fe7a83bb922c71": {
         "la": "alius apostolus"
     },
@@ -79,12 +76,6 @@
     },
     "198e63d55fd441cffd0223648df1c2a2": {
         "pl": "samotnik / samotnica"
-    },
-    "1a699ad5e06aa8a6db3bcf9cfb2f00f2": {
-        "en": "boy"
-    },
-    "1b7d5726533ab525a8760351e9b5e415": {
-        "en": "child"
     },
     "1cacca8ff23c34fb57966625d80419e2": {
         "pl": "formator / formatorka"
@@ -156,9 +147,6 @@
     "2863e14774dce430ad6ba848b13708ea": {
         "en": "instituter / institutress"
     },
-    "28ca53d2b7bb4aa13549b4022c79dca1": {
-        "en": "girl"
-    },
     "2a81e2977d5c03ae3454ec95dca40d70": {
         "la": "presbyter",
         "en": "presbyter"
@@ -168,6 +156,9 @@
     },
     "2f18e79578f7e0d19064a02ae4f4550f": {
         "la": "conditor / conditrix"
+    },
+    "2f3e85fbe90000a8519cd9b617a3dd28": {
+        "pl": "dziecko / chłopiec / dziewczynka"
     },
     "3012f2de49cdf29c733029ee828680d2": {
         "la": "coenobita"
@@ -226,6 +217,9 @@
     "466764052acadf446abd1ff3a89d7a4d": {
         "pl": "grupa"
     },
+    "48a29eb9cd40d383e5218459566fe8ca": {
+        "la": "puer / puellus / puella"
+    },
     "4b46493ab8bfd6b1a1c800409bbcd3ce": {
         "la": "archangelus"
     },
@@ -264,9 +258,6 @@
     },
     "5a506982757b3883a0dee207a6212b49": {
         "la": "discipulus"
-    },
-    "5b7855fb09792aeb9820c29cee334b02": {
-        "pl": "zakonnica"
     },
     "5c42b721e415ab7fb03adcabbd069a21": {
         "la": "religiosus / religiosa"
@@ -349,9 +340,6 @@
     },
     "82646f22d9e5f9e6a0c8bf49c26bb1ad": {
         "en": "diocesan priest"
-    },
-    "841917104dcdcd17c29bc4a7c27fa310": {
-        "la": "puella"
     },
     "841d7efb8651af128939b922bb867c46": {
         "pl": "męczennik"
@@ -479,9 +467,6 @@
     "b0c7cdfec394aa2f9b61038b135a9717": {
         "la": "socia"
     },
-    "b1237fde6c69c5cfad5e341179c46caf": {
-        "pl": "chłopiec"
-    },
     "b1df80ac4d27f8da02411b46e4569bd8": {
         "la": "tertiarius / tertiaria"
     },
@@ -494,8 +479,8 @@
     "b458764a59fc73e5e630d75e69181eb9": {
         "en": "soldier"
     },
-    "b4a0fb87cce2a1196848cd77185a1278": {
-        "pl": "dziecko"
+    "b490d6490ba06d86498ce87d410767ff": {
+        "en": "child / boy / girl"
     },
     "b637af78ada000a39023b4ead9db041a": {
         "en": "acolyte"
@@ -579,9 +564,6 @@
     "d0a87b4018d6521b0f5a49e5e03adb6d": {
         "en": "virgin"
     },
-    "d13cbaab588de8b3419b6d1e8a35a7e7": {
-        "pl": "dziewczynka"
-    },
     "d3062849c7a26a7a512c4c870ff5991b": {
         "pl": "żonaty"
     },
@@ -605,9 +587,6 @@
     },
     "db0f6f37ebeb6ea09489124345af2a45": {
         "en": "group"
-    },
-    "df3343629e865d738e9137e5187531df": {
-        "la": "puellus"
     },
     "e1d42842652d17dff26877072006184c": {
         "la": "angelus"

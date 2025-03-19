@@ -1,0 +1,51 @@
+{
+    "names": {
+        "la": "puer / puellus / puella"
+    },
+    "translations": {
+        "la": [
+            "puer / puellus / puella"
+        ],
+        "en": [
+            "child / boy / girl"
+        ],
+        "pl": [
+            "dziecko / chłopiec / dziewczynka"
+        ]
+    },
+    "links": {
+        "records/patrons/agatha/cat": {
+            "la": "Agatha Catanensis",
+            "en": "Agatha of Sicily",
+            "pl": "Agata Sycylijska"
+        },
+        "records/patrons/agnes/rom": {
+            "la": "Agnes Romana",
+            "en": "Agnes of Rome",
+            "pl": "Agnieszka Rzymianka"
+        },
+        "records/patrons/franciscus/mar": {
+            "pt": "Francisco Marto",
+            "en": "Francisco Marto",
+            "la": "Franciscus Marto",
+            "pl": "Franciszek Marto"
+        },
+        "records/patrons/hyacintha/mat": {
+            "pt": "Jacinta Marto",
+            "en": "Jacinta Marto",
+            "la": "Hyacintha Marto",
+            "pl": "Hiacynta Marto"
+        },
+        "records/patrons/iustus/pas": {
+            "la": "Iustus /+ Pastor",
+            "en": "Justus /+ Pastor",
+            "pl": "Just /+ Pastor"
+        },
+        "records/patrons/quiricus/iul": {
+            "el": "Κήρυκος /+ Ιουλίττα",
+            "en": "Cyricus /+ Julitta",
+            "la": "Quiricus /+ Iulitta",
+            "pl": "Cyryk /+ Julita"
+        }
+    }
+}
