@@ -1248,6 +1248,16 @@
             "sources": {
                 "reliable-death-anniversary": "17 IV"
             }
+        },
+        "records/patrons/acacius/mel": {
+            "name": {
+                "la": "Acacius Melitenensis",
+                "en": "Acathius of Melitene",
+                "pl": "Akacjusz z Melitene"
+            },
+            "sources": {
+                "mr-2004": "17 IV: #5"
+            }
         }
     },
     "04-18": {

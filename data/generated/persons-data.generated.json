@@ -418,7 +418,7 @@
         }
     },
     "patrons/acacius/mel": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Acacius Melitenensis",
             "en": "Acathius of Melitene",

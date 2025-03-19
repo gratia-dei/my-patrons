@@ -1,23 +1,50 @@
 {
-  "names": {
-    "la": [
-      "Acacius Melitenensis"
-    ],
-    "en": [
-      "Acathius of Melitene",
-      "Acacius of Melitene",
-      "Achates of Melitene"
-    ],
-    "pl": [
-      "Akacjusz z Melitene",
-      "Achacjusz z Melitene"
-    ]
-  },
+    "names": {
+        "la": [
+            "Acacius Melitenensis"
+        ],
+        "en": [
+            "Acathius of Melitene",
+            "Acacius of Melitene",
+            "Achates of Melitene"
+        ],
+        "pl": [
+            "Akacjusz z Melitene",
+            "Achacjusz z Melitene"
+        ]
+    },
+    "forenames": ["acacius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~435"],
+    "active": true,
 
-  "also-in-martyrology": ["04-17"],
+    "born": null,
+    "died": ["~435"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["acacius"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+
+        "mr-1956": [],
+        "mr-1956-index-sanctorum-1": [],
+        "mr-1956-index-sanctorum-2": [],
+        "mr-1956-index-sanctorum-3": [],
+        "mr-1956-index-festorum": [],
+        "mr-1956-index-locorum": [],
+        "mr-1956-index-locorum-sine": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./17#5"],
+        "mr-2004-index": ["1:a/acacius#2"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71404",
+        "wiki": "https://pl.wikipedia.org/wiki/Achacjusz_z_Melitene_(zm._ok._438)"
+    }
 }
