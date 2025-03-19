@@ -14,9 +14,6 @@
     "04dd7c039dbdff38b4b0c5feb15ed787": {
         "la": "puer"
     },
-    "0537791fe7afbce2a0c46b57f63c8a41": {
-        "pl": "tercjarka"
-    },
     "0685f400aabcaedd89fe7a83bb922c71": {
         "la": "alius apostolus"
     },
@@ -290,9 +287,6 @@
     "637023532de9e9f9fd35c298cafb637c": {
         "la": "sanctimonialis"
     },
-    "64e59885a7e12dad4032c93e82456eec": {
-        "la": "tertiaria"
-    },
     "6537edcef636f3edd981404d8ead2ce9": {
         "en": "philosopher"
     },
@@ -301,6 +295,9 @@
     },
     "6638070bc99321b316adbd95e6951f5b": {
         "en": "canon"
+    },
+    "6847e0980c3f85b3a966f27b4bd678b2": {
+        "pl": "tercjarz / tercjarka"
     },
     "6a81060b83b919bc115112bf840eca63": {
         "la": "miles"
@@ -484,6 +481,9 @@
     },
     "b1237fde6c69c5cfad5e341179c46caf": {
         "pl": "chłopiec"
+    },
+    "b1df80ac4d27f8da02411b46e4569bd8": {
+        "la": "tertiarius / tertiaria"
     },
     "b2086154f101464aab3328ba7e060deb": {
         "en": "king"
