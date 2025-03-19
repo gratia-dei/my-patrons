@@ -5,6 +5,9 @@
     "03ff693ab8e19b6774ec397e64d95ee6": {
         "pl": "pielgrzym"
     },
+    "0456a65fa9b13576073966b4d1fd80ec": {
+        "la": "formator / formatrix"
+    },
     "0476610784907cd95c537fbfe3dfb55d": {
         "la": "sacerdos dioecesanus"
     },
@@ -80,6 +83,9 @@
     "1c09f9aae4f7e062d1c6082e40988bcb": {
         "en": "instituter"
     },
+    "1cacca8ff23c34fb57966625d80419e2": {
+        "pl": "formator / formatorka"
+    },
     "1cdf4c400619855d6dba5d6292da42fa": {
         "la": "princeps"
     },
@@ -144,9 +150,6 @@
     "28ca53d2b7bb4aa13549b4022c79dca1": {
         "en": "girl"
     },
-    "29938289a5dcdd9cff8a8ae465e5c5f9": {
-        "pl": "kształtująca"
-    },
     "2a81e2977d5c03ae3454ec95dca40d70": {
         "la": "presbyter",
         "en": "presbyter"
@@ -159,9 +162,6 @@
     },
     "3012f2de49cdf29c733029ee828680d2": {
         "la": "coenobita"
-    },
-    "316091241a12c810e6e1f4f7b24028b5": {
-        "la": "formatrix"
     },
     "31f48939f268e29ba8755294708c3a76": {
         "pl": "archidiakon"
@@ -332,9 +332,6 @@
     "743e0b1a701ac72663b83efb0d64051f": {
         "pl": "rekluza"
     },
-    "75de81200d41577ca01859a42dcb3695": {
-        "en": "formatress"
-    },
     "78618192d4811e2acb872920f87df475": {
         "la": "hegumenus"
     },
@@ -446,6 +443,9 @@
     },
     "a44995c5a8df1a72598558b5a373fb19": {
         "la": "catechumena"
+    },
+    "a4d5c94cc63a3c518220b8ced01ec727": {
+        "en": "former / formatress"
     },
     "a586cb6a726f6fb58a0a984c4536092f": {
         "pl": "samotnica"
