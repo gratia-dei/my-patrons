@@ -147,6 +147,9 @@
     "273b9ae535de53399c86a9b83148a8ed": {
         "en": "female"
     },
+    "275f05a0b64eb2077dcbc573c41c4ac3": {
+        "pl": "zakonnik / zakonnica"
+    },
     "27b0b619b6bb3f1895a44fbd748893c1": {
         "en": "catechumen"
     },
@@ -241,9 +244,6 @@
     "4f07531952160e2e73a4dafb9f90cf99": {
         "en": "cenobite"
     },
-    "50ed33c642a7b2404c3b38d6270f132c": {
-        "la": "religiosus"
-    },
     "518183d207ac39dd55a8b0ecced4ab3e": {
         "en": "hermit"
     },
@@ -267,6 +267,9 @@
     },
     "5b7855fb09792aeb9820c29cee334b02": {
         "pl": "zakonnica"
+    },
+    "5c42b721e415ab7fb03adcabbd069a21": {
+        "la": "religiosus / religiosa"
     },
     "5d6bed03dfb82662c8f822dbcf3a95a6": {
         "en": "duchess"
@@ -464,9 +467,6 @@
         "la": "confessor",
         "en": "confessor"
     },
-    "ae609841ccf25c60746089466c13aaf0": {
-        "pl": "zakonnik"
-    },
     "aeb9573c09919d210512b643907e56b8": {
         "en": "God"
     },
@@ -490,9 +490,6 @@
     },
     "b2086154f101464aab3328ba7e060deb": {
         "en": "king"
-    },
-    "b273f7ebb2a30dd48c9fe051c95b630f": {
-        "la": "religiosa"
     },
     "b295c66465c1212719fc07586d0c545e": {
         "pl": "profeska"

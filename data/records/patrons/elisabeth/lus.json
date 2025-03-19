@@ -33,7 +33,7 @@
   "also-in-martyrology": ["07-04", "07-08"],
 
   "forenames": ["elisabeth"],
-  "categories": ["femina", "vidua", "religiosa", "tertiaria", "regina"],
+  "categories": ["femina", "vidua", "religiosus", "tertiaria", "regina"],
 
   "order": ["tosf"]
 }

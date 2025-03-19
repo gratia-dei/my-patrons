@@ -1,16 +1,16 @@
 {
     "names": {
-        "la": "religiosus"
+        "pl": "zakonnik / zakonnica"
     },
     "translations": {
         "la": [
-            "religiosus"
+            "religiosus / religiosa"
         ],
         "en": [
             "religious"
         ],
         "pl": [
-            "zakonnik"
+            "zakonnik / zakonnica"
         ]
     },
     "links": {
@@ -31,10 +31,28 @@
             "la": "Bertoldus de Calabria",
             "pl": "Bertold z Kalabrii"
         },
+        "records/patrons/birgitta/sue": {
+            "sv": "Birgitta Birgersdotter",
+            "en": "Bridget of Sweden",
+            "la": "Birgitta de Suecia",
+            "pl": "Brygida Szwedzka"
+        },
+        "records/patrons/elisabeth/lus": {
+            "es": "Elisabet de Aragón",
+            "en": "Elizabeth of Aragon",
+            "la": "Elisabeth Aragonae",
+            "pl": "Elżbieta Aragońska"
+        },
         "records/patrons/gregorius/fra": {
             "pl": "Grzegorz Frąckowiak",
             "en": "Gregory Frąckowiak",
             "la": "Gregorius Frąckowiak"
+        },
+        "records/patrons/hedwigis/duc": {
+            "de": "Hedwig von Andechs",
+            "en": "Hedwig of Silesia",
+            "la": "Hedwigis ducissa Polonorum",
+            "pl": "Jadwiga Śląska"
         },
         "records/patrons/iacobinus/can": {
             "it": "Giacomino de Canepacci",
@@ -54,10 +72,22 @@
             "la": "Ioannes de Deo",
             "pl": "Jan Boży"
         },
+        "records/patrons/iosephina/bak": {
+            "ar": "جوزفين بخيتة",
+            "en": "Josephine Bakhita",
+            "la": "Iosephina Bakhita",
+            "pl": "Józefina Bakhita"
+        },
         "records/patrons/iosephus/zap": {
             "pl": "Józef Zapłata",
             "en": "Joseph Zaplata",
             "la": "Iosephus Zaplata"
+        },
+        "records/patrons/margarita/lot": {
+            "fr": "Marguerite de Lorraine-Vaudémont",
+            "en": "Margaret of Lorraine",
+            "la": "Margarita de Lotharingia",
+            "pl": "Małgorzata z Lotaryngii"
         },
         "records/patrons/martinus/por": {
             "es": "Martín de Porres",
@@ -70,6 +100,12 @@
             "en": "Michael Nakashima",
             "la": "Michael Nakashima",
             "pl": "Michał Nakashima"
+        },
+        "records/patrons/rita/cas": {
+            "it": "Rita da Cascia",
+            "en": "Rita of Cascia",
+            "la": "Rita de Cassia",
+            "pl": "Rita z Cascii"
         }
     }
 }

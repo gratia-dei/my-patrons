@@ -4,11 +4,9 @@
     },
     "translations": {
         "la": [
-            "religiosa",
             "sanctimonialis"
         ],
         "en": [
-            "religious",
             "nun"
         ],
         "pl": [
@@ -16,47 +14,11 @@
         ]
     },
     "links": {
-        "records/patrons/birgitta/sue": {
-            "sv": "Birgitta Birgersdotter",
-            "en": "Bridget of Sweden",
-            "la": "Birgitta de Suecia",
-            "pl": "Brygida Szwedzka"
-        },
-        "records/patrons/elisabeth/lus": {
-            "es": "Elisabet de Aragón",
-            "en": "Elizabeth of Aragon",
-            "la": "Elisabeth Aragonae",
-            "pl": "Elżbieta Aragońska"
-        },
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "en": "Hedwig of Silesia",
-            "la": "Hedwigis ducissa Polonorum",
-            "pl": "Jadwiga Śląska"
-        },
         "records/patrons/hyacintha/mar": {
             "it": "Giacinta Marescotti",
             "en": "Hyacintha Mariscotti",
             "la": "Hyacintha de Mariscottis",
             "pl": "Hiacynta Mariscotti"
-        },
-        "records/patrons/iosephina/bak": {
-            "ar": "جوزفين بخيتة",
-            "en": "Josephine Bakhita",
-            "la": "Iosephina Bakhita",
-            "pl": "Józefina Bakhita"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "en": "Margaret of Lorraine",
-            "la": "Margarita de Lotharingia",
-            "pl": "Małgorzata z Lotaryngii"
-        },
-        "records/patrons/rita/cas": {
-            "it": "Rita da Cascia",
-            "en": "Rita of Cascia",
-            "la": "Rita de Cassia",
-            "pl": "Rita z Cascii"
         }
     }
 }

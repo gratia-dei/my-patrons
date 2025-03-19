@@ -309,15 +309,10 @@
         "en": "queen",
         "pl": "królowa"
     },
-    "religiosa": {
-        "la": "religiosa",
-        "en": "religious",
-        "pl": "zakonnica"
-    },
     "religiosus": {
-        "la": "religiosus",
+        "la": "religiosus / religiosa",
         "en": "religious",
-        "pl": "zakonnik"
+        "pl": "zakonnik / zakonnica"
     },
     "rex": {
         "la": "rex",
