@@ -159,10 +159,10 @@
         "en": "general",
         "pl": "generał"
     },
-    "gubernatrix": {
-        "la": "gubernatrix",
-        "en": "governoress",
-        "pl": "naczelniczka"
+    "gubernator": {
+        "la": "gubernator / gubernatrix",
+        "en": "governor / governoress",
+        "pl": "naczelnik / naczelniczka"
     },
     "hegumenus": {
         "la": "hegumenus",

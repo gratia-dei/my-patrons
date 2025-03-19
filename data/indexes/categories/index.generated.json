@@ -113,6 +113,9 @@
     "2270ebf9b927c980972bb7c93a443e8c": {
         "pl": "małżonek"
     },
+    "22cada172c02ac4632f8966e6fc31fd9": {
+        "en": "governor / governoress"
+    },
     "22f67d833c8310eab41c6d8b81b67a5a": {
         "pl": "Bóg"
     },
@@ -214,11 +217,11 @@
     "466764052acadf446abd1ff3a89d7a4d": {
         "pl": "grupa"
     },
-    "484cdc3dc3712dc30750b5e5d1b436c0": {
-        "la": "gubernatrix"
-    },
     "4b46493ab8bfd6b1a1c800409bbcd3ce": {
         "la": "archangelus"
+    },
+    "4ba7844e0f906e4c134422d3bb254809": {
+        "pl": "naczelnik / naczelniczka"
     },
     "4c0711c0dd6649d201428feb644fcf94": {
         "la": "virgo"
@@ -261,9 +264,6 @@
     },
     "5b7855fb09792aeb9820c29cee334b02": {
         "pl": "zakonnica"
-    },
-    "5b8d16a2a60122e496648508d0fefba0": {
-        "en": "governoress"
     },
     "5d6bed03dfb82662c8f822dbcf3a95a6": {
         "en": "duchess"
@@ -383,9 +383,6 @@
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
     },
-    "93cc8a7a0b6b66255b8d9e9b461732dd": {
-        "pl": "naczelniczka"
-    },
     "948326d7e9073020b6c56effecd14bbf": {
         "en": "hegumen"
     },
@@ -425,6 +422,9 @@
     },
     "a1d6b5694b31e76b8c226d4be6b26093": {
         "la": "evangelista"
+    },
+    "a29e0811f6c8c17f13e9034876ce33dd": {
+        "la": "gubernator / gubernatrix"
     },
     "a2acab2753eb958789c5330d17ecb543": {
         "la": "fundator / fundatrix"
