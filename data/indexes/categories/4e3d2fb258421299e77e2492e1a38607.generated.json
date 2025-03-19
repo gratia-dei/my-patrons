@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "opat"
+        "pl": "opat / ksieni"
     },
     "translations": {
         "la": [
-            "abbas"
+            "abbas / abbatissa"
         ],
         "en": [
-            "abbot"
+            "abbot / abbess"
         ],
         "pl": [
-            "opat"
+            "opat / ksieni"
         ]
     },
     "links": {
@@ -19,6 +19,12 @@
             "pl": "Idzi Eremita",
             "en": "Giles the Hermit",
             "la": "Aegidius Abbas"
+        },
+        "records/patrons/agnes/pra": {
+            "cs": "Anežka Česká",
+            "en": "Agnes of Bohemia",
+            "la": "Agnes de Bohemia",
+            "pl": "Agnieszka Przemyślidka"
         },
         "records/patrons/anselmus/can": {
             "la": "Anselmus Cantuariensis",
@@ -54,6 +60,17 @@
             "la": "Gerardus Broniensis",
             "pl": "Gerard z Brogne"
         },
+        "records/patrons/gertrudis/niv": {
+            "nl": "Gertrudis van Nijvel",
+            "en": "Gertrude of Nivelles",
+            "la": "Gertrudis Nivigellensis",
+            "pl": "Gertruda z Nivelles"
+        },
+        "records/patrons/irmina/tre": {
+            "la": "Irmina de Oeren",
+            "en": "Irmina of Oeren",
+            "pl": "Irmina z Oeren"
+        },
         "records/patrons/magnus/abb": {
             "de": "Magnus von Füssen",
             "la": "Magnus",
@@ -88,6 +105,17 @@
             "en": "Romuald of Camaldoli",
             "la": "Romualdus Camaldulensis",
             "pl": "Romuald z Camaldoli"
+        },
+        "records/patrons/salomea/reg": {
+            "pl": "Salomea Piastówna",
+            "en": "Salomea of the Poland",
+            "la": "Salomea Regina Haliciensis"
+        },
+        "records/patrons/thecla/abb": {
+            "de": "Thekla von Kitzingen",
+            "en": "Thecla of Kitzingen",
+            "pl": "Tekla z Kitzingen",
+            "la": "Thecla de Kitzingen"
         },
         "records/patrons/wilfridus/ebo": {
             "en": "Wilfrid of York",

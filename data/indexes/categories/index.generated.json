@@ -172,14 +172,8 @@
     "3710f6ec8ea43c972f6895551b65e8db": {
         "la": "conditor"
     },
-    "37387b0d7989ded00353bbfa0a15d1fb": {
-        "pl": "opat"
-    },
     "37f380c98e68cb79e2f38cf6f108b851": {
         "la": "uxorius"
-    },
-    "38140d2170afd265499e45fdaf779e01": {
-        "la": "abbatissa"
     },
     "39719bde558fb9b4367151f9a9e33451": {
         "en": "cardinal bishop"
@@ -189,6 +183,9 @@
     },
     "3a8a750f56c4cca099698a1dc8953b69": {
         "la": "generalis"
+    },
+    "3ac9fa9f1e8fcc273350b775d6a4ff45": {
+        "en": "abbot / abbess"
     },
     "3bc4b63194c49dc2a328ad2dee2406a6": {
         "pl": "diakon"
@@ -225,6 +222,9 @@
     },
     "4c0711c0dd6649d201428feb644fcf94": {
         "la": "virgo"
+    },
+    "4e3d2fb258421299e77e2492e1a38607": {
+        "pl": "opat / ksieni"
     },
     "4e59bebdce06a142e4ce23799bc590c5": {
         "pl": "ewangelista"
@@ -383,9 +383,6 @@
     "8afa847f50a716e64932d995c8e7435a": {
         "en": "princess"
     },
-    "8b2fd85fa6bec435e3bc0c92e49e09f7": {
-        "en": "abbot"
-    },
     "8c21ffcf8ea6adcfeafed623f9c00e36": {
         "la": "materfamilias"
     },
@@ -397,9 +394,6 @@
     },
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
-    },
-    "934ed8980248b30750935b0780b6916e": {
-        "pl": "ksieni"
     },
     "93cc8a7a0b6b66255b8d9e9b461732dd": {
         "pl": "naczelniczka"
@@ -443,9 +437,6 @@
     },
     "a1d6b5694b31e76b8c226d4be6b26093": {
         "la": "evangelista"
-    },
-    "a1d81391bea49fe9e0c24d72478d14ee": {
-        "en": "abbess"
     },
     "a2d4100de5a4c446ab1f52b1bf20cd93": {
         "en": "husband"
@@ -533,9 +524,6 @@
     "b9bba0357bc3fa8929d14b1f34a5e35e": {
         "en": "religious"
     },
-    "ba85b91bf4e0f6b5089217c12d88fea3": {
-        "la": "abbas"
-    },
     "bae1e20259f45920889914b0d6bbe4f0": {
         "la": "sacerdos"
     },
@@ -562,6 +550,9 @@
     },
     "bf43b661e988366f97a46d67b7f822ca": {
         "pl": "biskup"
+    },
+    "c06d4cefeb158637a78347f6a5f12554": {
+        "la": "abbas / abbatissa"
     },
     "c0f268fca43678e16d2adde8dfa7a3e4": {
         "pl": "filozof"

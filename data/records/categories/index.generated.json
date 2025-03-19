@@ -1,13 +1,8 @@
 {
     "abbas": {
-        "la": "abbas",
-        "en": "abbot",
-        "pl": "opat"
-    },
-    "abbatissa": {
-        "la": "abbatissa",
-        "en": "abbess",
-        "pl": "ksieni"
+        "la": "abbas / abbatissa",
+        "en": "abbot / abbess",
+        "pl": "opat / ksieni"
     },
     "acolytus": {
         "la": "acolytus",
