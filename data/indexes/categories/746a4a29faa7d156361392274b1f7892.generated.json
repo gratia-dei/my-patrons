@@ -1,19 +1,25 @@
 {
     "names": {
-        "en": "solitaress"
+        "la": "solitarius / solitaria"
     },
     "translations": {
         "la": [
-            "solitaria"
+            "solitarius / solitaria"
         ],
         "en": [
-            "solitaress"
+            "solitary / solitaress"
         ],
         "pl": [
-            "samotnica"
+            "samotnik / samotnica"
         ]
     },
     "links": {
+        "records/patrons/leonardus/ere": {
+            "fr": "Léonard de Noblat",
+            "en": "Leonard of Noblac",
+            "la": "Leonardus Lemovicensis",
+            "pl": "Leonard z Limoges"
+        },
         "records/patrons/maria/aeg": {
             "el": "Μαρία η Αιγυπτία",
             "en": "Mary of Egypt",

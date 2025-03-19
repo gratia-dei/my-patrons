@@ -339,15 +339,10 @@
         "en": "group",
         "pl": "grupa"
     },
-    "solitaria": {
-        "la": "solitaria",
-        "en": "solitaress",
-        "pl": "samotnica"
-    },
     "solitarius": {
-        "la": "solitarius",
-        "en": "solitary",
-        "pl": "samotnik"
+        "la": "solitarius / solitaria",
+        "en": "solitary / solitaress",
+        "pl": "samotnik / samotnica"
     },
     "stylita": {
         "la": "stylita",

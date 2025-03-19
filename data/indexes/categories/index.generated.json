@@ -41,6 +41,9 @@
     "0b9bc8c247685beb57a15a97449735ac": {
         "la": "uxor"
     },
+    "0e25c1698aae8b806b8af4d4abfe2982": {
+        "en": "solitary / solitaress"
+    },
     "0e44fab8173e8bbc157eba02c481bea6": {
         "la": "cardinalis episcopus"
     },
@@ -68,9 +71,6 @@
     "14206094278b0e5c6f64c286c7ccf9cb": {
         "pl": "matka rodziny"
     },
-    "14e9e923ee281b96d809085e23e3a816": {
-        "pl": "samotnik"
-    },
     "151aef07e2f08ba6f64f7d28505ca0cb": {
         "en": "disciple"
     },
@@ -79,6 +79,9 @@
     },
     "171b6ba14aeefeb08caf15065042a4c2": {
         "en": "monk"
+    },
+    "198e63d55fd441cffd0223648df1c2a2": {
+        "pl": "samotnik / samotnica"
     },
     "1a699ad5e06aa8a6db3bcf9cfb2f00f2": {
         "en": "boy"
@@ -329,6 +332,9 @@
     "743e0b1a701ac72663b83efb0d64051f": {
         "pl": "rekluza"
     },
+    "746a4a29faa7d156361392274b1f7892": {
+        "la": "solitarius / solitaria"
+    },
     "78618192d4811e2acb872920f87df475": {
         "la": "hegumenus"
     },
@@ -405,14 +411,8 @@
     "9c553d758d4fde12ba5cc72299df6bdd": {
         "pl": "kanonik"
     },
-    "9efb0042848e63b8c51a7380ffaed037": {
-        "la": "solitarius"
-    },
     "9f72ba8ec590a081a3f8e643c2491a6b": {
         "pl": "kapłan"
-    },
-    "a0ff43c21d3ba8e8cdbea422af35ff14": {
-        "en": "solitary"
     },
     "a149bf7be5cbfad304cdd73afddd1aff": {
         "pl": "lekarz"
@@ -443,9 +443,6 @@
     },
     "a4d5c94cc63a3c518220b8ced01ec727": {
         "en": "former / formatress"
-    },
-    "a586cb6a726f6fb58a0a984c4536092f": {
-        "pl": "samotnica"
     },
     "a675aa630a716a40072b18c8cfee8ce8": {
         "en": "catechist"
@@ -511,9 +508,6 @@
     },
     "bae1e20259f45920889914b0d6bbe4f0": {
         "la": "sacerdos"
-    },
-    "bb28d7d05b81ffd100cfcb5762dd2690": {
-        "la": "solitaria"
     },
     "bb4694a26a39df7501f8bb8cbdd13e38": {
         "en": "wife"
@@ -611,9 +605,6 @@
     },
     "db0f6f37ebeb6ea09489124345af2a45": {
         "en": "group"
-    },
-    "db9ba0f4837435258a27af3fd4b31b06": {
-        "en": "solitaress"
     },
     "df3343629e865d738e9137e5187531df": {
         "la": "puellus"
