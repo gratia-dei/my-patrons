@@ -104,9 +104,6 @@
     "2077e4a6bafa9b4e7b55e1fff16818af": {
         "en": "prince"
     },
-    "21b716d20c99a6d6640919a3af7b9af5": {
-        "en": "foundress"
-    },
     "21e63bb6bc0db57fe1529d83080ac4b0": {
         "en": "archideacon"
     },
@@ -175,6 +172,9 @@
     "3281d64d71abcf40e862001e6a5e7c58": {
         "la": "Deus"
     },
+    "37c6295088dba8ae2611eb2989f9e5a6": {
+        "pl": "fundator / fundatorka"
+    },
     "37f380c98e68cb79e2f38cf6f108b851": {
         "la": "uxorius"
     },
@@ -214,9 +214,6 @@
     "466764052acadf446abd1ff3a89d7a4d": {
         "pl": "grupa"
     },
-    "4776d0f15d685b4aabd9841da7c5eeed": {
-        "la": "fundatrix"
-    },
     "484cdc3dc3712dc30750b5e5d1b436c0": {
         "la": "gubernatrix"
     },
@@ -240,9 +237,6 @@
     },
     "518183d207ac39dd55a8b0ecced4ab3e": {
         "en": "hermit"
-    },
-    "52629c7b17208f3a93f41e9bdaf0c20c": {
-        "pl": "fundatorka"
     },
     "52eac8bb996016b4c8f7f72c4b130c84": {
         "la": "acolytus"
@@ -432,6 +426,9 @@
     "a1d6b5694b31e76b8c226d4be6b26093": {
         "la": "evangelista"
     },
+    "a2acab2753eb958789c5330d17ecb543": {
+        "la": "fundator / fundatrix"
+    },
     "a2d4100de5a4c446ab1f52b1bf20cd93": {
         "en": "husband"
     },
@@ -573,14 +570,14 @@
         "la": "asceta",
         "pl": "asceta"
     },
+    "c801fc526ce1b1b33ee896c7b13d93c0": {
+        "en": "founder / foundress"
+    },
     "c85ee4df8082e8141095807b50fd904e": {
         "en": "martyress"
     },
     "c9ad31e5740747285dae5c168715d2de": {
         "en": "widow"
-    },
-    "caaa84acca34f6fbe1be609bc4e81c43": {
-        "en": "founder"
     },
     "caf1c89e37206ef637fec26d5ae93b98": {
         "pl": "inny apostoł"
@@ -660,10 +657,6 @@
     },
     "f70d108cdec7c94d2cbe8da51bfcbc98": {
         "pl": "pokutnica"
-    },
-    "f720259e99482a6e3a1f7e4079e1975e": {
-        "la": "fundator",
-        "pl": "fundator"
     },
     "f8119ce5b6b99992ce19cec80d595b95": {
         "la": "apostolus"

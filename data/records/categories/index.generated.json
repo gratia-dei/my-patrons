@@ -150,14 +150,9 @@
         "pl": "formator / formatorka"
     },
     "fundator": {
-        "la": "fundator",
-        "en": "founder",
-        "pl": "fundator"
-    },
-    "fundatrix": {
-        "la": "fundatrix",
-        "en": "foundress",
-        "pl": "fundatorka"
+        "la": "fundator / fundatrix",
+        "en": "founder / foundress",
+        "pl": "fundator / fundatorka"
     },
     "generalis": {
         "la": "generalis",
