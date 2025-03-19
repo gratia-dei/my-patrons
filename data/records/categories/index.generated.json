@@ -90,9 +90,9 @@
         "pl": "wyznawca"
     },
     "coniunx": {
-        "la": "coniunx",
-        "en": "spouse",
-        "pl": "małżonek"
+        "la": "coniunx / uxorius / uxor",
+        "en": "spouse / wifish / wife",
+        "pl": "małżonek / żonaty / małżonka"
     },
     "constitutor": {
         "la": "constitutor",
@@ -343,16 +343,6 @@
         "la": "tertiarius / tertiaria",
         "en": "tertiary",
         "pl": "tercjarz / tercjarka"
-    },
-    "uxor": {
-        "la": "uxor",
-        "en": "wife",
-        "pl": "małżonka"
-    },
-    "uxorius": {
-        "la": "uxorius",
-        "en": "wifish",
-        "pl": "żonaty"
     },
     "vidua": {
         "la": "vidua",

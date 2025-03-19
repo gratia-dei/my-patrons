@@ -32,9 +32,6 @@
     "0b607e06312cda6c4b7a027f8bedff41": {
         "pl": "rolnik"
     },
-    "0b9bc8c247685beb57a15a97449735ac": {
-        "la": "uxor"
-    },
     "0e25c1698aae8b806b8af4d4abfe2982": {
         "en": "solitary / solitaress"
     },
@@ -122,6 +119,9 @@
     "24f4f48771b1377146c601ae2e0e38aa": {
         "la": "philosophus"
     },
+    "24f7d0e9933d75240d910efb034878d7": {
+        "la": "coniunx / uxorius / uxor"
+    },
     "259058bb86d85d62f14b7feee0a165da": {
         "la": "monialis"
     },
@@ -154,6 +154,9 @@
     "2af19384a5ee00fab3a4e213307626d4": {
         "pl": "wdowa"
     },
+    "2eda1d4927069c4a3d14800dce8f7ac1": {
+        "en": "spouse / wifish / wife"
+    },
     "2f18e79578f7e0d19064a02ae4f4550f": {
         "la": "conditor / conditrix"
     },
@@ -178,9 +181,6 @@
     "37c6295088dba8ae2611eb2989f9e5a6": {
         "pl": "fundator / fundatorka"
     },
-    "37f380c98e68cb79e2f38cf6f108b851": {
-        "la": "uxorius"
-    },
     "39719bde558fb9b4367151f9a9e33451": {
         "en": "cardinal bishop"
     },
@@ -201,9 +201,6 @@
     },
     "3d28205b9c6217322c1ffa8f1bb1bc72": {
         "la": "cardinalis"
-    },
-    "3e295f921e3746bddbd199a47587afe0": {
-        "en": "wifish"
     },
     "40e3d39abee106afe63bd5361c9d00ac": {
         "en": "patriarch"
@@ -268,9 +265,6 @@
     "5de1809c9a350ed640f8e644f41cbc86": {
         "la": "canonicus"
     },
-    "6044682a5ba85c27c579127a6ab7fc2b": {
-        "la": "coniunx"
-    },
     "6194dad9fb62f207d694b14f5bd49bf1": {
         "la": "anachoreta",
         "pl": "anachoreta"
@@ -293,6 +287,9 @@
     "6a81060b83b919bc115112bf840eca63": {
         "la": "miles"
     },
+    "6aac1ebbcadf867ee0a61c32ceeab950": {
+        "pl": "małżonek / żonaty / małżonka"
+    },
     "6b4023d367b91c97f19597c4069337d3": {
         "la": "rex"
     },
@@ -301,9 +298,6 @@
     },
     "6e362f83d382361df11befc976f1dd55": {
         "pl": "prezbiter"
-    },
-    "70b67b91e80811b55157cb190ee85e88": {
-        "en": "spouse"
     },
     "71dd21b124b3942e3743c8f20022ea26": {
         "la": "propheta"
@@ -355,9 +349,6 @@
     },
     "88c3212fb76cb76e5daae5cde57d55ed": {
         "pl": "pokutnik"
-    },
-    "89f0058731a3ea17f84998659faf0dcf": {
-        "pl": "małżonka"
     },
     "8adec1b9b9f8ca80033ad8ab2676b1f3": {
         "en": "father of the household"
@@ -494,9 +485,6 @@
     "bae1e20259f45920889914b0d6bbe4f0": {
         "la": "sacerdos"
     },
-    "bb4694a26a39df7501f8bb8cbdd13e38": {
-        "en": "wife"
-    },
     "bbea72c5f66d9503ec1076be4c0e852c": {
         "en": "mother of the household"
     },
@@ -563,9 +551,6 @@
     },
     "d0a87b4018d6521b0f5a49e5e03adb6d": {
         "en": "virgin"
-    },
-    "d3062849c7a26a7a512c4c870ff5991b": {
-        "pl": "żonaty"
     },
     "d4050bb88abf39e445074b58d5308c0d": {
         "pl": "kapłan diecezjalny"

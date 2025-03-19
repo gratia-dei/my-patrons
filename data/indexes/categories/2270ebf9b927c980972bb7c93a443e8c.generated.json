@@ -4,12 +4,10 @@
     },
     "translations": {
         "la": [
-            "maritus",
-            "coniunx"
+            "maritus"
         ],
         "en": [
-            "husband",
-            "spouse"
+            "husband"
         ],
         "pl": [
             "małżonek"
@@ -20,11 +18,6 @@
             "la": "Chrysanthus /+ Daria",
             "en": "Chrysanthus /+ Daria",
             "pl": "Chryzant /+ Daria"
-        },
-        "records/patrons/salomea/reg": {
-            "pl": "Salomea Piastówna",
-            "en": "Salomea of the Poland",
-            "la": "Salomea Regina Haliciensis"
         }
     }
 }

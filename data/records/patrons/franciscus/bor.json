@@ -38,7 +38,7 @@
   "also-in-martyrology": ["09-30", "10-10"],
 
   "forenames": ["franciscus"],
-  "categories": ["vir", "confessor", "uxorius", "sacerdos", "presbyter", "generalis"],
+  "categories": ["vir", "confessor", "coniunx", "sacerdos", "presbyter", "generalis"],
 
   "order": ["sj"]
 }

@@ -1,16 +1,16 @@
 {
     "names": {
-        "la": "uxor"
+        "pl": "małżonek / żonaty / małżonka"
     },
     "translations": {
         "la": [
-            "uxor"
+            "coniunx / uxorius / uxor"
         ],
         "en": [
-            "wife"
+            "spouse / wifish / wife"
         ],
         "pl": [
-            "małżonka"
+            "małżonek / żonaty / małżonka"
         ]
     },
     "links": {
@@ -24,16 +24,33 @@
             "en": "Daria /+ Chrysanthus",
             "pl": "Daria /+ Chryzant"
         },
+        "records/patrons/franciscus/bor": {
+            "es": "Francisco de Borja",
+            "en": "Francis Borgia",
+            "la": "Franciscus Borgia",
+            "pl": "Franciszek Borgiasz"
+        },
         "records/patrons/mathildis/reg": {
             "de": "Mathilde von Ringelheim",
             "en": "Matilda of Ringelheim",
             "la": "Mathildis de Ringelheim",
             "pl": "Matylda von Ringelheim"
         },
+        "records/patrons/nicolaus/flu": {
+            "de": "Niklaus von Flüe",
+            "en": "Nicholas of Flüe",
+            "la": "Nicolaus de Flue",
+            "pl": "Mikołaj z Flüe"
+        },
         "records/patrons/sabigothon/aur": {
             "la": "Sabigothon Natalia /+ Aurelius et alii",
             "en": "Sabigothon Natalie /+ Aurelius and others",
             "pl": "Sabigotona Natalia /+ Aureliusz i inni"
+        },
+        "records/patrons/salomea/reg": {
+            "pl": "Salomea Piastówna",
+            "en": "Salomea of the Poland",
+            "la": "Salomea Regina Haliciensis"
         }
     }
 }
