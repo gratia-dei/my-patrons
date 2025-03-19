@@ -170,14 +170,9 @@
         "pl": "ihumen"
     },
     "institutor": {
-        "la": "institutor",
-        "en": "instituter",
-        "pl": "instytutor"
-    },
-    "institutrix": {
-        "la": "institutrix",
-        "en": "institutress",
-        "pl": "instytutorka"
+        "la": "institutor / institutrix",
+        "en": "instituter / institutress",
+        "pl": "instytutor / instytutorka"
     },
     "levita": {
         "la": "levita",

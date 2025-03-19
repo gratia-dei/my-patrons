@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "instytutor"
+        "la": "institutor / institutrix"
     },
     "translations": {
         "la": [
-            "institutor"
+            "institutor / institutrix"
         ],
         "en": [
-            "instituter"
+            "instituter / institutress"
         ],
         "pl": [
-            "instytutor"
+            "instytutor / instytutorka"
         ]
     },
     "links": {
@@ -74,6 +74,11 @@
             "la": "Ioannes Baptista de la Salle",
             "pl": "Jan Chrzciciel de la Salle"
         },
+        "records/patrons/maria/kar": {
+            "pl": "Maria Karłowska",
+            "en": "Maria Karłowska",
+            "la": "Maria Karlowska"
+        },
         "records/patrons/norbertus/mag": {
             "de": "Norbert von Xanten",
             "en": "Norbert of Xanten",
@@ -85,6 +90,12 @@
             "en": "Peter Julian Eymanrd",
             "la": "Patrus Iulianus Eymard",
             "pl": "Piotr Julian Eymard"
+        },
+        "records/patrons/raphaela/por": {
+            "es": "Rafaela María del Sagrado Corazón",
+            "en": "Rafaela Mary of the Sacred Heart",
+            "la": "Raphaela Maria a Sacro Corde",
+            "pl": "Rafaela Maria od Najświętszego Serca"
         },
         "records/patrons/vincentius/pau": {
             "fr": "Vincent de Paul",

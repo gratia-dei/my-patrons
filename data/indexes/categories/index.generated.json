@@ -56,6 +56,9 @@
     "12fad3a5f2ecde4f7b516aaf952ee350": {
         "la": "poenitens"
     },
+    "1363914b618d15056cc33db1eadc949e": {
+        "la": "institutor / institutrix"
+    },
     "13d6bacc45ed093ae67d455c3f3411ff": {
         "en": "anachorite"
     },
@@ -71,6 +74,9 @@
     "151aef07e2f08ba6f64f7d28505ca0cb": {
         "en": "disciple"
     },
+    "15fff88df4e06bb362cadfe795670dd4": {
+        "pl": "instytutor / instytutorka"
+    },
     "171b6ba14aeefeb08caf15065042a4c2": {
         "en": "monk"
     },
@@ -79,9 +85,6 @@
     },
     "1b7d5726533ab525a8760351e9b5e415": {
         "en": "child"
-    },
-    "1c09f9aae4f7e062d1c6082e40988bcb": {
-        "en": "instituter"
     },
     "1cacca8ff23c34fb57966625d80419e2": {
         "pl": "formator / formatorka"
@@ -146,6 +149,9 @@
     },
     "27b0b619b6bb3f1895a44fbd748893c1": {
         "en": "catechumen"
+    },
+    "2863e14774dce430ad6ba848b13708ea": {
+        "en": "instituter / institutress"
     },
     "28ca53d2b7bb4aa13549b4022c79dca1": {
         "en": "girl"
@@ -253,9 +259,6 @@
     "5652ea6b052915bdfd36d3aad6c5a2b3": {
         "pl": "słupnik"
     },
-    "583b75742c9d25ae041a3a7d78b47dab": {
-        "en": "institutress"
-    },
     "590f35821fbed7b2ab58a9dbaf36c42d": {
         "la": "vir"
     },
@@ -319,9 +322,6 @@
     },
     "73d6323223b2413e5bfa9c6307a76a49": {
         "en": "pope"
-    },
-    "743ce8abd2af1802e00b43a44da60717": {
-        "la": "institutor"
     },
     "743e0b1a701ac72663b83efb0d64051f": {
         "pl": "rekluza"
@@ -401,9 +401,6 @@
     },
     "9c553d758d4fde12ba5cc72299df6bdd": {
         "pl": "kanonik"
-    },
-    "9c6f9c3585717c1e67b86e59859a5771": {
-        "pl": "instytutor"
     },
     "9efb0042848e63b8c51a7380ffaed037": {
         "la": "solitarius"
@@ -508,9 +505,6 @@
     },
     "b637af78ada000a39023b4ead9db041a": {
         "en": "acolyte"
-    },
-    "b868a0ae637e7083089f083d6b3c7c71": {
-        "la": "institutrix"
     },
     "b9966b903e860aba4f7deec8262051ae": {
         "en": "apostle"
@@ -632,9 +626,6 @@
     },
     "e206eeeda7c29b90d14249ee7ef14dc6": {
         "la": "catechista"
-    },
-    "e4656f752c90f81803ec1365c98148c7": {
-        "pl": "instytutorka"
     },
     "e71314dc2768dcf6fd370ad09ad30959": {
         "la": "levita"
