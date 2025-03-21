@@ -854,14 +854,9 @@
         "pl": "daty"
     },
 
-    "lang-date-source-anniversary": {
-        "en": "Anniversary",
-        "pl": "Rocznica"
-    },
-
-    "lang-date-source-reliable-death-anniversary": {
-        "en": "reliable death anniversary",
-        "pl": "wiarygodna rocznica śmierci"
+    "lang-date-source-feast-day-anniversary": {
+        "en": "feast day - anniversary",
+        "pl": "dzień święta - rocznica"
     },
 
     "lang-date-source-mr-1584": {
@@ -910,6 +905,11 @@
         "en": "Roman Martyrology 2004 movable feasts",
         "la": "Martyrologium Romanum 2004 mobilia festa",
         "pl": "Martyrologium Rzymskie 2004 święta ruchome"
+    },
+
+    "lang-date-source-reliable-death-anniversary": {
+        "en": "reliable death anniversary",
+        "pl": "wiarygodna rocznica śmierci"
     },
 
     "lang-dates-multi-year-days-form-select-info": {
