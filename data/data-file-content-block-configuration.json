@@ -8,7 +8,6 @@
     "/indexes/": "IndexedNameContentBlock",
 
     "/sources/popes/": "PopesContentBlock",
-    "/sources/patrons-and-feasts-not-included-in-the-roman-martyrology/": "PatronsAndFeastsNotIncludedInTheRomanMartyrologyContentBlock",
 
     "/sources/martyrologium-romanum/1584/editio/": "RomanMartyrologyEditionContentBlock",
     "/sources/martyrologium-romanum/1584/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1584ContentBlock",
