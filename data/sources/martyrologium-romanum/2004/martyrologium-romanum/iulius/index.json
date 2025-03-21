@@ -1,157 +1,95 @@
 {
     "die-1-iulii": {
-        "la": "Die 1 iulii (Kaléndis iúlii)",
-        "en": "On 1st July (On the July Kalends)",
-        "pl": "Dnia 1 lipca (Kalendy lipcowe)"
+        "la": "Die 1 iulii (Kalendis iulii)"
     },
     "die-2-iulii": {
-        "la": "Die 2 iulii (Sexto Nonas iúlii)",
-        "en": "On 2nd July (The 6th day before the July Nones)",
-        "pl": "Dnia 2 lipca (6 dzień przed nonami lipcowymi)"
+        "la": "Die 2 iulii (Sexto Nonas iulii)"
     },
     "die-3-iulii": {
-        "la": "Die 3 iulii (Quinto Nonas iúlii)",
-        "en": "On 3rd July (The 5th day before the July Nones)",
-        "pl": "Dnia 3 lipca (5 dzień przed nonami lipcowymi)"
+        "la": "Die 3 iulii (Quinto Nonas iulii)"
     },
     "die-4-iulii": {
-        "la": "Die 4 iulii (Quarto Nonas iúlii)",
-        "en": "On 4th July (The 4th day before the July Nones)",
-        "pl": "Dnia 4 lipca (4 dzień przed nonami lipcowymi)"
+        "la": "Die 4 iulii (Quarto Nonas iulii)"
     },
     "die-5-iulii": {
-        "la": "Die 5 iulii (Tértio Nonas iúlii)",
-        "en": "On 5th July (The 3rd day before the July Nones)",
-        "pl": "Dnia 5 lipca (3 dzień przed nonami lipcowymi)"
+        "la": "Die 5 iulii (Tertio Nonas iulii)"
     },
     "die-6-iulii": {
-        "la": "Die 6 iulii (Prídie Nonas iúlii)",
-        "en": "On 6th July (On the day before July Nones)",
-        "pl": "Dnia 6 lipca (Przeddzień non lipcowych)"
+        "la": "Die 6 iulii (Pridie Nonas iulii)"
     },
     "die-7-iulii": {
-        "la": "Die 7 iulii (Nonis iúlii)",
-        "en": "On 7th July (On the July Nones)",
-        "pl": "Dnia 7 lipca (Nony lipcowe)"
+        "la": "Die 7 iulii (Nonis iulii)"
     },
     "die-8-iulii": {
-        "la": "Die 8 iulii (Octávo Idus iúlii)",
-        "en": "On 8th July (The 8th day before the July Ides)",
-        "pl": "Dnia 8 lipca (8 dzień przed idami lipcowymi)"
+        "la": "Die 8 iulii (Octavo Idus iulii)"
     },
     "die-9-iulii": {
-        "la": "Die 9 iulii (Séptimo Idus iúlii)",
-        "en": "On 9th July (The 7th day before the July Ides)",
-        "pl": "Dnia 9 lipca (7 dzień przed idami lipcowymi)"
+        "la": "Die 9 iulii (Septimo Idus iulii)"
     },
     "die-10-iulii": {
-        "la": "Die 10 iulii (Sexto Idus iúlii)",
-        "en": "On 10th July (The 6th day before the July Ides)",
-        "pl": "Dnia 10 lipca (6 dzień przed idami lipcowymi)"
+        "la": "Die 10 iulii (Sexto Idus iulii)"
     },
     "die-11-iulii": {
-        "la": "Die 11 iulii (Quinto Idus iúlii)",
-        "en": "On 11th July (The 5th day before the July Ides)",
-        "pl": "Dnia 11 lipca (5 dzień przed idami lipcowymi)"
+        "la": "Die 11 iulii (Quinto Idus iulii)"
     },
     "die-12-iulii": {
-        "la": "Die 12 iulii (Quarto Idus iúlii)",
-        "en": "On 12th July (The 4th day before the July Ides)",
-        "pl": "Dnia 12 lipca (4 dzień przed idami lipcowymi)"
+        "la": "Die 12 iulii (Quarto Idus iulii)"
     },
     "die-13-iulii": {
-        "la": "Die 13 iulii (Tértio Idus iúlii)",
-        "en": "On 13th July (The 3rd day before the July Ides)",
-        "pl": "Dnia 13 lipca (3 dzień przed idami lipcowymi)"
+        "la": "Die 13 iulii (Tertio Idus iulii)"
     },
     "die-14-iulii": {
-        "la": "Die 14 iulii (Prídie Idus iúlii)",
-        "en": "On 14th July (On the day before July Ides)",
-        "pl": "Dnia 14 lipca (Przeddzień id lipcowych)"
+        "la": "Die 14 iulii (Pridie Idus iulii)"
     },
     "die-15-iulii": {
-        "la": "Die 15 iulii (Idibus iúlii)",
-        "en": "On 15th July (On the July Ides)",
-        "pl": "Dnia 15 lipca (Idy lipcowe)"
+        "la": "Die 15 iulii (Idibus iulii)"
     },
     "die-16-iulii": {
-        "la": "Die 16 iulii (Décimo séptimo Kaléndas augústi)",
-        "en": "On 16th July (The 17th day before the August Kalends)",
-        "pl": "Dnia 16 lipca (17 dzień przed kalendami sierpniowymi)"
+        "la": "Die 16 iulii (Decimo septimo Kalendas augusti)"
     },
     "die-17-iulii": {
-        "la": "Die 17 iulii (Sexto décimo Kaléndas augústi)",
-        "en": "On 17th July (The 16th day before the August Kalends)",
-        "pl": "Dnia 17 lipca (16 dzień przed kalendami sierpniowymi)"
+        "la": "Die 17 iulii (Sexto decimo Kalendas augusti)"
     },
     "die-18-iulii": {
-        "la": "Die 18 iulii (Quinto décimo Kaléndas augústi)",
-        "en": "On 18th July (The 15th day before the August Kalends)",
-        "pl": "Dnia 18 lipca (15 dzień przed kalendami sierpniowymi)"
+        "la": "Die 18 iulii (Quinto decimo Kalendas augusti)"
     },
     "die-19-iulii": {
-        "la": "Die 19 iulii (Quarto décimo Kaléndas augústi)",
-        "en": "On 19th July (The 14th day before the August Kalends)",
-        "pl": "Dnia 19 lipca (14 dzień przed kalendami sierpniowymi)"
+        "la": "Die 19 iulii (Quarto decimo Kalendas augusti)"
     },
     "die-20-iulii": {
-        "la": "Die 20 iulii (Tértio décimo Kaléndas augústi)",
-        "en": "On 20th July (The 13th day before the August Kalends)",
-        "pl": "Dnia 20 lipca (13 dzień przed kalendami sierpniowymi)"
+        "la": "Die 20 iulii (Tertio decimo Kalendas augusti)"
     },
     "die-21-iulii": {
-        "la": "Die 21 iulii (Duodécimo Kaléndas augústi)",
-        "en": "On 21st July (The 12th day before the August Kalends)",
-        "pl": "Dnia 21 lipca (12 dzień przed kalendami sierpniowymi)"
+        "la": "Die 21 iulii (Duodecimo Kalendas augusti)"
     },
     "die-22-iulii": {
-        "la": "Die 22 iulii (Undécimo Kaléndas augústi)",
-        "en": "On 22nd July (The 11th day before the August Kalends)",
-        "pl": "Dnia 22 lipca (11 dzień przed kalendami sierpniowymi)"
+        "la": "Die 22 iulii (Undecimo Kalendas augusti)"
     },
     "die-23-iulii": {
-        "la": "Die 23 iulii (Décimo Kaléndas augústi)",
-        "en": "On 23rd July (The 10th day before the August Kalends)",
-        "pl": "Dnia 23 lipca (10 dzień przed kalendami sierpniowymi)"
+        "la": "Die 23 iulii (Decimo Kalendas augusti)"
     },
     "die-24-iulii": {
-        "la": "Die 24 iulii (Nono Kaléndas augústi)",
-        "en": "On 24th July (The 9th day before the August Kalends)",
-        "pl": "Dnia 24 lipca (9 dzień przed kalendami sierpniowymi)"
+        "la": "Die 24 iulii (Nono Kalendas augusti)"
     },
     "die-25-iulii": {
-        "la": "Die 25 iulii (Octávo Kaléndas augústi)",
-        "en": "On 25th July (The 8th day before the August Kalends)",
-        "pl": "Dnia 25 lipca (8 dzień przed kalendami sierpniowymi)"
+        "la": "Die 25 iulii (Octavo Kalendas augusti)"
     },
     "die-26-iulii": {
-        "la": "Die 26 iulii (Séptimo Kaléndas augústi)",
-        "en": "On 26th July (The 7th day before the August Kalends)",
-        "pl": "Dnia 26 lipca (7 dzień przed kalendami sierpniowymi)"
+        "la": "Die 26 iulii (Septimo Kalendas augusti)"
     },
     "die-27-iulii": {
-        "la": "Die 27 iulii (Sexto Kaléndas augústi)",
-        "en": "On 27th July (The 6th day before the August Kalends)",
-        "pl": "Dnia 27 lipca (6 dzień przed kalendami sierpniowymi)"
+        "la": "Die 27 iulii (Sexto Kalendas augusti)"
     },
     "die-28-iulii": {
-        "la": "Die 28 iulii (Quinto Kaléndas augústi)",
-        "en": "On 28th July (The 5th day before the August Kalends)",
-        "pl": "Dnia 28 lipca (5 dzień przed kalendami sierpniowymi)"
+        "la": "Die 28 iulii (Quinto Kalendas augusti)"
     },
     "die-29-iulii": {
-        "la": "Die 29 iulii (Quarto Kaléndas augústi)",
-        "en": "On 29th July (The 4th day before the August Kalends)",
-        "pl": "Dnia 29 lipca (4 dzień przed kalendami sierpniowymi)"
+        "la": "Die 29 iulii (Quarto Kalendas augusti)"
     },
     "die-30-iulii": {
-        "la": "Die 30 iulii (Tértio Kaléndas augústi)",
-        "en": "On 30th July (The 3rd day before the August Kalends)",
-        "pl": "Dnia 30 lipca (3 dzień przed kalendami sierpniowymi)"
+        "la": "Die 30 iulii (Tertio Kalendas augusti)"
     },
     "die-31-iulii": {
-        "la": "Die 31 iulii (Prídie Kaléndas augústi)",
-        "en": "On 31st July (On the day before August Kalends)",
-        "pl": "Dnia 31 lipca (Przeddzień kalend sierpniowych)"
+        "la": "Die 31 iulii (Pridie Kalendas augusti)"
     }
 }

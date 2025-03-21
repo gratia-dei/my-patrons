@@ -23,18 +23,18 @@
         "la": "A.D. MDCCCCLVI"
     },
 
-    "approbation-title": {
-        "la": "[color:red]APPROBATIO[:color][/]QUARTÆ A TYPICA EDITIONIS MARTYROLOGII ROMANI"
-    },
-    "approbation-date": {
-        "la": "Die 19 Julii 1956."
-    },
-
-    "decree-title": {
+    "document-1-title": {
         "la": "[color:red]DECRETUM[:color][/]PRIMAM MARTYROLOGII ROMANI A TYPICA EDITIONEM[/]APPROBANS"
     },
-    "decree-date": {
+    "document-1-date": {
         "la": "Die 11 Januarii 1922."
+    },
+
+    "document-2-title": {
+        "la": "[color:red]APPROBATIO[:color][/]QUARTÆ A TYPICA EDITIONIS MARTYROLOGII ROMANI"
+    },
+    "document-2-date": {
+        "la": "Die 19 Julii 1956."
     },
 
     "translation-sources": {

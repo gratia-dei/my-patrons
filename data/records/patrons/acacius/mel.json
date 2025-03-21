@@ -28,6 +28,9 @@
     "categories": ["vir", "episcopus"],
 
     "data-links": {
+        "mr-1584": [],
+        "mr-1584-index": [],
+        "mr-1584-movable": [],
 
         "mr-1956": [],
         "mr-1956-index-sanctorum-1": [],
@@ -39,7 +42,8 @@
         "mr-1956-movable": [],
 
         "mr-2004": ["1:apr./17#5"],
-        "mr-2004-index": ["1:a/acacius#2"]
+        "mr-2004-index": ["1:a/acacius#2"],
+        "mr-2004-movable": []
     },
 
     "sources": {

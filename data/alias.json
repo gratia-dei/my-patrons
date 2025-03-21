@@ -18,6 +18,11 @@
     "popes": "/sources/popes",
     "not-in-mr": "/sources/patrons-and-feasts-not-included-in-the-roman-martyrology",
 
+    "mr-1584": "/sources/martyrologium-romanum/1584/martyrologium-romanum/",
+    "mr-1584-editio": "/sources/martyrologium-romanum/1584/editio",
+    "mr-1584-index": "/sources/martyrologium-romanum/1584/index-nominum-omnium-sanctorum-qui-in-hoc-martyrologio-continentur-ordine-alphabetico-descriptus/",
+    "mr-1584-movable": "/sources/martyrologium-romanum/1584/rubricae-martyrologii",
+
     "mr-1956": "/sources/martyrologium-romanum/1956/martyrologium-romanum/",
     "mr-1956-editio": "/sources/martyrologium-romanum/1956/editio",
     "mr-1956-index-sanctorum-1": "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/i-sancti-cum-nomine-descripti/",

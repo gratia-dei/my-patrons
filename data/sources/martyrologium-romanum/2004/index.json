@@ -1,20 +1,14 @@
 {
     "editio": {
-        "la": "Editio",
-        "en": "Edition",
-        "pl": "Wydanie"
+        "la": "Editio"
     },
     "elogia-pro-celebrationibus-mobilibus": {
-        "la": "Elogia pro celebrationibus mobilibus",
-        "pl": "Elogia dla ruchomych uroczystości"
+        "la": "Elogia pro celebrationibus mobilibus"
     },
     "martyrologium-romanum": {
-        "la": "Martyrologium Romanum",
-        "en": "Roman Martyrology",
-        "pl": "Martyrologium Rzymskie"
+        "la": "Martyrologium Romanum"
     },
     "index-nominum-sanctorum-et-beatorum": {
-        "la": "Index nominum Sanctorum et Beatorum",
-        "pl": "Indeks nazw Świętych i Błogosławionych"
+        "la": "Index nominum Sanctorum et Beatorum"
     }
 }

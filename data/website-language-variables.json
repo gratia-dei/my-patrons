@@ -864,6 +864,18 @@
         "pl": "wiarygodna rocznica śmierci"
     },
 
+    "lang-date-source-mr-1584": {
+        "en": "Roman Martyrology 1584",
+        "la": "Martyrologium Romanum 1584",
+        "pl": "Martyrologium Rzymskie 1584"
+    },
+
+    "lang-date-source-mr-1584-movable": {
+        "en": "Roman Martyrology 1584 movable feasts",
+        "la": "Martyrologium Romanum 1584 mobilia festa",
+        "pl": "Martyrologium Rzymskie 1584 święta ruchome"
+    },
+
     "lang-date-source-mr-1956": {
         "en": "Roman Martyrology 1956",
         "la": "Martyrologium Romanum 1956",

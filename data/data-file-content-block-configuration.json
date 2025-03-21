@@ -10,10 +10,10 @@
     "/sources/popes/": "PopesContentBlock",
     "/sources/patrons-and-feasts-not-included-in-the-roman-martyrology/": "PatronsAndFeastsNotIncludedInTheRomanMartyrologyContentBlock",
 
-    "/sources/martyrologium-romanum/2004/editio/": "RomanMartyrologyEditionContentBlock",
-    "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince2001ContentBlock",
-    "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/": "RomanMartyrologyIndexSince1922ContentBlock",
-    "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus/": "RomanMartyrologyMovableFeastsSince2001ContentBlock",
+    "/sources/martyrologium-romanum/1584/editio/": "RomanMartyrologyEditionContentBlock",
+    "/sources/martyrologium-romanum/1584/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1584ContentBlock",
+    "/sources/martyrologium-romanum/1584/index-nominum-omnium-sanctorum-qui-in-hoc-martyrologio-continentur-ordine-alphabetico-descriptus/": "RomanMartyrologyIndexSince1584ContentBlock",
+    "/sources/martyrologium-romanum/1584/rubricae-martyrologii/": "RomanMartyrologyMovableFeastsSince1584ContentBlock",
 
     "/sources/martyrologium-romanum/1956/editio/": "RomanMartyrologyEditionContentBlock",
     "/sources/martyrologium-romanum/1956/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1922ContentBlock",
@@ -23,5 +23,10 @@
     "/sources/martyrologium-romanum/1956/sancti-eorumque-officia-sine-indicatione-loci/": "RomanMartyrologyIndexSince1922ContentBlock",
     "/sources/martyrologium-romanum/1956/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsSince1922ContentBlock",
     "/sources/martyrologium-romanum/1956/variationes/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1922ContentBlock",
-    "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsSince1922ContentBlock"
+    "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium/": "RomanMartyrologyMovableFeastsSince1922ContentBlock",
+
+    "/sources/martyrologium-romanum/2004/editio/": "RomanMartyrologyEditionContentBlock",
+    "/sources/martyrologium-romanum/2004/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince2001ContentBlock",
+    "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/": "RomanMartyrologyIndexSince1922ContentBlock",
+    "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus/": "RomanMartyrologyMovableFeastsSince2001ContentBlock"
 }

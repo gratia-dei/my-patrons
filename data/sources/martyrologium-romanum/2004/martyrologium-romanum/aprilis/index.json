@@ -1,152 +1,92 @@
 {
     "die-1-aprilis": {
-        "la": "Die 1 aprilis (Kaléndis aprílis)",
-        "en": "On 1st April (On the April Kalends)",
-        "pl": "Dnia 1 kwietnia (Kalendy kwietniowe)"
+        "la": "Die 1 aprilis (Kalendis aprilis)"
     },
     "die-2-aprilis": {
-        "la": "Die 2 aprilis (Quarto Nonas aprílis)",
-        "en": "On 2nd April (The 4th day before the April Nones)",
-        "pl": "Dnia 2 kwietnia (4 dzień przed nonami kwietniowymi)"
+        "la": "Die 2 aprilis (Quarto Nonas aprilis)"
     },
     "die-3-aprilis": {
-        "la": "Die 3 aprilis (Tértio Nonas aprílis)",
-        "en": "On 3rd April (The 3rd day before the April Nones)",
-        "pl": "Dnia 3 kwietnia (3 dzień przed nonami kwietniowymi)"
+        "la": "Die 3 aprilis (Tertio Nonas aprilis)"
     },
     "die-4-aprilis": {
-        "la": "Die 4 aprilis (Prídie Nonas aprílis)",
-        "en": "On 4th April (On the day before April Nones)",
-        "pl": "Dnia 4 kwietnia (Przeddzień non kwietniowych)"
+        "la": "Die 4 aprilis (Pridie Nonas aprilis)"
     },
     "die-5-aprilis": {
-        "la": "Die 5 aprilis (Nonis aprílis)",
-        "en": "On 5th April (On the April Nones)",
-        "pl": "Dnia 5 kwietnia (Nony kwietniowe)"
+        "la": "Die 5 aprilis (Nonis aprilis)"
     },
     "die-6-aprilis": {
-        "la": "Die 6 aprilis (Octávo Idus aprílis)",
-        "en": "On 6th April (The 8th day before the April Ides)",
-        "pl": "Dnia 6 kwietnia (8 dzień przed idami kwietniowymi)"
+        "la": "Die 6 aprilis (Octavo Idus aprilis)"
     },
     "die-7-aprilis": {
-        "la": "Die 7 aprilis (Séptimo Idus aprílis)",
-        "en": "On 7th April (The 7th day before the April Ides)",
-        "pl": "Dnia 7 kwietnia (7 dzień przed idami kwietniowymi)"
+        "la": "Die 7 aprilis (Septimo Idus aprilis)"
     },
     "die-8-aprilis": {
-        "la": "Die 8 aprilis (Sexto Idus aprílis)",
-        "en": "On 8th April (The 6th day before the April Ides)",
-        "pl": "Dnia 8 kwietnia (6 dzień przed idami kwietniowymi)"
+        "la": "Die 8 aprilis (Sexto Idus aprilis)"
     },
     "die-9-aprilis": {
-        "la": "Die 9 aprilis (Quinto Idus aprílis)",
-        "en": "On 9th April (The 5th day before the April Ides)",
-        "pl": "Dnia 9 kwietnia (5 dzień przed idami kwietniowymi)"
+        "la": "Die 9 aprilis (Quinto Idus aprilis)"
     },
     "die-10-aprilis": {
-        "la": "Die 10 aprilis (Quarto Idus aprílis)",
-        "en": "On 10th April (The 4th day before the April Ides)",
-        "pl": "Dnia 10 kwietnia (4 dzień przed idami kwietniowymi)"
+        "la": "Die 10 aprilis (Quarto Idus aprilis)"
     },
     "die-11-aprilis": {
-        "la": "Die 11 aprilis (Tértio Idus aprílis)",
-        "en": "On 11th April (The 3rd day before the April Ides)",
-        "pl": "Dnia 11 kwietnia (3 dzień przed idami kwietniowymi)"
+        "la": "Die 11 aprilis (Tertio Idus aprilis)"
     },
     "die-12-aprilis": {
-        "la": "Die 12 aprilis (Prídie Idus aprílis)",
-        "en": "On 12th April (On the day before April Ides)",
-        "pl": "Dnia 12 kwietnia (Przeddzień id kwietniowych)"
+        "la": "Die 12 aprilis (Pridie Idus aprilis)"
     },
     "die-13-aprilis": {
-        "la": "Die 13 aprilis (Idibus aprílis)",
-        "en": "On 13th April (On the April Ides)",
-        "pl": "Dnia 13 kwietnia (Idy kwietniowe)"
+        "la": "Die 13 aprilis (Idibus aprilis)"
     },
     "die-14-aprilis": {
-        "la": "Die 14 aprilis (Décimo Octávo Kaléndas maii)",
-        "en": "On 14th April (The 18th day before the May Kalends)",
-        "pl": "Dnia 14 kwietnia (18 dzień przed kalendami majowymi)"
+        "la": "Die 14 aprilis (Decimo Octavo Kalendas maii)"
     },
     "die-15-aprilis": {
-        "la": "Die 15 aprilis (Décimo séptimo Kaléndas maii)",
-        "en": "On 15th April (The 17th day before the May Kalends)",
-        "pl": "Dnia 15 kwietnia (17 dzień przed kalendami majowymi)"
+        "la": "Die 15 aprilis (Decimo septimo Kalendas maii)"
     },
     "die-16-aprilis": {
-        "la": "Die 16 aprilis (Sexto décimo Kaléndas maii)",
-        "en": "On 16th April (The 16th day before the May Kalends)",
-        "pl": "Dnia 16 kwietnia (16 dzień przed kalendami majowymi)"
+        "la": "Die 16 aprilis (Sexto decimo Kalendas maii)"
     },
     "die-17-aprilis": {
-        "la": "Die 17 aprilis (Quinto décimo Kaléndas maii)",
-        "en": "On 17th April (The 15th day before the May Kalends)",
-        "pl": "Dnia 17 kwietnia (15 dzień przed kalendami majowymi)"
+        "la": "Die 17 aprilis (Quinto decimo Kalendas maii)"
     },
     "die-18-aprilis": {
-        "la": "Die 18 aprilis (Quarto décimo Kaléndas maii)",
-        "en": "On 18th April (The 14th day before the May Kalends)",
-        "pl": "Dnia 18 kwietnia (14 dzień przed kalendami majowymi)"
+        "la": "Die 18 aprilis (Quarto decimo Kalendas maii)"
     },
     "die-19-aprilis": {
-        "la": "Die 19 aprilis (Tértio décimo Kaléndas maii)",
-        "en": "On 19th April (The 13th day before the May Kalends)",
-        "pl": "Dnia 19 kwietnia (13 dzień przed kalendami majowymi)"
+        "la": "Die 19 aprilis (Tertio decimo Kalendas maii)"
     },
     "die-20-aprilis": {
-        "la": "Die 20 aprilis (Duodécimo Kaléndas maii)",
-        "en": "On 20th April (The 12th day before the May Kalends)",
-        "pl": "Dnia 20 kwietnia (12 dzień przed kalendami majowymi)"
+        "la": "Die 20 aprilis (Duodecimo Kalendas maii)"
     },
     "die-21-aprilis": {
-        "la": "Die 21 aprilis (Undécimo Kaléndas maii)",
-        "en": "On 21st April (The 11th day before the May Kalends)",
-        "pl": "Dnia 21 kwietnia (11 dzień przed kalendami majowymi)"
+        "la": "Die 21 aprilis (Undecimo Kalendas maii)"
     },
     "die-22-aprilis": {
-        "la": "Die 22 aprilis (Décimo Kaléndas maii)",
-        "en": "On 22nd April (The 10th day before the May Kalends)",
-        "pl": "Dnia 22 kwietnia (10 dzień przed kalendami majowymi)"
+        "la": "Die 22 aprilis (Decimo Kalendas maii)"
     },
     "die-23-aprilis": {
-        "la": "Die 23 aprilis (Nono Kaléndas maii)",
-        "en": "On 23rd April (The 9th day before the May Kalends)",
-        "pl": "Dnia 23 kwietnia (9 dzień przed kalendami majowymi)"
+        "la": "Die 23 aprilis (Nono Kalendas maii)"
     },
     "die-24-aprilis": {
-        "la": "Die 24 aprilis (Octávo Kaléndas maii)",
-        "en": "On 24th April (The 8th day before the May Kalends)",
-        "pl": "Dnia 24 kwietnia (8 dzień przed kalendami majowymi)"
+        "la": "Die 24 aprilis (Octavo Kalendas maii)"
     },
     "die-25-aprilis": {
-        "la": "Die 25 aprilis (Séptimo Kaléndas maii)",
-        "en": "On 25th April (The 7th day before the May Kalends)",
-        "pl": "Dnia 25 kwietnia (7 dzień przed kalendami majowymi)"
+        "la": "Die 25 aprilis (Septimo Kalendas maii)"
     },
     "die-26-aprilis": {
-        "la": "Die 26 aprilis (Sexto Kaléndas maii)",
-        "en": "On 26th April (The 6th day before the May Kalends)",
-        "pl": "Dnia 26 kwietnia (6 dzień przed kalendami majowymi)"
+        "la": "Die 26 aprilis (Sexto Kalendas maii)"
     },
     "die-27-aprilis": {
-        "la": "Die 27 aprilis (Quinto Kaléndas maii)",
-        "en": "On 27th April (The 5th day before the May Kalends)",
-        "pl": "Dnia 27 kwietnia (5 dzień przed kalendami majowymi)"
+        "la": "Die 27 aprilis (Quinto Kalendas maii)"
     },
     "die-28-aprilis": {
-        "la": "Die 28 aprilis (Quarto Kaléndas maii)",
-        "en": "On 28th April (The 4th day before the May Kalends)",
-        "pl": "Dnia 28 kwietnia (4 dzień przed kalendami majowymi)"
+        "la": "Die 28 aprilis (Quarto Kalendas maii)"
     },
     "die-29-aprilis": {
-        "la": "Die 29 aprilis (Tértio Kaléndas maii)",
-        "en": "On 29th April (The 3rd day before the May Kalends)",
-        "pl": "Dnia 29 kwietnia (3 dzień przed kalendami majowymi)"
+        "la": "Die 29 aprilis (Tertio Kalendas maii)"
     },
     "die-30-aprilis": {
-        "la": "Die 30 aprilis (Prídie Kaléndas maii)",
-        "en": "On 30th April (On the day before May Kalends)",
-        "pl": "Dnia 30 kwietnia (Przeddzień kalend majowych)"
+        "la": "Die 30 aprilis (Pridie Kalendas maii)"
     }
 }

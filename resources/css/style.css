@@ -1928,6 +1928,17 @@ iframe {
 .roman-martyrology-first-letter {
   font-size: 45px;
 }
+.roman-martyrology-first-letter-small {
+  font-size: 25px;
+}
+
+.roman-martyrology-italic {
+  font-style: italic;
+}
+
+.roman-martyrology-inline-record {
+  display: inline-block;
+}
 
 .no-margin-on-first-line-only-paragraph {
   padding-left: 1em;

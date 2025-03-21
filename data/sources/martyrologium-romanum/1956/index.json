@@ -1,22 +1,18 @@
 {
     "editio": {
-        "la": "Editio",
-        "en": "Edition",
-        "pl": "Wydanie"
+        "la": "Editio"
     },
     "elogia-festorum-et-officiorum-mobilium": {
         "la": "Elogia festorum et officiorum mobilium"
     },
     "martyrologium-romanum": {
-        "la": "Martyrologium Romanum",
-        "en": "Roman Martyrology",
-        "pl": "Martyrologium Rzymskie"
+        "la": "Martyrologium Romanum"
     },
     "i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur": {
         "la": "I - Index sanctorum omnium qui in hoc martyrologio descripti inveniuntur"
     },
     "ii-index-festorum-quae-non-sunt-sanctorum-natalitia-et-officiorum-quae-elogio-sunt-decorata": {
-        "la": "II - Index festorum quæ non sunt sanctorum natalitia et officiorum quæ elogio sunt decorata"
+        "la": "II - Index festorum quæ non sunt sanctorum natalitia et officiorum quae elogio sunt decorata"
     },
     "iii-index-locorum-qui-in-martyrologio-indicantur": {
         "la": "III - Index locorum qui in martyrologio indicantur"
@@ -25,8 +21,6 @@
         "la": "Sancti eorumque officia sine indicatione loci"
     },
     "variationes": {
-        "la": "Variationes",
-        "en": "Variations",
-        "pl": "Wariacje"
+        "la": "Variationes"
     }
 }

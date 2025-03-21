@@ -189,4 +189,17 @@ abstract class ContentBlock extends Content
 
         return $result;
     }
+
+    protected function isFileFirstInIndexFile(string $filePath): bool
+    {
+        $fileBaseName = basename($filePath);
+        $directoryPath = dirname($filePath);
+        $indexFilePath = $this->getIndexFilePath($directoryPath);
+        $indexFileData = $this->getOriginalJsonFileContentArray($indexFilePath);
+        foreach ($indexFileData as $key => $value) {
+            return ($key === $fileBaseName);
+        }
+
+        return false;
+    }
 }

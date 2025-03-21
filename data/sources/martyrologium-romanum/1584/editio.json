@@ -1,0 +1,45 @@
+{
+    "title": {
+        "la": "[color:red]M A R T Y R O L O G I V M[:color][/]R O M A N V M"
+    },
+    "subtitle": {
+        "la": "[color:red]Ad nouam Kalendarĳ rationem, &[/]Eccleſiaſticæ hiſtoriæ verita-[/]tem reſtitutum.[:color]"
+    },
+
+    "edition": {
+        "la": "Gregorĳ XIII Pont. Maximi iuſſu editum."
+    },
+    "description": {
+        "la": ""
+    },
+
+    "publisher": {
+        "la": "[color:red]R&nbsp;&nbsp;&nbsp;O&nbsp;&nbsp;&nbsp;M&nbsp;&nbsp;&nbsp;A&nbsp;E[:color][/]Ex Typographia Dominici Baſæ."
+    },
+    "publication-separator": {
+        "la": "[/]"
+    },
+    "publication-year": {
+        "la": "[color:red]M&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;L X X X I I I I.[:color]"
+    },
+
+    "document-1-title": {
+        "la": "EMENDATO iam Kalendario [...]"
+    },
+    "document-1-date": {
+        "la": "[...], die xiiĳ. Ianuarĳ. M D L X X X I I I I. [...]"
+    },
+
+    "document-2-title": {
+        "la": ""
+    },
+    "document-2-date": {
+        "la": ""
+    },
+
+    "translation-sources": {
+        "en": "unknown",
+        "la": "nullus",
+        "pl": "nieznane"
+    }
+}

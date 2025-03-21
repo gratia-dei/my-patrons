@@ -23,17 +23,17 @@
         "la": "A.D. MMIV"
     },
 
-    "approbation-title": {
-        "la": ""
-    },
-    "approbation-date": {
-        "la": ""
-    },
-
-    "decree-title": {
+    "document-1-title": {
         "la": "[color:red]DECRETUM[:color]"
     },
-    "decree-date": {
+    "document-1-date": {
+        "la": "[...], die 29 mensis iunii anni 2001, [...]"
+    },
+
+    "document-2-title": {
+        "la": "[color:red]DECRETUM[:color]"
+    },
+    "document-2-date": {
         "la": "[...], die 29 mensis iunii anni 2004, [...]"
     },
 
