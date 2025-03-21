@@ -144,7 +144,7 @@
     },
 
     "lang-add-new-challenge-missing-person-or-addition-info": {
-        "pl": "<strong>Nie możesz odnaleźć na powyższej liście wyboru szukanego Patrona lub dodatku</strong> (np. święta)? <a target=\"_blank\" href=\"/contact\">Napisz do nas</a>, a postaramy się dodać go do bazy <strong>priorytetowo</strong>!"
+        "pl": "<strong>Nie możesz odnaleźć na powyższej liście wyboru szukanego Patrona lub dodatku</strong> (np. święta)? <a target=\"_blank\" href=\"/contact\">Napisz do nas</a>, a postaramy się dodać go do bazy <strong>priorytetowo</strong>! Dotyczy to także sytuacji, w której znajduje się on na liście wyboru, ale <strong>jest nieaktywny</strong> (oznacza to, że potrzebujemy jeszcze trochę czasu na jego migrację)."
     },
 
     "lang-add-new-challenge-missing-person-or-addition-info-tip": {
