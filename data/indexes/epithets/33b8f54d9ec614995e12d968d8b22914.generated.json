@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Duch Święty"
+    },
+    "translations": {
+        "la": [
+            "Spiritus Sanctus"
+        ],
+        "en": [
+            "Holy Spirit"
+        ],
+        "pl": [
+            "Duch Święty"
+        ]
+    },
+    "links": {
+        "records/god/spi": {
+            "la": "Spiritus Sanctus",
+            "en": "Holy Spirit",
+            "pl": "Duch Święty"
+        }
+    }
+}

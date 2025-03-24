@@ -244,13 +244,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 48,
         "title": {
-          "la": "..."
+          "la": "Feria sexta post Octavam Ascensionis Domini"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Vigilia Pentecostes],"
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -258,13 +258,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 49,
         "title": {
-          "la": "..."
+          "la": "In Vigilia Pentecostes"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Dies Pentecostes], ______ ________ _______ ____________ _____ __________ ______ _______ _______."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 

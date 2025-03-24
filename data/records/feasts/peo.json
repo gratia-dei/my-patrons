@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava Pentecostes"
-    ],
-    "pl": [
-      "Oktawa Zesłania Ducha Świętego"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava Pentecostes"
+        ],
+        "pl": [
+            "Oktawa Zesłania Ducha Świętego"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

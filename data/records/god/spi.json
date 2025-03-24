@@ -1,48 +1,106 @@
 {
-  "names": {
-    "en": [
-      "Holy Spirit"
-    ],
-    "la": [
-      "Spiritus Sanctus"
-    ],
-    "pl": [
-      "Duch Święty"
-    ]
-  },
-
-  "born": ["-"],
-  "died": ["-"],
-
-  "categories": ["deus"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Vienna_Karlskirche_frescos4b.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
-      "attribution": "User:Manfreeed, Public domain, via Wikimedia Commons",
-      "area-center-x": 149,
-      "area-center-y": 211,
-      "area-center-to-edge-distance": 125
-    }
-  },
-
-  "feasts": {
-    "pev": {
-      "data-linksx": {
-        "mr-1956-movable": ["1:#18"]
-      }
+    "names": {
+        "la": [
+            "Spiritus Sanctus"
+        ],
+        "en": [
+            "Holy Spirit"
+        ],
+        "pl": [
+            "Duch Święty"
+        ]
     },
-    "pen": {
-      "data-linksx": {
-        "mr-2004-movable": ["1:#10"],
-        "mr-1956-movable": ["1:#19"]
-      }
+    "forenames": null,
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Spiritus Sanctus",
+            "en": "Holy Spirit",
+            "pl": "Duch Święty"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["-"],
+    "died": ["-"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["deus"],
+
+    "feasts": {
+        "pev": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": ["1:#18"],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": []
+            }
+        },
+        "pen": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": ["1:#7"],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": ["1:#19"],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": ["1:#10"]
+            }
+        },
+        "peo": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": ["2:#20"],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": []
+            }
+        }
     },
-    "peo": {
-      "data-linksx": {
-        "mr-1956-movable": ["2:#20"]
-      }
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Vienna_Karlskirche_frescos4b.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vienna_Karlskirche_frescos4b.jpg",
+            "attribution": "User:Manfreeed, Public domain, via Wikimedia Commons",
+            "area-center-x": 149,
+            "area-center-y": 211,
+            "area-center-to-edge-distance": 125
+        }
     }
-  }
 }

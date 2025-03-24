@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dies Pentecostes"
-    ],
-    "pl": [
-      "Zesłanie Ducha Świętego"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dies Pentecostes"
+        ],
+        "pl": [
+            "Zesłanie Ducha Świętego"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

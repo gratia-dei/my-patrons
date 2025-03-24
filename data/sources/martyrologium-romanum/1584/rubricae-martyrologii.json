@@ -86,16 +86,16 @@
     },
 
     "7": {
-        "base": "getMissingDate",
-        "move": 0,
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": 49,
         "title": {
-          "la": "..."
+          "la": "In Vigilia Pentecostes."
         },
         "description": {
-          "la": "?..."
+          "la": "D[1|ies Pentecostes], ______ ________ _______ ____________ _____ __________ ______ _______ _______."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 

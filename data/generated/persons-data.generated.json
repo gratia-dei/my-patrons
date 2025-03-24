@@ -318,10 +318,10 @@
         "feasts": []
     },
     "god/spi": {
-        "active": false,
+        "active": true,
         "names": {
-            "en": "Holy Spirit",
             "la": "Spiritus Sanctus",
+            "en": "Holy Spirit",
             "pl": "Duch Święty"
         },
         "died": [
@@ -329,21 +329,21 @@
         ],
         "feasts": {
             "feasts/pev": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia Pentecostes",
                     "pl": "Wigilia Zesłania Ducha Świętego"
                 }
             },
             "feasts/pen": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dies Pentecostes",
                     "pl": "Zesłanie Ducha Świętego"
                 }
             },
             "feasts/peo": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Pentecostes",
                     "pl": "Oktawa Zesłania Ducha Świętego"

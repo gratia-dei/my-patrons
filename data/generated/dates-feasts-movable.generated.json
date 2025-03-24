@@ -1,4 +1,28 @@
 {
+    "getResurrectionFeastDateValidSince1584OrEarlier|48": {
+        "records/god/spi#pev": {
+            "name": {
+                "la": "Spiritus Sanctus (Vigilia Pentecostes)",
+                "pl": "Duch Święty (Wigilia Zesłania Ducha Świętego)"
+            },
+            "sources": {
+                "mr-1956-movable": "#18"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|49": {
+        "records/god/spi#pen": {
+            "name": {
+                "la": "Spiritus Sanctus (Dies Pentecostes)",
+                "pl": "Duch Święty (Zesłanie Ducha Świętego)"
+            },
+            "sources": {
+                "mr-1584-movable": "#7",
+                "mr-1956-movable": "#19",
+                "mr-2004-movable": "#10"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|56": {
         "records/god/tri#tri": {
             "name": {
@@ -9,6 +33,15 @@
                 "mr-1584-movable": "#8",
                 "mr-1956-movable": "#20",
                 "mr-2004-movable": "#11"
+            }
+        },
+        "records/god/spi#peo": {
+            "name": {
+                "la": "Spiritus Sanctus (Octava Pentecostes)",
+                "pl": "Duch Święty (Oktawa Zesłania Ducha Świętego)"
+            },
+            "sources": {
+                "mr-1956-movable": "#20"
             }
         }
     }

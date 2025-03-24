@@ -1,13 +1,15 @@
 {
-  "names": {
-    "la": [
-      "Vigilia Pentecostes"
-    ],
-    "pl": [
-      "Wigilia Zesłania Ducha Świętego",
-      "Wigilia Pięćdziesiątnicy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia Pentecostes"
+        ],
+        "pl": [
+            "Wigilia Zesłania Ducha Świętego",
+            "Wigilia Pięćdziesiątnicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
