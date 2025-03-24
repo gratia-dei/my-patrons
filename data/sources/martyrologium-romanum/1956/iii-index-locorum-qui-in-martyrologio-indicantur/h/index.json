@@ -2,10 +2,16 @@
     "-": {
         "la": "..."
     },
+    "hierosolymis-seu-hierosolymae": {
+        "la": "Hierosolymis seu Hierosolymae (v. Sancto Sabbae, Sancto Theodosii)"
+    },
+    "--": {
+        "la": "..."
+    },
     "hor": {
         "la": "In monte Hor"
     },
-    "--": {
+    "---": {
         "la": "..."
     }
 }

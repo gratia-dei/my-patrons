@@ -67,9 +67,9 @@
                 "mr-1956-index-sanctorum-1": [],
                 "mr-1956-index-sanctorum-2": [],
                 "mr-1956-index-sanctorum-3": [],
-                "mr-1956-index-festorum": [],
+                "mr-1956-index-festorum": ["1:t/sanctissimae-et-individuae-trinitatis#1"],
                 "mr-1956-index-locorum": [],
-                "mr-1956-index-locorum-sine": [],
+                "mr-1956-index-locorum-sine": ["1:#50"],
                 "mr-1956-movable": ["1:#20"],
 
                 "mr-2004": [],
