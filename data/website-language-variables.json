@@ -854,9 +854,9 @@
         "pl": "daty"
     },
 
-    "lang-date-source-feast-day-anniversary": {
-        "en": "feast day - anniversary",
-        "pl": "dzień święta - rocznica"
+    "lang-date-source-assigned-anniversary": {
+        "en": "assigned feast anniversary",
+        "pl": "przypisana rocznica święta"
     },
 
     "lang-date-source-mr-1584": {

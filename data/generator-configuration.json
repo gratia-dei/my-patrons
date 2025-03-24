@@ -94,11 +94,11 @@
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["feast-day-anniversary", "records-tree", "/records/god", "feasts", "/generated/dates-feasts-immovable"]
+        "params": ["assigned-anniversary", "records-tree", "/records/god", "feasts", "/generated/dates-feasts-immovable"]
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["feast-day-anniversary", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
+        "params": ["assigned-anniversary", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
     },
 
     {

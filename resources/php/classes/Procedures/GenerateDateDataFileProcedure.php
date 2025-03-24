@@ -19,11 +19,11 @@ class GenerateDateDataFileProcedure extends Procedure
 
     private const RECORD_TREE_SOURCE_FIELDS = [
         'reliable-death-anniversary' => self::PATRON_DIED_INDEX,
-        'feast-day-anniversary' => self::PATRON_ANNIVERSARY_INDEX,
+        'assigned-anniversary' => self::PATRON_ANNIVERSARY_INDEX,
     ];
     private const RECORD_TREE_METHODS = [
         'reliable-death-anniversary' => 'getDeathMonthWithDay',
-        'feast-day-anniversary' => 'getMentionedMonthsWithDays',
+        'assigned-anniversary' => 'getMentionedMonthsWithDays',
     ];
 
     private const FEASTS_ROOT_PATH = 'records/feasts';

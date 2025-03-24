@@ -6,7 +6,7 @@ Wybierz Patrona, który:
   - dzień kanonizacji lub beatyfikacji<sup>3</sup>,
   - kalendarz liturgiczny<sup>4</sup>,
   - odpust parafialny<sup>5</sup>,
-  - dzień święta - rocznica<sup>6</sup>,
+  - przypisana rocznica święta<sup>6</sup>,
   - znajduje się na **poniższej liście**:  
 
 <iframe id="my-patrons-for-today" src="https://pl.mypatrons.org/dates/defender-patrons/#challenge-date#?mode=content-only&form=hidden"></iframe>
@@ -22,4 +22,4 @@ Przypisy:
 - <sup>3</sup> W **wybranym dniu wyzwania tego roku** odbyła się **kanonizacja** lub **beatyfikacja** Patrona. Lista kanonizacji i beatyfikacji Kościoła Rzymskokatolickiego znajduje się np. na stronie <a target="_blank" href="https://www.causesanti.va/it/celebrazioni.html">Dykasterii Spraw Kanonizacyjnych</a>.
 - <sup>4</sup> Patron **został ogłoszony na Mszy św.**, w której uczestniczyłeś w **wybranym dniu wyzwania**, na podstawie dowolnego obowiązującego w tym miejscu **kalendarza liturgicznego**. Możesz zatem jako Patrona wybrać **Najświętszą Maryję Pannę**, bazując na Jej wspomnieniu ogłoszonym na Mszy św. w każdą zwykłą sobotę, w którą nie wypada żadne inne wspomnienie obowiązkowe. Orientacyjny kalendarz liturgiczny dla Polski wraz z linkami do kalendarzy diecezjalnych można znaleźć np. na stronie <a target="_blank" href="http://www.gcatholic.org/calendar/#current-year#/PL-pl.htm">GCatholic.org</a>.
 - <sup>5</sup> W **wybranym dniu wyzwania** uczestniczyłeś w **Sumie Odpustowej** parafii lub kościoła filialnego, która **dotyczy wybranego przez Ciebie Patrona** (tytularnego tego miejsca).
-- <sup>6</sup> W **wybranym dniu** ustalony został **dzień święta Patrona** (od wł. _ricorrenza_ - rocznica), co jest dostępne na stronie <a target="_blank" href="https://www.causesanti.va/it/celebrazioni.html">Dyskaterii Spraw Kanonizacyjnych</a>.
+- <sup>6</sup> W **wybranym dniu** ustalona została **rocznica święta Patrona** (po wł. _ricorrenza_), co jest dostępne na stronie <a target="_blank" href="https://www.causesanti.va/it/celebrazioni.html">Dyskaterii Spraw Kanonizacyjnych</a>.
