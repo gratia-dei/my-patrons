@@ -7,6 +7,7 @@ class RomanMartyrologyMovableFeastsSince2001ContentBlock extends ContentBlock im
     private const MOVE_INDEX = 'move';
 
     private const VAR_PREFIX = 'record-text-';
+    private const VAR_SUFFIX = '-';
 
     private $recordContent;
     private $textVariables;
@@ -72,7 +73,10 @@ class RomanMartyrologyMovableFeastsSince2001ContentBlock extends ContentBlock im
     {
         $variables = [
             'record-id' => $recordId,
-            'record-text' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . $recordId . self::VARIABLE_NAME_SIGN,
+            'record-title' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'title' . self::VAR_SUFFIX . $recordId . self::VARIABLE_NAME_SIGN,
+            'record-description' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'description' . self::VAR_SUFFIX . $recordId . self::VARIABLE_NAME_SIGN,
+            'record-additional-info' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'additional-info' . self::VAR_SUFFIX . $recordId . self::VARIABLE_NAME_SIGN,
+            'record-annotation' => self::VARIABLE_NAME_SIGN . self::VAR_PREFIX . 'annotation' . self::VAR_SUFFIX . $recordId . self::VARIABLE_NAME_SIGN,
             'record-activeness-class' => $this->getRecordActivenessClass($recordId),
         ];
         $content = $this->getReplacedContent($this->recordContent, $variables);
@@ -89,9 +93,11 @@ class RomanMartyrologyMovableFeastsSince2001ContentBlock extends ContentBlock im
             unset($values[self::BASE_INDEX]);
             unset($values[self::MOVE_INDEX]);
 
-            foreach ($values as $language => $text) {
-                $text = $this->getValueWithPossibleImport($text, $language);
-                $result[self::VAR_PREFIX . $key][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
+            foreach ($values as $type => $typeTexts) {
+                foreach ($typeTexts as $language => $text) {
+                    $text = $this->getValueWithPossibleImport($text, $language);
+                    $result[self::VAR_PREFIX . $type . self::VAR_SUFFIX . $key][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
+                }
             }
         }
 

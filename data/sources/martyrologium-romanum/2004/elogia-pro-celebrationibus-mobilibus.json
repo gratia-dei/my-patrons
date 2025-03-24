@@ -3,38 +3,104 @@
         "page": 35,
         "base": "getFirstSundayOfAdventDateValidToday",
         "move": 0,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "2": {
         "base": "getHolyFamilyFeastDateValidToday",
         "move": 0,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "3": {
         "base": "getBaptismOfJesusFeastDateValidToday",
         "move": 0,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "4": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -46,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "5": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -42,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "6": {
         "page": 36,
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "7": {
@@ -48,13 +114,35 @@
             "2": -2,
             "3": -1
         },
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "8": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "9": {
@@ -66,19 +154,52 @@
             "1": 39,
             "2": 42
         },
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "10": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 49,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "11": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 56,
-        "la": "Dominica post Pentecosten[/]___________ [1|sacratissimae et individuae Trinitatis], ___ ____ ____ __ _________ __ __________ __ _______ __________ __ _________."
+        "title": {
+            "la": "Dominica post Pentecosten"
+        },
+        "description": {
+            "la": "___________ [1|sacratissimae et individuae Trinitatis], ___ ____ ____ __ _________ __ __________ __ _______ __________ __ _________."
+        },
+        "additional-info": {
+            "la": ""
+        },
+        "annotation": {
+            "la": ""
+        }
     },
 
     "12": {
@@ -91,24 +212,68 @@
             "1": 60,
             "2": 63
         },
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "13": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 68,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "14": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 69,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     },
 
     "15": {
         "base": "getFirstSundayOfAdventDateValidToday",
         "move": -7,
-        "la": "..."
+        "title": {
+            "la": "..."
+        },
+        "description": {
+            "la": "..."
+        },
+        "additional-info": {
+            "la": "..."
+        },
+        "annotation": {
+            "la": "..."
+        }
     }
 }

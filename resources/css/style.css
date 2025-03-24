@@ -1936,6 +1936,10 @@ iframe {
   font-style: italic;
 }
 
+.roman-martyrology-small {
+  font-size: 12px;
+}
+
 .roman-martyrology-inline-record {
   display: inline-block;
 }
