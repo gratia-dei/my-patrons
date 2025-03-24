@@ -1,9 +1,11 @@
 {
-  "names": {
-    "pl": [
-      "Miłosierdzie Boże"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Miłosierdzie Boże"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

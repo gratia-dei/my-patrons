@@ -352,10 +352,10 @@
         }
     },
     "god/tri": {
-        "active": false,
+        "active": true,
         "names": {
-            "en": "Holy Trinity",
-            "la": "Sancta Trinitas",
+            "la": "Sacratissima Trinitas",
+            "en": "The Most Holy Trinity",
             "pl": "Trójca Przenajświętsza"
         },
         "died": [
@@ -363,13 +363,13 @@
         ],
         "feasts": {
             "feasts/mis": {
-                "active": false,
+                "active": true,
                 "names": {
                     "pl": "Miłosierdzie Boże"
                 }
             },
             "feasts/tri": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
                     "pl": "Uroczystość Trójcy Przenajświętszej"

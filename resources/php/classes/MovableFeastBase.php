@@ -39,7 +39,7 @@ class MovableFeastBase
         return self::MISSING_DATE;
     }
 
-    public function getResurrectionFeastDateValidToday(int $year): string
+    public function getResurrectionFeastDateValidSince1584OrEarlier(int $year): string
     {
         //Meeus/Jones/Butcher method
         $a = $year % 19;
@@ -164,7 +164,7 @@ class MovableFeastBase
     {
         $result = self::MISSING_DATE;
 
-        $resurrectionDate = $this->getResurrectionFeastDateValidToday($year);
+        $resurrectionDate = $this->getResurrectionFeastDateValidSince1584OrEarlier($year);
         if ($resurrectionDate === '04-25') {
             $result = '04-27';
         }
@@ -176,7 +176,7 @@ class MovableFeastBase
     {
         $result = self::MISSING_DATE;
 
-        $resurrectionDate = $this->getResurrectionFeastDateValidToday($year);
+        $resurrectionDate = $this->getResurrectionFeastDateValidSince1584OrEarlier($year);
         if ($resurrectionDate === '04-25') {
             $result = '04-28';
         } else if ($resurrectionDate === '04-24') {

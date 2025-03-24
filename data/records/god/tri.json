@@ -1,46 +1,92 @@
 {
-  "names": {
-    "en": [
-      "Holy Trinity",
-      "Trinity"
-    ],
-    "la": [
-      "Sancta Trinitas",
-      "Trinitas"
-    ],
-    "pl": [
-      "Trójca Przenajświętsza",
-      "Trójca Święta",
-      "Trójca"
-    ]
-  },
-
-  "born": ["-"],
-  "died": ["-"],
-
-  "categories": ["deus"],
-
-  "images": {
-    "1": {
-      "page-url": "Albrecht Dürer, Public domain, via Wikimedia Commons",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Trinit%C3%A9_Grandes_Heures_Anne_de_Bretagne.jpg",
-      "attribution": "Jean Bourdichon, Public domain, via Wikimedia Commons",
-      "area-center-x": 1774,
-      "area-center-y": 2329,
-      "area-center-to-edge-distance": 1200
-    }
-  },
-
-  "feasts": {
-    "mis": {
-      "data-linksx": {
-      }
+    "names": {
+        "la": [
+            "Sacratissima Trinitas",
+            "Sancta Trinitas",
+            "Trinitas"
+        ],
+        "en": [
+            "The Most Holy Trinity",
+            "Holy Trinity",
+            "Trinity"
+        ],
+        "pl": [
+            "Trójca Przenajświętsza",
+            "Trójca Święta",
+            "Trójca"
+        ]
     },
-    "tri": {
-      "data-linksx": {
-        "mr-2004-movable": ["1:#11"],
-        "mr-1956-movable": ["1:#20"]
-      }
+    "forenames": null,
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Sacratissima Trinitas",
+            "en": "The Most Holy Trinity",
+            "pl": "Trójca Przenajświętsza"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["-"],
+    "died": ["-"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["deus"],
+
+    "feasts": {
+        "mis": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": []
+            }
+        },
+        "tri": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": ["1:#8"],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": ["1:#20"],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": ["1:#11"]
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "Albrecht Dürer, Public domain, via Wikimedia Commons",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Trinit%C3%A9_Grandes_Heures_Anne_de_Bretagne.jpg",
+            "attribution": "Jean Bourdichon, Public domain, via Wikimedia Commons",
+            "area-center-x": 1774,
+            "area-center-y": 2329,
+            "area-center-to-edge-distance": 1200
+        }
     }
-  }
 }

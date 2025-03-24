@@ -11,6 +11,7 @@ abstract class Content extends Base
     protected const MODIFIER_CAPITALIZE = 'capitalize';
     protected const MODIFIER_CAPITALIZE_ALL = 'capitalize-all';
     protected const MODIFIER_COMMA_SEPARATED_LIST = 'comma-separated-list';
+    protected const MODIFIER_TAG_BR_SEPARATED_LIST = 'tag-br-separated-list';
     protected const MODIFIER_FIRST_ELEMENT = 'first-element';
     protected const MODIFIER_ORIGINAL = 'original';
     protected const MODIFIER_ORIGINAL_ONLY_FOR_MISSING = 'original-only-for-missing';
@@ -223,6 +224,11 @@ abstract class Content extends Base
                 case self::MODIFIER_COMMA_SEPARATED_LIST:
                     if (is_array($value)) {
                         $value = implode(', ', $value);
+                    }
+                    break;
+                case self::MODIFIER_TAG_BR_SEPARATED_LIST:
+                    if (is_array($value)) {
+                        $value = implode(self::HTML_TAG_BR, $value);
                     }
                     break;
                 case self::MODIFIER_FIRST_ELEMENT:

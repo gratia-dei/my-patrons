@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "The Most Holy Trinity"
+    },
+    "translations": {
+        "la": [
+            "Sacratissima Trinitas"
+        ],
+        "en": [
+            "The Most Holy Trinity"
+        ],
+        "pl": [
+            "Trójca Przenajświętsza"
+        ]
+    },
+    "links": {
+        "records/god/tri": {
+            "la": "Sacratissima Trinitas",
+            "en": "The Most Holy Trinity",
+            "pl": "Trójca Przenajświętsza"
+        }
+    }
+}

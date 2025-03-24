@@ -38,6 +38,8 @@ abstract class Base
 
     protected const DELETED_RECORD_TAG = '[x]';
 
+    protected const HTML_TAG_BR = '<br />';
+
     protected const RECORD_ID_WITH_NAME_EXTENSION_SEPARATOR = '--';
     private const RECORD_ID_NAME_EXTENSION_CHARACTERS_MAPPING = [
         ' ' => '-',

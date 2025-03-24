@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sollemnitas sacratissimae et indivíduae Trinitatis"
-    ],
-    "pl": [
-      "Uroczystość Trójcy Przenajświętszej"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sollemnitas sacratissimae et indivíduae Trinitatis"
+        ],
+        "pl": [
+            "Uroczystość Trójcy Przenajświętszej"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

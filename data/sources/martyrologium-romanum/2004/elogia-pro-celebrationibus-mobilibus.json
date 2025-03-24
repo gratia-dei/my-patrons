@@ -19,29 +19,29 @@
     },
 
     "4": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -46,
         "la": "..."
     },
 
     "5": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -42,
         "la": "..."
     },
 
     "6": {
         "page": 36,
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
         "la": "..."
     },
 
     "7": {
         "base": {
-          "1": "getResurrectionFeastDateValidToday",
-          "2": "getResurrectionFeastDateValidToday",
-          "3": "getResurrectionFeastDateValidToday"
+          "1": "getResurrectionFeastDateValidSince1584OrEarlier",
+          "2": "getResurrectionFeastDateValidSince1584OrEarlier",
+          "3": "getResurrectionFeastDateValidSince1584OrEarlier"
         },
         "move": {
             "1": -3,
@@ -52,15 +52,15 @@
     },
 
     "8": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
         "la": "..."
     },
 
     "9": {
         "base": {
-            "1": "getResurrectionFeastDateValidToday",
-            "2": "getResurrectionFeastDateValidToday"
+            "1": "getResurrectionFeastDateValidSince1584OrEarlier",
+            "2": "getResurrectionFeastDateValidSince1584OrEarlier"
         },
         "move": {
             "1": 39,
@@ -70,22 +70,22 @@
     },
 
     "10": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 49,
         "la": "..."
     },
 
     "11": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 56,
-        "la": "..."
+        "la": "Dominica post Pentecosten[/]___________ [1|sacratissimae et individuae Trinitatis], ___ ____ ____ __ _________ __ __________ __ _______ __________ __ _________."
     },
 
     "12": {
         "page": 37,
         "base": {
-            "1": "getResurrectionFeastDateValidToday",
-            "2": "getResurrectionFeastDateValidToday"
+            "1": "getResurrectionFeastDateValidSince1584OrEarlier",
+            "2": "getResurrectionFeastDateValidSince1584OrEarlier"
         },
         "move": {
             "1": 60,
@@ -95,13 +95,13 @@
     },
 
     "13": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 68,
         "la": "..."
     },
 
     "14": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 69,
         "la": "..."
     },

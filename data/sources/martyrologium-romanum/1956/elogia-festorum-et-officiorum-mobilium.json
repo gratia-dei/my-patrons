@@ -44,7 +44,7 @@
 
     "4": {
         "page": "CIV",
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -63,
         "title": {
           "la": "..."
@@ -58,7 +58,7 @@
     },
 
     "5": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -46,
         "title": {
           "la": "..."
@@ -72,7 +72,7 @@
     },
 
     "6": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -14,
         "title": {
           "la": "..."
@@ -86,7 +86,7 @@
     },
 
     "7": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -9,
         "title": {
           "la": "..."
@@ -100,7 +100,7 @@
     },
 
     "8": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
         "title": {
           "la": "..."
@@ -114,7 +114,7 @@
     },
 
     "9": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -3,
         "title": {
           "la": "..."
@@ -128,7 +128,7 @@
     },
 
     "10": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
         "title": {
           "la": "..."
@@ -156,7 +156,7 @@
     },
 
     "12": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 7,
         "title": {
           "la": "..."
@@ -171,7 +171,7 @@
 
     "13": {
         "page": "CV",
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 36,
         "title": {
           "la": "..."
@@ -185,7 +185,7 @@
     },
 
     "14": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 37,
         "title": {
           "la": "..."
@@ -199,7 +199,7 @@
     },
 
     "15": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 38,
         "title": {
           "la": "..."
@@ -213,7 +213,7 @@
     },
 
     "16": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 39,
         "title": {
           "la": "..."
@@ -227,7 +227,7 @@
     },
 
     "17": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 46,
         "title": {
           "la": "..."
@@ -241,7 +241,7 @@
     },
 
     "18": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 48,
         "title": {
           "la": "..."
@@ -255,7 +255,7 @@
     },
 
     "19": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 49,
         "title": {
           "la": "..."
@@ -269,21 +269,21 @@
     },
 
     "20": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 56,
         "title": {
-          "la": "..."
+          "la": "Sabbato infra Octavam Pentecostes"
         },
         "description": {
-          "la": "..."
+          "la": "______ [1|sacratissimae et individuae Trinitatis] et [2|Octava Pentecostes]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
     "21": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 60,
         "title": {
           "la": "..."
@@ -297,7 +297,7 @@
     },
 
     "22": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 67,
         "title": {
           "la": "..."
@@ -311,7 +311,7 @@
     },
 
     "23": {
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 68,
         "title": {
           "la": "..."
@@ -326,7 +326,7 @@
 
     "24": {
         "page": "CVI",
-        "base": "getResurrectionFeastDateValidToday",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 75,
         "title": {
           "la": "..."

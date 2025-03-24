@@ -1,1 +1,15 @@
-[]
+{
+    "getResurrectionFeastDateValidSince1584OrEarlier|56": {
+        "records/god/tri#tri": {
+            "name": {
+                "la": "Sacratissima Trinitas (Sollemnitas sacratissimae et indivíduae Trinitatis)",
+                "pl": "Trójca Przenajświętsza (Uroczystość Trójcy Przenajświętszej)"
+            },
+            "sources": {
+                "mr-1584-movable": "#8",
+                "mr-1956-movable": "#20",
+                "mr-2004-movable": "#11"
+            }
+        }
+    }
+}

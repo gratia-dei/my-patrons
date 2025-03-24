@@ -101,13 +101,24 @@
         "params": ["assigned-anniversary", "records-tree", "/records/patrons", "patrons", "/generated/dates-patrons-immovable"]
     },
 
+
+
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["mr-1956", "dates-tree", "/sources/martyrologium-romanum/1956/martyrologium-romanum", "feasts", "/generated/dates-feasts-immovable"]
+        "params": ["mr-1584", "dates-tree", "/sources/martyrologium-romanum/1584/martyrologium-romanum", "feasts", "/generated/dates-feasts-immovable"]
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["mr-1956", "dates-tree", "/sources/martyrologium-romanum/1956/martyrologium-romanum", "patrons", "/generated/dates-patrons-immovable"]
+        "params": ["mr-1584", "dates-tree", "/sources/martyrologium-romanum/1584/martyrologium-romanum", "patrons", "/generated/dates-patrons-immovable"]
+    },
+    {
+        "class": "GenerateDateDataFileProcedure",
+        "params": ["mr-1584-movable", "movable-dates-file", "/sources/martyrologium-romanum/1584/rubricae-martyrologii", "feasts", "/generated/dates-feasts-movable"]
+    },
+
+    {
+        "class": "GenerateDateDataFileProcedure",
+        "params": ["mr-1956", "dates-tree", "/sources/martyrologium-romanum/1956/martyrologium-romanum", "feasts", "/generated/dates-feasts-immovable"]
     },
     {
         "class": "GenerateDateDataFileProcedure",
@@ -115,8 +126,21 @@
     },
     {
         "class": "GenerateDateDataFileProcedure",
+        "params": ["mr-1956", "dates-tree", "/sources/martyrologium-romanum/1956/martyrologium-romanum", "patrons", "/generated/dates-patrons-immovable"]
+    },
+    {
+        "class": "GenerateDateDataFileProcedure",
         "params": ["mr-1956-variations", "dates-tree", "/sources/martyrologium-romanum/1956/variationes/martyrologium-romanum", "patrons", "/generated/dates-patrons-immovable"]
     },
+    {
+        "class": "GenerateDateDataFileProcedure",
+        "params": ["mr-1956-movable", "movable-dates-file", "/sources/martyrologium-romanum/1956/elogia-festorum-et-officiorum-mobilium", "feasts", "/generated/dates-feasts-movable"]
+    },
+    {
+        "class": "GenerateDateDataFileProcedure",
+        "params": ["mr-1956-movable-variations", "movable-dates-file", "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium", "feasts", "/generated/dates-feasts-movable"]
+    },
+
     {
         "class": "GenerateDateDataFileProcedure",
         "params": ["mr-2004", "dates-tree", "/sources/martyrologium-romanum/2004/martyrologium-romanum", "feasts", "/generated/dates-feasts-immovable"]
@@ -127,16 +151,10 @@
     },
     {
         "class": "GenerateDateDataFileProcedure",
-        "params": ["mr-1956-movable", "movable-dates-file", "/sources/martyrologium-romanum/1956/elogia-festorum-et-officiorum-mobilium", "feasts", "/generated/dates-feasts-movable"]
-    },
-    {
-        "class": "GenerateDateDataFileProcedure",
-        "params": ["mr-1956-movable-variations", "movable-dates-file", "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium", "feasts", "/generated/dates-feasts-movable"]
-    },
-    {
-        "class": "GenerateDateDataFileProcedure",
         "params": ["mr-2004-movable", "movable-dates-file", "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus", "feasts", "/generated/dates-feasts-movable"]
     },
+
+
 
     {
         "class": "GeneratePersonsDataProcedure",
@@ -146,8 +164,8 @@
     {
         "class": "GenerateLiturgicalSeasonsDataProcedure",
         "params": [{
-            "paschal-triduum": ["getResurrectionFeastDateValidToday", -3, "getResurrectionFeastDateValidToday", -1],
-            "lent": ["getResurrectionFeastDateValidToday", -46, "getResurrectionFeastDateValidToday", -1],
+            "paschal-triduum": ["getResurrectionFeastDateValidSince1584OrEarlier", -3, "getResurrectionFeastDateValidSince1584OrEarlier", -1],
+            "lent": ["getResurrectionFeastDateValidSince1584OrEarlier", -46, "getResurrectionFeastDateValidSince1584OrEarlier", -1],
             "advent": ["getFirstSundayOfAdventDateValidToday", 0, "getDayOfDecember", 24]
         }, 1900, "/generated/liturgical-seasons"]
     },

@@ -100,16 +100,16 @@
     },
 
     "8": {
-        "base": "getMissingDate",
-        "move": 0,
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": 56,
         "title": {
-          "la": "..."
+          "la": "Sabbato infra Octavam Pentecostes"
         },
         "description": {
-          "la": "?..."
+          "la": "?____ [1|Sanctissimae et individuae Trinitatis]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
