@@ -101,6 +101,7 @@ class GeneratePersonsDataProcedure extends Procedure
 
                 $fileData = $this->getOriginalJsonFileContentArrayForFullPath($elementPath);
                 $patronData = $this->getPatronData($fileData);
+
                 $this->appendDstFileData($patronUrl, $patronData);
             }
         }

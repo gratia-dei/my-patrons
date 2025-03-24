@@ -54,6 +54,9 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         $mainFileData = $this->getMainFileData();
         $textVariables = $this->textVariables;
 
+        $forenames = $this->getRecordTypeElementsList($mainFileData['forenames'] ?? [], 'forenames');
+        $categories = $this->getRecordTypeElementsList($mainFileData['categories'] ?? [], 'categories');
+
         $variables = [];
         $variables['date-of-birth'] = $this->getFormattedDates($mainFileData['born'] ?? self::UNKNOWN_SIGN);
         $variables['date-of-death'] = $this->getFormattedDates($mainFileData[self::PATRON_DIED_INDEX] ?? self::UNKNOWN_SIGN);
@@ -62,8 +65,8 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         $variables['anniversaries-days'] = $this->getFormattedMonthsWithDays($mainFileData[self::PATRON_ANNIVERSARY_INDEX] ?? []);
         $variables['order'] = empty($mainFileData['order'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order'];
         $variables['order-founder'] = empty($mainFileData['order-founder'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order-founder'];
-        $variables['categories'] = $this->getRecordTypeElementsList($mainFileData['categories'] ?? [], 'categories');
-        $variables['forenames'] = $this->getRecordTypeElementsList($mainFileData['forenames'] ?? [], 'forenames');
+        $variables['categories'] = count($categories) > 0 ? $categories : self::NON_EXISTENCE;
+        $variables['forenames'] = count($forenames) > 0 ? $forenames : self::NON_EXISTENCE;
         $variables['surnames'] = $this->getIndexedNamesList('surnames');
         $variables['epithets'] = $this->getIndexedNamesList('epithets');
         $variables['gallery'] = $this->getGalleryContent();

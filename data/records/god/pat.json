@@ -1,29 +1,62 @@
 {
-  "names": {
-    "en": [
-      "God the Father"
+    "names": {
+        "la": [
+            "Deus Pater"
+        ],
+        "en": [
+            "God the Father"
+        ],
+        "pl": [
+            "Bóg Ojciec"
+        ]
+    },
+    "forenames": null,
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Deus Pater",
+            "en": "God the Father",
+            "pl": "Bóg Ojciec"
+        }
     ],
-    "la": [
-      "Deus Pater"
-    ],
-    "pl": [
-      "Bóg Ojciec"
-    ]
-  },
 
-  "born": ["-"],
-  "died": ["-"],
+    "active": true,
 
-  "categories": ["deus"],
+    "born": ["-"],
+    "died": ["-"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano,_God_the_Father.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg",
-      "attribution": "Attributed to Giovanni Battista Cima da Conegliano, Public domain, via Wikimedia Commons",
-      "area-center-x": 337,
-      "area-center-y": 187,
-      "area-center-to-edge-distance": 182
+    "categories": ["deus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-index": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-index-sanctorum-1": [],
+        "mr-1956-index-sanctorum-2": [],
+        "mr-1956-index-sanctorum-3": [],
+        "mr-1956-index-festorum": [],
+        "mr-1956-index-locorum": [],
+        "mr-1956-index-locorum-sine": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-index": [],
+        "mr-2004-movable": []
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano,_God_the_Father.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg",
+            "attribution": "Attributed to Giovanni Battista Cima da Conegliano, Public domain, via Wikimedia Commons",
+            "area-center-x": 337,
+            "area-center-y": 187,
+            "area-center-to-edge-distance": 182
+        }
     }
-  }
 }

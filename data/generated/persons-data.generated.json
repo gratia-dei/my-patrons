@@ -306,10 +306,10 @@
         }
     },
     "god/pat": {
-        "active": false,
+        "active": true,
         "names": {
-            "en": "God the Father",
             "la": "Deus Pater",
+            "en": "God the Father",
             "pl": "Bóg Ojciec"
         },
         "died": [

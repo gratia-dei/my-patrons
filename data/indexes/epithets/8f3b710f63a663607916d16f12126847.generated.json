@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "Deus Pater"
+    },
+    "translations": {
+        "la": [
+            "Deus Pater"
+        ],
+        "en": [
+            "God the Father"
+        ],
+        "pl": [
+            "Bóg Ojciec"
+        ]
+    },
+    "links": {
+        "records/god/pat": {
+            "la": "Deus Pater",
+            "en": "God the Father",
+            "pl": "Bóg Ojciec"
+        }
+    }
+}
