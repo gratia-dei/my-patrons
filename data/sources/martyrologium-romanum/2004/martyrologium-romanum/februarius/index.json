@@ -80,13 +80,13 @@
     "die-27-februarii": {
         "la": "Die 27 februarii (Tertio Kalendas martii; vel in anno bissextili: Quarto Kalendas martii)"
     },
-    "die-28-februarii-in-bissextili-anno": {
+    "die-28-februarii-in-anno-bissextili": {
         "la": "Die 28 februarii (Tertio Kalendas martii) --- in anno bissextili"
     },
-    "die-28-februarii": {
+    "die-28-februarii-in-anno-non-bissextili": {
         "la": "Die 28 februarii (Pridie Kalendas martii) --- in anno non-bissextili"
     },
-    "die-29-februarii-in-bissextili-anno": {
+    "die-29-februarii-in-anno-bissextili": {
         "la": "Die 29 februarii (Pridie Kalendas martii) --- in anno bissextili"
     }
 }

@@ -1,0 +1,114 @@
+{
+    "1": {
+        "la": "1. Kalendis Februarii"
+    },
+    "2": {
+        "la": "2. Quarto Nonas Februarii"
+    },
+    "3": {
+        "la": "3. Tertio Nonas Februarii"
+    },
+    "4": {
+        "la": "4. Pridie Nonas Februarii"
+    },
+    "5": {
+        "la": "5. Nonis Februarii"
+    },
+    "6": {
+        "la": "6. Octavo Idus Februarii"
+    },
+    "7": {
+        "la": "7. Septimo Idus Februarii"
+    },
+    "8": {
+        "la": "8. Sexto Idus Februarii"
+    },
+    "9": {
+        "la": "9. Quinto Idus Februarii"
+    },
+    "10": {
+        "la": "10. Quarto Idus Februarii"
+    },
+    "11": {
+        "la": "11. Tertio Idus Februarii"
+    },
+    "12": {
+        "la": "12. Pridie Idus Februarii"
+    },
+    "13": {
+        "la": "13. Idibus Februarii"
+    },
+    "14": {
+        "la": "14. Sextodecimo Kalendas Martii"
+    },
+    "15": {
+        "la": "15. Quintodecimo Kalendas Martii"
+    },
+    "16": {
+        "la": "16. Quartodecimo Kalendas Martii"
+    },
+    "17": {
+        "la": "17. Tertiodecimo Kalendas Martii"
+    },
+    "18": {
+        "la": "18. Duodecimo Kalendas Martii"
+    },
+    "19": {
+        "la": "19. Undecimo Kalendas Martii"
+    },
+    "20": {
+        "la": "20. Decimo Kalendas Martii"
+    },
+    "21": {
+        "la": "21. Nono Kalendas Martii"
+    },
+    "22": {
+        "la": "22. Octavo Kalendas Martii"
+    },
+
+    "23-in-anno-bissextili": {
+        "la": "23. Octavo Kalendas Martii --- in anno bissextili"
+    },
+    "23-in-anno-non-bissextili": {
+        "la": "23. Septimo Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "24-in-anno-bissextili": {
+        "la": "24. Septimo Kalendas Martii --- in anno bissextili"
+    },
+    "24-in-anno-non-bissextili": {
+        "la": "24. Sexto Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "25-in-anno-bissextili": {
+        "la": "25. Sexto Kalendas Martii --- in anno bissextili"
+    },
+    "25-in-anno-non-bissextili": {
+        "la": "25. Quinto Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "26-in-anno-bissextili": {
+        "la": "26. Quinto Kalendas Martii --- in anno bissextili"
+    },
+    "26-in-anno-non-bissextili": {
+        "la": "26. Quarto Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "27-in-anno-bissextili": {
+        "la": "27. Quarto Kalendas Martii --- in anno bissextili"
+    },
+    "27-in-anno-non-bissextili": {
+        "la": "27. Tertio Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "28-in-anno-bissextili": {
+        "la": "28. Tertio Kalendas Martii --- in anno bissextili"
+    },
+    "28-in-anno-non-bissextili": {
+        "la": "28. Pridie Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "29-in-anno-bissextili": {
+        "la": "29. Pridie Kalendas Martii --- in anno bissextili"
+    }
+}
