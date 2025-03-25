@@ -1298,13 +1298,16 @@
     "04-23": {
         "records/patrons/adalbertus/pra": {
             "name": {
-                "cz": "Vojtěch Slavníkovec",
+                "cz": "Vojtěch (Adalbert) Slavníkovec",
                 "en": "Adalbert of Prague",
                 "la": "Adalbertus Pragensis",
-                "pl": "Wojciech Sławnikowic"
+                "pl": "Wojciech (Adalbert) Sławnikowic"
             },
             "sources": {
-                "reliable-death-anniversary": "23 IV"
+                "reliable-death-anniversary": "23 IV",
+                "mr-1584": "23 IV: #3",
+                "mr-1956": "23 IV: #2",
+                "mr-2004": "23 IV: #2"
             }
         }
     },

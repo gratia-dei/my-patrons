@@ -438,12 +438,12 @@
         }
     },
     "patrons/adalbertus/pra": {
-        "active": false,
+        "active": true,
         "names": {
-            "cz": "Vojtěch Slavníkovec",
+            "cz": "Vojtěch (Adalbert) Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
+            "pl": "Wojciech (Adalbert) Sławnikowic"
         },
         "died": [
             "997-04-23"
