@@ -1,0 +1,114 @@
+{
+    "1": {
+        "la": "1. Kalendis Februarij"
+    },
+    "2": {
+        "la": "2. Quarto nonas Febr."
+    },
+    "3": {
+        "la": "3. Tertio nonas Febr."
+    },
+    "4": {
+        "la": "4. Pridie nonas Febr."
+    },
+    "5": {
+        "la": "5. Nonis Februarij"
+    },
+    "6": {
+        "la": "6. Octavo idus Febr."
+    },
+    "7": {
+        "la": "7. Septimo idus Febr."
+    },
+    "8": {
+        "la": "8. Sexto idus Febr."
+    },
+    "9": {
+        "la": "9. Quinto idus Febr."
+    },
+    "10": {
+        "la": "10. Quarto idus Februarij"
+    },
+    "11": {
+        "la": "11. Tertio idus Febr."
+    },
+    "12": {
+        "la": "12. Pridie idus Febr."
+    },
+    "13": {
+        "la": "13. Idibus Februarij"
+    },
+    "14": {
+        "la": "14. Sextodecimo kal. Martij"
+    },
+    "15": {
+        "la": "15. Quintodecimo kal. Martij"
+    },
+    "16": {
+        "la": "16. Quartodecimo kal. Martij"
+    },
+    "17": {
+        "la": "17. Tertiodecimo kal. Martij"
+    },
+    "18": {
+        "la": "18. Duodecimo kal. Martij"
+    },
+    "19": {
+        "la": "19. Undecimo kal. Martij"
+    },
+    "20": {
+        "la": "20. Decimo kalen. Martij"
+    },
+    "21": {
+        "la": "21. Nono kalen. Martij"
+    },
+    "22": {
+        "la": "22. Octavo kal. Martij"
+    },
+
+    "23-in-anno-bissextili": {
+        "la": "23. Octavo kal. Martij --- in anno bissextili"
+    },
+    "23-in-anno-non-bissextili": {
+        "la": "23. Septimo kal. Martij --- in anno non-bissextili"
+    },
+
+    "24-in-anno-bissextili": {
+        "la": "24. Septimo kal. Martij --- in anno bissextili"
+    },
+    "24-in-anno-non-bissextili": {
+        "la": "24. Sexto kalen. Martij --- in anno non-bissextili"
+    },
+
+    "25-in-anno-bissextili": {
+        "la": "25. Sexto kalen. Martij --- in anno bissextili"
+    },
+    "25-in-anno-non-bissextili": {
+        "la": "25. Quinto kalen. Martij --- in anno non-bissextili"
+    },
+
+    "26-in-anno-bissextili": {
+        "la": "26. Quinto kalen. Martij --- in anno bissextili"
+    },
+    "26-in-anno-non-bissextili": {
+        "la": "26. Quarto kal. Martij --- in anno non-bissextili"
+    },
+
+    "27-in-anno-bissextili": {
+        "la": "27. Quarto kal. Martij --- in anno bissextili"
+    },
+    "27-in-anno-non-bissextili": {
+        "la": "27. Tertio kalen. Martij --- in anno non-bissextili"
+    },
+
+    "28-in-anno-bissextili": {
+        "la": "28. Tertio kalen. Martij --- in anno bissextili"
+    },
+    "28-in-anno-non-bissextili": {
+        "la": "28. Pridie kalen. Martij --- in anno non-bissextili"
+    },
+
+    "29-in-anno-bissextili": {
+        "la": "29. Pridie kalen. Martij --- in anno bissextili"
+    }
+}
