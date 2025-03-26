@@ -62,7 +62,7 @@
                 }
             },
             "feasts/sfa": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
@@ -4538,33 +4538,33 @@
         "feasts": []
     },
     "patrons/ioseph/naz": {
-        "active": false,
+        "active": true,
         "names": {
             "arc": "ܡܪܝ ܝܘܣܦ",
-            "en": "Joseph",
-            "la": "Iosephus",
+            "la": "Ioseph Nazarenus",
+            "en": "Joseph of Nazareth",
             "pl": "Józef z Nazaretu"
         },
         "died": [
-            "~20"
+            ">1"
         ],
         "feasts": {
             "feasts/sfa": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
                 }
             },
             "feasts/sin": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "loseph Sponsus beatissimae Virginis Mariae",
-                    "pl": "Józef Oblubieniec Najświętszej Maryi Panny"
+                    "pl": "Józef Oblubieniec Błogosłąwionej Maryi Dziewicy"
                 }
             },
             "feasts/oin": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "loseph Opifex",
                     "pl": "Józef Rzemieślnik"
@@ -5856,7 +5856,7 @@
                 }
             },
             "feasts/sfa": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"

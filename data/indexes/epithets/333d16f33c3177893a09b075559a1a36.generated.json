@@ -1,28 +1,19 @@
 {
     "names": {
-        "arc": "ܡܪܝ ܝܘܣܦ"
+        "la": "Sponsus Beate Virginis Mariae"
     },
     "translations": {
         "la": [
-            "Ioseph",
-            "Joseph"
+            "Sponsus Beate Virginis Mariae"
         ],
         "en": [
-            "Joseph"
+            "Spouse of the Blessed Virgin Mary"
         ],
         "pl": [
-            "Józef"
-        ],
-        "arc": [
-            "ܡܪܝ ܝܘܣܦ"
+            "Oblubieniec Błogosławionej Maryi Dziewicy"
         ]
     },
     "links": {
-        "records/patrons/ioseph/ari": {
-            "la": "Joseph ab Arimathaea",
-            "en": "Joseph of Arimathea",
-            "pl": "Józef z Arymatei"
-        },
         "records/patrons/ioseph/naz": {
             "arc": "ܡܪܝ ܝܘܣܦ",
             "la": "Ioseph Nazarenus",

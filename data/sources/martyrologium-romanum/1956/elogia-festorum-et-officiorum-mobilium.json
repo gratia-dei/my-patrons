@@ -29,16 +29,16 @@
     },
 
     "3": {
-        "base": "getHolyFamilyFeastDateValidBeforeMr1960",
+        "base": "getHolyFamilyFeastDateValidSince1956",
         "move": 0,
         "title": {
-          "la": "..."
+          "la": "Sabbato ante Dominicam quae occurrere potest a die 7 ad 12 Januarii inclusive et, ea deficiente in Feria officium sanctae Familiae proxime antedecenti"
         },
         "description": {
-          "la": "..."
+          "la": "... sanctae Familiae [1|Jesu], [2|Mariae], [3|Joseph]; ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 

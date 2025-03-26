@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "loseph Opifex"
-    ],
-    "pl": [
-      "Józef Rzemieślnik"
-    ]
-  },
+    "names": {
+        "la": [
+            "loseph Opifex"
+        ],
+        "pl": [
+            "Józef Rzemieślnik"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sancta Familia"
-    ],
-    "pl": [
-      "Święta Rodzina"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sancta Familia"
+        ],
+        "pl": [
+            "Święta Rodzina"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

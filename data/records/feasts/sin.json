@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "loseph Sponsus beatissimae Virginis Mariae"
-    ],
-    "pl": [
-      "Józef Oblubieniec Najświętszej Maryi Panny"
-    ]
-  },
+    "names": {
+        "la": [
+            "loseph Sponsus beatissimae Virginis Mariae"
+        ],
+        "pl": [
+            "Józef Oblubieniec Błogosłąwionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

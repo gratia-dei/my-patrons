@@ -1,1 +1,27 @@
-[]
+{
+    "03-19": {
+        "records/patrons/ioseph/naz#sin": {
+            "name": {
+                "la": "Ioseph Nazarenus (loseph Sponsus beatissimae Virginis Mariae)",
+                "pl": "Józef z Nazaretu (Józef Oblubieniec Błogosłąwionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "19 III: #1",
+                "mr-1956": "19 III: #1",
+                "mr-2004": "19 III: #1"
+            }
+        }
+    },
+    "05-01": {
+        "records/patrons/ioseph/naz#oin": {
+            "name": {
+                "la": "Ioseph Nazarenus (loseph Opifex)",
+                "pl": "Józef z Nazaretu (Józef Rzemieślnik)"
+            },
+            "sources": {
+                "mr-1956": "1 V: #1",
+                "mr-2004": "1 V: #1"
+            }
+        }
+    }
+}

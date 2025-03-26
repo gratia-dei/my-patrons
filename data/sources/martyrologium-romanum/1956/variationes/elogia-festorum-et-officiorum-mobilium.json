@@ -1,0 +1,16 @@
+{
+    "3-ab-1960-07-26": {
+        "page": "CIII",
+        "base": "getHolyFamilyFeastDateValidSince1960",
+        "move": 0,
+        "title": {
+          "la": "Sabbato ante Dominicam quae occurrere potest a die 7 ad 13 ianuarii inclusive"
+        },
+        "description": {
+          "la": "... sanctae Familiae [1|Jesu], [2|Mariae], [3|Joseph]; ..."
+        },
+        "additional-info": {
+          "la": ""
+        }
+    }
+}

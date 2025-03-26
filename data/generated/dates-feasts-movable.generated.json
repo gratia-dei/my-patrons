@@ -1,4 +1,37 @@
 {
+    "getHolyFamilyFeastDateValidSince1956|0": {
+        "records/patrons/ioseph/naz#sfa": {
+            "name": {
+                "la": "Ioseph Nazarenus (Sancta Familia)",
+                "pl": "Józef z Nazaretu (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable": "#3"
+            }
+        }
+    },
+    "getHolyFamilyFeastDateValidSince1960|0": {
+        "records/patrons/ioseph/naz#sfa": {
+            "name": {
+                "la": "Ioseph Nazarenus (Sancta Familia)",
+                "pl": "Józef z Nazaretu (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#3-ab-1960-07-26"
+            }
+        }
+    },
+    "getHolyFamilyFeastDateValidSince2001|0": {
+        "records/patrons/ioseph/naz#sfa": {
+            "name": {
+                "la": "Ioseph Nazarenus (Sancta Familia)",
+                "pl": "Józef z Nazaretu (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-2004-movable": "#2"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|48": {
         "records/god/spi#pev": {
             "name": {

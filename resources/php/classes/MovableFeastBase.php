@@ -88,7 +88,7 @@ class MovableFeastBase
         return $this->getDayOfMonth($year, 12);
     }
 
-    public function getHolyFamilyFeastDateValidBeforeMr1960(int $year): string
+    public function getHolyFamilyFeastDateValidSince1956(int $year): string
     {
         $jan7 = "$year-01-07";
         $weekDay = $this->date->getFullDateWeekDay($jan7);
@@ -96,7 +96,7 @@ class MovableFeastBase
         if ($weekDay === 0) {
             $weekDay = 7;
         } else if ($weekDay === 1) {
-            self::MISSING_DATE; //In years 1924/29/35/46/52/57 feast date was (could be) different by dioceses.
+            return self::MISSING_DATE; //In years 1924/29/35/46/52/57 feast date was (could be) different by dioceses).
         }
 
         $date = $this->date->getDateMovedByDays($jan7, 7 - $weekDay);
@@ -104,7 +104,7 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getHolyFamilyFeastDateValidBeforeMr2001(int $year): string
+    public function getHolyFamilyFeastDateValidSince1960(int $year): string
     {
         $jan7 = "$year-01-07";
         $weekDay = $this->date->getFullDateWeekDay($jan7);
@@ -118,7 +118,7 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getHolyFamilyFeastDateValidToday(int $year): string
+    public function getHolyFamilyFeastDateValidSince2001(int $year): string
     {
         $dec29 = "$year-12-29";
         $weekDay = $this->date->getFullDateWeekDay($dec29);

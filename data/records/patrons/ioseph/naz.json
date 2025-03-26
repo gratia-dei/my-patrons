@@ -1,56 +1,107 @@
 {
-  "names": {
-    "arc": [
-      "ܡܪܝ ܝܘܣܦ"
-    ],
-    "en": [
-      "Joseph"
-    ],
-    "la": [
-      "Iosephus"
-    ],
-    "pl": [
-      "Józef z Nazaretu",
-      "Józef"
-    ]
-  },
-
-  "born": ["<-20"],
-  "died": ["~20"],
-
-  "forenames": ["ioseph"],
-  "categories": ["vir", "confessor"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_96.1565_-_Museum_of_Fine_Arts.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_96.1565_-_Museum_of_Fine_Arts.jpg",
-      "attribution": "Guido Reni, Public domain, via Wikimedia Commons",
-      "area-center-x": 1297,
-      "area-center-y": 1600,
-      "area-center-to-edge-distance": 1208
-    }
-  },
-
-  "feasts": {
-    "sfa": {
-      "data-linksx": {
-        "mr-2004-movable": ["3:#2"],
-        "mr-1956-movable": ["3:#3"],
-        "mr-1956-movable-variations": ["3:#3-ab-1960-07-26"]
-      }
+    "names": {
+        "arc": [
+            "ܡܪܝ ܝܘܣܦ"
+        ],
+        "la": [
+            "Ioseph Nazarenus"
+        ],
+        "en": [
+            "Joseph of Nazareth"
+        ],
+        "pl": [
+            "Józef z Nazaretu"
+        ]
     },
-    "sin": {
-      "data-linksx": {
-        "mr-2004": ["1:mar/19#1"],
-        "mr-1956": ["1:mar/19#1"]
-      }
+    "forenames": ["ioseph"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Sponsus Beate Virginis Mariae",
+            "en": "Spouse of the Blessed Virgin Mary",
+            "pl": "Oblubieniec Błogosławionej Maryi Dziewicy"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["<-1"],
+    "died": [">1"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
     },
-    "oin": {
-      "data-linksx": {
-        "mr-2004": ["1:mai/1#1"],
-        "mr-1956": ["1:mai/1#1"]
-      }
+
+
+    "feasts": {
+        "sfa": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": ["3:#3"],
+                "mr-1956-variations-movable": [
+                    "3:#3-ab-1960-07-26"
+
+                ],
+
+                "mr-2004": [],
+                "mr-2004-movable": ["3:#2"]
+            }
+        },
+        "sin": {
+            "data-links": {
+                "mr-1584": ["1:Mart./19#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Martii/19#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["1:mar./19#1"],
+                "mr-2004-movable": []
+            }
+        },
+        "oin": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/1#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["1:maii/1#1"],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_96.1565_-_Museum_of_Fine_Arts.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_96.1565_-_Museum_of_Fine_Arts.jpg",
+            "attribution": "Guido Reni, Public domain, via Wikimedia Commons",
+            "area-center-x": 1297,
+            "area-center-y": 1600,
+            "area-center-to-edge-distance": 1208
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69212",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_z_Nazaretu"
     }
-  }
 }

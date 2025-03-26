@@ -18,19 +18,19 @@
     },
 
     "2": {
-        "base": "getHolyFamilyFeastDateValidToday",
+        "base": "getHolyFamilyFeastDateValidSince2001",
         "move": 0,
         "title": {
-            "la": "..."
+            "la": "Dominica quae occurrit infra octavam Nativitatis Domini vel, ea deficiente, die 29 decembris"
         },
         "description": {
-            "la": "..."
+            "la": "... Sanctae Familiae [1|Iesu], [2|Mariae] et [3|Ioseph], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 

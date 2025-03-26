@@ -58,5 +58,11 @@
             "area-center-y": 187,
             "area-center-to-edge-distance": 182
         }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/B%C3%B3g_Ojciec"
     }
 }
