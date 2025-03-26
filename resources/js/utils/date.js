@@ -141,11 +141,11 @@ define(["const"], function(uConst) {
         day--;
         if (day < 1) {
           month--;
-          day = getMonthDaysCount(year, month);
           if (month < 1) {
             year--;
             month = 12;
           }
+          day = getMonthDaysCount(year, month);
         }
         if (year === jtgYear && month === jtgMonth && day > jtgJulianDay && day < jtgGregorianDay) {
           day = jtgJulianDay;
