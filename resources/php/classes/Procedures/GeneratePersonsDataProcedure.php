@@ -8,7 +8,6 @@ class GeneratePersonsDataProcedure extends Procedure
     private const FEASTS_PATH = 'feasts';
     private const FEASTS_ROOT_PATH = 'records/' . self::FEASTS_PATH;
 
-    private const DATA_FIELD_ACTIVE = 'active';
     private const DATA_FIELD_NAMES = 'names';
     private const DATA_FIELD_DIED = 'died';
     private const DATA_FIELD_FEASTS = 'feasts';

@@ -19,6 +19,8 @@ abstract class Base
     protected const PATRON_FEASTS_PATH = self::PATRON_FEASTS_INDEX . '/';
     protected const INDEXES_ROOT_PATH = '/indexes';
 
+    protected const DATA_FIELD_ACTIVE = 'active';
+
     protected const LEAP_YEARS_ONLY_SEPARATOR = 'b';
     protected const NO_LEAP_YEARS_ONLY_SEPARATOR = 'n';
     protected const ALL_YEARS_SEPARATOR = '-';

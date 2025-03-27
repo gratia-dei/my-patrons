@@ -67,6 +67,7 @@ class GenerateDateDataFileProcedure extends Procedure
     {
         if (($this->isPatronUrlAFeast($patronUrl) && $this->filter === self::FILTER_PATRONS)
           || (!$this->isPatronUrlAFeast($patronUrl) && $this->filter === self::FILTER_FEASTS)
+          || !$this->isPatronAndFeastActive($patronUrl)
         ) {
             return;
         }
@@ -399,5 +400,28 @@ class GenerateDateDataFileProcedure extends Procedure
                 }
             }
         }
+    }
+
+    private function isPatronAndFeastActive($patronUrlWithPossibleFeastId): bool
+    {
+        $patronUrl = preg_replace('/[#].+$/', '', $patronUrlWithPossibleFeastId);
+
+        if ($patronUrl !== $patronUrlWithPossibleFeastId) {
+            $feastUrl = self::FEASTS_ROOT_PATH . '/' . mb_substr($patronUrlWithPossibleFeastId, mb_strlen($patronUrl) + 1);
+            $feastFilePath = $this->getDataFileSuffix($feastUrl);
+            $feastFileData = $this->getOriginalJsonFileContentArray($feastFilePath);
+
+            $isFeastActive = $feastFileData[self::DATA_FIELD_ACTIVE] ?? false;
+            if (!$isFeastActive) {
+                return false;
+            }
+        }
+
+        $patronFilePath = $this->getDataFileSuffix($patronUrl);
+        $patronFileData = $this->getOriginalJsonFileContentArray($patronFilePath);
+
+        $isPatronActive = $patronFileData[self::DATA_FIELD_ACTIVE] ?? false;
+
+        return $isPatronActive;
     }
 }

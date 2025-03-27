@@ -414,7 +414,7 @@
         "names": {
             "la": "Acacius",
             "en": "Acacius",
-            "pl": "Akacjusz"
+            "pl": "Achacjusz"
         }
     },
     "patrons/acacius/mel": {
@@ -422,7 +422,7 @@
         "names": {
             "la": "Acacius Melitenensis",
             "en": "Acathius of Melitene",
-            "pl": "Akacjusz z Melitene"
+            "pl": "Achacjusz z Melitene"
         },
         "died": [
             "~435"
