@@ -16,8 +16,8 @@
     "links": {
         "records/god/fil": {
             "arc": "ܝܫܘܥ",
-            "en": "Jesus Christ",
             "la": "Iesus Christus",
+            "en": "Jesus Christ",
             "pl": "Jezus Chrystus"
         },
         "records/patrons/gunthramnus/rex": {

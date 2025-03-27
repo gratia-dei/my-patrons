@@ -166,7 +166,7 @@
         "params": [{
             "paschal-triduum": ["getResurrectionFeastDateValidSince1584OrEarlier", -3, "getResurrectionFeastDateValidSince1584OrEarlier", -1],
             "lent": ["getResurrectionFeastDateValidSince1584OrEarlier", -46, "getResurrectionFeastDateValidSince1584OrEarlier", -1],
-            "advent": ["getFirstSundayOfAdventDateValidToday", 0, "getDayOfDecember", 24]
+            "advent": ["getFirstSundayOfAdventDateValidSince1956", 0, "getDayOfDecember", 24]
         }, 1900, "/generated/liturgical-seasons"]
     },
 

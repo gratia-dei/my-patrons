@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Baptismus Domini"
-    ],
-    "pl": [
-      "Chrzest Pański"
-    ]
-  },
+    "names": {
+        "la": [
+            "Baptismus Domini"
+        ],
+        "pl": [
+            "Chrzest Pański"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dominica prima in Quadragesima"
-    ],
-    "pl": [
-      "Pierwsza Niedziela Wielkiego Postu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica prima in Quadragesima"
+        ],
+        "pl": [
+            "Pierwsza Niedziela Wielkiego Postu"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

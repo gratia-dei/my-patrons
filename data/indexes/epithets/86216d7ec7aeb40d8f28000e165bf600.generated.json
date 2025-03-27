@@ -3,11 +3,11 @@
         "la": "Christus"
     },
     "translations": {
-        "en": [
-            "Christ"
-        ],
         "la": [
             "Christus"
+        ],
+        "en": [
+            "Christ"
         ],
         "pl": [
             "Chrystus"
@@ -16,8 +16,8 @@
     "links": {
         "records/god/fil": {
             "arc": "ܝܫܘܥ",
-            "en": "Jesus Christ",
             "la": "Iesus Christus",
+            "en": "Jesus Christ",
             "pl": "Jezus Chrystus"
         }
     }

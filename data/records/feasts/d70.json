@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dominica Septuagesimæ"
-    ],
-    "pl": [
-      "Niedziela Siedemdziesiątnicy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica Septuagesimæ"
+        ],
+        "pl": [
+            "Niedziela Siedemdziesiątnicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dominica prima Adventus"
-    ],
-    "pl": [
-      "Pierwsza Niedziela Adwentu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica prima Adventus"
+        ],
+        "pl": [
+            "Pierwsza Niedziela Adwentu"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

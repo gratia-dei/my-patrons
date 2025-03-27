@@ -1,19 +1,19 @@
 {
     "1": {
         "page": 35,
-        "base": "getFirstSundayOfAdventDateValidToday",
+        "base": "getFirstSundayOfAdventDateValidSince1956",
         "move": 0,
         "title": {
-            "la": "..."
+            "la": "Dominica I Adventus"
         },
         "description": {
-            "la": "..."
+            "la": "[1|Dominica prima Adventus Domini nostri Iesu Christi], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -24,7 +24,7 @@
             "la": "Dominica quae occurrit infra octavam Nativitatis Domini vel, ea deficiente, die 29 decembris"
         },
         "description": {
-            "la": "... Sanctae Familiae [1|Iesu], [2|Mariae] et [3|Ioseph], ..."
+            "la": "... [1|Sanctae Familiae Iesu], [2|Mariae] et [3|Ioseph], ..."
         },
         "additional-info": {
             "la": ""
@@ -38,16 +38,16 @@
         "base": "getBaptismOfJesusFeastDateValidToday",
         "move": 0,
         "title": {
-            "la": "..."
+            "la": "Dominica quae occurrit post diem 6 ianuarii"
         },
         "description": {
-            "la": "..."
+            "la": "... [1|Baptismatis Domini nostri Iesu Christi], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -55,16 +55,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -46,
         "title": {
-            "la": "..."
+            "la": "Feria IV Cinerum"
         },
         "description": {
-            "la": "..."
+            "la": "[1|Dies Cinerum] ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -72,16 +72,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -42,
         "title": {
-            "la": "..."
+            "la": "Dominica I Quadragesimae"
         },
         "description": {
-            "la": "..."
+            "la": "[1|Dominica prima in Quadragesima], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -261,7 +261,7 @@
     },
 
     "15": {
-        "base": "getFirstSundayOfAdventDateValidToday",
+        "base": "getFirstSundayOfAdventDateValidSince1956",
         "move": -7,
         "title": {
             "la": "..."

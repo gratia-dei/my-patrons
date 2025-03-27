@@ -1,4 +1,26 @@
 {
+    "01-03": {
+        "records/god/fil#sni": {
+            "name": {
+                "la": "Iesus Christus (Sanctissimum Nomen Iesus)",
+                "pl": "Jezus Chrystus (Najświętsze Imię Jezus)"
+            },
+            "sources": {
+                "mr-2004": "3 I: #1"
+            }
+        }
+    },
+    "01-13": {
+        "records/god/fil#bad": {
+            "name": {
+                "la": "Iesus Christus (Baptismus Domini)",
+                "pl": "Jezus Chrystus (Chrzest Pański)"
+            },
+            "sources": {
+                "mr-1956-variations": "13 I: #post-1-ab-1960-07-26"
+            }
+        }
+    },
     "03-19": {
         "records/patrons/ioseph/naz#sin": {
             "name": {

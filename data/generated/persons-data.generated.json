@@ -7,20 +7,20 @@
         }
     },
     "god/fil": {
-        "active": false,
+        "active": true,
         "names": {
             "arc": "ܝܫܘܥ",
-            "en": "Jesus Christ",
             "la": "Iesus Christus",
+            "en": "Jesus Christ",
             "pl": "Jezus Chrystus"
         },
         "died": [
-            "30",
-            "33"
+            "~30",
+            "~33"
         ],
         "feasts": {
             "feasts/d1a": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica prima Adventus",
                     "pl": "Pierwsza Niedziela Adwentu"
@@ -54,18 +54,18 @@
                     "pl": "Oktawa Narodzenia Pańskiego"
                 }
             },
-            "feasts/sni": {
-                "active": false,
-                "names": {
-                    "la": "Sanctissimum Nomen Iesus",
-                    "pl": "Najświętsze Imię Jezus"
-                }
-            },
             "feasts/sfa": {
                 "active": true,
                 "names": {
                     "la": "Sancta Familia",
                     "pl": "Święta Rodzina"
+                }
+            },
+            "feasts/sni": {
+                "active": true,
+                "names": {
+                    "la": "Sanctissimum Nomen Iesus",
+                    "pl": "Najświętsze Imię Jezus"
                 }
             },
             "feasts/epv": {
@@ -97,14 +97,14 @@
                 }
             },
             "feasts/bad": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Baptismus Domini",
                     "pl": "Chrzest Pański"
                 }
             },
             "feasts/d70": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica Septuagesimæ",
                     "pl": "Niedziela Siedemdziesiątnicy"
@@ -127,7 +127,7 @@
                 }
             },
             "feasts/dci": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "Ash Wednesday",
                     "la": "Dies Cinerum",
@@ -135,7 +135,7 @@
                 }
             },
             "feasts/d1q": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica prima in Quadragesima",
                     "pl": "Pierwsza Niedziela Wielkiego Postu"

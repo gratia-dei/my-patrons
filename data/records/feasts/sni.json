@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sanctissimum Nomen Iesus"
-    ],
-    "pl": [
-      "Najświętsze Imię Jezus"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sanctissimum Nomen Iesus"
+        ],
+        "pl": [
+            "Najświętsze Imię Jezus"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

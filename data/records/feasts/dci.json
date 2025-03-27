@@ -1,15 +1,17 @@
 {
-  "names": {
-    "en": [
-      "Ash Wednesday"
-    ],
-    "la": [
-      "Dies Cinerum"
-    ],
-    "pl": [
-      "Środa Popielcowa"
-    ]
-  },
+    "names": {
+        "en": [
+            "Ash Wednesday"
+        ],
+        "la": [
+            "Dies Cinerum"
+        ],
+        "pl": [
+            "Środa Popielcowa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

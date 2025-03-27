@@ -145,7 +145,7 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getTheMostHolyNameOfJesusFeastDateValidBeforeMr2001(int $year): string
+    public function getTheMostHolyNameOfJesusFeastDateValidSince1956(int $year): string
     {
         $jan2 = "$year-01-02";
         $weekDay = $this->date->getFullDateWeekDay($jan2);
@@ -196,7 +196,7 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getFirstSundayOfAdventDateValidToday(int $year): string
+    public function getFirstSundayOfAdventDateValidSince1956(int $year): string
     {
         $dec25 = "$year-12-25";
         $weekDay = $this->date->getFullDateWeekDay($dec25);

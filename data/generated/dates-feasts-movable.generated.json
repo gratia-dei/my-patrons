@@ -1,5 +1,37 @@
 {
+    "getBaptismOfJesusFeastDateValidToday|0": {
+        "records/god/fil#bad": {
+            "name": {
+                "la": "Iesus Christus (Baptismus Domini)",
+                "pl": "Jezus Chrystus (Chrzest Pański)"
+            },
+            "sources": {
+                "mr-2004-movable": "#3"
+            }
+        }
+    },
+    "getFirstSundayOfAdventDateValidSince1956|0": {
+        "records/god/fil#d1a": {
+            "name": {
+                "la": "Iesus Christus (Dominica prima Adventus)",
+                "pl": "Jezus Chrystus (Pierwsza Niedziela Adwentu)"
+            },
+            "sources": {
+                "mr-1956-movable": "#1",
+                "mr-2004-movable": "#1"
+            }
+        }
+    },
     "getHolyFamilyFeastDateValidSince1956|0": {
+        "records/god/fil#sfa": {
+            "name": {
+                "la": "Iesus Christus (Sancta Familia)",
+                "pl": "Jezus Chrystus (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable": "#3"
+            }
+        },
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
@@ -11,6 +43,15 @@
         }
     },
     "getHolyFamilyFeastDateValidSince1960|0": {
+        "records/god/fil#sfa": {
+            "name": {
+                "la": "Iesus Christus (Sancta Familia)",
+                "pl": "Jezus Chrystus (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#3-ab-1960-07-26"
+            }
+        },
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
@@ -22,6 +63,15 @@
         }
     },
     "getHolyFamilyFeastDateValidSince2001|0": {
+        "records/god/fil#sfa": {
+            "name": {
+                "la": "Iesus Christus (Sancta Familia)",
+                "pl": "Jezus Chrystus (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-2004-movable": "#2"
+            }
+        },
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
@@ -29,6 +79,43 @@
             },
             "sources": {
                 "mr-2004-movable": "#2"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-42": {
+        "records/god/fil#d1q": {
+            "name": {
+                "la": "Iesus Christus (Dominica prima in Quadragesima)",
+                "pl": "Jezus Chrystus (Pierwsza Niedziela Wielkiego Postu)"
+            },
+            "sources": {
+                "mr-2004-movable": "#5"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-46": {
+        "records/god/fil#dci": {
+            "name": {
+                "en": "Jesus Christ (Ash Wednesday)",
+                "la": "Iesus Christus (Dies Cinerum)",
+                "pl": "Jezus Chrystus (Środa Popielcowa)"
+            },
+            "sources": {
+                "mr-1584-movable": "#2",
+                "mr-1956-movable": "#5",
+                "mr-2004-movable": "#4"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-63": {
+        "records/god/fil#d70": {
+            "name": {
+                "la": "Iesus Christus (Dominica Septuagesimæ)",
+                "pl": "Jezus Chrystus (Niedziela Siedemdziesiątnicy)"
+            },
+            "sources": {
+                "mr-1584-movable": "#1",
+                "mr-1956-movable": "#4"
             }
         }
     },
@@ -75,6 +162,17 @@
             },
             "sources": {
                 "mr-1956-movable": "#20"
+            }
+        }
+    },
+    "getTheMostHolyNameOfJesusFeastDateValidSince1956|0": {
+        "records/god/fil#sni": {
+            "name": {
+                "la": "Iesus Christus (Sanctissimum Nomen Iesus)",
+                "pl": "Jezus Chrystus (Najświętsze Imię Jezus)"
+            },
+            "sources": {
+                "mr-1956-movable": "#2"
             }
         }
     }
