@@ -1,14 +1,18 @@
 {
-  "names": {
-    "la": [
-      "Dominica Palmarum",
-      "Dominica secunda Passionis seu in palmis"
-    ],
-    "pl": [
-      "Niedziela Palmowa",
-      "Druga Niedziela Męki Pańskiej lub na palmach"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica in Palmis de Passione Domini",
+            "Dominica Palmarum",
+            "Dominica secunda Passionis seu in palmis"
+        ],
+        "pl": [
+            "Niedziela Palmowa Męki Pańskiej",
+            "Niedziela Palmowa",
+            "Druga Niedziela Męki Pańskiej lub na palmach"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

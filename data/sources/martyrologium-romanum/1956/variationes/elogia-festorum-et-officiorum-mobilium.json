@@ -12,5 +12,33 @@
         "additional-info": {
           "la": ""
         }
+    },
+
+    "6-ab-1960-07-26": {
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": -14,
+        "title": {
+          "la": "Sabbato ante Dominicam primam Passionis"
+        },
+        "description": {
+          "la": "[1|Dominica prima Passionis]."
+        },
+        "additional-info": {
+          "la": ""
+        }
+    },
+
+    "8-ab-1960-07-26": {
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": -7,
+        "title": {
+          "la": "Sabbato ante dominicam secundam Passionis, seu in palmis"
+        },
+        "description": {
+          "la": "[1|Dominica secunda Passionis, seu in palmis], ..."
+        },
+        "additional-info": {
+          "la": ""
+        }
     }
 }

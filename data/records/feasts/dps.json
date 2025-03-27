@@ -1,14 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Dominica Passionis",
-      "Dominica prima Passionis"
-    ],
-    "pl": [
-      "Niedziela Męki Pańskiej",
-      "Pierwsza Niedziela Męki Pańskiej"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica Passionis",
+            "Dominica prima Passionis"
+        ],
+        "pl": [
+            "Niedziela Męki Pańskiej",
+            "Pierwsza Niedziela Męki Pańskiej"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

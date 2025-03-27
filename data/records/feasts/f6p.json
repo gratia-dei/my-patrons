@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "feria sexta in Passione Domini"
-    ],
-    "pl": [
-      "Wielki Piątek"
-    ]
-  },
+    "names": {
+        "la": [
+            "feria sexta in Passione Domini"
+        ],
+        "pl": [
+            "Wielki Piątek"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

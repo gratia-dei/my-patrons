@@ -82,6 +82,53 @@
             }
         }
     },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-1": {
+        "records/god/fil#sas": {
+            "name": {
+                "la": "Iesus Christus (Sabbato sancto)",
+                "pl": "Jezus Chrystus (Wielka Sobota)"
+            },
+            "sources": {
+                "mr-2004-movable": "#7"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-14": {
+        "records/god/fil#dps": {
+            "name": {
+                "la": "Iesus Christus (Dominica Passionis)",
+                "pl": "Jezus Chrystus (Niedziela Męki Pańskiej)"
+            },
+            "sources": {
+                "mr-1956-movable": "#6",
+                "mr-1956-movable-variations": "#6-ab-1960-07-26"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-2": {
+        "records/god/fil#f6p": {
+            "name": {
+                "la": "Iesus Christus (feria sexta in Passione Domini)",
+                "pl": "Jezus Chrystus (Wielki Piątek)"
+            },
+            "sources": {
+                "mr-2004-movable": "#7"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-3": {
+        "records/god/fil#f5h": {
+            "name": {
+                "la": "Iesus Christus (Feria quinta Hebdomadae sanctae)",
+                "pl": "Jezus Chrystus (Wielki Czwartek)"
+            },
+            "sources": {
+                "mr-1584-movable": "#4",
+                "mr-1956-movable": "#9",
+                "mr-2004-movable": "#7"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|-42": {
         "records/god/fil#d1q": {
             "name": {
@@ -116,6 +163,20 @@
             "sources": {
                 "mr-1584-movable": "#1",
                 "mr-1956-movable": "#4"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-7": {
+        "records/god/fil#dpl": {
+            "name": {
+                "la": "Iesus Christus (Dominica in Palmis de Passione Domini)",
+                "pl": "Jezus Chrystus (Niedziela Palmowa Męki Pańskiej)"
+            },
+            "sources": {
+                "mr-1584-movable": "#3",
+                "mr-1956-movable": "#8",
+                "mr-1956-movable-variations": "#8-ab-1960-07-26",
+                "mr-2004-movable": "#6"
             }
         }
     },

@@ -90,16 +90,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
         "title": {
-            "la": "..."
+            "la": "Dominica in Palmis de Passione Domini"
         },
         "description": {
-            "la": "..."
+            "la": "[1|Dominica in Palmis de Passione Domini], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -115,16 +115,16 @@
             "3": -1
         },
         "title": {
-            "la": "..."
+            "la": "[1|Feria V Hebdomadae sanctae], [2|feria VI in Passione Domini] et [3|Sabbato sancto]"
         },
         "description": {
-            "la": "..."
+            "la": ""
         },
         "additional-info": {
-            "la": "..."
+            "la": "Lectio Martyrologii omittitur."
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 

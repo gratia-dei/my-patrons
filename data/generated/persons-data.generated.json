@@ -142,42 +142,35 @@
                 }
             },
             "feasts/dps": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica Passionis",
                     "pl": "Niedziela Męki Pańskiej"
                 }
             },
             "feasts/dpl": {
-                "active": false,
-                "names": {
-                    "la": "Dominica Palmarum",
-                    "pl": "Niedziela Palmowa"
-                }
-            },
-            "feasts/dpp": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica in Palmis de Passione Domini",
                     "pl": "Niedziela Palmowa Męki Pańskiej"
                 }
             },
             "feasts/f5h": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Feria quinta Hebdomadae sanctae",
                     "pl": "Wielki Czwartek"
                 }
             },
             "feasts/f6p": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "feria sexta in Passione Domini",
                     "pl": "Wielki Piątek"
                 }
             },
             "feasts/sas": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sabbato sancto",
                     "pl": "Wielka Sobota"
@@ -223,13 +216,6 @@
                 "names": {
                     "la": "Octava Ascensionis Iesu Christi",
                     "pl": "Oktawa Wniebowstąpienia Jezusa Chrystusa"
-                }
-            },
-            "feasts/crp": {
-                "active": false,
-                "names": {
-                    "la": "Sanctissimum Corpore Christi",
-                    "pl": "Najświętsze Ciało Chrystusa"
                 }
             },
             "feasts/ces": {

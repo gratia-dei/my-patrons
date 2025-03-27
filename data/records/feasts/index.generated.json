@@ -70,10 +70,6 @@
         "la": "Octava Sanctissimi Corporis Christi",
         "pl": "Oktawa Najświętszego Ciała Chrystusa"
     },
-    "crp": {
-        "la": "Sanctissimum Corpore Christi",
-        "pl": "Najświętsze Ciało Chrystusa"
-    },
     "d1a": {
         "la": "Dominica prima Adventus",
         "pl": "Pierwsza Niedziela Adwentu"
@@ -108,10 +104,6 @@
         "pl": "Niedziela Biała"
     },
     "dpl": {
-        "la": "Dominica Palmarum",
-        "pl": "Niedziela Palmowa"
-    },
-    "dpp": {
         "la": "Dominica in Palmis de Passione Domini",
         "pl": "Niedziela Palmowa Męki Pańskiej"
     },

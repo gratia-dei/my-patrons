@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sabbato sancto"
-    ],
-    "pl": [
-      "Wielka Sobota"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sabbato sancto"
+        ],
+        "pl": [
+            "Wielka Sobota"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,12 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Feria quinta Hebdomadae sanctae"
-    ],
-    "pl": [
-      "Wielki Czwartek"
-    ]
-  },
+    "names": {
+        "la": [
+            "Feria quinta Hebdomadae sanctae",
+            "Coena Dominica"
+        ],
+        "pl": [
+            "Wielki Czwartek",
+            "Wieczerza Pańska"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

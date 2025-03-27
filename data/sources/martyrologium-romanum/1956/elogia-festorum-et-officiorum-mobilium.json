@@ -75,13 +75,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -14,
         "title": {
-          "la": "..."
+          "la": "Sabbato ante Dominicam Passionis"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Dominica Passionis]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -103,13 +103,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
         "title": {
-          "la": "..."
+          "la": "Sabbato ante Dominicam Palmarum"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Dominica Palmarum], ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -117,13 +117,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -3,
         "title": {
-          "la": "..."
+          "la": "Feria quarta Majoris Hebdomadae"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Coena Dominica], ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
