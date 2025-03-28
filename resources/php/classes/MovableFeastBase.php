@@ -135,7 +135,7 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getJesusTheKingFeastDateValidBeforeMr2001(int $year): string
+    public function getJesusTheKingFeastDateValidSince1956(int $year): string
     {
         $oct31 = "$year-10-31";
         $weekDay = $this->date->getFullDateWeekDay($oct31);

@@ -276,14 +276,7 @@
                 }
             },
             "feasts/rex": {
-                "active": false,
-                "names": {
-                    "la": "Iesus Christus Rex",
-                    "pl": "Jezus Chrystus Król"
-                }
-            },
-            "feasts/ure": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Iesus Christus Universorum Rex",
                     "pl": "Jezus Chrystus Król Wszechświata"

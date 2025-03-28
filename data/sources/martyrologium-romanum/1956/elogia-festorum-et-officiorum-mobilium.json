@@ -340,16 +340,16 @@
     },
 
     "25": {
-        "base": "getJesusTheKingFeastDateValidBeforeMr2001",
+        "base": "getJesusTheKingFeastDateValidSince1956",
         "move": 0,
         "title": {
-          "la": "..."
+          "la": "Sabbato ante Dominicam quae occurrere potest a die 25 ad 31 Octobris inclusive"
         },
         "description": {
-          "la": "..."
+          "la": "... [1|Domini nostri Jesu Christi Regis]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     }
 }

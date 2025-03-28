@@ -1,12 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Iesus Christus Rex"
-    ],
-    "pl": [
-      "Jezus Chrystus Król"
-    ]
-  },
+    "names": {
+        "la": [
+            "Iesus Christus Universorum Rex",
+            "Iesus Christus Rex"
+        ],
+        "pl": [
+            "Jezus Chrystus Król Wszechświata",
+            "Jezus Chrystus Król"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

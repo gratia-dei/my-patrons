@@ -10,6 +10,17 @@
             }
         }
     },
+    "getFirstSundayOfAdventDateValidSince1956|-7": {
+        "records/god/fil#rex": {
+            "name": {
+                "la": "Iesus Christus (Iesus Christus Universorum Rex)",
+                "pl": "Jezus Chrystus (Jezus Chrystus Król Wszechświata)"
+            },
+            "sources": {
+                "mr-2004-movable": "#15"
+            }
+        }
+    },
     "getFirstSundayOfAdventDateValidSince1956|0": {
         "records/god/fil#d1a": {
             "name": {
@@ -79,6 +90,17 @@
             },
             "sources": {
                 "mr-2004-movable": "#2"
+            }
+        }
+    },
+    "getJesusTheKingFeastDateValidSince1956|0": {
+        "records/god/fil#rex": {
+            "name": {
+                "la": "Iesus Christus (Iesus Christus Universorum Rex)",
+                "pl": "Jezus Chrystus (Jezus Chrystus Król Wszechświata)"
+            },
+            "sources": {
+                "mr-1956-movable": "#25"
             }
         }
     },

@@ -279,8 +279,8 @@
         "pl": "Zmartwychwstanie Jezusa Chrystusa"
     },
     "rex": {
-        "la": "Iesus Christus Rex",
-        "pl": "Jezus Chrystus Król"
+        "la": "Iesus Christus Universorum Rex",
+        "pl": "Jezus Chrystus Król Wszechświata"
     },
     "ril": {
         "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
@@ -337,10 +337,6 @@
     "tri": {
         "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
         "pl": "Uroczystość Trójcy Przenajświętszej"
-    },
-    "ure": {
-        "la": "Iesus Christus Universorum Rex",
-        "pl": "Jezus Chrystus Król Wszechświata"
     },
     "vis": {
         "la": "Visitatio Beatae Mariae Virginis",

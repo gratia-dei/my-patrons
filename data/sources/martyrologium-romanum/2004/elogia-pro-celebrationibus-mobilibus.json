@@ -264,16 +264,16 @@
         "base": "getFirstSundayOfAdventDateValidSince1956",
         "move": -7,
         "title": {
-            "la": "..."
+            "la": "Dominica ultima « per annum »: Domini nostri Iesu Christi universorum Regis"
         },
         "description": {
-            "la": "..."
+            "la": "... [1|Domini nostri Iesu Christi, universorum Regis]. ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     }
 }
