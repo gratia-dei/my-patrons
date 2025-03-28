@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava Ascensionis Iesu Christi"
-    ],
-    "pl": [
-      "Oktawa Wniebowstąpienia Jezusa Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava Ascensionis Iesu Christi"
+        ],
+        "pl": [
+            "Oktawa Wniebowstąpienia Jezusa Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

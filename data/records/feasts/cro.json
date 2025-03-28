@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava Sanctissimi Corporis Christi"
-    ],
-    "pl": [
-      "Oktawa Najświętszego Ciała Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava Sanctissimi Corporis Christi"
+        ],
+        "pl": [
+            "Oktawa Najświętszego Ciała Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

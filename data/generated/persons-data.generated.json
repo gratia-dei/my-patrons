@@ -177,70 +177,70 @@
                 }
             },
             "feasts/res": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Resurrectio Iesu Christi",
                     "pl": "Zmartwychwstanie Jezusa Chrystusa"
                 }
             },
             "feasts/dia": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dominica in Albis",
                     "pl": "Niedziela Biała"
                 }
             },
             "feasts/ril": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
             "feasts/asv": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia Ascensionis Iesu Christi",
                     "pl": "Wigilia Wniebowstąpienia Jezusa Chrystusa"
                 }
             },
             "feasts/asc": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Ascénsio Iesu Christi",
                     "pl": "Wniebowstąpienie Jezusa Chrystusa"
                 }
             },
             "feasts/aso": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Ascensionis Iesu Christi",
                     "pl": "Oktawa Wniebowstąpienia Jezusa Chrystusa"
                 }
             },
             "feasts/ces": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sanctissimum Corpore et Sanguis Christi",
                     "pl": "Najświętsze Ciało i Krew Chrystusa"
                 }
             },
             "feasts/cro": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Sanctissimi Corporis Christi",
                     "pl": "Oktawa Najświętszego Ciała Chrystusa"
                 }
             },
             "feasts/sci": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sanctissimum Cor Iesu",
                     "pl": "Najświętsze Serce Jezusa"
                 }
             },
             "feasts/sco": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Sacratissimi Cordis Iesu",
                     "pl": "Oktawa Najświętszego Serca Jezusa"
@@ -4150,7 +4150,7 @@
         ],
         "feasts": {
             "feasts/ril": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
@@ -4306,7 +4306,7 @@
                 }
             },
             "feasts/ril": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"

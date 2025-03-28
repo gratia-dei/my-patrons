@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sanctissimum Cor Iesu"
-    ],
-    "pl": [
-      "Najświętsze Serce Jezusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sanctissimum Cor Iesu"
+        ],
+        "pl": [
+            "Najświętsze Serce Jezusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,14 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Sanctissimum Corpore et Sanguis Christi",
-      "Sanctissimum Corpore Christi"
-    ],
-    "pl": [
-      "Najświętsze Ciało i Krew Chrystusa",
-      "Najświętsze Ciało Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sanctissimum Corpore et Sanguis Christi",
+            "Sanctissimum Corpore Christi"
+        ],
+        "pl": [
+            "Najświętsze Ciało i Krew Chrystusa",
+            "Najświętsze Ciało Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

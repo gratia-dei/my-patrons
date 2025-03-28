@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Ascénsio Iesu Christi"
-    ],
-    "pl": [
-      "Wniebowstąpienie Jezusa Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Ascénsio Iesu Christi"
+        ],
+        "pl": [
+            "Wniebowstąpienie Jezusa Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

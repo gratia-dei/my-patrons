@@ -4,7 +4,7 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -63,
         "title": {
-          "la": "Sabbato ante Dominicam LXX"
+          "la": "Sabbato ante Dominicam LXX."
         },
         "description": {
           "la": "D[1|ominica Septuagesimae], ..."
@@ -18,7 +18,7 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -46,
         "title": {
-          "la": "Feria tertia post Dominicam Quinquagesima"
+          "la": "Feria tertia post Dominicam Quinquagesimae."
         },
         "description": {
           "la": "D[1|ies Cinerum], ..."
@@ -32,7 +32,7 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,
         "title": {
-          "la": "Sabbato ante Dominicam Palmarum"
+          "la": "Sabbato ante Dominicam Palmarum."
         },
         "description": {
           "la": "D[1|ominica Palmaru], ..."
@@ -46,7 +46,7 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -3,
         "title": {
-          "la": "Feria quarta maioris hebdomada"
+          "la": "Feria quarta maioris hebdomada."
         },
         "description": {
           "la": "C[1|ena Dominica], ..."
@@ -58,30 +58,30 @@
 
     "5": {
         "page": "III n",
-        "base": "getMissingDate",
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
         "title": {
-          "la": "..."
+          "la": "In die sancto Paschae, antequam legantur Kalendae."
         },
         "description": {
-          "la": "?..."
+          "la": "?...: [1|Resurrectio Salvatoris nostri Iesu Christi] ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": "Deinde pronuntiantur Kalendae et Martyrologium frequentis diei."
         }
     },
 
     "6": {
-        "base": "getMissingDate",
-        "move": 0,
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": 39,
         "title": {
-          "la": "..."
+          "la": "In Vigilia Ascensionis."
         },
         "description": {
-          "la": "?..."
+          "la": "?... [1|Ascensio Domini nostri Iesu Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -114,16 +114,16 @@
     },
 
     "9": {
-        "base": "getMissingDate",
-        "move": 0,
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": 60,
         "title": {
-          "la": "..."
+          "la": "Feria quarta post Octavam Pentecostes."
         },
         "description": {
-          "la": "?..."
+          "la": "?... [1|sacratissimae Corporis Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     }
 }

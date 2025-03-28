@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava Sacratissimi Cordis Iesu"
-    ],
-    "pl": [
-      "Oktawa Najświętszego Serca Jezusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava Sacratissimi Cordis Iesu"
+        ],
+        "pl": [
+            "Oktawa Najświętszego Serca Jezusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

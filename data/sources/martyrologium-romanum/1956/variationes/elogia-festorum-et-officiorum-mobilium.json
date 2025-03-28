@@ -40,5 +40,47 @@
         "additional-info": {
           "la": ""
         }
+    },
+
+    "17-ab-1960-07-26": {
+        "base": "getMissingDate",
+        "move": 0,
+        "title": {
+          "la": "[x]"
+        },
+        "description": {
+          "la": ""
+        },
+        "additional-info": {
+          "la": ""
+        }
+    },
+
+    "22-ab-1960-07-26": {
+        "base": "getMissingDate",
+        "move": 0,
+        "title": {
+          "la": "[x]"
+        },
+        "description": {
+          "la": ""
+        },
+        "additional-info": {
+          "la": ""
+        }
+    },
+
+    "24-ab-1960-07-26": {
+        "base": "getMissingDate",
+        "move": 0,
+        "title": {
+          "la": "[x]"
+        },
+        "description": {
+          "la": ""
+        },
+        "additional-info": {
+          "la": ""
+        }
     }
 }

@@ -82,6 +82,35 @@
             }
         }
     },
+    "getMissingDate|0": {
+        "records/god/fil#aso": {
+            "name": {
+                "la": "Iesus Christus (Octava Ascensionis Iesu Christi)",
+                "pl": "Jezus Chrystus (Oktawa Wniebowstąpienia Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#17-ab-1960-07-26"
+            }
+        },
+        "records/god/fil#cro": {
+            "name": {
+                "la": "Iesus Christus (Octava Sanctissimi Corporis Christi)",
+                "pl": "Jezus Chrystus (Oktawa Najświętszego Ciała Chrystusa)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#22-ab-1960-07-26"
+            }
+        },
+        "records/god/fil#sco": {
+            "name": {
+                "la": "Iesus Christus (Octava Sacratissimi Cordis Iesu)",
+                "pl": "Jezus Chrystus (Oktawa Najświętszego Serca Jezusa)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#24-ab-1960-07-26"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|-1": {
         "records/god/fil#sas": {
             "name": {
@@ -180,6 +209,76 @@
             }
         }
     },
+    "getResurrectionFeastDateValidSince1584OrEarlier|0": {
+        "records/god/fil#res": {
+            "name": {
+                "la": "Iesus Christus (Resurrectio Iesu Christi)",
+                "pl": "Jezus Chrystus (Zmartwychwstanie Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-1584-movable": "#5",
+                "mr-1956-movable": "#10",
+                "mr-2004-movable": "#8"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|37": {
+        "records/god/fil#ril": {
+            "name": {
+                "la": "Iesus Christus (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "pl": "Jezus Chrystus (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
+            },
+            "sources": {
+                "mr-1956-movable": "#14"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|38": {
+        "records/god/fil#asv": {
+            "name": {
+                "la": "Iesus Christus (Vigilia Ascensionis Iesu Christi)",
+                "pl": "Jezus Chrystus (Wigilia Wniebowstąpienia Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-1956-movable": "#15"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|39": {
+        "records/god/fil#asc": {
+            "name": {
+                "la": "Iesus Christus (Ascénsio Iesu Christi)",
+                "pl": "Jezus Chrystus (Wniebowstąpienie Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-1584-movable": "#6",
+                "mr-1956-movable": "#16",
+                "mr-2004-movable": "#9"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|42": {
+        "records/god/fil#asc": {
+            "name": {
+                "la": "Iesus Christus (Ascénsio Iesu Christi)",
+                "pl": "Jezus Chrystus (Wniebowstąpienie Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-2004-movable": "#9"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|46": {
+        "records/god/fil#aso": {
+            "name": {
+                "la": "Iesus Christus (Octava Ascensionis Iesu Christi)",
+                "pl": "Jezus Chrystus (Oktawa Wniebowstąpienia Jezusa Chrystusa)"
+            },
+            "sources": {
+                "mr-1956-movable": "#17"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|48": {
         "records/god/spi#pev": {
             "name": {
@@ -223,6 +322,75 @@
             },
             "sources": {
                 "mr-1956-movable": "#20"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|60": {
+        "records/god/fil#ces": {
+            "name": {
+                "la": "Iesus Christus (Sanctissimum Corpore et Sanguis Christi)",
+                "pl": "Jezus Chrystus (Najświętsze Ciało i Krew Chrystusa)"
+            },
+            "sources": {
+                "mr-1584-movable": "#9",
+                "mr-1956-movable": "#21",
+                "mr-2004-movable": "#12"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|63": {
+        "records/god/fil#ces": {
+            "name": {
+                "la": "Iesus Christus (Sanctissimum Corpore et Sanguis Christi)",
+                "pl": "Jezus Chrystus (Najświętsze Ciało i Krew Chrystusa)"
+            },
+            "sources": {
+                "mr-2004-movable": "#12"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|67": {
+        "records/god/fil#cro": {
+            "name": {
+                "la": "Iesus Christus (Octava Sanctissimi Corporis Christi)",
+                "pl": "Jezus Chrystus (Oktawa Najświętszego Ciała Chrystusa)"
+            },
+            "sources": {
+                "mr-1956-movable": "#22"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|68": {
+        "records/god/fil#sci": {
+            "name": {
+                "la": "Iesus Christus (Sanctissimum Cor Iesu)",
+                "pl": "Jezus Chrystus (Najświętsze Serce Jezusa)"
+            },
+            "sources": {
+                "mr-1956-movable": "#23",
+                "mr-2004-movable": "#13"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|7": {
+        "records/god/fil#dia": {
+            "name": {
+                "la": "Iesus Christus (Dominica in Albis)",
+                "pl": "Jezus Chrystus (Niedziela Biała)"
+            },
+            "sources": {
+                "mr-1956-movable": "#12"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|75": {
+        "records/god/fil#sco": {
+            "name": {
+                "la": "Iesus Christus (Octava Sacratissimi Cordis Iesu)",
+                "pl": "Jezus Chrystus (Oktawa Najświętszego Serca Jezusa)"
+            },
+            "sources": {
+                "mr-1956-movable": "#24"
             }
         }
     },

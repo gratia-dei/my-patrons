@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dominica in Albis"
-    ],
-    "pl": [
-      "Niedziela Biała"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dominica in Albis"
+        ],
+        "pl": [
+            "Niedziela Biała"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

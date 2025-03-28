@@ -132,16 +132,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
         "title": {
-            "la": "..."
+            "la": "Dominica Paschae in Resurrectione Domini"
         },
         "description": {
-            "la": "..."
+            "la": "...: [1|Resurrectio Salvatoris nostro Iesu Christi] ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": "Deinde ponuntiatur mentio diei sequentis ac mensis, et legantur elogia diei sequentos."
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 
@@ -155,16 +155,16 @@
             "2": 42
         },
         "title": {
-            "la": "..."
+            "la": "In Ascensione Domini"
         },
         "description": {
-            "la": "..."
+            "la": "... [1|Ascensionis Domini nostri Iesu Christi], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": "Ubi sollemnitas Ascensionis Domini non est de praecepto sarvanda, assignatur, tamquam diei prioprio, [2|dominicae VIII Paschae]."
         }
     },
 
@@ -213,16 +213,16 @@
             "2": 63
         },
         "title": {
-            "la": "..."
+            "la": "Feria V vel Dominica post Sanctissimam Trinitatem"
         },
         "description": {
-            "la": "..."
+            "la": "... [1|sanctissimi Corporis et Sanguinis Christi], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": "Ubi sollemnitas sanctissimi Corporis et Sanguinis Christi non est de praecepto sarvanda, assignatur, tamquam diei prioprio, [2|dominicae post Ss.mam Trinitatem]."
         }
     },
 
@@ -230,16 +230,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 68,
         "title": {
-            "la": "..."
+            "la": "Feria VI post Dominicam II post Pentecosten"
         },
         "description": {
-            "la": "..."
+            "la": "... [1|sacratissimi Cordis Iesu], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Vigilia Ascensionis Iesu Christi"
-    ],
-    "pl": [
-      "Wigilia Wniebowstąpienia Jezusa Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia Ascensionis Iesu Christi"
+        ],
+        "pl": [
+            "Wigilia Wniebowstąpienia Jezusa Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -131,13 +131,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 0,
         "title": {
-          "la": "..."
+          "la": "In die Festo Paschae antequam legantur Kalendae, vel Nonae, vel Idus"
         },
         "description": {
-          "la": "..."
+          "la": "...: [1|Resurrectio Salvatoris nostri Jesu Christi] ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": "Deinde ponuntiantur Kalendae, aut Nonae, aut Idus, necnon quantitas Lunae et Martyrologium sequentia diei."
         }
     },
 
@@ -159,13 +159,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 7,
         "title": {
-          "la": "..."
+          "la": "Sabbato infra Octavam Paschae"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Dominica in Albis] ..."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -188,13 +188,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 37,
         "title": {
-          "la": "..."
+          "la": "Feria secunda Rogationum"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Romae Litaniae minores ad sanctum Joannem in Laterano] [2|+] [3|+]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -202,13 +202,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 38,
         "title": {
-          "la": "..."
+          "la": "Feria tertia Rogationum"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Viglia Ascensionis Domini nostri Jesu Christi].[/][2|Romae Litaniae minores ad sanctum Petrum]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -216,13 +216,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 39,
         "title": {
-          "la": "..."
+          "la": "In Vigilia Ascensionis Domini"
         },
         "description": {
-          "la": "..."
+          "la": "... [1|Ascensio Domini nostri Jesu Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -230,13 +230,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 46,
         "title": {
-          "la": "..."
+          "la": "Feria quarta infra Octavam Ascensionis Domini"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Octava Ascensionis Domini nostri Jesu Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -286,13 +286,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 60,
         "title": {
-          "la": "..."
+          "la": "Feria quarta post Octavam Pentecostes"
         },
         "description": {
-          "la": "..."
+          "la": "... [1|sanctissimi Corporis Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -300,13 +300,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 67,
         "title": {
-          "la": "..."
+          "la": "Feria quarta infra Octavam sanctissimi Corporis Christi"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Octava sanctissimi Corporis Christi]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -314,13 +314,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 68,
         "title": {
-          "la": "..."
+          "la": "Feria quinta in Octavam sanctissimi Corporis Christi"
         },
         "description": {
-          "la": "..."
+          "la": "... [1|sacratissimi Cordis Jesu]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -329,13 +329,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 75,
         "title": {
-          "la": "..."
+          "la": "Feria quinta infra Octavam sacratissimi Cordis Jesu"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Octava sacratissimi Cordis Jesu]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
