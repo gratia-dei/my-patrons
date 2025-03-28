@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Circumcisio Domini"
-    ],
-    "pl": [
-      "Obrzezanie Pańskie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Circumcisio Domini"
+        ],
+        "pl": [
+            "Obrzezanie Pańskie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

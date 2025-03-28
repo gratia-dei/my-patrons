@@ -1,7 +1,7 @@
 {
     "1": {
-        "page": "...",
-        "la": "?..."
+        "page": 1,
+        "la": "C[1|ircumcisio Domini nostri Jesu Christi], et [2|Octava Nativitatis] ejusdem."
     },
 
     "2": {
@@ -17,6 +17,7 @@
     },
 
     "5": {
+        "page": 2,
         "la": "..."
     },
 
@@ -53,10 +54,6 @@
     },
 
     "14": {
-        "la": "..."
-    },
-
-    "15": {
         "la": "..."
     }
 }

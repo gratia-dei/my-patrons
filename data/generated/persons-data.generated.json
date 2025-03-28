@@ -41,14 +41,14 @@
                 }
             },
             "feasts/cir": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Circumcisio Domini",
                     "pl": "Obrzezanie Pańskie"
                 }
             },
             "feasts/nao": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Nativitatis Domini",
                     "pl": "Oktawa Narodzenia Pańskiego"
