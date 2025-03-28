@@ -1,7 +1,12 @@
 {
+    "0": {
+        "page": 321,
+        "la": "Anno ... mensibus [color:red]( Hic vox elevatur, et omnes genua flectunt)[:color], in Bethlehem Judae nascitur ex Maria Virgine factus Homo.[/][color:red]Hic autem in priori voce dicitur, et in tono passionis:[:color]"
+    },
+
     "1": {
-        "page": "...",
-        "la": "?..."
+        "page": 322,
+        "la": "N[1|ativitas Domini nostri Jesu Christi] secundum carnem.[/][color:red]Quod sequitur, legitur in tono Lectionis consueto; et surgunt omnes.[:color]"
     },
 
     "2": {
@@ -17,46 +22,6 @@
     },
 
     "5": {
-        "la": "..."
-    },
-
-    "6": {
-        "la": "..."
-    },
-
-    "7": {
-        "la": "..."
-    },
-
-    "8": {
-        "la": "..."
-    },
-
-    "9": {
-        "la": "..."
-    },
-
-    "10": {
-        "la": "..."
-    },
-
-    "11": {
-        "la": "..."
-    },
-
-    "12": {
-        "la": "..."
-    },
-
-    "13": {
-        "la": "..."
-    },
-
-    "14": {
-        "la": "..."
-    },
-
-    "15": {
         "la": "..."
     }
 }

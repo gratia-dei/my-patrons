@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Nativitas Domini"
-    ],
-    "pl": [
-      "Narodzenie Pańskie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Nativitas Domini"
+        ],
+        "pl": [
+            "Narodzenie Pańskie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

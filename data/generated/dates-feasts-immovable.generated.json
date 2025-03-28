@@ -45,5 +45,30 @@
                 "mr-2004": "1 V: #1"
             }
         }
+    },
+    "12-24": {
+        "records/god/fil#nav": {
+            "name": {
+                "la": "Iesus Christus (Vigilia Nativitatis Domini)",
+                "pl": "Jezus Chrystus (Wigilia Narodzenia Pańskiego)"
+            },
+            "sources": {
+                "mr-1584": "24 XII: #1",
+                "mr-1956": "24 XII: #1"
+            }
+        }
+    },
+    "12-25": {
+        "records/god/fil#nat": {
+            "name": {
+                "la": "Iesus Christus (Nativitas Domini)",
+                "pl": "Jezus Chrystus (Narodzenie Pańskie)"
+            },
+            "sources": {
+                "mr-1584": "25 XII: #1",
+                "mr-1956": "25 XII: #1",
+                "mr-2004": "25 XII: #1"
+            }
+        }
     }
 }

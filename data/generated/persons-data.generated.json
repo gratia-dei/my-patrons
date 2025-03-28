@@ -27,14 +27,14 @@
                 }
             },
             "feasts/nav": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia Nativitatis Domini",
                     "pl": "Wigilia Narodzenia Pańskiego"
                 }
             },
             "feasts/nat": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Nativitas Domini",
                     "pl": "Narodzenie Pańskie"

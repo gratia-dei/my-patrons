@@ -1,7 +1,12 @@
 {
+    "0": {
+        "page": 395,
+        "la": "Anno ... mensibus (Hic dicitur alta voce) In Bethlehem Iudae nascitur ex Maria virgine factur Homo. His autem altius, et in tono passionis)"
+    },
+
     "1": {
-        "page": "...",
-        "la": "?..."
+        "page": 396,
+        "la": "N[color:red][1|ativitas Domini nostri Iesu Christi] ... .[:color] Quod sequitur, legitur in tono lectionis Martyrologij."
     },
 
     "2": {
@@ -9,54 +14,11 @@
     },
 
     "3": {
+        "page": 397,
         "la": "..."
     },
 
     "4": {
-        "la": "..."
-    },
-
-    "5": {
-        "la": "..."
-    },
-
-    "6": {
-        "la": "..."
-    },
-
-    "7": {
-        "la": "..."
-    },
-
-    "8": {
-        "la": "..."
-    },
-
-    "9": {
-        "la": "..."
-    },
-
-    "10": {
-        "la": "..."
-    },
-
-    "11": {
-        "la": "..."
-    },
-
-    "12": {
-        "la": "..."
-    },
-
-    "13": {
-        "la": "..."
-    },
-
-    "14": {
-        "la": "..."
-    },
-
-    "15": {
         "la": "..."
     }
 }

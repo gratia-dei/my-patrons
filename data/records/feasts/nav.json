@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Vigilia Nativitatis Domini"
-    ],
-    "pl": [
-      "Wigilia Narodzenia Pańskiego"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia Nativitatis Domini"
+        ],
+        "pl": [
+            "Wigilia Narodzenia Pańskiego"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -81,7 +81,7 @@ class RomanMartyrologyDayElogiesSince1922ContentBlock extends ContentBlock imple
             'record-activeness-class' => $this->getRecordActivenessClass($recordId),
         ];
 
-        $isRecordImportant = ($recordId === '1');
+        $isRecordImportant = ($recordId <= 1); //0 is used for 25 December
         if ($isRecordImportant) {
             $result = $this->getReplacedContent($this->importantRecordContent, $variables);
         } else {
