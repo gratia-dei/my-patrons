@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Relatio Pueri Iesu de Aegypto"
-    ],
-    "pl": [
-      "Powrót Dzieciątka Jezus z Egiptu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Relatio Pueri Iesu de Aegypto"
+        ],
+        "pl": [
+            "Powrót Dzieciątka Jezus z Egiptu"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,15 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Praesentatio Domini"
-    ],
-    "en": [
-      "The Presentation of Jesus"
-    ],
-    "pl": [
-      "Ofiarowanie Pańskie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Praesentatio Domini"
+        ],
+        "en": [
+            "The Presentation of Jesus"
+        ],
+        "pl": [
+            "Ofiarowanie Pańskie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

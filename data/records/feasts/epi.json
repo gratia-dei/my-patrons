@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Epiphania Domini"
-    ],
-    "pl": [
-      "Objawienie Pańskie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Epiphania Domini"
+        ],
+        "pl": [
+            "Objawienie Pańskie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -34,7 +34,54 @@
             }
         }
     },
+    "01-05": {
+        "records/god/fil#epv": {
+            "name": {
+                "la": "Iesus Christus (Vigilia Epiphaniae Domini)",
+                "pl": "Jezus Chrystus (Wigilia Objawienia Pańskiego)"
+            },
+            "sources": {
+                "mr-1584": "5 I: #1",
+                "mr-1956": "5 I: #1"
+            }
+        }
+    },
+    "01-06": {
+        "records/god/fil#epi": {
+            "name": {
+                "la": "Iesus Christus (Epiphania Domini)",
+                "pl": "Jezus Chrystus (Objawienie Pańskie)"
+            },
+            "sources": {
+                "mr-1584": "6 I: #1",
+                "mr-1956": "6 I: #1",
+                "mr-2004": "6 I: #1"
+            }
+        }
+    },
+    "01-07": {
+        "records/god/fil#rel": {
+            "name": {
+                "la": "Iesus Christus (Relatio Pueri Iesu de Aegypto)",
+                "pl": "Jezus Chrystus (Powrót Dzieciątka Jezus z Egiptu)"
+            },
+            "sources": {
+                "mr-1584": "7 I: #1",
+                "mr-1956": "7 I: #1"
+            }
+        }
+    },
     "01-13": {
+        "records/god/fil#epo": {
+            "name": {
+                "la": "Iesus Christus (Octava Epiphaniae Domini)",
+                "pl": "Jezus Chrystus (Oktawa Objawienia Pańskiego)"
+            },
+            "sources": {
+                "mr-1584": "13 I: #1",
+                "mr-1956": "13 I: #1"
+            }
+        },
         "records/god/fil#bad": {
             "name": {
                 "la": "Iesus Christus (Baptismus Domini)",
@@ -45,16 +92,40 @@
             }
         }
     },
+    "02-02": {
+        "records/god/fil#prd": {
+            "name": {
+                "la": "Iesus Christus (Praesentatio Domini)",
+                "en": "Jesus Christ (The Presentation of Jesus)",
+                "pl": "Jezus Chrystus (Ofiarowanie Pańskie)"
+            },
+            "sources": {
+                "mr-2004": "2 II: #1"
+            }
+        }
+    },
     "03-19": {
         "records/patrons/ioseph/naz#sin": {
             "name": {
                 "la": "Ioseph Nazarenus (loseph Sponsus beatissimae Virginis Mariae)",
-                "pl": "Józef z Nazaretu (Józef Oblubieniec Błogosłąwionej Maryi Dziewicy)"
+                "pl": "Józef z Nazaretu (Józef Oblubieniec Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
                 "mr-1584": "19 III: #1",
                 "mr-1956": "19 III: #1",
                 "mr-2004": "19 III: #1"
+            }
+        }
+    },
+    "03-25": {
+        "records/god/fil#and": {
+            "name": {
+                "la": "Iesus Christus (Annuntatio Domini)",
+                "en": "Jesus Christ (The Annunciation of Jesus)",
+                "pl": "Jezus Chrystus (Zwiastowanie Pańskie)"
+            },
+            "sources": {
+                "mr-2004": "25 III: #1"
             }
         }
     },

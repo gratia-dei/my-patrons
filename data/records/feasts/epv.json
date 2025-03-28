@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Vigilia Epiphaniae Domini"
-    ],
-    "pl": [
-      "Wigilia Objawienia Pańskiego"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia Epiphaniae Domini"
+        ],
+        "pl": [
+            "Wigilia Objawienia Pańskiego"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

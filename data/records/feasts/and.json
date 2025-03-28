@@ -1,15 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Annuntatio Domini"
-    ],
-    "en": [
-      "The Annunciation of Jesus"
-    ],
-    "pl": [
-      "Zwiastowanie Pańskie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Annuntatio Domini"
+        ],
+        "en": [
+            "The Annunciation of Jesus"
+        ],
+        "pl": [
+            "Zwiastowanie Pańskie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
