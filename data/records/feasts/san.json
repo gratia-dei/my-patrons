@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Pretiosissimus Sanguis Christi"
-    ],
-    "pl": [
-      "Najdroższa Krew Chrystusa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Pretiosissimus Sanguis Christi"
+        ],
+        "pl": [
+            "Najdroższa Krew Chrystusa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

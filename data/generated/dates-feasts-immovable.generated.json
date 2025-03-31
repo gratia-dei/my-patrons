@@ -141,6 +141,70 @@
             }
         }
     },
+    "05-03": {
+        "records/god/fil#inv": {
+            "name": {
+                "la": "Iesus Christus (Inventio Sacrosanctae Crucis Dominicae)",
+                "pl": "Jezus Chrystus (Odnalezienie najświętszego Krzyża Pańskiego)"
+            },
+            "sources": {
+                "mr-1584": "3 V: #1",
+                "mr-1956": "3 V: #1",
+                "mr-1956-variations": "3 V: #8-ab-1960-07-26"
+            }
+        }
+    },
+    "07-01": {
+        "records/god/fil#san": {
+            "name": {
+                "la": "Iesus Christus (Pretiosissimus Sanguis Christi)",
+                "pl": "Jezus Chrystus (Najdroższa Krew Chrystusa)"
+            },
+            "sources": {
+                "mr-1956": "1 VII: #2"
+            }
+        }
+    },
+    "08-06": {
+        "records/god/fil#tra": {
+            "name": {
+                "la": "Iesus Christus (Transfiguratio Domini)",
+                "pl": "Jezus Chrystus (Przemienienie Pańskie)"
+            },
+            "sources": {
+                "mr-1584": "6 VIII: #1",
+                "mr-1956": "6 VIII: #1",
+                "mr-2004": "6 VIII: #1"
+            }
+        }
+    },
+    "09-14": {
+        "records/god/fil#exa": {
+            "name": {
+                "la": "Iesus Christus (Exaltatio Sanctae Crucis)",
+                "en": "Jesus Christ (The Exaltation of the Holy Cross)",
+                "pl": "Jezus Chrystus (Podwyższenie Krzyża Świętego)"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #1",
+                "mr-1956": "14 IX: #1",
+                "mr-2004": "14 IX: #1"
+            }
+        }
+    },
+    "11-09": {
+        "records/god/fil#dbl": {
+            "name": {
+                "la": "Iesus Christus (Dedicatio Basilicae Lateranensis in Romae)",
+                "pl": "Jezus Chrystus (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "9 XI: #1",
+                "mr-1956": "9 XI: #1",
+                "mr-2004": "9 XI: #1"
+            }
+        }
+    },
     "12-24": {
         "records/god/fil#nav": {
             "name": {

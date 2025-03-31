@@ -197,6 +197,13 @@
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
+            "feasts/inv": {
+                "active": true,
+                "names": {
+                    "la": "Inventio Sacrosanctae Crucis Dominicae",
+                    "pl": "Odnalezienie najświętszego Krzyża Pańskiego"
+                }
+            },
             "feasts/asv": {
                 "active": true,
                 "names": {
@@ -247,29 +254,29 @@
                 }
             },
             "feasts/san": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Pretiosissimus Sanguis Christi",
                     "pl": "Najdroższa Krew Chrystusa"
                 }
             },
             "feasts/tra": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Transfiguratio Domini",
                     "pl": "Przemienienie Pańskie"
                 }
             },
             "feasts/exa": {
-                "active": false,
+                "active": true,
                 "names": {
-                    "la": "Exaltatio Satnctae Crucis",
+                    "la": "Exaltatio Sanctae Crucis",
                     "en": "The Exaltation of the Holy Cross",
                     "pl": "Podwyższenie Krzyża Świętego"
                 }
             },
             "feasts/dbl": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
@@ -4150,7 +4157,7 @@
                 }
             },
             "feasts/dbl": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
@@ -4306,7 +4313,7 @@
                 }
             },
             "feasts/dbl": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicae Lateranensis in Romae",
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"

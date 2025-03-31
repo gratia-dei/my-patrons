@@ -1,15 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Exaltatio Satnctae Crucis"
-    ],
-    "en": [
-      "The Exaltation of the Holy Cross"
-    ],
-    "pl": [
-      "Podwyższenie Krzyża Świętego"
-    ]
-  },
+    "names": {
+        "la": [
+            "Exaltatio Sanctae Crucis"
+        ],
+        "en": [
+            "The Exaltation of the Holy Cross"
+        ],
+        "pl": [
+            "Podwyższenie Krzyża Świętego"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

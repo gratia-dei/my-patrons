@@ -124,7 +124,7 @@
         "pl": "Wigilia Objawienia Pańskiego"
     },
     "exa": {
-        "la": "Exaltatio Satnctae Crucis",
+        "la": "Exaltatio Sanctae Crucis",
         "en": "The Exaltation of the Holy Cross",
         "pl": "Podwyższenie Krzyża Świętego"
     },
@@ -148,6 +148,10 @@
     "ico": {
         "la": "Immaculatum Cor beate Mariae Virginis",
         "pl": "Niepokalane Serce Najświętszej Maryi Panny"
+    },
+    "inv": {
+        "la": "Inventio Sacrosanctae Crucis Dominicae",
+        "pl": "Odnalezienie najświętszego Krzyża Pańskiego"
     },
     "lou": {
         "la": "Beatae Maria Virgo de Lourdes",
