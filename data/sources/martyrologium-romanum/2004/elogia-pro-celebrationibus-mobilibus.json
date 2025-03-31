@@ -24,7 +24,7 @@
             "la": "Dominica quae occurrit infra octavam Nativitatis Domini vel, ea deficiente, die 29 decembris"
         },
         "description": {
-            "la": "... [1|Sanctae Familiae Iesu], [2|Mariae] et [3|Ioseph], ..."
+            "la": "Festum [1|Sanctae Familiae Iesu], [2|Mariae] et [3|Ioseph], ..."
         },
         "additional-info": {
             "la": ""
@@ -41,7 +41,7 @@
             "la": "Dominica quae occurrit post diem 6 ianuarii"
         },
         "description": {
-            "la": "... [1|Baptismatis Domini nostri Iesu Christi], ..."
+            "la": "Festum [1|Baptismatis Domini nostri Iesu Christi], ..."
         },
         "additional-info": {
             "la": ""
@@ -135,7 +135,7 @@
             "la": "Dominica Paschae in Resurrectione Domini"
         },
         "description": {
-            "la": "...: [1|Resurrectio Salvatoris nostro Iesu Christi] ..."
+            "la": "H..., sollemnitas sollemnitatum ...: [1|Resurrectio Salvatoris nostro Iesu Christi] ..."
         },
         "additional-info": {
             "la": "Deinde ponuntiatur mentio diei sequentis ac mensis, et legantur elogia diei sequentos."
@@ -158,7 +158,7 @@
             "la": "In Ascensione Domini"
         },
         "description": {
-            "la": "... [1|Ascensionis Domini nostri Iesu Christi], ..."
+            "la": "Sollemnitas [1|Ascensionis Domini nostri Iesu Christi], ..."
         },
         "additional-info": {
             "la": ""
@@ -192,7 +192,7 @@
             "la": "Dominica post Pentecosten"
         },
         "description": {
-            "la": "... [1|sacratissimae et individuae Trinitatis], ..."
+            "la": "Sollemnitas [1|sacratissimae et individuae Trinitatis], ..."
         },
         "additional-info": {
             "la": ""
@@ -216,7 +216,7 @@
             "la": "Feria V vel Dominica post Sanctissimam Trinitatem"
         },
         "description": {
-            "la": "... [1|sanctissimi Corporis et Sanguinis Christi], ..."
+            "la": "Sollemnitas [1|sanctissimi Corporis et Sanguinis Christi], ..."
         },
         "additional-info": {
             "la": ""
@@ -233,7 +233,7 @@
             "la": "Feria VI post Dominicam II post Pentecosten"
         },
         "description": {
-            "la": "... [1|sacratissimi Cordis Iesu], ..."
+            "la": "Sollemnitas [1|sacratissimi Cordis Iesu], ..."
         },
         "additional-info": {
             "la": ""
@@ -267,7 +267,7 @@
             "la": "Dominica ultima « per annum »: Domini nostri Iesu Christi universorum Regis"
         },
         "description": {
-            "la": "... [1|Domini nostri Iesu Christi, universorum Regis]. ..."
+            "la": "Sollemnitas [1|Domini nostri Iesu Christi, universorum Regis]. ..."
         },
         "additional-info": {
             "la": ""
