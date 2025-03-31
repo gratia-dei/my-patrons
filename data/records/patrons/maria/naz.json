@@ -1,191 +1,502 @@
 {
-  "names": {
-    "arc": [
-      "ܡܪܝܡ"
-    ],
-    "en": [
-      "Mary, mother of Jesus",
-      "Virgin Mary"
-    ],
-    "la": [
-      "Maria Virgo",
-      "Deipara",
-      "Maria Mater Iesu",
-      "Mater Dei",
-      "Dei Genetrix",
-      "Madonna"
-    ],
-    "pl": [
-      "Maria z Nazaretu",
-      "Najświętsza Maryja Panna",
-      "Dziewica Maryja"
-    ]
-  },
+    "names": {
+        "arc": [
+            "ܡܪܝܡ"
+        ],
+        "en": [
+            "Mary, mother of Jesus",
+            "Virgin Mary"
+        ],
+        "la": [
+            "Maria Virgo",
+            "Maria Mater Iesu",
+            "Mater Dei",
+            "Dei Genetrix",
+            "Madonna"
+        ],
+        "pl": [
+            "Maria z Nazaretu",
+            "Najświętsza Maryja Panna",
+            "Dziewica Maryja"
+        ]
+    },
+    "forenames": ["maria"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["<-20"],
-  "died": [">30"],
+    "active": false,
 
-  "forenames": ["maria"],
-  "categories": ["femina", "mater-dei", "virgo", "regina"],
+    "born": ["<-1"],
+    "died": [">30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg",
-      "attribution": "Giovanni Battista Salvi da Sassoferrato, Public domain, via Wikimedia Commons",
-      "area-center-x": 1680,
-      "area-center-y": 1938,
-      "area-center-to-edge-distance": 1520
+    "categories": ["femina", "mater-dei", "virgo", "regina"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "sfa": {
+            "data-linksx": {
+                "mr-2004-movable": ["2:#2"],
+                "mr-1956-movable": ["2:#3"],
+                "mr-1956-variations-movable": ["2:#3-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "gen": {
+            "data-linksx": {
+                "mr-2004": ["1:ian/1#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "pur": {
+            "data-linksx": {
+                "mr-1956": ["1:feb/2#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "lou": {
+            "data-linksx": {
+                "mr-2004": ["1:feb/11#1"],
+                "mr-1956": ["1:feb/11#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "anm": {
+            "data-linksx": {
+                "mr-1956": ["1:mar/25#1"],
+                "mr-1956-index-2": ["1:a/annuntatio#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "fat": {
+            "data-linksx": {
+                "mr-2004": ["1:mai/13#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "vis": {
+            "data-linksx": {
+                "mr-2004": ["1:mai/31#1"],
+                "mr-1956": ["1:iul/2#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "mmc": {
+            "data-linksx": {
+                "mr-2004": ["1:iul/16#1"],
+                "mr-1956": ["1:iul/16#1"],
+                "mr-1956-variations": ["1:iul/16#1-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "dbm": {
+            "data-linksx": {
+                "mr-2004": ["1:aug/5#1"],
+                "mr-1956": ["1:aug/5#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "amv": {
+            "data-linksx": {
+                "mr-1956": ["1:aug/14#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "ass": {
+            "data-linksx": {
+                "mr-2004": ["1:aug/15#1"],
+                "mr-1956": ["1:aug/15#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "reg": {
+            "data-linksx": {
+                "mr-2004": ["1:aug/22#1"],
+                "mr-1956": ["1:mai/31#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "amo": {
+            "data-linksx": {
+                "mr-1956": ["1:aug/22#1"],
+                "mr-1956-variations": ["1:aug/22#1-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "rmm": {
+            "data-linksx": {
+                "mr-1956-movable": ["1:#13"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "ico": {
+            "data-linksx": {
+                "mr-2004-movable": ["1:#14"],
+                "mr-1956": ["1:aug/22#2"],
+                "mr-1956-variations": ["1:aug/22#2-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "snm": {
+            "data-linksx": {
+                "mr-2004": ["1:sep/12#1"],
+                "mr-1956": ["1:sep/12#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "7dm": {
+            "data-linksx": {
+                "mr-1956": ["1:sep/15#2"],
+                "mr-1956-variations": ["1:sep/15#2-ab-1960-07-26"],
+                "mr-1956-movable": ["1:#7"],
+                "mr-1956-variations-movable": ["1:#7-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "per": {
+            "data-linksx": {
+                "mr-2004": ["1:sep/15#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "ros": {
+            "data-linksx": {
+                "mr-2004": ["1:oct/7#1"],
+                "mr-1956": ["1:oct/7#1"],
+                "mr-1956-variations": ["1:oct/7#1-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "mat": {
+            "data-linksx": {
+                "mr-1956": ["1:oct/11#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "prm": {
+            "data-linksx": {
+                "mr-2004": ["1:nov/21#1"],
+                "mr-1956": ["1:nov/21#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "mrp": {
+            "data-linksx": {
+            }
+        },
+        "civ": {
+            "data-linksx": {
+                "mr-1956": ["1:dec/7#1"],
+                "mr-1956-variations": ["1:dec/7#1-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "cim": {
+            "data-linksx": {
+                "mr-2004": ["1:dec/8#1"],
+                "mr-1956": ["1:dec/8#1"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        },
+        "cio": {
+            "data-linksx": {
+                "mr-1956": ["1:dec/15#1"],
+                "mr-1956-variations": ["1:dec/15#1-ab-1960-07-26"],
+
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": ["..."],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": ["..."],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg",
+            "attribution": "Giovanni Battista Salvi da Sassoferrato, Public domain, via Wikimedia Commons",
+            "area-center-x": 1680,
+            "area-center-y": 1938,
+            "area-center-to-edge-distance": 1520
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_z_Nazaretu"
     }
-  },
-
-  "feasts": {
-    "gen": {
-      "data-linksx": {
-        "mr-2004": ["1:ian/1#1"]
-      }
-    },
-    "pur": {
-      "data-linksx": {
-        "mr-1956": ["1:feb/2#1"]
-      }
-    },
-    "lou": {
-      "data-linksx": {
-        "mr-2004": ["1:feb/11#1"],
-        "mr-1956": ["1:feb/11#1"]
-      }
-    },
-    "anm": {
-      "data-linksx": {
-        "mr-1956": ["1:mar/25#1"],
-        "mr-1956-index-2": ["1:a/annuntatio#1"]
-      }
-    },
-    "fat": {
-      "data-linksx": {
-        "mr-2004": ["1:mai/13#1"]
-      }
-    },
-    "vis": {
-      "data-linksx": {
-        "mr-2004": ["1:mai/31#1"],
-        "mr-1956": ["1:iul/2#1"]
-      }
-    },
-    "mmc": {
-      "data-linksx": {
-        "mr-2004": ["1:iul/16#1"],
-        "mr-1956": ["1:iul/16#1"],
-        "mr-1956-variations": ["1:iul/16#1-ab-1960-07-26"]
-      }
-    },
-    "dbm": {
-      "data-linksx": {
-        "mr-2004": ["1:aug/5#1"],
-        "mr-1956": ["1:aug/5#1"]
-      }
-    },
-    "amv": {
-      "data-linksx": {
-        "mr-1956": ["1:aug/14#1"]
-      }
-    },
-    "ass": {
-      "data-linksx": {
-        "mr-2004": ["1:aug/15#1"],
-        "mr-1956": ["1:aug/15#1"]
-      }
-    },
-    "reg": {
-      "data-linksx": {
-        "mr-2004": ["1:aug/22#1"],
-        "mr-1956": ["1:mai/31#1"]
-      }
-    },
-    "amo": {
-      "data-linksx": {
-        "mr-1956": ["1:aug/22#1"],
-        "mr-1956-variations": ["1:aug/22#1-ab-1960-07-26"]
-      }
-    },
-    "sfa": {
-      "data-linksx": {
-        "mr-2004-movable": ["2:#2"],
-        "mr-1956-movable": ["2:#3"],
-        "mr-1956-movable-variations": ["2:#3-ab-1960-07-26"]
-      }
-    },
-    "rmm": {
-      "data-linksx": {
-        "mr-1956-movable": ["1:#13"]
-      }
-    },
-    "ico": {
-      "data-linksx": {
-        "mr-2004-movable": ["1:#14"],
-        "mr-1956": ["1:aug/22#2"],
-        "mr-1956-variations": ["1:aug/22#2-ab-1960-07-26"]
-      }
-    },
-    "snm": {
-      "data-linksx": {
-        "mr-2004": ["1:sep/12#1"],
-        "mr-1956": ["1:sep/12#1"]
-      }
-    },
-    "7dm": {
-      "data-linksx": {
-        "mr-1956": ["1:sep/15#2"],
-        "mr-1956-variations": ["1:sep/15#2-ab-1960-07-26"],
-        "mr-1956-movable": ["1:#7"],
-        "mr-1956-movable-variations": ["1:#7-ab-1960-07-26"]
-      }
-    },
-    "per": {
-      "data-linksx": {
-        "mr-2004": ["1:sep/15#1"]
-      }
-    },
-    "ros": {
-      "data-linksx": {
-        "mr-2004": ["1:oct/7#1"],
-        "mr-1956": ["1:oct/7#1"],
-        "mr-1956-variations": ["1:oct/7#1-ab-1960-07-26"]
-      }
-    },
-    "mat": {
-      "data-linksx": {
-        "mr-1956": ["1:oct/11#1"]
-      }
-    },
-    "prm": {
-      "data-linksx": {
-        "mr-2004": ["1:nov/21#1"],
-        "mr-1956": ["1:nov/21#1"]
-      }
-    },
-    "mrp": {
-      "data-linksx": {
-      }
-    },
-    "civ": {
-      "data-linksx": {
-        "mr-1956": ["1:dec/7#1"],
-        "mr-1956-variations": ["1:dec/7#1-ab-1960-07-26"]
-      }
-    },
-    "cim": {
-      "data-linksx": {
-        "mr-2004": ["1:dec/8#1"],
-        "mr-1956": ["1:dec/8#1"]
-      }
-    },
-    "cio": {
-      "data-linksx": {
-        "mr-1956": ["1:dec/15#1"],
-        "mr-1956-variations": ["1:dec/15#1-ab-1960-07-26"]
-      }
-    }
-  }
 }

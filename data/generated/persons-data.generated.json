@@ -5739,7 +5739,7 @@
         "feasts": []
     },
     "patrons/maria/naz": {
-        "active": false,
+        "active": true,
         "names": {
             "arc": "ܡܪܝܡ",
             "en": "Mary, mother of Jesus",
@@ -5750,6 +5750,13 @@
             ">30"
         ],
         "feasts": {
+            "feasts/sfa": {
+                "active": true,
+                "names": {
+                    "la": "Sancta Familia",
+                    "pl": "Święta Rodzina"
+                }
+            },
             "feasts/gen": {
                 "active": false,
                 "names": {
@@ -5839,13 +5846,6 @@
                 "names": {
                     "la": "Octava Assumptionis Beatae Mariae Virginis",
                     "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
-                }
-            },
-            "feasts/sfa": {
-                "active": true,
-                "names": {
-                    "la": "Sancta Familia",
-                    "pl": "Święta Rodzina"
                 }
             },
             "feasts/rmm": {
