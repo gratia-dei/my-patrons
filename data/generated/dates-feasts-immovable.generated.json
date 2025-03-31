@@ -203,6 +203,16 @@
                 "mr-1956": "9 XI: #1",
                 "mr-2004": "9 XI: #1"
             }
+        },
+        "records/god/fil#ima": {
+            "name": {
+                "la": "Iesus Christus (Imago Salvatoris)",
+                "pl": "Jezus Chrystus (Wizerunek Zbawiciela)"
+            },
+            "sources": {
+                "mr-1584": "9 XI: #8",
+                "mr-1956": "9 XI: #8"
+            }
         }
     },
     "12-24": {

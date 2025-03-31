@@ -282,6 +282,13 @@
                     "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
                 }
             },
+            "feasts/ima": {
+                "active": true,
+                "names": {
+                    "la": "Imago Salvatoris",
+                    "pl": "Wizerunek Zbawiciela"
+                }
+            },
             "feasts/rex": {
                 "active": true,
                 "names": {
@@ -5739,7 +5746,7 @@
         "feasts": []
     },
     "patrons/maria/naz": {
-        "active": true,
+        "active": false,
         "names": {
             "arc": "ܡܪܝܡ",
             "en": "Mary, mother of Jesus",
