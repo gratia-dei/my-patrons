@@ -198,6 +198,39 @@
             }
         }
     },
+    "05-13": {
+        "records/patrons/maria/naz#dem": {
+            "name": {
+                "la": "Maria Virgo (Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae)",
+                "pl": "Maria z Nazaretu (Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "13 V: #1",
+                "mr-1956": "13 V: #2"
+            }
+        },
+        "records/patrons/maria/naz#fat": {
+            "name": {
+                "la": "Maria Virgo (Beata Maria Virgo de Fatima)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica z Fatimy)"
+            },
+            "sources": {
+                "mr-2004": "13 V: #1"
+            }
+        }
+    },
+    "05-31": {
+        "records/patrons/maria/naz#vis": {
+            "name": {
+                "la": "Maria Virgo (Visitatio Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Visitation of the Blessed Virgin Mary)",
+                "pl": "Maria z Nazaretu (Nawiedzenie Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-2004": "31 V: #1"
+            }
+        }
+    },
     "07-01": {
         "records/god/fil#san": {
             "name": {
@@ -206,6 +239,46 @@
             },
             "sources": {
                 "mr-1956": "1 VII: #2"
+            }
+        }
+    },
+    "07-02": {
+        "records/patrons/maria/naz#vis": {
+            "name": {
+                "la": "Maria Virgo (Visitatio Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Visitation of the Blessed Virgin Mary)",
+                "pl": "Maria z Nazaretu (Nawiedzenie Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "2 VII: #1",
+                "mr-1956": "2 VII: #1"
+            }
+        }
+    },
+    "07-16": {
+        "records/patrons/maria/naz#mmc": {
+            "name": {
+                "en": "Mary, mother of Jesus (Blessed Maria Virgin of Mount Carmel)",
+                "la": "Maria Virgo (Beatae Maria Virgo de Monte Carmelo)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica z Góry Karmel)"
+            },
+            "sources": {
+                "mr-1956": "16 VII: #1",
+                "mr-1956-variations": "16 VII: #1-ab-1960-07-26",
+                "mr-2004": "16 VII: #1"
+            }
+        }
+    },
+    "08-05": {
+        "records/patrons/maria/naz#dbm": {
+            "name": {
+                "la": "Maria Virgo (Dedicatio Basilicae Sanctae Mariae in Romae)",
+                "pl": "Maria z Nazaretu (Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "5 VIII: #1",
+                "mr-1956": "5 VIII: #1",
+                "mr-2004": "5 VIII: #1"
             }
         }
     },

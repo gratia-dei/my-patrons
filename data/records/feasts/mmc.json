@@ -1,15 +1,17 @@
 {
-  "names": {
-    "en": [
-      "Blessed Maria Virgin of Mount Carmel"
-    ],
-    "la": [
-      "Beatae Maria Virgo de Monte Carmelo"
-    ],
-    "pl": [
-      "Błogosławiona Maryja Dziewica z Góry Karmel"
-    ]
-  },
+    "names": {
+        "en": [
+            "Blessed Maria Virgin of Mount Carmel"
+        ],
+        "la": [
+            "Beatae Maria Virgo de Monte Carmelo"
+        ],
+        "pl": [
+            "Błogosławiona Maryja Dziewica z Góry Karmel"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

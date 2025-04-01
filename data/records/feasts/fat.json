@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Beata Maria Virgo de Fatima"
-    ],
-    "pl": [
-      "Błogosławiona Maryja Dziewica Fatimska"
-    ]
-  },
+    "names": {
+        "la": [
+            "Beata Maria Virgo de Fatima"
+        ],
+        "pl": [
+            "Błogosławiona Maryja Dziewica z Fatimy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

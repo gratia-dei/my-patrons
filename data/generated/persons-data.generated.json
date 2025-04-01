@@ -5796,17 +5796,17 @@
                 }
             },
             "feasts/fat": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beata Maria Virgo de Fatima",
-                    "pl": "Błogosławiona Maryja Dziewica Fatimska"
+                    "pl": "Błogosławiona Maryja Dziewica z Fatimy"
                 }
             },
             "feasts/dem": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae",
-                    "pl": "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach"
+                    "pl": "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach w Rzymie"
                 }
             },
             "feasts/ico": {
@@ -5817,7 +5817,7 @@
                 }
             },
             "feasts/vis": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Visitatio Beatae Mariae Virginis",
                     "en": "The Visitation of the Blessed Virgin Mary",
@@ -5825,7 +5825,7 @@
                 }
             },
             "feasts/mmc": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "Blessed Maria Virgin of Mount Carmel",
                     "la": "Beatae Maria Virgo de Monte Carmelo",
@@ -5833,7 +5833,7 @@
                 }
             },
             "feasts/dbm": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicae Sanctae Mariae in Romae",
                     "pl": "Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie"
