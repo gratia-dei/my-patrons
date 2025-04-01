@@ -1,12 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Beate Maria Virgo Perdolentis"
-    ],
-    "pl": [
-      "Matka Boska Bolesna"
-    ]
-  },
+    "names": {
+        "la": [
+            "Beate Maria Virgo Perdolentis",
+            "Septem Dolores beatissimae Vírginis Mariae"
+        ],
+        "pl": [
+            "Matka Boska Bolesna",
+            "Siedem Boleści Najświętszej Maryi Panny"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

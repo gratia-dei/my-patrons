@@ -89,13 +89,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -9,
         "title": {
-          "la": "..."
+          "la": "Feria quinta post Dominicam Passionis"
         },
         "description": {
-          "la": "..."
+          "la": "Festum [1|Septem Dolorum beatissimae Virginis Mariae]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 
@@ -174,13 +174,13 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 36,
         "title": {
-          "la": "..."
+          "la": "Dominica quinta post Pascha"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Romae Litaniae minores ad sanctam Mariam Majorem]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 

@@ -247,16 +247,16 @@
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": 69,
         "title": {
-            "la": "..."
+            "la": "Sabbato post sollemnitatem sacratissimi Cordis Iesu"
         },
         "description": {
-            "la": "..."
+            "la": "Memoria [1|Immaculati Cordis beatae Mariae Virginis], ..."
         },
         "additional-info": {
-            "la": "..."
+            "la": ""
         },
         "annotation": {
-            "la": "..."
+            "la": ""
         }
     },
 

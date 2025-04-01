@@ -5795,11 +5795,36 @@
                     "pl": "Zwiastowanie Błogosławionej Maryi Dziewicy Bożej Rodzicielki"
                 }
             },
+            "feasts/rmm": {
+                "active": true,
+                "names": {
+                    "la": "Romae Litaniae minores ad sanctam Mariam Majorem",
+                    "pl": "Rzymska mała procesja błagalna do świętej Maryi Większej"
+                }
+            },
+            "feasts/mrp": {
+                "active": false,
+                "names": {
+                    "en": "The Most Holy Virgin Mary, Queen of Poland",
+                    "pl": "Najświętsza Maryja Panna Królowa Polski"
+                }
+            },
             "feasts/fat": {
                 "active": false,
                 "names": {
                     "la": "Beatae Maria Virgo de Fatima",
                     "pl": "Błogosławiona Maryja Dziewica Fatimska"
+                }
+            },
+            "feasts/dem": {
+                "active": false,
+                "names": []
+            },
+            "feasts/ico": {
+                "active": true,
+                "names": {
+                    "la": "Immaculatum Cor beate Mariae Virginis",
+                    "pl": "Niepokalane Serce Najświętszej Maryi Panny"
                 }
             },
             "feasts/vis": {
@@ -5840,6 +5865,13 @@
                     "pl": "Wniebowzięcie Najświętszej Maryi Panny"
                 }
             },
+            "feasts/amo": {
+                "active": false,
+                "names": {
+                    "la": "Octava Assumptionis Beatae Mariae Virginis",
+                    "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
+                }
+            },
             "feasts/reg": {
                 "active": false,
                 "names": {
@@ -5848,26 +5880,9 @@
                     "pl": "Błogosławiona Maria Dziewica Królowa"
                 }
             },
-            "feasts/amo": {
+            "feasts/nma": {
                 "active": false,
-                "names": {
-                    "la": "Octava Assumptionis Beatae Mariae Virginis",
-                    "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
-                }
-            },
-            "feasts/rmm": {
-                "active": false,
-                "names": {
-                    "la": "Romae Litaniae minores ad sanctam Mariam Majorem",
-                    "pl": "Rzymska mała procesja błagalna do świętej Maryi Większej"
-                }
-            },
-            "feasts/ico": {
-                "active": false,
-                "names": {
-                    "la": "Immaculatum Cor beate Mariae Virginis",
-                    "pl": "Niepokalane Serce Najświętszej Maryi Panny"
-                }
+                "names": []
             },
             "feasts/snm": {
                 "active": false,
@@ -5876,19 +5891,20 @@
                     "pl": "Najświętsze Imię Błogosławionej Maryi Dziewicy"
                 }
             },
-            "feasts/7dm": {
+            "feasts/nmo": {
                 "active": false,
-                "names": {
-                    "la": "Septem Dolores beatissimae Vírginis Mariae",
-                    "pl": "Siedem Boleści Najświętszej Maryi Panny"
-                }
+                "names": []
             },
             "feasts/per": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beate Maria Virgo Perdolentis",
                     "pl": "Matka Boska Bolesna"
                 }
+            },
+            "feasts/mnm": {
+                "active": false,
+                "names": []
             },
             "feasts/ros": {
                 "active": false,
@@ -5913,13 +5929,6 @@
                     "pl": "Ofiarowanie Błogosławionej Maryi Dziewicy"
                 }
             },
-            "feasts/mrp": {
-                "active": false,
-                "names": {
-                    "en": "The Most Holy Virgin Mary, Queen of Poland",
-                    "pl": "Najświętsza Maryja Panna Królowa Polski"
-                }
-            },
             "feasts/civ": {
                 "active": false,
                 "names": {
@@ -5933,6 +5942,14 @@
                     "la": "Conceptio Immaculata beatae Mariae Virginis",
                     "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
                 }
+            },
+            "feasts/dst": {
+                "active": false,
+                "names": []
+            },
+            "feasts/gua": {
+                "active": false,
+                "names": []
             },
             "feasts/cio": {
                 "active": false,

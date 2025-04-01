@@ -28,6 +28,20 @@
         }
     },
 
+    "7-ab-1960-07-26": {
+        "base": "getResurrectionFeastDateValidSince1584OrEarlier",
+        "move": -9,
+        "title": {
+          "la": "Feria quinta post Dominicam primam Passionis"
+        },
+        "description": {
+          "la": "Commemoratio [1|Septem Dolorum beatissimae Virginis Mariae]."
+        },
+        "additional-info": {
+          "la": ""
+        }
+    },
+
     "8-ab-1960-07-26": {
         "base": "getResurrectionFeastDateValidSince1584OrEarlier",
         "move": -7,

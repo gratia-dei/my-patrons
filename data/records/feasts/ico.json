@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Immaculatum Cor beate Mariae Virginis"
-    ],
-    "pl": [
-      "Niepokalane Serce Najświętszej Maryi Panny"
-    ]
-  },
+    "names": {
+        "la": [
+            "Immaculatum Cor beate Mariae Virginis"
+        ],
+        "pl": [
+            "Niepokalane Serce Najświętszej Maryi Panny"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
