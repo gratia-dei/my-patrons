@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Beata Maria Virgo de Lourdes"
-    ],
-    "pl": [
-      "Matka Boża z Lourdes"
-    ]
-  },
+    "names": {
+        "la": [
+            "Beata Maria Virgo de Lourdes"
+        ],
+        "pl": [
+            "Matka Boża z Lourdes"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

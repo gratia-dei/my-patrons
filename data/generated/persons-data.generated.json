@@ -40,6 +40,13 @@
                     "pl": "Narodzenie Pańskie"
                 }
             },
+            "feasts/nao": {
+                "active": true,
+                "names": {
+                    "la": "Octava Nativitatis Domini",
+                    "pl": "Oktawa Narodzenia Pańskiego"
+                }
+            },
             "feasts/sfa": {
                 "active": true,
                 "names": {
@@ -52,13 +59,6 @@
                 "names": {
                     "la": "Circumcisio Domini",
                     "pl": "Obrzezanie Pańskie"
-                }
-            },
-            "feasts/nao": {
-                "active": true,
-                "names": {
-                    "la": "Octava Nativitatis Domini",
-                    "pl": "Oktawa Narodzenia Pańskiego"
                 }
             },
             "feasts/sni": {
@@ -82,18 +82,18 @@
                     "pl": "Objawienie Pańskie"
                 }
             },
-            "feasts/rel": {
-                "active": true,
-                "names": {
-                    "la": "Relatio Pueri Iesu de Aegypto",
-                    "pl": "Powrót Dzieciątka Jezus z Egiptu"
-                }
-            },
             "feasts/epo": {
                 "active": true,
                 "names": {
                     "la": "Octava Epiphaniae Domini",
                     "pl": "Oktawa Objawienia Pańskiego"
+                }
+            },
+            "feasts/rel": {
+                "active": true,
+                "names": {
+                    "la": "Relatio Pueri Iesu de Aegypto",
+                    "pl": "Powrót Dzieciątka Jezus z Egiptu"
                 }
             },
             "feasts/bad": {
@@ -355,17 +355,17 @@
             "-"
         ],
         "feasts": {
-            "feasts/mis": {
-                "active": true,
-                "names": {
-                    "pl": "Miłosierdzie Boże"
-                }
-            },
             "feasts/tri": {
                 "active": true,
                 "names": {
                     "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
                     "pl": "Uroczystość Trójcy Przenajświętszej"
+                }
+            },
+            "feasts/mis": {
+                "active": true,
+                "names": {
+                    "pl": "Miłosierdzie Boże"
                 }
             }
         }
@@ -5746,7 +5746,7 @@
         "feasts": []
     },
     "patrons/maria/naz": {
-        "active": false,
+        "active": true,
         "names": {
             "arc": "ܡܪܝܡ",
             "en": "Mary, mother of Jesus",
@@ -5757,15 +5757,8 @@
             ">30"
         ],
         "feasts": {
-            "feasts/sfa": {
-                "active": true,
-                "names": {
-                    "la": "Sancta Familia",
-                    "pl": "Święta Rodzina"
-                }
-            },
             "feasts/gen": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "Maria, Holy Mother of God",
                     "la": "Maria, Sancta Dei Genetrix",
@@ -5773,7 +5766,7 @@
                 }
             },
             "feasts/pur": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Purificatio Beatae Mariae Virginis",
                     "en": "The Purification of the Blessed Virgin Mary",
@@ -5781,14 +5774,14 @@
                 }
             },
             "feasts/lou": {
-                "active": false,
+                "active": true,
                 "names": {
-                    "la": "Beatae Maria Virgo de Lourdes",
+                    "la": "Beata Maria Virgo de Lourdes",
                     "pl": "Matka Boża z Lourdes"
                 }
             },
             "feasts/anm": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Annuntatio beatissimae Virginis Genitricis Dei Mariae",
                     "en": "The Annunciation to the Blessed Virgin Mary",
@@ -5802,23 +5795,19 @@
                     "pl": "Rzymska mała procesja błagalna do świętej Maryi Większej"
                 }
             },
-            "feasts/mrp": {
-                "active": false,
-                "names": {
-                    "en": "The Most Holy Virgin Mary, Queen of Poland",
-                    "pl": "Najświętsza Maryja Panna Królowa Polski"
-                }
-            },
             "feasts/fat": {
                 "active": false,
                 "names": {
-                    "la": "Beatae Maria Virgo de Fatima",
+                    "la": "Beata Maria Virgo de Fatima",
                     "pl": "Błogosławiona Maryja Dziewica Fatimska"
                 }
             },
             "feasts/dem": {
                 "active": false,
-                "names": []
+                "names": {
+                    "la": "Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae",
+                    "pl": "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach"
+                }
             },
             "feasts/ico": {
                 "active": true,
@@ -5882,7 +5871,17 @@
             },
             "feasts/nma": {
                 "active": false,
-                "names": []
+                "names": {
+                    "la": "Nativitas Beatae Mariae Virginis",
+                    "pl": "Narodziny Błogosławionej Maryi Dziewicy"
+                }
+            },
+            "feasts/nmo": {
+                "active": false,
+                "names": {
+                    "la": "Octava Nativitatis Beatae Mariae Virginis",
+                    "pl": "Oktawa Narodzin Błogosławionej Maryi Dziewicy"
+                }
             },
             "feasts/snm": {
                 "active": false,
@@ -5890,10 +5889,6 @@
                     "la": "Sanctissimum Nomen beate Virginis Mariae",
                     "pl": "Najświętsze Imię Błogosławionej Maryi Dziewicy"
                 }
-            },
-            "feasts/nmo": {
-                "active": false,
-                "names": []
             },
             "feasts/per": {
                 "active": true,
@@ -5904,7 +5899,10 @@
             },
             "feasts/mnm": {
                 "active": false,
-                "names": []
+                "names": {
+                    "la": "Beata Maria Virgo de Mercede Nuncupatae",
+                    "pl": "Błogosławiona Maryja Dziewica od Wykupu Niewolników"
+                }
             },
             "feasts/ros": {
                 "active": false,
@@ -5943,19 +5941,39 @@
                     "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
                 }
             },
-            "feasts/dst": {
-                "active": false,
-                "names": []
-            },
-            "feasts/gua": {
-                "active": false,
-                "names": []
-            },
             "feasts/cio": {
                 "active": false,
                 "names": {
                     "la": "Octava Conceptionis Immaculatae beatae Mariae Virginis",
                     "pl": "Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
+                }
+            },
+            "feasts/tsd": {
+                "active": false,
+                "names": {
+                    "la": "Translatio Sacrae Domus Genetricis Dei Mariae",
+                    "pl": "Przeniesienie Świętego Domu Maryi Bożej Rodzicielki"
+                }
+            },
+            "feasts/gua": {
+                "active": false,
+                "names": {
+                    "la": "Beata Maria Virgo de Guadalupe",
+                    "pl": "Błogosławiona Maryja Dziewica z Guadalupe"
+                }
+            },
+            "feasts/sfa": {
+                "active": true,
+                "names": {
+                    "la": "Sancta Familia",
+                    "pl": "Święta Rodzina"
+                }
+            },
+            "feasts/mrp": {
+                "active": false,
+                "names": {
+                    "en": "The Most Holy Virgin Mary, Queen of Poland",
+                    "pl": "Najświętsza Maryja Panna Królowa Polski"
                 }
             }
         }

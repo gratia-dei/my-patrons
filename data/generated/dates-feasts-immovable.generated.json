@@ -21,6 +21,16 @@
                 "mr-1956": "1 I: #1",
                 "mr-1956-variations": "1 I: #1-ab-1960-07-26"
             }
+        },
+        "records/patrons/maria/naz#gen": {
+            "name": {
+                "en": "Mary, mother of Jesus (Maria, Holy Mother of God)",
+                "la": "Maria Virgo (Maria, Sancta Dei Genetrix)",
+                "pl": "Maria z Nazaretu (Najświętsza Maryja Panna Święta Boża Rodzicielka)"
+            },
+            "sources": {
+                "mr-2004": "1 I: #1"
+            }
         }
     },
     "01-03": {
@@ -93,6 +103,17 @@
         }
     },
     "02-02": {
+        "records/patrons/maria/naz#pur": {
+            "name": {
+                "la": "Maria Virgo (Purificatio Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Purification of the Blessed Virgin Mary)",
+                "pl": "Maria z Nazaretu (Oczyszczenie Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "2 II: #1",
+                "mr-1956": "2 II: #1"
+            }
+        },
         "records/god/fil#prd": {
             "name": {
                 "la": "Iesus Christus (Praesentatio Domini)",
@@ -101,6 +122,18 @@
             },
             "sources": {
                 "mr-2004": "2 II: #1"
+            }
+        }
+    },
+    "02-11": {
+        "records/patrons/maria/naz#lou": {
+            "name": {
+                "la": "Maria Virgo (Beata Maria Virgo de Lourdes)",
+                "pl": "Maria z Nazaretu (Matka Boża z Lourdes)"
+            },
+            "sources": {
+                "mr-1956": "11 II: #1",
+                "mr-2004": "11 II: #1"
             }
         }
     },
@@ -118,6 +151,17 @@
         }
     },
     "03-25": {
+        "records/patrons/maria/naz#anm": {
+            "name": {
+                "la": "Maria Virgo (Annuntatio beatissimae Virginis Genitricis Dei Mariae)",
+                "en": "Mary, mother of Jesus (The Annunciation to the Blessed Virgin Mary)",
+                "pl": "Maria z Nazaretu (Zwiastowanie Błogosławionej Maryi Dziewicy Bożej Rodzicielki)"
+            },
+            "sources": {
+                "mr-1584": "25 III: #1",
+                "mr-1956": "25 III: #1"
+            }
+        },
         "records/god/fil#and": {
             "name": {
                 "la": "Iesus Christus (Annuntatio Domini)",
@@ -178,6 +222,18 @@
             }
         }
     },
+    "08-22": {
+        "records/patrons/maria/naz#ico": {
+            "name": {
+                "la": "Maria Virgo (Immaculatum Cor beate Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Niepokalane Serce Najświętszej Maryi Panny)"
+            },
+            "sources": {
+                "mr-1956": "22 VIII: #2",
+                "mr-1956-variations": "22 VIII: #2-ab-1960-07-26"
+            }
+        }
+    },
     "09-14": {
         "records/god/fil#exa": {
             "name": {
@@ -189,6 +245,19 @@
                 "mr-1584": "14 IX: #1",
                 "mr-1956": "14 IX: #1",
                 "mr-2004": "14 IX: #1"
+            }
+        }
+    },
+    "09-15": {
+        "records/patrons/maria/naz#per": {
+            "name": {
+                "la": "Maria Virgo (Beate Maria Virgo Perdolentis)",
+                "pl": "Maria z Nazaretu (Matka Boska Bolesna)"
+            },
+            "sources": {
+                "mr-1956": "15 IX: #2",
+                "mr-1956-variations": "15 IX: #2-ab-1960-07-26",
+                "mr-2004": "15 IX: #1"
             }
         }
     },

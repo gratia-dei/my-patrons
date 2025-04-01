@@ -37,26 +37,6 @@
     "categories": ["deus"],
 
     "feasts": {
-        "mis": {
-            "data-links": {
-                "mr-1584": [],
-                "mr-1584-index": [],
-                "mr-1584-movable": [],
-
-                "mr-1956": [],
-                "mr-1956-index-sanctorum-1": [],
-                "mr-1956-index-sanctorum-2": [],
-                "mr-1956-index-sanctorum-3": [],
-                "mr-1956-index-festorum": [],
-                "mr-1956-index-locorum": [],
-                "mr-1956-index-locorum-sine": [],
-                "mr-1956-movable": [],
-
-                "mr-2004": [],
-                "mr-2004-index": [],
-                "mr-2004-movable": []
-            }
-        },
         "tri": {
             "data-links": {
                 "mr-1584": [],
@@ -75,6 +55,26 @@
                 "mr-2004": [],
                 "mr-2004-index": [],
                 "mr-2004-movable": ["1:#11"]
+            }
+        },
+        "mis": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-index": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-index-sanctorum-1": [],
+                "mr-1956-index-sanctorum-2": [],
+                "mr-1956-index-sanctorum-3": [],
+                "mr-1956-index-festorum": [],
+                "mr-1956-index-locorum": [],
+                "mr-1956-index-locorum-sine": [],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-index": [],
+                "mr-2004-movable": []
             }
         }
     },

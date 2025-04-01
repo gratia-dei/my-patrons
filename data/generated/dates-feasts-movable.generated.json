@@ -43,6 +43,15 @@
                 "mr-1956-movable": "#3"
             }
         },
+        "records/patrons/maria/naz#sfa": {
+            "name": {
+                "la": "Maria Virgo (Sancta Familia)",
+                "pl": "Maria z Nazaretu (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable": "#3"
+            }
+        },
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
@@ -63,6 +72,15 @@
                 "mr-1956-movable-variations": "#3-ab-1960-07-26"
             }
         },
+        "records/patrons/maria/naz#sfa": {
+            "name": {
+                "la": "Maria Virgo (Sancta Familia)",
+                "pl": "Maria z Nazaretu (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#3-ab-1960-07-26"
+            }
+        },
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
@@ -78,6 +96,15 @@
             "name": {
                 "la": "Iesus Christus (Sancta Familia)",
                 "pl": "Jezus Chrystus (Święta Rodzina)"
+            },
+            "sources": {
+                "mr-2004-movable": "#2"
+            }
+        },
+        "records/patrons/maria/naz#sfa": {
+            "name": {
+                "la": "Maria Virgo (Sancta Familia)",
+                "pl": "Maria z Nazaretu (Święta Rodzina)"
             },
             "sources": {
                 "mr-2004-movable": "#2"
@@ -231,6 +258,18 @@
             }
         }
     },
+    "getResurrectionFeastDateValidSince1584OrEarlier|-9": {
+        "records/patrons/maria/naz#per": {
+            "name": {
+                "la": "Maria Virgo (Beate Maria Virgo Perdolentis)",
+                "pl": "Maria z Nazaretu (Matka Boska Bolesna)"
+            },
+            "sources": {
+                "mr-1956-movable": "#7",
+                "mr-1956-movable-variations": "#7-ab-1960-07-26"
+            }
+        }
+    },
     "getResurrectionFeastDateValidSince1584OrEarlier|0": {
         "records/god/fil#res": {
             "name": {
@@ -241,6 +280,17 @@
                 "mr-1584-movable": "#5",
                 "mr-1956-movable": "#10",
                 "mr-2004-movable": "#8"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|36": {
+        "records/patrons/maria/naz#rmm": {
+            "name": {
+                "la": "Maria Virgo (Romae Litaniae minores ad sanctam Mariam Majorem)",
+                "pl": "Maria z Nazaretu (Rzymska mała procesja błagalna do świętej Maryi Większej)"
+            },
+            "sources": {
+                "mr-1956-movable": "#13"
             }
         }
     },
@@ -391,6 +441,17 @@
             "sources": {
                 "mr-1956-movable": "#23",
                 "mr-2004-movable": "#13"
+            }
+        }
+    },
+    "getResurrectionFeastDateValidSince1584OrEarlier|69": {
+        "records/patrons/maria/naz#ico": {
+            "name": {
+                "la": "Maria Virgo (Immaculatum Cor beate Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Niepokalane Serce Najświętszej Maryi Panny)"
+            },
+            "sources": {
+                "mr-2004-movable": "#14"
             }
         }
     },

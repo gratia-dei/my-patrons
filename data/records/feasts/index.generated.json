@@ -95,6 +95,10 @@
         "la": "Dies Cinerum",
         "pl": "Środa Popielcowa"
     },
+    "dem": {
+        "la": "Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae",
+        "pl": "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach"
+    },
     "dia": {
         "la": "Dominica in Albis",
         "pl": "Niedziela Biała"
@@ -133,13 +137,17 @@
         "pl": "Wielki Piątek"
     },
     "fat": {
-        "la": "Beatae Maria Virgo de Fatima",
+        "la": "Beata Maria Virgo de Fatima",
         "pl": "Błogosławiona Maryja Dziewica Fatimska"
     },
     "gen": {
         "en": "Maria, Holy Mother of God",
         "la": "Maria, Sancta Dei Genetrix",
         "pl": "Najświętsza Maryja Panna Święta Boża Rodzicielka"
+    },
+    "gua": {
+        "la": "Beata Maria Virgo de Guadalupe",
+        "pl": "Błogosławiona Maryja Dziewica z Guadalupe"
     },
     "ico": {
         "la": "Immaculatum Cor beate Mariae Virginis",
@@ -154,7 +162,7 @@
         "pl": "Odnalezienie najświętszego Krzyża Pańskiego"
     },
     "lou": {
-        "la": "Beatae Maria Virgo de Lourdes",
+        "la": "Beata Maria Virgo de Lourdes",
         "pl": "Matka Boża z Lourdes"
     },
     "mat": {
@@ -169,6 +177,10 @@
         "en": "Blessed Maria Virgin of Mount Carmel",
         "la": "Beatae Maria Virgo de Monte Carmelo",
         "pl": "Błogosławiona Maryja Dziewica z Góry Karmel"
+    },
+    "mnm": {
+        "la": "Beata Maria Virgo de Mercede Nuncupatae",
+        "pl": "Błogosławiona Maryja Dziewica od Wykupu Niewolników"
     },
     "mrp": {
         "en": "The Most Holy Virgin Mary, Queen of Poland",
@@ -189,6 +201,14 @@
     "nib": {
         "la": "Nativitas sancti Ioannis Baptistae",
         "pl": "Narodziny świętego Jana Chrzciciela"
+    },
+    "nma": {
+        "la": "Nativitas Beatae Mariae Virginis",
+        "pl": "Narodziny Błogosławionej Maryi Dziewicy"
+    },
+    "nmo": {
+        "la": "Octava Nativitatis Beatae Mariae Virginis",
+        "pl": "Oktawa Narodzin Błogosławionej Maryi Dziewicy"
     },
     "oev": {
         "la": "Ordinatio sancti Eusebii",
@@ -341,6 +361,10 @@
     "tri": {
         "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
         "pl": "Uroczystość Trójcy Przenajświętszej"
+    },
+    "tsd": {
+        "la": "Translatio Sacrae Domus Genetricis Dei Mariae",
+        "pl": "Przeniesienie Świętego Domu Maryi Bożej Rodzicielki"
     },
     "vis": {
         "la": "Visitatio Beatae Mariae Virginis",

@@ -483,7 +483,7 @@
     },
 
     "lang-challenges-patrons-and-feasts-migration-info": {
-        "pl": "Trwają prace nad ostateczną migracją Patronów i swiąt do edytora wyzwań! Do tego czasu nie będą oni dostępni na listach wyboru (będą nieaktywni lub niewidoczni). Jeżeli potrzebujesz w swoich wyzwaniach któregoś Patrona i chcesz przyspieszyć jego migrację by móc go wybrać w edytorze, <a target=\"_blank\" href=\"/contact\">napisz do nas</a>! <strong>Liczba zmigrowanych Osób Boskich:</strong> wszystkie, <strong>Patronów:</strong> #patrons#, <strong>świąt:</strong> #feasts#."
+        "pl": "Trwają prace nad ostateczną migracją Patronów i swiąt do edytora wyzwań! Do tego czasu nie będą oni dostępni na listach wyboru (będą nieaktywni lub niewidoczni). Jeżeli potrzebujesz w swoich wyzwaniach któregoś Patrona i chcesz przyspieszyć jego migrację, by móc go wybrać w edytorze, <a target=\"_blank\" href=\"/contact\">napisz do nas</a>! <strong>Aktualna liczba zmigrowanych Patronów:</strong> #patrons#, <strong>świąt:</strong> #feasts#."
     },
 
     "lang-challenges-load-file": {
