@@ -322,6 +322,38 @@ requirejs(
     reloadFileTab();
 
     infoNotification(uLanguage.getTranslation('lang-challenges-form-info', true));
+
+    const [activePatrons, activeFeasts] = getActivePatronsAndFeastsCounts();
+    let migrationInfo = uLanguage.getTranslation('lang-challenges-patrons-and-feasts-migration-info', true)
+      .replace(/#patrons#/g, activePatrons)
+      .replace(/#feasts#/g, activeFeasts)
+    ;
+    infoNotification(migrationInfo);
+  }
+
+  function getActivePatronsAndFeastsCounts() {
+    let activePatrons = {};
+    let activeFeasts = {};
+    const personPrefixNeeded = uConst.get("PERSON_PREFIX_NEEDED") + '/';
+
+    for (const dataId of Object.keys(personsData)) {
+      const data = personsData[dataId];
+
+      if (data.active === true) {
+        if (dataId.substring(0, personPrefixNeeded.length) === personPrefixNeeded) {
+          activePatrons[dataId] = dataId;
+        }
+      }
+
+      for (const feastId of Object.keys(data.feasts ?? {})) {
+        const feastData = data.feasts[feastId];
+        if (feastData.active === true) {
+          activeFeasts[feastId] = feastId;
+        }
+      }
+    }
+
+    return [Object.keys(activePatrons).length, Object.keys(activeFeasts).length];
   }
 
   function getDateFormat(dateString) {

@@ -10,8 +10,8 @@
         "la": [
             "Maria Virgo",
             "Maria Mater Iesu",
-            "Mater Dei",
-            "Dei Genetrix",
+            "Maria Mater Dei",
+            "Maria Dei Genetrix",
             "Madonna"
         ],
         "pl": [
@@ -47,22 +47,19 @@
 
     "feasts": {
         "sfa": {
-            "data-linksx": {
-                "mr-2004-movable": ["2:#2"],
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
                 "mr-1956-movable": ["2:#3"],
-                "mr-1956-variations-movable": ["2:#3-ab-1960-07-26"],
+                "mr-1956-variations-movable": [
+                    "2:#3-ab-1960-07-26"
 
+                ],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": ["2:#2"]
             }
         },
         "gen": {
