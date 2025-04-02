@@ -1,0 +1,27 @@
+{
+    "names": {
+        "he": "המטביל"
+    },
+    "translations": {
+        "he": [
+            "המטביל"
+        ],
+        "la": [
+            "Baptista"
+        ],
+        "en": [
+            "the Baptist"
+        ],
+        "pl": [
+            "Chrzciciel"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/bap": {
+            "he": "יוחנן המטביל",
+            "la": "Ioannes Baptista",
+            "en": "John the Baptist",
+            "pl": "Jan Chrzciciel"
+        }
+    }
+}

@@ -303,6 +303,15 @@
             "sources": {
                 "mr-1956-movable": "#14"
             }
+        },
+        "records/patrons/ioannes/bap#ril": {
+            "name": {
+                "la": "Ioannes Baptista (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "pl": "Jan Chrzciciel (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
+            },
+            "sources": {
+                "mr-1956-movable": "#14"
+            }
         }
     },
     "getResurrectionFeastDateValidSince1584OrEarlier|38": {

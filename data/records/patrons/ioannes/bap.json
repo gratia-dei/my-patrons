@@ -1,62 +1,156 @@
 {
-  "names": {
-    "he": [
-      "יוֹחָנָן"
+    "names": {
+        "he": [
+            "יוחנן המטביל"
+        ],
+        "la": [
+            "Ioannes Baptista",
+            "Praecursor Domini"
+        ],
+        "en": [
+            "John the Baptist",
+            "John the Forerunner",
+            "Forerunner of Jesus"
+        ],
+        "pl": [
+            "Jan Chrzciciel",
+            "Jan Baptysta",
+            "Poprzednik Pański",
+            "Przesłaniec Pański"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "he": "המטביל",
+            "la": "Baptista",
+            "en": "the Baptist",
+            "pl": "Chrzciciel"
+        },
+        {
+            "la": "Praecursor Domini",
+            "en": "Forerunner of Jesus",
+            "pl": "Poprzednik Pański"
+        }
     ],
-    "en": [
-      "John the Baptist",
-      "John the Forerunner",
-      "Forerunner of Jesus"
-    ],
-    "la": [
-      "Ioannes Baptista",
-      "Praecursor Domini"
-    ],
-    "pl": [
-      "Jan Chrzciciel",
-      "Jan Baptysta",
-      "Poprzednik Pański",
-      "Przesłaniec Pański"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Baptista",
-      "en": "the Baptist",
-      "pl": "Chrzciciel"
+    "active": true,
+
+    "born": null,
+    "died": ["~32"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "propheta"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "cib": {
+            "data-links": {
+                "mr-1584": ["1:Febr./24n#8", "1:Febr./25b#8"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Februarii/24n#9", "1:Februarii/25b#9"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "ril": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": ["2:#14"],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "niv": {
+            "data-links": {
+
+                "mr-1584": ["1:Iuni./23#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Junii/23#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "nib": {
+            "data-links": {
+                "mr-1584": ["1:Iuni./24#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Junii/24#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["1:iun./24#1"],
+                "mr-2004-movable": []
+            }
+        },
+        "nio": {
+            "data-links": {
+                "mr-1584": ["1:Iul./1#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Julii/1#1"],
+                "mr-1956-variations": [
+                    "1:Julii/1#1-ab-1960-07-26"
+
+                ],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "pib": {
+            "data-links": {
+                "mr-1584": ["1:Aug./29#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Augusti/29#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["1:aug./29#1"],
+                "mr-2004-movable": []
+            }
+        },
+        "dbl": {
+            "data-links": {
+                "mr-1584": ["2:Nov./9#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Novembris/9#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["2:nov./9#1"],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69208",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Chrzciciel"
     }
-  ],
-
-  "born": [">-6", "<-2"],
-  "died": ["~28", "~30", "~32"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "martyr", "propheta"],
-
-  "feasts": {
-    "ril": {
-      "data-linksx": {
-        "mr-1956-movable": ["2:#14"]
-      }
-    },
-    "dbl": {
-      "data-linksx": {
-        "mr-2004": ["2:nov/9#1"],
-        "mr-1956": ["2:nov/9#1"]
-      }
-    },
-    "nib": {
-      "data-linksx": {
-        "mr-2004": ["1:iun/24#1"],
-        "mr-1956": ["1:iun/24#1"]
-      }
-    },
-    "pib": {
-      "data-linksx": {
-        "mr-2004": ["1:aug/29#1"],
-        "mr-1956": ["1:aug/29#1"]
-      }
-    }
-  }
 }

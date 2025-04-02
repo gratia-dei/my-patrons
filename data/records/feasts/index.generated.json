@@ -46,6 +46,10 @@
         "la": "Sanctissimum Corpore et Sanguis Christi",
         "pl": "Najświętsze Ciało i Krew Chrystusa"
     },
+    "cib": {
+        "la": "Prima Inventio Capitis Ioannis Baptistae",
+        "pl": "Pierwsze Odnalezienie Głowy Jana Chrzciciela"
+    },
     "cim": {
         "la": "Conceptio Immaculata beatae Mariae Virginis",
         "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
@@ -201,6 +205,14 @@
     "nib": {
         "la": "Nativitas sancti Ioannis Baptistae",
         "pl": "Narodziny świętego Jana Chrzciciela"
+    },
+    "nio": {
+        "la": "Octava Nativitatis sancti Ioannis Baptistae",
+        "pl": "Oktawa Narodzin świętego Jana Chrzciciela"
+    },
+    "niv": {
+        "la": "Vigilia Nativitatis sancti Ioannis Baptistae",
+        "pl": "Wigilia Narodzin świętego Jana Chrzciciela"
     },
     "nma": {
         "la": "Nativitas Beatae Mariae Virginis",

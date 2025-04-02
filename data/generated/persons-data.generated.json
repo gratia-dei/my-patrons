@@ -15,7 +15,6 @@
             "pl": "Jezus Chrystus"
         },
         "died": [
-            "~30",
             "~33"
         ],
         "feasts": {
@@ -4143,19 +4142,24 @@
         "feasts": []
     },
     "patrons/ioannes/bap": {
-        "active": false,
+        "active": true,
         "names": {
-            "he": "יוֹחָנָן",
-            "en": "John the Baptist",
+            "he": "יוחנן המטביל",
             "la": "Ioannes Baptista",
+            "en": "John the Baptist",
             "pl": "Jan Chrzciciel"
         },
         "died": [
-            "~28",
-            "~30",
             "~32"
         ],
         "feasts": {
+            "feasts/cib": {
+                "active": true,
+                "names": {
+                    "la": "Prima Inventio Capitis Ioannis Baptistae",
+                    "pl": "Pierwsze Odnalezienie Głowy Jana Chrzciciela"
+                }
+            },
             "feasts/ril": {
                 "active": true,
                 "names": {
@@ -4163,25 +4167,39 @@
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
-            "feasts/dbl": {
+            "feasts/niv": {
                 "active": true,
                 "names": {
-                    "la": "Dedicatio Basilicae Lateranensis in Romae",
-                    "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
+                    "la": "Vigilia Nativitatis sancti Ioannis Baptistae",
+                    "pl": "Wigilia Narodzin świętego Jana Chrzciciela"
                 }
             },
             "feasts/nib": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Nativitas sancti Ioannis Baptistae",
                     "pl": "Narodziny świętego Jana Chrzciciela"
                 }
             },
+            "feasts/nio": {
+                "active": true,
+                "names": {
+                    "la": "Octava Nativitatis sancti Ioannis Baptistae",
+                    "pl": "Oktawa Narodzin świętego Jana Chrzciciela"
+                }
+            },
             "feasts/pib": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Passio sancti Ioannis Baptistae",
                     "pl": "Męczeństwo świętego Jana Chrzciciela"
+                }
+            },
+            "feasts/dbl": {
+                "active": true,
+                "names": {
+                    "la": "Dedicatio Basilicae Lateranensis in Romae",
+                    "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
                 }
             }
         }

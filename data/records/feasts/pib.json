@@ -1,13 +1,15 @@
 {
-  "names": {
-    "la": [
-      "Passio sancti Ioannis Baptistae",
-      "Decollatio sancti Ioannis Baptistae"
-    ],
-    "pl": [
-      "Męczeństwo świętego Jana Chrzciciela"
-    ]
-  },
+    "names": {
+        "la": [
+            "Passio sancti Ioannis Baptistae",
+            "Decollatio sancti Ioannis Baptistae"
+        ],
+        "pl": [
+            "Męczeństwo świętego Jana Chrzciciela"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

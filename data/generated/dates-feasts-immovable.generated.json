@@ -137,6 +137,30 @@
             }
         }
     },
+    "02b25": {
+        "records/patrons/ioannes/bap#cib": {
+            "name": {
+                "la": "Ioannes Baptista (Prima Inventio Capitis Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Pierwsze Odnalezienie Głowy Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "25 II: #8",
+                "mr-1956": "25 II: #9"
+            }
+        }
+    },
+    "02n24": {
+        "records/patrons/ioannes/bap#cib": {
+            "name": {
+                "la": "Ioannes Baptista (Prima Inventio Capitis Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Pierwsze Odnalezienie Głowy Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "24 II: #8",
+                "mr-1956": "24 II: #9"
+            }
+        }
+    },
     "03-19": {
         "records/patrons/ioseph/naz#sin": {
             "name": {
@@ -241,7 +265,42 @@
             }
         }
     },
+    "06-23": {
+        "records/patrons/ioannes/bap#niv": {
+            "name": {
+                "la": "Ioannes Baptista (Vigilia Nativitatis sancti Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Wigilia Narodzin świętego Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "23 VI: #1",
+                "mr-1956": "23 VI: #1"
+            }
+        }
+    },
+    "06-24": {
+        "records/patrons/ioannes/bap#nib": {
+            "name": {
+                "la": "Ioannes Baptista (Nativitas sancti Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Narodziny świętego Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "24 VI: #1",
+                "mr-1956": "24 VI: #1",
+                "mr-2004": "24 VI: #1"
+            }
+        }
+    },
     "07-01": {
+        "records/patrons/ioannes/bap#nio": {
+            "name": {
+                "la": "Ioannes Baptista (Octava Nativitatis sancti Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Oktawa Narodzin świętego Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "1 VII: #1",
+                "mr-1956": "1 VII: #1"
+            }
+        },
         "records/god/fil#san": {
             "name": {
                 "la": "Iesus Christus (Pretiosissimus Sanguis Christi)",
@@ -374,6 +433,19 @@
             }
         }
     },
+    "08-29": {
+        "records/patrons/ioannes/bap#pib": {
+            "name": {
+                "la": "Ioannes Baptista (Passio sancti Ioannis Baptistae)",
+                "pl": "Jan Chrzciciel (Męczeństwo świętego Jana Chrzciciela)"
+            },
+            "sources": {
+                "mr-1584": "29 VIII: #1",
+                "mr-1956": "29 VIII: #1",
+                "mr-2004": "29 VIII: #1"
+            }
+        }
+    },
     "09-08": {
         "records/patrons/maria/naz#nma": {
             "name": {
@@ -489,6 +561,17 @@
             "name": {
                 "la": "Iesus Christus (Dedicatio Basilicae Lateranensis in Romae)",
                 "pl": "Jezus Chrystus (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "9 XI: #1",
+                "mr-1956": "9 XI: #1",
+                "mr-2004": "9 XI: #1"
+            }
+        },
+        "records/patrons/ioannes/bap#dbl": {
+            "name": {
+                "la": "Ioannes Baptista (Dedicatio Basilicae Lateranensis in Romae)",
+                "pl": "Jan Chrzciciel (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
             },
             "sources": {
                 "mr-1584": "9 XI: #1",

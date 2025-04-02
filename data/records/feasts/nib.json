@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Nativitas sancti Ioannis Baptistae"
-    ],
-    "pl": [
-      "Narodziny świętego Jana Chrzciciela"
-    ]
-  },
+    "names": {
+        "la": [
+            "Nativitas sancti Ioannis Baptistae"
+        ],
+        "pl": [
+            "Narodziny świętego Jana Chrzciciela"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
