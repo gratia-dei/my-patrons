@@ -1,15 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Beatae Maria Virgo Regina"
-    ],
-    "en": [
-      "The Blessed Virgin Mary, Queen"
-    ],
-    "pl": [
-      "Błogosławiona Maria Dziewica Królowa"
-    ]
-  },
+    "names": {
+        "la": [
+            "Beatae Maria Virgo Regina"
+        ],
+        "en": [
+            "The Blessed Virgin Mary, Queen"
+        ],
+        "pl": [
+            "Błogosławiona Maria Dziewica Królowa"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -220,6 +220,16 @@
         }
     },
     "05-31": {
+        "records/patrons/maria/naz#reg": {
+            "name": {
+                "la": "Maria Virgo (Beatae Maria Virgo Regina)",
+                "en": "Mary, mother of Jesus (The Blessed Virgin Mary, Queen)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maria Dziewica Królowa)"
+            },
+            "sources": {
+                "mr-1956": "31 V: #1"
+            }
+        },
         "records/patrons/maria/naz#vis": {
             "name": {
                 "la": "Maria Virgo (Visitatio Beatae Mariae Virginis)",
@@ -295,7 +305,43 @@
             }
         }
     },
+    "08-14": {
+        "records/patrons/maria/naz#amv": {
+            "name": {
+                "la": "Maria Virgo (Vigilia Assumptionis Beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Wigilia Wniebowzięcia Najświętszej Maryi Panny)"
+            },
+            "sources": {
+                "mr-1584": "14 VIII: #1",
+                "mr-1956": "14 VIII: #1"
+            }
+        }
+    },
+    "08-15": {
+        "records/patrons/maria/naz#ass": {
+            "name": {
+                "en": "Mary, mother of Jesus (Assumption of Mary)",
+                "la": "Maria Virgo (Assumptio Beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Wniebowzięcie Najświętszej Maryi Panny)"
+            },
+            "sources": {
+                "mr-1584": "15 VIII: #1",
+                "mr-1956": "15 VIII: #1",
+                "mr-2004": "15 VIII: #1"
+            }
+        }
+    },
     "08-22": {
+        "records/patrons/maria/naz#amo": {
+            "name": {
+                "la": "Maria Virgo (Octava Assumptionis Beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Oktawa Wniebowzięcia Najświętszej Maryi Panny)"
+            },
+            "sources": {
+                "mr-1584": "22 VIII: #1",
+                "mr-1956": "22 VIII: #1"
+            }
+        },
         "records/patrons/maria/naz#ico": {
             "name": {
                 "la": "Maria Virgo (Immaculatum Cor beate Mariae Virginis)",
@@ -304,6 +350,29 @@
             "sources": {
                 "mr-1956": "22 VIII: #2",
                 "mr-1956-variations": "22 VIII: #2-ab-1960-07-26"
+            }
+        },
+        "records/patrons/maria/naz#reg": {
+            "name": {
+                "la": "Maria Virgo (Beatae Maria Virgo Regina)",
+                "en": "Mary, mother of Jesus (The Blessed Virgin Mary, Queen)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maria Dziewica Królowa)"
+            },
+            "sources": {
+                "mr-2004": "22 VIII: #1"
+            }
+        }
+    },
+    "09-08": {
+        "records/patrons/maria/naz#nma": {
+            "name": {
+                "la": "Maria Virgo (Nativitas Beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Narodziny Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "8 IX: #1",
+                "mr-1956": "8 IX: #1",
+                "mr-2004": "8 IX: #1"
             }
         }
     },
@@ -322,6 +391,16 @@
         }
     },
     "09-15": {
+        "records/patrons/maria/naz#nmo": {
+            "name": {
+                "la": "Maria Virgo (Octava Nativitatis Beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Oktawa Narodzin Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "15 IX: #1",
+                "mr-1956": "15 IX: #1"
+            }
+        },
         "records/patrons/maria/naz#per": {
             "name": {
                 "la": "Maria Virgo (Beate Maria Virgo Perdolentis)",

@@ -5840,14 +5840,14 @@
                 }
             },
             "feasts/amv": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia Assumptionis Beatae Mariae Virginis",
                     "pl": "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
                 }
             },
             "feasts/ass": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "Assumption of Mary",
                     "la": "Assumptio Beatae Mariae Virginis",
@@ -5855,14 +5855,14 @@
                 }
             },
             "feasts/amo": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Assumptionis Beatae Mariae Virginis",
                     "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
                 }
             },
             "feasts/reg": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beatae Maria Virgo Regina",
                     "en": "The Blessed Virgin Mary, Queen",
@@ -5870,14 +5870,14 @@
                 }
             },
             "feasts/nma": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Nativitas Beatae Mariae Virginis",
                     "pl": "Narodziny Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/nmo": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Nativitatis Beatae Mariae Virginis",
                     "pl": "Oktawa Narodzin Błogosławionej Maryi Dziewicy"

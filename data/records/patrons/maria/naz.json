@@ -181,100 +181,83 @@
             }
         },
         "amv": {
-            "data-linksx": {
-                "mr-1956": ["1:aug/14#1"],
+            "data-links": {
+                "mr-1584": ["1:Aug./14#1"],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Augusti/14#1"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "ass": {
-            "data-linksx": {
-                "mr-2004": ["1:aug/15#1"],
-                "mr-1956": ["1:aug/15#1"],
+            "data-links": {
+                "mr-1584": ["1:Aug./15#1"],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Augusti/15#1"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": ["1:aug./15#1"],
+                "mr-2004-movable": []
             }
         },
         "amo": {
-            "data-linksx": {
-                "mr-1956": ["1:aug/22#1"],
-                "mr-1956-variations": ["1:aug/22#1-ab-1960-07-26"],
+            "data-links": {
+                "mr-1584": ["1:Aug./22#1"],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Augusti/22#1"],
+                "mr-1956-variations": [
+                    "1:Augusti/22#1-ab-1960-07-26"
 
+                ],
+                "mr-1956-movable": [],
 
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "reg": {
-            "data-linksx": {
-                "mr-2004": ["1:aug/22#1"],
-                "mr-1956": ["1:mai/31#1"],
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Maji/31#1"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": ["1:aug./22#1"],
+                "mr-2004-movable": []
             }
         },
         "nma": {
-            "data-linksx": {
+            "data-links": {
+                "mr-1584": ["1:Sept./8#1"],
+                "mr-1584-movable": [],
 
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
+                "mr-1956": ["1:Septembris/8#1"],
+                "mr-1956-movable": [],
 
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": ["1:sept./8#1"],
+                "mr-2004-movable": []
             }
         },
         "nmo": {
-            "data-linksx": {
+            "data-links": {
+                "mr-1584": ["1:Sept./15#1"],
+                "mr-1584-movable": [],
 
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
+                "mr-1956": ["1:Septembris/15#1"],
+                "mr-1956-variations": [
+                    "1:Septembris/15#1-ab-1960-07-26"
 
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
+                ],
+                "mr-1956-movable": [],
 
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "snm": {

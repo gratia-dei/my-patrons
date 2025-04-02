@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Vigilia Assumptionis Beatae Mariae Virginis"
-    ],
-    "pl": [
-      "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia Assumptionis Beatae Mariae Virginis"
+        ],
+        "pl": [
+            "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
