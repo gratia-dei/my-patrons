@@ -521,6 +521,63 @@
             }
         }
     },
+    "12-07": {
+        "records/patrons/maria/naz#civ": {
+            "name": {
+                "la": "Maria Virgo (Vigilia Conceptionis Immaculatae beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1956": "7 XII: #1"
+            }
+        }
+    },
+    "12-08": {
+        "records/patrons/maria/naz#cim": {
+            "name": {
+                "la": "Maria Virgo (Conceptio Immaculata beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Niepokalane Poczęcie Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "8 XII: #1",
+                "mr-1956": "8 XII: #1",
+                "mr-2004": "8 XII: #1"
+            }
+        }
+    },
+    "12-10": {
+        "records/patrons/maria/naz#tsd": {
+            "name": {
+                "la": "Maria Virgo (Translatio Sacrae Domus Genetricis Dei Mariae)",
+                "pl": "Maria z Nazaretu (Przeniesienie Świętego Domu Maryi Bożej Rodzicielki)"
+            },
+            "sources": {
+                "mr-1956": "10 XII: #12"
+            }
+        }
+    },
+    "12-12": {
+        "records/patrons/maria/naz#gua": {
+            "name": {
+                "la": "Maria Virgo (Beata Maria Virgo de Guadalupe)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica z Guadalupe)"
+            },
+            "sources": {
+                "mr-2004": "12 XII: #1"
+            }
+        }
+    },
+    "12-15": {
+        "records/patrons/maria/naz#cio": {
+            "name": {
+                "la": "Maria Virgo (Octava Conceptionis Immaculatae beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1956": "15 XII: #1"
+            }
+        }
+    },
     "12-24": {
         "records/god/fil#nav": {
             "name": {

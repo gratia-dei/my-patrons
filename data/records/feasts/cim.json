@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Conceptio Immaculata beatae Mariae Virginis"
-    ],
-    "pl": [
-      "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Conceptio Immaculata beatae Mariae Virginis"
+        ],
+        "pl": [
+            "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

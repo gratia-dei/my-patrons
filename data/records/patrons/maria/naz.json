@@ -362,83 +362,65 @@
             }
         },
         "civ": {
-            "data-linksx": {
-                "mr-1956": ["1:dec/7#1"],
-                "mr-1956-variations": ["1:dec/7#1-ab-1960-07-26"],
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Decembris/7#1"],
+                "mr-1956-variations": ["1:Decembris/7#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "cim": {
-            "data-linksx": {
-                "mr-2004": ["1:dec/8#1"],
-                "mr-1956": ["1:dec/8#1"],
+            "data-links": {
+                "mr-1584": ["1:Dec./8#1"],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Decembris/8#1"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": ["1:dec./8#1"],
+                "mr-2004-movable": []
             }
         },
         "cio": {
-            "data-linksx": {
-                "mr-1956": ["1:dec/15#1"],
-                "mr-1956-variations": ["1:dec/15#1-ab-1960-07-26"],
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
+                "mr-1956": ["1:Decembris/15#1"],
+                "mr-1956-variations": ["1:Decembris/15#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
 
-
-
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
-
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "tsd": {
-            "data-linksx": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
+                "mr-1956": ["1:Decembris/10#12"],
+                "mr-1956-movable": [],
 
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "gua": {
-            "data-linksx": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
-                "mr-1584": ["..."],
-                "mr-1584-movable": ["..."],
+                "mr-1956": [],
+                "mr-1956-movable": [],
 
-                "mr-1956": ["..."],
-                "mr-1956-movable": ["..."],
-
-                "mr-2004": ["..."],
-                "mr-2004-movable": ["..."]
+                "mr-2004": ["1:dec./12#1"],
+                "mr-2004-movable": []
             }
         },
         "sfa": {

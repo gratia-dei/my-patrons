@@ -5935,35 +5935,35 @@
                 }
             },
             "feasts/civ": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia Conceptionis Immaculatae beatae Mariae Virginis",
                     "pl": "Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/cim": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Conceptio Immaculata beatae Mariae Virginis",
                     "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/cio": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava Conceptionis Immaculatae beatae Mariae Virginis",
                     "pl": "Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
                 }
             },
             "feasts/tsd": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Translatio Sacrae Domus Genetricis Dei Mariae",
                     "pl": "Przeniesienie Świętego Domu Maryi Bożej Rodzicielki"
                 }
             },
             "feasts/gua": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beata Maria Virgo de Guadalupe",
                     "pl": "Błogosławiona Maryja Dziewica z Guadalupe"
