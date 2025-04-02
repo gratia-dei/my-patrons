@@ -1,15 +1,17 @@
 {
-  "names": {
-    "en": [
-      "The Motherhood of the Blessed Virgin Mary"
-    ],
-    "la": [
-      "Maternitatem beatae Mariae Virginis"
-    ],
-    "pl": [
-      "Macierzyństwo błogosławionej Maryi Dziewicy"
-    ]
-  },
+    "names": {
+        "en": [
+            "The Motherhood of the Blessed Virgin Mary"
+        ],
+        "la": [
+            "Maternitatem beatae Mariae Virginis"
+        ],
+        "pl": [
+            "Macierzyństwo błogosławionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

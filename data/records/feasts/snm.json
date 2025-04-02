@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Sanctissimum Nomen beate Virginis Mariae"
-    ],
-    "pl": [
-      "Najświętsze Imię Błogosławionej Maryi Dziewicy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Sanctissimum Nomen beate Virginis Mariae"
+        ],
+        "pl": [
+            "Najświętsze Imię Błogosławionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

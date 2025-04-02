@@ -305,6 +305,17 @@
             }
         }
     },
+    "08-10": {
+        "records/patrons/maria/naz#mnm": {
+            "name": {
+                "la": "Maria Virgo (Beata Maria Virgo de Mercede Nuncupatae)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica od Wykupu Niewolników)"
+            },
+            "sources": {
+                "mr-1956": "10 VIII: #2"
+            }
+        }
+    },
     "08-14": {
         "records/patrons/maria/naz#amv": {
             "name": {
@@ -376,6 +387,18 @@
             }
         }
     },
+    "09-12": {
+        "records/patrons/maria/naz#snm": {
+            "name": {
+                "la": "Maria Virgo (Sanctissimum Nomen beate Virginis Mariae)",
+                "pl": "Maria z Nazaretu (Najświętsze Imię Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1956": "12 IX: #1",
+                "mr-2004": "12 IX: #1"
+            }
+        }
+    },
     "09-14": {
         "records/god/fil#exa": {
             "name": {
@@ -413,6 +436,54 @@
             }
         }
     },
+    "09-24": {
+        "records/patrons/maria/naz#mnm": {
+            "name": {
+                "la": "Maria Virgo (Beata Maria Virgo de Mercede Nuncupatae)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica od Wykupu Niewolników)"
+            },
+            "sources": {
+                "mr-1956": "24 IX: #1",
+                "mr-1956-variations": "24 IX: #1-ab-1960-07-26"
+            }
+        }
+    },
+    "10-07": {
+        "records/patrons/maria/naz#vic": {
+            "name": {
+                "la": "Maria Virgo (Sancta Maria de Victoria)",
+                "pl": "Maria z Nazaretu (Matka Boża Zwycięska)"
+            },
+            "sources": {
+                "mr-1584": "7 X: #8",
+                "mr-1956": "7 X: #1",
+                "mr-1956-variations": "7 X: #1-ab-1960-07-26"
+            }
+        },
+        "records/patrons/maria/naz#ros": {
+            "name": {
+                "la": "Maria Virgo (Beatae Maria Virgo de Rosario)",
+                "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica Różańcowa)"
+            },
+            "sources": {
+                "mr-1956": "7 X: #1",
+                "mr-1956-variations": "7 X: #1-ab-1960-07-26",
+                "mr-2004": "7 X: #1"
+            }
+        }
+    },
+    "10-11": {
+        "records/patrons/maria/naz#mat": {
+            "name": {
+                "en": "Mary, mother of Jesus (The Motherhood of the Blessed Virgin Mary)",
+                "la": "Maria Virgo (Maternitatem beatae Mariae Virginis)",
+                "pl": "Maria z Nazaretu (Macierzyństwo błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1956": "11 X: #1"
+            }
+        }
+    },
     "11-09": {
         "records/god/fil#dbl": {
             "name": {
@@ -433,6 +504,20 @@
             "sources": {
                 "mr-1584": "9 XI: #8",
                 "mr-1956": "9 XI: #8"
+            }
+        }
+    },
+    "11-21": {
+        "records/patrons/maria/naz#prm": {
+            "name": {
+                "la": "Maria Virgo (Praesentatio Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Presentation of the Blessed Virgin Mary)",
+                "pl": "Maria z Nazaretu (Ofiarowanie Błogosławionej Maryi Dziewicy)"
+            },
+            "sources": {
+                "mr-1584": "21 XI: #1",
+                "mr-1956": "21 XI: #1",
+                "mr-2004": "21 XI: #1"
             }
         }
     },

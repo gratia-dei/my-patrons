@@ -5884,7 +5884,7 @@
                 }
             },
             "feasts/snm": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Sanctissimum Nomen beate Virginis Mariae",
                     "pl": "Najświętsze Imię Błogosławionej Maryi Dziewicy"
@@ -5898,21 +5898,28 @@
                 }
             },
             "feasts/mnm": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beata Maria Virgo de Mercede Nuncupatae",
                     "pl": "Błogosławiona Maryja Dziewica od Wykupu Niewolników"
                 }
             },
+            "feasts/vic": {
+                "active": true,
+                "names": {
+                    "la": "Sancta Maria de Victoria",
+                    "pl": "Matka Boża Zwycięska"
+                }
+            },
             "feasts/ros": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Beatae Maria Virgo de Rosario",
                     "pl": "Błogosławiona Maryja Dziewica Różańcowa"
                 }
             },
             "feasts/mat": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "The Motherhood of the Blessed Virgin Mary",
                     "la": "Maternitatem beatae Mariae Virginis",
@@ -5920,7 +5927,7 @@
                 }
             },
             "feasts/prm": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Praesentatio Beatae Mariae Virginis",
                     "en": "The Presentation of the Blessed Virgin Mary",

@@ -1,14 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Beatae Maria Virgo de Rosario",
-      "Sancta Maria de Victoria"
-    ],
-    "pl": [
-      "Błogosławiona Maryja Dziewica Różańcowa",
-      "Matka Boża Zwycięska"
-    ]
-  },
+    "names": {
+        "la": [
+            "Beatae Maria Virgo de Rosario",
+            "Sacratissimi Rosario beatae Mariae Virginis"
+        ],
+        "pl": [
+            "Błogosławiona Maryja Dziewica Różańcowa",
+            "Najświętszy Różaniec Błogosławionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

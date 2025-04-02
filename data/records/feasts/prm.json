@@ -1,15 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Praesentatio Beatae Mariae Virginis"
-    ],
-    "en": [
-      "The Presentation of the Blessed Virgin Mary"
-    ],
-    "pl": [
-      "Ofiarowanie Błogosławionej Maryi Dziewicy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Praesentatio Beatae Mariae Virginis"
+        ],
+        "en": [
+            "The Presentation of the Blessed Virgin Mary"
+        ],
+        "pl": [
+            "Ofiarowanie Błogosławionej Maryi Dziewicy"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
