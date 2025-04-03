@@ -6853,21 +6853,21 @@
         ],
         "feasts": {
             "feasts/ppv": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/ppo": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/dba": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
                     "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
@@ -6989,28 +6989,28 @@
                 }
             },
             "feasts/ppv": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/ppo": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
             "feasts/pav": {
-                "active": false,
+                "active": true,
                 "names": {
-                    "la": "Petrus Apostolus ad Vincula",
-                    "pl": "Piotr w Okowach"
+                    "la": "Dedicatio sancti Petri Apostoli ad Vincula",
+                    "pl": "Poświęcenie świętego Piotra Apostoła w Okowach"
                 }
             },
             "feasts/dba": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
                     "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"

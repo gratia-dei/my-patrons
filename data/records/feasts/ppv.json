@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Vigilia sanctorum Apostolorum Patri et Pauli"
-    ],
-    "pl": [
-      "Wigilia świętych Apostołów Piotra i Pawła"
-    ]
-  },
+    "names": {
+        "la": [
+            "Vigilia sanctorum Apostolorum Patri et Pauli"
+        ],
+        "pl": [
+            "Wigilia świętych Apostołów Piotra i Pawła"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

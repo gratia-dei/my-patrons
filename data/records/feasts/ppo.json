@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava sanctorum Apostolorum Patri et Pauli"
-    ],
-    "pl": [
-      "Oktawa świętych Apostołów Piotra i Pawła"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava sanctorum Apostolorum Patri et Pauli"
+        ],
+        "pl": [
+            "Oktawa świętych Apostołów Piotra i Pawła"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae"
-    ],
-    "pl": [
-      "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae"
+        ],
+        "pl": [
+            "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

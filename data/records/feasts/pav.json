@@ -1,12 +1,16 @@
 {
-  "names": {
-    "la": [
-      "Petrus Apostolus ad Vincula"
-    ],
-    "pl": [
-      "Piotr w Okowach"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dedicatio sancti Petri Apostoli ad Vincula",
+            "Sanctus Petrus Apostolus ad Vincula"
+        ],
+        "pl": [
+            "Poświęcenie świętego Piotra Apostoła w Okowach",
+            "Święty Piotr Apostoł w Okowach"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

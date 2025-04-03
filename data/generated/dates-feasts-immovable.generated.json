@@ -358,6 +358,18 @@
             }
         }
     },
+    "06-28": {
+        "records/patrons/petrus/apo#ppv": {
+            "name": {
+                "la": "Petrus (Vigilia sanctorum Apostolorum Patri et Pauli)",
+                "pl": "Piotr Apostoł (Wigilia świętych Apostołów Piotra i Pawła)"
+            },
+            "sources": {
+                "mr-1584": "28 VI: #1",
+                "mr-1956": "28 VI: #1"
+            }
+        }
+    },
     "07-01": {
         "records/patrons/ioannes/bap#nio": {
             "name": {
@@ -392,6 +404,18 @@
             }
         }
     },
+    "07-06": {
+        "records/patrons/petrus/apo#ppo": {
+            "name": {
+                "la": "Petrus (Octava sanctorum Apostolorum Patri et Pauli)",
+                "pl": "Piotr Apostoł (Oktawa świętych Apostołów Piotra i Pawła)"
+            },
+            "sources": {
+                "mr-1584": "6 VII: #1",
+                "mr-1956": "6 VII: #1"
+            }
+        }
+    },
     "07-16": {
         "records/patrons/maria/naz#mmc": {
             "name": {
@@ -403,6 +427,19 @@
                 "mr-1956": "16 VII: #1",
                 "mr-1956-variations": "16 VII: #1-ab-1960-07-26",
                 "mr-2004": "16 VII: #1"
+            }
+        }
+    },
+    "08-01": {
+        "records/patrons/petrus/apo#pav": {
+            "name": {
+                "la": "Petrus (Dedicatio sancti Petri Apostoli ad Vincula)",
+                "pl": "Piotr Apostoł (Poświęcenie świętego Piotra Apostoła w Okowach)"
+            },
+            "sources": {
+                "mr-1584": "1 VIII: #1",
+                "mr-1956": "1 VIII: #1",
+                "mr-1956-variations": "1 VIII: #post-13-ab-1960-07-26"
             }
         }
     },
@@ -666,6 +703,19 @@
             "sources": {
                 "mr-1584": "9 XI: #8",
                 "mr-1956": "9 XI: #8"
+            }
+        }
+    },
+    "11-18": {
+        "records/patrons/petrus/apo#dba": {
+            "name": {
+                "la": "Petrus (Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae)",
+                "pl": "Piotr Apostoł (Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "18 XI: #1",
+                "mr-1956": "18 XI: #1",
+                "mr-2004": "18 XI: #1"
             }
         }
     },
