@@ -1,100 +1,202 @@
 {
-  "names": {
-    "la": [
-      "Petrus",
-      "Simon Petrus"
-    ],
-    "en": [
-      "Peter the Apostle",
-      "Peter",
-      "Simon Peter",
-      "Cephas"
-    ],
-    "pl": [
-      "Piotr Apostoł",
-      "Piotr",
-      "Szymon Piotr",
-      "Kefas"
-    ]
-  },
-
-  "died": ["~64"],
-
-  "also-in-martyrology": ["06-29"],
-
-  "forenames": ["petrus", "simon"],
-  "categories": ["vir", "apostolus", "martyr", "papa"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Pope-peter_pprubens.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pope-peter_pprubens.jpg",
-      "attribution": "Peter Paul Rubens, Public domain, via Wikimedia Commons",
-      "area-center-x": 1159,
-      "area-center-y": 1159,
-      "area-center-to-edge-distance": 1159
-    }
-  },
-
-  "data-links": {
-    "popes": ["1:#1"]
-  },
-
-  "feasts": {
-    "pcr": {
-      "data-linksx": {
-        "mr-2004": ["1:feb/22#1"],
-        "mr-1956": ["1:ian/18#1"],
-        "mr-1956-variations": [
-            "1:ian/18#1-ab-1960-07-26",
-            "1:feb/22#post-1-ab-1960-07-26"
+    "names": {
+        "la": [
+            "Petrus",
+            "Simon Petrus"
+        ],
+        "en": [
+            "Peter the Apostle",
+            "Peter",
+            "Simon Peter",
+            "Cephas"
+        ],
+        "pl": [
+            "Piotr Apostoł",
+            "Piotr",
+            "Szymon Piotr",
+            "Kefas"
         ]
-      }
     },
-    "pca": {
-      "data-linksx": {
-        "mr-1956": ["1:feb/22#1"],
-        "mr-1956-variations": ["1:feb/22#1-ab-1960-07-26"]
-      }
+    "forenames": ["petrus", "simon"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~64"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "apostolus", "martyr", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./29#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/29#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./29#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#1"]
     },
-    "r1p": {
-      "data-linksx": {
-        "mr-1956": ["1:apr/25#1"],
-        "mr-1956-movable": ["1:#11"],
-        "mr-1956-movable-variations": ["1:#11-ab-1960-07-26"]
-      }
+
+    "feasts": {
+        "pcr": {
+            "data-linksx": {
+                "mr-2004": ["1:feb/22#1"],
+                "mr-1956": ["1:ian/18#1"],
+                "mr-1956-variations": [
+                        "1:ian/18#1-ab-1960-07-26",
+                        "1:feb/22#post-1-ab-1960-07-26"
+                ],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        },
+        "pca": {
+            "data-linksx": {
+                "mr-1956": ["1:feb/22#1"],
+                "mr-1956-variations": ["1:feb/22#1-ab-1960-07-26"],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        },
+        "r1p": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Aprilis/25#1"],
+                "mr-1956-movable": ["1:#11"],
+                "mr-1956-variations-movable": [
+                    "1:#11-ab-1960-07-26"
+                ],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "r2p": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": ["2:#15"],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "ppv": {
+            "data-linksx": {
+                "mr-1956": ["1:iun/28#1"],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        },
+        "ppo": {
+            "data-linksx": {
+                "mr-1956": ["1:iul/6#1"],
+                "mr-1956-variations": ["1:iul/6#1-ab-1960-07-26"],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        },
+        "pav": {
+            "data-linksx": {
+                "mr-1956": ["1:aug/1#1"],
+                "mr-1956-index-2": ["1:v/vincula#1"],
+                "mr-1956-variations": [
+                        "1:aug/1#1-ab-1960-07-26",
+                        "1:aug/1#post-13-ab-1960-07-26"
+                ],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        },
+        "dba": {
+            "data-linksx": {
+                "mr-2004": ["1:nov/18#1"],
+                "mr-1956": ["1:nov/18#1"],
+
+
+
+                "mr-1584": ["..."],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["..."],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["..."],
+                "mr-2004-movable": []
+            }
+        }
     },
-    "r2p": {
-      "data-linksx": {
-        "mr-1956-movable": ["2:#15"]
-      }
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Pope-peter_pprubens.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pope-peter_pprubens.jpg",
+            "attribution": "Peter Paul Rubens, Public domain, via Wikimedia Commons",
+            "area-center-x": 1159,
+            "area-center-y": 1159,
+            "area-center-to-edge-distance": 1159
+        }
     },
-    "ppv": {
-      "data-linksx": {
-        "mr-1956": ["1:iun/28#1"]
-      }
-    },
-    "ppo": {
-      "data-linksx": {
-        "mr-1956": ["1:iul/6#1"],
-        "mr-1956-variations": ["1:iul/6#1-ab-1960-07-26"]
-      }
-    },
-    "pav": {
-      "data-linksx": {
-        "mr-1956": ["1:aug/1#1"],
-        "mr-1956-index-2": ["1:v/vincula#1"],
-        "mr-1956-variations": [
-            "1:aug/1#1-ab-1960-07-26",
-            "1:aug/1#post-13-ab-1960-07-26"
-        ]
-      }
-    },
-    "dba": {
-      "data-linksx": {
-        "mr-2004": ["1:nov/18#1"],
-        "mr-1956": ["1:nov/18#1"]
-      }
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/PT1",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Aposto%C5%82"
     }
-  }
 }

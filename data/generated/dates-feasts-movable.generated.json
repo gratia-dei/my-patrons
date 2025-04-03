@@ -332,6 +332,15 @@
             "sources": {
                 "mr-1956-movable": "#15"
             }
+        },
+        "records/patrons/petrus/apo#r2p": {
+            "name": {
+                "la": "Petrus (Romae Litaníae minores ad sanctum Petrum)",
+                "pl": "Piotr Apostoł (Rzymska mała procesja błagalna do świętego Piotra)"
+            },
+            "sources": {
+                "mr-1956-movable": "#15"
+            }
         }
     },
     "getResurrectionFeastDateValidSince1584OrEarlier|39": {
@@ -492,6 +501,28 @@
             },
             "sources": {
                 "mr-1956-movable": "#24"
+            }
+        }
+    },
+    "getTheGreaterProcessionToSaintPeterDateValidSince1956|0": {
+        "records/patrons/petrus/apo#r1p": {
+            "name": {
+                "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
+            },
+            "sources": {
+                "mr-1956-movable": "#11"
+            }
+        }
+    },
+    "getTheGreaterProcessionToSaintPeterDateValidSince1960|0": {
+        "records/patrons/petrus/apo#r1p": {
+            "name": {
+                "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
+            },
+            "sources": {
+                "mr-1956-movable-variations": "#11-ab-1960-07-26"
             }
         }
     },

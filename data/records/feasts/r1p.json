@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Romae Litaníae majores ad sanctum Petrum"
-    ],
-    "pl": [
-      "Rzymska wielka procesja błagalna do świętego Piotra"
-    ]
-  },
+    "names": {
+        "la": [
+            "Romae Litaníae majores ad sanctum Petrum"
+        ],
+        "pl": [
+            "Rzymska wielka procesja błagalna do świętego Piotra"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

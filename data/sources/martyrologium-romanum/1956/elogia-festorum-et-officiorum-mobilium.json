@@ -142,16 +142,16 @@
     },
 
     "11": {
-        "base": "getTheGreaterProcessionToSaintPeterDateValidBeforeMr1960",
+        "base": "getTheGreaterProcessionToSaintPeterDateValidSince1956",
         "move": 0,
         "title": {
-          "la": "..."
+          "la": "Feria secunda infra Octavam Paschae quoties ipsum Pascha in diem 25 Aprilis inciderit"
         },
         "description": {
-          "la": "..."
+          "la": "[1|Romae Litaniae majores ad sanctum Petrum]."
         },
         "additional-info": {
-          "la": "..."
+          "la": ""
         }
     },
 

@@ -207,6 +207,17 @@
             }
         }
     },
+    "04-25": {
+        "records/patrons/petrus/apo#r1p": {
+            "name": {
+                "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
+            },
+            "sources": {
+                "mr-1956": "25 IV: #1"
+            }
+        }
+    },
     "05-01": {
         "records/patrons/ioseph/naz#oin": {
             "name": {
@@ -235,8 +246,8 @@
     "05-06": {
         "records/patrons/ioannes/eva#ole": {
             "name": {
-                "la": "Ioannes Evangelista (Ioannes Apostolus in olei)",
-                "pl": "Jan Ewangelista (Jan Apostoł w oleju)"
+                "la": "Ioannes Evangelista (Ioannes Apostolus et Evangelista in olei)",
+                "pl": "Jan Ewangelista (Jan Apostoł i Ewangelista w oleju)"
             },
             "sources": {
                 "mr-1584": "6 V: #1",

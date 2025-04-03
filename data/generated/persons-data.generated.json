@@ -4326,8 +4326,8 @@
             "feasts/ole": {
                 "active": true,
                 "names": {
-                    "la": "Ioannes Apostolus in olei",
-                    "pl": "Jan Apostoł w oleju"
+                    "la": "Ioannes Apostolus et Evangelista in olei",
+                    "pl": "Jan Apostoł i Ewangelista w oleju"
                 }
             },
             "feasts/ril": {
@@ -6950,7 +6950,7 @@
         }
     },
     "patrons/petrus/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Petrus",
             "en": "Peter the Apostle",
@@ -6975,14 +6975,14 @@
                 }
             },
             "feasts/r1p": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Litaníae majores ad sanctum Petrum",
                     "pl": "Rzymska wielka procesja błagalna do świętego Piotra"
                 }
             },
             "feasts/r2p": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Litaníae minores ad sanctum Petrum",
                     "pl": "Rzymska mała procesja błagalna do świętego Piotra"

@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Romae Litaníae minores ad sanctum Petrum"
-    ],
-    "pl": [
-      "Rzymska mała procesja błagalna do świętego Piotra"
-    ]
-  },
+    "names": {
+        "la": [
+            "Romae Litaníae minores ad sanctum Petrum"
+        ],
+        "pl": [
+            "Rzymska mała procesja błagalna do świętego Piotra"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

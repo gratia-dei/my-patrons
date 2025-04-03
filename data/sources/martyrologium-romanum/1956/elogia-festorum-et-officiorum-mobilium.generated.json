@@ -38,7 +38,8 @@
             "3": "records/patrons/ioannes/eva#ril"
         },
         "15": {
-            "1": "records/god/fil#asv"
+            "1": "records/god/fil#asv",
+            "2": "records/patrons/petrus/apo#r2p"
         },
         "16": {
             "1": "records/god/fil#asc"
@@ -76,6 +77,9 @@
         },
         "7": {
             "1": "records/patrons/maria/naz#per"
+        },
+        "11": {
+            "1": "records/patrons/petrus/apo#r1p"
         }
     }
 }

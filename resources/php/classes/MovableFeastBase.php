@@ -160,27 +160,27 @@ class MovableFeastBase
         return $this->date->getDateMonthWithDay($date);
     }
 
-    public function getTheGreaterProcessionToSaintPeterDateValidBeforeMr1960(int $year): string
+    public function getTheGreaterProcessionToSaintPeterDateValidSince1956(int $year): string
     {
         $result = self::MISSING_DATE;
 
         $resurrectionDate = $this->getResurrectionFeastDateValidSince1584OrEarlier($year);
         if ($resurrectionDate === '04-25') {
-            $result = '04-27';
+            $result = '04-26';
         }
 
         return $result;
     }
 
-    public function getTheGreaterProcessionToSaintPeterDateValidBeforeMr2001(int $year): string
+    public function getTheGreaterProcessionToSaintPeterDateValidSince1960(int $year): string
     {
         $result = self::MISSING_DATE;
 
         $resurrectionDate = $this->getResurrectionFeastDateValidSince1584OrEarlier($year);
         if ($resurrectionDate === '04-25') {
-            $result = '04-28';
-        } else if ($resurrectionDate === '04-24') {
             $result = '04-27';
+        } else if ($resurrectionDate === '04-24') {
+            $result = '04-26';
         }
 
         return $result;

@@ -27,6 +27,20 @@
             }
         }
     },
+    "06-29": {
+        "records/patrons/petrus/apo": {
+            "name": {
+                "la": "Petrus",
+                "en": "Peter the Apostle",
+                "pl": "Piotr Apostoł"
+            },
+            "sources": {
+                "mr-1584": "29 VI: #1",
+                "mr-1956": "29 VI: #1",
+                "mr-2004": "29 VI: #1"
+            }
+        }
+    },
     "07-01": {
         "records/patrons/aaron/lev": {
             "name": {
