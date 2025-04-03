@@ -34,6 +34,16 @@
         }
     },
     "01-03": {
+        "records/patrons/ioannes/eva#oie": {
+            "name": {
+                "la": "Ioannes Evangelista (Octava sancti Ioannis Apostoli et Evangelistae)",
+                "pl": "Jan Ewangelista (Oktawa świętego Jana Apostoła i Ewangelisty)"
+            },
+            "sources": {
+                "mr-1584": "3 I: #1",
+                "mr-1956": "3 I: #1"
+            }
+        },
         "records/god/fil#sni": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Nomen Iesus)",
@@ -219,6 +229,19 @@
                 "mr-1584": "3 V: #1",
                 "mr-1956": "3 V: #1",
                 "mr-1956-variations": "3 V: #8-ab-1960-07-26"
+            }
+        }
+    },
+    "05-06": {
+        "records/patrons/ioannes/eva#ole": {
+            "name": {
+                "la": "Ioannes Evangelista (Ioannes Apostolus in olei)",
+                "pl": "Jan Ewangelista (Jan Apostoł w oleju)"
+            },
+            "sources": {
+                "mr-1584": "6 V: #1",
+                "mr-1956": "6 V: #1",
+                "mr-1956-variations": "6 V: #2-ab-1960-07-26"
             }
         }
     },
@@ -572,6 +595,17 @@
             "name": {
                 "la": "Ioannes Baptista (Dedicatio Basilicae Lateranensis in Romae)",
                 "pl": "Jan Chrzciciel (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "9 XI: #1",
+                "mr-1956": "9 XI: #1",
+                "mr-2004": "9 XI: #1"
+            }
+        },
+        "records/patrons/ioannes/eva#dbl": {
+            "name": {
+                "la": "Ioannes Evangelista (Dedicatio Basilicae Lateranensis in Romae)",
+                "pl": "Jan Ewangelista (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
             },
             "sources": {
                 "mr-1584": "9 XI: #1",

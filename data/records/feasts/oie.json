@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Octava sancti Ioannis Apostoli"
-    ],
-    "pl": [
-      "Oktawa świętego Jana Apostoła"
-    ]
-  },
+    "names": {
+        "la": [
+            "Octava sancti Ioannis Apostoli et Evangelistae"
+        ],
+        "pl": [
+            "Oktawa świętego Jana Apostoła i Ewangelisty"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

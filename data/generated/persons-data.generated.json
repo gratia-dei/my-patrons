@@ -4306,7 +4306,7 @@
         "feasts": []
     },
     "patrons/ioannes/eva": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Ioannes Evangelista",
             "en": "John the Evangelist",
@@ -4317,16 +4317,16 @@
         ],
         "feasts": {
             "feasts/oie": {
-                "active": false,
+                "active": true,
                 "names": {
-                    "la": "Octava sancti Ioannis Apostoli",
-                    "pl": "Oktawa świętego Jana Apostoła"
+                    "la": "Octava sancti Ioannis Apostoli et Evangelistae",
+                    "pl": "Oktawa świętego Jana Apostoła i Ewangelisty"
                 }
             },
             "feasts/ole": {
-                "active": false,
+                "active": true,
                 "names": {
-                    "la": "Joannis Apostolus in olei",
+                    "la": "Ioannes Apostolus in olei",
                     "pl": "Jan Apostoł w oleju"
                 }
             },

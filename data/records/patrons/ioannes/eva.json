@@ -1,70 +1,123 @@
 {
-  "names": {
-    "la": [
-      "Ioannes Evangelista",
-      "Ioannes Apostolus"
-    ],
-    "en": [
-      "John the Evangelist",
-      "John the Apostle"
-    ],
-    "pl": [
-      "Jan Ewangelista",
-      "Jan Apostoł",
-      "Jan Teolog"
-    ]
-  },
-
-  "born": ["?"],
-  "died": ["~100"],
-
-  "also-in-martyrology": ["12-27"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "apostolus", "evangelista"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:GRM_Inv._J-3182.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/GRM_Inv._J-3182.jpg",
-      "attribution": "Vladimir Borovikovsky, Public domain, via Wikimedia Commons",
-      "area-center-x": 978,
-      "area-center-y": 978,
-      "area-center-to-edge-distance": 978
+    "names": {
+        "la": [
+            "Ioannes Evangelista",
+            "Ioannes Apostolus"
+        ],
+        "en": [
+            "John the Evangelist",
+            "John the Apostle"
+        ],
+        "pl": [
+            "Jan Ewangelista",
+            "Jan Apostoł",
+            "Jan Teolog"
+        ]
     },
-    "2": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Cano_-_San_Juan.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cano_-_San_Juan.jpg",
-      "attribution": "Alonso Cano, Public domain, via Wikimedia Commons",
-      "area-center-x": 500,
-      "area-center-y": 700,
-      "area-center-to-edge-distance": 500
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~100"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "apostolus", "evangelista"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./27#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/27#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./27#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "oie": {
+            "data-links": {
+                "mr-1584": ["1:Ianu./3#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Januarii/3#1"],
+                "mr-1956-variations": [
+                    "1:Januarii/3#1-ab-1960-07-26"
+                ],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "ole": {
+            "data-links": {
+                "mr-1584": ["1:Mai./6#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/6#1"],
+                "mr-1956-variations": [
+                    "1:Maji/6#2-ab-1960-07-26"
+                ],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "ril": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": ["3:#14"],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "dbl": {
+            "data-links": {
+                "mr-1584": ["3:Nov./9#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["3:Novembris/9#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["3:nov./9#1"],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:GRM_Inv._J-3182.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/GRM_Inv._J-3182.jpg",
+            "attribution": "Vladimir Borovikovsky, Public domain, via Wikimedia Commons",
+            "area-center-x": 978,
+            "area-center-y": 978,
+            "area-center-to-edge-distance": 978
+        },
+        "2": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Cano_-_San_Juan.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cano_-_San_Juan.jpg",
+            "attribution": "Alonso Cano, Public domain, via Wikimedia Commons",
+            "area-center-x": 500,
+            "area-center-y": 700,
+            "area-center-to-edge-distance": 500
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69203",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Ewangelista"
     }
-  },
-
-  "feasts": {
-    "oie": {
-      "data-linksx": {
-        "mr-1956": ["1:ian/3#1"],
-        "mr-1956-variations": ["1:ian/3#1-ab-1960-07-26"]
-      }
-    },
-    "ole": {
-      "data-linksx": {
-        "mr-1956": ["1:mai/6#1"],
-        "mr-1956-variations": ["1:mai/6#2-ab-1960-07-26"]
-      }
-    },
-    "ril": {
-      "data-linksx": {
-        "mr-1956-movable": ["3:#14"]
-      }
-    },
-    "dbl": {
-      "data-linksx": {
-        "mr-2004": ["3:nov/9#1"],
-        "mr-1956": ["3:nov/9#1"]
-      }
-    }
-  }
 }

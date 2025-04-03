@@ -1,12 +1,17 @@
 {
-  "names": {
-    "la": [
-      "Joannis Apostolus in olei"
-    ],
-    "pl": [
-      "Jan Apostoł w oleju"
-    ]
-  },
+    "names": {
+        "la": [
+            "Ioannes Apostolus in olei",
+            "Ioannes Apostolus ante Portam Latinam"
+        ],
+        "pl": [
+            "Jan Apostoł w oleju",
+            "Jan Apostoł przed Bramą Łacińską",
+            "Jan Apostoł przed Bramą Latyńską"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

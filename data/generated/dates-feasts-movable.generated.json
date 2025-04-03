@@ -312,6 +312,15 @@
             "sources": {
                 "mr-1956-movable": "#14"
             }
+        },
+        "records/patrons/ioannes/eva#ril": {
+            "name": {
+                "la": "Ioannes Evangelista (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "pl": "Jan Ewangelista (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
+            },
+            "sources": {
+                "mr-1956-movable": "#14"
+            }
         }
     },
     "getResurrectionFeastDateValidSince1584OrEarlier|38": {

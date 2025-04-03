@@ -41,5 +41,19 @@
                 "mr-2004": "1 VII: #1"
             }
         }
+    },
+    "12-27": {
+        "records/patrons/ioannes/eva": {
+            "name": {
+                "la": "Ioannes Evangelista",
+                "en": "John the Evangelist",
+                "pl": "Jan Ewangelista"
+            },
+            "sources": {
+                "mr-1584": "27 XII: #1",
+                "mr-1956": "27 XII: #1",
+                "mr-2004": "27 XII: #1"
+            }
+        }
     }
 }
