@@ -6961,14 +6961,14 @@
         ],
         "feasts": {
             "feasts/pcr": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Romae Cathedra sancti Petri Apostoli",
                     "pl": "Katedra Świętego Piotra w Rzymie"
                 }
             },
             "feasts/pca": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Antiochiae Cathedra sancti Petri Apostoli",
                     "pl": "Katedra Świętego Piotra w Antiochii"

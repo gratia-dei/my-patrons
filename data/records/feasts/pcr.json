@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Romae Cathedra sancti Petri Apostoli"
-    ],
-    "pl": [
-      "Katedra Świętego Piotra w Rzymie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Romae Cathedra sancti Petri Apostoli"
+        ],
+        "pl": [
+            "Katedra Świętego Piotra w Rzymie"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

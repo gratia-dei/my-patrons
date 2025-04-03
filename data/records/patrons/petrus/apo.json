@@ -46,40 +46,31 @@
 
     "feasts": {
         "pcr": {
-            "data-linksx": {
-                "mr-2004": ["1:feb/22#1"],
-                "mr-1956": ["1:ian/18#1"],
-                "mr-1956-variations": [
-                        "1:ian/18#1-ab-1960-07-26",
-                        "1:feb/22#post-1-ab-1960-07-26"
-                ],
-
-
-
-                "mr-1584": ["..."],
+            "data-links": {
+                "mr-1584": ["1:Ianu./18#1"],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["..."],
+                "mr-1956": ["1:Januarii/18#1"],
+                "mr-1956-variations": [
+                    "1:Januarii/18#1-ab-1960-07-26",
+                    "1:Februarii/22#post-1-ab-1960-07-26"
+                ],
                 "mr-1956-movable": [],
 
-                "mr-2004": ["..."],
+                "mr-2004": ["1:feb./22#1"],
                 "mr-2004-movable": []
             }
         },
         "pca": {
-            "data-linksx": {
-                "mr-1956": ["1:feb/22#1"],
-                "mr-1956-variations": ["1:feb/22#1-ab-1960-07-26"],
-
-
-
-                "mr-1584": ["..."],
+            "data-links": {
+                "mr-1584": ["1:Febr./22#1"],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["..."],
+                "mr-1956": ["1:Februarii/22#1"],
+                "mr-1956-variations": ["1:Februarii/22#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
-                "mr-2004": ["..."],
+                "mr-2004": [],
                 "mr-2004-movable": []
             }
         },
@@ -90,9 +81,7 @@
 
                 "mr-1956": ["1:Aprilis/25#1"],
                 "mr-1956-movable": ["1:#11"],
-                "mr-1956-variations-movable": [
-                    "1:#11-ab-1960-07-26"
-                ],
+                "mr-1956-variations-movable": ["1:#11-ab-1960-07-26"],
 
                 "mr-2004": [],
                 "mr-2004-movable": []
