@@ -1,52 +1,118 @@
 {
-  "names": {
-    "he": [
-      "שָׁאוּל התרס"
-    ],
-    "la": [
-      "Paulus Tersensis",
-      "Paulus",
-      "Saul"
-    ],
-    "en": [
-      "Paul of Tarsus",
-      "Paul",
-      "Paul the Apostle",
-      "Saul"
-    ],
-    "pl": [
-      "Paweł z Tarsu",
-      "Paweł",
-      "Paweł Apostoł",
-      "Szaweł"
-    ]
-  },
-
-  "born": [">5", "<10"],
-  "died": ["~67"],
-
-  "also-in-martyrology": ["06-29"],
-
-  "forenames": ["paulus"],
-  "categories": ["vir", "alius-apostolus", "martyr"],
-
-  "feasts": {
-    "ppv": {
-      "data-linksx": {
-        "mr-1956": ["2:iun/28#1"]
-      }
+    "names": {
+        "he": [
+            "שָׁאוּל התרס"
+        ],
+        "la": [
+            "Paulus Tersensis",
+            "Paulus",
+            "Saul"
+        ],
+        "en": [
+            "Paul of Tarsus",
+            "Paul",
+            "Paul the Apostle",
+            "Saul"
+        ],
+        "pl": [
+            "Paweł z Tarsu",
+            "Paweł",
+            "Paweł Apostoł",
+            "Szaweł"
+        ]
     },
-    "ppo": {
-      "data-linksx": {
-        "mr-1956": ["2:iul/6#1"],
-        "mr-1956-variations": ["2:iul/6#1-ab-1960-07-26"]
-      }
+    "forenames": ["paulus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~67"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "alius-apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Iuni./29#1", "1:Iuni./30#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Junii/29#1", "1:Junii/30#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:iun./29#1"],
+        "mr-2004-movable": []
     },
-    "dba": {
-      "data-linksx": {
-        "mr-2004": ["2:nov/18#1"],
-        "mr-1956": ["2:nov/18#1"]
-      }
+
+    "feasts": {
+        "cpa": {
+            "data-links": {
+                "mr-1584": ["1:Ianu./25#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Januarii/25#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["1:ian./25#1"],
+                "mr-2004-movable": []
+            }
+        },
+        "ppv": {
+            "data-links": {
+                "mr-1584": ["2:Iuni./28#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Junii/28#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "ppo": {
+            "data-links": {
+                "mr-1584": ["2:Iul./6#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Julii/6#1"],
+                "mr-1956-variations": ["2:Julii/6#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "dba": {
+            "data-links": {
+                "mr-1584": ["2:Nov./18#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Novembris/18#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["2:nov./18#1"],
+                "mr-2004-movable": []
+            }
+        },
+        "dbp": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Decembris/10#2"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69193",
+        "wiki": "https://pl.wikipedia.org/wiki/Pawe%C5%82_z_Tarsu"
     }
-  }
 }

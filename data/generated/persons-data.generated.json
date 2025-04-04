@@ -5995,7 +5995,7 @@
                 }
             },
             "feasts/mrp": {
-                "active": false,
+                "active": true,
                 "names": {
                     "en": "The Most Holy Virgin Mary, Queen of Poland",
                     "pl": "Najświętsza Maryja Panna Królowa Polski"
@@ -6841,7 +6841,7 @@
         }
     },
     "patrons/paulus/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "he": "שָׁאוּל התרס",
             "la": "Paulus Tersensis",
@@ -6852,6 +6852,13 @@
             "~67"
         ],
         "feasts": {
+            "feasts/cpa": {
+                "active": true,
+                "names": {
+                    "la": "Conversio sancti Pauli Apostoli",
+                    "pl": "Nawrócenie świętego Pawła Apostoła"
+                }
+            },
             "feasts/ppv": {
                 "active": true,
                 "names": {
@@ -6869,8 +6876,15 @@
             "feasts/dba": {
                 "active": true,
                 "names": {
-                    "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
-                    "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
+                    "la": "Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae",
+                    "pl": "Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie"
+                }
+            },
+            "feasts/dbp": {
+                "active": true,
+                "names": {
+                    "la": "Dedicatio Basilicae Sancti Pauli Apostoli in Romae",
+                    "pl": "Poświęcenie Bazyliki Świętego Pawła Apostoła w Rzymie"
                 }
             }
         }
@@ -6952,6 +6966,7 @@
     "patrons/petrus/apo": {
         "active": true,
         "names": {
+            "arc": "ܟܐܦܐ",
             "la": "Petrus",
             "en": "Peter the Apostle",
             "pl": "Piotr Apostoł"
@@ -7012,8 +7027,8 @@
             "feasts/dba": {
                 "active": true,
                 "names": {
-                    "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
-                    "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
+                    "la": "Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae",
+                    "pl": "Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie"
                 }
             }
         }

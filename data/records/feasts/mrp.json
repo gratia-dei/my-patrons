@@ -1,13 +1,15 @@
 {
-  "names": {
-    "en": [
-      "The Most Holy Virgin Mary, Queen of Poland"
-    ],
-    "pl": [
-      "Najświętsza Maryja Panna Królowa Polski",
-      "Najświętsza Maryja Panna Królowa Korony Polskiej"
-    ]
-  },
+    "names": {
+        "en": [
+            "The Most Holy Virgin Mary, Queen of Poland"
+        ],
+        "pl": [
+            "Najświętsza Maryja Panna Królowa Polski",
+            "Najświętsza Maryja Panna Królowa Korony Polskiej"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

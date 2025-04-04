@@ -66,6 +66,10 @@
         "la": "Vigilia Conceptionis Immaculatae beatae Mariae Virginis",
         "pl": "Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
     },
+    "cpa": {
+        "la": "Conversio sancti Pauli Apostoli",
+        "pl": "Nawrócenie świętego Pawła Apostoła"
+    },
     "cro": {
         "la": "Octava Sanctissimi Corporis Christi",
         "pl": "Oktawa Najświętszego Ciała Chrystusa"
@@ -83,8 +87,8 @@
         "pl": "Niedziela Siedemdziesiątnicy"
     },
     "dba": {
-        "la": "Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae",
-        "pl": "Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie"
+        "la": "Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae",
+        "pl": "Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie"
     },
     "dbl": {
         "la": "Dedicatio Basilicae Lateranensis in Romae",
@@ -93,6 +97,10 @@
     "dbm": {
         "la": "Dedicatio Basilicae Sanctae Mariae in Romae",
         "pl": "Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie"
+    },
+    "dbp": {
+        "la": "Dedicatio Basilicae Sancti Pauli Apostoli in Romae",
+        "pl": "Poświęcenie Bazyliki Świętego Pawła Apostoła w Rzymie"
     },
     "dci": {
         "en": "Ash Wednesday",

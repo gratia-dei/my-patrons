@@ -124,6 +124,19 @@
             }
         }
     },
+    "01-25": {
+        "records/patrons/paulus/apo#cpa": {
+            "name": {
+                "la": "Paulus Tersensis (Conversio sancti Pauli Apostoli)",
+                "pl": "Paweł z Tarsu (Nawrócenie świętego Pawła Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "25 I: #1",
+                "mr-1956": "25 I: #1",
+                "mr-2004": "25 I: #1"
+            }
+        }
+    },
     "02-02": {
         "records/patrons/maria/naz#pur": {
             "name": {
@@ -368,6 +381,16 @@
                 "mr-1584": "28 VI: #1",
                 "mr-1956": "28 VI: #1"
             }
+        },
+        "records/patrons/paulus/apo#ppv": {
+            "name": {
+                "la": "Paulus Tersensis (Vigilia sanctorum Apostolorum Patri et Pauli)",
+                "pl": "Paweł z Tarsu (Wigilia świętych Apostołów Piotra i Pawła)"
+            },
+            "sources": {
+                "mr-1584": "28 VI: #1",
+                "mr-1956": "28 VI: #1"
+            }
         }
     },
     "07-01": {
@@ -409,6 +432,16 @@
             "name": {
                 "la": "Petrus (Octava sanctorum Apostolorum Patri et Pauli)",
                 "pl": "Piotr Apostoł (Oktawa świętych Apostołów Piotra i Pawła)"
+            },
+            "sources": {
+                "mr-1584": "6 VII: #1",
+                "mr-1956": "6 VII: #1"
+            }
+        },
+        "records/patrons/paulus/apo#ppo": {
+            "name": {
+                "la": "Paulus Tersensis (Octava sanctorum Apostolorum Patri et Pauli)",
+                "pl": "Paweł z Tarsu (Oktawa świętych Apostołów Piotra i Pawła)"
             },
             "sources": {
                 "mr-1584": "6 VII: #1",
@@ -709,8 +742,19 @@
     "11-18": {
         "records/patrons/petrus/apo#dba": {
             "name": {
-                "la": "Petrus (Dedicatio Basilicarum Sanctorum Petri et Pauli in Romae)",
-                "pl": "Piotr Apostoł (Poświęcenie Bazylik Świętych Piotra i Pawła w Rzymie)"
+                "la": "Petrus (Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae)",
+                "pl": "Piotr Apostoł (Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "18 XI: #1",
+                "mr-1956": "18 XI: #1",
+                "mr-2004": "18 XI: #1"
+            }
+        },
+        "records/patrons/paulus/apo#dba": {
+            "name": {
+                "la": "Paulus Tersensis (Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae)",
+                "pl": "Paweł z Tarsu (Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie)"
             },
             "sources": {
                 "mr-1584": "18 XI: #1",
@@ -765,6 +809,15 @@
             },
             "sources": {
                 "mr-1956": "10 XII: #12"
+            }
+        },
+        "records/patrons/paulus/apo#dbp": {
+            "name": {
+                "la": "Paulus Tersensis (Dedicatio Basilicae Sancti Pauli Apostoli in Romae)",
+                "pl": "Paweł z Tarsu (Poświęcenie Bazyliki Świętego Pawła Apostoła w Rzymie)"
+            },
+            "sources": {
+                "mr-1956": "10 XII: #2"
             }
         }
     },
