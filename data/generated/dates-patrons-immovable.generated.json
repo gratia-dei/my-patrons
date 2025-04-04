@@ -84,6 +84,21 @@
             }
         }
     },
+    "08-28": {
+        "records/patrons/augustinus/hip": {
+            "name": {
+                "la": "Augustinus Hipponensis",
+                "en": "Augustine of Hippo",
+                "pl": "Augustyn z Hippony"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 VIII",
+                "mr-1584": "28 VIII: #1",
+                "mr-1956": "28 VIII: #1",
+                "mr-2004": "28 VIII: #1"
+            }
+        }
+    },
     "12-27": {
         "records/patrons/ioannes/eva": {
             "name": {

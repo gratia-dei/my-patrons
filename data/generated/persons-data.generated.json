@@ -1223,7 +1223,7 @@
         }
     },
     "patrons/augustinus/hip": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Augustinus Hipponensis",
             "en": "Augustine of Hippo",
@@ -1234,14 +1234,14 @@
         ],
         "feasts": {
             "feasts/tah": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Augustini",
                     "pl": "Przeniesienie ciała świętego Augustyna"
                 }
             },
             "feasts/cah": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Conversio sancti Augustini",
                     "pl": "Nawrócenie świętego Augustyna"

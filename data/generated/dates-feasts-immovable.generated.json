@@ -206,6 +206,18 @@
             }
         }
     },
+    "02b29": {
+        "records/patrons/augustinus/hip#tah": {
+            "name": {
+                "la": "Augustinus Hipponensis (Translatio corporis sancti Augustini)",
+                "pl": "Augustyn z Hippony (Przeniesienie ciała świętego Augustyna)"
+            },
+            "sources": {
+                "mr-1584": "29 II: #5",
+                "mr-1956": "29 II: #6"
+            }
+        }
+    },
     "02n24": {
         "records/patrons/ioannes/bap#cib": {
             "name": {
@@ -215,6 +227,18 @@
             "sources": {
                 "mr-1584": "24 II: #8",
                 "mr-1956": "24 II: #9"
+            }
+        }
+    },
+    "02n28": {
+        "records/patrons/augustinus/hip#tah": {
+            "name": {
+                "la": "Augustinus Hipponensis (Translatio corporis sancti Augustini)",
+                "pl": "Augustyn z Hippony (Przeniesienie ciała świętego Augustyna)"
+            },
+            "sources": {
+                "mr-1584": "28 II: #5",
+                "mr-1956": "28 II: #6"
             }
         }
     },
@@ -254,6 +278,17 @@
             }
         }
     },
+    "04-24": {
+        "records/patrons/augustinus/hip#cah": {
+            "name": {
+                "la": "Augustinus Hipponensis (Conversio sancti Augustini)",
+                "pl": "Augustyn z Hippony (Nawrócenie świętego Augustyna)"
+            },
+            "sources": {
+                "mr-1956": "24 IV: #11"
+            }
+        }
+    },
     "04-25": {
         "records/patrons/petrus/apo#r1p": {
             "name": {
@@ -287,6 +322,17 @@
                 "mr-1584": "3 V: #1",
                 "mr-1956": "3 V: #1",
                 "mr-1956-variations": "3 V: #8-ab-1960-07-26"
+            }
+        }
+    },
+    "05-05": {
+        "records/patrons/augustinus/hip#cah": {
+            "name": {
+                "la": "Augustinus Hipponensis (Conversio sancti Augustini)",
+                "pl": "Augustyn z Hippony (Nawrócenie świętego Augustyna)"
+            },
+            "sources": {
+                "mr-1584": "5 V: #14"
             }
         }
     },

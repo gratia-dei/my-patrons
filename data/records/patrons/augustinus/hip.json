@@ -1,49 +1,84 @@
 {
-  "names": {
-    "la": [
-      "Augustinus Hipponensis",
-      "Aurelius Augustinus Hipponensis",
-      "Aurelius Augustinus"
-    ],
-    "en": [
-      "Augustine of Hippo"
-    ],
-    "pl": [
-      "Augustyn z Hippony",
-      "Aureliusz Augustyn z Hippony"
-    ]
-  },
-
-  "born": ["354-11-13"],
-  "died": ["430-08-28"],
-
-  "also-in-martyrology": ["08-28"],
-
-  "forenames": ["augustinus"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
-      "attribution": "Philippe de Champaigne, Public domain, via Wikimedia Commons",
-      "area-center-x": 1797,
-      "area-center-y": 1472,
-      "area-center-to-edge-distance": 1125
-    }
-  },
-
-  "feasts": {
-    "tah": {
-      "data-linksx": {
-        "mr-1956": ["1:feb/28n#6", "1:feb/29b#6"]
-      }
+    "names": {
+        "la": [
+            "Augustinus Hipponensis",
+            "Aurelius Augustinus Hipponensis",
+            "Aurelius Augustinus"
+        ],
+        "en": [
+            "Augustine of Hippo"
+        ],
+        "pl": [
+            "Augustyn z Hippony",
+            "Aureliusz Augustyn z Hippony"
+        ]
     },
-    "cah": {
-      "data-linksx": {
-        "mr-1956": ["1:apr/24#11"]
-      }
-    }
-  }
-}
+    "forenames": ["augustinus"],
+    "surnames": null,
+    "epithets": null,
 
+    "active": true,
+
+    "born": ["354-11-13"],
+    "died": ["430-08-28"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./28#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/28#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./28#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tah": {
+            "data-links": {
+                "mr-1584": ["1:Febr./28n#5", "1:Febr./29b#5"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Februarii/28n#6", "1:Februarii/29b#6"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "cah": {
+            "data-links": {
+                "mr-1584": ["1:Mai./5#14"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Aprilis/24#11"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+            "attribution": "Philippe de Champaigne, Public domain, via Wikimedia Commons",
+            "area-center-x": 1797,
+            "area-center-y": 1472,
+            "area-center-to-edge-distance": 1125
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/49738",
+        "wiki": "https://pl.wikipedia.org/wiki/Augustyn_z_Hippony"
+    }
+}

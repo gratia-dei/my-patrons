@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Conversio sancti Augustini"
-    ],
-    "pl": [
-      "Nawrócenie świętego Augustyna"
-    ]
-  },
+    "names": {
+        "la": [
+            "Conversio sancti Augustini"
+        ],
+        "pl": [
+            "Nawrócenie świętego Augustyna"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }
