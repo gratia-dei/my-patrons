@@ -84,6 +84,33 @@
             }
         }
     },
+    "08-01": {
+        "records/patrons/eusebius/ver": {
+            "name": {
+                "la": "Eusebius Vercellensis",
+                "en": "Eusebius of Vercelli",
+                "pl": "Euzebiusz z Vercelli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 VIII",
+                "mr-1584": "1 VIII: #8",
+                "mr-1956": "1 VIII: #3",
+                "mr-2004": "1 VIII: #5"
+            }
+        }
+    },
+    "08-02": {
+        "records/patrons/eusebius/ver": {
+            "name": {
+                "la": "Eusebius Vercellensis",
+                "en": "Eusebius of Vercelli",
+                "pl": "Euzebiusz z Vercelli"
+            },
+            "sources": {
+                "mr-2004": "2 VIII: #1"
+            }
+        }
+    },
     "08-28": {
         "records/patrons/augustinus/hip": {
             "name": {
@@ -96,6 +123,18 @@
                 "mr-1584": "28 VIII: #1",
                 "mr-1956": "28 VIII: #1",
                 "mr-2004": "28 VIII: #1"
+            }
+        }
+    },
+    "12-16": {
+        "records/patrons/eusebius/ver": {
+            "name": {
+                "la": "Eusebius Vercellensis",
+                "en": "Eusebius of Vercelli",
+                "pl": "Euzebiusz z Vercelli"
+            },
+            "sources": {
+                "mr-1956": "16 XII: #1"
             }
         }
     },

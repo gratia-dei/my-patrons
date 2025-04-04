@@ -2853,7 +2853,7 @@
         }
     },
     "patrons/eusebius/ver": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Eusebius Vercellensis",
             "en": "Eusebius of Vercelli",
@@ -2864,7 +2864,7 @@
         ],
         "feasts": {
             "feasts/oev": {
-                "active": false,
+                "active": true,
                 "names": {
                     "la": "Ordinatio sancti Eusebii",
                     "pl": "Wyświęcenie na biskupa świętego Euzebiusza"

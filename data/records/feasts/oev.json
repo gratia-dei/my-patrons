@@ -1,12 +1,14 @@
 {
-  "names": {
-    "la": [
-      "Ordinatio sancti Eusebii"
-    ],
-    "pl": [
-      "Wyświęcenie na biskupa świętego Euzebiusza"
-    ]
-  },
+    "names": {
+        "la": [
+            "Ordinatio sancti Eusebii"
+        ],
+        "pl": [
+            "Wyświęcenie na biskupa świętego Euzebiusza"
+        ]
+    },
 
-  "images": {}
+    "active": true,
+
+    "images": {}
 }

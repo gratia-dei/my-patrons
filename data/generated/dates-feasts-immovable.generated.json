@@ -879,6 +879,15 @@
         }
     },
     "12-15": {
+        "records/patrons/eusebius/ver#oev": {
+            "name": {
+                "la": "Eusebius Vercellensis (Ordinatio sancti Eusebii)",
+                "pl": "Euzebiusz z Vercelli (Wyświęcenie na biskupa świętego Euzebiusza)"
+            },
+            "sources": {
+                "mr-1956": "15 XII: #7"
+            }
+        },
         "records/patrons/maria/naz#cio": {
             "name": {
                 "la": "Maria Virgo (Octava Conceptionis Immaculatae beatae Mariae Virginis)",

@@ -1,40 +1,69 @@
 {
-  "names": {
-    "la": [
-      "Eusebius Vercellensis"
-    ],
-    "en": [
-      "Eusebius of Vercelli"
-    ],
-    "pl": [
-      "Euzebiusz z Vercelli"
-    ]
-  },
+    "names": {
+        "la": [
+            "Eusebius Vercellensis"
+        ],
+        "en": [
+            "Eusebius of Vercelli"
+        ],
+        "pl": [
+            "Euzebiusz z Vercelli"
+        ]
+    },
+    "forenames": ["eusebius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~283"],
-  "died": ["371-08-01"],
+    "active": true,
 
-  "also-in-martyrology": ["08-01", "08-02", "12-16"],
+    "born": ["~283"],
+    "died": ["371-08-01"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["eusebius"],
-  "categories": ["vir", "martyr", "episcopus"],
+    "categories": ["vir", "martyr", "episcopus"],
 
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Eusebius_von_Vercelli.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Eusebius_von_Vercelli.jpg",
-      "attribution": "Unknown author, Public domain, via Wikimedia Commons",
-      "area-center-x": 158,
-      "area-center-y": 179,
-      "area-center-to-edge-distance": 103
+    "data-links": {
+        "mr-1584": ["1:Aug./1#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/1#3", "1:Decembris/16#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./1#5", "1:aug./2#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "oev": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Decembris/15#7"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Eusebius_von_Vercelli.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Eusebius_von_Vercelli.jpg",
+            "attribution": "Unknown author, Public domain, via Wikimedia Commons",
+            "area-center-x": 158,
+            "area-center-y": 179,
+            "area-center-to-edge-distance": 103
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/43496",
+        "wiki": "https://pl.wikipedia.org/wiki/Euzebiusz_z_Vercelli"
     }
-  },
-
-  "feasts": {
-    "oev": {
-      "data-linksx": {
-        "mr-1956": ["1:dec/15#7"]
-      }
-    }
-  }
 }
