@@ -4038,11 +4038,11 @@
         }
     },
     "patrons/ioanna/arc": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jeanne d'Arc",
-            "en": "Joan of Arc",
             "la": "Ioanna Arcensis",
+            "en": "Joan of Arc",
             "pl": "Joanna d'Arc"
         },
         "died": [

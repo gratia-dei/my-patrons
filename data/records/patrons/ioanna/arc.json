@@ -1,46 +1,63 @@
 {
-  "names": {
-    "fr": [
-      "Jeanne d'Arc",
-      "La Pucelle d'Orléans"
+    "names": {
+        "fr": [
+            "Jeanne d'Arc",
+            "La Pucelle d'Orléans"
+        ],
+        "la": [
+            "Ioanna Arcensis",
+            "Puella Aurelianensis"
+        ],
+        "en": [
+            "Joan of Arc",
+            "The Maid of Orléans"
+        ],
+        "pl": [
+            "Joanna d'Arc",
+            "Dziewica Orleańska"
+        ]
+    },
+    "forenames": ["ioanna"],
+    "surnames": null,
+    "epithets": [
+        {
+            "fr": "La Pucelle d'Orléans",
+            "en": "The Maid of Orléans",
+            "la": "Puella Aurelianensis",
+            "pl": "Dziewica Orleańska"
+        }
     ],
-    "en": [
-      "Joan of Arc",
-      "The Maid of Orléans"
-    ],
-    "la": [
-      "Ioanna Arcensis",
-      "Puella Aurelianensis"
-    ],
-    "pl": [
-      "Joanna d'Arc",
-      "Dziewica Orleańska"
-    ]
-  },
 
-  "epithets": [
-    {
-      "fr": "La Pucelle d'Orléans",
-      "en": "The Maid of Orléans",
-      "la": "Puella Aurelianensis",
-      "pl": "Dziewica Orleańska"
+    "active": true,
+
+    "born": ["1412-01-06"],
+    "died": ["1431-05-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1909-04-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1920-05-16"
+    },
+    "anniversary": ["05-30"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/30#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/30#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanna-d-arco.html",
+        "gcatholic": "https://gcatholic.org/p/68118",
+        "wiki": "https://pl.wikipedia.org/wiki/Joanna_d%E2%80%99Arc"
     }
-  ],
-
-  "born": ["1412-01-06"],
-  "died": ["1431-05-30"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1909-04-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1920-05-16"
-  },
-
-  "also-in-martyrology": ["05-30"],
-
-  "forenames": ["ioanna"],
-  "categories": ["femina", "virgo"]
 }

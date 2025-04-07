@@ -42,6 +42,22 @@
             }
         }
     },
+    "05-30": {
+        "records/patrons/ioanna/arc": {
+            "name": {
+                "fr": "Jeanne d'Arc",
+                "la": "Ioanna Arcensis",
+                "en": "Joan of Arc",
+                "pl": "Joanna d'Arc"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 V",
+                "assigned-anniversary": "30 V",
+                "mr-1956": "30 V: #8",
+                "mr-2004": "30 V: #7"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {
