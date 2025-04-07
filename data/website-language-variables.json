@@ -144,15 +144,15 @@
     },
 
     "lang-add-new-challenge-missing-person-or-addition-info": {
-        "pl": "<strong>Nie możesz odnaleźć na powyższej liście wyboru szukanego Patrona lub dodatku</strong> (np. święta)? <a target=\"_blank\" href=\"/contact\">Napisz do nas</a>, a postaramy się dodać go do bazy <strong>priorytetowo</strong>! Dotyczy to także sytuacji, w której znajduje się on na liście wyboru, ale <strong>jest nieaktywny</strong> (oznacza to, że potrzebujemy jeszcze trochę czasu na jego migrację)."
+        "pl": "<strong>Nie możesz odnaleźć na powyższej liście wyboru szukanego Patrona?</strong> <a target=\"_blank\" href=\"/contact\">Napisz do nas</a>, a postaramy się dodać go do bazy <strong>priorytetowo</strong>! Dotyczy to także sytuacji, w której znajduje się on na liście wyboru, ale <strong>jest nieaktywny</strong> (oznacza to, że potrzebujemy jeszcze trochę czasu na jego migrację)."
     },
 
     "lang-add-new-challenge-missing-person-or-addition-info-tip": {
-        "pl": "Tymczasem (do czasu naszej odpowiedzi) <strong>warto zapisać to wyzwanie</strong> na kartce, w notatniku lub za pomocą wyzwania <strong>[X] Własna Notatka</strong>, by o nim nie zapomnieć."
+        "pl": "Tymczasem, do czasu naszej odpowiedzi, <strong>warto zapisać to wyzwanie</strong> na kartce, w notatniku lub za pomocą wyzwania <strong>[X] Własna Notatka</strong>, by o nim nie zapomnieć."
     },
 
     "lang-add-new-challenge-person-or-addition-info": {
-        "pl": "Wyboru osoby (także z ewentualnym dodatkiem) powinieneś dokonać <strong>nie później niż w wybranym dniu wyzwania</strong> - choćby w myślach! Nie dotyczy to wyzwań przeznaczonych do wpisania w określonym dniu w przeszłości."
+        "pl": "Jeśli da się wybrać nie tylko siebie, <strong>dokonaj tego wyboru</strong> (choćby w myślach) <strong>najpóźniej w zaznaczonym powyżej dniu wyzwania</strong>, chyba że w jego treści napisano inaczej!"
     },
 
     "lang-add-new-challenge-required-checklist-steps-info": {
