@@ -4,13 +4,13 @@
             "Maria Gwidona od Miłosierdzia Bożego",
             "Helena Cierpka"
         ],
-        "en": [
-            "Mary Guidona of Divine Mercy",
-            "Helen Cierpka"
-        ],
         "la": [
             "Maria Guidona a Divina Misericordia",
             "Helena Cierpka"
+        ],
+        "en": [
+            "Mary Guidona of Divine Mercy",
+            "Helen Cierpka"
         ]
     },
     "forenames": ["maria", "guidona", "helena"],

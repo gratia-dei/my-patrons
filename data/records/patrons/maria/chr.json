@@ -4,13 +4,13 @@
             "Maria Kanuta od Pana Jezusa w Ogrójcu",
             "Józefa Chrobot"
         ],
-        "en": [
-            "Mary Canuta of the Agonized Jesus in the Garden",
-            "Josepha Chrobot"
-        ],
         "la": [
             "Maria Canuta a Iesu in Horto Getsemani",
             "Iosepha Chrobot"
+        ],
+        "en": [
+            "Mary Canuta of the Agonized Jesus in the Garden",
+            "Josepha Chrobot"
         ]
     },
     "forenames": ["maria", "canuta", "iosepha"],

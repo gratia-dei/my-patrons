@@ -4,13 +4,13 @@
             "Maria Imelda od Jezusa Hostii",
             "Jadwiga Karolina Żak"
         ],
-        "en": [
-            "Mary Imelda of the Eucharistic Jesus",
-            "Hedwig Caroline Żak"
-        ],
         "la": [
             "Maria Imelda a Iesu Hostia",
             "Hedwigis Carolina Żak"
+        ],
+        "en": [
+            "Mary Imelda of the Eucharistic Jesus",
+            "Hedwig Caroline Żak"
         ]
     },
     "forenames": ["maria", "imelda", "hedwigis", "carolina"],

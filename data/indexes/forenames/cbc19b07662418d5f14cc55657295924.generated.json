@@ -100,18 +100,18 @@
         },
         "records/patrons/maria/bor": {
             "pl": "Maria Felicyta Borowik",
-            "en": "Mary Felicity Borowik",
-            "la": "Maria Felicitas Borowik"
+            "la": "Maria Felicitas Borowik",
+            "en": "Mary Felicity Borowik"
         },
         "records/patrons/maria/chr": {
             "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
-            "en": "Mary Canuta of the Agonized Jesus in the Garden",
-            "la": "Maria Canuta a Iesu in Horto Getsemani"
+            "la": "Maria Canuta a Iesu in Horto Getsemani",
+            "en": "Mary Canuta of the Agonized Jesus in the Garden"
         },
         "records/patrons/maria/cie": {
             "pl": "Maria Gwidona od Miłosierdzia Bożego",
-            "en": "Mary Guidona of Divine Mercy",
-            "la": "Maria Guidona a Divina Misericordia"
+            "la": "Maria Guidona a Divina Misericordia",
+            "en": "Mary Guidona of Divine Mercy"
         },
         "records/patrons/maria/dur": {
             "fr": "Marie-Rose Durocher",
@@ -127,8 +127,8 @@
         },
         "records/patrons/maria/joz": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
-            "en": "Mary Daniela of Jesus and Immaculate Mary",
-            "la": "Maria Daniela a Iusei et Maria Immaculata"
+            "la": "Maria Daniela a Iusei et Maria Immaculata",
+            "en": "Mary Daniela of Jesus and Immaculate Mary"
         },
         "records/patrons/maria/kar": {
             "pl": "Maria Karłowska",
@@ -153,13 +153,13 @@
         },
         "records/patrons/maria/kuk": {
             "pl": "Maria Rajmunda od Jezusa i Maryi",
-            "en": "Mary Raymunda of Jesus and Mary",
-            "la": "Maria Raymunda a Iesu et Maria"
+            "la": "Maria Raymunda a Iesu et Maria",
+            "en": "Mary Raymunda of Jesus and Mary"
         },
         "records/patrons/maria/mac": {
             "pl": "Maria Kanizja Mackiewicz",
-            "en": "Mary Canisia Mackiewicz",
-            "la": "Maria Canisia Mackiewicz"
+            "la": "Maria Canisia Mackiewicz",
+            "en": "Mary Canisia Mackiewicz"
         },
         "records/patrons/maria/mag": {
             "en": "Mary Magdalene",
@@ -168,18 +168,18 @@
         },
         "records/patrons/maria/mar": {
             "pl": "Maria Stella od Najświętszego Sakramentu",
-            "en": "Maria Stella of the Blessed Sacrament",
-            "la": "Maria Stella a Sanctissimo Sacramento"
+            "la": "Maria Stella a Sanctissimo Sacramento",
+            "en": "Maria Stella of the Blessed Sacrament"
         },
         "records/patrons/maria/mat": {
             "pl": "Maria Heliodora Matuszewska",
-            "en": "Mary Heliodora Matuszewska",
-            "la": "Maria Heliodora Matuszewska"
+            "la": "Maria Heliodora Matuszewska",
+            "en": "Mary Heliodora Matuszewska"
         },
         "records/patrons/maria/nar": {
             "pl": "Maria Boromea Narmontowicz",
-            "en": "Mary Boromea Narmontowicz",
-            "la": "Maria Boromea Narmontowicz"
+            "la": "Maria Boromea Narmontowicz",
+            "en": "Mary Boromea Narmontowicz"
         },
         "records/patrons/maria/nav": {
             "es": "María Ana de Jesús Navarro",
@@ -201,8 +201,8 @@
         },
         "records/patrons/maria/rap": {
             "pl": "Maria Sergia od Matki Bożej Bolesnej",
-            "en": "Mary Sergia of Our Lady of Sorrows",
-            "la": "Maria Sergia a Virgine Perdolenti"
+            "la": "Maria Sergia a Virgine Perdolenti",
+            "en": "Mary Sergia of Our Lady of Sorrows"
         },
         "records/patrons/maria/rub": {
             "it": "Maria Francesca di Gesù",
@@ -229,8 +229,8 @@
         },
         "records/patrons/maria/zak": {
             "pl": "Maria Imelda od Jezusa Hostii",
-            "en": "Mary Imelda of the Eucharistic Jesus",
-            "la": "Maria Imelda a Iesu Hostia"
+            "la": "Maria Imelda a Iesu Hostia",
+            "en": "Mary Imelda of the Eucharistic Jesus"
         },
         "records/patrons/maximilianus/kol": {
             "pl": "Maksymilian Maria Kolbe",
