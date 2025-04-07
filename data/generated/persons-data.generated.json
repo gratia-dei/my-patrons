@@ -3851,11 +3851,11 @@
         "feasts": []
     },
     "patrons/iacobus/str": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jakub Strzemię",
-            "en": "James Strzemie",
-            "la": "Iacobus Strepa"
+            "la": "Iacobus Strepa",
+            "en": "James Strzemie"
         },
         "died": [
             "1409-10-20"

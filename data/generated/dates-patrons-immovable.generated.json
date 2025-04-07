@@ -314,6 +314,19 @@
             }
         }
     },
+    "10-20": {
+        "records/patrons/iacobus/str": {
+            "name": {
+                "pl": "Jakub Strzemię",
+                "la": "Iacobus Strepa",
+                "en": "James Strzemie"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 X",
+                "mr-2004": "20 X: #8"
+            }
+        }
+    },
     "12-16": {
         "records/patrons/eusebius/ver": {
             "name": {
