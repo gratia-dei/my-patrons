@@ -77,8 +77,8 @@
         },
         "records/patrons/andreas/apo": {
             "grc": "Ανδρέας",
-            "en": "Andrew the Apostle",
             "la": "Andreas Apostolus",
+            "en": "Andrew the Apostle",
             "pl": "Andrzej Apostoł"
         },
         "records/patrons/andreas/bob": {

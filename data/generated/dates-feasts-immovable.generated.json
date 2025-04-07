@@ -349,6 +349,18 @@
             }
         }
     },
+    "05-09": {
+        "records/patrons/andreas/apo#trc": {
+            "name": {
+                "la": "Andreas Apostolus (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "pl": "Andrzej Apostoł (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "9 V: #6",
+                "mr-1956": "9 V: #8"
+            }
+        }
+    },
     "05-13": {
         "records/patrons/maria/naz#dem": {
             "name": {
@@ -820,6 +832,18 @@
                 "mr-1584": "21 XI: #1",
                 "mr-1956": "21 XI: #1",
                 "mr-2004": "21 XI: #1"
+            }
+        }
+    },
+    "11-29": {
+        "records/patrons/andreas/apo#vaa": {
+            "name": {
+                "la": "Andreas Apostolus (Vigilia sancti Andreae Apostoli)",
+                "pl": "Andrzej Apostoł (Wigilia świętego Andrzeja Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "29 XI: #1",
+                "mr-1956": "29 XI: #1"
             }
         }
     },

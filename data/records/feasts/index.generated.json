@@ -378,6 +378,10 @@
         "la": "Transfiguratio Domini",
         "pl": "Przemienienie Pańskie"
     },
+    "trc": {
+        "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+        "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
+    },
     "tri": {
         "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
         "pl": "Uroczystość Trójcy Przenajświętszej"
@@ -385,6 +389,10 @@
     "tsd": {
         "la": "Translatio Sacrae Domus Genetricis Dei Mariae",
         "pl": "Przeniesienie Świętego Domu Maryi Bożej Rodzicielki"
+    },
+    "vaa": {
+        "la": "Vigilia sancti Andreae Apostoli",
+        "pl": "Wigilia świętego Andrzeja Apostoła"
     },
     "vic": {
         "la": "Sancta Maria de Victoria",

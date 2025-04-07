@@ -327,6 +327,21 @@
             }
         }
     },
+    "11-30": {
+        "records/patrons/andreas/apo": {
+            "name": {
+                "grc": "Ανδρέας",
+                "la": "Andreas Apostolus",
+                "en": "Andrew the Apostle",
+                "pl": "Andrzej Apostoł"
+            },
+            "sources": {
+                "mr-1584": "30 XI: #1",
+                "mr-1956": "30 XI: #1",
+                "mr-2004": "30 XI: #1"
+            }
+        }
+    },
     "12-16": {
         "records/patrons/eusebius/ver": {
             "name": {

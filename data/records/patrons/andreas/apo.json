@@ -1,27 +1,78 @@
 {
-  "names": {
-    "grc": [
-      "Ανδρέας",
-      "Πρωτόκλητος"
-    ],
-    "en": [
-      "Andrew the Apostle",
-      "First-Called"
-    ],
-    "la": [
-      "Andreas Apostolus",
-      "Primus Vocatus"
-    ],
-    "pl": [
-      "Andrzej Apostoł",
-      "Pierwszy Powołany"
-    ]
-  },
+    "names": {
+        "grc": [
+            "Ανδρέας",
+            "Πρωτόκλητος"
+        ],
+        "la": [
+            "Andreas Apostolus",
+            "Primus Vocatus"
+        ],
+        "en": [
+            "Andrew the Apostle",
+            "First-Called"
+        ],
+        "pl": [
+            "Andrzej Apostoł",
+            "Pierwszy Powołany"
+        ]
+    },
+    "forenames": ["andreas"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">60-11-30", "<70-11-30"],
+    "active": true,
 
-  "also-in-martyrology": ["11-30"],
+    "born": null,
+    "died": [">60", "<70"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["andreas"],
-  "categories": ["vir", "apostolus", "martyr"]
+    "categories": ["vir", "apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./30#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/30#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./30#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vaa": {
+            "data-links": {
+                "mr-1584": ["1:Nov./29#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Novembris/29#1"],
+                "mr-1956-variations": ["1:Novembris/29#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "trc": {
+            "data-links": {
+                "mr-1584": ["1:Mai./9#6"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/9#8"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67026",
+        "wiki": "https://pl.wikipedia.org/wiki/Andrzej_Aposto%C5%82"
+    }
 }

@@ -805,18 +805,33 @@
         "feasts": []
     },
     "patrons/andreas/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "grc": "Ανδρέας",
-            "en": "Andrew the Apostle",
             "la": "Andreas Apostolus",
+            "en": "Andrew the Apostle",
             "pl": "Andrzej Apostoł"
         },
         "died": [
-            ">60-11-30",
-            "<70-11-30"
+            ">60",
+            "<70"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/vaa": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sancti Andreae Apostoli",
+                    "pl": "Wigilia świętego Andrzeja Apostoła"
+                }
+            },
+            "feasts/trc": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+                    "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
+                }
+            }
+        }
     },
     "patrons/andreas/bes": {
         "active": false,

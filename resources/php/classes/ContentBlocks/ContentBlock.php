@@ -27,8 +27,8 @@ abstract class ContentBlock extends Content
     private const DATE_REPLACES = [
         '/^([<>~])?([-]?[0-9]*)[-]([0-9][0-9])[-]([0-9][0-9])$/' => '\1\4.\3.\2',
         '/[-]([0-9]+)/' => '\1 ' . self::VARIABLE_NAME_SIGN . 'lang-before-christ-abbreviation' . self::VARIABLE_NAME_SIGN,
-        '/[<]/' => self::VARIABLE_NAME_SIGN . 'lang-before' . self::VARIABLE_NAME_SIGN . ' ',
-        '/[>]/' => self::VARIABLE_NAME_SIGN . 'lang-after' . self::VARIABLE_NAME_SIGN . ' ',
+        '/[<]/' => self::VARIABLE_NAME_SIGN . 'lang-until' . self::VARIABLE_NAME_SIGN . ' ',
+        '/[>]/' => self::VARIABLE_NAME_SIGN . 'lang-since' . self::VARIABLE_NAME_SIGN . ' ',
         '/[~]/' => self::VARIABLE_NAME_SIGN . 'lang-around' . self::VARIABLE_NAME_SIGN . ' ',
     ];
 

@@ -168,12 +168,6 @@
         "pl": "dodaj swoją nową notatkę"
     },
 
-    "lang-after": {
-        "en": "after",
-        "la": "post",
-        "pl": "po"
-    },
-
     "lang-anniversary": {
         "en": "anniversary",
         "pl": "rocznica"
@@ -199,12 +193,6 @@
         "en": "beatification",
         "la": "beatificationis",
         "pl": "beatyfikacja"
-    },
-
-    "lang-before": {
-        "en": "before",
-        "la": "ante",
-        "pl": "przed"
     },
 
     "lang-before-christ-abbreviation": {
@@ -1806,6 +1794,11 @@
         "pl": "Moi Patroni"
     },
 
+    "lang-since": {
+        "en": "since",
+        "pl": "od"
+    },
+
     "lang-since-2020": {
         "en": "since 2020",
         "pl": "od 2020"
@@ -1941,6 +1934,11 @@
     "lang-type-and-number": {
         "en": "type and number",
         "pl": "typ i numer"
+    },
+
+    "lang-until": {
+        "en": "until",
+        "pl": "do"
     },
 
     "lang-vertical": {
