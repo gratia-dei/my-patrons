@@ -1,44 +1,59 @@
 {
-  "names": {
-    "pl": [
-      "Maria Gwidona od Miłosierdzia Bożego",
-      "Helena Cierpka"
+    "names": {
+        "pl": [
+            "Maria Gwidona od Miłosierdzia Bożego",
+            "Helena Cierpka"
+        ],
+        "en": [
+            "Mary Guidona of Divine Mercy",
+            "Helen Cierpka"
+        ],
+        "la": [
+            "Maria Guidona a Divina Misericordia",
+            "Helena Cierpka"
+        ]
+    },
+    "forenames": ["maria", "guidona", "helena"],
+    "surnames": [
+        {
+            "pl": "Cierpka"
+        }
     ],
-    "en": [
-      "Mary Guidona of Divine Mercy",
-      "Helen Cierpka"
+    "epithets": [
+        {
+            "pl": "od Miłsierdzia Bożego",
+            "en": "of Divine Mercy",
+            "la": "a Divina Misericordia"
+        }
     ],
-    "la": [
-      "Maria Guidona a Divina Misericordia",
-      "Helena Cierpka"
-    ]
-  },
 
-  "surnames": [
-    {
-      "pl": "Cierpka"
+    "active": true,
+
+    "born": ["1900-04-11"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["7:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67913",
+        "wiki": "https://pl.wikipedia.org/wiki/Helena_Cierpka"
     }
-  ],
-  "epithets": [
-    {
-      "pl": "od Miłsierdzia Bożego",
-      "en": "of Divine Mercy",
-      "la": "a Divina Misericordia"
-    }
-  ],
-
-  "born": ["1900-04-11"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "guidona", "helena"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }

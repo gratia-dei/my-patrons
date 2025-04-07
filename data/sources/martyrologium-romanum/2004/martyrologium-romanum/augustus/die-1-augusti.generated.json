@@ -5,6 +5,19 @@
         },
         "5": {
             "1": "records/patrons/eusebius/ver"
+        },
+        "19": {
+            "1": "records/patrons/maria/mar",
+            "2": "records/patrons/maria/zak",
+            "3": "records/patrons/maria/kuk",
+            "4": "records/patrons/maria/joz",
+            "5": "records/patrons/maria/chr",
+            "6": "records/patrons/maria/rap",
+            "7": "records/patrons/maria/cie",
+            "8": "records/patrons/maria/bor",
+            "9": "records/patrons/maria/mat",
+            "10": "records/patrons/maria/mac",
+            "11": "records/patrons/maria/nar"
         }
     }
 }

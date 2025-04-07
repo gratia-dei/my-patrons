@@ -1,45 +1,59 @@
 {
-  "names": {
-    "pl": [
-      "Maria Daniela od Jezusa i Maryi Niepokalanej",
-      "Eleonora Aniela Jóźwik"
+    "names": {
+        "pl": [
+            "Maria Daniela od Jezusa i Maryi Niepokalanej",
+            "Eleonora Aniela Jóźwik"
+        ],
+        "en": [
+            "Mary Daniela of Jesus and Immaculate Mary",
+            "Eleonore Angela Jóźwik"
+        ],
+        "la": [
+            "Maria Daniela a Iusei et Maria Immaculata",
+            "Eleonora Aniela Jóźwik"
+        ]
+    },
+    "forenames": ["maria", "daniela", "eleonora", "aniela"],
+    "surnames": [
+        {
+            "pl": "Jóźwik"
+        }
     ],
-    "en": [
-      "Mary Daniela of Jesus and Immaculate Mary",
-      "Eleonore Angela Jóźwik"
+    "epithets": [
+        {
+            "pl": "od Jezusa i Maryi Niepokalanej",
+            "en": "of Jesus and Immaculate Mary",
+            "la": "a Iesu et Maria Immaculata"
+        }
     ],
-    "la": [
-      "Maria Daniela a Iusei et Maria Immaculata",
-      "Eleonora Aniela Jóźwik"
-    ]
-  },
 
+    "active": true,
 
-  "surnames": [
-    {
-      "pl": "Jóźwik"
+    "born": ["1895-01-25"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67910",
+        "wiki": "https://pl.wikipedia.org/wiki/Eleonora_Aniela_J%C3%B3%C5%BAwik"
     }
-  ],
-  "epithets": [
-    {
-      "pl": "od Jezusa i Maryi Niepokalanej",
-      "en": "of Jesus and Immaculate Mary",
-      "la": "a Iesu et Maria Immaculata"
-    }
-  ],
-
-  "born": ["1895-01-25"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "daniela", "eleonora", "aniela"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }

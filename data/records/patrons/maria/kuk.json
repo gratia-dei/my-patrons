@@ -1,44 +1,59 @@
 {
-  "names": {
-    "pl": [
-      "Maria Rajmunda od Jezusa i Maryi",
-      "Anna Kukołowicz"
+    "names": {
+        "pl": [
+            "Maria Rajmunda od Jezusa i Maryi",
+            "Anna Kukołowicz"
+        ],
+        "en": [
+            "Mary Raymunda of Jesus and Mary",
+            "Anna Kukołowicz"
+        ],
+        "la": [
+            "Maria Raymunda a Iesu et Maria",
+            "Anna Kukołowicz"
+        ]
+    },
+    "forenames": ["maria", "raymunda", "anna"],
+    "surnames": [
+        {
+            "pl": "Kukołowicz"
+        }
     ],
-    "en": [
-      "Mary Raymunda of Jesus and Mary",
-      "Anna Kukołowicz"
+    "epithets": [
+        {
+            "pl": "od Jezusa i Maryi",
+            "en": "of Jesus and Mary",
+            "la": "a Iesu et Maria"
+        }
     ],
-    "la": [
-      "Maria Raymunda a Iesu et Maria",
-      "Anna Kukołowicz"
-    ]
-  },
 
-  "surnames": [
-    {
-      "pl": "Kukołowicz"
+    "active": true,
+
+    "born": ["1892-08-24"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67909",
+        "wiki": "https://pl.wikipedia.org/wiki/Anna_Koko%C5%82owicz"
     }
-  ],
-  "epithets": [
-    {
-      "pl": "od Jezusa i Maryi",
-      "en": "of Jesus and Mary",
-      "la": "a Iesu et Maria"
-    }
-  ],
-
-  "born": ["1892-08-24"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "raymunda", "anna"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }

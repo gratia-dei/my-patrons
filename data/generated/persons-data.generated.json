@@ -5556,7 +5556,7 @@
         "feasts": []
     },
     "patrons/maria/bor": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Felicyta Borowik",
             "en": "Mary Felicity Borowik",
@@ -5568,7 +5568,7 @@
         "feasts": []
     },
     "patrons/maria/chr": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
             "en": "Mary Canuta of the Agonized Jesus in the Garden",
@@ -5580,7 +5580,7 @@
         "feasts": []
     },
     "patrons/maria/cie": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Gwidona od Miłosierdzia Bożego",
             "en": "Mary Guidona of Divine Mercy",
@@ -5618,7 +5618,7 @@
         "feasts": []
     },
     "patrons/maria/joz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
             "en": "Mary Daniela of Jesus and Immaculate Mary",
@@ -5679,7 +5679,7 @@
         "feasts": []
     },
     "patrons/maria/kuk": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Rajmunda od Jezusa i Maryi",
             "en": "Mary Raymunda of Jesus and Mary",
@@ -5691,7 +5691,7 @@
         "feasts": []
     },
     "patrons/maria/mac": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Kanizja Mackiewicz",
             "en": "Mary Canisia Mackiewicz",
@@ -5715,7 +5715,7 @@
         "feasts": []
     },
     "patrons/maria/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Stella od Najświętszego Sakramentu",
             "en": "Maria Stella of the Blessed Sacrament",
@@ -5727,7 +5727,7 @@
         "feasts": []
     },
     "patrons/maria/mat": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Heliodora Matuszewska",
             "en": "Mary Heliodora Matuszewska",
@@ -5739,7 +5739,7 @@
         "feasts": []
     },
     "patrons/maria/nar": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Boromea Narmontowicz",
             "en": "Mary Boromea Narmontowicz",
@@ -6017,7 +6017,7 @@
         "feasts": []
     },
     "patrons/maria/rap": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Sergia od Matki Bożej Bolesnej",
             "en": "Mary Sergia of Our Lady of Sorrows",
@@ -6080,7 +6080,7 @@
         "feasts": []
     },
     "patrons/maria/zak": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Imelda od Jezusa Hostii",
             "en": "Mary Imelda of the Eucharistic Jesus",

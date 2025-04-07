@@ -1,44 +1,59 @@
 {
-  "names": {
-    "pl": [
-      "Maria Stella od Najświętszego Sakramentu",
-      "Adela Mardosewicz"
+    "names": {
+        "pl": [
+            "Maria Stella od Najświętszego Sakramentu",
+            "Adela Mardosewicz"
+        ],
+        "en": [
+            "Maria Stella of the Blessed Sacrament",
+            "Adele Mardosewicz"
+        ],
+        "la": [
+            "Maria Stella a Sanctissimo Sacramento",
+            "Adelheidis Mardosewicz"
+        ]
+    },
+    "forenames": ["maria", "stella", "adelheidis"],
+    "surnames": [
+        {
+            "pl": "Mardosewicz"
+        }
     ],
-    "en": [
-      "Maria Stella of the Blessed Sacrament",
-      "Adele Mardosewicz"
+    "epithets": [
+        {
+            "pl": "od Najświętszego Sakramentu",
+            "en": "of the Blessed Sacrament",
+            "la": "a Sanctissimo Sacramento"
+        }
     ],
-    "la": [
-      "Maria Stella a Sanctissimo Sacramento",
-      "Adelheidis Mardosewicz"
-    ]
-  },
 
-  "surnames": [
-    {
-      "pl": "Mardosewicz"
+    "active": true,
+
+    "born": ["1888-12-14"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67907",
+        "wiki": "https://pl.wikipedia.org/wiki/Adela_Mardosewicz"
     }
-  ],
-  "epithets": [
-    {
-      "pl": "od Najświętszego Sakramentu",
-      "en": "of the Blessed Sacrament",
-      "la": "a Sanctissimo Sacramento"
-    }
-  ],
-
-  "born": ["1888-12-14"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "stella", "adelheidis"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }

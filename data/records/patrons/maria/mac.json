@@ -1,37 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Maria Kanizja Mackiewicz",
-      "Eugenia Mackiewicz"
+    "names": {
+        "pl": [
+            "Maria Kanizja Mackiewicz",
+            "Eugenia Mackiewicz"
+        ],
+        "en": [
+            "Mary Canisia Mackiewicz",
+            "Eugenia Mackiewicz"
+        ],
+        "la": [
+            "Maria Canisia Mackiewicz",
+            "Eugenia Mackiewicz"
+        ]
+    },
+    "forenames": ["maria", "canisia", "eugenia"],
+    "surnames": [
+        {
+            "pl": "Mackiewicz"
+        }
     ],
-    "en": [
-      "Mary Canisia Mackiewicz",
-      "Eugenia Mackiewicz"
-    ],
-    "la": [
-      "Maria Canisia Mackiewicz",
-      "Eugenia Mackiewicz"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Mackiewicz"
+    "active": true,
+
+    "born": ["1903-11-27"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["10:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67916",
+        "wiki": "https://pl.wikipedia.org/wiki/Eugenia_Mackiewicz"
     }
-  ],
-
-  "born": ["1903-11-27"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "canisia", "eugenia"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }

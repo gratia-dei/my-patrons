@@ -1,37 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Maria Boromea Narmontowicz",
-      "Weronika Narmontowicz"
+    "names": {
+        "pl": [
+            "Maria Boromea Narmontowicz",
+            "Weronika Narmontowicz"
+        ],
+        "en": [
+            "Mary Boromea Narmontowicz",
+            "Veronica Narmontowicz"
+        ],
+        "la": [
+            "Maria Boromea Narmontowicz",
+            "Veronica Narmontowicz"
+        ]
+    },
+    "forenames": ["maria", "boromea", "veronica"],
+    "surnames": [
+        {
+            "pl": "Narmontowicz"
+        }
     ],
-    "en": [
-      "Mary Boromea Narmontowicz",
-      "Veronica Narmontowicz"
-    ],
-    "la": [
-      "Maria Boromea Narmontowicz",
-      "Veronica Narmontowicz"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Narmontowicz"
+    "active": true,
+
+    "born": ["1916-12-18"],
+    "died": ["1943-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": null,
+    "anniversary": ["08-01"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["11:aug./1#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-stella-del-ss-sacramento-e-10-consorelle.html",
+        "gcatholic": "https://gcatholic.org/p/67917",
+        "wiki": "https://pl.wikipedia.org/wiki/Weronika_Narmontowicz"
     }
-  ],
-
-  "born": ["1916-12-18"],
-  "died": ["1943-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-
-  "also-in-martyrology": ["08-01"],
-
-  "forenames": ["maria", "boromea", "veronica"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["csfn"]
 }
