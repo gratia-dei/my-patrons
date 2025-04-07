@@ -1,4 +1,19 @@
 {
+    "03-17": {
+        "records/patrons/patricius/hib": {
+            "name": {
+                "ga": "Naomh Pádraig",
+                "en": "Patrick of Ireland",
+                "la": "Patricius episcopus in Hibernia",
+                "pl": "Patryk z Irlandii"
+            },
+            "sources": {
+                "mr-1584": "17 III: #5",
+                "mr-1956": "17 III: #1",
+                "mr-2004": "17 III: #1"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/acacius/mel": {
             "name": {

@@ -1,28 +1,50 @@
 {
-  "names": {
-    "ga": [
-      "Naomh Pádraig",
-      "Pádraig Mac Calprainn",
-      "Pádraig Naofaur"
-    ],
-    "en": [
-      "Patrick"
-    ],
-    "la": [
-      "Patricius episcopus in Hibernia",
-      "Patricius"
-    ],
-    "pl": [
-      "Patryk z Irlandii",
-      "Patryk"
-    ]
-  },
+    "names": {
+        "ga": [
+            "Naomh Pádraig",
+            "Pádraig Mac Calprainn",
+            "Pádraig Naofaur"
+        ],
+        "en": [
+            "Patrick of Ireland"
+        ],
+        "la": [
+            "Patricius episcopus in Hibernia",
+            "Patricius"
+        ],
+        "pl": [
+            "Patryk z Irlandii",
+            "Patryk"
+        ]
+    },
+    "forenames": ["patricius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~385"],
-  "died": ["~461-03-17"],
+    "active": true,
 
-  "also-in-martyrology": ["03-17"],
+    "born": ["~385"],
+    "died": ["~461"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["patricius"],
-  "categories": ["vir", "confessor", "episcopus"]
+    "categories": ["vir", "confessor", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./17#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/17#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/62870",
+        "wiki": "https://pl.wikipedia.org/wiki/Patryk_z_Irlandii"
+    }
 }
