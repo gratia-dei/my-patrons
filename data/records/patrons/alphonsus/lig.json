@@ -1,57 +1,71 @@
 {
-  "names": {
-    "it": [
-      "Alfonso Maria de' Liguori"
+    "names": {
+        "it": [
+            "Alfonso Maria de' Liguori"
+        ],
+        "en": [
+            "Alphonsus Maria Liguori",
+            "Alphonsus Maria Liguori",
+            "Alphonsus Liguori"
+        ],
+        "la": [
+            "Alphonsus Maria a Ligorio"
+        ],
+        "pl": [
+            "Alfons Maria Liguori",
+            "Alfons Maria Liguori",
+            "Alfons Liguori"
+        ]
+    },
+    "forenames": ["alphonsus", "maria"],
+    "surnames": [
+        {
+            "it": "Liguori"
+        }
     ],
-    "en": [
-      "Alphonsus Maria Liguori",
-      "Alphonsus Maria Liguori",
-      "Alphonsus Liguori"
-    ],
-    "la": [
-      "Alphonsus Maria a Ligorio"
-    ],
-    "pl": [
-      "Alfons Maria Liguori",
-      "Alfons Maria Liguori",
-      "Alfons Liguori"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Liguori"
+    "active": true,
+
+    "born": ["1696-09-27"],
+    "died": ["1787-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1816-09-15"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1839-05-26"
+    },
+    "anniversary": ["08-01"],
+
+    "categories": ["vir", "confessor", "episcopus", "fundator", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/1#4", "1:Augusti/2#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./1#1"],
+        "mr-2004-movable": []
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:St_Alphonsus_Liguori.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/1/19/St_Alphonsus_Liguori.jpg",
+            "attribution": "See page for author, Public domain, via Wikimedia Commons",
+            "area-center-x": 97,
+            "area-center-y": 95,
+            "area-center-to-edge-distance": 91
+        }
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/alfonso-maria-de-liguori.html",
+        "gcatholic": "https://gcatholic.org/p/15584",
+        "wiki": "https://pl.wikipedia.org/wiki/Alfons_Maria_Liguori"
     }
-  ],
-
-  "born": ["1696-09-27"],
-  "died": ["1787-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1816-09-15"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1839-05-26"
-  },
-
-  "also-in-martyrology": ["08-01", "08-02"],
-
-  "forenames": ["alphonsus", "maria"],
-  "categories": ["vir", "confessor", "episcopus", "fundator", "doctor-ecclesiae"],
-
-  "order": ["cssr"],
-  "order-founder": ["cssr"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:St_Alphonsus_Liguori.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/1/19/St_Alphonsus_Liguori.jpg",
-      "attribution": "See page for author, Public domain, via Wikimedia Commons",
-      "area-center-x": 97,
-      "area-center-y": 95,
-      "area-center-to-edge-distance": 91
-    }
-  }
 }

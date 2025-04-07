@@ -698,7 +698,7 @@
         }
     },
     "patrons/alphonsus/lig": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Alfonso Maria de' Liguori",
             "en": "Alphonsus Maria Liguori",

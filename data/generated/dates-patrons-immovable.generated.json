@@ -100,6 +100,20 @@
         }
     },
     "08-01": {
+        "records/patrons/alphonsus/lig": {
+            "name": {
+                "it": "Alfonso Maria de' Liguori",
+                "en": "Alphonsus Maria Liguori",
+                "la": "Alphonsus Maria a Ligorio",
+                "pl": "Alfons Maria Liguori"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 VIII",
+                "assigned-anniversary": "1 VIII",
+                "mr-1956": "1 VIII: #4",
+                "mr-2004": "1 VIII: #1"
+            }
+        },
         "records/patrons/eusebius/ver": {
             "name": {
                 "la": "Eusebius Vercellensis",
@@ -115,6 +129,17 @@
         }
     },
     "08-02": {
+        "records/patrons/alphonsus/lig": {
+            "name": {
+                "it": "Alfonso Maria de' Liguori",
+                "en": "Alphonsus Maria Liguori",
+                "la": "Alphonsus Maria a Ligorio",
+                "pl": "Alfons Maria Liguori"
+            },
+            "sources": {
+                "mr-1956": "2 VIII: #1"
+            }
+        },
         "records/patrons/eusebius/ver": {
             "name": {
                 "la": "Eusebius Vercellensis",
