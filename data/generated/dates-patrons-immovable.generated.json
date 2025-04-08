@@ -1,4 +1,18 @@
 {
+    "01-04": {
+        "records/patrons/titus/cre": {
+            "name": {
+                "el": "Τίτος Κρήτης",
+                "la": "Titus Cretensis",
+                "en": "Titus of Crete",
+                "pl": "Tytus z Krety"
+            },
+            "sources": {
+                "mr-1584": "4 I: #2",
+                "mr-1956": "4 I: #2"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {
@@ -23,6 +37,30 @@
             },
             "sources": {
                 "mr-2004": "26 I: #1"
+            }
+        },
+        "records/patrons/titus/cre": {
+            "name": {
+                "el": "Τίτος Κρήτης",
+                "la": "Titus Cretensis",
+                "en": "Titus of Crete",
+                "pl": "Tytus z Krety"
+            },
+            "sources": {
+                "mr-2004": "26 I: #1"
+            }
+        }
+    },
+    "02-06": {
+        "records/patrons/titus/cre": {
+            "name": {
+                "el": "Τίτος Κρήτης",
+                "la": "Titus Cretensis",
+                "en": "Titus of Crete",
+                "pl": "Tytus z Krety"
+            },
+            "sources": {
+                "mr-1956": "6 II: #1"
             }
         }
     },

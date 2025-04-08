@@ -1,24 +1,53 @@
 {
-  "names": {
-    "el": [
-      "Τίτος Κρήτης"
+    "names": {
+        "el": [
+            "Τίτος Κρήτης"
+        ],
+        "la": [
+            "Titus Cretensis"
+        ],
+        "en": [
+            "Titus of Crete"
+        ],
+        "pl": [
+            "Tytus z Krety",
+            "Tytus Kreteński"
+        ]
+    },
+    "forenames": ["titus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Discipulus sancti Pauli Apostoli",
+            "en": "Disciple of the saint Apostle Paul",
+            "pl": "Uczeń świętego Pawła Apostoła"
+        }
     ],
-    "en": [
-      "Titus of Crete"
-    ],
-    "la": [
-      "Titus Cretensis"
-    ],
-    "pl": [
-      "Tytus z Krety",
-      "Tytus Kreteński"
-    ]
-  },
 
-  "died": ["~96"],
+    "active": true,
 
-  "also-in-martyrology": ["01-04", "01-26", "02-06"],
+    "born": null,
+    "died": ["~96"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["titus"],
-  "categories": ["vir", "confessor", "episcopus"]
+    "categories": ["vir", "confessor", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./4#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/4#2", "1:Februarii/6#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:ian./26#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69129",
+        "wiki": "https://pl.wikipedia.org/wiki/Tytus_z_Krety"
+    }
 }

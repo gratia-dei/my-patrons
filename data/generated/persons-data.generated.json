@@ -8489,11 +8489,11 @@
         }
     },
     "patrons/titus/cre": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Τίτος Κρήτης",
-            "en": "Titus of Crete",
             "la": "Titus Cretensis",
+            "en": "Titus of Crete",
             "pl": "Tytus z Krety"
         },
         "died": [

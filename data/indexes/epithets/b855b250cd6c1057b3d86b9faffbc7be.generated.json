@@ -1,0 +1,30 @@
+{
+    "names": {
+        "en": "Disciple of the saint Apostle Paul"
+    },
+    "translations": {
+        "la": [
+            "Discipulus sancti Pauli Apostoli"
+        ],
+        "en": [
+            "Disciple of the saint Apostle Paul"
+        ],
+        "pl": [
+            "Uczeń świętego Pawła Apostoła"
+        ]
+    },
+    "links": {
+        "records/patrons/timotheus/eph": {
+            "el": "Τιμόθεος",
+            "la": "Timotheus Ephesinus",
+            "en": "Timothy of Ephesus",
+            "pl": "Tymoteusz z Efezu"
+        },
+        "records/patrons/titus/cre": {
+            "el": "Τίτος Κρήτης",
+            "la": "Titus Cretensis",
+            "en": "Titus of Crete",
+            "pl": "Tytus z Krety"
+        }
+    }
+}
