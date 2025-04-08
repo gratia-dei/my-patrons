@@ -1,33 +1,52 @@
 {
-  "names": {
-    "pl": [
-      "Jan Kanty",
-      "Jan z Kęt",
-      "Jan Wacięga"
-    ],
-    "en": [
-      "John Cantius"
-    ],
-    "la": [
-      "Ioannes Cantius",
-      "Ioannes de Kęty"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Jan Kanty",
+            "Jan z Kęt",
+            "Jan Wacięga"
+        ],
+        "la": [
+            "Ioannes Cantius",
+            "Ioannes de Kęty"
+        ],
+        "en": [
+            "John Cantius"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1390-06-24"],
-  "died": ["1473-12-24"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1676-03-28"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1767-07-16"
-  },
+    "born": ["1390-06-24"],
+    "died": ["1473-12-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1676-03-29"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1767-07-16"
+    },
+    "anniversary": ["12-23"],
 
-  "also-in-martyrology": ["10-20", "12-23", "12-24"],
+    "categories": ["vir", "confessor", "presbyter"],
 
-  "forenames": ["ioannes"],
-  "categories": ["vir", "confessor", "presbyter"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/20#1", "1:Decembris/24#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./23#1", "1:dec./24#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-da-kety.html",
+        "gcatholic": "https://gcatholic.org/p/68260",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Kanty"
+    }
 }

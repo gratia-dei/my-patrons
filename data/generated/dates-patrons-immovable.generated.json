@@ -421,6 +421,16 @@
                 "reliable-death-anniversary": "20 X",
                 "mr-2004": "20 X: #8"
             }
+        },
+        "records/patrons/ioannes/ket": {
+            "name": {
+                "pl": "Jan Kanty",
+                "la": "Ioannes Cantius",
+                "en": "John Cantius"
+            },
+            "sources": {
+                "mr-1956": "20 X: #1"
+            }
         }
     },
     "11-08": {
@@ -473,6 +483,33 @@
             },
             "sources": {
                 "mr-1956": "16 XII: #1"
+            }
+        }
+    },
+    "12-23": {
+        "records/patrons/ioannes/ket": {
+            "name": {
+                "pl": "Jan Kanty",
+                "la": "Ioannes Cantius",
+                "en": "John Cantius"
+            },
+            "sources": {
+                "assigned-anniversary": "23 XII",
+                "mr-2004": "23 XII: #1"
+            }
+        }
+    },
+    "12-24": {
+        "records/patrons/ioannes/ket": {
+            "name": {
+                "pl": "Jan Kanty",
+                "la": "Ioannes Cantius",
+                "en": "John Cantius"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 XII",
+                "mr-1956": "24 XII: #2",
+                "mr-2004": "24 XII: #5"
             }
         }
     },
