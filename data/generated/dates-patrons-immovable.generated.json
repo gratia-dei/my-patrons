@@ -407,6 +407,32 @@
             }
         }
     },
+    "11-08": {
+        "records/patrons/martinus/tur": {
+            "name": {
+                "la": "Martinus Turonensis",
+                "en": "Martin of Tours",
+                "pl": "Marcin z Tours"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI"
+            }
+        }
+    },
+    "11-11": {
+        "records/patrons/martinus/tur": {
+            "name": {
+                "la": "Martinus Turonensis",
+                "en": "Martin of Tours",
+                "pl": "Marcin z Tours"
+            },
+            "sources": {
+                "mr-1584": "11 XI: #1",
+                "mr-1956": "11 XI: #1",
+                "mr-2004": "11 XI: #1"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/andreas/apo": {
             "name": {

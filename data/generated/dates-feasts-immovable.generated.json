@@ -505,6 +505,18 @@
             }
         }
     },
+    "07-04": {
+        "records/patrons/martinus/tur#tmt": {
+            "name": {
+                "la": "Martinus Turonensis (Translatio sancti Martini, Episcopi et Confessoris; et Dedicatio Basilicae suae hoc ipso die, quo etiam is ante aliquot annos Episcopum fuerat ordinatus)",
+                "pl": "Marcin z Tours (Przeniesienie świętego Marcina, Biskupa i Wyznawcy; i Poświęcenie jego Bazyliki tego samego dnia, w którym kilka lat wcześniej przyjął on święcenia biskupie)"
+            },
+            "sources": {
+                "mr-1584": "4 VII: #9",
+                "mr-1956": "4 VII: #9"
+            }
+        }
+    },
     "07-06": {
         "records/patrons/petrus/apo#ppo": {
             "name": {
