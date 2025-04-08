@@ -359,6 +359,16 @@
                 "mr-1584": "9 V: #6",
                 "mr-1956": "9 V: #8"
             }
+        },
+        "records/patrons/lucas/eva#trc": {
+            "name": {
+                "la": "Lucas Evangelista (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "pl": "Łukasz Ewangelista (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "9 V: #6",
+                "mr-1956": "9 V: #8"
+            }
         }
     },
     "05-13": {

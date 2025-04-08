@@ -5140,18 +5140,26 @@
         }
     },
     "patrons/lucas/eva": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Ευαγγελιστής Λουκάς",
-            "en": "Luke the Evangelist",
             "la": "Lucas Evangelista",
+            "en": "Luke the Evangelist",
             "pl": "Łukasz Ewangelista"
         },
         "died": [
             ">80",
             "<100"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/trc": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+                    "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
+                }
+            }
+        }
     },
     "patrons/lucia": {
         "names": {

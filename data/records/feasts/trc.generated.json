@@ -5,6 +5,12 @@
             "la": "Andreas Apostolus",
             "en": "Andrew the Apostle",
             "pl": "Andrzej Apostoł"
+        },
+        "records/patrons/lucas/eva": {
+            "el": "Ευαγγελιστής Λουκάς",
+            "la": "Lucas Evangelista",
+            "en": "Luke the Evangelist",
+            "pl": "Łukasz Ewangelista"
         }
     }
 }

@@ -314,6 +314,21 @@
             }
         }
     },
+    "10-18": {
+        "records/patrons/lucas/eva": {
+            "name": {
+                "el": "Ευαγγελιστής Λουκάς",
+                "la": "Lucas Evangelista",
+                "en": "Luke the Evangelist",
+                "pl": "Łukasz Ewangelista"
+            },
+            "sources": {
+                "mr-1584": "18 X: #1",
+                "mr-1956": "18 X: #1",
+                "mr-2004": "18 X: #1"
+            }
+        }
+    },
     "10-20": {
         "records/patrons/iacobus/str": {
             "name": {

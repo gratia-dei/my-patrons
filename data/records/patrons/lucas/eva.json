@@ -1,24 +1,61 @@
 {
-  "names": {
-    "el": [
-      "Ευαγγελιστής Λουκάς"
-    ],
-    "en": [
-      "Luke the Evangelist"
-    ],
-    "la": [
-      "Lucas Evangelista"
-    ],
-    "pl": [
-      "Łukasz Ewangelista"
-    ]
-  },
+    "names": {
+        "el": [
+            "Ευαγγελιστής Λουκάς"
+        ],
+        "la": [
+            "Lucas Evangelista"
+        ],
+        "en": [
+            "Luke the Evangelist"
+        ],
+        "pl": [
+            "Łukasz Ewangelista"
+        ]
+    },
+    "forenames": ["lucas"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">1", "<16"],
-  "died": [">80", "<100"],
+    "active": true,
 
-  "also-in-martyrology": ["10-18"],
+    "born": null,
+    "died": [">80", "<100"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["lucas"],
-  "categories": ["vir", "evangelista", "confessor", "medicus"]
+    "categories": ["vir", "evangelista", "confessor", "medicus"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./18#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/18#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./18#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "trc": {
+            "data-links": {
+                "mr-1584": ["2:Mai./9#6"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Maji/9#8"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69206",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%81ukasz_Ewangelista"
+    }
 }
