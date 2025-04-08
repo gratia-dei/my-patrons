@@ -1,0 +1,67 @@
+{
+    "names": {
+        "el": [
+            "Τιμόθεος"
+        ],
+        "la": [
+            "Timotheus Ephesinus"
+        ],
+        "en": [
+            "Timothy of Ephesus"
+        ],
+        "pl": [
+            "Tymoteusz z Efezu"
+        ]
+    },
+    "forenames": ["timotheus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Discipulus beati Pauli Apostoli",
+            "en": "Disciple of the blessed Apostle Paul",
+            "pl": "Uczeń błogosławionego Pawła Apostoła"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["~97"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./24#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/24#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./26#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "trc": {
+            "data-links": {
+                "mr-1584": ["3:Mai./9#6"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["3:Maji/9#8"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69128",
+        "wiki": "https://pl.wikipedia.org/wiki/Tymoteusz_(posta%C4%87_biblijna)"
+    }
+}

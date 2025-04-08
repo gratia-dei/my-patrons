@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Disciple of the blessed Apostle Paul"
+    },
+    "translations": {
+        "la": [
+            "Discipulus beati Pauli Apostoli"
+        ],
+        "en": [
+            "Disciple of the blessed Apostle Paul"
+        ],
+        "pl": [
+            "Uczeń błogosławionego Pawła Apostoła"
+        ]
+    },
+    "links": {
+        "records/patrons/timotheus/eph": {
+            "el": "Τιμόθεος",
+            "la": "Timotheus Ephesinus",
+            "en": "Timothy of Ephesus",
+            "pl": "Tymoteusz z Efezu"
+        }
+    }
+}

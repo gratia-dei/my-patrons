@@ -1,0 +1,27 @@
+{
+    "names": {
+        "en": "Timothy"
+    },
+    "translations": {
+        "la": [
+            "Timotheus"
+        ],
+        "en": [
+            "Timothy"
+        ],
+        "pl": [
+            "Tymoteusz"
+        ],
+        "el": [
+            "Τιμόθεος"
+        ]
+    },
+    "links": {
+        "records/patrons/timotheus/eph": {
+            "el": "Τιμόθεος",
+            "la": "Timotheus Ephesinus",
+            "en": "Timothy of Ephesus",
+            "pl": "Tymoteusz z Efezu"
+        }
+    }
+}

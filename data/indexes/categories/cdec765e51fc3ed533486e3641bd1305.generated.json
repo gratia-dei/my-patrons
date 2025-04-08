@@ -527,6 +527,12 @@
             "la": "Thomas Becket",
             "pl": "Tomasz Becket"
         },
+        "records/patrons/timotheus/eph": {
+            "el": "Τιμόθεος",
+            "la": "Timotheus Ephesinus",
+            "en": "Timothy of Ephesus",
+            "pl": "Tymoteusz z Efezu"
+        },
         "records/patrons/titus/cre": {
             "el": "Τίτος Κρήτης",
             "en": "Titus of Crete",

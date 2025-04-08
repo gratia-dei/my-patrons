@@ -369,6 +369,16 @@
                 "mr-1584": "9 V: #6",
                 "mr-1956": "9 V: #8"
             }
+        },
+        "records/patrons/timotheus/eph#trc": {
+            "name": {
+                "la": "Timotheus Ephesinus (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "pl": "Tymoteusz z Efezu (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "9 V: #6",
+                "mr-1956": "9 V: #8"
+            }
         }
     },
     "05-13": {
