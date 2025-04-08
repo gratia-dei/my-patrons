@@ -1,16 +1,16 @@
 {
     "names": {
-        "en": "spouse / wifish / wife"
+        "la": "coniunx / maritus / uxor"
     },
     "translations": {
         "la": [
-            "coniunx / uxorius / uxor"
+            "coniunx / maritus / uxor"
         ],
         "en": [
-            "spouse / wifish / wife"
+            "spouse / husband / wife"
         ],
         "pl": [
-            "małżonek / żonaty / małżonka"
+            "małżonek / mąż / żona"
         ]
     },
     "links": {
@@ -18,6 +18,11 @@
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
             "pl": "Anastazja z Dalmacji"
+        },
+        "records/patrons/chrysanthus/dar": {
+            "la": "Chrysanthus /+ Daria",
+            "en": "Chrysanthus /+ Daria",
+            "pl": "Chryzant /+ Daria"
         },
         "records/patrons/daria/chr": {
             "la": "Daria /+ Chrysanthus",

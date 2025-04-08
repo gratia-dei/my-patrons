@@ -98,9 +98,6 @@
     "221182760f5b980c97c7a74a94d57364": {
         "la": "regina"
     },
-    "2270ebf9b927c980972bb7c93a443e8c": {
-        "pl": "małżonek"
-    },
     "22cada172c02ac4632f8966e6fc31fd9": {
         "en": "governor / governoress"
     },
@@ -110,14 +107,8 @@
     "249ef937372dec2eb1a1220b33376bd0": {
         "pl": "lewita"
     },
-    "24e7628d5af80f8d2eb721893b1679a5": {
-        "la": "maritus"
-    },
     "24f4f48771b1377146c601ae2e0e38aa": {
         "la": "philosophus"
-    },
-    "24f7d0e9933d75240d910efb034878d7": {
-        "la": "coniunx / uxorius / uxor"
     },
     "259058bb86d85d62f14b7feee0a165da": {
         "la": "monialis"
@@ -149,9 +140,6 @@
     },
     "2af19384a5ee00fab3a4e213307626d4": {
         "pl": "wdowa"
-    },
-    "2eda1d4927069c4a3d14800dce8f7ac1": {
-        "en": "spouse / wifish / wife"
     },
     "2f18e79578f7e0d19064a02ae4f4550f": {
         "la": "conditor / conditrix"
@@ -246,6 +234,9 @@
     "5652ea6b052915bdfd36d3aad6c5a2b3": {
         "pl": "słupnik"
     },
+    "5865c6d1bc343612927e89ef033167ab": {
+        "en": "spouse / husband / wife"
+    },
     "590f35821fbed7b2ab58a9dbaf36c42d": {
         "la": "vir"
     },
@@ -282,9 +273,6 @@
     },
     "6a81060b83b919bc115112bf840eca63": {
         "la": "miles"
-    },
-    "6aac1ebbcadf867ee0a61c32ceeab950": {
-        "pl": "małżonek / żonaty / małżonka"
     },
     "6b4023d367b91c97f19597c4069337d3": {
         "la": "rex"
@@ -383,6 +371,9 @@
     "9f72ba8ec590a081a3f8e643c2491a6b": {
         "pl": "kapłan"
     },
+    "a088c3f6d2155340d0b0fad5327035f4": {
+        "la": "coniunx / maritus / uxor"
+    },
     "a149bf7be5cbfad304cdd73afddd1aff": {
         "pl": "lekarz"
     },
@@ -397,9 +388,6 @@
     },
     "a2acab2753eb958789c5330d17ecb543": {
         "la": "fundator / fundatrix"
-    },
-    "a2d4100de5a4c446ab1f52b1bf20cd93": {
-        "en": "husband"
     },
     "a380233d6a8232c84bdf6399654a52bf": {
         "pl": "akolita"
@@ -574,6 +562,9 @@
     },
     "e71314dc2768dcf6fd370ad09ad30959": {
         "la": "levita"
+    },
+    "ea7caa2a7b2851ee4cda445aa7646fee": {
+        "pl": "małżonek / mąż / żona"
     },
     "edb6881af488cf172c19b43187f1f407": {
         "pl": "założyciel / założycielka"

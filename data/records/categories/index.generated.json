@@ -90,9 +90,9 @@
         "pl": "wyznawca"
     },
     "coniunx": {
-        "la": "coniunx / uxorius / uxor",
-        "en": "spouse / wifish / wife",
-        "pl": "małżonek / żonaty / małżonka"
+        "la": "coniunx / maritus / uxor",
+        "en": "spouse / husband / wife",
+        "pl": "małżonek / mąż / żona"
     },
     "constitutor": {
         "la": "constitutor",
@@ -178,11 +178,6 @@
         "la": "levita",
         "en": "levi",
         "pl": "lewita"
-    },
-    "maritus": {
-        "la": "maritus",
-        "en": "husband",
-        "pl": "małżonek"
     },
     "martyr": {
         "la": "martyr",
