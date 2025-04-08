@@ -123,6 +123,19 @@
             }
         }
     },
+    "05-04": {
+        "records/patrons/monica/vid": {
+            "name": {
+                "la": "Monica Thagastensis",
+                "en": "Monica of Tagasta",
+                "pl": "Monika z Tagasty"
+            },
+            "sources": {
+                "mr-1584": "4 V: #1",
+                "mr-1956": "4 V: #1"
+            }
+        }
+    },
     "05-30": {
         "records/patrons/ioanna/arc": {
             "name": {
@@ -377,6 +390,18 @@
             },
             "sources": {
                 "mr-2004": "2 VIII: #1"
+            }
+        }
+    },
+    "08-27": {
+        "records/patrons/monica/vid": {
+            "name": {
+                "la": "Monica Thagastensis",
+                "en": "Monica of Tagasta",
+                "pl": "Monika z Tagasty"
+            },
+            "sources": {
+                "mr-2004": "27 VIII: #1"
             }
         }
     },

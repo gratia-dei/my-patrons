@@ -278,6 +278,18 @@
             }
         }
     },
+    "04-09": {
+        "records/patrons/monica/vid#tmv": {
+            "name": {
+                "la": "Monica Thagastensis (Translatio corporis sanctae Monicae)",
+                "pl": "Monika z Tagasty (Przeniesienie ciała świętej Moniki)"
+            },
+            "sources": {
+                "mr-1584": "9 IV: #10",
+                "mr-1956": "9 IV: #11"
+            }
+        }
+    },
     "04-24": {
         "records/patrons/augustinus/hip#cah": {
             "name": {

@@ -6497,7 +6497,7 @@
         }
     },
     "patrons/monica/vid": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",
@@ -6506,7 +6506,15 @@
         "died": [
             "387"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tmv": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sanctae Monicae",
+                    "pl": "Przeniesienie ciała świętej Moniki"
+                }
+            }
+        }
     },
     "patrons/multi": {
         "names": {
