@@ -107,6 +107,22 @@
             }
         }
     },
+    "04-26": {
+        "records/patrons/richarius/cen": {
+            "name": {
+                "fr": "Riquier de Centule",
+                "la": "Richarius Centulensis",
+                "en": "Richarius of Centula",
+                "pl": "Richariusz z Centuli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IV",
+                "mr-1584": "26 IV: #7",
+                "mr-1956": "26 IV: #7",
+                "mr-2004": "26 IV: #4"
+            }
+        }
+    },
     "05-30": {
         "records/patrons/ioanna/arc": {
             "name": {

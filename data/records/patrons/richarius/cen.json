@@ -1,28 +1,47 @@
 {
-  "names": {
-    "fr": [
-      "Riquier de Centule",
-      "Riquier"
-    ],
-    "en": [
-      "Richarius of Centula",
-      "Richarius"
-    ],
-    "la": [
-      "Richarius Centulensis",
-      "Richarius"
-    ],
-    "pl": [
-      "Rychard z Centuli",
-      "Rychard"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Riquier de Centule"
+        ],
+        "la": [
+            "Richarius Centulensis"
+        ],
+        "en": [
+            "Richarius of Centula"
+        ],
+        "pl": [
+            "Richariusz z Centuli",
+            "Rychariusz z Centuli"
+        ]
+    },
+    "forenames": ["richarius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~560"],
-  "died": ["645-04-26"],
+    "active": true,
 
-  "also-in-martyrology": ["04-26"],
+    "born": ["~560"],
+    "died": ["645-04-26"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["richarius"],
-  "categories": ["vir", "confessor", "presbyter"]
+    "categories": ["vir", "confessor", "presbyter"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./26#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/26#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./26#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73424",
+        "wiki": "https://en.wikipedia.org/wiki/Richarius"
+    }
 }

@@ -626,9 +626,6 @@
         "en": "Eunus",
         "pl": "Eunus"
     },
-    "330cde80123b2d965ef5911ad2d9ab49": {
-        "pl": "Rychard"
-    },
     "337d7fa34b085b860536485535db17c7": {
         "pl": "Szczepan"
     },
@@ -1504,6 +1501,9 @@
     "849cb31e6500d5b2ea911ac0d3bb728f": {
         "pl": "Zygmunt"
     },
+    "84ba97b71d6144a6ed0a6635820a13ab": {
+        "pl": "Richariusz"
+    },
     "84d25b44916943b3890cee054ebef343": {
         "la": "Augustinus"
     },
@@ -2218,6 +2218,9 @@
     "bc442a3d927b2190ca2df2d49de47b14": {
         "el": "Γρηγόριος",
         "grc": "Γρηγόριος"
+    },
+    "bc54034a0ba1c0ffb42b1d6c647c1482": {
+        "pl": "Rychariusz"
     },
     "bc6d18d4553306b76115602aa3c8516f": {
         "la": "Chrysanthus",

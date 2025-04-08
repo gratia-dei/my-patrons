@@ -7481,17 +7481,17 @@
         "names": {
             "la": "Richarius",
             "en": "Richarius",
-            "pl": "Rychard",
+            "pl": "Richariusz",
             "fr": "Riquier"
         }
     },
     "patrons/richarius/cen": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Riquier de Centule",
-            "en": "Richarius of Centula",
             "la": "Richarius Centulensis",
-            "pl": "Rychard z Centuli"
+            "en": "Richarius of Centula",
+            "pl": "Richariusz z Centuli"
         },
         "died": [
             "645-04-26"

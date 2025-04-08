@@ -432,9 +432,9 @@
         },
         "records/patrons/richarius/cen": {
             "fr": "Riquier de Centule",
-            "en": "Richarius of Centula",
             "la": "Richarius Centulensis",
-            "pl": "Rychard z Centuli"
+            "en": "Richarius of Centula",
+            "pl": "Richariusz z Centuli"
         },
         "records/patrons/robertus/bel": {
             "it": "Roberto Bellarmino",
