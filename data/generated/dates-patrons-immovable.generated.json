@@ -64,6 +64,32 @@
             }
         }
     },
+    "02b25": {
+        "records/patrons/matthias/apo": {
+            "name": {
+                "la": "Matthias Apostolus",
+                "en": "Matthias the Apostle",
+                "pl": "Maciej Apostoł"
+            },
+            "sources": {
+                "mr-1584": "25 II: #1",
+                "mr-1956": "25 II: #1"
+            }
+        }
+    },
+    "02n24": {
+        "records/patrons/matthias/apo": {
+            "name": {
+                "la": "Matthias Apostolus",
+                "en": "Matthias the Apostle",
+                "pl": "Maciej Apostoł"
+            },
+            "sources": {
+                "mr-1584": "24 II: #1",
+                "mr-1956": "24 II: #1"
+            }
+        }
+    },
     "03-17": {
         "records/patrons/patricius/hib": {
             "name": {
@@ -133,6 +159,18 @@
             "sources": {
                 "mr-1584": "4 V: #1",
                 "mr-1956": "4 V: #1"
+            }
+        }
+    },
+    "05-14": {
+        "records/patrons/matthias/apo": {
+            "name": {
+                "la": "Matthias Apostolus",
+                "en": "Matthias the Apostle",
+                "pl": "Maciej Apostoł"
+            },
+            "sources": {
+                "mr-2004": "14 V: #1"
             }
         }
     },

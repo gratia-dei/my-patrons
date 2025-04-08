@@ -6255,16 +6255,25 @@
         }
     },
     "patrons/matthias/apo": {
-        "active": false,
+        "active": true,
         "names": {
-            "en": "Matthias the Apostle",
             "la": "Matthias Apostolus",
+            "en": "Matthias the Apostle",
             "pl": "Maciej Apostoł"
         },
         "died": [
-            "~80"
+            ">50",
+            "<80"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/vma": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sancti Matthiae Apostoli",
+                    "pl": "Wigilia świętego Macieja Apostoła"
+                }
+            }
+        }
     },
     "patrons/mauritius": {
         "names": {

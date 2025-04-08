@@ -1,20 +1,59 @@
 {
-  "names": {
-    "en": [
-      "Matthias the Apostle"
-    ],
-    "la": [
-      "Matthias Apostolus"
-    ],
-    "pl": [
-      "Maciej Apostoł"
-    ]
-  },
+    "names": {
+        "la": [
+            "Matthias Apostolus"
+        ],
+        "en": [
+            "Matthias the Apostle"
+        ],
+        "pl": [
+            "Maciej Apostoł"
+        ]
+    },
+    "forenames": ["matthias"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~80"],
+    "active": true,
 
-  "also-in-martyrology": ["02n24", "02b25", "05-14"],
+    "born": null,
+    "died": [">50", "<80"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["matthias"],
-  "categories": ["vir", "apostolus", "martyr"]
+    "categories": ["vir", "apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./24n#1", "1:Febr./25b#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/24n#1", "1:Februarii/25b#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/14#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vma": {
+            "data-links": {
+                "mr-1584": ["1:Febr./23n#1", "1:Febr./24b#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Februarii/23n#1", "1:Februarii/24b#1"],
+                "mr-1956-variations": ["1:Februarii/23n#1-ab-1960-07-26", "1:Februarii/24b#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69202",
+        "wiki": "https://pl.wikipedia.org/wiki/Maciej_Aposto%C5%82"
+    }
 }

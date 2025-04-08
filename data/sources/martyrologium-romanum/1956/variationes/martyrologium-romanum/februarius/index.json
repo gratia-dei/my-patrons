@@ -1,5 +1,13 @@
 {
     "22": {
         "la": "22. Octavo Kalendas Martii"
+    },
+
+    "23-in-anno-non-bissextili": {
+        "la": "23. Septimo Kalendas Martii --- in anno non-bissextili"
+    },
+
+    "24-in-anno-bissextili": {
+        "la": "24. Septimo Kalendas Martii --- in anno bissextili"
     }
 }

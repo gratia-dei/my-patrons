@@ -15,8 +15,8 @@
     },
     "links": {
         "records/patrons/matthias/apo": {
-            "en": "Matthias the Apostle",
             "la": "Matthias Apostolus",
+            "en": "Matthias the Apostle",
             "pl": "Maciej Apostoł"
         }
     }

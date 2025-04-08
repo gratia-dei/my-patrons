@@ -410,5 +410,9 @@
         "la": "Visitatio Beatae Mariae Virginis",
         "en": "The Visitation of the Blessed Virgin Mary",
         "pl": "Nawiedzenie Błogosławionej Maryi Dziewicy"
+    },
+    "vma": {
+        "la": "Vigilia sancti Matthiae Apostoli",
+        "pl": "Wigilia świętego Macieja Apostoła"
     }
 }

@@ -194,6 +194,18 @@
             }
         }
     },
+    "02b24": {
+        "records/patrons/matthias/apo#vma": {
+            "name": {
+                "la": "Matthias Apostolus (Vigilia sancti Matthiae Apostoli)",
+                "pl": "Maciej Apostoł (Wigilia świętego Macieja Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "24 II: #1",
+                "mr-1956": "24 II: #1"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/ioannes/bap#cib": {
             "name": {
@@ -215,6 +227,18 @@
             "sources": {
                 "mr-1584": "29 II: #5",
                 "mr-1956": "29 II: #6"
+            }
+        }
+    },
+    "02n23": {
+        "records/patrons/matthias/apo#vma": {
+            "name": {
+                "la": "Matthias Apostolus (Vigilia sancti Matthiae Apostoli)",
+                "pl": "Maciej Apostoł (Wigilia świętego Macieja Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "23 II: #1",
+                "mr-1956": "23 II: #1"
             }
         }
     },
