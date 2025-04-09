@@ -435,8 +435,8 @@
         "records/patrons/clara/asi": {
             "name": {
                 "it": "Chiara d'Assisi",
-                "en": "Clara of Assisi",
                 "la": "Clara Assisiensis",
+                "en": "Clara of Assisi",
                 "pl": "Klara z Asyżu"
             },
             "sources": {
@@ -450,8 +450,8 @@
         "records/patrons/clara/asi": {
             "name": {
                 "it": "Chiara d'Assisi",
-                "en": "Clara of Assisi",
                 "la": "Clara Assisiensis",
+                "en": "Clara of Assisi",
                 "pl": "Klara z Asyżu"
             },
             "sources": {
@@ -484,6 +484,20 @@
                 "mr-1584": "28 VIII: #1",
                 "mr-1956": "28 VIII: #1",
                 "mr-2004": "28 VIII: #1"
+            }
+        }
+    },
+    "10-12": {
+        "records/patrons/carolus/acu": {
+            "name": {
+                "it": "Carlo Acutis",
+                "la": "Carolus Acutis",
+                "en": "Charles Acutis",
+                "pl": "Karol Acutis"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 X",
+                "anniversary": "12 X"
             }
         }
     },

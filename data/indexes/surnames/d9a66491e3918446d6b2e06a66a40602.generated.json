@@ -10,8 +10,8 @@
     "links": {
         "records/patrons/carolus/acu": {
             "it": "Carlo Acutis",
-            "en": "Charles Acutis",
             "la": "Carolus Acutis",
+            "en": "Charles Acutis",
             "pl": "Karol Acutis"
         }
     }

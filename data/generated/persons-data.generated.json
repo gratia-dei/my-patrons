@@ -1900,11 +1900,11 @@
         }
     },
     "patrons/carolus/acu": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Carlo Acutis",
-            "en": "Charles Acutis",
             "la": "Carolus Acutis",
+            "en": "Charles Acutis",
             "pl": "Karol Acutis"
         },
         "died": [
@@ -2167,8 +2167,8 @@
         "active": true,
         "names": {
             "it": "Chiara d'Assisi",
-            "en": "Clara of Assisi",
             "la": "Clara Assisiensis",
+            "en": "Clara of Assisi",
             "pl": "Klara z Asyżu"
         },
         "died": [

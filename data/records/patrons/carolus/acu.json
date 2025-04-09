@@ -1,37 +1,60 @@
 {
-  "names": {
-    "it": [
-      "Carlo Acutis"
+    "names": {
+        "it": [
+            "Carlo Acutis"
+        ],
+        "la": [
+            "Carolus Acutis",
+            "Carlo Acutis"
+        ],
+        "en": [
+            "Charles Acutis",
+            "Carl Acutis",
+            "Carlo Acutis"
+        ],
+        "pl": [
+            "Karol Acutis",
+            "Carlo Acutis"
+        ]
+    },
+    "forenames": ["carolus"],
+    "surnames": [
+        {
+            "it": "Acutis"
+        }
     ],
-    "en": [
-      "Charles Acutis",
-      "Carl Acutis",
-      "Carlo Acutis"
-    ],
-    "la": [
-      "Carolus Acutis",
-      "Carlo Acutis"
-    ],
-    "pl": [
-      "Karol Acutis",
-      "Carlo Acutis"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Acutis"
+    "active": true,
+
+    "born": ["1991-05-03"],
+    "died": ["2006-10-12"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2020-10-10"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2025-04-27"
+    },
+    "anniversary": ["10-12"],
+
+    "categories": ["vir"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/carlo-acutis.html",
+        "gcatholic": "https://gcatholic.org/p/70130",
+        "wiki": "https://pl.wikipedia.org/wiki/Karol_Acutis"
     }
-  ],
-
-  "born": ["1991-05-03"],
-  "died": ["2006-10-12"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2020-10-10"
-  },
-
-  "forenames": ["carolus"],
-  "categories": ["vir"]
 }
