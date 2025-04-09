@@ -1,44 +1,58 @@
 {
-  "names": {
-    "pl": [
-      "Albert Chmielowski",
-      "Adam Chmielowski",
-      "Brat Albert"
+    "names": {
+        "pl": [
+            "Albert Chmielowski",
+            "Adam Chmielowski",
+            "Brat Albert"
+        ],
+        "la": [
+            "Albertus Chmielowski",
+            "Adamus Chmielowski"
+        ],
+        "en": [
+            "Albert Chmielowski",
+            "Adam Chmielowski",
+            "Brat Albert"
+        ]
+    },
+    "forenames": ["albertus", "adamus"],
+    "surnames": [
+        {
+            "pl": "Chmielowski"
+        }
     ],
-    "en": [
-      "Albert Chmielowski",
-      "Adam Chmielowski",
-      "Brat Albert"
-    ],
-    "la": [
-      "Albertus Chmielowski",
-      "Adamus Chmielowski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Chmielowski"
+    "active": true,
+
+    "born": ["1845-08-20"],
+    "died": ["1916-12-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1983-06-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1989-11-12"
+    },
+    "anniversary": ["06-17"],
+
+    "categories": ["vir", "fundator", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./25#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/alberto-adamo-chmielowski.html",
+        "gcatholic": "https://gcatholic.org/p/67224",
+        "wiki": "https://pl.wikipedia.org/wiki/Adam_Chmielowski"
     }
-  ],
-
-  "born": ["1845-08-20"],
-  "died": ["1916-12-25"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1983-06-22"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1989-11-12"
-  },
-
-  "also-in-martyrology": ["12-25"],
-
-  "forenames": ["albertus", "adamus"],
-  "categories": ["vir", "fundator", "religiosus"],
-
-  "order": ["tor"],
-  "order-founder": ["cfapu", "csapi"]
 }

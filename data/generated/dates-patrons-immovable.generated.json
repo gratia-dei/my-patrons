@@ -204,6 +204,18 @@
             }
         }
     },
+    "06-17": {
+        "records/patrons/albertus/chm": {
+            "name": {
+                "pl": "Albert Chmielowski",
+                "la": "Albertus Chmielowski",
+                "en": "Albert Chmielowski"
+            },
+            "sources": {
+                "feast": "17 VI"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {
@@ -761,6 +773,19 @@
                 "reliable-death-anniversary": "24 XII",
                 "mr-1956": "24 XII: #2",
                 "mr-2004": "24 XII: #5"
+            }
+        }
+    },
+    "12-25": {
+        "records/patrons/albertus/chm": {
+            "name": {
+                "pl": "Albert Chmielowski",
+                "la": "Albertus Chmielowski",
+                "en": "Albert Chmielowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 XII",
+                "mr-2004": "25 XII: #9"
             }
         }
     },

@@ -570,11 +570,11 @@
         }
     },
     "patrons/albertus/chm": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Albert Chmielowski",
-            "en": "Albert Chmielowski",
-            "la": "Albertus Chmielowski"
+            "la": "Albertus Chmielowski",
+            "en": "Albert Chmielowski"
         },
         "died": [
             "1916-12-25"
