@@ -1,48 +1,64 @@
 {
-  "names": {
-    "it": [
-      "Pio da Pietrelcina",
-      "Francesco Forgione",
-      "Padre Pio"
+    "names": {
+        "it": [
+            "Pio da Pietrelcina",
+            "Francesco Forgione",
+            "Padre Pio"
+        ],
+        "la": [
+            "Pius de Pietrelcina",
+            "Francesco Forgione",
+            "Pius Franciscus Forgione de Pietrelcina"
+        ],
+        "en": [
+            "Pio of Pietrelcina",
+            "Francesco Forgione",
+            "Padre Pio"
+        ],
+        "pl": [
+            "Pio z Pietrelciny",
+            "Francesco Forgione",
+            "Ojciec Pio"
+        ]
+    },
+    "forenames": ["pius", "franciscus"],
+    "surnames": [
+        {
+            "it": "Forgione"
+        }
     ],
-    "en": [
-      "Pio of Pietrelcina",
-      "Francesco Forgione",
-      "Padre Pio"
-    ],
-    "la": [
-      "Pius de Pietrelcina",
-      "Francesco Forgione",
-      "Pius Franciscus Forgione de Pietrelcina"
-    ],
-    "pl": [
-      "Pio z Pietrelciny",
-      "Francesco Forgione",
-      "Ojciec Pio"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Forgione"
+    "active": true,
+
+    "born": ["1887-05-25"],
+    "died": ["1968-09-23"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-05-02"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2002-06-16"
+    },
+    "anniversary": ["09-23"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pio-da-pietrelcina.html",
+        "gcatholic": "https://gcatholic.org/p/67248",
+        "wiki": "https://pl.wikipedia.org/wiki/Pio_z_Pietrelciny"
     }
-  ],
-
-  "born": ["1887-05-25"],
-  "died": ["1968-09-23"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-05-02"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2002-06-16"
-  },
-
-  "also-in-martyrology": ["09-23"],
-
-  "forenames": ["pius", "franciscus"],
-  "categories": ["vir", "presbyter"],
-  "order": ["ofmcap"]
 }

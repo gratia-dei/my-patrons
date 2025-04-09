@@ -7363,11 +7363,11 @@
         "feasts": []
     },
     "patrons/pius/pie": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Pio da Pietrelcina",
-            "en": "Pio of Pietrelcina",
             "la": "Pius de Pietrelcina",
+            "en": "Pio of Pietrelcina",
             "pl": "Pio z Pietrelciny"
         },
         "died": [
