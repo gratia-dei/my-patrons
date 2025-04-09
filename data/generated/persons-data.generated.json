@@ -3019,17 +3019,32 @@
         }
     },
     "patrons/franciscus/asi": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Francesco d'Assisi",
-            "en": "Francis of Assisi",
             "la": "Franciscus Asisiensis",
+            "en": "Francis of Assisi",
             "pl": "Franciszek z Asyżu"
         },
         "died": [
             "1226-10-03"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tfa": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Francisci",
+                    "pl": "Przeniesienie świętego Franciszka"
+                }
+            },
+            "feasts/fas": {
+                "active": true,
+                "names": {
+                    "la": "Stigmatum Impressio sancti Francisci",
+                    "pl": "Odciśnięcie Stygmatów świętego Franciszka"
+                }
+            }
+        }
     },
     "patrons/franciscus/bor": {
         "active": false,

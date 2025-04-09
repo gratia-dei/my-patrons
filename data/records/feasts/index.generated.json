@@ -148,6 +148,10 @@
         "la": "feria sexta in Passione Domini",
         "pl": "Wielki Piątek"
     },
+    "fas": {
+        "la": "Stigmatum Impressio sancti Francisci",
+        "pl": "Odciśnięcie Stygmatów świętego Franciszka"
+    },
     "fat": {
         "la": "Beata Maria Virgo de Fatima",
         "pl": "Błogosławiona Maryja Dziewica z Fatimy"
@@ -373,6 +377,10 @@
     "tah": {
         "la": "Translatio corporis sancti Augustini",
         "pl": "Przeniesienie ciała świętego Augustyna"
+    },
+    "tfa": {
+        "la": "Translatio sancti Francisci",
+        "pl": "Przeniesienie świętego Franciszka"
     },
     "tmt": {
         "la": "Translatio sancti Martini, Episcopi et Confessoris; et Dedicatio Basilicae suae hoc ipso die, quo etiam is ante aliquot annos Episcopum fuerat ordinatus",

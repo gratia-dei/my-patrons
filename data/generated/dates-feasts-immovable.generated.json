@@ -438,6 +438,18 @@
             }
         }
     },
+    "05-25": {
+        "records/patrons/franciscus/asi#tfa": {
+            "name": {
+                "la": "Franciscus Asisiensis (Translatio sancti Francisci)",
+                "pl": "Franciszek z Asyżu (Przeniesienie świętego Franciszka)"
+            },
+            "sources": {
+                "mr-1584": "25 V: #9",
+                "mr-1956": "25 V: #12"
+            }
+        }
+    },
     "05-31": {
         "records/patrons/maria/naz#reg": {
             "name": {
@@ -769,6 +781,17 @@
                 "mr-1956": "15 IX: #2",
                 "mr-1956-variations": "15 IX: #2-ab-1960-07-26",
                 "mr-2004": "15 IX: #1"
+            }
+        }
+    },
+    "09-17": {
+        "records/patrons/franciscus/asi#fas": {
+            "name": {
+                "la": "Franciscus Asisiensis (Stigmatum Impressio sancti Francisci)",
+                "pl": "Franciszek z Asyżu (Odciśnięcie Stygmatów świętego Franciszka)"
+            },
+            "sources": {
+                "mr-1956": "17 IX: #1"
             }
         }
     },

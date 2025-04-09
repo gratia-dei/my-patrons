@@ -501,6 +501,34 @@
             }
         }
     },
+    "10-03": {
+        "records/patrons/franciscus/asi": {
+            "name": {
+                "it": "Francesco d'Assisi",
+                "la": "Franciscus Asisiensis",
+                "en": "Francis of Assisi",
+                "pl": "Franciszek z Asyżu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 X"
+            }
+        }
+    },
+    "10-04": {
+        "records/patrons/franciscus/asi": {
+            "name": {
+                "it": "Francesco d'Assisi",
+                "la": "Franciscus Asisiensis",
+                "en": "Francis of Assisi",
+                "pl": "Franciszek z Asyżu"
+            },
+            "sources": {
+                "mr-1584": "4 X: #1",
+                "mr-1956": "4 X: #1",
+                "mr-2004": "4 X: #1"
+            }
+        }
+    },
     "10-11": {
         "records/patrons/ioannes/23p": {
             "name": {

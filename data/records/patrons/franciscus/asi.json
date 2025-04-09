@@ -1,37 +1,78 @@
 {
-  "names": {
-    "it": [
-      "Francesco d'Assisi",
-      "Giovanni di Pietro di Bernardone"
-    ],
-    "en": [
-      "Francis of Assisi",
-      "Giovanni di Pietro di Bernardone"
-    ],
-    "la": [
-      "Franciscus Asisiensis",
-      "Giovanni di Pietro di Bernardone"
-    ],
-    "pl": [
-      "Franciszek z Asyżu",
-      "Biedaczyna z Asyżu",
-      "Giovanni di Pietro di Bernardone"
-    ]
-  },
+    "names": {
+        "it": [
+            "Francesco d'Assisi",
+            "Giovanni di Pietro di Bernardone"
+        ],
+        "la": [
+            "Franciscus Asisiensis",
+            "Giovanni di Pietro di Bernardone"
+        ],
+        "en": [
+            "Francis of Assisi",
+            "Giovanni di Pietro di Bernardone"
+        ],
+        "pl": [
+            "Franciszek z Asyżu",
+            "Biedaczyna z Asyżu",
+            "Giovanni di Pietro di Bernardone"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1181", "~1182"],
-  "died": ["1226-10-03"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1228-07-16"
-  },
+    "born": ["~1181"],
+    "died": ["1226-10-03"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["10-04"],
+    "categories": ["vir", "confessor", "levita", "fundator"],
 
-  "forenames": ["franciscus"],
-  "categories": ["vir", "confessor", "levita", "fundator"],
+    "data-links": {
+        "mr-1584": ["1:Oct./4#1"],
+        "mr-1584-movable": [],
 
-  "order": ["ofm"],
-  "order-founder": ["ofm", "osc", "ofs", "tor"]
+        "mr-1956": ["1:Octobris/4#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tfa": {
+            "data-links": {
+                "mr-1584": ["1:Mai./25#9"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/25#12"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "fas": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Septembris/17#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/24770",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_z_Asy%C5%BCu"
+    }
 }
