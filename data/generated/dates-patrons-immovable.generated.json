@@ -184,7 +184,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "30 V",
-                "anniversary": "30 V",
+                "feast": "30 V",
                 "mr-1956": "30 V: #8",
                 "mr-2004": "30 V: #7"
             }
@@ -257,7 +257,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-1956": "1 VIII: #4",
                 "mr-2004": "1 VIII: #1"
             }
@@ -283,7 +283,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -295,7 +295,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -307,7 +307,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -319,7 +319,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -331,7 +331,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -343,7 +343,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -355,7 +355,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -367,7 +367,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -379,7 +379,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -391,7 +391,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         },
@@ -403,7 +403,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "1 VIII",
-                "anniversary": "1 VIII",
+                "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
         }
@@ -497,7 +497,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "12 X",
-                "anniversary": "12 X"
+                "feast": "12 X"
             }
         }
     },
@@ -600,7 +600,7 @@
                 "en": "John Cantius"
             },
             "sources": {
-                "anniversary": "23 XII",
+                "feast": "23 XII",
                 "mr-2004": "23 XII: #1"
             }
         }
