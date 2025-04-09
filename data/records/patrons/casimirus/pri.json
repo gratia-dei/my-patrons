@@ -1,27 +1,44 @@
 {
-  "names": {
-    "pl": [
-      "Kazimierz Królewicz",
-      "Kazimierz Jagiellończyk"
-    ],
-    "en": [
-      "Casimir Jagiellon"
-    ],
-    "la": [
-      "Casimirus Princeps"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Kazimierz Królewicz",
+            "Kazimierz Jagiellończyk"
+        ],
+        "la": [
+            "Casimirus Princeps"
+        ],
+        "en": [
+            "Casimir Jagiellon"
+        ]
+    },
+    "forenames": ["casimirus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1458-10-03"],
-  "died": ["1484-03-04"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1521"
-  },
+    "born": ["1458-10-03"],
+    "died": ["1484-03-04"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["03-04"],
+    "categories": ["vir", "confessor", "princeps"],
 
-  "forenames": ["casimirus"],
-  "categories": ["vir", "confessor", "princeps"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/4#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68718",
+        "wiki": "https://pl.wikipedia.org/wiki/Kazimierz_(%C5%9Bwi%C4%99ty)"
+    }
 }

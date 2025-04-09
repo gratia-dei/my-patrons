@@ -1971,11 +1971,11 @@
         "feasts": []
     },
     "patrons/casimirus/pri": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Kazimierz Królewicz",
-            "en": "Casimir Jagiellon",
-            "la": "Casimirus Princeps"
+            "la": "Casimirus Princeps",
+            "en": "Casimir Jagiellon"
         },
         "died": [
             "1484-03-04"
