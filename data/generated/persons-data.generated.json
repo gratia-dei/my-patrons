@@ -4144,11 +4144,11 @@
         }
     },
     "patrons/ioannes/23p": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giovanni XXIII",
-            "en": "John XXIII",
             "la": "Ioannes Pp. XXIII",
+            "en": "John XXIII",
             "pl": "Jan XXIII"
         },
         "died": [

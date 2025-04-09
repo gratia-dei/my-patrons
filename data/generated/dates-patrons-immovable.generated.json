@@ -190,6 +190,20 @@
             }
         }
     },
+    "06-03": {
+        "records/patrons/ioannes/23p": {
+            "name": {
+                "it": "Giovanni XXIII",
+                "la": "Ioannes Pp. XXIII",
+                "en": "John XXIII",
+                "pl": "Jan XXIII"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "mr-2004": "3 VI: #19"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {
@@ -484,6 +498,19 @@
                 "mr-1584": "28 VIII: #1",
                 "mr-1956": "28 VIII: #1",
                 "mr-2004": "28 VIII: #1"
+            }
+        }
+    },
+    "10-11": {
+        "records/patrons/ioannes/23p": {
+            "name": {
+                "it": "Giovanni XXIII",
+                "la": "Ioannes Pp. XXIII",
+                "en": "John XXIII",
+                "pl": "Jan XXIII"
+            },
+            "sources": {
+                "feast": "11 X"
             }
         }
     },

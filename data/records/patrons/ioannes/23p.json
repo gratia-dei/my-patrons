@@ -1,50 +1,65 @@
 {
-  "names": {
-    "it": [
-      "Giovanni XXIII",
-      "Angelo Giuseppe Roncalli"
+    "names": {
+        "it": [
+            "Giovanni XXIII",
+            "Angelo Giuseppe Roncalli"
+        ],
+        "la": [
+            "Ioannes Pp. XXIII",
+            "Ioannes XXIII",
+            "Angelo Giuseppe Roncalli"
+        ],
+        "en": [
+            "John XXIII",
+            "Angelo Giuseppe Roncalli"
+        ],
+        "pl": [
+            "Jan XXIII",
+            "Angelo Giuseppe Roncalli"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "en": "the Twenty-Third",
+            "la": "Vigesimus Tertius",
+            "pl": "Dwudziesty Trzeci"
+        }
     ],
-    "en": [
-      "John XXIII",
-      "Angelo Giuseppe Roncalli"
-    ],
-    "la": [
-      "Ioannes Pp. XXIII",
-      "Ioannes XXIII",
-      "Angelo Giuseppe Roncalli"
-    ],
-    "pl": [
-      "Jan XXIII",
-      "Angelo Giuseppe Roncalli"
-    ]
-  },
 
-  "epithets": [
-    {
-      "en": "the Twenty-Third",
-      "la": "Vigesimus Tertius",
-      "pl": "Dwudziesty Trzeci"
+    "active": true,
+
+    "born": ["1881-11-25"],
+    "died": ["1963-06-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-09-03"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2014-04-27"
+    },
+    "anniversary": ["10-11"],
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./3#19"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#261"]
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-xxiii.html",
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/J23",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_XXIII"
     }
-  ],
-
-  "born": ["1881-11-25"],
-  "died": ["1963-06-03"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-09-03"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2014-04-27"
-  },
-
-  "also-in-martyrology": ["06-03"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "papa"],
-
-  "data-links": {
-    "popes": ["1:#261"]
-  }
 }
