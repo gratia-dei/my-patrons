@@ -650,6 +650,35 @@
             }
         }
     },
+    "12-02": {
+        "records/patrons/franciscus/xav": {
+            "name": {
+                "es": "Francisco Javier",
+                "en": "Francis Xavier",
+                "la": "Franciscus Xavier",
+                "pl": "Franciszek Ksawery"
+            },
+            "sources": {
+                "mr-1956": "2 XII: #3"
+            }
+        }
+    },
+    "12-03": {
+        "records/patrons/franciscus/xav": {
+            "name": {
+                "es": "Francisco Javier",
+                "en": "Francis Xavier",
+                "la": "Franciscus Xavier",
+                "pl": "Franciszek Ksawery"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 XII",
+                "feast": "3 XII",
+                "mr-1956": "3 XII: #1",
+                "mr-2004": "3 XII: #1"
+            }
+        }
+    },
     "12-16": {
         "records/patrons/eusebius/ver": {
             "name": {

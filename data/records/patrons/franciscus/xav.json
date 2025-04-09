@@ -1,42 +1,60 @@
 {
-  "names": {
-    "es": [
-      "Francisco Javier",
-      "Francisco de Jasso y Azpilicueta",
-      "Francisco Xavier",
-      "Francisco de Javier",
-      "Francés de Jaso"
-    ],
-    "en": [
-      "Francis Xavier",
-      "Francisco de Jasso y Azpilicueta"
-    ],
-    "la": [
-      "Franciscus Xavier",
-      "Franciscus Xaverius",
-      "Franciscus de Jasso Azpilcueta"
-    ],
-    "pl": [
-      "Franciszek Ksawery",
-      "Francisco de Jaso y Azpilcueta"
-    ]
-  },
+    "names": {
+        "es": [
+            "Francisco Javier",
+            "Francisco de Jasso y Azpilicueta",
+            "Francisco Xavier",
+            "Francisco de Javier",
+            "Francés de Jaso"
+        ],
+        "en": [
+            "Francis Xavier",
+            "Francisco de Jasso y Azpilicueta"
+        ],
+        "la": [
+            "Franciscus Xavier",
+            "Franciscus Xaverius",
+            "Franciscus de Jasso Azpilcueta"
+        ],
+        "pl": [
+            "Franciszek Ksawery",
+            "Francisco de Jaso y Azpilcueta"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1506-04-07"],
-  "died": ["1552-12-02", "1552-12-03"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1619-10-25"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1622-03-12"
-  },
+    "born": ["1506-04-07"],
+    "died": ["1552-12-02", "1552-12-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1619-10-25"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1622-03-12"
+    },
+    "anniversary": ["12-03"],
 
-  "also-in-martyrology": ["12-02", "12-03"],
+    "categories": ["vir", "confessor", "sacerdos", "presbyter"],
 
-  "forenames": ["franciscus"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter"],
-  "order": ["sj"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/2#3", "1:Decembris/3#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francesco-saverio.html",
+        "gcatholic": "https://gcatholic.org/p/54993",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Ksawery"
+    }
 }
