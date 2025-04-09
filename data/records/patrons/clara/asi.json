@@ -1,37 +1,51 @@
 {
-  "names": {
-    "it": [
-      "Chiara d'Assisi",
-      "Chiara Offreduccio"
-    ],
-    "en": [
-      "Clara of Assisi",
-      "Chiara Offreduccio"
-    ],
-    "la": [
-      "Clara Assisiensis",
-      "Clara de Asisio",
-      "prima planta pauperum Dominarum Ordinis Minorum"
-    ],
-    "pl": [
-      "Klara z Asyżu",
-      "Chiara Offreduccio"
-    ]
-  },
+    "names": {
+        "it": [
+            "Chiara d'Assisi",
+            "Chiara Offreduccio"
+        ],
+        "en": [
+            "Clara of Assisi",
+            "Chiara Offreduccio"
+        ],
+        "la": [
+            "Clara Assisiensis",
+            "Clara de Asisio",
+            "prima planta pauperum Dominarum Ordinis Minorum"
+        ],
+        "pl": [
+            "Klara z Asyżu",
+            "Chiara Offreduccio"
+        ]
+    },
+    "forenames": ["clara"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1194-07-16"],
-  "died": ["1253-08-11"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1255-12-08"
-  },
+    "born": ["1194-07-16"],
+    "died": ["1253-08-11"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["08-11", "08-12"],
+    "categories": ["femina", "virgo"],
 
-  "forenames": ["clara"],
-  "categories": ["femina", "virgo"],
+    "data-links": {
+        "mr-1584": ["1:Aug./12#1"],
+        "mr-1584-movable": [],
 
-  "order": ["osc"],
-  "order-founder": ["osc"]
+        "mr-1956": ["1:Augusti/11#3", "1:Augusti/12#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./11#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68712",
+        "wiki": "https://pl.wikipedia.org/wiki/Klara_z_Asy%C5%BCu"
+    }
 }

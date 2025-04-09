@@ -2164,7 +2164,7 @@
         }
     },
     "patrons/clara/asi": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Chiara d'Assisi",
             "en": "Clara of Assisi",

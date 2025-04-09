@@ -431,6 +431,35 @@
             }
         }
     },
+    "08-11": {
+        "records/patrons/clara/asi": {
+            "name": {
+                "it": "Chiara d'Assisi",
+                "en": "Clara of Assisi",
+                "la": "Clara Assisiensis",
+                "pl": "Klara z Asyżu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 VIII",
+                "mr-1956": "11 VIII: #3",
+                "mr-2004": "11 VIII: #1"
+            }
+        }
+    },
+    "08-12": {
+        "records/patrons/clara/asi": {
+            "name": {
+                "it": "Chiara d'Assisi",
+                "en": "Clara of Assisi",
+                "la": "Clara Assisiensis",
+                "pl": "Klara z Asyżu"
+            },
+            "sources": {
+                "mr-1584": "12 VIII: #1",
+                "mr-1956": "12 VIII: #1"
+            }
+        }
+    },
     "08-27": {
         "records/patrons/monica/vid": {
             "name": {
