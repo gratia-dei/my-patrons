@@ -695,6 +695,21 @@
             }
         }
     },
+    "12-13": {
+        "records/patrons/lucia/syr": {
+            "name": {
+                "it": "Lucia da Siracusa",
+                "la": "Lucia Syracusana",
+                "en": "Lucia of Syracuse",
+                "pl": "Łucja z Syrakuz"
+            },
+            "sources": {
+                "mr-1584": "13 XII: #1",
+                "mr-1956": "13 XII: #1",
+                "mr-2004": "13 XII: #1"
+            }
+        }
+    },
     "12-16": {
         "records/patrons/eusebius/ver": {
             "name": {
