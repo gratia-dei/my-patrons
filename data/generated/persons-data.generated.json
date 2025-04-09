@@ -3139,8 +3139,8 @@
         "active": true,
         "names": {
             "es": "Francisco Javier",
-            "en": "Francis Xavier",
             "la": "Franciscus Xavier",
+            "en": "Francis Xavier",
             "pl": "Franciszek Ksawery"
         },
         "died": [
@@ -6701,18 +6701,25 @@
         "feasts": []
     },
     "patrons/nicolaus/myr": {
-        "active": false,
+        "active": true,
         "names": {
-            "el": "Άγιος Νικόλαος",
-            "en": "Nicholas of Myra",
+            "el": "Νικόλαος",
             "la": "Nicolaus Myrensis",
+            "en": "Nicholas of Myra",
             "pl": "Mikołaj z Miry"
         },
         "died": [
-            ">301",
-            "<400"
+            "~343-12-06"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tmm": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Nicolai",
+                    "pl": "Przeniesienie świętego Mikołaja"
+                }
+            }
+        }
     },
     "patrons/nicolaus/stu": {
         "active": false,

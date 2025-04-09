@@ -415,6 +415,16 @@
                 "mr-1584": "9 V: #6",
                 "mr-1956": "9 V: #8"
             }
+        },
+        "records/patrons/nicolaus/myr#tmm": {
+            "name": {
+                "la": "Nicolaus Myrensis (Translatio sancti Nicolai)",
+                "pl": "Mikołaj z Miry (Przeniesienie świętego Mikołaja)"
+            },
+            "sources": {
+                "mr-1584": "9 V: #8",
+                "mr-1956": "9 V: #10"
+            }
         }
     },
     "05-13": {

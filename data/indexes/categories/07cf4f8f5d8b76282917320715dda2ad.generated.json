@@ -744,8 +744,8 @@
         },
         "records/patrons/franciscus/xav": {
             "es": "Francisco Javier",
-            "en": "Francis Xavier",
             "la": "Franciscus Xavier",
+            "en": "Francis Xavier",
             "pl": "Franciszek Ksawery"
         },
         "records/patrons/fulgentius/rus": {
@@ -1454,9 +1454,9 @@
             "pl": "Mikołaj z Flüe"
         },
         "records/patrons/nicolaus/myr": {
-            "el": "Άγιος Νικόλαος",
-            "en": "Nicholas of Myra",
+            "el": "Νικόλαος",
             "la": "Nicolaus Myrensis",
+            "en": "Nicholas of Myra",
             "pl": "Mikołaj z Miry"
         },
         "records/patrons/nicolaus/stu": {

@@ -654,8 +654,8 @@
         "records/patrons/franciscus/xav": {
             "name": {
                 "es": "Francisco Javier",
-                "en": "Francis Xavier",
                 "la": "Franciscus Xavier",
+                "en": "Francis Xavier",
                 "pl": "Franciszek Ksawery"
             },
             "sources": {
@@ -667,8 +667,8 @@
         "records/patrons/franciscus/xav": {
             "name": {
                 "es": "Francisco Javier",
-                "en": "Francis Xavier",
                 "la": "Franciscus Xavier",
+                "en": "Francis Xavier",
                 "pl": "Franciszek Ksawery"
             },
             "sources": {
@@ -676,6 +676,22 @@
                 "feast": "3 XII",
                 "mr-1956": "3 XII: #1",
                 "mr-2004": "3 XII: #1"
+            }
+        }
+    },
+    "12-06": {
+        "records/patrons/nicolaus/myr": {
+            "name": {
+                "el": "Νικόλαος",
+                "la": "Nicolaus Myrensis",
+                "en": "Nicholas of Myra",
+                "pl": "Mikołaj z Miry"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 XII",
+                "mr-1584": "6 XII: #1",
+                "mr-1956": "6 XII: #1",
+                "mr-2004": "6 XII: #1"
             }
         }
     },
