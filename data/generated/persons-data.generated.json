@@ -4451,11 +4451,11 @@
         "feasts": []
     },
     "patrons/ioannes/p2p": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jan Paweł II",
-            "en": "John Paul II",
-            "la": "Ioannes Paulus Pp. II"
+            "la": "Ioannes Paulus Pp. II",
+            "en": "John Paul II"
         },
         "died": [
             "2005-04-02"

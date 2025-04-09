@@ -105,6 +105,18 @@
             }
         }
     },
+    "04-02": {
+        "records/patrons/ioannes/p2p": {
+            "name": {
+                "pl": "Jan Paweł II",
+                "la": "Ioannes Paulus Pp. II",
+                "en": "John Paul II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 IV"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/acacius/mel": {
             "name": {
@@ -633,6 +645,18 @@
             },
             "sources": {
                 "mr-1956": "20 X: #1"
+            }
+        }
+    },
+    "10-22": {
+        "records/patrons/ioannes/p2p": {
+            "name": {
+                "pl": "Jan Paweł II",
+                "la": "Ioannes Paulus Pp. II",
+                "en": "John Paul II"
+            },
+            "sources": {
+                "feast": "22 X"
             }
         }
     },

@@ -1,44 +1,61 @@
 {
-  "names": {
-    "pl": [
-      "Jan Paweł II",
-      "Karol Józef Wojtyła"
+    "names": {
+        "pl": [
+            "Jan Paweł II",
+            "Karol Józef Wojtyła"
+        ],
+        "la": [
+            "Ioannes Paulus Pp. II",
+            "Ioannes Paulus II",
+            "Carolus Iosephus Wojtyła"
+        ],
+        "en": [
+            "John Paul II",
+            "Karol Józef Wojtyła"
+        ]
+    },
+    "forenames": ["ioannes", "paulus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Secundus",
+            "en": "the Second",
+            "pl": "Drugi"
+        }
     ],
-    "en": [
-      "John Paul II",
-      "Karol Józef Wojtyła"
-    ],
-    "la": [
-      "Ioannes Paulus Pp. II",
-      "Ioannes Paulus II",
-      "Carolus Iosephus Wojtyła"
-    ]
-  },
 
-  "epithets": [
-    {
-      "pl": "Drugi",
-      "en": "the Second",
-      "la": "Secundus"
+    "active": true,
+
+    "born": ["1920-05-18"],
+    "died": ["2005-04-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2011-05-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2014-04-27"
+    },
+    "anniversary": ["10-22"],
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#264"]
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-ii.html",
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/JP2",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Pawe%C5%82_II"
     }
-  ],
-
-  "born": ["1920-05-18"],
-  "died": ["2005-04-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2011-05-01"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2014-04-27"
-  },
-
-  "forenames": ["ioannes", "paulus"],
-  "categories": ["vir", "papa"],
-
-  "data-links": {
-    "popes": ["1:#264"]
-  }
 }
