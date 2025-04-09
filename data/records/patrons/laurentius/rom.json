@@ -1,22 +1,73 @@
 {
-  "names": {
-    "la": [
-      "Laurentius de Roma"
-    ],
-    "en": [
-      "Lawrence of Rome",
-      "Laurence of Rome"
-    ],
-    "pl": [
-      "Wawrzyniec z Rzymu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Laurentius de Roma"
+        ],
+        "en": [
+            "Lawrence of Rome",
+            "Laurence of Rome"
+        ],
+        "pl": [
+            "Wawrzyniec z Rzymu"
+        ]
+    },
+    "forenames": ["laurentius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["225-12-31"],
-  "died": ["258-08-10"],
+    "active": true,
 
-  "also-in-martyrology": ["08-10"],
+    "born": ["225-12-31"],
+    "died": ["258-08-10"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["laurentius"],
-  "categories": ["vir", "martyr", "archidiaconus", "diaconus"]
+    "categories": ["vir", "martyr", "archidiaconus", "diaconus"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./10#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vlr": {
+            "data-links": {
+                "mr-1584": ["1:Aug./9#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Augusti/9#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+
+        "olr": {
+            "data-links": {
+                "mr-1584": ["1:Aug./17#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Augusti/17#1"],
+                "mr-1956-variations": ["1:Augusti/17#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69122",
+        "wiki": "https://pl.wikipedia.org/wiki/Wawrzyniec_z_Rzymu"
+    }
 }

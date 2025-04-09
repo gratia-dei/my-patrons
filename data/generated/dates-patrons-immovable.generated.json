@@ -445,6 +445,21 @@
             }
         }
     },
+    "08-10": {
+        "records/patrons/laurentius/rom": {
+            "name": {
+                "la": "Laurentius de Roma",
+                "en": "Lawrence of Rome",
+                "pl": "Wawrzyniec z Rzymu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 VIII",
+                "mr-1584": "10 VIII: #1",
+                "mr-1956": "10 VIII: #1",
+                "mr-2004": "10 VIII: #1"
+            }
+        }
+    },
     "08-11": {
         "records/patrons/clara/asi": {
             "name": {

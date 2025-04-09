@@ -5063,7 +5063,7 @@
         "feasts": []
     },
     "patrons/laurentius/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Laurentius de Roma",
             "en": "Lawrence of Rome",
@@ -5072,7 +5072,22 @@
         "died": [
             "258-08-10"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/vlr": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sancti Laurentii Martyris",
+                    "pl": "Wigilia świętego Wawrzyńca Męczennika"
+                }
+            },
+            "feasts/olr": {
+                "active": true,
+                "names": {
+                    "la": "Octava sancti Laurentii Martyris",
+                    "pl": "Oktawa świętego Wawrzyńca Męczennika"
+                }
+            }
+        }
     },
     "patrons/lazarus": {
         "names": {

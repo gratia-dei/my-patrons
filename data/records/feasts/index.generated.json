@@ -250,6 +250,10 @@
         "la": "Ioannes Apostolus et Evangelista in olei",
         "pl": "Jan Apostoł i Ewangelista w oleju"
     },
+    "olr": {
+        "la": "Octava sancti Laurentii Martyris",
+        "pl": "Oktawa świętego Wawrzyńca Męczennika"
+    },
     "pav": {
         "la": "Dedicatio sancti Petri Apostoli ad Vincula",
         "pl": "Poświęcenie świętego Piotra Apostoła w Okowach"
@@ -418,6 +422,10 @@
         "la": "Visitatio Beatae Mariae Virginis",
         "en": "The Visitation of the Blessed Virgin Mary",
         "pl": "Nawiedzenie Błogosławionej Maryi Dziewicy"
+    },
+    "vlr": {
+        "la": "Vigilia sancti Laurentii Martyris",
+        "pl": "Wigilia świętego Wawrzyńca Męczennika"
     },
     "vma": {
         "la": "Vigilia sancti Matthiae Apostoli",

@@ -640,6 +640,18 @@
             }
         }
     },
+    "08-09": {
+        "records/patrons/laurentius/rom#vlr": {
+            "name": {
+                "la": "Laurentius de Roma (Vigilia sancti Laurentii Martyris)",
+                "pl": "Wawrzyniec z Rzymu (Wigilia świętego Wawrzyńca Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "9 VIII: #1",
+                "mr-1956": "9 VIII: #1"
+            }
+        }
+    },
     "08-10": {
         "records/patrons/maria/naz#mnm": {
             "name": {
@@ -674,6 +686,18 @@
                 "mr-1584": "15 VIII: #1",
                 "mr-1956": "15 VIII: #1",
                 "mr-2004": "15 VIII: #1"
+            }
+        }
+    },
+    "08-17": {
+        "records/patrons/laurentius/rom#olr": {
+            "name": {
+                "la": "Laurentius de Roma (Octava sancti Laurentii Martyris)",
+                "pl": "Wawrzyniec z Rzymu (Oktawa świętego Wawrzyńca Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "17 VIII: #1",
+                "mr-1956": "17 VIII: #1"
             }
         }
     },
