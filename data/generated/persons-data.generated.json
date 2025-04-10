@@ -2131,7 +2131,7 @@
         }
     },
     "patrons/christophorus/lyc": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Christophorus Lyciensis",
             "en": "Christopher of Lycia",
