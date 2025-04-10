@@ -51,6 +51,19 @@
             }
         }
     },
+    "01-28": {
+        "records/patrons/thomas/aqu": {
+            "name": {
+                "it": "Tommaso d'Aquino",
+                "la": "Thomas de Aquino",
+                "en": "Thomas Aquinas",
+                "pl": "Tomasz z Akwinu"
+            },
+            "sources": {
+                "mr-2004": "28 I: #1"
+            }
+        }
+    },
     "02-06": {
         "records/patrons/titus/cre": {
             "name": {
@@ -101,6 +114,22 @@
                 "reliable-death-anniversary": "4 III",
                 "mr-1956": "4 III: #1",
                 "mr-2004": "4 III: #1"
+            }
+        }
+    },
+    "03-07": {
+        "records/patrons/thomas/aqu": {
+            "name": {
+                "it": "Tommaso d'Aquino",
+                "la": "Thomas de Aquino",
+                "en": "Thomas Aquinas",
+                "pl": "Tomasz z Akwinu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 III",
+                "mr-1584": "7 III: #1",
+                "mr-1956": "7 III: #1",
+                "mr-2004": "7 III: #9"
             }
         }
     },

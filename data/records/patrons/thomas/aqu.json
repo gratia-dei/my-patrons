@@ -1,32 +1,47 @@
 {
-  "names": {
-    "it": [
-      "Tommaso d'Aquino"
-    ],
-    "en": [
-      "Thomas Aquinas"
-    ],
-    "la": [
-      "Thomas de Aquino",
-      "Thomas Aquinas"
-    ],
-    "pl": [
-      "Tomasz z Akwinu"
-    ]
-  },
+    "names": {
+        "it": [
+            "Tommaso d'Aquino"
+        ],
+        "la": [
+            "Thomas de Aquino",
+            "Thomas Aquinas"
+        ],
+        "en": [
+            "Thomas Aquinas"
+        ],
+        "pl": [
+            "Tomasz z Akwinu"
+        ]
+    },
+    "forenames": ["thomas"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1225"],
-  "died": ["1274-03-07"],
+    "active": true,
 
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1323-07-18"
-  },
+    "born": ["~1225"],
+    "died": ["1274-03-07"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["01-28", "03-07"],
+    "categories": ["vir", "confessor", "presbyter", "doctor-ecclesiae"],
 
-  "forenames": ["thomas"],
-  "categories": ["vir", "confessor", "presbyter", "doctor-ecclesiae"],
+    "data-links": {
+        "mr-1584": ["1:Mart./7#1"],
+        "mr-1584-movable": [],
 
-  "order": ["op"]
+        "mr-1956": ["1:Martii/7#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./28#1", "1:mar./7#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67099",
+        "wiki": "https://pl.wikipedia.org/wiki/Tomasz_z_Akwinu"
+    }
 }

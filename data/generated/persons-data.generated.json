@@ -8526,11 +8526,11 @@
         "feasts": []
     },
     "patrons/thomas/aqu": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Tommaso d'Aquino",
-            "en": "Thomas Aquinas",
             "la": "Thomas de Aquino",
+            "en": "Thomas Aquinas",
             "pl": "Tomasz z Akwinu"
         },
         "died": [
