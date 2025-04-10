@@ -1,34 +1,53 @@
 {
-  "names": {
-    "hu": [
-      "Anjou Hedvig"
-    ],
-    "la": [
-      "Hedvigis Andegavensis",
-      "Hedvigis de Hungaria"
-    ],
-    "en": [
-      "Hedwig of Anjou"
-    ],
-    "pl": [
-      "Jadwiga Andegaweńska"
-    ]
-  },
+    "names": {
+        "hu": [
+            "Anjou Hedvig"
+        ],
+        "la": [
+            "Hedvigis Andegavensis",
+            "Hedvigis de Hungaria"
+        ],
+        "en": [
+            "Hedwig of Anjou"
+        ],
+        "pl": [
+            "Jadwiga Andegaweńska"
+        ]
+    },
+    "forenames": ["hedwigis"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">1373-10-03", "<1374-02-18"],
-  "died": ["1399-07-17"],
+    "active": true,
 
-  "beatified": {
-    "type": "1979-05-31",
-    "date": "ceremonially"
-  },
-  "canonized": {
-    "type": "1997-06-08",
-    "date": "ceremonially"
-  },
+    "born": [">1373-10-03", "<1374-02-18"],
+    "died": ["1399-07-17"],
+    "beatified": {
+        "date": "1986-08-08",
+        "type": "ceremonially"
+    },
+    "canonized": {
+        "date": "1997-06-08",
+        "type": "ceremonially"
+    },
+    "anniversary": ["10-16"],
 
-  "also-in-martyrology": ["07-17"],
+    "categories": ["femina", "regina"],
 
-  "forenames": ["hedwigis"],
-  "categories": ["femina", "regina"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./17#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/edwige.html",
+        "gcatholic": "https://gcatholic.org/p/67132",
+        "wiki": "https://pl.wikipedia.org/wiki/Jadwiga_Andegawe%C5%84ska"
+    }
 }

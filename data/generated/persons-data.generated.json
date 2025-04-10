@@ -3635,7 +3635,7 @@
         "feasts": []
     },
     "patrons/hedwigis/hun": {
-        "active": false,
+        "active": true,
         "names": {
             "hu": "Anjou Hedvig",
             "la": "Hedvigis Andegavensis",

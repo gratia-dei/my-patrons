@@ -299,6 +299,20 @@
             }
         }
     },
+    "07-17": {
+        "records/patrons/hedwigis/hun": {
+            "name": {
+                "hu": "Anjou Hedvig",
+                "la": "Hedvigis Andegavensis",
+                "en": "Hedwig of Anjou",
+                "pl": "Jadwiga Andegaweńska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-2004": "17 VII: #13"
+            }
+        }
+    },
     "07-25": {
         "records/patrons/christophorus/lyc": {
             "name": {
@@ -701,6 +715,17 @@
         }
     },
     "10-16": {
+        "records/patrons/hedwigis/hun": {
+            "name": {
+                "hu": "Anjou Hedvig",
+                "la": "Hedvigis Andegavensis",
+                "en": "Hedwig of Anjou",
+                "pl": "Jadwiga Andegaweńska"
+            },
+            "sources": {
+                "feast": "16 X"
+            }
+        },
         "records/patrons/margarita/ala": {
             "name": {
                 "fr": "Marguerite-Marie Alacoque",
