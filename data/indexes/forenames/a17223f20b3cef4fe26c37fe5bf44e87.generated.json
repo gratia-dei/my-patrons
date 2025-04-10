@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Lilioza"
+    },
+    "translations": {
+        "la": [
+            "Liliosa"
+        ],
+        "en": [
+            "Liliosa"
+        ],
+        "pl": [
+            "Lilioza"
+        ]
+    },
+    "links": {
+        "records/patrons/liliosa/fel": {
+            "la": "Liliosa de Corduba; et Felix cum allis",
+            "en": "Liliosa of Cordoba; and Felix with others",
+            "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
+        }
+    }
+}

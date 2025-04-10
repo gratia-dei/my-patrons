@@ -19,6 +19,11 @@
             "en": "Anastasia of Sirmium",
             "pl": "Anastazja z Dalmacji"
         },
+        "records/patrons/aurelius/sab": {
+            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
+            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
+            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+        },
         "records/patrons/chrysanthus/dar": {
             "la": "Chrysanthus /+ Daria",
             "en": "Chrysanthus /+ Daria",
@@ -29,11 +34,21 @@
             "en": "Daria /+ Chrysanthus",
             "pl": "Daria /+ Chryzant"
         },
+        "records/patrons/felix/lil": {
+            "la": "Felix de Corduba; et Liliosa cum allis",
+            "en": "Felix of Cordobal and Liliosa with others",
+            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+        },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
             "en": "Francis Borgia",
             "la": "Franciscus Borgia",
             "pl": "Franciszek Borgiasz"
+        },
+        "records/patrons/liliosa/fel": {
+            "la": "Liliosa de Corduba; et Felix cum allis",
+            "en": "Liliosa of Cordoba; and Felix with others",
+            "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
         },
         "records/patrons/mathildis/reg": {
             "de": "Mathilde von Ringelheim",
@@ -48,9 +63,9 @@
             "pl": "Mikołaj z Flüe"
         },
         "records/patrons/sabigothon/aur": {
-            "la": "Sabigothon Natalia /+ Aurelius et alii",
-            "en": "Sabigothon Natalie /+ Aurelius and others",
-            "pl": "Sabigotona Natalia /+ Aureliusz i inni"
+            "la": "Sabigothon Natalia de Corduba; et Aurelius cum allis",
+            "en": "Sabigothon Natalie of Cordoba; and Aurelius with others",
+            "pl": "Sabigotona Natalia z Kordoby; oraz Aureliusz z innymi"
         },
         "records/patrons/salomea/reg": {
             "pl": "Salomea Piastówna",

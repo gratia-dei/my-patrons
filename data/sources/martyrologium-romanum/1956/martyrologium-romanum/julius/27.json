@@ -1,10 +1,11 @@
 {
     "1": {
-        "page": "...",
+        "page": 181,
         "la": "?..."
     },
 
     "2": {
+        "page": 182,
         "la": "..."
     },
 
@@ -13,7 +14,7 @@
     },
 
     "4": {
-        "la": "..."
+        "la": "Cordubae, in Hispania, sanctorum Martyrum [1|Georgii] Diaconi, [2|Aurelii] et uxoris [3|Nataliae], [4|Felicis] et uxoris [5|Liliosae], ..."
     },
 
     "5": {
@@ -37,26 +38,6 @@
     },
 
     "10": {
-        "la": "..."
-    },
-
-    "11": {
-        "la": "..."
-    },
-
-    "12": {
-        "la": "..."
-    },
-
-    "13": {
-        "la": "..."
-    },
-
-    "14": {
-        "la": "..."
-    },
-
-    "15": {
         "la": "..."
     }
 }

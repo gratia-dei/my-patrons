@@ -198,6 +198,11 @@
         "en": "August",
         "pl": "August"
     },
+    "aurelius": {
+        "la": "Aurelius",
+        "en": "Aurelius",
+        "pl": "Aureliusz"
+    },
     "balbina": {
         "la": "Balbina",
         "en": "Balbina",
@@ -1051,6 +1056,11 @@
         "la": "Levi",
         "en": "Levi",
         "pl": "Lewi"
+    },
+    "liliosa": {
+        "la": "Liliosa",
+        "en": "Liliosa",
+        "pl": "Lilioza"
     },
     "lucas": {
         "la": "Lucas",

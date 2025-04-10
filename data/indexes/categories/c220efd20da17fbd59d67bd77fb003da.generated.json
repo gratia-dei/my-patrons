@@ -57,6 +57,11 @@
             "en": "Fulgentius of Ruspe",
             "pl": "Fulgencjusz z Ruspe"
         },
+        "records/patrons/georgius/cor": {
+            "la": "Georgius de Corduba; et Aurelius cum allis",
+            "en": "George of Cordoba; and Aurelius with others",
+            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+        },
         "records/patrons/gregorius/1pp": {
             "la": "Gregorius Magnus",
             "en": "Gregory the Great",

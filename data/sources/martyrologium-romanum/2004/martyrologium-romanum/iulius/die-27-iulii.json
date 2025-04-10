@@ -1,12 +1,10 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
+        "page": 416,
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -16,12 +14,10 @@
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -41,13 +37,12 @@
     },
 
     "9": {
-        "mark": "*",
+        "page": 417,
         "la": "..."
     },
 
     "10": {
-        "mark": "*",
-        "la": "..."
+        "la": "Cordubae in Vandalicia Hispaniae provincia, sanctorum martyrum [1|Georgii], diaconi et monachi syri, [2|Aurelii] et [3|Sabigothonis], coniugum, atque [4|Felicis] et [5|Liliosae], item coniugum, ..."
     },
 
     "11": {
@@ -91,11 +86,22 @@
     },
 
     "19": {
+        "page": 418,
         "mark": "*",
         "la": "..."
     },
 
     "20": {
+        "mark": "*",
+        "la": "..."
+    },
+
+    "21": {
+        "mark": "*",
+        "la": "..."
+    },
+
+    "22": {
         "mark": "*",
         "la": "..."
     }

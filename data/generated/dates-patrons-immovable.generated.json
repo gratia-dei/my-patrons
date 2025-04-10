@@ -299,6 +299,68 @@
             }
         }
     },
+    "07-27": {
+        "records/patrons/georgius/cor": {
+            "name": {
+                "la": "Georgius de Corduba; et Aurelius cum allis",
+                "en": "George of Cordoba; and Aurelius with others",
+                "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #6",
+                "mr-1956": "27 VII: #4",
+                "mr-2004": "27 VII: #10"
+            }
+        },
+        "records/patrons/felix/lil": {
+            "name": {
+                "la": "Felix de Corduba; et Liliosa cum allis",
+                "en": "Felix of Cordobal and Liliosa with others",
+                "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #6",
+                "mr-1956": "27 VII: #4",
+                "mr-2004": "27 VII: #10"
+            }
+        },
+        "records/patrons/aurelius/sab": {
+            "name": {
+                "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
+                "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
+                "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #6",
+                "mr-1956": "27 VII: #4",
+                "mr-2004": "27 VII: #10"
+            }
+        },
+        "records/patrons/sabigothon/aur": {
+            "name": {
+                "la": "Sabigothon Natalia de Corduba; et Aurelius cum allis",
+                "en": "Sabigothon Natalie of Cordoba; and Aurelius with others",
+                "pl": "Sabigotona Natalia z Kordoby; oraz Aureliusz z innymi"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #6",
+                "mr-1956": "27 VII: #4",
+                "mr-2004": "27 VII: #10"
+            }
+        },
+        "records/patrons/liliosa/fel": {
+            "name": {
+                "la": "Liliosa de Corduba; et Felix cum allis",
+                "en": "Liliosa of Cordoba; and Felix with others",
+                "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #6",
+                "mr-1956": "27 VII: #4",
+                "mr-2004": "27 VII: #10"
+            }
+        }
+    },
     "08-01": {
         "records/patrons/alphonsus/lig": {
             "name": {

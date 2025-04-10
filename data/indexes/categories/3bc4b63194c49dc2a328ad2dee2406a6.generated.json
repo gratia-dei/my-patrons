@@ -26,6 +26,11 @@
             "la": "Ephraem Syrus",
             "pl": "Efrem Syryjczyk"
         },
+        "records/patrons/georgius/cor": {
+            "la": "Georgius de Corduba; et Aurelius cum allis",
+            "en": "George of Cordoba; and Aurelius with others",
+            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+        },
         "records/patrons/laurentius/rom": {
             "la": "Laurentius de Roma",
             "en": "Lawrence of Rome",

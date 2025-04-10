@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/georgius/cor": {
+            "la": "Georgius de Corduba; et Aurelius cum allis",
+            "en": "George of Cordoba; and Aurelius with others",
+            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+        },
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",
             "be": "Юрый Кашыра",

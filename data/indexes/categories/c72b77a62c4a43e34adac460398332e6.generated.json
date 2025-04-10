@@ -283,6 +283,11 @@
             "en": "August Czartoryski",
             "la": "Augustus Czartoryski"
         },
+        "records/patrons/aurelius/sab": {
+            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
+            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
+            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+        },
         "records/patrons/barnabas/apo": {
             "la": "Barnabas Apostolus",
             "en": "Barnabas the Apostle",
@@ -685,6 +690,11 @@
             "en": "Felicissimus /+ Rogatian",
             "pl": "Felicyssym /+ Rogacjan"
         },
+        "records/patrons/felix/lil": {
+            "la": "Felix de Corduba; et Liliosa cum allis",
+            "en": "Felix of Cordobal and Liliosa with others",
+            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+        },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
             "en": "Fidelis of Sigmaringen",
@@ -775,6 +785,11 @@
             "pl": "Radzim Gaudenty",
             "en": "Radim Gaudentius",
             "la": "Gaudentius seu Radzim"
+        },
+        "records/patrons/georgius/cor": {
+            "la": "Georgius de Corduba; et Aurelius cum allis",
+            "en": "George of Cordoba; and Aurelius with others",
+            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
         },
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",

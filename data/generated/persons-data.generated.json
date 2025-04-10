@@ -1296,6 +1296,25 @@
         ],
         "feasts": []
     },
+    "patrons/aurelius": {
+        "names": {
+            "la": "Aurelius",
+            "en": "Aurelius",
+            "pl": "Aureliusz"
+        }
+    },
+    "patrons/aurelius/sab": {
+        "active": true,
+        "names": {
+            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
+            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
+            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+        },
+        "died": [
+            "852"
+        ],
+        "feasts": []
+    },
     "patrons/balbina": {
         "names": {
             "la": "Balbina",
@@ -2967,6 +2986,25 @@
         ],
         "feasts": []
     },
+    "patrons/felix": {
+        "names": {
+            "la": "Felix",
+            "en": "Felix",
+            "pl": "Feliks"
+        }
+    },
+    "patrons/felix/lil": {
+        "active": true,
+        "names": {
+            "la": "Felix de Corduba; et Liliosa cum allis",
+            "en": "Felix of Cordobal and Liliosa with others",
+            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+        },
+        "died": [
+            "852"
+        ],
+        "feasts": []
+    },
     "patrons/fidelis": {
         "names": {
             "la": "Fidelis",
@@ -3304,6 +3342,18 @@
             "pl": "Jerzy",
             "uk": "Юрій"
         }
+    },
+    "patrons/georgius/cor": {
+        "active": true,
+        "names": {
+            "la": "Georgius de Corduba; et Aurelius cum allis",
+            "en": "George of Cordoba; and Aurelius with others",
+            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+        },
+        "died": [
+            "852"
+        ],
+        "feasts": []
     },
     "patrons/georgius/kas": {
         "active": false,
@@ -5158,6 +5208,25 @@
         "died": [
             ">501",
             "<600"
+        ],
+        "feasts": []
+    },
+    "patrons/liliosa": {
+        "names": {
+            "la": "Liliosa",
+            "en": "Liliosa",
+            "pl": "Lilioza"
+        }
+    },
+    "patrons/liliosa/fel": {
+        "active": true,
+        "names": {
+            "la": "Liliosa de Corduba; et Felix cum allis",
+            "en": "Liliosa of Cordoba; and Felix with others",
+            "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
+        },
+        "died": [
+            "852"
         ],
         "feasts": []
     },
@@ -7780,14 +7849,14 @@
         }
     },
     "patrons/sabigothon/aur": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Sabigothon Natalia /+ Aurelius et alii",
-            "en": "Sabigothon Natalie /+ Aurelius and others",
-            "pl": "Sabigotona Natalia /+ Aureliusz i inni"
+            "la": "Sabigothon Natalia de Corduba; et Aurelius cum allis",
+            "en": "Sabigothon Natalie of Cordoba; and Aurelius with others",
+            "pl": "Sabigotona Natalia z Kordoby; oraz Aureliusz z innymi"
         },
         "died": [
-            "~852"
+            "852"
         ],
         "feasts": []
     },

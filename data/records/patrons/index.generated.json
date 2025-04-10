@@ -167,6 +167,11 @@
         "en": "August",
         "pl": "August"
     },
+    "aurelius": {
+        "la": "Aurelius",
+        "en": "Aurelius",
+        "pl": "Aureliusz"
+    },
     "balbina": {
         "la": "Balbina",
         "en": "Balbina",
@@ -527,6 +532,11 @@
         "en": "Felicity",
         "pl": "Felicyta"
     },
+    "felix": {
+        "la": "Felix",
+        "en": "Felix",
+        "pl": "Feliks"
+    },
     "fidelis": {
         "la": "Fidelis",
         "en": "Fidelis",
@@ -858,6 +868,11 @@
         "en": "Leonard",
         "pl": "Leonard",
         "fr": "Léonard"
+    },
+    "liliosa": {
+        "la": "Liliosa",
+        "en": "Liliosa",
+        "pl": "Lilioza"
     },
     "lucas": {
         "la": "Lucas",
