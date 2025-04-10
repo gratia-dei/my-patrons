@@ -432,10 +432,10 @@
     "patrons/adalbertus/pra": {
         "active": true,
         "names": {
-            "cz": "Vojtěch (Adalbert) Slavníkovec",
+            "cz": "Vojtěch Adalbert Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech (Adalbert) Sławnikowic"
+            "pl": "Wojciech Adalbert Sławnikowic"
         },
         "died": [
             "997-04-23"
@@ -1306,9 +1306,9 @@
     "patrons/aurelius/sab": {
         "active": true,
         "names": {
-            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
-            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
-            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
+            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
+            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
         "died": [
             "852"
@@ -2996,9 +2996,9 @@
     "patrons/felix/lil": {
         "active": true,
         "names": {
-            "la": "Felix de Corduba; et Liliosa cum allis",
-            "en": "Felix of Cordobal and Liliosa with others",
-            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
+            "en": "Felix of Cordoba; with him, i.a., Liliosa",
+            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
         "died": [
             "852"
@@ -3346,9 +3346,9 @@
     "patrons/georgius/cor": {
         "active": true,
         "names": {
-            "la": "Georgius de Corduba; et Aurelius cum allis",
-            "en": "George of Cordoba; and Aurelius with others",
-            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
+            "en": "George of Cordoba; with him, i.a., Aurelius",
+            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
         },
         "died": [
             "852"
@@ -5221,9 +5221,9 @@
     "patrons/liliosa/fel": {
         "active": true,
         "names": {
-            "la": "Liliosa de Corduba; et Felix cum allis",
-            "en": "Liliosa of Cordoba; and Felix with others",
-            "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
+            "la": "Liliosa de Corduba; cum ea, i.a., Felix",
+            "en": "Liliosa of Cordoba; with her, i.a., Felix",
+            "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
         },
         "died": [
             "852"
@@ -7851,9 +7851,9 @@
     "patrons/sabigothon/aur": {
         "active": true,
         "names": {
-            "la": "Sabigothon Natalia de Corduba; et Aurelius cum allis",
-            "en": "Sabigothon Natalie of Cordoba; and Aurelius with others",
-            "pl": "Sabigotona Natalia z Kordoby; oraz Aureliusz z innymi"
+            "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
+            "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
+            "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
         },
         "died": [
             "852"

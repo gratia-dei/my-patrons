@@ -15,9 +15,9 @@
     },
     "links": {
         "records/patrons/felix/lil": {
-            "la": "Felix de Corduba; et Liliosa cum allis",
-            "en": "Felix of Cordobal and Liliosa with others",
-            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
+            "en": "Felix of Cordoba; with him, i.a., Liliosa",
+            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
         "records/patrons/sigismundus/fel": {
             "pl": "Zygmunt Szczęsny Feliński",

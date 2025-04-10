@@ -32,10 +32,10 @@
             "pl": "Achacjusz z Melitene"
         },
         "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch (Adalbert) Slavníkovec",
+            "cz": "Vojtěch Adalbert Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech (Adalbert) Sławnikowic"
+            "pl": "Wojciech Adalbert Sławnikowic"
         },
         "records/patrons/aegidius/abb": {
             "fr": "Gilles l'Ermite",
@@ -284,9 +284,9 @@
             "la": "Augustus Czartoryski"
         },
         "records/patrons/aurelius/sab": {
-            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
-            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
-            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
+            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
+            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
         "records/patrons/barnabas/apo": {
             "la": "Barnabas Apostolus",
@@ -691,9 +691,9 @@
             "pl": "Felicyssym /+ Rogacjan"
         },
         "records/patrons/felix/lil": {
-            "la": "Felix de Corduba; et Liliosa cum allis",
-            "en": "Felix of Cordobal and Liliosa with others",
-            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
+            "en": "Felix of Cordoba; with him, i.a., Liliosa",
+            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
@@ -787,9 +787,9 @@
             "la": "Gaudentius seu Radzim"
         },
         "records/patrons/georgius/cor": {
-            "la": "Georgius de Corduba; et Aurelius cum allis",
-            "en": "George of Cordoba; and Aurelius with others",
-            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
+            "en": "George of Cordoba; with him, i.a., Aurelius",
+            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
         },
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",

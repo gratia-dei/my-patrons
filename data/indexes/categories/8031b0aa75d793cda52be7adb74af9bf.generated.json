@@ -15,10 +15,10 @@
     },
     "links": {
         "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch (Adalbert) Slavníkovec",
+            "cz": "Vojtěch Adalbert Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech (Adalbert) Sławnikowic"
+            "pl": "Wojciech Adalbert Sławnikowic"
         },
         "records/patrons/anselmus/can": {
             "la": "Anselmus Cantuariensis",
@@ -58,9 +58,9 @@
             "pl": "Fulgencjusz z Ruspe"
         },
         "records/patrons/georgius/cor": {
-            "la": "Georgius de Corduba; et Aurelius cum allis",
-            "en": "George of Cordoba; and Aurelius with others",
-            "pl": "Jerzy z Kordoby; oraz Aureliusz z innymi"
+            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
+            "en": "George of Cordoba; with him, i.a., Aurelius",
+            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
         },
         "records/patrons/gregorius/1pp": {
             "la": "Gregorius Magnus",

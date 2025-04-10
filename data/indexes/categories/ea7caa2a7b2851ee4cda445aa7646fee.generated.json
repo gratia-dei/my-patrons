@@ -20,9 +20,9 @@
             "pl": "Anastazja z Dalmacji"
         },
         "records/patrons/aurelius/sab": {
-            "la": "Aurelius de Corduba; et Sabigothon Natalia cum allis",
-            "en": "Aurelius of Cordoba; and Sabigothon Natalia with others",
-            "pl": "Aureliusz z Kordoby; oraz Sabigotona Natalia z innymi"
+            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
+            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
+            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
         "records/patrons/chrysanthus/dar": {
             "la": "Chrysanthus /+ Daria",
@@ -35,9 +35,9 @@
             "pl": "Daria /+ Chryzant"
         },
         "records/patrons/felix/lil": {
-            "la": "Felix de Corduba; et Liliosa cum allis",
-            "en": "Felix of Cordobal and Liliosa with others",
-            "pl": "Feliks z Kordoby; oraz Lilioza z innymi"
+            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
+            "en": "Felix of Cordoba; with him, i.a., Liliosa",
+            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
@@ -46,9 +46,9 @@
             "pl": "Franciszek Borgiasz"
         },
         "records/patrons/liliosa/fel": {
-            "la": "Liliosa de Corduba; et Felix cum allis",
-            "en": "Liliosa of Cordoba; and Felix with others",
-            "pl": "Lilioza z Kordoby; oraz Feliks z innymi"
+            "la": "Liliosa de Corduba; cum ea, i.a., Felix",
+            "en": "Liliosa of Cordoba; with her, i.a., Felix",
+            "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
         },
         "records/patrons/mathildis/reg": {
             "de": "Mathilde von Ringelheim",
@@ -63,9 +63,9 @@
             "pl": "Mikołaj z Flüe"
         },
         "records/patrons/sabigothon/aur": {
-            "la": "Sabigothon Natalia de Corduba; et Aurelius cum allis",
-            "en": "Sabigothon Natalie of Cordoba; and Aurelius with others",
-            "pl": "Sabigotona Natalia z Kordoby; oraz Aureliusz z innymi"
+            "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
+            "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
+            "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
         },
         "records/patrons/salomea/reg": {
             "pl": "Salomea Piastówna",
