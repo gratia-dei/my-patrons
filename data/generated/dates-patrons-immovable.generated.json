@@ -700,6 +700,36 @@
             }
         }
     },
+    "10-16": {
+        "records/patrons/margarita/ala": {
+            "name": {
+                "fr": "Marguerite-Marie Alacoque",
+                "la": "Margarita Maria Alacoque",
+                "en": "Margaret Mary Alacoque",
+                "pl": "Małgorzata Maria Alacoque"
+            },
+            "sources": {
+                "feast": "16 X",
+                "mr-2004": "16 X: #2"
+            }
+        }
+    },
+    "10-17": {
+        "records/patrons/margarita/ala": {
+            "name": {
+                "fr": "Marguerite-Marie Alacoque",
+                "la": "Margarita Maria Alacoque",
+                "en": "Margaret Mary Alacoque",
+                "pl": "Małgorzata Maria Alacoque"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 X",
+                "feast": "17 X",
+                "mr-1956": "17 X: #1",
+                "mr-2004": "17 X: #12"
+            }
+        }
+    },
     "10-18": {
         "records/patrons/lucas/eva": {
             "name": {

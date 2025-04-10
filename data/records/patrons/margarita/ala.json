@@ -1,42 +1,57 @@
 {
-  "names": {
-    "fr": [
-      "Marguerite-Marie Alacoque"
+    "names": {
+        "fr": [
+            "Marguerite-Marie Alacoque"
+        ],
+        "la": [
+            "Margarita Maria Alacoque",
+            "Margarita Maria Burgunda"
+        ],
+        "en": [
+            "Margaret Mary Alacoque"
+        ],
+        "pl": [
+            "Małgorzata Maria Alacoque"
+        ]
+    },
+    "forenames": ["margarita", "maria"],
+    "surnames": [
+        {
+            "fr": "Alacoque"
+        }
     ],
-    "en": [
-      "Margaret Mary Alacoque"
-    ],
-    "la": [
-      "Margarita Maria Alacoque",
-      "Margarita Maria Burgunda"
-    ],
-    "pl": [
-      "Małgorzata Maria Alacoque"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Alacoque"
+    "active": true,
+
+    "born": ["1647-07-22"],
+    "died": ["1690-10-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1864-09-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1920-05-13"
+    },
+    "anniversary": ["10-16", "10-17"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/17#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./16#2", "1:oct./17#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/margherita-maria-alacoque.html",
+        "gcatholic": "https://gcatholic.org/p/68117",
+        "wiki": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_Maria_Alacoque"
     }
-  ],
-
-  "born": ["1647-07-22"],
-  "died": ["1690-10-17"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1864-09-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1920-05-13"
-  },
-
-  "also-in-martyrology": ["10-16", "10-17"],
-
-  "forenames": ["margarita", "maria"],
-  "categories": ["femina", "virgo", "monialis"],
-
-  "order": ["vsm"]
 }

@@ -5551,11 +5551,11 @@
         }
     },
     "patrons/margarita/ala": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Marguerite-Marie Alacoque",
-            "en": "Margaret Mary Alacoque",
             "la": "Margarita Maria Alacoque",
+            "en": "Margaret Mary Alacoque",
             "pl": "Małgorzata Maria Alacoque"
         },
         "died": [
