@@ -860,6 +860,19 @@
             }
         }
     },
+    "11-24": {
+        "records/patrons/ioannes/cru": {
+            "name": {
+                "es": "Juan de la Cruz",
+                "la": "Ioannes a Cruce",
+                "en": "John of the Cross",
+                "pl": "Jan od Krzyża"
+            },
+            "sources": {
+                "mr-1956": "24 XI: #1"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/andreas/apo": {
             "name": {
@@ -932,6 +945,22 @@
                 "mr-1584": "13 XII: #1",
                 "mr-1956": "13 XII: #1",
                 "mr-2004": "13 XII: #1"
+            }
+        }
+    },
+    "12-14": {
+        "records/patrons/ioannes/cru": {
+            "name": {
+                "es": "Juan de la Cruz",
+                "la": "Ioannes a Cruce",
+                "en": "John of the Cross",
+                "pl": "Jan od Krzyża"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 XII",
+                "feast": "14 XII",
+                "mr-1956": "14 XII: #1",
+                "mr-2004": "14 XII: #1"
             }
         }
     },

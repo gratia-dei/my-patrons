@@ -1,0 +1,63 @@
+{
+    "names": {
+        "es": [
+            "Juan de la Cruz",
+            "Juan de Yepes Álvarez"
+        ],
+        "la": [
+            "Ioannes a Cruce",
+            "Juan de Yepes Álvarez"
+        ],
+        "en": [
+            "John of the Cross",
+            "Juan de Yepes Álvarez"
+        ],
+        "pl": [
+            "Jan od Krzyża",
+            "Juan de Yepes Álvarez"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "es": "de la Cruz",
+            "la": "a Cruce",
+            "en": "of the Cross",
+            "pl": "od Krzyża"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1542-06-24"],
+    "died": ["1591-12-14"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1675-01-25"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1726-12-27"
+    },
+    "anniversary": ["12-14"],
+
+    "categories": ["vir", "confessor", "presbyter", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/24#1", "1:Decembris/14#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./14#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/25752",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_od_Krzy%C5%BCa"
+    }
+}

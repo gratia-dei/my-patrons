@@ -80,6 +80,12 @@
             "en": "John Chrysostom",
             "pl": "Jan Chryzostom"
         },
+        "records/patrons/ioannes/cru": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
+        },
         "records/patrons/ioannes/deo": {
             "pt": "João de Deus",
             "en": "John of God",

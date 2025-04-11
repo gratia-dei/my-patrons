@@ -1,0 +1,27 @@
+{
+    "names": {
+        "es": "de la Cruz"
+    },
+    "translations": {
+        "es": [
+            "de la Cruz"
+        ],
+        "la": [
+            "a Cruce"
+        ],
+        "en": [
+            "of the Cross"
+        ],
+        "pl": [
+            "od Krzyża"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/cru": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
+        }
+    }
+}

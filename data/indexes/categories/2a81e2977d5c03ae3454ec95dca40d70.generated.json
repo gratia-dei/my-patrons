@@ -313,6 +313,12 @@
             "en": "John of Capistrano",
             "pl": "Jan Kapistran"
         },
+        "records/patrons/ioannes/cru": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
+        },
         "records/patrons/ioannes/duk": {
             "la": "Ioannes de Dukla",
             "en": "John of Dukla",

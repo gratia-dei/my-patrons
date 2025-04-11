@@ -15,6 +15,9 @@
         "pl": [
             "od Krzyża"
         ],
+        "es": [
+            "de la Cruz"
+        ],
         "de": [
             "vom Kreuz"
         ]
@@ -25,6 +28,12 @@
             "en": "John Joseph of the Cross",
             "la": "Ioannes Ioseph a Cruce",
             "pl": "Jan Józef od Krzyża"
+        },
+        "records/patrons/ioannes/cru": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
         },
         "records/patrons/teresia/ste": {
             "de": "Therese Benedicta vom Kreuz",

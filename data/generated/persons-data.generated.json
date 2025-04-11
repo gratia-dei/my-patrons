@@ -4347,6 +4347,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/cru": {
+        "active": true,
+        "names": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
+        },
+        "died": [
+            "1591-12-14"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/deo": {
         "active": false,
         "names": {
