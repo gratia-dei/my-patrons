@@ -5845,10 +5845,10 @@
         "feasts": []
     },
     "patrons/maria/mag": {
-        "active": false,
+        "active": true,
         "names": {
-            "en": "Mary Magdalene",
             "la": "Maria Magdalena",
+            "en": "Mary Magdalene",
             "pl": "Maria Magdalena"
         },
         "died": [

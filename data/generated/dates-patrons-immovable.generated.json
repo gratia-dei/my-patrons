@@ -342,6 +342,20 @@
             }
         }
     },
+    "07-22": {
+        "records/patrons/maria/mag": {
+            "name": {
+                "la": "Maria Magdalena",
+                "en": "Mary Magdalene",
+                "pl": "Maria Magdalena"
+            },
+            "sources": {
+                "mr-1584": "22 VII: #1",
+                "mr-1956": "22 VII: #1",
+                "mr-2004": "22 VII: #1"
+            }
+        }
+    },
     "07-25": {
         "records/patrons/christophorus/lyc": {
             "name": {

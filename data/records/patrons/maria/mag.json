@@ -1,21 +1,44 @@
 {
-  "names": {
-    "en": [
-      "Mary Magdalene"
-    ],
-    "la": [
-      "Maria Magdalena"
-    ],
-    "pl": [
-      "Maria Magdalena",
-      "Maria z Magdali"
-    ]
-  },
+    "names": {
+        "la": [
+            "Maria Magdalena"
+        ],
+        "en": [
+            "Mary Magdalene"
+        ],
+        "pl": [
+            "Maria Magdalena",
+            "Maria z Magdali"
+        ]
+    },
+    "forenames": ["maria", "magdalena"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">30"],
+    "active": true,
 
-  "also-in-martyrology": ["07-22"],
+    "born": null,
+    "died": [">30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["maria", "magdalena"],
-  "categories": ["femina"]
+    "categories": ["femina"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./22#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/22#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./22#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69205",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Magdalena"
+    }
 }
