@@ -1525,14 +1525,6 @@
           "pl": "miejsce Drogi Krzyżowej"
         }
       },
-      "priest": {
-        "type": {
-          "person": [0, 0]
-        },
-        "name": {
-          "pl": "kapłani uczestniczący w Drodze Krzyżowej"
-        }
-      },
       "persons": {
         "type": {
           "person": [0, 0]
