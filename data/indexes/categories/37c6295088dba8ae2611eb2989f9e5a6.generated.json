@@ -63,8 +63,8 @@
         },
         "records/patrons/dominicus/oxo": {
             "es": "Domingo de Osma",
-            "en": "Dominic of Osma",
             "la": "Dominicus Oxomensis",
+            "en": "Dominic of Osma",
             "pl": "Dominik Guzmán"
         },
         "records/patrons/edmundus/boj": {

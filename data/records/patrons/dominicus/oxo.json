@@ -1,37 +1,66 @@
 {
-  "names": {
-    "es": [
-      "Domingo de Osma",
-      "Domingo de Guzmán"
-    ],
-    "en": [
-      "Dominic of Osma",
-      "Dominic de Guzmán",
-      "Dominic of Caleruega"
-    ],
-    "la": [
-      "Dominicus Oxomensis",
-      "Dominicus de Guzmán"
-    ],
-    "pl": [
-      "Dominik Guzmán",
-      "Dominik z Osmy"
-    ]
-  },
+    "names": {
+        "es": [
+            "Domingo de Osma",
+            "Domingo de Guzmán"
+        ],
+        "la": [
+            "Dominicus Oxomensis",
+            "Dominicus de Guzmán"
+        ],
+        "en": [
+            "Dominic of Osma",
+            "Dominic de Guzmán",
+            "Dominic of Caleruega"
+        ],
+        "pl": [
+            "Dominik Guzmán",
+            "Dominik z Osmy"
+        ]
+    },
+    "forenames": ["dominicus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1170-08-08"],
-  "died": ["1221-08-06"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1234-07-13"
-  },
+    "born": ["1170-08-08"],
+    "died": ["1221-08-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["08-04", "08-06", "08-08"],
+    "categories": ["vir", "confessor", "canonicus", "presbyter", "fundator"],
 
-  "forenames": ["dominicus"],
-  "categories": ["vir", "confessor", "canonicus", "presbyter", "fundator"],
+    "data-links": {
+        "mr-1584": ["1:Aug./4#1"],
+        "mr-1584-movable": [],
 
-  "order": ["op"],
-  "order-founder": ["op"]
+        "mr-1956": ["1:Augusti/4#1", "1:Augusti/6#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./6#7", "1:aug./8#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tdo": {
+            "data-links": {
+                "mr-1584": ["1:Mai./24#12"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/24#12"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/24414",
+        "wiki": "https://pl.wikipedia.org/wiki/Dominik_Guzm%C3%A1n"
+    }
 }

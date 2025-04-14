@@ -2562,17 +2562,25 @@
         "feasts": []
     },
     "patrons/dominicus/oxo": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Domingo de Osma",
-            "en": "Dominic of Osma",
             "la": "Dominicus Oxomensis",
+            "en": "Dominic of Osma",
             "pl": "Dominik Guzmán"
         },
         "died": [
             "1221-08-06"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tdo": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Dominici",
+                    "pl": "Przeniesienie świętego Dominika"
+                }
+            }
+        }
     },
     "patrons/dominicus/sav": {
         "active": false,

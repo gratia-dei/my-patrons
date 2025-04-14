@@ -602,6 +602,48 @@
             }
         }
     },
+    "08-04": {
+        "records/patrons/dominicus/oxo": {
+            "name": {
+                "es": "Domingo de Osma",
+                "la": "Dominicus Oxomensis",
+                "en": "Dominic of Osma",
+                "pl": "Dominik Guzmán"
+            },
+            "sources": {
+                "mr-1584": "4 VIII: #1",
+                "mr-1956": "4 VIII: #1"
+            }
+        }
+    },
+    "08-06": {
+        "records/patrons/dominicus/oxo": {
+            "name": {
+                "es": "Domingo de Osma",
+                "la": "Dominicus Oxomensis",
+                "en": "Dominic of Osma",
+                "pl": "Dominik Guzmán"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1956": "6 VIII: #4",
+                "mr-2004": "6 VIII: #7"
+            }
+        }
+    },
+    "08-08": {
+        "records/patrons/dominicus/oxo": {
+            "name": {
+                "es": "Domingo de Osma",
+                "la": "Dominicus Oxomensis",
+                "en": "Dominic of Osma",
+                "pl": "Dominik Guzmán"
+            },
+            "sources": {
+                "mr-2004": "8 VIII: #1"
+            }
+        }
+    },
     "08-10": {
         "records/patrons/laurentius/rom": {
             "name": {

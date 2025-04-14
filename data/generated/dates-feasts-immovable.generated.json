@@ -448,6 +448,18 @@
             }
         }
     },
+    "05-24": {
+        "records/patrons/dominicus/oxo#tdo": {
+            "name": {
+                "la": "Dominicus Oxomensis (Translatio sancti Dominici)",
+                "pl": "Dominik Guzmán (Przeniesienie świętego Dominika)"
+            },
+            "sources": {
+                "mr-1584": "24 V: #12",
+                "mr-1956": "24 V: #12"
+            }
+        }
+    },
     "05-25": {
         "records/patrons/franciscus/asi#tfa": {
             "name": {
