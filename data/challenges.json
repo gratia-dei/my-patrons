@@ -1533,6 +1533,14 @@
           "pl": "kapłani uczestniczący w Drodze Krzyżowej"
         }
       },
+      "persons": {
+        "type": {
+          "person": [0, 0]
+        },
+        "name": {
+          "pl": "osoby uczestniczące w Drodze Krzyżowej"
+        }
+      },
       "other": {
         "type": {
           "description": [0, 0]
