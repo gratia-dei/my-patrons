@@ -17,6 +17,12 @@
   "surnames": [
     {
       "vi": "Nguyễn"
+    },
+    {
+      "vi": "Đình"
+    },
+    {
+      "vi": "Nghi"
     }
   ],
 
@@ -34,6 +40,6 @@
 
   "also-in-martyrology": ["11-08"],
 
-  "forenames": ["iosephus", "nghi", "dinh"],
+  "forenames": ["iosephus"],
   "categories": ["vir", "martyr", "presbyter"]
 }

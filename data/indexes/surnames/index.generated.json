@@ -180,6 +180,10 @@
     "4847e2e624920907b6dc4516738ecc50": {
         "la": "Karlowska"
     },
+    "4854ad2484d7c585867e98acae361892": {
+        "en": "Tae-gŏn",
+        "pl": "Tae-gŏn"
+    },
     "48c904319c0846a72e86eda2bb32a5c2": {
         "pl": "Kuncewicz"
     },
@@ -207,9 +211,6 @@
     "4e4964f8dbcc630bb3d80fde4f0d5885": {
         "la": "Bellarminus"
     },
-    "4e854ac92ebda41e03c05790a66bc441": {
-        "sq": "Gonxha Bojaxhiu"
-    },
     "4ecc0d46bdea877d0c945b5ef588a8c1": {
         "it": "Della Chiesa"
     },
@@ -218,6 +219,9 @@
     },
     "5191cb80e0dbd1a8b33888e2951636d2": {
         "it": "Tomasi"
+    },
+    "52cbb95618683dd7b74e9080524f8bb0": {
+        "zh": "在德"
     },
     "543399c257b4c8b42151733f631a321d": {
         "pl": "Jóźwiak"
@@ -334,6 +338,9 @@
     "7d32a58fc712b2e6c9121e34269ee25b": {
         "it": "Bosco"
     },
+    "7f6511101b9aa76468ff092c4ea81357": {
+        "ko": "대건"
+    },
     "7f86a26d67dc0e162130072eea9a76f7": {
         "es": "Ayllón"
     },
@@ -351,6 +358,9 @@
     },
     "84e958ef1b7021478a4533b6c138a657": {
         "pl": "Szymkowiak"
+    },
+    "853a3d0953e03462e42c364a8b7b8591": {
+        "la": "Taegon"
     },
     "87dca918ab102e8dbcc0ec55eca51582": {
         "la": "Kovč"
@@ -397,8 +407,16 @@
     "9510a4e700a96ea68128cfdff8e5a848": {
         "pl": "Cierpka"
     },
+    "965d66ff2af1f7e8310194acfea5f20c": {
+        "vi": "Nghi"
+    },
     "98bc42153a2996412936f7e43f68124f": {
         "la": "Kovc"
+    },
+    "98ff57635edbfe0fae726cc27c811392": {
+        "en": "Zaide",
+        "la": "Zaide",
+        "pl": "Zaide"
     },
     "9922fcb65b21cdf324f0af8401ff35a4": {
         "pl": "Czartoryski"
@@ -543,8 +561,14 @@
     "bdf2b5389ded2aa686ead0bcc25bdfec": {
         "pl": "Zarycki"
     },
+    "be55204b98ba9ad57341a8049ddc8ed4": {
+        "vi": "Đình"
+    },
     "bf423ee949d71794ded64d8b12a1d8b3": {
         "fr": "de la Salle"
+    },
+    "bf722f426e364cbf0362fb796eccc106": {
+        "zh": "榮"
     },
     "bf7acc64184037b8102433c81bdab492": {
         "pl": "Popiełuszko"
@@ -641,6 +665,9 @@
     "e0dbd5823abe808540506fa8837f664b": {
         "pl": "Borowik"
     },
+    "e116aef0eb4bb07657f4be11b87b1395": {
+        "sq": "Bojaxhiu"
+    },
     "e311cb5d765c968b8846211c9abd5561": {
         "pl": "Benicjusz"
     },
@@ -686,6 +713,11 @@
     "f05f1ad0d889f07caa0f9ac9069e1535": {
         "pl": "Malojan"
     },
+    "f0da9010f077700ddabb2621d876ca15": {
+        "en": "Rong",
+        "la": "Rong",
+        "pl": "Rong"
+    },
     "f173424f29af787b27486e58bff57d54": {
         "pl": "Strepa"
     },
@@ -705,6 +737,9 @@
     },
     "f7594ee2e771549c66929913e659852c": {
         "pl": "Bellarmin"
+    },
+    "f7604ccc0373b61da5bf4b33cb53d0be": {
+        "sq": "Gonxha"
     },
     "f81c9182a07e8fb0c28b0c4cc28f6792": {
         "fr": "Véron"

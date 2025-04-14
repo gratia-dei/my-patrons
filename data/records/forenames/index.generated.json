@@ -504,12 +504,6 @@
         "pl": "Dydak",
         "es": "Diego"
     },
-    "dinh": {
-        "la": "Dinh",
-        "en": "Dinh",
-        "pl": "Dinh",
-        "vi": "Đình"
-    },
     "dionysius": {
         "la": "Dionysius",
         "en": "Denis",
@@ -1273,12 +1267,6 @@
         "en": "Nathanael",
         "pl": "Nataniel"
     },
-    "nghi": {
-        "la": "Nghi",
-        "en": "Nghi",
-        "pl": "Nghi",
-        "vi": "Nghi"
-    },
     "nicolaus": {
         "la": "Nicolaus",
         "en": "Nicholas",
@@ -1477,12 +1465,6 @@
         "pl": "Romuald",
         "it": "Romualdo"
     },
-    "rong": {
-        "la": "Rong",
-        "en": "Rong",
-        "pl": "Rong",
-        "zh": "榮"
-    },
     "rosa": {
         "la": "Rosa",
         "en": "Rose",
@@ -1627,12 +1609,6 @@
         "la": "Susanna",
         "en": "Susanna",
         "pl": "Zuzanna"
-    },
-    "taegon": {
-        "la": "Taegon",
-        "en": "Taegon",
-        "pl": "Tae-gŏn",
-        "ko": "대건"
     },
     "tarsicius": {
         "la": "Tarsicius",
@@ -1783,12 +1759,6 @@
         "la": "Xystus",
         "en": "Sixtus",
         "pl": "Sykstus"
-    },
-    "zaide": {
-        "la": "Zaide",
-        "en": "Zaide",
-        "pl": "Zaide",
-        "zh": "在德"
     },
     "zeno": {
         "la": "Zeno",

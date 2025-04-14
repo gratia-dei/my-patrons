@@ -1,19 +1,19 @@
 {
     "names": {
-        "ko": "대건"
+        "la": "Taegon"
     },
     "translations": {
+        "ko": [
+            "대건"
+        ],
         "la": [
             "Taegon"
         ],
         "en": [
-            "Taegon"
+            "Tae-gŏn"
         ],
         "pl": [
             "Tae-gŏn"
-        ],
-        "ko": [
-            "대건"
         ]
     },
     "links": {

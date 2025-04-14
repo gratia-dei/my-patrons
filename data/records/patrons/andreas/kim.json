@@ -20,6 +20,12 @@
       "la": "Kim",
       "en": "Kim",
       "pl": "Kim"
+    },
+    {
+      "ko": "대건",
+      "la": "Taegon",
+      "en": "Tae-gŏn",
+      "pl": "Tae-gŏn"
     }
   ],
 
@@ -37,6 +43,6 @@
 
   "also-in-martyrology": ["09-16", "09-20"],
 
-  "forenames": ["andreas", "taegon"],
+  "forenames": ["andreas"],
   "categories": ["vir", "martyr", "presbyter"]
 }

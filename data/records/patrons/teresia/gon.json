@@ -21,7 +21,10 @@
     "forenames": ["teresia", "agnes"],
     "surnames": [
         {
-            "sq": "Gonxha Bojaxhiu"
+            "sq": "Gonxha"
+        },
+        {
+            "sq": "Bojaxhiu"
         }
     ],
     "epithets": null,

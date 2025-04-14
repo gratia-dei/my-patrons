@@ -20,6 +20,12 @@
       "en": "Yuan",
       "la": "Yuan",
       "pl": "Yuan"
+    },
+    {
+      "zh": "在德",
+      "en": "Zaide",
+      "la": "Zaide",
+      "pl": "Zaide"
     }
   ],
 
@@ -37,6 +43,6 @@
 
   "also-in-martyrology": ["06-24", "07-09"],
 
-  "forenames": ["iosephus", "zaide"],
+  "forenames": ["iosephus"],
   "categories": ["vir", "martyr", "presbyter"]
 }

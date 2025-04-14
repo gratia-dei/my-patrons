@@ -20,6 +20,12 @@
       "en": "Zhao",
       "la": "Zhao",
       "pl": "Zhao"
+    },
+    {
+      "zh": "榮",
+      "en": "Rong",
+      "la": "Rong",
+      "pl": "Rong"
     }
   ],
 
@@ -37,6 +43,6 @@
 
   "also-in-martyrology": ["03-21", "07-09"],
 
-  "forenames": ["augustinus", "rong"],
+  "forenames": ["augustinus"],
   "categories": ["vir", "martyr", "presbyter"]
 }
