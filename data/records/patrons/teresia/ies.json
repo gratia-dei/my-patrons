@@ -1,54 +1,68 @@
 {
-  "names": {
-    "es": [
-      "Teresa de Jesús",
-      "Teresa de Ávila",
-      "Teresa Sánchez de Cepeda y Ahumada"
+    "names": {
+        "es": [
+            "Teresa de Ávila",
+            "Teresa de Jesús",
+            "Teresa Sánchez de Cepeda y Ahumada"
+        ],
+        "la": [
+            "Teresia Abulensis",
+            "Teresia a Iesu"
+        ],
+        "en": [
+            "Teresa of Ávila",
+            "Teresa of Jesus",
+            "Teresa Sánchez de Cepeda Dávila y Ahumada"
+        ],
+        "pl": [
+            "Teresa z Ávili",
+            "Teresa od Jezusa",
+            "Teresa Wielka",
+            "Teresa Hiszpanka",
+            "Teresa Sánchez de Cepeda Dávila y Ahumada"
+        ]
+    },
+    "forenames": ["teresia"],
+    "surnames": null,
+    "epithets": [
+        {
+            "es": "de Jesús",
+            "en": "of Jesus",
+            "la": "a Iesu",
+            "pl": "od Jezusa"
+        }
     ],
-    "en": [
-      "Teresa of Ávila",
-      "Teresa of Jesus",
-      "Teresa Sánchez de Cepeda Dávila y Ahumada"
-    ],
-    "la": [
-      "Teresia Abulensis",
-      "Teresia a Iesu"
-    ],
-    "pl": [
-      "Teresa z Ávili",
-      "Teresa od Jezusa",
-      "Teresa Wielka",
-      "Teresa Hiszpanka",
-      "Teresa Sánchez de Cepeda Dávila y Ahumada"
-    ]
-  },
 
-  "epithets": [
-    {
-      "es": "de Jesús",
-      "en": "of Jesus",
-      "la": "a Iesu",
-      "pl": "od Jezusa"
+    "active": true,
+
+    "born": ["1515-03-28"],
+    "died": ["1582-10-04", "1582-10-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1614-04-24"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1622-03-12"
+    },
+    "anniversary": ["10-15"],
+
+    "categories": ["femina", "virgo", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/15#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./15#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/teresa-d-avila.html",
+        "gcatholic": "https://gcatholic.org/p/25753",
+        "wiki": "https://pl.wikipedia.org/wiki/Teresa_z_%C3%81vili"
     }
-  ],
-
-  "born": ["1515-03-28"],
-  "died": ["1582-10-04", "1582-10-15"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1614-04-24"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1622-03-12"
-  },
-
-  "also-in-martyrology": ["10-15"],
-
-  "forenames": ["teresia"],
-  "categories": ["femina", "virgo", "doctor-ecclesiae"],
-
-  "order": ["ocarm", "ocd"],
-  "order-founder": ["ocd"]
 }

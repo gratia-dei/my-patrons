@@ -743,6 +743,22 @@
             }
         }
     },
+    "10-15": {
+        "records/patrons/teresia/ies": {
+            "name": {
+                "es": "Teresa de Ávila",
+                "la": "Teresia Abulensis",
+                "en": "Teresa of Ávila",
+                "pl": "Teresa z Ávili"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 X",
+                "feast": "15 X",
+                "mr-1956": "15 X: #1",
+                "mr-2004": "15 X: #1"
+            }
+        }
+    },
     "10-16": {
         "records/patrons/hedwigis/hun": {
             "name": {
