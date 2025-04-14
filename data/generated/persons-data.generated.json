@@ -2082,6 +2082,19 @@
         ],
         "feasts": []
     },
+    "patrons/catharina/sen": {
+        "active": true,
+        "names": {
+            "it": "Caterina da Siena",
+            "la": "Catharina Senensis",
+            "en": "Catherine of Siena",
+            "pl": "Katarzyna ze Sieny"
+        },
+        "died": [
+            "1380-04-29"
+        ],
+        "feasts": []
+    },
     "patrons/ceslaus": {
         "names": {
             "la": "Ceslaus",

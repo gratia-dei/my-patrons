@@ -1,0 +1,51 @@
+{
+    "names": {
+        "it": [
+            "Caterina da Siena",
+            "Caterina di Jacopo di Benincasa"
+        ],
+        "la": [
+            "Catharina Senensis",
+            "Catharina Benincasa",
+            "Caterina di Jacopo di Benincasa"
+        ],
+        "en": [
+            "Catherine of Siena",
+            "Caterina di Jacopo di Benincasa"
+        ],
+        "pl": [
+            "Katarzyna ze Sieny",
+            "Caterina di Jacopo di Benincasa"
+        ]
+    },
+    "forenames": ["catharina"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1347-03-25"],
+    "died": ["1380-04-29"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./29#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/29#2", "1:Aprilis/30#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./29#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67020",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_ze_Sieny"
+    }
+}

@@ -218,6 +218,35 @@
             }
         }
     },
+    "04-29": {
+        "records/patrons/catharina/sen": {
+            "name": {
+                "it": "Caterina da Siena",
+                "la": "Catharina Senensis",
+                "en": "Catherine of Siena",
+                "pl": "Katarzyna ze Sieny"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 IV",
+                "mr-1584": "29 IV: #7",
+                "mr-1956": "29 IV: #2",
+                "mr-2004": "29 IV: #1"
+            }
+        }
+    },
+    "04-30": {
+        "records/patrons/catharina/sen": {
+            "name": {
+                "it": "Caterina da Siena",
+                "la": "Catharina Senensis",
+                "en": "Catherine of Siena",
+                "pl": "Katarzyna ze Sieny"
+            },
+            "sources": {
+                "mr-1956": "30 IV: #1"
+            }
+        }
+    },
     "05-04": {
         "records/patrons/monica/vid": {
             "name": {
