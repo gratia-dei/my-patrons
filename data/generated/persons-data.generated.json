@@ -5526,7 +5526,7 @@
         }
     },
     "patrons/marcus/eva": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Marcus Evangelista",
             "en": "Mark the Evangelist",
@@ -5535,7 +5535,15 @@
         "died": [
             "~68"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tme": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Marcin Evangelistae",
+                    "pl": "Przeniesienie świętego Marka Ewangelisty"
+                }
+            }
+        }
     },
     "patrons/marcus/hie": {
         "active": false,

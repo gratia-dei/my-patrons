@@ -188,6 +188,20 @@
             }
         }
     },
+    "04-25": {
+        "records/patrons/marcus/eva": {
+            "name": {
+                "la": "Marcus Evangelista",
+                "en": "Mark the Evangelist",
+                "pl": "Marek Ewangelista"
+            },
+            "sources": {
+                "mr-1584": "25 IV: #1",
+                "mr-1956": "25 IV: #2",
+                "mr-2004": "25 IV: #1"
+            }
+        }
+    },
     "04-26": {
         "records/patrons/richarius/cen": {
             "name": {

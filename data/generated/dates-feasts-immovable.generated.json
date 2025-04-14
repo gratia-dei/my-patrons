@@ -137,6 +137,18 @@
             }
         }
     },
+    "01-31": {
+        "records/patrons/marcus/eva#tme": {
+            "name": {
+                "la": "Marcus Evangelista (Translatio sancti Marcin Evangelistae)",
+                "pl": "Marek Ewangelista (Przeniesienie świętego Marka Ewangelisty)"
+            },
+            "sources": {
+                "mr-1584": "31 I: #9",
+                "mr-1956": "31 I: #12"
+            }
+        }
+    },
     "02-02": {
         "records/patrons/maria/naz#pur": {
             "name": {
@@ -332,6 +344,7 @@
                 "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
             },
             "sources": {
+                "mr-1584": "25 IV: #2",
                 "mr-1956": "25 IV: #1"
             }
         }

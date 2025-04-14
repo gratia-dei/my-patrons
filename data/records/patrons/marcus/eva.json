@@ -1,20 +1,58 @@
 {
-  "names": {
-    "la": [
-      "Marcus Evangelista"
-    ],
-    "en": [
-      "Mark the Evangelist"
-    ],
-    "pl": [
-      "Marek Ewangelista"
-    ]
-  },
+    "names": {
+        "la": [
+            "Marcus Evangelista"
+        ],
+        "en": [
+            "Mark the Evangelist"
+        ],
+        "pl": [
+            "Marek Ewangelista"
+        ]
+    },
+    "forenames": ["marcus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~68"],
+    "active": true,
 
-  "also-in-martyrology": ["04-25"],
+    "born": null,
+    "died": ["~68"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["marcus"],
-  "categories": ["vir", "evangelista", "martyr"]
+    "categories": ["vir", "evangelista", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./25#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./25#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tme": {
+            "data-links": {
+                "mr-1584": ["1:Ianu./31#9"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Januarii/31#12"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/33372",
+        "wiki": "https://pl.wikipedia.org/wiki/Marek_Ewangelista"
+    }
 }
