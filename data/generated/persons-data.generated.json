@@ -6272,14 +6272,14 @@
         }
     },
     "patrons/martha/laz": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Martha Bethaniae",
             "en": "Martha of Bethany",
             "pl": "Marta z Betanii"
         },
         "died": [
-            ">27"
+            ">30"
         ],
         "feasts": []
     },

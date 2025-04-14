@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Martha Bethaniae"
-    ],
-    "en": [
-      "Martha of Bethany"
-    ],
-    "pl": [
-      "Marta z Betanii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Martha Bethaniae"
+        ],
+        "en": [
+            "Martha of Bethany"
+        ],
+        "pl": [
+            "Marta z Betanii"
+        ]
+    },
+    "forenames": ["martha"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">27"],
+    "active": true,
 
-  "also-in-martyrology": ["07-29"],
+    "born": null,
+    "died": [">30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["martha"],
-  "categories": ["femina", "virgo"]
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./29#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/29#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./29#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69209",
+        "wiki": "https://pl.wikipedia.org/wiki/Marta_z_Betanii"
+    }
 }
