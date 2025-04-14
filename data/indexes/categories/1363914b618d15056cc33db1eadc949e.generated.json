@@ -97,6 +97,12 @@
             "la": "Raphaela Maria a Sacro Corde",
             "pl": "Rafaela Maria od Najświętszego Serca"
         },
+        "records/patrons/teresia/gon": {
+            "ojczysty": "Nënë Tereza e Kalkutës",
+            "la": "Mater Teresia de Calcutta",
+            "en": "Mother Teresa of Calcutta",
+            "pl": "Matka Teresa z Kalkuty"
+        },
         "records/patrons/vincentius/pau": {
             "fr": "Vincent de Paul",
             "en": "Vincent de Paul",

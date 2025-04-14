@@ -8397,6 +8397,19 @@
             "it": "Teresa"
         }
     },
+    "patrons/teresia/gon": {
+        "active": true,
+        "names": {
+            "ojczysty": "Nënë Tereza e Kalkutës",
+            "la": "Mater Teresia de Calcutta",
+            "en": "Mother Teresa of Calcutta",
+            "pl": "Matka Teresa z Kalkuty"
+        },
+        "died": [
+            "1997-09-05"
+        ],
+        "feasts": []
+    },
     "patrons/teresia/ies": {
         "active": true,
         "names": {

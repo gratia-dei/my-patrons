@@ -1,0 +1,18 @@
+{
+    "names": {
+        "sq": "Gonxha Bojaxhiu"
+    },
+    "translations": {
+        "sq": [
+            "Gonxha Bojaxhiu"
+        ]
+    },
+    "links": {
+        "records/patrons/teresia/gon": {
+            "ojczysty": "Nënë Tereza e Kalkutës",
+            "la": "Mater Teresia de Calcutta",
+            "en": "Mother Teresa of Calcutta",
+            "pl": "Matka Teresa z Kalkuty"
+        }
+    }
+}
