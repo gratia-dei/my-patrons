@@ -1,4 +1,18 @@
 {
+    "01-01": {
+        "records/patrons/sigismundus/gor": {
+            "name": {
+                "pl": "Zygmunt Gorazdowski",
+                "la": "Sigismundus Gorazdowski",
+                "en": "Sigismund Gorazdowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 I",
+                "feast": "1 I",
+                "mr-2004": "1 I: #17"
+            }
+        }
+    },
     "01-04": {
         "records/patrons/titus/cre": {
             "name": {

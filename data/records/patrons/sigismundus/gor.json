@@ -1,38 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Zygmunt Gorazdowski"
+    "names": {
+        "pl": [
+            "Zygmunt Gorazdowski"
+        ],
+        "la": [
+            "Sigismundus Gorazdowski"
+        ],
+        "en": [
+            "Sigismund Gorazdowski"
+        ]
+    },
+    "forenames": ["sigismundus"],
+    "surnames": [
+        {
+            "pl": "Gorazdowski"
+        }
     ],
-    "en": [
-      "Sigismund Gorazdowski"
-    ],
-    "la": [
-      "Sigismundus Gorazdowski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Gorazdowski"
+    "active": true,
+
+    "born": ["1845-11-01"],
+    "died": ["1920-01-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-06-26"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2005-10-23"
+    },
+    "anniversary": ["01-01"],
+
+    "categories": ["vir", "presbyter", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./1#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/zygmunt-gorazdowski.html",
+        "gcatholic": "https://gcatholic.org/p/67256",
+        "wiki": "https://pl.wikipedia.org/wiki/Zygmunt_Gorazdowski"
     }
-  ],
-
-  "born": ["1845-11-01"],
-  "died": ["1920-01-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-06-26"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2005-10-23"
-  },
-
-  "also-in-martyrology": ["01-01"],
-
-  "forenames": ["sigismundus"],
-  "categories": ["vir", "presbyter", "fundator"],
-
-  "order-founder": ["cssj"]
 }

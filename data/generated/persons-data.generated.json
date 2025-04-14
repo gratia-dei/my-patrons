@@ -8099,11 +8099,11 @@
         "feasts": []
     },
     "patrons/sigismundus/gor": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Zygmunt Gorazdowski",
-            "en": "Sigismund Gorazdowski",
-            "la": "Sigismundus Gorazdowski"
+            "la": "Sigismundus Gorazdowski",
+            "en": "Sigismund Gorazdowski"
         },
         "died": [
             "1920-01-01"
