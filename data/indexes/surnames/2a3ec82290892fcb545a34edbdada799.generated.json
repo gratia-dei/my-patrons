@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "de Brébeuf"
+    },
+    "translations": {
+        "fr": [
+            "de Brébeuf"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/bre": {
+            "fr": "Jean de Brébeuf",
+            "la": "Ioannes de Brébeuf",
+            "en": "John de Brébeuf",
+            "pl": "Jan de Brébeuf"
+        }
+    }
+}

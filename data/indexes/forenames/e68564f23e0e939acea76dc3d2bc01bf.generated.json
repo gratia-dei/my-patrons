@@ -63,6 +63,12 @@
             "la": "Ioannes Bosco",
             "pl": "Jan Bosko"
         },
+        "records/patrons/ioannes/bre": {
+            "fr": "Jean de Brébeuf",
+            "la": "Ioannes de Brébeuf",
+            "en": "John de Brébeuf",
+            "pl": "Jan de Brébeuf"
+        },
         "records/patrons/ioannes/cal": {
             "it": "Giovanni Giuseppe della Croce",
             "en": "John Joseph of the Cross",

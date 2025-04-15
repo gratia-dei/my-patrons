@@ -4331,6 +4331,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/bre": {
+        "active": true,
+        "names": {
+            "fr": "Jean de Brébeuf",
+            "la": "Ioannes de Brébeuf",
+            "en": "John de Brébeuf",
+            "pl": "Jan de Brébeuf"
+        },
+        "died": [
+            "1649-03-16"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/cal": {
         "active": false,
         "names": {

@@ -148,6 +148,19 @@
         }
     },
     "03-16": {
+        "records/patrons/ioannes/bre": {
+            "name": {
+                "fr": "Jean de Brébeuf",
+                "la": "Ioannes de Brébeuf",
+                "en": "John de Brébeuf",
+                "pl": "Jan de Brébeuf"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 III",
+                "mr-1956": "16 III: #5",
+                "mr-2004": "16 III: #8"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",
@@ -998,6 +1011,17 @@
         }
     },
     "10-19": {
+        "records/patrons/ioannes/bre": {
+            "name": {
+                "fr": "Jean de Brébeuf",
+                "la": "Ioannes de Brébeuf",
+                "en": "John de Brébeuf",
+                "pl": "Jan de Brébeuf"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",
