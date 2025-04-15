@@ -3261,6 +3261,19 @@
         ],
         "feasts": []
     },
+    "patrons/gabriel/lal": {
+        "active": true,
+        "names": {
+            "fr": "Gabriel Lalemant",
+            "la": "Gabriel Lalemant",
+            "en": "Gabriel Lalemant",
+            "pl": "Gabriel Lalemant"
+        },
+        "died": [
+            "1649-03-17"
+        ],
+        "feasts": []
+    },
     "patrons/gaspar": {
         "names": {
             "la": "Gaspar",

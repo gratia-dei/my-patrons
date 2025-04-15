@@ -161,6 +161,17 @@
                 "mr-2004": "16 III: #8"
             }
         },
+        "records/patrons/gabriel/lal": {
+            "name": {
+                "fr": "Gabriel Lalemant",
+                "la": "Gabriel Lalemant",
+                "en": "Gabriel Lalemant",
+                "pl": "Gabriel Lalemant"
+            },
+            "sources": {
+                "mr-1956": "16 III: #5"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",
@@ -174,6 +185,18 @@
         }
     },
     "03-17": {
+        "records/patrons/gabriel/lal": {
+            "name": {
+                "fr": "Gabriel Lalemant",
+                "la": "Gabriel Lalemant",
+                "en": "Gabriel Lalemant",
+                "pl": "Gabriel Lalemant"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 III",
+                "mr-2004": "17 III: #8"
+            }
+        },
         "records/patrons/patricius/hib": {
             "name": {
                 "ga": "Naomh Pádraig",
@@ -1017,6 +1040,17 @@
                 "la": "Ioannes de Brébeuf",
                 "en": "John de Brébeuf",
                 "pl": "Jan de Brébeuf"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
+        "records/patrons/gabriel/lal": {
+            "name": {
+                "fr": "Gabriel Lalemant",
+                "la": "Gabriel Lalemant",
+                "en": "Gabriel Lalemant",
+                "pl": "Gabriel Lalemant"
             },
             "sources": {
                 "mr-2004": "19 X: #1"
