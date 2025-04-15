@@ -1971,6 +1971,19 @@
         ],
         "feasts": []
     },
+    "patrons/carolus/gar": {
+        "active": true,
+        "names": {
+            "fr": "Charles Garnier",
+            "la": "Carolus Garnier",
+            "en": "Charles Garnier",
+            "pl": "Karol Garnier"
+        },
+        "died": [
+            "1649-12-07"
+        ],
+        "feasts": []
+    },
     "patrons/carolus/lwa": {
         "active": false,
         "names": {

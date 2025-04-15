@@ -168,6 +168,12 @@
             "la": "Camillus de Lellis",
             "pl": "Kamil de Lellis"
         },
+        "records/patrons/carolus/gar": {
+            "fr": "Charles Garnier",
+            "la": "Carolus Garnier",
+            "en": "Charles Garnier",
+            "pl": "Karol Garnier"
+        },
         "records/patrons/casimirus/gre": {
             "pl": "Kazimierz Grelewski",
             "en": "Casimir Grelewski",

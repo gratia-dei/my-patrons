@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Garnier"
+    },
+    "translations": {
+        "fr": [
+            "Garnier"
+        ]
+    },
+    "links": {
+        "records/patrons/carolus/gar": {
+            "fr": "Charles Garnier",
+            "la": "Carolus Garnier",
+            "en": "Charles Garnier",
+            "pl": "Karol Garnier"
+        }
+    }
+}

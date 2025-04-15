@@ -1,30 +1,30 @@
 {
     "names": {
         "fr": [
-            "Jean de Brébeuf"
+            "Charles Garnier"
         ],
         "la": [
-            "Ioannes de Brébeuf"
+            "Carolus Garnier"
         ],
         "en": [
-            "John de Brébeuf"
+            "Charles Garnier"
         ],
         "pl": [
-            "Jan de Brébeuf"
+            "Karol Garnier"
         ]
     },
-    "forenames": ["ioannes"],
+    "forenames": ["carolus"],
     "surnames": [
         {
-            "fr": "de Brébeuf"
+            "fr": "Garnier"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1593-03-25"],
-    "died": ["1649-03-16"],
+    "born": ["1606-05-25"],
+    "died": ["1649-12-07"],
     "beatified": {
         "type": "ceremonially",
         "date": "1925-06-21"
@@ -33,7 +33,7 @@
         "type": "ceremonially",
         "date": "1930-06-29"
     },
-    "anniversary": ["03-16"],
+    "anniversary": null,
 
     "categories": ["vir", "martyr", "presbyter"],
 
@@ -41,18 +41,21 @@
         "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Martii/16#5"],
+        "mr-1956": ["4:Martii/16#5"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:mar./16#8", "1:oct./19#1"],
+        "mr-2004": ["7:oct./19#1", "1:dec./7#7"],
         "mr-2004-movable": []
     },
 
     "sources": {
-        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-de-brebeuf.html",
-        "gcatholic": "https://gcatholic.org/p/67012",
+        "causesanti": [
+            null,
+            "https://www.causesanti.va/it/santi-e-beati/giovanni-de-brebeuf.html"
+        ],
+        "gcatholic": "https://gcatholic.org/p/67010",
         "wiki": [
-            "https://pl.wikipedia.org/wiki/Jan_de_Br%C3%A9beuf",
+            "https://pl.wikipedia.org/wiki/Karol_Garnier",
             "https://pl.wikipedia.org/wiki/M%C4%99czennicy_kanadyjscy"
         ]
     }

@@ -157,6 +157,7 @@
             },
             "sources": {
                 "reliable-death-anniversary": "16 III",
+                "feast": "16 III",
                 "mr-1956": "16 III: #5",
                 "mr-2004": "16 III: #8"
             }
@@ -178,6 +179,17 @@
                 "la": "Antonius Daniel",
                 "en": "Anthony Daniel",
                 "pl": "Antoni Daniel"
+            },
+            "sources": {
+                "mr-1956": "16 III: #5"
+            }
+        },
+        "records/patrons/carolus/gar": {
+            "name": {
+                "fr": "Charles Garnier",
+                "la": "Carolus Garnier",
+                "en": "Charles Garnier",
+                "pl": "Karol Garnier"
             },
             "sources": {
                 "mr-1956": "16 III: #5"
@@ -1092,6 +1104,17 @@
                 "mr-2004": "19 X: #1"
             }
         },
+        "records/patrons/carolus/gar": {
+            "name": {
+                "fr": "Charles Garnier",
+                "la": "Carolus Garnier",
+                "en": "Charles Garnier",
+                "pl": "Karol Garnier"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",
@@ -1261,6 +1284,20 @@
                 "mr-1584": "6 XII: #1",
                 "mr-1956": "6 XII: #1",
                 "mr-2004": "6 XII: #1"
+            }
+        }
+    },
+    "12-07": {
+        "records/patrons/carolus/gar": {
+            "name": {
+                "fr": "Charles Garnier",
+                "la": "Carolus Garnier",
+                "en": "Charles Garnier",
+                "pl": "Karol Garnier"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 XII",
+                "mr-2004": "7 XII: #7"
             }
         }
     },
