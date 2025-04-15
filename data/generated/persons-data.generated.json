@@ -4522,7 +4522,7 @@
         "feasts": []
     },
     "patrons/ioannes/p1p": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giovanni Paolo I",
             "la": "Ioannes Paulus Pp. I",

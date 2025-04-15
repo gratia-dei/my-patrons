@@ -1,44 +1,62 @@
 {
-  "names": {
-    "it": [
-      "Giovanni Paolo I",
-      "Albino Luciani"
+    "names": {
+        "it": [
+            "Giovanni Paolo I",
+            "Albino Luciani"
+        ],
+        "la": [
+            "Ioannes Paulus Pp. I",
+            "Albino Luciani"
+        ],
+        "en": [
+            "John Paul I",
+            "Albino Luciani"
+        ],
+        "pl": [
+            "Jan Paweł I",
+            "Albino Luciani"
+        ]
+    },
+    "forenames": ["ioannes", "paulus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "it": "Primo",
+            "la": "Primus",
+            "en": "the First",
+            "pl": "Pierwszy"
+        }
     ],
-    "la": [
-      "Ioannes Paulus Pp. I",
-      "Albino Luciani"
-    ],
-    "en": [
-      "John Paul I",
-      "Albino Luciani"
-    ],
-    "pl": [
-      "Jan Paweł I",
-      "Albino Luciani"
-    ]
-  },
 
-  "epithets": [
-    {
-      "it": "Primo",
-      "la": "Primus",
-      "en": "the First",
-      "pl": "Pierwszy"
+    "active": true,
+
+    "born": ["1912-10-17"],
+    "died": ["1978-09-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2022-09-04"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#263"]
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-i-albino-luciani.html",
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/JP1",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Pawe%C5%82_I"
     }
-  ],
-
-  "born": ["1912-10-17"],
-  "died": ["1978-09-28"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2022-09-04"
-  },
-
-  "forenames": ["ioannes", "paulus"],
-  "categories": ["vir", "papa"],
-
-  "data-links": {
-    "popes": ["1:#263"]
-  }
 }

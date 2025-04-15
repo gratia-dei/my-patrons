@@ -830,6 +830,19 @@
             }
         }
     },
+    "09-28": {
+        "records/patrons/ioannes/p1p": {
+            "name": {
+                "it": "Giovanni Paolo I",
+                "la": "Ioannes Paulus Pp. I",
+                "en": "John Paul I",
+                "pl": "Jan Paweł I"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 IX"
+            }
+        }
+    },
     "10-03": {
         "records/patrons/franciscus/asi": {
             "name": {
