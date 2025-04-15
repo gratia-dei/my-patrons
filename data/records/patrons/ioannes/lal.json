@@ -9,18 +9,18 @@
             "Ioannes de Lalande"
         ],
         "en": [
-            "John de Lalande",
-            "John de La Lande"
+            "John de La Lande",
+            "John de Lalande"
         ],
         "pl": [
-            "Jan de Lalande",
-            "Jan de La Lande"
+            "Jan de La Lande",
+            "Jan de Lalande"
         ]
     },
     "forenames": ["ioannes"],
     "surnames": [
         {
-            "fr": ["de La Lande", "de Lalande"]
+            "fr": "de La Lande"
         }
     ],
     "epithets": null,

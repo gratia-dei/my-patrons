@@ -4,16 +4,15 @@
     },
     "translations": {
         "fr": [
-            "de La Lande",
-            "de Lalande"
+            "de La Lande"
         ]
     },
     "links": {
         "records/patrons/ioannes/lal": {
             "fr": "Jean de La Lande",
             "la": "Ioannes de la Lande",
-            "en": "John de Lalande",
-            "pl": "Jan de Lalande"
+            "en": "John de La Lande",
+            "pl": "Jan de La Lande"
         }
     }
 }
