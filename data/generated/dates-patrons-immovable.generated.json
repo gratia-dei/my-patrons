@@ -172,6 +172,17 @@
                 "mr-1956": "16 III: #5"
             }
         },
+        "records/patrons/antonius/dan": {
+            "name": {
+                "fr": "Antoine Daniel",
+                "la": "Antonius Daniel",
+                "en": "Anthony Daniel",
+                "pl": "Antoni Daniel"
+            },
+            "sources": {
+                "mr-1956": "16 III: #5"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",
@@ -431,6 +442,20 @@
                 "mr-1584": "1 VII: #2",
                 "mr-1956": "1 VII: #3",
                 "mr-2004": "1 VII: #1"
+            }
+        }
+    },
+    "07-04": {
+        "records/patrons/antonius/dan": {
+            "name": {
+                "fr": "Antoine Daniel",
+                "la": "Antonius Daniel",
+                "en": "Anthony Daniel",
+                "pl": "Antoni Daniel"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VII",
+                "mr-2004": "4 VII: #13"
             }
         }
     },
@@ -1051,6 +1076,17 @@
                 "la": "Gabriel Lalemant",
                 "en": "Gabriel Lalemant",
                 "pl": "Gabriel Lalemant"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
+        "records/patrons/antonius/dan": {
+            "name": {
+                "fr": "Antoine Daniel",
+                "la": "Antonius Daniel",
+                "en": "Anthony Daniel",
+                "pl": "Antoni Daniel"
             },
             "sources": {
                 "mr-2004": "19 X: #1"

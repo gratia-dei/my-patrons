@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Daniel"
+    },
+    "translations": {
+        "fr": [
+            "Daniel"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/dan": {
+            "fr": "Antoine Daniel",
+            "la": "Antonius Daniel",
+            "en": "Anthony Daniel",
+            "pl": "Antoni Daniel"
+        }
+    }
+}

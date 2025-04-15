@@ -1120,6 +1120,19 @@
         ],
         "feasts": []
     },
+    "patrons/antonius/dan": {
+        "active": true,
+        "names": {
+            "fr": "Antoine Daniel",
+            "la": "Antonius Daniel",
+            "en": "Anthony Daniel",
+            "pl": "Antoni Daniel"
+        },
+        "died": [
+            "1648-07-04"
+        ],
+        "feasts": []
+    },
     "patrons/antonius/ere": {
         "active": false,
         "names": {
