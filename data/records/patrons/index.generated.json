@@ -37,7 +37,8 @@
         "la": "Agnes",
         "en": "Agnes",
         "pl": "Agnieszka",
-        "cs": "Anežka"
+        "cs": "Anežka",
+        "sq": "Anjezë"
     },
     "agricola": {
         "en": "Agricola",
@@ -1074,6 +1075,12 @@
         "la": "Natalia",
         "en": "Natalie",
         "pl": "Natalia"
+    },
+    "natalis": {
+        "la": "Natalis",
+        "en": "Natale",
+        "pl": "Natal",
+        "fr": "Noël"
     },
     "nicolaus": {
         "la": "Nicolaus",

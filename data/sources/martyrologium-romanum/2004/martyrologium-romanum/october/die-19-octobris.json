@@ -1,37 +1,33 @@
 {
     "1": {
-        "page": "...",
+        "page": 579,
         "mark": "!",
-        "la": "?..."
+        "la": "Sanctorum martyrum [todo-1|Ioannis de Brebeuf], [todo-2|Issac Jogues], ... sanctus [todo-3|Ioannes de la Lande], ... sanctus [todo-4|Renatus Goupil] ... sancti [todo-5|Gabriel Lalemant], [todo-6|Antonius Daniel], [todo-7|Carolus Garnier] et [8|Natalis Chabanel], ... "
     },
 
     "2": {
-        "mark": "*",
+        "mark": "!",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
+        "page": 580,
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -41,22 +37,18 @@
     },
 
     "9": {
-        "mark": "*",
         "la": "..."
     },
 
     "10": {
-        "mark": "*",
         "la": "..."
     },
 
     "11": {
-        "mark": "*",
         "la": "..."
     },
 
     "12": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -66,36 +58,15 @@
     },
 
     "14": {
-        "mark": "*",
         "la": "..."
     },
 
     "15": {
-        "mark": "*",
         "la": "..."
     },
 
     "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
+        "page": 581,
         "mark": "*",
         "la": "..."
     }

@@ -147,6 +147,19 @@
             }
         }
     },
+    "03-16": {
+        "records/patrons/natalis/cha": {
+            "name": {
+                "fr": "Noël Chabanel",
+                "la": "Natalis Chabanel",
+                "en": "Natale Chabanel",
+                "pl": "Natal Chabanel"
+            },
+            "sources": {
+                "mr-1956": "16 III: #5"
+            }
+        }
+    },
     "03-17": {
         "records/patrons/patricius/hib": {
             "name": {
@@ -984,6 +997,19 @@
             }
         }
     },
+    "10-19": {
+        "records/patrons/natalis/cha": {
+            "name": {
+                "fr": "Noël Chabanel",
+                "la": "Natalis Chabanel",
+                "en": "Natale Chabanel",
+                "pl": "Natal Chabanel"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        }
+    },
     "10-20": {
         "records/patrons/iacobus/str": {
             "name": {
@@ -1141,6 +1167,20 @@
                 "mr-1584": "6 XII: #1",
                 "mr-1956": "6 XII: #1",
                 "mr-2004": "6 XII: #1"
+            }
+        }
+    },
+    "12-08": {
+        "records/patrons/natalis/cha": {
+            "name": {
+                "fr": "Noël Chabanel",
+                "la": "Natalis Chabanel",
+                "en": "Natale Chabanel",
+                "pl": "Natal Chabanel"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XII",
+                "mr-2004": "8 XII: #8"
             }
         }
     },

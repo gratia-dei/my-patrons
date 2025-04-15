@@ -510,7 +510,8 @@
             "la": "Agnes",
             "en": "Agnes",
             "pl": "Agnieszka",
-            "cs": "Anežka"
+            "cs": "Anežka",
+            "sq": "Anjezë"
         }
     },
     "patrons/agnes/pra": {
@@ -6814,6 +6815,27 @@
         },
         "died": [
             "1945-03-31"
+        ],
+        "feasts": []
+    },
+    "patrons/natalis": {
+        "names": {
+            "la": "Natalis",
+            "en": "Natale",
+            "pl": "Natal",
+            "fr": "Noël"
+        }
+    },
+    "patrons/natalis/cha": {
+        "active": true,
+        "names": {
+            "fr": "Noël Chabanel",
+            "la": "Natalis Chabanel",
+            "en": "Natale Chabanel",
+            "pl": "Natal Chabanel"
+        },
+        "died": [
+            "1649-12-08"
         ],
         "feasts": []
     },

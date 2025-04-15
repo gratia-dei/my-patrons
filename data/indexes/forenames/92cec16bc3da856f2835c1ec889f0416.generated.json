@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Natal"
+    },
+    "translations": {
+        "la": [
+            "Natalis"
+        ],
+        "en": [
+            "Natale"
+        ],
+        "pl": [
+            "Natal"
+        ],
+        "fr": [
+            "Noël"
+        ]
+    },
+    "links": {
+        "records/patrons/natalis/cha": {
+            "fr": "Noël Chabanel",
+            "la": "Natalis Chabanel",
+            "en": "Natale Chabanel",
+            "pl": "Natal Chabanel"
+        }
+    }
+}

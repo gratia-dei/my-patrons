@@ -841,6 +841,12 @@
             "en": "Natalie Tułasiewicz",
             "la": "Natalia Tułasiewicz"
         },
+        "records/patrons/natalis/cha": {
+            "fr": "Noël Chabanel",
+            "la": "Natalis Chabanel",
+            "en": "Natale Chabanel",
+            "pl": "Natal Chabanel"
+        },
         "records/patrons/onesiphorus/apo": {
             "la": "Onesiphorus, Apostolorum discipulus",
             "en": "Onesiphorus, disciple of Apostles",

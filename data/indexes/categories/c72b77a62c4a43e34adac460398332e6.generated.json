@@ -1478,6 +1478,12 @@
             "en": "Narcissus Turchan",
             "la": "Narcissus Turchan"
         },
+        "records/patrons/natalis/cha": {
+            "fr": "Noël Chabanel",
+            "la": "Natalis Chabanel",
+            "en": "Natale Chabanel",
+            "pl": "Natal Chabanel"
+        },
         "records/patrons/nicolaus/flu": {
             "de": "Niklaus von Flüe",
             "en": "Nicholas of Flüe",
