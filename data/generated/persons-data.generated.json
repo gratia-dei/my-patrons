@@ -4948,6 +4948,27 @@
         ],
         "feasts": []
     },
+    "patrons/isaac": {
+        "names": {
+            "la": "Isaac",
+            "en": "Isaac",
+            "pl": "Izaak",
+            "fr": "Isaac"
+        }
+    },
+    "patrons/isaac/jog": {
+        "active": true,
+        "names": {
+            "fr": "Isaac Jogues",
+            "la": "Isaac Jogues",
+            "en": "Isaac Jogues",
+            "pl": "Izaak Jogues"
+        },
+        "died": [
+            "1646-10-18"
+        ],
+        "feasts": []
+    },
     "patrons/isaias": {
         "names": {
             "la": "Isaias",

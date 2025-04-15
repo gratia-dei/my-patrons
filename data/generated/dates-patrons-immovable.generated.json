@@ -1056,6 +1056,19 @@
         }
     },
     "10-18": {
+        "records/patrons/isaac/jog": {
+            "name": {
+                "fr": "Isaac Jogues",
+                "la": "Isaac Jogues",
+                "en": "Isaac Jogues",
+                "pl": "Izaak Jogues"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 X",
+                "mr-1956": "18 X: #8",
+                "mr-2004": "18 X: #7"
+            }
+        },
         "records/patrons/lucas/eva": {
             "name": {
                 "el": "Ευαγγελιστής Λουκάς",
@@ -1077,6 +1090,17 @@
                 "la": "Ioannes de Brébeuf",
                 "en": "John de Brébeuf",
                 "pl": "Jan de Brébeuf"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
+        "records/patrons/isaac/jog": {
+            "name": {
+                "fr": "Isaac Jogues",
+                "la": "Isaac Jogues",
+                "en": "Isaac Jogues",
+                "pl": "Izaak Jogues"
             },
             "sources": {
                 "mr-2004": "19 X: #1"

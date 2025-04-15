@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Izaak"
+    },
+    "translations": {
+        "la": [
+            "Isaac"
+        ],
+        "en": [
+            "Isaac"
+        ],
+        "pl": [
+            "Izaak"
+        ],
+        "fr": [
+            "Isaac"
+        ]
+    },
+    "links": {
+        "records/patrons/isaac/jog": {
+            "fr": "Isaac Jogues",
+            "la": "Isaac Jogues",
+            "en": "Isaac Jogues",
+            "pl": "Izaak Jogues"
+        }
+    }
+}
