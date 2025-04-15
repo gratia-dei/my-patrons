@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Paphnutius Thebanus"
-    ],
-    "en": [
-      "Paphnutius of Thebes"
-    ],
-    "pl": [
-      "Pafnucy z Teb"
-    ]
-  },
+    "names": {
+        "la": [
+            "Paphnutius Thebanus"
+        ],
+        "en": [
+            "Paphnutius of Thebes"
+        ],
+        "pl": [
+            "Pafnucy z Tebaidy"
+        ]
+    },
+    "forenames": ["paphnutius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">301", "<400"],
+    "active": true,
 
-  "also-in-martyrology": ["09-11"],
+    "born": null,
+    "died": [">301", "<400"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["paphnutius"],
-  "categories": ["vir", "confessor", "episcopus"]
+    "categories": ["vir", "confessor", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./11#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/11#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./11#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71469",
+        "wiki": "https://pl.wikipedia.org/wiki/Pafnucy_z_Tebaidy"
+    }
 }

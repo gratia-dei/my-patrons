@@ -6980,11 +6980,11 @@
         }
     },
     "patrons/paphnutius/epi": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Paphnutius Thebanus",
             "en": "Paphnutius of Thebes",
-            "pl": "Pafnucy z Teb"
+            "pl": "Pafnucy z Tebaidy"
         },
         "died": [
             ">301",
