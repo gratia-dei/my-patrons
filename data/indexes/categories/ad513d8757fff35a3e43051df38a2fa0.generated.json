@@ -567,6 +567,12 @@
             "la": "Ioannes Hambley",
             "pl": "Jan Hambley"
         },
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de Lalande",
+            "pl": "Jan de Lalande"
+        },
         "records/patrons/ioannes/low": {
             "en": "John Lowe",
             "la": "Ioannes Lowe",
@@ -963,6 +969,12 @@
             "en": "Cyricus /+ Julitta",
             "la": "Quiricus /+ Iulitta",
             "pl": "Cyryk /+ Julita"
+        },
+        "records/patrons/renatus/gou": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
         },
         "records/patrons/romanus/arc": {
             "pl": "Roman Archutowski",

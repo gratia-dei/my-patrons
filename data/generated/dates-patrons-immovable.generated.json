@@ -943,6 +943,20 @@
             }
         }
     },
+    "09-29": {
+        "records/patrons/renatus/gou": {
+            "name": {
+                "fr": "René Goupil",
+                "la": "Renatus Goupil",
+                "en": "Renat Goupil",
+                "pl": "Renat Goupil"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 IX",
+                "mr-2004": "29 IX: #14"
+            }
+        }
+    },
     "10-03": {
         "records/patrons/franciscus/asi": {
             "name": {
@@ -1081,9 +1095,43 @@
                 "mr-1956": "18 X: #1",
                 "mr-2004": "18 X: #1"
             }
+        },
+        "records/patrons/ioannes/lal": {
+            "name": {
+                "fr": "Jean de La Lande",
+                "la": "Ioannes de la Lande",
+                "en": "John de Lalande",
+                "pl": "Jan de Lalande"
+            },
+            "sources": {
+                "mr-1956": "18 X: #8"
+            }
+        },
+        "records/patrons/renatus/gou": {
+            "name": {
+                "fr": "René Goupil",
+                "la": "Renatus Goupil",
+                "en": "Renat Goupil",
+                "pl": "Renat Goupil"
+            },
+            "sources": {
+                "mr-1956": "18 X: #8"
+            }
         }
     },
     "10-19": {
+        "records/patrons/ioannes/lal": {
+            "name": {
+                "fr": "Jean de La Lande",
+                "la": "Ioannes de la Lande",
+                "en": "John de Lalande",
+                "pl": "Jan de Lalande"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 X",
+                "mr-2004": "19 X: #1"
+            }
+        },
         "records/patrons/ioannes/bre": {
             "name": {
                 "fr": "Jean de Brébeuf",
@@ -1101,6 +1149,17 @@
                 "la": "Isaac Jogues",
                 "en": "Isaac Jogues",
                 "pl": "Izaak Jogues"
+            },
+            "sources": {
+                "mr-2004": "19 X: #1"
+            }
+        },
+        "records/patrons/renatus/gou": {
+            "name": {
+                "fr": "René Goupil",
+                "la": "Renatus Goupil",
+                "en": "Renat Goupil",
+                "pl": "Renat Goupil"
             },
             "sources": {
                 "mr-2004": "19 X: #1"

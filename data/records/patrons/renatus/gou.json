@@ -1,0 +1,62 @@
+{
+    "names": {
+        "fr": [
+            "René Goupil"
+        ],
+        "la": [
+            "Renatus Goupil"
+        ],
+        "en": [
+            "Renat Goupil"
+        ],
+        "pl": [
+            "Renat Goupil"
+        ]
+    },
+    "forenames": ["renatus"],
+    "surnames": [
+        {
+            "fr": "Goupil"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1608-05-15"],
+    "died": ["1642-09-29"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-06-21"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1930-06-29"
+    },
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "coadiutor-temporalis", "medicus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Octobris/18#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./29#14", "4:oct./19#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": [
+            null,
+            "https://www.causesanti.va/it/santi-e-beati/giovanni-de-brebeuf.html"
+        ],
+        "gcatholic": "https://gcatholic.org/p/67006",
+        "wiki": [
+            "https://pl.wikipedia.org/wiki/Renat_Goupil",
+            "https://pl.wikipedia.org/wiki/M%C4%99czennicy_kanadyjscy"
+        ]
+    }
+}

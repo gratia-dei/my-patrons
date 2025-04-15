@@ -74,6 +74,11 @@
         "en": "catechumen",
         "pl": "katechumenka"
     },
+    "coadiutor-temporalis": {
+        "la": "coadiutor temporalis",
+        "en": "temporary coadjutor",
+        "pl": "koadiutor tymczasowy"
+    },
     "coenobita": {
         "la": "coenobita",
         "en": "cenobite",

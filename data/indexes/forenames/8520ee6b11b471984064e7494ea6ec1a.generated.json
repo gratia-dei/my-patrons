@@ -1,0 +1,28 @@
+{
+    "names": {
+        "en": "Renat",
+        "pl": "Renat"
+    },
+    "translations": {
+        "la": [
+            "Renatus"
+        ],
+        "en": [
+            "Renat"
+        ],
+        "pl": [
+            "Renat"
+        ],
+        "fr": [
+            "René"
+        ]
+    },
+    "links": {
+        "records/patrons/renatus/gou": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
+        }
+    }
+}

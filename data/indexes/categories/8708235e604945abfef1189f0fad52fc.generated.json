@@ -1,0 +1,30 @@
+{
+    "names": {
+        "en": "temporary coadjutor"
+    },
+    "translations": {
+        "la": [
+            "coadiutor temporalis"
+        ],
+        "en": [
+            "temporary coadjutor"
+        ],
+        "pl": [
+            "koadiutor tymczasowy"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de Lalande",
+            "pl": "Jan de Lalande"
+        },
+        "records/patrons/renatus/gou": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
+        }
+    }
+}

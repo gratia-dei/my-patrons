@@ -72,6 +72,12 @@
             "la": "Ioannes de Deo",
             "pl": "Jan Boży"
         },
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de Lalande",
+            "pl": "Jan de Lalande"
+        },
         "records/patrons/iosephina/bak": {
             "ar": "جوزفين بخيتة",
             "en": "Josephine Bakhita",

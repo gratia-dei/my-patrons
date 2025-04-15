@@ -4537,6 +4537,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/lal": {
+        "active": true,
+        "names": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de Lalande",
+            "pl": "Jan de Lalande"
+        },
+        "died": [
+            "1646-10-19"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/low": {
         "active": false,
         "names": {
@@ -7743,6 +7756,27 @@
         },
         "died": [
             "1275-01-06"
+        ],
+        "feasts": []
+    },
+    "patrons/renatus": {
+        "names": {
+            "la": "Renatus",
+            "en": "Renat",
+            "pl": "Renat",
+            "fr": "René"
+        }
+    },
+    "patrons/renatus/gou": {
+        "active": true,
+        "names": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
+        },
+        "died": [
+            "1642-09-29"
         ],
         "feasts": []
     },

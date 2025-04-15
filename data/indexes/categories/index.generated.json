@@ -325,6 +325,9 @@
     "861da2fdf7ff3cd76aa506b55575d6a4": {
         "pl": "Matka Boża"
     },
+    "8708235e604945abfef1189f0fad52fc": {
+        "en": "temporary coadjutor"
+    },
     "8862ae30c81f2b05683c299158019d5a": {
         "pl": "doktor Kościoła"
     },
@@ -345,6 +348,9 @@
     },
     "8e07dafd13495561db9063ebe4db4b27": {
         "en": "levi"
+    },
+    "8fd0e4ca06f126659aabb0ea085e2463": {
+        "pl": "koadiutor tymczasowy"
     },
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
@@ -511,6 +517,9 @@
     "c74eb8da5b12adb6abc37b0b537d696e": {
         "la": "asceta",
         "pl": "asceta"
+    },
+    "c7ab62c97ed5b389d29485b794dc68ff": {
+        "la": "coadiutor temporalis"
     },
     "c801fc526ce1b1b33ee896c7b13d93c0": {
         "en": "founder / foundress"

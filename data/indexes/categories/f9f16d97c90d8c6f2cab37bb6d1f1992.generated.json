@@ -52,6 +52,12 @@
             "la": "Martinus de Porres",
             "en": "Martin de Porres",
             "pl": "Marcin de Porres"
+        },
+        "records/patrons/renatus/gou": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
         }
     }
 }

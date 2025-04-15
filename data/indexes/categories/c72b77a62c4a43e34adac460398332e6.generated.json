@@ -1111,6 +1111,12 @@
             "la": "Ioannes Cantius",
             "en": "John Cantius"
         },
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de Lalande",
+            "pl": "Jan de Lalande"
+        },
         "records/patrons/ioannes/low": {
             "en": "John Lowe",
             "la": "Ioannes Lowe",
@@ -1717,6 +1723,12 @@
             "en": "Raymond of Penyafort",
             "la": "Raymundus de Penyafort",
             "pl": "Rajmund z Penyafortu"
+        },
+        "records/patrons/renatus/gou": {
+            "fr": "René Goupil",
+            "la": "Renatus Goupil",
+            "en": "Renat Goupil",
+            "pl": "Renat Goupil"
         },
         "records/patrons/richardus/per": {
             "en": "Richard the Pilgrim",
