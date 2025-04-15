@@ -1100,6 +1100,20 @@
             }
         }
     },
+    "12-05": {
+        "records/patrons/narcissus/put": {
+            "name": {
+                "pl": "Narcyz Putz",
+                "la": "Narcissus Putz",
+                "en": "Narcissus Putz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 XII",
+                "feast": "5 XII",
+                "mr-2004": "5 XII: #9"
+            }
+        }
+    },
     "12-06": {
         "records/patrons/nicolaus/myr": {
             "name": {

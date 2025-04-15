@@ -6774,6 +6774,18 @@
             "pl": "Narcyz"
         }
     },
+    "patrons/narcissus/put": {
+        "active": true,
+        "names": {
+            "pl": "Narcyz Putz",
+            "la": "Narcissus Putz",
+            "en": "Narcissus Putz"
+        },
+        "died": [
+            "1942-12-05"
+        ],
+        "feasts": []
+    },
     "patrons/narcissus/tur": {
         "active": false,
         "names": {
