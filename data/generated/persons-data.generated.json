@@ -5315,6 +5315,23 @@
         ],
         "feasts": []
     },
+    "patrons/lucius": {
+        "names": {
+            "la": "Lucius",
+            "en": "Lucius",
+            "pl": "Lucjusz"
+        }
+    },
+    "patrons/lucius/cur": {
+        "active": true,
+        "names": {
+            "la": "Lucius de Curiae Rhaetorum",
+            "en": "Lucius of Chur",
+            "pl": "Lucjusz z Chur"
+        },
+        "died": [],
+        "feasts": []
+    },
     "patrons/ludovica": {
         "names": {
             "la": "Ludovica",

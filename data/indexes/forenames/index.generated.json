@@ -1755,6 +1755,10 @@
     "99726419a70604874e762e683c60250b": {
         "en": "Vladimir"
     },
+    "99a6bd8fe710f43db4db4e91936e33e7": {
+        "la": "Lucius",
+        "en": "Lucius"
+    },
     "99b981d8e3d1385b6ec38d2a5c7833c7": {
         "zh": "若瑟"
     },
@@ -2935,6 +2939,9 @@
         "en": "Gemma",
         "pl": "Gemma",
         "it": "Gemma"
+    },
+    "fc30b387431cffa5f0e4201d64db57f2": {
+        "pl": "Lucjusz"
     },
     "fc69efaba5c47ad5742a75bad9a90a76": {
         "it": "Alfonso"

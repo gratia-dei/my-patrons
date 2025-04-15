@@ -1,0 +1,44 @@
+{
+    "names": {
+        "la": [
+            "Lucius de Curiae Rhaetorum"
+        ],
+        "en": [
+            "Lucius of Chur",
+            "Lucius of Britain"
+        ],
+        "pl": [
+            "Lucjusz z Chur"
+        ]
+    },
+    "forenames": ["lucius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": null,
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "eremita", "rex"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./3#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/3#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./3#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72295",
+        "wiki": "https://pl.wikipedia.org/wiki/Lucjusz_z_Chur"
+    }
+}

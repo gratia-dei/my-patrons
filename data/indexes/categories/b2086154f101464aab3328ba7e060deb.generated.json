@@ -32,6 +32,11 @@
             "la": "Ioannes de Ribera",
             "pl": "Jan de Ribera"
         },
+        "records/patrons/lucius/cur": {
+            "la": "Lucius de Curiae Rhaetorum",
+            "en": "Lucius of Chur",
+            "pl": "Lucjusz z Chur"
+        },
         "records/patrons/ludovicus/rex": {
             "fr": "Louis IX, roi de France",
             "la": "Ludovicus IX, rex Franciae",

@@ -60,6 +60,11 @@
             "la": "Leonardus Lemovicensis",
             "pl": "Leonard z Limoges"
         },
+        "records/patrons/lucius/cur": {
+            "la": "Lucius de Curiae Rhaetorum",
+            "en": "Lucius of Chur",
+            "pl": "Lucjusz z Chur"
+        },
         "records/patrons/romanus/abb": {
             "fr": "Romain de Condat",
             "pl": "Roman Jurajski",
