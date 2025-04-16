@@ -1,7 +1,8 @@
 {
     "names": {
         "la": "Eulalia",
-        "pl": "Eulalia"
+        "pl": "Eulalia",
+        "es": "Eulalia"
     },
     "translations": {
         "la": [
@@ -13,11 +14,20 @@
         "pl": [
             "Eulalia"
         ],
+        "es": [
+            "Eulalia"
+        ],
         "fr": [
             "Eulalie"
         ]
     },
     "links": {
+        "records/patrons/eulalia/eme": {
+            "es": "Eulalia de Mérida",
+            "la": "Eulalia de Mérida",
+            "en": "Eulalia of Mérida",
+            "pl": "Eulalia z Méridy"
+        },
         "records/patrons/maria/dur": {
             "fr": "Marie-Rose Durocher",
             "pl": "Maria Róża Durocher",

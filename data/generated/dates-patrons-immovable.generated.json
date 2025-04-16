@@ -1398,6 +1398,21 @@
             }
         }
     },
+    "12-10": {
+        "records/patrons/eulalia/eme": {
+            "name": {
+                "es": "Eulalia de Mérida",
+                "la": "Eulalia de Mérida",
+                "en": "Eulalia of Mérida",
+                "pl": "Eulalia z Méridy"
+            },
+            "sources": {
+                "mr-1584": "10 XII: #3",
+                "mr-1956": "10 XII: #7",
+                "mr-2004": "10 XII: #1"
+            }
+        }
+    },
     "12-13": {
         "records/patrons/lucia/syr": {
             "name": {

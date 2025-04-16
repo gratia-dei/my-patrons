@@ -2887,6 +2887,28 @@
         ],
         "feasts": []
     },
+    "patrons/eulalia": {
+        "names": {
+            "la": "Eulalia",
+            "en": "Eulalie",
+            "pl": "Eulalia",
+            "es": "Eulalia",
+            "fr": "Eulalie"
+        }
+    },
+    "patrons/eulalia/eme": {
+        "active": true,
+        "names": {
+            "es": "Eulalia de Mérida",
+            "la": "Eulalia de Mérida",
+            "en": "Eulalia of Mérida",
+            "pl": "Eulalia z Méridy"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": []
+    },
     "patrons/eulogius": {
         "names": {
             "la": "Eulogius",
