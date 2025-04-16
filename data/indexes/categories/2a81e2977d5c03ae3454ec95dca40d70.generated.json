@@ -400,8 +400,8 @@
         },
         "records/patrons/ioannes/via": {
             "fr": "Jean-Marie Vianney",
-            "en": "John Mary Vianney",
             "la": "Ioannes Maria Vianney",
+            "en": "John Mary Vianney",
             "pl": "Jan Maria Vianney"
         },
         "records/patrons/iosephus/esc": {

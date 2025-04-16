@@ -1,57 +1,74 @@
 {
-  "names": {
-    "fr": [
-      "Jean-Marie Vianney",
-      "Jean-Baptiste-Marie Vianney",
-      "Curé d'Ars",
-      "Saint Curé d'Ars"
+    "names": {
+        "fr": [
+            "Jean-Marie Vianney",
+            "Jean-Baptiste-Marie Vianney",
+            "Curé d'Ars"
+        ],
+        "la": [
+            "Ioannes Maria Vianney",
+            "Ioannes Baptista Maria Vianney"
+        ],
+        "en": [
+            "John Mary Vianney",
+            "John Vianney"
+        ],
+        "pl": [
+            "Jan Maria Vianney",
+            "Jan Chrzciciel Maria Vianney",
+            "Proboszcz z Ars"
+        ]
+    },
+    "forenames": ["ioannes", "ioannes-baptista", "maria"],
+    "surnames": [
+        {
+            "fr": "Vianney"
+        }
     ],
-    "en": [
-      "John Mary Vianney",
-      "John Vianney"
-    ],
-    "la": [
-      "Ioannes Maria Vianney",
-      "Ioannes Baptista Maria Vianney"
-    ],
-    "pl": [
-      "Jan Maria Vianney",
-      "Jan Chrzciciel Maria Vianney",
-      "Proboszcz z Ars"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Vianney"
+    "active": true,
+
+    "born": ["1786-05-08"],
+    "died": ["1859-08-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1905-01-08"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1925-05-31"
+    },
+    "anniversary": ["08-04"],
+
+    "categories": ["vir", "confessor", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/4#2", "1:Augusti/9#2"],
+        "mr-1956-variations": ["1:Augusti/4#2-ab-1960-07-26", "1:Augusti/8#pre-1-ab-1960-07-26", "1:Augusti/9#2-ab-1960-07-26"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Johnvianney.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Johnvianney.jpg",
+            "attribution": "http://www.catholic-forum.com/saints/stj18039.htm, Public domain, via Wikimedia Commons",
+            "area-center-x": 71,
+            "area-center-y": 63,
+            "area-center-to-edge-distance": 61
+        }
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-maria-vianney.html",
+        "gcatholic": "https://gcatholic.org/p/68102",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Maria_Vianney"
     }
-  ],
-
-  "born": ["1786-05-08"],
-  "died": ["1859-08-04"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1905-01-08"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1925-05-31"
-  },
-
-  "also-in-martyrology": ["08-04", "08-08", "08-09"],
-
-  "forenames": ["ioannes", "ioannes-baptista", "maria"],
-  "categories": ["vir", "confessor", "presbyter"],
-
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Johnvianney.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Johnvianney.jpg",
-      "attribution": "http://www.catholic-forum.com/saints/stj18039.htm, Public domain, via Wikimedia Commons",
-      "area-center-x": 71,
-      "area-center-y": 63,
-      "area-center-to-edge-distance": 61
-    }
-  }
 }

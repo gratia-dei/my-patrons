@@ -774,6 +774,21 @@
         }
     },
     "08-04": {
+        "records/patrons/ioannes/via": {
+            "name": {
+                "fr": "Jean-Marie Vianney",
+                "la": "Ioannes Maria Vianney",
+                "en": "John Mary Vianney",
+                "pl": "Jan Maria Vianney"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VIII",
+                "feast": "4 VIII",
+                "mr-1956": "4 VIII: #2",
+                "mr-1956-variations": "4 VIII: #2-ab-1960-07-26",
+                "mr-2004": "4 VIII: #1"
+            }
+        },
         "records/patrons/dominicus/oxo": {
             "name": {
                 "es": "Domingo de Osma",
@@ -803,6 +818,17 @@
         }
     },
     "08-08": {
+        "records/patrons/ioannes/via": {
+            "name": {
+                "fr": "Jean-Marie Vianney",
+                "la": "Ioannes Maria Vianney",
+                "en": "John Mary Vianney",
+                "pl": "Jan Maria Vianney"
+            },
+            "sources": {
+                "mr-1956-variations": "8 VIII: #pre-1-ab-1960-07-26"
+            }
+        },
         "records/patrons/dominicus/oxo": {
             "name": {
                 "es": "Domingo de Osma",
@@ -812,6 +838,19 @@
             },
             "sources": {
                 "mr-2004": "8 VIII: #1"
+            }
+        }
+    },
+    "08-09": {
+        "records/patrons/ioannes/via": {
+            "name": {
+                "fr": "Jean-Marie Vianney",
+                "la": "Ioannes Maria Vianney",
+                "en": "John Mary Vianney",
+                "pl": "Jan Maria Vianney"
+            },
+            "sources": {
+                "mr-1956": "9 VIII: #2"
             }
         }
     },
