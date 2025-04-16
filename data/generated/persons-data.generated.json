@@ -8281,7 +8281,7 @@
         }
     },
     "patrons/sergius/rad": {
-        "active": false,
+        "active": true,
         "names": {
             "ru": "Сергий Радонежский",
             "la": "Sergius de Radonez",

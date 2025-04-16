@@ -956,6 +956,20 @@
             }
         }
     },
+    "09-25": {
+        "records/patrons/sergius/rad": {
+            "name": {
+                "ru": "Сергий Радонежский",
+                "la": "Sergius de Radonez",
+                "en": "Sergius of Radonezh",
+                "pl": "Sergiusz z Radoneża"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 IX",
+                "mr-2004": "25 IX: #9"
+            }
+        }
+    },
     "09-28": {
         "records/patrons/ioannes/p1p": {
             "name": {
