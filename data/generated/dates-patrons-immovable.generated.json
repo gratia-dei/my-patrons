@@ -997,6 +997,20 @@
             }
         }
     },
+    "10-02": {
+        "records/patrons/maria/kra": {
+            "name": {
+                "pl": "Maria Antonina Kratochwil",
+                "la": "Maria Antonina Kratochwil",
+                "en": "Mary Antoinette Kratochwil"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 X",
+                "feast": "2 X",
+                "mr-2004": "2 X: #15"
+            }
+        }
+    },
     "10-03": {
         "records/patrons/franciscus/asi": {
             "name": {

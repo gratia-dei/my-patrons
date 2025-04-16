@@ -5977,7 +5977,7 @@
         "feasts": []
     },
     "patrons/maria/kra": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Antonina Kratochwil",
             "la": "Maria Antonina Kratochwil",

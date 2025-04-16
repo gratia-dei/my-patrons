@@ -1,35 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Maria Antonina Kratochwil"
+    "names": {
+        "pl": [
+            "Maria Antonina Kratochwil"
+        ],
+        "la": [
+            "Maria Antonina Kratochwil"
+        ],
+        "en": [
+            "Mary Antoinette Kratochwil",
+            "Maria Antonina Kratochwil"
+        ]
+    },
+    "forenames": ["maria", "antonina"],
+    "surnames": [
+        {
+            "pl": "Kratochwil"
+        }
     ],
-    "la": [
-      "Maria Antonina Kratochwil"
-    ],
-    "en": [
-      "Mary Antoinette Kratochwil",
-      "Maria Antonina Kratochwil"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Kratochwil"
+    "active": true,
+
+    "born": ["1881-08-21"],
+    "died": ["1942-10-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["10-02"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./2#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67792",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Antonina_Kratochwil"
     }
-  ],
-
-  "born": ["1881-08-21"],
-  "died": ["1942-10-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["10-02"],
-
-  "forenames": ["maria", "antonina"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["ssnd"]
 }
