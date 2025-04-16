@@ -1,32 +1,32 @@
 {
     "names": {
         "sw": [
-            "Daudi Okelo"
-        ],
-        "en": [
-            "David Okelo",
-            "Daudi Okelo"
+            "Jildo Irwa"
         ],
         "la": [
-            "David Okelo",
-            "Daudi Okelo"
+            "Gildus Irwa",
+            "Jildo Irwa"
+        ],
+        "en": [
+            "Gildas Irwa",
+            "Jildo Irwa"
         ],
         "pl": [
-            "Dawid Okelo",
-            "Daudi Okelo"
+            "Gildas Irwa",
+            "Jildo Irwa"
         ]
     },
-    "forenames": ["david"],
+    "forenames": ["gildus"],
     "surnames": [
         {
-            "sw": "Okelo"
+            "sw": "Irwa"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["~1902"],
+    "born": ["~1906"],
     "died": ["1918-10-18"],
     "beatified": {
         "type": "ceremonially",
@@ -44,13 +44,13 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:sept./18#11"],
+        "mr-2004": ["2:sept./18#11"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/daudi-okelo-e-jildo-irwa.html",
-        "gcatholic": "https://gcatholic.org/p/66524",
-        "wiki": "https://pl.wikipedia.org/wiki/Daudi_Okelo"
+        "gcatholic": "https://gcatholic.org/p/66525",
+        "wiki": "https://pl.wikipedia.org/wiki/Gildas_Irwa"
     }
 }

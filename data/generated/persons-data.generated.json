@@ -2479,7 +2479,7 @@
         "feasts": []
     },
     "patrons/david/oke": {
-        "active": false,
+        "active": true,
         "names": {
             "sw": "Daudi Okelo",
             "en": "David Okelo",
@@ -3552,6 +3552,27 @@
         },
         "died": [
             "659-03-17"
+        ],
+        "feasts": []
+    },
+    "patrons/gildus": {
+        "names": {
+            "la": "Gildus",
+            "en": "Gildas",
+            "pl": "Gildas",
+            "sw": "Jildo"
+        }
+    },
+    "patrons/gildus/irw": {
+        "active": true,
+        "names": {
+            "sw": "Jildo Irwa",
+            "la": "Gildus Irwa",
+            "en": "Gildas Irwa",
+            "pl": "Gildas Irwa"
+        },
+        "died": [
+            "1918-10-18"
         ],
         "feasts": []
     },

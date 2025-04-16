@@ -1,0 +1,27 @@
+{
+    "names": {
+        "sw": "Jildo"
+    },
+    "translations": {
+        "la": [
+            "Gildus"
+        ],
+        "en": [
+            "Gildas"
+        ],
+        "pl": [
+            "Gildas"
+        ],
+        "sw": [
+            "Jildo"
+        ]
+    },
+    "links": {
+        "records/patrons/gildus/irw": {
+            "sw": "Jildo Irwa",
+            "la": "Gildus Irwa",
+            "en": "Gildas Irwa",
+            "pl": "Gildas Irwa"
+        }
+    }
+}
