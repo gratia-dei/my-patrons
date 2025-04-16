@@ -539,6 +539,11 @@
             "en": "Titus of Crete",
             "pl": "Tytus z Krety"
         },
+        "records/patrons/valerianus/ave": {
+            "la": "Valerianus, episcopus Avensan.",
+            "en": "Valerian of Abbenza",
+            "pl": "Walerian z Abbenzy"
+        },
         "records/patrons/victorinus/pet": {
             "it": "Vittorino di Pettau",
             "en": "Victorinus of Pettau",

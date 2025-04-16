@@ -1973,6 +1973,11 @@
             "la": "Valentinus de Roma",
             "pl": "Walenty z Rzymu"
         },
+        "records/patrons/valerianus/ave": {
+            "la": "Valerianus, episcopus Avensan.",
+            "en": "Valerian of Abbenza",
+            "pl": "Walerian z Abbenzy"
+        },
         "records/patrons/victor/1pp": {
             "la": "Victor I",
             "en": "Victor I",

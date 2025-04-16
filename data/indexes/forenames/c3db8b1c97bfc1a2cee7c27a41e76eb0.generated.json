@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Valerian"
+    },
+    "translations": {
+        "la": [
+            "Valerianus"
+        ],
+        "en": [
+            "Valerian"
+        ],
+        "pl": [
+            "Walerian"
+        ]
+    },
+    "links": {
+        "records/patrons/valerianus/ave": {
+            "la": "Valerianus, episcopus Avensan.",
+            "en": "Valerian of Abbenza",
+            "pl": "Walerian z Abbenzy"
+        }
+    }
+}

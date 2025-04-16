@@ -1529,6 +1529,20 @@
             }
         }
     },
+    "12-15": {
+        "records/patrons/valerianus/ave": {
+            "name": {
+                "la": "Valerianus, episcopus Avensan.",
+                "en": "Valerian of Abbenza",
+                "pl": "Walerian z Abbenzy"
+            },
+            "sources": {
+                "mr-1584": "15 XII: #3",
+                "mr-1956": "15 XII: #4",
+                "mr-2004": "15 XII: #1"
+            }
+        }
+    },
     "12-16": {
         "records/patrons/eusebius/ver": {
             "name": {

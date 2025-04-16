@@ -8985,6 +8985,25 @@
         ],
         "feasts": []
     },
+    "patrons/valerianus": {
+        "names": {
+            "la": "Valerianus",
+            "en": "Valerian",
+            "pl": "Walerian"
+        }
+    },
+    "patrons/valerianus/ave": {
+        "active": true,
+        "names": {
+            "la": "Valerianus, episcopus Avensan.",
+            "en": "Valerian of Abbenza",
+            "pl": "Walerian z Abbenzy"
+        },
+        "died": [
+            ">457"
+        ],
+        "feasts": []
+    },
     "patrons/veronica": {
         "names": {
             "la": "Veronica",
