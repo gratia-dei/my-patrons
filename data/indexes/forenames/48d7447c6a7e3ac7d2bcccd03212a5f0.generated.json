@@ -29,6 +29,11 @@
             "la": "Pius Pp. V",
             "pl": "Pius V"
         },
+        "records/patrons/pius/bar": {
+            "pl": "Pius Bartosik",
+            "la": "Pius Bartosik",
+            "en": "Pius Bartosik"
+        },
         "records/patrons/pius/pie": {
             "it": "Pio da Pietrelcina",
             "la": "Pius de Pietrelcina",

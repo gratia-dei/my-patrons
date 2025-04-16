@@ -2482,8 +2482,8 @@
         "active": true,
         "names": {
             "sw": "Daudi Okelo",
-            "en": "David Okelo",
             "la": "David Okelo",
+            "en": "David Okelo",
             "pl": "Dawid Okelo"
         },
         "died": [
@@ -7650,6 +7650,19 @@
         },
         "died": [
             "1572-05-01"
+        ],
+        "feasts": []
+    },
+    "patrons/pius/bar": {
+        "active": true,
+        "names": {
+            "pl": "Pius Bartosik",
+            "la": "Pius Bartosik",
+            "en": "Pius Bartosik"
+        },
+        "died": [
+            "1941-12-12",
+            "1941-12-13"
         ],
         "feasts": []
     },

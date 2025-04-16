@@ -11,6 +11,11 @@
         "la": "Pius Pp. V",
         "pl": "Pius V"
     },
+    "bar": {
+        "pl": "Pius Bartosik",
+        "la": "Pius Bartosik",
+        "en": "Pius Bartosik"
+    },
     "pie": {
         "it": "Pio da Pietrelcina",
         "la": "Pius de Pietrelcina",

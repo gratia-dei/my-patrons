@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Bartosik"
+    },
+    "translations": {
+        "pl": [
+            "Bartosik"
+        ]
+    },
+    "links": {
+        "records/patrons/pius/bar": {
+            "pl": "Pius Bartosik",
+            "la": "Pius Bartosik",
+            "en": "Pius Bartosik"
+        }
+    }
+}

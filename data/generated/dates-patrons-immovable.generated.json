@@ -919,8 +919,8 @@
         "records/patrons/david/oke": {
             "name": {
                 "sw": "Daudi Okelo",
-                "en": "David Okelo",
                 "la": "David Okelo",
+                "en": "David Okelo",
                 "pl": "Dawid Okelo"
             },
             "sources": {
@@ -1099,8 +1099,8 @@
         "records/patrons/david/oke": {
             "name": {
                 "sw": "Daudi Okelo",
-                "en": "David Okelo",
                 "la": "David Okelo",
+                "en": "David Okelo",
                 "pl": "Dawid Okelo"
             },
             "sources": {
@@ -1461,7 +1461,30 @@
             }
         }
     },
+    "12-12": {
+        "records/patrons/pius/bar": {
+            "name": {
+                "pl": "Pius Bartosik",
+                "la": "Pius Bartosik",
+                "en": "Pius Bartosik"
+            },
+            "sources": {
+                "feast": "12 XII",
+                "mr-2004": "12 XII: #12"
+            }
+        }
+    },
     "12-13": {
+        "records/patrons/pius/bar": {
+            "name": {
+                "pl": "Pius Bartosik",
+                "la": "Pius Bartosik",
+                "en": "Pius Bartosik"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 XII"
+            }
+        },
         "records/patrons/lucia/syr": {
             "name": {
                 "it": "Lucia da Siracusa",

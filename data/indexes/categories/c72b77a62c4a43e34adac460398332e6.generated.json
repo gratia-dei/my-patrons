@@ -568,8 +568,8 @@
         },
         "records/patrons/david/oke": {
             "sw": "Daudi Okelo",
-            "en": "David Okelo",
             "la": "David Okelo",
+            "en": "David Okelo",
             "pl": "Dawid Okelo"
         },
         "records/patrons/deusdedit/1pp": {
@@ -1694,6 +1694,11 @@
             "en": "Pope Pius V",
             "la": "Pius Pp. V",
             "pl": "Pius V"
+        },
+        "records/patrons/pius/bar": {
+            "pl": "Pius Bartosik",
+            "la": "Pius Bartosik",
+            "en": "Pius Bartosik"
         },
         "records/patrons/pius/pie": {
             "it": "Pio da Pietrelcina",

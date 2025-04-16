@@ -318,8 +318,8 @@
         },
         "records/patrons/david/oke": {
             "sw": "Daudi Okelo",
-            "en": "David Okelo",
             "la": "David Okelo",
+            "en": "David Okelo",
             "pl": "Dawid Okelo"
         },
         "records/patrons/didacus/vit": {
@@ -964,6 +964,11 @@
             "la": "Philomena Romana",
             "en": "Philomena of Rome",
             "pl": "Filomena z Rzymu"
+        },
+        "records/patrons/pius/bar": {
+            "pl": "Pius Bartosik",
+            "la": "Pius Bartosik",
+            "en": "Pius Bartosik"
         },
         "records/patrons/polycarpus/smy": {
             "el": "Πολύκαρπος Σμύρνης",
