@@ -1078,6 +1078,21 @@
             }
         }
     },
+    "10-07": {
+        "records/patrons/iustina/pat": {
+            "name": {
+                "it": "Giustina di Padova",
+                "la": "Iustina Patavina",
+                "en": "Justine of Padua",
+                "pl": "Justyna z Padwy"
+            },
+            "sources": {
+                "mr-1584": "7 X: #5",
+                "mr-1956": "7 X: #6",
+                "mr-2004": "7 X: #3"
+            }
+        }
+    },
     "10-11": {
         "records/patrons/ioannes/23p": {
             "name": {

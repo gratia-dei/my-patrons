@@ -5134,7 +5134,7 @@
         }
     },
     "patrons/iustina/pat": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giustina di Padova",
             "la": "Iustina Patavina",
@@ -5142,7 +5142,7 @@
             "pl": "Justyna z Padwy"
         },
         "died": [
-            "~304"
+            "<313"
         ],
         "feasts": []
     },
