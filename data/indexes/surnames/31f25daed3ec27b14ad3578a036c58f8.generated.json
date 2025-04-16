@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Jankowski"
+    },
+    "translations": {
+        "pl": [
+            "Jankowski"
+        ]
+    },
+    "links": {
+        "records/patrons/iosephus/jan": {
+            "pl": "Józef Jankowski",
+            "la": "Iosephus Jankowski",
+            "en": "Joseph Jankowski"
+        }
+    }
+}

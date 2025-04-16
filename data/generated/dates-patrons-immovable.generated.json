@@ -1149,6 +1149,18 @@
                 "mr-2004": "16 X: #17"
             }
         },
+        "records/patrons/iosephus/jan": {
+            "name": {
+                "pl": "Józef Jankowski",
+                "la": "Iosephus Jankowski",
+                "en": "Joseph Jankowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 X",
+                "feast": "16 X",
+                "mr-2004": "16 X: #17"
+            }
+        },
         "records/patrons/hedwigis/hun": {
             "name": {
                 "hu": "Anjou Hedvig",

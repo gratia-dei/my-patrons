@@ -4851,6 +4851,18 @@
         ],
         "feasts": []
     },
+    "patrons/iosephus/jan": {
+        "active": true,
+        "names": {
+            "pl": "Józef Jankowski",
+            "la": "Iosephus Jankowski",
+            "en": "Joseph Jankowski"
+        },
+        "died": [
+            "1941-10-16"
+        ],
+        "feasts": []
+    },
     "patrons/iosephus/kur": {
         "active": false,
         "names": {
