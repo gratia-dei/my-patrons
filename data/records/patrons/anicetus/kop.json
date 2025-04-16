@@ -1,35 +1,52 @@
 {
-  "names": {
-    "pl": [
-      "Anicet Kopliński",
-      "Adalbert Kopliński"
+    "names": {
+        "pl": [
+            "Anicet Kopliński",
+            "Adalbert (Wojciech) Kopliński"
+        ],
+        "la": [
+            "Anicetus Koplinski"
+        ],
+        "en": [
+            "Anicetus Kopliński",
+            "Anicetus Adalbert Kopliński"
+        ]
+    },
+    "forenames": ["anicetus"],
+    "surnames": [
+        {
+            "pl": "Kopliński"
+        }
     ],
-    "la": [
-      "Anicetus Koplinski"
-    ],
-    "en": [
-      "Anicetus Kopliński",
-      "Anicetus Adalbert Kopliński"
-    ]
-  },
-  "surnames": [
-    {
-      "pl": "Kopliński"
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1875-07-30"],
+    "died": ["1941-10-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["10-16"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./16#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67743",
+        "wiki": "https://pl.wikipedia.org/wiki/Anicet_Kopli%C5%84ski"
     }
-  ],
-
-  "born": ["1875-07-30"],
-  "died": ["1941-10-16"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["10-16"],
-
-  "forenames": ["anicetus"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["ofmcap"]
 }

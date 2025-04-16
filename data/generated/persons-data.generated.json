@@ -919,7 +919,7 @@
         }
     },
     "patrons/anicetus/kop": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Anicet Kopliński",
             "la": "Anicetus Koplinski",

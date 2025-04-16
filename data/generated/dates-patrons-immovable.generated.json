@@ -1137,6 +1137,18 @@
         }
     },
     "10-16": {
+        "records/patrons/anicetus/kop": {
+            "name": {
+                "pl": "Anicet Kopliński",
+                "la": "Anicetus Koplinski",
+                "en": "Anicetus Kopliński"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 X",
+                "feast": "16 X",
+                "mr-2004": "16 X: #17"
+            }
+        },
         "records/patrons/hedwigis/hun": {
             "name": {
                 "hu": "Anjou Hedvig",
