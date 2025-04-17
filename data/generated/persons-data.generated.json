@@ -2537,7 +2537,8 @@
             "en": "Denis",
             "pl": "Dionizy",
             "el": "Διονύσιος",
-            "fr": "Denis"
+            "fr": "Denis",
+            "grc": "Διονύσιος"
         }
     },
     "patrons/dionysius/1pp": {
@@ -2549,6 +2550,19 @@
         },
         "died": [
             "268-12-26"
+        ],
+        "feasts": []
+    },
+    "patrons/dionysius/are": {
+        "active": true,
+        "names": {
+            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
+            "la": "Dionysius Areopagita",
+            "en": "Denis the Areopagite",
+            "pl": "Dionizy Areopagita"
+        },
+        "died": [
+            "~96"
         ],
         "feasts": []
     },
@@ -2567,15 +2581,16 @@
         "feasts": []
     },
     "patrons/dionysius/lut": {
-        "active": false,
+        "active": true,
         "names": {
-            "fr": "Denis de Paris",
-            "la": "Dionysius Parisiensis",
-            "en": "Denis of Paris",
-            "pl": "Dionizy z Paryża"
+            "fr": "Denis de Paris, avec lui, a.o., Rustique",
+            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
+            "en": "Denis of Paris, with him, i.a., Rusticus",
+            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
         },
         "died": [
-            "~258"
+            ">250",
+            "<272"
         ],
         "feasts": []
     },
@@ -2753,6 +2768,28 @@
         },
         "died": [
             "1942-08-24"
+        ],
+        "feasts": []
+    },
+    "patrons/eleutherius": {
+        "names": {
+            "la": "Eleutherius",
+            "en": "Eleutherius",
+            "pl": "Eleuteriusz",
+            "fr": "Éleuthère"
+        }
+    },
+    "patrons/eleutherius/dio": {
+        "active": true,
+        "names": {
+            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
+            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Eleutherius of Paris; with him, i.a., Denis",
+            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
+        },
+        "died": [
+            ">250",
+            "<272"
         ],
         "feasts": []
     },
@@ -5154,7 +5191,7 @@
             "pl": "Justyna z Padwy"
         },
         "died": [
-            "<313"
+            "~304"
         ],
         "feasts": []
     },
@@ -8106,6 +8143,28 @@
         },
         "died": [
             "~710"
+        ],
+        "feasts": []
+    },
+    "patrons/rusticus": {
+        "names": {
+            "la": "Rusticus",
+            "en": "Rusticus",
+            "pl": "Rustyk",
+            "fr": "Rustique"
+        }
+    },
+    "patrons/rusticus/dio": {
+        "active": true,
+        "names": {
+            "fr": "Rustique de Paris, avec lui, a.o., Denis",
+            "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Rusticus of Paris; with him, i.a., Denis",
+            "pl": "Rustyk z Paryża; z nim, m.in., Dionizy"
+        },
+        "died": [
+            ">250",
+            "<272"
         ],
         "feasts": []
     },

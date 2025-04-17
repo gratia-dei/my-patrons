@@ -1,0 +1,53 @@
+{
+    "names": {
+        "grc": [
+            "Διονύσιος ὁ Ἀρεοπαγίτης"
+        ],
+        "la": [
+            "Dionysius Areopagita"
+        ],
+        "en": [
+            "Denis the Areopagite"
+        ],
+        "pl": [
+            "Dionizy Areopagita"
+        ]
+    },
+    "forenames": ["dionysius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "grc": "Ἀρεοπαγίτης",
+            "la": "Areopagita",
+            "en": "the Areopagite",
+            "pl": "Areopagita"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["~96"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./9#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/9#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71197",
+        "wiki": "https://pl.wikipedia.org/wiki/Dionizy_Areopagita"
+    }
+}

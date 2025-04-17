@@ -510,7 +510,8 @@
         "en": "Denis",
         "pl": "Dionizy",
         "el": "Διονύσιος",
-        "fr": "Denis"
+        "fr": "Denis",
+        "grc": "Διονύσιος"
     },
     "dominicus": {
         "la": "Dominicus",
@@ -555,6 +556,12 @@
         "la": "Eleonora",
         "en": "Eleonora",
         "pl": "Eleonora"
+    },
+    "eleutherius": {
+        "la": "Eleutherius",
+        "en": "Eleutherius",
+        "pl": "Eleuteriusz",
+        "fr": "Éleuthère"
     },
     "elias": {
         "la": "Elias",
@@ -1515,6 +1522,12 @@
         "en": "Rupert",
         "pl": "Rupert",
         "de": "Rupert"
+    },
+    "rusticus": {
+        "la": "Rusticus",
+        "en": "Rusticus",
+        "pl": "Rustyk",
+        "fr": "Rustique"
     },
     "sabigothon": {
         "la": "Sabigothon",

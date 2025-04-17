@@ -17,6 +17,9 @@
         ],
         "fr": [
             "Denis"
+        ],
+        "grc": [
+            "Διονύσιος"
         ]
     },
     "links": {
@@ -25,6 +28,12 @@
             "en": "Dionysius Pope",
             "pl": "Dionizy Papież"
         },
+        "records/patrons/dionysius/are": {
+            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
+            "la": "Dionysius Areopagita",
+            "en": "Denis the Areopagite",
+            "pl": "Dionizy Areopagita"
+        },
         "records/patrons/dionysius/cor": {
             "el": "Διονύσιος Κορίνθου",
             "en": "Dionysius of Corinth",
@@ -32,10 +41,10 @@
             "pl": "Dionizy z Koryntu"
         },
         "records/patrons/dionysius/lut": {
-            "fr": "Denis de Paris",
-            "la": "Dionysius Parisiensis",
-            "en": "Denis of Paris",
-            "pl": "Dionizy z Paryża"
+            "fr": "Denis de Paris, avec lui, a.o., Rustique",
+            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
+            "en": "Denis of Paris, with him, i.a., Rusticus",
+            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
         }
     }
 }

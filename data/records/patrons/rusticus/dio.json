@@ -1,0 +1,46 @@
+{
+    "names": {
+        "fr": [
+            "Rustique de Paris, avec lui, a.o., Denis"
+        ],
+        "la": [
+            "Rusticus Parisiensis; cum eo, i.a., Dionysius"
+        ],
+        "en": [
+            "Rusticus of Paris; with him, i.a., Denis"
+        ],
+        "pl": [
+            "Rustyk z Paryża; z nim, m.in., Dionizy"
+        ]
+    },
+    "forenames": ["rusticus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": [">250", "<272"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": ["3:Oct./9#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Octobris/9#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:oct./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72275",
+        "wiki": "https://fr.wikipedia.org/wiki/Rustique_de_Paris"
+    }
+}

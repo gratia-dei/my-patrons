@@ -1,0 +1,27 @@
+{
+    "names": {
+        "fr": "Éleuthère"
+    },
+    "translations": {
+        "la": [
+            "Eleutherius"
+        ],
+        "en": [
+            "Eleutherius"
+        ],
+        "pl": [
+            "Eleuteriusz"
+        ],
+        "fr": [
+            "Éleuthère"
+        ]
+    },
+    "links": {
+        "records/patrons/eleutherius/dio": {
+            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
+            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Eleutherius of Paris; with him, i.a., Denis",
+            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
+        }
+    }
+}

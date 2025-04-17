@@ -141,6 +141,10 @@
     "0afca49306b28c1650a1d4130a6a0ce1": {
         "la": "Clara"
     },
+    "0be9da6ba0225f7fe786a1c39b4ff8dc": {
+        "la": "Rusticus",
+        "en": "Rusticus"
+    },
     "0c2ca90b980bfb0206b7f5d4b4aa4280": {
         "pl": "Bartłomiej"
     },
@@ -946,6 +950,9 @@
     "4ae9c0f43817706be18469a00be6bb5d": {
         "it": "Domenico"
     },
+    "4c54bd56da093526512df1223446102e": {
+        "fr": "Éleuthère"
+    },
     "4c998d07cb311bd5b93bee9f6a18f588": {
         "la": "Vladimirus"
     },
@@ -961,6 +968,9 @@
     },
     "4e165e6c334cc2647c2774c8c663a639": {
         "la": "Albertus"
+    },
+    "4f1b3bfc9f3f03af3ba76b8120cdbfc6": {
+        "pl": "Eleuteriusz"
     },
     "4fb845c67d91bcb3178498fc6fe1fedc": {
         "es": "Diego"
@@ -1867,7 +1877,8 @@
         "en": "Acathius"
     },
     "a07c69a1de1aeba388b16976b61908bd": {
-        "el": "Διονύσιος"
+        "el": "Διονύσιος",
+        "grc": "Διονύσιος"
     },
     "a0a83d6b255f67549da7d01d15e45242": {
         "la": "Malachias"
@@ -1919,6 +1930,10 @@
     },
     "a40dc5fd525cf38bef3f446444b4be30": {
         "pl": "Walenty"
+    },
+    "a41ebc72f15f8b0d56d990cb94fd1995": {
+        "la": "Eleutherius",
+        "en": "Eleutherius"
     },
     "a43f6e4a506d587f228b3c0bcc1b7629": {
         "la": "Timotheus"
@@ -2631,6 +2646,9 @@
     "db406d4a22ea91aea90f477daf14b8f6": {
         "pl": "Felicyta"
     },
+    "db63094e88411f8bd7ab9b013c77306e": {
+        "pl": "Rustyk"
+    },
     "db822d3e71e440fa6419b78d9eeabeab": {
         "la": "Balbina",
         "en": "Balbina",
@@ -2738,6 +2756,9 @@
     },
     "e58302cdd555a6293dcc8821733190b6": {
         "pl": "Alfons"
+    },
+    "e5f5bb6b781705dd983137e19a73efa2": {
+        "fr": "Rustique"
     },
     "e62a602dc3f6748884580ea73a8e7723": {
         "la": "Aristides",

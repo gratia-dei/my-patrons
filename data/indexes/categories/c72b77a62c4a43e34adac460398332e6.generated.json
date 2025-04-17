@@ -588,6 +588,12 @@
             "en": "Dionysius Pope",
             "pl": "Dionizy Papież"
         },
+        "records/patrons/dionysius/are": {
+            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
+            "la": "Dionysius Areopagita",
+            "en": "Denis the Areopagite",
+            "pl": "Dionizy Areopagita"
+        },
         "records/patrons/dionysius/cor": {
             "el": "Διονύσιος Κορίνθου",
             "en": "Dionysius of Corinth",
@@ -595,10 +601,10 @@
             "pl": "Dionizy z Koryntu"
         },
         "records/patrons/dionysius/lut": {
-            "fr": "Denis de Paris",
-            "la": "Dionysius Parisiensis",
-            "en": "Denis of Paris",
-            "pl": "Dionizy z Paryża"
+            "fr": "Denis de Paris, avec lui, a.o., Rustique",
+            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
+            "en": "Denis of Paris, with him, i.a., Rusticus",
+            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
         },
         "records/patrons/dominicus/exi": {
             "es": "Domingo de Silos",
@@ -647,6 +653,12 @@
             "pl": "Edward Klinik",
             "en": "Edward Klinik",
             "la": "Eduardus Klinik"
+        },
+        "records/patrons/eleutherius/dio": {
+            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
+            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Eleutherius of Paris; with him, i.a., Denis",
+            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
         },
         "records/patrons/elias/the": {
             "he": "אֵלִיָּהוּ הַנָּבִיא",
@@ -1802,6 +1814,12 @@
             "en": "Rupert of Salzburg",
             "la": "Rupertus Salisburgensis",
             "pl": "Rupert z Salzburga"
+        },
+        "records/patrons/rusticus/dio": {
+            "fr": "Rustique de Paris, avec lui, a.o., Denis",
+            "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Rusticus of Paris; with him, i.a., Denis",
+            "pl": "Rustyk z Paryża; z nim, m.in., Dionizy"
         },
         "records/patrons/sadochus/san": {
             "pl": "Sadok z Sandomierza",

@@ -329,10 +329,10 @@
             "pl": "Dydak Alojzy de San Vitores"
         },
         "records/patrons/dionysius/lut": {
-            "fr": "Denis de Paris",
-            "la": "Dionysius Parisiensis",
-            "en": "Denis of Paris",
-            "pl": "Dionizy z Paryża"
+            "fr": "Denis de Paris, avec lui, a.o., Rustique",
+            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
+            "en": "Denis of Paris, with him, i.a., Rusticus",
+            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
         },
         "records/patrons/domninus/cae": {
             "la": "Domninus Caesariensis",
@@ -353,6 +353,12 @@
             "pl": "Edward Klinik",
             "en": "Edward Klinik",
             "la": "Eduardus Klinik"
+        },
+        "records/patrons/eleutherius/dio": {
+            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
+            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Eleutherius of Paris; with him, i.a., Denis",
+            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
         },
         "records/patrons/emmerammus/rat": {
             "la": "Emmeramus Ratisbonensis",
@@ -1002,6 +1008,12 @@
             "pl": "Roman Archutowski",
             "en": "Roman Archutowski",
             "la": "Romanus Archutowski"
+        },
+        "records/patrons/rusticus/dio": {
+            "fr": "Rustique de Paris, avec lui, a.o., Denis",
+            "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Rusticus of Paris; with him, i.a., Denis",
+            "pl": "Rustyk z Paryża; z nim, m.in., Dionizy"
         },
         "records/patrons/sabigothon/aur": {
             "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",

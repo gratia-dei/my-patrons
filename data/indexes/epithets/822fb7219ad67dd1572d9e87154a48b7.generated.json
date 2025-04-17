@@ -1,0 +1,27 @@
+{
+    "names": {
+        "en": "the Areopagite"
+    },
+    "translations": {
+        "grc": [
+            "Ἀρεοπαγίτης"
+        ],
+        "la": [
+            "Areopagita"
+        ],
+        "en": [
+            "the Areopagite"
+        ],
+        "pl": [
+            "Areopagita"
+        ]
+    },
+    "links": {
+        "records/patrons/dionysius/are": {
+            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
+            "la": "Dionysius Areopagita",
+            "en": "Denis the Areopagite",
+            "pl": "Dionizy Areopagita"
+        }
+    }
+}

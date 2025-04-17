@@ -578,6 +578,12 @@
             "en": "Rupert Mayer",
             "la": "Rupertus Mayer"
         },
+        "records/patrons/rusticus/dio": {
+            "fr": "Rustique de Paris, avec lui, a.o., Denis",
+            "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
+            "en": "Rusticus of Paris; with him, i.a., Denis",
+            "pl": "Rustyk z Paryża; z nim, m.in., Dionizy"
+        },
         "records/patrons/sadochus/san": {
             "pl": "Sadok z Sandomierza",
             "en": "Sadok of Sandomierz",
