@@ -1699,7 +1699,7 @@
     },
     "checklist": {
       "prayer": {
-        "to-complete-on-selected-date": true,
+        "to-complete-on-selected-date": false,
         "required": true,
         "name": {
           "pl": "powierz Patronowi swoją Misję Apostoła"
@@ -1885,7 +1885,7 @@
         }
       },
       "prayer": {
-        "to-complete-on-selected-date": true,
+        "to-complete-on-selected-date": false,
         "required": true,
         "name": {
           "pl": "powierz Patronowi swoją Misję Pobożności"
