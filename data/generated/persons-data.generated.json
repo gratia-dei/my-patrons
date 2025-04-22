@@ -1160,7 +1160,7 @@
         "feasts": []
     },
     "patrons/antonius/pat": {
-        "active": false,
+        "active": true,
         "names": {
             "pt": "Antônio de Pádua",
             "la": "Antonius Patavinus",

@@ -388,6 +388,22 @@
             }
         }
     },
+    "06-13": {
+        "records/patrons/antonius/pat": {
+            "name": {
+                "pt": "Antônio de Pádua",
+                "la": "Antonius Patavinus",
+                "en": "Anthony of Padua",
+                "pl": "Antoni Padewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 VI",
+                "mr-1584": "13 VI: #6",
+                "mr-1956": "13 VI: #1",
+                "mr-2004": "13 VI: #1"
+            }
+        }
+    },
     "06-17": {
         "records/patrons/albertus/chm": {
             "name": {
