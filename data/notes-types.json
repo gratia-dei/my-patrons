@@ -786,6 +786,7 @@
       "challenge-types": {
         "challenge-type-name-prefix": "E",
         "challenge-requirements-to-copy": [
+          "everybody-not-having-challenges-on-the-same-day",
           "anybody-having-challenges",
           "challenge-date-is-in-liturgical-seasons",
           "day-of-month-having-maximum",
