@@ -126,6 +126,12 @@
             "la": "Ioannes Bosco",
             "pl": "Jan Bosko"
         },
+        "records/patrons/ioannes/mat": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
         "records/patrons/iosephus/esc": {
             "es": "Josemaría Escrivá de Balaguer",
             "en": "Josemaría Escrivá de Balaguer",

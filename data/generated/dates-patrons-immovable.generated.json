@@ -91,6 +91,19 @@
             }
         }
     },
+    "02-08": {
+        "records/patrons/ioannes/mat": {
+            "name": {
+                "fr": "Jean de Matha",
+                "la": "Ioannes de Matha",
+                "en": "John of Matha",
+                "pl": "Jan de Matha"
+            },
+            "sources": {
+                "mr-1956": "8 II: #1"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/matthias/apo": {
             "name": {
@@ -1724,6 +1737,21 @@
             },
             "sources": {
                 "mr-1956": "16 XII: #1"
+            }
+        }
+    },
+    "12-17": {
+        "records/patrons/ioannes/mat": {
+            "name": {
+                "fr": "Jean de Matha",
+                "la": "Ioannes de Matha",
+                "en": "John of Matha",
+                "pl": "Jan de Matha"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 XII",
+                "mr-1956": "17 XII: #1",
+                "mr-2004": "17 XII: #8"
             }
         }
     },

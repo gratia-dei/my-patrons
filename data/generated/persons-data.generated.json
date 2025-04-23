@@ -4642,6 +4642,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/mat": {
+        "active": true,
+        "names": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
+        "died": [
+            "1213-12-17"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/nep": {
         "active": false,
         "names": {

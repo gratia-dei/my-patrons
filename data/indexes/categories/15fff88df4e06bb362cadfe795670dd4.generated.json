@@ -68,6 +68,12 @@
             "la": "Ioannes de Deo",
             "pl": "Jan Boży"
         },
+        "records/patrons/ioannes/mat": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
         "records/patrons/ioannes/sal": {
             "fr": "Jean-Baptiste de la Salle",
             "en": "John Baptist de la Salle",
