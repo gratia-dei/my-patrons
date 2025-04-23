@@ -278,7 +278,7 @@ abstract class Base
 
     protected function getValueWithPossibleImport($value, string $language)
     {
-        if (is_string($value) && preg_match("~^\[\^(?'path'[-/a-zA-Z0-9]+)[#](?'index'[-/a-zA-z0-9]+)\]$~", $value, $matches)) {
+        if (is_string($value) && preg_match("~^\[\^(?'path'[-/a-zA-Z0-9.]+)[#](?'index'[-/a-zA-z0-9]+)\]$~", $value, $matches)) {
             $path = $this->getPathToRedirect($matches['path']);
             $indexArr = explode('/', $matches['index'] . '/' . $language);
 
