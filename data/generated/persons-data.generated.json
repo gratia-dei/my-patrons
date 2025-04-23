@@ -618,11 +618,11 @@
         }
     },
     "patrons/alexius/fal": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Alessio Falconieri",
-            "en": "Alexis Falconieri",
             "la": "Alexius Falconieri",
+            "en": "Alexis Falconieri",
             "pl": "Aleksy Falconieri"
         },
         "died": [

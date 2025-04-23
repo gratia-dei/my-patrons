@@ -104,6 +104,35 @@
             }
         }
     },
+    "02-12": {
+        "records/patrons/alexius/fal": {
+            "name": {
+                "it": "Alessio Falconieri",
+                "la": "Alexius Falconieri",
+                "en": "Alexis Falconieri",
+                "pl": "Aleksy Falconieri"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
+        }
+    },
+    "02-17": {
+        "records/patrons/alexius/fal": {
+            "name": {
+                "it": "Alessio Falconieri",
+                "la": "Alexius Falconieri",
+                "en": "Alexis Falconieri",
+                "pl": "Aleksy Falconieri"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 II",
+                "feast": "17 II",
+                "mr-1956": "17 II: #1",
+                "mr-2004": "17 II: #1"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/matthias/apo": {
             "name": {

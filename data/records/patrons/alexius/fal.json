@@ -1,42 +1,57 @@
 {
-  "names": {
-    "it": [
-      "Alessio Falconieri"
+    "names": {
+        "it": [
+            "Alessio Falconieri"
+        ],
+        "la": [
+            "Alexius Falconieri"
+        ],
+        "en": [
+            "Alexis Falconieri"
+        ],
+        "pl": [
+            "Aleksy Falconieri"
+        ]
+    },
+    "forenames": ["alexius"],
+    "surnames": [
+        {
+            "it": "Falconieri",
+            "la": "Falconerius"
+        }
     ],
-    "en": [
-      "Alexis Falconieri"
-    ],
-    "la": [
-      "Alexius Falconieri"
-    ],
-    "pl": [
-      "Aleksy Falconieri"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Falconieri"
+    "active": true,
+
+    "born": [">1200"],
+    "died": ["1310-02-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1717-12-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1888-01-15"
+    },
+    "anniversary": ["02-17"],
+
+    "categories": ["vir", "confessor", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/12#1", "1:Februarii/17#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["7:feb./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sette-santi-fondatori.html",
+        "gcatholic": "https://gcatholic.org/p/25821",
+        "wiki": "https://pl.wikipedia.org/wiki/Aleksy_Falconieri"
     }
-  ],
-
-  "born": [">1200"],
-  "died": ["1310-02-17"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1717-12-01"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1888-01-15"
-  },
-
-  "also-in-martyrology": ["02-17"],
-
-  "forenames": ["alexius"],
-  "categories": ["vir", "confessor", "fundator"],
-
-  "order": ["osm"],
-  "order-founder": ["osm"]
 }
