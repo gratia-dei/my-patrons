@@ -1490,6 +1490,18 @@
             "sources": {
                 "feast": "22 X"
             }
+        },
+        "records/patrons/marcus/hie": {
+            "name": {
+                "la": "Marcus Hierosolymitanus",
+                "en": "Mark of Jerusalem",
+                "pl": "Marek z Jerozolimy"
+            },
+            "sources": {
+                "mr-1584": "22 X: #1",
+                "mr-1956": "22 X: #2",
+                "mr-2004": "22 X: #1"
+            }
         }
     },
     "11-08": {

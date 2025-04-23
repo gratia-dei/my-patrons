@@ -5768,7 +5768,7 @@
         }
     },
     "patrons/marcus/hie": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Marcus Hierosolymitanus",
             "en": "Mark of Jerusalem",

@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Marcus Hierosolymitanus"
-    ],
-    "en": [
-      "Mark of Jerusalem"
-    ],
-    "pl": [
-      "Marek z Jerozolimy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Marcus Hierosolymitanus"
+        ],
+        "en": [
+            "Mark of Jerusalem"
+        ],
+        "pl": [
+            "Marek z Jerozolimy"
+        ]
+    },
+    "forenames": ["marcus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~156"],
+    "active": true,
 
-  "also-in-martyrology": ["10-22"],
+    "born": null,
+    "died": ["~156"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["marcus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./22#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/22#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./22#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/34009",
+        "wiki": "https://pl.wikipedia.org/wiki/Marek_z_Jerozolimy"
+    }
 }
