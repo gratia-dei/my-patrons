@@ -1,0 +1,17 @@
+{
+    "names": {
+        "en": "Holland"
+    },
+    "translations": {
+        "en": [
+            "Holland"
+        ]
+    },
+    "links": {
+        "records/patrons/thomas/hol": {
+            "en": "Thomas Holland",
+            "la": "Thomas Holland",
+            "pl": "Tomasz Holland"
+        }
+    }
+}

@@ -8934,6 +8934,18 @@
         ],
         "feasts": []
     },
+    "patrons/thomas/hol": {
+        "active": true,
+        "names": {
+            "en": "Thomas Holland",
+            "la": "Thomas Holland",
+            "pl": "Tomasz Holland"
+        },
+        "died": [
+            "1642-12-12"
+        ],
+        "feasts": []
+    },
     "patrons/tiburtius": {
         "names": {
             "la": "Tiburtius",

@@ -1126,6 +1126,11 @@
             "la": "Thomas Garnet",
             "pl": "Tomasz Garnet"
         },
+        "records/patrons/thomas/hol": {
+            "en": "Thomas Holland",
+            "la": "Thomas Holland",
+            "pl": "Tomasz Holland"
+        },
         "records/patrons/tiburtius/val": {
             "la": "Tiburtius /+ Valerianus et Maximus",
             "en": "Tiburtius /+ Valerian and Maximus",

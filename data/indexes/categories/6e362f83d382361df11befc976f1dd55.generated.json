@@ -632,6 +632,11 @@
             "la": "Thomas Garnet",
             "pl": "Tomasz Garnet"
         },
+        "records/patrons/thomas/hol": {
+            "en": "Thomas Holland",
+            "la": "Thomas Holland",
+            "pl": "Tomasz Holland"
+        },
         "records/patrons/valentinus/rom": {
             "en": "Valentine of Rome",
             "la": "Valentinus de Roma",

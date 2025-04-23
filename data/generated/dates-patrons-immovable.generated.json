@@ -1714,6 +1714,16 @@
         }
     },
     "12-12": {
+        "records/patrons/thomas/hol": {
+            "name": {
+                "en": "Thomas Holland",
+                "la": "Thomas Holland",
+                "pl": "Tomasz Holland"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 XII"
+            }
+        },
         "records/patrons/pius/bar": {
             "name": {
                 "pl": "Pius Bartosik",
@@ -1819,6 +1829,18 @@
                 "reliable-death-anniversary": "19 XII",
                 "mr-1956": "19 XII: #6",
                 "mr-2004": "19 XII: #1"
+            }
+        }
+    },
+    "12-22": {
+        "records/patrons/thomas/hol": {
+            "name": {
+                "en": "Thomas Holland",
+                "la": "Thomas Holland",
+                "pl": "Tomasz Holland"
+            },
+            "sources": {
+                "mr-2004": "22 XII: #6"
             }
         }
     },
