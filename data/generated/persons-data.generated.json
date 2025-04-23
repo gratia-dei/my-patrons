@@ -611,7 +611,7 @@
     "patrons/alexius": {
         "names": {
             "la": "Alexius",
-            "en": "Lex",
+            "en": "Alexis",
             "pl": "Aleksy",
             "it": "Alessio",
             "uk": "Олексій"
@@ -1415,6 +1415,19 @@
             "it": "Bartolomeo",
             "pt": "Bartolomeu"
         }
+    },
+    "patrons/bartholomaeus/ami": {
+        "active": true,
+        "names": {
+            "it": "Bartolomeo Amadio da Firenze",
+            "la": "Bartholomaeus Amidaeus de Florentia",
+            "en": "Bartholomew Amideus of Florence",
+            "pl": "Bartłomiej Amideusz z Florencji"
+        },
+        "died": [
+            "1266-04-18"
+        ],
+        "feasts": []
     },
     "patrons/bartholomaeus/apo": {
         "active": false,

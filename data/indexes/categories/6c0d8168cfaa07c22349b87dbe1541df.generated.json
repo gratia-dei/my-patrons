@@ -76,6 +76,12 @@
             "en": "Augustine of Hippo",
             "pl": "Augustyn z Hippony"
         },
+        "records/patrons/bartholomaeus/ami": {
+            "it": "Bartolomeo Amadio da Firenze",
+            "la": "Bartholomaeus Amidaeus de Florentia",
+            "en": "Bartholomew Amideus of Florence",
+            "pl": "Bartłomiej Amideusz z Florencji"
+        },
         "records/patrons/basilius/mag": {
             "el": "Βασίλειος Μέγας",
             "en": "Basil the Great",

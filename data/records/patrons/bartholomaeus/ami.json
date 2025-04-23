@@ -1,0 +1,52 @@
+{
+    "names": {
+        "it": [
+            "Bartolomeo Amadio da Firenze"
+        ],
+        "la": [
+            "Bartholomaeus Amidaeus de Florentia"
+        ],
+        "en": [
+            "Bartholomew Amideus of Florence"
+        ],
+        "pl": [
+            "Bartłomiej Amideusz z Florencji"
+        ]
+    },
+    "forenames": ["bartholomaeus", "amidaeus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1266-04-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1717-12-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1888-01-15"
+    },
+    "anniversary": ["02-17"],
+
+    "categories": ["vir", "confessor", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Februarii/12#1", "1:Aprilis/18#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:feb./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sette-santi-fondatori.html",
+        "gcatholic": "https://gcatholic.org/p/25817",
+        "wiki": "https://it.wikipedia.org/wiki/Amadio_degli_Amidei"
+    }
+}

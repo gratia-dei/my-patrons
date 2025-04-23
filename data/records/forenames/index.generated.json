@@ -76,7 +76,7 @@
     },
     "alexius": {
         "la": "Alexius",
-        "en": "Lex",
+        "en": "Alexis",
         "pl": "Aleksy",
         "it": "Alessio",
         "uk": "Олексій"
@@ -103,6 +103,12 @@
         "la": "Ambrosius",
         "en": "Ambrose",
         "pl": "Ambroży"
+    },
+    "amidaeus": {
+        "la": "Amidaeus",
+        "en": "Amideus",
+        "pl": "Amideusz",
+        "it": "Amadio"
     },
     "anastasia": {
         "la": "Anastasia",

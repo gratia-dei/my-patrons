@@ -304,6 +304,12 @@
             "en": "Barnabas the Apostle",
             "pl": "Barnaba Apostoł"
         },
+        "records/patrons/bartholomaeus/ami": {
+            "it": "Bartolomeo Amadio da Firenze",
+            "la": "Bartholomaeus Amidaeus de Florentia",
+            "en": "Bartholomew Amideus of Florence",
+            "pl": "Bartłomiej Amideusz z Florencji"
+        },
         "records/patrons/bartholomaeus/apo": {
             "la": "Bartholomaeus Apostolus",
             "en": "Bartholomew the Apostle",

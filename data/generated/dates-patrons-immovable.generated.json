@@ -115,6 +115,17 @@
             "sources": {
                 "mr-1956": "12 II: #1"
             }
+        },
+        "records/patrons/bartholomaeus/ami": {
+            "name": {
+                "it": "Bartolomeo Amadio da Firenze",
+                "la": "Bartholomaeus Amidaeus de Florentia",
+                "en": "Bartholomew Amideus of Florence",
+                "pl": "Bartłomiej Amideusz z Florencji"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
         }
     },
     "02-17": {
@@ -129,6 +140,18 @@
                 "reliable-death-anniversary": "17 II",
                 "feast": "17 II",
                 "mr-1956": "17 II: #1",
+                "mr-2004": "17 II: #1"
+            }
+        },
+        "records/patrons/bartholomaeus/ami": {
+            "name": {
+                "it": "Bartolomeo Amadio da Firenze",
+                "la": "Bartholomaeus Amidaeus de Florentia",
+                "en": "Bartholomew Amideus of Florence",
+                "pl": "Bartłomiej Amideusz z Florencji"
+            },
+            "sources": {
+                "feast": "17 II",
                 "mr-2004": "17 II: #1"
             }
         }
@@ -310,6 +333,20 @@
             },
             "sources": {
                 "mr-2004": "17 IV: #5"
+            }
+        }
+    },
+    "04-18": {
+        "records/patrons/bartholomaeus/ami": {
+            "name": {
+                "it": "Bartolomeo Amadio da Firenze",
+                "la": "Bartholomaeus Amidaeus de Florentia",
+                "en": "Bartholomew Amideus of Florence",
+                "pl": "Bartłomiej Amideusz z Florencji"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 IV",
+                "mr-1956": "18 IV: #1"
             }
         }
     },
