@@ -317,6 +317,18 @@
             }
         }
     },
+    "04-27": {
+        "records/patrons/anastasius/1pp": {
+            "name": {
+                "la": "Anastasius Pp. I",
+                "en": "Anastasius I, pope",
+                "pl": "Anastazy I, papież"
+            },
+            "sources": {
+                "mr-1584": "27 IV: #3"
+            }
+        }
+    },
     "04-29": {
         "records/patrons/catharina/sen": {
             "name": {
@@ -1764,6 +1776,20 @@
                 "reliable-death-anniversary": "17 XII",
                 "mr-1956": "17 XII: #1",
                 "mr-2004": "17 XII: #8"
+            }
+        }
+    },
+    "12-19": {
+        "records/patrons/anastasius/1pp": {
+            "name": {
+                "la": "Anastasius Pp. I",
+                "en": "Anastasius I, pope",
+                "pl": "Anastazy I, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 XII",
+                "mr-1956": "19 XII: #6",
+                "mr-2004": "19 XII: #1"
             }
         }
     },

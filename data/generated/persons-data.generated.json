@@ -780,6 +780,25 @@
         ],
         "feasts": []
     },
+    "patrons/anastasius": {
+        "names": {
+            "la": "Anastasius",
+            "en": "Anastasius",
+            "pl": "Anastazy"
+        }
+    },
+    "patrons/anastasius/1pp": {
+        "active": true,
+        "names": {
+            "la": "Anastasius Pp. I",
+            "en": "Anastasius I, pope",
+            "pl": "Anastazy I, papież"
+        },
+        "died": [
+            "401-12-19"
+        ],
+        "feasts": []
+    },
     "patrons/andreas": {
         "names": {
             "la": "Andreas",

@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Anastazy"
+    },
+    "translations": {
+        "la": [
+            "Anastasius"
+        ],
+        "en": [
+            "Anastasius"
+        ],
+        "pl": [
+            "Anastazy"
+        ]
+    },
+    "links": {
+        "records/patrons/anastasius/1pp": {
+            "la": "Anastasius Pp. I",
+            "en": "Anastasius I, pope",
+            "pl": "Anastazy I, papież"
+        }
+    }
+}

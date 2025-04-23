@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/anastasius/1pp": {
+            "la": "Anastasius Pp. I",
+            "en": "Anastasius I, pope",
+            "pl": "Anastazy I, papież"
+        },
         "records/patrons/deusdedit/1pp": {
             "la": "Deusdedit Pp. I",
             "en": "Deusdedit I",

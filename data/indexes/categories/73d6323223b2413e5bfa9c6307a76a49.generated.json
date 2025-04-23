@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/anastasius/1pp": {
+            "la": "Anastasius Pp. I",
+            "en": "Anastasius I, pope",
+            "pl": "Anastazy I, papież"
+        },
         "records/patrons/benedictus/11p": {
             "it": "Benedetto XI",
             "en": "Benedict XI",
