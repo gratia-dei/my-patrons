@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Bonajuncta",
+        "en": "Bonajuncta"
+    },
+    "translations": {
+        "la": [
+            "Bonaiuncta",
+            "Bonajuncta"
+        ],
+        "en": [
+            "Bonajuncta"
+        ],
+        "pl": [
+            "Bonajunkta"
+        ],
+        "it": [
+            "Buonagiunta"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/bon": {
+            "it": "Giovanni Buonagiunta Manetti",
+            "la": "Ioannes Bonaiuncta Manetti",
+            "en": "John Bonajuncta Manetti",
+            "pl": "Jan Bonajunkta Manetti"
+        }
+    }
+}

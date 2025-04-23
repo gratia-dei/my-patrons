@@ -126,6 +126,17 @@
             "sources": {
                 "mr-1956": "12 II: #1"
             }
+        },
+        "records/patrons/ioannes/bon": {
+            "name": {
+                "it": "Giovanni Buonagiunta Manetti",
+                "la": "Ioannes Bonaiuncta Manetti",
+                "en": "John Bonajuncta Manetti",
+                "pl": "Jan Bonajunkta Manetti"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
         }
     },
     "02-17": {
@@ -149,6 +160,18 @@
                 "la": "Bartholomaeus Amidaeus de Florentia",
                 "en": "Bartholomew Amideus of Florence",
                 "pl": "Bartłomiej Amideusz z Florencji"
+            },
+            "sources": {
+                "feast": "17 II",
+                "mr-2004": "17 II: #1"
+            }
+        },
+        "records/patrons/ioannes/bon": {
+            "name": {
+                "it": "Giovanni Buonagiunta Manetti",
+                "la": "Ioannes Bonaiuncta Manetti",
+                "en": "John Bonajuncta Manetti",
+                "pl": "Jan Bonajunkta Manetti"
             },
             "sources": {
                 "feast": "17 II",
@@ -1042,6 +1065,19 @@
                 "mr-1584": "28 VIII: #1",
                 "mr-1956": "28 VIII: #1",
                 "mr-2004": "28 VIII: #1"
+            }
+        }
+    },
+    "08-31": {
+        "records/patrons/ioannes/bon": {
+            "name": {
+                "it": "Giovanni Buonagiunta Manetti",
+                "la": "Ioannes Bonaiuncta Manetti",
+                "en": "John Bonajuncta Manetti",
+                "pl": "Jan Bonajunkta Manetti"
+            },
+            "sources": {
+                "mr-1956": "31 VIII: #2"
             }
         }
     },

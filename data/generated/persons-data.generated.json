@@ -4469,6 +4469,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/bon": {
+        "active": true,
+        "names": {
+            "it": "Giovanni Buonagiunta Manetti",
+            "la": "Ioannes Bonaiuncta Manetti",
+            "en": "John Bonajuncta Manetti",
+            "pl": "Jan Bonajunkta Manetti"
+        },
+        "died": [
+            "1257"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/bos": {
         "active": false,
         "names": {

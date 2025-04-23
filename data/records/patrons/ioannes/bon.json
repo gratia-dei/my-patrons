@@ -1,0 +1,52 @@
+{
+    "names": {
+        "it": [
+            "Giovanni Buonagiunta Manetti"
+        ],
+        "la": [
+            "Ioannes Bonaiuncta Manetti"
+        ],
+        "en": [
+            "John Bonajuncta Manetti"
+        ],
+        "pl": [
+            "Jan Bonajunkta Manetti"
+        ]
+    },
+    "forenames": ["ioannes", "bonaiuncta"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1257"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1717-12-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1888-01-15"
+    },
+    "anniversary": ["02-17"],
+
+    "categories": ["vir", "confessor", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Februarii/12#1", "1:Augusti/31#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:feb./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sette-santi-fondatori.html",
+        "gcatholic": "https://gcatholic.org/p/25815",
+        "wiki": "https://it.wikipedia.org/wiki/Sette_santi_fondatori"
+    }
+}
