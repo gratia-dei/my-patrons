@@ -1,37 +1,60 @@
 {
-  "names": {
-    "it": [
-      "Giovanni da Capestrano"
+    "names": {
+        "it": [
+            "Giovanni da Capestrano"
+        ],
+        "la": [
+            "Ioannes de Capestrano",
+            "Ioannes Capistranus"
+        ],
+        "en": [
+            "John of Capistrano"
+        ],
+        "pl": [
+            "Jan Kapistran"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "it": "da Capestrano",
+            "la": ["de Capistrano", "de Capestrano"],
+            "en": "of Capistrano",
+            "pl": "Kapistran"
+        }
     ],
-    "la": [
-      "Ioannes de Capistranus"
-    ],
-    "en": [
-      "John of Capistrano"
-    ],
-    "pl": [
-      "Jan Kapistran"
-    ]
-  },
-  "surnames": [
-    {
-      "it": "Capestrano",
-      "pl": "Kapistran"
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1386-06-24"],
+    "died": ["1456-10-23"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1650-12-19"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1690-10-16"
+    },
+    "anniversary": ["10-23"],
+
+    "categories": ["vir", "confessor", "sacerdos", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/28#1", "1:Octobris/23#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-da-capestrano.html",
+        "gcatholic": "https://gcatholic.org/p/68301",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Kapistran"
     }
-  ],
-
-  "born": ["1386-06-24"],
-  "died": ["1456-10-23"],
-
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1690-10-16"
-  },
-
-  "also-in-martyrology": ["03-28", "10-23"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter"],
-
-  "order": ["ofm"]
 }

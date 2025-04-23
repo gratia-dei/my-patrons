@@ -1,10 +1,17 @@
 {
     "names": {
-        "it": "Capestrano"
+        "la": "de Capestrano"
     },
     "translations": {
         "it": [
-            "Capestrano"
+            "da Capestrano"
+        ],
+        "la": [
+            "de Capistrano",
+            "de Capestrano"
+        ],
+        "en": [
+            "of Capistrano"
         ],
         "pl": [
             "Kapistran"
@@ -13,7 +20,7 @@
     "links": {
         "records/patrons/ioannes/cap": {
             "it": "Giovanni da Capestrano",
-            "la": "Ioannes de Capistranus",
+            "la": "Ioannes de Capestrano",
             "en": "John of Capistrano",
             "pl": "Jan Kapistran"
         }

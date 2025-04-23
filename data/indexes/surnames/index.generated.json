@@ -27,9 +27,6 @@
     "123f645a8fb39f2f6ffd9287e878c0bc": {
         "el": "Καυλέας"
     },
-    "12f29ea7d65f7da29b088d2415b9ed20": {
-        "it": "Capestrano"
-    },
     "147568062d674bdd28d83617e0ea4e57": {
         "pl": "Stryjas"
     },
@@ -229,6 +226,9 @@
     "4ecc0d46bdea877d0c945b5ef588a8c1": {
         "it": "Della Chiesa"
     },
+    "4f45211ec01d45a109a85e1dc3f57fc8": {
+        "it": "da Capestrano"
+    },
     "50368953be020e2f652e2c09fa5c14c2": {
         "pl": "Krzysztofik"
     },
@@ -279,6 +279,9 @@
     "5c8ef17ef0dd9096452b3a3e1d290bd8": {
         "it": "Benizi",
         "la": "Benizi"
+    },
+    "5edf51fb649a6bc0a650d079ba161092": {
+        "la": "de Capistrano"
     },
     "5f72a14127a60b429a1f7671f49eb026": {
         "pl": "Tułasiewicz"
@@ -421,6 +424,9 @@
     },
     "93d38c2bda20aa796c005e7f1848689f": {
         "fr": "Dufresse"
+    },
+    "941bc02bd881734ec58051bbf3e8a280": {
+        "la": "de Capestrano"
     },
     "94b40da0e09e69fb01c2ae5ea6f85aaa": {
         "pl": "Bojanowski"
@@ -797,6 +803,9 @@
     },
     "fc472bce8c36190224ae84f040d3379f": {
         "hy": "Մալոյան"
+    },
+    "fedeaed6ef18786ea69f400113ccfdfd": {
+        "en": "of Capistrano"
     },
     "ff330f637433cee7136099029d11b324": {
         "fr": "de Marillac"

@@ -4496,10 +4496,10 @@
         "feasts": []
     },
     "patrons/ioannes/cap": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giovanni da Capestrano",
-            "la": "Ioannes de Capistranus",
+            "la": "Ioannes de Capestrano",
             "en": "John of Capistrano",
             "pl": "Jan Kapistran"
         },
