@@ -1758,6 +1758,27 @@
         ],
         "feasts": []
     },
+    "patrons/bonfilius": {
+        "names": {
+            "la": "Bonfilius",
+            "en": "Bonfilius",
+            "pl": "Bonfiliusz",
+            "it": "Bonfilio"
+        }
+    },
+    "patrons/bonfilius/flo": {
+        "active": true,
+        "names": {
+            "it": "Bonfilio Monaldi",
+            "la": "Bonfilius Monaldi",
+            "en": "Bonfilius Monaldi",
+            "pl": "Bonfiliusz Monaldi"
+        },
+        "died": [
+            "1262-01-01"
+        ],
+        "feasts": []
+    },
     "patrons/bonifatius": {
         "names": {
             "la": "Bonifatius",

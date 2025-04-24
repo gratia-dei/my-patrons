@@ -1,0 +1,53 @@
+{
+
+    "names": {
+        "it": [
+            "Bonfilio Monaldi"
+        ],
+        "la": [
+            "Bonfilius Monaldi"
+        ],
+        "en": [
+            "Bonfilius Monaldi"
+        ],
+        "pl": [
+            "Bonfiliusz Monaldi"
+        ]
+    },
+    "forenames": ["bonfilius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1262-01-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1717-12-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1888-01-15"
+    },
+    "anniversary": ["02-17"],
+
+    "categories": ["vir", "confessor", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/1#4", "4:Februarii/12#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sette-santi-fondatori.html",
+        "gcatholic": "https://gcatholic.org/p/25816",
+        "wiki": "https://it.wikipedia.org/wiki/Buonfiglio_dei_Monaldi"
+    }
+}

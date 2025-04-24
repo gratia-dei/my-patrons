@@ -106,6 +106,12 @@
             "la": "Bernardinus Senensis",
             "pl": "Bernardyn ze Sieny"
         },
+        "records/patrons/bonfilius/flo": {
+            "it": "Bonfilio Monaldi",
+            "la": "Bonfilius Monaldi",
+            "en": "Bonfilius Monaldi",
+            "pl": "Bonfiliusz Monaldi"
+        },
         "records/patrons/bruno/ere": {
             "de": "Bruno von Köln",
             "en": "Bruno of Cologne",

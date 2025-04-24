@@ -1,5 +1,17 @@
 {
     "01-01": {
+        "records/patrons/bonfilius/flo": {
+            "name": {
+                "it": "Bonfilio Monaldi",
+                "la": "Bonfilius Monaldi",
+                "en": "Bonfilius Monaldi",
+                "pl": "Bonfiliusz Monaldi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 I",
+                "mr-1956": "1 I: #4"
+            }
+        },
         "records/patrons/sigismundus/gor": {
             "name": {
                 "pl": "Zygmunt Gorazdowski",
@@ -137,6 +149,17 @@
             "sources": {
                 "mr-1956": "12 II: #1"
             }
+        },
+        "records/patrons/bonfilius/flo": {
+            "name": {
+                "it": "Bonfilio Monaldi",
+                "la": "Bonfilius Monaldi",
+                "en": "Bonfilius Monaldi",
+                "pl": "Bonfiliusz Monaldi"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
         }
     },
     "02-17": {
@@ -160,6 +183,18 @@
                 "la": "Bartholomaeus Amidaeus de Florentia",
                 "en": "Bartholomew Amideus of Florence",
                 "pl": "Bartłomiej Amideusz z Florencji"
+            },
+            "sources": {
+                "feast": "17 II",
+                "mr-2004": "17 II: #1"
+            }
+        },
+        "records/patrons/bonfilius/flo": {
+            "name": {
+                "it": "Bonfilio Monaldi",
+                "la": "Bonfilius Monaldi",
+                "en": "Bonfilius Monaldi",
+                "pl": "Bonfiliusz Monaldi"
             },
             "sources": {
                 "feast": "17 II",

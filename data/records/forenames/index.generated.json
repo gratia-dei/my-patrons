@@ -106,7 +106,7 @@
     },
     "amidaeus": {
         "la": "Amidaeus",
-        "en": "Amideus",
+        "en": "Amadeus",
         "pl": "Amideusz",
         "it": "Amadio"
     },
@@ -319,6 +319,12 @@
         "en": "Bonajuncta",
         "pl": "Bonajunkta",
         "it": "Buonagiunta"
+    },
+    "bonfilius": {
+        "la": "Bonfilius",
+        "en": "Bonfilius",
+        "pl": "Bonfiliusz",
+        "it": "Bonfilio"
     },
     "bonifatius": {
         "la": "Bonifatius",

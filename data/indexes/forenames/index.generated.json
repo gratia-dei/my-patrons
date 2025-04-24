@@ -1805,9 +1805,6 @@
         "de": "Anna",
         "it": "Anna"
     },
-    "97cd6535fc6c98500f52074eefcdedd1": {
-        "en": "Amideus"
-    },
     "9831e232ca369ec36b01c0b16867dbb5": {
         "it": "Ignazia"
     },
@@ -1854,6 +1851,9 @@
     },
     "9bf95b99f5b1b6c9a2293cea0865db53": {
         "en": "Laurence"
+    },
+    "9bfd719cf4f17e1969cf566a31e88a18": {
+        "en": "Amadeus"
     },
     "9c21900bc9b7ccaa68c9166ddc0d3014": {
         "en": "Ezekiel"
@@ -2050,6 +2050,10 @@
     },
     "ab6d1cd0f60d1feedeaac6df6843717c": {
         "it": "Bernardino"
+    },
+    "abbda4d5efd1ce63cef36f9cb71b156a": {
+        "la": "Bonfilius",
+        "en": "Bonfilius"
     },
     "abd12d995b0683c2a8ec599f5822ccc1": {
         "pl": "Maurycy"
@@ -2958,6 +2962,9 @@
     "f4db62a6ccef5c90c8e7a000ea0a5288": {
         "la": "Gregorius"
     },
+    "f5118ba6ef717acfa18a8257ea728c7e": {
+        "it": "Bonfilio"
+    },
     "f5c3ac4cbf092a063786243913a4c139": {
         "en": "Catherine",
         "fr": "Catherine"
@@ -3077,6 +3084,9 @@
     },
     "fdc5df53847da6f54f5e5d3c3291a181": {
         "en": "Radim"
+    },
+    "fdc983c69d8dfad817919626edee6257": {
+        "pl": "Bonfiliusz"
     },
     "fdf8075f1906880ffeebd4d01f354b0a": {
         "pl": "Rajmund"

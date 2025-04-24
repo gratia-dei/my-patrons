@@ -1,0 +1,27 @@
+{
+    "names": {
+        "it": "Bonfilio"
+    },
+    "translations": {
+        "la": [
+            "Bonfilius"
+        ],
+        "en": [
+            "Bonfilius"
+        ],
+        "pl": [
+            "Bonfiliusz"
+        ],
+        "it": [
+            "Bonfilio"
+        ]
+    },
+    "links": {
+        "records/patrons/bonfilius/flo": {
+            "it": "Bonfilio Monaldi",
+            "la": "Bonfilius Monaldi",
+            "en": "Bonfilius Monaldi",
+            "pl": "Bonfiliusz Monaldi"
+        }
+    }
+}
