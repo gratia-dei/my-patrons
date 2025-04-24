@@ -7019,7 +7019,7 @@
         "feasts": []
     },
     "patrons/multi/fid": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Omnes Fideles Defuncti",
             "en": "All the Faithful Departed",
@@ -7041,14 +7041,29 @@
         "feasts": []
     },
     "patrons/multi/san": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Omnes Sancti",
             "en": "All Saints",
             "pl": "Wszyscy Święci"
         },
         "died": [],
-        "feasts": []
+        "feasts": {
+            "feasts/vos": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia Omnium Sanctorum",
+                    "pl": "Wigilia Wszystkich Świętych"
+                }
+            },
+            "feasts/oos": {
+                "active": true,
+                "names": {
+                    "la": "Octava Omnium Sanctorum",
+                    "pl": "Oktawa Wszystkich Świętych"
+                }
+            }
+        }
     },
     "patrons/nahum": {
         "names": {

@@ -902,6 +902,30 @@
             }
         }
     },
+    "10-31": {
+        "records/patrons/multi/san#vos": {
+            "name": {
+                "la": "Omnes Sancti (Vigilia Omnium Sanctorum)",
+                "pl": "Wszyscy Święci (Wigilia Wszystkich Świętych)"
+            },
+            "sources": {
+                "mr-1584": "31 X: #1",
+                "mr-1956": "31 X: #1"
+            }
+        }
+    },
+    "11-08": {
+        "records/patrons/multi/san#oos": {
+            "name": {
+                "la": "Omnes Sancti (Octava Omnium Sanctorum)",
+                "pl": "Wszyscy Święci (Oktawa Wszystkich Świętych)"
+            },
+            "sources": {
+                "mr-1584": "8 XI: #1",
+                "mr-1956": "8 XI: #1"
+            }
+        }
+    },
     "11-09": {
         "records/god/fil#dbl": {
             "name": {

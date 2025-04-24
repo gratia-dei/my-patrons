@@ -1,18 +1,73 @@
 {
-  "names": {
-    "la": [
-      "Omnes Sancti"
-    ],
-    "en": [
-      "All Saints"
-    ],
-    "pl": [
-      "Wszyscy Święci"
-    ]
-  },
+    "names": {
+        "la": [
+            "Omnes Sancti"
+        ],
+        "en": [
+            "All Saints"
+        ],
+        "pl": [
+            "Wszyscy Święci"
+        ]
+    },
+    "forenames": ["multi"],
+    "surnames": null,
+    "epithets": null,
 
-  "also-in-martyrology": ["11-01"],
+    "active": true,
 
-  "forenames": ["multi"],
-  "categories": ["socia"]
+    "born": null,
+    "died": null,
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./1#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/1#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./1#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vos": {
+            "data-links": {
+                "mr-1584": ["1:Oct./31#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Octobris/31#1"],
+                "mr-1956-variations": ["1:Octobris/31#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+
+        "oos": {
+            "data-links": {
+                "mr-1584": ["1:Nov./8#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Novembris/8#1"],
+                "mr-1956-variations": ["1:Novembris/8#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://la.wikipedia.org/wiki/Sollemnitas_Omnium_Sanctorum"
+    }
 }

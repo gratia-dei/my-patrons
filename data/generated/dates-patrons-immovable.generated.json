@@ -1790,6 +1790,34 @@
             }
         }
     },
+    "11-01": {
+        "records/patrons/multi/san": {
+            "name": {
+                "la": "Omnes Sancti",
+                "en": "All Saints",
+                "pl": "Wszyscy Święci"
+            },
+            "sources": {
+                "mr-1584": "1 XI: #1",
+                "mr-1956": "1 XI: #1",
+                "mr-2004": "1 XI: #1"
+            }
+        }
+    },
+    "11-02": {
+        "records/patrons/multi/fid": {
+            "name": {
+                "la": "Omnes Fideles Defuncti",
+                "en": "All the Faithful Departed",
+                "pl": "Wszyscy Wierni Zmarli"
+            },
+            "sources": {
+                "mr-1584": "2 XI: #1",
+                "mr-1956": "2 XI: #12",
+                "mr-2004": "2 XI: #1"
+            }
+        }
+    },
     "11-08": {
         "records/patrons/martinus/tur": {
             "name": {

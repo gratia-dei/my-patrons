@@ -254,6 +254,10 @@
         "la": "Octava sancti Laurentii Martyris",
         "pl": "Oktawa świętego Wawrzyńca Męczennika"
     },
+    "oos": {
+        "la": "Octava Omnium Sanctorum",
+        "pl": "Oktawa Wszystkich Świętych"
+    },
     "pav": {
         "la": "Dedicatio sancti Petri Apostoli ad Vincula",
         "pl": "Poświęcenie świętego Piotra Apostoła w Okowach"
@@ -442,5 +446,9 @@
     "vma": {
         "la": "Vigilia sancti Matthiae Apostoli",
         "pl": "Wigilia świętego Macieja Apostoła"
+    },
+    "vos": {
+        "la": "Vigilia Omnium Sanctorum",
+        "pl": "Wigilia Wszystkich Świętych"
     }
 }
