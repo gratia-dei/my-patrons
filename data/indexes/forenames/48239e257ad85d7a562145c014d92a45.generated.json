@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Manettus"
+    },
+    "translations": {
+        "la": [
+            "Manettus"
+        ],
+        "en": [
+            "Manetto"
+        ],
+        "pl": [
+            "Manetto"
+        ],
+        "it": [
+            "Manetto"
+        ]
+    },
+    "links": {
+        "records/patrons/benedictus/man": {
+            "it": "Benedetto Manetto dell’Antella",
+            "la": "Benedictus Manettus Antella",
+            "en": "Benedict Manetto Antella",
+            "pl": "Benedykt Manetto Antella"
+        }
+    }
+}

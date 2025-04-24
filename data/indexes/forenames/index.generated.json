@@ -41,6 +41,9 @@
     "01cfe8113c97244f0b84223e1f64d820": {
         "en": "Felicity"
     },
+    "01da4363e27b97bea8e07ea43ce10ec0": {
+        "pl": "Sosteniusz"
+    },
     "02c62c4fa95ddedd0352dd3a198e0c3c": {
         "la": "Alexius"
     },
@@ -369,6 +372,9 @@
     "2042101ac1f6e7741bfe43f3672e6d7c": {
         "la": "Thomas",
         "en": "Thomas"
+    },
+    "207df213d7d5e1ff21348daa0ba20a24": {
+        "la": "Sostenaeus"
     },
     "208703a9414b8821b0e00768e9fb4d17": {
         "pl": "Fulgencjusz"
@@ -866,6 +872,9 @@
     "453b23ce2d2d0eb938a397435522f837": {
         "pl": "Eulogiusz"
     },
+    "455f91e0b49ded36b6beac25b66899f6": {
+        "it": "Sostegno"
+    },
     "458d72b92e476e74a31e400ee955c19f": {
         "el": "Τιμόθεος"
     },
@@ -927,6 +936,9 @@
     },
     "481b810c94cf02454649fc3a07111a81": {
         "la": "Ioachim"
+    },
+    "48239e257ad85d7a562145c014d92a45": {
+        "la": "Manettus"
     },
     "48a0572e6e7cfc81b428b18da87cf613": {
         "en": "Oscar"
@@ -1750,6 +1762,11 @@
     "92d66da9455c35a1db156adc13721cc2": {
         "pl": "Czesław"
     },
+    "92e7907194127c99ad309e7e73f74be2": {
+        "en": "Gerardino",
+        "pl": "Gerardino",
+        "it": "Gerardino"
+    },
     "92eaf3719159c372f3d50337e0a14f57": {
         "es": "Juan"
     },
@@ -2136,11 +2153,19 @@
     "b2478a4a0e4b1dc878f0bd0fb09c72f4": {
         "pt": "João"
     },
+    "b25eac2087867571f68ab8a9ae7c13f2": {
+        "en": "Manetto",
+        "pl": "Manetto",
+        "it": "Manetto"
+    },
     "b27bfe5ba5bec17f80de30b9f23ff658": {
         "pl": "Jerzy"
     },
     "b27dccb9f435534feea3c1e2e09d4e0e": {
         "pl": "Alojzy"
+    },
+    "b2f0b035f88d738f54201d6e2ab6c11c": {
+        "la": "Gerardinus"
     },
     "b2f4f440070e30b4c97b992108667dfc": {
         "la": "Iosephina"
@@ -2850,6 +2875,9 @@
     },
     "ea8938d9e5e0eb6f7ace66a482ca9156": {
         "pl": "Eustochiusz"
+    },
+    "eb0c6b3282849d534062a71e8840b94c": {
+        "en": "Sostene"
     },
     "ec1c6a312d6626afd52e1fa592358b1f": {
         "la": "Justus",

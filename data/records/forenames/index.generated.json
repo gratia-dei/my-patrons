@@ -758,6 +758,12 @@
         "pl": "Gerald",
         "fr": "Guiraud"
     },
+    "gerardinus": {
+        "la": "Gerardinus",
+        "en": "Gerardino",
+        "pl": "Gerardino",
+        "it": "Gerardino"
+    },
     "gerardus": {
         "la": "Gerardus",
         "en": "Gerard",
@@ -1157,6 +1163,12 @@
         "la": "Malachias",
         "en": "Malachi",
         "pl": "Malachiasz"
+    },
+    "manettus": {
+        "la": "Manettus",
+        "en": "Manetto",
+        "pl": "Manetto",
+        "it": "Manetto"
     },
     "marcellina": {
         "la": "Marcellina",
@@ -1649,6 +1661,12 @@
         "en": "Sophia",
         "pl": "Zofia",
         "it": "Sofia"
+    },
+    "sostenaeus": {
+        "la": "Sostenaeus",
+        "en": "Sostene",
+        "pl": "Sosteniusz",
+        "it": "Sostegno"
     },
     "stanislaus": {
         "la": "Stanislaus",

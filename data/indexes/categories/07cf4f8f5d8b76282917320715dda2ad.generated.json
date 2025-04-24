@@ -350,6 +350,12 @@
             "la": "Benedictus XI",
             "pl": "Benedykt XI"
         },
+        "records/patrons/benedictus/man": {
+            "it": "Benedetto Manetto dell’Antella",
+            "la": "Benedictus Manettus Antella",
+            "en": "Benedict Manetto Antella",
+            "pl": "Benedykt Manetto Antella"
+        },
         "records/patrons/benedictus/nur": {
             "la": "Benedictus Nursinus",
             "en": "Banadict of Nursia",
@@ -859,6 +865,12 @@
             "en": "Gerald of Béziers",
             "la": "Geraldus Biterrensis",
             "pl": "Gerald z Béziers"
+        },
+        "records/patrons/gerardinus/sos": {
+            "it": "Gerardino Sostegno da Firenze",
+            "la": "Gerardinus Sostenaeus de Florentia",
+            "en": "Gerardino Sostene of Florence",
+            "pl": "Gerardino Sosteniusz z Florencji"
         },
         "records/patrons/gerardus/abb": {
             "fr": "Gérard de Brogne",

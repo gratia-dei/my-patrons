@@ -1,0 +1,29 @@
+{
+    "names": {
+        "en": "Gerardino",
+        "pl": "Gerardino",
+        "it": "Gerardino"
+    },
+    "translations": {
+        "la": [
+            "Gerardinus"
+        ],
+        "en": [
+            "Gerardino"
+        ],
+        "pl": [
+            "Gerardino"
+        ],
+        "it": [
+            "Gerardino"
+        ]
+    },
+    "links": {
+        "records/patrons/gerardinus/sos": {
+            "it": "Gerardino Sostegno da Firenze",
+            "la": "Gerardinus Sostenaeus de Florentia",
+            "en": "Gerardino Sostene of Florence",
+            "pl": "Gerardino Sosteniusz z Florencji"
+        }
+    }
+}

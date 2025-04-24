@@ -160,6 +160,28 @@
             "sources": {
                 "mr-1956": "12 II: #1"
             }
+        },
+        "records/patrons/benedictus/man": {
+            "name": {
+                "it": "Benedetto Manetto dell’Antella",
+                "la": "Benedictus Manettus Antella",
+                "en": "Benedict Manetto Antella",
+                "pl": "Benedykt Manetto Antella"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
+        },
+        "records/patrons/gerardinus/sos": {
+            "name": {
+                "it": "Gerardino Sostegno da Firenze",
+                "la": "Gerardinus Sostenaeus de Florentia",
+                "en": "Gerardino Sostene of Florence",
+                "pl": "Gerardino Sosteniusz z Florencji"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
         }
     },
     "02-17": {
@@ -189,12 +211,36 @@
                 "mr-2004": "17 II: #1"
             }
         },
+        "records/patrons/benedictus/man": {
+            "name": {
+                "it": "Benedetto Manetto dell’Antella",
+                "la": "Benedictus Manettus Antella",
+                "en": "Benedict Manetto Antella",
+                "pl": "Benedykt Manetto Antella"
+            },
+            "sources": {
+                "feast": "17 II",
+                "mr-2004": "17 II: #1"
+            }
+        },
         "records/patrons/bonfilius/flo": {
             "name": {
                 "it": "Bonfilio Monaldi",
                 "la": "Bonfilius Monaldi",
                 "en": "Bonfilius Monaldi",
                 "pl": "Bonfiliusz Monaldi"
+            },
+            "sources": {
+                "feast": "17 II",
+                "mr-2004": "17 II: #1"
+            }
+        },
+        "records/patrons/gerardinus/sos": {
+            "name": {
+                "it": "Gerardino Sostegno da Firenze",
+                "la": "Gerardinus Sostenaeus de Florentia",
+                "en": "Gerardino Sostene of Florence",
+                "pl": "Gerardino Sosteniusz z Florencji"
             },
             "sources": {
                 "feast": "17 II",
@@ -492,6 +538,19 @@
             },
             "sources": {
                 "mr-1956": "30 IV: #1"
+            }
+        }
+    },
+    "05-03": {
+        "records/patrons/gerardinus/sos": {
+            "name": {
+                "it": "Gerardino Sostegno da Firenze",
+                "la": "Gerardinus Sostenaeus de Florentia",
+                "en": "Gerardino Sostene of Florence",
+                "pl": "Gerardino Sosteniusz z Florencji"
+            },
+            "sources": {
+                "mr-1956": "3 V: #4"
             }
         }
     },
@@ -1073,6 +1132,20 @@
             "sources": {
                 "mr-1584": "12 VIII: #1",
                 "mr-1956": "12 VIII: #1"
+            }
+        }
+    },
+    "08-20": {
+        "records/patrons/benedictus/man": {
+            "name": {
+                "it": "Benedetto Manetto dell’Antella",
+                "la": "Benedictus Manettus Antella",
+                "en": "Benedict Manetto Antella",
+                "pl": "Benedykt Manetto Antella"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 VIII",
+                "mr-1956": "20 VIII: #3"
             }
         }
     },

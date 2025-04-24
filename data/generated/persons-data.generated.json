@@ -1535,6 +1535,19 @@
         ],
         "feasts": []
     },
+    "patrons/benedictus/man": {
+        "active": true,
+        "names": {
+            "it": "Benedetto Manetto dell’Antella",
+            "la": "Benedictus Manettus Antella",
+            "en": "Benedict Manetto Antella",
+            "pl": "Benedykt Manetto Antella"
+        },
+        "died": [
+            "1269-08-20"
+        ],
+        "feasts": []
+    },
     "patrons/benedictus/nur": {
         "active": false,
         "names": {
@@ -3584,6 +3597,27 @@
         },
         "died": [
             "1123-11-05"
+        ],
+        "feasts": []
+    },
+    "patrons/gerardinus": {
+        "names": {
+            "la": "Gerardinus",
+            "en": "Gerardino",
+            "pl": "Gerardino",
+            "it": "Gerardino"
+        }
+    },
+    "patrons/gerardinus/sos": {
+        "active": true,
+        "names": {
+            "it": "Gerardino Sostegno da Firenze",
+            "la": "Gerardinus Sostenaeus de Florentia",
+            "en": "Gerardino Sostene of Florence",
+            "pl": "Gerardino Sosteniusz z Florencji"
+        },
+        "died": [
+            "1282"
         ],
         "feasts": []
     },

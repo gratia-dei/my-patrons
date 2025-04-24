@@ -94,6 +94,12 @@
             "la": "Benedictus XI",
             "pl": "Benedykt XI"
         },
+        "records/patrons/benedictus/man": {
+            "it": "Benedetto Manetto dell’Antella",
+            "la": "Benedictus Manettus Antella",
+            "en": "Benedict Manetto Antella",
+            "pl": "Benedykt Manetto Antella"
+        },
         "records/patrons/bernardinus/rea": {
             "it": "Bernardino Realino",
             "en": "Bernardine Realino",
@@ -197,6 +203,12 @@
             "la": "Fulgentius Ruspensis",
             "en": "Fulgentius of Ruspe",
             "pl": "Fulgencjusz z Ruspe"
+        },
+        "records/patrons/gerardinus/sos": {
+            "it": "Gerardino Sostegno da Firenze",
+            "la": "Gerardinus Sostenaeus de Florentia",
+            "en": "Gerardino Sostene of Florence",
+            "pl": "Gerardino Sosteniusz z Florencji"
         },
         "records/patrons/gregorius/1pp": {
             "la": "Gregorius Magnus",
