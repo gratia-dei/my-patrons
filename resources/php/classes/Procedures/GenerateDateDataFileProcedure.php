@@ -77,7 +77,12 @@ class GenerateDateDataFileProcedure extends Procedure
         if (empty($data[self::DATES_DATA_PATRON_RECORD_NAME_INDEX] ?? [])) {
             $data[self::DATES_DATA_PATRON_RECORD_NAME_INDEX] = $this->getPatronNamesArray($patronUrl);
         }
-        $data[self::DATES_DATA_PATRON_RECORD_SOURCES_INDEX][$sourceId] = $recordId;
+
+        $oldValue = $data[self::DATES_DATA_PATRON_RECORD_SOURCES_INDEX][$sourceId] ?? '';
+        if ($oldValue !== '') {
+            $oldValue .= ' / ';
+        }
+        $data[self::DATES_DATA_PATRON_RECORD_SOURCES_INDEX][$sourceId] = $oldValue . $recordId;
     }
 
     private function getPatronNamesArray(string $patronUrl): array
