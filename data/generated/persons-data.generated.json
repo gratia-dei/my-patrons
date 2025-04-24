@@ -9505,5 +9505,24 @@
             "1272-04-27"
         ],
         "feasts": []
+    },
+    "patrons/zosimus": {
+        "names": {
+            "la": "Zosimus",
+            "en": "Zosimus",
+            "pl": "Zozym"
+        }
+    },
+    "patrons/zosimus/1pp": {
+        "active": true,
+        "names": {
+            "la": "Zosimus, papa",
+            "en": "Zosimus, pope",
+            "pl": "Zozym, papież"
+        },
+        "died": [
+            "418-12-26"
+        ],
+        "feasts": []
     }
 }

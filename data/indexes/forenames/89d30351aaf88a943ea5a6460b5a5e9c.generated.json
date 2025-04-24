@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Zozym"
+    },
+    "translations": {
+        "la": [
+            "Zosimus"
+        ],
+        "en": [
+            "Zosimus"
+        ],
+        "pl": [
+            "Zozym"
+        ]
+    },
+    "links": {
+        "records/patrons/zosimus/1pp": {
+            "la": "Zosimus, papa",
+            "en": "Zosimus, pope",
+            "pl": "Zozym, papież"
+        }
+    }
+}

@@ -2112,6 +2112,11 @@
             "la": "Zenon Maiumitanensis",
             "en": "Zeno of Maiuma",
             "pl": "Zenon z Maiumy"
+        },
+        "records/patrons/zosimus/1pp": {
+            "la": "Zosimus, papa",
+            "en": "Zosimus, pope",
+            "pl": "Zozym, papież"
         }
     }
 }

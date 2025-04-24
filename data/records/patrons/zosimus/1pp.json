@@ -1,0 +1,45 @@
+{
+    "names": {
+        "la": [
+            "Zosimus, papa"
+        ],
+        "en": [
+            "Zosimus, pope"
+        ],
+        "pl": [
+            "Zozym, papież"
+        ]
+    },
+    "forenames": ["zosimus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["418-12-26"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./26#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/26#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./26#4"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#41"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/ZS1",
+        "wiki": "https://pl.wikipedia.org/wiki/Zozym_(papie%C5%BC)"
+    }
+}

@@ -2170,6 +2170,21 @@
             }
         }
     },
+    "12-26": {
+        "records/patrons/zosimus/1pp": {
+            "name": {
+                "la": "Zosimus, papa",
+                "en": "Zosimus, pope",
+                "pl": "Zozym, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 XII",
+                "mr-1584": "26 XII: #4",
+                "mr-1956": "26 XII: #4",
+                "mr-2004": "26 XII: #4"
+            }
+        }
+    },
     "12-27": {
         "records/patrons/ioannes/eva": {
             "name": {

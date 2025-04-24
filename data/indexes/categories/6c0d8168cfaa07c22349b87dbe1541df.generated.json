@@ -545,6 +545,11 @@
             "en": "Wilfrid of York",
             "la": "Wilfridus Eboracensis",
             "pl": "Wilfryd z Yorku"
+        },
+        "records/patrons/zosimus/1pp": {
+            "la": "Zosimus, papa",
+            "en": "Zosimus, pope",
+            "pl": "Zozym, papież"
         }
     }
 }

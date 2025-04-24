@@ -139,6 +139,11 @@
             "la": "Xystus Pp. II",
             "en": "Sixtus II",
             "pl": "Sykstus II"
+        },
+        "records/patrons/zosimus/1pp": {
+            "la": "Zosimus, papa",
+            "en": "Zosimus, pope",
+            "pl": "Zozym, papież"
         }
     }
 }
