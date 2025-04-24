@@ -212,6 +212,12 @@
             "en": "Maria of Jesus the Good Shepherd",
             "la": "Maria a Iesu Bono Pastore"
         },
+        "records/patrons/maria/wul": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        },
         "records/patrons/maximilianus/kol": {
             "pl": "Maksymilian Maria Kolbe",
             "en": "Maximilian Maria Kolbe",

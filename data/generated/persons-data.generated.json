@@ -6551,6 +6551,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/wul": {
+        "active": true,
+        "names": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        },
+        "died": [
+            "1907-12-25"
+        ],
+        "feasts": []
+    },
     "patrons/maria/zak": {
         "active": true,
         "names": {

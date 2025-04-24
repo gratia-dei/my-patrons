@@ -2127,6 +2127,19 @@
                 "reliable-death-anniversary": "25 XII",
                 "mr-2004": "25 XII: #9"
             }
+        },
+        "records/patrons/maria/wul": {
+            "name": {
+                "de": "Maria Therese von Wüllenweber",
+                "la": "Maria Teresia von Wüllenweber",
+                "en": "Maria Therese von Wüllenweber",
+                "pl": "Maria Teresa Wüllenweber"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 XII",
+                "feast": "25 XII",
+                "mr-2004": "25 XII: #8"
+            }
         }
     },
     "12-27": {

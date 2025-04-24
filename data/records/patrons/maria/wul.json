@@ -1,0 +1,64 @@
+{
+    "names": {
+        "de": [
+            "Maria Therese von Wüllenweber",
+            "Maria von den Aposteln"
+        ],
+        "la": [
+            "Maria Teresia von Wüllenweber",
+            "Maria ab Apostolis"
+        ],
+        "en": [
+            "Maria Therese von Wüllenweber",
+            "Maria of the Apostles"
+        ],
+        "pl": [
+            "Maria Teresa Wüllenweber",
+            "Maria od Apostołów"
+        ]
+    },
+    "forenames": ["maria", "teresia"],
+    "surnames": [
+        {
+            "de": "von Wüllenweber"
+        }
+    ],
+    "epithets": [
+        {
+            "de": "von den Aposteln",
+            "la": "ab Apostolis",
+            "en": "of the Apostles",
+            "pl": "od Apostołów"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1833-02-19"],
+    "died": ["1907-12-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1968-10-13"
+    },
+    "canonized": null,
+    "anniversary": ["12-25"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./25#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-degli-apostoli-von-wuellenweber.html",
+        "gcatholic": "https://gcatholic.org/p/68054",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_od_Aposto%C5%82%C3%B3w_W%C3%BCllenweber"
+    }
+}

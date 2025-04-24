@@ -1,0 +1,27 @@
+{
+    "names": {
+        "de": "von den Aposteln"
+    },
+    "translations": {
+        "de": [
+            "von den Aposteln"
+        ],
+        "la": [
+            "ab Apostolis"
+        ],
+        "en": [
+            "of the Apostles"
+        ],
+        "pl": [
+            "od Apostołów"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/wul": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        }
+    }
+}
