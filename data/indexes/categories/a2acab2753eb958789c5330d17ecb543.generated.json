@@ -52,8 +52,8 @@
         "records/patrons/benedictus/man": {
             "it": "Benedetto Manetto dell’Antella",
             "la": "Benedictus Manettus Antella",
-            "en": "Benedict Manetto Antella",
-            "pl": "Benedykt Manetto Antella"
+            "en": "Benedict Manettus Antella",
+            "pl": "Benedykt Manettus Antella"
         },
         "records/patrons/bernardus/cla": {
             "fr": "Bernard de Clairvaux",
@@ -111,8 +111,8 @@
         "records/patrons/gerardinus/sos": {
             "it": "Gerardino Sostegno da Firenze",
             "la": "Gerardinus Sostenaeus de Florentia",
-            "en": "Gerardino Sostene of Florence",
-            "pl": "Gerardino Sosteniusz z Florencji"
+            "en": "Gerardius Sostene of Florence",
+            "pl": "Gerardyn Sosteniusz z Florencji"
         },
         "records/patrons/guido/con": {
             "it": "Guido Maria Conforti",
@@ -228,6 +228,12 @@
             "en": "Fhilip Neri",
             "la": "Fhilippus Nerius",
             "pl": "Filip Neri"
+        },
+        "records/patrons/ricoverus/ugu": {
+            "it": "Ricovero Uguccione da Firenze",
+            "la": "Ricoverus Uguccio de Florentia",
+            "en": "Ricoverus Uguccione of Florence",
+            "pl": "Rikowerus Uguccio z Florencji"
         },
         "records/patrons/sigismundus/gor": {
             "pl": "Zygmunt Gorazdowski",

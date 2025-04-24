@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Rikowerus"
+    },
+    "translations": {
+        "la": [
+            "Ricoverus"
+        ],
+        "en": [
+            "Ricoverus"
+        ],
+        "pl": [
+            "Rikowerus"
+        ],
+        "it": [
+            "Ricovero"
+        ]
+    },
+    "links": {
+        "records/patrons/ricoverus/ugu": {
+            "it": "Ricovero Uguccione da Firenze",
+            "la": "Ricoverus Uguccio de Florentia",
+            "en": "Ricoverus Uguccione of Florence",
+            "pl": "Rikowerus Uguccio z Florencji"
+        }
+    }
+}

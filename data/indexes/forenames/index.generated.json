@@ -336,6 +336,9 @@
     "1a03690468342a33680326b08203f1d0": {
         "ko": "안드레아"
     },
+    "1aa27eb7de8d92bd383c5b21bc2eb850": {
+        "it": "Ricovero"
+    },
     "1b7a97cf64a74035872f547d808255c5": {
         "en": "Raymund"
     },
@@ -938,7 +941,9 @@
         "la": "Ioachim"
     },
     "48239e257ad85d7a562145c014d92a45": {
-        "la": "Manettus"
+        "la": "Manettus",
+        "en": "Manettus",
+        "pl": "Manettus"
     },
     "48a0572e6e7cfc81b428b18da87cf613": {
         "en": "Oscar"
@@ -971,6 +976,9 @@
     },
     "4ae9c0f43817706be18469a00be6bb5d": {
         "it": "Domenico"
+    },
+    "4c110913f8f29f28f63c0fa489d5a177": {
+        "pl": "Rikowerus"
     },
     "4c19a0aca0a7b35e75d698ffa26c47da": {
         "la": "Bonajuncta",
@@ -1161,6 +1169,9 @@
     },
     "5fd987fa2281c2f758650fee5ed7be00": {
         "pl": "Filipa"
+    },
+    "5ff74fa73d8aaf75c106d26334edcf8c": {
+        "pl": "Sostenes"
     },
     "606310b274a9fa112cdba296bb5b4a1b": {
         "la": "Alfonsus"
@@ -1705,6 +1716,10 @@
     "8f58fe78bf209813d552e92f68d24974": {
         "it": "Luigi"
     },
+    "8f7d6b298bc38059621ac97536ec83e7": {
+        "la": "Ricoverus",
+        "en": "Ricoverus"
+    },
     "8f82d67e032aaf7b06a0ee59122044a8": {
         "pl": "Ryszard"
     },
@@ -1764,7 +1779,6 @@
     },
     "92e7907194127c99ad309e7e73f74be2": {
         "en": "Gerardino",
-        "pl": "Gerardino",
         "it": "Gerardino"
     },
     "92eaf3719159c372f3d50337e0a14f57": {
@@ -2059,6 +2073,10 @@
     "aa9af946440aa33c627e8ab54d834658": {
         "en": "Josepha"
     },
+    "aab43a7499d13b33edecb5b8fb059f1c": {
+        "la": "Uguccio",
+        "pl": "Uguccio"
+    },
     "ab3e9fa544550bcb5bbd99e840835ded": {
         "it": "Giacomo"
     },
@@ -2154,8 +2172,6 @@
         "pt": "João"
     },
     "b25eac2087867571f68ab8a9ae7c13f2": {
-        "en": "Manetto",
-        "pl": "Manetto",
         "it": "Manetto"
     },
     "b27bfe5ba5bec17f80de30b9f23ff658": {
@@ -2250,6 +2266,9 @@
     },
     "b7f54569f82cc34fcdff75a314ccfd2e": {
         "en": "Justine"
+    },
+    "b7f93717759da2bb6c4c06ccf92451b3": {
+        "pl": "Gerardyn"
     },
     "b82a9a13f4651e9abcbde90cd24ce2cb": {
         "en": "Mark"
@@ -3045,6 +3064,10 @@
     },
     "f87567f2159b425795ebb7ba9bc406ec": {
         "en": "Patrick"
+    },
+    "f8820b538a589c1c95500bc79cf38154": {
+        "en": "Uguccione",
+        "it": "Uguccione"
     },
     "f91a4426dd179e1cee9bfcfb73decfc7": {
         "la": "Basilius"

@@ -1540,8 +1540,8 @@
         "names": {
             "it": "Benedetto Manetto dell’Antella",
             "la": "Benedictus Manettus Antella",
-            "en": "Benedict Manetto Antella",
-            "pl": "Benedykt Manetto Antella"
+            "en": "Benedict Manettus Antella",
+            "pl": "Benedykt Manettus Antella"
         },
         "died": [
             "1269-08-20"
@@ -3604,7 +3604,7 @@
         "names": {
             "la": "Gerardinus",
             "en": "Gerardino",
-            "pl": "Gerardino",
+            "pl": "Gerardyn",
             "it": "Gerardino"
         }
     },
@@ -3613,8 +3613,8 @@
         "names": {
             "it": "Gerardino Sostegno da Firenze",
             "la": "Gerardinus Sostenaeus de Florentia",
-            "en": "Gerardino Sostene of Florence",
-            "pl": "Gerardino Sosteniusz z Florencji"
+            "en": "Gerardius Sostene of Florence",
+            "pl": "Gerardyn Sosteniusz z Florencji"
         },
         "died": [
             "1282"
@@ -8035,6 +8035,27 @@
         },
         "died": [
             "645-04-26"
+        ],
+        "feasts": []
+    },
+    "patrons/ricoverus": {
+        "names": {
+            "la": "Ricoverus",
+            "en": "Ricoverus",
+            "pl": "Rikowerus",
+            "it": "Ricovero"
+        }
+    },
+    "patrons/ricoverus/ugu": {
+        "active": true,
+        "names": {
+            "it": "Ricovero Uguccione da Firenze",
+            "la": "Ricoverus Uguccio de Florentia",
+            "en": "Ricoverus Uguccione of Florence",
+            "pl": "Rikowerus Uguccio z Florencji"
+        },
+        "died": [
+            "1282-05-03"
         ],
         "feasts": []
     },

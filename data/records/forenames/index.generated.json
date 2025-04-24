@@ -761,7 +761,7 @@
     "gerardinus": {
         "la": "Gerardinus",
         "en": "Gerardino",
-        "pl": "Gerardino",
+        "pl": "Gerardyn",
         "it": "Gerardino"
     },
     "gerardus": {
@@ -1166,8 +1166,8 @@
     },
     "manettus": {
         "la": "Manettus",
-        "en": "Manetto",
-        "pl": "Manetto",
+        "en": "Manettus",
+        "pl": "Manettus",
         "it": "Manetto"
     },
     "marcellina": {
@@ -1508,6 +1508,12 @@
         "pl": "Richariusz",
         "fr": "Riquier"
     },
+    "ricoverus": {
+        "la": "Ricoverus",
+        "en": "Ricoverus",
+        "pl": "Rikowerus",
+        "it": "Ricovero"
+    },
     "rita": {
         "la": "Rita",
         "en": "Rita",
@@ -1767,6 +1773,12 @@
         "en": "Titus",
         "pl": "Tytus",
         "el": "Τίτος"
+    },
+    "uguccio": {
+        "la": "Uguccio",
+        "en": "Uguccione",
+        "pl": "Uguccio",
+        "it": "Uguccione"
     },
     "urbanus": {
         "la": "Urbanus",

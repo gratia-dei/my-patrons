@@ -165,8 +165,8 @@
             "name": {
                 "it": "Benedetto Manetto dell’Antella",
                 "la": "Benedictus Manettus Antella",
-                "en": "Benedict Manetto Antella",
-                "pl": "Benedykt Manetto Antella"
+                "en": "Benedict Manettus Antella",
+                "pl": "Benedykt Manettus Antella"
             },
             "sources": {
                 "mr-1956": "12 II: #1"
@@ -176,8 +176,19 @@
             "name": {
                 "it": "Gerardino Sostegno da Firenze",
                 "la": "Gerardinus Sostenaeus de Florentia",
-                "en": "Gerardino Sostene of Florence",
-                "pl": "Gerardino Sosteniusz z Florencji"
+                "en": "Gerardius Sostene of Florence",
+                "pl": "Gerardyn Sosteniusz z Florencji"
+            },
+            "sources": {
+                "mr-1956": "12 II: #1"
+            }
+        },
+        "records/patrons/ricoverus/ugu": {
+            "name": {
+                "it": "Ricovero Uguccione da Firenze",
+                "la": "Ricoverus Uguccio de Florentia",
+                "en": "Ricoverus Uguccione of Florence",
+                "pl": "Rikowerus Uguccio z Florencji"
             },
             "sources": {
                 "mr-1956": "12 II: #1"
@@ -215,8 +226,8 @@
             "name": {
                 "it": "Benedetto Manetto dell’Antella",
                 "la": "Benedictus Manettus Antella",
-                "en": "Benedict Manetto Antella",
-                "pl": "Benedykt Manetto Antella"
+                "en": "Benedict Manettus Antella",
+                "pl": "Benedykt Manettus Antella"
             },
             "sources": {
                 "feast": "17 II",
@@ -239,8 +250,8 @@
             "name": {
                 "it": "Gerardino Sostegno da Firenze",
                 "la": "Gerardinus Sostenaeus de Florentia",
-                "en": "Gerardino Sostene of Florence",
-                "pl": "Gerardino Sosteniusz z Florencji"
+                "en": "Gerardius Sostene of Florence",
+                "pl": "Gerardyn Sosteniusz z Florencji"
             },
             "sources": {
                 "feast": "17 II",
@@ -253,6 +264,18 @@
                 "la": "Ioannes Bonaiuncta Manetti",
                 "en": "John Bonajuncta Manetti",
                 "pl": "Jan Bonajunkta Manetti"
+            },
+            "sources": {
+                "feast": "17 II",
+                "mr-2004": "17 II: #1"
+            }
+        },
+        "records/patrons/ricoverus/ugu": {
+            "name": {
+                "it": "Ricovero Uguccione da Firenze",
+                "la": "Ricoverus Uguccio de Florentia",
+                "en": "Ricoverus Uguccione of Florence",
+                "pl": "Rikowerus Uguccio z Florencji"
             },
             "sources": {
                 "feast": "17 II",
@@ -542,12 +565,24 @@
         }
     },
     "05-03": {
+        "records/patrons/ricoverus/ugu": {
+            "name": {
+                "it": "Ricovero Uguccione da Firenze",
+                "la": "Ricoverus Uguccio de Florentia",
+                "en": "Ricoverus Uguccione of Florence",
+                "pl": "Rikowerus Uguccio z Florencji"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 V",
+                "mr-1956": "3 V: #4"
+            }
+        },
         "records/patrons/gerardinus/sos": {
             "name": {
                 "it": "Gerardino Sostegno da Firenze",
                 "la": "Gerardinus Sostenaeus de Florentia",
-                "en": "Gerardino Sostene of Florence",
-                "pl": "Gerardino Sosteniusz z Florencji"
+                "en": "Gerardius Sostene of Florence",
+                "pl": "Gerardyn Sosteniusz z Florencji"
             },
             "sources": {
                 "mr-1956": "3 V: #4"
@@ -1140,8 +1175,8 @@
             "name": {
                 "it": "Benedetto Manetto dell’Antella",
                 "la": "Benedictus Manettus Antella",
-                "en": "Benedict Manetto Antella",
-                "pl": "Benedykt Manetto Antella"
+                "en": "Benedict Manettus Antella",
+                "pl": "Benedykt Manettus Antella"
             },
             "sources": {
                 "reliable-death-anniversary": "20 VIII",

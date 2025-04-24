@@ -1,26 +1,26 @@
 {
     "names": {
         "it": [
-            "Gerardino Sostegno da Firenze"
+            "Ricovero Uguccione da Firenze"
         ],
         "la": [
-            "Gerardinus Sostenaeus de Florentia"
+            "Ricoverus Uguccio de Florentia"
         ],
         "en": [
-            "Gerardius Sostene of Florence"
+            "Ricoverus Uguccione of Florence"
         ],
         "pl": [
-            "Gerardyn Sosteniusz z Florencji"
+            "Rikowerus Uguccio z Florencji"
         ]
     },
-    "forenames": ["gerardinus", "sostenaeus"],
+    "forenames": ["ricoverus", "uguccio"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["1282"],
+    "died": ["1282-05-03"],
     "beatified": {
         "type": "ceremonially",
         "date": "1717-12-01"
@@ -37,16 +37,16 @@
         "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["6:Februarii/12#1", "1:Maji/3#4"],
+        "mr-1956": ["7:Februarii/12#1", "2:Maji/3#4"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["5:feb./17#1"],
+        "mr-2004": ["6:feb./17#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/sette-santi-fondatori.html",
-        "gcatholic": "https://gcatholic.org/p/25820",
+        "gcatholic": "https://gcatholic.org/p/25819",
         "wiki": "https://it.wikipedia.org/wiki/Sette_santi_fondatori"
     }
 }

@@ -632,7 +632,7 @@
     "gerardinus": {
         "la": "Gerardinus",
         "en": "Gerardino",
-        "pl": "Gerardino",
+        "pl": "Gerardyn",
         "it": "Gerardino"
     },
     "gerardus": {
@@ -1288,6 +1288,12 @@
         "en": "Richarius",
         "pl": "Richariusz",
         "fr": "Riquier"
+    },
+    "ricoverus": {
+        "la": "Ricoverus",
+        "en": "Ricoverus",
+        "pl": "Rikowerus",
+        "it": "Ricovero"
     },
     "rita": {
         "la": "Rita",
