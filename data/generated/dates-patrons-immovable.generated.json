@@ -1844,6 +1844,20 @@
             }
         }
     },
+    "11-18": {
+        "records/patrons/carolina/koz": {
+            "name": {
+                "pl": "Karolina Kózka",
+                "la": "Carolina Kózka",
+                "en": "Caroline Kózka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 XI",
+                "feast": "18 XI",
+                "mr-2004": "18 XI: #11"
+            }
+        }
+    },
     "11-24": {
         "records/patrons/ioannes/cru": {
             "name": {

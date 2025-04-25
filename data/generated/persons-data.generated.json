@@ -1977,11 +1977,11 @@
         }
     },
     "patrons/carolina/koz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Karolina Kózka",
-            "en": "Karolina Kózka",
-            "la": "Carolina Kózka"
+            "la": "Carolina Kózka",
+            "en": "Caroline Kózka"
         },
         "died": [
             "1914-11-18"

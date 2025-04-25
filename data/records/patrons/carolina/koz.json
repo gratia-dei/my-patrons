@@ -1,34 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Karolina Kózka",
-      "Karolina Kózkówna"
+    "names": {
+        "pl": [
+            "Karolina Kózka",
+            "Karolina Kózkówna"
+        ],
+        "la": [
+            "Carolina Kózka"
+        ],
+        "en": [
+            "Caroline Kózka"
+        ]
+    },
+    "forenames": ["carolina"],
+    "surnames": [
+        {
+            "pl": "Kózka"
+        }
     ],
-    "en": [
-      "Karolina Kózka"
-    ],
-    "la": [
-      "Carolina Kózka",
-      "Karolina Kózka"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Kózka"
+    "active": true,
+
+    "born": ["1898-08-02"],
+    "died": ["1914-11-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-06-10"
+    },
+    "canonized": null,
+    "anniversary": ["11-18"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./18#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/carolina-kozka.html",
+        "gcatholic": "https://gcatholic.org/p/68467",
+        "wiki": "https://pl.wikipedia.org/wiki/Karolina_K%C3%B3zka"
     }
-  ],
-
-  "born": ["1898-08-02"],
-  "died": ["1914-11-18"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1987-06-10"
-  },
-
-  "also-in-martyrology": ["11-18"],
-
-  "forenames": ["carolina"],
-  "categories": ["femina", "martyr", "virgo"]
 }
