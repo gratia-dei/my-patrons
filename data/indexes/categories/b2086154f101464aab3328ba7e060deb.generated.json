@@ -20,6 +20,12 @@
             "en": "Jesus Christ",
             "pl": "Jezus Chrystus"
         },
+        "records/patrons/david/rex": {
+            "he": "דָּוִד בֶּן יִשַׁי",
+            "la": "David, rex",
+            "en": "David, king",
+            "pl": "Dawid, król"
+        },
         "records/patrons/gunthramnus/rex": {
             "fr": "Gontran",
             "en": "Guntram",

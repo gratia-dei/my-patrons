@@ -1,0 +1,49 @@
+{
+    "names": {
+        "he": [
+            "דָּוִד בֶּן יִשַׁי"
+        ],
+        "la": [
+            "David, rex",
+            "David, filius Iesse"
+        ],
+        "en": [
+            "David, king",
+            "David, son of Jesse"
+        ],
+        "pl": [
+            "Dawid, król",
+            "Dawid, syn Jessego"
+        ]
+    },
+    "forenames": ["david"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["<-800"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "propheta", "rex"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./29#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/29#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./29#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70079",
+        "wiki": "https://pl.wikipedia.org/wiki/Dawid_(kr%C3%B3l_Izraela)"
+    }
+}

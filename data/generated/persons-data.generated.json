@@ -2528,6 +2528,7 @@
             "en": "David",
             "pl": "Dawid",
             "cy": "Dewi",
+            "he": "דָּוִד‎",
             "sw": "Daudi"
         }
     },
@@ -2554,6 +2555,19 @@
         },
         "died": [
             "1918-10-18"
+        ],
+        "feasts": []
+    },
+    "patrons/david/rex": {
+        "active": true,
+        "names": {
+            "he": "דָּוִד בֶּן יִשַׁי",
+            "la": "David, rex",
+            "en": "David, king",
+            "pl": "Dawid, król"
+        },
+        "died": [
+            "<-800"
         ],
         "feasts": []
     },

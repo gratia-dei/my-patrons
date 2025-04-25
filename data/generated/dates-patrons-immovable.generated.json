@@ -2212,5 +2212,20 @@
                 "mr-2004": "27 XII: #1"
             }
         }
+    },
+    "12-29": {
+        "records/patrons/david/rex": {
+            "name": {
+                "he": "דָּוִד בֶּן יִשַׁי",
+                "la": "David, rex",
+                "en": "David, king",
+                "pl": "Dawid, król"
+            },
+            "sources": {
+                "mr-1584": "29 XII: #2",
+                "mr-1956": "29 XII: #2",
+                "mr-2004": "29 XII: #2"
+            }
+        }
     }
 }
