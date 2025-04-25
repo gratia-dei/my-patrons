@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Stanisława"
+    },
+    "translations": {
+        "la": [
+            "Stanislava"
+        ],
+        "en": [
+            "Stanislava"
+        ],
+        "pl": [
+            "Stanisława"
+        ]
+    },
+    "links": {
+        "records/patrons/stanislava/ulm": {
+            "pl": "Stanisława Ulma",
+            "la": "Stanislava Ulma",
+            "en": "Stanislava Ulma"
+        }
+    }
+}

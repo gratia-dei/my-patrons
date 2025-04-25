@@ -1065,11 +1065,6 @@
         "en": "Kinga",
         "pl": "Kinga"
     },
-    "ladislaus": {
-        "la": "Ladislaus",
-        "en": "Ladislas",
-        "pl": "Władysław"
-    },
     "laurentius": {
         "la": "Laurentius",
         "en": "Lawrence",
@@ -1680,6 +1675,11 @@
         "en": "Stanislaus",
         "pl": "Stanisław"
     },
+    "stanislava": {
+        "la": "Stanislava",
+        "en": "Stanislava",
+        "pl": "Stanisława"
+    },
     "stella": {
         "la": "Stella",
         "en": "Stella",
@@ -1812,6 +1812,11 @@
         "en": "Victor",
         "pl": "Wiktor"
     },
+    "victoria": {
+        "la": "Victoria",
+        "en": "Victoria",
+        "pl": "Wiktoria"
+    },
     "victorinus": {
         "la": "Victorinus",
         "en": "Victorinus",
@@ -1841,6 +1846,11 @@
         "la": "Vladimirus",
         "en": "Vladimir",
         "pl": "Włodzimierz"
+    },
+    "vladislaus": {
+        "la": "Vladislaus",
+        "en": "Vladislaus",
+        "pl": "Władysław"
     },
     "vojtech": {
         "en": "Vojtech",

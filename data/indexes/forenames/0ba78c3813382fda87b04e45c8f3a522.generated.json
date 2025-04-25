@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Wiktoria"
+    },
+    "translations": {
+        "la": [
+            "Victoria"
+        ],
+        "en": [
+            "Victoria"
+        ],
+        "pl": [
+            "Wiktoria"
+        ]
+    },
+    "links": {
+        "records/patrons/victoria/ulm": {
+            "pl": "Wiktoria Ulma",
+            "la": "Victoria Ulma",
+            "en": "Victoria Ulma"
+        }
+    }
+}

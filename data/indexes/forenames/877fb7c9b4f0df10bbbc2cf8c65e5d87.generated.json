@@ -82,6 +82,11 @@
             "pl": "Antoni Rewera",
             "en": "Anthony Rewera",
             "la": "Antonius Rewera"
+        },
+        "records/patrons/antonius/ulm": {
+            "pl": "Antoni Ulma",
+            "la": "Antonius Ulma",
+            "en": "Anthony Ulma"
         }
     }
 }

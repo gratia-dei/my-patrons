@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Stanisława Ulma"
+        ],
+        "la": [
+            "Stanislava Ulma"
+        ],
+        "en": [
+            "Stanislava Ulma"
+        ]
+    },
+    "forenames": ["stanislava"],
+    "surnames": [
+        {
+            "pl": "Ulma"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1936-07-18"],
+    "died": ["1944-03-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2023-09-10"
+    },
+    "canonized": null,
+    "anniversary": ["09-07"],
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jozef-e-wiktoria-ulma-e-sette-figli.html",
+        "gcatholic": "https://gcatholic.org/p/74566",
+        "wiki": "https://pl.wikipedia.org/wiki/Rodzina_Ulm%C3%B3w"
+    }
+}

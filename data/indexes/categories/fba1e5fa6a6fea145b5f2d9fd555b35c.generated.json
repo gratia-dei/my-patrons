@@ -52,6 +52,11 @@
             "en": "Barbara of Nicomedia",
             "pl": "Barbara z Nikomedii"
         },
+        "records/patrons/barbara/ulm": {
+            "pl": "Barbara Ulma",
+            "la": "Barbara Ulma",
+            "en": "Barbara Ulma"
+        },
         "records/patrons/birgitta/sue": {
             "sv": "Birgitta Birgersdotter",
             "en": "Bridget of Sweden",
@@ -498,6 +503,11 @@
             "la": "Maria Bernarda Soubirous",
             "pl": "Bernadeta Soubirous"
         },
+        "records/patrons/maria/ulm": {
+            "pl": "Maria Ulma",
+            "la": "Maria Ulma",
+            "en": "Mary Ulma"
+        },
         "records/patrons/maria/wul": {
             "de": "Maria Therese von Wüllenweber",
             "la": "Maria Teresia von Wüllenweber",
@@ -614,6 +624,11 @@
             "en": "Sophia Maciejowska-Czeska",
             "la": "Sophia Maciejowska-Czeska"
         },
+        "records/patrons/stanislava/ulm": {
+            "pl": "Stanisława Ulma",
+            "la": "Stanislava Ulma",
+            "en": "Stanislava Ulma"
+        },
         "records/patrons/stephana/qui": {
             "it": "Stefana Quinzani",
             "en": "Stephanie Quinzani",
@@ -676,6 +691,11 @@
             "la": "Veronica",
             "en": "Veronica",
             "pl": "Weronika"
+        },
+        "records/patrons/victoria/ulm": {
+            "pl": "Wiktoria Ulma",
+            "la": "Victoria Ulma",
+            "en": "Victoria Ulma"
         },
         "records/patrons/vincentia/lop": {
             "es": "Vicenta María López Vicuña",

@@ -20,6 +20,11 @@
             "la": "Barbara Nicomedensis",
             "en": "Barbara of Nicomedia",
             "pl": "Barbara z Nikomedii"
+        },
+        "records/patrons/barbara/ulm": {
+            "pl": "Barbara Ulma",
+            "la": "Barbara Ulma",
+            "en": "Barbara Ulma"
         }
     }
 }

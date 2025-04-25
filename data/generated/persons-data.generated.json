@@ -1203,6 +1203,18 @@
         ],
         "feasts": []
     },
+    "patrons/antonius/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Antoni Ulma",
+            "la": "Antonius Ulma",
+            "en": "Anthony Ulma"
+        },
+        "died": [
+            "1944-03-24"
+        ],
+        "feasts": []
+    },
     "patrons/aristarchus": {
         "names": {
             "la": "Aristarchus",
@@ -1385,6 +1397,18 @@
         },
         "died": [
             "~305"
+        ],
+        "feasts": []
+    },
+    "patrons/barbara/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Barbara Ulma",
+            "la": "Barbara Ulma",
+            "en": "Barbara Ulma"
+        },
+        "died": [
+            "1944-03-24"
         ],
         "feasts": []
     },
@@ -3360,6 +3384,18 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Franciszek Ulma",
+            "la": "Franciscus Ulma",
+            "en": "Francis Ulma"
+        },
+        "died": [
+            "1944-03-24"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/xav": {
         "active": true,
         "names": {
@@ -5116,6 +5152,18 @@
         ],
         "feasts": []
     },
+    "patrons/iosephus/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Józef Ulma",
+            "la": "Iosephus Ulma",
+            "en": "Joseph Ulma"
+        },
+        "died": [
+            "1944-03-24"
+        ],
+        "feasts": []
+    },
     "patrons/iosephus/yua": {
         "active": false,
         "names": {
@@ -5397,25 +5445,6 @@
         },
         "died": [
             "1293-07-24"
-        ],
-        "feasts": []
-    },
-    "patrons/ladislaus": {
-        "names": {
-            "la": "Ladislaus",
-            "en": "Ladislas",
-            "pl": "Władysław"
-        }
-    },
-    "patrons/ladislaus/ulm": {
-        "active": false,
-        "names": {
-            "pl": "Władysław Ulma",
-            "en": "Ladislas Ulma",
-            "la": "Ladislaus Ulma"
-        },
-        "died": [
-            "1944-03-24"
         ],
         "feasts": []
     },
@@ -6562,6 +6591,18 @@
         },
         "died": [
             "1879-04-16"
+        ],
+        "feasts": []
+    },
+    "patrons/maria/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Maria Ulma",
+            "la": "Maria Ulma",
+            "en": "Mary Ulma"
+        },
+        "died": [
+            "1944-03-24"
         ],
         "feasts": []
     },
@@ -8667,11 +8708,11 @@
         }
     },
     "patrons/sine/ulm": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Nienarodzone dziecko Ulmów",
-            "en": "Unborn Child of the Ulma Family",
-            "la": "Infans Non Natus Ulmarum"
+            "la": "Infans Non Natus Ulmarum",
+            "en": "Unborn Child of the Ulma Family"
         },
         "died": [
             "1944-03-24"
@@ -8751,6 +8792,25 @@
         },
         "died": [
             "1941-04-13"
+        ],
+        "feasts": []
+    },
+    "patrons/stanislava": {
+        "names": {
+            "la": "Stanislava",
+            "en": "Stanislava",
+            "pl": "Stanisława"
+        }
+    },
+    "patrons/stanislava/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Stanisława Ulma",
+            "la": "Stanislava Ulma",
+            "en": "Stanislava Ulma"
+        },
+        "died": [
+            "1944-03-24"
         ],
         "feasts": []
     },
@@ -9302,6 +9362,25 @@
         ],
         "feasts": []
     },
+    "patrons/victoria": {
+        "names": {
+            "la": "Victoria",
+            "en": "Victoria",
+            "pl": "Wiktoria"
+        }
+    },
+    "patrons/victoria/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Wiktoria Ulma",
+            "la": "Victoria Ulma",
+            "en": "Victoria Ulma"
+        },
+        "died": [
+            "1944-03-24"
+        ],
+        "feasts": []
+    },
     "patrons/victorinus": {
         "names": {
             "la": "Victorinus",
@@ -9441,6 +9520,25 @@
         },
         "died": [
             "1940-08-08"
+        ],
+        "feasts": []
+    },
+    "patrons/vladislaus": {
+        "names": {
+            "la": "Vladislaus",
+            "en": "Vladislaus",
+            "pl": "Władysław"
+        }
+    },
+    "patrons/vladislaus/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Władysław Ulma",
+            "la": "Vladislaus Ulma",
+            "en": "Vladislas Ulma"
+        },
+        "died": [
+            "1944-03-24"
         ],
         "feasts": []
     },

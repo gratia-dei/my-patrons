@@ -4,20 +4,20 @@
     },
     "translations": {
         "la": [
-            "Ladislaus"
+            "Vladislaus"
         ],
         "en": [
-            "Ladislas"
+            "Vladislaus"
         ],
         "pl": [
             "Władysław"
         ]
     },
     "links": {
-        "records/patrons/ladislaus/ulm": {
+        "records/patrons/vladislaus/ulm": {
             "pl": "Władysław Ulma",
-            "en": "Ladislas Ulma",
-            "la": "Ladislaus Ulma"
+            "la": "Vladislaus Ulma",
+            "en": "Vladislas Ulma"
         }
     }
 }

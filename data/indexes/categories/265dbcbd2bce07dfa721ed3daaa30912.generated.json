@@ -134,6 +134,11 @@
             "en": "Anthony Rewera",
             "la": "Antonius Rewera"
         },
+        "records/patrons/antonius/ulm": {
+            "pl": "Antoni Ulma",
+            "la": "Antonius Ulma",
+            "en": "Anthony Ulma"
+        },
         "records/patrons/aristarchus/the": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",
@@ -155,6 +160,11 @@
             "la": "Barbara Nicomedensis",
             "en": "Barbara of Nicomedia",
             "pl": "Barbara z Nikomedii"
+        },
+        "records/patrons/barbara/ulm": {
+            "pl": "Barbara Ulma",
+            "la": "Barbara Ulma",
+            "en": "Barbara Ulma"
         },
         "records/patrons/barnabas/apo": {
             "la": "Barnabas Apostolus",
@@ -439,6 +449,11 @@
             "en": "Francis Stryjas",
             "la": "Franciscus Stryjas"
         },
+        "records/patrons/franciscus/ulm": {
+            "pl": "Franciszek Ulma",
+            "la": "Franciscus Ulma",
+            "en": "Francis Ulma"
+        },
         "records/patrons/gabriel/duf": {
             "fr": "Gabriel Taurin Dufresse",
             "en": "Gabriel Taurin Dufresse",
@@ -657,6 +672,11 @@
             "la": "Iosephus Trần Văn Tuấn",
             "pl": "Józef Trần Văn Tuấn"
         },
+        "records/patrons/iosephus/ulm": {
+            "pl": "Józef Ulma",
+            "la": "Iosephus Ulma",
+            "en": "Joseph Ulma"
+        },
         "records/patrons/iosephus/yua": {
             "zh": "袁在德若瑟",
             "en": "Joseph John Zaide",
@@ -706,11 +726,6 @@
             "la": "Iustus /+ Pastor",
             "en": "Justus /+ Pastor",
             "pl": "Just /+ Pastor"
-        },
-        "records/patrons/ladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "en": "Ladislas Ulma",
-            "la": "Ladislaus Ulma"
         },
         "records/patrons/laurentius/rom": {
             "la": "Laurentius de Roma",
@@ -827,6 +842,11 @@
             "pl": "Maria Sergia od Matki Bożej Bolesnej",
             "la": "Maria Sergia a Virgine Perdolenti",
             "en": "Mary Sergia of Our Lady of Sorrows"
+        },
+        "records/patrons/maria/ulm": {
+            "pl": "Maria Ulma",
+            "la": "Maria Ulma",
+            "en": "Mary Ulma"
         },
         "records/patrons/maria/zak": {
             "pl": "Maria Imelda od Jezusa Hostii",
@@ -1053,8 +1073,8 @@
         },
         "records/patrons/sine/ulm": {
             "pl": "Nienarodzone dziecko Ulmów",
-            "en": "Unborn Child of the Ulma Family",
-            "la": "Infans Non Natus Ulmarum"
+            "la": "Infans Non Natus Ulmarum",
+            "en": "Unborn Child of the Ulma Family"
         },
         "records/patrons/sophia/fir": {
             "it": "Sofia di Fermo",
@@ -1071,6 +1091,11 @@
             "pl": "Stanisław Starowieyski",
             "en": "Stanislaus Starowieyski",
             "la": "Stanislaus Starowieyski"
+        },
+        "records/patrons/stanislava/ulm": {
+            "pl": "Stanisława Ulma",
+            "la": "Stanislava Ulma",
+            "en": "Stanislava Ulma"
         },
         "records/patrons/stephanus/pro": {
             "el": "Στέφανος",
@@ -1163,6 +1188,11 @@
             "en": "Victor I",
             "pl": "Wiktor I"
         },
+        "records/patrons/victoria/ulm": {
+            "pl": "Wiktoria Ulma",
+            "la": "Victoria Ulma",
+            "en": "Victoria Ulma"
+        },
         "records/patrons/victorinus/pet": {
             "it": "Vittorino di Pettau",
             "en": "Victorinus of Pettau",
@@ -1173,6 +1203,11 @@
             "pl": "Włodzimierz Laskowski",
             "en": "Wlodzimierz Laskowski",
             "la": "Vladimirus Laskowski"
+        },
+        "records/patrons/vladislaus/ulm": {
+            "pl": "Władysław Ulma",
+            "la": "Vladislaus Ulma",
+            "en": "Vladislas Ulma"
         },
         "records/patrons/xystus/2pp": {
             "la": "Xystus Pp. II",

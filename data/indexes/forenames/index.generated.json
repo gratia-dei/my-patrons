@@ -144,6 +144,9 @@
     "0afca49306b28c1650a1d4130a6a0ce1": {
         "la": "Clara"
     },
+    "0ba78c3813382fda87b04e45c8f3a522": {
+        "pl": "Wiktoria"
+    },
     "0be9da6ba0225f7fe786a1c39b4ff8dc": {
         "la": "Rusticus",
         "en": "Rusticus"
@@ -168,9 +171,6 @@
     "0ca3dae762c4b4d9a283076bff5f9036": {
         "la": "Eustochius",
         "en": "Eustochius"
-    },
-    "0cd9a9c9399457ec56fcd49b931bbeba": {
-        "la": "Ladislaus"
     },
     "0cfef07dbbce03cb2bcfec95267f5e82": {
         "la": "Adalbertus"
@@ -568,6 +568,9 @@
     "2c1e2b35d86edda85d9ded224fe47d67": {
         "pl": "Dydak"
     },
+    "2c3619bdba82bb55129b1686efed692b": {
+        "pl": "Stanisława"
+    },
     "2c3baf26f776086aab9f234f8c9a00ed": {
         "la": "Felix",
         "en": "Felix"
@@ -813,6 +816,10 @@
     "3e6c09a6e36061af29b490ec78d7e920": {
         "hu": "Gellért"
     },
+    "3e95d5e80cb90a2d425145e3e0f5d46f": {
+        "la": "Vladislaus",
+        "en": "Vladislaus"
+    },
     "3ed4d1cb47cbc3bce45290d4658a9ab5": {
         "en": "Bartholomew"
     },
@@ -1012,6 +1019,10 @@
     },
     "4f1b3bfc9f3f03af3ba76b8120cdbfc6": {
         "pl": "Eleuteriusz"
+    },
+    "4f9f7b661984b6fa29c0e74cdcfc4c69": {
+        "la": "Stanislava",
+        "en": "Stanislava"
     },
     "4fb845c67d91bcb3178498fc6fe1fedc": {
         "es": "Diego"
@@ -1267,9 +1278,6 @@
     "67524210524b62ad06b8fc7c6dc7135e": {
         "en": "Louis",
         "fr": "Louis"
-    },
-    "67e546701b538772543b703f69c25955": {
-        "en": "Ladislas"
     },
     "6810c387d3d2662fe947e9d7e5cf3c89": {
         "pl": "Józefa"
@@ -2786,6 +2794,10 @@
     },
     "dfbecf2b7cdfde4e3a1b479244bfc370": {
         "it": "Caterina"
+    },
+    "dfee9e39474b6e292d66c7facba668e1": {
+        "la": "Victoria",
+        "en": "Victoria"
     },
     "e01d105b94122cc07413ff7f7f7f62bd": {
         "la": "Pontianus"

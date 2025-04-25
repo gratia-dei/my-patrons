@@ -426,6 +426,98 @@
             }
         }
     },
+    "03-24": {
+        "records/patrons/antonius/ulm": {
+            "name": {
+                "pl": "Antoni Ulma",
+                "la": "Antonius Ulma",
+                "en": "Anthony Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/barbara/ulm": {
+            "name": {
+                "pl": "Barbara Ulma",
+                "la": "Barbara Ulma",
+                "en": "Barbara Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/franciscus/ulm": {
+            "name": {
+                "pl": "Franciszek Ulma",
+                "la": "Franciscus Ulma",
+                "en": "Francis Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/iosephus/ulm": {
+            "name": {
+                "pl": "Józef Ulma",
+                "la": "Iosephus Ulma",
+                "en": "Joseph Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/maria/ulm": {
+            "name": {
+                "pl": "Maria Ulma",
+                "la": "Maria Ulma",
+                "en": "Mary Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/sine/ulm": {
+            "name": {
+                "pl": "Nienarodzone dziecko Ulmów",
+                "la": "Infans Non Natus Ulmarum",
+                "en": "Unborn Child of the Ulma Family"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/stanislava/ulm": {
+            "name": {
+                "pl": "Stanisława Ulma",
+                "la": "Stanislava Ulma",
+                "en": "Stanislava Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/victoria/ulm": {
+            "name": {
+                "pl": "Wiktoria Ulma",
+                "la": "Victoria Ulma",
+                "en": "Victoria Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
+        "records/patrons/vladislaus/ulm": {
+            "name": {
+                "pl": "Władysław Ulma",
+                "la": "Vladislaus Ulma",
+                "en": "Vladislas Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        }
+    },
     "03-28": {
         "records/patrons/ioannes/cap": {
             "name": {
@@ -1236,6 +1328,98 @@
                 "reliable-death-anniversary": "5 IX",
                 "feast": "5 IX",
                 "mr-2004": "5 IX: #10"
+            }
+        }
+    },
+    "09-07": {
+        "records/patrons/antonius/ulm": {
+            "name": {
+                "pl": "Antoni Ulma",
+                "la": "Antonius Ulma",
+                "en": "Anthony Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/barbara/ulm": {
+            "name": {
+                "pl": "Barbara Ulma",
+                "la": "Barbara Ulma",
+                "en": "Barbara Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/franciscus/ulm": {
+            "name": {
+                "pl": "Franciszek Ulma",
+                "la": "Franciscus Ulma",
+                "en": "Francis Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/iosephus/ulm": {
+            "name": {
+                "pl": "Józef Ulma",
+                "la": "Iosephus Ulma",
+                "en": "Joseph Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/maria/ulm": {
+            "name": {
+                "pl": "Maria Ulma",
+                "la": "Maria Ulma",
+                "en": "Mary Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/sine/ulm": {
+            "name": {
+                "pl": "Nienarodzone dziecko Ulmów",
+                "la": "Infans Non Natus Ulmarum",
+                "en": "Unborn Child of the Ulma Family"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/stanislava/ulm": {
+            "name": {
+                "pl": "Stanisława Ulma",
+                "la": "Stanislava Ulma",
+                "en": "Stanislava Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/victoria/ulm": {
+            "name": {
+                "pl": "Wiktoria Ulma",
+                "la": "Victoria Ulma",
+                "en": "Victoria Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
+        "records/patrons/vladislaus/ulm": {
+            "name": {
+                "pl": "Władysław Ulma",
+                "la": "Vladislaus Ulma",
+                "en": "Vladislas Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
             }
         }
     },
