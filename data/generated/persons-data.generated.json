@@ -7084,14 +7084,14 @@
         "feasts": []
     },
     "patrons/multi/nie": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Multa Milia Martyres in Nicomediae Ecclesia",
             "en": "Many Thousands of Martyrs from church in Nicomedia",
             "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
         },
         "died": [
-            "~303"
+            "~304-12-25"
         ],
         "feasts": []
     },

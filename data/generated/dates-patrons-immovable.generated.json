@@ -2366,6 +2366,18 @@
                 "feast": "25 XII",
                 "mr-2004": "25 XII: #8"
             }
+        },
+        "records/patrons/multi/nie": {
+            "name": {
+                "la": "Multa Milia Martyres in Nicomediae Ecclesia",
+                "en": "Many Thousands of Martyrs from church in Nicomedia",
+                "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 XII",
+                "mr-1584": "25 XII: #4",
+                "mr-1956": "25 XII: #5"
+            }
         }
     },
     "12-26": {
