@@ -764,6 +764,20 @@
             }
         }
     },
+    "06-23": {
+        "records/patrons/multi/nim": {
+            "name": {
+                "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
+                "en": "Many Martyrs of Nicomedia hiding in Mountains and Caves",
+                "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
+            },
+            "sources": {
+                "mr-1584": "23 VI: #4",
+                "mr-1956": "23 VI: #5",
+                "mr-2004": "23 VI: #1"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {

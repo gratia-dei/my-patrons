@@ -7095,6 +7095,18 @@
         ],
         "feasts": []
     },
+    "patrons/multi/nim": {
+        "active": true,
+        "names": {
+            "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
+            "en": "Many Martyrs of Nicomedia hiding in Mountains and Caves",
+            "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
+        },
+        "died": [
+            "303"
+        ],
+        "feasts": []
+    },
     "patrons/multi/san": {
         "active": true,
         "names": {
