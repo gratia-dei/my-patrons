@@ -44,6 +44,11 @@
             "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
             "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
         },
+        "records/patrons/multi/niv": {
+            "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
+            "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
+            "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
+        },
         "records/patrons/multi/san": {
             "la": "Omnes Sancti",
             "en": "All Saints",

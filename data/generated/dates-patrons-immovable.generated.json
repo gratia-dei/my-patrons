@@ -2353,6 +2353,17 @@
                 "feast": "23 XII",
                 "mr-2004": "23 XII: #1"
             }
+        },
+        "records/patrons/multi/niv": {
+            "name": {
+                "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
+                "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
+                "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "23 XII: #2",
+                "mr-1956": "23 XII: #3"
+            }
         }
     },
     "12-24": {
