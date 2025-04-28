@@ -29,14 +29,19 @@
             "en": "All the Faithful Departed",
             "pl": "Wszyscy Wierni Zmarli"
         },
+        "records/patrons/multi/nid": {
+            "la": "Decem milia martyrum pro fide Nicomediae",
+            "en": "Ten thousand Martyrs for the faith from Nicomedia",
+            "pl": "Dziesięć tysięcy Męczenników za wiarę z Nikomedii"
+        },
         "records/patrons/multi/nie": {
-            "la": "Multa Milia Martyres in Nicomediae Ecclesia",
+            "la": "Multa Milia Martyres in Nicomediae ecclesia",
             "en": "Many Thousands of Martyrs from church in Nicomedia",
             "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
         },
         "records/patrons/multi/nim": {
             "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
-            "en": "Many Martyrs of Nicomedia hiding in Mountains and Caves",
+            "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
             "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
         },
         "records/patrons/multi/san": {

@@ -426,6 +426,19 @@
             }
         }
     },
+    "03-18": {
+        "records/patrons/multi/nid": {
+            "name": {
+                "la": "Decem milia martyrum pro fide Nicomediae",
+                "en": "Ten thousand Martyrs for the faith from Nicomedia",
+                "pl": "Dziesięć tysięcy Męczenników za wiarę z Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "18 III: #3",
+                "mr-1956": "18 III: #4"
+            }
+        }
+    },
     "03-24": {
         "records/patrons/antonius/ulm": {
             "name": {
@@ -768,7 +781,7 @@
         "records/patrons/multi/nim": {
             "name": {
                 "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
-                "en": "Many Martyrs of Nicomedia hiding in Mountains and Caves",
+                "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
                 "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
             },
             "sources": {
@@ -2383,7 +2396,7 @@
         },
         "records/patrons/multi/nie": {
             "name": {
-                "la": "Multa Milia Martyres in Nicomediae Ecclesia",
+                "la": "Multa Milia Martyres in Nicomediae ecclesia",
                 "en": "Many Thousands of Martyrs from church in Nicomedia",
                 "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
             },
