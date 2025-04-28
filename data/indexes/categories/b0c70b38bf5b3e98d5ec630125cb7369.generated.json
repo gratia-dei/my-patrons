@@ -20,6 +20,11 @@
             "la": "Bertoldus de Calabria",
             "pl": "Bertold z Kalabrii"
         },
+        "records/patrons/eleutherius/nic": {
+            "la": "Eleutherius de Nicomedia",
+            "en": "Eleutherius of Nicomedia",
+            "pl": "Eleuteriusz z Nikomedii"
+        },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",
             "la": "Ignatius de Loyola",

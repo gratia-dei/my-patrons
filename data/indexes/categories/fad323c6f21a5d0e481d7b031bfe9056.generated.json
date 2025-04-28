@@ -370,6 +370,11 @@
             "en": "Eleutherius of Paris; with him, i.a., Denis",
             "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
         },
+        "records/patrons/eleutherius/nic": {
+            "la": "Eleutherius de Nicomedia",
+            "en": "Eleutherius of Nicomedia",
+            "pl": "Eleuteriusz z Nikomedii"
+        },
         "records/patrons/emmerammus/rat": {
             "la": "Emmeramus Ratisbonensis",
             "en": "Emmeram of Regensburg",
@@ -914,6 +919,11 @@
             "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
             "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
             "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
+        },
+        "records/patrons/multi/nip": {
+            "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
+            "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
+            "pl": "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
         },
         "records/patrons/multi/niv": {
             "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",

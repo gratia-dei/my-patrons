@@ -2897,6 +2897,18 @@
         ],
         "feasts": []
     },
+    "patrons/eleutherius/nic": {
+        "active": true,
+        "names": {
+            "la": "Eleutherius de Nicomedia",
+            "en": "Eleutherius of Nicomedia",
+            "pl": "Eleuteriusz z Nikomedii"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/elias": {
         "names": {
             "la": "Elias",
@@ -7114,6 +7126,18 @@
         },
         "died": [
             "303"
+        ],
+        "feasts": []
+    },
+    "patrons/multi/nip": {
+        "active": true,
+        "names": {
+            "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
+            "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
+            "pl": "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
+        },
+        "died": [
+            "~303"
         ],
         "feasts": []
     },

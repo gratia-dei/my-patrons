@@ -1558,6 +1558,28 @@
                 "feast": "2 X",
                 "mr-2004": "2 X: #15"
             }
+        },
+        "records/patrons/eleutherius/nic": {
+            "name": {
+                "la": "Eleutherius de Nicomedia",
+                "en": "Eleutherius of Nicomedia",
+                "pl": "Eleuteriusz z Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "2 X: #1",
+                "mr-1956": "2 X: #4"
+            }
+        },
+        "records/patrons/multi/nip": {
+            "name": {
+                "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
+                "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
+                "pl": "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "2 X: #1",
+                "mr-1956": "2 X: #4"
+            }
         }
     },
     "10-03": {

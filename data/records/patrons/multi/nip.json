@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis"
+        ],
+        "en": [
+            "Innumerable companions of Eleutherius, martyrs of Nicomedia"
+        ],
+        "pl": [
+            "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
+        ]
+    },
+    "forenames": ["multi"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Oct./2#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Octobris/2#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
+    }
+}
