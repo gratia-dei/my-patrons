@@ -2036,7 +2036,7 @@
         "feasts": []
     },
     "patrons/carolus/bor": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Carlo Borromeo",
             "la": "Carolus Borromeo",

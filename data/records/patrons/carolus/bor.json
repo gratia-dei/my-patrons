@@ -1,42 +1,54 @@
 {
-  "names": {
-    "it": [
-      "Carlo Borromeo"
+    "names": {
+        "it": [
+            "Carlo Borromeo"
+        ],
+        "la": [
+            "Carolus Borromeo"
+        ],
+        "en": [
+            "Charles Borromeo"
+        ],
+        "pl": [
+            "Karol Boromeusz"
+        ]
+    },
+    "forenames": ["carolus"],
+    "surnames": [
+        {
+            "it": "Borromeo",
+            "pl": "Boromeusz"
+        }
     ],
-    "la": [
-      "Carolus Borromeo"
-    ],
-    "en": [
-      "Charles Borromeo"
-    ],
-    "pl": [
-      "Karol Boromeusz"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Borromeo",
-      "la": "Borromeo",
-      "en": "Borromeo",
-      "pl": "Boromeusz"
+    "active": true,
+
+    "born": ["1538-10-02"],
+    "died": ["1584-11-03"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1610-11-01"
+    },
+    "anniversary": ["11-03"],
+
+    "categories": ["vir", "confessor", "cardinalis", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/3#1", "1:Novembris/4#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./3#16", "1:nov./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/carlo-borromeo.html",
+        "gcatholic": "https://gcatholic.org/p/19140",
+        "wiki": "https://pl.wikipedia.org/wiki/Karol_Boromeusz"
     }
-  ],
-
-  "born": ["1538-10-02"],
-  "died": ["1584-11-03"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1601-05-12"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1610-11-01"
-  },
-
-  "also-in-martyrology": ["11-03", "11-04"],
-
-  "forenames": ["carolus"],
-  "categories": ["vir", "confessor", "cardinalis", "episcopus"]
 }
