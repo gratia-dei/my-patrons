@@ -25,6 +25,19 @@
             }
         }
     },
+    "01-03": {
+        "records/patrons/lucianus/leo": {
+            "name": {
+                "it": "Luciano di Lentini",
+                "la": "Lucianus de Leontini",
+                "en": "Lucian of Lentini",
+                "pl": "Lucjan z Lentini"
+            },
+            "sources": {
+                "mr-2004": "3 I: #9"
+            }
+        }
+    },
     "01-04": {
         "records/patrons/titus/cre": {
             "name": {

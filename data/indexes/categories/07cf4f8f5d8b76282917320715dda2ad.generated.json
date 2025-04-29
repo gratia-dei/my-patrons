@@ -1427,6 +1427,12 @@
             "en": "Luke the Evangelist",
             "pl": "Łukasz Ewangelista"
         },
+        "records/patrons/lucianus/leo": {
+            "it": "Luciano di Lentini",
+            "la": "Lucianus de Leontini",
+            "en": "Lucian of Lentini",
+            "pl": "Lucjan z Lentini"
+        },
         "records/patrons/lucius/cur": {
             "la": "Lucius de Curiae Rhaetorum",
             "en": "Lucius of Chur",

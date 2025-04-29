@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Lucianus"
+    },
+    "translations": {
+        "la": [
+            "Lucianus"
+        ],
+        "en": [
+            "Lucian"
+        ],
+        "pl": [
+            "Lucjan"
+        ],
+        "it": [
+            "Luciano"
+        ]
+    },
+    "links": {
+        "records/patrons/lucianus/leo": {
+            "it": "Luciano di Lentini",
+            "la": "Lucianus de Leontini",
+            "en": "Lucian of Lentini",
+            "pl": "Lucjan z Lentini"
+        }
+    }
+}

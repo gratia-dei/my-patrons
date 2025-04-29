@@ -5662,6 +5662,29 @@
         ],
         "feasts": []
     },
+    "patrons/lucianus": {
+        "names": {
+            "la": "Lucianus",
+            "en": "Lucian",
+            "pl": "Lucjan",
+            "it": "Luciano"
+        }
+    },
+    "patrons/lucianus/leo": {
+        "active": true,
+        "names": {
+            "it": "Luciano di Lentini",
+            "la": "Lucianus de Leontini",
+            "en": "Lucian of Lentini",
+            "pl": "Lucjan z Lentini"
+        },
+        "died": [
+            ">300",
+            "~565",
+            "~800"
+        ],
+        "feasts": []
+    },
     "patrons/lucius": {
         "names": {
             "la": "Lucius",

@@ -361,6 +361,12 @@
             "en": "Lazarus of Milan",
             "pl": "Łazarz z Mediolanu"
         },
+        "records/patrons/lucianus/leo": {
+            "it": "Luciano di Lentini",
+            "la": "Lucianus de Leontini",
+            "en": "Lucian of Lentini",
+            "pl": "Lucjan z Lentini"
+        },
         "records/patrons/macarius/hie": {
             "el": "Μακάριος Ἱεροσολύμων",
             "en": "Macarius of Jerusalem",
