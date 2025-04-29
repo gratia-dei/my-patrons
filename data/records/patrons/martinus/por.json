@@ -1,42 +1,57 @@
 {
-  "names": {
-    "es": [
-      "Martín de Porres",
-      "Martín de Porres Velázquez"
+    "names": {
+        "es": [
+            "Martín de Porres",
+            "Martín de Porres Velázquez"
+        ],
+        "la": [
+            "Martinus de Porres"
+        ],
+        "en": [
+            "Martin de Porres"
+        ],
+        "pl": [
+            "Marcin de Porres"
+        ]
+    },
+    "forenames": ["martinus"],
+    "surnames": [
+        {
+            "es": "de Porres"
+        }
     ],
-    "la": [
-      "Martinus de Porres"
-    ],
-    "en": [
-      "Martin de Porres"
-    ],
-    "pl": [
-      "Marcin de Porres"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "es": "de Porres"
+    "active": true,
+
+    "born": ["1579-12-09"],
+    "died": ["1639-11-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1837-10-29"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1962-05-06"
+    },
+    "anniversary": ["11-03"],
+
+    "categories": ["vir", "religiosus", "medicus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martino-de-porres.html",
+        "gcatholic": "https://gcatholic.org/p/68091",
+        "wiki": "https://pl.wikipedia.org/wiki/Marcin_de_Porr%C3%A8s"
     }
-  ],
-
-  "born": ["1579-12-09"],
-  "died": ["1639-11-03"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1837-10-29"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1962-05-06"
-  },
-
-  "also-in-martyrology": ["11-03"],
-
-  "forenames": ["martinus"],
-  "categories": ["vir", "religiosus", "medicus"],
-
-  "order": ["op"]
 }

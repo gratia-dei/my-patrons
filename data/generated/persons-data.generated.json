@@ -6702,7 +6702,7 @@
         }
     },
     "patrons/martinus/por": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Martín de Porres",
             "la": "Martinus de Porres",

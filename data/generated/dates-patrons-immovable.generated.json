@@ -2051,6 +2051,21 @@
             }
         }
     },
+    "11-03": {
+        "records/patrons/martinus/por": {
+            "name": {
+                "es": "Martín de Porres",
+                "la": "Martinus de Porres",
+                "en": "Martin de Porres",
+                "pl": "Marcin de Porres"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 XI",
+                "feast": "3 XI",
+                "mr-2004": "3 XI: #1"
+            }
+        }
+    },
     "11-08": {
         "records/patrons/martinus/tur": {
             "name": {
