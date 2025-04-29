@@ -4,6 +4,11 @@
         "pl": "Edward Coleman",
         "la": "Eduardus Coleman"
     },
+    "con": {
+        "en": "Edward the Confessor",
+        "la": "Eduardus Confessor",
+        "pl": "Edward Wyznawca"
+    },
     "kaz": {
         "pl": "Edward Kaźmierski",
         "en": "Edward Kazmierski",
@@ -13,5 +18,10 @@
         "pl": "Edward Klinik",
         "en": "Edward Klinik",
         "la": "Eduardus Klinik"
+    },
+    "rex": {
+        "en": "Edward the Martyr",
+        "la": "Eduardus Martyr",
+        "pl": "Edward Męczennik"
     }
 }

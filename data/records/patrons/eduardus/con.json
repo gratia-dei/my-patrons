@@ -1,0 +1,64 @@
+{
+    "names": {
+        "en": [
+            "Edward the Confessor"
+        ],
+        "la": [
+            "Eduardus Confessor"
+        ],
+        "pl": [
+            "Edward Wyznawca"
+        ]
+    },
+    "forenames": ["eduardus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "en": "the Confessor",
+            "la": "Confessor",
+            "pl": "Wyznawca"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["~1003"],
+    "died": ["1066-01-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "rex"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./5#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/5#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./5#5"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tec": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Octobris/13#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69150",
+        "wiki": "https://pl.wikipedia.org/wiki/Edward_Wyznawca"
+    }
+}

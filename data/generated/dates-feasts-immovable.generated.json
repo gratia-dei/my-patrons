@@ -902,6 +902,17 @@
             }
         }
     },
+    "10-13": {
+        "records/patrons/eduardus/con#tec": {
+            "name": {
+                "la": "Eduardus Confessor (Translatio corporis sancti Eduardi, regis et confessoris)",
+                "pl": "Edward Wyznawca (Przeniesienie ciała świętego Edwarda, króla i wyznawcy)"
+            },
+            "sources": {
+                "mr-1956": "13 X: #1"
+            }
+        }
+    },
     "10-31": {
         "records/patrons/multi/san#vos": {
             "name": {

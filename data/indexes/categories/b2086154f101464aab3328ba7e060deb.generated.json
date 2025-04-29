@@ -26,6 +26,16 @@
             "en": "David, king",
             "pl": "Dawid, król"
         },
+        "records/patrons/eduardus/con": {
+            "en": "Edward the Confessor",
+            "la": "Eduardus Confessor",
+            "pl": "Edward Wyznawca"
+        },
+        "records/patrons/eduardus/rex": {
+            "en": "Edward the Martyr",
+            "la": "Eduardus Martyr",
+            "pl": "Edward Męczennik"
+        },
         "records/patrons/gunthramnus/rex": {
             "fr": "Gontran",
             "en": "Guntram",

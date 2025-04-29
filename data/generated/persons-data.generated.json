@@ -2851,6 +2851,26 @@
         ],
         "feasts": []
     },
+    "patrons/eduardus/con": {
+        "active": true,
+        "names": {
+            "en": "Edward the Confessor",
+            "la": "Eduardus Confessor",
+            "pl": "Edward Wyznawca"
+        },
+        "died": [
+            "1066-01-05"
+        ],
+        "feasts": {
+            "feasts/tec": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sancti Eduardi, regis et confessoris",
+                    "pl": "Przeniesienie ciała świętego Edwarda, króla i wyznawcy"
+                }
+            }
+        }
+    },
     "patrons/eduardus/kaz": {
         "active": false,
         "names": {
@@ -2872,6 +2892,18 @@
         },
         "died": [
             "1942-08-24"
+        ],
+        "feasts": []
+    },
+    "patrons/eduardus/rex": {
+        "active": true,
+        "names": {
+            "en": "Edward the Martyr",
+            "la": "Eduardus Martyr",
+            "pl": "Edward Męczennik"
+        },
+        "died": [
+            "978-03-18"
         ],
         "feasts": []
     },

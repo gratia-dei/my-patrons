@@ -678,6 +678,11 @@
             "pl": "Edward Coleman",
             "la": "Eduardus Coleman"
         },
+        "records/patrons/eduardus/con": {
+            "en": "Edward the Confessor",
+            "la": "Eduardus Confessor",
+            "pl": "Edward Wyznawca"
+        },
         "records/patrons/eduardus/kaz": {
             "pl": "Edward Kaźmierski",
             "en": "Edward Kazmierski",
@@ -687,6 +692,11 @@
             "pl": "Edward Klinik",
             "en": "Edward Klinik",
             "la": "Eduardus Klinik"
+        },
+        "records/patrons/eduardus/rex": {
+            "en": "Edward the Martyr",
+            "la": "Eduardus Martyr",
+            "pl": "Edward Męczennik"
         },
         "records/patrons/eleutherius/dio": {
             "fr": "Éleuthère de Paris, avec lui, a.o., Denis",

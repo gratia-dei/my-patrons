@@ -52,6 +52,21 @@
             }
         }
     },
+    "01-05": {
+        "records/patrons/eduardus/con": {
+            "name": {
+                "en": "Edward the Confessor",
+                "la": "Eduardus Confessor",
+                "pl": "Edward Wyznawca"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 I",
+                "mr-1584": "5 I: #6",
+                "mr-1956": "5 I: #3",
+                "mr-2004": "5 I: #5"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {
@@ -440,6 +455,19 @@
         }
     },
     "03-18": {
+        "records/patrons/eduardus/rex": {
+            "name": {
+                "en": "Edward the Martyr",
+                "la": "Eduardus Martyr",
+                "pl": "Edward Męczennik"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 III",
+                "mr-1584": "18 III: #5",
+                "mr-1956": "18 III: #6",
+                "mr-2004": "18 III: #6"
+            }
+        },
         "records/patrons/multi/nid": {
             "name": {
                 "la": "Decem milia martyrum pro fide Nicomediae",
