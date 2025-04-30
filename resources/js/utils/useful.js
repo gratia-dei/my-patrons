@@ -11,6 +11,12 @@ define(["const"], function(uConst) {
     .set("USEFUL/MISSING_INDEX_OF_VALUE", -1)
   ;
 
+  function getStringWithStrippedTags(string) {
+    return string
+      .replace(/<([^<>]+)>/g, '\1')
+    ;
+  }
+
   function getStringWithTidySpaces(string) {
     return string
       .replace(/\s+/g, ' ')
@@ -35,6 +41,7 @@ define(["const"], function(uConst) {
   }
 
   return {
+    getStringWithStrippedTags,
     getStringWithTidySpaces,
     inArray,
     isVisible,

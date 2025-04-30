@@ -1,10 +1,10 @@
 <div id="note-cell-#note-cell-id#" rowspan="#rows-count#">
   <select id="note-cell-select" class="select-form-for-notes"></select>
   <input id="note-cell-input" class="input-form-for-notes" maxlength="1000" onkeyup="event.key == 'Enter' ? this.onblur() : this.onchange()" onpaste="this.onchange()" oninput="this.onchange()" />
-  <a id="note-cell-set-existing-note-button" class="note-action-button" role="button">
+  <a id="note-cell-set-existing-note-button" title="#note-action-button-set-existing-value-info#" class="note-action-button" role="button">
     <img class="svg-image" src="/files/resources/svg/caret-right-square-fill.svg" />
   </a>
-  <a id="note-cell-set-new-note-button" class="note-action-button" role="button">
+  <a id="note-cell-set-new-note-button" title="#note-action-button-add-new-value-info#" class="note-action-button" role="button">
     <img class="svg-image" src="/files/resources/svg/plus-square-fill.svg" />
   </a>
   <p id="note-cell-#note-cell-id#-hint" class="hint-content">

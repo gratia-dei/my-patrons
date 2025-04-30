@@ -163,6 +163,36 @@ requirejs(
     .set("CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID", 'challenges-show-for-no-rows')
     .set("CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID", 'challenges-show-for-any-rows')
 
+    .set("CHALLENGE_ITEM_CHALLENGE_STATUS_INFO_LANG_PREFIX", 'lang-challenge-status-')
+    .set("CHALLENGE_ITEM_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-action-button-')
+    .set("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-note-action-button-')
+    .set("CHALLENGE_ITEM_INFO_LANG_SUFFIX", '-info')
+    .set("CHALLENGE_ITEM_CHALLENGE_STATUS_TYPES", [
+      'todo',
+      'aborted',
+      'waiting',
+      'waiting-with-only-long-term-steps-remaining',
+      'done',
+      'done-without-any-optional-steps'
+    ])
+    .set("CHALLENGE_ITEM_ACTION_BUTTON_TYPES", [
+      'checklist',
+      'notes',
+      'remove',
+      'info',
+      'up',
+      'down'
+    ])
+    .set("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_TYPES", [
+      'add-new-note',
+      'add-new-value',
+      'set-existing-value',
+      'edit',
+      'remove',
+      'up',
+      'down'
+    ])
+
     .set("CHECKLIST_ITEM_TARGET_ATTRIBUTE_NAME", 'data-bs-target')
     .set("CHECKLIST_ITEM_BACK_TO_CHECKLIST_LIST_MODAL_TARGET", '#checklist-list-modal-toggle')
     .set("CHECKLIST_ITEM_BACK_TO_ADD_NEW_CHALLENGE_MODAL_TARGET", '#add-new-challenge-modal-toggle')
@@ -1294,6 +1324,25 @@ requirejs(
       ;
 
       allRowsData.push(rowData);
+    }
+
+    for (const type of uConst.get("CHALLENGE_ITEM_CHALLENGE_STATUS_TYPES")) {
+      innerHtmlToSet = innerHtmlToSet
+        .replace(new RegExp('#challenge-status-' + type + '-info#', 'g'), uUseful.getStringWithStrippedTags(
+          uLanguage.getTranslation(
+            uConst.get("CHALLENGE_ITEM_CHALLENGE_STATUS_INFO_LANG_PREFIX") + type + uConst.get("CHALLENGE_ITEM_INFO_LANG_SUFFIX")
+          )
+        ))
+      ;
+    }
+    for (const type of uConst.get("CHALLENGE_ITEM_ACTION_BUTTON_TYPES")) {
+      innerHtmlToSet = innerHtmlToSet
+        .replace(new RegExp('#action-button-' + type + '-info#', 'g'), uUseful.getStringWithStrippedTags(
+          uLanguage.getTranslation(
+            uConst.get("CHALLENGE_ITEM_ACTION_BUTTON_INFO_LANG_PREFIX") + type + uConst.get("CHALLENGE_ITEM_INFO_LANG_SUFFIX")
+          )
+        ))
+      ;
     }
 
     list.innerHTML = innerHtmlToSet;
@@ -3432,11 +3481,26 @@ requirejs(
     return Math. max(1, totalRows);
   }
 
+  function getNoteWithActionButtonsInfo(content) {
+    for (const type of uConst.get("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_TYPES")) {
+      content = content
+        .replace(new RegExp('#note-action-button-' + type + '-info#', 'g'), uUseful.getStringWithStrippedTags(
+          uLanguage.getTranslation(
+            uConst.get("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_INFO_LANG_PREFIX") + type + uConst.get("CHALLENGE_ITEM_INFO_LANG_SUFFIX")
+          )
+        ))
+      ;
+    }
+
+    return content;
+  }
+
   async function showCreateNoteCellContent(cellElement, rowId, challengeType, itemType, itemPath, newNoteNumber) {
-    const template = await uFile.getFileContent(uConst.get("CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH"));
+    let template = await uFile.getFileContent(uConst.get("CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH"));
     const itemPathString = itemPath.join('-');
     const cellElementId = itemType + '-' + itemPathString + '-' + newNoteNumber + '-' + uConst.get("EMPTY_NOTE_ID");
 
+    template = getNoteWithActionButtonsInfo(template);
     cellElement.innerHTML = template
       .replace(/#note-cell-id#/g, cellElementId)
       .replace(/#row-id#/g, rowId)
@@ -3500,8 +3564,9 @@ requirejs(
         templatePath = uConst.get("FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH");
       }
     }
-    const template = await uFile.getFileContent(templatePath);
+    let template = await uFile.getFileContent(templatePath);
 
+    template = getNoteWithActionButtonsInfo(template);
     cellElement.innerHTML = template
       .replace(/#note-cell-id#/g, cellElementId)
       .replace(/#rows-count#/g, rowsCount)

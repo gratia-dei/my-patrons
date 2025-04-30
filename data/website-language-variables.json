@@ -1498,6 +1498,34 @@
         "pl": "nie znaleziono"
     },
 
+    "lang-note-action-button-add-new-note-info": {
+        "pl": "dodaj nową notatkę"
+    },
+
+    "lang-note-action-button-add-new-value-info": {
+        "pl": "użyj nową wartość notatki"
+    },
+
+    "lang-note-action-button-down-info": {
+        "pl": "przesuń notatkę w dół"
+    },
+
+    "lang-note-action-button-edit-info": {
+        "pl": "edytuj notatkę"
+    },
+
+    "lang-note-action-button-remove-info": {
+        "pl": "usuń notatkę"
+    },
+
+    "lang-note-action-button-set-existing-value-info": {
+        "pl": "użyj wpisaną wcześniej wartość notatki"
+    },
+
+    "lang-note-action-button-up-info": {
+        "pl": "przesuń notatkę w górę"
+    },
+
     "lang-notes": {
         "en": "notes",
         "pl": "notatki"
