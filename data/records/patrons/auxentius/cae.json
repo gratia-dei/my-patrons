@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Auxentius Caesariensis; cum eo, i.a., Theotimus"
+        ],
+        "en": [
+            "Auxentius of Caesarea; with him, i.a., Theotimus"
+        ],
+        "pl": [
+            "Auksenty z Cezarei; z nim, m.in., Teotym"
+        ]
+    },
+    "forenames": ["auxentius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~307"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "senex"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:nov./5#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73941",
+        "wiki": null
+    }
+}

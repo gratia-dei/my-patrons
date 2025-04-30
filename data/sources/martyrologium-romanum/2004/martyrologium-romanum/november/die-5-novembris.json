@@ -1,13 +1,11 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
-        "la": "?..."
+        "page": 607,
+        "la": "Caesareae in Palestina, sancti [1|Domnini], ..."
     },
 
     "2": {
-        "mark": "*",
-        "la": "..."
+        "la": "Ibidem, commemoratio sanctorum [1|Theotimi], [2|Philotei] et [3|Timothei], martyrum, ..., atque sancti [4|Auxentii], senis, ..."
     },
 
     "3": {
@@ -16,7 +14,6 @@
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -41,7 +38,7 @@
     },
 
     "9": {
-        "mark": "*",
+        "page": 608,
         "la": "..."
     },
 
@@ -66,36 +63,6 @@
     },
 
     "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

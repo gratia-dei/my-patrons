@@ -1360,6 +1360,25 @@
         ],
         "feasts": []
     },
+    "patrons/auxentius": {
+        "names": {
+            "la": "Auxentius",
+            "en": "Auxentius",
+            "pl": "Auksenty"
+        }
+    },
+    "patrons/auxentius/cae": {
+        "active": true,
+        "names": {
+            "la": "Auxentius Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Auxentius of Caesarea; with him, i.a., Theotimus",
+            "pl": "Auksenty z Cezarei; z nim, m.in., Teotym"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
+    },
     "patrons/balbina": {
         "names": {
             "la": "Balbina",
@@ -2762,14 +2781,15 @@
         }
     },
     "patrons/domninus/cae": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Domninus Caesariensis",
             "en": "Domninus of Caesarea",
             "pl": "Domnin z Cezarei"
         },
         "died": [
-            "~307"
+            "~307",
+            "~310"
         ],
         "feasts": []
     },
@@ -7140,6 +7160,18 @@
         ],
         "feasts": []
     },
+    "patrons/multi/cae": {
+        "active": true,
+        "names": {
+            "la": "Socia Theotimi Caesariensis",
+            "en": "Theotimus' of Caesarea Companions",
+            "pl": "Towarzysze Teotyma z Cezarei"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
+    },
     "patrons/multi/fid": {
         "active": true,
         "names": {
@@ -7955,6 +7987,25 @@
         ],
         "feasts": []
     },
+    "patrons/philoteus": {
+        "names": {
+            "la": "Philoteus",
+            "en": "Philotheus",
+            "pl": "Filoteusz"
+        }
+    },
+    "patrons/philoteus/cae": {
+        "active": true,
+        "names": {
+            "la": "Philoteus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
+    },
     "patrons/pirminus": {
         "names": {
             "la": "Pirminus",
@@ -8725,6 +8776,25 @@
         ],
         "feasts": []
     },
+    "patrons/silvanus": {
+        "names": {
+            "la": "Silvanus",
+            "en": "Silvanus",
+            "pl": "Sylwan"
+        }
+    },
+    "patrons/silvanus/cae": {
+        "active": true,
+        "names": {
+            "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Silvanus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Sylwan z Cezarei; z nim, m.in., Teotym"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
+    },
     "patrons/silvester": {
         "names": {
             "la": "Silvester",
@@ -9194,6 +9264,25 @@
         ],
         "feasts": []
     },
+    "patrons/theotimus": {
+        "names": {
+            "la": "Theotimus",
+            "en": "Theotimus",
+            "pl": "Teotym"
+        }
+    },
+    "patrons/theotimus/cae": {
+        "active": true,
+        "names": {
+            "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
+            "en": "Theotimus of Caesarea; with him, i.a., Philotheus",
+            "pl": "Teotym z Cezarei; z nim, m.in., Filoteusz"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
+    },
     "patrons/thomas": {
         "names": {
             "la": "Thomas",
@@ -9289,6 +9378,18 @@
             "pl": "Tymoteusz",
             "el": "Τιμόθεος"
         }
+    },
+    "patrons/timotheus/cae": {
+        "active": true,
+        "names": {
+            "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Timothy of Caesarea; with him, i.a., Theotimus",
+            "pl": "Tymoteusz z Cezarei; z nim, m.in., Teotym"
+        },
+        "died": [
+            "~307"
+        ],
+        "feasts": []
     },
     "patrons/timotheus/eph": {
         "active": true,

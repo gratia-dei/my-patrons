@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Philotheus"
+    },
+    "translations": {
+        "la": [
+            "Philoteus"
+        ],
+        "en": [
+            "Philotheus"
+        ],
+        "pl": [
+            "Filoteusz"
+        ]
+    },
+    "links": {
+        "records/patrons/philoteus/cae": {
+            "la": "Philoteus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
+        }
+    }
+}

@@ -156,6 +156,11 @@
             "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
             "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
+        "records/patrons/auxentius/cae": {
+            "la": "Auxentius Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Auxentius of Caesarea; with him, i.a., Theotimus",
+            "pl": "Auksenty z Cezarei; z nim, m.in., Teotym"
+        },
         "records/patrons/barbara/nic": {
             "la": "Barbara Nicomedensis",
             "en": "Barbara of Nicomedia",
@@ -910,6 +915,11 @@
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
         },
+        "records/patrons/multi/cae": {
+            "la": "Socia Theotimi Caesariensis",
+            "en": "Theotimus' of Caesarea Companions",
+            "pl": "Towarzysze Teotyma z Cezarei"
+        },
         "records/patrons/multi/nid": {
             "la": "Decem milia martyrum pro fide Nicomediae",
             "en": "Ten thousand Martyrs for the faith from Nicomedia",
@@ -1026,6 +1036,11 @@
             "en": "Philomena of Rome",
             "pl": "Filomena z Rzymu"
         },
+        "records/patrons/philoteus/cae": {
+            "la": "Philoteus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
+        },
         "records/patrons/pius/bar": {
             "pl": "Pius Bartosik",
             "la": "Pius Bartosik",
@@ -1095,6 +1110,11 @@
             "la": "Serapion Algirensis",
             "en": "Serapion of Algiers",
             "pl": "Serapion z Algieru"
+        },
+        "records/patrons/silvanus/cae": {
+            "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Silvanus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Sylwan z Cezarei; z nim, m.in., Teotym"
         },
         "records/patrons/simon/apo": {
             "la": "Simon Apostolus",
@@ -1166,6 +1186,11 @@
             "la": "Theodorus Romzsa",
             "pl": "Teodor Romża"
         },
+        "records/patrons/theotimus/cae": {
+            "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
+            "en": "Theotimus of Caesarea; with him, i.a., Philotheus",
+            "pl": "Teotym z Cezarei; z nim, m.in., Filoteusz"
+        },
         "records/patrons/thomas/apo": {
             "la": "Thomas Apostolus",
             "en": "Thomas the Apostle",
@@ -1190,6 +1215,11 @@
             "la": "Tiburtius /+ Valerianus et Maximus",
             "en": "Tiburtius /+ Valerian and Maximus",
             "pl": "Tyburcjusz /+ Walerian i Maksym"
+        },
+        "records/patrons/timotheus/cae": {
+            "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Timothy of Caesarea; with him, i.a., Theotimus",
+            "pl": "Tymoteusz z Cezarei; z nim, m.in., Teotym"
         },
         "records/patrons/timotheus/eph": {
             "el": "Τιμόθεος",

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Theotimus",
+        "en": "Theotimus"
+    },
+    "translations": {
+        "la": [
+            "Theotimus"
+        ],
+        "en": [
+            "Theotimus"
+        ],
+        "pl": [
+            "Teotym"
+        ]
+    },
+    "links": {
+        "records/patrons/theotimus/cae": {
+            "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
+            "en": "Theotimus of Caesarea; with him, i.a., Philotheus",
+            "pl": "Teotym z Cezarei; z nim, m.in., Filoteusz"
+        }
+    }
+}

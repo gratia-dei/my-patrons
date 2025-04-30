@@ -2151,6 +2151,86 @@
             }
         }
     },
+    "11-05": {
+        "records/patrons/domninus/cae": {
+            "name": {
+                "la": "Domninus Caesariensis",
+                "en": "Domninus of Caesarea",
+                "pl": "Domnin z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "5 XI: #4",
+                "mr-1956": "5 XI: #5",
+                "mr-2004": "5 XI: #1"
+            }
+        },
+        "records/patrons/theotimus/cae": {
+            "name": {
+                "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
+                "en": "Theotimus of Caesarea; with him, i.a., Philotheus",
+                "pl": "Teotym z Cezarei; z nim, m.in., Filoteusz"
+            },
+            "sources": {
+                "mr-1584": "5 XI: #4",
+                "mr-1956": "5 XI: #5",
+                "mr-2004": "5 XI: #2"
+            }
+        },
+        "records/patrons/philoteus/cae": {
+            "name": {
+                "la": "Philoteus Caesariensis; cum eo, i.a., Theotimus",
+                "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
+                "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
+            },
+            "sources": {
+                "mr-1584": "5 XI: #4",
+                "mr-1956": "5 XI: #5",
+                "mr-2004": "5 XI: #2"
+            }
+        },
+        "records/patrons/silvanus/cae": {
+            "name": {
+                "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
+                "en": "Silvanus of Caesarea; with him, i.a., Theotimus",
+                "pl": "Sylwan z Cezarei; z nim, m.in., Teotym"
+            },
+            "sources": {
+                "mr-1584": "5 XI: #4",
+                "mr-1956": "5 XI: #5"
+            }
+        },
+        "records/patrons/multi/cae": {
+            "name": {
+                "la": "Socia Theotimi Caesariensis",
+                "en": "Theotimus' of Caesarea Companions",
+                "pl": "Towarzysze Teotyma z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "5 XI: #4",
+                "mr-1956": "5 XI: #5"
+            }
+        },
+        "records/patrons/timotheus/cae": {
+            "name": {
+                "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
+                "en": "Timothy of Caesarea; with him, i.a., Theotimus",
+                "pl": "Tymoteusz z Cezarei; z nim, m.in., Teotym"
+            },
+            "sources": {
+                "mr-2004": "5 XI: #2"
+            }
+        },
+        "records/patrons/auxentius/cae": {
+            "name": {
+                "la": "Auxentius Caesariensis; cum eo, i.a., Theotimus",
+                "en": "Auxentius of Caesarea; with him, i.a., Theotimus",
+                "pl": "Auksenty z Cezarei; z nim, m.in., Teotym"
+            },
+            "sources": {
+                "mr-2004": "5 XI: #2"
+            }
+        }
+    },
     "11-08": {
         "records/patrons/martinus/tur": {
             "name": {

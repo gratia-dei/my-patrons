@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Sylwan"
+    },
+    "translations": {
+        "la": [
+            "Silvanus"
+        ],
+        "en": [
+            "Silvanus"
+        ],
+        "pl": [
+            "Sylwan"
+        ]
+    },
+    "links": {
+        "records/patrons/silvanus/cae": {
+            "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Silvanus of Caesarea; with him, i.a., Theotimus",
+            "pl": "Sylwan z Cezarei; z nim, m.in., Teotym"
+        }
+    }
+}

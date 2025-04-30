@@ -189,6 +189,9 @@
     "40e3d39abee106afe63bd5361c9d00ac": {
         "en": "patriarch"
     },
+    "411f665ec30226a3c5881d78cbfc915d": {
+        "la": "senex"
+    },
     "427023ff7e5f28a11e61fce0b4917b57": {
         "en": "cardinal"
     },
@@ -351,6 +354,9 @@
     },
     "8fd0e4ca06f126659aabb0ea085e2463": {
         "pl": "koadiutor tymczasowy"
+    },
+    "9067c7281cfb345c048619c7681364a4": {
+        "en": "old person"
     },
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
@@ -532,6 +538,9 @@
     },
     "cce126c8a1002b5b18a19aac87463f40": {
         "pl": "mniszka"
+    },
+    "cde69b76f7b62d3db68b720621795095": {
+        "pl": "starzec"
     },
     "cdec765e51fc3ed533486e3641bd1305": {
         "la": "episcopus"

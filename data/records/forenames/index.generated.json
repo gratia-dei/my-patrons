@@ -215,6 +215,11 @@
         "en": "Aurelius",
         "pl": "Aureliusz"
     },
+    "auxentius": {
+        "la": "Auxentius",
+        "en": "Auxentius",
+        "pl": "Auksenty"
+    },
     "balbina": {
         "la": "Balbina",
         "en": "Balbina",
@@ -1436,6 +1441,11 @@
         "pl": "Filomena",
         "it": "Filomena"
     },
+    "philoteus": {
+        "la": "Philoteus",
+        "en": "Philotheus",
+        "pl": "Filoteusz"
+    },
     "pirminus": {
         "la": "Pirminus",
         "en": "Pirmin",
@@ -1639,6 +1649,11 @@
         "en": "Sigismund",
         "pl": "Zygmunt"
     },
+    "silvanus": {
+        "la": "Silvanus",
+        "en": "Silvanus",
+        "pl": "Sylwan"
+    },
     "silvester": {
         "la": "Silvester",
         "en": "Sylvester",
@@ -1757,6 +1772,11 @@
         "en": "Theophilus",
         "pl": "Teofil",
         "el": "Θεόφιλος"
+    },
+    "theotimus": {
+        "la": "Theotimus",
+        "en": "Theotimus",
+        "pl": "Teotym"
     },
     "thomas": {
         "la": "Thomas",

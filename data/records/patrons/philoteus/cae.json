@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Philoteus Caesariensis; cum eo, i.a., Theotimus"
+        ],
+        "en": [
+            "Philotheus of Caesarea; with him, i.a., Theotimus"
+        ],
+        "pl": [
+            "Filoteusz z Cezarei; z nim, m.in., Teotym"
+        ]
+    },
+    "forenames": ["philoteus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~307"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["3:Nov./5#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Novembris/5#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:nov./5#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73939",
+        "wiki": null
+    }
+}

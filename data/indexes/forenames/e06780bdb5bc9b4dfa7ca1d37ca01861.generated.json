@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/timotheus/cae": {
+            "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
+            "en": "Timothy of Caesarea; with him, i.a., Theotimus",
+            "pl": "Tymoteusz z Cezarei; z nim, m.in., Teotym"
+        },
         "records/patrons/timotheus/eph": {
             "el": "Τιμόθεος",
             "la": "Timotheus Ephesinus",

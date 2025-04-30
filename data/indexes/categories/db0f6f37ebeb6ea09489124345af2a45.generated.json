@@ -24,6 +24,11 @@
             "en": "Guardian Angels",
             "pl": "Aniołowie Stróżowie"
         },
+        "records/patrons/multi/cae": {
+            "la": "Socia Theotimi Caesariensis",
+            "en": "Theotimus' of Caesarea Companions",
+            "pl": "Towarzysze Teotyma z Cezarei"
+        },
         "records/patrons/multi/fid": {
             "la": "Omnes Fideles Defuncti",
             "en": "All the Faithful Departed",
