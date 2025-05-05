@@ -71,6 +71,11 @@
             "en": "Irmina of Oeren",
             "pl": "Irmina z Oeren"
         },
+        "records/patrons/macarius/mag": {
+            "la": "Macarius Magnus",
+            "en": "Maracius the Great",
+            "pl": "Makary Wielki"
+        },
         "records/patrons/magnus/abb": {
             "de": "Magnus von Füssen",
             "la": "Magnus",

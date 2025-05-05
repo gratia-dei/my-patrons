@@ -41,6 +41,11 @@
             "la": "Leo I Magnus",
             "en": "Leo I the Great",
             "pl": "Leon I Wielki"
+        },
+        "records/patrons/macarius/mag": {
+            "la": "Macarius Magnus",
+            "en": "Maracius the Great",
+            "pl": "Makary Wielki"
         }
     }
 }

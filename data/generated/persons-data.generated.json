@@ -5874,6 +5874,18 @@
         ],
         "feasts": []
     },
+    "patrons/macarius/mag": {
+        "active": true,
+        "names": {
+            "la": "Macarius Magnus",
+            "en": "Maracius the Great",
+            "pl": "Makary Wielki"
+        },
+        "died": [
+            "~390"
+        ],
+        "feasts": []
+    },
     "patrons/magdalena": {
         "names": {
             "la": "Magdalena",

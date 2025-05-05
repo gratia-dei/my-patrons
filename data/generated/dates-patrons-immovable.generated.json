@@ -112,6 +112,31 @@
             }
         }
     },
+    "01-15": {
+        "records/patrons/macarius/mag": {
+            "name": {
+                "la": "Macarius Magnus",
+                "en": "Maracius the Great",
+                "pl": "Makary Wielki"
+            },
+            "sources": {
+                "mr-1584": "15 I: #7",
+                "mr-1956": "15 I: #8"
+            }
+        }
+    },
+    "01-19": {
+        "records/patrons/macarius/mag": {
+            "name": {
+                "la": "Macarius Magnus",
+                "en": "Maracius the Great",
+                "pl": "Makary Wielki"
+            },
+            "sources": {
+                "mr-2004": "19 I: #4"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {

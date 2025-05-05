@@ -22,6 +22,11 @@
             "en": "Macarius of Jerusalem",
             "la": "Macarius Hierosolymitanus",
             "pl": "Makary z Jerozolimy"
+        },
+        "records/patrons/macarius/mag": {
+            "la": "Macarius Magnus",
+            "en": "Maracius the Great",
+            "pl": "Makary Wielki"
         }
     }
 }
