@@ -2761,11 +2761,11 @@
         }
     },
     "patrons/dominicus/sav": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Domenico Savio",
-            "en": "Dominic Savio",
             "la": "Dominicus Savio",
+            "en": "Dominic Savio",
             "pl": "Dominik Savio"
         },
         "died": [

@@ -383,6 +383,21 @@
             }
         }
     },
+    "03-09": {
+        "records/patrons/dominicus/sav": {
+            "name": {
+                "it": "Domenico Savio",
+                "la": "Dominicus Savio",
+                "en": "Dominic Savio",
+                "pl": "Dominik Savio"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 III",
+                "feast": "9 III",
+                "mr-2004": "9 III: #7"
+            }
+        }
+    },
     "03-16": {
         "records/patrons/ioannes/bre": {
             "name": {
@@ -761,6 +776,19 @@
             "sources": {
                 "mr-1584": "4 V: #1",
                 "mr-1956": "4 V: #1"
+            }
+        }
+    },
+    "05-06": {
+        "records/patrons/dominicus/sav": {
+            "name": {
+                "it": "Domenico Savio",
+                "la": "Dominicus Savio",
+                "en": "Dominic Savio",
+                "pl": "Dominik Savio"
+            },
+            "sources": {
+                "feast": "6 V"
             }
         }
     },

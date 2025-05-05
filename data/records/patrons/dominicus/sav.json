@@ -1,39 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Domenico Savio"
+    "names": {
+        "it": [
+            "Domenico Savio"
+        ],
+        "la": [
+            "Dominicus Savio"
+        ],
+        "en": [
+            "Dominic Savio"
+        ],
+        "pl": [
+            "Dominik Savio"
+        ]
+    },
+    "forenames": ["dominicus"],
+    "surnames": [
+        {
+            "it": "Savio"
+        }
     ],
-    "en": [
-      "Dominic Savio"
-    ],
-    "la": [
-      "Dominicus Savio"
-    ],
-    "pl": [
-      "Dominik Savio"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Savio"
+    "active": true,
+
+    "born": ["1842-04-02"],
+    "died": ["1857-03-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1950-03-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1954-06-12"
+    },
+    "anniversary": ["03-09", "05-06"],
+
+    "categories": ["vir"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./9#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/domenico-savio.html",
+        "gcatholic": "https://gcatholic.org/p/68098",
+        "wiki": "https://pl.wikipedia.org/wiki/Dominik_Savio"
     }
-  ],
-
-  "born": ["1842-04-02"],
-  "died": ["1857-03-09"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1950-03-05"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1954-06-12"
-  },
-
-  "also-in-martyrology": ["03-09"],
-
-  "forenames": ["dominicus"],
-  "categories": ["vir"]
 }
