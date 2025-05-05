@@ -106,6 +106,12 @@
             "en": "Anthony of Padua",
             "pl": "Antoni Padewski"
         },
+        "records/patrons/antonius/puc": {
+            "it": "Antonio Maria Pucci",
+            "la": "Antonius Maria Pucci",
+            "en": "Anthony Mary Pucci",
+            "pl": "Antoni Maria Pucci"
+        },
         "records/patrons/antonius/rew": {
             "pl": "Antoni Rewera",
             "en": "Anthony Rewera",

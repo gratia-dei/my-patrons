@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Pucci"
+    },
+    "translations": {
+        "it": [
+            "Pucci"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/puc": {
+            "it": "Antonio Maria Pucci",
+            "la": "Antonius Maria Pucci",
+            "en": "Anthony Mary Pucci",
+            "pl": "Antoni Maria Pucci"
+        }
+    }
+}

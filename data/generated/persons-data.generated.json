@@ -1191,6 +1191,19 @@
         ],
         "feasts": []
     },
+    "patrons/antonius/puc": {
+        "active": true,
+        "names": {
+            "it": "Antonio Maria Pucci",
+            "la": "Antonius Maria Pucci",
+            "en": "Anthony Mary Pucci",
+            "pl": "Antoni Maria Pucci"
+        },
+        "died": [
+            "1892-01-12"
+        ],
+        "feasts": []
+    },
     "patrons/antonius/rew": {
         "active": false,
         "names": {

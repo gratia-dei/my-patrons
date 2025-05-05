@@ -1,0 +1,60 @@
+{
+    "names": {
+        "it": [
+            "Antonio Maria Pucci",
+            "Eustachio Pucci"
+        ],
+        "la": [
+            "Antonius Maria Pucci",
+            "Eustachius Pucci"
+        ],
+        "en": [
+            "Anthony Mary Pucci",
+            "Eustace Pucci"
+        ],
+        "pl": [
+            "Antoni Maria Pucci",
+            "Eustachy Pucci"
+        ]
+    },
+    "forenames": ["antonius", "maria"],
+    "surnames": [
+        {
+            "it": "Pucci"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1819-04-16"],
+    "died": ["1892-01-12"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1952-06-12"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1962-12-09"
+    },
+    "anniversary": ["01-12"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./12#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/antonio-maria-pucci.html",
+        "gcatholic": "https://gcatholic.org/p/68086",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_Maria_Pucci"
+    }
+}

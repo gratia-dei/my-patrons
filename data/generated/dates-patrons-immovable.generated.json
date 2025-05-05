@@ -97,6 +97,21 @@
             }
         }
     },
+    "01-12": {
+        "records/patrons/antonius/puc": {
+            "name": {
+                "it": "Antonio Maria Pucci",
+                "la": "Antonius Maria Pucci",
+                "en": "Anthony Mary Pucci",
+                "pl": "Antoni Maria Pucci"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 I",
+                "feast": "12 I",
+                "mr-2004": "12 I: #12"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {
