@@ -1448,6 +1448,11 @@
             "en": "Luke the Evangelist",
             "pl": "Łukasz Ewangelista"
         },
+        "records/patrons/lucianus/ant": {
+            "la": "Lucianus de Antiochia",
+            "en": "Lucian of Antioch",
+            "pl": "Lucjan z Antiochii"
+        },
         "records/patrons/lucianus/leo": {
             "it": "Luciano di Lentini",
             "la": "Lucianus de Leontini",

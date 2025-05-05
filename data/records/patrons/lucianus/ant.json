@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Lucianus de Antiochia"
+        ],
+        "en": [
+            "Lucian of Antioch"
+        ],
+        "pl": [
+            "Lucjan z Antiochii"
+        ]
+    },
+    "forenames": ["lucianus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["312-01-07"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./7#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/7#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./7#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71572",
+        "wiki": "https://pl.wikipedia.org/wiki/Lucjan_z_Antiochii"
+    }
+}

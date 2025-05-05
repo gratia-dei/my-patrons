@@ -82,6 +82,21 @@
             }
         }
     },
+    "01-07": {
+        "records/patrons/lucianus/ant": {
+            "name": {
+                "la": "Lucianus de Antiochia",
+                "en": "Lucian of Antioch",
+                "pl": "Lucjan z Antiochii"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 I",
+                "mr-1584": "7 I: #2",
+                "mr-1956": "7 I: #2",
+                "mr-2004": "7 I: #3"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {

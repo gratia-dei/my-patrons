@@ -763,6 +763,11 @@
             "en": "Lucia of Syracuse",
             "pl": "Łucja z Syrakuz"
         },
+        "records/patrons/lucianus/ant": {
+            "la": "Lucianus de Antiochia",
+            "en": "Lucian of Antioch",
+            "pl": "Lucjan z Antiochii"
+        },
         "records/patrons/marcellinus/1pp": {
             "la": "Marcellinus Papa",
             "en": "Pope Marcellinus",

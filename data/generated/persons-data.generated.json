@@ -5735,6 +5735,18 @@
             "it": "Luciano"
         }
     },
+    "patrons/lucianus/ant": {
+        "active": true,
+        "names": {
+            "la": "Lucianus de Antiochia",
+            "en": "Lucian of Antioch",
+            "pl": "Lucjan z Antiochii"
+        },
+        "died": [
+            "312-01-07"
+        ],
+        "feasts": []
+    },
     "patrons/lucianus/leo": {
         "active": true,
         "names": {
