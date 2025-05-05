@@ -2106,6 +2106,19 @@
         ],
         "feasts": []
     },
+    "patrons/carolus/set": {
+        "active": true,
+        "names": {
+            "it": "Carlo da Sezze",
+            "la": "Carolus de Setia",
+            "en": "Charles of Sezze",
+            "pl": "Karol z Sezze"
+        },
+        "died": [
+            "1670-01-06"
+        ],
+        "feasts": []
+    },
     "patrons/casimirus": {
         "names": {
             "la": "Casimirus",

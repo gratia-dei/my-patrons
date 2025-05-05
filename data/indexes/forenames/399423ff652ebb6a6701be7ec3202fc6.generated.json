@@ -54,6 +54,12 @@
             "la": "Carolus Lwanga",
             "pl": "Karol Lwanga"
         },
+        "records/patrons/carolus/set": {
+            "it": "Carlo da Sezze",
+            "la": "Carolus de Setia",
+            "en": "Charles of Sezze",
+            "pl": "Karol z Sezze"
+        },
         "records/patrons/ioannes/cal": {
             "it": "Giovanni Giuseppe della Croce",
             "en": "John Joseph of the Cross",

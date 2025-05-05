@@ -67,6 +67,21 @@
             }
         }
     },
+    "01-06": {
+        "records/patrons/carolus/set": {
+            "name": {
+                "it": "Carlo da Sezze",
+                "la": "Carolus de Setia",
+                "en": "Charles of Sezze",
+                "pl": "Karol z Sezze"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "feast": "6 I",
+                "mr-2004": "6 I: #9"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {
