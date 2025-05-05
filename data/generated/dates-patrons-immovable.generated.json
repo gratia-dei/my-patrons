@@ -118,6 +118,22 @@
             }
         }
     },
+    "01-31": {
+        "records/patrons/ioannes/bos": {
+            "name": {
+                "it": "Giovanni Bosco",
+                "la": "Ioannes Bosco",
+                "en": "John Bosco",
+                "pl": "Jan Bosko"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 I",
+                "feast": "31 I",
+                "mr-1956": "31 I: #1",
+                "mr-2004": "31 I: #1"
+            }
+        }
+    },
     "02-06": {
         "records/patrons/titus/cre": {
             "name": {

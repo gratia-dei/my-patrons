@@ -1,50 +1,65 @@
 {
-  "names": {
-    "it": [
-      "Giovanni Bosco",
-      "Giovanni Melchiorre Bosco",
-      "Don Bosco"
+    "names": {
+        "it": [
+            "Giovanni Bosco",
+            "Giovanni Melchiorre Bosco",
+            "Don Bosco"
+        ],
+        "la": [
+            "Ioannes Bosco",
+            "Ioannes Melchior Bosco",
+            "Don Bosco"
+        ],
+        "en": [
+            "John Bosco",
+            "John Melchior Bosco",
+            "Don Bosco"
+        ],
+        "pl": [
+            "Jan Bosko",
+            "Jan Bosco",
+            "Jan Melchior Bosko"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "it": "Bosco",
+            "pl": "Bosko"
+        }
     ],
-    "en": [
-      "John Bosco",
-      "John Melchior Bosco",
-      "Don Bosco"
-    ],
-    "la": [
-      "Ioannes Bosco",
-      "Ioannes Melchior Bosco",
-      "Don Bosco"
-    ],
-    "pl": [
-      "Jan Bosko",
-      "Jan Melchior Bosko"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Bosco",
-      "pl": "Bosko"
+    "active": true,
+
+    "born": ["1815-08-16"],
+    "died": ["1888-01-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1929-06-02"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1934-04-01"
+    },
+    "anniversary": ["01-31"],
+
+    "categories": ["vir", "confessor", "sacerdos", "presbyter", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/31#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./31#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-bosco.html",
+        "gcatholic": "https://gcatholic.org/p/25336",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Bosko"
     }
-  ],
-
-  "born": ["1815-08-16"],
-  "died": ["1888-01-31"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1929-06-02"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1934-04-01"
-  },
-
-  "also-in-martyrology": ["01-31"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter", "fundator"],
-
-  "order": ["sdb"],
-  "order-founder": ["sdb", "fma"]
 }
