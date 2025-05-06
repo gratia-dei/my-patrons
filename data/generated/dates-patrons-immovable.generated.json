@@ -581,6 +581,20 @@
             }
         }
     },
+    "03-20": {
+        "records/patrons/ioachim/mar": {
+            "name": {
+                "he": "יהוֹיָקִים",
+                "la": "Ioachim, pater Mariae",
+                "en": "Joachim, father of Mary",
+                "pl": "Joachim, ojciec Maryi"
+            },
+            "sources": {
+                "mr-1584": "20 III: #1",
+                "mr-1956": "20 III: #1"
+            }
+        }
+    },
     "03-24": {
         "records/patrons/antonius/ulm": {
             "name": {
@@ -1075,6 +1089,32 @@
             }
         }
     },
+    "07-26": {
+        "records/patrons/anna/mar": {
+            "name": {
+                "he": "חַנָּה‎",
+                "la": "Anna, mater Mariae",
+                "en": "Anna, mother of Mary",
+                "pl": "Anna, matka Maryi"
+            },
+            "sources": {
+                "mr-1584": "26 VII: #1",
+                "mr-1956": "26 VII: #1",
+                "mr-2004": "26 VII: #1"
+            }
+        },
+        "records/patrons/ioachim/mar": {
+            "name": {
+                "he": "יהוֹיָקִים",
+                "la": "Ioachim, pater Mariae",
+                "en": "Joachim, father of Mary",
+                "pl": "Joachim, ojciec Maryi"
+            },
+            "sources": {
+                "mr-2004": "26 VII: #1"
+            }
+        }
+    },
     "07-27": {
         "records/patrons/georgius/cor": {
             "name": {
@@ -1457,6 +1497,19 @@
             "sources": {
                 "mr-1584": "12 VIII: #1",
                 "mr-1956": "12 VIII: #1"
+            }
+        }
+    },
+    "08-16": {
+        "records/patrons/ioachim/mar": {
+            "name": {
+                "he": "יהוֹיָקִים",
+                "la": "Ioachim, pater Mariae",
+                "en": "Joachim, father of Mary",
+                "pl": "Joachim, ojciec Maryi"
+            },
+            "sources": {
+                "mr-1956": "16 VIII: #1"
             }
         }
     },

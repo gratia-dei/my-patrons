@@ -961,15 +961,15 @@
         }
     },
     "patrons/anna/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "he": "חַנָּה‎",
-            "en": "Anna mother of Mary",
-            "la": "Anna mater Mariae",
-            "pl": "Anna matka Maryi"
+            "la": "Anna, mater Mariae",
+            "en": "Anna, mother of Mary",
+            "pl": "Anna, matka Maryi"
         },
         "died": [
-            ">4"
+            ">1"
         ],
         "feasts": []
     },
@@ -4463,15 +4463,14 @@
         }
     },
     "patrons/ioachim/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "he": "יהוֹיָקִים",
-            "en": "Joachim father of Mary",
-            "la": "Ioachim pater Mariae",
-            "pl": "Joachim ojciec Maryi"
+            "la": "Ioachim, pater Mariae",
+            "en": "Joachim, father of Mary",
+            "pl": "Joachim, ojciec Maryi"
         },
         "died": [
-            ">-100",
             "<-1"
         ],
         "feasts": []
