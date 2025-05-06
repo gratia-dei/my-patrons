@@ -1063,6 +1063,18 @@
         }
     },
     "06-30": {
+        "records/patrons/otho/bam": {
+            "name": {
+                "de": "Otto von Bamberg",
+                "la": "Otho Bambergensis",
+                "en": "Otto of Bamberg",
+                "pl": "Otton z Bambergu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VI",
+                "mr-2004": "30 VI: #8"
+            }
+        },
         "records/patrons/paulus/apo": {
             "name": {
                 "he": "שָׁאוּל התרס",
@@ -1088,6 +1100,20 @@
                 "mr-1584": "1 VII: #2",
                 "mr-1956": "1 VII: #3",
                 "mr-2004": "1 VII: #1"
+            }
+        }
+    },
+    "07-02": {
+        "records/patrons/otho/bam": {
+            "name": {
+                "de": "Otto von Bamberg",
+                "la": "Otho Bambergensis",
+                "en": "Otto of Bamberg",
+                "pl": "Otton z Bambergu"
+            },
+            "sources": {
+                "mr-1584": "2 VII: #6",
+                "mr-1956": "2 VII: #6"
             }
         }
     },

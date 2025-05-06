@@ -429,8 +429,8 @@
         },
         "records/patrons/otho/bam": {
             "de": "Otto von Bamberg",
-            "en": "Otto of Bamberg",
             "la": "Otho Bambergensis",
+            "en": "Otto of Bamberg",
             "pl": "Otton z Bambergu"
         },
         "records/patrons/paphnutius/epi": {
