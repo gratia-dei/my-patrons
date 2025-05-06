@@ -3424,11 +3424,11 @@
         "feasts": []
     },
     "patrons/franciscus/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "pt": "Francisco Marto",
-            "en": "Francisco Marto",
             "la": "Franciscus Marto",
+            "en": "Francisco Marto",
             "pl": "Franciszek Marto"
         },
         "died": [

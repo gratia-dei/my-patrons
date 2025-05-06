@@ -1,39 +1,56 @@
 {
-  "names": {
-    "pt": [
-      "Francisco Marto"
+    "names": {
+        "pt": [
+            "Francisco Marto"
+        ],
+        "la": [
+            "Franciscus Marto"
+        ],
+        "en": [
+            "Francisco Marto"
+        ],
+        "pl": [
+            "Franciszek Marto"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "pt": "Marto"
+        }
     ],
-    "en": [
-      "Francisco Marto"
-    ],
-    "la": [
-      "Franciscus Marto"
-    ],
-    "pl": [
-      "Franciszek Marto"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pt": "Marto"
+    "active": true,
+
+    "born": ["1908-06-11"],
+    "died": ["1919-04-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-05-13"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2017-05-13"
+    },
+    "anniversary": ["04-04"],
+
+    "categories": ["vir", "puer"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./4#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francisco-e-jacinta-marto.html",
+        "gcatholic": "https://gcatholic.org/p/67124",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_i_Hiacynta_Marto"
     }
-  ],
-
-  "born": ["1908-06-11"],
-  "died": ["1919-04-04"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-05-13"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2017-05-13"
-  },
-
-  "also-in-martyrology": ["04-04"],
-
-  "forenames": ["franciscus"],
-  "categories": ["vir", "puer"]
 }

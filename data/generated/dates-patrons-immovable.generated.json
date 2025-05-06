@@ -727,6 +727,21 @@
             }
         }
     },
+    "04-04": {
+        "records/patrons/franciscus/mar": {
+            "name": {
+                "pt": "Francisco Marto",
+                "la": "Franciscus Marto",
+                "en": "Francisco Marto",
+                "pl": "Franciszek Marto"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 IV",
+                "feast": "4 IV",
+                "mr-2004": "4 IV: #9"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/acacius/mel": {
             "name": {
