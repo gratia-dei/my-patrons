@@ -4274,17 +4274,24 @@
         "feasts": []
     },
     "patrons/iacobus/mai": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Iacobus Maior Apostolus",
             "en": "James the Great",
             "pl": "Jakub Większy Apostoł"
         },
         "died": [
-            "43",
-            "44"
+            "~44"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/vim": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sancti Iacobi Apostoli",
+                    "pl": "Wigilia świętego Jakuba Apostoła"
+                }
+            }
+        }
     },
     "patrons/iacobus/min": {
         "active": false,

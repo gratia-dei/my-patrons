@@ -636,6 +636,18 @@
             }
         }
     },
+    "07-24": {
+        "records/patrons/iacobus/mai#vim": {
+            "name": {
+                "la": "Iacobus Maior Apostolus (Vigilia sancti Iacobi Apostoli)",
+                "pl": "Jakub Większy Apostoł (Wigilia świętego Jakuba Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "24 VII: #1",
+                "mr-1956": "24 VII: #1"
+            }
+        }
+    },
     "08-01": {
         "records/patrons/petrus/apo#pav": {
             "name": {

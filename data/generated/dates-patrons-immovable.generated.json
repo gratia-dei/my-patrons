@@ -1159,6 +1159,18 @@
                 "mr-1956": "25 VII: #2",
                 "mr-2004": "25 VII: #2"
             }
+        },
+        "records/patrons/iacobus/mai": {
+            "name": {
+                "la": "Iacobus Maior Apostolus",
+                "en": "James the Great",
+                "pl": "Jakub Większy Apostoł"
+            },
+            "sources": {
+                "mr-1584": "25 VII: #1",
+                "mr-1956": "25 VII: #1",
+                "mr-2004": "25 VII: #1"
+            }
         }
     },
     "07-26": {
