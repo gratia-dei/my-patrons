@@ -9089,11 +9089,11 @@
         "feasts": []
     },
     "patrons/stephanus/wys": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Stefan Wyszyński",
-            "en": "Stephen Wyszyński",
-            "la": "Stephanus Wyszyński"
+            "la": "Stephanus Wyszyński",
+            "en": "Stephen Wyszyński"
         },
         "died": [
             "1981-05-28"

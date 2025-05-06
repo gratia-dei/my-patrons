@@ -904,6 +904,19 @@
             }
         }
     },
+    "05-28": {
+        "records/patrons/stephanus/wys": {
+            "name": {
+                "pl": "Stefan Wyszyński",
+                "la": "Stephanus Wyszyński",
+                "en": "Stephen Wyszyński"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 V",
+                "feast": "28 V"
+            }
+        }
+    },
     "05-30": {
         "records/patrons/ioanna/arc": {
             "name": {
