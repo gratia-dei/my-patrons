@@ -1,41 +1,58 @@
 {
-  "names": {
-    "ar": [
-      "شربل مخلوف",
-      "يوسف أنطون مخلوف"
+    "names": {
+        "ar": [
+            "شربل مخلوف",
+            "يوسف أنطون مخلوف"
+        ],
+        "la": [
+            "Sarbelius Makhluf"
+        ],
+        "en": [
+            "Charbel Makhlouf"
+        ],
+        "pl": [
+            "Szarbel Makhluf",
+            "Szarbel Machluf"
+        ]
+    },
+    "forenames": ["sarbelius", "iosephus"],
+    "surnames": [
+        {
+            "la": "Makhluf"
+        }
     ],
-    "en": [
-      "Charbel Makhlouf"
-    ],
-    "la": [
-      "Sarbelius Makhlouf"
-    ],
-    "pl": [
-      "Szarbel Makhlouf"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "la": "Makhlouf"
+    "active": true,
+
+    "born": ["1828-05-08"],
+    "died": ["1898-12-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1965-12-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1977-10-09"
+    },
+    "anniversary": ["07-24"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./24#1", "1:dec./24#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/charbel-makhluf.html",
+        "gcatholic": "https://gcatholic.org/p/68053",
+        "wiki": "https://pl.wikipedia.org/wiki/Szarbel_Makhlouf"
     }
-  ],
-
-  "born": ["1828-05-08"],
-  "died": ["1898-12-24"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1965-12-05"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1977-10-09"
-  },
-
-  "also-in-martyrology": ["07-24", "12-24"],
-
-  "forenames": ["sarbelius", "iosephus"],
-  "categories": ["vir", "presbyter"],
-  "order": ["olm"]
 }

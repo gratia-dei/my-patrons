@@ -1088,6 +1088,20 @@
             }
         }
     },
+    "07-24": {
+        "records/patrons/sarbelius/mak": {
+            "name": {
+                "ar": "شربل مخلوف",
+                "la": "Sarbelius Makhluf",
+                "en": "Charbel Makhlouf",
+                "pl": "Szarbel Makhluf"
+            },
+            "sources": {
+                "feast": "24 VII",
+                "mr-2004": "24 VII: #1"
+            }
+        }
+    },
     "07-25": {
         "records/patrons/christophorus/lyc": {
             "name": {
@@ -2759,6 +2773,18 @@
                 "reliable-death-anniversary": "24 XII",
                 "mr-1956": "24 XII: #2",
                 "mr-2004": "24 XII: #5"
+            }
+        },
+        "records/patrons/sarbelius/mak": {
+            "name": {
+                "ar": "شربل مخلوف",
+                "la": "Sarbelius Makhluf",
+                "en": "Charbel Makhlouf",
+                "pl": "Szarbel Makhluf"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 XII",
+                "mr-2004": "24 XII: #8"
             }
         }
     },
