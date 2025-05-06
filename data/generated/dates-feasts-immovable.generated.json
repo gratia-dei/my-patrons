@@ -925,6 +925,28 @@
             }
         }
     },
+    "10-27": {
+        "records/patrons/simon/apo#vsi": {
+            "name": {
+                "la": "Simon Apostolus (Vigilia sanctorum Apostolorum Simonis et Iudae)",
+                "pl": "Szymon Apostoł (Wigilia świętych Apostołów Szymona i Judy)"
+            },
+            "sources": {
+                "mr-1584": "27 X: #1",
+                "mr-1956": "27 X: #1"
+            }
+        },
+        "records/patrons/iudas/tha#vsi": {
+            "name": {
+                "la": "Iudas Thaddaeus (Vigilia sanctorum Apostolorum Simonis et Iudae)",
+                "pl": "Juda Tadeusz Apostoł (Wigilia świętych Apostołów Szymona i Judy)"
+            },
+            "sources": {
+                "mr-1584": "27 X: #1",
+                "mr-1956": "27 X: #1"
+            }
+        }
+    },
     "10-31": {
         "records/patrons/multi/san#vos": {
             "name": {

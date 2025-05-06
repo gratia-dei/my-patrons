@@ -458,5 +458,9 @@
     "vos": {
         "la": "Vigilia Omnium Sanctorum",
         "pl": "Wigilia Wszystkich Świętych"
+    },
+    "vsi": {
+        "la": "Vigilia sanctorum Apostolorum Simonis et Iudae",
+        "pl": "Wigilia świętych Apostołów Szymona i Judy"
     }
 }

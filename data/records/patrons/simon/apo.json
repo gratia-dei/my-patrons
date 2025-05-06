@@ -1,33 +1,71 @@
 {
-  "names": {
-    "la": [
-      "Simon Apostolus"
-    ],
-    "en": [
-      "Simon Apostle"
-    ],
-    "pl": [
-      "Szymon Apostoł"
-    ]
-  },
-
-  "epithets": [
-    {
-      "la": ["Cananaeus", "Chananaeus"],
-      "en": "Canaanite",
-      "pl": "Kananejczyk"
+    "names": {
+        "la": [
+            "Simon Apostolus"
+        ],
+        "en": [
+            "Simon Apostle"
+        ],
+        "pl": [
+            "Szymon Apostoł"
+        ]
     },
-    {
-      "la": "Zelotes",
-      "en": "Zealot",
-      "pl": "Zelotes"
+    "forenames": ["simon"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": ["Cananaeus", "Chananaeus"],
+            "en": "Canaanite",
+            "pl": "Kananejczyk"
+        },
+        {
+            "la": "Zelotes",
+            "en": "Zealot",
+            "pl": "Zelotes"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": [">65", "<80"],
+    "died": null,
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./28#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/28#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./28#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vsi": {
+            "data-links": {
+                "mr-1584": ["1:Oct./27#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Octobris/27#1"],
+                "mr-1956-variations": ["1:Octobris/27#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69200",
+        "wiki": "https://pl.wikipedia.org/wiki/Szymon_Aposto%C5%82"
     }
-  ],
-
-  "died": ["~80"],
-
-  "also-in-martyrology": ["10-28"],
-
-  "forenames": ["simon"],
-  "categories": ["vir", "apostolus", "martyr"]
 }

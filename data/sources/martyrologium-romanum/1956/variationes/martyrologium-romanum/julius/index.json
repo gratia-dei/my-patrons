@@ -2,7 +2,13 @@
     "1": {
         "la": "1. Kalendis Julii"
     },
+    "6": {
+        "la": "6. Pridie Nonas Julii"
+    },
     "16": {
         "la": "16. Decimo septimo Kalendas Augusti"
+    },
+    "24": {
+        "la": "24. Nono Kalendas Augusti"
     }
 }

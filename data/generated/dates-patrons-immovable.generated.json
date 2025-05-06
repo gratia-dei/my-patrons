@@ -2345,6 +2345,32 @@
             }
         }
     },
+    "10-28": {
+        "records/patrons/simon/apo": {
+            "name": {
+                "la": "Simon Apostolus",
+                "en": "Simon Apostle",
+                "pl": "Szymon Apostoł"
+            },
+            "sources": {
+                "mr-1584": "28 X: #1",
+                "mr-1956": "28 X: #1",
+                "mr-2004": "28 X: #1"
+            }
+        },
+        "records/patrons/iudas/tha": {
+            "name": {
+                "la": "Iudas Thaddaeus",
+                "en": "Judas Thaddaeus",
+                "pl": "Juda Tadeusz Apostoł"
+            },
+            "sources": {
+                "mr-1584": "28 X: #1",
+                "mr-1956": "28 X: #1",
+                "mr-2004": "28 X: #1"
+            }
+        }
+    },
     "11-01": {
         "records/patrons/multi/san": {
             "name": {

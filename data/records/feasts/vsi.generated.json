@@ -1,0 +1,14 @@
+{
+    "links": {
+        "records/patrons/iudas/tha": {
+            "la": "Iudas Thaddaeus",
+            "en": "Judas Thaddaeus",
+            "pl": "Juda Tadeusz Apostoł"
+        },
+        "records/patrons/simon/apo": {
+            "la": "Simon Apostolus",
+            "en": "Simon Apostle",
+            "pl": "Szymon Apostoł"
+        }
+    }
+}

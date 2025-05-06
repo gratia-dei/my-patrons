@@ -5394,16 +5394,25 @@
         }
     },
     "patrons/iudas/tha": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Iudas Thaddaeus",
             "en": "Judas Thaddaeus",
             "pl": "Juda Tadeusz Apostoł"
         },
         "died": [
-            "~80"
+            ">65",
+            "<80"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/vsi": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sanctorum Apostolorum Simonis et Iudae",
+                    "pl": "Wigilia świętych Apostołów Szymona i Judy"
+                }
+            }
+        }
     },
     "patrons/iulia": {
         "names": {
@@ -8916,16 +8925,22 @@
         }
     },
     "patrons/simon/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Simon Apostolus",
             "en": "Simon Apostle",
             "pl": "Szymon Apostoł"
         },
-        "died": [
-            "~80"
-        ],
-        "feasts": []
+        "died": [],
+        "feasts": {
+            "feasts/vsi": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sanctorum Apostolorum Simonis et Iudae",
+                    "pl": "Wigilia świętych Apostołów Szymona i Judy"
+                }
+            }
+        }
     },
     "patrons/simon/lip": {
         "active": false,
