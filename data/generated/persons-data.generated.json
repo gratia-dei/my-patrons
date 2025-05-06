@@ -6976,11 +6976,11 @@
         }
     },
     "patrons/maximilianus/kol": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maksymilian Maria Kolbe",
-            "en": "Maximilian Maria Kolbe",
-            "la": "Maximilianus Maria Kolbe"
+            "la": "Maximilianus Maria Kolbe",
+            "en": "Maximilian Maria Kolbe"
         },
         "died": [
             "1941-08-14"

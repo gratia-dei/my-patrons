@@ -1557,6 +1557,20 @@
             }
         }
     },
+    "08-14": {
+        "records/patrons/maximilianus/kol": {
+            "name": {
+                "pl": "Maksymilian Maria Kolbe",
+                "la": "Maximilianus Maria Kolbe",
+                "en": "Maximilian Maria Kolbe"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 VIII",
+                "feast": "14 VIII",
+                "mr-2004": "14 VIII: #1"
+            }
+        }
+    },
     "08-16": {
         "records/patrons/ioachim/mar": {
             "name": {

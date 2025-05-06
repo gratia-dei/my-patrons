@@ -1,40 +1,55 @@
 {
-  "names": {
-    "pl": [
-      "Maksymilian Maria Kolbe",
-      "Rajmund Kolbe"
+    "names": {
+        "pl": [
+            "Maksymilian Maria Kolbe",
+            "Rajmund Kolbe"
+        ],
+        "la": [
+            "Maximilianus Maria Kolbe"
+        ],
+        "en": [
+            "Maximilian Maria Kolbe",
+            "Raymund Kolbe"
+        ]
+    },
+    "forenames": ["maximilianus", "maria", "raymundus"],
+    "surnames": [
+        {
+            "pl": "Kolbe"
+        }
     ],
-    "en": [
-      "Maximilian Maria Kolbe",
-      "Raymund Kolbe"
-    ],
-    "la": [
-      "Maximilianus Maria Kolbe"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Kolbe"
+    "active": true,
+
+    "born": ["1894-01-08"],
+    "died": ["1941-08-14"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1971-10-17"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1982-10-10"
+    },
+    "anniversary": ["08-14"],
+
+    "categories": ["vir", "martyr", "presbyter", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./14#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/massimiliano-maria-kolbe.html",
+        "gcatholic": "https://gcatholic.org/p/67214",
+        "wiki": "https://pl.wikipedia.org/wiki/Maksymilian_Maria_Kolbe"
     }
-  ],
-
-  "born": ["1894-01-08"],
-  "died": ["1941-08-14"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1971-10-17"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1982-10-10"
-  },
-
-  "also-in-martyrology": ["08-14"],
-
-  "forenames": ["maximilianus", "maria", "raymundus"],
-  "categories": ["vir", "martyr", "presbyter", "fundator"],
-
-  "order": ["ofmconv"]
 }
