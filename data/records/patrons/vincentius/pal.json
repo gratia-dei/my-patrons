@@ -1,42 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Vincenzo Pallotti"
+    "names": {
+        "it": [
+            "Vincenzo Pallotti"
+        ],
+        "la": [
+            "Vincentius Pallotti"
+        ],
+        "en": [
+            "Vincent Pallotti"
+        ],
+        "pl": [
+            "Wincenty Pallotti"
+        ]
+    },
+    "forenames": ["vincentius"],
+    "surnames": [
+        {
+            "it": "Pallotti"
+        }
     ],
-    "en": [
-      "Vincent Pallotti"
-    ],
-    "la": [
-      "Vincentius Pallotti"
-    ],
-    "pl": [
-      "Wincenty Pallotti"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Pallotti"
+    "active": true,
+
+    "born": ["1795-04-21"],
+    "died": ["1850-01-22"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1950-01-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1963-01-20"
+    },
+    "anniversary": ["01-22"],
+
+    "categories": ["vir", "presbyter", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./22#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/vincenzo-pallotti.html",
+        "gcatholic": "https://gcatholic.org/p/25813",
+        "wiki": "https://pl.wikipedia.org/wiki/Wincenty_Pallotti"
     }
-  ],
-
-  "born": ["1795-04-21"],
-  "died": ["1850-01-22"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1950-01-22"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1963-01-20"
-  },
-
-  "also-in-martyrology": ["01-22"],
-
-  "forenames": ["vincentius"],
-  "categories": ["vir", "presbyter", "fundator"],
-
-  "order": ["sac"],
-  "order-founder": ["sac"]
 }

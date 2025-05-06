@@ -9723,11 +9723,11 @@
         "feasts": []
     },
     "patrons/vincentius/pal": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Vincenzo Pallotti",
-            "en": "Vincent Pallotti",
             "la": "Vincentius Pallotti",
+            "en": "Vincent Pallotti",
             "pl": "Wincenty Pallotti"
         },
         "died": [

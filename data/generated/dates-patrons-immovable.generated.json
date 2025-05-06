@@ -137,6 +137,21 @@
             }
         }
     },
+    "01-22": {
+        "records/patrons/vincentius/pal": {
+            "name": {
+                "it": "Vincenzo Pallotti",
+                "la": "Vincentius Pallotti",
+                "en": "Vincent Pallotti",
+                "pl": "Wincenty Pallotti"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 I",
+                "feast": "22 I",
+                "mr-2004": "22 I: #11"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {
