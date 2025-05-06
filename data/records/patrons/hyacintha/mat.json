@@ -1,39 +1,56 @@
 {
-  "names": {
-    "pt": [
-      "Jacinta Marto"
+    "names": {
+        "pt": [
+            "Jacinta Marto"
+        ],
+        "la": [
+            "Hyacintha Marto"
+        ],
+        "en": [
+            "Jacinta Marto"
+        ],
+        "pl": [
+            "Hiacynta Marto"
+        ]
+    },
+    "forenames": ["hyacintha"],
+    "surnames": [
+        {
+            "pt": "Marto"
+        }
     ],
-    "en": [
-      "Jacinta Marto"
-    ],
-    "la": [
-      "Hyacintha Marto"
-    ],
-    "pl": [
-      "Hiacynta Marto"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pt": "Marto"
+    "active": true,
+
+    "born": ["1910-03-05"],
+    "died": ["1920-02-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-05-13"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2017-05-13"
+    },
+    "anniversary": ["02-20"],
+
+    "categories": ["femina", "puer"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./20#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francisco-e-jacinta-marto.html",
+        "gcatholic": "https://gcatholic.org/p/67125",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_i_Hiacynta_Marto"
     }
-  ],
-
-  "born": ["1910-03-05"],
-  "died": ["1920-02-20"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-05-13"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2017-05-13"
-  },
-
-  "also-in-martyrology": ["02-20"],
-
-  "forenames": ["hyacintha"],
-  "categories": ["femina", "puer"]
 }

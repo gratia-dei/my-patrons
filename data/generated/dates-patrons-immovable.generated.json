@@ -397,6 +397,21 @@
             }
         }
     },
+    "02-20": {
+        "records/patrons/hyacintha/mat": {
+            "name": {
+                "pt": "Jacinta Marto",
+                "la": "Hyacintha Marto",
+                "en": "Jacinta Marto",
+                "pl": "Hiacynta Marto"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 II",
+                "feast": "20 II",
+                "mr-2004": "20 II: #7"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/matthias/apo": {
             "name": {
