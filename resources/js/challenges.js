@@ -163,6 +163,9 @@ requirejs(
     .set("CHALLENGES_SHOW_FOR_NO_ROWS_CLASS_ID", 'challenges-show-for-no-rows')
     .set("CHALLENGES_SHOW_FOR_ANY_ROWS_CLASS_ID", 'challenges-show-for-any-rows')
 
+    .set("IMPORT_MARKDOWN_DESCRIPTION_TRIES", 10)
+    .set("IMPORT_MARKDOWN_DESCRIPTION_TRIES_SLEEP_MILISECONDS", 3000)
+
     .set("CHALLENGE_ITEM_CHALLENGE_STATUS_INFO_LANG_PREFIX", 'lang-challenge-status-')
     .set("CHALLENGE_ITEM_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-action-button-')
     .set("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-note-action-button-')
@@ -3012,13 +3015,13 @@ requirejs(
     await setChecklistStatus(newValue);
   }
 
-  async function importMarkdownDescription(element, filePath, params = [], values = {}) {
-    element.innerHTML = '';
+  async function importMarkdownDescription(element, filePath, params = [], values = {}, tryToLoadAgainTimes = uConst.get("IMPORT_MARKDOWN_DESCRIPTION_TRIES")) {
+    element.innerHTML = uLanguage.getTranslation('lang-loading-in-progress-info');
 
     const fullFilePath = uConst.get("MARKDOWN_FILES_ROOT_PATH") + filePath + uConst.get("MARKDOWN_FILE_EXTENSION");
     try {
       const template = await uFile.getFileContent(uConst.get("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH"));
-      let content = await uFile.getFileContent(fullFilePath);
+      let content = await uFile.getFileContent(fullFilePath, tryToLoadAgainTimes < uConst.get("IMPORT_MARKDOWN_DESCRIPTION_TRIES"));
       content = libMarked.parse(content);
 
       for (let paramName of params) {
@@ -3029,6 +3032,10 @@ requirejs(
 
       element.innerHTML = template.replace(/#content#/g, content);
     } catch (e) {
+      if (tryToLoadAgainTimes > 0) {
+        await uUseful.sleep(uConst.get("IMPORT_MARKDOWN_DESCRIPTION_TRIES_SLEEP_MILISECONDS"));
+        importMarkdownDescription(element, filePath, params, values, tryToLoadAgainTimes - 1);
+      }
     }
   }
 

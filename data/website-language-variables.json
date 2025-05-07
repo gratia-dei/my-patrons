@@ -1280,6 +1280,11 @@
         "pl": "Otwarcie nowego pliku może spowodować utratę niezapisanych informacji. Czy masz pewność, że chcesz to zrobić?"
     },
 
+    "lang-loading-in-progress-info": {
+        "en": "loading ...",
+        "pl": "ładuję ..."
+    },
+
     "lang-location": {
         "en": "location",
         "pl": "lokalizacja"
