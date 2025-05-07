@@ -266,14 +266,14 @@
                             <h5 class="u-modal-name">#lang-checklist|capitalize#</h5>
                         </div>
                         <div class="col-4 d-flex justify-content-end">
-                            <div data-bs-dismiss="modal" aria-label="Close"><img class="modal-close-icon" src="/files/resources/svg/close-white.svg"></div>
+                            <div data-bs-dismiss="modal" aria-label="Close" onClick="reloadChallengesTabAfterEdit()"><img class="modal-close-icon" src="/files/resources/svg/close-white.svg"></div>
                         </div>
                     </div>
                 </div>
                 <div class="row modal-container">
                     <div class="col-12 justify-content-left list-group" id="checklist-list-modal-body"></div>
                     <div class="col-10 offset-1 d-flex justify-content-center">
-                        <button type="button" id="checklist-list-button" class="modal-btc" data-bs-target="#checklist-list-modal-toggle" data-bs-dismiss="modal">#lang-close|capitalize#</button>
+                        <button type="button" id="checklist-list-button" class="modal-btc" data-bs-target="#checklist-list-modal-toggle" data-bs-dismiss="modal" onClick="reloadChallengesTabAfterEdit()">#lang-close|capitalize#</button>
                     </div>
                 </div>
             </div>
@@ -323,7 +323,7 @@
                             <h5 class="u-modal-name">#lang-notes|capitalize#</h5>
                         </div>
                         <div class="col-4 d-flex justify-content-end">
-                            <div data-bs-dismiss="modal" aria-label="Close"><img class="modal-close-icon" src="/files/resources/svg/close-white.svg"></div>
+                            <div data-bs-dismiss="modal" aria-label="Close" onClick="reloadChallengesTabAfterEdit()"><img class="modal-close-icon" src="/files/resources/svg/close-white.svg"></div>
                         </div>
                     </div>
                 </div>
@@ -331,7 +331,7 @@
                 <div class="row modal-container list-group" id="notes-list"></div>
                 <div class="row modal-container">
                     <div class="col-10 offset-1 d-flex justify-content-center">
-                        <button type="button" id="notes-button" class="modal-btc" data-bs-target="#notes-modal-toggle" data-bs-dismiss="modal" onClick="reloadChallengesTab()">#lang-close|capitalize#</button>
+                        <button type="button" id="notes-button" class="modal-btc" data-bs-target="#notes-modal-toggle" data-bs-dismiss="modal" onClick="reloadChallengesTabAfterEdit()">#lang-close|capitalize#</button>
                     </div>
                 </div>
             </div>

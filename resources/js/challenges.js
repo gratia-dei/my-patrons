@@ -18,7 +18,7 @@ requirejs(
     .set("MOVE_DOWN_NOTE", moveDownNote)
     .set("MOVE_UP_NOTE", moveUpNote)
     .set("NOTES_RESET", notesReset)
-    .set("RELOAD_CHALLENGES_TAB", reloadChallengesTab)
+    .set("RELOAD_CHALLENGES_TAB_AFTER_EDIT", reloadChallengesTabAfterEdit)
     .set("RELOAD_FILE_TAB", reloadFileTab)
     .set("RELOAD_JSON_EDITOR_TAB", reloadJsonEditorTab)
     .set("REMOVE_CHALLENGE", removeChallenge)
@@ -329,6 +329,7 @@ requirejs(
   let unchangedFileContent = fileContent;
   let isDataValid = true;
 
+  let lastEditedChallengeRowId = 0;
   let lastEditedNoteItem = [];
   let lastFormModeNoteCellElementIdSuffix = {};
   let newChallengeChecklistValues = {};
@@ -640,6 +641,11 @@ requirejs(
     } catch (e) {
       errorNotification(e.message);
     }
+  }
+
+  async function reloadChallengesTabAfterEdit() {
+    await reloadChallengesTab();
+    gotoChallenge(lastEditedChallengeRowId);
   }
 
   async function setFileContentFromJsonEditor() {
@@ -2847,6 +2853,7 @@ requirejs(
 
   async function checklistListReset(rowId) {
     clearNotifications();
+    lastEditedChallengeRowId = rowId;
 
     let modalBody = uDocument.getElementById(uConst.get("CHECKLIST_LIST_MODAL_BODY_ELEMENT_ID"));
     modalBody.innerHTML = '';
@@ -3252,6 +3259,7 @@ requirejs(
 
   async function notesReset(rowId) {
     clearNotifications();
+    lastEditedChallengeRowId = rowId;
 
     lastEditedNoteItem = [];
     lastFormModeNoteCellElementIdSuffix = {};
@@ -4398,9 +4406,9 @@ function notesReset(rowId) {
   });
 }
 
-function reloadChallengesTab() {
+function reloadChallengesTabAfterEdit() {
   requirejs(["const"], function(uConst) {
-    uConst.get("RELOAD_CHALLENGES_TAB")();
+    uConst.get("RELOAD_CHALLENGES_TAB_AFTER_EDIT")();
   });
 }
 
