@@ -546,6 +546,7 @@ requirejs(
 
       unchangedFileContent = fileContent;
 
+      gotoChallenge(uCommon.getFileDataChallenges(fileData).length);
       successNotification(uLanguage.getTranslation('lang-file-loaded-successfully', true));
     } catch (e) {
       errorNotification(e.message);
