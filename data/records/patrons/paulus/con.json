@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Paulus Constantinopolitanus"
-    ],
-    "en": [
-      "Paul of Constantinople"
-    ],
-    "pl": [
-      "Paweł z Bizancjum"
-    ]
-  },
+    "names": {
+        "la": [
+            "Paulus Constantinopolitanus"
+        ],
+        "en": [
+            "Paul of Constantinople"
+        ],
+        "pl": [
+            "Paweł z Bizancjum"
+        ]
+    },
+    "forenames": ["paulus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~351"],
+    "active": true,
 
-  "also-in-martyrology": ["06-07", "11-06"],
+    "born": null,
+    "died": ["~351"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["paulus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./7#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/7#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./6#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67053",
+        "wiki": "https://pl.wikipedia.org/wiki/Pawe%C5%82_I_(biskup_Bizancjum)"
+    }
 }

@@ -992,6 +992,19 @@
             }
         }
     },
+    "06-07": {
+        "records/patrons/paulus/con": {
+            "name": {
+                "la": "Paulus Constantinopolitanus",
+                "en": "Paul of Constantinople",
+                "pl": "Paweł z Bizancjum"
+            },
+            "sources": {
+                "mr-1584": "7 VI: #1",
+                "mr-1956": "7 VI: #1"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {
@@ -2545,6 +2558,18 @@
             },
             "sources": {
                 "mr-2004": "5 XI: #2"
+            }
+        }
+    },
+    "11-06": {
+        "records/patrons/paulus/con": {
+            "name": {
+                "la": "Paulus Constantinopolitanus",
+                "en": "Paul of Constantinople",
+                "pl": "Paweł z Bizancjum"
+            },
+            "sources": {
+                "mr-2004": "6 XI: #2"
             }
         }
     },

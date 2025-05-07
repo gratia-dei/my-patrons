@@ -7720,7 +7720,7 @@
         }
     },
     "patrons/paulus/con": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Paulus Constantinopolitanus",
             "en": "Paul of Constantinople",
