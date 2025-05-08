@@ -12,6 +12,8 @@ requirejs(
     .set("CONTEXT_PREFIX", " - ")
     .set("MISSING_VALUE", "!!!")
     .set("NEWLINE_TAG", "<br />")
+    .set("STRONG_TAG_OPENING", "<strong>")
+    .set("STRONG_TAG_CLOSING", "</strong>")
 
     .set("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-button-item.html')
     .set("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-content-item.html')
@@ -110,7 +112,7 @@ requirejs(
 
       const nameColumnWidth = "400px";
       const iconColumnWidth = "60px";
-      const idColumnWidth = "60px";
+      const lowestIdColumnWidth = "120px";
 
       let result = [];
       const row = {
@@ -128,14 +130,12 @@ requirejs(
         },
         id: {
           style: {
-            width: idColumnWidth
+            width: lowestIdColumnWidth
           },
-          content: uLanguage.getTranslation("lang-achievements-table-header-id", true)
+          content: uLanguage.getTranslation("lang-achievements-table-header-lowest-id", true)
         },
-        count: uLanguage.getTranslation("lang-achievements-table-header-count", true),
-        percent: uLanguage.getTranslation("lang-achievements-table-header-percent", true),
-        lastYearCount: uLanguage.getTranslation("lang-achievements-table-header-count", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
-        lastYearPercent: uLanguage.getTranslation("lang-achievements-table-header-percent", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true)
+        count: uLanguage.getTranslation("lang-achievements-table-header-count", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
+        percent: uLanguage.getTranslation("lang-achievements-table-header-percent", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true)
       }
       result.push(row);
 
@@ -167,7 +167,7 @@ requirejs(
           },
           id: {
             style: {
-              "width": idColumnWidth,
+              "width": lowestIdColumnWidth,
               "text-align": "center"
             },
             content: '#' + minId
@@ -176,25 +176,25 @@ requirejs(
             style: {
               "text-align": "center"
             },
-            content: count
+            content: makeTextStrong(count) + uConst.get("NEWLINE_TAG") + '(' + lastYearCount + ')'
           },
           percent: {
             style: {
               "text-align": "center"
             },
-            content: percent
-          },
-          lastYearCount: {
-            style: {
-              "text-align": "center"
-            },
-            content: lastYearCount
-          },
-          lastYearPercent: {
-            style: {
-              "text-align": "center"
-            },
-            content: lastYearPercent
+            content: makeTextStrong(percent) + uConst.get("NEWLINE_TAG") + '(' + lastYearPercent + ')'
+          //},
+          //lastYearCount: {
+            //style: {
+              //"text-align": "center"
+            //},
+            //content: lastYearCount
+          //},
+          //lastYearPercent: {
+            //style: {
+              //"text-align": "center"
+            //},
+            //content: lastYearPercent
           }
         }
         result.push(row);
@@ -310,7 +310,11 @@ requirejs(
       return 0.01;
     }
 
-    return result;
+    return result.toFixed(2);
+  }
+
+  function makeTextStrong(text) {
+    return uConst.get("STRONG_TAG_OPENING") + text + uConst.get("STRONG_TAG_CLOSING");
   }
 
   function fillDataTableContent(tableElement, data) {

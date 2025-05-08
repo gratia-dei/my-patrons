@@ -39,14 +39,14 @@
         "pl": "symbol"
     },
 
-    "lang-achievements-table-header-id": {
-        "en": "ID",
-        "pl": "ID"
-    },
-
     "lang-achievements-table-header-last-year-suffix": {
         "en": "(last year)",
         "pl": "(ostatni rok)"
+    },
+
+    "lang-achievements-table-header-lowest-id": {
+        "en": "lowest ID",
+        "pl": "najniższe ID"
     },
 
     "lang-achievements-table-header-percent": {
