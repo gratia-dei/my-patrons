@@ -29,9 +29,19 @@
         "pl": "Wdzięczni Bogu za <strong>dar Jego łaski</strong>, pragniemy być użytecznymi „narzędziami” w Jego rękach. Chcemy poświęcić choć trochę czasu, sił i talentów, jakie Bóg nam ofiarował, aby szerzyć Jego Królestwo na ziemi - pokazywać piękno Jego Kościoła oraz niezawodną drogę Jego Miłości, która jest w stanie dać każdemu niewyobrażalne szczęście już teraz!"
     },
 
+    "lang-achievements-table-header-challenge-type": {
+        "en": "challenge type",
+        "pl": "typ wyzwania"
+    },
+
     "lang-achievements-table-header-count": {
         "en": "count",
         "pl": "liczba"
+    },
+
+    "lang-achievements-table-header-on-average-every-how-many-days": {
+        "en": "on average every how many days",
+        "pl": "średnio co ile dni"
     },
 
     "lang-achievements-table-header-icon": {
@@ -54,9 +64,34 @@
         "pl": "procent"
     },
 
+    "lang-achievements-table-header-row-number": {
+        "en": "no.",
+        "pl": "lp."
+    },
+
     "lang-achievements-table-header-status-name": {
         "en": "status name",
         "pl": "nazwa statusu"
+    },
+
+    "lang-achievements-table-header-the-first-time": {
+        "en": "the first time",
+        "pl": "pierwszy raz"
+    },
+
+    "lang-achievements-table-header-the-last-time": {
+        "en": "the last time",
+        "pl": "ostatni raz"
+    },
+
+    "lang-achievements-section-challenge-types": {
+        "en": "Challenge types",
+        "pl": "Typy wyzwań"
+    },
+
+    "lang-achievements-section-challenge-types-description": {
+        "en": "Challenges types statistics (<strong>CAUTION! The oldest unfinished challenge interrupts the counting*</strong>):",
+        "pl": "Statystyki typów wyzwań (<strong>UWAGA! Najstarsze niedokończone wyzwanie przerywa liczenie*</strong>):"
     },
 
     "lang-achievements-section-coming-soon": {

@@ -31,6 +31,12 @@ requirejs(
         method: "getTableDataForGeneral",
         options: {}
       },
+      "challenge-types": {
+        name: "lang-achievements-section-challenge-types",
+        description: "lang-achievements-section-challenge-types-description",
+        method: "getTableDataForChallengeTypes",
+        options: {}
+      },
       //"...": {
         //name: "lang-achievements-section-...",
         //description: "lang-achievements-section-...-description",
@@ -183,18 +189,148 @@ requirejs(
               "text-align": "center"
             },
             content: makeTextStrong(percent) + uConst.get("NEWLINE_TAG") + '(' + lastYearPercent + ')'
-          //},
-          //lastYearCount: {
-            //style: {
-              //"text-align": "center"
-            //},
-            //content: lastYearCount
-          //},
-          //lastYearPercent: {
-            //style: {
-              //"text-align": "center"
-            //},
-            //content: lastYearPercent
+          }
+        }
+        result.push(row);
+      }
+
+      return result;
+    },
+
+
+
+    getTableDataForChallengeTypes: async function (section, option) {
+
+      const challengesConfig = await uCommon.getChallengesConfig();
+
+      const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+      const lastYearDateStr = uDate.getLastYearDate(selectedDateStr);
+
+      const selectedDate = uDate.getDateParse(selectedDateStr);
+      const lastYearDate = uDate.getDateParse(lastYearDateStr);
+
+      let data = {};
+      let rowId = 0;
+      for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+        rowId++;
+
+        const challengeDateStr = uCommon.getChallengeDate(challenge);
+        const challengeDate = uDate.getDateParse(challengeDateStr);
+        if (challengeDate > selectedDate) {
+          break;
+        }
+
+        const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+        if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
+          break;
+        }
+        if (isChallengeStatusIgnoreAchievementCalculation(challengeStatus)) {
+          continue;
+        }
+
+        const challengeType = uCommon.getChallengeType(challenge);
+
+        data[challengeType] = data[challengeType] ?? {
+          count: 0,
+          lastYearCount: 0,
+          first: challengeDateStr,
+          last: ''
+        }
+        data[challengeType].count++;
+        data[challengeType].last = challengeDateStr;
+
+        if (challengeDate >= lastYearDate) {
+          data[challengeType].lastYearCount = ((data[challengeType] ?? {}).lastYearCount ?? 0) + 1;
+        }
+      }
+
+      let dataArr = [];
+      for (const challengeType in data) {
+        let element = data[challengeType];
+        element.challengeType = challengeType;
+
+        dataArr.push(element);
+      }
+
+      const sortedDataArr = dataArr.sort(function (a, b) {
+        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+      });
+
+      const rowNumberColumnWidth = "40px";
+      const nameColumnWidth = "400px";
+
+      let result = [];
+      const row = {
+        number: {
+          style: {
+            width: rowNumberColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-row-number", true)
+        },
+        name: {
+          style: {
+            width: nameColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-challenge-type", true)
+        },
+        count: uLanguage.getTranslation("lang-achievements-table-header-count", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
+        average: uLanguage.getTranslation("lang-achievements-table-header-on-average-every-how-many-days", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
+        first: uLanguage.getTranslation("lang-achievements-table-header-the-first-time", true),
+        last: uLanguage.getTranslation("lang-achievements-table-header-the-last-time", true)
+      }
+      result.push(row);
+
+      let rowNo = 0;
+      for (const rowData of sortedDataArr) {
+        rowNo++;
+
+        const challengeType = rowData.challengeType;
+        let name = uLanguage.getTranslation('name', false, (challengesConfig[challengeType] ?? {}).name ?? {})
+        name += ' [' + rowData.challengeType + ']';
+        const count = rowData.count;
+        const lastYearCount = rowData.lastYearCount;
+        const average = '...';
+        const lastYearAverage = '...';
+        const firstTime = rowData.first;
+        const lastTime = rowData.last;
+
+        const row = {
+          number: {
+            style: {
+              width: rowNumberColumnWidth,
+              "text-align": "right"
+            },
+            content: rowNo + '.'
+          },
+          name: {
+            style: {
+              width: nameColumnWidth
+            },
+            content: makeTextStrong(name)
+          },
+          count: {
+            style: {
+              "text-align": "center"
+            },
+            content: makeTextStrong(count) + uConst.get("NEWLINE_TAG") + '(' + lastYearCount + ')'
+          },
+          average: {
+            style: {
+              "text-align": "center"
+            },
+            content: makeTextStrong(average) + uConst.get("NEWLINE_TAG") + '(' + lastYearAverage + ')'
+          },
+          first: {
+            style: {
+              "text-align": "center"
+            },
+            content: makeTextStrong(firstTime)
+          },
+          last: {
+            style: {
+              "text-align": "center"
+            },
+            content: makeTextStrong(lastTime)
           }
         }
         result.push(row);
@@ -358,6 +494,18 @@ requirejs(
       }
       rowNumber++;
     }
+  }
+  
+  function isChallengeStatusBreakAchievementsCalculation(challengeStatus) {
+    return uUseful.inArray(challengeStatus, [
+      uCommon.getConst("CHALLENGE_STATUS_WAITING"),
+    ]);
+  }
+  
+  function isChallengeStatusIgnoreAchievementCalculation(challengeStatus) {
+    return uUseful.inArray(challengeStatus, [
+      uCommon.getConst("CHALLENGE_STATUS_ABORTED")
+    ]);
   }
 
   build();
