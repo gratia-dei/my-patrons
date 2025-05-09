@@ -15,6 +15,9 @@ requirejs(
     .set("STRONG_TAG_OPENING", "<strong>")
     .set("STRONG_TAG_CLOSING", "</strong>")
 
+    .set("TEXT_ALIGN_CENTER", "center")
+    .set("TEXT_ALIGN_RIGHT", "right")
+
     .set("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-button-item.html')
     .set("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-content-item.html')
 
@@ -167,26 +170,26 @@ requirejs(
           icon: {
             style: {
               "width": iconColumnWidth,
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: '<div class="challenge-success-status-icon challenge-success-status-icon-' + statusId + '"></div>'
           },
           id: {
             style: {
               "width": lowestIdColumnWidth,
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: '#' + minId
           },
           count: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(count) + uConst.get("NEWLINE_TAG") + '(' + lastYearCount + ')'
           },
           percent: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(percent) + uConst.get("NEWLINE_TAG") + '(' + lastYearPercent + ')'
           }
@@ -289,16 +292,16 @@ requirejs(
         name += ' [' + rowData.challengeType + ']';
         const count = rowData.count;
         const lastYearCount = rowData.lastYearCount;
-        const average = '...';
-        const lastYearAverage = '...';
         const firstTime = rowData.first;
         const lastTime = rowData.last;
+        const average = getCountPercentValue(uDate.getDatesDiffInDays(selectedDateStr, firstTime) + 1, count * 100);
+        const lastYearAverage = lastYearCount > 0 ? getCountPercentValue(uDate.getDatesDiffInDays(selectedDateStr, lastYearDateStr) + 1, lastYearCount * 100) : '-';
 
         const row = {
           number: {
             style: {
               width: rowNumberColumnWidth,
-              "text-align": "right"
+              "text-align": uConst.get("TEXT_ALIGN_RIGHT")
             },
             content: rowNo + '.'
           },
@@ -310,25 +313,25 @@ requirejs(
           },
           count: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(count) + uConst.get("NEWLINE_TAG") + '(' + lastYearCount + ')'
           },
           average: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(average) + uConst.get("NEWLINE_TAG") + '(' + lastYearAverage + ')'
           },
           first: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(firstTime)
           },
           last: {
             style: {
-              "text-align": "center"
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
             content: makeTextStrong(lastTime)
           }
@@ -367,6 +370,8 @@ requirejs(
   }
 
   async function refreshAllTabs() {
+    uNotification.clear();
+
     const dateInput = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID"));
     const tabsButtons = uDocument.getElementById(uConst.get("TABS_BUTTONS_ELEMENT_ID"));
     const tabsContents = uDocument.getElementById(uConst.get("TABS_CONTENTS_ELEMENT_ID"));
@@ -424,6 +429,25 @@ requirejs(
         }
       } else {
         tablesData[sectionId][sectionId] = await methods[method](sectionId, sectionId);
+      }
+    }
+
+    const challengesConfig = await uCommon.getChallengesConfig();
+
+    const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+    const selectedDate = uDate.getDateParse(selectedDateStr);
+
+    for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+      const challengeDateStr = uCommon.getChallengeDate(challenge);
+      const challengeDate = uDate.getDateParse(challengeDateStr);
+      if (challengeDate > selectedDate) {
+        break;
+      }
+
+      const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+      if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
+        uNotification.warning(uLanguage.getTranslation('lang-achievements-unfinished-challenges-ignore-warning', true));
+        break;
       }
     }
   }
@@ -495,13 +519,13 @@ requirejs(
       rowNumber++;
     }
   }
-  
+
   function isChallengeStatusBreakAchievementsCalculation(challengeStatus) {
     return uUseful.inArray(challengeStatus, [
       uCommon.getConst("CHALLENGE_STATUS_WAITING"),
     ]);
   }
-  
+
   function isChallengeStatusIgnoreAchievementCalculation(challengeStatus) {
     return uUseful.inArray(challengeStatus, [
       uCommon.getConst("CHALLENGE_STATUS_ABORTED")

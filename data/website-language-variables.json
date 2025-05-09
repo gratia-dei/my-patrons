@@ -29,6 +29,11 @@
         "pl": "Wdzięczni Bogu za <strong>dar Jego łaski</strong>, pragniemy być użytecznymi „narzędziami” w Jego rękach. Chcemy poświęcić choć trochę czasu, sił i talentów, jakie Bóg nam ofiarował, aby szerzyć Jego Królestwo na ziemi - pokazywać piękno Jego Kościoła oraz niezawodną drogę Jego Miłości, która jest w stanie dać każdemu niewyobrażalne szczęście już teraz!"
     },
 
+    "lang-achievements-unfinished-challenges-ignore-warning": {
+        "en": "the achivements were calculated only for oldest challenges, which has been already finished!",
+        "pl": "osiągnięcia zostały wyliczone tylko dla najstarszych wyzwań, które zostały już ukończone!"
+    },
+
     "lang-achievements-table-header-challenge-type": {
         "en": "challenge type",
         "pl": "typ wyzwania"
@@ -90,8 +95,8 @@
     },
 
     "lang-achievements-section-challenge-types-description": {
-        "en": "Challenges types statistics (<strong>CAUTION! The oldest unfinished challenge interrupts the counting*</strong>):",
-        "pl": "Statystyki typów wyzwań (<strong>UWAGA! Najstarsze niedokończone wyzwanie przerywa liczenie*</strong>):"
+        "en": "Challenges types statistics:",
+        "pl": "Statystyki typów wyzwań:"
     },
 
     "lang-achievements-section-coming-soon": {
