@@ -7499,6 +7499,23 @@
         ],
         "feasts": []
     },
+    "patrons/nympha": {
+        "names": {
+            "la": "Nympha",
+            "en": "Nympha",
+            "pl": "Nimfa"
+        }
+    },
+    "patrons/nympha/try": {
+        "active": true,
+        "names": {
+            "la": "Nympha; cum ea, i.a., Tryphon",
+            "en": "Nympha; with her, i.a., Tryphon",
+            "pl": "Nimfa; z nią, m.in. Tryfon"
+        },
+        "died": [],
+        "feasts": []
+    },
     "patrons/onesiphorus": {
         "names": {
             "la": "Onesiphorus",
@@ -8308,6 +8325,23 @@
         "died": [
             "1642-09-29"
         ],
+        "feasts": []
+    },
+    "patrons/respicius": {
+        "names": {
+            "la": "Respicius",
+            "en": "Respicius",
+            "pl": "Respicjusz"
+        }
+    },
+    "patrons/respicius/try": {
+        "active": true,
+        "names": {
+            "la": "Respicius; cum eo, i.a., Tryphon",
+            "en": "Respicius; with him, i.a., Tryphon",
+            "pl": "Respicjusz; z nim, m.in. Tryfon"
+        },
+        "died": [],
         "feasts": []
     },
     "patrons/richardus": {
@@ -9502,6 +9536,23 @@
         "died": [
             "~96"
         ],
+        "feasts": []
+    },
+    "patrons/tryphon": {
+        "names": {
+            "la": "Tryphon",
+            "en": "Tryphon",
+            "pl": "Tryfon"
+        }
+    },
+    "patrons/tryphon/phr": {
+        "active": true,
+        "names": {
+            "la": "Tryphon de Phrygia",
+            "en": "Tryphon of Phrygia",
+            "pl": "Tryfon z Frygii"
+        },
+        "died": [],
         "feasts": []
     },
     "patrons/urbanus": {

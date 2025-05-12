@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Respicius; cum eo, i.a., Tryphon"
+        ],
+        "en": [
+            "Respicius; with him, i.a., Tryphon"
+        ],
+        "pl": [
+            "Respicjusz; z nim, m.in. Tryfon"
+        ]
+    },
+    "forenames": ["respicius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": null,
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Nov./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Novembris/10#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72558",
+        "wiki": "https://en.wikipedia.org/wiki/Tryphon,_Respicius,_and_Nympha"
+    }
+}

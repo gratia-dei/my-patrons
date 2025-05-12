@@ -1,0 +1,49 @@
+{
+    "names": {
+        "la": [
+            "Tryphon de Phrygia"
+        ],
+        "en": [
+            "Tryphon of Phrygia"
+        ],
+        "pl": [
+            "Tryfon z Frygii"
+        ]
+    },
+    "forenames": ["tryphon"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": null,
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/10#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./1#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": [
+            "https://gcatholic.org/p/69558",
+            "https://gcatholic.org/p/73155"
+        ],
+        "wiki": [
+            "https://pl.wikipedia.org/wiki/Tryfon_(m%C4%99czennik)",
+            "https://en.wikipedia.org/wiki/Tryphon,_Respicius,_and_Nympha"
+        ]
+    }
+}

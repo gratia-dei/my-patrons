@@ -219,6 +219,18 @@
             }
         }
     },
+    "02-01": {
+        "records/patrons/tryphon/phr": {
+            "name": {
+                "la": "Tryphon de Phrygia",
+                "en": "Tryphon of Phrygia",
+                "pl": "Tryfon z Frygii"
+            },
+            "sources": {
+                "mr-2004": "1 II: #1"
+            }
+        }
+    },
     "02-06": {
         "records/patrons/titus/cre": {
             "name": {
@@ -2582,6 +2594,41 @@
             },
             "sources": {
                 "reliable-death-anniversary": "8 XI"
+            }
+        }
+    },
+    "11-10": {
+        "records/patrons/tryphon/phr": {
+            "name": {
+                "la": "Tryphon de Phrygia",
+                "en": "Tryphon of Phrygia",
+                "pl": "Tryfon z Frygii"
+            },
+            "sources": {
+                "mr-1584": "10 XI: #1",
+                "mr-1956": "10 XI: #2"
+            }
+        },
+        "records/patrons/respicius/try": {
+            "name": {
+                "la": "Respicius; cum eo, i.a., Tryphon",
+                "en": "Respicius; with him, i.a., Tryphon",
+                "pl": "Respicjusz; z nim, m.in. Tryfon"
+            },
+            "sources": {
+                "mr-1584": "10 XI: #1",
+                "mr-1956": "10 XI: #2"
+            }
+        },
+        "records/patrons/nympha/try": {
+            "name": {
+                "la": "Nympha; cum ea, i.a., Tryphon",
+                "en": "Nympha; with her, i.a., Tryphon",
+                "pl": "Nimfa; z nią, m.in. Tryfon"
+            },
+            "sources": {
+                "mr-1584": "10 XI: #1",
+                "mr-1956": "10 XI: #2"
             }
         }
     },

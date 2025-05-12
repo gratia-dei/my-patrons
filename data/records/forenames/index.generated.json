@@ -1354,6 +1354,11 @@
         "pl": "Norbert",
         "de": "Norbert"
     },
+    "nympha": {
+        "la": "Nympha",
+        "en": "Nympha",
+        "pl": "Nimfa"
+    },
     "onesiphorus": {
         "la": "Onesiphorus",
         "en": "Onesiphorus",
@@ -1508,6 +1513,11 @@
         "en": "Renat",
         "pl": "Renat",
         "fr": "René"
+    },
+    "respicius": {
+        "la": "Respicius",
+        "en": "Respicius",
+        "pl": "Respicjusz"
     },
     "richardus": {
         "la": "Richardus",
@@ -1800,6 +1810,11 @@
         "en": "Titus",
         "pl": "Tytus",
         "el": "Τίτος"
+    },
+    "tryphon": {
+        "la": "Tryphon",
+        "en": "Tryphon",
+        "pl": "Tryfon"
     },
     "uguccio": {
         "la": "Uguccio",

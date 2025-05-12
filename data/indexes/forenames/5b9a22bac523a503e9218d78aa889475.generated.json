@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Respicjusz"
+    },
+    "translations": {
+        "la": [
+            "Respicius"
+        ],
+        "en": [
+            "Respicius"
+        ],
+        "pl": [
+            "Respicjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/respicius/try": {
+            "la": "Respicius; cum eo, i.a., Tryphon",
+            "en": "Respicius; with him, i.a., Tryphon",
+            "pl": "Respicjusz; z nim, m.in. Tryfon"
+        }
+    }
+}

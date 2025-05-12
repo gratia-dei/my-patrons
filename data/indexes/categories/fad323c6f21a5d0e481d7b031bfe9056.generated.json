@@ -971,6 +971,11 @@
             "en": "Natale Chabanel",
             "pl": "Natal Chabanel"
         },
+        "records/patrons/nympha/try": {
+            "la": "Nympha; cum ea, i.a., Tryphon",
+            "en": "Nympha; with her, i.a., Tryphon",
+            "pl": "Nimfa; z nią, m.in. Tryfon"
+        },
         "records/patrons/onesiphorus/apo": {
             "la": "Onesiphorus, Apostolorum discipulus",
             "en": "Onesiphorus, disciple of Apostles",
@@ -1073,6 +1078,11 @@
             "la": "Renatus Goupil",
             "en": "Renat Goupil",
             "pl": "Renat Goupil"
+        },
+        "records/patrons/respicius/try": {
+            "la": "Respicius; cum eo, i.a., Tryphon",
+            "en": "Respicius; with him, i.a., Tryphon",
+            "pl": "Respicjusz; z nim, m.in. Tryfon"
         },
         "records/patrons/romanus/arc": {
             "pl": "Roman Archutowski",
@@ -1231,6 +1241,11 @@
             "la": "Timotheus Ephesinus",
             "en": "Timothy of Ephesus",
             "pl": "Tymoteusz z Efezu"
+        },
+        "records/patrons/tryphon/phr": {
+            "la": "Tryphon de Phrygia",
+            "en": "Tryphon of Phrygia",
+            "pl": "Tryfon z Frygii"
         },
         "records/patrons/urbanus/1pp": {
             "la": "Urbanus I",

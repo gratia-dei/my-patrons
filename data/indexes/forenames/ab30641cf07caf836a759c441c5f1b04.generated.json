@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Nimfa"
+    },
+    "translations": {
+        "la": [
+            "Nympha"
+        ],
+        "en": [
+            "Nympha"
+        ],
+        "pl": [
+            "Nimfa"
+        ]
+    },
+    "links": {
+        "records/patrons/nympha/try": {
+            "la": "Nympha; cum ea, i.a., Tryphon",
+            "en": "Nympha; with her, i.a., Tryphon",
+            "pl": "Nimfa; z nią, m.in. Tryfon"
+        }
+    }
+}

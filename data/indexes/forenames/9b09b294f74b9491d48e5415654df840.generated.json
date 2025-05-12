@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Tryfon"
+    },
+    "translations": {
+        "la": [
+            "Tryphon"
+        ],
+        "en": [
+            "Tryphon"
+        ],
+        "pl": [
+            "Tryfon"
+        ]
+    },
+    "links": {
+        "records/patrons/tryphon/phr": {
+            "la": "Tryphon de Phrygia",
+            "en": "Tryphon of Phrygia",
+            "pl": "Tryfon z Frygii"
+        }
+    }
+}
