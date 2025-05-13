@@ -3346,6 +3346,25 @@
         ],
         "feasts": []
     },
+    "patrons/flosculus": {
+        "names": {
+            "la": "Flosculus",
+            "en": "Floscule",
+            "pl": "Floskul"
+        }
+    },
+    "patrons/flosculus/aur": {
+        "active": true,
+        "names": {
+            "la": "Flosculus de Aurelianum",
+            "en": "Floscule of Orleans",
+            "pl": "Floskul z Orleanu"
+        },
+        "died": [
+            ">480"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus": {
         "names": {
             "la": "Franciscus",

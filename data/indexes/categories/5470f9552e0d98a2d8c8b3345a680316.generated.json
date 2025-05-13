@@ -222,6 +222,11 @@
             "en": "Eusebius of Vercelli",
             "pl": "Euzebiusz z Vercelli"
         },
+        "records/patrons/flosculus/aur": {
+            "la": "Flosculus de Aurelianum",
+            "en": "Floscule of Orleans",
+            "pl": "Floskul z Orleanu"
+        },
         "records/patrons/franciscus/sal": {
             "fr": "François de Sales",
             "en": "Francis de Sales",

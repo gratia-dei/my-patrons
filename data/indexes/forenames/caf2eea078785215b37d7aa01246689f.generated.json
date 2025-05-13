@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Floskul"
+    },
+    "translations": {
+        "la": [
+            "Flosculus"
+        ],
+        "en": [
+            "Floscule"
+        ],
+        "pl": [
+            "Floskul"
+        ]
+    },
+    "links": {
+        "records/patrons/flosculus/aur": {
+            "la": "Flosculus de Aurelianum",
+            "en": "Floscule of Orleans",
+            "pl": "Floskul z Orleanu"
+        }
+    }
+}
