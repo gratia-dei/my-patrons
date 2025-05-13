@@ -1101,7 +1101,7 @@
         "feasts": []
     },
     "patrons/antonius/bal": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Antonio Baldinucci",
             "la": "Antonius Baldinucci",
@@ -1109,7 +1109,7 @@
             "pl": "Antoni Baldinucci"
         },
         "died": [
-            "1717-11-06"
+            "1717-11-07"
         ],
         "feasts": []
     },

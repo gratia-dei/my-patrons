@@ -2585,6 +2585,20 @@
             }
         }
     },
+    "11-07": {
+        "records/patrons/antonius/bal": {
+            "name": {
+                "it": "Antonio Baldinucci",
+                "la": "Antonius Baldinucci",
+                "en": "Anthony Baldinucci",
+                "pl": "Antoni Baldinucci"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 XI",
+                "mr-2004": "7 XI: #12"
+            }
+        }
+    },
     "11-08": {
         "records/patrons/martinus/tur": {
             "name": {

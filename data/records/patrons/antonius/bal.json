@@ -1,37 +1,50 @@
 {
-  "names": {
-    "it": [
-      "Antonio Baldinucci"
+    "names": {
+        "it": [
+            "Antonio Baldinucci"
+        ],
+        "la": [
+            "Antonius Baldinucci"
+        ],
+        "en": [
+            "Anthony Baldinucci"
+        ],
+        "pl": [
+            "Antoni Baldinucci"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": [
+        {
+            "it": "Baldinucci"
+        }
     ],
-    "la": [
-      "Antonius Baldinucci"
-    ],
-    "en": [
-      "Anthony Baldinucci"
-    ],
-    "pl": [
-      "Antoni Baldinucci"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Baldinucci"
+    "active": true,
+
+    "born": ["1665-06-19"],
+    "died": ["1717-11-07"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./7#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68672",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_Baldinucci"
     }
-  ],
-
-  "born": ["1665-06-19"],
-  "died": ["1717-11-06"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1893-04-23"
-  },
-
-  "also-in-martyrology": ["11-07"],
-
-  "forenames": ["antonius"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["sj"]
 }
