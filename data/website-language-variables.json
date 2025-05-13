@@ -30,8 +30,8 @@
     },
 
     "lang-achievements-unfinished-challenges-ignore-warning": {
-        "en": "the achivements were calculated only for oldest challenges, which has been already finished!",
-        "pl": "osiągnięcia zostały wyliczone tylko dla najstarszych wyzwań, które zostały już ukończone!"
+        "en": "the calendar has been changed on day of Your oldest challenge, which still waiting for finish all its required steps. <strong>The following challenges have been skipped!</strong>",
+        "pl": "kalendarz został ustawiony na dniu najdawniejszego Twojego wyzwaniu, które oczekuje jeszcze na wykonanie wszystkich wymaganych kroków. <strong>Następujące po nim wyzwania zostały pominięte!</strong>"
     },
 
     "lang-achievements-table-header-challenge-type": {
@@ -115,8 +115,8 @@
     },
 
     "lang-achievements-section-general-description": {
-        "en": "General challenges statistics:",
-        "pl": "Statystyki ogólne wyzwań:"
+        "en": "General challenges statistics <strong>(status as of today - for all challenges!)</strong>:",
+        "pl": "Statystyki ogólne wyzwań <strong>(stan na dzień dzisiejszy - dla wszystkich wyzwań!)</strong>:"
     },
 
     "lang-achievements-section-general-aborted": {

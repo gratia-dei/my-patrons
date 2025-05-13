@@ -74,7 +74,7 @@ requirejs(
     getTableDataForGeneral: async function (section, option) {
       const challengesConfig = await uCommon.getChallengesConfig();
 
-      const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+      const selectedDateStr = uDate.getToday();
       const lastYearDateStr = uDate.getLastYearDate(selectedDateStr);
 
       const selectedDate = uDate.getDateParse(selectedDateStr);
@@ -103,9 +103,6 @@ requirejs(
         const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
 
         const challengeDate = uDate.getDateParse(challengeDateStr);
-        if (challengeDate > selectedDate) {
-          break;
-        }
 
         statusCounts[allSign] = (statusCounts[allSign] ?? 0) + 1;
         statusCounts[challengeStatus] = (statusCounts[challengeStatus] ?? 0) + 1;
@@ -391,6 +388,26 @@ requirejs(
       dateInput.value = date;
     }
 
+    const challengesConfig = await uCommon.getChallengesConfig();
+
+    const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+    const selectedDate = uDate.getDateParse(selectedDateStr);
+
+    for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+      const challengeDateStr = uCommon.getChallengeDate(challenge);
+      const challengeDate = uDate.getDateParse(challengeDateStr);
+      if (challengeDate > selectedDate) {
+        break;
+      }
+
+      const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+      if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
+        uNotification.warning(uLanguage.getTranslation('lang-achievements-unfinished-challenges-ignore-warning', true));
+        dateInput.value = challengeDateStr;
+        break;
+      }
+    }
+
     tablesData = {};
 
     const config = uConst.get("DATA_TABS_CONFIG");
@@ -429,25 +446,6 @@ requirejs(
         }
       } else {
         tablesData[sectionId][sectionId] = await methods[method](sectionId, sectionId);
-      }
-    }
-
-    const challengesConfig = await uCommon.getChallengesConfig();
-
-    const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
-    const selectedDate = uDate.getDateParse(selectedDateStr);
-
-    for (const challenge of uCommon.getFileDataChallenges(fileData)) {
-      const challengeDateStr = uCommon.getChallengeDate(challenge);
-      const challengeDate = uDate.getDateParse(challengeDateStr);
-      if (challengeDate > selectedDate) {
-        break;
-      }
-
-      const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
-      if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
-        uNotification.warning(uLanguage.getTranslation('lang-achievements-unfinished-challenges-ignore-warning', true));
-        break;
       }
     }
   }
