@@ -7703,7 +7703,8 @@
             "la": "Paulus",
             "en": "Paul",
             "pl": "Paweł",
-            "ja": "パウロ"
+            "ja": "パウロ",
+            "vi": "Phaolô"
         }
     },
     "patrons/paulus/apo": {
@@ -7777,6 +7778,19 @@
         },
         "died": [
             "1597-02-05"
+        ],
+        "feasts": []
+    },
+    "patrons/paulus/ngu": {
+        "active": true,
+        "names": {
+            "vi": "Phaolô Nguyễn Ngân",
+            "la": "Paulus Nguyen Ngan",
+            "en": "Paul Nguyen Ngan",
+            "pl": "Paweł Nguyen Ngan"
+        },
+        "died": [
+            "1840-11-08"
         ],
         "feasts": []
     },

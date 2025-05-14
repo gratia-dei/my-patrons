@@ -14,6 +14,9 @@
         ],
         "ja": [
             "パウロ"
+        ],
+        "vi": [
+            "Phaolô"
         ]
     },
     "links": {
@@ -44,6 +47,12 @@
             "en": "Paul Miki",
             "la": "Paulus Miki",
             "pl": "Paweł Miki"
+        },
+        "records/patrons/paulus/ngu": {
+            "vi": "Phaolô Nguyễn Ngân",
+            "la": "Paulus Nguyen Ngan",
+            "en": "Paul Nguyen Ngan",
+            "pl": "Paweł Nguyen Ngan"
         }
     }
 }

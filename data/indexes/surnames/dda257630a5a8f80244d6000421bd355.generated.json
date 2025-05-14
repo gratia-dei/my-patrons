@@ -1,19 +1,13 @@
 {
     "names": {
-        "vi": "Nguyễn"
+        "vi": "Ngân"
     },
     "translations": {
         "vi": [
-            "Nguyễn"
+            "Ngân"
         ]
     },
     "links": {
-        "records/patrons/iosephus/ngu": {
-            "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyen Dinh Nghi",
-            "en": "Joseph Nguyen Dinh Nghi",
-            "pl": "Józef Nguyen Dinh Nghi"
-        },
         "records/patrons/paulus/ngu": {
             "vi": "Phaolô Nguyễn Ngân",
             "la": "Paulus Nguyen Ngan",

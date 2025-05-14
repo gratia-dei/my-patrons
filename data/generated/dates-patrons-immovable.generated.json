@@ -2635,6 +2635,18 @@
             "sources": {
                 "reliable-death-anniversary": "8 XI"
             }
+        },
+        "records/patrons/paulus/ngu": {
+            "name": {
+                "vi": "Phaolô Nguyễn Ngân",
+                "la": "Paulus Nguyen Ngan",
+                "en": "Paul Nguyen Ngan",
+                "pl": "Paweł Nguyen Ngan"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "mr-2004": "8 XI: #8"
+            }
         }
     },
     "11-10": {
@@ -2707,6 +2719,18 @@
                 "la": "Iosephus Nguyen Dinh Nghi",
                 "en": "Joseph Nguyen Dinh Nghi",
                 "pl": "Józef Nguyen Dinh Nghi"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/paulus/ngu": {
+            "name": {
+                "vi": "Phaolô Nguyễn Ngân",
+                "la": "Paulus Nguyen Ngan",
+                "en": "Paul Nguyen Ngan",
+                "pl": "Paweł Nguyen Ngan"
             },
             "sources": {
                 "feast": "24 XI",
