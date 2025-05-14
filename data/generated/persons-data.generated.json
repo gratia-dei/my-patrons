@@ -6887,6 +6887,19 @@
         ],
         "feasts": []
     },
+    "patrons/martinus/tho": {
+        "active": true,
+        "names": {
+            "vi": "Martinô Thọ",
+            "la": "Martinus Thọ",
+            "en": "Martin Thọ",
+            "pl": "Marcin Thọ"
+        },
+        "died": [
+            "1840-11-08"
+        ],
+        "feasts": []
+    },
     "patrons/martinus/tur": {
         "active": true,
         "names": {

@@ -2638,6 +2638,18 @@
                 "mr-2004": "8 XI: #8"
             }
         },
+        "records/patrons/martinus/tho": {
+            "name": {
+                "vi": "Martinô Thọ",
+                "la": "Martinus Thọ",
+                "en": "Martin Thọ",
+                "pl": "Marcin Thọ"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "mr-2004": "8 XI: #8"
+            }
+        },
         "records/patrons/martinus/tur": {
             "name": {
                 "la": "Martinus Turonensis",
@@ -2743,6 +2755,18 @@
                 "la": "Martinus Tạ Đức Thịnh",
                 "en": "Martin Tạ Đức Thịnh",
                 "pl": "Marcin Tạ Đức Thịnh"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/martinus/tho": {
+            "name": {
+                "vi": "Martinô Thọ",
+                "la": "Martinus Thọ",
+                "en": "Martin Thọ",
+                "pl": "Marcin Thọ"
             },
             "sources": {
                 "feast": "24 XI",
