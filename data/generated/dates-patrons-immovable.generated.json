@@ -2614,6 +2614,18 @@
         }
     },
     "11-08": {
+        "records/patrons/iosephus/ngu": {
+            "name": {
+                "vi": "Giuse Nguyễn Đình Nghi",
+                "la": "Iosephus Nguyen Dinh Nghi",
+                "en": "Joseph Nguyen Dinh Nghi",
+                "pl": "Józef Nguyen Dinh Nghi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "mr-2004": "8 XI: #8"
+            }
+        },
         "records/patrons/martinus/tur": {
             "name": {
                 "la": "Martinus Turonensis",
@@ -2689,6 +2701,18 @@
         }
     },
     "11-24": {
+        "records/patrons/iosephus/ngu": {
+            "name": {
+                "vi": "Giuse Nguyễn Đình Nghi",
+                "la": "Iosephus Nguyen Dinh Nghi",
+                "en": "Joseph Nguyen Dinh Nghi",
+                "pl": "Józef Nguyen Dinh Nghi"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
         "records/patrons/ioannes/cru": {
             "name": {
                 "es": "Juan de la Cruz",

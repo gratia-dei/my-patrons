@@ -1,45 +1,59 @@
 {
-  "names": {
-    "vi": [
-      "Giuse Nguyễn Đình Nghi"
+    "names": {
+        "vi": [
+            "Giuse Nguyễn Đình Nghi"
+        ],
+        "la": [
+            "Iosephus Nguyen Dinh Nghi"
+        ],
+        "en": [
+            "Joseph Nguyen Dinh Nghi"
+        ],
+        "pl": [
+            "Józef Nguyen Dinh Nghi"
+        ]
+    },
+    "forenames": ["iosephus"],
+    "surnames": [
+        {
+            "vi": "Nguyễn"
+        },
+        {
+            "vi": "Đình"
+        },
+        {
+            "vi": "Nghi"
+        }
     ],
-    "la": [
-      "Iosephus Nguyen Dinh Nghi"
-    ],
-    "en": [
-      "Joseph Nguyen Dinh Nghi"
-    ],
-    "pl": [
-      "Józef Nguyen Dinh Nghi"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "vi": "Nguyễn"
+    "active": true,
+
+    "born": [">1771", "<1793"],
+    "died": ["1840-11-08"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1988-06-19"
     },
-    {
-      "vi": "Đình"
+    "anniversary": ["11-24"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./8#8", "31:nov./24#1"],
+        "mr-2004-movable": []
     },
-    {
-      "vi": "Nghi"
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-del-vietnam.html",
+        "gcatholic": "https://gcatholic.org/p/66187",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Nguy%E1%BB%85n_%C4%90%C3%ACnh_Nghi"
     }
-  ],
-
-  "born": ["~1793"],
-  "died": ["1840-11-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1900-05-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1988-06-19"
-  },
-
-  "also-in-martyrology": ["11-08"],
-
-  "forenames": ["iosephus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

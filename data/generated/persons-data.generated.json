@@ -5217,7 +5217,7 @@
         "feasts": []
     },
     "patrons/iosephus/ngu": {
-        "active": false,
+        "active": true,
         "names": {
             "vi": "Giuse Nguyễn Đình Nghi",
             "la": "Iosephus Nguyen Dinh Nghi",
