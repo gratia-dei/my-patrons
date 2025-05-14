@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/ioannes/con": {
+            "vi": "Gioan Baotixita Cỏn",
+            "la": "Ioannes Baptista Cỏn",
+            "en": "John Baptist Cỏn",
+            "pl": "Jan Chrzciciel Cỏn"
+        },
         "records/patrons/iosephus/tua": {
             "vi": "Giuse Trần Văn Tuấn",
             "en": "Jóseph Trần Văn Tuấn",

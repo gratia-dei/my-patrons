@@ -15,9 +15,18 @@
         ],
         "fr": [
             "Jean Baptiste"
+        ],
+        "vi": [
+            "Gioan Baotixita"
         ]
     },
     "links": {
+        "records/patrons/ioannes/con": {
+            "vi": "Gioan Baotixita Cỏn",
+            "la": "Ioannes Baptista Cỏn",
+            "en": "John Baptist Cỏn",
+            "pl": "Jan Chrzciciel Cỏn"
+        },
         "records/patrons/ioannes/sal": {
             "fr": "Jean-Baptiste de la Salle",
             "en": "John Baptist de la Salle",

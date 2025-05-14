@@ -4766,6 +4766,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/con": {
+        "active": true,
+        "names": {
+            "vi": "Gioan Baotixita Cỏn",
+            "la": "Ioannes Baptista Cỏn",
+            "en": "John Baptist Cỏn",
+            "pl": "Jan Chrzciciel Cỏn"
+        },
+        "died": [
+            "1840-11-08"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/cru": {
         "active": true,
         "names": {

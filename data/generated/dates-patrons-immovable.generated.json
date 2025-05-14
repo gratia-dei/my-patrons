@@ -2614,6 +2614,18 @@
         }
     },
     "11-08": {
+        "records/patrons/ioannes/con": {
+            "name": {
+                "vi": "Gioan Baotixita Cỏn",
+                "la": "Ioannes Baptista Cỏn",
+                "en": "John Baptist Cỏn",
+                "pl": "Jan Chrzciciel Cỏn"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "mr-2004": "8 XI: #8"
+            }
+        },
         "records/patrons/iosephus/ngu": {
             "name": {
                 "vi": "Giuse Nguyễn Đình Nghi",
@@ -2737,6 +2749,18 @@
         }
     },
     "11-24": {
+        "records/patrons/ioannes/con": {
+            "name": {
+                "vi": "Gioan Baotixita Cỏn",
+                "la": "Ioannes Baptista Cỏn",
+                "en": "John Baptist Cỏn",
+                "pl": "Jan Chrzciciel Cỏn"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
         "records/patrons/iosephus/ngu": {
             "name": {
                 "vi": "Giuse Nguyễn Đình Nghi",
