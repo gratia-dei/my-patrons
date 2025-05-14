@@ -5220,9 +5220,9 @@
         "active": true,
         "names": {
             "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyen Dinh Nghi",
-            "en": "Joseph Nguyen Dinh Nghi",
-            "pl": "Józef Nguyen Dinh Nghi"
+            "la": "Iosephus Nguyễn Đình Nghi",
+            "en": "Joseph Nguyễn Đình Nghi",
+            "pl": "Józef Nguyễn Đình Nghi"
         },
         "died": [
             "1840-11-08"
@@ -6857,7 +6857,8 @@
             "la": "Martinus",
             "en": "Martin",
             "pl": "Marcin",
-            "es": "Martín"
+            "es": "Martín",
+            "vi": "Martinô"
         }
     },
     "patrons/martinus/por": {
@@ -6870,6 +6871,19 @@
         },
         "died": [
             "1639-11-03"
+        ],
+        "feasts": []
+    },
+    "patrons/martinus/tad": {
+        "active": true,
+        "names": {
+            "vi": "Martinô Tạ Đức Thịnh",
+            "la": "Martinus Tạ Đức Thịnh",
+            "en": "Martin Tạ Đức Thịnh",
+            "pl": "Marcin Tạ Đức Thịnh"
+        },
+        "died": [
+            "1840-11-08"
         ],
         "feasts": []
     },
@@ -7785,9 +7799,9 @@
         "active": true,
         "names": {
             "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyen Ngan",
-            "en": "Paul Nguyen Ngan",
-            "pl": "Paweł Nguyen Ngan"
+            "la": "Paulus Nguyễn Ngân",
+            "en": "Paul Nguyễn Ngân",
+            "pl": "Paweł Nguyễn Ngân"
         },
         "died": [
             "1840-11-08"

@@ -444,9 +444,9 @@
         },
         "records/patrons/iosephus/ngu": {
             "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyen Dinh Nghi",
-            "en": "Joseph Nguyen Dinh Nghi",
-            "pl": "Józef Nguyen Dinh Nghi"
+            "la": "Iosephus Nguyễn Đình Nghi",
+            "en": "Joseph Nguyễn Đình Nghi",
+            "pl": "Józef Nguyễn Đình Nghi"
         },
         "records/patrons/iosephus/tom": {
             "it": "Giuseppe Maria Tomasi",
@@ -497,6 +497,12 @@
             "en": "Marian Konopiński",
             "la": "Marianus Konopiński"
         },
+        "records/patrons/martinus/tad": {
+            "vi": "Martinô Tạ Đức Thịnh",
+            "la": "Martinus Tạ Đức Thịnh",
+            "en": "Martin Tạ Đức Thịnh",
+            "pl": "Marcin Tạ Đức Thịnh"
+        },
         "records/patrons/maximilianus/kol": {
             "pl": "Maksymilian Maria Kolbe",
             "la": "Maximilianus Maria Kolbe",
@@ -532,9 +538,9 @@
         },
         "records/patrons/paulus/ngu": {
             "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyen Ngan",
-            "en": "Paul Nguyen Ngan",
-            "pl": "Paweł Nguyen Ngan"
+            "la": "Paulus Nguyễn Ngân",
+            "en": "Paul Nguyễn Ngân",
+            "pl": "Paweł Nguyễn Ngân"
         },
         "records/patrons/petrus/dan": {
             "pl": "Piotr Edward Dańkowski",

@@ -1,32 +1,35 @@
 {
     "names": {
         "vi": [
-            "Phaolô Nguyễn Ngân"
+            "Martinô Tạ Đức Thịnh"
         ],
         "la": [
-            "Paulus Nguyễn Ngân"
+            "Martinus Tạ Đức Thịnh"
         ],
         "en": [
-            "Paul Nguyễn Ngân"
+            "Martin Tạ Đức Thịnh"
         ],
         "pl": [
-            "Paweł Nguyễn Ngân"
+            "Marcin Tạ Đức Thịnh"
         ]
     },
-    "forenames": ["paulus"],
+    "forenames": ["martinus"],
     "surnames": [
         {
-            "vi": "Nguyễn"
+            "vi": "Tạ"
         },
         {
-            "vi": "Ngân"
+            "vi": "Đức"
+        },
+        {
+            "vi": "Thịnh"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": [">1771", "<1790"],
+    "born": ["~1760"],
     "died": ["1840-11-08"],
     "beatified": null,
     "canonized": {
@@ -44,13 +47,13 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["2:nov./8#8", "40:nov./24#1"],
+        "mr-2004": ["3:nov./8#8", "36:nov./24#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-del-vietnam.html",
-        "gcatholic": "https://gcatholic.org/p/66188",
-        "wiki": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Nguy%E1%BB%85n_Ng%C3%A2n"
+        "gcatholic": "https://gcatholic.org/p/66189",
+        "wiki": "https://pl.wikipedia.org/wiki/Marcin_T%E1%BA%A1_%C4%90%E1%BB%A9c_Th%E1%BB%8Bnh"
     }
 }
