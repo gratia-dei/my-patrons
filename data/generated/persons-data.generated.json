@@ -5289,15 +5289,28 @@
         "feasts": []
     },
     "patrons/iosephus/tua": {
-        "active": false,
+        "active": true,
         "names": {
             "vi": "Giuse Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
             "la": "Iosephus Trần Văn Tuấn",
+            "en": "Jóseph Trần Văn Tuấn",
             "pl": "Józef Trần Văn Tuấn"
         },
         "died": [
-            "1862-06-07"
+            "1862-01-07"
+        ],
+        "feasts": []
+    },
+    "patrons/iosephus/tun": {
+        "active": true,
+        "names": {
+            "vi": "Giuse Tuân",
+            "la": "Iosephus Tuân",
+            "en": "Joseph Tuân",
+            "pl": "Józef Tuân"
+        },
+        "died": [
+            "1861-04-30"
         ],
         "feasts": []
     },

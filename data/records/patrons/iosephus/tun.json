@@ -1,34 +1,30 @@
 {
     "names": {
         "vi": [
-            "Giuse Trần Văn Tuấn",
-            "Giuse Tuấn, nông dân"
+            "Giuse Tuân"
         ],
         "la": [
-            "Iosephus Trần Văn Tuấn",
-            "Iosephus Tuấn, agricola"
+            "Iosephus Tuân"
         ],
         "en": [
-            "Jóseph Trần Văn Tuấn",
-            "Joseph Tuấn, farmer"
+            "Joseph Tuân"
         ],
         "pl": [
-            "Józef Trần Văn Tuấn",
-            "Józef Tuấn, rolnik"
+            "Józef Tuân"
         ]
     },
     "forenames": ["iosephus"],
     "surnames": [
         {
-            "vi": "Tuấn"
+            "vi": "Tuân"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["~1824"],
-    "died": ["1862-01-07"],
+    "born": [">1811", "<1821"],
+    "died": ["1861-04-30"],
     "beatified": {
         "type": "ceremonially",
         "date": "1951-04-29"
@@ -39,7 +35,7 @@
     },
     "anniversary": ["11-24"],
 
-    "categories": ["vir", "martyr", "paterfamilias", "agricola"],
+    "categories": ["vir", "martyr", "presbyter"],
 
     "data-links": {
         "mr-1584": [],
@@ -48,13 +44,13 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:ian./7#13", "97:nov./24#1"],
+        "mr-2004": ["1:apr./30#20", "32:nov./24#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-del-vietnam.html",
-        "gcatholic": "https://gcatholic.org/p/66234",
-        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Tr%E1%BA%A7n_V%C4%83n_Tu%E1%BA%A5n"
+        "gcatholic": "https://gcatholic.org/p/66220",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Tu%C3%A2n"
     }
 }

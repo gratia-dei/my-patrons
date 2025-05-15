@@ -695,9 +695,15 @@
         },
         "records/patrons/iosephus/tua": {
             "vi": "Giuse Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
             "la": "Iosephus Trần Văn Tuấn",
+            "en": "Jóseph Trần Văn Tuấn",
             "pl": "Józef Trần Văn Tuấn"
+        },
+        "records/patrons/iosephus/tun": {
+            "vi": "Giuse Tuân",
+            "la": "Iosephus Tuân",
+            "en": "Joseph Tuân",
+            "pl": "Józef Tuân"
         },
         "records/patrons/iosephus/ulm": {
             "pl": "Józef Ulma",

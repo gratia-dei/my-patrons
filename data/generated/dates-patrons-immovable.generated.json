@@ -83,6 +83,18 @@
         }
     },
     "01-07": {
+        "records/patrons/iosephus/tua": {
+            "name": {
+                "vi": "Giuse Trần Văn Tuấn",
+                "la": "Iosephus Trần Văn Tuấn",
+                "en": "Jóseph Trần Văn Tuấn",
+                "pl": "Józef Trần Văn Tuấn"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 I",
+                "mr-2004": "7 I: #13"
+            }
+        },
         "records/patrons/lucianus/ant": {
             "name": {
                 "la": "Lucianus de Antiochia",
@@ -884,6 +896,18 @@
         }
     },
     "04-30": {
+        "records/patrons/iosephus/tun": {
+            "name": {
+                "vi": "Giuse Tuân",
+                "la": "Iosephus Tuân",
+                "en": "Joseph Tuân",
+                "pl": "Józef Tuân"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 IV",
+                "mr-2004": "30 IV: #20"
+            }
+        },
         "records/patrons/catharina/sen": {
             "name": {
                 "it": "Caterina da Siena",
@@ -2805,6 +2829,30 @@
                 "la": "Iosephus Nguyễn Đình Nghi",
                 "en": "Joseph Nguyễn Đình Nghi",
                 "pl": "Józef Nguyễn Đình Nghi"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/iosephus/tua": {
+            "name": {
+                "vi": "Giuse Trần Văn Tuấn",
+                "la": "Iosephus Trần Văn Tuấn",
+                "en": "Jóseph Trần Văn Tuấn",
+                "pl": "Józef Trần Văn Tuấn"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/iosephus/tun": {
+            "name": {
+                "vi": "Giuse Tuân",
+                "la": "Iosephus Tuân",
+                "en": "Joseph Tuân",
+                "pl": "Józef Tuân"
             },
             "sources": {
                 "feast": "24 XI",
