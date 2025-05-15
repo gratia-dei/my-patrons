@@ -16,7 +16,7 @@
     "forenames": ["ioannes-baptista"],
     "surnames": [
         {
-            "vi": "Gioan Baotixita Cỏn"
+            "vi": "Cỏn"
         }
     ],
     "epithets": null,
@@ -25,7 +25,10 @@
 
     "born": ["~1805"],
     "died": ["1840-11-08"],
-    "beatified": null,
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900-05-27"
+    },
     "canonized": {
         "type": "ceremonially",
         "date": "1988-06-19"
