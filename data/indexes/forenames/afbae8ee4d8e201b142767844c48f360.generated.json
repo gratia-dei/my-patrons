@@ -15,9 +15,18 @@
         ],
         "el": [
             "Στέφανος"
+        ],
+        "fr": [
+            "Étienne"
         ]
     },
     "links": {
+        "records/patrons/stephanus/cue": {
+            "fr": "Étienne-Théodore Cuenot",
+            "la": "Stephanus Theodorus Cuenot",
+            "en": "Stephen Theodore Cuenot",
+            "pl": "Stefan Teodor Cuenot"
+        },
         "records/patrons/stephanus/pro": {
             "el": "Στέφανος",
             "en": "Stephen Protomartyr",

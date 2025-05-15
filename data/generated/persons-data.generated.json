@@ -9235,8 +9235,22 @@
             "la": "Stephanus",
             "en": "Stephen",
             "pl": "Stefan",
-            "el": "Στέφανος"
+            "el": "Στέφανος",
+            "fr": "Étienne"
         }
+    },
+    "patrons/stephanus/cue": {
+        "active": true,
+        "names": {
+            "fr": "Étienne-Théodore Cuenot",
+            "la": "Stephanus Theodorus Cuenot",
+            "en": "Stephen Theodore Cuenot",
+            "pl": "Stefan Teodor Cuenot"
+        },
+        "died": [
+            "1861-11-14"
+        ],
+        "feasts": []
     },
     "patrons/stephanus/pro": {
         "active": false,
@@ -9425,6 +9439,7 @@
             "en": "Theodore",
             "pl": "Teodor",
             "el": "Θεοδώρος",
+            "fr": "Théodore",
             "uk": "Теодор"
         }
     },

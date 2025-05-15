@@ -15,11 +15,20 @@
         "el": [
             "Θεοδώρος"
         ],
+        "fr": [
+            "Théodore"
+        ],
         "uk": [
             "Теодор"
         ]
     },
     "links": {
+        "records/patrons/stephanus/cue": {
+            "fr": "Étienne-Théodore Cuenot",
+            "la": "Stephanus Theodorus Cuenot",
+            "en": "Stephen Theodore Cuenot",
+            "pl": "Stefan Teodor Cuenot"
+        },
         "records/patrons/theodorus/gra": {
             "el": "Θεοδώρος Γράπτος",
             "en": "Theodore the Graptus",

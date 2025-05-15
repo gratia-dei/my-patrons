@@ -2784,6 +2784,20 @@
             }
         }
     },
+    "11-14": {
+        "records/patrons/stephanus/cue": {
+            "name": {
+                "fr": "Étienne-Théodore Cuenot",
+                "la": "Stephanus Theodorus Cuenot",
+                "en": "Stephen Theodore Cuenot",
+                "pl": "Stefan Teodor Cuenot"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 XI",
+                "mr-2004": "14 XI: #12"
+            }
+        }
+    },
     "11-18": {
         "records/patrons/carolina/koz": {
             "name": {
@@ -2893,6 +2907,17 @@
             "sources": {
                 "feast": "24 XI",
                 "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/stephanus/cue": {
+            "name": {
+                "fr": "Étienne-Théodore Cuenot",
+                "la": "Stephanus Theodorus Cuenot",
+                "en": "Stephen Theodore Cuenot",
+                "pl": "Stefan Teodor Cuenot"
+            },
+            "sources": {
+                "feast": "24 XI"
             }
         },
         "records/patrons/ioannes/cru": {

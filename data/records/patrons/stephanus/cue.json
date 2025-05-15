@@ -1,0 +1,56 @@
+{
+    "names": {
+        "fr": [
+            "Étienne-Théodore Cuenot"
+        ],
+        "la": [
+            "Stephanus Theodorus Cuenot"
+        ],
+        "en": [
+            "Stephen Theodore Cuenot"
+        ],
+        "pl": [
+            "Stefan Teodor Cuenot"
+        ]
+    },
+    "forenames": ["stephanus", "theodorus"],
+    "surnames": [
+        {
+            "fr": "Cuenot"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1802-02-08"],
+    "died": ["1861-11-14"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1909-05-02"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1988-06-19"
+    },
+    "anniversary": ["11-24"],
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./14#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-del-vietnam.html",
+        "gcatholic": "https://gcatholic.org/p/14140",
+        "wiki": "https://pl.wikipedia.org/wiki/Stefan_Cuenot"
+    }
+}

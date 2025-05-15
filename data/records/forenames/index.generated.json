@@ -1740,7 +1740,8 @@
         "la": "Stephanus",
         "en": "Stephen",
         "pl": "Stefan",
-        "el": "Στέφανος"
+        "el": "Στέφανος",
+        "fr": "Étienne"
     },
     "susanna": {
         "la": "Susanna",
@@ -1783,6 +1784,7 @@
         "en": "Theodore",
         "pl": "Teodor",
         "el": "Θεοδώρος",
+        "fr": "Théodore",
         "uk": "Теодор"
     },
     "theophanes": {
