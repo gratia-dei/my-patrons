@@ -15,6 +15,11 @@
         ]
     },
     "links": {
+        "records/patrons/adalbertus/nie": {
+            "pl": "Wojciech Nierychlewski",
+            "la": "Adalbertus Nierychlewski",
+            "en": "Adalbert Nierychlewski"
+        },
         "records/patrons/aemilianus/kov": {
             "uk": "Омелян Ковч",
             "pl": "Emilian Kowcz",

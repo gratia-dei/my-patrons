@@ -425,9 +425,21 @@
         "names": {
             "la": "Adalbertus",
             "en": "Adalbert",
-            "pl": "Adalbert",
-            "cz": "Adalbert"
+            "pl": "Wojciech",
+            "cs": "Adalbert"
         }
+    },
+    "patrons/adalbertus/nie": {
+        "active": true,
+        "names": {
+            "pl": "Wojciech Nierychlewski",
+            "la": "Adalbertus Nierychlewski",
+            "en": "Adalbert Nierychlewski"
+        },
+        "died": [
+            "1942-02-07"
+        ],
+        "feasts": []
     },
     "patrons/adalbertus/pra": {
         "active": true,
@@ -435,7 +447,7 @@
             "cz": "Vojtěch Adalbert Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Adalbert Sławnikowic"
+            "pl": "Wojciech Sławnikowic"
         },
         "died": [
             "997-04-23"

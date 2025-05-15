@@ -270,6 +270,20 @@
             }
         }
     },
+    "02-07": {
+        "records/patrons/adalbertus/nie": {
+            "name": {
+                "pl": "Wojciech Nierychlewski",
+                "la": "Adalbertus Nierychlewski",
+                "en": "Adalbert Nierychlewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 II",
+                "feast": "7 II",
+                "mr-2004": "7 II: #18"
+            }
+        }
+    },
     "02-08": {
         "records/patrons/ioannes/mat": {
             "name": {
@@ -827,7 +841,7 @@
                 "cz": "Vojtěch Adalbert Slavníkovec",
                 "en": "Adalbert of Prague",
                 "la": "Adalbertus Pragensis",
-                "pl": "Wojciech Adalbert Sławnikowic"
+                "pl": "Wojciech Sławnikowic"
             },
             "sources": {
                 "reliable-death-anniversary": "23 IV",

@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Nierychlewski"
+    },
+    "translations": {
+        "pl": [
+            "Nierychlewski"
+        ]
+    },
+    "links": {
+        "records/patrons/adalbertus/nie": {
+            "pl": "Wojciech Nierychlewski",
+            "la": "Adalbertus Nierychlewski",
+            "en": "Adalbert Nierychlewski"
+        }
+    }
+}

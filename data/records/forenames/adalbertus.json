@@ -2,8 +2,8 @@
     "names": {
         "la": "Adalbertus",
         "en": "Adalbert",
-        "pl": "Adalbert",
+        "pl": ["Wojciech", "Adalbert"],
 
-        "cz": "Adalbert"
+        "cs": "Adalbert"
     }
 }

@@ -2,7 +2,7 @@
     "names": {
         "en": "Adalbert",
         "pl": "Adalbert",
-        "cz": "Adalbert"
+        "cs": "Adalbert"
     },
     "translations": {
         "la": [
@@ -12,18 +12,24 @@
             "Adalbert"
         ],
         "pl": [
+            "Wojciech",
             "Adalbert"
         ],
-        "cz": [
+        "cs": [
             "Adalbert"
         ]
     },
     "links": {
+        "records/patrons/adalbertus/nie": {
+            "pl": "Wojciech Nierychlewski",
+            "la": "Adalbertus Nierychlewski",
+            "en": "Adalbert Nierychlewski"
+        },
         "records/patrons/adalbertus/pra": {
             "cz": "Vojtěch Adalbert Slavníkovec",
             "en": "Adalbert of Prague",
             "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Adalbert Sławnikowic"
+            "pl": "Wojciech Sławnikowic"
         }
     }
 }
