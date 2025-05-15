@@ -3058,6 +3058,27 @@
         ],
         "feasts": []
     },
+    "patrons/emmanuel": {
+        "names": {
+            "la": "Emmanuel",
+            "en": "Emanuel",
+            "pl": "Emanuel",
+            "vi": "Emanuen"
+        }
+    },
+    "patrons/emmanuel/lev": {
+        "active": true,
+        "names": {
+            "vi": "Emanuen Lê Văn Phụng",
+            "la": "Emmanuel Lê Văn Phụng",
+            "en": "Emmanuel Lê Văn Phụng",
+            "pl": "Emanuel Lê Văn Phụng"
+        },
+        "died": [
+            "1859-07-31"
+        ],
+        "feasts": []
+    },
     "patrons/emmerammus": {
         "names": {
             "la": "Emmerammus",

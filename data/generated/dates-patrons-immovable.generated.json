@@ -1170,6 +1170,19 @@
             }
         }
     },
+    "07-13": {
+        "records/patrons/emmanuel/lev": {
+            "name": {
+                "vi": "Emanuen Lê Văn Phụng",
+                "la": "Emmanuel Lê Văn Phụng",
+                "en": "Emmanuel Lê Văn Phụng",
+                "pl": "Emanuel Lê Văn Phụng"
+            },
+            "sources": {
+                "mr-2004": "13 VII: #13"
+            }
+        }
+    },
     "07-17": {
         "records/patrons/hedwigis/hun": {
             "name": {
@@ -1337,6 +1350,19 @@
                 "mr-1584": "29 VII: #1",
                 "mr-1956": "29 VII: #1",
                 "mr-2004": "29 VII: #1"
+            }
+        }
+    },
+    "07-31": {
+        "records/patrons/emmanuel/lev": {
+            "name": {
+                "vi": "Emanuen Lê Văn Phụng",
+                "la": "Emmanuel Lê Văn Phụng",
+                "en": "Emmanuel Lê Văn Phụng",
+                "pl": "Emanuel Lê Văn Phụng"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 VII"
             }
         }
     },
@@ -2749,6 +2775,18 @@
         }
     },
     "11-24": {
+        "records/patrons/emmanuel/lev": {
+            "name": {
+                "vi": "Emanuen Lê Văn Phụng",
+                "la": "Emmanuel Lê Văn Phụng",
+                "en": "Emmanuel Lê Văn Phụng",
+                "pl": "Emanuel Lê Văn Phụng"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1 / 24 XI: #1"
+            }
+        },
         "records/patrons/ioannes/con": {
             "name": {
                 "vi": "Gioan Baotixita Cỏn",
