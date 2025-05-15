@@ -297,6 +297,20 @@
             }
         }
     },
+    "02-09": {
+        "records/patrons/apollonia/ale": {
+            "name": {
+                "la": "Apollonia de Alexandria",
+                "en": "Apollonia of Alexandria",
+                "pl": "Apolonia z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "9 II: #1",
+                "mr-1956": "9 II: #2",
+                "mr-2004": "9 II: #1"
+            }
+        }
+    },
     "02-12": {
         "records/patrons/alexius/fal": {
             "name": {

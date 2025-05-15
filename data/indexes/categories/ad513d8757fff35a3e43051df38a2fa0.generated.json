@@ -144,6 +144,11 @@
             "la": "Antonius Ulma",
             "en": "Anthony Ulma"
         },
+        "records/patrons/apollonia/ale": {
+            "la": "Apollonia de Alexandria",
+            "en": "Apollonia of Alexandria",
+            "pl": "Apolonia z Aleksandrii"
+        },
         "records/patrons/aristarchus/the": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",

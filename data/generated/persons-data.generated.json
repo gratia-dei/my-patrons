@@ -1240,6 +1240,25 @@
         ],
         "feasts": []
     },
+    "patrons/apollonia": {
+        "names": {
+            "la": "Apollonia",
+            "en": "Apollonia",
+            "pl": "Apolonia"
+        }
+    },
+    "patrons/apollonia/ale": {
+        "active": true,
+        "names": {
+            "la": "Apollonia de Alexandria",
+            "en": "Apollonia of Alexandria",
+            "pl": "Apolonia z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": []
+    },
     "patrons/aristarchus": {
         "names": {
             "la": "Aristarchus",

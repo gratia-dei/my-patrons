@@ -24,6 +24,11 @@
             "en": "Agnes of Rome",
             "pl": "Agnieszka Rzymianka"
         },
+        "records/patrons/apollonia/ale": {
+            "la": "Apollonia de Alexandria",
+            "en": "Apollonia of Alexandria",
+            "pl": "Apolonia z Aleksandrii"
+        },
         "records/patrons/balbina/rom": {
             "it": "Balbina di Roma",
             "en": "Balbina of Rome",

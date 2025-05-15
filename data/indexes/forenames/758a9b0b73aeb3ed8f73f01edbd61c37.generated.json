@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Apollonia",
+        "en": "Apollonia"
+    },
+    "translations": {
+        "la": [
+            "Apollonia"
+        ],
+        "en": [
+            "Apollonia"
+        ],
+        "pl": [
+            "Apolonia"
+        ]
+    },
+    "links": {
+        "records/patrons/apollonia/ale": {
+            "la": "Apollonia de Alexandria",
+            "en": "Apollonia of Alexandria",
+            "pl": "Apolonia z Aleksandrii"
+        }
+    }
+}
