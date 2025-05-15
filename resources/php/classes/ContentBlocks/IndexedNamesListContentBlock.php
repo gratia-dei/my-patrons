@@ -68,8 +68,10 @@ class IndexedNamesListContentBlock extends ContentBlock implements ContentBlockI
         $nameVariable = self::VARIABLE_NAME_SIGN . $recordId . self::VARIABLE_NAME_SIGN;
         $translatedName = $this->getReplacedContent($nameVariable, $textVariables, true);
         $nameHash = $this->getNameHash($this->stripTags($translatedName));
+        $link = "$rootPath/$field/$nameHash";
+
         $variables = [
-            'href' => "$rootPath/$field/$nameHash",
+            'href' => $this->getRecordIdPathWithNameExtension($link, $translatedName),
             'name' => $translatedName,
         ];
 

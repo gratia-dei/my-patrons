@@ -193,8 +193,10 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
             $translatedName = $this->getReplacedContent($variableName, $textVariables, true);
             $nameHash = $this->getNameHash($this->stripTags($translatedName));
 
+            $link = self::INDEXES_ROOT_PATH . '/' . $elementsType . '/' . $nameHash;
+
             $variables = [];
-            $variables['element-href'] = self::INDEXES_ROOT_PATH . '/' . $elementsType . '/' . $nameHash;
+            $variables['element-href'] = $this->getRecordIdPathWithNameExtension($link, $translatedName);
             $variables['element-name'] = $translatedName;
 
             $content = $this->getReplacedContent($itemContent, $variables);
