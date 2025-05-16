@@ -5960,6 +5960,18 @@
             "fr": "Louis"
         }
     },
+    "patrons/ludovicus/mzy": {
+        "active": true,
+        "names": {
+            "pl": "Ludwik Mzyk",
+            "la": "Ludovicus Mzyk",
+            "en": "Louis Mzyk"
+        },
+        "died": [
+            "1940-02-20"
+        ],
+        "feasts": []
+    },
     "patrons/ludovicus/rex": {
         "active": false,
         "names": {

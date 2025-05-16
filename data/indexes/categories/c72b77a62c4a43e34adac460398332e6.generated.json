@@ -1498,6 +1498,11 @@
             "en": "Lucius of Chur",
             "pl": "Lucjusz z Chur"
         },
+        "records/patrons/ludovicus/mzy": {
+            "pl": "Ludwik Mzyk",
+            "la": "Ludovicus Mzyk",
+            "en": "Louis Mzyk"
+        },
         "records/patrons/ludovicus/rex": {
             "fr": "Louis IX, roi de France",
             "la": "Ludovicus IX, rex Franciae",

@@ -494,6 +494,11 @@
             "en": "Lucian of Antioch",
             "pl": "Lucjan z Antiochii"
         },
+        "records/patrons/ludovicus/mzy": {
+            "pl": "Ludwik Mzyk",
+            "la": "Ludovicus Mzyk",
+            "en": "Louis Mzyk"
+        },
         "records/patrons/macarius/mag": {
             "la": "Macarius Magnus",
             "en": "Maracius the Great",

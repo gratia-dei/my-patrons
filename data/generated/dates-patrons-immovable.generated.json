@@ -504,6 +504,29 @@
                 "feast": "20 II",
                 "mr-2004": "20 II: #7"
             }
+        },
+        "records/patrons/ludovicus/mzy": {
+            "name": {
+                "pl": "Ludwik Mzyk",
+                "la": "Ludovicus Mzyk",
+                "en": "Louis Mzyk"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 II"
+            }
+        }
+    },
+    "02-23": {
+        "records/patrons/ludovicus/mzy": {
+            "name": {
+                "pl": "Ludwik Mzyk",
+                "la": "Ludovicus Mzyk",
+                "en": "Louis Mzyk"
+            },
+            "sources": {
+                "feast": "23 II",
+                "mr-2004": "23 II: #9"
+            }
         }
     },
     "02b25": {

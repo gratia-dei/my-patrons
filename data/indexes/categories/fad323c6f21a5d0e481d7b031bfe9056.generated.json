@@ -801,6 +801,11 @@
             "en": "Lucian of Antioch",
             "pl": "Lucjan z Antiochii"
         },
+        "records/patrons/ludovicus/mzy": {
+            "pl": "Ludwik Mzyk",
+            "la": "Ludovicus Mzyk",
+            "en": "Louis Mzyk"
+        },
         "records/patrons/marcellinus/1pp": {
             "la": "Marcellinus Papa",
             "en": "Pope Marcellinus",
