@@ -9225,11 +9225,11 @@
         "feasts": []
     },
     "patrons/stanislaus/kos": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Stanisław Kostka",
-            "en": "Stanislaus Kostka",
-            "la": "Stanislaus Kostka"
+            "la": "Stanislaus Kostka",
+            "en": "Stanislaus Kostka"
         },
         "died": [
             "1568-08-15"
