@@ -184,6 +184,17 @@
             }
         }
     },
+    "02-16": {
+        "records/patrons/iuliana/cam#tic": {
+            "name": {
+                "la": "Iuliana de Nicomedia (Translatio sancti Iulianae)",
+                "pl": "Juliana z Nikomedii (Przeniesienie świętej Juliany)"
+            },
+            "sources": {
+                "mr-1584": "16 II: #2"
+            }
+        }
+    },
     "02-22": {
         "records/patrons/petrus/apo#pca": {
             "name": {

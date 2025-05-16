@@ -200,6 +200,9 @@
     "0e1c2885bc3fcd96020d335699835ac9": {
         "pl": "Róża"
     },
+    "0e670059ef04bb325c77f4d4c8679bff": {
+        "la": "Iuliana"
+    },
     "0e87ad684b8a9be667465b884f0f8f12": {
         "la": "Cosmas",
         "en": "Cosmas"
@@ -1388,6 +1391,10 @@
     "6e23358cf86e4fbcff966002f539bb05": {
         "la": "Caesarius",
         "en": "Caesarius"
+    },
+    "6e5ca558ba6d80449bff46a492971adf": {
+        "en": "Juliana",
+        "pl": "Juliana"
     },
     "6f2ea64569981645cabaa50f57fad71f": {
         "la": "Boleslava",

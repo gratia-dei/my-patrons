@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Juliana",
+        "pl": "Juliana"
+    },
+    "translations": {
+        "la": [
+            "Iuliana"
+        ],
+        "en": [
+            "Juliana"
+        ],
+        "pl": [
+            "Juliana"
+        ]
+    },
+    "links": {
+        "records/patrons/iuliana/cam": {
+            "la": "Iuliana de Nicomedia",
+            "en": "Juliana of Nicomedia",
+            "pl": "Juliana z Nikomedii"
+        }
+    }
+}

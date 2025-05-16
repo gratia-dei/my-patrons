@@ -5530,6 +5530,33 @@
         ],
         "feasts": []
     },
+    "patrons/iuliana": {
+        "names": {
+            "la": "Iuliana",
+            "en": "Juliana",
+            "pl": "Juliana"
+        }
+    },
+    "patrons/iuliana/cam": {
+        "active": true,
+        "names": {
+            "la": "Iuliana de Nicomedia",
+            "en": "Juliana of Nicomedia",
+            "pl": "Juliana z Nikomedii"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": {
+            "feasts/tic": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Iulianae",
+                    "pl": "Przeniesienie świętej Juliany"
+                }
+            }
+        }
+    },
     "patrons/iulitta": {
         "names": {
             "la": "Iulitta",

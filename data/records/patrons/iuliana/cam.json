@@ -1,0 +1,58 @@
+{
+    "names": {
+        "la": [
+            "Iuliana de Nicomedia"
+        ],
+        "en": [
+            "Juliana of Nicomedia"
+        ],
+        "pl": [
+            "Juliana z Nikomedii"
+        ]
+    },
+    "forenames": ["iuliana"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~285"],
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/16#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./16#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tic": {
+            "data-links": {
+                "mr-1584": ["1:Febr./16#2"],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70471",
+        "wiki": "https://pl.wikipedia.org/wiki/Juliana_z_Nikomedii"
+    }
+}
