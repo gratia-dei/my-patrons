@@ -608,6 +608,18 @@
             }
         }
     },
+    "03-05": {
+        "records/patrons/virgilius/are": {
+            "name": {
+                "la": "Virgilius Arelatensis",
+                "en": "Virgilius of Arles",
+                "pl": "Wirgiliusz z Arles"
+            },
+            "sources": {
+                "mr-2004": "5 III: #8"
+            }
+        }
+    },
     "03-07": {
         "records/patrons/thomas/aqu": {
             "name": {

@@ -10045,7 +10045,7 @@
         }
     },
     "patrons/virgilius/are": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Virgilius Arelatensis",
             "en": "Virgilius of Arles",
