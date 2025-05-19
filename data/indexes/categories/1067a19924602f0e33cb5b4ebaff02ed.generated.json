@@ -35,6 +35,11 @@
             "en": "Dionysius Pope",
             "pl": "Dionizy Papież"
         },
+        "records/patrons/felix/3pp": {
+            "la": "Felix III",
+            "en": "Felix III",
+            "pl": "Feliks III"
+        },
         "records/patrons/gregorius/1pp": {
             "la": "Gregorius Magnus",
             "en": "Gregory the Great",

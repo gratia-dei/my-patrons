@@ -215,6 +215,18 @@
             }
         }
     },
+    "01-30": {
+        "records/patrons/felix/3pp": {
+            "name": {
+                "la": "Felix III",
+                "en": "Felix III",
+                "pl": "Feliks III"
+            },
+            "sources": {
+                "mr-1584": "30 I: #7"
+            }
+        }
+    },
     "01-31": {
         "records/patrons/ioannes/bos": {
             "name": {
@@ -552,6 +564,20 @@
             "sources": {
                 "mr-1584": "24 II: #1",
                 "mr-1956": "24 II: #1"
+            }
+        }
+    },
+    "03-01": {
+        "records/patrons/felix/3pp": {
+            "name": {
+                "la": "Felix III",
+                "en": "Felix III",
+                "pl": "Feliks III"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 III",
+                "mr-1956": "1 III: #6",
+                "mr-2004": "1 III: #1"
             }
         }
     },

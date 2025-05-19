@@ -1,0 +1,51 @@
+{
+    "names": {
+        "la": [
+            "Felix III"
+        ],
+        "en": [
+            "Felix III"
+        ],
+        "pl": [
+            "Feliks III"
+        ]
+    },
+    "forenames": ["felix"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Tertius",
+            "en": "the Third",
+            "pl": "Trzeci"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["492-03-01"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./30#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/1#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./1#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#48"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/FL3",
+        "wiki": "https://pl.wikipedia.org/wiki/Feliks_III"
+    }
+}
