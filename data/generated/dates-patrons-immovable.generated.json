@@ -1102,6 +1102,22 @@
             }
         }
     },
+    "05-26": {
+        "records/patrons/philippus/ner": {
+            "name": {
+                "it": "Filippo Neri",
+                "la": "Fhilippus Nerius",
+                "en": "Fhilip Neri",
+                "pl": "Filip Neri"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 V",
+                "feast": "26 V",
+                "mr-1956": "26 V: #1",
+                "mr-2004": "26 V: #1"
+            }
+        }
+    },
     "05-28": {
         "records/patrons/stephanus/wys": {
             "name": {

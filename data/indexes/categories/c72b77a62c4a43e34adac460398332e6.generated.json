@@ -1856,8 +1856,8 @@
         },
         "records/patrons/philippus/ner": {
             "it": "Filippo Neri",
-            "en": "Fhilip Neri",
             "la": "Fhilippus Nerius",
+            "en": "Fhilip Neri",
             "pl": "Filip Neri"
         },
         "records/patrons/philoteus/cae": {

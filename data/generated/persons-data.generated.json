@@ -8237,11 +8237,11 @@
         "feasts": []
     },
     "patrons/philippus/ner": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Filippo Neri",
-            "en": "Fhilip Neri",
             "la": "Fhilippus Nerius",
+            "en": "Fhilip Neri",
             "pl": "Filip Neri"
         },
         "died": [
