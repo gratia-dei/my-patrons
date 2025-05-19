@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Alice"
+    },
+    "translations": {
+        "la": [
+            "Alicia"
+        ],
+        "en": [
+            "Alice"
+        ],
+        "pl": [
+            "Alicja"
+        ]
+    },
+    "links": {
+        "records/patrons/alicia/kot": {
+            "pl": "Alicja Kotowska",
+            "la": "Alicia Kotowska",
+            "en": "Alice Kotowska"
+        }
+    }
+}

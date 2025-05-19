@@ -2917,6 +2917,18 @@
         }
     },
     "11-11": {
+        "records/patrons/alicia/kot": {
+            "name": {
+                "pl": "Alicja Kotowska",
+                "la": "Alicia Kotowska",
+                "en": "Alice Kotowska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 XI",
+                "feast": "11 XI",
+                "mr-2004": "11 XI: #10"
+            }
+        },
         "records/patrons/martinus/tur": {
             "name": {
                 "la": "Martinus Turonensis",

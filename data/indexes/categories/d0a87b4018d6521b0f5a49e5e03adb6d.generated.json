@@ -24,6 +24,11 @@
             "en": "Agnes of Rome",
             "pl": "Agnieszka Rzymianka"
         },
+        "records/patrons/alicia/kot": {
+            "pl": "Alicja Kotowska",
+            "la": "Alicia Kotowska",
+            "en": "Alice Kotowska"
+        },
         "records/patrons/apollonia/ale": {
             "la": "Apollonia de Alexandria",
             "en": "Apollonia of Alexandria",
