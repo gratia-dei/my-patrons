@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "książę"
+        "pl": "Dobry"
     },
     "translations": {
         "la": [
-            "princeps"
+            "Bonus"
         ],
         "en": [
-            "prince"
+            "the Good"
         ],
         "pl": [
-            "książę"
+            "Dobry"
         ]
     },
     "links": {
@@ -18,11 +18,6 @@
             "la": "Carolus Bonus",
             "en": "Charles the Good",
             "pl": "Karol Dobry"
-        },
-        "records/patrons/casimirus/pri": {
-            "pl": "Kazimierz Królewicz",
-            "la": "Casimirus Princeps",
-            "en": "Casimir Jagiellon"
         }
     }
 }

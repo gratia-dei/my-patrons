@@ -2098,6 +2098,18 @@
         ],
         "feasts": []
     },
+    "patrons/carolus/bon": {
+        "active": true,
+        "names": {
+            "la": "Carolus Bonus",
+            "en": "Charles the Good",
+            "pl": "Karol Dobry"
+        },
+        "died": [
+            "1127-03-02"
+        ],
+        "feasts": []
+    },
     "patrons/carolus/bor": {
         "active": true,
         "names": {

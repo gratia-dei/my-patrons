@@ -249,6 +249,11 @@
             "la": "Carolina Kózka",
             "en": "Caroline Kózka"
         },
+        "records/patrons/carolus/bon": {
+            "la": "Carolus Bonus",
+            "en": "Charles the Good",
+            "pl": "Karol Dobry"
+        },
         "records/patrons/carolus/gar": {
             "fr": "Charles Garnier",
             "la": "Carolus Garnier",

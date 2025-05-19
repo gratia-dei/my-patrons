@@ -30,6 +30,11 @@
             "en": "Charles Acutis",
             "pl": "Karol Acutis"
         },
+        "records/patrons/carolus/bon": {
+            "la": "Carolus Bonus",
+            "en": "Charles the Good",
+            "pl": "Karol Dobry"
+        },
         "records/patrons/carolus/bor": {
             "it": "Carlo Borromeo",
             "la": "Carolus Borromeo",

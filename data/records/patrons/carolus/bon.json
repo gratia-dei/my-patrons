@@ -1,0 +1,49 @@
+{
+    "names": {
+        "la": [
+            "Carolus Bonus"
+        ],
+        "en": [
+            "Charles the Good"
+        ],
+        "pl": [
+            "Karol Dobry"
+        ]
+    },
+    "forenames": ["carolus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Bonus",
+            "en": "the Good",
+            "pl": "Dobry"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["~1084"],
+    "died": ["1127-03-02"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "princeps", "comes"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./2#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68685",
+        "wiki": "https://pl.wikipedia.org/wiki/Karol_I_Dobry"
+    }
+}

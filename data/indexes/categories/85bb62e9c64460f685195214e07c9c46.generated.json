@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "książę"
+        "en": "count / countess"
     },
     "translations": {
         "la": [
-            "princeps"
+            "comes / comitissa"
         ],
         "en": [
-            "prince"
+            "count / countess"
         ],
         "pl": [
-            "książę"
+            "hrabia / hrabina"
         ]
     },
     "links": {
@@ -18,11 +18,6 @@
             "la": "Carolus Bonus",
             "en": "Charles the Good",
             "pl": "Karol Dobry"
-        },
-        "records/patrons/casimirus/pri": {
-            "pl": "Kazimierz Królewicz",
-            "la": "Casimirus Princeps",
-            "en": "Casimir Jagiellon"
         }
     }
 }

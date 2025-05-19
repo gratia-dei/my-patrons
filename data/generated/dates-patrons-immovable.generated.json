@@ -581,6 +581,19 @@
             }
         }
     },
+    "03-02": {
+        "records/patrons/carolus/bon": {
+            "name": {
+                "la": "Carolus Bonus",
+                "en": "Charles the Good",
+                "pl": "Karol Dobry"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 III",
+                "mr-2004": "2 III: #5"
+            }
+        }
+    },
     "03-04": {
         "records/patrons/casimirus/pri": {
             "name": {

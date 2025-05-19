@@ -84,6 +84,11 @@
         "en": "cenobite",
         "pl": "cenobita"
     },
+    "comes": {
+        "la": "comes / comitissa",
+        "en": "count / countess",
+        "pl": "hrabia / hrabina"
+    },
     "conditor": {
         "la": "conditor / conditrix",
         "en": "creator / creatress",
