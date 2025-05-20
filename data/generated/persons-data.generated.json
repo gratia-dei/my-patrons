@@ -3359,14 +3359,14 @@
         }
     },
     "patrons/felicitas/car": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
         },
         "died": [
-            "~203-03-07"
+            "~203"
         ],
         "feasts": []
     },
@@ -7989,14 +7989,14 @@
         }
     },
     "patrons/perpetua/car": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Perpetua Carthaginensis",
             "en": "Perpetua of Carthage",
             "pl": "Perpetua z Kartaginy"
         },
         "died": [
-            "~203-03-07"
+            "~203"
         ],
         "feasts": []
     },

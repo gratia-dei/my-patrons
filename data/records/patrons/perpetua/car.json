@@ -1,25 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Perpetua Carthaginensis"
-    ],
-    "en": [
-      "Perpetua of Carthage"
-    ],
-    "pl": [
-      "Perpetua z Kartaginy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Perpetua Carthaginensis"
+        ],
+        "en": [
+            "Perpetua of Carthage"
+        ],
+        "pl": [
+            "Perpetua z Kartaginy"
+        ]
+    },
+    "forenames": ["perpetua"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~181"],
-  "died": ["~203-03-07"],
+    "active": true,
 
-  "also-in-martyrology": ["03-07"],
+    "born": ["~181"],
+    "died": ["~203"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["perpetua"],
-  "categories": ["femina", "martyr", "catechumena"],
+    "categories": ["femina", "martyr", "catechumena"],
 
-  "data-linksx": {
-    "mr-1956": ["1:mar/6#1"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Mart./7#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/6#1", "1:Martii/7#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./7#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69133",
+        "wiki": "https://pl.wikipedia.org/wiki/Perpetua_z_Kartaginy"
+    }
 }

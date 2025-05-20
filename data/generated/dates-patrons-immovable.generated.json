@@ -620,6 +620,28 @@
             }
         }
     },
+    "03-06": {
+        "records/patrons/felicitas/car": {
+            "name": {
+                "la": "Felicitas Carthaginensis",
+                "en": "Felicity of Carthage",
+                "pl": "Felicyta z Kartaginy"
+            },
+            "sources": {
+                "mr-1956": "6 III: #1"
+            }
+        },
+        "records/patrons/perpetua/car": {
+            "name": {
+                "la": "Perpetua Carthaginensis",
+                "en": "Perpetua of Carthage",
+                "pl": "Perpetua z Kartaginy"
+            },
+            "sources": {
+                "mr-1956": "6 III: #1"
+            }
+        }
+    },
     "03-07": {
         "records/patrons/thomas/aqu": {
             "name": {
@@ -633,6 +655,30 @@
                 "mr-1584": "7 III: #1",
                 "mr-1956": "7 III: #1",
                 "mr-2004": "7 III: #9"
+            }
+        },
+        "records/patrons/felicitas/car": {
+            "name": {
+                "la": "Felicitas Carthaginensis",
+                "en": "Felicity of Carthage",
+                "pl": "Felicyta z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "7 III: #2",
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #1"
+            }
+        },
+        "records/patrons/perpetua/car": {
+            "name": {
+                "la": "Perpetua Carthaginensis",
+                "en": "Perpetua of Carthage",
+                "pl": "Perpetua z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "7 III: #2",
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #1"
             }
         }
     },
