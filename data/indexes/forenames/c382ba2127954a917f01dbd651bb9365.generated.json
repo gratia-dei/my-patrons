@@ -15,6 +15,11 @@
         ]
     },
     "links": {
+        "records/patrons/saturninus/car": {
+            "la": "Saturninus Carthaginensis",
+            "en": "Saturnin of Carthage",
+            "pl": "Saturnin z Kartaginy"
+        },
         "records/patrons/saturninus/tol": {
             "la": "Saturninus Tolosanensis",
             "en": "Saturnin of Toulouse",

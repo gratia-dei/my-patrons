@@ -69,10 +69,10 @@
         "en": "catechist",
         "pl": "katechista"
     },
-    "catechumena": {
-        "la": "catechumena",
+    "catechumenus": {
+        "la": "catechumenus / catechumena",
         "en": "catechumen",
-        "pl": "katechumenka"
+        "pl": "katechumen / katechumenka"
     },
     "coadiutor-temporalis": {
         "la": "coadiutor temporalis",

@@ -621,21 +621,21 @@
         }
     },
     "03-06": {
-        "records/patrons/felicitas/car": {
-            "name": {
-                "la": "Felicitas Carthaginensis",
-                "en": "Felicity of Carthage",
-                "pl": "Felicyta z Kartaginy"
-            },
-            "sources": {
-                "mr-1956": "6 III: #1"
-            }
-        },
         "records/patrons/perpetua/car": {
             "name": {
                 "la": "Perpetua Carthaginensis",
                 "en": "Perpetua of Carthage",
                 "pl": "Perpetua z Kartaginy"
+            },
+            "sources": {
+                "mr-1956": "6 III: #1"
+            }
+        },
+        "records/patrons/felicitas/car": {
+            "name": {
+                "la": "Felicitas Carthaginensis",
+                "en": "Felicity of Carthage",
+                "pl": "Felicyta z Kartaginy"
             },
             "sources": {
                 "mr-1956": "6 III: #1"
@@ -657,6 +657,18 @@
                 "mr-2004": "7 III: #9"
             }
         },
+        "records/patrons/perpetua/car": {
+            "name": {
+                "la": "Perpetua Carthaginensis",
+                "en": "Perpetua of Carthage",
+                "pl": "Perpetua z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "7 III: #2",
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #1"
+            }
+        },
         "records/patrons/felicitas/car": {
             "name": {
                 "la": "Felicitas Carthaginensis",
@@ -669,16 +681,51 @@
                 "mr-2004": "7 III: #1"
             }
         },
-        "records/patrons/perpetua/car": {
+        "records/patrons/revocatus/car": {
             "name": {
-                "la": "Perpetua Carthaginensis",
-                "en": "Perpetua of Carthage",
-                "pl": "Perpetua z Kartaginy"
+                "la": "Revocatus Carthaginensis",
+                "en": "Revocatus of Carthage",
+                "pl": "Rewokatus z Kartaginy"
             },
             "sources": {
                 "mr-1584": "7 III: #2",
                 "mr-1956": "7 III: #2",
-                "mr-2004": "7 III: #1"
+                "mr-2004": "7 III: #2"
+            }
+        },
+        "records/patrons/saturninus/car": {
+            "name": {
+                "la": "Saturninus Carthaginensis",
+                "en": "Saturnin of Carthage",
+                "pl": "Saturnin z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "7 III: #2",
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #2"
+            }
+        },
+        "records/patrons/secundinus/car": {
+            "name": {
+                "la": "Secundulus Carthaginensis",
+                "en": "Secundulus of Carthage",
+                "pl": "Sekundulus z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "7 III: #2",
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #2"
+            }
+        },
+        "records/patrons/satyrus/car": {
+            "name": {
+                "la": "Satyrus Carthaginensis",
+                "en": "Satyrus of Carthage",
+                "pl": "Satur z Kartaginy"
+            },
+            "sources": {
+                "mr-1956": "7 III: #2",
+                "mr-2004": "7 III: #2"
             }
         }
     },

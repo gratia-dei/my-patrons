@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Revocatus",
+        "en": "Revocatus"
+    },
+    "translations": {
+        "la": [
+            "Revocatus"
+        ],
+        "en": [
+            "Revocatus"
+        ],
+        "pl": [
+            "Rewokatus"
+        ]
+    },
+    "links": {
+        "records/patrons/revocatus/car": {
+            "la": "Revocatus Carthaginensis",
+            "en": "Revocatus of Carthage",
+            "pl": "Rewokatus z Kartaginy"
+        }
+    }
+}

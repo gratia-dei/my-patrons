@@ -1548,6 +1548,11 @@
         "en": "Respicius",
         "pl": "Respicjusz"
     },
+    "revocatus": {
+        "la": "Revocatus",
+        "en": "Revocatus",
+        "pl": "Rewokatus"
+    },
     "richardus": {
         "la": "Richardus",
         "en": "Richard",
@@ -1651,6 +1656,11 @@
         "en": "Saturnin",
         "pl": "Saturnin"
     },
+    "satyrus": {
+        "la": "Satyrus",
+        "en": "Satyrus",
+        "pl": "Satur"
+    },
     "sbigneus": {
         "la": "Sbigneus",
         "en": "Zbigniew",
@@ -1660,6 +1670,16 @@
         "la": "Sebastianus",
         "en": "Sebastian",
         "pl": "Sebastian"
+    },
+    "secundinus": {
+        "la": "Secundinus",
+        "en": "Secundinus",
+        "pl": "Sekundyn"
+    },
+    "secundulus": {
+        "la": "Secundulus",
+        "en": "Secundulus",
+        "pl": "Sekundulus"
     },
     "secundus": {
         "la": "Secundus",

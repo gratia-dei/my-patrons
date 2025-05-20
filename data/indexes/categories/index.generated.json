@@ -153,9 +153,6 @@
     "31f48939f268e29ba8755294708c3a76": {
         "pl": "archidiakon"
     },
-    "3214ae902047effa83bf2af517b12559": {
-        "pl": "katechumenka"
-    },
     "3266f37b2660846d69a2ce87f6296e29": {
         "en": "creator / creatress"
     },
@@ -416,9 +413,6 @@
     "a3f2decfa6e0d566fef69a10713738cd": {
         "en": "archangel"
     },
-    "a44995c5a8df1a72598558b5a373fb19": {
-        "la": "catechumena"
-    },
     "a4d5c94cc63a3c518220b8ced01ec727": {
         "en": "former / formatress"
     },
@@ -477,6 +471,9 @@
     },
     "b490d6490ba06d86498ce87d410767ff": {
         "en": "child / boy / girl"
+    },
+    "b5d54719a1901bafe97551a7ae324cbf": {
+        "la": "catechumenus / catechumena"
     },
     "b637af78ada000a39023b4ead9db041a": {
         "en": "acolyte"
@@ -577,6 +574,9 @@
     },
     "d91c5aa06eafa992b792d9cdba299195": {
         "la": "femina"
+    },
+    "d9b6b06400504ab896ae492b3aaee18d": {
+        "pl": "katechumen / katechumenka"
     },
     "db0f6f37ebeb6ea09489124345af2a45": {
         "en": "group"
