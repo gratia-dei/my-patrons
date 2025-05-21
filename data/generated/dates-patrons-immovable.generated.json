@@ -742,6 +742,20 @@
                 "feast": "9 III",
                 "mr-2004": "9 III: #7"
             }
+        },
+        "records/patrons/francisca/rom": {
+            "name": {
+                "it": "Francesca Romana",
+                "la": "Francisca Romana",
+                "en": "Frances of Rome",
+                "pl": "Franciszka Rzymianka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 III",
+                "feast": "9 III",
+                "mr-1956": "9 III: #1",
+                "mr-2004": "9 III: #1"
+            }
         }
     },
     "03-16": {

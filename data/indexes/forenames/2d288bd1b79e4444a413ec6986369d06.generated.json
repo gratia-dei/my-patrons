@@ -17,6 +17,12 @@
         ]
     },
     "links": {
+        "records/patrons/francisca/rom": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
         "records/patrons/maria/gal": {
             "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
             "en": "Mary Frances of the Wounds of our Lord Jesus Christ",

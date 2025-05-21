@@ -44,6 +44,12 @@
             "la": "Elisabeth Aragonae",
             "pl": "Elżbieta Aragońska"
         },
+        "records/patrons/francisca/rom": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
         "records/patrons/hedwigis/duc": {
             "de": "Hedwig von Andechs",
             "en": "Hedwig of Silesia",

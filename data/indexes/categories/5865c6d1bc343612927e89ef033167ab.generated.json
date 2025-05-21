@@ -39,6 +39,12 @@
             "en": "Felix of Cordoba; with him, i.a., Liliosa",
             "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
+        "records/patrons/francisca/rom": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
             "en": "Francis Borgia",

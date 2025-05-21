@@ -3460,6 +3460,27 @@
         ],
         "feasts": []
     },
+    "patrons/francisca": {
+        "names": {
+            "la": "Francisca",
+            "en": "Frances",
+            "pl": "Franciszka",
+            "it": "Francesca"
+        }
+    },
+    "patrons/francisca/rom": {
+        "active": true,
+        "names": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
+        "died": [
+            "1440-03-09"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus": {
         "names": {
             "la": "Franciscus",

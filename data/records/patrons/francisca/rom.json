@@ -1,0 +1,57 @@
+{
+    "names": {
+        "it": [
+            "Francesca Romana",
+            "Francesca Bussa de' Leoni",
+            "Francesca Ponziani"
+        ],
+        "la": [
+            "Francisca Romana",
+            "Francisca Bussa de' Leoni",
+            "Francisca Ponziani"
+        ],
+        "en": [
+            "Frances of Rome",
+            "Frances Bussa de' Leoni",
+            "Frances Ponziani"
+        ],
+        "pl": [
+            "Franciszka Rzymianka",
+            "Franciszka Bussa de' Leoni",
+            "Franciszka Ponziani"
+        ]
+    },
+    "forenames": ["francisca"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1384"],
+    "died": ["1440-03-09"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1608-05-29"
+    },
+    "anniversary": ["03-09"],
+
+    "categories": ["femina", "vidua", "coniunx", "materfamilias", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/9#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francesca-romana.html",
+        "gcatholic": "https://gcatholic.org/p/68296",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszka_Rzymianka"
+    }
+}
