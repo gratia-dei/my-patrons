@@ -1,0 +1,52 @@
+{
+    "names": {
+        "es": [
+            "Toribio de Mogrovejo"
+        ],
+        "la": [
+            "Turibius de Mogrovejo"
+        ],
+        "en": [
+            "Turibius of Mogrovejo"
+        ],
+        "pl": [
+            "Turybiusz de Mogrovejo"
+        ]
+    },
+    "forenames": ["turibius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1538-11-16"],
+    "died": ["1606-03-23"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1679-07-02"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1726-12-10"
+    },
+    "anniversary": ["03-23"],
+
+    "categories": ["vir", "episcopus", "iurisperitus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/23#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/turibio-de-mogrovejo.html",
+        "gcatholic": "https://gcatholic.org/p/19316",
+        "wiki": "https://pl.wikipedia.org/wiki/Turybiusz_de_Mogrovejo"
+    }
+}

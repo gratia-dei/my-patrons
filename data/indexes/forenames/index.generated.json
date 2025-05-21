@@ -1568,6 +1568,10 @@
         "en": "Eulalie",
         "fr": "Eulalie"
     },
+    "7b8b009665c0587fc8c3ca8cc4fd74e6": {
+        "la": "Turibius",
+        "en": "Turibius"
+    },
     "7b911b8e5e146c51ed1311a745ab8d3d": {
         "la": "Ephraem"
     },
@@ -2672,6 +2676,9 @@
     "caf2eea078785215b37d7aa01246689f": {
         "pl": "Floskul"
     },
+    "cb0543c68ead36ca8ea600dff97bda88": {
+        "es": "Toribio"
+    },
     "cb36e506dba9ff6cbcb3683fc8d6668d": {
         "en": "Wilfrid",
         "pl": "Wilfrid"
@@ -2993,6 +3000,9 @@
     "e355ec3b68d0fffc37d181f2da9d2fa3": {
         "es": "Francisco",
         "pt": "Francisco"
+    },
+    "e35b7bd8f8280be513770231f62192e3": {
+        "pl": "Turybiusz"
     },
     "e381226249d1f6124050bc58326edeef": {
         "la": "Patricius"

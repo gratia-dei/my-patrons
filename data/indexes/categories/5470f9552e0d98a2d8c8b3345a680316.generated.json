@@ -568,6 +568,12 @@
             "en": "Titus of Crete",
             "pl": "Tytus z Krety"
         },
+        "records/patrons/turibius/mog": {
+            "es": "Toribio de Mogrovejo",
+            "la": "Turibius de Mogrovejo",
+            "en": "Turibius of Mogrovejo",
+            "pl": "Turybiusz de Mogrovejo"
+        },
         "records/patrons/valerianus/ave": {
             "la": "Valerianus, episcopus Avensan.",
             "en": "Valerian of Abbenza",

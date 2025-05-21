@@ -961,6 +961,22 @@
             }
         }
     },
+    "03-23": {
+        "records/patrons/turibius/mog": {
+            "name": {
+                "es": "Toribio de Mogrovejo",
+                "la": "Turibius de Mogrovejo",
+                "en": "Turibius of Mogrovejo",
+                "pl": "Turybiusz de Mogrovejo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "23 III",
+                "feast": "23 III",
+                "mr-1956": "23 III: #6",
+                "mr-2004": "23 III: #1"
+            }
+        }
+    },
     "03-24": {
         "records/patrons/antonius/ulm": {
             "name": {

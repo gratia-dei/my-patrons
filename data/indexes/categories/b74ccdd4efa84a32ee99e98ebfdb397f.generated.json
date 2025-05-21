@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "prawnik"
+    },
+    "translations": {
+        "la": [
+            "iurisperitus"
+        ],
+        "en": [
+            "lawyer"
+        ],
+        "pl": [
+            "prawnik"
+        ]
+    },
+    "links": {
+        "records/patrons/turibius/mog": {
+            "es": "Toribio de Mogrovejo",
+            "la": "Turibius de Mogrovejo",
+            "en": "Turibius of Mogrovejo",
+            "pl": "Turybiusz de Mogrovejo"
+        }
+    }
+}

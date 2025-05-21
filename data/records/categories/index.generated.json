@@ -184,6 +184,11 @@
         "en": "instituter / institutress",
         "pl": "instytutor / instytutorka"
     },
+    "iurisperitus": {
+        "la": "iurisperitus",
+        "en": "lawyer",
+        "pl": "prawnik"
+    },
     "levita": {
         "la": "levita",
         "en": "levi",

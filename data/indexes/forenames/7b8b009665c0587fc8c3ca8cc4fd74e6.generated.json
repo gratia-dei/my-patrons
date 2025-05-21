@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Turibius",
+        "en": "Turibius"
+    },
+    "translations": {
+        "la": [
+            "Turibius"
+        ],
+        "en": [
+            "Turibius"
+        ],
+        "pl": [
+            "Turybiusz"
+        ],
+        "es": [
+            "Toribio"
+        ]
+    },
+    "links": {
+        "records/patrons/turibius/mog": {
+            "es": "Toribio de Mogrovejo",
+            "la": "Turibius de Mogrovejo",
+            "en": "Turibius of Mogrovejo",
+            "pl": "Turybiusz de Mogrovejo"
+        }
+    }
+}

@@ -9985,6 +9985,27 @@
         "died": [],
         "feasts": []
     },
+    "patrons/turibius": {
+        "names": {
+            "la": "Turibius",
+            "en": "Turibius",
+            "pl": "Turybiusz",
+            "es": "Toribio"
+        }
+    },
+    "patrons/turibius/mog": {
+        "active": true,
+        "names": {
+            "es": "Toribio de Mogrovejo",
+            "la": "Turibius de Mogrovejo",
+            "en": "Turibius of Mogrovejo",
+            "pl": "Turybiusz de Mogrovejo"
+        },
+        "died": [
+            "1606-03-23"
+        ],
+        "feasts": []
+    },
     "patrons/urbanus": {
         "names": {
             "la": "Urbanus",
