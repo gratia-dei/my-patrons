@@ -1,16 +1,13 @@
 {
     "names": {
         "la": [
-            "Secundulus Carthaginensis",
-            "Secundinus Carthaginensis"
+            "Secundulus seu Secundinus Carthaginensis"
         ],
         "en": [
-            "Secundulus of Carthage",
-            "Secundinus of Carthage"
+            "Secundulus or Secundinus of Carthage"
         ],
         "pl": [
-            "Sekundulus z Kartaginy",
-            "Sekundyn z Kartaginy"
+            "Sekundulus lub Sekundyn z Kartaginy"
         ]
     },
     "forenames": ["secundinus", "secundulus"],

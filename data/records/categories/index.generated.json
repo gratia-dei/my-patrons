@@ -329,6 +329,11 @@
         "en": "old person",
         "pl": "starzec"
     },
+    "servus": {
+        "la": "servus / serva",
+        "en": "slave",
+        "pl": "niewolnik / niewolnica"
+    },
     "socia": {
         "la": "socia",
         "en": "group",

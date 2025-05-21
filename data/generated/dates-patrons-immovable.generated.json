@@ -707,9 +707,9 @@
         },
         "records/patrons/secundinus/car": {
             "name": {
-                "la": "Secundulus Carthaginensis",
-                "en": "Secundulus of Carthage",
-                "pl": "Sekundulus z Kartaginy"
+                "la": "Secundulus seu Secundinus Carthaginensis",
+                "en": "Secundulus or Secundinus of Carthage",
+                "pl": "Sekundulus lub Sekundyn z Kartaginy"
             },
             "sources": {
                 "mr-1584": "7 III: #2",

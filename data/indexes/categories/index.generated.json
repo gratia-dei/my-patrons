@@ -1,4 +1,7 @@
 {
+    "03158cf39c6f316f9ce98a4e034cdc28": {
+        "en": "slave"
+    },
     "0367205ba9d9ef14735884d4b3f2e7a3": {
         "en": "doctor of the Church"
     },
@@ -194,6 +197,9 @@
     },
     "427023ff7e5f28a11e61fce0b4917b57": {
         "en": "cardinal"
+    },
+    "446f62489dfa78c00b6c24d666c8d468": {
+        "pl": "niewolnik / niewolnica"
     },
     "45bc88a1cec11f28939332d6c1fb1d88": {
         "en": "pilgrim"
@@ -629,6 +635,9 @@
     },
     "fc312f6500885babfda4fe794afead82": {
         "pl": "biskup kardynał"
+    },
+    "fc96676cb6bcabbc24051d6afa1e6d8f": {
+        "la": "servus / serva"
     },
     "fcefc137babc8d872498f1549ee72735": {
         "en": "Mother of God"

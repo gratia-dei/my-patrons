@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "servus / serva"
+    },
+    "translations": {
+        "la": [
+            "servus / serva"
+        ],
+        "en": [
+            "slave"
+        ],
+        "pl": [
+            "niewolnik / niewolnica"
+        ]
+    },
+    "links": {
+        "records/patrons/felicitas/car": {
+            "la": "Felicitas Carthaginensis",
+            "en": "Felicity of Carthage",
+            "pl": "Felicyta z Kartaginy"
+        }
+    }
+}
