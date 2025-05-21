@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Feliks"
+        ],
+        "it": [
+            "Felice"
         ]
     },
     "links": {
@@ -18,6 +21,12 @@
             "la": "Felix III",
             "en": "Felix III",
             "pl": "Feliks III"
+        },
+        "records/patrons/felix/aqu": {
+            "it": "Felice da Aquileia",
+            "la": "Felix de Aquileia",
+            "en": "Felix of Aquileia",
+            "pl": "Feliks z Akwilei"
         },
         "records/patrons/felix/lil": {
             "la": "Felix de Corduba; cum eo, i.a., Liliosa",

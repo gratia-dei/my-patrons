@@ -2749,6 +2749,7 @@
             "pl": "Dionizy",
             "el": "Διονύσιος",
             "fr": "Denis",
+            "it": "Dionigi",
             "grc": "Διονύσιος"
         }
     },
@@ -2761,6 +2762,19 @@
         },
         "died": [
             "268-12-26"
+        ],
+        "feasts": []
+    },
+    "patrons/dionysius/aqu": {
+        "active": true,
+        "names": {
+            "it": "Dionigi da Aquileia",
+            "la": "Dionysius de Aquileia",
+            "en": "Denis of Aquileia",
+            "pl": "Dionizy z Akwilei"
+        },
+        "died": [
+            "~284"
         ],
         "feasts": []
     },
@@ -3374,7 +3388,8 @@
         "names": {
             "la": "Felix",
             "en": "Felix",
-            "pl": "Feliks"
+            "pl": "Feliks",
+            "it": "Felice"
         }
     },
     "patrons/felix/3pp": {
@@ -3386,6 +3401,19 @@
         },
         "died": [
             "492-03-01"
+        ],
+        "feasts": []
+    },
+    "patrons/felix/aqu": {
+        "active": true,
+        "names": {
+            "it": "Felice da Aquileia",
+            "la": "Felix de Aquileia",
+            "en": "Felix of Aquileia",
+            "pl": "Feliks z Akwilei"
+        },
+        "died": [
+            "~284"
         ],
         "feasts": []
     },
@@ -4252,7 +4280,8 @@
         "names": {
             "la": "Hilarius",
             "en": "Hillary",
-            "pl": "Hilary"
+            "pl": "Hilary",
+            "it": "Ilario"
         }
     },
     "patrons/hilarius/1pp": {
@@ -4264,6 +4293,19 @@
         },
         "died": [
             "468-02-29"
+        ],
+        "feasts": []
+    },
+    "patrons/hilarius/aqu": {
+        "active": true,
+        "names": {
+            "it": "Ilario da Aquileia",
+            "la": "Hilarius de Aquileia",
+            "en": "Hilarius of Aquileia",
+            "pl": "Hilary z Akwilei"
+        },
+        "died": [
+            "~284"
         ],
         "feasts": []
     },
@@ -5738,6 +5780,27 @@
         },
         "died": [
             "1293-07-24"
+        ],
+        "feasts": []
+    },
+    "patrons/largus": {
+        "names": {
+            "la": "Largus",
+            "en": "Largus",
+            "pl": "Largus",
+            "it": "Largo"
+        }
+    },
+    "patrons/largus/aqu": {
+        "active": true,
+        "names": {
+            "it": "Largo da Aquileia",
+            "la": "Largus de Aquileia",
+            "en": "Largus of Aquileia",
+            "pl": "Largus z Akwilei"
+        },
+        "died": [
+            "~284"
         ],
         "feasts": []
     },
@@ -9516,6 +9579,27 @@
         },
         "died": [
             "~257"
+        ],
+        "feasts": []
+    },
+    "patrons/tatianus": {
+        "names": {
+            "la": "Tatianus",
+            "en": "Tatian",
+            "pl": "Tacjan",
+            "it": "Taziano"
+        }
+    },
+    "patrons/tatianus/aqu": {
+        "active": true,
+        "names": {
+            "it": "Taziano da Aquileia",
+            "la": "Tatianus de Aquileia",
+            "en": "Tatian of Aquileia",
+            "pl": "Tacjan z Akwilei"
+        },
+        "died": [
+            "~284"
         ],
         "feasts": []
     },

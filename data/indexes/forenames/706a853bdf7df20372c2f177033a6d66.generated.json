@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Tacjan"
+    },
+    "translations": {
+        "la": [
+            "Tatianus"
+        ],
+        "en": [
+            "Tatian"
+        ],
+        "pl": [
+            "Tacjan"
+        ],
+        "it": [
+            "Taziano"
+        ]
+    },
+    "links": {
+        "records/patrons/tatianus/aqu": {
+            "it": "Taziano da Aquileia",
+            "la": "Tatianus de Aquileia",
+            "en": "Tatian of Aquileia",
+            "pl": "Tacjan z Akwilei"
+        }
+    }
+}

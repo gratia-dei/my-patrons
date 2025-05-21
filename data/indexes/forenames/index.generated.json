@@ -292,6 +292,9 @@
         "de": "Elisabeth",
         "fr": "Elisabeth"
     },
+    "15b3ad73d516f71f056f25338113194c": {
+        "it": "Dionigi"
+    },
     "15ee155819a50644185bde68f02a49bc": {
         "en": "Berthold"
     },
@@ -893,6 +896,9 @@
     "43362b4ebdd6c8436c9165c6fe774540": {
         "pl": "Onezyfor"
     },
+    "435766f6d426307db5205e287627bcd6": {
+        "it": "Taziano"
+    },
     "435d1271c205e18ae7af937c8d770bf0": {
         "en": "Benedict"
     },
@@ -977,6 +983,9 @@
     },
     "47c06b7fdd76ec94a69833fe8a3b810d": {
         "la": "Ansgarius"
+    },
+    "47f932578c50f7a3d1290613c2b9b394": {
+        "la": "Tatianus"
     },
     "481b810c94cf02454649fc3a07111a81": {
         "la": "Ioachim"
@@ -1439,6 +1448,9 @@
     "7054538b40ef37810d18e472cd78e7db": {
         "pl": "Atanazy"
     },
+    "706a853bdf7df20372c2f177033a6d66": {
+        "pl": "Tacjan"
+    },
     "70936557f778b0f4fc3f1af9335b9f8f": {
         "it": "Giustino"
     },
@@ -1683,6 +1695,9 @@
     "868694d8ebdf741537033c24eac17042": {
         "la": "Ezechiel",
         "pl": "Ezechiel"
+    },
+    "86ae6eda4c25e1ddf79a4c5b4166dfe9": {
+        "it": "Felice"
     },
     "86ce8efaf6b90a32152487e676c9ff43": {
         "la": "Dorothea",
@@ -2353,6 +2368,11 @@
         "en": "Roman",
         "pl": "Roman"
     },
+    "b62b60881ed395029082646c6b223186": {
+        "la": "Largus",
+        "en": "Largus",
+        "pl": "Largus"
+    },
     "b661c75cd69e245a2b9f3be5bbcfbe46": {
         "la": "Josephus"
     },
@@ -2466,6 +2486,9 @@
     "bc5c61c02bf6424ed2c697ab2ef99c92": {
         "en": "Emanuel",
         "pl": "Emanuel"
+    },
+    "bc61f38c56c7394c8b87e49fcaebd556": {
+        "it": "Largo"
     },
     "bc6d18d4553306b76115602aa3c8516f": {
         "la": "Chrysanthus",
@@ -2952,6 +2975,9 @@
     "e12d44d1e48835aadbc6964f24112a03": {
         "vi": "Phaolô"
     },
+    "e21ee856a6053cba9588a94fbeef90bb": {
+        "en": "Tatian"
+    },
     "e24b41208d2416014c52b398b5132eac": {
         "en": "Roch",
         "pl": "Roch",
@@ -3104,6 +3130,9 @@
     },
     "ef80b17416b08d5aaba18bf742263a29": {
         "pl": "Marcelin"
+    },
+    "efa57c288e3656aa76200e906937ce75": {
+        "it": "Ilario"
     },
     "eff50bb852e73d1fd010dc2c15e0784d": {
         "la": "Melchior",

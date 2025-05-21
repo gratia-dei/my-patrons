@@ -18,6 +18,9 @@
         "fr": [
             "Denis"
         ],
+        "it": [
+            "Dionigi"
+        ],
         "grc": [
             "Διονύσιος"
         ]
@@ -27,6 +30,12 @@
             "la": "Dionysius Papa",
             "en": "Dionysius Pope",
             "pl": "Dionizy Papież"
+        },
+        "records/patrons/dionysius/aqu": {
+            "it": "Dionigi da Aquileia",
+            "la": "Dionysius de Aquileia",
+            "en": "Denis of Aquileia",
+            "pl": "Dionizy z Akwilei"
         },
         "records/patrons/dionysius/are": {
             "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",

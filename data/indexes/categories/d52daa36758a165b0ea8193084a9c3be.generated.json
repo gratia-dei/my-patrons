@@ -52,6 +52,12 @@
             "en": "Stephen Protomartyr",
             "la": "Stephanus protomartyr",
             "pl": "Szczepan Pramęczennik"
+        },
+        "records/patrons/tatianus/aqu": {
+            "it": "Taziano da Aquileia",
+            "la": "Tatianus de Aquileia",
+            "en": "Tatian of Aquileia",
+            "pl": "Tacjan z Akwilei"
         }
     }
 }

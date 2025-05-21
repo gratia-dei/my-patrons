@@ -363,6 +363,12 @@
             "la": "Didacus Aloysius de San Vitores",
             "pl": "Dydak Alojzy de San Vitores"
         },
+        "records/patrons/dionysius/aqu": {
+            "it": "Dionigi da Aquileia",
+            "la": "Dionysius de Aquileia",
+            "en": "Denis of Aquileia",
+            "pl": "Dionizy z Akwilei"
+        },
         "records/patrons/dionysius/lut": {
             "fr": "Denis de Paris, avec lui, a.o., Rustique",
             "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
@@ -464,6 +470,12 @@
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
         },
+        "records/patrons/felix/aqu": {
+            "it": "Felice da Aquileia",
+            "la": "Felix de Aquileia",
+            "en": "Felix of Aquileia",
+            "pl": "Feliks z Akwilei"
+        },
         "records/patrons/felix/lil": {
             "la": "Felix de Corduba; cum eo, i.a., Liliosa",
             "en": "Felix of Cordoba; with him, i.a., Liliosa",
@@ -557,6 +569,12 @@
             "en": "Henry Morant Pellicer",
             "la": "Henricus Morant Pellicer",
             "pl": "Henryk Morant Pellicer"
+        },
+        "records/patrons/hilarius/aqu": {
+            "it": "Ilario da Aquileia",
+            "la": "Hilarius de Aquileia",
+            "en": "Hilarius of Aquileia",
+            "pl": "Hilary z Akwilei"
         },
         "records/patrons/hilarius/jan": {
             "pl": "Hilary Januszewski",
@@ -784,6 +802,12 @@
             "la": "Iustus /+ Pastor",
             "en": "Justus /+ Pastor",
             "pl": "Just /+ Pastor"
+        },
+        "records/patrons/largus/aqu": {
+            "it": "Largo da Aquileia",
+            "la": "Largus de Aquileia",
+            "en": "Largus of Aquileia",
+            "pl": "Largus z Akwilei"
         },
         "records/patrons/laurentius/rom": {
             "la": "Laurentius de Roma",
@@ -1269,6 +1293,12 @@
             "la": "Tarsicius Acolytus",
             "en": "Tarcisius Acolyte",
             "pl": "Tarsycjusz Akolita"
+        },
+        "records/patrons/tatianus/aqu": {
+            "it": "Taziano da Aquileia",
+            "la": "Tatianus de Aquileia",
+            "en": "Tatian of Aquileia",
+            "pl": "Tacjan z Akwilei"
         },
         "records/patrons/teresia/ste": {
             "de": "Therese Benedicta vom Kreuz",

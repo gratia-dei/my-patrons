@@ -773,6 +773,68 @@
                 "mr-2004": "16 III: #8"
             }
         },
+        "records/patrons/hilarius/aqu": {
+            "name": {
+                "it": "Ilario da Aquileia",
+                "la": "Hilarius de Aquileia",
+                "en": "Hilarius of Aquileia",
+                "pl": "Hilary z Akwilei"
+            },
+            "sources": {
+                "mr-1584": "16 III: #2",
+                "mr-1956": "16 III: #2",
+                "mr-2004": "16 III: #1"
+            }
+        },
+        "records/patrons/tatianus/aqu": {
+            "name": {
+                "it": "Taziano da Aquileia",
+                "la": "Tatianus de Aquileia",
+                "en": "Tatian of Aquileia",
+                "pl": "Tacjan z Akwilei"
+            },
+            "sources": {
+                "mr-1584": "16 III: #2",
+                "mr-1956": "16 III: #2",
+                "mr-2004": "16 III: #1"
+            }
+        },
+        "records/patrons/felix/aqu": {
+            "name": {
+                "it": "Felice da Aquileia",
+                "la": "Felix de Aquileia",
+                "en": "Felix of Aquileia",
+                "pl": "Feliks z Akwilei"
+            },
+            "sources": {
+                "mr-1584": "16 III: #2",
+                "mr-1956": "16 III: #2"
+            }
+        },
+        "records/patrons/largus/aqu": {
+            "name": {
+                "it": "Largo da Aquileia",
+                "la": "Largus de Aquileia",
+                "en": "Largus of Aquileia",
+                "pl": "Largus z Akwilei"
+            },
+            "sources": {
+                "mr-1584": "16 III: #2",
+                "mr-1956": "16 III: #2"
+            }
+        },
+        "records/patrons/dionysius/aqu": {
+            "name": {
+                "it": "Dionigi da Aquileia",
+                "la": "Dionysius de Aquileia",
+                "en": "Denis of Aquileia",
+                "pl": "Dionizy z Akwilei"
+            },
+            "sources": {
+                "mr-1584": "16 III: #2",
+                "mr-1956": "16 III: #2"
+            }
+        },
         "records/patrons/gabriel/lal": {
             "name": {
                 "fr": "Gabriel Lalemant",

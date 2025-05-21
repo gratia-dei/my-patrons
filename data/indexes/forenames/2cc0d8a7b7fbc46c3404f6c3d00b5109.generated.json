@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Hilary"
+        ],
+        "it": [
+            "Ilario"
         ]
     },
     "links": {
@@ -18,6 +21,12 @@
             "la": "Papa Hilarius",
             "en": "Pope Hillary",
             "pl": "Hilary Papież"
+        },
+        "records/patrons/hilarius/aqu": {
+            "it": "Ilario da Aquileia",
+            "la": "Hilarius de Aquileia",
+            "en": "Hilarius of Aquileia",
+            "pl": "Hilary z Akwilei"
         },
         "records/patrons/hilarius/jan": {
             "pl": "Hilary Januszewski",

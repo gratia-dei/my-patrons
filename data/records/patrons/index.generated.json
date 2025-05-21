@@ -459,6 +459,7 @@
         "pl": "Dionizy",
         "el": "Διονύσιος",
         "fr": "Denis",
+        "it": "Dionigi",
         "grc": "Διονύσιος"
     },
     "dominicus": {
@@ -583,7 +584,8 @@
     "felix": {
         "la": "Felix",
         "en": "Felix",
-        "pl": "Feliks"
+        "pl": "Feliks",
+        "it": "Felice"
     },
     "fidelis": {
         "la": "Fidelis",
@@ -735,7 +737,8 @@
     "hilarius": {
         "la": "Hilarius",
         "en": "Hillary",
-        "pl": "Hilary"
+        "pl": "Hilary",
+        "it": "Ilario"
     },
     "hormisdas": {
         "la": "Hormisdas",
@@ -923,6 +926,12 @@
         "la": "Kinga",
         "en": "Kinga",
         "pl": "Kinga"
+    },
+    "largus": {
+        "la": "Largus",
+        "en": "Largus",
+        "pl": "Largus",
+        "it": "Largo"
     },
     "laurentius": {
         "la": "Laurentius",
@@ -1547,6 +1556,12 @@
         "la": "Tarsicius",
         "en": "Tarcisius",
         "pl": "Tarsycjusz"
+    },
+    "tatianus": {
+        "la": "Tatianus",
+        "en": "Tatian",
+        "pl": "Tacjan",
+        "it": "Taziano"
     },
     "teresia": {
         "la": "Teresia",

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "it": "Largo"
+    },
+    "translations": {
+        "la": [
+            "Largus"
+        ],
+        "en": [
+            "Largus"
+        ],
+        "pl": [
+            "Largus"
+        ],
+        "it": [
+            "Largo"
+        ]
+    },
+    "links": {
+        "records/patrons/largus/aqu": {
+            "it": "Largo da Aquileia",
+            "la": "Largus de Aquileia",
+            "en": "Largus of Aquileia",
+            "pl": "Largus z Akwilei"
+        }
+    }
+}

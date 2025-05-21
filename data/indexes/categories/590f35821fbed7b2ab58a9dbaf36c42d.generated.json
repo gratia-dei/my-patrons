@@ -649,6 +649,12 @@
             "en": "Dionysius Pope",
             "pl": "Dionizy Papież"
         },
+        "records/patrons/dionysius/aqu": {
+            "it": "Dionigi da Aquileia",
+            "la": "Dionysius de Aquileia",
+            "en": "Denis of Aquileia",
+            "pl": "Dionizy z Akwilei"
+        },
         "records/patrons/dionysius/are": {
             "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
             "la": "Dionysius Areopagita",
@@ -800,6 +806,12 @@
             "la": "Felix III",
             "en": "Felix III",
             "pl": "Feliks III"
+        },
+        "records/patrons/felix/aqu": {
+            "it": "Felice da Aquileia",
+            "la": "Felix de Aquileia",
+            "en": "Felix of Aquileia",
+            "pl": "Feliks z Akwilei"
         },
         "records/patrons/felix/lil": {
             "la": "Felix de Corduba; cum eo, i.a., Liliosa",
@@ -1047,6 +1059,12 @@
             "la": "Papa Hilarius",
             "en": "Pope Hillary",
             "pl": "Hilary Papież"
+        },
+        "records/patrons/hilarius/aqu": {
+            "it": "Ilario da Aquileia",
+            "la": "Hilarius de Aquileia",
+            "en": "Hilarius of Aquileia",
+            "pl": "Hilary z Akwilei"
         },
         "records/patrons/hilarius/jan": {
             "pl": "Hilary Januszewski",
@@ -1448,6 +1466,12 @@
             "la": "Iuvenalis Narniensis",
             "en": "Juvenal of Narni",
             "pl": "Juwenalis z Narni"
+        },
+        "records/patrons/largus/aqu": {
+            "it": "Largo da Aquileia",
+            "la": "Largus de Aquileia",
+            "en": "Largus of Aquileia",
+            "pl": "Largus z Akwilei"
         },
         "records/patrons/laurentius/bru": {
             "it": "Lorenzo da Brindisi",
@@ -2132,6 +2156,12 @@
             "la": "Tarsicius Acolytus",
             "en": "Tarcisius Acolyte",
             "pl": "Tarsycjusz Akolita"
+        },
+        "records/patrons/tatianus/aqu": {
+            "it": "Taziano da Aquileia",
+            "la": "Tatianus de Aquileia",
+            "en": "Tatian of Aquileia",
+            "pl": "Tacjan z Akwilei"
         },
         "records/patrons/thaddaeus/dul": {
             "pl": "Tadeusz Dulny",
