@@ -1,26 +1,49 @@
 {
-  "names": {
-    "en": [
-      "Richard the Pilgrim",
-      "Richard of Wessex"
-    ],
-    "la": [
-      "Richardus Peregrinus"
-    ],
-    "pl": [
-      "Ryszard z Lukki",
-      "Ryszard z Wesseksu",
-      "Ryszard ze Szwabii",
-      "Ryszard Saksończyk",
-      "Ryszard Król",
-      "Ryszard Pielgrzym"
-    ]
-  },
+    "names": {
+        "en": [
+            "Richard the Pilgrim",
+            "Richard of Wessex"
+        ],
+        "la": [
+            "Richardus Peregrinus"
+        ],
+        "pl": [
+            "Ryszard z Lukki",
+            "Ryszard z Wesseksu",
+            "Ryszard ze Szwabii",
+            "Ryszard Saksończyk",
+            "Ryszard Król",
+            "Ryszard Pielgrzym"
+        ]
+    },
+    "forenames": ["richardus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~720"],
+    "active": true,
 
-  "also-in-martyrology": ["02-07"],
+    "born": null,
+    "died": ["~720"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["richardus"],
-  "categories": ["vir", "peregrinus", "rex"]
+    "categories": ["vir", "peregrinus", "rex"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./7#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/7#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./7#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72294",
+        "wiki": "https://pl.wikipedia.org/wiki/Ryszard_z_Lukki"
+    }
 }

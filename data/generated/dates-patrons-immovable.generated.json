@@ -294,6 +294,18 @@
                 "feast": "7 II",
                 "mr-2004": "7 II: #18"
             }
+        },
+        "records/patrons/richardus/per": {
+            "name": {
+                "en": "Richard the Pilgrim",
+                "la": "Richardus Peregrinus",
+                "pl": "Ryszard z Lukki"
+            },
+            "sources": {
+                "mr-1584": "7 II: #6",
+                "mr-1956": "7 II: #7",
+                "mr-2004": "7 II: #6"
+            }
         }
     },
     "02-08": {

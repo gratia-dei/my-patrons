@@ -8688,7 +8688,7 @@
         }
     },
     "patrons/richardus/per": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Richard the Pilgrim",
             "la": "Richardus Peregrinus",
