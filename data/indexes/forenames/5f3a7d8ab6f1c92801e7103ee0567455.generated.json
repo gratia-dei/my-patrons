@@ -17,6 +17,12 @@
         ]
     },
     "links": {
+        "records/patrons/lucia/fil": {
+            "it": "Lucia Filippini",
+            "la": "Lucia Filippini",
+            "en": "Lucy Filippini",
+            "pl": "Łucja Filippini"
+        },
         "records/patrons/lucia/syr": {
             "it": "Lucia da Siracusa",
             "la": "Lucia Syracusana",

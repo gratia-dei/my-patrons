@@ -5993,6 +5993,19 @@
             "it": "Lucia"
         }
     },
+    "patrons/lucia/fil": {
+        "active": true,
+        "names": {
+            "it": "Lucia Filippini",
+            "la": "Lucia Filippini",
+            "en": "Lucy Filippini",
+            "pl": "Łucja Filippini"
+        },
+        "died": [
+            "1732-03-25"
+        ],
+        "feasts": []
+    },
     "patrons/lucia/syr": {
         "active": true,
         "names": {

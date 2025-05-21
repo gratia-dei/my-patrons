@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Filippini"
+    },
+    "translations": {
+        "it": [
+            "Filippini"
+        ]
+    },
+    "links": {
+        "records/patrons/lucia/fil": {
+            "it": "Lucia Filippini",
+            "la": "Lucia Filippini",
+            "en": "Lucy Filippini",
+            "pl": "Łucja Filippini"
+        }
+    }
+}

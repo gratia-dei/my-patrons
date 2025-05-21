@@ -1069,6 +1069,22 @@
             }
         }
     },
+    "03-25": {
+        "records/patrons/lucia/fil": {
+            "name": {
+                "it": "Lucia Filippini",
+                "la": "Lucia Filippini",
+                "en": "Lucy Filippini",
+                "pl": "Łucja Filippini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 III",
+                "feast": "25 III",
+                "mr-1956": "25 III: #10",
+                "mr-2004": "25 III: #14"
+            }
+        }
+    },
     "03-28": {
         "records/patrons/ioannes/cap": {
             "name": {
