@@ -1,0 +1,50 @@
+{
+    "names": {
+        "it": [
+            "Sibillina Biscossi"
+        ],
+        "la": [
+            "Sibyllina Biscossi"
+        ],
+        "en": [
+            "Sibyllina Biscossi"
+        ],
+        "pl": [
+            "Sybillina Biscossi"
+        ]
+    },
+    "forenames": ["sibyllina"],
+    "surnames": [
+        {
+            "it": "Biscossi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1287"],
+    "died": ["1367-03-19"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo", "reclusa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./19#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68760",
+        "wiki": "https://pl.wikipedia.org/wiki/Sybillina_Biscossi"
+    }
+}

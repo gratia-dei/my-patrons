@@ -9217,6 +9217,27 @@
         ],
         "feasts": []
     },
+    "patrons/sibyllina": {
+        "names": {
+            "la": "Sibyllina",
+            "en": "Sibyllina",
+            "pl": "Sybillina",
+            "it": "Sibillina"
+        }
+    },
+    "patrons/sibyllina/bis": {
+        "active": true,
+        "names": {
+            "it": "Sibillina Biscossi",
+            "la": "Sibyllina Biscossi",
+            "en": "Sibyllina Biscossi",
+            "pl": "Sybillina Biscossi"
+        },
+        "died": [
+            "1367-03-19"
+        ],
+        "feasts": []
+    },
     "patrons/sigismundus": {
         "names": {
             "la": "Sigismundus",

@@ -1592,6 +1592,9 @@
     "7d1c097fff965fb2870132fa74fdbdfd": {
         "en": "Hillary"
     },
+    "7e496e6ecba973b17b181402aeae51d0": {
+        "it": "Sibillina"
+    },
     "7e505c69ce1bdf1eee9d260b3a47045b": {
         "el": "Δαμιανός"
     },
@@ -3281,11 +3284,18 @@
         "la": "Marcellinus",
         "en": "Marcellinus"
     },
+    "fa842806587d04f3468a2990420c2bec": {
+        "pl": "Sybillina"
+    },
     "fa861300da82c2d55a673f7ab9b3e925": {
         "la": "Natalis"
     },
     "faaea6d3da369cc71aa7d0970b7589de": {
         "la": "Julianus"
+    },
+    "fafb83893a003818f2deec5cd20667b9": {
+        "la": "Sibyllina",
+        "en": "Sibyllina"
     },
     "fb2a7e07febbe7636dbbce0824477691": {
         "la": "Anicetus",

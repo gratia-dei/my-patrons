@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Sibyllina",
+        "en": "Sibyllina"
+    },
+    "translations": {
+        "la": [
+            "Sibyllina"
+        ],
+        "en": [
+            "Sibyllina"
+        ],
+        "pl": [
+            "Sybillina"
+        ],
+        "it": [
+            "Sibillina"
+        ]
+    },
+    "links": {
+        "records/patrons/sibyllina/bis": {
+            "it": "Sibillina Biscossi",
+            "la": "Sibyllina Biscossi",
+            "en": "Sibyllina Biscossi",
+            "pl": "Sybillina Biscossi"
+        }
+    }
+}

@@ -31,6 +31,12 @@
             "en": "Joan Mary of Maille",
             "la": "Ioanna Maria de Maille",
             "pl": "Joanna Maria z Maille"
+        },
+        "records/patrons/sibyllina/bis": {
+            "it": "Sibillina Biscossi",
+            "la": "Sibyllina Biscossi",
+            "en": "Sibyllina Biscossi",
+            "pl": "Sybillina Biscossi"
         }
     }
 }

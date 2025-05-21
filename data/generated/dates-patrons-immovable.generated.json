@@ -933,6 +933,20 @@
             }
         }
     },
+    "03-19": {
+        "records/patrons/sibyllina/bis": {
+            "name": {
+                "it": "Sibillina Biscossi",
+                "la": "Sibyllina Biscossi",
+                "en": "Sibyllina Biscossi",
+                "pl": "Sybillina Biscossi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 III",
+                "mr-2004": "19 III: #6"
+            }
+        }
+    },
     "03-20": {
         "records/patrons/ioachim/mar": {
             "name": {
