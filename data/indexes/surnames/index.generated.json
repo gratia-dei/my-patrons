@@ -33,6 +33,11 @@
         "en": "Borgia",
         "la": "Borgia"
     },
+    "11a754c2e844cd18db6f3e31a7152ba0": {
+        "la": "Chŏn",
+        "en": "Chŏn",
+        "pl": "Chŏn"
+    },
     "123f645a8fb39f2f6ffd9287e878c0bc": {
         "el": "Καυλέας"
     },
@@ -361,6 +366,11 @@
     "67eb2b8d0aab60ec69666532ff9527c9": {
         "en": "Holland"
     },
+    "683e45da6ad28a33afe18c3fb0848a5a": {
+        "la": "Kyŏng-hyŏb",
+        "en": "Kyŏng-hyŏb",
+        "pl": "Kyŏng-hyŏb"
+    },
     "68940bed0fda14ce1c055629668848e1": {
         "en": "Miki",
         "la": "Miki",
@@ -431,6 +441,9 @@
     },
     "7b00711f0066c7eed58d560ba6fe87dc": {
         "pl": "Siedliska"
+    },
+    "7cd8c8edbe997399485a7bbb546a81d0": {
+        "ko": "경협"
     },
     "7d32a58fc712b2e6c9121e34269ee25b": {
         "it": "Bosco"
@@ -702,6 +715,9 @@
     },
     "bcd2ad82e6d9e5ced82913ead8c0dc24": {
         "pl": "Kapistran"
+    },
+    "bd65ef10c6e83063d74d85a8990548e6": {
+        "ko": "전"
     },
     "bdf1356f54bdbca427dff27ff414f766": {
         "pl": "Chrobot"

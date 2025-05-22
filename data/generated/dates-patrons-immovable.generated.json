@@ -2315,6 +2315,18 @@
         }
     },
     "09-20": {
+        "records/patrons/agatha/cho": {
+            "name": {
+                "ko": "전경협 아가타",
+                "la": "Agatha Chŏn Kyŏng-hyŏb",
+                "en": "Agatha Chŏn Kyŏng-hyŏb",
+                "pl": "Agata Chŏn Kyŏng-hyŏb"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/andreas/kim": {
             "name": {
                 "ko": "김대건 안드레아",
@@ -2478,6 +2490,18 @@
         }
     },
     "09-26": {
+        "records/patrons/agatha/cho": {
+            "name": {
+                "ko": "전경협 아가타",
+                "la": "Agatha Chŏn Kyŏng-hyŏb",
+                "en": "Agatha Chŏn Kyŏng-hyŏb",
+                "pl": "Agata Chŏn Kyŏng-hyŏb"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
         "records/patrons/carolus/cho": {
             "name": {
                 "ko": "조신철 가롤로",

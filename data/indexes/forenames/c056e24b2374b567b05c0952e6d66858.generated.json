@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Agata"
+        ],
+        "ko": [
+            "아가타"
         ]
     },
     "links": {
@@ -18,6 +21,12 @@
             "la": "Agatha Catanensis",
             "en": "Agatha of Sicily",
             "pl": "Agata Sycylijska"
+        },
+        "records/patrons/agatha/cho": {
+            "ko": "전경협 아가타",
+            "la": "Agatha Chŏn Kyŏng-hyŏb",
+            "en": "Agatha Chŏn Kyŏng-hyŏb",
+            "pl": "Agata Chŏn Kyŏng-hyŏb"
         }
     }
 }

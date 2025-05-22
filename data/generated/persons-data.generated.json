@@ -502,7 +502,8 @@
         "names": {
             "la": "Agatha",
             "en": "Agatha",
-            "pl": "Agata"
+            "pl": "Agata",
+            "ko": "아가타"
         }
     },
     "patrons/agatha/cat": {
@@ -514,6 +515,19 @@
         },
         "died": [
             "~251"
+        ],
+        "feasts": []
+    },
+    "patrons/agatha/cho": {
+        "active": true,
+        "names": {
+            "ko": "전경협 아가타",
+            "la": "Agatha Chŏn Kyŏng-hyŏb",
+            "en": "Agatha Chŏn Kyŏng-hyŏb",
+            "pl": "Agata Chŏn Kyŏng-hyŏb"
+        },
+        "died": [
+            "1839-09-26"
         ],
         "feasts": []
     },
