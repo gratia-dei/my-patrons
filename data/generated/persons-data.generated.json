@@ -6320,6 +6320,19 @@
         ],
         "feasts": []
     },
+    "patrons/magdalena/hok": {
+        "active": true,
+        "names": {
+            "ko": "허계임 막달레나",
+            "la": "Magdalena Hŏ Kye-im",
+            "en": "Magdalena Hŏ Kye-im",
+            "pl": "Magdalena Hŏ Kye-im"
+        },
+        "died": [
+            "1839-09-26"
+        ],
+        "feasts": []
+    },
     "patrons/magdalena/mor": {
         "active": false,
         "names": {

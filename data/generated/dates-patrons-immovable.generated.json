@@ -2423,6 +2423,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/magdalena/hok": {
+            "name": {
+                "ko": "허계임 막달레나",
+                "la": "Magdalena Hŏ Kye-im",
+                "en": "Magdalena Hŏ Kye-im",
+                "pl": "Magdalena Hŏ Kye-im"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/magdalena/pak": {
             "name": {
                 "ko": "박봉손 막달레나",
@@ -2544,6 +2556,18 @@
                 "la": "Iulitta Kim",
                 "en": "Juliet Kim",
                 "pl": "Julita Kim"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/magdalena/hok": {
+            "name": {
+                "ko": "허계임 막달레나",
+                "la": "Magdalena Hŏ Kye-im",
+                "en": "Magdalena Hŏ Kye-im",
+                "pl": "Magdalena Hŏ Kye-im"
             },
             "sources": {
                 "reliable-death-anniversary": "26 IX",
