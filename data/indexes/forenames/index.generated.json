@@ -496,6 +496,10 @@
         "la": "Patiens",
         "en": "Patiens"
     },
+    "25adbe37b125ca78bccf82832ba203fa": {
+        "la": "Columba",
+        "en": "Columba"
+    },
     "25b54d6ceb7d93228491167107660902": {
         "la": "Emmerammus"
     },
@@ -2193,6 +2197,9 @@
     "a9204b9b890b698ecca376cb46a488d7": {
         "pl": "Kryspina"
     },
+    "a95068bacbb1c8a75f0160bdd13393fe": {
+        "ko": "골룸바"
+    },
     "a96e8f71351fbe70573b70189c0dd2bb": {
         "it": "Lorenzo"
     },
@@ -2669,6 +2676,9 @@
     "c95ee506b1bfeab0f9ad36a22c9a54b2": {
         "en": "Damian",
         "pl": "Damian"
+    },
+    "c9d51803020076e72a56374a279ceccb": {
+        "pl": "Kolumba"
     },
     "ca557ca8ecc8a2556120555a588425a0": {
         "la": "Joannes"

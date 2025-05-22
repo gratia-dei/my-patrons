@@ -2351,6 +2351,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/columba/kim": {
+            "name": {
+                "ko": "김효임 골룸바",
+                "la": "Columba Kim Hyo-im",
+                "en": "Columba Kim Hyo-im",
+                "pl": "Kolumba Kim Hyo-im"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/ignatius/kim": {
             "name": {
                 "ko": "김제준 이냐시오",
@@ -2436,6 +2448,18 @@
                 "la": "Carolus Cho Shin-ch’ŏl",
                 "en": "Charles Cho Shin-ch’ŏl",
                 "pl": "Karol Cho Shin-ch’ŏl"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/columba/kim": {
+            "name": {
+                "ko": "김효임 골룸바",
+                "la": "Columba Kim Hyo-im",
+                "en": "Columba Kim Hyo-im",
+                "pl": "Kolumba Kim Hyo-im"
             },
             "sources": {
                 "reliable-death-anniversary": "26 IX",

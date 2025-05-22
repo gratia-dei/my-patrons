@@ -2516,6 +2516,27 @@
         ],
         "feasts": []
     },
+    "patrons/columba": {
+        "names": {
+            "la": "Columba",
+            "en": "Columba",
+            "pl": "Kolumba",
+            "ko": "골룸바"
+        }
+    },
+    "patrons/columba/kim": {
+        "active": true,
+        "names": {
+            "ko": "김효임 골룸바",
+            "la": "Columba Kim Hyo-im",
+            "en": "Columba Kim Hyo-im",
+            "pl": "Kolumba Kim Hyo-im"
+        },
+        "died": [
+            "1839-09-26"
+        ],
+        "feasts": []
+    },
     "patrons/corbinianus": {
         "names": {
             "la": "Corbinianus",

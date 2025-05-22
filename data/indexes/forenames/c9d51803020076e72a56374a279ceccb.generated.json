@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Kolumba"
+    },
+    "translations": {
+        "la": [
+            "Columba"
+        ],
+        "en": [
+            "Columba"
+        ],
+        "pl": [
+            "Kolumba"
+        ],
+        "ko": [
+            "골룸바"
+        ]
+    },
+    "links": {
+        "records/patrons/columba/kim": {
+            "ko": "김효임 골룸바",
+            "la": "Columba Kim Hyo-im",
+            "en": "Columba Kim Hyo-im",
+            "pl": "Kolumba Kim Hyo-im"
+        }
+    }
+}
