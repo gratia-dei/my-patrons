@@ -366,6 +366,14 @@
         "la": "Miki",
         "pl": "Miki"
     },
+    "695c3c21f18291d8611217a00ff3dcfa": {
+        "ko": "홍"
+    },
+    "6a6970da80cecc350c4c3fab4b183153": {
+        "la": "Kŭm-ju",
+        "en": "Kŭm-ju",
+        "pl": "Kŭm-ju"
+    },
     "6ab46e3ad30114760f6556c82d63534f": {
         "ko": "박"
     },
@@ -449,6 +457,11 @@
         "la": "I-gwan",
         "en": "I-gwan",
         "pl": "I-gwan"
+    },
+    "8470d17bf592d860bc4bb906c4618fbf": {
+        "la": "Hong",
+        "en": "Hong",
+        "pl": "Hong"
     },
     "84b79d3e16ba209cd63d6b7e694fc011": {
         "it": "Beretta"
@@ -918,6 +931,9 @@
     },
     "f8a2bd4600e93e5b0e096b9985eeff83": {
         "la": "Šeptyckyj"
+    },
+    "f8e242c3a5a81b279e739433ad3e7a80": {
+        "ko": "금주 "
     },
     "fa2fc0dc0e3e2830ea86556d6b3fee74": {
         "pl": "Laskowski"

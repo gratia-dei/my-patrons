@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Hong",
+        "en": "Hong",
+        "pl": "Hong"
+    },
+    "translations": {
+        "ko": [
+            "홍"
+        ],
+        "la": [
+            "Hong"
+        ],
+        "en": [
+            "Hong"
+        ],
+        "pl": [
+            "Hong"
+        ]
+    },
+    "links": {
+        "records/patrons/perpetua/hon": {
+            "ko": "홍금주 페르페투아",
+            "la": "Perpetua Hong Kŭm-ju",
+            "en": "Perpetua Hong Kŭm-ju",
+            "pl": "Perpetua Hong Kŭm-ju"
+        }
+    }
+}

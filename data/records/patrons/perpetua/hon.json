@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "홍금주 페르페투아"
+        ],
+        "la": [
+            "Perpetua Hong Kŭm-ju"
+        ],
+        "en": [
+            "Perpetua Hong Kŭm-ju"
+        ],
+        "pl": [
+            "Perpetua Hong Kŭm-ju"
+        ]
+    },
+    "forenames": ["perpetua"],
+    "surnames": [
+        {
+            "ko": "홍",
+            "la": "Hong",
+            "en": "Hong",
+            "pl": "Hong"
+        },
+        {
+            "ko": "금주 ",
+            "la": "Kŭm-ju",
+            "en": "Kŭm-ju",
+            "pl": "Kŭm-ju"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1804"],
+    "died": ["1839-09-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr", "vidua"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["46:sept./20#1", "9:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66282",
+        "wiki": "https://pl.wikipedia.org/wiki/Perpetua_Hong_K%C5%ADm-ju"
+    }
+}

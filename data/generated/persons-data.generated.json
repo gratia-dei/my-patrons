@@ -8189,7 +8189,8 @@
         "names": {
             "la": "Perpetua",
             "en": "Perpetua",
-            "pl": "Perpetua"
+            "pl": "Perpetua",
+            "ko": "페르페투아"
         }
     },
     "patrons/perpetua/car": {
@@ -8201,6 +8202,19 @@
         },
         "died": [
             "~203"
+        ],
+        "feasts": []
+    },
+    "patrons/perpetua/hon": {
+        "active": true,
+        "names": {
+            "ko": "홍금주 페르페투아",
+            "la": "Perpetua Hong Kŭm-ju",
+            "en": "Perpetua Hong Kŭm-ju",
+            "pl": "Perpetua Hong Kŭm-ju"
+        },
+        "died": [
+            "1839-09-26"
         ],
         "feasts": []
     },

@@ -2411,6 +2411,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/perpetua/hon": {
+            "name": {
+                "ko": "홍금주 페르페투아",
+                "la": "Perpetua Hong Kŭm-ju",
+                "en": "Perpetua Hong Kŭm-ju",
+                "pl": "Perpetua Hong Kŭm-ju"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/sebastianus/nam": {
             "name": {
                 "ko": "남이관 세바스티아노",
@@ -2496,6 +2508,18 @@
                 "la": "Magdalena Pak Pong-son",
                 "en": "Magdalena Pak Pong-son",
                 "pl": "Magdalena Pak Pong-son"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/perpetua/hon": {
+            "name": {
+                "ko": "홍금주 페르페투아",
+                "la": "Perpetua Hong Kŭm-ju",
+                "en": "Perpetua Hong Kŭm-ju",
+                "pl": "Perpetua Hong Kŭm-ju"
             },
             "sources": {
                 "reliable-death-anniversary": "26 IX",
