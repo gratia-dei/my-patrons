@@ -6213,7 +6213,8 @@
             "en": "Magdalene",
             "pl": "Magdalena",
             "fr": "Madeleine",
-            "it": "Maddalena"
+            "it": "Maddalena",
+            "ko": "막달레나"
         }
     },
     "patrons/magdalena/can": {
@@ -6226,6 +6227,20 @@
         },
         "died": [
             "1835-04-10"
+        ],
+        "feasts": []
+    },
+    "patrons/magdalena/cho": {
+        "active": true,
+        "names": {
+            "ko": "조 막달레나",
+            "la": "Magdalena Cho",
+            "en": "Magdalena Cho",
+            "pl": "Magdalena Cho"
+        },
+        "died": [
+            ">1839-09-01",
+            "<1839-09-30"
         ],
         "feasts": []
     },

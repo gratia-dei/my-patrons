@@ -2351,6 +2351,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/magdalena/cho": {
+            "name": {
+                "ko": "조 막달레나",
+                "la": "Magdalena Cho",
+                "en": "Magdalena Cho",
+                "pl": "Magdalena Cho"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/sebastianus/nam": {
             "name": {
                 "ko": "남이관 세바스티아노",
@@ -2423,6 +2435,17 @@
                 "la": "Catharina Yi",
                 "en": "Cathrine Yi",
                 "pl": "Katarzyna Yi"
+            },
+            "sources": {
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/magdalena/cho": {
+            "name": {
+                "ko": "조 막달레나",
+                "la": "Magdalena Cho",
+                "en": "Magdalena Cho",
+                "pl": "Magdalena Cho"
             },
             "sources": {
                 "mr-2004": "26 IX: #8"

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ko": "조"
+    },
+    "translations": {
+        "ko": [
+            "조"
+        ],
+        "la": [
+            "Cho"
+        ],
+        "en": [
+            "Cho"
+        ],
+        "pl": [
+            "Cho"
+        ]
+    },
+    "links": {
+        "records/patrons/magdalena/cho": {
+            "ko": "조 막달레나",
+            "la": "Magdalena Cho",
+            "en": "Magdalena Cho",
+            "pl": "Magdalena Cho"
+        }
+    }
+}

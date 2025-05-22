@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ko": [
+            "조 막달레나"
+        ],
+        "la": [
+            "Magdalena Cho"
+        ],
+        "en": [
+            "Magdalena Cho"
+        ],
+        "pl": [
+            "Magdalena Cho"
+        ]
+    },
+    "forenames": ["magdalena"],
+    "surnames": [
+        {
+            "ko": "조",
+            "la": "Cho",
+            "en": "Cho",
+            "pl": "Cho"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1807"],
+    "died": [">1839-09-01", "<1839-09-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["39:sept./20#1", "4:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66286",
+        "wiki": "https://pl.wikipedia.org/wiki/Magdalena_Cho"
+    }
+}

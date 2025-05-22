@@ -17,6 +17,9 @@
         ],
         "it": [
             "Maddalena"
+        ],
+        "ko": [
+            "막달레나"
         ]
     },
     "links": {
@@ -25,6 +28,12 @@
             "en": "Magdalene of Canossa",
             "la": "Magdalena de Canossa",
             "pl": "Magdalena z Canossy"
+        },
+        "records/patrons/magdalena/cho": {
+            "ko": "조 막달레나",
+            "la": "Magdalena Cho",
+            "en": "Magdalena Cho",
+            "pl": "Magdalena Cho"
         },
         "records/patrons/magdalena/mor": {
             "it": "Maddalena Caterina Morano",
