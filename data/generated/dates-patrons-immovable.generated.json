@@ -2274,6 +2274,20 @@
             }
         }
     },
+    "09-16": {
+        "records/patrons/andreas/kim": {
+            "name": {
+                "ko": "김대건 안드레아",
+                "la": "Andreas Kim Tae-gŏn",
+                "en": "Andrew Kim Taegon",
+                "pl": "Andrzej Kim Tae-gŏn"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 IX",
+                "mr-2004": "16 IX: #16"
+            }
+        }
+    },
     "09-18": {
         "records/patrons/david/oke": {
             "name": {
@@ -2297,6 +2311,20 @@
             "sources": {
                 "feast": "18 IX",
                 "mr-2004": "18 IX: #11"
+            }
+        }
+    },
+    "09-20": {
+        "records/patrons/andreas/kim": {
+            "name": {
+                "ko": "김대건 안드레아",
+                "la": "Andreas Kim Tae-gŏn",
+                "en": "Andrew Kim Taegon",
+                "pl": "Andrzej Kim Tae-gŏn"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
             }
         }
     },
