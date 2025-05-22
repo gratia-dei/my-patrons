@@ -6016,7 +6016,7 @@
             "pl": "Łucja Kim"
         },
         "died": [
-            ">1839-08-01",
+            ">1839-09-01",
             "<1839-09-30"
         ],
         "feasts": []
@@ -9162,6 +9162,27 @@
         },
         "died": [
             "1991-08-09"
+        ],
+        "feasts": []
+    },
+    "patrons/sebastianus": {
+        "names": {
+            "la": "Sebastianus",
+            "en": "Sebastian",
+            "pl": "Sebastian",
+            "ko": "세바스티아노"
+        }
+    },
+    "patrons/sebastianus/nam": {
+        "active": true,
+        "names": {
+            "ko": "남이관 세바스티아노",
+            "la": "Sebastianus Nam I-gwan",
+            "en": "Sebastian Nam I-gwan",
+            "pl": "Sebastian Nam I-gwan"
+        },
+        "died": [
+            "1839-09-26"
         ],
         "feasts": []
     },

@@ -1,27 +1,24 @@
 {
     "names": {
-        "la": "Sebastianus"
+        "la": "Nam",
+        "en": "Nam",
+        "pl": "Nam"
     },
     "translations": {
+        "ko": [
+            "남"
+        ],
         "la": [
-            "Sebastianus"
+            "Nam"
         ],
         "en": [
-            "Sebastian"
+            "Nam"
         ],
         "pl": [
-            "Sebastian"
-        ],
-        "ko": [
-            "세바스티아노"
+            "Nam"
         ]
     },
     "links": {
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "en": "Joseph Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar"
-        },
         "records/patrons/sebastianus/nam": {
             "ko": "남이관 세바스티아노",
             "la": "Sebastianus Nam I-gwan",

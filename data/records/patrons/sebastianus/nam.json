@@ -1,33 +1,39 @@
 {
     "names": {
         "ko": [
-            "김 루치아"
+            "남이관 세바스티아노"
         ],
         "la": [
-            "Lucia Kim"
+            "Sebastianus Nam I-gwan"
         ],
         "en": [
-            "Locy Kim"
+            "Sebastian Nam I-gwan"
         ],
         "pl": [
-            "Łucja Kim"
+            "Sebastian Nam I-gwan"
         ]
     },
-    "forenames": ["lucia"],
+    "forenames": ["sebastianus"],
     "surnames": [
         {
-            "ko": "김",
-            "la": "Kim",
-            "en": "Kim",
-            "pl": "Kim"
+            "ko": "남",
+            "la": "Nam",
+            "en": "Nam",
+            "pl": "Nam"
+        },
+        {
+            "ko": "이관",
+            "la": "I-gwan",
+            "en": "I-gwan",
+            "pl": "I-gwan"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1769"],
-    "died": [">1839-09-01", "<1839-09-30"],
+    "born": ["1780"],
+    "died": ["1839-09-26"],
     "beatified": {
         "type": "ceremonially",
         "date": "1925-07-05"
@@ -38,7 +44,7 @@
     },
     "anniversary": ["09-20"],
 
-    "categories": ["femina", "martyr"],
+    "categories": ["vir", "martyr"],
 
     "data-links": {
         "mr-1584": [],
@@ -47,13 +53,13 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["94:sept./20#1", "2:sept./26#8"],
+        "mr-2004": ["88:sept./20#1", "1:sept./26#8"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
-        "gcatholic": "https://gcatholic.org/p/66284",
-        "wiki": "https://pl.wikipedia.org/wiki/%C5%81ucja_Kim"
+        "gcatholic": "https://gcatholic.org/p/66276",
+        "wiki": "https://pl.wikipedia.org/wiki/Sebastian_Nam_I-gwan"
     }
 }

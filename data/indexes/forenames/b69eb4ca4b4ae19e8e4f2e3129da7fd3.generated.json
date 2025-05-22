@@ -12,6 +12,9 @@
         ],
         "pl": [
             "Sebastian"
+        ],
+        "ko": [
+            "세바스티아노"
         ]
     },
     "links": {
@@ -19,6 +22,12 @@
             "pl": "Józef Sebastian Pelczar",
             "en": "Joseph Sebastian Pelczar",
             "la": "Iosephus Sebastianus Pelczar"
+        },
+        "records/patrons/sebastianus/nam": {
+            "ko": "남이관 세바스티아노",
+            "la": "Sebastianus Nam I-gwan",
+            "en": "Sebastian Nam I-gwan",
+            "pl": "Sebastian Nam I-gwan"
         }
     }
 }

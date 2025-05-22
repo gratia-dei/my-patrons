@@ -1,27 +1,22 @@
 {
     "names": {
-        "la": "Sebastianus"
+        "ko": "이관"
     },
     "translations": {
+        "ko": [
+            "이관"
+        ],
         "la": [
-            "Sebastianus"
+            "I-gwan"
         ],
         "en": [
-            "Sebastian"
+            "I-gwan"
         ],
         "pl": [
-            "Sebastian"
-        ],
-        "ko": [
-            "세바스티아노"
+            "I-gwan"
         ]
     },
     "links": {
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "en": "Joseph Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar"
-        },
         "records/patrons/sebastianus/nam": {
             "ko": "남이관 세바스티아노",
             "la": "Sebastianus Nam I-gwan",
