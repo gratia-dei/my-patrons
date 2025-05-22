@@ -17,6 +17,12 @@
         ]
     },
     "links": {
+        "records/patrons/carolus/cho": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
+        },
         "records/patrons/magdalena/cho": {
             "ko": "조 막달레나",
             "la": "Magdalena Cho",

@@ -1,21 +1,21 @@
 {
     "names": {
-        "la": "Cho",
-        "en": "Cho",
-        "pl": "Cho"
+        "la": "Shin-ch’ŏl",
+        "en": "Shin-ch’ŏl",
+        "pl": "Shin-ch’ŏl"
     },
     "translations": {
         "ko": [
-            "조"
+            "신철"
         ],
         "la": [
-            "Cho"
+            "Shin-ch’ŏl"
         ],
         "en": [
-            "Cho"
+            "Shin-ch’ŏl"
         ],
         "pl": [
-            "Cho"
+            "Shin-ch’ŏl"
         ]
     },
     "links": {
@@ -24,12 +24,6 @@
             "la": "Carolus Cho Shin-ch’ŏl",
             "en": "Charles Cho Shin-ch’ŏl",
             "pl": "Karol Cho Shin-ch’ŏl"
-        },
-        "records/patrons/magdalena/cho": {
-            "ko": "조 막달레나",
-            "la": "Magdalena Cho",
-            "en": "Magdalena Cho",
-            "pl": "Magdalena Cho"
         }
     }
 }

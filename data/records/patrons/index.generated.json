@@ -335,6 +335,7 @@
         "pl": "Karol",
         "fr": "Charles",
         "it": "Carlo",
+        "ko": "가롤로",
         "lg": "Kaloli"
     },
     "casimirus": {
@@ -801,7 +802,8 @@
         "pl": "Ignacy",
         "es": "Ignacio",
         "grc": "Ἰγνάτιος",
-        "hy": "Իգնատիոս"
+        "hy": "Իգնատիոս",
+        "ko": "이냐시오"
     },
     "ioachim": {
         "la": "Ioachim",

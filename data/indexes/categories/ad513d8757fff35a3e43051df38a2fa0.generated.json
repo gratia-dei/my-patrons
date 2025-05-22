@@ -259,6 +259,12 @@
             "en": "Charles the Good",
             "pl": "Karol Dobry"
         },
+        "records/patrons/carolus/cho": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
+        },
         "records/patrons/carolus/gar": {
             "fr": "Charles Garnier",
             "la": "Carolus Garnier",
@@ -630,6 +636,12 @@
             "en": "Ignatius of Antioch",
             "la": "Ignatius Antiochenus",
             "pl": "Ignacy Antiocheński"
+        },
+        "records/patrons/ignatius/kim": {
+            "ko": "김제준 이냐시오",
+            "la": "Ignatius Kim Che-jun",
+            "en": "Ignatius Kim Che-jun",
+            "pl": "Ignacy Kim Che-jun"
         },
         "records/patrons/ignatius/mal": {
             "hy": "Իգնատիոս Մալոյան",

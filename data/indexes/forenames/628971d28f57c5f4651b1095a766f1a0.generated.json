@@ -18,6 +18,9 @@
         "it": [
             "Carlo"
         ],
+        "ko": [
+            "가롤로"
+        ],
         "lg": [
             "Kaloli"
         ]
@@ -39,6 +42,12 @@
             "la": "Carolus Borromeo",
             "en": "Charles Borromeo",
             "pl": "Karol Boromeusz"
+        },
+        "records/patrons/carolus/cho": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
         },
         "records/patrons/carolus/fou": {
             "fr": "Charles de Foucauld",

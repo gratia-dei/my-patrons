@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ko": "제준"
+    },
+    "translations": {
+        "ko": [
+            "제준"
+        ],
+        "la": [
+            "Che-jun"
+        ],
+        "en": [
+            "Che-jun"
+        ],
+        "pl": [
+            "Che-jun"
+        ]
+    },
+    "links": {
+        "records/patrons/ignatius/kim": {
+            "ko": "김제준 이냐시오",
+            "la": "Ignatius Kim Che-jun",
+            "en": "Ignatius Kim Che-jun",
+            "pl": "Ignacy Kim Che-jun"
+        }
+    }
+}

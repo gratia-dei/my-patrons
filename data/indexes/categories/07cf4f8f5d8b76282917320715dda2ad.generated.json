@@ -500,6 +500,12 @@
             "en": "Charles Borromeo",
             "pl": "Karol Boromeusz"
         },
+        "records/patrons/carolus/cho": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
+        },
         "records/patrons/carolus/fou": {
             "fr": "Charles de Foucauld",
             "en": "Charles de Foucauld",
@@ -1147,6 +1153,12 @@
             "en": "Ignatius of Antioch",
             "la": "Ignatius Antiochenus",
             "pl": "Ignacy Antiocheński"
+        },
+        "records/patrons/ignatius/kim": {
+            "ko": "김제준 이냐시오",
+            "la": "Ignatius Kim Che-jun",
+            "en": "Ignatius Kim Che-jun",
+            "pl": "Ignacy Kim Che-jun"
         },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",

@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "김제준 이냐시오"
+        ],
+        "la": [
+            "Ignatius Kim Che-jun"
+        ],
+        "en": [
+            "Ignatius Kim Che-jun"
+        ],
+        "pl": [
+            "Ignacy Kim Che-jun"
+        ]
+    },
+    "forenames": ["ignatius"],
+    "surnames": [
+        {
+            "ko": "김",
+            "la": "Kim",
+            "en": "Kim",
+            "pl": "Kim"
+        },
+        {
+            "ko": "제준",
+            "la": "Che-jun",
+            "en": "Che-jun",
+            "pl": "Che-jun"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1796"],
+    "died": ["1839-09-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["89:sept./20#1", "5:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66280",
+        "wiki": "https://pl.wikipedia.org/wiki/Ignacy_Kim_Che-jun"
+    }
+}

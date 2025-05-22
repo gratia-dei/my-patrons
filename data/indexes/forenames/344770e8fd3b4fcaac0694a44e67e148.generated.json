@@ -21,6 +21,9 @@
         ],
         "hy": [
             "Իգնատիոս"
+        ],
+        "ko": [
+            "이냐시오"
         ]
     },
     "links": {
@@ -29,6 +32,12 @@
             "en": "Ignatius of Antioch",
             "la": "Ignatius Antiochenus",
             "pl": "Ignacy Antiocheński"
+        },
+        "records/patrons/ignatius/kim": {
+            "ko": "김제준 이냐시오",
+            "la": "Ignatius Kim Che-jun",
+            "en": "Ignatius Kim Che-jun",
+            "pl": "Ignacy Kim Che-jun"
         },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",

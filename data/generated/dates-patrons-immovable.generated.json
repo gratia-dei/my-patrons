@@ -2327,12 +2327,36 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/carolus/cho": {
+            "name": {
+                "ko": "조신철 가롤로",
+                "la": "Carolus Cho Shin-ch’ŏl",
+                "en": "Charles Cho Shin-ch’ŏl",
+                "pl": "Karol Cho Shin-ch’ŏl"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/catharina/yiv": {
             "name": {
                 "ko": "이 가타리나",
                 "la": "Catharina Yi",
                 "en": "Cathrine Yi",
                 "pl": "Katarzyna Yi"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/ignatius/kim": {
+            "name": {
+                "ko": "김제준 이냐시오",
+                "la": "Ignatius Kim Che-jun",
+                "en": "Ignatius Kim Che-jun",
+                "pl": "Ignacy Kim Che-jun"
             },
             "sources": {
                 "feast": "20 IX",
@@ -2406,6 +2430,30 @@
         }
     },
     "09-26": {
+        "records/patrons/carolus/cho": {
+            "name": {
+                "ko": "조신철 가롤로",
+                "la": "Carolus Cho Shin-ch’ŏl",
+                "en": "Charles Cho Shin-ch’ŏl",
+                "pl": "Karol Cho Shin-ch’ŏl"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/ignatius/kim": {
+            "name": {
+                "ko": "김제준 이냐시오",
+                "la": "Ignatius Kim Che-jun",
+                "en": "Ignatius Kim Che-jun",
+                "pl": "Ignacy Kim Che-jun"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
         "records/patrons/sebastianus/nam": {
             "name": {
                 "ko": "남이관 세바스티아노",

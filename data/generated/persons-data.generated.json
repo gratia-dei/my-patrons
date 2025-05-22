@@ -2101,6 +2101,7 @@
             "pl": "Karol",
             "fr": "Charles",
             "it": "Carlo",
+            "ko": "가롤로",
             "lg": "Kaloli"
         }
     },
@@ -2139,6 +2140,19 @@
         },
         "died": [
             "1584-11-03"
+        ],
+        "feasts": []
+    },
+    "patrons/carolus/cho": {
+        "active": true,
+        "names": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
+        },
+        "died": [
+            "1839-09-26"
         ],
         "feasts": []
     },
@@ -4611,7 +4625,8 @@
             "pl": "Ignacy",
             "es": "Ignacio",
             "grc": "Ἰγνάτιος",
-            "hy": "Իգնատիոս"
+            "hy": "Իգնատիոս",
+            "ko": "이냐시오"
         }
     },
     "patrons/ignatius/ant": {
@@ -4624,6 +4639,19 @@
         },
         "died": [
             "~107"
+        ],
+        "feasts": []
+    },
+    "patrons/ignatius/kim": {
+        "active": true,
+        "names": {
+            "ko": "김제준 이냐시오",
+            "la": "Ignatius Kim Che-jun",
+            "en": "Ignatius Kim Che-jun",
+            "pl": "Ignacy Kim Che-jun"
+        },
+        "died": [
+            "1839-09-26"
         ],
         "feasts": []
     },
