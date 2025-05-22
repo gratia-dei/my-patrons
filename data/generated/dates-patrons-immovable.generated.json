@@ -2375,6 +2375,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/iulitta/kim": {
+            "name": {
+                "ko": "김 율리에타",
+                "la": "Iulitta Kim",
+                "en": "Juliet Kim",
+                "pl": "Julita Kim"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/lucia/kim": {
             "name": {
                 "ko": "김 루치아",
@@ -2496,6 +2508,18 @@
                 "la": "Ignatius Kim Che-jun",
                 "en": "Ignatius Kim Che-jun",
                 "pl": "Ignacy Kim Che-jun"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/iulitta/kim": {
+            "name": {
+                "ko": "김 율리에타",
+                "la": "Iulitta Kim",
+                "en": "Juliet Kim",
+                "pl": "Julita Kim"
             },
             "sources": {
                 "reliable-death-anniversary": "26 IX",

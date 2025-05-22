@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ko": [
+            "김 율리에타"
+        ],
+        "la": [
+            "Iulitta Kim"
+        ],
+        "en": [
+            "Juliet Kim"
+        ],
+        "pl": [
+            "Julita Kim"
+        ]
+    },
+    "forenames": ["iulitta"],
+    "surnames": [
+        {
+            "ko": "김",
+            "la": "Kim",
+            "en": "Kim",
+            "pl": "Kim"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1784"],
+    "died": ["1839-09-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["91:sept./20#1", "10:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66277",
+        "wiki": "https://pl.wikipedia.org/wiki/Julia_Kim"
+    }
+}
