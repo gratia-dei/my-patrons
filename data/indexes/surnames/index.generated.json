@@ -60,6 +60,11 @@
     "177ab0f705069575618e03ec8243dc82": {
         "pl": "Faron"
     },
+    "179e472b5b8e86210a8bafc2686947f1": {
+        "la": "Pak",
+        "en": "Pak",
+        "pl": "Pak"
+    },
     "18461b36d04a053a66c86180bc79a59b": {
         "it": "Forgione"
     },
@@ -149,6 +154,11 @@
     },
     "364cd1170e91c4123e1ed045f9b88c3a": {
         "fr": "Jaricot"
+    },
+    "374561a3fdbe8ed91d80ab88350f0175": {
+        "la": "Pong-son",
+        "en": "Pong-son",
+        "pl": "Pong-son"
     },
     "37876dd9dadd29384a3e6e1350a56b83": {
         "vi": "Lê"
@@ -355,6 +365,9 @@
         "en": "Miki",
         "la": "Miki",
         "pl": "Miki"
+    },
+    "6ab46e3ad30114760f6556c82d63534f": {
+        "ko": "박"
     },
     "6b77f30aba852bd7e3b0c7f332201172": {
         "en": "Maloyan",
@@ -646,6 +659,9 @@
     },
     "b68a56baf2045a1e7474048e270c53d8": {
         "pl": "Dańkowski"
+    },
+    "b80ef593d3e87c0d3a6f66900c0543d6": {
+        "ko": "봉손"
     },
     "b86226c44c56a68a597fdf134413243b": {
         "pl": "Zapłata"

@@ -6306,6 +6306,19 @@
         ],
         "feasts": []
     },
+    "patrons/magdalena/pak": {
+        "active": true,
+        "names": {
+            "ko": "박봉손 막달레나",
+            "la": "Magdalena Pak Pong-son",
+            "en": "Magdalena Pak Pong-son",
+            "pl": "Magdalena Pak Pong-son"
+        },
+        "died": [
+            "1839-09-26"
+        ],
+        "feasts": []
+    },
     "patrons/magnus": {
         "names": {
             "la": "Magnus",

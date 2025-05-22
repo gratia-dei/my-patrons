@@ -2399,6 +2399,18 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/magdalena/pak": {
+            "name": {
+                "ko": "박봉손 막달레나",
+                "la": "Magdalena Pak Pong-son",
+                "en": "Magdalena Pak Pong-son",
+                "pl": "Magdalena Pak Pong-son"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
         "records/patrons/sebastianus/nam": {
             "name": {
                 "ko": "남이관 세바스티아노",
@@ -2472,6 +2484,18 @@
                 "la": "Ignatius Kim Che-jun",
                 "en": "Ignatius Kim Che-jun",
                 "pl": "Ignacy Kim Che-jun"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IX",
+                "mr-2004": "26 IX: #8"
+            }
+        },
+        "records/patrons/magdalena/pak": {
+            "name": {
+                "ko": "박봉손 막달레나",
+                "la": "Magdalena Pak Pong-son",
+                "en": "Magdalena Pak Pong-son",
+                "pl": "Magdalena Pak Pong-son"
             },
             "sources": {
                 "reliable-death-anniversary": "26 IX",

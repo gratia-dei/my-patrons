@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "박봉손 막달레나"
+        ],
+        "la": [
+            "Magdalena Pak Pong-son"
+        ],
+        "en": [
+            "Magdalena Pak Pong-son"
+        ],
+        "pl": [
+            "Magdalena Pak Pong-son"
+        ]
+    },
+    "forenames": ["magdalena"],
+    "surnames": [
+        {
+            "ko": "박",
+            "la": "Pak",
+            "en": "Pak",
+            "pl": "Pak"
+        },
+        {
+            "ko": "봉손",
+            "la": "Pong-son",
+            "en": "Pong-son",
+            "pl": "Pong-son"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1796"],
+    "died": ["1839-09-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr", "vidua"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["45:sept./20#1", "8:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66281",
+        "wiki": "https://pl.wikipedia.org/wiki/Magdalena_Pak_Pong-son"
+    }
+}
