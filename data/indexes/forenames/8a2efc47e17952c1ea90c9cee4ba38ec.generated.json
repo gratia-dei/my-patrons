@@ -16,6 +16,9 @@
         ],
         "it": [
             "Lucia"
+        ],
+        "ko": [
+            "루치아"
         ]
     },
     "links": {
@@ -24,6 +27,12 @@
             "la": "Lucia Filippini",
             "en": "Lucy Filippini",
             "pl": "Łucja Filippini"
+        },
+        "records/patrons/lucia/kim": {
+            "ko": "김 루치아",
+            "la": "Lucia Kim",
+            "en": "Locy Kim",
+            "pl": "Łucja Kim"
         },
         "records/patrons/lucia/syr": {
             "it": "Lucia da Siracusa",

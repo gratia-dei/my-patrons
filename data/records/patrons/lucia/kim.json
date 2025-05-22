@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ko": [
+            "김 루치아"
+        ],
+        "la": [
+            "Lucia Kim"
+        ],
+        "en": [
+            "Locy Kim"
+        ],
+        "pl": [
+            "Łucja Kim"
+        ]
+    },
+    "forenames": ["lucia"],
+    "surnames": [
+        {
+            "ko": "김",
+            "la": "Kim",
+            "en": "Kim",
+            "pl": "Kim"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1769"],
+    "died": [">1839-08-01", "<1839-09-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["94:sept./20#1", "2:sept./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66284",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%81ucja_Kim"
+    }
+}

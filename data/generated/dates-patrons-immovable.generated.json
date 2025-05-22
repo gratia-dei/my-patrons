@@ -2326,6 +2326,18 @@
                 "feast": "20 IX",
                 "mr-2004": "20 IX: #1"
             }
+        },
+        "records/patrons/lucia/kim": {
+            "name": {
+                "ko": "김 루치아",
+                "la": "Lucia Kim",
+                "en": "Locy Kim",
+                "pl": "Łucja Kim"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
         }
     },
     "09-23": {
@@ -2354,6 +2366,19 @@
             "sources": {
                 "reliable-death-anniversary": "25 IX",
                 "mr-2004": "25 IX: #9"
+            }
+        }
+    },
+    "09-26": {
+        "records/patrons/lucia/kim": {
+            "name": {
+                "ko": "김 루치아",
+                "la": "Lucia Kim",
+                "en": "Locy Kim",
+                "pl": "Łucja Kim"
+            },
+            "sources": {
+                "mr-2004": "26 IX: #8"
             }
         }
     },

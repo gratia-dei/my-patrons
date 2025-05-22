@@ -5990,7 +5990,8 @@
             "la": "Lucia",
             "en": "Lucia",
             "pl": "Łucja",
-            "it": "Lucia"
+            "it": "Lucia",
+            "ko": "루치아"
         }
     },
     "patrons/lucia/fil": {
@@ -6003,6 +6004,20 @@
         },
         "died": [
             "1732-03-25"
+        ],
+        "feasts": []
+    },
+    "patrons/lucia/kim": {
+        "active": true,
+        "names": {
+            "ko": "김 루치아",
+            "la": "Lucia Kim",
+            "en": "Locy Kim",
+            "pl": "Łucja Kim"
+        },
+        "died": [
+            ">1839-08-01",
+            "<1839-09-30"
         ],
         "feasts": []
     },

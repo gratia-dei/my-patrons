@@ -1,22 +1,19 @@
 {
     "1": {
-        "page": "...",
+        "page": 537,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -26,7 +23,7 @@
     },
 
     "6": {
-        "mark": "*",
+        "page": 538,
         "la": "..."
     },
 
@@ -36,12 +33,10 @@
     },
 
     "8": {
-        "mark": "*",
-        "la": "..."
+        "la": "Seuli in Corea, passio sanctorum [todo-1|Sebastiani Nam I-gwan] et novem sociorum*, martyrum, ...; commemorantur item sanctae martyres [2|Lucia Kim], [todo-3|Catharina Yi], vidua, atque ipsius filia [todo-4|Magdalena Cho], virgo, ... occubuerunt.[/][/]*Quorum nomina: sancti [todo-5|Ignatius Kim Che-jun], [todo-6|Carolus Cho Shin-ch'ol], [todo-7|Columba Kim Hyo-im], virgo; [todo-8|Magdalena Pak Pong-son] et [todo-9|Perpetua Hong Kum-ju], viduae; [todo-10|Iulitta Kim], [todo-11|Agatha Chon Kyong-hyob], [todo-12|Magdalena Ho Kye-im]."
     },
 
     "9": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -61,6 +56,7 @@
     },
 
     "13": {
+        "page": 539,
         "mark": "*",
         "la": "..."
     },
@@ -86,16 +82,6 @@
     },
 
     "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }
