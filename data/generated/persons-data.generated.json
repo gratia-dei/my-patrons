@@ -2265,7 +2265,8 @@
             "pl": "Katarzyna",
             "de": "Katharina",
             "fr": "Catherine",
-            "it": "Caterina"
+            "it": "Caterina",
+            "ko": "가타리나"
         }
     },
     "patrons/catharina/ale": {
@@ -2316,6 +2317,20 @@
         },
         "died": [
             "1380-04-29"
+        ],
+        "feasts": []
+    },
+    "patrons/catharina/yiv": {
+        "active": true,
+        "names": {
+            "ko": "이 가타리나",
+            "la": "Catharina Yi",
+            "en": "Cathrine Yi",
+            "pl": "Katarzyna Yi"
+        },
+        "died": [
+            ">1839-09-01",
+            "<1839-09-30"
         ],
         "feasts": []
     },

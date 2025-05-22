@@ -20,6 +20,9 @@
         ],
         "it": [
             "Caterina"
+        ],
+        "ko": [
+            "가타리나"
         ]
     },
     "links": {
@@ -45,6 +48,12 @@
             "la": "Catharina Senensis",
             "en": "Catherine of Siena",
             "pl": "Katarzyna ze Sieny"
+        },
+        "records/patrons/catharina/yiv": {
+            "ko": "이 가타리나",
+            "la": "Catharina Yi",
+            "en": "Cathrine Yi",
+            "pl": "Katarzyna Yi"
         },
         "records/patrons/magdalena/mor": {
             "it": "Maddalena Caterina Morano",
