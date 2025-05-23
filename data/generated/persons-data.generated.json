@@ -6093,7 +6093,8 @@
             "la": "Lucas",
             "en": "Luke",
             "pl": "Łukasz",
-            "el": "Λουκάς"
+            "el": "Λουκάς",
+            "fr": "Luc"
         }
     },
     "patrons/lucas/eva": {
@@ -7358,8 +7359,22 @@
             "en": "Martin",
             "pl": "Marcin",
             "es": "Martín",
+            "fr": "Martin",
             "vi": "Martinô"
         }
+    },
+    "patrons/martinus/hui": {
+        "active": true,
+        "names": {
+            "fr": "Martin Luc Huin",
+            "la": "Martinus Lucas Huin",
+            "en": "Martin Luke Huin",
+            "pl": "Marcin Łukasz Huin"
+        },
+        "died": [
+            "1866-03-30"
+        ],
+        "feasts": []
     },
     "patrons/martinus/por": {
         "active": true,

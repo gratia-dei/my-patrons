@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Huin"
+    },
+    "translations": {
+        "fr": [
+            "Huin"
+        ]
+    },
+    "links": {
+        "records/patrons/martinus/hui": {
+            "fr": "Martin Luc Huin",
+            "la": "Martinus Lucas Huin",
+            "en": "Martin Luke Huin",
+            "pl": "Marcin Łukasz Huin"
+        }
+    }
+}

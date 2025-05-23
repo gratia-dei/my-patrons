@@ -680,6 +680,17 @@
                 "feast": "7 III"
             }
         },
+        "records/patrons/martinus/hui": {
+            "name": {
+                "fr": "Martin Luc Huin",
+                "la": "Martinus Lucas Huin",
+                "en": "Martin Luke Huin",
+                "pl": "Marcin Łukasz Huin"
+            },
+            "sources": {
+                "feast": "7 III"
+            }
+        },
         "records/patrons/petrus/aum": {
             "name": {
                 "fr": "Pierre Aumaître",
@@ -1139,6 +1150,18 @@
                 "la": "Antonius Daveluy",
                 "en": "Anthony Daveluy",
                 "pl": "Antoni Daveluy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 III",
+                "mr-2004": "30 III: #11"
+            }
+        },
+        "records/patrons/martinus/hui": {
+            "name": {
+                "fr": "Martin Luc Huin",
+                "la": "Martinus Lucas Huin",
+                "en": "Martin Luke Huin",
+                "pl": "Marcin Łukasz Huin"
             },
             "sources": {
                 "reliable-death-anniversary": "30 III",
@@ -2730,6 +2753,17 @@
                 "la": "Petrus Aumaître",
                 "en": "Peter Aumaître",
                 "pl": "Piotr Aumaître"
+            },
+            "sources": {
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/martinus/hui": {
+            "name": {
+                "fr": "Martin Luc Huin",
+                "la": "Martinus Lucas Huin",
+                "en": "Martin Luke Huin",
+                "pl": "Marcin Łukasz Huin"
             },
             "sources": {
                 "mr-2004": "20 IX: #1"

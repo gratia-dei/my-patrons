@@ -14,6 +14,9 @@
         ],
         "el": [
             "Λουκάς"
+        ],
+        "fr": [
+            "Luc"
         ]
     },
     "links": {
@@ -22,6 +25,12 @@
             "la": "Lucas Evangelista",
             "en": "Luke the Evangelist",
             "pl": "Łukasz Ewangelista"
+        },
+        "records/patrons/martinus/hui": {
+            "fr": "Martin Luc Huin",
+            "la": "Martinus Lucas Huin",
+            "en": "Martin Luke Huin",
+            "pl": "Marcin Łukasz Huin"
         }
     }
 }

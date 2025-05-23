@@ -977,7 +977,8 @@
         "la": "Lucas",
         "en": "Luke",
         "pl": "Łukasz",
-        "el": "Λουκάς"
+        "el": "Λουκάς",
+        "fr": "Luc"
     },
     "lucia": {
         "la": "Lucia",
@@ -1095,6 +1096,7 @@
         "en": "Martin",
         "pl": "Marcin",
         "es": "Martín",
+        "fr": "Martin",
         "vi": "Martinô"
     },
     "mathildis": {
