@@ -1,0 +1,81 @@
+{
+    "names": {
+        "ko": "데레사"
+    },
+    "translations": {
+        "la": [
+            "Teresia"
+        ],
+        "en": [
+            "Therese"
+        ],
+        "pl": [
+            "Teresa"
+        ],
+        "de": [
+            "Therese"
+        ],
+        "es": [
+            "Teresa"
+        ],
+        "fr": [
+            "Thérèse"
+        ],
+        "it": [
+            "Teresa"
+        ],
+        "ko": [
+            "데레사"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/sch": {
+            "de": "Maria Theresia Scherer",
+            "en": "Maria Therese Scherer",
+            "la": "Maria Theresia Scherer",
+            "pl": "Maria Teresa Scherer"
+        },
+        "records/patrons/maria/wul": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        },
+        "records/patrons/teresia/gon": {
+            "ojczysty": "Nënë Tereza e Kalkutës",
+            "la": "Mater Teresia de Calcutta",
+            "en": "Mother Teresa of Calcutta",
+            "pl": "Matka Teresa z Kalkuty"
+        },
+        "records/patrons/teresia/ies": {
+            "es": "Teresa de Ávila",
+            "la": "Teresia Abulensis",
+            "en": "Teresa of Ávila",
+            "pl": "Teresa z Ávili"
+        },
+        "records/patrons/teresia/inf": {
+            "fr": "Thérèse de Lisieux",
+            "en": "Therese of Lisieux",
+            "la": "Teresia Lexoviensis",
+            "pl": "Teresa z Lisieux"
+        },
+        "records/patrons/teresia/ste": {
+            "de": "Therese Benedicta vom Kreuz",
+            "en": "Teresa Benedicta of the Cross",
+            "la": "Teresia Benedicta a Cruce",
+            "pl": "Teresa Benedykta od Krzyża"
+        },
+        "records/patrons/teresia/ver": {
+            "it": "Teresa Eustochio Verzeri",
+            "en": "Teresa Eustochio Verzeri",
+            "la": "Teresia Eustochius Verzeri",
+            "pl": "Teresa Eustochio Verzeri"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
+        }
+    }
+}

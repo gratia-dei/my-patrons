@@ -1,0 +1,79 @@
+{
+    "names": {
+        "ko": "안나"
+    },
+    "translations": {
+        "la": [
+            "Anna"
+        ],
+        "en": [
+            "Anna"
+        ],
+        "pl": [
+            "Anna"
+        ],
+        "de": [
+            "Anna"
+        ],
+        "es": [
+            "Ana"
+        ],
+        "he": [
+            "חַנָּה‎"
+        ],
+        "it": [
+            "Anna"
+        ],
+        "ko": [
+            "안나"
+        ]
+    },
+    "links": {
+        "records/patrons/anna/kim": {
+            "ko": "김장금 안나",
+            "la": "Anna Kim Chang-gŭm",
+            "en": "Anna Kim Chang-gŭm",
+            "pl": "Anna Kim Chang-gŭm"
+        },
+        "records/patrons/anna/mar": {
+            "he": "חַנָּה‎",
+            "la": "Anna, mater Mariae",
+            "en": "Anna, mother of Mary",
+            "pl": "Anna, matka Maryi"
+        },
+        "records/patrons/maria/bie": {
+            "pl": "Maria Anna Biernacka",
+            "en": "Maria Anna Biernacka",
+            "la": "Maria Anna Biernacka"
+        },
+        "records/patrons/maria/gal": {
+            "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
+            "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
+            "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
+            "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
+        },
+        "records/patrons/maria/kuk": {
+            "pl": "Maria Rajmunda od Jezusa i Maryi",
+            "la": "Maria Raymunda a Iesu et Maria",
+            "en": "Mary Raymunda of Jesus and Mary"
+        },
+        "records/patrons/maria/nav": {
+            "es": "María Ana de Jesús Navarro",
+            "en": "Maria Anna of Jesus Navarro",
+            "la": "Maria Anna a Iesu Navarro",
+            "pl": "Maria Anna od Jezusa Navarro"
+        },
+        "records/patrons/maria/rub": {
+            "it": "Maria Francesca di Gesù",
+            "en": "Maria Francesca of Jesus",
+            "la": "Maria Francisca a Iesu",
+            "pl": "Maria Franciszka od Jezusa"
+        },
+        "records/patrons/maria/sch": {
+            "de": "Maria Theresia Scherer",
+            "en": "Maria Therese Scherer",
+            "la": "Maria Theresia Scherer",
+            "pl": "Maria Teresa Scherer"
+        }
+    }
+}

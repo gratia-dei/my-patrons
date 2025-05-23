@@ -16,6 +16,9 @@
         "fr": [
             "Jean Baptiste"
         ],
+        "ko": [
+            "세례자 요한"
+        ],
         "vi": [
             "Gioan Baotixita"
         ]
@@ -38,6 +41,12 @@
             "la": "Ioannes Maria Vianney",
             "en": "John Mary Vianney",
             "pl": "Jan Maria Vianney"
+        },
+        "records/patrons/ioannes/yik": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
         }
     }
 }

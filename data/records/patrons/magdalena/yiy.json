@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "이영희 막달레나"
+        ],
+        "la": [
+            "Magdalena Yi Yŏng-hŭi"
+        ],
+        "en": [
+            "Magdalene Yi Yŏng-hŭi"
+        ],
+        "pl": [
+            "Magdalena Yi Yŏng-hŭi"
+        ]
+    },
+    "forenames": ["magdalena"],
+    "surnames": [
+        {
+            "ko": "이",
+            "la": "Yi",
+            "en": "Yi",
+            "pl": "Yi"
+        },
+        {
+            "ko": "영희",
+            "la": "Yŏng-hŭi",
+            "en": "Yŏng-hŭi",
+            "pl": "Yŏng-hŭi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1809"],
+    "died": ["1839-07-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-07-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./20#10", "73:sept./20#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-kim-taegon.html",
+        "gcatholic": "https://gcatholic.org/p/66261",
+        "wiki": "https://pl.wikipedia.org/wiki/Magdalena_Yi_Y%C5%8Fng-h%C5%ADi"
+    }
+}

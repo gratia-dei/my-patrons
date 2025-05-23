@@ -24,6 +24,9 @@
         ],
         "it": [
             "Teresa"
+        ],
+        "ko": [
+            "데레사"
         ]
     },
     "links": {
@@ -68,6 +71,12 @@
             "en": "Teresa Eustochio Verzeri",
             "la": "Teresia Eustochius Verzeri",
             "pl": "Teresa Eustochio Verzeri"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
         }
     }
 }

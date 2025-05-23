@@ -1,0 +1,52 @@
+{
+    "names": {
+        "ko": "세례자 요한"
+    },
+    "translations": {
+        "la": [
+            "Ioannes Baptista",
+            "Joannes Baptista"
+        ],
+        "en": [
+            "John the Baptist"
+        ],
+        "pl": [
+            "Jan Chrzciciel"
+        ],
+        "fr": [
+            "Jean Baptiste"
+        ],
+        "ko": [
+            "세례자 요한"
+        ],
+        "vi": [
+            "Gioan Baotixita"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/con": {
+            "vi": "Gioan Baotixita Cỏn",
+            "la": "Ioannes Baptista Cỏn",
+            "en": "John Baptist Cỏn",
+            "pl": "Jan Chrzciciel Cỏn"
+        },
+        "records/patrons/ioannes/sal": {
+            "fr": "Jean-Baptiste de la Salle",
+            "en": "John Baptist de la Salle",
+            "la": "Ioannes Baptista de la Salle",
+            "pl": "Jan Chrzciciel de la Salle"
+        },
+        "records/patrons/ioannes/via": {
+            "fr": "Jean-Marie Vianney",
+            "la": "Ioannes Maria Vianney",
+            "en": "John Mary Vianney",
+            "pl": "Jan Maria Vianney"
+        },
+        "records/patrons/ioannes/yik": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
+        }
+    }
+}

@@ -12,9 +12,18 @@
         ],
         "pl": [
             "Marta"
+        ],
+        "ko": [
+            "마르타"
         ]
     },
     "links": {
+        "records/patrons/martha/kim": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
+        },
         "records/patrons/martha/laz": {
             "la": "Martha Bethaniae",
             "en": "Martha of Bethany",

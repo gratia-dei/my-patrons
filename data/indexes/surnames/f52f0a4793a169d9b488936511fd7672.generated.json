@@ -24,6 +24,24 @@
             "la": "Catharina Yi",
             "en": "Cathrine Yi",
             "pl": "Katarzyna Yi"
+        },
+        "records/patrons/ioannes/yik": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
+        },
+        "records/patrons/magdalena/yiy": {
+            "ko": "이영희 막달레나",
+            "la": "Magdalena Yi Yŏng-hŭi",
+            "en": "Magdalene Yi Yŏng-hŭi",
+            "pl": "Magdalena Yi Yŏng-hŭi"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
         }
     }
 }

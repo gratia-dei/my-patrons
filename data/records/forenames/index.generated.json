@@ -153,7 +153,8 @@
         "de": "Anna",
         "es": "Ana",
         "he": "חַנָּה‎",
-        "it": "Anna"
+        "it": "Anna",
+        "ko": "안나"
     },
     "anselmus": {
         "la": "Anselmus",
@@ -980,6 +981,7 @@
         "en": "John the Baptist",
         "pl": "Jan Chrzciciel",
         "fr": "Jean Baptiste",
+        "ko": "세례자 요한",
         "vi": "Gioan Baotixita"
     },
     "ioannes": {
@@ -991,7 +993,8 @@
         "es": "Juan",
         "fr": "Jean",
         "it": "Giovanni",
-        "pt": "João"
+        "pt": "João",
+        "ko": "요한"
     },
     "ioannina": {
         "la": "Ioannina",
@@ -1262,7 +1265,8 @@
         "el": "Μαρία",
         "es": "María",
         "fr": "Marie",
-        "it": "Maria"
+        "it": "Maria",
+        "ko": "마리아"
     },
     "marianus": {
         "la": "Marianus",
@@ -1277,7 +1281,8 @@
     "martha": {
         "la": "Martha",
         "en": "Martha",
-        "pl": "Marta"
+        "pl": "Marta",
+        "ko": "마르타"
     },
     "martinus": {
         "la": "Martinus",
@@ -1628,7 +1633,8 @@
         "pl": "Róża",
         "es": "Rosa",
         "fr": "Rose",
-        "it": "Rosa"
+        "it": "Rosa",
+        "ko": "로사"
     },
     "rosalia": {
         "la": "Rosalia",
@@ -1836,7 +1842,8 @@
         "de": "Therese",
         "es": "Teresa",
         "fr": "Thérèse",
-        "it": "Teresa"
+        "it": "Teresa",
+        "ko": "데레사"
     },
     "thaddaeus": {
         "la": "Thaddaeus",

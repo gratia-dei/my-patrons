@@ -29,6 +29,9 @@
         ],
         "it": [
             "Maria"
+        ],
+        "ko": [
+            "마리아"
         ]
     },
     "links": {
@@ -234,6 +237,12 @@
             "pl": "Maria Ulma",
             "la": "Maria Ulma",
             "en": "Mary Ulma"
+        },
+        "records/patrons/maria/won": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
         },
         "records/patrons/maria/wul": {
             "de": "Maria Therese von Wüllenweber",

@@ -46,6 +46,12 @@
             "en": "Anastasia of Sirmium",
             "pl": "Anastazja z Dalmacji"
         },
+        "records/patrons/anna/kim": {
+            "ko": "김장금 안나",
+            "la": "Anna Kim Chang-gŭm",
+            "en": "Anna Kim Chang-gŭm",
+            "pl": "Anna Kim Chang-gŭm"
+        },
         "records/patrons/anna/mar": {
             "he": "חַנָּה‎",
             "la": "Anna, mater Mariae",
@@ -400,6 +406,12 @@
             "en": "Magdalene Pak Pong-son",
             "pl": "Magdalena Pak Pong-son"
         },
+        "records/patrons/magdalena/yiy": {
+            "ko": "이영희 막달레나",
+            "la": "Magdalena Yi Yŏng-hŭi",
+            "en": "Magdalene Yi Yŏng-hŭi",
+            "pl": "Magdalena Yi Yŏng-hŭi"
+        },
         "records/patrons/marcellina/dar": {
             "pl": "Marcelina Darowska",
             "en": "Marcelina Darowska",
@@ -589,6 +601,12 @@
             "la": "Maria Ulma",
             "en": "Mary Ulma"
         },
+        "records/patrons/maria/won": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
+        },
         "records/patrons/maria/wul": {
             "de": "Maria Therese von Wüllenweber",
             "la": "Maria Teresia von Wüllenweber",
@@ -599,6 +617,12 @@
             "pl": "Maria Imelda od Jezusa Hostii",
             "la": "Maria Imelda a Iesu Hostia",
             "en": "Mary Imelda of the Eucharistic Jesus"
+        },
+        "records/patrons/martha/kim": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
         },
         "records/patrons/martha/laz": {
             "la": "Martha Bethaniae",
@@ -666,6 +690,12 @@
             "la": "Rita de Cassia",
             "en": "Rita of Cascia",
             "pl": "Rita z Cascii"
+        },
+        "records/patrons/rosa/kim": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
         },
         "records/patrons/rosa/lim": {
             "es": "Rosa de Lima",
@@ -767,6 +797,12 @@
             "en": "Teresa Eustochio Verzeri",
             "la": "Teresia Eustochius Verzeri",
             "pl": "Teresa Eustochio Verzeri"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
         },
         "records/patrons/thecla/abb": {
             "de": "Thekla von Kitzingen",

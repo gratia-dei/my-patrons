@@ -1,0 +1,54 @@
+{
+    "names": {
+        "ko": "로사"
+    },
+    "translations": {
+        "la": [
+            "Rosa"
+        ],
+        "en": [
+            "Rose"
+        ],
+        "pl": [
+            "Róża"
+        ],
+        "es": [
+            "Rosa"
+        ],
+        "fr": [
+            "Rose"
+        ],
+        "it": [
+            "Rosa"
+        ],
+        "ko": [
+            "로사"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/dur": {
+            "fr": "Marie-Rose Durocher",
+            "pl": "Maria Róża Durocher",
+            "en": "Marie Rose Durocher",
+            "la": "Maria Rosa Durocher"
+        },
+        "records/patrons/rosa/kim": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
+        },
+        "records/patrons/rosa/lim": {
+            "es": "Rosa de Lima",
+            "en": "Rose of Lima",
+            "la": "Rosa de Lima",
+            "pl": "Róża z Limy"
+        },
+        "records/patrons/rosa/ven": {
+            "it": "Rosa Venerini",
+            "en": "Rose Venerini",
+            "la": "Rosa Venerini",
+            "pl": "Róża Venerini"
+        }
+    }
+}

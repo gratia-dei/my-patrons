@@ -20,6 +20,9 @@
         ],
         "it": [
             "Rosa"
+        ],
+        "ko": [
+            "로사"
         ]
     },
     "links": {
@@ -28,6 +31,12 @@
             "pl": "Maria Róża Durocher",
             "en": "Marie Rose Durocher",
             "la": "Maria Rosa Durocher"
+        },
+        "records/patrons/rosa/kim": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
         },
         "records/patrons/rosa/lim": {
             "es": "Rosa de Lima",

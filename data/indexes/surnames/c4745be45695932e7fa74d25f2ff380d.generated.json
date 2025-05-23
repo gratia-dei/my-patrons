@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Kwang-nyŏl",
+        "en": "Kwang-nyŏl",
+        "pl": "Kwang-nyŏl"
+    },
+    "translations": {
+        "ko": [
+            "광렬"
+        ],
+        "la": [
+            "Kwang-nyŏl"
+        ],
+        "en": [
+            "Kwang-nyŏl"
+        ],
+        "pl": [
+            "Kwang-nyŏl"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/yik": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
+        }
+    }
+}

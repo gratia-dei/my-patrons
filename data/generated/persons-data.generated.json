@@ -1002,8 +1002,22 @@
             "de": "Anna",
             "es": "Ana",
             "he": "חַנָּה‎",
-            "it": "Anna"
+            "it": "Anna",
+            "ko": "안나"
         }
+    },
+    "patrons/anna/kim": {
+        "active": true,
+        "names": {
+            "ko": "김장금 안나",
+            "la": "Anna Kim Chang-gŭm",
+            "en": "Anna Kim Chang-gŭm",
+            "pl": "Anna Kim Chang-gŭm"
+        },
+        "died": [
+            "1839-07-20"
+        ],
+        "feasts": []
     },
     "patrons/anna/mar": {
         "active": true,
@@ -4834,7 +4848,8 @@
             "es": "Juan",
             "fr": "Jean",
             "it": "Giovanni",
-            "pt": "João"
+            "pt": "João",
+            "ko": "요한"
         }
     },
     "patrons/ioannes/23p": {
@@ -5293,6 +5308,19 @@
         },
         "died": [
             "1859-08-04"
+        ],
+        "feasts": []
+    },
+    "patrons/ioannes/yik": {
+        "active": true,
+        "names": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
+        },
+        "died": [
+            "1839-07-20"
         ],
         "feasts": []
     },
@@ -6372,6 +6400,19 @@
         ],
         "feasts": []
     },
+    "patrons/magdalena/yiy": {
+        "active": true,
+        "names": {
+            "ko": "이영희 막달레나",
+            "la": "Magdalena Yi Yŏng-hŭi",
+            "en": "Magdalene Yi Yŏng-hŭi",
+            "pl": "Magdalena Yi Yŏng-hŭi"
+        },
+        "died": [
+            "1839-07-20"
+        ],
+        "feasts": []
+    },
     "patrons/magnus": {
         "names": {
             "la": "Magnus",
@@ -6630,7 +6671,8 @@
             "el": "Μαρία",
             "es": "María",
             "fr": "Marie",
-            "it": "Maria"
+            "it": "Maria",
+            "ko": "마리아"
         }
     },
     "patrons/maria/aeg": {
@@ -7194,6 +7236,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/won": {
+        "active": true,
+        "names": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
+        },
+        "died": [
+            "1839-07-20"
+        ],
+        "feasts": []
+    },
     "patrons/maria/wul": {
         "active": true,
         "names": {
@@ -7254,8 +7309,22 @@
         "names": {
             "la": "Martha",
             "en": "Martha",
-            "pl": "Marta"
+            "pl": "Marta",
+            "ko": "마르타"
         }
+    },
+    "patrons/martha/kim": {
+        "active": true,
+        "names": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
+        },
+        "died": [
+            "1839-07-20"
+        ],
+        "feasts": []
     },
     "patrons/martha/laz": {
         "active": true,
@@ -9051,8 +9120,22 @@
             "pl": "Róża",
             "es": "Rosa",
             "fr": "Rose",
-            "it": "Rosa"
+            "it": "Rosa",
+            "ko": "로사"
         }
+    },
+    "patrons/rosa/kim": {
+        "active": true,
+        "names": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
+        },
+        "died": [
+            "1839-07-20"
+        ],
+        "feasts": []
     },
     "patrons/rosa/lim": {
         "active": false,
@@ -9840,7 +9923,8 @@
             "de": "Therese",
             "es": "Teresa",
             "fr": "Thérèse",
-            "it": "Teresa"
+            "it": "Teresa",
+            "ko": "데레사"
         }
     },
     "patrons/teresia/gon": {
@@ -9906,6 +9990,19 @@
         },
         "died": [
             "1852-03-03"
+        ],
+        "feasts": []
+    },
+    "patrons/teresia/yim": {
+        "active": true,
+        "names": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
+        },
+        "died": [
+            "1839-07-20"
         ],
         "feasts": []
     },

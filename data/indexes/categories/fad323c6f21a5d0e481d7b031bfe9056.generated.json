@@ -119,6 +119,12 @@
             "la": "Anicetus Koplinski",
             "en": "Anicetus Kopliński"
         },
+        "records/patrons/anna/kim": {
+            "ko": "김장금 안나",
+            "la": "Anna Kim Chang-gŭm",
+            "en": "Anna Kim Chang-gŭm",
+            "pl": "Anna Kim Chang-gŭm"
+        },
         "records/patrons/antiochus/ana": {
             "la": "Antiochus Anastasiopolitanus",
             "en": "Antiochus of Anastasiopolis",
@@ -729,6 +735,12 @@
             "la": "Ioannes Theophanes Vénard",
             "pl": "Jan Teofan Vénard"
         },
+        "records/patrons/ioannes/yik": {
+            "ko": "이광렬 요한",
+            "la": "Ioannes Baptista Yi Kwang-nyŏl",
+            "en": "John the Baptist Yi Kwang-nyŏl",
+            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
+        },
         "records/patrons/iosaphat/kun": {
             "pl": "Jozafat Kuncewicz",
             "en": "Josaphat Kuntsevych",
@@ -906,6 +918,12 @@
             "en": "Magdalene Pak Pong-son",
             "pl": "Magdalena Pak Pong-son"
         },
+        "records/patrons/magdalena/yiy": {
+            "ko": "이영희 막달레나",
+            "la": "Magdalena Yi Yŏng-hŭi",
+            "en": "Magdalene Yi Yŏng-hŭi",
+            "pl": "Magdalena Yi Yŏng-hŭi"
+        },
         "records/patrons/marcellinus/1pp": {
             "la": "Marcellinus Papa",
             "en": "Pope Marcellinus",
@@ -1006,6 +1024,12 @@
             "la": "Maria Ulma",
             "en": "Mary Ulma"
         },
+        "records/patrons/maria/won": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
+        },
         "records/patrons/maria/zak": {
             "pl": "Maria Imelda od Jezusa Hostii",
             "la": "Maria Imelda a Iesu Hostia",
@@ -1020,6 +1044,12 @@
             "pl": "Marian Konopiński",
             "en": "Marian Konopiński",
             "la": "Marianus Konopiński"
+        },
+        "records/patrons/martha/kim": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
         },
         "records/patrons/martinus/tad": {
             "vi": "Martinô Tạ Đức Thịnh",
@@ -1256,6 +1286,12 @@
             "en": "Roman Archutowski",
             "la": "Romanus Archutowski"
         },
+        "records/patrons/rosa/kim": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
+        },
         "records/patrons/rusticus/dio": {
             "fr": "Rustique de Paris, avec lui, a.o., Denis",
             "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
@@ -1383,6 +1419,12 @@
             "en": "Teresa Benedicta of the Cross",
             "la": "Teresia Benedicta a Cruce",
             "pl": "Teresa Benedykta od Krzyża"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
         },
         "records/patrons/thaddaeus/dul": {
             "pl": "Tadeusz Dulny",
