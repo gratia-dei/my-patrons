@@ -1,47 +1,40 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
-        "la": "?..."
+        "page": 211,
+        "la": "..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
+        "page": 212,
         "mark": "*",
         "la": "..."
     },
 
     "8": {
-        "mark": "*",
         "la": "..."
     },
 
     "9": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -51,8 +44,7 @@
     },
 
     "11": {
-        "mark": "*",
-        "la": "..."
+        "la": "In pago Su-Ryong in Corea, sanctorum martyrum [1|Antonii Daveluy], episcopi, [todo-2|Petri Aumaitre], [todo-3|Martini Lucae Huin], presbyterorum, [todo-4|Iosephi Chang Chu-gi], [todo-5|Thomae Son Cha-son] et [todo-6|Lucae Hwang sok-tu], catechistae, ..."
     },
 
     "12": {
@@ -61,41 +53,14 @@
     },
 
     "13": {
-        "mark": "*",
         "la": "..."
     },
 
     "14": {
-        "mark": "*",
         "la": "..."
     },
 
     "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

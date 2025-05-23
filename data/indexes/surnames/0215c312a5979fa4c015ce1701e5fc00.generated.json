@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Daveluy"
+    },
+    "translations": {
+        "fr": [
+            "Daveluy"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/dav": {
+            "fr": "Antoine Daveluy",
+            "la": "Antonius Daveluy",
+            "en": "Anthony Daveluy",
+            "pl": "Antoni Daveluy"
+        }
+    }
+}

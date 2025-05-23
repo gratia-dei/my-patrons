@@ -669,6 +669,17 @@
                 "mr-2004": "7 III: #9"
             }
         },
+        "records/patrons/antonius/dav": {
+            "name": {
+                "fr": "Antoine Daveluy",
+                "la": "Antonius Daveluy",
+                "en": "Anthony Daveluy",
+                "pl": "Antoni Daveluy"
+            },
+            "sources": {
+                "feast": "7 III"
+            }
+        },
         "records/patrons/perpetua/car": {
             "name": {
                 "la": "Perpetua Carthaginensis",
@@ -1107,6 +1118,20 @@
             },
             "sources": {
                 "mr-1956": "28 III: #1"
+            }
+        }
+    },
+    "03-30": {
+        "records/patrons/antonius/dav": {
+            "name": {
+                "fr": "Antoine Daveluy",
+                "la": "Antonius Daveluy",
+                "en": "Anthony Daveluy",
+                "pl": "Antoni Daveluy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 III",
+                "mr-2004": "30 III: #11"
             }
         }
     },
@@ -2662,6 +2687,17 @@
             },
             "sources": {
                 "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/antonius/dav": {
+            "name": {
+                "fr": "Antoine Daveluy",
+                "la": "Antonius Daveluy",
+                "en": "Anthony Daveluy",
+                "pl": "Antoni Daveluy"
+            },
+            "sources": {
                 "mr-2004": "20 IX: #1"
             }
         }

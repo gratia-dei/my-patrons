@@ -15,6 +15,9 @@
         "el": [
             "Ἀντώνιος"
         ],
+        "fr": [
+            "Antoine"
+        ],
         "it": [
             "Antonio"
         ],
@@ -60,6 +63,12 @@
             "la": "Antonius Daniel",
             "en": "Anthony Daniel",
             "pl": "Antoni Daniel"
+        },
+        "records/patrons/antonius/dav": {
+            "fr": "Antoine Daveluy",
+            "la": "Antonius Daveluy",
+            "en": "Anthony Daveluy",
+            "pl": "Antoni Daveluy"
         },
         "records/patrons/antonius/ere": {
             "uk": "Антоній Печерський",

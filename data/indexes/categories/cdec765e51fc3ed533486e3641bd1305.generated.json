@@ -82,6 +82,12 @@
             "la": "Antonius Cauleas",
             "pl": "Antoni Kauleas"
         },
+        "records/patrons/antonius/dav": {
+            "fr": "Antoine Daveluy",
+            "la": "Antonius Daveluy",
+            "en": "Anthony Daveluy",
+            "pl": "Antoni Daveluy"
+        },
         "records/patrons/antonius/now": {
             "pl": "Antoni Julian Nowowiejski",
             "en": "Anthony Julian Nowowiejski",

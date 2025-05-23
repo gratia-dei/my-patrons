@@ -1129,6 +1129,7 @@
             "en": "Anthony",
             "pl": "Antoni",
             "el": "Ἀντώνιος",
+            "fr": "Antoine",
             "it": "Antonio",
             "pt": "Antônio",
             "uk": "Антоній"
@@ -1208,6 +1209,19 @@
         },
         "died": [
             "1648-07-04"
+        ],
+        "feasts": []
+    },
+    "patrons/antonius/dav": {
+        "active": true,
+        "names": {
+            "fr": "Antoine Daveluy",
+            "la": "Antonius Daveluy",
+            "en": "Anthony Daveluy",
+            "pl": "Antoni Daveluy"
+        },
+        "died": [
+            "1866-03-30"
         ],
         "feasts": []
     },
