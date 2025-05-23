@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Son",
+        "en": "Son",
+        "pl": "Son"
+    },
+    "translations": {
+        "ko": [
+            "손"
+        ],
+        "la": [
+            "Son"
+        ],
+        "en": [
+            "Son"
+        ],
+        "pl": [
+            "Son"
+        ]
+    },
+    "links": {
+        "records/patrons/thomas/son": {
+            "ko": "손자선 토마스",
+            "la": "Thomas Son Cha-sŏn",
+            "en": "Thomas Son Cha-sŏn",
+            "pl": "Tomasz Son Cha-sŏn"
+        }
+    }
+}

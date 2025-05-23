@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "손자선 토마스"
+        ],
+        "la": [
+            "Thomas Son Cha-sŏn"
+        ],
+        "en": [
+            "Thomas Son Cha-sŏn"
+        ],
+        "pl": [
+            "Tomasz Son Cha-sŏn"
+        ]
+    },
+    "forenames": ["thomas"],
+    "surnames": [
+        {
+            "ko": "손",
+            "la": "Son",
+            "en": "Son",
+            "pl": "Son"
+        },
+        {
+            "ko": "자선",
+            "la": "Cha-sŏn",
+            "en": "Cha-sŏn",
+            "pl": "Cha-sŏn"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1839"],
+    "died": ["1866-03-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1968-10-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["03-07"],
+
+    "categories": ["vir", "martyr", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["5:mar./30#11", "21:sept./20#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/simeon-francois-berneux-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/66333",
+        "wiki": "https://pl.wikipedia.org/wiki/Tomasz_Son_Cha-s%C5%8Fn"
+    }
+}

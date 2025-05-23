@@ -713,6 +713,17 @@
                 "feast": "7 III"
             }
         },
+        "records/patrons/thomas/son": {
+            "name": {
+                "ko": "손자선 토마스",
+                "la": "Thomas Son Cha-sŏn",
+                "en": "Thomas Son Cha-sŏn",
+                "pl": "Tomasz Son Cha-sŏn"
+            },
+            "sources": {
+                "feast": "7 III"
+            }
+        },
         "records/patrons/perpetua/car": {
             "name": {
                 "la": "Perpetua Carthaginensis",
@@ -1197,6 +1208,18 @@
                 "la": "Petrus Aumaître",
                 "en": "Peter Aumaître",
                 "pl": "Piotr Aumaître"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 III",
+                "mr-2004": "30 III: #11"
+            }
+        },
+        "records/patrons/thomas/son": {
+            "name": {
+                "ko": "손자선 토마스",
+                "la": "Thomas Son Cha-sŏn",
+                "en": "Thomas Son Cha-sŏn",
+                "pl": "Tomasz Son Cha-sŏn"
             },
             "sources": {
                 "reliable-death-anniversary": "30 III",
@@ -2798,6 +2821,17 @@
                 "la": "Iosephus Chang Chu-gi",
                 "en": "Joseph Chang Chu-gi",
                 "pl": "Józef Chang Chu-gi"
+            },
+            "sources": {
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/thomas/son": {
+            "name": {
+                "ko": "손자선 토마스",
+                "la": "Thomas Son Cha-sŏn",
+                "en": "Thomas Son Cha-sŏn",
+                "pl": "Tomasz Son Cha-sŏn"
             },
             "sources": {
                 "mr-2004": "20 IX: #1"
