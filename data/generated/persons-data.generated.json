@@ -8454,6 +8454,19 @@
             }
         }
     },
+    "patrons/petrus/aum": {
+        "active": true,
+        "names": {
+            "fr": "Pierre Aumaître",
+            "la": "Petrus Aumaître",
+            "en": "Peter Aumaître",
+            "pl": "Piotr Aumaître"
+        },
+        "died": [
+            "1866-03-30"
+        ],
+        "feasts": []
+    },
     "patrons/petrus/cal": {
         "active": false,
         "names": {

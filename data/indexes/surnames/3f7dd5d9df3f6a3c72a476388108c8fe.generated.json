@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Aumaître"
+    },
+    "translations": {
+        "fr": [
+            "Aumaître"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/aum": {
+            "fr": "Pierre Aumaître",
+            "la": "Petrus Aumaître",
+            "en": "Peter Aumaître",
+            "pl": "Piotr Aumaître"
+        }
+    }
+}
