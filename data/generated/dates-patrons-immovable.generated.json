@@ -1579,6 +1579,20 @@
             }
         }
     },
+    "07-20": {
+        "records/patrons/lucia/kin": {
+            "name": {
+                "ko": "김 루치아 (1818년 출생)",
+                "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
+                "en": "Locy Kim; woth her, i.a., Magdalena Yi Yŏng-hŭi",
+                "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 VII",
+                "mr-2004": "20 VII: #10"
+            }
+        }
+    },
     "07-22": {
         "records/patrons/maria/mag": {
             "name": {
@@ -2405,6 +2419,18 @@
                 "la": "Lucia Kim",
                 "en": "Locy Kim",
                 "pl": "Łucja Kim"
+            },
+            "sources": {
+                "feast": "20 IX",
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/lucia/kin": {
+            "name": {
+                "ko": "김 루치아 (1818년 출생)",
+                "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
+                "en": "Locy Kim; woth her, i.a., Magdalena Yi Yŏng-hŭi",
+                "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
             },
             "sources": {
                 "feast": "20 IX",
