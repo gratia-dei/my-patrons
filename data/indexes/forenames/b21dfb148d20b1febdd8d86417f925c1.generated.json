@@ -17,6 +17,9 @@
         ],
         "fr": [
             "Luc"
+        ],
+        "ko": [
+            "루가"
         ]
     },
     "links": {
@@ -25,6 +28,12 @@
             "la": "Lucas Evangelista",
             "en": "Luke the Evangelist",
             "pl": "Łukasz Ewangelista"
+        },
+        "records/patrons/lucas/hwa": {
+            "ko": "황석두 루가",
+            "la": "Lucas Hwang Sŏk-tu",
+            "en": "Luke Hwang Sŏk-tu",
+            "pl": "Łukasz Hwang Sŏk-tu"
         },
         "records/patrons/martinus/hui": {
             "fr": "Martin Luc Huin",

@@ -6108,7 +6108,8 @@
             "en": "Luke",
             "pl": "Łukasz",
             "el": "Λουκάς",
-            "fr": "Luc"
+            "fr": "Luc",
+            "ko": "루가"
         }
     },
     "patrons/lucas/eva": {
@@ -6132,6 +6133,19 @@
                 }
             }
         }
+    },
+    "patrons/lucas/hwa": {
+        "active": true,
+        "names": {
+            "ko": "황석두 루가",
+            "la": "Lucas Hwang Sŏk-tu",
+            "en": "Luke Hwang Sŏk-tu",
+            "pl": "Łukasz Hwang Sŏk-tu"
+        },
+        "died": [
+            "1866-03-30"
+        ],
+        "feasts": []
     },
     "patrons/lucia": {
         "names": {
