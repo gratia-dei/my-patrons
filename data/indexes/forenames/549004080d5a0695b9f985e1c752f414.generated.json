@@ -21,6 +21,9 @@
         "it": [
             "Giuseppe"
         ],
+        "ko": [
+            "요셉"
+        ],
         "vi": [
             "Giuse"
         ],
@@ -48,6 +51,12 @@
             "la": "Ioseph Nazarenus",
             "en": "Joseph of Nazareth",
             "pl": "Józef z Nazaretu"
+        },
+        "records/patrons/iosephus/cha": {
+            "ko": "장주기 요셉",
+            "la": "Iosephus Chang Chu-gi",
+            "en": "Joseph Chang Chu-gi",
+            "pl": "Józef Chang Chu-gi"
         },
         "records/patrons/iosephus/esc": {
             "es": "Josemaría Escrivá de Balaguer",

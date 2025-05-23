@@ -1,0 +1,65 @@
+{
+    "names": {
+        "ko": [
+            "장주기 요셉"
+        ],
+        "la": [
+            "Iosephus Chang Chu-gi"
+        ],
+        "en": [
+            "Joseph Chang Chu-gi"
+        ],
+        "pl": [
+            "Józef Chang Chu-gi"
+        ]
+    },
+    "forenames": ["iosephus"],
+    "surnames": [
+        {
+            "ko": "장",
+            "la": "Chang",
+            "en": "Chang",
+            "pl": "Chang"
+        },
+        {
+            "ko": "주기",
+            "la": "Chu-gi",
+            "en": "Chu-gi",
+            "pl": "Chu-gi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1802", "1803"],
+    "died": ["1866-03-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1968-10-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1984-05-06"
+    },
+    "anniversary": ["03-07"],
+
+    "categories": ["vir", "martyr", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:mar./30#11", "20:sept./20#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/simeon-francois-berneux-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/66331",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Chang_Chu-gi"
+    }
+}

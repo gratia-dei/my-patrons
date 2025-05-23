@@ -5440,9 +5440,23 @@
             "pl": "Józef",
             "fr": "Joseph",
             "it": "Giuseppe",
+            "ko": "요셉",
             "vi": "Giuse",
             "zh": "若瑟"
         }
+    },
+    "patrons/iosephus/cha": {
+        "active": true,
+        "names": {
+            "ko": "장주기 요셉",
+            "la": "Iosephus Chang Chu-gi",
+            "en": "Joseph Chang Chu-gi",
+            "pl": "Józef Chang Chu-gi"
+        },
+        "died": [
+            "1866-03-30"
+        ],
+        "feasts": []
     },
     "patrons/iosephus/esc": {
         "active": false,

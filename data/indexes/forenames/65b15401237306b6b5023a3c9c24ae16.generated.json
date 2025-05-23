@@ -19,6 +19,9 @@
         "it": [
             "Giuseppe"
         ],
+        "ko": [
+            "요셉"
+        ],
         "vi": [
             "Giuse"
         ],
@@ -32,6 +35,12 @@
             "en": "John Joseph of the Cross",
             "la": "Ioannes Ioseph a Cruce",
             "pl": "Jan Józef od Krzyża"
+        },
+        "records/patrons/iosephus/cha": {
+            "ko": "장주기 요셉",
+            "la": "Iosephus Chang Chu-gi",
+            "en": "Joseph Chang Chu-gi",
+            "pl": "Józef Chang Chu-gi"
         },
         "records/patrons/iosephus/esc": {
             "es": "Josemaría Escrivá de Balaguer",

@@ -680,6 +680,17 @@
                 "feast": "7 III"
             }
         },
+        "records/patrons/iosephus/cha": {
+            "name": {
+                "ko": "장주기 요셉",
+                "la": "Iosephus Chang Chu-gi",
+                "en": "Joseph Chang Chu-gi",
+                "pl": "Józef Chang Chu-gi"
+            },
+            "sources": {
+                "feast": "7 III"
+            }
+        },
         "records/patrons/martinus/hui": {
             "name": {
                 "fr": "Martin Luc Huin",
@@ -1150,6 +1161,18 @@
                 "la": "Antonius Daveluy",
                 "en": "Anthony Daveluy",
                 "pl": "Antoni Daveluy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 III",
+                "mr-2004": "30 III: #11"
+            }
+        },
+        "records/patrons/iosephus/cha": {
+            "name": {
+                "ko": "장주기 요셉",
+                "la": "Iosephus Chang Chu-gi",
+                "en": "Joseph Chang Chu-gi",
+                "pl": "Józef Chang Chu-gi"
             },
             "sources": {
                 "reliable-death-anniversary": "30 III",
@@ -2764,6 +2787,17 @@
                 "la": "Martinus Lucas Huin",
                 "en": "Martin Luke Huin",
                 "pl": "Marcin Łukasz Huin"
+            },
+            "sources": {
+                "mr-2004": "20 IX: #1"
+            }
+        },
+        "records/patrons/iosephus/cha": {
+            "name": {
+                "ko": "장주기 요셉",
+                "la": "Iosephus Chang Chu-gi",
+                "en": "Joseph Chang Chu-gi",
+                "pl": "Józef Chang Chu-gi"
             },
             "sources": {
                 "mr-2004": "20 IX: #1"
