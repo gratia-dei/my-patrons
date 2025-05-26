@@ -1313,6 +1313,19 @@
         }
     },
     "04-17": {
+        "records/patrons/catharina/tek": {
+            "name": {
+                "moh": "Kateri Tekakwitha",
+                "la": "Catharina Tekakwitha",
+                "en": "Catherine Tekakwitha",
+                "pl": "Katarzyna Tekakwitha"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 IV",
+                "feast": "17 IV",
+                "mr-2004": "17 IV: #15"
+            }
+        },
         "records/patrons/acacius/mel": {
             "name": {
                 "la": "Acacius Melitenensis",

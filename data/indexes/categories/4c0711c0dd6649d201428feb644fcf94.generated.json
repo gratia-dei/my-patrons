@@ -82,6 +82,12 @@
             "en": "Catherine of Siena",
             "pl": "Katarzyna ze Sieny"
         },
+        "records/patrons/catharina/tek": {
+            "moh": "Kateri Tekakwitha",
+            "la": "Catharina Tekakwitha",
+            "en": "Catherine Tekakwitha",
+            "pl": "Katarzyna Tekakwitha"
+        },
         "records/patrons/clara/asi": {
             "it": "Chiara d'Assisi",
             "la": "Clara Assisiensis",

@@ -2322,7 +2322,8 @@
             "de": "Katharina",
             "fr": "Catherine",
             "it": "Caterina",
-            "ko": "가타리나"
+            "ko": "가타리나",
+            "moh": "Kateri"
         }
     },
     "patrons/catharina/ale": {
@@ -2373,6 +2374,19 @@
         },
         "died": [
             "1380-04-29"
+        ],
+        "feasts": []
+    },
+    "patrons/catharina/tek": {
+        "active": true,
+        "names": {
+            "moh": "Kateri Tekakwitha",
+            "la": "Catharina Tekakwitha",
+            "en": "Catherine Tekakwitha",
+            "pl": "Katarzyna Tekakwitha"
+        },
+        "died": [
+            "1680-04-17"
         ],
         "feasts": []
     },

@@ -23,6 +23,9 @@
         ],
         "ko": [
             "가타리나"
+        ],
+        "moh": [
+            "Kateri"
         ]
     },
     "links": {
@@ -48,6 +51,12 @@
             "la": "Catharina Senensis",
             "en": "Catherine of Siena",
             "pl": "Katarzyna ze Sieny"
+        },
+        "records/patrons/catharina/tek": {
+            "moh": "Kateri Tekakwitha",
+            "la": "Catharina Tekakwitha",
+            "en": "Catherine Tekakwitha",
+            "pl": "Katarzyna Tekakwitha"
         },
         "records/patrons/catharina/yiv": {
             "ko": "이 가타리나",

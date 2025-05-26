@@ -1,0 +1,18 @@
+{
+    "names": {
+        "moh": "Tekakwitha"
+    },
+    "translations": {
+        "moh": [
+            "Tekakwitha"
+        ]
+    },
+    "links": {
+        "records/patrons/catharina/tek": {
+            "moh": "Kateri Tekakwitha",
+            "la": "Catharina Tekakwitha",
+            "en": "Catherine Tekakwitha",
+            "pl": "Katarzyna Tekakwitha"
+        }
+    }
+}
