@@ -352,6 +352,11 @@
             "en": "Joseph Sebastian Pelczar",
             "la": "Iosephus Sebastianus Pelczar"
         },
+        "records/patrons/irenaeus/sir": {
+            "la": "Irenaeus Sirmiensis",
+            "en": "Irenaeus of Sirmium",
+            "pl": "Ireneusz z Sirmium"
+        },
         "records/patrons/isidorus/his": {
             "la": "Isidorus Hispalensis",
             "en": "Isidore of Seville",

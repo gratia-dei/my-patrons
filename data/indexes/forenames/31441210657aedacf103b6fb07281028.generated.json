@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Ireneusz"
+    },
+    "translations": {
+        "la": [
+            "Irenaeus"
+        ],
+        "en": [
+            "Irenaeus"
+        ],
+        "pl": [
+            "Ireneusz"
+        ]
+    },
+    "links": {
+        "records/patrons/irenaeus/sir": {
+            "la": "Irenaeus Sirmiensis",
+            "en": "Irenaeus of Sirmium",
+            "pl": "Ireneusz z Sirmium"
+        }
+    }
+}

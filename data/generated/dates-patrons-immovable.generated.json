@@ -1161,6 +1161,17 @@
                 "mr-1956": "25 III: #10",
                 "mr-2004": "25 III: #14"
             }
+        },
+        "records/patrons/irenaeus/sir": {
+            "name": {
+                "la": "Irenaeus Sirmiensis",
+                "en": "Irenaeus of Sirmium",
+                "pl": "Ireneusz z Sirmium"
+            },
+            "sources": {
+                "mr-1584": "25 III: #4",
+                "mr-1956": "25 III: #5"
+            }
         }
     },
     "03-28": {
@@ -1274,6 +1285,18 @@
                 "reliable-death-anniversary": "4 IV",
                 "feast": "4 IV",
                 "mr-2004": "4 IV: #9"
+            }
+        }
+    },
+    "04-06": {
+        "records/patrons/irenaeus/sir": {
+            "name": {
+                "la": "Irenaeus Sirmiensis",
+                "en": "Irenaeus of Sirmium",
+                "pl": "Ireneusz z Sirmium"
+            },
+            "sources": {
+                "mr-2004": "6 IV: #1"
             }
         }
     },

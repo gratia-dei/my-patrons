@@ -813,6 +813,11 @@
             "en": "Joseph Zaplata",
             "la": "Iosephus Zaplata"
         },
+        "records/patrons/irenaeus/sir": {
+            "la": "Irenaeus Sirmiensis",
+            "en": "Irenaeus of Sirmium",
+            "pl": "Ireneusz z Sirmium"
+        },
         "records/patrons/isaac/jog": {
             "fr": "Isaac Jogues",
             "la": "Isaac Jogues",

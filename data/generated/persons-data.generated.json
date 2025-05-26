@@ -5642,6 +5642,25 @@
         ],
         "feasts": []
     },
+    "patrons/irenaeus": {
+        "names": {
+            "la": "Irenaeus",
+            "en": "Irenaeus",
+            "pl": "Ireneusz"
+        }
+    },
+    "patrons/irenaeus/sir": {
+        "active": true,
+        "names": {
+            "la": "Irenaeus Sirmiensis",
+            "en": "Irenaeus of Sirmium",
+            "pl": "Ireneusz z Sirmium"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": []
+    },
     "patrons/irmina": {
         "names": {
             "la": "Irmina",

@@ -1459,6 +1459,11 @@
             "en": "Joshua, son of Nun",
             "pl": "Jozue, syn Nuna"
         },
+        "records/patrons/irenaeus/sir": {
+            "la": "Irenaeus Sirmiensis",
+            "en": "Irenaeus of Sirmium",
+            "pl": "Ireneusz z Sirmium"
+        },
         "records/patrons/isaac/jog": {
             "fr": "Isaac Jogues",
             "la": "Isaac Jogues",
