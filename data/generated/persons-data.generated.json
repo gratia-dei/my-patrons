@@ -7410,6 +7410,18 @@
             "vi": "Martinô"
         }
     },
+    "patrons/martinus/1pp": {
+        "active": true,
+        "names": {
+            "la": "Martinus Pp. I",
+            "en": "Martin I",
+            "pl": "Marcin I"
+        },
+        "died": [
+            "655-09-16"
+        ],
+        "feasts": []
+    },
     "patrons/martinus/hui": {
         "active": true,
         "names": {

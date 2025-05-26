@@ -97,6 +97,11 @@
             "en": "Marcellus Pope",
             "pl": "Marceli Papież"
         },
+        "records/patrons/martinus/1pp": {
+            "la": "Martinus Pp. I",
+            "en": "Martin I",
+            "pl": "Marcin I"
+        },
         "records/patrons/petrus/apo": {
             "arc": "ܟܐܦܐ",
             "la": "Petrus",

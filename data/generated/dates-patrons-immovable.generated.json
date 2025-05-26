@@ -1300,6 +1300,18 @@
             }
         }
     },
+    "04-13": {
+        "records/patrons/martinus/1pp": {
+            "name": {
+                "la": "Martinus Pp. I",
+                "en": "Martin I",
+                "pl": "Marcin I"
+            },
+            "sources": {
+                "mr-2004": "13 IV: #1"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/acacius/mel": {
             "name": {
@@ -2546,6 +2558,17 @@
             "sources": {
                 "reliable-death-anniversary": "16 IX",
                 "mr-2004": "16 IX: #16"
+            }
+        },
+        "records/patrons/martinus/1pp": {
+            "name": {
+                "la": "Martinus Pp. I",
+                "en": "Martin I",
+                "pl": "Marcin I"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 IX",
+                "mr-1956": "16 IX: #4"
             }
         }
     },
@@ -3904,6 +3927,19 @@
                 "mr-1584": "11 XI: #1",
                 "mr-1956": "11 XI: #1",
                 "mr-2004": "11 XI: #1"
+            }
+        }
+    },
+    "11-12": {
+        "records/patrons/martinus/1pp": {
+            "name": {
+                "la": "Martinus Pp. I",
+                "en": "Martin I",
+                "pl": "Marcin I"
+            },
+            "sources": {
+                "mr-1584": "12 XI: #1",
+                "mr-1956": "12 XI: #1"
             }
         }
     },
