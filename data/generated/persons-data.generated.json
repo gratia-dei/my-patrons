@@ -4577,7 +4577,7 @@
         }
     },
     "patrons/iacobus/min": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Iacobus Minor Apostolus",
             "en": "James the Less Apostle",
@@ -8674,7 +8674,7 @@
         }
     },
     "patrons/philippus/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Philippus Apostolus",
             "en": "Philip Apostle",

@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-        "Philippus Apostolus"
-    ],
-    "en": [
-        "Philip Apostle"
-    ],
-    "pl": [
-        "Filip Apostoł"
-    ]
-  },
+    "names": {
+        "la": [
+            "Philippus Apostolus"
+        ],
+        "en": [
+            "Philip Apostle"
+        ],
+        "pl": [
+            "Filip Apostoł"
+        ]
+    },
+    "forenames": ["philippus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~81"],
+    "active": true,
 
-  "also-in-martyrology": ["05-03", "05-11"],
+    "born": null,
+    "died": ["~81"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["philippus"],
-  "categories": ["vir", "apostolus", "martyr"]
+    "categories": ["vir", "apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./1#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/11#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69196",
+        "wiki": "https://pl.wikipedia.org/wiki/Filip_Aposto%C5%82"
+    }
 }

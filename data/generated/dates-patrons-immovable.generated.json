@@ -1450,6 +1450,28 @@
             }
         }
     },
+    "05-01": {
+        "records/patrons/philippus/apo": {
+            "name": {
+                "la": "Philippus Apostolus",
+                "en": "Philip Apostle",
+                "pl": "Filip Apostoł"
+            },
+            "sources": {
+                "mr-1584": "1 V: #1"
+            }
+        },
+        "records/patrons/iacobus/min": {
+            "name": {
+                "la": "Iacobus Minor Apostolus",
+                "en": "James the Less Apostle",
+                "pl": "Jakub Mniejszy Apostoł"
+            },
+            "sources": {
+                "mr-1584": "1 V: #1"
+            }
+        }
+    },
     "05-03": {
         "records/patrons/ricoverus/ugu": {
             "name": {
@@ -1472,6 +1494,26 @@
             },
             "sources": {
                 "mr-1956": "3 V: #4"
+            }
+        },
+        "records/patrons/philippus/apo": {
+            "name": {
+                "la": "Philippus Apostolus",
+                "en": "Philip Apostle",
+                "pl": "Filip Apostoł"
+            },
+            "sources": {
+                "mr-2004": "3 V: #1"
+            }
+        },
+        "records/patrons/iacobus/min": {
+            "name": {
+                "la": "Iacobus Minor Apostolus",
+                "en": "James the Less Apostle",
+                "pl": "Jakub Mniejszy Apostoł"
+            },
+            "sources": {
+                "mr-2004": "3 V: #1"
             }
         }
     },
@@ -1498,6 +1540,28 @@
             },
             "sources": {
                 "feast": "6 V"
+            }
+        }
+    },
+    "05-11": {
+        "records/patrons/philippus/apo": {
+            "name": {
+                "la": "Philippus Apostolus",
+                "en": "Philip Apostle",
+                "pl": "Filip Apostoł"
+            },
+            "sources": {
+                "mr-1956": "11 V: #1"
+            }
+        },
+        "records/patrons/iacobus/min": {
+            "name": {
+                "la": "Iacobus Minor Apostolus",
+                "en": "James the Less Apostle",
+                "pl": "Jakub Mniejszy Apostoł"
+            },
+            "sources": {
+                "mr-1956": "11 V: #1"
             }
         }
     },

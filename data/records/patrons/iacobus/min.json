@@ -12,29 +12,50 @@
       "Jakub Młodszy Apostoł"
     ]
   },
+    "forenames": ["iacobus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Frater Domini",
+            "en": "Brother of Lord",
+            "pl": "Brat Pana"
+        },
+        {
+            "la": "Iustus",
+            "en": ["Just", "the Righteous"],
+            "pl": "Sprawiedliwy"
+        },
+        {
+            "la": "Primus Hierosolymorum Episcopus",
+            "en": "First Bishop of Jerusalem",
+            "pl": "Pierwszy Biskup Jerozolimy"
+        }
+    ],
 
-  "epithets": [
-    {
-      "la": "Frater Domini",
-      "en": "Brother of Lord",
-      "pl": "Brat Pana"
+    "active": true,
+
+    "born": null,
+    "died": ["~62"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "apostolus", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["2:Mai./1#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Maji/11#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:maii/3#1"],
+        "mr-2004-movable": []
     },
-    {
-      "la": "Iustus",
-      "en": ["Just", "the Righteous"],
-      "pl": "Sprawiedliwy"
-    },
-    {
-      "la": "Primus Hierosolymorum Episcopus",
-      "en": "First Bishop of Jerusalem",
-      "pl": "Pierwszy Biskup Jerozolimy"
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/33371",
+        "wiki": "https://pl.wikipedia.org/wiki/Jakub_Mniejszy_Aposto%C5%82"
     }
-  ],
-
-  "died": ["~62"],
-
-  "also-in-martyrology": ["05-03", "05-11"],
-
-  "forenames": ["iacobus"],
-  "categories": ["vir", "apostolus", "martyr", "episcopus"]
 }
