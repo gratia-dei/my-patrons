@@ -1,33 +1,47 @@
 {
-  "names": {
-    "de": [
-      "Norbert von Xanten"
-    ],
-    "en": [
-      "Norbert of Xanten",
-      "Norbert Gennep"
-    ],
-    "la": [
-      "Norbertus Magdeburgensis"
-    ],
-    "pl": [
-      "Norbert z Xanten"
-    ]
-  },
+    "names": {
+        "de": [
+            "Norbert von Xanten"
+        ],
+        "la": [
+            "Norbertus Magdeburgensis"
+        ],
+        "en": [
+            "Norbert of Xanten",
+            "Norbert Gennep"
+        ],
+        "pl": [
+            "Norbert z Xanten"
+        ]
+    },
+    "forenames": ["norbertus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1080"],
-  "died": ["1134-06-06"],
+    "active": true,
 
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1582-07-28"
-  },
+    "born": ["~1080"],
+    "died": ["1134-06-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["06-06"],
+    "categories": ["vir", "confessor", "episcopus", "fundator", "institutor"],
 
-  "forenames": ["norbertus"],
-  "categories": ["vir", "confessor", "episcopus", "fundator", "institutor"],
+    "data-links": {
+        "mr-1584": ["1:Iuni./6#9"],
+        "mr-1584-movable": [],
 
-  "order": ["opraem"],
-  "order-founder": ["opraem"]
+        "mr-1956": ["1:Junii/6#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/25822",
+        "wiki": "https://pl.wikipedia.org/wiki/Norbert_z_Xanten"
+    }
 }

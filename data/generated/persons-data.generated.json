@@ -8142,11 +8142,11 @@
         }
     },
     "patrons/norbertus/mag": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Norbert von Xanten",
-            "en": "Norbert of Xanten",
             "la": "Norbertus Magdeburgensis",
+            "en": "Norbert of Xanten",
             "pl": "Norbert z Xanten"
         },
         "died": [

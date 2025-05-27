@@ -415,8 +415,8 @@
         },
         "records/patrons/norbertus/mag": {
             "de": "Norbert von Xanten",
-            "en": "Norbert of Xanten",
             "la": "Norbertus Magdeburgensis",
+            "en": "Norbert of Xanten",
             "pl": "Norbert z Xanten"
         },
         "records/patrons/paphnutius/epi": {
