@@ -263,6 +263,10 @@
     "12071ae292a0192ca5149099089bcbcc": {
         "en": "Malachi"
     },
+    "12d21f98a4b1e90688bcf11735c2083c": {
+        "la": "Athanasia",
+        "en": "Athanasia"
+    },
     "12dcd3c521065905636bcf7c5026540d": {
         "la": "Eusebius",
         "en": "Eusebius"
@@ -2714,6 +2718,9 @@
         "en": "Florian",
         "pl": "Florian"
     },
+    "c8ccbad7cfe13d947adc76b536984ec7": {
+        "pl": "Atanazja"
+    },
     "c95ee506b1bfeab0f9ad36a22c9a54b2": {
         "en": "Damian",
         "pl": "Damian"
@@ -2766,6 +2773,9 @@
     },
     "cc86db2cb6845e5cd5442a4fc97b3ee1": {
         "pl": "Andrzej"
+    },
+    "cccc51a0dd37bdf8062e60445549a082": {
+        "el": "Αθανασία"
     },
     "ccccb075f22a7524a19bdd2ae1b70b4a": {
         "la": "Aniela",

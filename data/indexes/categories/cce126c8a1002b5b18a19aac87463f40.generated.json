@@ -4,8 +4,8 @@
     },
     "translations": {
         "la": [
-            "sanctimonialis",
-            "monialis"
+            "monialis",
+            "sanctimonialis"
         ],
         "en": [
             "nun"
@@ -15,6 +15,12 @@
         ]
     },
     "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        },
         "records/patrons/hyacintha/mar": {
             "it": "Giacinta Marescotti",
             "en": "Hyacintha Mariscotti",

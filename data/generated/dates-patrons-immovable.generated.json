@@ -1349,6 +1349,17 @@
                 "reliable-death-anniversary": "18 IV",
                 "mr-1956": "18 IV: #1"
             }
+        },
+        "records/patrons/athanasia/aeg": {
+            "name": {
+                "el": "Αθανασία της Αιγίνης",
+                "la": "Athanasia de Aegina",
+                "en": "Athanasia of Aegina",
+                "pl": "Atanazja z Eginy"
+            },
+            "sources": {
+                "mr-2004": "18 IV: #7"
+            }
         }
     },
     "04-23": {
@@ -2418,6 +2429,18 @@
                 "reliable-death-anniversary": "14 VIII",
                 "feast": "14 VIII",
                 "mr-2004": "14 VIII: #1"
+            }
+        },
+        "records/patrons/athanasia/aeg": {
+            "name": {
+                "el": "Αθανασία της Αιγίνης",
+                "la": "Athanasia de Aegina",
+                "en": "Athanasia of Aegina",
+                "pl": "Atanazja z Eginy"
+            },
+            "sources": {
+                "mr-1584": "14 VIII: #7",
+                "mr-1956": "14 VIII: #7"
             }
         }
     },

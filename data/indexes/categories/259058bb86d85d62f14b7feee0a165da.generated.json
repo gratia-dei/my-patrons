@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        },
         "records/patrons/kinga/cun": {
             "pl": "Kinga",
             "en": "Kinga of Poland",

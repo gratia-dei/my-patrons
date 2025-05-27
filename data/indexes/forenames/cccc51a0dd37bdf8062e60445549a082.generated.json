@@ -1,0 +1,27 @@
+{
+    "names": {
+        "el": "Αθανασία"
+    },
+    "translations": {
+        "la": [
+            "Athanasia"
+        ],
+        "en": [
+            "Athanasia"
+        ],
+        "pl": [
+            "Atanazja"
+        ],
+        "el": [
+            "Αθανασία"
+        ]
+    },
+    "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        }
+    }
+}

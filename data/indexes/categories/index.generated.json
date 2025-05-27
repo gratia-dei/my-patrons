@@ -304,9 +304,6 @@
     "72545f3f86fad045a26ed54abd2bbb9f": {
         "en": "queen"
     },
-    "73b49e6e2bac6736134740b9e2455db7": {
-        "pl": "ihumen"
-    },
     "73d6323223b2413e5bfa9c6307a76a49": {
         "en": "pope"
     },
@@ -315,9 +312,6 @@
     },
     "746a4a29faa7d156361392274b1f7892": {
         "la": "solitarius / solitaria"
-    },
-    "78618192d4811e2acb872920f87df475": {
-        "la": "hegumenus"
     },
     "7996087a1486efce1ff57bfbae0b4ae9": {
         "en": "novice"
@@ -358,6 +352,9 @@
     "8afa847f50a716e64932d995c8e7435a": {
         "en": "princess"
     },
+    "8b03d2a49830faaebfa926cb0fd33b4f": {
+        "la": "hegumenus / hegumena"
+    },
     "8c21ffcf8ea6adcfeafed623f9c00e36": {
         "la": "materfamilias"
     },
@@ -379,9 +376,6 @@
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
     },
-    "948326d7e9073020b6c56effecd14bbf": {
-        "en": "hegumen"
-    },
     "953117718e2ea77aeb8c0c0473e59c58": {
         "la": "patriarcha",
         "pl": "patriarcha"
@@ -394,6 +388,9 @@
     },
     "99f303b72fdb565df7a567cba2202747": {
         "pl": "ojciec rodziny"
+    },
+    "9a5fd9408e49ab384405203a91314113": {
+        "pl": "igumen / igumenka"
     },
     "9c553d758d4fde12ba5cc72299df6bdd": {
         "pl": "kanonik"
@@ -607,6 +604,9 @@
     },
     "ea7caa2a7b2851ee4cda445aa7646fee": {
         "pl": "małżonek / mąż / żona"
+    },
+    "ed9dd7e90328759af22a6d30771e5887": {
+        "en": "hegumen / hegumeness"
     },
     "edb6881af488cf172c19b43187f1f407": {
         "pl": "założyciel / założycielka"
