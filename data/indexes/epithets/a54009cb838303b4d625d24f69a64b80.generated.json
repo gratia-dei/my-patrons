@@ -3,9 +3,6 @@
         "la": "Nonus"
     },
     "translations": {
-        "fr": [
-            "Neuvième"
-        ],
         "la": [
             "Nonus"
         ],
@@ -14,9 +11,17 @@
         ],
         "pl": [
             "Dziewiąty"
+        ],
+        "fr": [
+            "Neuvième"
         ]
     },
     "links": {
+        "records/patrons/leo/9pp": {
+            "la": "Leo IX",
+            "en": "Leo IX",
+            "pl": "Leon IX"
+        },
         "records/patrons/ludovicus/rex": {
             "fr": "Louis IX, roi de France",
             "la": "Ludovicus IX, rex Franciae",

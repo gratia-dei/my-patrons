@@ -6087,7 +6087,7 @@
     "patrons/leo": {
         "names": {
             "la": "Leo",
-            "en": "Leon",
+            "en": "Leo",
             "pl": "Leon"
         }
     },
@@ -6100,6 +6100,18 @@
         },
         "died": [
             "461-11-10"
+        ],
+        "feasts": []
+    },
+    "patrons/leo/9pp": {
+        "active": true,
+        "names": {
+            "la": "Leo IX",
+            "en": "Leo IX",
+            "pl": "Leon IX"
+        },
+        "died": [
+            "1054-04-19"
         ],
         "feasts": []
     },

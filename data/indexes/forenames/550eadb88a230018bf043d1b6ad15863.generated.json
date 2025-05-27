@@ -1,13 +1,14 @@
 {
     "names": {
-        "la": "Leo"
+        "la": "Leo",
+        "en": "Leo"
     },
     "translations": {
         "la": [
             "Leo"
         ],
         "en": [
-            "Leon"
+            "Leo"
         ],
         "pl": [
             "Leon"
@@ -18,6 +19,11 @@
             "la": "Leo I Magnus",
             "en": "Leo I the Great",
             "pl": "Leon I Wielki"
+        },
+        "records/patrons/leo/9pp": {
+            "la": "Leo IX",
+            "en": "Leo IX",
+            "pl": "Leon IX"
         },
         "records/patrons/leo/now": {
             "pl": "Leon Nowakowski",

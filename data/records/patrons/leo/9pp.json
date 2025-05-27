@@ -1,0 +1,51 @@
+{
+    "names": {
+        "la": [
+            "Leo IX"
+        ],
+        "en": [
+            "Leo IX"
+        ],
+        "pl": [
+            "Leon IX"
+        ]
+    },
+    "forenames": ["leo"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Nonus",
+            "en": "the Ninth",
+            "pl": "Dziewiąty"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1002-06-21"],
+    "died": ["1054-04-19"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./19#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/19#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./19#6"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#152"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/L09",
+        "wiki": "https://pl.wikipedia.org/wiki/Leon_IX"
+    }
+}

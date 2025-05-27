@@ -1362,6 +1362,21 @@
             }
         }
     },
+    "04-19": {
+        "records/patrons/leo/9pp": {
+            "name": {
+                "la": "Leo IX",
+                "en": "Leo IX",
+                "pl": "Leon IX"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 IV",
+                "mr-1584": "19 IV: #8",
+                "mr-1956": "19 IV: #7",
+                "mr-2004": "19 IV: #6"
+            }
+        }
+    },
     "04-23": {
         "records/patrons/adalbertus/pra": {
             "name": {

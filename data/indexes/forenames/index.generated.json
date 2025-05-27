@@ -1147,7 +1147,8 @@
         "la": "Caietanus"
     },
     "550eadb88a230018bf043d1b6ad15863": {
-        "la": "Leo"
+        "la": "Leo",
+        "en": "Leo"
     },
     "55195b6de48e7e8dcd54f70cad56d8d3": {
         "la": "Alicia"
@@ -2965,7 +2966,6 @@
         "pl": "Lewi"
     },
     "d8f7de479b1fae3d85d341f380524de5": {
-        "en": "Leon",
         "pl": "Leon"
     },
     "d9df8c5723af1e09958a9ad5cd7bb97f": {
