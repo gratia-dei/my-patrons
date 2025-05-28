@@ -1,0 +1,50 @@
+{
+    "names": {
+        "sr": [
+            "Озана Которска"
+        ],
+        "la": [
+            "Catharina de Monte Nigro"
+        ],
+        "en": [
+            "Osanna of Cattaro",
+            "Osanna Kotorska",
+            "Catherine Kosić"
+        ],
+        "pl": [
+            "Katarzyna z Czarnogóry",
+            "Hosanna z Kotoru",
+            "Katarzyna Kosic"
+        ]
+    },
+    "forenames": ["catharina", "hosanna"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1493-11-25"],
+    "died": ["1565-04-27"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo", "reclusa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./27#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68154",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_z_Czarnog%C3%B3ry"
+    }
+}

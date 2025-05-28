@@ -26,6 +26,9 @@
         ],
         "moh": [
             "Kateri"
+        ],
+        "sr": [
+            "Катарина"
         ]
     },
     "links": {
@@ -45,6 +48,12 @@
             "en": "Catherine Labouré",
             "la": "Catherina Labouré",
             "pl": "Katarzyna Labouré"
+        },
+        "records/patrons/catharina/mon": {
+            "sr": "Озана Которска",
+            "la": "Catharina de Monte Nigro",
+            "en": "Osanna of Cattaro",
+            "pl": "Katarzyna z Czarnogóry"
         },
         "records/patrons/catharina/sen": {
             "it": "Caterina da Siena",

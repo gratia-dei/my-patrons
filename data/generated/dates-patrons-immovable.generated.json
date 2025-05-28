@@ -1468,6 +1468,18 @@
         }
     },
     "04-27": {
+        "records/patrons/catharina/mon": {
+            "name": {
+                "sr": "Озана Которска",
+                "la": "Catharina de Monte Nigro",
+                "en": "Osanna of Cattaro",
+                "pl": "Katarzyna z Czarnogóry"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 IV",
+                "mr-2004": "27 IV: #10"
+            }
+        },
         "records/patrons/anastasius/1pp": {
             "name": {
                 "la": "Anastasius Pp. I",

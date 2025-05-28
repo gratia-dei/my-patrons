@@ -1,0 +1,27 @@
+{
+    "names": {
+        "sr": "Озана"
+    },
+    "translations": {
+        "la": [
+            "Hosanna"
+        ],
+        "en": [
+            "Osanna"
+        ],
+        "pl": [
+            "Hosanna"
+        ],
+        "sr": [
+            "Озана"
+        ]
+    },
+    "links": {
+        "records/patrons/catharina/mon": {
+            "sr": "Озана Которска",
+            "la": "Catharina de Monte Nigro",
+            "en": "Osanna of Cattaro",
+            "pl": "Katarzyna z Czarnogóry"
+        }
+    }
+}

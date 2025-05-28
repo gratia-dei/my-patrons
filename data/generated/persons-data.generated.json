@@ -2372,7 +2372,8 @@
             "fr": "Catherine",
             "it": "Caterina",
             "ko": "가타리나",
-            "moh": "Kateri"
+            "moh": "Kateri",
+            "sr": "Катарина"
         }
     },
     "patrons/catharina/ale": {
@@ -2410,6 +2411,19 @@
         },
         "died": [
             "1876-12-31"
+        ],
+        "feasts": []
+    },
+    "patrons/catharina/mon": {
+        "active": true,
+        "names": {
+            "sr": "Озана Которска",
+            "la": "Catharina de Monte Nigro",
+            "en": "Osanna of Cattaro",
+            "pl": "Katarzyna z Czarnogóry"
+        },
+        "died": [
+            "1565-04-27"
         ],
         "feasts": []
     },
