@@ -15,11 +15,20 @@
         "cs": [
             "Anežka"
         ],
+        "it": [
+            "Agnese"
+        ],
         "sq": [
             "Anjezë"
         ]
     },
     "links": {
+        "records/patrons/agnes/mon": {
+            "it": "Agnese di Montepulciano",
+            "la": "Agnes de Monte Politiano",
+            "en": "Agnes of Montepulciano",
+            "pl": "Agnieszka z Montepulciano"
+        },
         "records/patrons/agnes/pra": {
             "cs": "Anežka Česká",
             "en": "Agnes of Bohemia",

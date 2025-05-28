@@ -1377,6 +1377,22 @@
             }
         }
     },
+    "04-20": {
+        "records/patrons/agnes/mon": {
+            "name": {
+                "it": "Agnese di Montepulciano",
+                "la": "Agnes de Monte Politiano",
+                "en": "Agnes of Montepulciano",
+                "pl": "Agnieszka z Montepulciano"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 IV",
+                "feast": "20 IV",
+                "mr-1956": "20 IV: #7",
+                "mr-2004": "20 IV: #12"
+            }
+        }
+    },
     "04-23": {
         "records/patrons/adalbertus/pra": {
             "name": {

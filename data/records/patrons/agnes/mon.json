@@ -1,0 +1,49 @@
+{
+    "names": {
+        "it": [
+            "Agnese di Montepulciano"
+        ],
+        "la": [
+            "Agnes de Monte Politiano"
+        ],
+        "en": [
+            "Agnes of Montepulciano"
+        ],
+        "pl": [
+            "Agnieszka z Montepulciano"
+        ]
+    },
+    "forenames": ["agnes"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1268-01-28"],
+    "died": ["1317-04-20"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1726-12-10"
+    },
+    "anniversary": ["04-20"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/20#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./20#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/agnese-da-montepulciano.html",
+        "gcatholic": "https://gcatholic.org/p/68270",
+        "wiki": "https://pl.wikipedia.org/wiki/Agnieszka_z_Montepulciano"
+    }
+}

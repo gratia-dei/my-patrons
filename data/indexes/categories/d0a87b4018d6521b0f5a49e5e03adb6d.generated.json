@@ -19,6 +19,12 @@
             "en": "Agatha of Sicily",
             "pl": "Agata Sycylijska"
         },
+        "records/patrons/agnes/mon": {
+            "it": "Agnese di Montepulciano",
+            "la": "Agnes de Monte Politiano",
+            "en": "Agnes of Montepulciano",
+            "pl": "Agnieszka z Montepulciano"
+        },
         "records/patrons/agnes/rom": {
             "la": "Agnes Romana",
             "en": "Agnes of Rome",

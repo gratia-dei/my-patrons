@@ -537,8 +537,22 @@
             "en": "Agnes",
             "pl": "Agnieszka",
             "cs": "Anežka",
+            "it": "Agnese",
             "sq": "Anjezë"
         }
+    },
+    "patrons/agnes/mon": {
+        "active": true,
+        "names": {
+            "it": "Agnese di Montepulciano",
+            "la": "Agnes de Monte Politiano",
+            "en": "Agnes of Montepulciano",
+            "pl": "Agnieszka z Montepulciano"
+        },
+        "died": [
+            "1317-04-20"
+        ],
+        "feasts": []
     },
     "patrons/agnes/pra": {
         "active": false,
