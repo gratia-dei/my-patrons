@@ -1,0 +1,59 @@
+{
+    "names": {
+        "es": [
+            "Román Adame Rosales"
+        ],
+        "la": [
+            "Romanus Adame Rosales"
+        ],
+        "en": [
+            "Roman Adame Rosales"
+        ],
+        "pl": [
+            "Roman Adame Rosales"
+        ]
+    },
+    "forenames": ["romanus"],
+    "surnames": [
+        {
+            "es": "Adame"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1859-02-27"],
+    "died": ["1927-04-21"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1992-11-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-05-21"
+    },
+    "anniversary": ["05-25"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./21#9", "2:maii/21#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/cristobal-magallanes-jara.html",
+        "gcatholic": "https://gcatholic.org/p/66498",
+        "wiki": [
+            "https://pl.wikipedia.org/wiki/Roman_Adame_Rosales",
+            "https://pl.wikipedia.org/wiki/Krzysztof_Magallanes_Jara_i_24_towarzyszy"
+        ]
+    }
+}

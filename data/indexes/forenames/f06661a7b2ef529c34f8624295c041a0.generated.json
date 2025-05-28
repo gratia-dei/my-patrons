@@ -12,6 +12,9 @@
         "pl": [
             "Roman"
         ],
+        "es": [
+            "Román"
+        ],
         "fr": [
             "Romain"
         ]
@@ -22,6 +25,12 @@
             "pl": "Roman Jurajski",
             "en": "Roman of Condat",
             "la": "Romanus de Monte Iura"
+        },
+        "records/patrons/romanus/ada": {
+            "es": "Román Adame Rosales",
+            "la": "Romanus Adame Rosales",
+            "en": "Roman Adame Rosales",
+            "pl": "Roman Adame Rosales"
         },
         "records/patrons/romanus/arc": {
             "pl": "Roman Archutowski",

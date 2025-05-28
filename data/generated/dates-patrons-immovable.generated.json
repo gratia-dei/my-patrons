@@ -1407,6 +1407,20 @@
             }
         }
     },
+    "04-21": {
+        "records/patrons/romanus/ada": {
+            "name": {
+                "es": "Román Adame Rosales",
+                "la": "Romanus Adame Rosales",
+                "en": "Roman Adame Rosales",
+                "pl": "Roman Adame Rosales"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 IV",
+                "mr-2004": "21 IV: #9"
+            }
+        }
+    },
     "04-23": {
         "records/patrons/adalbertus/pra": {
             "name": {
@@ -1645,6 +1659,17 @@
                 "mr-2004": "21 V: #1"
             }
         },
+        "records/patrons/romanus/ada": {
+            "name": {
+                "es": "Román Adame Rosales",
+                "la": "Romanus Adame Rosales",
+                "en": "Roman Adame Rosales",
+                "pl": "Roman Adame Rosales"
+            },
+            "sources": {
+                "mr-2004": "21 V: #1"
+            }
+        },
         "records/patrons/augustinus/cal": {
             "name": {
                 "es": "Agustín Caloca Cortés",
@@ -1717,6 +1742,17 @@
                 "la": "Iesus Mendez Montoya",
                 "en": "Jesus Mendez Montoya",
                 "pl": "Jezus Mendez Montoya"
+            },
+            "sources": {
+                "feast": "25 V"
+            }
+        },
+        "records/patrons/romanus/ada": {
+            "name": {
+                "es": "Román Adame Rosales",
+                "la": "Romanus Adame Rosales",
+                "en": "Roman Adame Rosales",
+                "pl": "Roman Adame Rosales"
             },
             "sources": {
                 "feast": "25 V"

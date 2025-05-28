@@ -9240,6 +9240,7 @@
             "la": "Romanus",
             "en": "Roman",
             "pl": "Roman",
+            "es": "Román",
             "fr": "Romain"
         }
     },
@@ -9253,6 +9254,19 @@
         },
         "died": [
             "~463"
+        ],
+        "feasts": []
+    },
+    "patrons/romanus/ada": {
+        "active": true,
+        "names": {
+            "es": "Román Adame Rosales",
+            "la": "Romanus Adame Rosales",
+            "en": "Roman Adame Rosales",
+            "pl": "Roman Adame Rosales"
+        },
+        "died": [
+            "1927-04-21"
         ],
         "feasts": []
     },
