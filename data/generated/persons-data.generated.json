@@ -1419,8 +1419,22 @@
         "names": {
             "la": "Augustinus",
             "en": "Augustine",
-            "pl": "Augustyn"
+            "pl": "Augustyn",
+            "es": "Agustín"
         }
+    },
+    "patrons/augustinus/cal": {
+        "active": true,
+        "names": {
+            "es": "Agustín Caloca Cortés",
+            "la": "Augustinus Caloca Cortés",
+            "en": "Augustine Caloca Cortés",
+            "pl": "Augustyn Caloca Cortés"
+        },
+        "died": [
+            "1927-05-25"
+        ],
+        "feasts": []
     },
     "patrons/augustinus/hip": {
         "active": true,
@@ -2500,11 +2514,11 @@
         "feasts": []
     },
     "patrons/christophorus/mag": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Cristóbal Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
             "la": "Christophorus Magallanes Jara",
+            "en": "Christopher Magallanes Jara",
             "pl": "Krzysztof Magallanes Jara"
         },
         "died": [

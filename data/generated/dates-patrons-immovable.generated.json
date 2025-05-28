@@ -1619,6 +1619,30 @@
             }
         }
     },
+    "05-21": {
+        "records/patrons/christophorus/mag": {
+            "name": {
+                "es": "Cristóbal Magallanes Jara",
+                "la": "Christophorus Magallanes Jara",
+                "en": "Christopher Magallanes Jara",
+                "pl": "Krzysztof Magallanes Jara"
+            },
+            "sources": {
+                "mr-2004": "21 V: #1"
+            }
+        },
+        "records/patrons/augustinus/cal": {
+            "name": {
+                "es": "Agustín Caloca Cortés",
+                "la": "Augustinus Caloca Cortés",
+                "en": "Augustine Caloca Cortés",
+                "pl": "Augustyn Caloca Cortés"
+            },
+            "sources": {
+                "mr-2004": "21 V: #1"
+            }
+        }
+    },
     "05-22": {
         "records/patrons/rita/cas": {
             "name": {
@@ -1632,6 +1656,34 @@
                 "feast": "22 V",
                 "mr-1956": "22 V: #11",
                 "mr-2004": "22 V: #1"
+            }
+        }
+    },
+    "05-25": {
+        "records/patrons/augustinus/cal": {
+            "name": {
+                "es": "Agustín Caloca Cortés",
+                "la": "Augustinus Caloca Cortés",
+                "en": "Augustine Caloca Cortés",
+                "pl": "Augustyn Caloca Cortés"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 V",
+                "feast": "25 V",
+                "mr-2004": "25 V: #16"
+            }
+        },
+        "records/patrons/christophorus/mag": {
+            "name": {
+                "es": "Cristóbal Magallanes Jara",
+                "la": "Christophorus Magallanes Jara",
+                "en": "Christopher Magallanes Jara",
+                "pl": "Krzysztof Magallanes Jara"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 V",
+                "feast": "25 V",
+                "mr-2004": "25 V: #16"
             }
         }
     },

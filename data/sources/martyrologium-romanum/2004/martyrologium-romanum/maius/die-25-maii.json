@@ -1,42 +1,38 @@
 {
     "1": {
-        "page": "...",
+        "page": 302,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
-        "la": "..."
+        "mark": "!",
+        "la": "?..."
     },
 
     "3": {
-        "mark": "*",
-        "la": "..."
+        "mark": "!",
+        "la": "?..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
+        "page": 303,
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
     "8": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -61,41 +57,23 @@
     },
 
     "13": {
-        "mark": "*",
         "la": "..."
     },
 
     "14": {
-        "mark": "*",
         "la": "..."
     },
 
     "15": {
-        "mark": "*",
+        "page": 304,
         "la": "..."
     },
 
     "16": {
-        "mark": "*",
-        "la": "..."
+        "la": "In oppido Catatlan territorii Guadalaiarensis in Mexico, sanctorum [1|Christophori Magallanes] et [2|Augustini Caloca], ..."
     },
 
     "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

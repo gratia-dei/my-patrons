@@ -122,6 +122,12 @@
             "en": "Anthony Rewera",
             "la": "Antonius Rewera"
         },
+        "records/patrons/augustinus/cal": {
+            "es": "Agustín Caloca Cortés",
+            "la": "Augustinus Caloca Cortés",
+            "en": "Augustine Caloca Cortés",
+            "pl": "Augustyn Caloca Cortés"
+        },
         "records/patrons/augustinus/zha": {
             "zh": "趙榮",
             "en": "Augustine Zhao Rong",
@@ -198,8 +204,8 @@
         },
         "records/patrons/christophorus/mag": {
             "es": "Cristóbal Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
             "la": "Christophorus Magallanes Jara",
+            "en": "Christopher Magallanes Jara",
             "pl": "Krzysztof Magallanes Jara"
         },
         "records/patrons/clemens/sep": {

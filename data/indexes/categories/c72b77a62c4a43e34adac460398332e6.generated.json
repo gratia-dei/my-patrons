@@ -300,6 +300,12 @@
             "en": "Athanasius the Great",
             "pl": "Atanazy Wielki"
         },
+        "records/patrons/augustinus/cal": {
+            "es": "Agustín Caloca Cortés",
+            "la": "Augustinus Caloca Cortés",
+            "en": "Augustine Caloca Cortés",
+            "pl": "Augustyn Caloca Cortés"
+        },
         "records/patrons/augustinus/hip": {
             "la": "Augustinus Hipponensis",
             "en": "Augustine of Hippo",
@@ -569,8 +575,8 @@
         },
         "records/patrons/christophorus/mag": {
             "es": "Cristóbal Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
             "la": "Christophorus Magallanes Jara",
+            "en": "Christopher Magallanes Jara",
             "pl": "Krzysztof Magallanes Jara"
         },
         "records/patrons/chrysanthus/dar": {

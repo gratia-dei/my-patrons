@@ -178,6 +178,12 @@
             "la": "Aristarchus Thessalonicensis",
             "pl": "Arystarch z Tesaloniki"
         },
+        "records/patrons/augustinus/cal": {
+            "es": "Agustín Caloca Cortés",
+            "la": "Augustinus Caloca Cortés",
+            "en": "Augustine Caloca Cortés",
+            "pl": "Augustyn Caloca Cortés"
+        },
         "records/patrons/augustinus/zha": {
             "zh": "趙榮",
             "en": "Augustine Zhao Rong",
@@ -334,8 +340,8 @@
         },
         "records/patrons/christophorus/mag": {
             "es": "Cristóbal Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
             "la": "Christophorus Magallanes Jara",
+            "en": "Christopher Magallanes Jara",
             "pl": "Krzysztof Magallanes Jara"
         },
         "records/patrons/chrysanthus/dar": {

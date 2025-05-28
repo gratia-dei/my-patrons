@@ -1,22 +1,20 @@
 {
     "1": {
-        "page": "...",
+        "page": 295,
         "mark": "!",
-        "la": "?..."
+        "la": "Sanctorum [1|Christophori Magallanes], presbyteri, et sociorum*, martyrum, ...[/][/]*Quorum nomina: presbyteri [todo-2|Romanus Adame], [todo-3|Rodericus Aguilar], [todo-4|Iulius Alvarez], [todo-5|Aloysius Batis Sainz], [6|Augustinus Caloca], [todo-7|Matthaeus Correa], [todo-8|Atilanus Cruz], [todo-9|Michael de la Mora], [todo-10|Petrus Esqueda Ramirez], [todo-11|Margaritus Flores], [todo-12|Iosephus Isabel Flores], [todo-13|David Galvan], [todo-14|Petrus Maldonado], [todo-15|Iesus Mendez], [todo-16|Iustinus Orona], [todo-17|Sabas Reyes], [todo-18|Iosephus Maria Robles], [todo-19|Turibius Romo], [todo-20|Ianuarius Sanchez Delgadillo], [todo-21|Tranquillinus Ubiarco] et [todo-22|David Uribe]; atque [todo-23|Emmanuel Morales], [todo-24|Salvator Lara Puente] et [todo-25|David Roldan Lara], laici."
     },
 
     "2": {
-        "mark": "*",
+        "page": 296,
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -26,12 +24,10 @@
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -51,52 +47,6 @@
     },
 
     "11": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "12": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "13": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
-        "mark": "*",
         "la": "..."
     }
 }
