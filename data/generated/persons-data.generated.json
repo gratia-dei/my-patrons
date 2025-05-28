@@ -4732,11 +4732,11 @@
         }
     },
     "patrons/iesus/men": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Jesús Méndez Montoya",
-            "en": "Jesus Mendez Montoya",
             "la": "Iesus Mendez Montoya",
+            "en": "Jesus Mendez Montoya",
             "pl": "Jezus Mendez Montoya"
         },
         "died": [

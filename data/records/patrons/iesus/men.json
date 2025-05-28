@@ -1,40 +1,60 @@
 {
-  "names": {
-    "es": [
-      "Jesús Méndez Montoya",
-      "Bernabé de Jesús Méndez Montoya"
+    "names": {
+        "es": [
+            "Jesús Méndez Montoya",
+            "Bernabé de Jesús Méndez Montoya"
+        ],
+        "la": [
+            "Iesus Mendez Montoya"
+        ],
+        "en": [
+            "Jesus Mendez Montoya"
+        ],
+        "pl": [
+            "Jezus Mendez Montoya"
+        ]
+    },
+    "forenames": ["iesus"],
+    "surnames": [
+        {
+            "es": "Méndez"
+        }
     ],
-    "en": [
-      "Jesus Mendez Montoya"
-    ],
-    "la": [
-      "Iesus Mendez Montoya"
-    ],
-    "pl": [
-      "Jezus Mendez Montoya"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "es": "Méndez"
+    "active": true,
+
+    "born": ["1880-06-10"],
+    "died": ["1928-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1992-11-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-05-21"
+    },
+    "anniversary": ["05-25"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./5#12", "15:maii/21#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/cristobal-magallanes-jara.html",
+        "gcatholic": "https://gcatholic.org/p/66507",
+        "wiki": [
+            "https://pl.wikipedia.org/wiki/Jezus_M%C3%A9ndez_Montoya",
+            "https://pl.wikipedia.org/wiki/Krzysztof_Magallanes_Jara_i_24_towarzyszy"
+        ]
     }
-  ],
-
-  "born": ["1880-06-10"],
-  "died": ["1928-02-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1992-11-22"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-05-21"
-  },
-
-  "also-in-martyrology": ["02-05", "05-21"],
-
-  "forenames": ["iesus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
