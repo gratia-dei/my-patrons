@@ -1,15 +1,14 @@
 {
     "names": {
-        "pl": "Władysław"
+        "la": "Ladislaus",
+        "en": "Ladislaus"
     },
     "translations": {
         "la": [
-            "Ladislaus",
-            "Vladislaus"
+            "Ladislaus"
         ],
         "en": [
-            "Ladislaus",
-            "Vladislaus"
+            "Ladislaus"
         ],
         "pl": [
             "Władysław",
@@ -21,11 +20,6 @@
             "pl": "Władysław z Gielniowa",
             "la": "Ladislaus de Gielniów",
             "en": "Ladislaus of Gielniów"
-        },
-        "records/patrons/vladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "la": "Vladislaus Ulma",
-            "en": "Vladislas Ulma"
         }
     }
 }

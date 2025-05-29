@@ -6045,6 +6045,25 @@
         ],
         "feasts": []
     },
+    "patrons/ladislaus": {
+        "names": {
+            "la": "Ladislaus",
+            "en": "Ladislaus",
+            "pl": "Władysław"
+        }
+    },
+    "patrons/ladislaus/gie": {
+        "active": true,
+        "names": {
+            "pl": "Władysław z Gielniowa",
+            "la": "Ladislaus de Gielniów",
+            "en": "Ladislaus of Gielniów"
+        },
+        "died": [
+            "1505-05-04"
+        ],
+        "feasts": []
+    },
     "patrons/largus": {
         "names": {
             "la": "Largus",

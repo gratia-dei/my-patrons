@@ -1513,6 +1513,11 @@
             "en": "Juvenal of Narni",
             "pl": "Juwenalis z Narni"
         },
+        "records/patrons/ladislaus/gie": {
+            "pl": "Władysław z Gielniowa",
+            "la": "Ladislaus de Gielniów",
+            "en": "Ladislaus of Gielniów"
+        },
         "records/patrons/largus/aqu": {
             "it": "Largo da Aquileia",
             "la": "Largus de Aquileia",

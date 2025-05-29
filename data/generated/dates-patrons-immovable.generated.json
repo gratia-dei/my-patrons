@@ -1626,6 +1626,17 @@
         }
     },
     "05-04": {
+        "records/patrons/ladislaus/gie": {
+            "name": {
+                "pl": "Władysław z Gielniowa",
+                "la": "Ladislaus de Gielniów",
+                "en": "Ladislaus of Gielniów"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 V",
+                "mr-2004": "4 V: #5"
+            }
+        },
         "records/patrons/monica/vid": {
             "name": {
                 "la": "Monica Thagastensis",
