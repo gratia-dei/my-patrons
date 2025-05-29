@@ -49,6 +49,11 @@
         "en": "ascetic",
         "pl": "asceta"
     },
+    "canonicus-regularis": {
+        "la": "canonicus regularis",
+        "en": "canon regular",
+        "pl": "kanonik regularny"
+    },
     "canonicus": {
         "la": "canonicus",
         "en": "canon",

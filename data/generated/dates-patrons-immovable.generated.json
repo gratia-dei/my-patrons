@@ -1559,7 +1559,7 @@
             "name": {
                 "pl": "Bolesław Strzelecki",
                 "la": "Boleslaus Strzelecki",
-                "en": "Boleslav Strzelecki"
+                "en": "Boleslaus Strzelecki"
             },
             "sources": {
                 "reliable-death-anniversary": "2 V",
@@ -1579,6 +1579,18 @@
             "sources": {
                 "reliable-death-anniversary": "3 V",
                 "mr-1956": "3 V: #4"
+            }
+        },
+        "records/patrons/stanislaus/cas": {
+            "name": {
+                "pl": "Stanisław Kazimierczyk",
+                "la": "Stanislaus Kazimierczyk",
+                "en": "Stanislaus Kazimierczyk"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 V",
+                "feast": "3 V",
+                "mr-2004": "3 V: #10"
             }
         },
         "records/patrons/gerardinus/sos": {

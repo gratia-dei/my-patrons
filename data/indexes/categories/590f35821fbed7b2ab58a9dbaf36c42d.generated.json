@@ -449,7 +449,7 @@
         "records/patrons/boleslaus/str": {
             "pl": "Bolesław Strzelecki",
             "la": "Boleslaus Strzelecki",
-            "en": "Boleslav Strzelecki"
+            "en": "Boleslaus Strzelecki"
         },
         "records/patrons/bonfilius/flo": {
             "it": "Bonfilio Monaldi",
@@ -2205,6 +2205,11 @@
             "pl": "Szymon z Lipnicy",
             "en": "Simon of Lipnica",
             "la": "Simon de Lipnica"
+        },
+        "records/patrons/stanislaus/cas": {
+            "pl": "Stanisław Kazimierczyk",
+            "la": "Stanislaus Kazimierczyk",
+            "en": "Stanislaus Kazimierczyk"
         },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",

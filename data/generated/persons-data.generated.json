@@ -1952,7 +1952,7 @@
     "patrons/boleslaus": {
         "names": {
             "la": "Boleslaus",
-            "en": "Boleslav",
+            "en": "Boleslaus",
             "pl": "Bolesław"
         }
     },
@@ -1961,7 +1961,7 @@
         "names": {
             "pl": "Bolesław Strzelecki",
             "la": "Boleslaus Strzelecki",
-            "en": "Boleslav Strzelecki"
+            "en": "Boleslaus Strzelecki"
         },
         "died": [
             "1941-05-02"
@@ -9954,6 +9954,18 @@
             "en": "Stanislaus",
             "pl": "Stanisław"
         }
+    },
+    "patrons/stanislaus/cas": {
+        "active": true,
+        "names": {
+            "pl": "Stanisław Kazimierczyk",
+            "la": "Stanislaus Kazimierczyk",
+            "en": "Stanislaus Kazimierczyk"
+        },
+        "died": [
+            "1489-05-03"
+        ],
+        "feasts": []
     },
     "patrons/stanislaus/cra": {
         "active": false,

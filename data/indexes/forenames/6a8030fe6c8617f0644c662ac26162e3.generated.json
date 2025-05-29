@@ -7,6 +7,7 @@
             "Boleslaus"
         ],
         "en": [
+            "Boleslaus",
             "Boleslav"
         ],
         "pl": [
@@ -17,7 +18,7 @@
         "records/patrons/boleslaus/str": {
             "pl": "Bolesław Strzelecki",
             "la": "Boleslaus Strzelecki",
-            "en": "Boleslav Strzelecki"
+            "en": "Boleslaus Strzelecki"
         }
     }
 }

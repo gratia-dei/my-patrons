@@ -1,7 +1,7 @@
 {
     "names": {
         "la": "Boleslaus",
-        "en": "Boleslav",
+        "en": ["Boleslaus", "Boleslav"],
         "pl": "Bolesław"
     }
 }

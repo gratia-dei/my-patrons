@@ -172,7 +172,7 @@
         "records/patrons/boleslaus/str": {
             "pl": "Bolesław Strzelecki",
             "la": "Boleslaus Strzelecki",
-            "en": "Boleslav Strzelecki"
+            "en": "Boleslaus Strzelecki"
         },
         "records/patrons/bonifatius/zuk": {
             "pl": "Bonifacy Żukowski",
@@ -688,6 +688,11 @@
             "pl": "Szymon z Lipnicy",
             "en": "Simon of Lipnica",
             "la": "Simon de Lipnica"
+        },
+        "records/patrons/stanislaus/cas": {
+            "pl": "Stanisław Kazimierczyk",
+            "la": "Stanislaus Kazimierczyk",
+            "en": "Stanislaus Kazimierczyk"
         },
         "records/patrons/theodorus/gra": {
             "el": "Θεοδώρος Γράπτος",

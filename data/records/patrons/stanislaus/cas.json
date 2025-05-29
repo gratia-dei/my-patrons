@@ -1,0 +1,52 @@
+{
+    "names": {
+        "pl": [
+            "Stanisław Kazimierczyk",
+            "Stanisław Sołtys"
+        ],
+        "la": [
+            "Stanislaus Kazimierczyk",
+            "Stanislaus Sołtys"
+        ],
+        "en": [
+            "Stanislaus Kazimierczyk",
+            "Stanislaus Sołtys"
+        ]
+    },
+    "forenames": ["stanislaus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1433-09-27"],
+    "died": ["1489-05-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1993-04-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2010-10-17"
+    },
+    "anniversary": ["05-03"],
+
+    "categories": ["vir", "canonicus-regularis", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/3#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/stanislaw-kazimierczyk.html",
+        "gcatholic": "https://gcatholic.org/p/67163",
+        "wiki": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Kazimierczyk"
+    }
+}

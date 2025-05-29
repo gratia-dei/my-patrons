@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "canonicus regularis"
+    },
+    "translations": {
+        "la": [
+            "canonicus regularis"
+        ],
+        "en": [
+            "canon regular"
+        ],
+        "pl": [
+            "kanonik regularny"
+        ]
+    },
+    "links": {
+        "records/patrons/stanislaus/cas": {
+            "pl": "Stanisław Kazimierczyk",
+            "la": "Stanislaus Kazimierczyk",
+            "en": "Stanislaus Kazimierczyk"
+        }
+    }
+}

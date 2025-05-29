@@ -8,13 +8,19 @@
             "Stanislaus"
         ],
         "en": [
-            "Stanislaus"
+            "Stanislaus",
+            "Stanislav"
         ],
         "pl": [
             "Stanisław"
         ]
     },
     "links": {
+        "records/patrons/stanislaus/cas": {
+            "pl": "Stanisław Kazimierczyk",
+            "la": "Stanislaus Kazimierczyk",
+            "en": "Stanislaus Kazimierczyk"
+        },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",

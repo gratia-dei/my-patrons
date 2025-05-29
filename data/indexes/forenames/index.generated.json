@@ -666,6 +666,9 @@
     "2e81d02e5cc42db6c48b67b5abec23dc": {
         "la": "Theodorus"
     },
+    "2ea415108cca45af534ab38e89bcddf8": {
+        "en": "Stanislav"
+    },
     "2eb79f564af164ac850c5e24888346c4": {
         "it": "Camillo"
     },
@@ -2988,7 +2991,8 @@
         "pl": "Lewi"
     },
     "d8f036df1da79dd24ec4b7d55e3912c7": {
-        "la": "Boleslaus"
+        "la": "Boleslaus",
+        "en": "Boleslaus"
     },
     "d8f7de479b1fae3d85d341f380524de5": {
         "pl": "Leon"
