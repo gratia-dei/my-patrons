@@ -2669,6 +2669,19 @@
         }
     },
     "08-16": {
+        "records/patrons/rochus/per": {
+            "name": {
+                "fr": "Roch de Montpellier",
+                "la": "Rochus, peregrinus",
+                "en": "Roch of Montpellier",
+                "pl": "Roch z Montpellier"
+            },
+            "sources": {
+                "mr-1584": "16 VIII: #8",
+                "mr-1956": "16 VIII: #9",
+                "mr-2004": "16 VIII: #8"
+            }
+        },
         "records/patrons/ioachim/mar": {
             "name": {
                 "he": "יהוֹיָקִים",

@@ -1,27 +1,46 @@
 {
-  "names": {
-    "fr": [
-      "Roch de Montpellier",
-      "Roch"
-    ],
-    "en": [
-      "Roch",
-      "Roch of Montpellier"
-    ],
-    "la": [
-      "Rochus",
-      "Rochus peregrinus"
-    ],
-    "pl": [
-      "Roch",
-      "Roch z Montpellier"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Roch de Montpellier"
+        ],
+        "la": [
+            "Rochus, peregrinus"
+        ],
+        "en": [
+            "Roch of Montpellier"
+        ],
+        "pl": [
+            "Roch z Montpellier"
+        ]
+    },
+    "forenames": ["rochus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~1379"],
+    "active": true,
 
-  "also-in-martyrology": ["08-16"],
+    "born": null,
+    "died": ["~1379"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["rochus"],
-  "categories": ["vir", "confessor", "peregrinus"]
+    "categories": ["vir", "confessor", "peregrinus"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./16#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/16#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./16#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69117",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ty_Roch"
+    }
 }
