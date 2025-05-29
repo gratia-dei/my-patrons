@@ -4,12 +4,10 @@
     },
     "translations": {
         "la": [
-            "principissa",
-            "ducissa"
+            "principissa"
         ],
         "en": [
-            "princess",
-            "duchess"
+            "princess"
         ],
         "pl": [
             "księżna"
@@ -21,23 +19,6 @@
             "en": "Agnes of Bohemia",
             "la": "Agnes de Bohemia",
             "pl": "Agnieszka Przemyślidka"
-        },
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "en": "Hedwig of Silesia",
-            "la": "Hedwigis ducissa Polonorum",
-            "pl": "Jadwiga Śląska"
-        },
-        "records/patrons/kinga/cun": {
-            "pl": "Kinga",
-            "en": "Kinga of Poland",
-            "la": "Kinga seu Cunegundis"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "en": "Margaret of Lorraine",
-            "la": "Margarita de Lotharingia",
-            "pl": "Małgorzata z Lotaryngii"
         }
     }
 }

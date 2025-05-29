@@ -23,8 +23,8 @@
     "links": {
         "records/patrons/hedwigis/duc": {
             "de": "Hedwig von Andechs",
-            "en": "Hedwig of Silesia",
             "la": "Hedwigis ducissa Polonorum",
+            "en": "Hedwig of Silesia",
             "pl": "Jadwiga Śląska"
         },
         "records/patrons/hedwigis/hun": {

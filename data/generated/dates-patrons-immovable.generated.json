@@ -3571,6 +3571,20 @@
         }
     },
     "10-15": {
+        "records/patrons/hedwigis/duc": {
+            "name": {
+                "de": "Hedwig von Andechs",
+                "la": "Hedwigis ducissa Polonorum",
+                "en": "Hedwig of Silesia",
+                "pl": "Jadwiga Śląska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 X",
+                "mr-1584": "15 X: #8",
+                "mr-1956": "15 X: #2",
+                "mr-2004": "15 X: #5"
+            }
+        },
         "records/patrons/teresia/ies": {
             "name": {
                 "es": "Teresa de Ávila",
@@ -3632,6 +3646,18 @@
             "sources": {
                 "feast": "16 X",
                 "mr-2004": "16 X: #2"
+            }
+        },
+        "records/patrons/hedwigis/duc": {
+            "name": {
+                "de": "Hedwig von Andechs",
+                "la": "Hedwigis ducissa Polonorum",
+                "en": "Hedwig of Silesia",
+                "pl": "Jadwiga Śląska"
+            },
+            "sources": {
+                "mr-1956": "16 X: #1",
+                "mr-2004": "16 X: #1"
             }
         }
     },

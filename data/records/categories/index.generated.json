@@ -129,10 +129,10 @@
         "en": "doctor of the Church",
         "pl": "doktor Kościoła"
     },
-    "ducissa": {
-        "la": "ducissa",
-        "en": "duchess",
-        "pl": "księżna"
+    "dux": {
+        "la": "dux / ducissa",
+        "en": "duke / duchess",
+        "pl": "książę / księżna"
     },
     "episcopus": {
         "la": "episcopus",

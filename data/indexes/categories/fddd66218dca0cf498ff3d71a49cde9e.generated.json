@@ -1,0 +1,35 @@
+{
+    "names": {
+        "la": "dux / ducissa"
+    },
+    "translations": {
+        "la": [
+            "dux / ducissa"
+        ],
+        "en": [
+            "duke / duchess"
+        ],
+        "pl": [
+            "książę / księżna"
+        ]
+    },
+    "links": {
+        "records/patrons/hedwigis/duc": {
+            "de": "Hedwig von Andechs",
+            "la": "Hedwigis ducissa Polonorum",
+            "en": "Hedwig of Silesia",
+            "pl": "Jadwiga Śląska"
+        },
+        "records/patrons/kinga/cun": {
+            "pl": "Kinga",
+            "en": "Kinga of Poland",
+            "la": "Kinga seu Cunegundis"
+        },
+        "records/patrons/margarita/lot": {
+            "fr": "Marguerite de Lorraine-Vaudémont",
+            "en": "Margaret of Lorraine",
+            "la": "Margarita de Lotharingia",
+            "pl": "Małgorzata z Lotaryngii"
+        }
+    }
+}

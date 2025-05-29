@@ -261,9 +261,6 @@
     "5c42b721e415ab7fb03adcabbd069a21": {
         "la": "religiosus / religiosa"
     },
-    "5d6bed03dfb82662c8f822dbcf3a95a6": {
-        "en": "duchess"
-    },
     "5de1809c9a350ed640f8e644f41cbc86": {
         "la": "canonicus"
     },
@@ -282,6 +279,9 @@
     },
     "6638070bc99321b316adbd95e6951f5b": {
         "en": "canon"
+    },
+    "67abd1c2374ccd3b64dcbea631fa06fa": {
+        "pl": "książę / księżna"
     },
     "6847e0980c3f85b3a966f27b4bd678b2": {
         "pl": "tercjarz / tercjarka"
@@ -345,6 +345,9 @@
     },
     "88c3212fb76cb76e5daae5cde57d55ed": {
         "pl": "pokutnik"
+    },
+    "8a656ee604a56505521bec99edf267e2": {
+        "en": "duke / duchess"
     },
     "8adec1b9b9f8ca80033ad8ab2676b1f3": {
         "en": "father of the household"
@@ -581,9 +584,6 @@
     "d767743b2a5781eb64da16305f9404c4": {
         "pl": "ustanawiacz"
     },
-    "d8bbf4e88cd5243070825e6f7666be3a": {
-        "la": "ducissa"
-    },
     "d91c5aa06eafa992b792d9cdba299195": {
         "la": "femina"
     },
@@ -653,5 +653,8 @@
     },
     "fd460e9935392044fc9d97bae20c9c80": {
         "en": "styllite"
+    },
+    "fddd66218dca0cf498ff3d71a49cde9e": {
+        "la": "dux / ducissa"
     }
 }
