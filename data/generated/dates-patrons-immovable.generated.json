@@ -4470,6 +4470,20 @@
             }
         }
     },
+    "12-04": {
+        "records/patrons/barbara/nic": {
+            "name": {
+                "la": "Barbara Nicomedensis",
+                "en": "Barbara of Nicomedia",
+                "pl": "Barbara z Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "4 XII: #1",
+                "mr-1956": "4 XII: #2",
+                "mr-2004": "4 XII: #2"
+            }
+        }
+    },
     "12-05": {
         "records/patrons/narcissus/put": {
             "name": {

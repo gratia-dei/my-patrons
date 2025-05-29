@@ -1562,7 +1562,7 @@
         }
     },
     "patrons/barbara/nic": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Barbara Nicomedensis",
             "en": "Barbara of Nicomedia",

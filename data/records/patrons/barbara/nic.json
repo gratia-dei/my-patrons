@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Barbara Nicomedensis"
-    ],
-    "en": [
-      "Barbara of Nicomedia"
-    ],
-    "pl": [
-      "Barbara z Nikomedii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Barbara Nicomedensis"
+        ],
+        "en": [
+            "Barbara of Nicomedia"
+        ],
+        "pl": [
+            "Barbara z Nikomedii"
+        ]
+    },
+    "forenames": ["barbara"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~305"],
+    "active": true,
 
-  "also-in-martyrology": ["12-04"],
+    "born": null,
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["barbara"],
-  "categories": ["femina", "martyr", "virgo"]
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./4#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/4#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./4#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69529",
+        "wiki": "https://pl.wikipedia.org/wiki/Barbara_z_Nikomedii"
+    }
 }
