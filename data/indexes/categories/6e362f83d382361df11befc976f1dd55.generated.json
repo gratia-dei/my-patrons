@@ -168,6 +168,11 @@
             "la": "Bernardinus Senensis",
             "pl": "Bernardyn ze Sieny"
         },
+        "records/patrons/boleslaus/str": {
+            "pl": "Bolesław Strzelecki",
+            "la": "Boleslaus Strzelecki",
+            "en": "Boleslav Strzelecki"
+        },
         "records/patrons/bonifatius/zuk": {
             "pl": "Bonifacy Żukowski",
             "en": "Boniface Zukowski",

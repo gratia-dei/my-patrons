@@ -1949,6 +1949,25 @@
         ],
         "feasts": []
     },
+    "patrons/boleslaus": {
+        "names": {
+            "la": "Boleslaus",
+            "en": "Boleslav",
+            "pl": "Bolesław"
+        }
+    },
+    "patrons/boleslaus/str": {
+        "active": true,
+        "names": {
+            "pl": "Bolesław Strzelecki",
+            "la": "Boleslaus Strzelecki",
+            "en": "Boleslav Strzelecki"
+        },
+        "died": [
+            "1941-05-02"
+        ],
+        "feasts": []
+    },
     "patrons/boleslava": {
         "names": {
             "la": "Boleslava",

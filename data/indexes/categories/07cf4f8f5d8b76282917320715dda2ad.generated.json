@@ -446,6 +446,11 @@
             "la": "Bogumilus Dobrovensis",
             "en": "Bogumil of Dobrow"
         },
+        "records/patrons/boleslaus/str": {
+            "pl": "Bolesław Strzelecki",
+            "la": "Boleslaus Strzelecki",
+            "en": "Boleslav Strzelecki"
+        },
         "records/patrons/bonfilius/flo": {
             "it": "Bonfilio Monaldi",
             "la": "Bonfilius Monaldi",

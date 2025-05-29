@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Bolesław"
+    },
+    "translations": {
+        "la": [
+            "Boleslaus"
+        ],
+        "en": [
+            "Boleslav"
+        ],
+        "pl": [
+            "Bolesław"
+        ]
+    },
+    "links": {
+        "records/patrons/boleslaus/str": {
+            "pl": "Bolesław Strzelecki",
+            "la": "Boleslaus Strzelecki",
+            "en": "Boleslav Strzelecki"
+        }
+    }
+}

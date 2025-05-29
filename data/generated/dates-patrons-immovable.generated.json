@@ -1554,6 +1554,20 @@
             }
         }
     },
+    "05-02": {
+        "records/patrons/boleslaus/str": {
+            "name": {
+                "pl": "Bolesław Strzelecki",
+                "la": "Boleslaus Strzelecki",
+                "en": "Boleslav Strzelecki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 V",
+                "feast": "2 V",
+                "mr-2004": "2 V: #12"
+            }
+        }
+    },
     "05-03": {
         "records/patrons/ricoverus/ugu": {
             "name": {

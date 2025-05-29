@@ -242,6 +242,11 @@
             "en": "Blaise of Sebaste",
             "pl": "Błażej z Sebasty"
         },
+        "records/patrons/boleslaus/str": {
+            "pl": "Bolesław Strzelecki",
+            "la": "Boleslaus Strzelecki",
+            "en": "Boleslav Strzelecki"
+        },
         "records/patrons/bonifatius/win": {
             "en": "Boniface Wynfreth",
             "la": "Bonifatius Winfrid",
