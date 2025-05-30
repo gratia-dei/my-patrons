@@ -22,6 +22,11 @@
             "en": "Justin de Jacobis",
             "la": "Iustinus de Iacobis",
             "pl": "Justyn de Jacobis"
+        },
+        "records/patrons/iustinus/phi": {
+            "la": "Iustinus Philosophus",
+            "en": "Justin the Philosopher",
+            "pl": "Justyn Filozof"
         }
     }
 }

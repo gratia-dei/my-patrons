@@ -1328,6 +1328,17 @@
         }
     },
     "04-13": {
+        "records/patrons/iustinus/phi": {
+            "name": {
+                "la": "Iustinus Philosophus",
+                "en": "Justin the Philosopher",
+                "pl": "Justyn Filozof"
+            },
+            "sources": {
+                "mr-1584": "13 IV: #2",
+                "mr-1956": "13 IV: #2"
+            }
+        },
         "records/patrons/martinus/1pp": {
             "name": {
                 "la": "Martinus Pp. I",
@@ -1336,6 +1347,18 @@
             },
             "sources": {
                 "mr-2004": "13 IV: #1"
+            }
+        }
+    },
+    "04-14": {
+        "records/patrons/iustinus/phi": {
+            "name": {
+                "la": "Iustinus Philosophus",
+                "en": "Justin the Philosopher",
+                "pl": "Justyn Filozof"
+            },
+            "sources": {
+                "mr-1956": "14 IV: #1"
             }
         }
     },
@@ -1918,6 +1941,18 @@
                 "feast": "30 V",
                 "mr-1956": "30 V: #8",
                 "mr-2004": "30 V: #7"
+            }
+        }
+    },
+    "06-01": {
+        "records/patrons/iustinus/phi": {
+            "name": {
+                "la": "Iustinus Philosophus",
+                "en": "Justin the Philosopher",
+                "pl": "Justyn Filozof"
+            },
+            "sources": {
+                "mr-2004": "1 VI: #1"
             }
         }
     },

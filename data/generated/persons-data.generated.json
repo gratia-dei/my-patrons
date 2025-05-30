@@ -6002,6 +6002,18 @@
         ],
         "feasts": []
     },
+    "patrons/iustinus/phi": {
+        "active": true,
+        "names": {
+            "la": "Iustinus Philosophus",
+            "en": "Justin the Philosopher",
+            "pl": "Justyn Filozof"
+        },
+        "died": [
+            "~165"
+        ],
+        "feasts": []
+    },
     "patrons/iustus": {
         "names": {
             "la": "Iustus",
