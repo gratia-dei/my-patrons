@@ -40,6 +40,11 @@
             "pl": "Stanisław Starowieyski",
             "en": "Stanislaus Starowieyski",
             "la": "Stanislaus Starowieyski"
+        },
+        "records/patrons/stanislaus/str": {
+            "pl": "Stanisław Streich",
+            "la": "Stanislaus Streich",
+            "en": "Stanislaus Streich"
         }
     }
 }

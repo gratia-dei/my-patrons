@@ -567,6 +567,19 @@
             }
         }
     },
+    "02-27": {
+        "records/patrons/stanislaus/str": {
+            "name": {
+                "pl": "Stanisław Streich",
+                "la": "Stanislaus Streich",
+                "en": "Stanislaus Streich"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 II",
+                "feast": "27 II"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/matthias/apo": {
             "name": {

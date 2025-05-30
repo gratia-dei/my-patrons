@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "diocesan presbyter"
+    },
+    "translations": {
+        "la": [
+            "presbyter dioecesanus"
+        ],
+        "en": [
+            "diocesan presbyter"
+        ],
+        "pl": [
+            "prezbiter diecezjalny"
+        ]
+    },
+    "links": {
+        "records/patrons/stanislaus/str": {
+            "pl": "Stanisław Streich",
+            "la": "Stanislaus Streich",
+            "en": "Stanislaus Streich"
+        }
+    }
+}

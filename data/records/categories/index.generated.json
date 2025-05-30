@@ -269,6 +269,11 @@
         "en": "penitent",
         "pl": "pokutnik"
     },
+    "presbyter-dioecesanus": {
+        "la": "presbyter dioecesanus",
+        "en": "diocesan presbyter",
+        "pl": "prezbiter diecezjalny"
+    },
     "presbyter": {
         "la": "presbyter",
         "en": "presbyter",

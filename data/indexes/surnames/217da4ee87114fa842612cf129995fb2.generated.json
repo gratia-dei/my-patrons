@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Streich"
+    },
+    "translations": {
+        "pl": [
+            "Streich"
+        ]
+    },
+    "links": {
+        "records/patrons/stanislaus/str": {
+            "pl": "Stanisław Streich",
+            "la": "Stanislaus Streich",
+            "en": "Stanislaus Streich"
+        }
+    }
+}

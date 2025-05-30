@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Stanisław Streich"
+        ],
+        "la": [
+            "Stanislaus Streich"
+        ],
+        "en": [
+            "Stanislaus Streich"
+        ]
+    },
+    "forenames": ["stanislaus"],
+    "surnames": [
+        {
+            "pl": "Streich"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1902-08-27"],
+    "died": ["1938-02-27"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2025-05-24"
+    },
+    "canonized": null,
+    "anniversary": ["02-27"],
+
+    "categories": ["vir", "martyr", "presbyter-dioecesanus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/stanislaw-streich.html",
+        "gcatholic": "https://gcatholic.org/p/75776",
+        "wiki": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Streich"
+    }
+}

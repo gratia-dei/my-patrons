@@ -140,6 +140,9 @@
     "2863e14774dce430ad6ba848b13708ea": {
         "en": "instituter / institutress"
     },
+    "29c2dba503acb8b350059150648dd1ca": {
+        "pl": "prezbiter diecezjalny"
+    },
     "2a81e2977d5c03ae3454ec95dca40d70": {
         "la": "presbyter",
         "en": "presbyter"
@@ -263,6 +266,9 @@
     },
     "5c42b721e415ab7fb03adcabbd069a21": {
         "la": "religiosus / religiosa"
+    },
+    "5c7b0280d251e8c19787d0561b78c813": {
+        "la": "presbyter dioecesanus"
     },
     "5de1809c9a350ed640f8e644f41cbc86": {
         "la": "canonicus"
@@ -528,6 +534,9 @@
     },
     "bf43b661e988366f97a46d67b7f822ca": {
         "pl": "biskup"
+    },
+    "c015831cb984167d2801bbd5339954f8": {
+        "en": "diocesan presbyter"
     },
     "c06d4cefeb158637a78347f6a5f12554": {
         "la": "abbas / abbatissa"

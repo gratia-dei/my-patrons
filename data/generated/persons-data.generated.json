@@ -10061,6 +10061,18 @@
         ],
         "feasts": []
     },
+    "patrons/stanislaus/str": {
+        "active": true,
+        "names": {
+            "pl": "Stanisław Streich",
+            "la": "Stanislaus Streich",
+            "en": "Stanislaus Streich"
+        },
+        "died": [
+            "1938-02-27"
+        ],
+        "feasts": []
+    },
     "patrons/stanislava": {
         "names": {
             "la": "Stanislava",
