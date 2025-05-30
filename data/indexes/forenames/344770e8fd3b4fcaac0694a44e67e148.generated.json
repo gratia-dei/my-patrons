@@ -22,6 +22,9 @@
         "hy": [
             "Իգնատիոս"
         ],
+        "it": [
+            "Ignazio"
+        ],
         "ko": [
             "이냐시오"
         ]
@@ -38,6 +41,12 @@
             "la": "Ignatius Kim Che-jun",
             "en": "Ignatius Kim Che-jun",
             "pl": "Ignacy Kim Che-jun"
+        },
+        "records/patrons/ignatius/lac": {
+            "it": "Ignazio da Laconi",
+            "la": "Ignatius de Laconi",
+            "en": "Ignatius of Laconi",
+            "pl": "Ignacy z Laconi"
         },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",

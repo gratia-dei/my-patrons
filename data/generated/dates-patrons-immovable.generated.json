@@ -1663,6 +1663,20 @@
         }
     },
     "05-11": {
+        "records/patrons/ignatius/lac": {
+            "name": {
+                "it": "Ignazio da Laconi",
+                "la": "Ignatius de Laconi",
+                "en": "Ignatius of Laconi",
+                "pl": "Ignacy z Laconi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 V",
+                "feast": "11 V",
+                "mr-1956": "11 V: #12",
+                "mr-2004": "11 V: #11"
+            }
+        },
         "records/patrons/philippus/apo": {
             "name": {
                 "la": "Philippus Apostolus",

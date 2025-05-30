@@ -78,6 +78,12 @@
             "la": "Ieremias de Valachia",
             "pl": "Jeremiasz z Wołoszczyzny"
         },
+        "records/patrons/ignatius/lac": {
+            "it": "Ignazio da Laconi",
+            "la": "Ignatius de Laconi",
+            "en": "Ignatius of Laconi",
+            "pl": "Ignacy z Laconi"
+        },
         "records/patrons/ioannes/deo": {
             "pt": "João de Deus",
             "en": "John of God",
