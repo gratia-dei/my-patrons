@@ -65,6 +65,12 @@
             "en": "Mary Magdalene",
             "pl": "Maria Magdalena"
         },
+        "records/patrons/maria/paz": {
+            "it": "Maria Maddalena de' Pazzi",
+            "la": "Maria Magdalena de' Pazzi",
+            "en": "Mary Magdalene de' Pazzi",
+            "pl": "Maria Magdalena de’ Pazzi"
+        },
         "records/patrons/maria/pos": {
             "fr": "Marie-Madeleine Postel",
             "en": "Mary Magdalene Postel",

@@ -1,0 +1,63 @@
+{
+    "names": {
+        "it": [
+            "Maria Maddalena de' Pazzi",
+            "Caterina de’ Pazzi"
+        ],
+        "la": [
+            "Maria Magdalena de' Pazzi",
+            "Catharina de’ Pazzi"
+        ],
+        "en": [
+            "Mary Magdalene de' Pazzi",
+            "Catherine de’ Pazzi"
+        ],
+        "pl": [
+            "Maria Magdalena de’ Pazzi",
+            "Katarzyna de’ Pazzi"
+        ]
+    },
+    "forenames": ["maria", "magdalena"],
+    "surnames": [
+        {
+            "it": "de' Pazzi"
+        },
+        {
+            "it": "de Pazzis"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1566-04-02"],
+    "died": ["1607-05-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1626-05-08"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1669-04-28"
+    },
+    "anniversary": ["05-25"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/25#4", "1:Maji/29#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/25#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-maddalena-de-pazzi.html",
+        "gcatholic": "https://gcatholic.org/p/68297",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Magdalena_de%E2%80%99_Pazzi"
+    }
+}

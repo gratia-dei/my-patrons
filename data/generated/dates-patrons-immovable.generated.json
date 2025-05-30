@@ -1813,6 +1813,20 @@
                 "mr-2004": "25 V: #16"
             }
         },
+        "records/patrons/maria/paz": {
+            "name": {
+                "it": "Maria Maddalena de' Pazzi",
+                "la": "Maria Magdalena de' Pazzi",
+                "en": "Mary Magdalene de' Pazzi",
+                "pl": "Maria Magdalena de’ Pazzi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 V",
+                "feast": "25 V",
+                "mr-1956": "25 V: #4",
+                "mr-2004": "25 V: #3"
+            }
+        },
         "records/patrons/iesus/men": {
             "name": {
                 "es": "Jesús Méndez Montoya",
@@ -1862,6 +1876,19 @@
             "sources": {
                 "reliable-death-anniversary": "28 V",
                 "feast": "28 V"
+            }
+        }
+    },
+    "05-29": {
+        "records/patrons/maria/paz": {
+            "name": {
+                "it": "Maria Maddalena de' Pazzi",
+                "la": "Maria Magdalena de' Pazzi",
+                "en": "Mary Magdalene de' Pazzi",
+                "pl": "Maria Magdalena de’ Pazzi"
+            },
+            "sources": {
+                "mr-1956": "29 V: #1"
             }
         }
     },

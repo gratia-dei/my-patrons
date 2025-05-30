@@ -7351,6 +7351,19 @@
             }
         }
     },
+    "patrons/maria/paz": {
+        "active": true,
+        "names": {
+            "it": "Maria Maddalena de' Pazzi",
+            "la": "Maria Magdalena de' Pazzi",
+            "en": "Mary Magdalene de' Pazzi",
+            "pl": "Maria Magdalena de’ Pazzi"
+        },
+        "died": [
+            "1607-05-25"
+        ],
+        "feasts": []
+    },
     "patrons/maria/pos": {
         "active": false,
         "names": {

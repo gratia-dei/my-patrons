@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "de Pazzis"
+    },
+    "translations": {
+        "it": [
+            "de Pazzis"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/paz": {
+            "it": "Maria Maddalena de' Pazzi",
+            "la": "Maria Magdalena de' Pazzi",
+            "en": "Mary Magdalene de' Pazzi",
+            "pl": "Maria Magdalena de’ Pazzi"
+        }
+    }
+}
