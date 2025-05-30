@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Kubski"
+    },
+    "translations": {
+        "pl": [
+            "Kubski"
+        ]
+    },
+    "links": {
+        "records/patrons/stanislaus/kub": {
+            "pl": "Stanisław Kubski",
+            "la": "Stanislaus Kubski",
+            "en": "Stanislaus Kubski"
+        }
+    }
+}

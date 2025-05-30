@@ -10024,6 +10024,18 @@
         ],
         "feasts": []
     },
+    "patrons/stanislaus/kub": {
+        "active": true,
+        "names": {
+            "pl": "Stanisław Kubski",
+            "la": "Stanislaus Kubski",
+            "en": "Stanislaus Kubski"
+        },
+        "died": [
+            "1942-05-18"
+        ],
+        "feasts": []
+    },
     "patrons/stanislaus/sta": {
         "active": false,
         "names": {

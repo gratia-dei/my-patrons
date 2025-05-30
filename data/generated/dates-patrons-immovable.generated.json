@@ -1710,6 +1710,20 @@
             }
         }
     },
+    "05-18": {
+        "records/patrons/stanislaus/kub": {
+            "name": {
+                "pl": "Stanisław Kubski",
+                "la": "Stanislaus Kubski",
+                "en": "Stanislaus Kubski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 V",
+                "feast": "18 V",
+                "mr-2004": "18 V: #11"
+            }
+        }
+    },
     "05-21": {
         "records/patrons/christophorus/mag": {
             "name": {
