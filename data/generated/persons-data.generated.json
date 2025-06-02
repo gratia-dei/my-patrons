@@ -3363,6 +3363,25 @@
         ],
         "feasts": []
     },
+    "patrons/eobanus": {
+        "names": {
+            "la": "Eobanus",
+            "en": "Eoban",
+            "pl": "Eoban"
+        }
+    },
+    "patrons/eobanus/bon": {
+        "active": true,
+        "names": {
+            "la": "Eobanus de Ultraiectum",
+            "en": "Eoban of Utrecht",
+            "pl": "Eoban z Utrechtu"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/ephraem": {
         "names": {
             "la": "Ephraem",
@@ -8008,6 +8027,18 @@
         },
         "died": [
             "-"
+        ],
+        "feasts": []
+    },
+    "patrons/multi/bon": {
+        "active": true,
+        "names": {
+            "la": "Alii Socii Bonifatii Winfridi",
+            "en": "Other Companions of Boniface Wynfreth",
+            "pl": "Inni Towarzysze Bonifacego Wynfryda"
+        },
+        "died": [
+            "754-06-05"
         ],
         "feasts": []
     },

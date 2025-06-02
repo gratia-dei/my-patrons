@@ -174,6 +174,9 @@
     "39719bde558fb9b4367151f9a9e33451": {
         "en": "cardinal bishop"
     },
+    "398f6c65d8d98f760e3fc87217accbff": {
+        "en": "associate bishop"
+    },
     "3a65fe50077b0ec7a6e2d45c22f8b92b": {
         "la": "Mater Dei"
     },
@@ -306,6 +309,9 @@
     },
     "6e362f83d382361df11befc976f1dd55": {
         "pl": "prezbiter"
+    },
+    "6e9d599ed430ce0954b6c108fcfc12a5": {
+        "la": "coepiscopus"
     },
     "71dd21b124b3942e3743c8f20022ea26": {
         "la": "propheta"
@@ -610,6 +616,9 @@
     },
     "db0f6f37ebeb6ea09489124345af2a45": {
         "en": "group"
+    },
+    "dc5c95c029534f43bc26a76a5f3c083b": {
+        "pl": "biskup pomocniczy"
     },
     "e1d42842652d17dff26877072006184c": {
         "la": "angelus"

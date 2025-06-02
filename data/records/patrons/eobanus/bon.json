@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Eobanus de Ultraiectum"
+        ],
+        "en": [
+            "Eoban of Utrecht"
+        ],
+        "pl": [
+            "Eoban z Utrechtu"
+        ]
+    },
+    "forenames": ["eobanus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["754-06-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus", "coepiscopus"],
+
+    "data-links": {
+        "mr-1584": ["2:Iuni./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Junii/5#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./5#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71041",
+        "wiki": "https://pl.wikipedia.org/wiki/Eoban"
+    }
+}

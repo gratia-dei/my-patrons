@@ -1,7 +1,9 @@
 {
     "data-links": {
         "1": {
-            "1": "records/patrons/bonifatius/win"
+            "1": "records/patrons/bonifatius/win",
+            "2": "records/patrons/eobanus/bon",
+            "3": "records/patrons/multi/bon"
         }
     }
 }

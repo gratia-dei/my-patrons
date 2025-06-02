@@ -782,6 +782,11 @@
             "en": "Emmeram of Regensburg",
             "pl": "Emmeram z Ratyzbony"
         },
+        "records/patrons/eobanus/bon": {
+            "la": "Eobanus de Ultraiectum",
+            "en": "Eoban of Utrecht",
+            "pl": "Eoban z Utrechtu"
+        },
         "records/patrons/ephraem/syr": {
             "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
             "en": "Ephrem the Syrian",

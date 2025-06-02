@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "associate bishop"
+    },
+    "translations": {
+        "la": [
+            "coepiscopus"
+        ],
+        "en": [
+            "associate bishop"
+        ],
+        "pl": [
+            "biskup pomocniczy"
+        ]
+    },
+    "links": {
+        "records/patrons/eobanus/bon": {
+            "la": "Eobanus de Ultraiectum",
+            "en": "Eoban of Utrecht",
+            "pl": "Eoban z Utrechtu"
+        }
+    }
+}

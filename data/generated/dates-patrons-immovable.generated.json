@@ -2021,6 +2021,31 @@
                 "mr-1956": "5 VI: #1",
                 "mr-2004": "5 VI: #1"
             }
+        },
+        "records/patrons/eobanus/bon": {
+            "name": {
+                "la": "Eobanus de Ultraiectum",
+                "en": "Eoban of Utrecht",
+                "pl": "Eoban z Utrechtu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
+        "records/patrons/multi/bon": {
+            "name": {
+                "la": "Alii Socii Bonifatii Winfridi",
+                "en": "Other Companions of Boniface Wynfreth",
+                "pl": "Inni Towarzysze Bonifacego Wynfryda"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1"
+            }
         }
     },
     "06-06": {

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Eoban",
+        "pl": "Eoban"
+    },
+    "translations": {
+        "la": [
+            "Eobanus"
+        ],
+        "en": [
+            "Eoban"
+        ],
+        "pl": [
+            "Eoban"
+        ]
+    },
+    "links": {
+        "records/patrons/eobanus/bon": {
+            "la": "Eobanus de Ultraiectum",
+            "en": "Eoban of Utrecht",
+            "pl": "Eoban z Utrechtu"
+        }
+    }
+}
