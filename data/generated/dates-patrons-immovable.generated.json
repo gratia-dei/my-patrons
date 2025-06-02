@@ -1992,6 +1992,22 @@
             }
         }
     },
+    "06-04": {
+        "records/patrons/franciscus/car": {
+            "name": {
+                "it": "Francesco Caracciolo",
+                "en": "Francis Caracciolo",
+                "la": "Franciscus Caracciolo",
+                "pl": "Franciszek Caracciolo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VI",
+                "feast": "4 VI",
+                "mr-1956": "4 VI: #1",
+                "mr-2004": "4 VI: #8"
+            }
+        }
+    },
     "06-06": {
         "records/patrons/norbertus/mag": {
             "name": {

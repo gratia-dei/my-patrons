@@ -3750,7 +3750,7 @@
         "feasts": []
     },
     "patrons/franciscus/car": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Francesco Caracciolo",
             "en": "Francis Caracciolo",
