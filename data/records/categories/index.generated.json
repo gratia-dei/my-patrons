@@ -89,6 +89,11 @@
         "en": "cenobite",
         "pl": "cenobita"
     },
+    "coepiscopus": {
+        "la": "coepiscopus",
+        "en": "associate bishop",
+        "pl": "biskup pomocniczy"
+    },
     "comes": {
         "la": "comes / comitissa",
         "en": "count / countess",

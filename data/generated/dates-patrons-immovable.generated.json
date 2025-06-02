@@ -2008,6 +2008,21 @@
             }
         }
     },
+    "06-05": {
+        "records/patrons/bonifatius/win": {
+            "name": {
+                "la": "Bonifatius Winfridus",
+                "en": "Boniface Wynfreth",
+                "pl": "Bonifacy Wynfryd"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #1"
+            }
+        }
+    },
     "06-06": {
         "records/patrons/norbertus/mag": {
             "name": {

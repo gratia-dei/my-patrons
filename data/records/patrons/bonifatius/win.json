@@ -1,30 +1,50 @@
 {
-  "names": {
-    "en": [
-      "Boniface Wynfreth",
-      "Apostle to the Germans"
+    "names": {
+        "la": [
+            "Bonifatius Winfridus"
+        ],
+        "en": [
+            "Boniface Wynfreth",
+            "Apostle to the Germans"
+        ],
+        "pl": [
+            "Bonifacy Wynfryd"
+        ]
+    },
+    "forenames": ["bonifatius", "winfridus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "en": "Apostle of the Germans",
+            "la": "Germanorum Apostolus",
+            "pl": "Apostoł Germanii"
+        }
     ],
-    "la": [
-      "Bonifatius Winfrid"
-    ],
-    "pl": [
-      "Bonifacy Wynfryd"
-    ]
-  },
 
-  "epithets": [
-    {
-      "en": "Apostle of the Germans",
-      "la": "Germanorum Apostolus",
-      "pl": "Apostoł Germanii"
+    "active": true,
+
+    "born": [">672", "<675"],
+    "died": ["754-06-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus", "monachus"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/5#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./5#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/49767",
+        "wiki": "https://pl.wikipedia.org/wiki/Bonifacy-Winfrid"
     }
-  ],
-
-  "born": [">672", "<675"],
-  "died": ["754-06-05"],
-
-  "also-in-martyrology": ["06-05"],
-
-  "forenames": ["bonifatius", "winfridus"],
-  "categories": ["vir", "martyr", "episcopus", "monachus"]
 }

@@ -15,8 +15,8 @@
     },
     "links": {
         "records/patrons/bonifatius/win": {
+            "la": "Bonifatius Winfridus",
             "en": "Boniface Wynfreth",
-            "la": "Bonifatius Winfrid",
             "pl": "Bonifacy Wynfryd"
         },
         "records/patrons/bonifatius/zuk": {
