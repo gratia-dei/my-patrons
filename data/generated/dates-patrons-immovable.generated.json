@@ -1956,6 +1956,28 @@
             }
         }
     },
+    "06-02": {
+        "records/patrons/sadochus/san": {
+            "name": {
+                "pl": "Sadok z Sandomierza",
+                "la": "Sadochus de Sandomierz",
+                "en": "Sadok of Sandomierz"
+            },
+            "sources": {
+                "mr-2004": "2 VI: #8"
+            }
+        },
+        "records/patrons/multi/sad": {
+            "name": {
+                "pl": "Towarzysze Sadoka z Sandomierza",
+                "la": "Sociorum Sadochii de Sandomierz",
+                "en": "Companions of Sadok of Sandomierz"
+            },
+            "sources": {
+                "mr-2004": "2 VI: #8"
+            }
+        }
+    },
     "06-03": {
         "records/patrons/ioannes/23p": {
             "name": {

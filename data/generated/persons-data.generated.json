@@ -8091,6 +8091,18 @@
         ],
         "feasts": []
     },
+    "patrons/multi/sad": {
+        "active": true,
+        "names": {
+            "pl": "Towarzysze Sadoka z Sandomierza",
+            "la": "Sociorum Sadochii de Sandomierz",
+            "en": "Companions of Sadok of Sandomierz"
+        },
+        "died": [
+            "~1260"
+        ],
+        "feasts": []
+    },
     "patrons/multi/san": {
         "active": true,
         "names": {
@@ -9549,14 +9561,13 @@
         }
     },
     "patrons/sadochus/san": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Sadok z Sandomierza",
-            "en": "Sadok of Sandomierz",
-            "la": "Sadochus de Sandomierz"
+            "la": "Sadochus de Sandomierz",
+            "en": "Sadok of Sandomierz"
         },
         "died": [
-            "~1250",
             "~1260"
         ],
         "feasts": []

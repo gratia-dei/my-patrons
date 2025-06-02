@@ -1180,6 +1180,11 @@
             "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
             "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
         },
+        "records/patrons/multi/sad": {
+            "pl": "Towarzysze Sadoka z Sandomierza",
+            "la": "Sociorum Sadochii de Sandomierz",
+            "en": "Companions of Sadok of Sandomierz"
+        },
         "records/patrons/narcissus/put": {
             "pl": "Narcyz Putz",
             "la": "Narcissus Putz",
@@ -1367,8 +1372,8 @@
         },
         "records/patrons/sadochus/san": {
             "pl": "Sadok z Sandomierza",
-            "en": "Sadok of Sandomierz",
-            "la": "Sadochus de Sandomierz"
+            "la": "Sadochus de Sandomierz",
+            "en": "Sadok of Sandomierz"
         },
         "records/patrons/saturninus/car": {
             "la": "Saturninus Carthaginensis",
