@@ -188,6 +188,11 @@
             "la": "Aristarchus Thessalonicensis",
             "pl": "Arystarch z Tesaloniki"
         },
+        "records/patrons/atevulfus/eob": {
+            "la": "Atevulfus; cum eo, i.a., Eobanus",
+            "en": "Atevulfus; with him, i.a., Eoban",
+            "pl": "Hatewulf; z nim, m.in. Eoban"
+        },
         "records/patrons/augustinus/cal": {
             "es": "Agustín Caloca Cortés",
             "la": "Augustinus Caloca Cortés",

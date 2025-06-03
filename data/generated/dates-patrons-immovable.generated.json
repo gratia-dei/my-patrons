@@ -2035,6 +2035,19 @@
                 "mr-2004": "5 VI: #6"
             }
         },
+        "records/patrons/atevulfus/eob": {
+            "name": {
+                "la": "Atevulfus; cum eo, i.a., Eobanus",
+                "en": "Atevulfus; with him, i.a., Eoban",
+                "pl": "Hatewulf; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
         "records/patrons/bonifatius/win": {
             "name": {
                 "la": "Bonifatius Winfridus",

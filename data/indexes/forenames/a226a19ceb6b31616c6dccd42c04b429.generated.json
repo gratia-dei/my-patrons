@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Atevulfus",
+        "en": "Atevulfus"
+    },
+    "translations": {
+        "la": [
+            "Atevulfus"
+        ],
+        "en": [
+            "Atevulfus"
+        ],
+        "pl": [
+            "Hatewulf"
+        ]
+    },
+    "links": {
+        "records/patrons/atevulfus/eob": {
+            "la": "Atevulfus; cum eo, i.a., Eobanus",
+            "en": "Atevulfus; with him, i.a., Eoban",
+            "pl": "Hatewulf; z nim, m.in. Eoban"
+        }
+    }
+}

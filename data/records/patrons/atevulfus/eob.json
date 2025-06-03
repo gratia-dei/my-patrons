@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Atevulfus; cum eo, i.a., Eobanus"
+        ],
+        "en": [
+            "Atevulfus; with him, i.a., Eoban"
+        ],
+        "pl": [
+            "Hatewulf; z nim, m.in. Eoban"
+        ]
+    },
+    "forenames": ["atevulfus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["754-06-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "monachus"],
+
+    "data-links": {
+        "mr-1584": ["13:Iuni./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["13:Junii/5#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["11:iun./5#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Eoban"
+    }
+}
