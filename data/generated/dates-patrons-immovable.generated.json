@@ -2061,6 +2061,19 @@
                 "mr-2004": "5 VI: #6"
             }
         },
+        "records/patrons/ellurus/eob": {
+            "name": {
+                "la": "Ellurus; cum eo, i.a., Eobanus",
+                "en": "Ellurus; with him, i.a., Eoban",
+                "pl": "Elleher; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
         "records/patrons/eobanus/bon": {
             "name": {
                 "la": "Eobanus de Ultraiectum",

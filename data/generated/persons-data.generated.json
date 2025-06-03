@@ -3379,6 +3379,25 @@
         ],
         "feasts": []
     },
+    "patrons/ellurus": {
+        "names": {
+            "la": "Ellurus",
+            "en": "Ellurus",
+            "pl": "Elleher"
+        }
+    },
+    "patrons/ellurus/eob": {
+        "active": true,
+        "names": {
+            "la": "Ellurus; cum eo, i.a., Eobanus",
+            "en": "Ellurus; with him, i.a., Eoban",
+            "pl": "Elleher; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/emmanuel": {
         "names": {
             "la": "Emmanuel",
@@ -4406,7 +4425,7 @@
     },
     "patrons/gundecarus": {
         "names": {
-            "la": "GUndecarus",
+            "la": "Gundecarus",
             "en": "Gundecarus",
             "pl": "Gundekar"
         }

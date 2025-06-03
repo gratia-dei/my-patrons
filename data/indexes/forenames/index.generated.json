@@ -720,6 +720,7 @@
         "pl": "Ireneusz"
     },
     "316068cf5091f34ccaadd3c0a62f2909": {
+        "la": "Gundecarus",
         "en": "Gundecarus"
     },
     "31f5e1c1f8eb667afcec0f426ac8b3c0": {
@@ -1044,6 +1045,10 @@
         "en": "Manettus",
         "pl": "Manettus"
     },
+    "4884b356f2f778d7b336e8d5937f9206": {
+        "la": "Ellurus",
+        "en": "Ellurus"
+    },
     "48a0572e6e7cfc81b428b18da87cf613": {
         "en": "Oscar"
     },
@@ -1249,6 +1254,9 @@
     },
     "5c11eda12aa6bc92e2261a9923164eeb": {
         "pl": "Barnaba"
+    },
+    "5c2e6dcc7689c130b112950365bb948b": {
+        "pl": "Elleher"
     },
     "5c39b18d77d5f297ff92e4942e5522b5": {
         "la": "Barbara",
@@ -2847,9 +2855,6 @@
     },
     "cb6c5f271e3f56fca00c325895549e71": {
         "la": "Bernardus"
-    },
-    "cb8ea70cc62e94ed9a454383b5aaf195": {
-        "la": "GUndecarus"
     },
     "cbc19b07662418d5f14cc55657295924": {
         "la": "Maria",

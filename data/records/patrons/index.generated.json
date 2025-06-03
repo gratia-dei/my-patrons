@@ -556,6 +556,11 @@
         "es": "Elisabet",
         "fr": "Elisabeth"
     },
+    "ellurus": {
+        "la": "Ellurus",
+        "en": "Ellurus",
+        "pl": "Elleher"
+    },
     "emmanuel": {
         "la": "Emmanuel",
         "en": "Emanuel",
@@ -756,7 +761,7 @@
         "it": "Guido"
     },
     "gundecarus": {
-        "la": "GUndecarus",
+        "la": "Gundecarus",
         "en": "Gundecarus",
         "pl": "Gundekar"
     },

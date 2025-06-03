@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Elleher"
+    },
+    "translations": {
+        "la": [
+            "Ellurus"
+        ],
+        "en": [
+            "Ellurus"
+        ],
+        "pl": [
+            "Elleher"
+        ]
+    },
+    "links": {
+        "records/patrons/ellurus/eob": {
+            "la": "Ellurus; cum eo, i.a., Eobanus",
+            "en": "Ellurus; with him, i.a., Eoban",
+            "pl": "Elleher; z nim, m.in. Eoban"
+        }
+    }
+}
