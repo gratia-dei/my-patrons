@@ -42,6 +42,11 @@
             "la": "Adalbertus Pragensis",
             "pl": "Wojciech Sławnikowic"
         },
+        "records/patrons/adelarius/eob": {
+            "la": "Adelarius; cum eo, i.a., Eobanus",
+            "en": "Adalarius; with him, i.a., Eoban",
+            "pl": "Adalariusz; z nim, m.in. Eoban"
+        },
         "records/patrons/aegidius/abb": {
             "fr": "Gilles l'Ermite",
             "pl": "Idzi Eremita",

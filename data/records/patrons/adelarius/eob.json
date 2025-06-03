@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Adelarius; cum eo, i.a., Eobanus"
+        ],
+        "en": [
+            "Adalarius; with him, i.a., Eoban"
+        ],
+        "pl": [
+            "Adalariusz; z nim, m.in. Eoban"
+        ]
+    },
+    "forenames": ["adelarius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["754-06-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["4:Iuni./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["4:Junii/5#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:iun./5#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71040",
+        "wiki": "https://pl.wikipedia.org/wiki/Eoban"
+    }
+}

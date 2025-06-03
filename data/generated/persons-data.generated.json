@@ -454,6 +454,25 @@
         ],
         "feasts": []
     },
+    "patrons/adelarius": {
+        "names": {
+            "la": "Adelarius",
+            "en": "Adalarius",
+            "pl": "Adalariusz"
+        }
+    },
+    "patrons/adelarius/eob": {
+        "active": true,
+        "names": {
+            "la": "Adelarius; cum eo, i.a., Eobanus",
+            "en": "Adalarius; with him, i.a., Eoban",
+            "pl": "Adalariusz; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/aegidius": {
         "names": {
             "la": "Aegidius",

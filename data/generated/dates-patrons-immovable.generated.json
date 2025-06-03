@@ -2009,6 +2009,19 @@
         }
     },
     "06-05": {
+        "records/patrons/adelarius/eob": {
+            "name": {
+                "la": "Adelarius; cum eo, i.a., Eobanus",
+                "en": "Adalarius; with him, i.a., Eoban",
+                "pl": "Adalariusz; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
         "records/patrons/bonifatius/win": {
             "name": {
                 "la": "Bonifatius Winfridus",

@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Adalariusz"
+    },
+    "translations": {
+        "la": [
+            "Adelarius"
+        ],
+        "en": [
+            "Adalarius"
+        ],
+        "pl": [
+            "Adalariusz"
+        ]
+    },
+    "links": {
+        "records/patrons/adelarius/eob": {
+            "la": "Adelarius; cum eo, i.a., Eobanus",
+            "en": "Adalarius; with him, i.a., Eoban",
+            "pl": "Adalariusz; z nim, m.in. Eoban"
+        }
+    }
+}
