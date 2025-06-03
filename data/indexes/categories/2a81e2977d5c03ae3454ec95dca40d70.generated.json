@@ -285,6 +285,11 @@
             "en": "Jury Kashyra",
             "la": "Georgius Kaszyra"
         },
+        "records/patrons/gualterius/eob": {
+            "la": "Gualterius; cum eo, i.a., Eobanus",
+            "en": "Walter; with him, i.a., Eoban",
+            "pl": "Walter; z nim, m.in. Eoban"
+        },
         "records/patrons/henricus/krz": {
             "pl": "Henryk Krzysztofik",
             "en": "Henry Krzysztofik",

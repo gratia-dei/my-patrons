@@ -2048,6 +2048,19 @@
                 "mr-2004": "5 VI: #6"
             }
         },
+        "records/patrons/gualterius/eob": {
+            "name": {
+                "la": "Gualterius; cum eo, i.a., Eobanus",
+                "en": "Walter; with him, i.a., Eoban",
+                "pl": "Walter; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
         "records/patrons/multi/bon": {
             "name": {
                 "la": "Alii Socii Bonifatii Winfridi",

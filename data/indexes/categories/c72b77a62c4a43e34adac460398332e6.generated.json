@@ -1048,6 +1048,11 @@
             "la": "Gregorius Nyssenus",
             "pl": "Grzegorz z Nyssy"
         },
+        "records/patrons/gualterius/eob": {
+            "la": "Gualterius; cum eo, i.a., Eobanus",
+            "en": "Walter; with him, i.a., Eoban",
+            "pl": "Walter; z nim, m.in. Eoban"
+        },
         "records/patrons/guido/con": {
             "it": "Guido Maria Conforti",
             "en": "Guido Maria Conforti",

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Walter",
+        "pl": "Walter"
+    },
+    "translations": {
+        "la": [
+            "Gualterius"
+        ],
+        "en": [
+            "Walter"
+        ],
+        "pl": [
+            "Walter"
+        ]
+    },
+    "links": {
+        "records/patrons/gualterius/eob": {
+            "la": "Gualterius; cum eo, i.a., Eobanus",
+            "en": "Walter; with him, i.a., Eoban",
+            "pl": "Walter; z nim, m.in. Eoban"
+        }
+    }
+}
