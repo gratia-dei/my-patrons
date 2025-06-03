@@ -465,7 +465,7 @@
         "active": true,
         "names": {
             "la": "Adelarius; cum eo, i.a., Eobanus",
-            "en": "Adalarius; with him, i.a., Eoban",
+            "en": "Adolar; with him, i.a., Eoban",
             "pl": "Adalariusz; z nim, m.in. Eoban"
         },
         "died": [
@@ -836,6 +836,25 @@
         },
         "died": [
             "397-04-04"
+        ],
+        "feasts": []
+    },
+    "patrons/amundus": {
+        "names": {
+            "la": "Amundus",
+            "en": "Amund",
+            "pl": "Hamund"
+        }
+    },
+    "patrons/amundus/eob": {
+        "active": true,
+        "names": {
+            "la": "Amundus; cum eo, i.a., Eobanus",
+            "en": "Amund; with him, i.a., Eoban",
+            "pl": "Hamund; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
         ],
         "feasts": []
     },

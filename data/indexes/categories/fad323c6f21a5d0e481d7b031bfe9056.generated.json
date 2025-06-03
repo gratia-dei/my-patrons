@@ -27,7 +27,7 @@
         },
         "records/patrons/adelarius/eob": {
             "la": "Adelarius; cum eo, i.a., Eobanus",
-            "en": "Adalarius; with him, i.a., Eoban",
+            "en": "Adolar; with him, i.a., Eoban",
             "pl": "Adalariusz; z nim, m.in. Eoban"
         },
         "records/patrons/aemilianus/kov": {
@@ -84,6 +84,11 @@
             "pl": "Alfons Maria Mazurek",
             "en": "Alphonsus Maria Mazurek",
             "la": "Alphonsus Maria Mazurek"
+        },
+        "records/patrons/amundus/eob": {
+            "la": "Amundus; cum eo, i.a., Eobanus",
+            "en": "Amund; with him, i.a., Eoban",
+            "pl": "Hamund; z nim, m.in. Eoban"
         },
         "records/patrons/anastasia/sir": {
             "la": "Anastasia Sirmiensis",

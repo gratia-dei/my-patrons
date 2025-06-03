@@ -2012,8 +2012,21 @@
         "records/patrons/adelarius/eob": {
             "name": {
                 "la": "Adelarius; cum eo, i.a., Eobanus",
-                "en": "Adalarius; with him, i.a., Eoban",
+                "en": "Adolar; with him, i.a., Eoban",
                 "pl": "Adalariusz; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
+        },
+        "records/patrons/amundus/eob": {
+            "name": {
+                "la": "Amundus; cum eo, i.a., Eobanus",
+                "en": "Amund; with him, i.a., Eoban",
+                "pl": "Hamund; z nim, m.in. Eoban"
             },
             "sources": {
                 "reliable-death-anniversary": "5 VI",

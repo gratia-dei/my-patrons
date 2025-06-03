@@ -1,17 +1,16 @@
 {
     "names": {
         "la": [
-            "Adelarius; cum eo, i.a., Eobanus"
+            "Amundus; cum eo, i.a., Eobanus"
         ],
         "en": [
-            "Adolar; with him, i.a., Eoban"
+            "Amund; with him, i.a., Eoban"
         ],
         "pl": [
-            "Adalariusz; z nim, m.in. Eoban",
-            "Adelher; z nim, m.in. Eoban"
+            "Hamund; z nim, m.in. Eoban"
         ]
     },
-    "forenames": ["adelarius"],
+    "forenames": ["amundus"],
     "surnames": null,
     "epithets": null,
 
@@ -23,22 +22,22 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["vir", "martyr"],
+    "categories": ["vir", "martyr", "diaconus"],
 
     "data-links": {
-        "mr-1584": ["4:Iuni./5#5"],
+        "mr-1584": ["7:Iuni./5#5"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["4:Junii/5#1"],
+        "mr-1956": ["7:Junii/5#1"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["2:iun./5#6"],
+        "mr-2004": ["5:iun./5#6"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/71040",
+        "gcatholic": null,
         "wiki": "https://pl.wikipedia.org/wiki/Eoban"
     }
 }

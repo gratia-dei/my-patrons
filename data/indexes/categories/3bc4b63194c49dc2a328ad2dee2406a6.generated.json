@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/amundus/eob": {
+            "la": "Amundus; cum eo, i.a., Eobanus",
+            "en": "Amund; with him, i.a., Eoban",
+            "pl": "Hamund; z nim, m.in. Eoban"
+        },
         "records/patrons/caesarius/tar": {
             "it": "Cesario di Terracina",
             "en": "Caesarius of Terracina",

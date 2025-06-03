@@ -44,7 +44,7 @@
         },
         "records/patrons/adelarius/eob": {
             "la": "Adelarius; cum eo, i.a., Eobanus",
-            "en": "Adalarius; with him, i.a., Eoban",
+            "en": "Adolar; with him, i.a., Eoban",
             "pl": "Adalariusz; z nim, m.in. Eoban"
         },
         "records/patrons/aegidius/abb": {
@@ -131,6 +131,11 @@
             "la": "Ambrosius Mediolanensis",
             "en": "Ambrose of Milan",
             "pl": "Ambroży z Mediolanu"
+        },
+        "records/patrons/amundus/eob": {
+            "la": "Amundus; cum eo, i.a., Eobanus",
+            "en": "Amund; with him, i.a., Eoban",
+            "pl": "Hamund; z nim, m.in. Eoban"
         },
         "records/patrons/anastasius/1pp": {
             "la": "Anastasius Pp. I",
