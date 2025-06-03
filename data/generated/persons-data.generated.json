@@ -10969,6 +10969,25 @@
         ],
         "feasts": []
     },
+    "patrons/vintrungus": {
+        "names": {
+            "la": "Vintrungus",
+            "en": "Vintrungus",
+            "pl": "Wintrug"
+        }
+    },
+    "patrons/vintrungus/eob": {
+        "active": true,
+        "names": {
+            "la": "Vintrungus; cum eo, i.a., Eobanus",
+            "en": "Vintrungus; with him, i.a., Eoban",
+            "pl": "Wintrug; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/virgilius": {
         "names": {
             "la": "Virgilius",

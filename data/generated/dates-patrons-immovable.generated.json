@@ -2059,6 +2059,19 @@
                 "mr-1584": "5 VI: #5",
                 "mr-1956": "5 VI: #1"
             }
+        },
+        "records/patrons/vintrungus/eob": {
+            "name": {
+                "la": "Vintrungus; cum eo, i.a., Eobanus",
+                "en": "Vintrungus; with him, i.a., Eoban",
+                "pl": "Wintrug; z nim, m.in. Eoban"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "mr-1584": "5 VI: #5",
+                "mr-1956": "5 VI: #1",
+                "mr-2004": "5 VI: #6"
+            }
         }
     },
     "06-06": {

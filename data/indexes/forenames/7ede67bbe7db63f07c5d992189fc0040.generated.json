@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Wintrug"
+    },
+    "translations": {
+        "la": [
+            "Vintrungus"
+        ],
+        "en": [
+            "Vintrungus"
+        ],
+        "pl": [
+            "Wintrug"
+        ]
+    },
+    "links": {
+        "records/patrons/vintrungus/eob": {
+            "la": "Vintrungus; cum eo, i.a., Eobanus",
+            "en": "Vintrungus; with him, i.a., Eoban",
+            "pl": "Wintrug; z nim, m.in. Eoban"
+        }
+    }
+}
