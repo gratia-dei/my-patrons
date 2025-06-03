@@ -2077,6 +2077,25 @@
         ],
         "feasts": []
     },
+    "patrons/bosa": {
+        "names": {
+            "la": "Bosa",
+            "en": "Bosa",
+            "pl": "Boza"
+        }
+    },
+    "patrons/bosa/eob": {
+        "active": true,
+        "names": {
+            "la": "Bosa; cum eo, i.a., Eobanus",
+            "en": "Bosa; with him, i.a., Eoban",
+            "pl": "Boza; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/bronislaus": {
         "names": {
             "la": "Bronislaus",

@@ -267,6 +267,11 @@
             "en": "Boniface Zukowski",
             "la": "Bonifatius Zukowski"
         },
+        "records/patrons/bosa/eob": {
+            "la": "Bosa; cum eo, i.a., Eobanus",
+            "en": "Bosa; with him, i.a., Eoban",
+            "pl": "Boza; z nim, m.in. Eoban"
+        },
         "records/patrons/bronislaus/kos": {
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",
