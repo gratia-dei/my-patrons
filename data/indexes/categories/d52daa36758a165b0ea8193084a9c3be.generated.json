@@ -52,6 +52,11 @@
             "en": "Leo I the Great",
             "pl": "Leon I Wielki"
         },
+        "records/patrons/sevibaldus/eob": {
+            "la": "Sevibaldus; cum eo, i.a., Eobanus",
+            "en": "Sevibaldus; with him, i.a., Eoban",
+            "pl": "Scirbald; z nim, m.in. Eoban"
+        },
         "records/patrons/stephanus/pro": {
             "el": "Στέφανος",
             "en": "Stephen Protomartyr",

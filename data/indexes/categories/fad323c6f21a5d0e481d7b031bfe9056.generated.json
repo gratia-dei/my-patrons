@@ -1442,6 +1442,11 @@
             "en": "Serapion of Algiers",
             "pl": "Serapion z Algieru"
         },
+        "records/patrons/sevibaldus/eob": {
+            "la": "Sevibaldus; cum eo, i.a., Eobanus",
+            "en": "Sevibaldus; with him, i.a., Eoban",
+            "pl": "Scirbald; z nim, m.in. Eoban"
+        },
         "records/patrons/silvanus/cae": {
             "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
             "en": "Silvanus of Caesarea; with him, i.a., Theotimus",

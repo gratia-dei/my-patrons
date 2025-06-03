@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Sevibaldus; cum eo, i.a., Eobanus"
+        ],
+        "en": [
+            "Sevibaldus; with him, i.a., Eoban"
+        ],
+        "pl": [
+            "Scirbald; z nim, m.in. Eoban"
+        ]
+    },
+    "forenames": ["sevibaldus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["754-06-05"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "diaconus"],
+
+    "data-links": {
+        "mr-1584": ["8:Iuni./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["8:Junii/5#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["6:iun./5#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Eoban"
+    }
+}

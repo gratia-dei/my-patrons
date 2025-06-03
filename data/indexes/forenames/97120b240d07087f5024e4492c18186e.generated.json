@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Scirbald"
+    },
+    "translations": {
+        "la": [
+            "Sevibaldus"
+        ],
+        "en": [
+            "Sevibaldus"
+        ],
+        "pl": [
+            "Scirbald"
+        ]
+    },
+    "links": {
+        "records/patrons/sevibaldus/eob": {
+            "la": "Sevibaldus; cum eo, i.a., Eobanus",
+            "en": "Sevibaldus; with him, i.a., Eoban",
+            "pl": "Scirbald; z nim, m.in. Eoban"
+        }
+    }
+}

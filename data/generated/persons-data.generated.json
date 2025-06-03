@@ -9888,6 +9888,25 @@
         ],
         "feasts": []
     },
+    "patrons/sevibaldus": {
+        "names": {
+            "la": "Sevibaldus",
+            "en": "Sevibaldus",
+            "pl": "Scirbald"
+        }
+    },
+    "patrons/sevibaldus/eob": {
+        "active": true,
+        "names": {
+            "la": "Sevibaldus; cum eo, i.a., Eobanus",
+            "en": "Sevibaldus; with him, i.a., Eoban",
+            "pl": "Scirbald; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/sibyllina": {
         "names": {
             "la": "Sibyllina",
