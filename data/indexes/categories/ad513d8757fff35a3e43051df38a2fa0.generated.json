@@ -631,6 +631,11 @@
             "en": "Walter; with him, i.a., Eoban",
             "pl": "Walter; z nim, m.in. Eoban"
         },
+        "records/patrons/gundecarus/eob": {
+            "la": "Gundecarus; cum eo, i.a., Eobanus",
+            "en": "Gundecarus; with him, i.a., Eoban",
+            "pl": "Gundekar; z nim, m.in. Eoban"
+        },
         "records/patrons/henricus/krz": {
             "pl": "Henryk Krzysztofik",
             "en": "Henry Krzysztofik",
