@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Wakkar"
+    },
+    "translations": {
+        "la": [
+            "Vaccarus"
+        ],
+        "en": [
+            "Vaccarus"
+        ],
+        "pl": [
+            "Wakkar"
+        ]
+    },
+    "links": {
+        "records/patrons/vaccarus/eob": {
+            "la": "Vaccarus; cum eo, i.a., Eobanus",
+            "en": "Vaccarus; with him, i.a., Eoban",
+            "pl": "Wakkar; z nim, m.in. Eoban"
+        }
+    }
+}

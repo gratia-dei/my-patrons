@@ -10844,6 +10844,25 @@
         ],
         "feasts": []
     },
+    "patrons/vaccarus": {
+        "names": {
+            "la": "Vaccarus",
+            "en": "Vaccarus",
+            "pl": "Wakkar"
+        }
+    },
+    "patrons/vaccarus/eob": {
+        "active": true,
+        "names": {
+            "la": "Vaccarus; cum eo, i.a., Eobanus",
+            "en": "Vaccarus; with him, i.a., Eoban",
+            "pl": "Wakkar; z nim, m.in. Eoban"
+        },
+        "died": [
+            "754-06-05"
+        ],
+        "feasts": []
+    },
     "patrons/valentinus": {
         "names": {
             "la": "Valentinus",

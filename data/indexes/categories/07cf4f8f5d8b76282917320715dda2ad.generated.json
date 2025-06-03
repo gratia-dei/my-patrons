@@ -2413,6 +2413,11 @@
             "en": "Urban II",
             "pl": "Urban II"
         },
+        "records/patrons/vaccarus/eob": {
+            "la": "Vaccarus; cum eo, i.a., Eobanus",
+            "en": "Vaccarus; with him, i.a., Eoban",
+            "pl": "Wakkar; z nim, m.in. Eoban"
+        },
         "records/patrons/valentinus/rom": {
             "en": "Valentine of Rome",
             "la": "Valentinus de Roma",
