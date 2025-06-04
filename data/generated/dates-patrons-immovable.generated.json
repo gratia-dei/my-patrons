@@ -2232,6 +2232,19 @@
                 "feast": "8 VI",
                 "mr-2004": "8 VI: #8"
             }
+        },
+        "records/patrons/nicolaus/ges": {
+            "name": {
+                "it": "Nicola da Gesturi",
+                "la": "Nicolaus de Gesturi",
+                "en": "Nicholas of Gesturi",
+                "pl": "Mikołaj z Gesturi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 VI",
+                "feast": "8 VI",
+                "mr-2004": "8 VI: #11"
+            }
         }
     },
     "06-13": {

@@ -1862,6 +1862,12 @@
             "la": "Nicolaus de Flue",
             "pl": "Mikołaj z Flüe"
         },
+        "records/patrons/nicolaus/ges": {
+            "it": "Nicola da Gesturi",
+            "la": "Nicolaus de Gesturi",
+            "en": "Nicholas of Gesturi",
+            "pl": "Mikołaj z Gesturi"
+        },
         "records/patrons/nicolaus/myr": {
             "el": "Νικόλαος",
             "la": "Nicolaus Myrensis",

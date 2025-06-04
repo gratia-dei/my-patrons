@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Medda"
+    },
+    "translations": {
+        "it": [
+            "Medda"
+        ]
+    },
+    "links": {
+        "records/patrons/nicolaus/ges": {
+            "it": "Nicola da Gesturi",
+            "la": "Nicolaus de Gesturi",
+            "en": "Nicholas of Gesturi",
+            "pl": "Mikołaj z Gesturi"
+        }
+    }
+}

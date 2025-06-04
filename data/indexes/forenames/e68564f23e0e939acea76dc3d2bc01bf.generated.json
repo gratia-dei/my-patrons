@@ -205,6 +205,12 @@
             "pl": "Jozafat Kuncewicz",
             "en": "Josaphat Kuntsevych",
             "la": "Iosaphat Kuncevicus"
+        },
+        "records/patrons/nicolaus/ges": {
+            "it": "Nicola da Gesturi",
+            "la": "Nicolaus de Gesturi",
+            "en": "Nicholas of Gesturi",
+            "pl": "Mikołaj z Gesturi"
         }
     }
 }
