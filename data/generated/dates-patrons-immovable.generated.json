@@ -2219,6 +2219,21 @@
             }
         }
     },
+    "06-08": {
+        "records/patrons/iacobus/ber": {
+            "name": {
+                "fr": "Jacques Berthieu",
+                "la": "Iacobus Berthieu",
+                "en": "James Berthieu",
+                "pl": "Jakub Berthieu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 VI",
+                "feast": "8 VI",
+                "mr-2004": "8 VI: #8"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {

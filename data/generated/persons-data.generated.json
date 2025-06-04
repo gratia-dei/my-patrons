@@ -4778,11 +4778,11 @@
         "feasts": []
     },
     "patrons/iacobus/ber": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jacques Berthieu",
-            "en": "James Berthieu",
             "la": "Iacobus Berthieu",
+            "en": "James Berthieu",
             "pl": "Jakub Berthieu"
         },
         "died": [
