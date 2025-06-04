@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Guz"
+    },
+    "translations": {
+        "pl": [
+            "Guz"
+        ]
+    },
+    "links": {
+        "records/patrons/innocentius/guz": {
+            "pl": "Innocenty Guz",
+            "la": "Innocentius Guz",
+            "en": "Innocent Guz"
+        }
+    }
+}

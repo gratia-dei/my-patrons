@@ -340,6 +340,11 @@
             "en": "Ignatius of Loyola",
             "pl": "Ignacy Loyola"
         },
+        "records/patrons/innocentius/guz": {
+            "pl": "Innocenty Guz",
+            "la": "Innocentius Guz",
+            "en": "Innocent Guz"
+        },
         "records/patrons/ioannes/bos": {
             "it": "Giovanni Bosco",
             "la": "Ioannes Bosco",

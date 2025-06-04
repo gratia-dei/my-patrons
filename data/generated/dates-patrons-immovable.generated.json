@@ -2179,6 +2179,18 @@
         }
     },
     "06-06": {
+        "records/patrons/innocentius/guz": {
+            "name": {
+                "pl": "Innocenty Guz",
+                "la": "Innocentius Guz",
+                "en": "Innocent Guz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VI",
+                "feast": "6 VI",
+                "mr-2004": "6 VI: #19"
+            }
+        },
         "records/patrons/norbertus/mag": {
             "name": {
                 "de": "Norbert von Xanten",

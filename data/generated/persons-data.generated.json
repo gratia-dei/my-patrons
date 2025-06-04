@@ -5006,6 +5006,25 @@
         ],
         "feasts": []
     },
+    "patrons/innocentius": {
+        "names": {
+            "la": "Innocentius",
+            "en": "Innocent",
+            "pl": "Innocenty"
+        }
+    },
+    "patrons/innocentius/guz": {
+        "active": true,
+        "names": {
+            "pl": "Innocenty Guz",
+            "la": "Innocentius Guz",
+            "en": "Innocent Guz"
+        },
+        "died": [
+            "1940-06-06"
+        ],
+        "feasts": []
+    },
     "patrons/ioachim": {
         "names": {
             "la": "Ioachim",
