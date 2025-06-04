@@ -2272,6 +2272,18 @@
             }
         }
     },
+    "06-10": {
+        "records/patrons/bogumilus/dob": {
+            "name": {
+                "pl": "Bogumił z Dobrowa",
+                "la": "Bogumilus de Dobrovia",
+                "en": "Bogumil of Dobrow"
+            },
+            "sources": {
+                "mr-2004": "10 VI: #4"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {

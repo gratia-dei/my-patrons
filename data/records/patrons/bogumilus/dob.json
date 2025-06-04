@@ -1,29 +1,44 @@
 {
-  "names": {
-    "pl":  [
-      "Bogumił z Dobrowa",
-      "Bogumił Leszczyc"
-    ],
-    "la": [
-      "Bogumilus Dobrovensis"
-    ],
-    "en": [
-      "Bogumil of Dobrow"
-    ]
-  },
+    "names": {
+        "pl":    [
+            "Bogumił z Dobrowa",
+            "Bogumił Leszczyc"
+        ],
+        "la": [
+            "Bogumilus de Dobrovia"
+        ],
+        "en": [
+            "Bogumil of Dobrow"
+        ]
+    },
+    "forenames": ["bogumilus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1135"],
-  "died": ["1182"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1925-05-27"
-  },
+    "born": ["~1135"],
+    "died": ["~1182"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["06-10"],
+    "categories": ["vir", "episcopus", "eremita"],
 
-  "forenames": ["bogumilus"],
-  "categories": ["vir", "episcopus", "eremita"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ecmc"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./10#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/29187",
+        "wiki": "https://pl.wikipedia.org/wiki/Bogumi%C5%82_z_Dobrowa"
+    }
 }

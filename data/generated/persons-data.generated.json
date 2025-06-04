@@ -1995,14 +1995,14 @@
         }
     },
     "patrons/bogumilus/dob": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Bogumił z Dobrowa",
-            "la": "Bogumilus Dobrovensis",
+            "la": "Bogumilus de Dobrovia",
             "en": "Bogumil of Dobrow"
         },
         "died": [
-            "1182"
+            "~1182"
         ],
         "feasts": []
     },
