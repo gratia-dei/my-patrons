@@ -244,6 +244,17 @@
         }
     },
     "02-01": {
+        "records/patrons/ephraem/syr": {
+            "name": {
+                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "la": "Ephraem Syrus",
+                "en": "Ephrem the Syrian",
+                "pl": "Efrem Syryjczyk"
+            },
+            "sources": {
+                "mr-1584": "1 II: #5"
+            }
+        },
         "records/patrons/tryphon/phr": {
             "name": {
                 "la": "Tryphon de Phrygia",
@@ -2247,6 +2258,20 @@
             }
         }
     },
+    "06-09": {
+        "records/patrons/ephraem/syr": {
+            "name": {
+                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "la": "Ephraem Syrus",
+                "en": "Ephrem the Syrian",
+                "pl": "Efrem Syryjczyk"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 VI",
+                "mr-2004": "9 VI: #1"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {
@@ -2272,6 +2297,19 @@
             },
             "sources": {
                 "feast": "17 VI"
+            }
+        }
+    },
+    "06-18": {
+        "records/patrons/ephraem/syr": {
+            "name": {
+                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "la": "Ephraem Syrus",
+                "en": "Ephrem the Syrian",
+                "pl": "Efrem Syryjczyk"
+            },
+            "sources": {
+                "mr-1956": "18 VI: #1"
             }
         }
     },

@@ -3486,14 +3486,15 @@
         }
     },
     "patrons/ephraem/syr": {
-        "active": false,
+        "active": true,
         "names": {
             "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
-            "en": "Ephrem the Syrian",
             "la": "Ephraem Syrus",
+            "en": "Ephrem the Syrian",
             "pl": "Efrem Syryjczyk"
         },
         "died": [
+            "373-06-09",
             "378-06-09"
         ],
         "feasts": []

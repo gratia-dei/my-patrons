@@ -1,32 +1,52 @@
 {
-  "names": {
-    "sy": [
-      "ܐܦܪܝܡ ܣܘܪܝܝܐ"
+    "names": {
+        "sy": [
+            "ܐܦܪܝܡ ܣܘܪܝܝܐ"
+        ],
+        "la": [
+            "Ephraem Syrus"
+        ],
+        "en": [
+            "Ephrem the Syrian"
+        ],
+        "pl": [
+            "Efrem Syryjczyk"
+        ]
+    },
+    "forenames": ["ephraem"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Cithara Spiritus Sancti",
+            "en": "Harp of the Holy Spirit",
+            "pl": "Harfa Ducha Świętego"
+        }
     ],
-    "en": [
-      "Ephrem the Syrian"
-    ],
-    "la": [
-      "Ephraem Syrus"
-    ],
-    "pl": [
-      "Efrem Syryjczyk"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Cithara Spiritus Sancti",
-      "en": "Harp of the Holy Spirit",
-      "pl": "Harfa Ducha Świętego"
+    "active": true,
+
+    "born": ["~305"],
+    "died": ["373-06-09", "378-06-09"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "diaconus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./1#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/18#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67022",
+        "wiki": "https://pl.wikipedia.org/wiki/Efrem_Syryjczyk"
     }
-  ],
-
-  "born": ["~305"],
-  "died": ["378-06-09"],
-
-  "also-in-martyrology": ["06-09", "06-18"],
-
-  "forenames": ["ephraem"],
-  "categories": ["vir", "confessor", "diaconus", "doctor-ecclesiae"]
 }

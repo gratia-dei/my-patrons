@@ -165,8 +165,8 @@
         },
         "records/patrons/ephraem/syr": {
             "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
-            "en": "Ephrem the Syrian",
             "la": "Ephraem Syrus",
+            "en": "Ephrem the Syrian",
             "pl": "Efrem Syryjczyk"
         },
         "records/patrons/franciscus/asi": {
