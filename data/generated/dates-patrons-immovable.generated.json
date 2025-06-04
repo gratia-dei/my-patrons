@@ -2284,6 +2284,20 @@
             }
         }
     },
+    "06-11": {
+        "records/patrons/barnabas/apo": {
+            "name": {
+                "la": "Barnabas Apostolus",
+                "en": "Barnabas the Apostle",
+                "pl": "Barnaba Apostoł"
+            },
+            "sources": {
+                "mr-1584": "11 VI: #1",
+                "mr-1956": "11 VI: #1",
+                "mr-2004": "11 VI: #1"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {

@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "the Apostle"
+    },
+    "translations": {
+        "la": [
+            "Apostolus"
+        ],
+        "en": [
+            "the Apostle"
+        ],
+        "pl": [
+            "Apostoł"
+        ]
+    },
+    "links": {
+        "records/patrons/barnabas/apo": {
+            "la": "Barnabas Apostolus",
+            "en": "Barnabas the Apostle",
+            "pl": "Barnaba Apostoł"
+        }
+    }
+}

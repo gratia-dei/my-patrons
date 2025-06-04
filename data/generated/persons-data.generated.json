@@ -1650,7 +1650,7 @@
         }
     },
     "patrons/barnabas/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Barnabas Apostolus",
             "en": "Barnabas the Apostle",
