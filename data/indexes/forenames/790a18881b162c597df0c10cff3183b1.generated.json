@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Eliseus"
+    },
+    "translations": {
+        "la": [
+            "Elisaeus",
+            "Eliseus"
+        ],
+        "en": [
+            "Elisha"
+        ],
+        "pl": [
+            "Elizeusz"
+        ],
+        "he": [
+            "‏אֱלִישָׁע"
+        ]
+    },
+    "links": {
+        "records/patrons/elisaeus/pro": {
+            "he": "‏אֱלִישָׁע",
+            "la": "Elisaeus, propheta",
+            "en": "Elisha, prophet",
+            "pl": "Elizeusz, prorok"
+        }
+    }
+}

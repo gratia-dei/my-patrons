@@ -2329,6 +2329,21 @@
             }
         }
     },
+    "06-14": {
+        "records/patrons/elisaeus/pro": {
+            "name": {
+                "he": "‏אֱלִישָׁע",
+                "la": "Elisaeus, propheta",
+                "en": "Elisha, prophet",
+                "pl": "Elizeusz, prorok"
+            },
+            "sources": {
+                "mr-1584": "14 VI: #2",
+                "mr-1956": "14 VI: #2",
+                "mr-2004": "14 VI: #1"
+            }
+        }
+    },
     "06-17": {
         "records/patrons/albertus/chm": {
             "name": {

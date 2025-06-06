@@ -3398,6 +3398,27 @@
         ],
         "feasts": []
     },
+    "patrons/elisaeus": {
+        "names": {
+            "la": "Elisaeus",
+            "en": "Elisha",
+            "pl": "Elizeusz",
+            "he": "‏אֱלִישָׁע"
+        }
+    },
+    "patrons/elisaeus/pro": {
+        "active": true,
+        "names": {
+            "he": "‏אֱלִישָׁע",
+            "la": "Elisaeus, propheta",
+            "en": "Elisha, prophet",
+            "pl": "Elizeusz, prorok"
+        },
+        "died": [
+            "~-800"
+        ],
+        "feasts": []
+    },
     "patrons/ellurus": {
         "names": {
             "la": "Ellurus",
