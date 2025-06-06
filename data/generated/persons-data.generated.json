@@ -4040,7 +4040,7 @@
         }
     },
     "patrons/gaspar/ber": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Gaspare Bertoni",
             "la": "Gaspar Bertoni",
@@ -4048,7 +4048,6 @@
             "pl": "Kasper Bertoni"
         },
         "died": [
-            "1843-06-12",
             "1853-06-12"
         ],
         "feasts": []

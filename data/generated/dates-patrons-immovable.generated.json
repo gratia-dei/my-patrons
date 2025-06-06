@@ -2298,6 +2298,21 @@
             }
         }
     },
+    "06-12": {
+        "records/patrons/gaspar/ber": {
+            "name": {
+                "it": "Gaspare Bertoni",
+                "la": "Gaspar Bertoni",
+                "en": "Casper Bertoni",
+                "pl": "Kasper Bertoni"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 VI",
+                "feast": "12 VI",
+                "mr-2004": "12 VI: #9"
+            }
+        }
+    },
     "06-13": {
         "records/patrons/antonius/pat": {
             "name": {
