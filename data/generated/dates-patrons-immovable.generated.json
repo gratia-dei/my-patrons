@@ -1183,6 +1183,16 @@
             "sources": {
                 "reliable-death-anniversary": "24 III"
             }
+        },
+        "records/patrons/gabriel/arc": {
+            "name": {
+                "la": "Gabriel Archangelus",
+                "en": "Archangel Gabriel",
+                "pl": "Gabriel Archanioł"
+            },
+            "sources": {
+                "mr-1956": "24 III: #1"
+            }
         }
     },
     "03-25": {
@@ -3893,6 +3903,38 @@
                 "reliable-death-anniversary": "29 IX",
                 "mr-2004": "29 IX: #14"
             }
+        },
+        "records/patrons/michael/arc": {
+            "name": {
+                "la": "Michael Archangelus",
+                "en": "Archangel Michael",
+                "pl": "Michał Archanioł"
+            },
+            "sources": {
+                "mr-1584": "29 IX: #1",
+                "mr-1956": "29 IX: #1",
+                "mr-2004": "29 IX: #1"
+            }
+        },
+        "records/patrons/gabriel/arc": {
+            "name": {
+                "la": "Gabriel Archangelus",
+                "en": "Archangel Gabriel",
+                "pl": "Gabriel Archanioł"
+            },
+            "sources": {
+                "mr-2004": "29 IX: #1"
+            }
+        },
+        "records/patrons/raphael/arc": {
+            "name": {
+                "la": "Raphael Archangelus",
+                "en": "Archangel Raphael",
+                "pl": "Rafał Archanioł"
+            },
+            "sources": {
+                "mr-2004": "29 IX: #1"
+            }
         }
     },
     "10-02": {
@@ -4395,6 +4437,18 @@
                 "feast": "23 X",
                 "mr-1956": "23 X: #1",
                 "mr-2004": "23 X: #1"
+            }
+        }
+    },
+    "10-24": {
+        "records/patrons/raphael/arc": {
+            "name": {
+                "la": "Raphael Archangelus",
+                "en": "Archangel Raphael",
+                "pl": "Rafał Archanioł"
+            },
+            "sources": {
+                "mr-1956": "24 X: #1"
             }
         }
     },

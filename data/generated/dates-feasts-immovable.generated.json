@@ -409,6 +409,19 @@
             }
         }
     },
+    "05-08": {
+        "records/patrons/michael/arc#ama": {
+            "name": {
+                "la": "Michael Archangelus (Apparitio Michaelis Archangeli in monte Gargano)",
+                "pl": "Michał Archanioł (Objawienie Michała Archanioła na górze Gargano)"
+            },
+            "sources": {
+                "mr-1584": "8 V: #1",
+                "mr-1956": "8 V: #1",
+                "mr-1956-variations": "8 V: #11-ab-1960-07-26"
+            }
+        }
+    },
     "05-09": {
         "records/patrons/andreas/apo#trc": {
             "name": {
@@ -886,6 +899,19 @@
             "sources": {
                 "mr-1956": "24 IX: #1",
                 "mr-1956-variations": "24 IX: #1-ab-1960-07-26"
+            }
+        }
+    },
+    "09-29": {
+        "records/patrons/michael/arc#dma": {
+            "name": {
+                "la": "Michael Archangelus (Dedicatio Basilicae Sancti Michaelis in monte Gargano)",
+                "pl": "Michał Archanioł (Poświęcenie Bazyliki Świętego Michała na górze Gargano)"
+            },
+            "sources": {
+                "mr-1584": "29 IX: #1",
+                "mr-1956": "29 IX: #1",
+                "mr-2004": "29 IX: #1"
             }
         }
     },

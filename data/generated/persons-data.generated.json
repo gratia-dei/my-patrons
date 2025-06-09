@@ -4015,7 +4015,7 @@
         }
     },
     "patrons/gabriel/arc": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Gabriel Archangelus",
             "en": "Archangel Gabriel",
@@ -8051,7 +8051,7 @@
         }
     },
     "patrons/michael/arc": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Michael Archangelus",
             "en": "Archangel Michael",
@@ -8060,7 +8060,22 @@
         "died": [
             "-"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/ama": {
+                "active": true,
+                "names": {
+                    "la": "Apparitio Michaelis Archangeli in monte Gargano",
+                    "pl": "Objawienie Michała Archanioła na górze Gargano"
+                }
+            },
+            "feasts/dma": {
+                "active": true,
+                "names": {
+                    "la": "Dedicatio Basilicae Sancti Michaelis in monte Gargano",
+                    "pl": "Poświęcenie Bazyliki Świętego Michała na górze Gargano"
+                }
+            }
+        }
     },
     "patrons/michael/koz": {
         "active": false,
@@ -9296,7 +9311,7 @@
         }
     },
     "patrons/raphael/arc": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Raphael Archangelus",
             "en": "Archangel Raphael",

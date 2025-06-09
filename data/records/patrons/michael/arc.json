@@ -1,21 +1,71 @@
 {
-  "names": {
-    "la": [
-      "Michael Archangelus"
-    ],
-    "en": [
-      "Archangel Michael"
-    ],
-    "pl": [
-      "Michał Archanioł"
-    ]
-  },
+    "names": {
+        "la": [
+            "Michael Archangelus"
+        ],
+        "en": [
+            "Archangel Michael"
+        ],
+        "pl": [
+            "Michał Archanioł"
+        ]
+    },
+    "forenames": ["michael"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["-"],
-  "died": ["-"],
+    "active": true,
 
-  "also-in-martyrology": ["09-29"],
+    "born": ["-"],
+    "died": ["-"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["michael"],
-  "categories": ["archangelus"]
+    "categories": ["archangelus"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./29#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/29#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./29#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "ama": {
+            "data-links": {
+                "mr-1584": ["1:Mai./8#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/8#1"],
+                "mr-1956-variations": ["1:Maji/8#1-ab-1960-07-26", "1:Maji/8#11-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+        "dma": {
+            "data-links": {
+                "mr-1584": ["2:Sept./29#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Septembris/29#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": ["4:sept./29#1"],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Archanio%C5%82_Micha%C5%82"
+    }
 }

@@ -1,5 +1,11 @@
 {
     "data-links": {
+        "1": {
+            "1": "records/patrons/michael/arc",
+            "2": "records/patrons/gabriel/arc",
+            "3": "records/patrons/raphael/arc",
+            "4": "records/patrons/michael/arc#dma"
+        },
         "14": {
             "1": "records/patrons/renatus/gou"
         }
