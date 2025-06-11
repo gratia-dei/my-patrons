@@ -1,38 +1,53 @@
 {
-  "names": {
-    "de": [
-      "Maria Theresia Scherer"
+    "names": {
+        "de": [
+            "Maria Theresia Scherer"
+        ],
+        "la": [
+            "Maria Theresia Scherer"
+        ],
+        "en": [
+            "Maria Therese Scherer"
+        ],
+        "pl": [
+            "Maria Teresa Scherer"
+        ]
+    },
+    "forenames": ["maria", "teresia", "anna", "catharina"],
+    "surnames": [
+        {
+            "de": "Scherer"
+        }
     ],
-    "en": [
-      "Maria Therese Scherer"
-    ],
-    "la": [
-      "Maria Theresia Scherer"
-    ],
-    "pl": [
-      "Maria Teresa Scherer"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "de": "Scherer"
+    "active": true,
+
+    "born": ["1825-10-31"],
+    "died": ["1888-06-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1995-10-29"
+    },
+    "canonized": null,
+    "anniversary": ["06-16"],
+
+    "categories": ["femina", "virgo", "gubernator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./16#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-theresia-scherer.html",
+        "gcatholic": "https://gcatholic.org/p/67997",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Teresa_Scherer"
     }
-  ],
-
-  "born": ["1825-10-31"],
-  "died": ["1888-06-16"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1995-10-29"
-  },
-
-  "also-in-martyrology": ["06-16"],
-
-  "forenames": ["maria", "teresia", "anna", "catharina"],
-  "categories": ["femina", "virgo", "gubernator"],
-
-  "order": ["scsc"],
-  "order-founder": ["scsc"]
 }

@@ -2381,6 +2381,21 @@
             }
         }
     },
+    "06-16": {
+        "records/patrons/maria/sch": {
+            "name": {
+                "de": "Maria Theresia Scherer",
+                "la": "Maria Theresia Scherer",
+                "en": "Maria Therese Scherer",
+                "pl": "Maria Teresa Scherer"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 VI",
+                "feast": "16 VI",
+                "mr-2004": "16 VI: #13"
+            }
+        }
+    },
     "06-17": {
         "records/patrons/albertus/chm": {
             "name": {

@@ -31,8 +31,8 @@
     "links": {
         "records/patrons/maria/sch": {
             "de": "Maria Theresia Scherer",
-            "en": "Maria Therese Scherer",
             "la": "Maria Theresia Scherer",
+            "en": "Maria Therese Scherer",
             "pl": "Maria Teresa Scherer"
         },
         "records/patrons/maria/wul": {
