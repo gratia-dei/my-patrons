@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/amos/pro": {
+            "he": "עמוס",
+            "la": "Amos, propheta",
+            "en": "Amos, prophet",
+            "pl": "Amos, prorok"
+        },
         "records/patrons/david/rex": {
             "he": "דָּוִד בֶּן יִשַׁי",
             "la": "David, rex",

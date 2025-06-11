@@ -1,0 +1,27 @@
+{
+    "names": {
+        "he": "עמוס"
+    },
+    "translations": {
+        "la": [
+            "Amos"
+        ],
+        "en": [
+            "Amos"
+        ],
+        "pl": [
+            "Amos"
+        ],
+        "he": [
+            "עמוס"
+        ]
+    },
+    "links": {
+        "records/patrons/amos/pro": {
+            "he": "עמוס",
+            "la": "Amos, propheta",
+            "en": "Amos, prophet",
+            "pl": "Amos, prorok"
+        }
+    }
+}

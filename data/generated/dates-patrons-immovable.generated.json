@@ -1309,6 +1309,20 @@
             }
         }
     },
+    "03-31": {
+        "records/patrons/amos/pro": {
+            "name": {
+                "he": "עמוס",
+                "la": "Amos, propheta",
+                "en": "Amos, prophet",
+                "pl": "Amos, prorok"
+            },
+            "sources": {
+                "mr-1584": "31 III: #1",
+                "mr-1956": "31 III: #1"
+            }
+        }
+    },
     "04-02": {
         "records/patrons/ioannes/p2p": {
             "name": {
@@ -2351,6 +2365,19 @@
                 "mr-1584": "14 VI: #2",
                 "mr-1956": "14 VI: #2",
                 "mr-2004": "14 VI: #1"
+            }
+        }
+    },
+    "06-15": {
+        "records/patrons/amos/pro": {
+            "name": {
+                "he": "עמוס",
+                "la": "Amos, propheta",
+                "en": "Amos, prophet",
+                "pl": "Amos, prorok"
+            },
+            "sources": {
+                "mr-2004": "15 VI: #1"
             }
         }
     },

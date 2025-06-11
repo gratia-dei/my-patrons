@@ -132,6 +132,12 @@
             "en": "Ambrose of Milan",
             "pl": "Ambroży z Mediolanu"
         },
+        "records/patrons/amos/pro": {
+            "he": "עמוס",
+            "la": "Amos, propheta",
+            "en": "Amos, prophet",
+            "pl": "Amos, prorok"
+        },
         "records/patrons/amundus/eob": {
             "la": "Amundus; cum eo, i.a., Eobanus",
             "en": "Amund; with him, i.a., Eoban",

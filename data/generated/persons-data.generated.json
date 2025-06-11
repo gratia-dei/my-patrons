@@ -839,6 +839,28 @@
         ],
         "feasts": []
     },
+    "patrons/amos": {
+        "names": {
+            "la": "Amos",
+            "en": "Amos",
+            "pl": "Amos",
+            "he": "עמוס"
+        }
+    },
+    "patrons/amos/pro": {
+        "active": true,
+        "names": {
+            "he": "עמוס",
+            "la": "Amos, propheta",
+            "en": "Amos, prophet",
+            "pl": "Amos, prorok"
+        },
+        "died": [
+            ">-800",
+            "<-701"
+        ],
+        "feasts": []
+    },
     "patrons/amundus": {
         "names": {
             "la": "Amundus",
