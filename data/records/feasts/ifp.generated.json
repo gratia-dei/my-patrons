@@ -14,6 +14,11 @@
             "la": "Marcus; cum eo, i.a., Marcellianus",
             "en": "Mark; with him, i.a., Marcellian",
             "pl": "Marek; z nim, m.in., Marcelian"
+        },
+        "records/patrons/tranquillinus/rom": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
         }
     }
 }

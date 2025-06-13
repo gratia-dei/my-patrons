@@ -735,6 +735,11 @@
             "la": "Thomas Holland",
             "pl": "Tomasz Holland"
         },
+        "records/patrons/tranquillinus/rom": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
+        },
         "records/patrons/valentinus/rom": {
             "en": "Valentine of Rome",
             "la": "Valentinus de Roma",

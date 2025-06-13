@@ -3753,7 +3753,7 @@
                 "active": true,
                 "names": {
                     "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
-                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwiliniusza prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
+                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
                 }
             }
         }
@@ -6927,7 +6927,7 @@
                 "active": true,
                 "names": {
                     "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
-                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwiliniusza prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
+                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
                 }
             }
         }
@@ -7044,7 +7044,7 @@
                 "active": true,
                 "names": {
                     "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
-                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwiliniusza prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
+                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
                 }
             }
         }
@@ -10945,6 +10945,34 @@
             "~96"
         ],
         "feasts": []
+    },
+    "patrons/tranquillinus": {
+        "names": {
+            "la": "Tranquillinus",
+            "en": "Tranquillinus",
+            "pl": "Trankwilin"
+        }
+    },
+    "patrons/tranquillinus/rom": {
+        "active": true,
+        "names": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
+        },
+        "died": [
+            "~288",
+            "~304"
+        ],
+        "feasts": {
+            "feasts/ifp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
+                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
+                }
+            }
+        }
     },
     "patrons/tryphon": {
         "names": {

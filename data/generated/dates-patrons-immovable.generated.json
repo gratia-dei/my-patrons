@@ -2556,6 +2556,19 @@
             }
         }
     },
+    "07-06": {
+        "records/patrons/tranquillinus/rom": {
+            "name": {
+                "la": "Tranquillinus de Romae",
+                "en": "Tranquillinus of Rome",
+                "pl": "Trankwilin z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "6 VII: #3",
+                "mr-1956": "6 VII: #4"
+            }
+        }
+    },
     "07-13": {
         "records/patrons/emmanuel/lev": {
             "name": {

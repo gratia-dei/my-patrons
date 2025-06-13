@@ -1632,6 +1632,11 @@
             "en": "Timothy of Ephesus",
             "pl": "Tymoteusz z Efezu"
         },
+        "records/patrons/tranquillinus/rom": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
+        },
         "records/patrons/tryphon/phr": {
             "la": "Tryphon de Phrygia",
             "en": "Tryphon of Phrygia",

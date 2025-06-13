@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Trankwilin"
+    },
+    "translations": {
+        "la": [
+            "Tranquillinus"
+        ],
+        "en": [
+            "Tranquillinus"
+        ],
+        "pl": [
+            "Trankwilin"
+        ]
+    },
+    "links": {
+        "records/patrons/tranquillinus/rom": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
+        }
+    }
+}

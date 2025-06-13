@@ -2440,6 +2440,11 @@
             "en": "Titus of Crete",
             "pl": "Tytus z Krety"
         },
+        "records/patrons/tranquillinus/rom": {
+            "la": "Tranquillinus de Romae",
+            "en": "Tranquillinus of Rome",
+            "pl": "Trankwilin z Rzymu"
+        },
         "records/patrons/tryphon/phr": {
             "la": "Tryphon de Phrygia",
             "en": "Tryphon of Phrygia",
