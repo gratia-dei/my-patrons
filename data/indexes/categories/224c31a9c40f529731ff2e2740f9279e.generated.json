@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "(anti)papa"
+    },
+    "translations": {
+        "la": [
+            "(anti)papa"
+        ],
+        "en": [
+            "(anti)pope"
+        ],
+        "pl": [
+            "(anty)papież"
+        ]
+    },
+    "links": {
+        "records/patrons/felix/2ap": {
+            "la": "Felix II, antipapa",
+            "en": "Felix II, antipope",
+            "pl": "Feliks II, antypapież"
+        }
+    }
+}

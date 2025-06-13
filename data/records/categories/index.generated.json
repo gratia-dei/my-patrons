@@ -29,6 +29,11 @@
         "en": "angel",
         "pl": "anioł"
     },
+    "antipapa": {
+        "la": "(anti)papa",
+        "en": "(anti)pope",
+        "pl": "(anty)papież"
+    },
     "apostolus": {
         "la": "apostolus",
         "en": "apostle",

@@ -673,6 +673,16 @@
         }
     },
     "07-29": {
+        "records/patrons/felix/2ap#ifp": {
+            "name": {
+                "la": "Felix II, antipapa (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "pl": "Feliks II, antypapież (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwiliniusza prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #2",
+                "mr-1956": "29 VII: #2"
+            }
+        },
         "records/patrons/marcus/mar#ifp": {
             "name": {
                 "la": "Marcus; cum eo, i.a., Marcellianus (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",

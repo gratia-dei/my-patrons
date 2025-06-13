@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/felix/2ap": {
+            "la": "Felix II, antipapa",
+            "en": "Felix II, antipope",
+            "pl": "Feliks II, antypapież"
+        },
         "records/patrons/gregorius/2pp": {
             "la": "Gregorius II",
             "en": "Gregory II",

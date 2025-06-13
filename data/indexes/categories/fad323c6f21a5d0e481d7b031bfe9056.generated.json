@@ -547,6 +547,11 @@
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
         },
+        "records/patrons/felix/2ap": {
+            "la": "Felix II, antipapa",
+            "en": "Felix II, antipope",
+            "pl": "Feliks II, antypapież"
+        },
         "records/patrons/felix/aqu": {
             "it": "Felice da Aquileia",
             "la": "Felix de Aquileia",

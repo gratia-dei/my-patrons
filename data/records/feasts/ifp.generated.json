@@ -1,5 +1,10 @@
 {
     "links": {
+        "records/patrons/felix/2ap": {
+            "la": "Felix II, antipapa",
+            "en": "Felix II, antipope",
+            "pl": "Feliks II, antypapież"
+        },
         "records/patrons/marcellianus/mar": {
             "la": "Marcellianus; cum eo, i.a., Marcus",
             "en": "Marcellian; with him, i.a., Mark",

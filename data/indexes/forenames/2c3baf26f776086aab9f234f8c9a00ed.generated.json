@@ -18,6 +18,11 @@
         ]
     },
     "links": {
+        "records/patrons/felix/2ap": {
+            "la": "Felix II, antipapa",
+            "en": "Felix II, antipope",
+            "pl": "Feliks II, antypapież"
+        },
         "records/patrons/felix/3pp": {
             "la": "Felix III",
             "en": "Felix III",

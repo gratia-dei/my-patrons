@@ -1,0 +1,66 @@
+{
+    "names": {
+        "la": [
+            "Felix II, antipapa"
+        ],
+        "en": [
+            "Felix II, antipope"
+        ],
+        "pl": [
+            "Feliks II, antypapież"
+        ]
+    },
+    "forenames": ["felix"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Secundus",
+            "en": "the Second",
+            "pl": "Drugi"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["365-11-22"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "antipapa"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./29#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/29#2"],
+        "mr-1956-variations": ["1:Julii/29#2-ab-1960-07-26"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "ifp": {
+            "data-links": {
+                "mr-1584": ["2:Iul./29#2"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["2:Julii/29#2"],
+                "mr-1956-variations": ["2:Julii/29#2-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/antipope-FL2",
+        "wiki": "https://pl.wikipedia.org/wiki/Feliks_II"
+    }
+}

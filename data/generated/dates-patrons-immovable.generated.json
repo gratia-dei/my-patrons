@@ -2824,6 +2824,17 @@
         }
     },
     "07-29": {
+        "records/patrons/felix/2ap": {
+            "name": {
+                "la": "Felix II, antipapa",
+                "en": "Felix II, antipope",
+                "pl": "Feliks II, antypapież"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #2",
+                "mr-1956": "29 VII: #2"
+            }
+        },
         "records/patrons/martha/laz": {
             "name": {
                 "la": "Martha Bethaniae",
@@ -4892,6 +4903,18 @@
                 "reliable-death-anniversary": "18 XI",
                 "feast": "18 XI",
                 "mr-2004": "18 XI: #11"
+            }
+        }
+    },
+    "11-22": {
+        "records/patrons/felix/2ap": {
+            "name": {
+                "la": "Felix II, antipapa",
+                "en": "Felix II, antipope",
+                "pl": "Feliks II, antypapież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 XI"
             }
         }
     },
