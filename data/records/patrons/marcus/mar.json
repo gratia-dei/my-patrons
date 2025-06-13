@@ -1,20 +1,59 @@
 {
-  "names": {
-    "la": [
-      "Marcus /+ Marcellianus"
-    ],
-    "en": [
-      "Mark /+ Marcellian"
-    ],
-    "pl": [
-      "Marek /+ Marcelianus"
-    ]
-  },
+    "names": {
+        "la": [
+            "Marcus; cum eo, i.a., Marcellianus"
+        ],
+        "en": [
+            "Mark; with him, i.a., Marcellian"
+        ],
+        "pl": [
+            "Marek; z nim, m.in., Marcelian"
+        ]
+    },
+    "forenames": ["marcus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~304"],
+    "active": true,
 
-  "also-in-martyrology": ["06-18"],
+    "born": null,
+    "died": ["~286", "~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["marcus"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./18#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/18#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./18#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "ifp": {
+            "data-links": {
+                "mr-1584": ["3:Iul./29#2"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["3:Julii/29#2"],
+                "mr-1956-variations": ["3:Julii/29#2-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72525",
+        "wiki": "https://en.wikipedia.org/wiki/Mark_and_Marcellian"
+    }
 }

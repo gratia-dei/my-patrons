@@ -1716,9 +1716,9 @@
             "pl": "Marek z Jerozolimy"
         },
         "records/patrons/marcus/mar": {
-            "la": "Marcus /+ Marcellianus",
-            "en": "Mark /+ Marcellian",
-            "pl": "Marek /+ Marcelianus"
+            "la": "Marcus; cum eo, i.a., Marcellianus",
+            "en": "Mark; with him, i.a., Marcellian",
+            "pl": "Marek; z nim, m.in., Marcelian"
         },
         "records/patrons/marianus/gor": {
             "pl": "Marian Górecki",

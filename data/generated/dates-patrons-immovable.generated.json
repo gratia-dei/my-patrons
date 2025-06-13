@@ -2409,6 +2409,18 @@
         }
     },
     "06-18": {
+        "records/patrons/marcus/mar": {
+            "name": {
+                "la": "Marcus; cum eo, i.a., Marcellianus",
+                "en": "Mark; with him, i.a., Marcellian",
+                "pl": "Marek; z nim, m.in., Marcelian"
+            },
+            "sources": {
+                "mr-1584": "18 VI: #1",
+                "mr-1956": "18 VI: #2",
+                "mr-2004": "18 VI: #1"
+            }
+        },
         "records/patrons/ephraem/syr": {
             "name": {
                 "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
