@@ -1008,6 +1008,11 @@
             "en": "Magdalene Yi Yŏng-hŭi",
             "pl": "Magdalena Yi Yŏng-hŭi"
         },
+        "records/patrons/marcellianus/mar": {
+            "la": "Marcellianus; cum eo, i.a., Marcus",
+            "en": "Marcellian; with him, i.a., Mark",
+            "pl": "Marcelian; z nim, m.in., Marek"
+        },
         "records/patrons/marcellinus/1pp": {
             "la": "Marcellinus Papa",
             "en": "Pope Marcellinus",

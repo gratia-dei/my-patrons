@@ -1,14 +1,23 @@
 {
+    "names": {
+        "en": "Marcellian"
+    },
+    "translations": {
+        "la": [
+            "Marcellianus"
+        ],
+        "en": [
+            "Marcellian"
+        ],
+        "pl": [
+            "Marcelian"
+        ]
+    },
     "links": {
         "records/patrons/marcellianus/mar": {
             "la": "Marcellianus; cum eo, i.a., Marcus",
             "en": "Marcellian; with him, i.a., Mark",
             "pl": "Marcelian; z nim, m.in., Marek"
-        },
-        "records/patrons/marcus/mar": {
-            "la": "Marcus; cum eo, i.a., Marcellianus",
-            "en": "Mark; with him, i.a., Marcellian",
-            "pl": "Marek; z nim, m.in., Marcelian"
         }
     }
 }
