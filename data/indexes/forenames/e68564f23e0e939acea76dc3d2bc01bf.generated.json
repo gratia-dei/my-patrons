@@ -49,6 +49,11 @@
             "en": "John XXIII",
             "pl": "Jan XXIII"
         },
+        "records/patrons/ioannes/abu": {
+            "la": "Ioannes; cum eo, i.a., Abundius",
+            "en": "John; with him, i.a., Abundius",
+            "pl": "Jan; z nim, m.in., Abundiusz"
+        },
         "records/patrons/ioannes/bap": {
             "he": "יוחנן המטביל",
             "la": "Ioannes Baptista",
