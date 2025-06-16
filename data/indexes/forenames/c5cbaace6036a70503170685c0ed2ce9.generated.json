@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Abundius",
+        "en": "Abundius"
+    },
+    "translations": {
+        "la": [
+            "Abundius"
+        ],
+        "en": [
+            "Abundius"
+        ],
+        "pl": [
+            "Abundiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/abundius/lat": {
+            "la": "Abundius de Latium",
+            "en": "Abundius of Latium",
+            "pl": "Abundiusz z Lacjum"
+        }
+    }
+}

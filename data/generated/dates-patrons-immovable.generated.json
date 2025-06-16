@@ -3448,6 +3448,29 @@
                 "reliable-death-anniversary": "16 IX",
                 "mr-1956": "16 IX: #4"
             }
+        },
+        "records/patrons/abundius/lat": {
+            "name": {
+                "la": "Abundius de Latium",
+                "en": "Abundius of Latium",
+                "pl": "Abundiusz z Lacjum"
+            },
+            "sources": {
+                "mr-1584": "16 IX: #3",
+                "mr-1956": "16 IX: #7",
+                "mr-2004": "16 IX: #3"
+            }
+        },
+        "records/patrons/agnes/mon": {
+            "name": {
+                "it": "Agnese di Montepulciano",
+                "la": "Agnes de Monte Politiano",
+                "en": "Agnes of Montepulciano",
+                "pl": "Agnieszka z Montepulciano"
+            },
+            "sources": {
+                "mr-1584": "16 IX: #8"
+            }
         }
     },
     "09-18": {

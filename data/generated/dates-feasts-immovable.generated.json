@@ -712,6 +712,16 @@
                 "mr-1584": "29 VII: #2",
                 "mr-1956": "29 VII: #2"
             }
+        },
+        "records/patrons/abundius/lat#ifp": {
+            "name": {
+                "la": "Abundius de Latium (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "pl": "Abundiusz z Lacjum (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #2",
+                "mr-1956": "29 VII: #2"
+            }
         }
     },
     "08-01": {
