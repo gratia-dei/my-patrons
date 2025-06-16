@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Marcjan"
+    },
+    "translations": {
+        "la": [
+            "Marcianus"
+        ],
+        "en": [
+            "Marcian"
+        ],
+        "pl": [
+            "Marcjan"
+        ]
+    },
+    "links": {
+        "records/patrons/marcianus/abu": {
+            "la": "Marcianus; cum eo, i.a., Abundius",
+            "en": "Marcian; with him, i.a., Abundius",
+            "pl": "Marcjan; z nim, m.in., Abundiusz"
+        }
+    }
+}

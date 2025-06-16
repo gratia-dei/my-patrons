@@ -3473,6 +3473,18 @@
                 "mr-2004": "16 IX: #3"
             }
         },
+        "records/patrons/marcianus/abu": {
+            "name": {
+                "la": "Marcianus; cum eo, i.a., Abundius",
+                "en": "Marcian; with him, i.a., Abundius",
+                "pl": "Marcjan; z nim, m.in., Abundiusz"
+            },
+            "sources": {
+                "mr-1584": "16 IX: #3",
+                "mr-1956": "16 IX: #7",
+                "mr-2004": "16 IX: #3"
+            }
+        },
         "records/patrons/agnes/mon": {
             "name": {
                 "it": "Agnese di Montepulciano",

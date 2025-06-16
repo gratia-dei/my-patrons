@@ -7043,6 +7043,25 @@
         ],
         "feasts": []
     },
+    "patrons/marcianus": {
+        "names": {
+            "la": "Marcianus",
+            "en": "Marcian",
+            "pl": "Marcjan"
+        }
+    },
+    "patrons/marcianus/abu": {
+        "active": true,
+        "names": {
+            "la": "Marcianus; cum eo, i.a., Abundius",
+            "en": "Marcian; with him, i.a., Abundius",
+            "pl": "Marcjan; z nim, m.in., Abundiusz"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": []
+    },
     "patrons/marcus": {
         "names": {
             "la": "Marcus",

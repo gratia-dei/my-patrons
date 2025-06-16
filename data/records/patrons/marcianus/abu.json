@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Marcianus; cum eo, i.a., Abundius"
+        ],
+        "en": [
+            "Marcian; with him, i.a., Abundius"
+        ],
+        "pl": [
+            "Marcjan; z nim, m.in., Abundiusz"
+        ]
+    },
+    "forenames": ["marcianus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["3:Sept./16#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Septembris/16#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:sept./16#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/John_and_Marcianus"
+    }
+}

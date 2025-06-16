@@ -1038,6 +1038,11 @@
             "en": "Marcellus Pope",
             "pl": "Marceli Papież"
         },
+        "records/patrons/marcianus/abu": {
+            "la": "Marcianus; cum eo, i.a., Abundius",
+            "en": "Marcian; with him, i.a., Abundius",
+            "pl": "Marcjan; z nim, m.in., Abundiusz"
+        },
         "records/patrons/marcus/eva": {
             "la": "Marcus Evangelista",
             "en": "Mark the Evangelist",
