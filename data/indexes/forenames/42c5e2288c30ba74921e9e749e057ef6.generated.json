@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Abundancjusz"
+    },
+    "translations": {
+        "la": [
+            "Abundantius"
+        ],
+        "en": [
+            "Abundantius"
+        ],
+        "pl": [
+            "Abundancjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/abundantius/abu": {
+            "la": "Abundantius; cum eo, i.a., Abundius",
+            "en": "Abundantius; with him, i.a., Abundius",
+            "pl": "Abundancjusz; z nim, m.in., Abundiusz"
+        }
+    }
+}

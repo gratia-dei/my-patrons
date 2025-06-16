@@ -722,6 +722,16 @@
                 "mr-1584": "29 VII: #2",
                 "mr-1956": "29 VII: #2"
             }
+        },
+        "records/patrons/abundantius/abu#ifp": {
+            "name": {
+                "la": "Abundantius; cum eo, i.a., Abundius (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "pl": "Abundancjusz; z nim, m.in., Abundiusz (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #2",
+                "mr-1956": "29 VII: #2"
+            }
         }
     },
     "08-01": {

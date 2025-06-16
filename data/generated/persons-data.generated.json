@@ -402,6 +402,33 @@
         "died": [],
         "feasts": []
     },
+    "patrons/abundantius": {
+        "names": {
+            "la": "Abundantius",
+            "en": "Abundantius",
+            "pl": "Abundancjusz"
+        }
+    },
+    "patrons/abundantius/abu": {
+        "active": true,
+        "names": {
+            "la": "Abundantius; cum eo, i.a., Abundius",
+            "en": "Abundantius; with him, i.a., Abundius",
+            "pl": "Abundancjusz; z nim, m.in., Abundiusz"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": {
+            "feasts/ifp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
+                    "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
+                }
+            }
+        }
+    },
     "patrons/abundius": {
         "names": {
             "la": "Abundius",

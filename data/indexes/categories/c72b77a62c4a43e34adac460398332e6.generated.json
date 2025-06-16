@@ -26,6 +26,11 @@
             "en": "Aaron, priest",
             "pl": "Aaron, kapłan"
         },
+        "records/patrons/abundantius/abu": {
+            "la": "Abundantius; cum eo, i.a., Abundius",
+            "en": "Abundantius; with him, i.a., Abundius",
+            "pl": "Abundancjusz; z nim, m.in., Abundiusz"
+        },
         "records/patrons/abundius/lat": {
             "la": "Abundius de Latium",
             "en": "Abundius of Latium",
