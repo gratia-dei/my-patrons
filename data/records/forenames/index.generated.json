@@ -301,6 +301,11 @@
         "pl": "Bazyli",
         "el": "Βασίλειος"
     },
+    "beatrix": {
+        "la": "Beatrix",
+        "en": "Beatrice",
+        "pl": "Beatrycze"
+    },
     "benedicta": {
         "la": "Benedicta",
         "en": "Benedicta",
@@ -2088,6 +2093,11 @@
         "la": "Veronica",
         "en": "Veronica",
         "pl": "Weronika"
+    },
+    "viatrix": {
+        "la": "Viatrix",
+        "en": "Viatrice",
+        "pl": "Viatrix"
     },
     "victor": {
         "la": "Victor",

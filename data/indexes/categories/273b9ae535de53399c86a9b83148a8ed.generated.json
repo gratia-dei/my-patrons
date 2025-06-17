@@ -856,6 +856,11 @@
             "en": "Veronica",
             "pl": "Weronika"
         },
+        "records/patrons/viatrix/sim": {
+            "la": "Viatrix, cum ea, i.a., Simplicius",
+            "en": "Viatrice; with her, i.a., Simplicius",
+            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        },
         "records/patrons/victoria/ulm": {
             "pl": "Wiktoria Ulma",
             "la": "Victoria Ulma",

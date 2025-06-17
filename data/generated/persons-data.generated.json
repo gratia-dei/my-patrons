@@ -11289,6 +11289,25 @@
         ],
         "feasts": []
     },
+    "patrons/viatrix": {
+        "names": {
+            "la": "Viatrix",
+            "en": "Viatrice",
+            "pl": "Viatrix"
+        }
+    },
+    "patrons/viatrix/sim": {
+        "active": true,
+        "names": {
+            "la": "Viatrix, cum ea, i.a., Simplicius",
+            "en": "Viatrice; with her, i.a., Simplicius",
+            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/victor": {
         "names": {
             "la": "Victor",

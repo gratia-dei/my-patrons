@@ -1698,6 +1698,11 @@
             "la": "Valentinus de Roma",
             "pl": "Walenty z Rzymu"
         },
+        "records/patrons/viatrix/sim": {
+            "la": "Viatrix, cum ea, i.a., Simplicius",
+            "en": "Viatrice; with her, i.a., Simplicius",
+            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        },
         "records/patrons/victor/1pp": {
             "la": "Victor I",
             "en": "Victor I",

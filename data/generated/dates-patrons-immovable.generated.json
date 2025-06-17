@@ -2874,6 +2874,19 @@
                 "mr-2004": "29 VII: #5"
             }
         },
+        "records/patrons/viatrix/sim": {
+            "name": {
+                "la": "Viatrix, cum ea, i.a., Simplicius",
+                "en": "Viatrice; with her, i.a., Simplicius",
+                "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #3",
+                "mr-1956": "29 VII: #3",
+                "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
+                "mr-2004": "29 VII: #5"
+            }
+        },
         "records/patrons/martha/laz": {
             "name": {
                 "la": "Martha Bethaniae",

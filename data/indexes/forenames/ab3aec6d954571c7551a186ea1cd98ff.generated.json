@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Beatrice"
+    },
+    "translations": {
+        "la": [
+            "Beatrix"
+        ],
+        "en": [
+            "Beatrice"
+        ],
+        "pl": [
+            "Beatrycze"
+        ]
+    },
+    "links": {
+        "records/patrons/viatrix/sim": {
+            "la": "Viatrix, cum ea, i.a., Simplicius",
+            "en": "Viatrice; with her, i.a., Simplicius",
+            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        }
+    }
+}

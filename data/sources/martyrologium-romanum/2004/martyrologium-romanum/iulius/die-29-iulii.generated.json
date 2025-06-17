@@ -2,7 +2,8 @@
     "data-links": {
         "5": {
             "1": "records/patrons/simplicius/fau",
-            "2": "records/patrons/faustinus/sim"
+            "2": "records/patrons/faustinus/sim",
+            "3": "records/patrons/viatrix/sim"
         },
         "4": {
             "1": "records/patrons/felix/rom"
