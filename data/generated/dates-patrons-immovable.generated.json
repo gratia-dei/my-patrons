@@ -2559,7 +2559,7 @@
     "07-06": {
         "records/patrons/tranquillinus/rom": {
             "name": {
-                "la": "Tranquillinus de Romae",
+                "la": "Tranquillinus de Roma",
                 "en": "Tranquillinus of Rome",
                 "pl": "Trankwilin z Rzymu"
             },
@@ -2858,6 +2858,17 @@
                 "mr-1584": "29 VII: #1",
                 "mr-1956": "29 VII: #1",
                 "mr-2004": "29 VII: #1"
+            }
+        },
+        "records/patrons/felix/rom": {
+            "name": {
+                "la": "Felix de Roma",
+                "en": "Felix of Rome",
+                "pl": "Feliks z Rzymu"
+            },
+            "sources": {
+                "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
+                "mr-2004": "29 VII: #4"
             }
         }
     },

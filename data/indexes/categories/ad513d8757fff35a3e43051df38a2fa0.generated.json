@@ -573,6 +573,11 @@
             "en": "Felix of Cordoba; with him, i.a., Liliosa",
             "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
+        "records/patrons/felix/rom": {
+            "la": "Felix de Roma",
+            "en": "Felix of Rome",
+            "pl": "Feliks z Rzymu"
+        },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
             "en": "Fidelis of Sigmaringen",
@@ -1653,7 +1658,7 @@
             "pl": "Tymoteusz z Efezu"
         },
         "records/patrons/tranquillinus/rom": {
-            "la": "Tranquillinus de Romae",
+            "la": "Tranquillinus de Roma",
             "en": "Tranquillinus of Rome",
             "pl": "Trankwilin z Rzymu"
         },

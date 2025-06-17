@@ -3849,6 +3849,18 @@
         ],
         "feasts": []
     },
+    "patrons/felix/rom": {
+        "active": true,
+        "names": {
+            "la": "Felix de Roma",
+            "en": "Felix of Rome",
+            "pl": "Feliks z Rzymu"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/fidelis": {
         "names": {
             "la": "Fidelis",
@@ -11041,7 +11053,7 @@
     "patrons/tranquillinus/rom": {
         "active": true,
         "names": {
-            "la": "Tranquillinus de Romae",
+            "la": "Tranquillinus de Roma",
             "en": "Tranquillinus of Rome",
             "pl": "Trankwilin z Rzymu"
         },

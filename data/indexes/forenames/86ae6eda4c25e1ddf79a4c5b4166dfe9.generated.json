@@ -38,6 +38,11 @@
             "en": "Felix of Cordoba; with him, i.a., Liliosa",
             "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
+        "records/patrons/felix/rom": {
+            "la": "Felix de Roma",
+            "en": "Felix of Rome",
+            "pl": "Feliks z Rzymu"
+        },
         "records/patrons/sigismundus/fel": {
             "pl": "Zygmunt Szczęsny Feliński",
             "en": "Zygmunt Szczęsny Feliński",
