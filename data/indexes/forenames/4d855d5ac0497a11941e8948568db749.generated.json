@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Rufus",
+        "en": "Rufus",
+        "pl": "Rufus"
+    },
+    "translations": {
+        "la": [
+            "Rufus"
+        ],
+        "en": [
+            "Rufus"
+        ],
+        "pl": [
+            "Rufus"
+        ]
+    },
+    "links": {
+        "records/patrons/rufus/sim": {
+            "la": "Rufus, cum eo, i.a., Simplicius",
+            "en": "Rufus; with him, i.a., Simplicius",
+            "pl": "Rufus; z nim, m.in. Symplicjusz"
+        }
+    }
+}

@@ -1449,6 +1449,11 @@
             "en": "Rose Kim",
             "pl": "Róża Kim"
         },
+        "records/patrons/rufus/sim": {
+            "la": "Rufus, cum eo, i.a., Simplicius",
+            "en": "Rufus; with him, i.a., Simplicius",
+            "pl": "Rufus; z nim, m.in. Symplicjusz"
+        },
         "records/patrons/rusticus/dio": {
             "fr": "Rustique de Paris, avec lui, a.o., Denis",
             "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",

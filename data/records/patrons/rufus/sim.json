@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Rufus, cum eo, i.a., Simplicius"
+        ],
+        "en": [
+            "Rufus; with him, i.a., Simplicius"
+        ],
+        "pl": [
+            "Rufus; z nim, m.in. Symplicjusz"
+        ]
+    },
+    "forenames": ["rufus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:iul./29#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73710",
+        "wiki": "https://en.wikipedia.org/wiki/Catacombs_of_Generosa"
+    }
+}

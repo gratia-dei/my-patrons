@@ -2909,6 +2909,16 @@
                 "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
                 "mr-2004": "29 VII: #4"
             }
+        },
+        "records/patrons/rufus/sim": {
+            "name": {
+                "la": "Rufus, cum eo, i.a., Simplicius",
+                "en": "Rufus; with him, i.a., Simplicius",
+                "pl": "Rufus; z nim, m.in. Symplicjusz"
+            },
+            "sources": {
+                "mr-2004": "29 VII: #5"
+            }
         }
     },
     "07-31": {

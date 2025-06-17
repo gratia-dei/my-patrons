@@ -9906,6 +9906,25 @@
         ],
         "feasts": []
     },
+    "patrons/rufus": {
+        "names": {
+            "la": "Rufus",
+            "en": "Rufus",
+            "pl": "Rufus"
+        }
+    },
+    "patrons/rufus/sim": {
+        "active": true,
+        "names": {
+            "la": "Rufus, cum eo, i.a., Simplicius",
+            "en": "Rufus; with him, i.a., Simplicius",
+            "pl": "Rufus; z nim, m.in. Symplicjusz"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/rupertus": {
         "names": {
             "la": "Rupertus",
