@@ -2325,6 +2325,11 @@
             "en": "Simon of Lipnica",
             "la": "Simon de Lipnica"
         },
+        "records/patrons/simplicius/fau": {
+            "la": "Simplicius, cum eo, i.a., Faustinus",
+            "en": "Simplicius; with him, i.a., Faustinus",
+            "pl": "Symplicjusz; z nim, m.in. Faustyn"
+        },
         "records/patrons/stanislaus/cas": {
             "pl": "Stanisław Kazimierczyk",
             "la": "Stanislaus Kazimierczyk",

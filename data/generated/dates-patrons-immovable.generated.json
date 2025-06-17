@@ -2860,6 +2860,19 @@
                 "mr-2004": "29 VII: #1"
             }
         },
+        "records/patrons/simplicius/fau": {
+            "name": {
+                "la": "Simplicius, cum eo, i.a., Faustinus",
+                "en": "Simplicius; with him, i.a., Faustinus",
+                "pl": "Symplicjusz; z nim, m.in. Faustyn"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #3",
+                "mr-1956": "29 VII: #3",
+                "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
+                "mr-2004": "29 VII: #5"
+            }
+        },
         "records/patrons/felix/rom": {
             "name": {
                 "la": "Felix de Roma",

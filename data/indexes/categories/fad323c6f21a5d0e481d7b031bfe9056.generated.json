@@ -1517,6 +1517,11 @@
             "en": "Simon Apostle",
             "pl": "Szymon Apostoł"
         },
+        "records/patrons/simplicius/fau": {
+            "la": "Simplicius, cum eo, i.a., Faustinus",
+            "en": "Simplicius; with him, i.a., Faustinus",
+            "pl": "Symplicjusz; z nim, m.in. Faustyn"
+        },
         "records/patrons/sine/ulm": {
             "pl": "Nienarodzone dziecko Ulmów",
             "la": "Infans Non Natus Ulmarum",

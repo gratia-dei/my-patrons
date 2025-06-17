@@ -10393,6 +10393,25 @@
         ],
         "feasts": []
     },
+    "patrons/simplicius": {
+        "names": {
+            "la": "Simplicius",
+            "en": "Simplicius",
+            "pl": "Symplicjusz"
+        }
+    },
+    "patrons/simplicius/fau": {
+        "active": true,
+        "names": {
+            "la": "Simplicius, cum eo, i.a., Faustinus",
+            "en": "Simplicius; with him, i.a., Faustinus",
+            "pl": "Symplicjusz; z nim, m.in. Faustyn"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/sine": {
         "names": {
             "la": "Sine",

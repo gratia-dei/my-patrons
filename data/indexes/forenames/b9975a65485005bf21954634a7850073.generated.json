@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Symplicjusz"
+    },
+    "translations": {
+        "la": [
+            "Simplicius"
+        ],
+        "en": [
+            "Simplicius"
+        ],
+        "pl": [
+            "Symplicjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/simplicius/fau": {
+            "la": "Simplicius, cum eo, i.a., Faustinus",
+            "en": "Simplicius; with him, i.a., Faustinus",
+            "pl": "Symplicjusz; z nim, m.in. Faustyn"
+        }
+    }
+}
