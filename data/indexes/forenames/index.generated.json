@@ -50,6 +50,10 @@
     "02c83131c584452c0136947966533121": {
         "pl": "Lidia"
     },
+    "03218a7f29ec207e3bad7851026d15f6": {
+        "la": "Faustinus",
+        "en": "Faustinus"
+    },
     "03e460597c45d5658f502462a60ad54b": {
         "la": "Stanislaus",
         "en": "Stanislaus"
@@ -2611,6 +2615,9 @@
         "en": "Gabriel",
         "pl": "Gabriel",
         "fr": "Gabriel"
+    },
+    "b7b72187cf36439199fe35f6ff66b085": {
+        "pl": "Faustyn"
     },
     "b7dcb6de6c575776556d204e5137eced": {
         "en": "Taurin",

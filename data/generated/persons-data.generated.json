@@ -3725,6 +3725,25 @@
         ],
         "feasts": []
     },
+    "patrons/faustinus": {
+        "names": {
+            "la": "Faustinus",
+            "en": "Faustinus",
+            "pl": "Faustyn"
+        }
+    },
+    "patrons/faustinus/sim": {
+        "active": true,
+        "names": {
+            "la": "Faustinus, cum eo, i.a., Simplicius",
+            "en": "Faustinus; with him, i.a., Simplicius",
+            "pl": "Faustyn; z nim, m.in. Symplicjusz"
+        },
+        "died": [
+            "~303"
+        ],
+        "feasts": []
+    },
     "patrons/felicianus": {
         "names": {
             "la": "Felicianus",

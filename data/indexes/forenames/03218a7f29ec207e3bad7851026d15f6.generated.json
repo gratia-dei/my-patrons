@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Faustinus",
+        "en": "Faustinus"
+    },
+    "translations": {
+        "la": [
+            "Faustinus"
+        ],
+        "en": [
+            "Faustinus"
+        ],
+        "pl": [
+            "Faustyn"
+        ]
+    },
+    "links": {
+        "records/patrons/faustinus/sim": {
+            "la": "Faustinus, cum eo, i.a., Simplicius",
+            "en": "Faustinus; with him, i.a., Simplicius",
+            "pl": "Faustyn; z nim, m.in. Symplicjusz"
+        }
+    }
+}

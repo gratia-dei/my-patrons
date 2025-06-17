@@ -1,0 +1,44 @@
+{
+    "names": {
+        "la": [
+            "Faustinus, cum eo, i.a., Simplicius"
+        ],
+        "en": [
+            "Faustinus; with him, i.a., Simplicius"
+        ],
+        "pl": [
+            "Faustyn; z nim, m.in. Symplicjusz"
+        ]
+    },
+    "forenames": ["faustinus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Iul./29#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Julii/29#3"],
+        "mr-1956-variations": ["3:Julii/29#3-ab-1960-07-26"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:iul./29#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73708",
+        "wiki": "https://en.wikipedia.org/wiki/Simplicius,_Faustinus_and_Beatrix"
+    }
+}

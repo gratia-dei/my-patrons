@@ -2848,18 +2848,6 @@
                 "mr-1956": "29 VII: #2"
             }
         },
-        "records/patrons/martha/laz": {
-            "name": {
-                "la": "Martha Bethaniae",
-                "en": "Martha of Bethany",
-                "pl": "Marta z Betanii"
-            },
-            "sources": {
-                "mr-1584": "29 VII: #1",
-                "mr-1956": "29 VII: #1",
-                "mr-2004": "29 VII: #1"
-            }
-        },
         "records/patrons/simplicius/fau": {
             "name": {
                 "la": "Simplicius, cum eo, i.a., Faustinus",
@@ -2871,6 +2859,31 @@
                 "mr-1956": "29 VII: #3",
                 "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
                 "mr-2004": "29 VII: #5"
+            }
+        },
+        "records/patrons/faustinus/sim": {
+            "name": {
+                "la": "Faustinus, cum eo, i.a., Simplicius",
+                "en": "Faustinus; with him, i.a., Simplicius",
+                "pl": "Faustyn; z nim, m.in. Symplicjusz"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #3",
+                "mr-1956": "29 VII: #3",
+                "mr-1956-variations": "29 VII: #3-ab-1960-07-26",
+                "mr-2004": "29 VII: #5"
+            }
+        },
+        "records/patrons/martha/laz": {
+            "name": {
+                "la": "Martha Bethaniae",
+                "en": "Martha of Bethany",
+                "pl": "Marta z Betanii"
+            },
+            "sources": {
+                "mr-1584": "29 VII: #1",
+                "mr-1956": "29 VII: #1",
+                "mr-2004": "29 VII: #1"
             }
         },
         "records/patrons/felix/rom": {
