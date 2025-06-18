@@ -2445,6 +2445,21 @@
             }
         }
     },
+    "06-19": {
+        "records/patrons/iuliana/fal": {
+            "name": {
+                "it": "Giuliana Falconieri",
+                "la": "Iuliana Falconieri",
+                "en": "Juliana Falconieri",
+                "pl": "Juliana Falconieri"
+            },
+            "sources": {
+                "feast": "19 VI",
+                "mr-1956": "19 VI: #1",
+                "mr-2004": "19 VI: #7"
+            }
+        }
+    },
     "06-23": {
         "records/patrons/multi/nim": {
             "name": {

@@ -310,7 +310,8 @@
         "de": "Scherer"
     },
     "4967ef836b3f08e16e5987eeb27d47cf": {
-        "it": "Falconieri"
+        "it": "Falconieri",
+        "la": "Falconieri"
     },
     "4a29aa2e60fa22b5c83e07a5cefadcd7": {
         "de": "Mayer"
@@ -1034,6 +1035,9 @@
     },
     "e9f91b069772819a3cbdc0f19e4a43a1": {
         "pl": "Kostowski"
+    },
+    "ea3c7edefee4c45afb365e479933dc7f": {
+        "la": "Falconeria"
     },
     "ea6da5df5c3753bddf2270bea51d166e": {
         "pl": "Kowcz"

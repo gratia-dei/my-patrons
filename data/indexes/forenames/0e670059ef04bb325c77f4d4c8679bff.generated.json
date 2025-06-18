@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Juliana"
+        ],
+        "it": [
+            "Giuliana"
         ]
     },
     "links": {
@@ -18,6 +21,12 @@
             "la": "Iuliana de Nicomedia",
             "en": "Juliana of Nicomedia",
             "pl": "Juliana z Nikomedii"
+        },
+        "records/patrons/iuliana/fal": {
+            "it": "Giuliana Falconieri",
+            "la": "Iuliana Falconieri",
+            "en": "Juliana Falconieri",
+            "pl": "Juliana Falconieri"
         }
     }
 }

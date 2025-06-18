@@ -6234,7 +6234,8 @@
         "names": {
             "la": "Iuliana",
             "en": "Juliana",
-            "pl": "Juliana"
+            "pl": "Juliana",
+            "it": "Giuliana"
         }
     },
     "patrons/iuliana/cam": {
@@ -6256,6 +6257,19 @@
                 }
             }
         }
+    },
+    "patrons/iuliana/fal": {
+        "active": true,
+        "names": {
+            "it": "Giuliana Falconieri",
+            "la": "Iuliana Falconieri",
+            "en": "Juliana Falconieri",
+            "pl": "Juliana Falconieri"
+        },
+        "died": [
+            "~1341"
+        ],
+        "feasts": []
     },
     "patrons/iulitta": {
         "names": {

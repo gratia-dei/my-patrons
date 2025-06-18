@@ -1,25 +1,17 @@
 {
     "names": {
-        "it": "Falconieri",
-        "la": "Falconieri"
+        "la": "Falconeria"
     },
     "translations": {
         "it": [
             "Falconieri"
         ],
         "la": [
-            "Falconerius",
             "Falconieri",
             "Falconeria"
         ]
     },
     "links": {
-        "records/patrons/alexius/fal": {
-            "it": "Alessio Falconieri",
-            "la": "Alexius Falconieri",
-            "en": "Alexis Falconieri",
-            "pl": "Aleksy Falconieri"
-        },
         "records/patrons/iuliana/fal": {
             "it": "Giuliana Falconieri",
             "la": "Iuliana Falconieri",
