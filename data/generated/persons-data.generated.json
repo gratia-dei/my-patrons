@@ -7216,11 +7216,11 @@
         "feasts": []
     },
     "patrons/margarita/ebn": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Margareta Ebner",
-            "en": "Margaret Ebner",
             "la": "Margarita Ebner",
+            "en": "Margaret Ebner",
             "pl": "Małgorzata Ebner"
         },
         "died": [

@@ -2460,6 +2460,20 @@
             }
         }
     },
+    "06-20": {
+        "records/patrons/margarita/ebn": {
+            "name": {
+                "de": "Margareta Ebner",
+                "la": "Margarita Ebner",
+                "en": "Margaret Ebner",
+                "pl": "Małgorzata Ebner"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 VI",
+                "mr-2004": "20 VI: #4"
+            }
+        }
+    },
     "06-23": {
         "records/patrons/multi/nim": {
             "name": {
