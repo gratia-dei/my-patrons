@@ -84,6 +84,11 @@
         "en": "catechumen",
         "pl": "katechumen / katechumenka"
     },
+    "clericus": {
+        "la": "clericus",
+        "en": "cleric",
+        "pl": "kleryk"
+    },
     "coadiutor-temporalis": {
         "la": "coadiutor temporalis",
         "en": "temporary coadjutor",

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "clericus"
+    },
+    "translations": {
+        "la": [
+            "clericus"
+        ],
+        "en": [
+            "cleric"
+        ],
+        "pl": [
+            "kleryk"
+        ]
+    },
+    "links": {
+        "records/patrons/aloysius/gon": {
+            "it": "Luigi Gonzaga",
+            "la": "Aloysius Gonzaga",
+            "en": "Aloysius Gonzaga",
+            "pl": "Alojzy Gonzaga"
+        }
+    }
+}

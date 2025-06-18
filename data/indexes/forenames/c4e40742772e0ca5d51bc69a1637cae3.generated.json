@@ -4,7 +4,8 @@
     },
     "translations": {
         "la": [
-            "Aloysius"
+            "Aloysius",
+            "Aloisius"
         ],
         "en": [
             "Aloise"
@@ -25,6 +26,12 @@
             "en": "Aloise Campos Górriz",
             "la": "Aloysius Campos Górriz",
             "pl": "Alojzy Campos Górriz"
+        },
+        "records/patrons/aloysius/gon": {
+            "it": "Luigi Gonzaga",
+            "la": "Aloysius Gonzaga",
+            "en": "Aloysius Gonzaga",
+            "pl": "Alojzy Gonzaga"
         },
         "records/patrons/aloysius/lig": {
             "pl": "Alojzy Liguda",

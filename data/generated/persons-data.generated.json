@@ -797,6 +797,19 @@
         ],
         "feasts": []
     },
+    "patrons/aloysius/gon": {
+        "active": true,
+        "names": {
+            "it": "Luigi Gonzaga",
+            "la": "Aloysius Gonzaga",
+            "en": "Aloysius Gonzaga",
+            "pl": "Alojzy Gonzaga"
+        },
+        "died": [
+            "1591-06-21"
+        ],
+        "feasts": []
+    },
     "patrons/aloysius/lig": {
         "active": false,
         "names": {

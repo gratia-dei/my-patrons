@@ -2474,6 +2474,22 @@
             }
         }
     },
+    "06-21": {
+        "records/patrons/aloysius/gon": {
+            "name": {
+                "it": "Luigi Gonzaga",
+                "la": "Aloysius Gonzaga",
+                "en": "Aloysius Gonzaga",
+                "pl": "Alojzy Gonzaga"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 VI",
+                "feast": "21 VI",
+                "mr-1956": "21 VI: #1",
+                "mr-2004": "21 VI: #1"
+            }
+        }
+    },
     "06-23": {
         "records/patrons/multi/nim": {
             "name": {

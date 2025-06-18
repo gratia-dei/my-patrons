@@ -416,6 +416,9 @@
     "9c553d758d4fde12ba5cc72299df6bdd": {
         "pl": "kanonik"
     },
+    "9dd7f9bf2d64a68247c5aa38cffd1b59": {
+        "la": "clericus"
+    },
     "9f72ba8ec590a081a3f8e643c2491a6b": {
         "pl": "kapłan"
     },
@@ -489,6 +492,9 @@
     },
     "b0c7cdfec394aa2f9b61038b135a9717": {
         "la": "socia"
+    },
+    "b171e159a000fb9376cf96ba8acd73b2": {
+        "en": "cleric"
     },
     "b1df80ac4d27f8da02411b46e4569bd8": {
         "la": "tertiarius / tertiaria"
@@ -634,6 +640,9 @@
     },
     "e206eeeda7c29b90d14249ee7ef14dc6": {
         "la": "catechista"
+    },
+    "e6a4bd1346dae883f84426f7602c8fd4": {
+        "pl": "kleryk"
     },
     "e71314dc2768dcf6fd370ad09ad30959": {
         "la": "levita"
