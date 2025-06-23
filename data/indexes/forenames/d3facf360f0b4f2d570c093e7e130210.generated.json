@@ -30,6 +30,11 @@
             "la": "Vincentius Ferrerius",
             "pl": "Wincenty Ferreriusz"
         },
+        "records/patrons/vincentius/fre": {
+            "pl": "Wincenty Frelichowski",
+            "la": "Vincentius Frelichowski",
+            "en": "Vincent Frrelichowski"
+        },
         "records/patrons/vincentius/gro": {
             "it": "Vincenzo Grossi",
             "en": "Vincent Grossi",

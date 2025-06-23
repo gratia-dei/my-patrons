@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Frelichowski"
+    },
+    "translations": {
+        "pl": [
+            "Frelichowski"
+        ]
+    },
+    "links": {
+        "records/patrons/vincentius/fre": {
+            "pl": "Wincenty Frelichowski",
+            "la": "Vincentius Frelichowski",
+            "en": "Vincent Frrelichowski"
+        }
+    }
+}

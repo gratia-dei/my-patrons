@@ -11497,6 +11497,18 @@
         ],
         "feasts": []
     },
+    "patrons/vincentius/fre": {
+        "active": true,
+        "names": {
+            "pl": "Wincenty Frelichowski",
+            "la": "Vincentius Frelichowski",
+            "en": "Vincent Frrelichowski"
+        },
+        "died": [
+            "1945-02-23"
+        ],
+        "feasts": []
+    },
     "patrons/vincentius/gro": {
         "active": false,
         "names": {
