@@ -11037,7 +11037,7 @@
         "feasts": []
     },
     "patrons/thomas/gar": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Thomas Garnet",
             "la": "Thomas Garnet",

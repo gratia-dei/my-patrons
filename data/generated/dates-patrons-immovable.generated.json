@@ -2503,6 +2503,18 @@
         }
     },
     "06-23": {
+        "records/patrons/thomas/gar": {
+            "name": {
+                "en": "Thomas Garnet",
+                "la": "Thomas Garnet",
+                "pl": "Tomasz Garnet"
+            },
+            "sources": {
+                "reliable-death-anniversary": "23 VI",
+                "feast": "23 VI",
+                "mr-2004": "23 VI: #8"
+            }
+        },
         "records/patrons/multi/nim": {
             "name": {
                 "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
