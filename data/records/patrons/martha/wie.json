@@ -1,0 +1,53 @@
+{
+    "names": {
+        "pl": [
+            "Marta Maria Wiecka",
+            "Marta Anna Wiecka"
+        ],
+        "la": [
+            "Martha Maria Wiecka",
+            "Martha Anna Wiecka"
+        ],
+        "en": [
+            "Martha Mary Wiecka",
+            "Martha Anna Wiecka"
+        ]
+    },
+    "forenames": ["martha", "maria"],
+    "surnames": [
+        {
+            "pl": "Wiecka"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1874-01-12"],
+    "died": ["1904-05-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2008-05-24"
+    },
+    "canonized": null,
+    "anniversary": ["05-30"],
+
+    "categories": ["femina", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/marta-wiecka.html",
+        "gcatholic": "https://gcatholic.org/p/68350",
+        "wiki": "https://pl.wikipedia.org/wiki/Marta_Wiecka"
+    }
+}

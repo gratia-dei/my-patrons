@@ -8007,6 +8007,18 @@
         ],
         "feasts": []
     },
+    "patrons/martha/wie": {
+        "active": true,
+        "names": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        },
+        "died": [
+            "1904-05-30"
+        ],
+        "feasts": []
+    },
     "patrons/martinus": {
         "names": {
             "la": "Martinus",

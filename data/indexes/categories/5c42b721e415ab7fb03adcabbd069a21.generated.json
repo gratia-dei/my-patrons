@@ -119,6 +119,11 @@
             "la": "Margarita de Lotharingia",
             "pl": "Małgorzata z Lotaryngii"
         },
+        "records/patrons/martha/wie": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        },
         "records/patrons/martinus/por": {
             "es": "Martín de Porres",
             "la": "Martinus de Porres",

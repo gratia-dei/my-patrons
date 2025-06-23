@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Wiecka"
+    },
+    "translations": {
+        "pl": [
+            "Wiecka"
+        ]
+    },
+    "links": {
+        "records/patrons/martha/wie": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        }
+    }
+}

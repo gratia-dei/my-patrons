@@ -1977,6 +1977,17 @@
                 "mr-1956": "30 V: #8",
                 "mr-2004": "30 V: #7"
             }
+        },
+        "records/patrons/martha/wie": {
+            "name": {
+                "pl": "Marta Maria Wiecka",
+                "la": "Martha Maria Wiecka",
+                "en": "Martha Mary Wiecka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 V",
+                "feast": "30 V"
+            }
         }
     },
     "06-01": {

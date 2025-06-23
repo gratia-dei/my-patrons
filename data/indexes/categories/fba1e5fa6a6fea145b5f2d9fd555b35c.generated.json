@@ -665,6 +665,11 @@
             "en": "Martha of Bethany",
             "pl": "Marta z Betanii"
         },
+        "records/patrons/martha/wie": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        },
         "records/patrons/mathildis/reg": {
             "de": "Mathilde von Ringelheim",
             "en": "Matilda of Ringelheim",
