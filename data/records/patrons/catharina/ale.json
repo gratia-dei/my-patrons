@@ -1,22 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Catharina Alexandrina",
-      "Catharina de Alexandria"
-    ],
-    "en": [
-      "Catherine of Alexandria"
-    ],
-    "pl": [
-      "Katarzyna Aleksandryjska",
-      "Katarzyna z Aleksandrii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Catharina Alexandrina",
+            "Catharina de Alexandria"
+        ],
+        "en": [
+            "Catherine of Alexandria"
+        ],
+        "pl": [
+            "Katarzyna Aleksandryjska",
+            "Katarzyna z Aleksandrii"
+        ]
+    },
+    "forenames": ["catharina"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">300"],
+    "active": true,
 
-  "also-in-martyrology": ["11-25"],
+    "born": null,
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["catharina"],
-  "categories": ["femina", "martyr", "virgo"]
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./25#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/25#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./25#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69139",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_Aleksandryjska"
+    }
 }

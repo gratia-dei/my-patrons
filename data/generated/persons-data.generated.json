@@ -2561,14 +2561,14 @@
         }
     },
     "patrons/catharina/ale": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Catharina Alexandrina",
             "en": "Catherine of Alexandria",
             "pl": "Katarzyna Aleksandryjska"
         },
         "died": [
-            ">300"
+            "~305"
         ],
         "feasts": []
     },

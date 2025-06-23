@@ -5262,6 +5262,20 @@
             }
         }
     },
+    "11-25": {
+        "records/patrons/catharina/ale": {
+            "name": {
+                "la": "Catharina Alexandrina",
+                "en": "Catherine of Alexandria",
+                "pl": "Katarzyna Aleksandryjska"
+            },
+            "sources": {
+                "mr-1584": "25 XI: #1",
+                "mr-1956": "25 XI: #1",
+                "mr-2004": "25 XI: #1"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/andreas/apo": {
             "name": {
