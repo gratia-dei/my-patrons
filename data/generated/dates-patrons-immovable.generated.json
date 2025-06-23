@@ -2490,6 +2490,18 @@
             }
         }
     },
+    "06-22": {
+        "records/patrons/flavius/cle": {
+            "name": {
+                "la": "Flavius Clemens",
+                "en": "Flavius Clemens",
+                "pl": "Flawiusz Klemens"
+            },
+            "sources": {
+                "mr-2004": "22 VI: #3"
+            }
+        }
+    },
     "06-23": {
         "records/patrons/multi/nim": {
             "name": {

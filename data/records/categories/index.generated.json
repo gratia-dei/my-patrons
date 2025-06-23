@@ -389,6 +389,11 @@
         "en": "widow",
         "pl": "wdowa"
     },
+    "vir-consularis": {
+        "la": "vir consularis",
+        "en": "consul",
+        "pl": "konsul"
+    },
     "vir": {
         "la": "vir",
         "en": "male",

@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "consul"
+    },
+    "translations": {
+        "la": [
+            "vir consularis"
+        ],
+        "en": [
+            "consul"
+        ],
+        "pl": [
+            "konsul"
+        ]
+    },
+    "links": {
+        "records/patrons/flavius/cle": {
+            "la": "Flavius Clemens",
+            "en": "Flavius Clemens",
+            "pl": "Flawiusz Klemens"
+        }
+    }
+}

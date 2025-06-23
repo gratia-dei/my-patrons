@@ -3914,6 +3914,33 @@
         ],
         "feasts": []
     },
+    "patrons/flavius": {
+        "names": {
+            "la": "Flavius",
+            "en": "Flavius",
+            "pl": "Flawiusz"
+        }
+    },
+    "patrons/flavius/cle": {
+        "active": true,
+        "names": {
+            "la": "Flavius Clemens",
+            "en": "Flavius Clemens",
+            "pl": "Flawiusz Klemens"
+        },
+        "died": [
+            "96"
+        ],
+        "feasts": {
+            "feasts/tfc": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Flavii Clementis",
+                    "pl": "Przeniesienie świętego Flawiusza Klemensa"
+                }
+            }
+        }
+    },
     "patrons/florianus": {
         "names": {
             "la": "Florianus",

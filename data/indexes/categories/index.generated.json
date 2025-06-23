@@ -201,6 +201,9 @@
     "3d28205b9c6217322c1ffa8f1bb1bc72": {
         "la": "cardinalis"
     },
+    "3d2e6bded046ca2e3f906f04235b279b": {
+        "en": "consul"
+    },
     "40e3d39abee106afe63bd5361c9d00ac": {
         "en": "patriarch"
     },
@@ -212,6 +215,9 @@
     },
     "446f62489dfa78c00b6c24d666c8d468": {
         "pl": "niewolnik / niewolnica"
+    },
+    "45479730da90460ba49dc5ea529b9881": {
+        "la": "vir consularis"
     },
     "45bc88a1cec11f28939332d6c1fb1d88": {
         "en": "pilgrim"
@@ -634,6 +640,9 @@
     },
     "dc5c95c029534f43bc26a76a5f3c083b": {
         "pl": "biskup pomocniczy"
+    },
+    "e0f43c20eb7e1895c5b35fac9e28a3bf": {
+        "pl": "konsul"
     },
     "e1d42842652d17dff26877072006184c": {
         "la": "angelus"

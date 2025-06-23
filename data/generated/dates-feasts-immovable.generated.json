@@ -531,6 +531,17 @@
             }
         }
     },
+    "06-22": {
+        "records/patrons/flavius/cle#tfc": {
+            "name": {
+                "la": "Flavius Clemens (Translatio sancti Flavii Clementis)",
+                "pl": "Flawiusz Klemens (Przeniesienie świętego Flawiusza Klemensa)"
+            },
+            "sources": {
+                "mr-1956": "22 VI: #10"
+            }
+        }
+    },
     "06-23": {
         "records/patrons/ioannes/bap#niv": {
             "name": {

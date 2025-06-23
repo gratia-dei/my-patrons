@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Flavius",
+        "en": "Flavius"
+    },
+    "translations": {
+        "la": [
+            "Flavius"
+        ],
+        "en": [
+            "Flavius"
+        ],
+        "pl": [
+            "Flawiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/flavius/cle": {
+            "la": "Flavius Clemens",
+            "en": "Flavius Clemens",
+            "pl": "Flawiusz Klemens"
+        }
+    }
+}
