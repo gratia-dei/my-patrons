@@ -4272,6 +4272,17 @@
                 "mr-1584": "2 X: #1",
                 "mr-1956": "2 X: #4"
             }
+        },
+        "records/patrons/multi/ang": {
+            "name": {
+                "la": "Angeli Custodes",
+                "en": "Guardian Angels",
+                "pl": "Aniołowie Stróżowie"
+            },
+            "sources": {
+                "mr-1956": "2 X: #1",
+                "mr-2004": "2 X: #1"
+            }
         }
     },
     "10-03": {

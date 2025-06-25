@@ -1,21 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Angeli Custodes"
-    ],
-    "en": [
-      "Guardian Angels"
-    ],
-    "pl": [
-      "Aniołowie Stróżowie"
-    ]
-  },
+    "names": {
+        "la": [
+            "Angeli Custodes"
+        ],
+        "en": [
+            "Guardian Angels"
+        ],
+        "pl": [
+            "Aniołowie Stróżowie"
+        ]
+    },
+    "forenames": ["multi"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["-"],
-  "died": ["-"],
+    "active": true,
 
-  "also-in-martyrology": ["10-02"],
+    "born": ["-"],
+    "died": ["-"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["multi"],
-  "categories": ["socia", "angelus"]
+    "categories": ["socia", "angelus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/2#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./2#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Agnieszka_Rzymianka"
+    }
 }

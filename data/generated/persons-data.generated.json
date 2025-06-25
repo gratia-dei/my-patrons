@@ -8468,7 +8468,7 @@
         "feasts": []
     },
     "patrons/multi/ang": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Angeli Custodes",
             "en": "Guardian Angels",
