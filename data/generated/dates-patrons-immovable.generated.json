@@ -149,6 +149,20 @@
             }
         }
     },
+    "01-21": {
+        "records/patrons/agnes/rom": {
+            "name": {
+                "la": "Agnes Romana",
+                "en": "Agnes of Rome",
+                "pl": "Agnieszka Rzymianka"
+            },
+            "sources": {
+                "mr-1584": "21 I: #1",
+                "mr-1956": "21 I: #1",
+                "mr-2004": "21 I: #1"
+            }
+        }
+    },
     "01-22": {
         "records/patrons/vincentius/pal": {
             "name": {
@@ -203,6 +217,17 @@
         }
     },
     "01-28": {
+        "records/patrons/agnes/rom": {
+            "name": {
+                "la": "Agnes Romana",
+                "en": "Agnes of Rome",
+                "pl": "Agnieszka Rzymianka"
+            },
+            "sources": {
+                "mr-1584": "28 I: #1",
+                "mr-1956": "28 I: #2"
+            }
+        },
         "records/patrons/thomas/aqu": {
             "name": {
                 "it": "Tommaso d'Aquino",

@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Agnes Romana"
-    ],
-    "en": [
-      "Agnes of Rome"
-    ],
-    "pl": [
-      "Agnieszka Rzymianka"
-    ]
-  },
+    "names": {
+        "la": [
+            "Agnes Romana"
+        ],
+        "en": [
+            "Agnes of Rome"
+        ],
+        "pl": [
+            "Agnieszka Rzymianka"
+        ]
+    },
+    "forenames": ["agnes"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~304"],
+    "active": true,
 
-  "also-in-martyrology": ["01-21", "01-28"],
+    "born": null,
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["agnes"],
-  "categories": ["femina", "martyr", "virgo", "puer"]
+    "categories": ["femina", "martyr", "virgo", "puer"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./21#1", "1:Ianu./28#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/21#1", "1:Januarii/28#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./21#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69126",
+        "wiki": "https://pl.wikipedia.org/wiki/Agnieszka_Rzymianka"
+    }
 }

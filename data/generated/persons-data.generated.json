@@ -642,7 +642,7 @@
         "feasts": []
     },
     "patrons/agnes/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Agnes Romana",
             "en": "Agnes of Rome",
