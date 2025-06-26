@@ -3049,6 +3049,20 @@
             "sources": {
                 "reliable-death-anniversary": "31 VII"
             }
+        },
+        "records/patrons/ignatius/loy": {
+            "name": {
+                "es": "Ignacio de Loyola",
+                "la": "Ignatius de Loyola",
+                "en": "Ignatius of Loyola",
+                "pl": "Ignacy Loyola"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 VII",
+                "feast": "31 VII",
+                "mr-1956": "31 VII: #1",
+                "mr-2004": "31 VII: #1"
+            }
         }
     },
     "08-01": {

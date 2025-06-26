@@ -1,40 +1,56 @@
 {
-  "names": {
-    "es": [
-      "Ignacio de Loyola",
-      "Iñigo López de Oñaz y Loyola"
-    ],
-    "la": [
-      "Ignatius de Loyola",
-      "Iñigo López de Oñaz y Loyola"
-    ],
-    "en": [
-      "Ignatius of Loyola",
-      "Iñigo López de Oñaz y Loyola"
-    ],
-    "pl": [
-      "Ignacy Loyola",
-      "Iñigo López de Oñaz y Loyola"
-    ]
-  },
+    "names": {
+        "es": [
+            "Ignacio de Loyola",
+            "Iñigo López de Oñaz y Loyola"
+        ],
+        "la": [
+            "Ignatius de Loyola",
+            "Iñigo López de Oñaz y Loyola"
+        ],
+        "en": [
+            "Ignatius of Loyola",
+            "Iñigo López de Oñaz y Loyola"
+        ],
+        "pl": [
+            "Ignacy Loyola",
+            "Iñigo López de Oñaz y Loyola"
+        ]
+    },
+    "forenames": ["ignatius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["<1491-10-23"],
-  "died": ["1556-07-31"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1609-07-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1622-03-13"
-  },
+    "born": ["1491"],
+    "died": ["1556-07-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1609-07-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1622-03-13"
+    },
+    "anniversary": ["07-31"],
 
-  "also-in-martyrology": ["07-31"],
+    "categories": ["vir", "confessor", "presbyter", "fundator", "constitutor", "miles"],
 
-  "forenames": ["ignatius"],
-  "categories": ["vir", "confessor", "presbyter", "fundator", "constitutor", "miles"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["sj"],
-  "order-founder": ["sj"]
+        "mr-1956": ["1:Julii/31#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./31#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/ignazio-di-loyola.html",
+        "gcatholic": "https://gcatholic.org/p/24384",
+        "wiki": "https://pl.wikipedia.org/wiki/Ignacy_Loyola"
+    }
 }

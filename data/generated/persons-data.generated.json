@@ -5169,7 +5169,7 @@
         "feasts": []
     },
     "patrons/ignatius/loy": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Ignacio de Loyola",
             "la": "Ignatius de Loyola",
