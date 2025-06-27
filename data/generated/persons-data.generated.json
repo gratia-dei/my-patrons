@@ -3275,6 +3275,18 @@
             "de": "Dorothea"
         }
     },
+    "patrons/dorothea/cae": {
+        "active": true,
+        "names": {
+            "la": "Dorothea de Caesarea",
+            "en": "Dorothy of Caesarea",
+            "pl": "Dorota z Cezarei"
+        },
+        "died": [
+            "~311"
+        ],
+        "feasts": []
+    },
     "patrons/dorothea/mon": {
         "active": false,
         "names": {
@@ -10980,6 +10992,18 @@
         "died": [
             "183",
             "185"
+        ],
+        "feasts": []
+    },
+    "patrons/theophilus/cae": {
+        "active": true,
+        "names": {
+            "la": "Theophilus de Caesarea",
+            "en": "Theophilus of Caesarea",
+            "pl": "Teofil z Cezarei"
+        },
+        "died": [
+            "~311"
         ],
         "feasts": []
     },

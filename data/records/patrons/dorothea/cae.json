@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Dorothea de Caesarea"
+        ],
+        "en": [
+            "Dorothy of Caesarea"
+        ],
+        "pl": [
+            "Dorota z Cezarei"
+        ]
+    },
+    "forenames": ["dorothea"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~311"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./6#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/6#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./6#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72519",
+        "wiki": "https://pl.wikipedia.org/wiki/Dorota_z_Cezarei"
+    }
+}

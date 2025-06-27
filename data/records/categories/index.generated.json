@@ -354,6 +354,11 @@
         "en": "nun",
         "pl": "mniszka"
     },
+    "scholasticus": {
+        "la": "scholasticus",
+        "en": "scholar",
+        "pl": "uczony / uczona"
+    },
     "senex": {
         "la": "senex",
         "en": "old person",

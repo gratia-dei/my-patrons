@@ -457,6 +457,11 @@
             "en": "Domninus of Caesarea",
             "pl": "Domnin z Cezarei"
         },
+        "records/patrons/dorothea/cae": {
+            "la": "Dorothea de Caesarea",
+            "en": "Dorothy of Caesarea",
+            "pl": "Dorota z Cezarei"
+        },
         "records/patrons/eduardus/col": {
             "en": "Edward Coleman",
             "pl": "Edward Coleman",
@@ -1629,6 +1634,11 @@
             "en": "Theodore Romzha",
             "la": "Theodorus Romzsa",
             "pl": "Teodor Romża"
+        },
+        "records/patrons/theophilus/cae": {
+            "la": "Theophilus de Caesarea",
+            "en": "Theophilus of Caesarea",
+            "pl": "Teofil z Cezarei"
         },
         "records/patrons/theotimus/cae": {
             "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",

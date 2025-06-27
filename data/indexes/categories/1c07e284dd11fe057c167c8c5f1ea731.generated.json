@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "uczony / uczona"
+    },
+    "translations": {
+        "la": [
+            "scholasticus"
+        ],
+        "en": [
+            "scholar"
+        ],
+        "pl": [
+            "uczony / uczona"
+        ]
+    },
+    "links": {
+        "records/patrons/theophilus/cae": {
+            "la": "Theophilus de Caesarea",
+            "en": "Theophilus of Caesarea",
+            "pl": "Teofil z Cezarei"
+        }
+    }
+}

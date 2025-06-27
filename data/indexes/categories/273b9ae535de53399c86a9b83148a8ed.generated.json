@@ -192,6 +192,11 @@
             "en": "Daria /+ Chrysanthus",
             "pl": "Daria /+ Chryzant"
         },
+        "records/patrons/dorothea/cae": {
+            "la": "Dorothea de Caesarea",
+            "en": "Dorothy of Caesarea",
+            "pl": "Dorota z Cezarei"
+        },
         "records/patrons/dorothea/mon": {
             "de": "Dorothea von Montau",
             "pl": "Dorota z Mątowów",

@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Theophilus de Caesarea"
+        ],
+        "en": [
+            "Theophilus of Caesarea"
+        ],
+        "pl": [
+            "Teofil z Cezarei"
+        ]
+    },
+    "forenames": ["theophilus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~311"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "scholasticus"],
+
+    "data-links": {
+        "mr-1584": ["2:Febr./6#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Februarii/6#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:feb./6#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73369",
+        "wiki": "https://pl.wikipedia.org/wiki/Dorota_z_Cezarei"
+    }
+}

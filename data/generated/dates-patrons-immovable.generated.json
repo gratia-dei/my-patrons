@@ -320,6 +320,30 @@
         }
     },
     "02-06": {
+        "records/patrons/dorothea/cae": {
+            "name": {
+                "la": "Dorothea de Caesarea",
+                "en": "Dorothy of Caesarea",
+                "pl": "Dorota z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "6 II: #1",
+                "mr-1956": "6 II: #2",
+                "mr-2004": "6 II: #4"
+            }
+        },
+        "records/patrons/theophilus/cae": {
+            "name": {
+                "la": "Theophilus de Caesarea",
+                "en": "Theophilus of Caesarea",
+                "pl": "Teofil z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "6 II: #1",
+                "mr-1956": "6 II: #2",
+                "mr-2004": "6 II: #4"
+            }
+        },
         "records/patrons/titus/cre": {
             "name": {
                 "el": "Τίτος Κρήτης",

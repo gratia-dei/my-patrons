@@ -2432,6 +2432,11 @@
             "la": "Theophilus Antiochenus",
             "pl": "Teofil z Antiochii"
         },
+        "records/patrons/theophilus/cae": {
+            "la": "Theophilus de Caesarea",
+            "en": "Theophilus of Caesarea",
+            "pl": "Teofil z Cezarei"
+        },
         "records/patrons/theotimus/cae": {
             "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
             "en": "Theotimus of Caesarea; with him, i.a., Philotheus",

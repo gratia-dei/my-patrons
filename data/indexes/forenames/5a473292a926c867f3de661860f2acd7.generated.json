@@ -22,6 +22,11 @@
             "en": "Theophilus of Antioch",
             "la": "Theophilus Antiochenus",
             "pl": "Teofil z Antiochii"
+        },
+        "records/patrons/theophilus/cae": {
+            "la": "Theophilus de Caesarea",
+            "en": "Theophilus of Caesarea",
+            "pl": "Teofil z Cezarei"
         }
     }
 }
