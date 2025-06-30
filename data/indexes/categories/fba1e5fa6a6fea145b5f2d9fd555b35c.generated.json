@@ -406,6 +406,12 @@
             "la": "Ludovica de Marillac",
             "pl": "Ludwika de Marillac"
         },
+        "records/patrons/ludovica/mon": {
+            "fr": "Louise-Thérèse de Montaignac de Chauvance",
+            "la": "Ludovica Teresia de Montaignac de Chauvance",
+            "en": "Louise Therese de Montaignac de Chauvance",
+            "pl": "Ludwika Teresa de Montaignac de Chauvance"
+        },
         "records/patrons/lydia/thy": {
             "la": "Lydia Thyatirensis",
             "en": "Lydia of Thyatira",

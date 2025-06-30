@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Louise-Thérèse de Montaignac de Chauvance"
+        ],
+        "la": [
+            "Ludovica Teresia de Montaignac de Chauvance"
+        ],
+        "en": [
+            "Louise Therese de Montaignac de Chauvance"
+        ],
+        "pl": [
+            "Ludwika Teresa de Montaignac de Chauvance"
+        ]
+    },
+    "forenames": ["ludovica", "teresia"],
+    "surnames": [
+        {
+            "fr": "Montaignac de Chauvance"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1820-05-20"],
+    "died": ["1885-06-27"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1990-11-04"
+    },
+    "canonized": null,
+    "anniversary": ["06-27"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./27#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/louise-therese-de-montaignac-de-chauvance.html",
+        "gcatholic": "https://gcatholic.org/p/68481",
+        "wiki": "https://pl.wikipedia.org/wiki/Ludwika_Teresa_de_Montaignac"
+    }
+}

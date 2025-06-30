@@ -1349,6 +1349,7 @@ const rebuildCardForm = async function(cardId) {
   await buildCardFormSelects(cardId, pathArr, [], options);
 
   //card input fields
+  console.log(cardData);
   let isEditButtonVisible = Object.keys(cardData[CARD_DATA_FIELD_PARAMS]).length > 0;
 
   addSpanChildElement(div, '&nbsp;&nbsp;&nbsp;');
@@ -1970,12 +1971,27 @@ const drawCard = function(cardId) {
           //return;
       }
 
-      //temporary test mode text
-      drawText('   XXXXXXXXXXXXXXXX   ', x + mm2px(2), y + mm2px(3), mm2px(100), mm2px(10), 'red', FONT_STYLE_NORMAL, TEXT_ALIGN_JUSTIFY, 310);
-
       if (cardType == CARD_TYPE_REVERSE) {
+
+        //image
+        const imageSize = mm2px(30);
+        const imageWidth = imageSize;
+        const imageHeight = imageSize;
+        const imageX = x + cardWidth / 2 - imageSize / 2;
+        const imageY = y;
+        const imageData = {
+          [IMAGE_DATA_FIELD_FILE_URL]: params[CARD_DATA_PARAMS_FIELD_IMAGE_FILE_URL],
+          [IMAGE_DATA_FIELD_AREA_CENTER_X]: params[CARD_DATA_PARAMS_FIELD_IMAGE_AREA_CENTER_X],
+          [IMAGE_DATA_FIELD_AREA_CENTER_Y]: params[CARD_DATA_PARAMS_FIELD_IMAGE_AREA_CENTER_Y],
+          [IMAGE_DATA_FIELD_AREA_CENTER_TO_EDGE_DISTANCE]: params[CARD_DATA_PARAMS_FIELD_IMAGE_AREA_CENTER_TO_EDGE_DISTANCE],
+        }
+        drawImage(imageData, imageX, imageY, imageWidth, imageHeight, function() {});
+
         return;
       }
+
+      //temporary test mode text
+      drawText('   XXXXXXXXXXXXXXXX   ', x + mm2px(2), y + mm2px(3), mm2px(100), mm2px(10), 'red', FONT_STYLE_NORMAL, TEXT_ALIGN_JUSTIFY, 310);
 
       //image
       const imageSize = mm2px(30);

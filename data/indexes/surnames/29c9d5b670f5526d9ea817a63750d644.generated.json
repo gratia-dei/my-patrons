@@ -1,28 +1,13 @@
 {
     "names": {
-        "la": "Ludovica"
+        "fr": "Montaignac de Chauvance"
     },
     "translations": {
-        "la": [
-            "Ludovica"
-        ],
-        "en": [
-            "Louise"
-        ],
-        "pl": [
-            "Ludwika"
-        ],
         "fr": [
-            "Louise"
+            "Montaignac de Chauvance"
         ]
     },
     "links": {
-        "records/patrons/ludovica/mar": {
-            "fr": "Louise de Marillac",
-            "en": "Louise de Marillac",
-            "la": "Ludovica de Marillac",
-            "pl": "Ludwika de Marillac"
-        },
         "records/patrons/ludovica/mon": {
             "fr": "Louise-Thérèse de Montaignac de Chauvance",
             "la": "Ludovica Teresia de Montaignac de Chauvance",

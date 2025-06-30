@@ -2600,6 +2600,21 @@
             }
         }
     },
+    "06-27": {
+        "records/patrons/ludovica/mon": {
+            "name": {
+                "fr": "Louise-Thérèse de Montaignac de Chauvance",
+                "la": "Ludovica Teresia de Montaignac de Chauvance",
+                "en": "Louise Therese de Montaignac de Chauvance",
+                "pl": "Ludwika Teresa de Montaignac de Chauvance"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 VI",
+                "feast": "27 VI",
+                "mr-2004": "27 VI: #10"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {
