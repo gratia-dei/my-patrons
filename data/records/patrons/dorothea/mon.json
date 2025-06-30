@@ -1,32 +1,52 @@
 {
-  "names": {
-    "de": [
-      "Dorothea von Montau"
-    ],
-    "pl": [
-      "Dorota z Mątowów",
-      "Dorota z Mątów",
-      "Dorota Schwarze"
-    ],
-    "en": [
-      "Dorothy of Montau",
-      "Dorothea of Montau"
-    ],
-    "la": [
-      "Dorothea Montoviensis"
-    ]
-  },
+    "names": {
+        "de": [
+            "Dorothea von Montau"
+        ],
+        "la": [
+            "Dorothea Montoviensis"
+        ],
+        "en": [
+            "Dorothy of Montau",
+            "Dorothea of Montau"
+        ],
+        "pl": [
+            "Dorota z Mątowów",
+            "Dorota z Mątów",
+            "Dorota Schwarze"
+        ]
+    },
+    "forenames": ["dorothea"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1347-01-25", "1347-02-06"],
-  "died": ["1394-06-25"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1976-07-09"
-  },
+    "born": ["1347-01-25", "1347-02-06"],
+    "died": ["1394-06-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1976-01-09"
+    },
+    "canonized": null,
+    "anniversary": ["06-25"],
 
-  "also-in-martyrology": ["06-25"],
+    "categories": ["femina", "vidua", "reclusa"],
 
-  "forenames": ["dorothea"],
-  "categories": ["femina", "vidua", "reclusa"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./25#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/dorotea-di-montau.html",
+        "gcatholic": "https://gcatholic.org/p/68065",
+        "wiki": "https://pl.wikipedia.org/wiki/Dorota_z_M%C4%85tow%C3%B3w"
+    }
 }

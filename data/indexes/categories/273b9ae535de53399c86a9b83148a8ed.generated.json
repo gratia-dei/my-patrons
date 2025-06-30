@@ -199,9 +199,9 @@
         },
         "records/patrons/dorothea/mon": {
             "de": "Dorothea von Montau",
-            "pl": "Dorota z Mątowów",
+            "la": "Dorothea Montoviensis",
             "en": "Dorothy of Montau",
-            "la": "Dorothea Montoviensis"
+            "pl": "Dorota z Mątowów"
         },
         "records/patrons/elisabeth/cat": {
             "fr": "Élisabeth de la Sainte Trinité",

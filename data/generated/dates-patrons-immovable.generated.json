@@ -2600,6 +2600,21 @@
             }
         }
     },
+    "06-25": {
+        "records/patrons/dorothea/mon": {
+            "name": {
+                "de": "Dorothea von Montau",
+                "la": "Dorothea Montoviensis",
+                "en": "Dorothy of Montau",
+                "pl": "Dorota z Mątowów"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 VI",
+                "feast": "25 VI",
+                "mr-2004": "25 VI: #11"
+            }
+        }
+    },
     "06-27": {
         "records/patrons/ludovica/mon": {
             "name": {
