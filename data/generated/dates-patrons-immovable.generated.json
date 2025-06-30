@@ -2615,6 +2615,21 @@
             }
         }
     },
+    "06-26": {
+        "records/patrons/iosephus/esc": {
+            "name": {
+                "es": "Josemaría Escrivá de Balaguer",
+                "la": "Iosephus Maria Escrivá de Balaguer",
+                "en": "Josemaría Escrivá de Balaguer",
+                "pl": "Josemaría Escrivá de Balaguer"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 VI",
+                "feast": "26 VI",
+                "mr-2004": "26 VI: #17"
+            }
+        }
+    },
     "06-27": {
         "records/patrons/ludovica/mon": {
             "name": {

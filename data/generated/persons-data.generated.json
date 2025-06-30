@@ -5931,6 +5931,7 @@
             "la": "Iosephus",
             "en": "Joseph",
             "pl": "Józef",
+            "es": "José",
             "fr": "Joseph",
             "it": "Giuseppe",
             "ko": "요셉",
@@ -5952,11 +5953,11 @@
         "feasts": []
     },
     "patrons/iosephus/esc": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Josemaría Escrivá de Balaguer",
-            "en": "Josemaría Escrivá de Balaguer",
             "la": "Iosephus Maria Escrivá de Balaguer",
+            "en": "Josemaría Escrivá de Balaguer",
             "pl": "Josemaría Escrivá de Balaguer"
         },
         "died": [
