@@ -6143,6 +6143,19 @@
             "pl": "Ireneusz"
         }
     },
+    "patrons/irenaeus/lug": {
+        "active": true,
+        "names": {
+            "fr": "Irénée de Lyon",
+            "la": "Irenaeus Lugdunensis",
+            "en": "Irenaeus of Lugdunum",
+            "pl": "Ireneusz z Lyonu"
+        },
+        "died": [
+            "~202"
+        ],
+        "feasts": []
+    },
     "patrons/irenaeus/sir": {
         "active": true,
         "names": {
@@ -8537,6 +8550,18 @@
             "pl": "Wszyscy Wierni Zmarli"
         },
         "died": [],
+        "feasts": []
+    },
+    "patrons/multi/lug": {
+        "active": true,
+        "names": {
+            "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
+            "en": "Almost all the citizens of Lyon; with them, Irenaeus",
+            "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
+        },
+        "died": [
+            "~202"
+        ],
         "feasts": []
     },
     "patrons/multi/nid": {

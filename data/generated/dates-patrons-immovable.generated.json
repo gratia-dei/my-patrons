@@ -2677,6 +2677,34 @@
             }
         }
     },
+    "06-28": {
+        "records/patrons/irenaeus/lug": {
+            "name": {
+                "fr": "Irénée de Lyon",
+                "la": "Irenaeus Lugdunensis",
+                "en": "Irenaeus of Lugdunum",
+                "pl": "Ireneusz z Lyonu"
+            },
+            "sources": {
+                "mr-1584": "28 VI: #3",
+                "mr-1956": "28 VI: #2",
+                "mr-1956-variations": "28 VI: #2-ab-1960-07-26",
+                "mr-2004": "28 VI: #1"
+            }
+        },
+        "records/patrons/multi/lug": {
+            "name": {
+                "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
+                "en": "Almost all the citizens of Lyon; with them, Irenaeus",
+                "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
+            },
+            "sources": {
+                "mr-1584": "28 VI: #3",
+                "mr-1956": "28 VI: #2",
+                "mr-1956-variations": "28 VI: #2-ab-1960-07-26"
+            }
+        }
+    },
     "06-29": {
         "records/patrons/petrus/apo": {
             "name": {
@@ -2757,6 +2785,19 @@
             "sources": {
                 "mr-1584": "2 VII: #6",
                 "mr-1956": "2 VII: #6"
+            }
+        }
+    },
+    "07-03": {
+        "records/patrons/irenaeus/lug": {
+            "name": {
+                "fr": "Irénée de Lyon",
+                "la": "Irenaeus Lugdunensis",
+                "en": "Irenaeus of Lugdunum",
+                "pl": "Ireneusz z Lyonu"
+            },
+            "sources": {
+                "mr-1956-variations": "3 VII: #pre-1-ab-1960-07-26"
             }
         }
     },

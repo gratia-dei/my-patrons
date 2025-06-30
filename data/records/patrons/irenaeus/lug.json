@@ -1,0 +1,47 @@
+{
+    "names": {
+        "fr": [
+            "Irénée de Lyon"
+        ],
+        "la": [
+            "Irenaeus Lugdunensis"
+        ],
+        "en": [
+            "Irenaeus of Lugdunum"
+        ],
+        "pl": [
+            "Ireneusz z Lyonu"
+        ]
+    },
+    "forenames": ["irenaeus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~202"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./28#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/28#2"],
+        "mr-1956-movable": [],
+        "mr-1956-variations": ["1:Junii/28#2-ab-1960-07-26", "1:Julii/3#pre-1-ab-1960-07-26"],
+
+        "mr-2004": ["1:iun./28#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/26628",
+        "wiki": "https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu"
+    }
+}

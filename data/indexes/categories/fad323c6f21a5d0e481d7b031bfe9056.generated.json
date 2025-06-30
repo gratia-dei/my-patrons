@@ -909,6 +909,12 @@
             "en": "Joseph Zaplata",
             "la": "Iosephus Zaplata"
         },
+        "records/patrons/irenaeus/lug": {
+            "fr": "Irénée de Lyon",
+            "la": "Irenaeus Lugdunensis",
+            "en": "Irenaeus of Lugdunum",
+            "pl": "Ireneusz z Lyonu"
+        },
         "records/patrons/irenaeus/sir": {
             "la": "Irenaeus Sirmiensis",
             "en": "Irenaeus of Sirmium",
@@ -1254,6 +1260,11 @@
             "la": "Socia Theotimi Caesariensis",
             "en": "Theotimus' of Caesarea Companions",
             "pl": "Towarzysze Teotyma z Cezarei"
+        },
+        "records/patrons/multi/lug": {
+            "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
+            "en": "Almost all the citizens of Lyon; with them, Irenaeus",
+            "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
         },
         "records/patrons/multi/nid": {
             "la": "Decem milia martyrum pro fide Nicomediae",

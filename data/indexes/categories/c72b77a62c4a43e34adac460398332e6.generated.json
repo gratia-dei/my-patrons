@@ -1574,6 +1574,12 @@
             "en": "Joshua, son of Nun",
             "pl": "Jozue, syn Nuna"
         },
+        "records/patrons/irenaeus/lug": {
+            "fr": "Irénée de Lyon",
+            "la": "Irenaeus Lugdunensis",
+            "en": "Irenaeus of Lugdunum",
+            "pl": "Ireneusz z Lyonu"
+        },
         "records/patrons/irenaeus/sir": {
             "la": "Irenaeus Sirmiensis",
             "en": "Irenaeus of Sirmium",
