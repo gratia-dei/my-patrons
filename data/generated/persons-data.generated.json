@@ -2929,7 +2929,7 @@
         }
     },
     "patrons/cyrillus/ale": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Cyrillus Alexandrinus",
             "en": "Cyril of Alexandria",

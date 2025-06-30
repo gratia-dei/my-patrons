@@ -228,6 +228,17 @@
                 "mr-1956": "28 I: #2"
             }
         },
+        "records/patrons/cyrillus/ale": {
+            "name": {
+                "la": "Cyrillus Alexandrinus",
+                "en": "Cyril of Alexandria",
+                "pl": "Cyryl Aleksandryjski"
+            },
+            "sources": {
+                "mr-1584": "28 I: #6",
+                "mr-1956": "28 I: #3"
+            }
+        },
         "records/patrons/thomas/aqu": {
             "name": {
                 "it": "Tommaso d'Aquino",
@@ -406,6 +417,16 @@
                 "mr-1584": "9 II: #1",
                 "mr-1956": "9 II: #2",
                 "mr-2004": "9 II: #1"
+            }
+        },
+        "records/patrons/cyrillus/ale": {
+            "name": {
+                "la": "Cyrillus Alexandrinus",
+                "en": "Cyril of Alexandria",
+                "pl": "Cyryl Aleksandryjski"
+            },
+            "sources": {
+                "mr-1956": "9 II: #1"
             }
         }
     },
@@ -2631,6 +2652,17 @@
         }
     },
     "06-27": {
+        "records/patrons/cyrillus/ale": {
+            "name": {
+                "la": "Cyrillus Alexandrinus",
+                "en": "Cyril of Alexandria",
+                "pl": "Cyryl Aleksandryjski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 VI",
+                "mr-2004": "27 VI: #1"
+            }
+        },
         "records/patrons/ludovica/mon": {
             "name": {
                 "fr": "Louise-Thérèse de Montaignac de Chauvance",

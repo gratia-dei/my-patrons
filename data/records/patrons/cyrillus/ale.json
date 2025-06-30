@@ -1,21 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Cyrillus Alexandrinus"
-    ],
-    "en": [
-      "Cyril of Alexandria"
-    ],
-    "pl": [
-      "Cyryl Aleksandryjski"
-    ]
-  },
+    "names": {
+        "la": [
+            "Cyrillus Alexandrinus"
+        ],
+        "en": [
+            "Cyril of Alexandria"
+        ],
+        "pl": [
+            "Cyryl Aleksandryjski"
+        ]
+    },
+    "forenames": ["cyrillus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~378"],
-  "died": ["444-06-27"],
+    "active": true,
 
-  "also-in-martyrology": ["01-28", "02-09", "06-27"],
+    "born": ["~378"],
+    "died": ["444-06-27"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["cyrillus"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"]
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./28#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/28#3", "1:Februarii/9#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./27#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/57514",
+        "wiki": "https://pl.wikipedia.org/wiki/Cyryl_z_Aleksandrii"
+    }
 }
