@@ -4373,7 +4373,7 @@
         "feasts": []
     },
     "patrons/georgius/pop": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jerzy Popiełuszko",
             "la": "Georgius Popiełuszko",

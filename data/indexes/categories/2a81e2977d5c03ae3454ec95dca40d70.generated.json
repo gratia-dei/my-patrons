@@ -290,6 +290,11 @@
             "en": "Jury Kashyra",
             "la": "Georgius Kaszyra"
         },
+        "records/patrons/georgius/pop": {
+            "pl": "Jerzy Popiełuszko",
+            "la": "Georgius Popiełuszko",
+            "en": "George Popiełuszko"
+        },
         "records/patrons/gualterius/eob": {
             "la": "Gualterius; cum eo, i.a., Eobanus",
             "en": "Walter; with him, i.a., Eoban",

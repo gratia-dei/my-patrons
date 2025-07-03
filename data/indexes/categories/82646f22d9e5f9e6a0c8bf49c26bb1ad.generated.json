@@ -14,11 +14,6 @@
         ]
     },
     "links": {
-        "records/patrons/georgius/pop": {
-            "pl": "Jerzy Popiełuszko",
-            "la": "Georgius Popiełuszko",
-            "en": "George Popiełuszko"
-        },
         "records/patrons/petrus/eym": {
             "fr": "Pierre-Julien Eymard",
             "en": "Peter Julian Eymanrd",

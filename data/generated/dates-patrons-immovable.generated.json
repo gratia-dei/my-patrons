@@ -4780,6 +4780,17 @@
         }
     },
     "10-19": {
+        "records/patrons/georgius/pop": {
+            "name": {
+                "pl": "Jerzy Popiełuszko",
+                "la": "Georgius Popiełuszko",
+                "en": "George Popiełuszko"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 X",
+                "feast": "19 X"
+            }
+        },
         "records/patrons/ioannes/lal": {
             "name": {
                 "fr": "Jean de La Lande",
