@@ -316,6 +316,12 @@
             "la": "Antonius Ulma",
             "en": "Anthony Ulma"
         },
+        "records/patrons/antonius/zac": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
+        },
         "records/patrons/aristarchus/the": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",

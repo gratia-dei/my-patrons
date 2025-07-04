@@ -1442,6 +1442,19 @@
         ],
         "feasts": []
     },
+    "patrons/antonius/zac": {
+        "active": true,
+        "names": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
+        },
+        "died": [
+            "1539-07-05"
+        ],
+        "feasts": []
+    },
     "patrons/apollonia": {
         "names": {
             "la": "Apollonia",

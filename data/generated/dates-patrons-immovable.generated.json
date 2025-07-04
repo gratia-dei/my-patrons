@@ -2815,6 +2815,22 @@
             }
         }
     },
+    "07-05": {
+        "records/patrons/antonius/zac": {
+            "name": {
+                "it": "Antonio Maria Zaccaria",
+                "la": "Antonius Maria Zaccaria",
+                "en": "Anthony Mary Zaccaria",
+                "pl": "Antoni Maria Zaccaria"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VII",
+                "feast": "5 VII",
+                "mr-1956": "5 VII: #1",
+                "mr-2004": "5 VII: #1"
+            }
+        }
+    },
     "07-06": {
         "records/patrons/tranquillinus/rom": {
             "name": {

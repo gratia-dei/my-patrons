@@ -102,6 +102,12 @@
             "pl": "Antoni Ulma",
             "la": "Antonius Ulma",
             "en": "Anthony Ulma"
+        },
+        "records/patrons/antonius/zac": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
         }
     }
 }

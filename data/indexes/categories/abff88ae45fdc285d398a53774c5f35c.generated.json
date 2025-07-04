@@ -73,6 +73,12 @@
             "en": "Anthony of Padua",
             "pl": "Antoni Padewski"
         },
+        "records/patrons/antonius/zac": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
+        },
         "records/patrons/athanasius/ale": {
             "la": "Athanasius Magnus",
             "en": "Athanasius the Great",
