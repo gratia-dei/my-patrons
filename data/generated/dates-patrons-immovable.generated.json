@@ -2844,6 +2844,21 @@
             }
         }
     },
+    "07-07": {
+        "records/patrons/benedictus/11p": {
+            "name": {
+                "it": "Benedetto XI",
+                "la": "Benedictus XI",
+                "en": "Benedict XI",
+                "pl": "Benedykt XI"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 VII",
+                "mr-1956": "7 VII: #11",
+                "mr-2004": "7 VII: #7"
+            }
+        }
+    },
     "07-13": {
         "records/patrons/emmanuel/lev": {
             "name": {
