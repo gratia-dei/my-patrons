@@ -1172,6 +1172,11 @@
             "en": "Jerome Ranuzzi",
             "pl": "Hieronim Ranuzzi"
         },
+        "records/patrons/hilarion/pro": {
+            "la": "Hilarion; cum eo, Proclus",
+            "en": "Hilarion; with him, Proclus",
+            "pl": "Hilarion; z nim, Prokles"
+        },
         "records/patrons/hilarius/1pp": {
             "la": "Papa Hilarius",
             "en": "Pope Hillary",
@@ -2144,6 +2149,11 @@
             "la": "Pontianus Papa",
             "en": "Pontian Pope",
             "pl": "Poncjan Papież"
+        },
+        "records/patrons/proclus/hil": {
+            "la": "Proclus; cum eo, Hilarion",
+            "en": "Proclus; with him, Hilarion",
+            "pl": "Prokles; z nim, Hilarion"
         },
         "records/patrons/quiricus/iul": {
             "el": "Κήρυκος /+ Ιουλίττα",

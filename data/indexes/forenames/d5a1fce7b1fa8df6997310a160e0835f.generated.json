@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Hilarion",
+        "en": "Hilarion",
+        "pl": "Hilarion"
+    },
+    "translations": {
+        "la": [
+            "Hilarion"
+        ],
+        "en": [
+            "Hilarion"
+        ],
+        "pl": [
+            "Hilarion"
+        ]
+    },
+    "links": {
+        "records/patrons/hilarion/pro": {
+            "la": "Hilarion; cum eo, Proclus",
+            "en": "Hilarion; with him, Proclus",
+            "pl": "Hilarion; z nim, Prokles"
+        }
+    }
+}

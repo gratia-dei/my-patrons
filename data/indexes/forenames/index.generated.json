@@ -1951,6 +1951,9 @@
         "la": "Athanasius",
         "en": "Athanasius"
     },
+    "8ae3fb3fd4ef696f8432b1ba9842055b": {
+        "pl": "Prokles"
+    },
     "8b4eebfe6b92e606bdea93f7ffe312fb": {
         "pl": "Jan Chrzciciel"
     },
@@ -2769,6 +2772,10 @@
         "la": "Acacius",
         "en": "Acacius"
     },
+    "bdd382245bcf2a055fbc5aefc6ae5dd1": {
+        "la": "Proclus",
+        "en": "Proclus"
+    },
     "be1ae2eeeca8fb8302aed56fb0a6019d": {
         "la": "Rita",
         "en": "Rita",
@@ -3129,6 +3136,11 @@
     },
     "d52e32f3a96a64786814ae9b5279fbe5": {
         "en": "James"
+    },
+    "d5a1fce7b1fa8df6997310a160e0835f": {
+        "la": "Hilarion",
+        "en": "Hilarion",
+        "pl": "Hilarion"
     },
     "d5eb892e0d375d7d145ab2b1e32144ec": {
         "la": "Secundinus",

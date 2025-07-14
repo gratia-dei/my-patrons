@@ -2859,6 +2859,30 @@
             }
         }
     },
+    "07-12": {
+        "records/patrons/proclus/hil": {
+            "name": {
+                "la": "Proclus; cum eo, Hilarion",
+                "en": "Proclus; with him, Hilarion",
+                "pl": "Prokles; z nim, Hilarion"
+            },
+            "sources": {
+                "mr-1584": "12 VII: #5",
+                "mr-1956": "12 VII: #6"
+            }
+        },
+        "records/patrons/hilarion/pro": {
+            "name": {
+                "la": "Hilarion; cum eo, Proclus",
+                "en": "Hilarion; with him, Proclus",
+                "pl": "Hilarion; z nim, Prokles"
+            },
+            "sources": {
+                "mr-1584": "12 VII: #5",
+                "mr-1956": "12 VII: #6"
+            }
+        }
+    },
     "07-13": {
         "records/patrons/emmanuel/lev": {
             "name": {

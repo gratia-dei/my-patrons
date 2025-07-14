@@ -4829,6 +4829,25 @@
         ],
         "feasts": []
     },
+    "patrons/hilarion": {
+        "names": {
+            "la": "Hilarion",
+            "en": "Hilarion",
+            "pl": "Hilarion"
+        }
+    },
+    "patrons/hilarion/pro": {
+        "active": true,
+        "names": {
+            "la": "Hilarion; cum eo, Proclus",
+            "en": "Hilarion; with him, Proclus",
+            "pl": "Hilarion; z nim, Prokles"
+        },
+        "died": [
+            "~115"
+        ],
+        "feasts": []
+    },
     "patrons/hilarius": {
         "names": {
             "la": "Hilarius",
@@ -9604,6 +9623,25 @@
         },
         "died": [
             "~235"
+        ],
+        "feasts": []
+    },
+    "patrons/proclus": {
+        "names": {
+            "la": "Proclus",
+            "en": "Proclus",
+            "pl": "Prokles"
+        }
+    },
+    "patrons/proclus/hil": {
+        "active": true,
+        "names": {
+            "la": "Proclus; cum eo, Hilarion",
+            "en": "Proclus; with him, Hilarion",
+            "pl": "Prokles; z nim, Hilarion"
+        },
+        "died": [
+            "~115"
         ],
         "feasts": []
     },

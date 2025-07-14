@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Prokles"
+    },
+    "translations": {
+        "la": [
+            "Proclus"
+        ],
+        "en": [
+            "Proclus"
+        ],
+        "pl": [
+            "Prokles"
+        ]
+    },
+    "links": {
+        "records/patrons/proclus/hil": {
+            "la": "Proclus; cum eo, Hilarion",
+            "en": "Proclus; with him, Hilarion",
+            "pl": "Prokles; z nim, Hilarion"
+        }
+    }
+}

@@ -832,6 +832,11 @@
         "pl": "Hieronim",
         "it": "Jeronimo"
     },
+    "hilarion": {
+        "la": "Hilarion",
+        "en": "Hilarion",
+        "pl": "Hilarion"
+    },
     "hilarius": {
         "la": "Hilarius",
         "en": "Hillary",
@@ -1445,6 +1450,11 @@
         "la": "Pontianus",
         "en": "Pontian",
         "pl": "Poncjan"
+    },
+    "proclus": {
+        "la": "Proclus",
+        "en": "Proclus",
+        "pl": "Prokles"
     },
     "quiricus": {
         "la": "Quiricus",
