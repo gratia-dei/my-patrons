@@ -2896,6 +2896,22 @@
             }
         }
     },
+    "07-14": {
+        "records/patrons/camillus/lel": {
+            "name": {
+                "it": "Camillo de Lellis",
+                "la": "Camillus de Lellis",
+                "en": "Camillus de Lellis",
+                "pl": "Kamil de Lellis"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 VII",
+                "feast": "14 VII",
+                "mr-1956": "14 VII: #2",
+                "mr-2004": "14 VII: #1"
+            }
+        }
+    },
     "07-17": {
         "records/patrons/hedwigis/hun": {
             "name": {
@@ -2907,6 +2923,19 @@
             "sources": {
                 "reliable-death-anniversary": "17 VII",
                 "mr-2004": "17 VII: #13"
+            }
+        }
+    },
+    "07-18": {
+        "records/patrons/camillus/lel": {
+            "name": {
+                "it": "Camillo de Lellis",
+                "la": "Camillus de Lellis",
+                "en": "Camillus de Lellis",
+                "pl": "Kamil de Lellis"
+            },
+            "sources": {
+                "mr-1956": "18 VII: #1"
             }
         }
     },

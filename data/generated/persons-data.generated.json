@@ -2351,11 +2351,11 @@
         }
     },
     "patrons/camillus/lel": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Camillo de Lellis",
-            "en": "Camillus de Lellis",
             "la": "Camillus de Lellis",
+            "en": "Camillus de Lellis",
             "pl": "Kamil de Lellis"
         },
         "died": [

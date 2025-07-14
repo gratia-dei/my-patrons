@@ -136,6 +136,12 @@
             "la": "Bruno Cartusiensis",
             "pl": "Bruno Kartuz"
         },
+        "records/patrons/camillus/lel": {
+            "it": "Camillo de Lellis",
+            "la": "Camillus de Lellis",
+            "en": "Camillus de Lellis",
+            "pl": "Kamil de Lellis"
+        },
         "records/patrons/carolus/bor": {
             "it": "Carlo Borromeo",
             "la": "Carolus Borromeo",
