@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Cyriak"
+    },
+    "translations": {
+        "la": [
+            "Cyriacus"
+        ],
+        "en": [
+            "Cyriacus"
+        ],
+        "pl": [
+            "Cyriak"
+        ]
+    },
+    "links": {
+        "records/patrons/cyriacus/seb": {
+            "la": "Cyriacus de Sebaste",
+            "en": "Cyriacus of Sebaste",
+            "pl": "Cyriak z Sebasty"
+        }
+    }
+}

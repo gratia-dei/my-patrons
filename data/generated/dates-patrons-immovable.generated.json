@@ -2912,6 +2912,42 @@
             }
         }
     },
+    "07-15": {
+        "records/patrons/antiochus/ana": {
+            "name": {
+                "la": "Antiochus Anastasiopolitanus",
+                "en": "Antiochus of Anastasiopolis",
+                "pl": "Antioch z Anastasiopolis"
+            },
+            "sources": {
+                "mr-1584": "15 VII: #5",
+                "mr-1956": "15 VII: #8"
+            }
+        },
+        "records/patrons/cyriacus/seb": {
+            "name": {
+                "la": "Cyriacus de Sebaste",
+                "en": "Cyriacus of Sebaste",
+                "pl": "Cyriak z Sebasty"
+            },
+            "sources": {
+                "mr-1584": "15 VII: #5",
+                "mr-1956": "15 VII: #8"
+            }
+        }
+    },
+    "07-16": {
+        "records/patrons/antiochus/ana": {
+            "name": {
+                "la": "Antiochus Anastasiopolitanus",
+                "en": "Antiochus of Anastasiopolis",
+                "pl": "Antioch z Anastasiopolis"
+            },
+            "sources": {
+                "mr-2004": "16 VII: #2"
+            }
+        }
+    },
     "07-17": {
         "records/patrons/hedwigis/hun": {
             "name": {

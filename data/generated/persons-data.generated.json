@@ -1221,7 +1221,7 @@
         }
     },
     "patrons/antiochus/ana": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Antiochus Anastasiopolitanus",
             "en": "Antiochus of Anastasiopolis",
@@ -2930,6 +2930,26 @@
         },
         "died": [
             "258-09-14"
+        ],
+        "feasts": []
+    },
+    "patrons/cyriacus": {
+        "names": {
+            "la": "Cyriacus",
+            "en": "Cyriacus",
+            "pl": "Cyriak"
+        }
+    },
+    "patrons/cyriacus/seb": {
+        "active": true,
+        "names": {
+            "la": "Cyriacus de Sebaste",
+            "en": "Cyriacus of Sebaste",
+            "pl": "Cyriak z Sebasty"
+        },
+        "died": [
+            ">251",
+            "<350"
         ],
         "feasts": []
     },
