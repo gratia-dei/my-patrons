@@ -1,0 +1,18 @@
+{
+    "names": {
+        "pt": "da Costa"
+    },
+    "translations": {
+        "pt": [
+            "da Costa"
+        ]
+    },
+    "links": {
+        "records/patrons/simon/cos": {
+            "pt": "Simão da Costa",
+            "la": "Simon da Costa",
+            "en": "Simon da Costa",
+            "pl": "Szymon da Costa"
+        }
+    }
+}

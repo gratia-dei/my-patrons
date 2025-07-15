@@ -138,6 +138,17 @@
         }
     },
     "01-19": {
+        "records/patrons/simon/cos": {
+            "name": {
+                "pt": "Simão da Costa",
+                "la": "Simon da Costa",
+                "en": "Simon da Costa",
+                "pl": "Szymon da Costa"
+            },
+            "sources": {
+                "feast": "19 I"
+            }
+        },
         "records/patrons/macarius/mag": {
             "name": {
                 "la": "Macarius Magnus",
@@ -2937,6 +2948,18 @@
         }
     },
     "07-16": {
+        "records/patrons/simon/cos": {
+            "name": {
+                "pt": "Simão da Costa",
+                "la": "Simon da Costa",
+                "en": "Simon da Costa",
+                "pl": "Szymon da Costa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 VII",
+                "mr-2004": "16 VII: #9"
+            }
+        },
         "records/patrons/antiochus/ana": {
             "name": {
                 "la": "Antiochus Anastasiopolitanus",

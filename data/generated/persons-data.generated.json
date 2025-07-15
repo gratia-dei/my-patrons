@@ -10586,7 +10586,8 @@
         "names": {
             "la": "Simon",
             "en": "Simon",
-            "pl": "Szymon"
+            "pl": "Szymon",
+            "pt": "Simão"
         }
     },
     "patrons/simon/apo": {
@@ -10606,6 +10607,19 @@
                 }
             }
         }
+    },
+    "patrons/simon/cos": {
+        "active": true,
+        "names": {
+            "pt": "Simão da Costa",
+            "la": "Simon da Costa",
+            "en": "Simon da Costa",
+            "pl": "Szymon da Costa"
+        },
+        "died": [
+            "1570-07-16"
+        ],
+        "feasts": []
     },
     "patrons/simon/lip": {
         "active": false,

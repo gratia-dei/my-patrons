@@ -1,0 +1,54 @@
+{
+    "names": {
+        "pt": [
+            "Simão da Costa"
+        ],
+        "la": [
+            "Simon da Costa"
+        ],
+        "en": [
+            "Simon da Costa"
+        ],
+        "pl": [
+            "Szymon da Costa",
+            "Szymon Acosta"
+        ]
+    },
+    "forenames": ["simon"],
+    "surnames": [
+        {
+            "pt": "da Costa"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1570-07-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1854-11-05"
+    },
+    "canonized": null,
+    "anniversary": ["01-19"],
+
+    "categories": ["vir", "martyr", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./16#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/Ignazio-de-Azevedo-e-39-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/66578",
+        "wiki": "https://pl.wikipedia.org/wiki/Czterdziestu_m%C4%99czennik%C3%B3w_z_Brazylii"
+    }
+}
