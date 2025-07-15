@@ -1,43 +1,60 @@
 {
-  "names": {
-    "fr": [
-      "Gabriel Taurin Dufresse",
-      "Jean Gabriel Taurin Dufresse"
+    "names": {
+        "fr": [
+            "Gabriel Taurin Dufresse",
+            "Jean Gabriel Taurin Dufresse"
+        ],
+        "la": [
+            "Gabriel Taurinus Dufresse",
+            "Ioannes Gabriel Taurinus Dufresse"
+        ],
+        "en": [
+            "Gabriel Taurin Dufresse",
+            "Louis Gabriel Taurin Dufresse"
+        ],
+        "pl": [
+            "Gabriel Taurin Dufresse",
+            "Jan Gabriel Taurin Dufresse"
+        ]
+    },
+    "forenames": ["gabriel", "taurinus"],
+    "surnames": [
+        {
+            "fr": "Dufresse"
+        }
     ],
-    "en": [
-      "Gabriel Taurin Dufresse",
-      "Louis Gabriel Taurin Dufresse"
-    ],
-    "la": [
-      "Gabriel Taurinus Dufresse",
-      "Ioannes Gabriel Taurinus Dufresse"
-    ],
-    "pl": [
-      "Gabriel Taurin Dufresse",
-      "Jan Gabriel Taurin Dufresse"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Dufresse"
+    "active": true,
+
+    "born": ["1750-12-08"],
+    "died": ["1815-09-14"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900-05-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-10-01"
+    },
+    "anniversary": ["07-09"],
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["6:iul./9#1", "1:sept./14#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/agostino-zhao-rong.html",
+        "gcatholic": "https://gcatholic.org/p/7880",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Dufresse"
     }
-  ],
-
-  "born": ["1750-12-08"],
-  "died": ["1815-09-14"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1900-05-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-10-01"
-  },
-
-  "also-in-martyrology": ["07-09", "09-14"],
-
-  "forenames": ["gabriel", "taurinus"],
-  "categories": ["vir", "martyr", "episcopus"]
 }

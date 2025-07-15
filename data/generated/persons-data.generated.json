@@ -1579,7 +1579,8 @@
             "la": "Augustinus",
             "en": "Augustine",
             "pl": "Augustyn",
-            "es": "Agustín"
+            "es": "Agustín",
+            "zh": "思定"
         }
     },
     "patrons/augustinus/cal": {
@@ -1623,11 +1624,11 @@
         }
     },
     "patrons/augustinus/zha": {
-        "active": false,
+        "active": true,
         "names": {
-            "zh": "趙榮",
-            "en": "Augustine Zhao Rong",
+            "zh": "趙榮思定",
             "la": "Augustinus Zhao Rong",
+            "en": "Augustine Zhao Rong",
             "pl": "Augustyn Zhao Rong"
         },
         "died": [
@@ -4239,11 +4240,11 @@
         "feasts": []
     },
     "patrons/gabriel/duf": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Gabriel Taurin Dufresse",
-            "en": "Gabriel Taurin Dufresse",
             "la": "Gabriel Taurinus Dufresse",
+            "en": "Gabriel Taurin Dufresse",
             "pl": "Gabriel Taurin Dufresse"
         },
         "died": [
@@ -6144,11 +6145,11 @@
         "feasts": []
     },
     "patrons/iosephus/yua": {
-        "active": false,
+        "active": true,
         "names": {
             "zh": "袁在德若瑟",
-            "en": "Joseph John Zaide",
             "la": "Iosephus Yuan Zaide",
+            "en": "Joseph John Zaide",
             "pl": "Józef Yuan Zaide"
         },
         "died": [

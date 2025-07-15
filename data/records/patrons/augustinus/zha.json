@@ -1,48 +1,65 @@
 {
-  "names": {
-    "zh": [
-      "趙榮"
-    ],
-    "en": [
-      "Augustine Zhao Rong"
-    ],
-    "la": [
-      "Augustinus Zhao Rong"
-    ],
-    "pl": [
-      "Augustyn Zhao Rong"
-    ]
-  },
-
-  "surnames": [
-    {
-      "zh": "趙",
-      "en": "Zhao",
-      "la": "Zhao",
-      "pl": "Zhao"
+    "names": {
+        "zh": [
+            "趙榮思定"
+        ],
+        "la": [
+            "Augustinus Zhao Rong"
+        ],
+        "en": [
+            "Augustine Zhao Rong"
+        ],
+        "pl": [
+            "Augustyn Zhao Rong"
+        ]
     },
-    {
-      "zh": "榮",
-      "en": "Rong",
-      "la": "Rong",
-      "pl": "Rong"
+    "forenames": ["augustinus"],
+    "surnames": [
+        {
+            "zh": "趙",
+            "en": "Zhao",
+            "la": "Zhao",
+            "pl": "Zhao"
+        },
+        {
+            "zh": "榮",
+            "en": "Rong",
+            "la": "Rong",
+            "pl": "Rong"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1746"],
+    "died": ["1815-01-27"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900-05-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-10-01"
+    },
+    "anniversary": ["07-09"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./21#11", "1:iul./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/agostino-zhao-rong.html",
+        "gcatholic": "https://gcatholic.org/p/66022",
+        "wiki": "https://pl.wikipedia.org/wiki/Augustyn_Zhao_Rong"
     }
-  ],
-
-  "born": ["~1746"],
-  "died": ["1815-01-27"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1900-05-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-10-01"
-  },
-
-  "also-in-martyrology": ["03-21", "07-09"],
-
-  "forenames": ["augustinus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

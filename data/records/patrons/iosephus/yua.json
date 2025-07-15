@@ -1,48 +1,65 @@
 {
-  "names": {
-    "zh": [
-      "袁在德若瑟"
-    ],
-    "en": [
-      "Joseph John Zaide"
-    ],
-    "la": [
-      "Iosephus Yuan Zaide"
-    ],
-    "pl": [
-      "Józef Yuan Zaide"
-    ]
-  },
-
-  "surnames": [
-    {
-      "zh": "袁",
-      "en": "Yuan",
-      "la": "Yuan",
-      "pl": "Yuan"
+    "names": {
+        "zh": [
+            "袁在德若瑟"
+        ],
+        "la": [
+            "Iosephus Yuan Zaide"
+        ],
+        "en": [
+            "Joseph John Zaide"
+        ],
+        "pl": [
+            "Józef Yuan Zaide"
+        ]
     },
-    {
-      "zh": "在德",
-      "en": "Zaide",
-      "la": "Zaide",
-      "pl": "Zaide"
+    "forenames": ["iosephus"],
+    "surnames": [
+        {
+            "zh": "袁",
+            "en": "Yuan",
+            "la": "Yuan",
+            "pl": "Yuan"
+        },
+        {
+            "zh": "在德",
+            "en": "Zaide",
+            "la": "Zaide",
+            "pl": "Zaide"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1766"],
+    "died": ["1817-06-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900-05-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-10-01"
+    },
+    "anniversary": ["07-09"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./24#9", "80:iul./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/agostino-zhao-rong.html",
+        "gcatholic": "https://gcatholic.org/p/66025",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Yuan_Zaide"
     }
-  ],
-
-  "born": ["~1766"],
-  "died": ["1817-06-24"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1900-05-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-10-01"
-  },
-
-  "also-in-martyrology": ["06-24", "07-09"],
-
-  "forenames": ["iosephus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

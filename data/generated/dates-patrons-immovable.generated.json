@@ -227,6 +227,19 @@
             }
         }
     },
+    "01-27": {
+        "records/patrons/augustinus/zha": {
+            "name": {
+                "zh": "趙榮思定",
+                "la": "Augustinus Zhao Rong",
+                "en": "Augustine Zhao Rong",
+                "pl": "Augustyn Zhao Rong"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 I"
+            }
+        }
+    },
     "01-28": {
         "records/patrons/agnes/rom": {
             "name": {
@@ -1167,6 +1180,19 @@
             "sources": {
                 "mr-1584": "20 III: #1",
                 "mr-1956": "20 III: #1"
+            }
+        }
+    },
+    "03-21": {
+        "records/patrons/augustinus/zha": {
+            "name": {
+                "zh": "趙榮思定",
+                "la": "Augustinus Zhao Rong",
+                "en": "Augustine Zhao Rong",
+                "pl": "Augustyn Zhao Rong"
+            },
+            "sources": {
+                "mr-2004": "21 III: #11"
             }
         }
     },
@@ -2632,6 +2658,20 @@
             }
         }
     },
+    "06-24": {
+        "records/patrons/iosephus/yua": {
+            "name": {
+                "zh": "袁在德若瑟",
+                "la": "Iosephus Yuan Zaide",
+                "en": "Joseph John Zaide",
+                "pl": "Józef Yuan Zaide"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VI",
+                "mr-2004": "24 VI: #9"
+            }
+        }
+    },
     "06-25": {
         "records/patrons/dorothea/mon": {
             "name": {
@@ -2881,6 +2921,44 @@
                 "mr-1584": "8 VII: #4",
                 "mr-1956": "8 VII: #6",
                 "mr-2004": "8 VII: #9"
+            }
+        }
+    },
+    "07-09": {
+        "records/patrons/augustinus/zha": {
+            "name": {
+                "zh": "趙榮思定",
+                "la": "Augustinus Zhao Rong",
+                "en": "Augustine Zhao Rong",
+                "pl": "Augustyn Zhao Rong"
+            },
+            "sources": {
+                "feast": "9 VII",
+                "mr-2004": "9 VII: #1"
+            }
+        },
+        "records/patrons/gabriel/duf": {
+            "name": {
+                "fr": "Gabriel Taurin Dufresse",
+                "la": "Gabriel Taurinus Dufresse",
+                "en": "Gabriel Taurin Dufresse",
+                "pl": "Gabriel Taurin Dufresse"
+            },
+            "sources": {
+                "feast": "9 VII",
+                "mr-2004": "9 VII: #1"
+            }
+        },
+        "records/patrons/iosephus/yua": {
+            "name": {
+                "zh": "袁在德若瑟",
+                "la": "Iosephus Yuan Zaide",
+                "en": "Joseph John Zaide",
+                "pl": "Józef Yuan Zaide"
+            },
+            "sources": {
+                "feast": "9 VII",
+                "mr-2004": "9 VII: #1"
             }
         }
     },
@@ -3912,6 +3990,20 @@
                 "mr-1584": "11 IX: #4",
                 "mr-1956": "11 IX: #4",
                 "mr-2004": "11 IX: #3"
+            }
+        }
+    },
+    "09-14": {
+        "records/patrons/gabriel/duf": {
+            "name": {
+                "fr": "Gabriel Taurin Dufresse",
+                "la": "Gabriel Taurinus Dufresse",
+                "en": "Gabriel Taurin Dufresse",
+                "pl": "Gabriel Taurin Dufresse"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 IX",
+                "mr-2004": "14 IX: #10"
             }
         }
     },

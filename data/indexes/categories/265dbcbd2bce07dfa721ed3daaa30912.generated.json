@@ -210,9 +210,9 @@
             "pl": "Augustyn Caloca Cortés"
         },
         "records/patrons/augustinus/zha": {
-            "zh": "趙榮",
-            "en": "Augustine Zhao Rong",
+            "zh": "趙榮思定",
             "la": "Augustinus Zhao Rong",
+            "en": "Augustine Zhao Rong",
             "pl": "Augustyn Zhao Rong"
         },
         "records/patrons/aurelius/sab": {
@@ -626,8 +626,8 @@
         },
         "records/patrons/gabriel/duf": {
             "fr": "Gabriel Taurin Dufresse",
-            "en": "Gabriel Taurin Dufresse",
             "la": "Gabriel Taurinus Dufresse",
+            "en": "Gabriel Taurin Dufresse",
             "pl": "Gabriel Taurin Dufresse"
         },
         "records/patrons/gabriel/lal": {
@@ -910,8 +910,8 @@
         },
         "records/patrons/iosephus/yua": {
             "zh": "袁在德若瑟",
-            "en": "Joseph John Zaide",
             "la": "Iosephus Yuan Zaide",
+            "en": "Joseph John Zaide",
             "pl": "Józef Yuan Zaide"
         },
         "records/patrons/iosephus/zap": {
