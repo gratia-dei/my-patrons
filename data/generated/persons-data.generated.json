@@ -8547,7 +8547,7 @@
         }
     },
     "patrons/multi/abr": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",

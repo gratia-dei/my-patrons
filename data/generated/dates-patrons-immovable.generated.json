@@ -2870,6 +2870,20 @@
             }
         }
     },
+    "07-08": {
+        "records/patrons/multi/abr": {
+            "name": {
+                "la": "Monachi Abrahamitae",
+                "en": "Abrahamic Monks",
+                "pl": "Mnisi Abrahamici"
+            },
+            "sources": {
+                "mr-1584": "8 VII: #4",
+                "mr-1956": "8 VII: #6",
+                "mr-2004": "8 VII: #9"
+            }
+        }
+    },
     "07-12": {
         "records/patrons/proclus/hil": {
             "name": {
