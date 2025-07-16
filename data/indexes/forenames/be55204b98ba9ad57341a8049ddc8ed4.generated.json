@@ -1,10 +1,22 @@
 {
     "names": {
-        "vi": "Nghi"
+        "la": "Đình",
+        "en": "Đình",
+        "pl": "Đình",
+        "vi": "Đình"
     },
     "translations": {
+        "la": [
+            "Đình"
+        ],
+        "en": [
+            "Đình"
+        ],
+        "pl": [
+            "Đình"
+        ],
         "vi": [
-            "Nghi"
+            "Đình"
         ]
     },
     "links": {

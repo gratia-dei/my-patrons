@@ -13,16 +13,10 @@
             "Józef Nguyễn Đình Nghi"
         ]
     },
-    "forenames": ["iosephus"],
+    "forenames": ["iosephus", "nghi", "dinh"],
     "surnames": [
         {
             "vi": "Nguyễn"
-        },
-        {
-            "vi": "Đình"
-        },
-        {
-            "vi": "Nghi"
         }
     ],
     "epithets": null,

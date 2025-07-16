@@ -1,8 +1,20 @@
 {
     "names": {
+        "la": "Phụng",
+        "en": "Phụng",
+        "pl": "Phụng",
         "vi": "Phụng"
     },
     "translations": {
+        "la": [
+            "Phụng"
+        ],
+        "en": [
+            "Phụng"
+        ],
+        "pl": [
+            "Phụng"
+        ],
         "vi": [
             "Phụng"
         ]

@@ -1,8 +1,20 @@
 {
     "names": {
+        "la": "Văn",
+        "en": "Văn",
+        "pl": "Văn",
         "vi": "Văn"
     },
     "translations": {
+        "la": [
+            "Văn"
+        ],
+        "en": [
+            "Văn"
+        ],
+        "pl": [
+            "Văn"
+        ],
         "vi": [
             "Văn"
         ]

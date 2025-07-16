@@ -13,16 +13,10 @@
             "Marcin Tạ Đức Thịnh"
         ]
     },
-    "forenames": ["martinus"],
+    "forenames": ["martinus", "thinh", "duc"],
     "surnames": [
         {
             "vi": "Tạ"
-        },
-        {
-            "vi": "Đức"
-        },
-        {
-            "vi": "Thịnh"
         }
     ],
     "epithets": null,

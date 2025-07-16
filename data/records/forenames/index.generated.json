@@ -641,6 +641,12 @@
         "pl": "Dydak",
         "es": "Diego"
     },
+    "dinh": {
+        "la": "Đình",
+        "en": "Đình",
+        "pl": "Đình",
+        "vi": "Đình"
+    },
     "dionysius": {
         "la": "Dionysius",
         "en": "Denis",
@@ -672,6 +678,12 @@
         "en": "Dorothy",
         "pl": "Dorota",
         "de": "Dorothea"
+    },
+    "duc": {
+        "la": "Đức",
+        "en": "Đức",
+        "pl": "Đức",
+        "vi": "Đức"
     },
     "editha": {
         "la": "Editha",
@@ -1609,6 +1621,18 @@
         "en": "Nathanael",
         "pl": "Nataniel"
     },
+    "ngan": {
+        "la": "Ngân",
+        "en": "Ngân",
+        "pl": "Ngân",
+        "vi": "Ngân"
+    },
+    "nghi": {
+        "la": "Nghi",
+        "en": "Nghi",
+        "pl": "Nghi",
+        "vi": "Nghi"
+    },
     "nicolaus": {
         "la": "Nicolaus",
         "en": "Nicholas",
@@ -1721,6 +1745,12 @@
         "la": "Philoteus",
         "en": "Philotheus",
         "pl": "Filoteusz"
+    },
+    "phung": {
+        "la": "Phụng",
+        "en": "Phụng",
+        "pl": "Phụng",
+        "vi": "Phụng"
     },
     "pirminus": {
         "la": "Pirminus",
@@ -2154,6 +2184,12 @@
         "en": "Theotimus",
         "pl": "Teotym"
     },
+    "thinh": {
+        "la": "Thịnh",
+        "en": "Thịnh",
+        "pl": "Thịnh",
+        "vi": "Thịnh"
+    },
     "thomas": {
         "la": "Thomas",
         "en": "Thomas",
@@ -2225,6 +2261,12 @@
         "la": "Valerianus",
         "en": "Valerian",
         "pl": "Walerian"
+    },
+    "van": {
+        "la": "Văn",
+        "en": "Văn",
+        "pl": "Văn",
+        "vi": "Văn"
     },
     "veronica": {
         "la": "Veronica",

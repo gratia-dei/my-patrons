@@ -13,16 +13,10 @@
             "Emanuel Lê Văn Phụng"
         ]
     },
-    "forenames": ["emmanuel"],
+    "forenames": ["emmanuel", "phung", "van"],
     "surnames": [
         {
             "vi": "Lê"
-        },
-        {
-            "vi": "Văn"
-        },
-        {
-            "vi": "Phụng"
         }
     ],
     "epithets": null,

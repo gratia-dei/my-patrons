@@ -13,13 +13,10 @@
             "Paweł Nguyễn Ngân"
         ]
     },
-    "forenames": ["paulus"],
+    "forenames": ["paulus", "ngan"],
     "surnames": [
         {
             "vi": "Nguyễn"
-        },
-        {
-            "vi": "Ngân"
         }
     ],
     "epithets": null,
