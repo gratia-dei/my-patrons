@@ -5,9 +5,6 @@
         "pl": "Zaide"
     },
     "translations": {
-        "zh": [
-            "在德"
-        ],
         "en": [
             "Zaide"
         ],
@@ -16,6 +13,9 @@
         ],
         "pl": [
             "Zaide"
+        ],
+        "zh": [
+            "在德"
         ]
     },
     "links": {

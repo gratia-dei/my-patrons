@@ -1,13 +1,8 @@
 {
     "names": {
-        "en": "Rong",
-        "la": "Rong",
-        "pl": "Rong"
+        "zh": "榮"
     },
     "translations": {
-        "zh": [
-            "榮"
-        ],
         "en": [
             "Rong"
         ],
@@ -16,6 +11,9 @@
         ],
         "pl": [
             "Rong"
+        ],
+        "zh": [
+            "榮"
         ]
     },
     "links": {

@@ -13,19 +13,13 @@
             "Augustyn Zhao Rong"
         ]
     },
-    "forenames": ["augustinus"],
+    "forenames": ["augustinus", "rong"],
     "surnames": [
         {
             "zh": "趙",
             "en": "Zhao",
             "la": "Zhao",
             "pl": "Zhao"
-        },
-        {
-            "zh": "榮",
-            "en": "Rong",
-            "la": "Rong",
-            "pl": "Rong"
         }
     ],
     "epithets": null,
