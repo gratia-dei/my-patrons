@@ -82,6 +82,16 @@
     "06475174d922e7dcbb3ed34c0236dbdf": {
         "en": "Justin"
     },
+    "067dd5c939202e145d7fc7d1ccdf6b89": {
+        "la": "Cha-sŏn",
+        "en": "Cha-sŏn",
+        "pl": "Cha-sŏn"
+    },
+    "06b932e7d22c2a6bb92e69cb2ac633c4": {
+        "la": "Chu-gi",
+        "en": "Chu-gi",
+        "pl": "Chu-gi"
+    },
     "06e91909362921b8a6ebe38382ac36f9": {
         "en": "Oswald",
         "pl": "Oswald"
@@ -96,6 +106,9 @@
     "075df80e892ec3796386ef5d0ece5b0e": {
         "en": "Guntram",
         "pl": "Guntram"
+    },
+    "077077231b77f764f79b6c62b77106fc": {
+        "ko": "제준"
     },
     "07a333b6900285368b7481ed2ae9a38f": {
         "el": "Θεοδώρος"
@@ -150,6 +163,9 @@
     },
     "0a478a0a662794dede8e8bc120a0a282": {
         "la": "Iuvenalis"
+    },
+    "0a8ec0665b2ae15428b5648433fa022d": {
+        "ko": "신철"
     },
     "0aa7bd918421fadaa0b3458c8d06b30e": {
         "it": "Michele"
@@ -579,6 +595,9 @@
     "287db0b554f45a8b38a346c384b3c198": {
         "it": "Gerardo"
     },
+    "28d4348fa863a292fa1f237339a91b79": {
+        "ko": "자선"
+    },
     "28dbf3a8499981fd71e91ffaaf56c817": {
         "el": "Στέφανος"
     },
@@ -690,6 +709,9 @@
     "2e81d02e5cc42db6c48b67b5abec23dc": {
         "la": "Theodorus"
     },
+    "2e8e798801fcac3973904d86c1b5930a": {
+        "ko": "석두"
+    },
     "2ea415108cca45af534ab38e89bcddf8": {
         "en": "Stanislav"
     },
@@ -749,6 +771,9 @@
     "31f5e1c1f8eb667afcec0f426ac8b3c0": {
         "la": "Juvenalis"
     },
+    "3207ea147953b8b94215c9e8883569c0": {
+        "ko": "장금"
+    },
     "328513da838f956756b7098507125efb": {
         "pl": "Auksencjusz"
     },
@@ -802,6 +827,11 @@
         "la": "Susanna",
         "en": "Susanna"
     },
+    "374561a3fdbe8ed91d80ab88350f0175": {
+        "la": "Pong-son",
+        "en": "Pong-son",
+        "pl": "Pong-son"
+    },
     "3753b1ab06475f27dec1b87b1a84ee14": {
         "pl": "Jozue"
     },
@@ -820,6 +850,11 @@
     },
     "3879a9f4ed68eb0926f036fa779403c7": {
         "la": "Innocentius"
+    },
+    "38b1abe6391cb4700d4094fe2b1c087c": {
+        "la": "Che-jun",
+        "en": "Che-jun",
+        "pl": "Che-jun"
     },
     "38d0d24129706e2bdf301b6879ba1546": {
         "en": "Ambrose"
@@ -906,6 +941,9 @@
     "3dd84aa794606dfd5eb82cdcba205a8e": {
         "pl": "Kosma"
     },
+    "3dfb4376aade7bb3791c0fb94b9fb667": {
+        "ko": "계임"
+    },
     "3e06fa3927cbdf4e9d93ba4541acce86": {
         "la": "Michael",
         "en": "Michael"
@@ -986,6 +1024,11 @@
     },
     "435d1271c205e18ae7af937c8d770bf0": {
         "en": "Benedict"
+    },
+    "436d0a17242243a883bf53cbb182274a": {
+        "la": "Kwi-im",
+        "en": "Kwi-im",
+        "pl": "Kwi-im"
     },
     "4399d88d89d552895c77910f31374763": {
         "pl": "Melaniusz"
@@ -1093,6 +1136,11 @@
         "en": "Manettus",
         "pl": "Manettus"
     },
+    "4854ad2484d7c585867e98acae361892": {
+        "la": "Tae-gŏn",
+        "en": "Tae-gŏn",
+        "pl": "Tae-gŏn"
+    },
     "4884b356f2f778d7b336e8d5937f9206": {
         "la": "Ellurus",
         "en": "Ellurus"
@@ -1151,6 +1199,11 @@
     "4c54bd56da093526512df1223446102e": {
         "fr": "Éleuthère"
     },
+    "4c67a1b043454326592c14e8973f181a": {
+        "la": "Sŏng-im",
+        "en": "Sŏng-im",
+        "pl": "Sŏng-im"
+    },
     "4c998d07cb311bd5b93bee9f6a18f588": {
         "la": "Vladimirus"
     },
@@ -1184,6 +1237,11 @@
     },
     "4fce54f456642e3f8e052d64877aa1f7": {
         "en": "Boniface"
+    },
+    "4fda1e21a1f754b7a3e2396821e9b449": {
+        "la": "Mae-im",
+        "en": "Mae-im",
+        "pl": "Mae-im"
     },
     "4fdadc9ae1cd2bc9595b7aa58b5f18a6": {
         "la": "Felicianus"
@@ -1275,6 +1333,9 @@
     "58a5c8135e3b6ff383d19c708dde9dbb": {
         "it": "Eustochio"
     },
+    "5918bdca7ebe39d42e5dabcea73f628f": {
+        "ko": "주기"
+    },
     "5a473292a926c867f3de661860f2acd7": {
         "pl": "Teofil"
     },
@@ -1307,6 +1368,9 @@
     "5b9ad95b7190fdc3a603c53089185c48": {
         "la": "Gaudentius",
         "en": "Gaudentius"
+    },
+    "5bf76694cfb783bb0d98f8454dd3f51a": {
+        "ko": "효임"
     },
     "5c11eda12aa6bc92e2261a9923164eeb": {
         "pl": "Barnaba"
@@ -1494,6 +1558,11 @@
     "6810c387d3d2662fe947e9d7e5cf3c89": {
         "pl": "Józefa"
     },
+    "683e45da6ad28a33afe18c3fb0848a5a": {
+        "la": "Kyŏng-hyŏb",
+        "en": "Kyŏng-hyŏb",
+        "pl": "Kyŏng-hyŏb"
+    },
     "68c8f7c3f433b3682d1363312fbacec6": {
         "la": "Silvia",
         "en": "Silvia"
@@ -1521,6 +1590,11 @@
     "6a68d4cbe6a80e92cfdc6924abc5883f": {
         "la": "Winfridus"
     },
+    "6a6970da80cecc350c4c3fab4b183153": {
+        "la": "Kŭm-ju",
+        "en": "Kŭm-ju",
+        "pl": "Kŭm-ju"
+    },
     "6a8030fe6c8617f0644c662ac26162e3": {
         "pl": "Bolesław"
     },
@@ -1539,6 +1613,11 @@
     },
     "6b4a05ef884e5729140363467651d91e": {
         "en": "Tarcisius"
+    },
+    "6beb6a421dfa714670e00b02979f527c": {
+        "la": "Chang-gŭm",
+        "en": "Chang-gŭm",
+        "pl": "Chang-gŭm"
     },
     "6c7af59f3a67d27222ef3f2e6e6f3d25": {
         "pl": "Zuzanna"
@@ -1782,6 +1861,9 @@
     "7c928ed6ada4b549bb0e155dfff4a8c0": {
         "en": "Boleslav"
     },
+    "7cd8c8edbe997399485a7bbb546a81d0": {
+        "ko": "경협"
+    },
     "7d1c097fff965fb2870132fa74fdbdfd": {
         "en": "Hillary"
     },
@@ -1800,6 +1882,14 @@
     "7efd721c8bfff2937c66235f2d0dbac1": {
         "en": "Adam",
         "pl": "Adam"
+    },
+    "7f251345c8cea4fb28ade7b02baba46f": {
+        "la": "Sŏk-tu",
+        "en": "Sŏk-tu",
+        "pl": "Sŏk-tu"
+    },
+    "7f6511101b9aa76468ff092c4ea81357": {
+        "ko": "대건"
     },
     "7f9d965fa491021cda9311f64f630f2a": {
         "he": "מַתִּתְיָהוּ"
@@ -1855,6 +1945,11 @@
     "833092f3dd4a0d3b6d1ca6fd639785e6": {
         "es": "María"
     },
+    "83ce9a9b83cd83d50be11454c87b47e1": {
+        "la": "I-gwan",
+        "en": "I-gwan",
+        "pl": "I-gwan"
+    },
     "83f9c4eb242966cdcada1d01be5d9b15": {
         "pl": "Marta"
     },
@@ -1908,6 +2003,11 @@
     },
     "86f5978d9b80124f509bdb71786e929e": {
         "pl": "January"
+    },
+    "87079ae1afe2a3d8b638e2502fa16b87": {
+        "la": "Hyo-im",
+        "en": "Hyo-im",
+        "pl": "Hyo-im"
     },
     "8741231c092fd0837b6a179aae89bd8a": {
         "la": "Bonifatius"
@@ -2192,6 +2292,11 @@
     "99726419a70604874e762e683c60250b": {
         "en": "Vladimir"
     },
+    "9991c9f234e6116251320d5f68ce465f": {
+        "la": "Yŏng-hŭi",
+        "en": "Yŏng-hŭi",
+        "pl": "Yŏng-hŭi"
+    },
     "99a6bd8fe710f43db4db4e91936e33e7": {
         "la": "Lucius",
         "en": "Lucius"
@@ -2262,6 +2367,9 @@
     },
     "9f1898a8acff75f36ac42901ab3212eb": {
         "it": "Gaspare"
+    },
+    "9f8d3ae7b17a96a825751f79a5b44780": {
+        "ko": "광렬"
     },
     "9fde8523792a8e3fdd8b875a87a6c8fa": {
         "pl": "Patryk"
@@ -2530,6 +2638,9 @@
     "ae0bb50336b804dcde7fdbad631eb9f6": {
         "grc": "Ἰγνάτιος"
     },
+    "ae49f83b98e881cb3208c1bd62aec64f": {
+        "ko": "이관"
+    },
     "ae84855966c14be2ab97b1065b60beeb": {
         "la": "Ursula",
         "en": "Ursula",
@@ -2659,6 +2770,9 @@
         "pl": "Gabriel",
         "fr": "Gabriel"
     },
+    "b7811f898cad33ddc10c69b0135d8a30": {
+        "ko": "성임"
+    },
     "b7b72187cf36439199fe35f6ff66b085": {
         "pl": "Faustyn"
     },
@@ -2679,8 +2793,14 @@
     "b7f93717759da2bb6c4c06ccf92451b3": {
         "pl": "Gerardyn"
     },
+    "b80ef593d3e87c0d3a6f66900c0543d6": {
+        "ko": "봉손"
+    },
     "b82a9a13f4651e9abcbde90cd24ce2cb": {
         "en": "Mark"
+    },
+    "b84c3ba69282c6816a9cf11233a6d2a3": {
+        "ko": "귀임"
     },
     "b865c9c8f178773d1b3da9ebf9a8e952": {
         "la": "Modestus",
@@ -2778,6 +2898,9 @@
     "bd5f296e64b3923339ae237b8afdd51f": {
         "la": "Christophorus"
     },
+    "bd66f15ccd5713859c8cde9d9678ab8b": {
+        "ko": "매임"
+    },
     "bd770c416f6dc72824a698b326bdc9ff": {
         "ko": "토마스"
     },
@@ -2821,6 +2944,11 @@
     "bff4ddba7214e5563c7bebc90f545623": {
         "pl": "Władysław"
     },
+    "c0095121f895ec1918250926f66063c6": {
+        "la": "Shin-ch’ŏl",
+        "en": "Shin-ch’ŏl",
+        "pl": "Shin-ch’ŏl"
+    },
     "c00a35ddba52071d452455238b12b616": {
         "en": "Valentine"
     },
@@ -2859,6 +2987,11 @@
     "c271987f929166970a31383bb095ca43": {
         "pl": "Pankracy"
     },
+    "c27c2f7eb2f7d4e81c8e7b4198f45df8": {
+        "la": "Kye-im",
+        "en": "Kye-im",
+        "pl": "Kye-im"
+    },
     "c2858240380c447cc409ffd9a518fe84": {
         "uk": "Олексій"
     },
@@ -2883,6 +3016,11 @@
     },
     "c44688b5061756b3cca2b86c016a1535": {
         "es": "Luis"
+    },
+    "c4745be45695932e7fa74d25f2ff380d": {
+        "la": "Kwang-nyŏl",
+        "en": "Kwang-nyŏl",
+        "pl": "Kwang-nyŏl"
     },
     "c4e40742772e0ca5d51bc69a1637cae3": {
         "en": "Aloise"
@@ -3620,6 +3758,9 @@
         "la": "Titus",
         "en": "Titus"
     },
+    "f74fe5a6d8873799e7a4cc49985ebb60": {
+        "ko": "영희"
+    },
     "f75ad75dca6d3ee13db8a730ad0c2975": {
         "el": "Λουκάς"
     },
@@ -3638,6 +3779,9 @@
     "f8820b538a589c1c95500bc79cf38154": {
         "en": "Uguccione",
         "it": "Uguccione"
+    },
+    "f8e242c3a5a81b279e739433ad3e7a80": {
+        "ko": "금주 "
     },
     "f91a4426dd179e1cee9bfcfb73decfc7": {
         "la": "Basilius"

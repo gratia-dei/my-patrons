@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Kye-im",
+        "en": "Kye-im",
+        "pl": "Kye-im"
+    },
+    "translations": {
+        "la": [
+            "Kye-im"
+        ],
+        "en": [
+            "Kye-im"
+        ],
+        "pl": [
+            "Kye-im"
+        ],
+        "ko": [
+            "계임"
+        ]
+    },
+    "links": {
+        "records/patrons/magdalena/hok": {
+            "ko": "허계임 막달레나",
+            "la": "Magdalena Hŏ Kye-im",
+            "en": "Magdalene Hŏ Kye-im",
+            "pl": "Magdalena Hŏ Kye-im"
+        }
+    }
+}

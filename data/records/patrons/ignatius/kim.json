@@ -13,19 +13,13 @@
             "Ignacy Kim Che-jun"
         ]
     },
-    "forenames": ["ignatius"],
+    "forenames": ["ignatius", "che-jun"],
     "surnames": [
         {
             "ko": "김",
             "la": "Kim",
             "en": "Kim",
             "pl": "Kim"
-        },
-        {
-            "ko": "제준",
-            "la": "Che-jun",
-            "en": "Che-jun",
-            "pl": "Che-jun"
         }
     ],
     "epithets": null,

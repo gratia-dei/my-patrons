@@ -13,19 +13,13 @@
             "Marta Kim Sŏng-im"
         ]
     },
-    "forenames": ["martha"],
+    "forenames": ["martha", "song-im"],
     "surnames": [
         {
             "ko": "김",
             "la": "Kim",
             "en": "Kim",
             "pl": "Kim"
-        },
-        {
-            "ko": "성임",
-            "la": "Sŏng-im",
-            "en": "Sŏng-im",
-            "pl": "Sŏng-im"
         }
     ],
     "epithets": null,

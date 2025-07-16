@@ -13,19 +13,13 @@
             "Józef Chang Chu-gi"
         ]
     },
-    "forenames": ["iosephus"],
+    "forenames": ["iosephus", "chu-gi"],
     "surnames": [
         {
             "ko": "장",
             "la": "Chang",
             "en": "Chang",
             "pl": "Chang"
-        },
-        {
-            "ko": "주기",
-            "la": "Chu-gi",
-            "en": "Chu-gi",
-            "pl": "Chu-gi"
         }
     ],
     "epithets": null,

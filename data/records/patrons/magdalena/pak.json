@@ -13,19 +13,13 @@
             "Magdalena Pak Pong-son"
         ]
     },
-    "forenames": ["magdalena"],
+    "forenames": ["magdalena", "pong-son"],
     "surnames": [
         {
             "ko": "박",
             "la": "Pak",
             "en": "Pak",
             "pl": "Pak"
-        },
-        {
-            "ko": "봉손",
-            "la": "Pong-son",
-            "en": "Pong-son",
-            "pl": "Pong-son"
         }
     ],
     "epithets": null,

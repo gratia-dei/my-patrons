@@ -13,19 +13,13 @@
             "Jan Chrzciciel Yi Kwang-nyŏl"
         ]
     },
-    "forenames": ["ioannes-baptista"],
+    "forenames": ["ioannes-baptista", "kwang-nyol"],
     "surnames": [
         {
             "ko": "이",
             "la": "Yi",
             "en": "Yi",
             "pl": "Yi"
-        },
-        {
-            "ko": "광렬",
-            "la": "Kwang-nyŏl",
-            "en": "Kwang-nyŏl",
-            "pl": "Kwang-nyŏl"
         }
     ],
     "epithets": null,

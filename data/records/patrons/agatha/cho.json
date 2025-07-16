@@ -13,19 +13,13 @@
             "Agata Chŏn Kyŏng-hyŏb"
         ]
     },
-    "forenames": ["agatha"],
+    "forenames": ["agatha", "kyong-hyob"],
     "surnames": [
         {
             "ko": "전",
             "la": "Chŏn",
             "en": "Chŏn",
             "pl": "Chŏn"
-        },
-        {
-            "ko": "경협",
-            "la": "Kyŏng-hyŏb",
-            "en": "Kyŏng-hyŏb",
-            "pl": "Kyŏng-hyŏb"
         }
     ],
     "epithets": null,

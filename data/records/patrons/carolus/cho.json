@@ -13,19 +13,13 @@
             "Karol Cho Shin-ch’ŏl"
         ]
     },
-    "forenames": ["carolus"],
+    "forenames": ["carolus", "shin-chol"],
     "surnames": [
         {
             "ko": "조",
             "la": "Cho",
             "en": "Cho",
             "pl": "Cho"
-        },
-        {
-            "ko": "신철",
-            "la": "Shin-ch’ŏl",
-            "en": "Shin-ch’ŏl",
-            "pl": "Shin-ch’ŏl"
         }
     ],
     "epithets": null,

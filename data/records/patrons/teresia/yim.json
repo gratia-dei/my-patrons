@@ -13,19 +13,13 @@
             "Teresa Yi Mae-im"
         ]
     },
-    "forenames": ["teresia"],
+    "forenames": ["teresia", "mae-im"],
     "surnames": [
         {
             "ko": "이",
             "la": "Yi",
             "en": "Yi",
             "pl": "Yi"
-        },
-        {
-            "ko": "매임",
-            "la": "Mae-im",
-            "en": "Mae-im",
-            "pl": "Mae-im"
         }
     ],
     "epithets": null,

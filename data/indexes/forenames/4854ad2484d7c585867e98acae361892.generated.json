@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Tae-gŏn",
+        "en": "Tae-gŏn",
+        "pl": "Tae-gŏn"
+    },
+    "translations": {
+        "la": [
+            "Tae-gŏn"
+        ],
+        "en": [
+            "Tae-gŏn"
+        ],
+        "pl": [
+            "Tae-gŏn"
+        ],
+        "ko": [
+            "대건"
+        ]
+    },
+    "links": {
+        "records/patrons/andreas/kim": {
+            "ko": "김대건 안드레아",
+            "la": "Andreas Kim Tae-gŏn",
+            "en": "Andrew Kim Taegon",
+            "pl": "Andrzej Kim Tae-gŏn"
+        }
+    }
+}

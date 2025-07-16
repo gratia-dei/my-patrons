@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ko": "이관"
+    },
+    "translations": {
+        "la": [
+            "I-gwan"
+        ],
+        "en": [
+            "I-gwan"
+        ],
+        "pl": [
+            "I-gwan"
+        ],
+        "ko": [
+            "이관"
+        ]
+    },
+    "links": {
+        "records/patrons/sebastianus/nam": {
+            "ko": "남이관 세바스티아노",
+            "la": "Sebastianus Nam I-gwan",
+            "en": "Sebastian Nam I-gwan",
+            "pl": "Sebastian Nam I-gwan"
+        }
+    }
+}

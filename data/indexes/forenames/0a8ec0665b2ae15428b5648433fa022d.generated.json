@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ko": "신철"
+    },
+    "translations": {
+        "la": [
+            "Shin-ch’ŏl"
+        ],
+        "en": [
+            "Shin-ch’ŏl"
+        ],
+        "pl": [
+            "Shin-ch’ŏl"
+        ],
+        "ko": [
+            "신철"
+        ]
+    },
+    "links": {
+        "records/patrons/carolus/cho": {
+            "ko": "조신철 가롤로",
+            "la": "Carolus Cho Shin-ch’ŏl",
+            "en": "Charles Cho Shin-ch’ŏl",
+            "pl": "Karol Cho Shin-ch’ŏl"
+        }
+    }
+}

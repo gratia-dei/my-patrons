@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ko": "귀임"
+    },
+    "translations": {
+        "la": [
+            "Kwi-im"
+        ],
+        "en": [
+            "Kwi-im"
+        ],
+        "pl": [
+            "Kwi-im"
+        ],
+        "ko": [
+            "귀임"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/won": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
+        }
+    }
+}

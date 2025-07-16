@@ -13,19 +13,13 @@
             "Tomasz Son Cha-sŏn"
         ]
     },
-    "forenames": ["thomas"],
+    "forenames": ["thomas", "cha-son"],
     "surnames": [
         {
             "ko": "손",
             "la": "Son",
             "en": "Son",
             "pl": "Son"
-        },
-        {
-            "ko": "자선",
-            "la": "Cha-sŏn",
-            "en": "Cha-sŏn",
-            "pl": "Cha-sŏn"
         }
     ],
     "epithets": null,

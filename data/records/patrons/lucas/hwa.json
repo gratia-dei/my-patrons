@@ -13,19 +13,13 @@
             "Łukasz Hwang Sŏk-tu"
         ]
     },
-    "forenames": ["lucas"],
+    "forenames": ["lucas", "sok-tu"],
     "surnames": [
         {
             "ko": "황",
             "la": "Hwang",
             "en": "Hwang",
             "pl": "Hwang"
-        },
-        {
-            "ko": "석두",
-            "la": "Sŏk-tu",
-            "en": "Sŏk-tu",
-            "pl": "Sŏk-tu"
         }
     ],
     "epithets": null,

@@ -13,19 +13,13 @@
             "Kolumba Kim Hyo-im"
         ]
     },
-    "forenames": ["columba"],
+    "forenames": ["columba", "hyo-im"],
     "surnames": [
         {
             "ko": "김",
             "la": "Kim",
             "en": "Kim",
             "pl": "Kim"
-        },
-        {
-            "ko": "효임",
-            "la": "Hyo-im",
-            "en": "Hyo-im",
-            "pl": "Hyo-im"
         }
     ],
     "epithets": null,

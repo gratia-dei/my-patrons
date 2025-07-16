@@ -13,19 +13,13 @@
             "Magdalena Hŏ Kye-im"
         ]
     },
-    "forenames": ["magdalena"],
+    "forenames": ["magdalena", "kye-im"],
     "surnames": [
         {
             "ko": "허",
             "la": "Hŏ",
             "en": "Hŏ",
             "pl": "Hŏ"
-        },
-        {
-            "ko": "계임",
-            "la": "Kye-im",
-            "en": "Kye-im",
-            "pl": "Kye-im"
         }
     ],
     "epithets": null,

@@ -13,19 +13,13 @@
             "Maria Wŏn Kwi-im"
         ]
     },
-    "forenames": ["maria"],
+    "forenames": ["maria", "kwi-im"],
     "surnames": [
         {
             "ko": "원",
             "la": "Wŏn",
             "en": "Wŏn",
             "pl": "Wŏn"
-        },
-        {
-            "ko": "귀임",
-            "la": "Kwi-im",
-            "en": "Kwi-im",
-            "pl": "Kwi-im"
         }
     ],
     "epithets": null,

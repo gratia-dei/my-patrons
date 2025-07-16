@@ -13,19 +13,13 @@
             "Magdalena Yi Yŏng-hŭi"
         ]
     },
-    "forenames": ["magdalena"],
+    "forenames": ["magdalena", "yong-hui"],
     "surnames": [
         {
             "ko": "이",
             "la": "Yi",
             "en": "Yi",
             "pl": "Yi"
-        },
-        {
-            "ko": "영희",
-            "la": "Yŏng-hŭi",
-            "en": "Yŏng-hŭi",
-            "pl": "Yŏng-hŭi"
         }
     ],
     "epithets": null,

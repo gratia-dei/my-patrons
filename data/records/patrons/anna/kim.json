@@ -13,19 +13,13 @@
             "Anna Kim Chang-gŭm"
         ]
     },
-    "forenames": ["anna"],
+    "forenames": ["anna", "chang-gum"],
     "surnames": [
         {
             "ko": "김",
             "la": "Kim",
             "en": "Kim",
             "pl": "Kim"
-        },
-        {
-            "ko": "장금",
-            "la": "Chang-gŭm",
-            "en": "Chang-gŭm",
-            "pl": "Chang-gŭm"
         }
     ],
     "epithets": null,

@@ -13,19 +13,13 @@
             "Perpetua Hong Kŭm-ju"
         ]
     },
-    "forenames": ["perpetua"],
+    "forenames": ["perpetua", "kum-ju"],
     "surnames": [
         {
             "ko": "홍",
             "la": "Hong",
             "en": "Hong",
             "pl": "Hong"
-        },
-        {
-            "ko": "금주 ",
-            "la": "Kŭm-ju",
-            "en": "Kŭm-ju",
-            "pl": "Kŭm-ju"
         }
     ],
     "epithets": null,

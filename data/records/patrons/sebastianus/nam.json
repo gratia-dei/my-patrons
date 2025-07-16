@@ -13,19 +13,13 @@
             "Sebastian Nam I-gwan"
         ]
     },
-    "forenames": ["sebastianus"],
+    "forenames": ["sebastianus", "i-gwan"],
     "surnames": [
         {
             "ko": "남",
             "la": "Nam",
             "en": "Nam",
             "pl": "Nam"
-        },
-        {
-            "ko": "이관",
-            "la": "I-gwan",
-            "en": "I-gwan",
-            "pl": "I-gwan"
         }
     ],
     "epithets": null,

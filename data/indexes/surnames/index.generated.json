@@ -19,30 +19,14 @@
     "06783d0b7737697cf6133886af2e28e7": {
         "pl": "Jóźwik"
     },
-    "067dd5c939202e145d7fc7d1ccdf6b89": {
-        "la": "Cha-sŏn",
-        "en": "Cha-sŏn",
-        "pl": "Cha-sŏn"
-    },
-    "06b932e7d22c2a6bb92e69cb2ac633c4": {
-        "la": "Chu-gi",
-        "en": "Chu-gi",
-        "pl": "Chu-gi"
-    },
     "06bbad75185cdb0f713601dcd4a9dc16": {
         "pl": "Kózka"
     },
     "06ed3eee2b8c307e16bb32f45f7aa78c": {
         "uk": "Ковч"
     },
-    "077077231b77f764f79b6c62b77106fc": {
-        "ko": "제준"
-    },
     "080b7eded7f9fd312a6bf42468da2cd6": {
         "fr": "Boylet"
-    },
-    "0a8ec0665b2ae15428b5648433fa022d": {
-        "ko": "신철"
     },
     "0b783e8dda206a04de13975f740f7b3e": {
         "pl": "Ulma"
@@ -146,9 +130,6 @@
     "262031397020fd8df478ec13b4b096c5": {
         "fr": "Daniel"
     },
-    "28d4348fa863a292fa1f237339a91b79": {
-        "ko": "자선"
-    },
     "290a77d7756e05fc2761afedc5572c24": {
         "it": "Longo"
     },
@@ -181,9 +162,6 @@
     "2df487f2f9465d7dfb4602bc5481807b": {
         "pt": "Marto"
     },
-    "2e8e798801fcac3973904d86c1b5930a": {
-        "ko": "석두"
-    },
     "2f3bca36a0982d9c933d84bb8b4249a8": {
         "pl": "Kubski"
     },
@@ -198,9 +176,6 @@
     },
     "31f25daed3ec27b14ad3578a036c58f8": {
         "pl": "Jankowski"
-    },
-    "3207ea147953b8b94215c9e8883569c0": {
-        "ko": "장금"
     },
     "3239616e1b111fcd51f7959d1e2a8c39": {
         "pl": "Chmielowski"
@@ -223,21 +198,11 @@
     "364cd1170e91c4123e1ed045f9b88c3a": {
         "fr": "Jaricot"
     },
-    "374561a3fdbe8ed91d80ab88350f0175": {
-        "la": "Pong-son",
-        "en": "Pong-son",
-        "pl": "Pong-son"
-    },
     "37876dd9dadd29384a3e6e1350a56b83": {
         "vi": "Lê"
     },
     "37917537ce5725e0db1cb21da2ca5eba": {
         "nl": "Donders"
-    },
-    "38b1abe6391cb4700d4094fe2b1c087c": {
-        "la": "Che-jun",
-        "en": "Che-jun",
-        "pl": "Che-jun"
     },
     "39fde88a73d8e306178870da8ac5bf6a": {
         "pl": "Kut"
@@ -260,9 +225,6 @@
         "en": "Yuan",
         "la": "Yuan",
         "pl": "Yuan"
-    },
-    "3dfb4376aade7bb3791c0fb94b9fb667": {
-        "ko": "계임"
     },
     "3e665944ba54911ebcac5a5aec46e649": {
         "pl": "Wyszyński"
@@ -294,11 +256,6 @@
     "425108b4b198d85a8abf9551cfd0fce2": {
         "fr": "Cuenot"
     },
-    "436d0a17242243a883bf53cbb182274a": {
-        "la": "Kwi-im",
-        "en": "Kwi-im",
-        "pl": "Kwi-im"
-    },
     "441980ca0eb7e727a31a0605f1a1ce59": {
         "es": "López Vicuña"
     },
@@ -310,10 +267,6 @@
     },
     "4847e2e624920907b6dc4516738ecc50": {
         "la": "Karlowska"
-    },
-    "4854ad2484d7c585867e98acae361892": {
-        "en": "Tae-gŏn",
-        "pl": "Tae-gŏn"
     },
     "48c904319c0846a72e86eda2bb32a5c2": {
         "pl": "Kuncewicz"
@@ -339,11 +292,6 @@
     "4b1395aeedf5ad8f669a8cb4e1cfa8fc": {
         "fr": "Durocher"
     },
-    "4c67a1b043454326592c14e8973f181a": {
-        "la": "Sŏng-im",
-        "en": "Sŏng-im",
-        "pl": "Sŏng-im"
-    },
     "4d3ab21dbd750fa8681d63715e66fd14": {
         "es": "de Porres"
     },
@@ -358,11 +306,6 @@
     },
     "4f45211ec01d45a109a85e1dc3f57fc8": {
         "it": "da Capestrano"
-    },
-    "4fda1e21a1f754b7a3e2396821e9b449": {
-        "la": "Mae-im",
-        "en": "Mae-im",
-        "pl": "Mae-im"
     },
     "50368953be020e2f652e2c09fa5c14c2": {
         "pl": "Krzysztofik"
@@ -406,9 +349,6 @@
     "5898dab8bda99d3da092d07a3dd32f6b": {
         "pl": "Kowalska"
     },
-    "5918bdca7ebe39d42e5dabcea73f628f": {
-        "ko": "주기"
-    },
     "597a0d3434024cecd30f387faa29bfda": {
         "pl": "Kaszyra"
     },
@@ -417,9 +357,6 @@
     },
     "5b18879c1c11ab0bb6914a8dc192514f": {
         "pl": "Kostist"
-    },
-    "5bf76694cfb783bb0d98f8454dd3f51a": {
-        "ko": "효임"
     },
     "5c1638aa4b8c8721d7f4634c56c5b951": {
         "en": "Nakashima",
@@ -474,11 +411,6 @@
     "67eb2b8d0aab60ec69666532ff9527c9": {
         "en": "Holland"
     },
-    "683e45da6ad28a33afe18c3fb0848a5a": {
-        "la": "Kyŏng-hyŏb",
-        "en": "Kyŏng-hyŏb",
-        "pl": "Kyŏng-hyŏb"
-    },
     "68940bed0fda14ce1c055629668848e1": {
         "en": "Miki",
         "la": "Miki",
@@ -487,22 +419,12 @@
     "695c3c21f18291d8611217a00ff3dcfa": {
         "ko": "홍"
     },
-    "6a6970da80cecc350c4c3fab4b183153": {
-        "la": "Kŭm-ju",
-        "en": "Kŭm-ju",
-        "pl": "Kŭm-ju"
-    },
     "6ab46e3ad30114760f6556c82d63534f": {
         "ko": "박"
     },
     "6b77f30aba852bd7e3b0c7f332201172": {
         "en": "Maloyan",
         "la": "Maloyan"
-    },
-    "6beb6a421dfa714670e00b02979f527c": {
-        "la": "Chang-gŭm",
-        "en": "Chang-gŭm",
-        "pl": "Chang-gŭm"
     },
     "6cd78f285101797c8eba7f0f8773322c": {
         "pt": "de Soveral"
@@ -558,19 +480,8 @@
     "7b00711f0066c7eed58d560ba6fe87dc": {
         "pl": "Siedliska"
     },
-    "7cd8c8edbe997399485a7bbb546a81d0": {
-        "ko": "경협"
-    },
     "7d32a58fc712b2e6c9121e34269ee25b": {
         "it": "Bosco"
-    },
-    "7f251345c8cea4fb28ade7b02baba46f": {
-        "la": "Sŏk-tu",
-        "en": "Sŏk-tu",
-        "pl": "Sŏk-tu"
-    },
-    "7f6511101b9aa76468ff092c4ea81357": {
-        "ko": "대건"
     },
     "7f86a26d67dc0e162130072eea9a76f7": {
         "es": "Ayllón"
@@ -590,11 +501,6 @@
     "82736099f18f7f75e817c9f2b7252412": {
         "es": "Campos"
     },
-    "83ce9a9b83cd83d50be11454c87b47e1": {
-        "la": "I-gwan",
-        "en": "I-gwan",
-        "pl": "I-gwan"
-    },
     "8470d17bf592d860bc4bb906c4618fbf": {
         "la": "Hong",
         "en": "Hong",
@@ -606,16 +512,8 @@
     "84e958ef1b7021478a4533b6c138a657": {
         "pl": "Szymkowiak"
     },
-    "853a3d0953e03462e42c364a8b7b8591": {
-        "la": "Taegon"
-    },
     "867b7bffdb49d4c66c25f29876a8d6f6": {
         "sw": "Irwa"
-    },
-    "87079ae1afe2a3d8b638e2502fa16b87": {
-        "la": "Hyo-im",
-        "en": "Hyo-im",
-        "pl": "Hyo-im"
     },
     "87dca918ab102e8dbcc0ec55eca51582": {
         "la": "Kovč"
@@ -688,11 +586,6 @@
     "9922fcb65b21cdf324f0af8401ff35a4": {
         "pl": "Czartoryski"
     },
-    "9991c9f234e6116251320d5f68ce465f": {
-        "la": "Yŏng-hŭi",
-        "en": "Yŏng-hŭi",
-        "pl": "Yŏng-hŭi"
-    },
     "99e43b08545a3135451a79bd6a364476": {
         "it": "Grossi"
     },
@@ -719,9 +612,6 @@
     },
     "9f45b746d5be06225a80138be9ecc37c": {
         "pl": "Rapiej"
-    },
-    "9f8d3ae7b17a96a825751f79a5b44780": {
-        "ko": "광렬"
     },
     "9fa8c69f26f73abc5edac66bea3b70b6": {
         "pl": "Grelewski"
@@ -782,9 +672,6 @@
     "ade49167149d45dcbbfeb3db1ba7d559": {
         "it": "de Jacobis"
     },
-    "ae49f83b98e881cb3208c1bd62aec64f": {
-        "ko": "이관"
-    },
     "b009de0ec28636205b8313dc6c4e6983": {
         "en": "Kuntsevych"
     },
@@ -830,15 +717,6 @@
     "b68a56baf2045a1e7474048e270c53d8": {
         "pl": "Dańkowski"
     },
-    "b7811f898cad33ddc10c69b0135d8a30": {
-        "ko": "성임"
-    },
-    "b80ef593d3e87c0d3a6f66900c0543d6": {
-        "ko": "봉손"
-    },
-    "b84c3ba69282c6816a9cf11233a6d2a3": {
-        "ko": "귀임"
-    },
     "b86226c44c56a68a597fdf134413243b": {
         "pl": "Zapłata"
     },
@@ -869,9 +747,6 @@
     "bd65ef10c6e83063d74d85a8990548e6": {
         "ko": "전"
     },
-    "bd66f15ccd5713859c8cde9d9678ab8b": {
-        "ko": "매임"
-    },
     "bdf1356f54bdbca427dff27ff414f766": {
         "pl": "Chrobot"
     },
@@ -890,32 +765,17 @@
     "bf7acc64184037b8102433c81bdab492": {
         "pl": "Popiełuszko"
     },
-    "c0095121f895ec1918250926f66063c6": {
-        "la": "Shin-ch’ŏl",
-        "en": "Shin-ch’ŏl",
-        "pl": "Shin-ch’ŏl"
-    },
     "c23b92f7ab82ab5c50c11f4379e0f982": {
         "pl": "Dulny"
     },
     "c266b573616802c68489014470f47c0c": {
         "pl": "Nowakowski"
     },
-    "c27c2f7eb2f7d4e81c8e7b4198f45df8": {
-        "la": "Kye-im",
-        "en": "Kye-im",
-        "pl": "Kye-im"
-    },
     "c39814230c95dd84fc16447a7aef59b4": {
         "pl": "Bartosik"
     },
     "c3a71adc8626151904afc680b3c56a25": {
         "pl": "Narmontowicz"
-    },
-    "c4745be45695932e7fa74d25f2ff380d": {
-        "la": "Kwang-nyŏl",
-        "en": "Kwang-nyŏl",
-        "pl": "Kwang-nyŏl"
     },
     "c4a555180e64207a901af70822b7df0e": {
         "fr": "Goupil"
@@ -1108,9 +968,6 @@
         "en": "Kim",
         "pl": "Kim"
     },
-    "f74fe5a6d8873799e7a4cc49985ebb60": {
-        "ko": "영희"
-    },
     "f7594ee2e771549c66929913e659852c": {
         "pl": "Bellarmin"
     },
@@ -1128,9 +985,6 @@
     },
     "f8bd045d183ab498d8e8e859fefe770d": {
         "pl": "Wiecka"
-    },
-    "f8e242c3a5a81b279e739433ad3e7a80": {
-        "ko": "금주 "
     },
     "fa1368cc3ea21023d6032e673ceab1f7": {
         "it": "de' Pazzi"

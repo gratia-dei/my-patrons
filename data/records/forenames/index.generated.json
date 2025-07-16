@@ -499,6 +499,24 @@
         "en": "Ceslaus",
         "pl": "Czesław"
     },
+    "cha-son": {
+        "la": "Cha-sŏn",
+        "en": "Cha-sŏn",
+        "pl": "Cha-sŏn",
+        "ko": "자선"
+    },
+    "chang-gum": {
+        "la": "Chang-gŭm",
+        "en": "Chang-gŭm",
+        "pl": "Chang-gŭm",
+        "ko": "장금"
+    },
+    "che-jun": {
+        "la": "Che-jun",
+        "en": "Che-jun",
+        "pl": "Che-jun",
+        "ko": "제준"
+    },
     "christina": {
         "la": "Christina",
         "en": "Christina",
@@ -515,6 +533,12 @@
         "la": "Chrysanthus",
         "en": "Chrysanthus",
         "pl": "Chryzant"
+    },
+    "chu-gi": {
+        "la": "Chu-gi",
+        "en": "Chu-gi",
+        "pl": "Chu-gi",
+        "ko": "주기"
     },
     "clara": {
         "la": "Clara",
@@ -1016,6 +1040,18 @@
         "en": "Hyacinth",
         "pl": "Jacek"
     },
+    "hyo-im": {
+        "la": "Hyo-im",
+        "en": "Hyo-im",
+        "pl": "Hyo-im",
+        "ko": "효임"
+    },
+    "i-gwan": {
+        "la": "I-gwan",
+        "en": "I-gwan",
+        "pl": "I-gwan",
+        "ko": "이관"
+    },
     "iacobinus": {
         "la": "Iacobinus",
         "en": "Jacobinus",
@@ -1237,6 +1273,36 @@
         "en": "Kinga",
         "pl": "Kinga"
     },
+    "kum-ju": {
+        "la": "Kŭm-ju",
+        "en": "Kŭm-ju",
+        "pl": "Kŭm-ju",
+        "ko": "금주 "
+    },
+    "kwang-nyol": {
+        "la": "Kwang-nyŏl",
+        "en": "Kwang-nyŏl",
+        "pl": "Kwang-nyŏl",
+        "ko": "광렬"
+    },
+    "kwi-im": {
+        "la": "Kwi-im",
+        "en": "Kwi-im",
+        "pl": "Kwi-im",
+        "ko": "귀임"
+    },
+    "kye-im": {
+        "la": "Kye-im",
+        "en": "Kye-im",
+        "pl": "Kye-im",
+        "ko": "계임"
+    },
+    "kyong-hyob": {
+        "la": "Kyŏng-hyŏb",
+        "en": "Kyŏng-hyŏb",
+        "pl": "Kyŏng-hyŏb",
+        "ko": "경협"
+    },
     "ladislaus": {
         "la": "Ladislaus",
         "en": "Ladislaus",
@@ -1333,6 +1399,12 @@
         "en": "Macarius",
         "pl": "Makary",
         "el": "Μακάριος"
+    },
+    "mae-im": {
+        "la": "Mae-im",
+        "en": "Mae-im",
+        "pl": "Mae-im",
+        "ko": "매임"
     },
     "magdalena": {
         "la": "Magdalena",
@@ -1668,6 +1740,12 @@
         "pl": "Polikarp",
         "el": "Πολύκαρπος"
     },
+    "pong-son": {
+        "la": "Pong-son",
+        "en": "Pong-son",
+        "pl": "Pong-son",
+        "ko": "봉손"
+    },
     "pontianus": {
         "la": "Pontianus",
         "en": "Pontian",
@@ -1891,6 +1969,12 @@
         "en": "Sevibaldus",
         "pl": "Scirbald"
     },
+    "shin-chol": {
+        "la": "Shin-ch’ŏl",
+        "en": "Shin-ch’ŏl",
+        "pl": "Shin-ch’ŏl",
+        "ko": "신철"
+    },
     "sibyllina": {
         "la": "Sibyllina",
         "en": "Sibyllina",
@@ -1938,6 +2022,18 @@
         "en": "Without",
         "pl": "Bez"
     },
+    "sok-tu": {
+        "la": "Sŏk-tu",
+        "en": "Sŏk-tu",
+        "pl": "Sŏk-tu",
+        "ko": "석두"
+    },
+    "song-im": {
+        "la": "Sŏng-im",
+        "en": "Sŏng-im",
+        "pl": "Sŏng-im",
+        "ko": "성임"
+    },
     "sophia": {
         "la": "Sophia",
         "en": "Sophia",
@@ -1982,6 +2078,12 @@
         "la": "Susanna",
         "en": "Susanna",
         "pl": "Zuzanna"
+    },
+    "tae-gon": {
+        "la": "Tae-gŏn",
+        "en": "Tae-gŏn",
+        "pl": "Tae-gŏn",
+        "ko": "대건"
     },
     "tarsicius": {
         "la": "Tarsicius",
@@ -2198,6 +2300,12 @@
         "la": "Xystus",
         "en": "Sixtus",
         "pl": "Sykstus"
+    },
+    "yong-hui": {
+        "la": "Yŏng-hŭi",
+        "en": "Yŏng-hŭi",
+        "pl": "Yŏng-hŭi",
+        "ko": "영희"
     },
     "zeno": {
         "la": "Zeno",

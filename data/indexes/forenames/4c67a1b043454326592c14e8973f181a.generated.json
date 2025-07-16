@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Sŏng-im",
+        "en": "Sŏng-im",
+        "pl": "Sŏng-im"
+    },
+    "translations": {
+        "la": [
+            "Sŏng-im"
+        ],
+        "en": [
+            "Sŏng-im"
+        ],
+        "pl": [
+            "Sŏng-im"
+        ],
+        "ko": [
+            "성임"
+        ]
+    },
+    "links": {
+        "records/patrons/martha/kim": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
+        }
+    }
+}
