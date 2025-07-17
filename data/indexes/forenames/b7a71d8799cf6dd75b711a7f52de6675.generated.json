@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Alexander",
+        "en": "Alexander"
+    },
+    "translations": {
+        "la": [
+            "Alexander"
+        ],
+        "en": [
+            "Alexander"
+        ],
+        "pl": [
+            "Aleksander"
+        ]
+    },
+    "links": {
+        "records/patrons/alexander/fel": {
+            "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
+        }
+    }
+}

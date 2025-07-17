@@ -3,5 +3,10 @@
         "la": "Felicitas Carthaginensis",
         "en": "Felicity of Carthage",
         "pl": "Felicyta z Kartaginy"
+    },
+    "rom": {
+        "la": "Felicitas de Roma",
+        "en": "Felicity of Rome",
+        "pl": "Felicyta z Rzymu"
     }
 }

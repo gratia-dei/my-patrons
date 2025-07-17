@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Martialis; cum eo, i.a., Felix; tamquam Septem Fratres"
+        ],
+        "en": [
+            "Martialis; with him, i.a., Felix; as Seven Brothers"
+        ],
+        "pl": [
+            "Marcjalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        ]
+    },
+    "forenames": ["martialis"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~165"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["7:Iul./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["7:Julii/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:iul./10#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71807",
+        "wiki": "https://pl.wikipedia.org/wiki/Felicyta_z_Rzymu"
+    }
+}

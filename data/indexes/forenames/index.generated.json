@@ -54,6 +54,9 @@
         "la": "Faustinus",
         "en": "Faustinus"
     },
+    "03d1591684a2b3320e77a3940049d9d2": {
+        "pl": "Sylan"
+    },
     "03e460597c45d5658f502462a60ad54b": {
         "la": "Stanislaus",
         "en": "Stanislaus"
@@ -239,6 +242,10 @@
     "0e87ad684b8a9be667465b884f0f8f12": {
         "la": "Cosmas",
         "en": "Cosmas"
+    },
+    "0eca270598dc950ba53575611c30b305": {
+        "la": "Silanus",
+        "en": "Silanus"
     },
     "0f4e53159862ba021875b71d9d504d61": {
         "pl": "Bonifacy"
@@ -931,6 +938,10 @@
     "3c3450cf0c3b210b4ab6dd3176c4eaa1": {
         "la": "Bonaiuncta"
     },
+    "3c862ef51102431335f3088d6fdc9ebf": {
+        "la": "Vitalis",
+        "en": "Vitalis"
+    },
     "3cb11570f6e21a4dfcf59688cab64f08": {
         "la": "Marcellus",
         "en": "Marcellus"
@@ -1292,6 +1303,9 @@
     },
     "53432bb0ed38c82f07b6ac80eb35d2e9": {
         "pl": "Karolina"
+    },
+    "535065d3eaadf367bdc764dd03c250e9": {
+        "pl": "Marcjalis"
     },
     "53ae01caf274e515c196365374670561": {
         "it": "Vincenzo"
@@ -1884,6 +1898,10 @@
     },
     "7cd8c8edbe997399485a7bbb546a81d0": {
         "ko": "경협"
+    },
+    "7cfb0bcf62de75a49fcf2207cfa6013d": {
+        "la": "Martialis",
+        "en": "Martialis"
     },
     "7d1c097fff965fb2870132fa74fdbdfd": {
         "en": "Hillary"
@@ -2490,6 +2508,9 @@
         "la": "Eleutherius",
         "en": "Eleutherius"
     },
+    "a439bd911df8e9b02a8ede6bf6a069f6": {
+        "pl": "Aleksander"
+    },
     "a43f6e4a506d587f228b3c0bcc1b7629": {
         "la": "Timotheus"
     },
@@ -2804,6 +2825,10 @@
     },
     "b7811f898cad33ddc10c69b0135d8a30": {
         "ko": "성임"
+    },
+    "b7a71d8799cf6dd75b711a7f52de6675": {
+        "la": "Alexander",
+        "en": "Alexander"
     },
     "b7b72187cf36439199fe35f6ff66b085": {
         "pl": "Faustyn"
@@ -3865,6 +3890,9 @@
     },
     "faaea6d3da369cc71aa7d0970b7589de": {
         "la": "Julianus"
+    },
+    "facd3e6dd9f884688ad7ec408117816a": {
+        "pl": "Witalis"
     },
     "fafb83893a003818f2deec5cd20667b9": {
         "la": "Sibyllina",

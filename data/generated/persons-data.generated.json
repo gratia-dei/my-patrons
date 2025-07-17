@@ -721,6 +721,25 @@
         ],
         "feasts": []
     },
+    "patrons/alexander": {
+        "names": {
+            "la": "Alexander",
+            "en": "Alexander",
+            "pl": "Aleksander"
+        }
+    },
+    "patrons/alexander/fel": {
+        "active": true,
+        "names": {
+            "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
+        ],
+        "feasts": []
+    },
     "patrons/alexius": {
         "names": {
             "la": "Alexius",
@@ -3862,6 +3881,18 @@
         ],
         "feasts": []
     },
+    "patrons/felicitas/rom": {
+        "active": true,
+        "names": {
+            "la": "Felicitas de Roma",
+            "en": "Felicity of Rome",
+            "pl": "Felicyta z Rzymu"
+        },
+        "died": [
+            "~165"
+        ],
+        "feasts": []
+    },
     "patrons/felix": {
         "names": {
             "la": "Felix",
@@ -3924,6 +3955,18 @@
         },
         "died": [
             "852"
+        ],
+        "feasts": []
+    },
+    "patrons/felix/phi": {
+        "active": true,
+        "names": {
+            "la": "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres",
+            "en": "Felix; with him, i.a., Philip; as Seven Brothers",
+            "pl": "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
         ],
         "feasts": []
     },
@@ -5103,6 +5146,18 @@
         },
         "died": [
             "~305"
+        ],
+        "feasts": []
+    },
+    "patrons/ianuarius/fel": {
+        "active": true,
+        "names": {
+            "la": "Ianuarius; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Januarius; with him, i.a., Felix; as Seven Brothers",
+            "pl": "January; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
         ],
         "feasts": []
     },
@@ -8111,6 +8166,25 @@
         ],
         "feasts": []
     },
+    "patrons/martialis": {
+        "names": {
+            "la": "Martialis",
+            "en": "Martialis",
+            "pl": "Marcjalis"
+        }
+    },
+    "patrons/martialis/fel": {
+        "active": true,
+        "names": {
+            "la": "Martialis; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Martialis; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Marcjalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
+        ],
+        "feasts": []
+    },
     "patrons/martinus": {
         "names": {
             "la": "Martinus",
@@ -9461,11 +9535,11 @@
         "feasts": []
     },
     "patrons/philippus/fel": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Philippus /+ Felix et alii, tamquam Septem Fratres",
-            "en": "Philip /+ Felix and others, as Seven Brothers",
-            "pl": "Filip /+ Feliks i inni, jako Siedmiu Braci"
+            "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Philip; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
         "died": [
             "~165"
@@ -10504,6 +10578,25 @@
         },
         "died": [
             "1920-01-01"
+        ],
+        "feasts": []
+    },
+    "patrons/silanus": {
+        "names": {
+            "la": "Silanus",
+            "en": "Silanus",
+            "pl": "Sylan"
+        }
+    },
+    "patrons/silanus/fel": {
+        "active": true,
+        "names": {
+            "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Sylan; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
         ],
         "feasts": []
     },
@@ -11732,6 +11825,25 @@
         },
         "died": [
             "~618"
+        ],
+        "feasts": []
+    },
+    "patrons/vitalis": {
+        "names": {
+            "la": "Vitalis",
+            "en": "Vitalis",
+            "pl": "Witalis"
+        }
+    },
+    "patrons/vitalis/fel": {
+        "active": true,
+        "names": {
+            "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "died": [
+            "~165"
         ],
         "feasts": []
     },

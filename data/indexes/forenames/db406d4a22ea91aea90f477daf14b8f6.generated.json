@@ -19,6 +19,11 @@
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
         },
+        "records/patrons/felicitas/rom": {
+            "la": "Felicitas de Roma",
+            "en": "Felicity of Rome",
+            "pl": "Felicyta z Rzymu"
+        },
         "records/patrons/maria/bor": {
             "pl": "Maria Felicyta Borowik",
             "la": "Maria Felicitas Borowik",

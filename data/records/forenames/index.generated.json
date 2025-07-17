@@ -91,6 +91,11 @@
         "de": "Albert",
         "fr": "Albert"
     },
+    "alexander": {
+        "la": "Alexander",
+        "en": "Alexander",
+        "pl": "Aleksander"
+    },
     "alexius": {
         "la": "Alexius",
         "en": "Alexis",
@@ -1509,6 +1514,11 @@
         "pl": "Marta",
         "ko": "마르타"
     },
+    "martialis": {
+        "la": "Martialis",
+        "en": "Martialis",
+        "pl": "Marcjalis"
+    },
     "martinus": {
         "la": "Martinus",
         "en": "Martin",
@@ -2022,6 +2032,11 @@
         "en": "Sigismund",
         "pl": "Zygmunt"
     },
+    "silanus": {
+        "la": "Silanus",
+        "en": "Silanus",
+        "pl": "Sylan"
+    },
     "silvanus": {
         "la": "Silvanus",
         "en": "Silvanus",
@@ -2317,6 +2332,11 @@
         "la": "Virgilius",
         "en": "Virgilius",
         "pl": "Wirgiliusz"
+    },
+    "vitalis": {
+        "la": "Vitalis",
+        "en": "Vitalis",
+        "pl": "Witalis"
     },
     "vladimirus": {
         "la": "Vladimirus",

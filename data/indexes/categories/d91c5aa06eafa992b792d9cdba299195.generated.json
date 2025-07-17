@@ -232,6 +232,11 @@
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
         },
+        "records/patrons/felicitas/rom": {
+            "la": "Felicitas de Roma",
+            "en": "Felicity of Rome",
+            "pl": "Felicyta z Rzymu"
+        },
         "records/patrons/francisca/rom": {
             "it": "Francesca Romana",
             "la": "Francisca Romana",

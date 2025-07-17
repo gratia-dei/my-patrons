@@ -92,6 +92,11 @@
             "la": "Albertus Magnus",
             "pl": "Albert Wielki"
         },
+        "records/patrons/alexander/fel": {
+            "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
         "records/patrons/alexius/fal": {
             "it": "Alessio Falconieri",
             "la": "Alexius Falconieri",
@@ -920,6 +925,11 @@
             "en": "Felix of Cordoba; with him, i.a., Liliosa",
             "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
         },
+        "records/patrons/felix/phi": {
+            "la": "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres",
+            "en": "Felix; with him, i.a., Philip; as Seven Brothers",
+            "pl": "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
+        },
         "records/patrons/felix/rom": {
             "la": "Felix de Roma",
             "en": "Felix of Rome",
@@ -1245,6 +1255,11 @@
             "la": "Ianuarius Beneventanus",
             "en": "Januarius of Benevento",
             "pl": "January z Benewentu"
+        },
+        "records/patrons/ianuarius/fel": {
+            "la": "Ianuarius; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Januarius; with him, i.a., Felix; as Seven Brothers",
+            "pl": "January; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
         "records/patrons/iarognievus/woj": {
             "pl": "Jarogniew Wojciechowski",
@@ -1803,6 +1818,11 @@
             "en": "Marian Konopiński",
             "la": "Marianus Konopiński"
         },
+        "records/patrons/martialis/fel": {
+            "la": "Martialis; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Martialis; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Marcjalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
         "records/patrons/martinus/1pp": {
             "la": "Martinus Pp. I",
             "en": "Martin I",
@@ -2100,9 +2120,9 @@
             "pl": "Filip Benicjusz"
         },
         "records/patrons/philippus/fel": {
-            "la": "Philippus /+ Felix et alii, tamquam Septem Fratres",
-            "en": "Philip /+ Felix and others, as Seven Brothers",
-            "pl": "Filip /+ Feliks i inni, jako Siedmiu Braci"
+            "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Philip; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
         "records/patrons/philippus/ner": {
             "it": "Filippo Neri",
@@ -2347,6 +2367,11 @@
             "pl": "Zygmunt Gorazdowski",
             "la": "Sigismundus Gorazdowski",
             "en": "Sigismund Gorazdowski"
+        },
+        "records/patrons/silanus/fel": {
+            "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Sylan; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
         "records/patrons/silvanus/cae": {
             "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
@@ -2619,6 +2644,11 @@
             "la": "Virgilius Arelatensis",
             "en": "Virgilius of Arles",
             "pl": "Wirgiliusz z Arles"
+        },
+        "records/patrons/vitalis/fel": {
+            "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
         "records/patrons/vladimirus/las": {
             "pl": "Włodzimierz Laskowski",

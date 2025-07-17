@@ -2962,6 +2962,92 @@
             }
         }
     },
+    "07-10": {
+        "records/patrons/ianuarius/fel": {
+            "name": {
+                "la": "Ianuarius; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Januarius; with him, i.a., Felix; as Seven Brothers",
+                "pl": "January; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/felix/phi": {
+            "name": {
+                "la": "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres",
+                "en": "Felix; with him, i.a., Philip; as Seven Brothers",
+                "pl": "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/philippus/fel": {
+            "name": {
+                "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Philip; with him, i.a., Felix; as Seven Brothers",
+                "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/silanus/fel": {
+            "name": {
+                "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
+                "pl": "Sylan; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/alexander/fel": {
+            "name": {
+                "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
+                "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/vitalis/fel": {
+            "name": {
+                "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
+                "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        },
+        "records/patrons/martialis/fel": {
+            "name": {
+                "la": "Martialis; cum eo, i.a., Felix; tamquam Septem Fratres",
+                "en": "Martialis; with him, i.a., Felix; as Seven Brothers",
+                "pl": "Marcjalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+            },
+            "sources": {
+                "mr-1584": "10 VII: #1",
+                "mr-1956": "10 VII: #1",
+                "mr-2004": "10 VII: #1"
+            }
+        }
+    },
     "07-12": {
         "records/patrons/proclus/hil": {
             "name": {
@@ -5591,6 +5677,20 @@
             },
             "sources": {
                 "reliable-death-anniversary": "22 XI"
+            }
+        }
+    },
+    "11-23": {
+        "records/patrons/felicitas/rom": {
+            "name": {
+                "la": "Felicitas de Roma",
+                "en": "Felicity of Rome",
+                "pl": "Felicyta z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "23 XI: #2",
+                "mr-1956": "23 XI: #2",
+                "mr-2004": "23 XI: #3"
             }
         }
     },

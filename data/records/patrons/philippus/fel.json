@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Philippus /+ Felix et alii, tamquam Septem Fratres"
-    ],
-    "en": [
-      "Philip /+ Felix and others, as Seven Brothers"
-    ],
-    "pl": [
-      "Filip /+ Feliks i inni, jako Siedmiu Braci"
-    ]
-  },
+    "names": {
+        "la": [
+            "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres"
+        ],
+        "en": [
+            "Philip; with him, i.a., Felix; as Seven Brothers"
+        ],
+        "pl": [
+            "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
+        ]
+    },
+    "forenames": ["philippus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~165"],
+    "active": true,
 
-  "also-in-martyrology": ["07-10"],
+    "born": null,
+    "died": ["~165"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["philippus"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["3:Iul./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Julii/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:iul./10#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71805",
+        "wiki": "https://pl.wikipedia.org/wiki/Felicyta_z_Rzymu"
+    }
 }

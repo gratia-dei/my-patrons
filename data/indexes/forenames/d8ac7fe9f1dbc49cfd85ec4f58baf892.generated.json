@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/silanus/fel": {
+            "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Sylan; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
         "records/patrons/silvanus/cae": {
             "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
             "en": "Silvanus of Caesarea; with him, i.a., Theotimus",

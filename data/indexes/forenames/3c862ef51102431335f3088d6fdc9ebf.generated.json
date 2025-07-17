@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Vitalis",
+        "en": "Vitalis"
+    },
+    "translations": {
+        "la": [
+            "Vitalis"
+        ],
+        "en": [
+            "Vitalis"
+        ],
+        "pl": [
+            "Witalis"
+        ]
+    },
+    "links": {
+        "records/patrons/vitalis/fel": {
+            "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        }
+    }
+}

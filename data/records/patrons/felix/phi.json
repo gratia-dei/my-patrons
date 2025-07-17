@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres"
+        ],
+        "en": [
+            "Felix; with him, i.a., Philip; as Seven Brothers"
+        ],
+        "pl": [
+            "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
+        ]
+    },
+    "forenames": ["felix"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~165"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Iul./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Julii/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./10#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71804",
+        "wiki": "https://pl.wikipedia.org/wiki/Felicyta_z_Rzymu"
+    }
+}

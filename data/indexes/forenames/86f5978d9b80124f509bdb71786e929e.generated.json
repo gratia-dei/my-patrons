@@ -19,6 +19,11 @@
             "la": "Ianuarius Beneventanus",
             "en": "Januarius of Benevento",
             "pl": "January z Benewentu"
+        },
+        "records/patrons/ianuarius/fel": {
+            "la": "Ianuarius; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Januarius; with him, i.a., Felix; as Seven Brothers",
+            "pl": "January; z nim, m.in., Feliks; jako Siedmiu Braci"
         }
     }
 }
