@@ -69,9 +69,24 @@
         "pl": "najniższe ID"
     },
 
+    "lang-achievements-table-header-patron-name": {
+        "en": "Patron name",
+        "pl": "nazwa Patrona"
+    },
+
     "lang-achievements-table-header-percent": {
         "en": "percent",
         "pl": "procent"
+    },
+
+    "lang-achievements-table-header-progress-points": {
+        "en": "progress points",
+        "pl": "punkty postępu"
+    },
+
+    "lang-achievements-table-header-roles-and-missions": {
+        "en": "roles and missions",
+        "pl": "role i misje"
     },
 
     "lang-achievements-table-header-row-number": {
@@ -102,6 +117,16 @@
     "lang-achievements-section-challenge-types-description": {
         "en": "Challenges types statistics:",
         "pl": "Statystyki typów wyzwań:"
+    },
+
+    "lang-achievements-section-patrons-rank": {
+        "en": "Patrons rank",
+        "pl": "Ranking Patronów"
+    },
+
+    "lang-achievements-section-patrons-rank-description": {
+        "en": "Patrons rank statistics:",
+        "pl": "Statystyki rankingu Patronów:"
     },
 
     "lang-achievements-section-coming-soon": {

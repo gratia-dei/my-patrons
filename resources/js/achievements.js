@@ -40,6 +40,12 @@ requirejs(
         method: "getTableDataForChallengeTypes",
         options: {}
       },
+      "patrons-rank": {
+        name: "lang-achievements-section-patrons-rank",
+        description: "lang-achievements-section-patrons-rank-description",
+        method: "getTableDataForPatronsRank",
+        options: {}
+      },
       //"...": {
         //name: "lang-achievements-section-...",
         //description: "lang-achievements-section-...-description",
@@ -327,6 +333,145 @@ requirejs(
           }
         }
         result.push(row);
+      }
+
+      return result;
+    },
+
+
+
+    getTableDataForPatronsRank: async function (section, option) {
+
+      const challengesConfig = await uCommon.getChallengesConfig();
+
+      const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+      const selectedDate = uDate.getDateParse(selectedDateStr);
+
+      let data = {};
+      let rowId = 0;
+      for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+        rowId++;
+
+        const challengeDateStr = uCommon.getChallengeDate(challenge);
+        const challengeDate = uDate.getDateParse(challengeDateStr);
+        if (challengeDate > selectedDate) {
+          break;
+        }
+
+        const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+        if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
+          break;
+        }
+        if (isChallengeStatusIgnoreAchievementCalculation(challengeStatus)) {
+          continue;
+        }
+
+        const challengeType = uCommon.getChallengeType(challenge);
+        const personId = uCommon.getChallengePerson(challenge);
+
+        data[personId] = data[personId] ?? {
+          count: 0,
+          first: challengeDateStr,
+          last: ''
+        }
+        data[personId].count++;
+        data[personId].last = challengeDateStr;
+      }
+
+      let dataArr = [];
+      for (const personId in data) {
+        let element = data[personId];
+        element.personId = personId;
+
+        dataArr.push(element);
+      }
+
+      const sortedDataArr = dataArr.sort(function (a, b) {
+        //to change ...
+        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+      });
+
+      const rowNumberColumnWidth = "40px";
+      const nameColumnWidth = "300px";
+      const pointsColumnWidth = "100px";
+
+      let result = [];
+      const row = {
+        number: {
+          style: {
+            width: rowNumberColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-row-number", true)
+        },
+        name: {
+          style: {
+            width: nameColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-patron-name", true)
+        },
+        points: {
+          style: {
+            width: pointsColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-progress-points", true)
+        },
+        status: uLanguage.getTranslation("lang-achievements-table-header-roles-and-missions", true),
+        dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
+      }
+      result.push(row);
+
+      let rowNo = 0;
+      for (const rowData of sortedDataArr) {
+        rowNo++;
+
+        const name = rowData.personId;
+        const count = rowData.count;
+        const points = rowData.count;
+        const firstTime = rowData.first;
+        const lastTime = rowData.last;
+
+        const row = {
+          number: {
+            style: {
+              width: rowNumberColumnWidth,
+              "text-align": uConst.get("TEXT_ALIGN_RIGHT")
+            },
+            content: rowNo + '.'
+          },
+          name: {
+            style: {
+              width: nameColumnWidth
+            },
+            content: makeTextStrong(name)
+          },
+          points: {
+            style: {
+              width: pointsColumnWidth,
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: makeTextStrong(points)
+          },
+          status: {
+            style: {
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: '...'
+          },
+          dates: {
+            style: {
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
+          }
+        }
+        result.push(row);
+        const row2 = {
+          info: {
+            style: {},
+            content: '...'
+          }
+        }
+        result.push(row2);
       }
 
       return result;

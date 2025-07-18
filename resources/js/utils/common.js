@@ -23,6 +23,7 @@ define(["const", "file"], function(uConst, uFile) {
     .set("COMMON/DATA_FIELD_OWNER", 'owner')
     .set("COMMON/DATA_FIELD_CHECKLIST", 'checklist')
     .set("COMMON/DATA_FIELD_NOTES", 'notes')
+    .set("COMMON/DATA_FIELD_PERSON", 'person')
     .set("COMMON/DATA_FIELD_TYPE", 'type')
 
     .set("COMMON/CONFIG_FIELD_ADDITION_TYPE", 'addition-type')
@@ -119,6 +120,10 @@ define(["const", "file"], function(uConst, uFile) {
     return challenge[uConst.get("COMMON/DATA_FIELD_DATE")] ?? '';
   }
 
+  function getChallengePerson(challenge) {
+    return challenge[uConst.get("COMMON/DATA_FIELD_PERSON")] ?? '';
+  }
+
   function getChallengeType(challenge) {
     return challenge[uConst.get("COMMON/DATA_FIELD_TYPE")] ?? '';
   }
@@ -134,6 +139,7 @@ define(["const", "file"], function(uConst, uFile) {
   return {
     getChallengesConfig,
     getChallengeDate,
+    getChallengePerson,
     getChallengeStatus,
     getChallengeType,
     getConst,
