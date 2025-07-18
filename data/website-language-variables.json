@@ -44,6 +44,11 @@
         "pl": "liczba"
     },
 
+    "lang-achievements-table-header-date-range": {
+        "en": "date range",
+        "pl": "zakres dat"
+    },
+
     "lang-achievements-table-header-on-average-every-how-many-days": {
         "en": "on average every how many days",
         "pl": "średnio co ile dni"

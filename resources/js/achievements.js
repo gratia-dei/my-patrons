@@ -257,7 +257,7 @@ requirejs(
       });
 
       const rowNumberColumnWidth = "40px";
-      const nameColumnWidth = "400px";
+      const nameColumnWidth = "500px";
 
       let result = [];
       const row = {
@@ -275,8 +275,7 @@ requirejs(
         },
         count: uLanguage.getTranslation("lang-achievements-table-header-count", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
         average: uLanguage.getTranslation("lang-achievements-table-header-on-average-every-how-many-days", true) + uConst.get("NEWLINE_TAG") + uLanguage.getTranslation("lang-achievements-table-header-last-year-suffix", true),
-        first: uLanguage.getTranslation("lang-achievements-table-header-the-first-time", true),
-        last: uLanguage.getTranslation("lang-achievements-table-header-the-last-time", true)
+        dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true),
       }
       result.push(row);
 
@@ -320,17 +319,11 @@ requirejs(
             },
             content: makeTextStrong(average) + uConst.get("NEWLINE_TAG") + '(' + lastYearAverage + ')'
           },
-          first: {
+          dates: {
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
-            content: makeTextStrong(firstTime)
-          },
-          last: {
-            style: {
-              "text-align": uConst.get("TEXT_ALIGN_CENTER")
-            },
-            content: makeTextStrong(lastTime)
+            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
           }
         }
         result.push(row);
