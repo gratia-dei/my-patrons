@@ -5,6 +5,12 @@ define(["const", "file"], function(uConst, uFile) {
 
     .set("COMMON/CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
 
+    .set("COMMON/MAX_PROGRESS_POINTS_PER_CHALLENGE_TYPE", 7)
+
+    .set("COMMON/PERSON_ID_PREFIX_GOD", 'god')
+    .set("COMMON/PERSON_ID_PREFIX_ME", 'me')
+    .set("COMMON/PERSON_ID_PREFIX_PATRONS", 'patrons')
+
     .set("COMMON/CHALLENGE_STATUS_IN_DATA_ABORTED", false)
     .set("COMMON/CHALLENGE_STATUS_IN_DATA_WAITING", null)
     .set("COMMON/CHALLENGE_STATUS_IN_DATA_DONE", true)
@@ -136,6 +142,29 @@ define(["const", "file"], function(uConst, uFile) {
     return fileData[uConst.get("COMMON/DATA_FIELD_CHALLENGES")] ?? [];
   }
 
+  function getPersonProgressPoints(challengeTypeCounts) {
+    let result = 0;
+    const maxPoints = uConst.get("COMMON/MAX_PROGRESS_POINTS_PER_CHALLENGE_TYPE");
+
+    for (const count of Object.values(challengeTypeCounts)) {
+      result += Math.min(maxPoints, count);
+    }
+
+    return result;
+  }
+
+  function isPersonIdForGod(personId) {
+    return personId.split('/')[0] === uConst.get('COMMON/PERSON_ID_PREFIX_GOD');
+  }
+
+  function isPersonIdForMe(personId) {
+    return personId.split('/')[0] === uConst.get('COMMON/PERSON_ID_PREFIX_ME');
+  }
+
+  function isPersonIdForPatrons(personId) {
+    return personId.split('/')[0] === uConst.get('COMMON/PERSON_ID_PREFIX_PATRONS');
+  }
+
   return {
     getChallengesConfig,
     getChallengeDate,
@@ -143,7 +172,11 @@ define(["const", "file"], function(uConst, uFile) {
     getChallengeStatus,
     getChallengeType,
     getConst,
-    getFileDataChallenges
+    getFileDataChallenges,
+    getPersonProgressPoints,
+    isPersonIdForGod,
+    isPersonIdForMe,
+    isPersonIdForPatrons
   };
 
 });

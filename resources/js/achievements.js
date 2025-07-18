@@ -371,24 +371,30 @@ requirejs(
 
         data[personId] = data[personId] ?? {
           count: 0,
+          counts: {},
           first: challengeDateStr,
           last: ''
         }
         data[personId].count++;
         data[personId].last = challengeDateStr;
+        data[personId].counts[challengeType] = (data[personId].counts[challengeType] ?? 0) + 1;
       }
 
       let dataArr = [];
       for (const personId in data) {
+        if (!uCommon.isPersonIdForPatrons(personId)) {
+          continue;
+        }
+
         let element = data[personId];
         element.personId = personId;
+        element.points = uCommon.getPersonProgressPoints(element.counts);
 
         dataArr.push(element);
       }
 
       const sortedDataArr = dataArr.sort(function (a, b) {
-        //to change ...
-        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+        return a.points > b.points ? -1 : a.points < b.points ? 1 : (a.first < b.first ? -1 : 1);
       });
 
       const rowNumberColumnWidth = "40px";
@@ -424,9 +430,11 @@ requirejs(
       for (const rowData of sortedDataArr) {
         rowNo++;
 
-        const name = rowData.personId;
+        const personId = rowData.personId;
+        const name = personId;
         const count = rowData.count;
-        const points = rowData.count;
+        const counts = rowData.counts;
+        const points = rowData.points;
         const firstTime = rowData.first;
         const lastTime = rowData.last;
 
@@ -465,10 +473,11 @@ requirejs(
           }
         }
         result.push(row);
+
         const row2 = {
           info: {
             style: {},
-            content: '...'
+            content: getChallengeTypeCountsInfo(counts)
           }
         }
         result.push(row2);
@@ -611,6 +620,32 @@ requirejs(
 
   function makeTextStrong(text) {
     return uConst.get("STRONG_TAG_OPENING") + text + uConst.get("STRONG_TAG_CLOSING");
+  }
+
+  function getChallengeTypeCountsInfo(countsData) {
+    let result = '';
+
+    let dataArr = [];
+    for (const challengeType in countsData) {
+      let element = {
+        type: challengeType,
+        count: countsData[challengeType]
+      }
+
+      dataArr.push(element);
+    }
+
+    const sortedDataArr = dataArr.sort(function (a, b) {
+      return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.type < b.type ? -1 : 1);
+    });
+
+    let separator = '';
+    for (let row of sortedDataArr) {
+      result += (separator + makeTextStrong(row.type) + ' (' + row.count + ')');
+      separator = ', ';
+    }
+
+    return result;
   }
 
   function fillDataTableContent(tableElement, data) {

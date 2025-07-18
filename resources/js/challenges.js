@@ -226,9 +226,9 @@ requirejs(
     .set("CONFIG_FIELD_SELECTABLE", uCommon.getConst("CONFIG_FIELD_SELECTABLE"))
     .set("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", uCommon.getConst("CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE"))
 
-    .set("PERSON_PREFIX_NEEDED", 'patrons')
-    .set("COPY_PERSON_TYPE_TO_NAME_IDS", ['me'])
-    .set("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL", 'god')
+    .set("PERSON_PREFIX_NEEDED", uCommon.getConst("PERSON_ID_PREFIX_PATRONS"))
+    .set("COPY_PERSON_TYPE_TO_NAME_IDS", [uCommon.getConst("PERSON_ID_PREFIX_ME")])
+    .set("GOD_HAVING_NEEDED_CHALLENGES_PERSON_NAME_URL", uCommon.getConst("PERSON_ID_PREFIX_GOD"))
 
     .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES", 'anybody-having-challenges')
     .set("REQUIREMENT_ANYBODY_HAVING_CHALLENGES_IN_LAST_1_DAY", 'anybody-having-challenges-in-last-1-day')
