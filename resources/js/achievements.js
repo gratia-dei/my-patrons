@@ -18,6 +18,7 @@ requirejs(
     .set("TEXT_ALIGN_CENTER", "center")
     .set("TEXT_ALIGN_RIGHT", "right")
 
+    .set("PERSON_OR_ADDITION_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-person-or-addition-link-item.html')
     .set("TABS_BUTTONS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-button-item.html')
     .set("TABS_CONTENTS_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/achievements-tab-content-item.html')
 
@@ -343,6 +344,7 @@ requirejs(
     getTableDataForPatronsRank: async function (section, option) {
 
       const challengesConfig = await uCommon.getChallengesConfig();
+      const linkContent = await uFile.getFileContent(uConst.get("PERSON_OR_ADDITION_ITEM_TEMPLATE_FILE_PATH"));
 
       const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
       const selectedDate = uDate.getDateParse(selectedDateStr);
@@ -368,16 +370,24 @@ requirejs(
 
         const challengeType = uCommon.getChallengeType(challenge);
         const personId = uCommon.getChallengePerson(challenge);
+        const additionId = uCommon.getChallengeAddition(challenge);
 
         data[personId] = data[personId] ?? {
           count: 0,
           counts: {},
+          additionsCounts: {},
           first: challengeDateStr,
           last: ''
         }
         data[personId].count++;
         data[personId].last = challengeDateStr;
         data[personId].counts[challengeType] = (data[personId].counts[challengeType] ?? 0) + 1;
+        if (additionId.length > 0) {
+          const additionType = additionId.split('/')[0] ?? '!!!';
+          data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
+          data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
+          data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
+        }
       }
 
       let dataArr = [];
@@ -431,9 +441,10 @@ requirejs(
         rowNo++;
 
         const personId = rowData.personId;
-        const name = personId;
+        const name = uCommon.getPersonDataName(personId);
         const count = rowData.count;
         const counts = rowData.counts;
+        const additionsCounts = rowData.additionsCounts;
         const points = rowData.points;
         const firstTime = rowData.first;
         const lastTime = rowData.last;
@@ -450,7 +461,9 @@ requirejs(
             style: {
               width: nameColumnWidth
             },
-            content: makeTextStrong(name)
+            content: linkContent
+              .replace(/#person-or-addition-url#/g, personId)
+              .replace(/#person-or-addition-name#/g, name)
           },
           points: {
             style: {
@@ -474,10 +487,25 @@ requirejs(
         }
         result.push(row);
 
+        dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
+
+        let content = makeTextStrong(uLanguage.getTranslation("lang-all-challenges") + ' --- ') + getChallengeTypeCountsInfo(counts);
+        for (const additionType in additionsCounts) {
+          content += (uConst.get('NEWLINE_TAG') + makeTextStrong(uLanguage.getTranslation("lang-" + additionType) + ':'));
+
+          for (const additionId in additionsCounts[additionType]) {
+            const link = linkContent
+              .replace(/#person-or-addition-url#/g, additionId)
+              .replace(/#person-or-addition-name#/g, uCommon.getPersonDataAdditionName(personId, additionType, additionId))
+            ;
+            content += (uConst.get('NEWLINE_TAG') + ' - ' + link + ' --- ' + getChallengeTypeCountsInfo(additionsCounts[additionType][additionId]));
+          }
+        }
+
         const row2 = {
           info: {
             style: {},
-            content: getChallengeTypeCountsInfo(counts)
+            content: content
           }
         }
         result.push(row2);
@@ -493,6 +521,7 @@ requirejs(
   async function build() {
     uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value = uDate.getToday();
 
+    await uCommon.loadPersonsDataFile();
     await uLanguage.loadTranslationsFile();
     await refreshAllTabs();
   };
@@ -623,8 +652,6 @@ requirejs(
   }
 
   function getChallengeTypeCountsInfo(countsData) {
-    let result = '';
-
     let dataArr = [];
     for (const challengeType in countsData) {
       let element = {
@@ -639,13 +666,14 @@ requirejs(
       return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.type < b.type ? -1 : 1);
     });
 
+    let result = '';
     let separator = '';
     for (let row of sortedDataArr) {
-      result += (separator + makeTextStrong(row.type) + ' (' + row.count + ')');
-      separator = ', ';
+      result += (separator + row.count + 'x' + row.type);
+      separator = ' + ';
     }
 
-    return result;
+    return result + ' = ' + makeTextStrong(Object.keys(countsData).reduce((sum, key) => sum + parseInt(countsData[key] || 0), 0));
   }
 
   function fillDataTableContent(tableElement, data) {

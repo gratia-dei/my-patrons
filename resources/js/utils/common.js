@@ -1,11 +1,15 @@
-define(["const", "file"], function(uConst, uFile) {
+define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
 
   uConst
     .set("COMMON/CONST_NAME_PREFIX", "COMMON/")
 
+    .set("COMMON/PERSONS_JSON_FILE", "/files/data/generated/persons-data.generated.json")
+
     .set("COMMON/CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
 
     .set("COMMON/MAX_PROGRESS_POINTS_PER_CHALLENGE_TYPE", 7)
+
+    .set("COMMON/PERSONS_DATA_FIELD_NAMES", 'names')
 
     .set("COMMON/PERSON_ID_PREFIX_GOD", 'god')
     .set("COMMON/PERSON_ID_PREFIX_ME", 'me')
@@ -25,6 +29,7 @@ define(["const", "file"], function(uConst, uFile) {
     .set("COMMON/DATA_FIELD_CHALLENGES", 'challenges')
     .set("COMMON/DATA_FIELD_FILENAME_WITHOUT_EXTENSION", 'filename-without-extension')
     .set("COMMON/DATA_FIELD_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION", 'add-datetime-suffix-to-filename-without-extension')
+    .set("COMMON/DATA_FIELD_ADDITION", 'addition')
     .set("COMMON/DATA_FIELD_DATE", 'date')
     .set("COMMON/DATA_FIELD_OWNER", 'owner')
     .set("COMMON/DATA_FIELD_CHECKLIST", 'checklist')
@@ -40,6 +45,8 @@ define(["const", "file"], function(uConst, uFile) {
     .set("COMMON/CONFIG_FIELD_SELECTABLE", 'selectable')
     .set("COMMON/CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", 'to-complete-on-selected-date')
   ;
+
+  let personsData = {};
 
   async function getChallengesConfig() {
     return await uFile.getJsonFromFile(uConst.get("COMMON/CHALLENGES_CONFIG_JSON_FILE"));
@@ -122,6 +129,10 @@ define(["const", "file"], function(uConst, uFile) {
     return (configChecklist[stepId] ?? {})[uConst.get("COMMON/CONFIG_FIELD_REQUIRED")] ?? true;
   }
 
+  function getChallengeAddition(challenge) {
+    return challenge[uConst.get("COMMON/DATA_FIELD_ADDITION")] ?? '';
+  }
+
   function getChallengeDate(challenge) {
     return challenge[uConst.get("COMMON/DATA_FIELD_DATE")] ?? '';
   }
@@ -140,6 +151,18 @@ define(["const", "file"], function(uConst, uFile) {
 
   function getFileDataChallenges(fileData) {
     return fileData[uConst.get("COMMON/DATA_FIELD_CHALLENGES")] ?? [];
+  }
+
+  function getPersonDataAdditionName(personId, additionType, additionId) {
+    const data = ((personsData[personId] ?? {})[additionType] ?? {})[additionId] ?? {};
+
+    return uLanguage.getTranslation(uConst.get("COMMON/PERSONS_DATA_FIELD_NAMES"), true, data[uConst.get("COMMON/PERSONS_DATA_FIELD_NAMES")] ?? []);
+  }
+
+  function getPersonDataName(personId) {
+    const data = personsData[personId] ?? [];
+
+    return uLanguage.getTranslation(uConst.get("COMMON/PERSONS_DATA_FIELD_NAMES"), true, data[uConst.get("COMMON/PERSONS_DATA_FIELD_NAMES")] ?? []);
   }
 
   function getPersonProgressPoints(challengeTypeCounts) {
@@ -165,18 +188,28 @@ define(["const", "file"], function(uConst, uFile) {
     return personId.split('/')[0] === uConst.get('COMMON/PERSON_ID_PREFIX_PATRONS');
   }
 
+  async function loadPersonsDataFile() {
+    personsData = await uFile.getJsonFromFile(uConst.get("COMMON/PERSONS_JSON_FILE"));
+
+    return personsData;
+  }
+
   return {
     getChallengesConfig,
+    getChallengeAddition,
     getChallengeDate,
     getChallengePerson,
     getChallengeStatus,
     getChallengeType,
     getConst,
     getFileDataChallenges,
+    getPersonDataAdditionName,
+    getPersonDataName,
     getPersonProgressPoints,
     isPersonIdForGod,
     isPersonIdForMe,
-    isPersonIdForPatrons
+    isPersonIdForPatrons,
+    loadPersonsDataFile
   };
 
 });

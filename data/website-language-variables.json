@@ -238,6 +238,11 @@
         "pl": "dodaj swoją nową notatkę"
     },
 
+    "lang-all-challenges": {
+        "en": "all challenges",
+        "pl": "wszystkich wyzwań"
+    },
+
     "lang-anniversary": {
         "en": "anniversary",
         "pl": "rocznica"
@@ -1138,6 +1143,11 @@
     "lang-feast-name": {
         "en": "feast name",
         "pl": "nazwa święta"
+    },
+
+    "lang-feasts": {
+        "en": "feasts",
+        "pl": "święta"
     },
 
     "lang-feasts-to-discover": {

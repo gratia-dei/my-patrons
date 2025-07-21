@@ -64,7 +64,6 @@ requirejs(
 
     .set("MISSING_NOTE_ID_SIGN", '!!!')
     .set("NOTES_CONFIG_JSON_FILE", '/files/data/notes-types.json')
-    .set("PERSONS_DATA_JSON_FILE", '/files/data/generated/persons-data.generated.json')
     .set("BIBLE_CHAPTERS_DATA_JSON_FILE", '/files/data/bible-chapters.json')
     .set("DATES_FEASTS_IMMOVABLE_JSON_FILE", '/files/data/generated/dates-feasts-immovable.generated.json')
     .set("DATES_PATRONS_IMMOVABLE_JSON_FILE", '/files/data/generated/dates-patrons-immovable.generated.json')
@@ -210,7 +209,7 @@ requirejs(
     .set("DATETIME_CHECKBOX_FOR_FILENAME_WITHOUT_EXTENSION_ELEMENT_ID", 'datetime-checkbox-for-filename-without-extension')
     .set("INPUT_FOR_OWNER_ELEMENT_ID", 'input-for-owner')
 
-    .set("PERSONS_DATA_FIELD_NAMES", 'names')
+    .set("PERSONS_DATA_FIELD_NAMES", uCommon.getConst("PERSONS_DATA_FIELD_NAMES"))
 
     .set("DATA_FIELD_CHALLENGES", uCommon.getConst("DATA_FIELD_CHALLENGES"))
     .set("DATA_FIELD_FILENAME_WITHOUT_EXTENSION", uCommon.getConst("DATA_FIELD_FILENAME_WITHOUT_EXTENSION"))
@@ -348,7 +347,7 @@ requirejs(
     await uLanguage.loadTranslationsFile();
     challengesConfig = await uCommon.getChallengesConfig();
     notesTypesConfig = await uFile.getJsonFromFile(uConst.get("NOTES_CONFIG_JSON_FILE"));
-    personsData = await uFile.getJsonFromFile(uConst.get("PERSONS_DATA_JSON_FILE"));
+    personsData = await uCommon.loadPersonsDataFile();
     immovableDatesPatronsData = await getImmovableDatesPatronsData([uConst.get("DATES_FEASTS_IMMOVABLE_JSON_FILE"), uConst.get("DATES_PATRONS_IMMOVABLE_JSON_FILE")]);
     liturgicalSeasonsData = await uFile.getJsonFromFile(uConst.get("LITURGICAL_SEASONS_JSON_FILE"));
 
