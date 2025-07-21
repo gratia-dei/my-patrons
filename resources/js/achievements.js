@@ -399,6 +399,7 @@ requirejs(
         let element = data[personId];
         element.personId = personId;
         element.points = uCommon.getPersonProgressPoints(element.counts);
+        element.additionsCounts = getSortedAdditionsCountsData(element.additionsCounts);
 
         dataArr.push(element);
       }
@@ -493,12 +494,15 @@ requirejs(
         for (const additionType in additionsCounts) {
           content += (uConst.get('NEWLINE_TAG') + makeTextStrong(uLanguage.getTranslation("lang-" + additionType) + ':'));
 
-          for (const additionId in additionsCounts[additionType]) {
+          for (const subrowData of additionsCounts[additionType]) {
+            const additionId = subrowData.additionId;
+            const additionCounts = subrowData.counts;
             const link = linkContent
               .replace(/#person-or-addition-url#/g, additionId)
               .replace(/#person-or-addition-name#/g, uCommon.getPersonDataAdditionName(personId, additionType, additionId))
             ;
-            content += (uConst.get('NEWLINE_TAG') + ' - ' + link + ' --- ' + getChallengeTypeCountsInfo(additionsCounts[additionType][additionId]));
+
+            content += (uConst.get('NEWLINE_TAG') + ' - ' + link + ' --- ' + getChallengeTypeCountsInfo(additionCounts));
           }
         }
 
@@ -651,7 +655,7 @@ requirejs(
     return uConst.get("STRONG_TAG_OPENING") + text + uConst.get("STRONG_TAG_CLOSING");
   }
 
-  function getChallengeTypeCountsInfo(countsData) {
+  function getSortedChallengeTypeCountsData(countsData) {
     let dataArr = [];
     for (const challengeType in countsData) {
       let element = {
@@ -662,11 +666,15 @@ requirejs(
       dataArr.push(element);
     }
 
-    const sortedDataArr = dataArr.sort(function (a, b) {
+    return dataArr.sort(function (a, b) {
       return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.type < b.type ? -1 : 1);
     });
+  }
 
+  function getChallengeTypeCountsInfo(countsData) {
     let result = '';
+
+    const sortedDataArr = getSortedChallengeTypeCountsData(countsData);
     let separator = '';
     for (let row of sortedDataArr) {
       result += (separator + row.count + 'x' + row.type);
@@ -674,6 +682,31 @@ requirejs(
     }
 
     return result + ' = ' + makeTextStrong(Object.keys(countsData).reduce((sum, key) => sum + parseInt(countsData[key] || 0), 0));
+  }
+
+  function getSortedAdditionsCountsData(additionsCounts) {
+    let result = {};
+
+    for (const additionType in additionsCounts) {
+      let dataArr = [];
+
+      for (const challengeType in additionsCounts[additionType]) {
+        const counts = additionsCounts[additionType][challengeType];
+
+        let element = {
+          additionId: challengeType,
+          counts: counts,
+          sum: Object.keys(counts).reduce((sum, key) => sum + parseInt(counts[key] || 0), 0)
+        }
+        dataArr.push(element);
+      }
+
+      result[additionType] = dataArr.sort(function (a, b) {
+        return a.sum > b.sum ? -1 : a.sum < b.sum ? 1 : 0;
+      });
+    }
+
+    return result;
   }
 
   function fillDataTableContent(tableElement, data) {
