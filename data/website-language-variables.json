@@ -39,6 +39,11 @@
         "pl": "typ wyzwania"
     },
 
+    "lang-achievements-table-header-challenges-count": {
+        "en": "challenges count",
+        "pl": "liczba wyzwań"
+    },
+
     "lang-achievements-table-header-count": {
         "en": "count",
         "pl": "liczba"
@@ -127,6 +132,16 @@
     "lang-achievements-section-patrons-rank-description": {
         "en": "Patrons rank statistics:",
         "pl": "Statystyki rankingu Patronów:"
+    },
+
+    "lang-achievements-section-challenges-assigned-to-god-persons": {
+        "en": "Challenges assigned to God Persons",
+        "pl": "Wyzwania przypisane do Osób Boskich"
+    },
+
+    "lang-achievements-section-challenges-assigned-to-god-persons-description": {
+        "en": "Challenges assigned to God Persons statistics:",
+        "pl": "Statystyki wyzwań przypisanych do Osób Boskich:"
     },
 
     "lang-achievements-section-coming-soon": {
@@ -1708,6 +1723,126 @@
     "lang-patrons-and-feasts-for-today": {
         "en": "Patrons and feasts for today",
         "pl": "Patroni i święta na dziś"
+    },
+
+    "lang-patron-role-name-mission-apostle": {
+        "en": "Apostle's Mission",
+        "pl": "Misja Apostoła"
+    },
+
+    "lang-patron-role-name-mission-messenger": {
+        "en": "Messenger's Mission",
+        "pl": "Misja Posłańca"
+    },
+
+    "lang-patron-role-name-mission-piety": {
+        "en": "Mission of Piety",
+        "pl": "Misja Pobożności"
+    },
+
+    "lang-patron-role-name-patron-name": {
+        "en": "Name Patron",
+        "pl": "Patron Imienia"
+    },
+
+    "lang-patron-role-name-patron-guide": {
+        "en": "Patron Guide",
+        "pl": "Patron Przewodnik"
+    },
+
+    "lang-patron-role-name-patron-defender": {
+        "en": "Patron Defender",
+        "pl": "Patron Obrońca"
+    },
+
+    "lang-patron-role-name-patron-guardian": {
+        "en": "Patron Guardian",
+        "pl": "Patron Opiekun"
+    },
+
+    "lang-patron-role-name-patron-advocate": {
+        "en": "Patron Advocate",
+        "pl": "Patron Orędownik"
+    },
+
+    "lang-patron-role-name-patron-helper": {
+        "en": "Patron Helper",
+        "pl": "Patron Wspomożyciel"
+    },
+
+    "lang-patron-role-name-patron-mentor": {
+        "en": "Patron Mentor",
+        "pl": "Patron Mentor"
+    },
+
+    "lang-patron-role-color-black": {
+        "en": "black",
+        "pl": "czarny"
+    },
+
+    "lang-patron-role-color-red": {
+        "en": "red",
+        "pl": "czerwony"
+    },
+
+    "lang-patron-role-color-orange": {
+        "en": "orange",
+        "pl": "pomarańczowy"
+    },
+
+    "lang-patron-role-color-yellow": {
+        "en": "yellow",
+        "pl": "żółty"
+    },
+
+    "lang-patron-role-color-green": {
+        "en": "green",
+        "pl": "zielony"
+    },
+
+    "lang-patron-role-color-blue": {
+        "en": "blue",
+        "pl": "niebieski"
+    },
+
+    "lang-patron-role-color-indigo": {
+        "en": "indigo",
+        "pl": "indygowy"
+    },
+
+    "lang-patron-role-color-violet": {
+        "en": "violet",
+        "pl": "fioletowy"
+    },
+
+    "lang-patron-role-color-white": {
+        "en": "white",
+        "pl": "biały"
+    },
+
+    "lang-patron-role-stone-diamond": {
+        "en": "diamond",
+        "pl": "diament"
+    },
+
+    "lang-patron-role-stone-corundum": {
+        "en": "corundum",
+        "pl": "korund"
+    },
+
+    "lang-patron-role-stone-topaz": {
+        "en": "topaz",
+        "pl": "topaz"
+    },
+
+    "lang-patron-role-stone-quartz": {
+        "en": "quartz",
+        "pl": "kwarc"
+    },
+
+    "lang-patron-role-stone-coal": {
+        "en": "coal",
+        "pl": "węgiel"
     },
 
     "lang-person": {

@@ -3,6 +3,43 @@ define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
   uConst
     .set("COMMON/CONST_NAME_PREFIX", "COMMON/")
 
+    .set(
+      "COMMON/PATRON_ROLE_NAMES", {
+        'lang-patron-role-name-patron-guide': 'P',
+        'lang-patron-role-name-patron-defender': 'A',
+        'lang-patron-role-name-patron-guardian': 'T',
+        'lang-patron-role-name-patron-advocate': 'R',
+        'lang-patron-role-name-patron-helper': 'O',
+        'lang-patron-role-name-patron-mentor': 'N',
+        'lang-patron-role-name-patron-name': 'YN',
+        'lang-patron-role-name-mission-apostle': 'MA',
+        'lang-patron-role-name-mission-messenger': 'MM',
+        "lang-patron-role-name-mission-piety": "MP"
+      }
+    )
+    .set(
+      "COMMON/PATRON_ROLE_COLORS", {
+        'lang-patron-role-color-white': ['P'],
+        'lang-patron-role-color-indigo': ['A', 'T', 'R'],
+        'lang-patron-role-color-green': ['A', 'T'],
+        'lang-patron-role-color-violet': ['A', 'R'],
+        'lang-patron-role-color-orange': ['T', 'R'],
+        'lang-patron-role-color-blue': ['A'],
+        'lang-patron-role-color-yellow': ['T'],
+        'lang-patron-role-color-red': ['R'],
+        'lang-patron-role-color-black': []
+      }
+    )
+    .set(
+      "COMMON/PATRON_ROLE_STONES", {
+        'lang-patron-role-stone-diamond': ['P'],
+        'lang-patron-role-stone-corundum': ['O'],
+        'lang-patron-role-stone-topaz': ['N'],
+        'lang-patron-role-stone-quartz': ['A', 'T', 'R'],
+        'lang-patron-role-stone-coal': []
+      }
+    )
+
     .set("COMMON/PERSONS_JSON_FILE", "/files/data/generated/persons-data.generated.json")
 
     .set("COMMON/CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
@@ -153,6 +190,67 @@ define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
     return fileData[uConst.get("COMMON/DATA_FIELD_CHALLENGES")] ?? [];
   }
 
+  function getPatronRoles(challengesTypesCounts) {
+    let result = '';
+
+    const names = uConst.get("COMMON/PATRON_ROLE_NAMES");
+    let separator = '';
+    for (const nameLang in names) {
+      const nameId = names[nameLang];
+
+      if (challengesTypesCounts[nameId] !== undefined) {
+        result += (separator + uLanguage.getTranslation(nameLang, true));
+        separator = ', ';
+      }
+    }
+
+    return result;
+  }
+
+  function getPatronStatusInfo(challengesTypesCounts) {
+    let color = '!!!';
+    const colors = uConst.get("COMMON/PATRON_ROLE_COLORS");
+    for (const colorLang in colors) {
+      const challengeIds = colors[colorLang];
+
+      let hasAll = true;
+      for (const challengeId of challengeIds) {
+        if (challengesTypesCounts[challengeId] === undefined) {
+          hasAll = false;
+          break;
+        }
+
+      }
+
+      if (hasAll) {
+        color = uLanguage.getTranslation(colorLang);
+        break;
+      }
+    }
+
+    let stone = '!!!';
+    const stones = uConst.get("COMMON/PATRON_ROLE_STONES");
+    for (const stoneLang in stones) {
+      const challengeIds = stones[stoneLang];
+
+      stone = uLanguage.getTranslation(stoneLang);
+
+      let found = false;
+      for (const challengeId of challengeIds) {
+        if (challengesTypesCounts[challengeId] !== undefined) {
+          found = true;
+          break;
+        }
+      }
+
+      if (found) {
+        break;
+      }
+    }
+
+    return color + ' ' + stone;
+  }
+
   function getPersonDataAdditionName(personId, additionType, additionId) {
     const data = ((personsData[personId] ?? {})[additionType] ?? {})[additionId] ?? {};
 
@@ -203,6 +301,8 @@ define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
     getChallengeType,
     getConst,
     getFileDataChallenges,
+    getPatronRoles,
+    getPatronStatusInfo,
     getPersonDataAdditionName,
     getPersonDataName,
     getPersonProgressPoints,

@@ -47,6 +47,12 @@ requirejs(
         method: "getTableDataForPatronsRank",
         options: {}
       },
+      "challenges-for-god": {
+        name: "lang-achievements-section-challenges-assigned-to-god-persons",
+        description: "lang-achievements-section-challenges-assigned-to-god-persons-description",
+        method: "getTableDataForChallengesAssignedToGodPersons",
+        options: {}
+      },
       //"...": {
         //name: "lang-achievements-section-...",
         //description: "lang-achievements-section-...-description",
@@ -199,6 +205,183 @@ requirejs(
           }
         }
         result.push(row);
+      }
+
+      return result;
+    },
+
+
+
+    getTableDataForChallengesAssignedToGodPersons: async function (section, option) {
+
+      const challengesConfig = await uCommon.getChallengesConfig();
+      const linkContent = await uFile.getFileContent(uConst.get("PERSON_OR_ADDITION_ITEM_TEMPLATE_FILE_PATH"));
+
+      const selectedDateStr = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID")).value ?? uDate.getToday();
+      const selectedDate = uDate.getDateParse(selectedDateStr);
+
+      let data = {};
+      let rowId = 0;
+      for (const challenge of uCommon.getFileDataChallenges(fileData)) {
+        rowId++;
+
+        const challengeDateStr = uCommon.getChallengeDate(challenge);
+        const challengeDate = uDate.getDateParse(challengeDateStr);
+        if (challengeDate > selectedDate) {
+          break;
+        }
+
+        const challengeStatus = uCommon.getChallengeStatus(challenge, challengesConfig);
+        if (isChallengeStatusBreakAchievementsCalculation(challengeStatus)) {
+          break;
+        }
+        if (isChallengeStatusIgnoreAchievementCalculation(challengeStatus)) {
+          continue;
+        }
+
+        const challengeType = uCommon.getChallengeType(challenge);
+        const personId = uCommon.getChallengePerson(challenge);
+        const additionId = uCommon.getChallengeAddition(challenge);
+
+        data[personId] = data[personId] ?? {
+          count: 0,
+          counts: {},
+          additionsCounts: {},
+          first: challengeDateStr,
+          last: ''
+        }
+        data[personId].count++;
+        data[personId].last = challengeDateStr;
+        data[personId].counts[challengeType] = (data[personId].counts[challengeType] ?? 0) + 1;
+        if (additionId.length > 0) {
+          const additionType = additionId.split('/')[0] ?? '!!!';
+          data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
+          data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
+          data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
+        }
+      }
+
+      let dataArr = [];
+      for (const personId in data) {
+        if (!uCommon.isPersonIdForGod(personId)) {
+          continue;
+        }
+
+        let element = data[personId];
+        element.personId = personId;
+        element.additionsCounts = getSortedAdditionsCountsData(element.additionsCounts);
+
+        dataArr.push(element);
+      }
+
+      const sortedDataArr = dataArr.sort(function (a, b) {
+        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+      });
+
+      const rowNumberColumnWidth = "40px";
+      const nameColumnWidth = "300px";
+      const pointsColumnWidth = "100px";
+
+      let result = [];
+      const row = {
+        number: {
+          style: {
+            width: rowNumberColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-row-number", true)
+        },
+        name: {
+          style: {
+            width: nameColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-patron-name", true)
+        },
+        points: {
+          style: {
+            width: pointsColumnWidth
+          },
+          content: uLanguage.getTranslation("lang-achievements-table-header-progress-points", true)
+        },
+        count: uLanguage.getTranslation("lang-achievements-table-header-challenges-count", true),
+        dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
+      }
+      result.push(row);
+
+      let rowNo = 0;
+      for (const rowData of sortedDataArr) {
+        rowNo++;
+
+        const personId = rowData.personId;
+        const name = uCommon.getPersonDataName(personId);
+        const count = rowData.count;
+        const counts = rowData.counts;
+        const additionsCounts = rowData.additionsCounts;
+        const firstTime = rowData.first;
+        const lastTime = rowData.last;
+
+        const row = {
+          number: {
+            style: {
+              width: rowNumberColumnWidth,
+              "text-align": uConst.get("TEXT_ALIGN_RIGHT")
+            },
+            content: rowNo + '.'
+          },
+          name: {
+            style: {
+              width: nameColumnWidth
+            },
+            content: linkContent
+              .replace(/#person-or-addition-url#/g, personId)
+              .replace(/#person-or-addition-name#/g, name)
+          },
+          points: {
+            style: {
+              width: pointsColumnWidth,
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: makeTextStrong('∞')
+          },
+          count: {
+            style: {
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: makeTextStrong(count)
+          },
+          dates: {
+            style: {
+              "text-align": uConst.get("TEXT_ALIGN_CENTER")
+            },
+            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
+          }
+        }
+        result.push(row);
+
+        dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
+
+        let content = makeTextStrong(uLanguage.getTranslation("lang-all-challenges") + ' --- ') + getChallengeTypeCountsInfo(counts);
+        for (const additionType in additionsCounts) {
+          content += (uConst.get('NEWLINE_TAG') + makeTextStrong(uLanguage.getTranslation("lang-" + additionType) + ':'));
+
+          for (const subrowData of additionsCounts[additionType]) {
+            const additionId = subrowData.additionId;
+            const additionCounts = subrowData.counts;
+            const link = linkContent
+              .replace(/#person-or-addition-url#/g, additionId)
+              .replace(/#person-or-addition-name#/g, uCommon.getPersonDataAdditionName(personId, additionType, additionId))
+            ;
+
+            content += (uConst.get('NEWLINE_TAG') + ' - ' + link + ' --- ' + getChallengeTypeCountsInfo(additionCounts));
+          }
+        }
+
+        const row2 = {
+          info: {
+            style: {},
+            content: content
+          }
+        }
+        result.push(row2);
       }
 
       return result;
@@ -477,7 +660,9 @@ requirejs(
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
-            content: '...'
+            content: uCommon.getPatronRoles(counts)
+              + uConst.get("NEWLINE_TAG")
+              + makeTextStrong('(' + uLanguage.getTranslation('lang-status') + ': ' + uCommon.getPatronStatusInfo(counts) + ')')
           },
           dates: {
             style: {
