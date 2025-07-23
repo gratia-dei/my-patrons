@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/benedictus/nur": {
+            "la": "Benedictus Nursinus",
+            "en": "Banadict of Nursia",
+            "pl": "Benedykt z Nursji"
+        },
         "records/patrons/boleslava/lam": {
             "pl": "Bolesława Lament",
             "en": "Boleslava Lament",

@@ -1,22 +1,44 @@
 {
-  "names": {
-    "la": [
-      "Benedictus Nursinus",
-      "Benedictus de Nursia"
-    ],
-    "en": [
-      "Banadict of Nursia"
-    ],
-    "pl": [
-      "Benedykt z Nursji"
-    ]
-  },
+    "names": {
+        "la": [
+            "Benedictus Nursinus",
+            "Benedictus de Nursia"
+        ],
+        "en": [
+            "Banadict of Nursia"
+        ],
+        "pl": [
+            "Benedykt z Nursji"
+        ]
+    },
+    "forenames": ["benedictus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~480"],
-  "died": ["547-03-21"],
+    "active": true,
 
-  "also-in-martyrology": ["03-21", "07-11"],
+    "born": ["~480"],
+    "died": ["547-03-21"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["benedictus"],
-  "categories": ["vir", "abbas", "eremita"]
+    "categories": ["vir", "abbas", "eremita", "conditor"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./21#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/21#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./21#5", "1:iul./11#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://pl.wikipedia.org/wiki/Benedykt_z_Nursji",
+        "wiki": "https://pl.wikipedia.org/wiki/Benedykt_z_Nursji"
+    }
 }

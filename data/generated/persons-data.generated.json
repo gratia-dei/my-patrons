@@ -1925,7 +1925,7 @@
         "feasts": []
     },
     "patrons/benedictus/nur": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Benedictus Nursinus",
             "en": "Banadict of Nursia",

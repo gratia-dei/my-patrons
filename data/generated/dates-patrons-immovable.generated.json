@@ -1184,6 +1184,19 @@
         }
     },
     "03-21": {
+        "records/patrons/benedictus/nur": {
+            "name": {
+                "la": "Benedictus Nursinus",
+                "en": "Banadict of Nursia",
+                "pl": "Benedykt z Nursji"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 III",
+                "mr-1584": "21 III: #1",
+                "mr-1956": "21 III: #1",
+                "mr-2004": "21 III: #5"
+            }
+        },
         "records/patrons/augustinus/zha": {
             "name": {
                 "zh": "趙榮思定",
@@ -3045,6 +3058,18 @@
                 "mr-1584": "10 VII: #1",
                 "mr-1956": "10 VII: #1",
                 "mr-2004": "10 VII: #1"
+            }
+        }
+    },
+    "07-11": {
+        "records/patrons/benedictus/nur": {
+            "name": {
+                "la": "Benedictus Nursinus",
+                "en": "Banadict of Nursia",
+                "pl": "Benedykt z Nursji"
+            },
+            "sources": {
+                "mr-2004": "11 VII: #1"
             }
         }
     },
