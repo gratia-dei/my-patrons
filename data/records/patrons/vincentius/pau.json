@@ -1,38 +1,58 @@
 {
-  "names": {
-    "fr": [
-      "Vincent de Paul",
-      "Vincent Depaul"
+    "names": {
+        "fr": [
+            "Vincent de Paul",
+            "Vincent Depaul"
+        ],
+        "la": [
+            "Vincentius de Paul",
+            "Vincentius a Paulo"
+        ],
+        "en": [
+            "Vincent de Paul"
+        ],
+        "pl": [
+            "Wincenty a Paulo"
+        ]
+    },
+    "forenames": ["vincentius"],
+    "surnames": [
+        {
+            "fr": "de Paul"
+        }
     ],
-    "en": [
-      "Vincent de Paul"
-    ],
-    "la": [
-      "Vincentius a Paulo",
-      "Vincentius de Paul"
-    ],
-    "pl": [
-      "Wincenty a Paulo"
-    ]
-  },
+    "epithets": null,
 
-  "born": ["1580-04-24", "1581-04-24"],
-  "died": ["1660-09-27"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1729-08-21"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1737-06-16"
-  },
+    "born": ["1581-04-24"],
+    "died": ["1660-09-27"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1729-08-21"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1737-06-16"
+    },
+    "anniversary": ["09-27"],
 
-  "also-in-martyrology": ["07-19", "09-27"],
+    "categories": ["vir", "confessor", "presbyter", "fundator", "institutor"],
 
-  "forenames": ["vincentius"],
-  "categories": ["vir", "confessor", "presbyter", "fundator", "institutor"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["cm"],
-  "order-founder": ["cm", "sm"]
+        "mr-1956": ["1:Julii/19#1", "1:Septembris/27#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./27#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/vincenzo-de-paoli.html",
+        "gcatholic": "https://gcatholic.org/p/25372",
+        "wiki": "https://pl.wikipedia.org/wiki/Wincenty_a_Paulo"
+    }
 }

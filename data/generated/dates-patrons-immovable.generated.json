@@ -3213,6 +3213,19 @@
             }
         }
     },
+    "07-19": {
+        "records/patrons/vincentius/pau": {
+            "name": {
+                "fr": "Vincent de Paul",
+                "la": "Vincentius de Paul",
+                "en": "Vincent de Paul",
+                "pl": "Wincenty a Paulo"
+            },
+            "sources": {
+                "mr-1956": "19 VII: #1"
+            }
+        }
+    },
     "07-20": {
         "records/patrons/anna/kim": {
             "name": {
@@ -4729,6 +4742,22 @@
             },
             "sources": {
                 "mr-2004": "26 IX: #8"
+            }
+        }
+    },
+    "09-27": {
+        "records/patrons/vincentius/pau": {
+            "name": {
+                "fr": "Vincent de Paul",
+                "la": "Vincentius de Paul",
+                "en": "Vincent de Paul",
+                "pl": "Wincenty a Paulo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 IX",
+                "feast": "27 IX",
+                "mr-1956": "27 IX: #2",
+                "mr-2004": "27 IX: #1"
             }
         }
     },

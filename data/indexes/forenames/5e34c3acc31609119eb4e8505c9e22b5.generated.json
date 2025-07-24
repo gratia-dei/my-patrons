@@ -48,8 +48,8 @@
         },
         "records/patrons/vincentius/pau": {
             "fr": "Vincent de Paul",
+            "la": "Vincentius de Paul",
             "en": "Vincent de Paul",
-            "la": "Vincentius a Paulo",
             "pl": "Wincenty a Paulo"
         }
     }
