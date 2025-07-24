@@ -3522,6 +3522,20 @@
             }
         }
     },
+    "07-28": {
+        "records/patrons/victor/1pp": {
+            "name": {
+                "la": "Victor I",
+                "en": "Victor I",
+                "pl": "Wiktor I"
+            },
+            "sources": {
+                "mr-1584": "28 VII: #1",
+                "mr-1956": "28 VII: #2",
+                "mr-2004": "28 VII: #2"
+            }
+        }
+    },
     "07-29": {
         "records/patrons/felix/2ap": {
             "name": {

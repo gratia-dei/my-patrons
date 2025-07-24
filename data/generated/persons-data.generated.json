@@ -11643,15 +11643,15 @@
         }
     },
     "patrons/victor/1pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Victor I",
             "en": "Victor I",
             "pl": "Wiktor I"
         },
         "died": [
-            "~199",
-            "~200"
+            ">197",
+            "<200"
         ],
         "feasts": []
     },
