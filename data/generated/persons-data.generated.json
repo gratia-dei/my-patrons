@@ -10716,11 +10716,11 @@
         "feasts": []
     },
     "patrons/simon/lip": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Szymon z Lipnicy",
-            "en": "Simon of Lipnica",
-            "la": "Simon de Lipnica"
+            "la": "Simon de Lipnica",
+            "en": "Simon of Lipnica"
         },
         "died": [
             "1482-07-18"

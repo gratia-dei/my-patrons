@@ -3189,6 +3189,18 @@
         }
     },
     "07-18": {
+        "records/patrons/simon/lip": {
+            "name": {
+                "pl": "Szymon z Lipnicy",
+                "la": "Simon de Lipnica",
+                "en": "Simon of Lipnica"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 VII",
+                "feast": "18 VII",
+                "mr-2004": "18 VII: #10"
+            }
+        },
         "records/patrons/camillus/lel": {
             "name": {
                 "it": "Camillo de Lellis",

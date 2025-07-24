@@ -1,32 +1,49 @@
 {
-  "names": {
-    "pl": [
-      "Szymon z Lipnicy"
-    ],
-    "en": [
-      "Simon of Lipnica"
-    ],
-    "la": [
-      "Simon de Lipnica"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Szymon z Lipnicy"
+        ],
+        "la": [
+            "Simon de Lipnica"
+        ],
+        "en": [
+            "Simon of Lipnica"
+        ]
+    },
+    "forenames": ["simon"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">1438", "<1440"],
-  "died": ["1482-07-18"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1685-02-24"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2007-06-03"
-  },
+    "born": [">1438", "<1440"],
+    "died": ["1482-07-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1685-02-24"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2007-06-03"
+    },
+    "anniversary": ["07-18"],
 
-  "also-in-martyrology": ["07-18"],
+    "categories": ["vir", "presbyter"],
 
-  "forenames": ["simon"],
-  "categories": ["vir", "presbyter"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ofm"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./18#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/simone-da-lipnica.html",
+        "gcatholic": "https://gcatholic.org/p/67262",
+        "wiki": "https://pl.wikipedia.org/wiki/Szymon_z_Lipnicy"
+    }
 }
