@@ -1,24 +1,46 @@
 {
-  "names": {
-    "he": [
-      "יְחֶזְקֵאל"
-    ],
-    "en": [
-      "Ezekiel"
-    ],
-    "la": [
-      "Ezechiel"
-    ],
-    "pl": [
-      "Ezechiel"
-    ]
-  },
+    "names": {
+        "he": [
+            "יחזקאל הנביא"
+        ],
+        "la": [
+            "Ezechiel, propheta"
+        ],
+        "en": [
+            "Ezekiel, prophet"
+        ],
+        "pl": [
+            "Ezechiel, prorok"
+        ]
+    },
+    "forenames": ["ezechiel"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~-623"],
-  "died": [">-571"],
+    "active": true,
 
-  "also-in-martyrology": ["04-10", "07-23"],
+    "born": ["~-623"],
+    "died": [">-571"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["ezechiel"],
-  "categories": ["vir", "martyr", "propheta"]
+    "categories": ["vir", "martyr", "propheta"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./10#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./23#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69882",
+        "wiki": "https://pl.wikipedia.org/wiki/Ezechiel"
+    }
 }

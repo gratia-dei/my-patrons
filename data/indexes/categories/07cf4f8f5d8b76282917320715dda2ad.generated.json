@@ -884,10 +884,10 @@
             "pl": "Euzebiusz z Vercelli"
         },
         "records/patrons/ezechiel/pro": {
-            "he": "יְחֶזְקֵאל",
-            "en": "Ezekiel",
-            "la": "Ezechiel",
-            "pl": "Ezechiel"
+            "he": "יחזקאל הנביא",
+            "la": "Ezechiel, propheta",
+            "en": "Ezekiel, prophet",
+            "pl": "Ezechiel, prorok"
         },
         "records/patrons/faustinus/sim": {
             "la": "Faustinus, cum eo, i.a., Simplicius",

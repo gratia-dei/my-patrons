@@ -1494,6 +1494,20 @@
             }
         }
     },
+    "04-10": {
+        "records/patrons/ezechiel/pro": {
+            "name": {
+                "he": "יחזקאל הנביא",
+                "la": "Ezechiel, propheta",
+                "en": "Ezekiel, prophet",
+                "pl": "Ezechiel, prorok"
+            },
+            "sources": {
+                "mr-1584": "10 IV: #1",
+                "mr-1956": "10 IV: #1"
+            }
+        }
+    },
     "04-13": {
         "records/patrons/iustinus/phi": {
             "name": {
@@ -3364,6 +3378,19 @@
                 "mr-1584": "22 VII: #1",
                 "mr-1956": "22 VII: #1",
                 "mr-2004": "22 VII: #1"
+            }
+        }
+    },
+    "07-23": {
+        "records/patrons/ezechiel/pro": {
+            "name": {
+                "he": "יחזקאל הנביא",
+                "la": "Ezechiel, propheta",
+                "en": "Ezekiel, prophet",
+                "pl": "Ezechiel, prorok"
+            },
+            "sources": {
+                "mr-2004": "23 VII: #2"
             }
         }
     },
