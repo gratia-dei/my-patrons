@@ -3621,6 +3621,21 @@
             }
         }
     },
+    "07-30": {
+        "records/patrons/iulitta/cae": {
+            "name": {
+                "el": "Ιουλίτα της Καισάρειας",
+                "la": "Julitta Caesariensis",
+                "en": "Julitta of Caesarea",
+                "pl": "Julita z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "30 VII: #4",
+                "mr-1956": "30 VII: #4",
+                "mr-2004": "30 VII: #3"
+            }
+        }
+    },
     "07-31": {
         "records/patrons/emmanuel/lev": {
             "name": {

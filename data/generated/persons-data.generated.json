@@ -6454,11 +6454,11 @@
         }
     },
     "patrons/iulitta/cae": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Ιουλίτα της Καισάρειας",
-            "en": "Julitta of Caesarea",
             "la": "Julitta Caesariensis",
+            "en": "Julitta of Caesarea",
             "pl": "Julita z Cezarei"
         },
         "died": [
