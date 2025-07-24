@@ -3324,7 +3324,36 @@
             }
         }
     },
+    "07-21": {
+        "records/patrons/laurentius/bru": {
+            "name": {
+                "it": "Lorenzo da Brindisi",
+                "la": "Laurentius de Brundusio",
+                "en": "Lawrence of Brindisi",
+                "pl": "Wawrzyniec z Brindisi"
+            },
+            "sources": {
+                "feast": "21 VII",
+                "mr-1956-variations": "21 VII: #pre-1-ab-1960-07-26",
+                "mr-2004": "21 VII: #1"
+            }
+        }
+    },
     "07-22": {
+        "records/patrons/laurentius/bru": {
+            "name": {
+                "it": "Lorenzo da Brindisi",
+                "la": "Laurentius de Brundusio",
+                "en": "Lawrence of Brindisi",
+                "pl": "Wawrzyniec z Brindisi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 VII",
+                "mr-1956": "22 VII: #8",
+                "mr-1956-variations": "22 VII: #post-1-ab-1960-07-26",
+                "mr-2004": "22 VII: #11"
+            }
+        },
         "records/patrons/maria/mag": {
             "name": {
                 "la": "Maria Magdalena",

@@ -1,35 +1,53 @@
 {
-  "names": {
-    "it": [
-      "Lorenzo da Brindisi"
-    ],
-    "en": [
-      "Lawrence of Brindisi"
-    ],
-    "la": [
-      "Laurentius de Brundusio"
-    ],
-    "pl": [
-      "Wawrzyniec z Brindisi"
-    ]
-  },
+    "names": {
+        "it": [
+            "Lorenzo da Brindisi"
+        ],
+        "la": [
+            "Laurentius de Brundusio"
+        ],
+        "en": [
+            "Lawrence of Brindisi"
+        ],
+        "pl": [
+            "Wawrzyniec z Brindisi"
+        ]
+    },
+    "forenames": ["laurentius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1559-07-22"],
-  "died": ["1619-07-22"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1783-05-23"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1881-12-08"
-  },
+    "born": ["1559-07-22"],
+    "died": ["1619-07-22"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1783-06-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1881-12-08"
+    },
+    "anniversary": ["07-21"],
 
-  "also-in-martyrology": ["07-21", "07-22"],
+    "categories": ["vir", "confessor", "sacerdos", "presbyter", "generalis", "doctor-ecclesiae"],
 
-  "forenames": ["laurentius"],
-  "categories": ["vir", "sacerdos", "presbyter", "generalis", "doctor-ecclesiae"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ofmcap"]
+        "mr-1956": ["1:Julii/22#8"],
+        "mr-1956-variations": ["1:Julii/21#pre-1-ab-1960-07-26", "1:Julii/22#post-1-ab-1960-07-26", "1:Julii/22#8-ab-1960-07-26"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./21#1", "1:iul./22#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/lorenzo-da-brindisi.html",
+        "gcatholic": "https://gcatholic.org/p/25021",
+        "wiki": "https://pl.wikipedia.org/wiki/Wawrzyniec_z_Brindisi"
+    }
 }
