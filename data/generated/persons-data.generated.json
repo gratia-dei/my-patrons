@@ -7027,7 +7027,7 @@
         }
     },
     "patrons/lydia/thy": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Lydia Thyatirensis",
             "en": "Lydia of Thyatira",

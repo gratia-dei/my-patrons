@@ -1,32 +1,55 @@
 {
-  "names": {
-    "la": [
-      "Lydia Thyatirensis",
-      "Lydia purpuraria"
-    ],
-    "en": [
-      "Lydia of Thyatira"
-    ],
-    "pl": [
-      "Lidia z Tiatyry"
-    ]
-  },
+    "names": {
+        "la": [
+            "Lydia Thyatirensis",
+            "Lydia, purpuraria"
+        ],
+        "en": [
+            "Lydia of Thyatira"
+        ],
+        "pl": [
+            "Lidia z Tiatyry"
+        ]
+    },
+    "forenames": ["lydia"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["<100"],
+    "active": true,
 
-  "also-in-martyrology": ["05-20", "08-03"],
+    "born": null,
+    "died": ["<100"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["lydia"],
-  "categories": ["femina"],
+    "categories": ["femina"],
 
-  "images": {
-    "1": {
-      "page-url": "https://commons.wikimedia.org/wiki/File:Lidia.jpg",
-      "file-url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lidia.jpg",
-      "attribution": "Russisch Ikone in Gemeinfreiheit - public domain, Public domain, via Wikimedia Commons",
-      "area-center-x": 99,
-      "area-center-y": 71,
-      "area-center-to-edge-distance": 60
+    "data-links": {
+        "mr-1584": ["1:Aug./3#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/3#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/20#2"],
+        "mr-2004-movable": []
+    },
+
+    "images": {
+        "1": {
+            "page-url": "https://commons.wikimedia.org/wiki/File:Lidia.jpg",
+            "file-url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lidia.jpg",
+            "attribution": "Russisch Ikone in Gemeinfreiheit - public domain, Public domain, via Wikimedia Commons",
+            "area-center-x": 99,
+            "area-center-y": 71,
+            "area-center-to-edge-distance": 60
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71549",
+        "wiki": "https://pl.wikipedia.org/wiki/Lidia_z_Tiatyry"
     }
-  }
 }

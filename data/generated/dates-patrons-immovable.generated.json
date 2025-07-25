@@ -1941,6 +1941,18 @@
             }
         }
     },
+    "05-20": {
+        "records/patrons/lydia/thy": {
+            "name": {
+                "la": "Lydia Thyatirensis",
+                "en": "Lydia of Thyatira",
+                "pl": "Lidia z Tiatyry"
+            },
+            "sources": {
+                "mr-2004": "20 V: #2"
+            }
+        }
+    },
     "05-21": {
         "records/patrons/christophorus/mag": {
             "name": {
@@ -3844,6 +3856,19 @@
             },
             "sources": {
                 "mr-2004": "2 VIII: #1"
+            }
+        }
+    },
+    "08-03": {
+        "records/patrons/lydia/thy": {
+            "name": {
+                "la": "Lydia Thyatirensis",
+                "en": "Lydia of Thyatira",
+                "pl": "Lidia z Tiatyry"
+            },
+            "sources": {
+                "mr-1584": "3 VIII: #7",
+                "mr-1956": "3 VIII: #2"
             }
         }
     },
