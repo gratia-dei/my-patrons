@@ -1534,6 +1534,27 @@
         ],
         "feasts": []
     },
+    "patrons/asprenas": {
+        "names": {
+            "la": "Asprenas",
+            "en": "Asprenas",
+            "pl": "Asprenas",
+            "it": "Asprenato"
+        }
+    },
+    "patrons/asprenas/nea": {
+        "active": true,
+        "names": {
+            "it": "Aspreno di Napoli",
+            "la": "Asprenas de Neapolis",
+            "en": "Aspren of Naples",
+            "pl": "Aspren z Neapolu"
+        },
+        "died": [
+            "~200"
+        ],
+        "feasts": []
+    },
     "patrons/atevulfus": {
         "names": {
             "la": "Atevulfus",

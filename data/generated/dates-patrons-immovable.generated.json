@@ -3860,6 +3860,19 @@
         }
     },
     "08-03": {
+        "records/patrons/asprenas/nea": {
+            "name": {
+                "it": "Aspreno di Napoli",
+                "la": "Asprenas de Neapolis",
+                "en": "Aspren of Naples",
+                "pl": "Aspren z Neapolu"
+            },
+            "sources": {
+                "mr-1584": "3 VIII: #4",
+                "mr-1956": "3 VIII: #3",
+                "mr-2004": "3 VIII: #1"
+            }
+        },
         "records/patrons/lydia/thy": {
             "name": {
                 "la": "Lydia Thyatirensis",

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Asprenus"
+    },
+    "translations": {
+        "la": [
+            "Asprenus"
+        ],
+        "en": [
+            "Asprenas"
+        ],
+        "pl": [
+            "Asprenas"
+        ],
+        "it": [
+            "Asprenato"
+        ]
+    },
+    "links": {
+        "records/patrons/asprenas/nea": {
+            "it": "Aspreno di Napoli",
+            "la": "Asprenas de Neapolis",
+            "en": "Aspren of Naples",
+            "pl": "Aspren z Neapolu"
+        }
+    }
+}

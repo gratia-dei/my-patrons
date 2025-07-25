@@ -1,0 +1,51 @@
+{
+    "names": {
+        "it": [
+            "Aspreno di Napoli",
+            "Asprenato di Napoli"
+        ],
+        "la": [
+            "Asprenas de Neapolis",
+            "Asprenus de Neapolis",
+            "Aspren de Neapolis"
+        ],
+        "en": [
+            "Aspren of Naples",
+            "Asprenas of Naples"
+        ],
+        "pl": [
+            "Aspren z Neapolu",
+            "Asprenas z Neapolu"
+        ]
+    },
+    "forenames": ["asprenas", "asprenus", "aspren"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~200"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./3#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/3#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/62839",
+        "wiki": "https://en.wikipedia.org/wiki/Aspren"
+    }
+}
