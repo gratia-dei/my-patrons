@@ -25,11 +25,14 @@
 </IfModule>
 
 <IfModule mod_headers.c>
-  Header set Cache-Control "max-age=3600, public"
-
-  #<FilesMatch ".(json|md)$">
-    #Header set Cache-Control "no-cache, no-store, must-revalidate"
-    #Header set Pragma "no-cache"
-    #Header set Expires 0
-  #</FilesMatch>
+  <if "%{HTTP_HOST} =~ /[.]dev[.]/">
+    Header set X-Env "dev"
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+  </if>
+  <Else>
+    Header set X-Env "prod"
+    Header set Cache-Control "max-age=3600, public"
+  </Else>
 </IfModule>
