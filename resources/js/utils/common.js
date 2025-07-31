@@ -40,7 +40,12 @@ define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
       }
     )
 
+    .set("COMMON/MARKDOWN_FILE_EXTENSION", '.md')
+
+    .set("COMMON/MARKDOWN_FILES_ROOT_PATH", '/files/resources/md/')
+
     .set("COMMON/PERSONS_JSON_FILE", "/files/data/generated/persons-data.generated.json")
+    .set("COMMON/DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH", '/files/resources/html/content-blocks/challenges-description-content-block.html')
 
     .set("COMMON/CHALLENGES_CONFIG_JSON_FILE", '/files/data/challenges.json')
 

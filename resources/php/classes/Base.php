@@ -29,6 +29,7 @@ abstract class Base
 
     protected const DATES_DATA_PATRON_RECORD_NAME_INDEX = 'name';
     protected const DATES_DATA_PATRON_RECORD_SOURCES_INDEX = 'sources';
+    protected const EXTERNAL_NAMES_DATA_NAME_INDEX = 'name';
 
     protected const GENERATED_FILE_NAME_SUFFIX = '.generated';
     protected const DATA_FILE_EXTENSION = '.json';

@@ -12,6 +12,9 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
     private const FULL_CONTENT_WRAPPER_SUFFIX = '</ol>';
     private const DATA_VARIABLE = self::VARIABLE_NAME_SIGN . 'lang-data' . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
 
+    private const BREADCRUMBS_EXTERNAL_NAMES_FILES_PATHS = [
+        '/guide' => 'guide-configuration',
+    ];
     private const BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS = [
         'about-my-patrons' => true,
         'about-us' => true,
@@ -19,6 +22,7 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
         'contact' => true,
         'dates' => false,
         'files' => false,
+        'guide' => true,
         'me' => true,
         'defender-patrons' => true,
         'feasts-to-discover' => true,
@@ -216,11 +220,12 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
                 $found = true;
             }
 
+            $dirPath = dirname($path);
             $language = $this->getLanguage();
-            $indexFilePath = $this->getIndexFilePath(dirname($path));
+            $indexFilePath = $this->getIndexFilePath($dirPath);
             $indexVariables = $this->getTranslatedVariables($language, $indexFilePath);
             if (empty($indexVariables)) {
-                $indexFilePath = $this->getIndexFilePath(dirname($path), true);
+                $indexFilePath = $this->getIndexFilePath($dirPath, true);
                 $indexVariables = $this->getTranslatedVariables($language, $indexFilePath);
             }
 
@@ -231,10 +236,23 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
                 $name = self::VARIABLE_NAME_SIGN . self::LANG_VARIABLE_PREFIX . $element . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
             }
             if (!$found && $element === $name) {
-                $isActive = self::BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS[$element] ?? null;
-                if (!is_null($isActive)) {
-                    $name = self::VARIABLE_NAME_SIGN . self::LANG_VARIABLE_PREFIX . $element . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
-                    $found = $isActive;
+                $externalNamesFilePath = self::BREADCRUMBS_EXTERNAL_NAMES_FILES_PATHS[$dirPath] ?? null;
+                if (!is_null($externalNamesFilePath)) {
+                    $externalNamesData = $this->getOriginalJsonFileContentArray($externalNamesFilePath . self::DATA_FILE_EXTENSION);
+                    $nameIndex = self::EXTERNAL_NAMES_DATA_NAME_INDEX;
+                    $nameLanguagesData = $externalNamesData[$element][$nameIndex] ?? null;
+                    if (!is_null($nameLanguagesData)) {
+                        $nameVariables = $this->getTranslatedVariablesForLangData($language, [$nameIndex => $nameLanguagesData]);
+
+                        $found = true;
+                        $name = $this->getReplacedContent(self::VARIABLE_NAME_SIGN . $nameIndex . self::VARIABLE_NAME_SIGN, $nameVariables, true);
+                    }
+                } else {
+                    $isActive = self::BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS[$element] ?? null;
+                    if (!is_null($isActive)) {
+                        $name = self::VARIABLE_NAME_SIGN . self::LANG_VARIABLE_PREFIX . $element . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
+                        $found = $isActive;
+                    }
                 }
             }
 

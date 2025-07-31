@@ -7,6 +7,7 @@
     "moje-wyzwania": "/my-challenges",
     "o-moich-patronach": "/about-my-patrons",
     "o-nas": "/about-us",
+    "przewodnik": "/guide",
     "wesprzyj-nas": "/support-us",
 
     "categories": "/records/categories/",
@@ -18,12 +19,12 @@
     "popes": "/sources/popes",
 
     "mr-1584": "/sources/martyrologium-romanum/1584/martyrologium-romanum/",
-    "mr-1584-editio": "/sources/martyrologium-romanum/1584/editio",
+    "mr-1584-edition": "/sources/martyrologium-romanum/1584/editio",
     "mr-1584-index": "/sources/martyrologium-romanum/1584/index-nominum-omnium-sanctorum-qui-in-hoc-martyrologio-continentur-ordine-alphabetico-descriptus/",
     "mr-1584-movable": "/sources/martyrologium-romanum/1584/rubricae-martyrologii",
 
     "mr-1956": "/sources/martyrologium-romanum/1956/martyrologium-romanum/",
-    "mr-1956-editio": "/sources/martyrologium-romanum/1956/editio",
+    "mr-1956-edition": "/sources/martyrologium-romanum/1956/editio",
     "mr-1956-index-sanctorum-1": "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/i-sancti-cum-nomine-descripti/",
     "mr-1956-index-sanctorum-2": "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/ii-sancti-sine-nomine-commemorati/",
     "mr-1956-index-sanctorum-3": "/sources/martyrologium-romanum/1956/i-index-sanctorum-omnium-qui-in-hoc-martyrologio-descripti-inveniuntur/iii-sancti-obiter-nominati/",
@@ -35,7 +36,7 @@
     "mr-1956-variations-movable": "/sources/martyrologium-romanum/1956/variationes/elogia-festorum-et-officiorum-mobilium",
 
     "mr-2004": "/sources/martyrologium-romanum/2004/martyrologium-romanum/",
-    "mr-2004-editio": "/sources/martyrologium-romanum/2004/editio",
+    "mr-2004-edition": "/sources/martyrologium-romanum/2004/editio",
     "mr-2004-index": "/sources/martyrologium-romanum/2004/index-nominum-sanctorum-et-beatorum/",
     "mr-2004-movable": "/sources/martyrologium-romanum/2004/elogia-pro-celebrationibus-mobilibus"
 }

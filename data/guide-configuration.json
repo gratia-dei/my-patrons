@@ -1,0 +1,34 @@
+{
+    "introduction": {
+        "name": {
+            "pl": "Wstęp"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/wstep"
+            }
+        }
+    },
+
+    "god-and-me": {
+        "name": {
+            "pl": "Etap 1. Bóg i ja"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/bog-i-ja"
+            }
+        }
+    },
+
+    "guardian-patrons": {
+        "name": {
+            "pl": "Etap 2. Patroni Opiekunowie"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-opiekunowie"
+            }
+        }
+    }
+}

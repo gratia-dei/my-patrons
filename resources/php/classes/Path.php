@@ -19,6 +19,11 @@ class Path
         return $this->getResourcesPath('html/' . $subPath, $getDocumentRootPath);
     }
 
+    public function getMarkdownPath(string $subPath = '', bool $getDocumentRootPath = false): string
+    {
+        return $this->getResourcesPath('md/' . $subPath, $getDocumentRootPath);
+    }
+
     private function getRootPath(string $subPath = '', bool $getDocumentRootPath = false): string
     {
         if (!$getDocumentRootPath) {

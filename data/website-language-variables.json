@@ -1230,6 +1230,11 @@
         "la": "Gratia Dei"
     },
 
+    "lang-guide": {
+        "en": "guide",
+        "pl": "przewodnik"
+    },
+
     "lang-help": {
         "en": "help",
         "pl": "pomoc"
@@ -2192,6 +2197,11 @@
     "lang-vertical": {
         "en": "vertical",
         "pl": "pionowy"
+    },
+
+    "lang-vertical-color-logo-path": {
+        "en": "/files/resources/brand/logo/rgb/vertical/en-color-without-background.svg",
+        "pl": "/files/resources/brand/logo/rgb/vertical/pl-color-without-background.svg"
     },
 
     "lang-weekday-abbreviation-monday": {

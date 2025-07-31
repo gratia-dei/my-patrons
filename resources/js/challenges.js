@@ -75,12 +75,12 @@ requirejs(
     .set("CHALLENGE_ITEM_TO_REMOVE_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-challenge-to-remove-item.html')
     .set("CHECKLIST_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-checklist-item.html')
     .set("NOTE_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-note-item.html')
-    .set("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH", '/files/resources/html/content-blocks/challenges-description-content-block.html')
+    .set("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH", uCommon.getConst("DESCRIPTION_CONTENT_BLOCK_TEMPLATE_FILE_PATH"))
     .set("READ_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-read-mode-note-cell-item.html')
     .set("EDIT_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-edit-mode-note-cell-item.html')
     .set("FORM_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-form-mode-note-cell-item.html')
     .set("CREATE_MODE_NOTE_CELL_ITEM_TEMPLATE_FILE_PATH", '/files/resources/html/items/challenges-create-mode-note-cell-item.html')
-    .set("MARKDOWN_FILES_ROOT_PATH", '/files/resources/md/')
+    .set("MARKDOWN_FILES_ROOT_PATH", uCommon.getConst("MARKDOWN_FILES_ROOT_PATH"))
 
     .set("DEFAULT_JSON_FILENAME", '')
     .set("DEFAULT_ADD_DATETIME_SUFFIX_TO_FILENAME_WITHOUT_EXTENSION_VALUE", true)
@@ -277,7 +277,7 @@ requirejs(
 
     .set("JSON_MIME_TYPE", 'application/json')
     .set("JSON_DATA_FILE_EXTENSION", '.mypatrons.json')
-    .set("MARKDOWN_FILE_EXTENSION", '.md')
+    .set("MARKDOWN_FILE_EXTENSION", uCommon.getConst("MARKDOWN_FILE_EXTENSION"))
 
     .set("DESCRIPTION_VALUE_PARAM", 'value')
 

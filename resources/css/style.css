@@ -1865,6 +1865,9 @@ iframe {
   padding: 0px;
 }
 
+.invisible {
+  visible: hidden;
+}
 
 .record-type-elements-list-item,
 .indexed-name-list-item {
