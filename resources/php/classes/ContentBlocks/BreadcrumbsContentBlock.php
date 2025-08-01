@@ -16,7 +16,7 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
         '/guide' => 'guide-configuration',
     ];
     private const BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS = [
-        'about-my-patrons' => true,
+        'about-patrons' => true,
         'about-us' => true,
         'collectible-cards' => true,
         'contact' => true,

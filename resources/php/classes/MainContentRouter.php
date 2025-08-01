@@ -31,7 +31,7 @@ class MainContentRouter extends Content
             'DirectoryMainContent' => $path,
             'MainPageMainContent' => $path,
             'AboutUsMainContent' => $path,
-            'AboutMyPatronsMainContent' => $path,
+            'AboutPatronsMainContent' => $path,
             'GuideMainContent' => $path,
             'ContactMainContent' => $path,
             'SupportUsMainContent' => $path,

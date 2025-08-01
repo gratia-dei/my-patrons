@@ -589,6 +589,10 @@ img.section-2-img {
     background-color: var(--color3);
 }
 
+.section-about-patrons a.button-2 {
+    margin-left: 15px;
+}
+
 /* --------------------------- END Section 2 --------------------------- */
 
 

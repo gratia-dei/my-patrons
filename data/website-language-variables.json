@@ -1,7 +1,7 @@
 {
-    "lang-about-my-patrons": {
-        "en": "about My Patrons",
-        "pl": "o Moich Patronach"
+    "lang-about-patrons": {
+        "en": "about Patrons",
+        "pl": "o Patronach"
     },
 
     "lang-about-us": {
@@ -390,7 +390,7 @@
     },
 
     "lang-brochure-patron-role-level-2": {
-        "pl": "<strong>Poziom II</strong> - poznawanie"
+        "pl": "<strong>Poziom II</strong> - poznawanie:"
     },
 
     "lang-brochure-patron-role-mentor": {
@@ -398,7 +398,7 @@
     },
 
     "lang-brochure-patron-role-level-3": {
-        "pl": "<strong>Poziom III</strong> - budowanie relacji"
+        "pl": "<strong>Poziom III</strong> - budowanie relacji:"
     },
 
     "lang-brochure-patron-role-helper": {
@@ -406,7 +406,7 @@
     },
 
     "lang-brochure-patron-role-level-4": {
-        "pl": "<strong>Poziom IV</strong> - wsparcie na ścieżkach wiary"
+        "pl": "<strong>Poziom IV</strong> - pogłębianie relacji:"
     },
 
     "lang-brochure-patron-role-guide": {
@@ -423,14 +423,6 @@
 
     "lang-brochure-patron-addition-specials": {
         "pl": "<strong>[Y...] Patroni Specjalni</strong>"
-    },
-
-    "lang-brochure-additional-info-header": {
-        "pl": "Warto wiedzieć!"
-    },
-
-    "lang-brochure-additional-info": {
-        "pl": "<strong>Obowiązujące Uczestników</strong> przedstawione w <strong>inicjatywie</strong> <em>„Moi Patroni”</em> sposoby wykonywania różnych <strong><em>wyzwań</em></strong>, w szczególności <strong>zapraszanie <em>Patronów</em></strong>, są naszymi propozycjami, mającymi zachęcić do poznawania Boga i <em>Patronów</em> oraz głębszej relacji z Nimi. Bóg w swojej mądrości działa, jak chce i może przydzielać nam <em>Patronów</em> według swojego uznania, choćby w odpowiedzi na nasze zwyczajne westchnienie czy prośbę o pomoc."
     },
 
     "lang-buy-coffee": {
@@ -1345,6 +1337,11 @@
     "lang-leap-year": {
         "en": "leap year",
         "pl": "rok przestępny"
+    },
+
+    "lang-learn-even-more": {
+        "en": "learn even more",
+        "pl": "dowiedz się jeszcze więcej"
     },
 
     "lang-learn-more": {

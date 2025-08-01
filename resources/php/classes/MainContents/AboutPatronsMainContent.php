@@ -1,10 +1,10 @@
 <?php
 
-class ProtectedPageMainContent extends MainContent implements MainContentInterface
+class AboutPatronsMainContent extends MainContent implements MainContentInterface
 {
     public function configure(string $path): bool
     {
-        if ($this->isRequestPathProtected($path)) {
+        if (preg_match("~^/about-patrons$~", $path)) {
             return true;
         }
 
@@ -18,7 +18,7 @@ class ProtectedPageMainContent extends MainContent implements MainContentInterfa
 
     public function getContent(): string
     {
-        $result = $this->getOriginalHtmlFileContent('main-contents/protected-page-main-content.html');
+        $result = $this->getOriginalHtmlFileContent('main-contents/about-patrons-main-content.html');
 
         $variables = [];
         $result = $this->getReplacedContent($result, $variables);
