@@ -263,6 +263,16 @@
         "pl": "rocznica"
     },
 
+    "lang-area": {
+        "en": "area",
+        "pl": "obszar"
+    },
+
+    "lang-areas": {
+        "en": "areas",
+        "pl": "obszary"
+    },
+
     "lang-around": {
         "en": "around",
         "la": "circa",
@@ -1220,11 +1230,6 @@
 
     "lang-gratia-dei": {
         "la": "Gratia Dei"
-    },
-
-    "lang-guide": {
-        "en": "guide",
-        "pl": "przewodnik"
     },
 
     "lang-help": {

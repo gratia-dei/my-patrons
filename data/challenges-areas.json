@@ -1,33 +1,33 @@
 {
-    "introduction": {
+    "areas": {
         "name": {
-            "pl": "Wstęp"
+            "pl": "Obszary"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/wstep"
+                "pl": "pl/obszary/obszary"
             }
         }
     },
 
     "god-and-me": {
         "name": {
-            "pl": "Etap 1. Bóg i ja"
+            "pl": "Bóg i ja"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/bog-i-ja"
+                "pl": "pl/obszary/bog-i-ja"
             }
         }
     },
 
     "guardian-patrons": {
         "name": {
-            "pl": "Etap 2. Patroni Opiekunowie"
+            "pl": "Patroni Opiekunowie"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/patroni-opiekunowie"
+                "pl": "pl/obszary/patroni-opiekunowie"
             }
         }
     }

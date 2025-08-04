@@ -13,7 +13,7 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
     private const DATA_VARIABLE = self::VARIABLE_NAME_SIGN . 'lang-data' . self::MODIFIER_SEPARATOR . self::MODIFIER_CAPITALIZE . self::VARIABLE_NAME_SIGN;
 
     private const BREADCRUMBS_EXTERNAL_NAMES_FILES_PATHS = [
-        '/guide' => 'guide-configuration',
+        '/areas' => 'challenges-areas',
     ];
     private const BREADCRUMBS_HIDE_DATA_ELEMENT_PATHS = [
         'about-patrons' => true,
@@ -22,7 +22,7 @@ class BreadcrumbsContentBlock extends ContentBlock implements ContentBlockInterf
         'contact' => true,
         'dates' => false,
         'files' => false,
-        'guide' => true,
+        'areas' => true,
         'me' => true,
         'defender-patrons' => true,
         'feasts-to-discover' => true,
