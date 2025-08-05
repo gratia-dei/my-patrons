@@ -15,9 +15,39 @@
                         <img src="/files/resources/svg/heart.svg">
                     </a>
                     <div class="d-flex align-items-center">
-                        <div data-bs-toggle="modal" data-bs-target="#search-modal"><img class="menu-icon" src="/files/resources/svg/search.svg"></div>
-                        <div data-bs-toggle="modal" data-bs-target="#patrons-for-today-modal"><img class="menu-icon" src="/files/resources/svg/calendar.svg"></div>
-                        <div data-bs-toggle="modal" data-bs-target="#language-modal"><img class="menu-icon" src="/files/resources/svg/languages/#selected-language-filename#.svg"></div>
+                        <div data-bs-toggle="modal" data-bs-target="#challenges-modal" onclick="clearNotifications()"><img class="menu-icon" src="/files/resources/svg/edit.svg"></div>
+                        <div data-bs-toggle="modal" data-bs-target="#search-modal" onclick="clearNotifications()"><img class="menu-icon" src="/files/resources/svg/search.svg"></div>
+                        <div data-bs-toggle="modal" data-bs-target="#patrons-for-today-modal" onclick="clearNotifications()"><img class="menu-icon" src="/files/resources/svg/calendar.svg"></div>
+                        <div data-bs-toggle="modal" data-bs-target="#language-modal" onclick="clearNotifications()"><img class="menu-icon" src="/files/resources/svg/languages/#selected-language-filename#.svg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- challenges Modal -->
+    <div class="modal fade" id="challenges-modal" tabindex="-1" aria-labelledby="challengesModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-head">
+                    <div class="row">
+                        <div class="col-6 d-flex justify-content-start">
+                            <img class="modal-head-icon" src="/files/resources/svg/edit-white.svg">
+                        </div>
+                        <div class="col-6 d-flex justify-content-end">
+                            <div data-bs-dismiss="modal" aria-label="Close"><img class="modal-close-icon" src="/files/resources/svg/close-white.svg"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row modal-container">
+                    <div class="col-12 col-lg-10 offset-lg-1 d-flex justify-content-left lang-select">
+                        <a href="/my-challenges"><img src="/files/resources/svg/dot-aqua.svg">#lang-my-challenges|capitalize#</a>
+                    </div>
+                    <div class="col-12 col-lg-10 offset-lg-1 d-flex justify-content-left lang-select">
+                        <a href="/my-achievements"><img src="/files/resources/svg/dot-aqua.svg">#lang-my-achievements|capitalize#</a>
+                    </div>
+                    <div class="col-10 offset-1 d-flex justify-content-center">
+                        <button type="button" class="modal-btc" aria-label="Close" data-bs-dismiss="modal">#lang-close|capitalize#</button>
                     </div>
                 </div>
             </div>
