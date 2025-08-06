@@ -241,7 +241,7 @@
     },
 
     "lang-add-new-challenge-required-checklist-steps-info": {
-        "pl": "Aby dodać to wyzwanie, <strong>konieczne jest wykonanie w wybranym dniu</strong> wszystkich następujących kroków checklisty"
+        "pl": "Aby dodać to wyzwanie, <strong>konieczne jest wykonanie, w oznaczonym powyżej dniu</strong>, wszystkich następujących kroków checklisty"
     },
 
     "lang-add-new-challenge-required-notes-info": {
@@ -312,7 +312,7 @@
     },
 
     "lang-brochure-discover-claim": {
-        "pl": "Odkryj świętych obcowanie!"
+        "pl": "Odkryj Świętych obcowanie!"
     },
 
     "lang-brochure-role-1": {
@@ -328,7 +328,7 @@
     },
 
     "lang-brochure-invite-claim": {
-        "pl": "Zapraszaj świętych do swojego życia, wzrastaj w wierze i miłości!"
+        "pl": "Zapraszaj Świętych do swojego życia, wzrastaj w wierze i miłości!"
     },
 
     "lang-brochure-actions": {
@@ -372,10 +372,14 @@
     },
 
     "lang-brochure-trait-3": {
-        "pl": "dla poszczególnych <strong>ról Patrona</strong> wykonujesz przeróżne <strong><em>wyzwania</em></strong>, które <strong>wpisujesz do edytora</strong> (odczyt i zapis do pliku na urządzeniu - bez logowania i przechowywania danych osobowych)"
+        "pl": "dla poszczególnych <strong>ról Patrona</strong> wykonujesz przeróżne <strong><em>wyzwania</em></strong>, które <strong>wpisujesz do edytora</strong> (odczyt i zapis pliku na urządzeniu - bez logowania i przechowywania jakichkolwiek danych po stronie serwisu)"
     },
 
     "lang-brochure-trait-4": {
+        "pl": "możesz skorzystać z <strong>pepierowej wersji demo</strong> (już wkrótce), by sprawdzić się w kilku wyzwaniach na początku"
+    },
+
+    "lang-brochure-trait-5": {
         "pl": "gdy dany Patron przyjmie wszystkie role - literki ułożą napis „<strong>PATRON</strong>”, z możliwością uzyskania specjalnego przedrostka „<strong>MY</strong>” („mój”):"
     },
 
@@ -408,7 +412,7 @@
     },
 
     "lang-brochure-patron-role-level-3": {
-        "pl": "<strong>Poziom III</strong> - budowanie relacji:"
+        "pl": "<strong>Poziom III</strong> - pogłębianie relacji:"
     },
 
     "lang-brochure-patron-role-helper": {
@@ -416,7 +420,7 @@
     },
 
     "lang-brochure-patron-role-level-4": {
-        "pl": "<strong>Poziom IV</strong> - pogłębianie relacji:"
+        "pl": "<strong>Poziom IV</strong> - współdziałanie:"
     },
 
     "lang-brochure-patron-role-guide": {
@@ -1028,7 +1032,7 @@
     },
 
     "lang-desc-footer": {
-        "pl": "Inicjatywa dotycząca prawdy o świętych obcowaniu - zapraszaj Ich świadomie do swojego życia, wzrastaj w wierze i miłości."
+        "pl": "Inicjatywa dotycząca prawdy o&nbsp;Świętych obcowaniu - zapraszaj Ich świadomie do swojego życia, wzrastaj w wierze i miłości."
     },
 
     "lang-desc-main-page-section-about-us": {
