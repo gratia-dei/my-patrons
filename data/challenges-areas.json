@@ -1,11 +1,11 @@
 {
     "areas": {
         "name": {
-            "pl": "Obszary"
+            "pl": "Wstęp"
         },
         "description": {
             "template": {
-                "pl": "pl/obszary/obszary"
+                "pl": "pl/obszary/wstep"
             }
         }
     },

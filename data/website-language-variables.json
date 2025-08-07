@@ -263,11 +263,6 @@
         "pl": "rocznica"
     },
 
-    "lang-area": {
-        "en": "area",
-        "pl": "obszar"
-    },
-
     "lang-areas": {
         "en": "areas",
         "pl": "obszary"
@@ -1567,6 +1562,10 @@
 
     "lang-my-challenges-for-none-challenges-info-4": {
         "pl": "Na koniec nie zapomnij o zapisaniu wykonanych wyzwań do pliku, klikając przycisk <strong>„Zapisz plik”</strong>!"
+    },
+
+    "lang-my-challenges-for-none-challenges-info-5": {
+        "pl": "Więcej informacji znajdziesz <a href=\"/areas\">tutaj</a>."
     },
 
     "lang-my-challenges-info": {

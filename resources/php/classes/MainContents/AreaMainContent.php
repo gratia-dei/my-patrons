@@ -5,8 +5,6 @@ class AreaMainContent extends MainContent implements MainContentInterface
     private const DESCRIPTION_INDEX = 'description';
     private const TEMPLATE_INDEX = 'template';
 
-    private const TITLE_AREA_PART_LANGUAGE_VARIABLE = 'lang-area';
-
     private string $file = '';
     private string $title = '';
 
@@ -61,7 +59,7 @@ class AreaMainContent extends MainContent implements MainContentInterface
 
     public function getTitle(string $prefix): string
     {
-        return $prefix . ': ' . $this->getPageTitle();
+        return $prefix . ': ' . $this->title;
     }
 
     public function getContent(): string
@@ -70,20 +68,9 @@ class AreaMainContent extends MainContent implements MainContentInterface
 
         $variables = [
             'file-path' => $this->markdownFile,
-            'title' => $this->getPageTitle(),
+            'title' => $this->title,
         ];
         $result = $this->getReplacedContent($result, $variables);
-
-        return $result;
-    }
-
-    private function getPageTitle(): string
-    {
-         $result = $this->title;
-
-        if (trim(dirname($this->path) === '/', '/') === '') {
-            $result .= ' (' . self::VARIABLE_NAME_SIGN . self::TITLE_AREA_PART_LANGUAGE_VARIABLE . self::VARIABLE_NAME_SIGN . ')';
-        }
 
         return $result;
     }
