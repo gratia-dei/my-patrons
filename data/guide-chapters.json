@@ -1,11 +1,11 @@
 {
-    "areas": {
+    "introduction": {
         "name": {
             "pl": "Wstęp"
         },
         "description": {
             "template": {
-                "pl": "pl/obszary/wstep"
+                "pl": "pl/przewodnik/wstep"
             }
         }
     },
@@ -16,7 +16,7 @@
         },
         "description": {
             "template": {
-                "pl": "pl/obszary/bog-i-ja"
+                "pl": "pl/przewodnik/bog-i-ja"
             }
         }
     },
@@ -27,7 +27,7 @@
         },
         "description": {
             "template": {
-                "pl": "pl/obszary/patroni-opiekunowie"
+                "pl": "pl/przewodnik/patroni-opiekunowie"
             }
         }
     }

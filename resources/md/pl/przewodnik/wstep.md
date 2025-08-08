@@ -21,4 +21,4 @@ Jeżeli nie udało Ci się jeszcze poznać głównych założeń inicjatywy **_�
 Wersja polska serwisu znajduje się pod adresem **<a href="https://pl.mypatrons.org">https://pl.mypatrons.org</a>** lub prościej **<a href="https://moipatroni.pl">https://moipatroni.pl</a>**. Umożliwia **wykonywanie i notowanie wszystkich dostępnych wyzwań** za pomocą **edytora wyzwań**!
 
 ## Jak rozpocząć przygodę? ##
-Poznaj pierwszy obszar [Bóg i ja](/areas/god-and-me), w którym nauczysz się jak korzystać z podstawowych funkcji **edytora wyzwań** i dowiesz się, jak zostać **Uczestnikiem inicjatywy _„Moi Patroni”_**!
+Poznaj pierwszy obszar [Bóg i ja](/guide/god-and-me), w którym nauczysz się jak korzystać z podstawowych funkcji **edytora wyzwań** i dowiesz się, jak zostać **Uczestnikiem inicjatywy _„Moi Patroni”_**!

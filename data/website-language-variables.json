@@ -263,11 +263,6 @@
         "pl": "rocznica"
     },
 
-    "lang-areas": {
-        "en": "areas",
-        "pl": "obszary"
-    },
-
     "lang-around": {
         "en": "around",
         "la": "circa",
@@ -1231,6 +1226,11 @@
         "la": "Gratia Dei"
     },
 
+    "lang-guide": {
+        "en": "guide",
+        "pl": "przewodnik"
+    },
+
     "lang-help": {
         "en": "help",
         "pl": "pomoc"
@@ -1565,7 +1565,7 @@
     },
 
     "lang-my-challenges-for-none-challenges-info-5": {
-        "pl": "Więcej informacji znajdziesz <a href=\"/areas\">tutaj</a>."
+        "pl": "Więcej informacji znajdziesz <a href=\"/guide\">tutaj</a>."
     },
 
     "lang-my-challenges-info": {
