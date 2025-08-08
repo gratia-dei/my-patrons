@@ -1,9 +1,9 @@
 **Witaj!** Mamy nadzieję, że nasza inicjatywa Ci się spodoba i **zostaniesz z nami na dłużej**, a może nawet **podzielisz się nią z innymi?** Chcielibyśmy zaprosić Cię na wspólną podróż, w trakcie której **krok po kroku** zobaczysz tyle, ile będziesz gotów odkryć.
 
-Ten dokument powstał, aby przedstawić Ci - naszym zdaniem - **najlepszy sposób na rozpoczęcie przygody z Patronami**. Dzięki niemu łatwo poznasz kluczowe obszary inicjatywy, **uporządkowane w najbardziej przystępnej kolejności**. Z czasem odkryjesz również inne ścieżki i możliwości, które choć dostępne od początku, **najlepiej poznać nieco później**.
+Ten przewodnik powstał, aby przedstawić Ci - naszym zdaniem - **najlepszy sposób na rozpoczęcie przygody z Patronami**. Dzięki niemu łatwo poznasz kluczowe obszary inicjatywy, **uporządkowane w najbardziej przystępnej kolejności**. Z czasem odkryjesz również inne ścieżki i możliwości, które choć dostępne od początku, **najlepiej poznać nieco później**.
 
 ## Podstawy ##
-Jeżeli nie udało Ci się jeszcze poznać głównych założeń inicjatywy **_„Moi Patroni”_** (na podstronie <a href="/about-patrons">o Patronach</a>), warto to zrobić zanim przejdziesz dalej!
+Jeżeli nie udało Ci się jeszcze poznać głównych założeń inicjatywy **_„Moi Patroni”_**, warto to zrobić na podstronie <a href="/about-patrons">o Patronach</a> zanim przejdziesz dalej!
 
 **Zadaniem i celem Uczestnika** inicjatywy **_„Moi Patroni”_** jest **wykonywanie różnorakich wyzwań** związanych z Bogiem i Świętymi:
 

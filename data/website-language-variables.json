@@ -1343,11 +1343,6 @@
         "pl": "rok przestępny"
     },
 
-    "lang-learn-even-more": {
-        "en": "learn even more",
-        "pl": "dowiedz się jeszcze więcej"
-    },
-
     "lang-learn-more": {
         "en": "learn more",
         "pl": "dowiedz się więcej"
@@ -1565,7 +1560,7 @@
     },
 
     "lang-my-challenges-for-none-challenges-info-5": {
-        "pl": "Więcej informacji znajdziesz <a href=\"/guide\">tutaj</a>."
+        "pl": "Więcej informacji znajdziesz <a href=\"/guide\">w naszym przewodniku</a>."
     },
 
     "lang-my-challenges-info": {
@@ -1910,6 +1905,11 @@
     "lang-randomize-the-chapter": {
         "en": "randomize the chapter",
         "pl": "losuj rozdział"
+    },
+
+    "lang-read-more-in-our-guide": {
+        "en": "read more in our guide",
+        "pl": "czytaj więcej w naszym przewodniku"
     },
 
     "lang-rebuild-page": {
