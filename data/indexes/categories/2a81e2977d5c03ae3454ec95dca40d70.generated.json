@@ -242,6 +242,11 @@
             "en": "Dominic of Osma",
             "pl": "Dominik Guzmán"
         },
+        "records/patrons/eduardus/grz": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        },
         "records/patrons/eulogius/cor": {
             "es": "Eulogio de Córdoba",
             "en": "Eulogius of Cordoba",
@@ -265,6 +270,11 @@
             "en": "Francis Caracciolo",
             "la": "Franciscus Caracciolo",
             "pl": "Franciszek Caracciolo"
+        },
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
         },
         "records/patrons/franciscus/xav": {
             "es": "Francisco Javier",

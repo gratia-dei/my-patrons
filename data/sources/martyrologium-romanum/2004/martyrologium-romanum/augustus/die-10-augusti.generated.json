@@ -1,5 +1,9 @@
 {
     "data-links": {
+        "9": {
+            "1": "records/patrons/franciscus/drz",
+            "2": "records/patrons/eduardus/grz"
+        },
         "1": {
             "1": "records/patrons/laurentius/rom"
         }

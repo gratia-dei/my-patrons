@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Grzymała"
+    },
+    "translations": {
+        "pl": [
+            "Grzymała"
+        ]
+    },
+    "links": {
+        "records/patrons/eduardus/grz": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        }
+    }
+}

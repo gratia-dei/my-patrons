@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Franciszek Drzewiecki"
+        ],
+        "la": [
+            "Franciscus Drzewiecki"
+        ],
+        "en": [
+            "Francis Drzewiecki"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "pl": "Drzewiecki"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1908-02-26"],
+    "died": ["1942-09-13"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-10"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./10#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67779",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Drzewiecki"
+    }
+}

@@ -3967,6 +3967,18 @@
         }
     },
     "08-10": {
+        "records/patrons/eduardus/grz": {
+            "name": {
+                "pl": "Edward Grzymała",
+                "la": "Eduardus Grzymała",
+                "en": "Edward Grzymała"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 VIII",
+                "feast": "10 VIII",
+                "mr-2004": "10 VIII: #9"
+            }
+        },
         "records/patrons/laurentius/rom": {
             "name": {
                 "la": "Laurentius de Roma",
@@ -3978,6 +3990,17 @@
                 "mr-1584": "10 VIII: #1",
                 "mr-1956": "10 VIII: #1",
                 "mr-2004": "10 VIII: #1"
+            }
+        },
+        "records/patrons/franciscus/drz": {
+            "name": {
+                "pl": "Franciszek Drzewiecki",
+                "la": "Franciscus Drzewiecki",
+                "en": "Francis Drzewiecki"
+            },
+            "sources": {
+                "feast": "10 VIII",
+                "mr-2004": "10 VIII: #9"
             }
         }
     },
@@ -4249,6 +4272,18 @@
                 "mr-1584": "11 IX: #4",
                 "mr-1956": "11 IX: #4",
                 "mr-2004": "11 IX: #3"
+            }
+        }
+    },
+    "09-13": {
+        "records/patrons/franciscus/drz": {
+            "name": {
+                "pl": "Franciszek Drzewiecki",
+                "la": "Franciscus Drzewiecki",
+                "en": "Francis Drzewiecki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 IX"
             }
         }
     },

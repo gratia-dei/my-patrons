@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Drzewiecki"
+    },
+    "translations": {
+        "pl": [
+            "Drzewiecki"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
+        }
+    }
+}

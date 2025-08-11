@@ -44,6 +44,11 @@
             "la": "Franciscus Caracciolo",
             "pl": "Franciszek Caracciolo"
         },
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
+        },
         "records/patrons/franciscus/kes": {
             "pl": "Franciszek Kęsy",
             "en": "Franciszek Kęsy",

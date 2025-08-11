@@ -24,6 +24,11 @@
             "la": "Eduardus Confessor",
             "pl": "Edward Wyznawca"
         },
+        "records/patrons/eduardus/grz": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        },
         "records/patrons/eduardus/kaz": {
             "pl": "Edward Kaźmierski",
             "en": "Edward Kazmierski",

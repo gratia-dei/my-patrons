@@ -22,3 +22,5 @@ Wersja polska serwisu znajduje się pod adresem **<a href="https://pl.mypatrons.
 
 ## Jak rozpocząć przygodę? ##
 Poznaj pierwszy obszar [Bóg i ja](/guide/god-and-me), w którym nauczysz się jak korzystać z podstawowych funkcji **edytora wyzwań** i dowiesz się, jak zostać **Uczestnikiem inicjatywy _„Moi Patroni”_**!
+
+&gt;&gt;&gt; [Bóg i ja](/guide/god-and-me) &gt;&gt;&gt;

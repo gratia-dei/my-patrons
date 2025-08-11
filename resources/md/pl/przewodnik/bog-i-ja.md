@@ -1,3 +1,3 @@
-Już wkrótce ...
+&lt;&lt;&lt; [Początek](/guide) &lt;&lt;&lt;
 
 Tymczasową wersję roboczą treści znajdziesz [tutaj](https://docs.google.com/document/d/1JVQG4y8Ckc0Ahd6saN9mHaJxV5ng582bg_xSXTgenCw/edit?tab=t.0)

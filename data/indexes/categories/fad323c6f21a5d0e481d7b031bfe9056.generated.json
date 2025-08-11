@@ -477,6 +477,11 @@
             "pl": "Edward Coleman",
             "la": "Eduardus Coleman"
         },
+        "records/patrons/eduardus/grz": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        },
         "records/patrons/eduardus/kaz": {
             "pl": "Edward Kaźmierski",
             "en": "Edward Kazmierski",
@@ -623,6 +628,11 @@
             "la": "Florianus Lauriacensis",
             "en": "Florian of Lauriacum",
             "pl": "Florian z Lauriacum"
+        },
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
         },
         "records/patrons/franciscus/kes": {
             "pl": "Franciszek Kęsy",

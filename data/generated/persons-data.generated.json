@@ -3432,6 +3432,18 @@
             }
         }
     },
+    "patrons/eduardus/grz": {
+        "active": true,
+        "names": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        },
+        "died": [
+            "1942-08-10"
+        ],
+        "feasts": []
+    },
     "patrons/eduardus/kaz": {
         "active": false,
         "names": {
@@ -4172,6 +4184,18 @@
         },
         "died": [
             "1608-06-04"
+        ],
+        "feasts": []
+    },
+    "patrons/franciscus/drz": {
+        "active": true,
+        "names": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
+        },
+        "died": [
+            "1942-09-13"
         ],
         "feasts": []
     },

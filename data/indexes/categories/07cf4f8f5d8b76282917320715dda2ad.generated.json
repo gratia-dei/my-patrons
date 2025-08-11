@@ -803,6 +803,11 @@
             "la": "Eduardus Confessor",
             "pl": "Edward Wyznawca"
         },
+        "records/patrons/eduardus/grz": {
+            "pl": "Edward Grzymała",
+            "la": "Eduardus Grzymała",
+            "en": "Edward Grzymała"
+        },
         "records/patrons/eduardus/kaz": {
             "pl": "Edward Kaźmierski",
             "en": "Edward Kazmierski",
@@ -979,6 +984,11 @@
             "en": "Francis Caracciolo",
             "la": "Franciscus Caracciolo",
             "pl": "Franciszek Caracciolo"
+        },
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
         },
         "records/patrons/franciscus/kes": {
             "pl": "Franciszek Kęsy",
