@@ -21,6 +21,28 @@
         }
     },
 
+    "apostles-missions": {
+        "name": {
+            "pl": "Misje Apostoła"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-apostola"
+            }
+        }
+    },
+
+    "own-notes": {
+        "name": {
+            "pl": "Notatki własne"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/notatki-wlasne"
+            }
+        }
+    },
+
     "guardian-patrons": {
         "name": {
             "pl": "Patroni Opiekunowie"

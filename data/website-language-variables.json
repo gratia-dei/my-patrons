@@ -334,18 +334,22 @@
     },
 
     "lang-brochure-action-3": {
-        "pl": "<strong>poznajesz</strong> Ich bliżej, aby <strong>naśladować</strong> i <strong>świadomie zwracać się</strong> do Nich"
+        "pl": "<strong>powierzasz</strong> Im podejmowane przez siebie <strong><em>Misje Specjalne</em></strong>"
     },
 
     "lang-brochure-action-4": {
-        "pl": "<strong>odkrywasz</strong> m.in. święta, atrybuty, imiona powiązane z Nimi"
+        "pl": "<strong>poznajesz</strong> Ich bliżej, aby <strong>naśladować</strong> i <strong>świadomie zwracać się</strong> do Nich"
     },
 
     "lang-brochure-action-5": {
-        "pl": "<strong>gromadzisz</strong> swoje <em>osiągnięcia</em>"
+        "pl": "<strong>odkrywasz</strong> m.in. święta, atrybuty, imiona powiązane z Nimi"
     },
 
     "lang-brochure-action-6": {
+        "pl": "<strong>gromadzisz</strong> swoje <em>osiągnięcia</em>"
+    },
+
+    "lang-brochure-action-7": {
         "pl": "<strong>budujesz</strong> <em>własną talię <strong>kart kolekcjonerskich</strong></em> z Ich wizerunkami (już wkrótce)"
     },
 
@@ -358,7 +362,7 @@
     },
 
     "lang-brochure-trait-2": {
-        "pl": "rozpoczynasz <strong>samodzielnie w dowolnym momencie</strong> (robisz przerwy, kiedy chcesz)"
+        "pl": "rozpoczynasz <strong>samodzielnie w dowolnym momencie</strong>, robisz przerwy, kiedy chcesz"
     },
 
     "lang-brochure-trait-3": {
