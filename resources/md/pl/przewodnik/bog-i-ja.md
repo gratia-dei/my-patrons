@@ -16,7 +16,7 @@ Od tego momentu możesz już m.in. **zapraszać Patronów** (na początku, by st
 ## Jak to zrobić? ##
 Skorzystaj z <a target="_blank" href="/my-challenges">edytora wyzwań</a> (link otworzy edytor na nowej karcie przeglądarki, dzięki czemu będzie można wykonywać tam czynności opisane tutaj)
 
-**W nim utworzysz swoje wyzwania**!
+**W tym edytorze zapisywać będziesz wszystkie swoje wyzwania**!
 
 ## Trochę teorii ##
 **Zadaniem i celem Uczestnika** inicjatywy **_„Moi Patroni”_** jest **wykonywanie różnorakich wyzwań** związanych z Bogiem i Świętymi:
@@ -38,13 +38,18 @@ Aby **dodać nowe wyzwanie**:
 - w przyszłości mogą się zdarzyć także wyzwania, w których konieczne będzie **dodanie _„wymaganych notatek”_**.
 - **kliknij** przycisk **_„Dodaj nowe wyzwanie”_**.
 
-#### Gratulacje! Udało Ci się utworzyć nowe wyzwanie! ####
+<br />
 
+#### Gratulacje! Udało Ci się utworzyć nowe wyzwanie! ####
+<br />
+
+## Pozostałe kroki wyzwania ##
 **Warto wykonać od razu i oznaczyć** wykonanie powiązanych z tym wyzwaniem **kroków**! W tym celu kliknij pasek postępu w kolumnie **_„Checklista”_**, **wybieraj kolejno** każdy niedokończony krok, **wykonując** to, co jest zawarte w jego opisie i **zaznaczając** odpowiedni przycisk na dole.
 
 ## Notatki i akcje wyzwania ##
 W każdym momencie możesz także **wpisywać, usuwać i edytować notatki dotyczące wyzwania** oraz wykonywać dostępne **_„Akcje wyzwania”_** w razie potrzeby (przyciski dostępne po prawej stronie). **Zalecamy tutaj ostrożność**, gdyż niektóre duże zmiany w historycznych wyzwaniach mogą spowodować utratę spójności danych, gdy np. usuniesz jedno wyzwanie, które jest wymagane do kilku dodanych później.
 
+## Utwórz drugie wyzwanie ##
 Teraz, analogicznie jak dla wyzwaniu typu **[B] Narodziny**, utwórz w edytorze wyzwań drugie wyzwanie typu **[I] Bóg**.
 
 ## Zapis do plików ##
@@ -69,14 +74,15 @@ Teraz możesz **wyjść** z edytora wyzwań, **wejść** do niego ponownie i spr
 Masz już wiedzę na temat wyzwań: **[B] Narodziny** i **[I] Bóg**.
 
 #### Warto trzymać się zasady, by wykonywać i dodawać w edytorze wyzwań tylko i wyłącznie wyzwania poznanych już typów i nie wybiegać naprzód! Na wszystko przyjdzie odpowiedni czas! ####
+<br />
 
 **Znasz** już ideę i cel inicjatywy _**„Moi Patroni”**_, **umiesz** korzystać z edytora wyzwań, dodawać nowe wyzwania, modyfikować je, usuwać, **wiesz** czym są kroki wyzwania i jak oznaczać ich wykonanie, co wpływa na status wyzwania, **potrafisz** zapisywać pliki i je wczytywać.
 
 Reasumując: **posiadasz jakieś 95% potrzebnych umiejętności**! Najtrudniejsze już za Tobą!
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Poznaj Misje Apostoła](/guide/apostles-missions) &gt;&gt;&gt;  
-&gt;&gt;&gt; [Naucz się korzystać z Notatek własnych](/guide/own-notes) &gt;&gt;&gt;  
-&gt;&gt;&gt; [Zapraszaj Patronów Opiekunów](/guide/guardian-patrons) &gt;&gt;&gt;
+&gt;&gt;&gt; [Poznaj Misje Apostoła](/guide/apostles-missions) - warto je poznać już teraz i zapamiętać, bo **mogą się przydać wkrótce**.  
+&gt;&gt;&gt; [Notatki własne](/guide/own-notes) - słów kilka.  
+&gt;&gt;&gt; [Zapraszaj Patronów Opiekunów](/guide/guardian-patrons) - zacznij już dziś! **Święci czekają na Ciebie**!
 
-&lt;&lt;&lt; [Powrót](/guide) &lt;&lt;&lt;
+&lt;&lt;&lt; [Powrót](/guide)
