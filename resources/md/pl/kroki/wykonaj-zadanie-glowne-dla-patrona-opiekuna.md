@@ -1,5 +1,5 @@
 Wykonaj zadanie główne, **wybierając jedno** z następujących kryteriów (szczegóły poniżej):
-- **OBRAZEK + WIZERUNEK** - pomódl się przy wizerunku Patrona, posiadając jego obrazek.
+- **OBRAZEK + WIZERUNEK** - pomódl się dowolną modlitwą przy wizerunku Patrona, posiadając jego obrazek.
 - **OBRAZEK + MSZA** - weź udział we Mszy św., posiadając własny obrazek Patrona przy sobie.
 - **WIZERUNEK + MSZA** - weź udział we Mszy św., posiadając w zasięgu wzroku wizerunek Patrona. Może on znajdować się poza zasięgiem Twojego wzroku, gdy masz pewność, że znajduje się w pomieszczeniu, w którym jesteś. Gdyby pojawiły się wątpliwości, gdzie w kościele znajduje się wizerunek **jego Patrona tytularnego**, wtedy podczas Mszy wystarczy mieć w zasięgu wzroku ołtarz główny, by uznać to kryterium.
 - **RELIKWIE** - pomódl się przy relikwiach lub grobie Patrona. W tym przypadku **warto pamiętać**, że kolejnym wyzwaniem, jakie **od razu można dodać** dla zapraszanego właśnie Patrona Opiekuna, będzie **[TR] Relikwie lub Grób**!

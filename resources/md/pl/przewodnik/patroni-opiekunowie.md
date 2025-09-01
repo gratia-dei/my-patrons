@@ -25,7 +25,7 @@ Należy pamiętać jednak, że **Bóg w swojej wielkiej mądrości działa, jak 
 
 ## Krok 1: Wykonaj zadanie główne ##
 Najpierw, należy **w dniu zaproszenia** wykonać dla wybranego Patrona tzw. **_„zadanie główne”_**. Polega ono na **spełnieniu jednego, wybranego kryterium** z listy poniżej:
-- **OBRAZEK + WIZERUNEK** - pomódl się przy wizerunku Patrona, posiadając jego obrazek.
+- **OBRAZEK + WIZERUNEK** - pomódl się dowolną modlitwą przy wizerunku Patrona, posiadając jego obrazek.
 - **OBRAZEK + MSZA** - weź udział we Mszy św., posiadając własny obrazek Patrona przy sobie.
 - **WIZERUNEK + MSZA** - weź udział we Mszy św., posiadając w zasięgu wzroku wizerunek Patrona. Może on znajdować się poza zasięgiem Twojego wzroku, gdy masz pewność, że znajduje się w pomieszczeniu, w którym jesteś. Gdyby pojawiły się wątpliwości, gdzie w kościele znajduje się wizerunek **jego Patrona tytularnego**, wtedy podczas Mszy wystarczy mieć w zasięgu wzroku ołtarz główny, by uznać to kryterium.
 - **RELIKWIE** - pomódl się przy relikwiach lub grobie Patrona.
