@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Georgius"
-    ],
-    "en": [
-      "George of Lydda"
-    ],
-    "pl": [
-      "Jerzy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Georgius de Lydda"
+        ],
+        "en": [
+            "George of Lydda"
+        ],
+        "pl": [
+            "Jerzy z Lyddi"
+        ]
+    },
+    "forenames": ["georgius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">300", "<400"],
+    "active": true,
 
-  "also-in-martyrology": ["04-23"],
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["georgius"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./23#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/23#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69135",
+        "wiki": "https://pl.wikipedia.org/wiki/Jerzy_(m%C4%99czennik)"
+    }
 }

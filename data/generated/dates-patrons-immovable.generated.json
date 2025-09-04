@@ -1652,6 +1652,18 @@
                 "mr-1956": "23 IV: #2",
                 "mr-2004": "23 IV: #2"
             }
+        },
+        "records/patrons/georgius/mar": {
+            "name": {
+                "la": "Georgius de Lydda",
+                "en": "George of Lydda",
+                "pl": "Jerzy z Lyddi"
+            },
+            "sources": {
+                "mr-1584": "23 IV: #1",
+                "mr-1956": "23 IV: #1",
+                "mr-2004": "23 IV: #1"
+            }
         }
     },
     "04-25": {

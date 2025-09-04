@@ -4482,15 +4482,14 @@
         "feasts": []
     },
     "patrons/georgius/mar": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Georgius",
+            "la": "Georgius de Lydda",
             "en": "George of Lydda",
-            "pl": "Jerzy"
+            "pl": "Jerzy z Lyddi"
         },
         "died": [
-            ">300",
-            "<400"
+            "~303"
         ],
         "feasts": []
     },
