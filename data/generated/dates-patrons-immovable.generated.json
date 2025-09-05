@@ -1736,6 +1736,21 @@
             }
         }
     },
+    "04-28": {
+        "records/patrons/ioanna/ber": {
+            "name": {
+                "it": "Gianna Beretta Molla",
+                "la": "Ioanna Beretta Molla",
+                "en": "Joan Beretta Molla",
+                "pl": "Joanna Beretta Molla"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 IV",
+                "feast": "28 IV",
+                "mr-2004": "28 IV: #13"
+            }
+        }
+    },
     "04-29": {
         "records/patrons/catharina/sen": {
             "name": {

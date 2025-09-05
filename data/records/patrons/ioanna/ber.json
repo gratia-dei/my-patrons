@@ -1,42 +1,59 @@
 {
-  "names": {
-    "it": [
-      "Gianna Beretta Molla"
-    ],
-    "en": [
-      "Joan Beretta Molla"
-    ],
-    "la": [
-      "Ioanna Beretta Molla"
-    ],
-    "pl": [
-      "Joanna Beretta Molla"
-    ]
-  },
-
-  "surnames": [
-    {
-      "it": "Beretta"
+    "names": {
+        "it": [
+            "Gianna Beretta Molla"
+        ],
+        "la": [
+            "Ioanna Beretta Molla"
+        ],
+        "en": [
+            "Joan Beretta Molla"
+        ],
+        "pl": [
+            "Joanna Beretta Molla"
+        ]
     },
-    {
-      "it": "Molla"
+    "forenames": ["ioanna"],
+    "surnames": [
+        {
+            "it": "Beretta"
+        },
+        {
+            "it": "Molla"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1922-10-04"],
+    "died": ["1962-04-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1994-04-24"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2004-05-16"
+    },
+    "anniversary": ["04-28"],
+
+    "categories": ["femina", "materfamilias"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./28#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/gianna-beretta-molla.html",
+        "gcatholic": "https://gcatholic.org/p/67255",
+        "wiki": "https://pl.wikipedia.org/wiki/Joanna_Beretta_Molla"
     }
-  ],
-
-  "born": ["1922-10-04"],
-  "died": ["1962-04-28"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1994-04-24"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2004-05-16"
-  },
-
-  "also-in-martyrology": ["04-28"],
-
-  "forenames": ["ioanna"],
-  "categories": ["femina", "materfamilias"]
 }
