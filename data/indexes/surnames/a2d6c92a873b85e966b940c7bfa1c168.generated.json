@@ -1,0 +1,23 @@
+{
+    "names": {
+        "it": "Maiella",
+        "la": "Maiella"
+    },
+    "translations": {
+        "it": [
+            "Maiella"
+        ],
+        "la": [
+            "Majella",
+            "Maiella"
+        ]
+    },
+    "links": {
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        }
+    }
+}

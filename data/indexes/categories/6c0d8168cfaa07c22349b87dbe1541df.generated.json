@@ -233,6 +233,12 @@
             "en": "Gerardius Sostene of Florence",
             "pl": "Gerardyn Sosteniusz z Florencji"
         },
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        },
         "records/patrons/gregorius/1pp": {
             "la": "Gregorius Magnus",
             "en": "Gregory the Great",

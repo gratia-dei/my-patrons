@@ -4598,6 +4598,19 @@
         ],
         "feasts": []
     },
+    "patrons/gerardus/maj": {
+        "active": true,
+        "names": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        },
+        "died": [
+            "1755-10-16"
+        ],
+        "feasts": []
+    },
     "patrons/gerardus/sag": {
         "active": false,
         "names": {

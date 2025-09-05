@@ -216,6 +216,9 @@
     "411f665ec30226a3c5881d78cbfc915d": {
         "la": "senex"
     },
+    "420495861b9f31a0a84a016c13a863f1": {
+        "en": "professed layperson"
+    },
     "427023ff7e5f28a11e61fce0b4917b57": {
         "en": "cardinal"
     },
@@ -550,6 +553,9 @@
     "b9bba0357bc3fa8929d14b1f34a5e35e": {
         "en": "religious"
     },
+    "b9da22a98da8bcd07e78164d846779fc": {
+        "pl": "profes świecki"
+    },
     "bae1e20259f45920889914b0d6bbe4f0": {
         "la": "sacerdos"
     },
@@ -576,6 +582,9 @@
     },
     "c06d4cefeb158637a78347f6a5f12554": {
         "la": "abbas / abbatissa"
+    },
+    "c0b0635984524c3650dd6a98da2bdc7e": {
+        "la": "professus laicus"
     },
     "c0f268fca43678e16d2adde8dfa7a3e4": {
         "pl": "filozof"

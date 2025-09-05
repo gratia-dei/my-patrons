@@ -1114,6 +1114,12 @@
             "la": "Gerardus Broniensis",
             "pl": "Gerard z Brogne"
         },
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        },
         "records/patrons/gerardus/sag": {
             "it": "Gerardo Sagredo",
             "hu": "Sagredo Gellért",

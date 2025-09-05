@@ -5294,6 +5294,20 @@
                 "mr-2004": "16 X: #17"
             }
         },
+        "records/patrons/gerardus/maj": {
+            "name": {
+                "it": "Gerardo Maiella",
+                "la": "Gerard Majella",
+                "en": "Gerard Majella",
+                "pl": "Gerard Majella"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 X",
+                "feast": "16 X",
+                "mr-1956": "16 X: #11",
+                "mr-2004": "16 X: #16"
+            }
+        },
         "records/patrons/iosephus/jan": {
             "name": {
                 "pl": "Józef Jankowski",

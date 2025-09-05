@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "profes świecki"
+    },
+    "translations": {
+        "la": [
+            "professus laicus"
+        ],
+        "en": [
+            "professed layperson"
+        ],
+        "pl": [
+            "profes świecki"
+        ]
+    },
+    "links": {
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        }
+    }
+}

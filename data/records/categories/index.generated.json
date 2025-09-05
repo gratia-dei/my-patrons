@@ -314,6 +314,11 @@
         "en": "professed nun",
         "pl": "profeska"
     },
+    "professus-laicus": {
+        "la": "professus laicus",
+        "en": "professed layperson",
+        "pl": "profes świecki"
+    },
     "propheta": {
         "la": "propheta",
         "en": "prophet",

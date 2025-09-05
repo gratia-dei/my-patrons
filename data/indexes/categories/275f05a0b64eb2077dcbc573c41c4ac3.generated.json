@@ -61,6 +61,12 @@
             "en": "Frances of Rome",
             "pl": "Franciszka Rzymianka"
         },
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        },
         "records/patrons/gregorius/fra": {
             "pl": "Grzegorz Frąckowiak",
             "en": "Gregory Frąckowiak",
