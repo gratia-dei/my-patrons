@@ -1,40 +1,57 @@
 {
-  "names": {
-    "it": [
-      "Gemma Galgani"
+    "names": {
+        "it": [
+            "Gemma Galgani"
+        ],
+        "la": [
+            "Gemma Galgani"
+        ],
+        "en": [
+            "Gemma Galgani"
+        ],
+        "pl": [
+            "Gemma Galgani",
+            "Maria Gemma Umberta Galgani"
+        ]
+    },
+    "forenames": ["gemma"],
+    "surnames": [
+        {
+            "it": "Galgani"
+        }
     ],
-    "en": [
-      "Gemma Galgani"
-    ],
-    "la": [
-      "Gemma Galgani"
-    ],
-    "pl": [
-      "Gemma Galgani",
-      "Maria Gemma Umberta Galgani"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Galgani"
+    "active": true,
+
+    "born": ["1878-03-12"],
+    "died": ["1903-04-11"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1933-05-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1940-05-02"
+    },
+    "anniversary": ["04-11"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/11#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./11#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/gemma-galgani.html",
+        "gcatholic": "https://gcatholic.org/p/68072",
+        "wiki": "https://pl.wikipedia.org/wiki/Gemma_Galgani"
     }
-  ],
-
-  "born": ["1878-03-12"],
-  "died": ["1903-04-11"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1933-05-14"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1940-05-02"
-  },
-
-  "also-in-martyrology": ["04-11"],
-
-  "forenames": ["gemma"],
-  "categories": ["femina", "virgo"]
 }

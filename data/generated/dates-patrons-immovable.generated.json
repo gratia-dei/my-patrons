@@ -1524,6 +1524,22 @@
             }
         }
     },
+    "04-11": {
+        "records/patrons/gemma/gal": {
+            "name": {
+                "it": "Gemma Galgani",
+                "la": "Gemma Galgani",
+                "en": "Gemma Galgani",
+                "pl": "Gemma Galgani"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 IV",
+                "feast": "11 IV",
+                "mr-1956": "11 IV: #8",
+                "mr-2004": "11 IV: #11"
+            }
+        }
+    },
     "04-13": {
         "records/patrons/iustinus/phi": {
             "name": {

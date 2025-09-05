@@ -4443,11 +4443,11 @@
         }
     },
     "patrons/gemma/gal": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Gemma Galgani",
-            "en": "Gemma Galgani",
             "la": "Gemma Galgani",
+            "en": "Gemma Galgani",
             "pl": "Gemma Galgani"
         },
         "died": [
