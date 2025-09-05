@@ -2823,6 +2823,7 @@
             "la": "Clemens",
             "en": "Clement",
             "pl": "Klemens",
+            "de": "Klemens",
             "uk": "Климентій"
         }
     },
@@ -2836,6 +2837,19 @@
         "died": [
             "~303",
             "~312"
+        ],
+        "feasts": []
+    },
+    "patrons/clemens/hof": {
+        "active": true,
+        "names": {
+            "de": "Klemens Maria Hofbauer",
+            "la": "Clemens Maria Hofbauer",
+            "en": "Clement Mary Hofbauer",
+            "pl": "Klemens Maria Hofbauer"
+        },
+        "died": [
+            "1820-03-15"
         ],
         "feasts": []
     },

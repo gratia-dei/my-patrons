@@ -12,6 +12,9 @@
         "pl": [
             "Klemens"
         ],
+        "de": [
+            "Klemens"
+        ],
         "uk": [
             "Климентій"
         ]
@@ -21,6 +24,12 @@
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",
             "pl": "Klemens z Ankary"
+        },
+        "records/patrons/clemens/hof": {
+            "de": "Klemens Maria Hofbauer",
+            "la": "Clemens Maria Hofbauer",
+            "en": "Clement Mary Hofbauer",
+            "pl": "Klemens Maria Hofbauer"
         },
         "records/patrons/clemens/sep": {
             "uk": "Климентій Шептицький",

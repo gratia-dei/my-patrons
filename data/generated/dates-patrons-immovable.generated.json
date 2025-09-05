@@ -980,6 +980,22 @@
             }
         }
     },
+    "03-15": {
+        "records/patrons/clemens/hof": {
+            "name": {
+                "de": "Klemens Maria Hofbauer",
+                "la": "Clemens Maria Hofbauer",
+                "en": "Clement Mary Hofbauer",
+                "pl": "Klemens Maria Hofbauer"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 III",
+                "feast": "15 III",
+                "mr-1956": "15 III: #8",
+                "mr-2004": "15 III: #7"
+            }
+        }
+    },
     "03-16": {
         "records/patrons/ioannes/bre": {
             "name": {
