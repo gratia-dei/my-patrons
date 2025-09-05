@@ -1781,6 +1781,19 @@
             "sources": {
                 "mr-1584": "1 V: #1"
             }
+        },
+        "records/patrons/sigismundus/rex": {
+            "name": {
+                "fr": "Sigismond, roi des Burgondes",
+                "la": "Sigismundus, rex Burgundiae",
+                "en": "Sigismund of Burgundy",
+                "pl": "Zygmunt z Burgundii"
+            },
+            "sources": {
+                "mr-1584": "1 V: #5",
+                "mr-1956": "1 V: #6",
+                "mr-2004": "1 V: #8"
+            }
         }
     },
     "05-02": {

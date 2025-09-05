@@ -10598,7 +10598,8 @@
         "names": {
             "la": "Sigismundus",
             "en": "Sigismund",
-            "pl": "Zygmunt"
+            "pl": "Zygmunt",
+            "fr": "Sigismond"
         }
     },
     "patrons/sigismundus/fel": {
@@ -10622,6 +10623,19 @@
         },
         "died": [
             "1920-01-01"
+        ],
+        "feasts": []
+    },
+    "patrons/sigismundus/rex": {
+        "active": true,
+        "names": {
+            "fr": "Sigismond, roi des Burgondes",
+            "la": "Sigismundus, rex Burgundiae",
+            "en": "Sigismund of Burgundy",
+            "pl": "Zygmunt z Burgundii"
+        },
+        "died": [
+            "524"
         ],
         "feasts": []
     },

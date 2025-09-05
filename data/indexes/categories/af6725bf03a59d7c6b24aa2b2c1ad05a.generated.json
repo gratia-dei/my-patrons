@@ -68,6 +68,12 @@
             "en": "Richard the Pilgrim",
             "la": "Richardus Peregrinus",
             "pl": "Ryszard z Lukki"
+        },
+        "records/patrons/sigismundus/rex": {
+            "fr": "Sigismond, roi des Burgondes",
+            "la": "Sigismundus, rex Burgundiae",
+            "en": "Sigismund of Burgundy",
+            "pl": "Zygmunt z Burgundii"
         }
     }
 }

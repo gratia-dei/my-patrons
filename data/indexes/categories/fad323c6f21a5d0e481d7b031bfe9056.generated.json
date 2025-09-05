@@ -1588,6 +1588,12 @@
             "en": "Sevibaldus; with him, i.a., Eoban",
             "pl": "Scirbald; z nim, m.in. Eoban"
         },
+        "records/patrons/sigismundus/rex": {
+            "fr": "Sigismond, roi des Burgondes",
+            "la": "Sigismundus, rex Burgundiae",
+            "en": "Sigismund of Burgundy",
+            "pl": "Zygmunt z Burgundii"
+        },
         "records/patrons/silanus/fel": {
             "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
             "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
