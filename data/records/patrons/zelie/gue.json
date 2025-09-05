@@ -1,0 +1,57 @@
+{
+    "names": {
+        "fr": [
+            "Zélie Guérin",
+            "Azélie-Marie Guérin"
+        ],
+        "la": [
+            "Zelie Guérin"
+        ],
+        "en": [
+            "Zelie Guérin"
+        ],
+        "pl": [
+            "Zelia Guérin"
+        ]
+    },
+    "forenames": ["zelie"],
+    "surnames": [
+        {
+            "fr": "Guérin"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1831-12-23"],
+    "died": ["1877-08-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2008-10-19"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2015-10-18"
+    },
+    "anniversary": ["08-28"],
+
+    "categories": ["femina", "laicus", "coniunx"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/ludovico-martin-e-maria-azelia-guerin.html",
+        "gcatholic": "https://gcatholic.org/p/67201",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Zelia_Martin"
+    }
+}

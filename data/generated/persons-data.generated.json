@@ -7079,6 +7079,19 @@
             "fr": "Louis"
         }
     },
+    "patrons/ludovicus/mar": {
+        "active": true,
+        "names": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
+        "died": [
+            "1894-07-29"
+        ],
+        "feasts": []
+    },
     "patrons/ludovicus/mzy": {
         "active": true,
         "names": {
@@ -12031,6 +12044,27 @@
         },
         "died": [
             "258-08-06"
+        ],
+        "feasts": []
+    },
+    "patrons/zelie": {
+        "names": {
+            "la": "Zelie",
+            "en": "Zelie",
+            "pl": "Zelia",
+            "fr": "Zélie"
+        }
+    },
+    "patrons/zelie/gue": {
+        "active": true,
+        "names": {
+            "fr": "Zélie Guérin",
+            "la": "Zelie Guérin",
+            "en": "Zelie Guérin",
+            "pl": "Zelia Guérin"
+        },
+        "died": [
+            "1877-08-28"
         ],
         "feasts": []
     },

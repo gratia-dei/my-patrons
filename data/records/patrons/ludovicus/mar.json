@@ -1,0 +1,56 @@
+{
+    "names": {
+        "fr": [
+            "Louis Martin"
+        ],
+        "la": [
+            "Ludovicus Martin"
+        ],
+        "en": [
+            "Louis Martin"
+        ],
+        "pl": [
+            "Ludwik Martin"
+        ]
+    },
+    "forenames": ["ludovicus"],
+    "surnames": [
+        {
+            "fr": "Martin"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1823-08-22"],
+    "died": ["1894-07-29"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2008-10-19"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2015-10-18"
+    },
+    "anniversary": ["07-29"],
+
+    "categories": ["vir", "laicus", "coniunx"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/ludovico-martin-e-maria-azelia-guerin.html",
+        "gcatholic": "https://gcatholic.org/p/67200",
+        "wiki": "https://pl.wikipedia.org/wiki/Ludwik_Martin"
+    }
+}

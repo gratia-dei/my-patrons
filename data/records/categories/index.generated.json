@@ -214,6 +214,11 @@
         "en": "lawyer",
         "pl": "prawnik"
     },
+    "laicus": {
+        "la": "laicus / laica",
+        "en": "layman / laywoman",
+        "pl": "świecki / świecka"
+    },
     "levita": {
         "la": "levita",
         "en": "levi",

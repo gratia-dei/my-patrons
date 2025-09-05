@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Martin"
+    },
+    "translations": {
+        "fr": [
+            "Martin"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        }
+    }
+}

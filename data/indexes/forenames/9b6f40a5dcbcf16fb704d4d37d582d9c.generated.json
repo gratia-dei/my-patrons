@@ -17,6 +17,12 @@
         ]
     },
     "links": {
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
         "records/patrons/ludovicus/mzy": {
             "pl": "Ludwik Mzyk",
             "la": "Ludovicus Mzyk",

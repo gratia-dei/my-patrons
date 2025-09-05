@@ -1,0 +1,30 @@
+{
+    "names": {
+        "en": "layman / laywoman"
+    },
+    "translations": {
+        "la": [
+            "laicus / laica"
+        ],
+        "en": [
+            "layman / laywoman"
+        ],
+        "pl": [
+            "świecki / świecka"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
+        "records/patrons/zelie/gue": {
+            "fr": "Zélie Guérin",
+            "la": "Zelie Guérin",
+            "en": "Zelie Guérin",
+            "pl": "Zelia Guérin"
+        }
+    }
+}

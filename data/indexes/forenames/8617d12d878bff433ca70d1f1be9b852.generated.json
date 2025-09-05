@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Zelia"
+    },
+    "translations": {
+        "la": [
+            "Zelie"
+        ],
+        "en": [
+            "Zelie"
+        ],
+        "pl": [
+            "Zelia"
+        ],
+        "fr": [
+            "Zélie"
+        ]
+    },
+    "links": {
+        "records/patrons/zelie/gue": {
+            "fr": "Zélie Guérin",
+            "la": "Zelie Guérin",
+            "en": "Zelie Guérin",
+            "pl": "Zelia Guérin"
+        }
+    }
+}

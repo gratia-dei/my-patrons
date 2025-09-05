@@ -56,6 +56,12 @@
             "en": "Liliosa of Cordoba; with her, i.a., Felix",
             "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
         },
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
         "records/patrons/mathildis/reg": {
             "de": "Mathilde von Ringelheim",
             "en": "Matilda of Ringelheim",
@@ -77,6 +83,12 @@
             "pl": "Salomea Piastówna",
             "en": "Salomea of the Poland",
             "la": "Salomea Regina Haliciensis"
+        },
+        "records/patrons/zelie/gue": {
+            "fr": "Zélie Guérin",
+            "la": "Zelie Guérin",
+            "en": "Zelie Guérin",
+            "pl": "Zelia Guérin"
         }
     }
 }

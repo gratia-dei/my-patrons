@@ -3621,6 +3621,18 @@
         }
     },
     "07-29": {
+        "records/patrons/ludovicus/mar": {
+            "name": {
+                "fr": "Louis Martin",
+                "la": "Ludovicus Martin",
+                "en": "Louis Martin",
+                "pl": "Ludwik Martin"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 VII",
+                "feast": "29 VII"
+            }
+        },
         "records/patrons/felix/2ap": {
             "name": {
                 "la": "Felix II, antipapa",
@@ -4246,6 +4258,18 @@
                 "mr-1584": "28 VIII: #1",
                 "mr-1956": "28 VIII: #1",
                 "mr-2004": "28 VIII: #1"
+            }
+        },
+        "records/patrons/zelie/gue": {
+            "name": {
+                "fr": "Zélie Guérin",
+                "la": "Zelie Guérin",
+                "en": "Zelie Guérin",
+                "pl": "Zelia Guérin"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 VIII",
+                "feast": "28 VIII"
             }
         }
     },
