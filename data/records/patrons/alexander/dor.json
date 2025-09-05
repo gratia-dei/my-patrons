@@ -1,33 +1,36 @@
 {
     "names": {
-        "pl": [
-            "Zbigniew Strzałkowski"
+        "it": [
+            "Alessandro Dordi"
         ],
         "la": [
-            "Sbigneus Strzalkowski"
+            "Alexander Dordi"
         ],
         "en": [
-            "Zbigniew Strzalkowski"
+            "Alexander Dordi"
+        ],
+        "pl": [
+            "Aleksander Dordi"
         ]
     },
-    "forenames": ["sbigneus"],
+    "forenames": ["alexander"],
     "surnames": [
         {
-            "pl": "Strzałkowski"
+            "it": "Dordi"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1958-07-03"],
-    "died": ["1991-08-09"],
+    "born": ["1931-01-22"],
+    "died": ["1991-08-25"],
     "beatified": {
         "type": "ceremonially",
         "date": "2015-12-05"
     },
     "canonized": null,
-    "anniversary": ["08-09"],
+    "anniversary": ["08-25"],
 
     "categories": ["vir", "martyr", "presbyter"],
 
@@ -44,7 +47,7 @@
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/michal-tomaszek-zbigniew-strzalkowski-e-alessandro-dordi.html",
-        "gcatholic": "https://gcatholic.org/p/67973",
-        "wiki": "https://pl.wikipedia.org/wiki/Zbigniew_Strza%C5%82kowski_(duchowny)"
+        "gcatholic": "https://gcatholic.org/p/67974",
+        "wiki": "https://pl.wikipedia.org/wiki/Alessandro_Dordi"
     }
 }

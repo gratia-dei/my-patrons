@@ -4010,6 +4010,28 @@
         }
     },
     "08-09": {
+        "records/patrons/michael/tom": {
+            "name": {
+                "pl": "Michał Tomaszek",
+                "la": "Michael Tomaszek",
+                "en": "Michael Tomaszek"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 VIII",
+                "feast": "9 VIII"
+            }
+        },
+        "records/patrons/sbigneus/str": {
+            "name": {
+                "pl": "Zbigniew Strzałkowski",
+                "la": "Sbigneus Strzalkowski",
+                "en": "Zbigniew Strzalkowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 VIII",
+                "feast": "9 VIII"
+            }
+        },
         "records/patrons/ioannes/via": {
             "name": {
                 "fr": "Jean-Marie Vianney",
@@ -4167,6 +4189,20 @@
             "sources": {
                 "reliable-death-anniversary": "20 VIII",
                 "mr-1956": "20 VIII: #3"
+            }
+        }
+    },
+    "08-25": {
+        "records/patrons/alexander/dor": {
+            "name": {
+                "it": "Alessandro Dordi",
+                "la": "Alexander Dordi",
+                "en": "Alexander Dordi",
+                "pl": "Aleksander Dordi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 VIII",
+                "feast": "25 VIII"
             }
         }
     },

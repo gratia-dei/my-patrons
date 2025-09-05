@@ -68,6 +68,12 @@
             "la": "Albertus Lovaniensis",
             "pl": "Albert z Louvain"
         },
+        "records/patrons/alexander/dor": {
+            "it": "Alessandro Dordi",
+            "la": "Alexander Dordi",
+            "en": "Alexander Dordi",
+            "pl": "Aleksander Dordi"
+        },
         "records/patrons/alexander/fel": {
             "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
             "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
@@ -1291,6 +1297,11 @@
             "la": "Michael Nakashima",
             "pl": "Michał Nakashima"
         },
+        "records/patrons/michael/tom": {
+            "pl": "Michał Tomaszek",
+            "la": "Michael Tomaszek",
+            "en": "Michael Tomaszek"
+        },
         "records/patrons/multi/abr": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
@@ -1558,8 +1569,8 @@
         },
         "records/patrons/sbigneus/str": {
             "pl": "Zbigniew Strzałkowski",
-            "en": "Zbigniew Strzalkowski",
-            "la": "Sbigneus Strzalkowski"
+            "la": "Sbigneus Strzalkowski",
+            "en": "Zbigniew Strzalkowski"
         },
         "records/patrons/sebastianus/nam": {
             "ko": "남이관 세바스티아노",

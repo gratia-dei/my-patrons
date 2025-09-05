@@ -31,6 +31,12 @@
             "en": "Emilian Kovch",
             "la": "Aemilianus Kovc"
         },
+        "records/patrons/alexander/dor": {
+            "it": "Alessandro Dordi",
+            "la": "Alexander Dordi",
+            "en": "Alexander Dordi",
+            "pl": "Aleksander Dordi"
+        },
         "records/patrons/alexius/zar": {
             "uk": "Олексій Васильович Зарицький",
             "la": "Alexius Zaryckyj",
@@ -601,6 +607,11 @@
             "en": "Michael Sopocko",
             "la": "Michael Sopocko"
         },
+        "records/patrons/michael/tom": {
+            "pl": "Michał Tomaszek",
+            "la": "Michael Tomaszek",
+            "en": "Michael Tomaszek"
+        },
         "records/patrons/narcissus/put": {
             "pl": "Narcyz Putz",
             "la": "Narcissus Putz",
@@ -723,8 +734,8 @@
         },
         "records/patrons/sbigneus/str": {
             "pl": "Zbigniew Strzałkowski",
-            "en": "Zbigniew Strzalkowski",
-            "la": "Sbigneus Strzalkowski"
+            "la": "Sbigneus Strzalkowski",
+            "en": "Zbigniew Strzalkowski"
         },
         "records/patrons/sigismundus/gor": {
             "pl": "Zygmunt Gorazdowski",

@@ -725,8 +725,22 @@
         "names": {
             "la": "Alexander",
             "en": "Alexander",
-            "pl": "Aleksander"
+            "pl": "Aleksander",
+            "it": "Alessandro"
         }
+    },
+    "patrons/alexander/dor": {
+        "active": true,
+        "names": {
+            "it": "Alessandro Dordi",
+            "la": "Alexander Dordi",
+            "en": "Alexander Dordi",
+            "pl": "Aleksander Dordi"
+        },
+        "died": [
+            "1991-08-25"
+        ],
+        "feasts": []
     },
     "patrons/alexander/fel": {
         "active": true,
@@ -8613,6 +8627,18 @@
         ],
         "feasts": []
     },
+    "patrons/michael/tom": {
+        "active": true,
+        "names": {
+            "pl": "Michał Tomaszek",
+            "la": "Michael Tomaszek",
+            "en": "Michael Tomaszek"
+        },
+        "died": [
+            "1991-08-09"
+        ],
+        "feasts": []
+    },
     "patrons/modestus": {
         "names": {
             "la": "Modestus",
@@ -10456,11 +10482,11 @@
         }
     },
     "patrons/sbigneus/str": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Zbigniew Strzałkowski",
-            "en": "Zbigniew Strzalkowski",
-            "la": "Sbigneus Strzalkowski"
+            "la": "Sbigneus Strzalkowski",
+            "en": "Zbigniew Strzalkowski"
         },
         "died": [
             "1991-08-09"

@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Tomaszek"
+    },
+    "translations": {
+        "pl": [
+            "Tomaszek"
+        ]
+    },
+    "links": {
+        "records/patrons/michael/tom": {
+            "pl": "Michał Tomaszek",
+            "la": "Michael Tomaszek",
+            "en": "Michael Tomaszek"
+        }
+    }
+}

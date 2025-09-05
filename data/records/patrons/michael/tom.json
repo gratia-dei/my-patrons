@@ -1,26 +1,26 @@
 {
     "names": {
         "pl": [
-            "Zbigniew Strzałkowski"
+            "Michał Tomaszek"
         ],
         "la": [
-            "Sbigneus Strzalkowski"
+            "Michael Tomaszek"
         ],
         "en": [
-            "Zbigniew Strzalkowski"
+            "Michael Tomaszek"
         ]
     },
-    "forenames": ["sbigneus"],
+    "forenames": ["michael"],
     "surnames": [
         {
-            "pl": "Strzałkowski"
+            "pl": "Tomaszek"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1958-07-03"],
+    "born": ["1960-09-23"],
     "died": ["1991-08-09"],
     "beatified": {
         "type": "ceremonially",
@@ -44,7 +44,7 @@
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/michal-tomaszek-zbigniew-strzalkowski-e-alessandro-dordi.html",
-        "gcatholic": "https://gcatholic.org/p/67973",
-        "wiki": "https://pl.wikipedia.org/wiki/Zbigniew_Strza%C5%82kowski_(duchowny)"
+        "gcatholic": "https://gcatholic.org/p/67972",
+        "wiki": "https://pl.wikipedia.org/wiki/Micha%C5%82_Tomaszek"
     }
 }
