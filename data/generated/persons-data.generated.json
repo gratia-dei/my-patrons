@@ -909,7 +909,7 @@
         }
     },
     "patrons/alypius/tha": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Alypius Tagastensis",
             "en": "Alypius of Tagaste",
