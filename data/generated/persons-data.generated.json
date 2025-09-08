@@ -8896,6 +8896,25 @@
             }
         }
     },
+    "patrons/myron": {
+        "names": {
+            "la": "Myron",
+            "en": "Myron",
+            "pl": "Miron"
+        }
+    },
+    "patrons/myron/cyz": {
+        "active": true,
+        "names": {
+            "la": "Myron Cyzicensis",
+            "en": "Myron of Cyzicus",
+            "pl": "Miron z Kizyku"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": []
+    },
     "patrons/nahum": {
         "names": {
             "la": "Nahum",

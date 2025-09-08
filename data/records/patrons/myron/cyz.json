@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Myron Cyzicensis"
+        ],
+        "en": [
+            "Myron of Cyzicus"
+        ],
+        "pl": [
+            "Miron z Kizyku"
+        ]
+    },
+    "forenames": ["myron"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./17#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/17#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73737",
+        "wiki": "https://pl.wikipedia.org/wiki/Miron_z_Kizyku"
+    }
+}

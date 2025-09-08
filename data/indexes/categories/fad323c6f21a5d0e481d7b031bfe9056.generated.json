@@ -1352,6 +1352,11 @@
             "la": "Sociorum Sadochii de Sandomierz",
             "en": "Companions of Sadok of Sandomierz"
         },
+        "records/patrons/myron/cyz": {
+            "la": "Myron Cyzicensis",
+            "en": "Myron of Cyzicus",
+            "pl": "Miron z Kizyku"
+        },
         "records/patrons/narcissus/put": {
             "pl": "Narcyz Putz",
             "la": "Narcissus Putz",

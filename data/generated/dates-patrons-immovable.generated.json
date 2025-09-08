@@ -4253,6 +4253,18 @@
         }
     },
     "08-17": {
+        "records/patrons/myron/cyz": {
+            "name": {
+                "la": "Myron Cyzicensis",
+                "en": "Myron of Cyzicus",
+                "pl": "Miron z Kizyku"
+            },
+            "sources": {
+                "mr-1584": "17 VIII: #4",
+                "mr-1956": "17 VIII: #4",
+                "mr-2004": "17 VIII: #1"
+            }
+        },
         "records/patrons/hyacinthus/cra": {
             "name": {
                 "pl": "Jacek Odrowąż",

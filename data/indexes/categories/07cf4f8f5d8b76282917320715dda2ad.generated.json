@@ -1984,6 +1984,11 @@
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
         },
+        "records/patrons/myron/cyz": {
+            "la": "Myron Cyzicensis",
+            "en": "Myron of Cyzicus",
+            "pl": "Miron z Kizyku"
+        },
         "records/patrons/nahum/pro": {
             "he": "נחום, הנביא",
             "en": "Nahum, prophet",

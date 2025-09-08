@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Miron"
+    },
+    "translations": {
+        "la": [
+            "Myron"
+        ],
+        "en": [
+            "Myron"
+        ],
+        "pl": [
+            "Miron"
+        ]
+    },
+    "links": {
+        "records/patrons/myron/cyz": {
+            "la": "Myron Cyzicensis",
+            "en": "Myron of Cyzicus",
+            "pl": "Miron z Kizyku"
+        }
+    }
+}
