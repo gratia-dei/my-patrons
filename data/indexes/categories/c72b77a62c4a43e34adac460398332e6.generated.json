@@ -2455,6 +2455,11 @@
             "la": "Simon de Lipnica",
             "en": "Simon of Lipnica"
         },
+        "records/patrons/simplicianus/med": {
+            "la": "Simplicianus Mediolanensis",
+            "en": "Simplician of Milan",
+            "pl": "Symplicjan z Mediolanu"
+        },
         "records/patrons/simplicius/fau": {
             "la": "Simplicius, cum eo, i.a., Faustinus",
             "en": "Simplicius; with him, i.a., Faustinus",

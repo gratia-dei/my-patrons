@@ -10851,6 +10851,25 @@
         ],
         "feasts": []
     },
+    "patrons/simplicianus": {
+        "names": {
+            "la": "Simplicianus",
+            "en": "Simplician",
+            "pl": "Symplicjan"
+        }
+    },
+    "patrons/simplicianus/med": {
+        "active": true,
+        "names": {
+            "la": "Simplicianus Mediolanensis",
+            "en": "Simplician of Milan",
+            "pl": "Symplicjan z Mediolanu"
+        },
+        "died": [
+            "~401"
+        ],
+        "feasts": []
+    },
     "patrons/simplicius": {
         "names": {
             "la": "Simplicius",

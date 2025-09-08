@@ -556,6 +556,11 @@
             "en": "Zygmunt Szczęsny Feliński",
             "la": "Sigismundus Felix Feliński"
         },
+        "records/patrons/simplicianus/med": {
+            "la": "Simplicianus Mediolanensis",
+            "en": "Simplician of Milan",
+            "pl": "Symplicjan z Mediolanu"
+        },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",

@@ -4178,6 +4178,16 @@
                 "mr-1956": "15 VIII: #7",
                 "mr-2004": "15 VIII: #11"
             }
+        },
+        "records/patrons/simplicianus/med": {
+            "name": {
+                "la": "Simplicianus Mediolanensis",
+                "en": "Simplician of Milan",
+                "pl": "Symplicjan z Mediolanu"
+            },
+            "sources": {
+                "mr-2004": "15 VIII: #4"
+            }
         }
     },
     "08-16": {
@@ -4192,6 +4202,17 @@
                 "mr-1584": "16 VIII: #8",
                 "mr-1956": "16 VIII: #9",
                 "mr-2004": "16 VIII: #8"
+            }
+        },
+        "records/patrons/simplicianus/med": {
+            "name": {
+                "la": "Simplicianus Mediolanensis",
+                "en": "Simplician of Milan",
+                "pl": "Symplicjan z Mediolanu"
+            },
+            "sources": {
+                "mr-1584": "16 VIII: #5",
+                "mr-1956": "16 VIII: #6"
             }
         },
         "records/patrons/ioachim/mar": {

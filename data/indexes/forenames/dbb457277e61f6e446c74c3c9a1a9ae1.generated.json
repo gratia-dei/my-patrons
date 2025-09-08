@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Simplician"
+    },
+    "translations": {
+        "la": [
+            "Simplicianus"
+        ],
+        "en": [
+            "Simplician"
+        ],
+        "pl": [
+            "Symplicjan"
+        ]
+    },
+    "links": {
+        "records/patrons/simplicianus/med": {
+            "la": "Simplicianus Mediolanensis",
+            "en": "Simplician of Milan",
+            "pl": "Symplicjan z Mediolanu"
+        }
+    }
+}
