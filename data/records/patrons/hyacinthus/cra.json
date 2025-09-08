@@ -1,28 +1,46 @@
 {
-  "names": {
-    "pl": [
-      "Jacek Odrowąż"
-    ],
-    "en": [
-      "Hyacinth of Poland"
-    ],
-    "la": [
-      "Hyacinthus Polonus"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Jacek Odrowąż"
+        ],
+        "la": [
+            "Hyacinthus Polonus"
+        ],
+        "en": [
+            "Hyacinth of Poland"
+        ]
+    },
+    "forenames": ["hyacinthus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1183"],
-  "died": ["1257-08-15"],
+    "active": true,
 
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1594-04-17"
-  },
+    "born": ["~1183"],
+    "died": ["1257-08-15"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1594-04-17"
+    },
+    "anniversary": ["08-15"],
 
-  "also-in-martyrology": ["08-15", "08-17"],
+    "categories": ["vir", "confessor", "presbyter"],
 
-  "forenames": ["hyacinthus"],
-  "categories": ["vir", "confessor", "presbyter"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["op"]
+        "mr-1956": ["1:Augusti/15#2", "1:Augusti/17#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./15#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giacinto-odrovaz.html",
+        "gcatholic": "https://gcatholic.org/p/68289",
+        "wiki": "https://pl.wikipedia.org/wiki/Jacek_Odrow%C4%85%C5%BC"
+    }
 }

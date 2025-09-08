@@ -5104,11 +5104,11 @@
         }
     },
     "patrons/hyacinthus/cra": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jacek Odrowąż",
-            "en": "Hyacinth of Poland",
-            "la": "Hyacinthus Polonus"
+            "la": "Hyacinthus Polonus",
+            "en": "Hyacinth of Poland"
         },
         "died": [
             "1257-08-15"

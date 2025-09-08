@@ -4166,6 +4166,19 @@
         }
     },
     "08-15": {
+        "records/patrons/hyacinthus/cra": {
+            "name": {
+                "pl": "Jacek Odrowąż",
+                "la": "Hyacinthus Polonus",
+                "en": "Hyacinth of Poland"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 VIII",
+                "feast": "15 VIII",
+                "mr-1956": "15 VIII: #2",
+                "mr-2004": "15 VIII: #8"
+            }
+        },
         "records/patrons/stanislaus/kos": {
             "name": {
                 "pl": "Stanisław Kostka",
@@ -4224,6 +4237,18 @@
             },
             "sources": {
                 "mr-1956": "16 VIII: #1"
+            }
+        }
+    },
+    "08-17": {
+        "records/patrons/hyacinthus/cra": {
+            "name": {
+                "pl": "Jacek Odrowąż",
+                "la": "Hyacinthus Polonus",
+                "en": "Hyacinth of Poland"
+            },
+            "sources": {
+                "mr-1956": "17 VIII: #2"
             }
         }
     },
