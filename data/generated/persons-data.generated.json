@@ -9025,7 +9025,15 @@
         "died": [
             ">30"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/isp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis",
+                    "pl": "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
+                }
+            }
+        }
     },
     "patrons/nicolaus": {
         "names": {
