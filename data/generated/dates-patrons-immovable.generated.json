@@ -1186,6 +1186,19 @@
         }
     },
     "03-20": {
+        "records/patrons/ioannes/nep": {
+            "name": {
+                "cs": "Jan Nepomucký",
+                "la": "Ioannes Nepomucenus",
+                "en": "John of Nepomuk",
+                "pl": "Jan Nepomucen"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 III",
+                "feast": "20 III",
+                "mr-2004": "20 III: #10"
+            }
+        },
         "records/patrons/ioachim/mar": {
             "name": {
                 "he": "יהוֹיָקִים",
@@ -1996,6 +2009,19 @@
             },
             "sources": {
                 "mr-2004": "14 V: #1"
+            }
+        }
+    },
+    "05-16": {
+        "records/patrons/ioannes/nep": {
+            "name": {
+                "cs": "Jan Nepomucký",
+                "la": "Ioannes Nepomucenus",
+                "en": "John of Nepomuk",
+                "pl": "Jan Nepomucen"
+            },
+            "sources": {
+                "mr-1956": "16 V: #4"
             }
         }
     },

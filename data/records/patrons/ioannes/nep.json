@@ -1,42 +1,59 @@
 {
-  "names": {
-    "cs": [
-      "Jan Nepomucký"
+    "names": {
+        "cs": [
+            "Jan Nepomucký"
+        ],
+        "la": [
+            "Ioannes Nepomucenus"
+        ],
+        "en": [
+            "John of Nepomuk"
+        ],
+        "pl": [
+            "Jan Nepomucen"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "cs": "Nepomucký",
+            "en": "Nepomucene",
+            "la": "Nepomucenus",
+            "pl": "Nepomucen"
+        }
     ],
-    "en": [
-      "John of Nepomuk"
-    ],
-    "la": [
-      "Ioannes Nepomucenus"
-    ],
-    "pl": [
-      "Jan Nepomucen"
-    ]
-  },
 
-  "epithets": [
-    {
-      "cs": "Nepomucký",
-      "en": "Nepomucene",
-      "la": "Nepomucenus",
-      "pl": "Nepomucen"
+    "active": true,
+
+    "born": ["~1345"],
+    "died": ["1393-03-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1721-05-31"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1729-03-19"
+    },
+    "anniversary": ["03-20"],
+
+    "categories": ["vir", "martyr", "canonicus", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/16#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./20#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-nepomuceno.html",
+        "gcatholic": "https://gcatholic.org/p/68280",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Nepomucen"
     }
-  ],
-
-  "born": [">1340", "<1346"],
-  "died": ["1393-03-20"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1721-05-31"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1729-03-19"
-  },
-
-  "also-in-martyrology": ["03-20", "05-16"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "martyr", "canonicus", "presbyter"]
 }
