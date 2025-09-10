@@ -26,6 +26,11 @@
             "en": "Aaron, priest",
             "pl": "Aaron, kapłan"
         },
+        "records/patrons/abibo/hie": {
+            "la": "Abibo Hierosolymitanus",
+            "en": "Abibon of Jerusalem",
+            "pl": "Abibo z Jerozolimy"
+        },
         "records/patrons/abundantius/abu": {
             "la": "Abundantius; cum eo, i.a., Abundius",
             "en": "Abundantius; with him, i.a., Abundius",
@@ -1057,6 +1062,11 @@
             "la": "Gabriel Lalemant",
             "en": "Gabriel Lalemant",
             "pl": "Gabriel Lalemant"
+        },
+        "records/patrons/gamaliel/hie": {
+            "la": "Gamaliel Hierosolymitanus",
+            "en": "Gamaliel of Jerusalem",
+            "pl": "Gamaliel z Jerozolimy"
         },
         "records/patrons/gaspar/ber": {
             "it": "Gaspare Bertoni",

@@ -11,6 +11,11 @@
         "pl": "Abel",
         "fr": "Abel"
     },
+    "abibo": {
+        "la": "Abibo",
+        "en": "Abibon",
+        "pl": "Abibo"
+    },
     "abundantius": {
         "la": "Abundantius",
         "en": "Abundantius",
@@ -911,6 +916,11 @@
         "en": "Gabriel",
         "pl": "Gabriel",
         "fr": "Gabriel"
+    },
+    "gamaliel": {
+        "la": "Gamaliel",
+        "en": "Gamaliel",
+        "pl": "Gamaliel"
     },
     "gaspar": {
         "la": "Gaspar",

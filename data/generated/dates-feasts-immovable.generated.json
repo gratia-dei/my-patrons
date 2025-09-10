@@ -759,10 +759,32 @@
         }
     },
     "08-03": {
+        "records/patrons/gamaliel/hie#isp": {
+            "name": {
+                "la": "Gamaliel Hierosolymitanus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "pl": "Gamaliel z Jerozolimy (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
+            },
+            "sources": {
+                "mr-1584": "3 VIII: #1",
+                "mr-1956": "3 VIII: #1",
+                "mr-1956-variations": "3 VIII: #post-8-ab-1960-07-26"
+            }
+        },
         "records/patrons/nicodemus/pha#isp": {
             "name": {
                 "la": "Nicodemus, Pharisaeus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
                 "pl": "Nikodem, Faryzeusz (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
+            },
+            "sources": {
+                "mr-1584": "3 VIII: #1",
+                "mr-1956": "3 VIII: #1",
+                "mr-1956-variations": "3 VIII: #post-8-ab-1960-07-26"
+            }
+        },
+        "records/patrons/abibo/hie#isp": {
+            "name": {
+                "la": "Abibo Hierosolymitanus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "pl": "Abibo z Jerozolimy (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
             },
             "sources": {
                 "mr-1584": "3 VIII: #1",

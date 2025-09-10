@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Gamaliel",
+        "en": "Gamaliel",
+        "pl": "Gamaliel"
+    },
+    "translations": {
+        "la": [
+            "Gamaliel"
+        ],
+        "en": [
+            "Gamaliel"
+        ],
+        "pl": [
+            "Gamaliel"
+        ]
+    },
+    "links": {
+        "records/patrons/gamaliel/hie": {
+            "la": "Gamaliel Hierosolymitanus",
+            "en": "Gamaliel of Jerusalem",
+            "pl": "Gamaliel z Jerozolimy"
+        }
+    }
+}

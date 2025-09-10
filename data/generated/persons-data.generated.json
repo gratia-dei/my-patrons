@@ -402,6 +402,33 @@
         "died": [],
         "feasts": []
     },
+    "patrons/abibo": {
+        "names": {
+            "la": "Abibo",
+            "en": "Abibon",
+            "pl": "Abibo"
+        }
+    },
+    "patrons/abibo/hie": {
+        "active": true,
+        "names": {
+            "la": "Abibo Hierosolymitanus",
+            "en": "Abibon of Jerusalem",
+            "pl": "Abibo z Jerozolimy"
+        },
+        "died": [
+            ">30"
+        ],
+        "feasts": {
+            "feasts/isp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis",
+                    "pl": "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
+                }
+            }
+        }
+    },
     "patrons/abundantius": {
         "names": {
             "la": "Abundantius",
@@ -4380,6 +4407,33 @@
             "1649-03-17"
         ],
         "feasts": []
+    },
+    "patrons/gamaliel": {
+        "names": {
+            "la": "Gamaliel",
+            "en": "Gamaliel",
+            "pl": "Gamaliel"
+        }
+    },
+    "patrons/gamaliel/hie": {
+        "active": true,
+        "names": {
+            "la": "Gamaliel Hierosolymitanus",
+            "en": "Gamaliel of Jerusalem",
+            "pl": "Gamaliel z Jerozolimy"
+        },
+        "died": [
+            ">30"
+        ],
+        "feasts": {
+            "feasts/isp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis",
+                    "pl": "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
+                }
+            }
+        }
     },
     "patrons/gaspar": {
         "names": {
