@@ -1,13 +1,13 @@
 {
     "names": {
-        "en": "Protomartyr",
-        "la": "Protomartyr"
+        "la": "Protomartyr",
+        "en": "Protomartyr"
     },
     "translations": {
-        "en": [
+        "la": [
             "Protomartyr"
         ],
-        "la": [
+        "en": [
             "Protomartyr"
         ],
         "pl": [
@@ -16,9 +16,8 @@
     },
     "links": {
         "records/patrons/stephanus/pro": {
-            "el": "Στέφανος",
-            "en": "Stephen Protomartyr",
             "la": "Stephanus protomartyr",
+            "en": "Stephen Protomartyr",
             "pl": "Szczepan Pramęczennik"
         }
     }

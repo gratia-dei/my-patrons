@@ -11183,17 +11183,31 @@
         "feasts": []
     },
     "patrons/stephanus/pro": {
-        "active": false,
+        "active": true,
         "names": {
-            "el": "Στέφανος",
-            "en": "Stephen Protomartyr",
             "la": "Stephanus protomartyr",
+            "en": "Stephen Protomartyr",
             "pl": "Szczepan Pramęczennik"
         },
         "died": [
             "~34"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tsp": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sancti Stephani Protomartyris",
+                    "pl": "Przeniesienie ciała świętego Szczepana Pramęczennika"
+                }
+            },
+            "feasts/isp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis",
+                    "pl": "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
+                }
+            }
+        }
     },
     "patrons/stephanus/wys": {
         "active": true,

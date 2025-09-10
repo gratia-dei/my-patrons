@@ -6700,6 +6700,18 @@
                 "mr-1956": "26 XII: #4",
                 "mr-2004": "26 XII: #4"
             }
+        },
+        "records/patrons/stephanus/pro": {
+            "name": {
+                "la": "Stephanus protomartyr",
+                "en": "Stephen Protomartyr",
+                "pl": "Szczepan Pramęczennik"
+            },
+            "sources": {
+                "mr-1584": "26 XII: #1",
+                "mr-1956": "26 XII: #1",
+                "mr-2004": "26 XII: #1"
+            }
         }
     },
     "12-27": {

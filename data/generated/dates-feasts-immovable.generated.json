@@ -409,6 +409,18 @@
             }
         }
     },
+    "05-07": {
+        "records/patrons/stephanus/pro#tsp": {
+            "name": {
+                "la": "Stephanus protomartyr (Translatio corporis sancti Stephani Protomartyris)",
+                "pl": "Szczepan Pramęczennik (Przeniesienie ciała świętego Szczepana Pramęczennika)"
+            },
+            "sources": {
+                "mr-1584": "7 V: #8",
+                "mr-1956": "7 V: #8"
+            }
+        }
+    },
     "05-08": {
         "records/patrons/michael/arc#ama": {
             "name": {
@@ -759,6 +771,17 @@
         }
     },
     "08-03": {
+        "records/patrons/stephanus/pro#isp": {
+            "name": {
+                "la": "Stephanus protomartyr (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "pl": "Szczepan Pramęczennik (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
+            },
+            "sources": {
+                "mr-1584": "3 VIII: #1",
+                "mr-1956": "3 VIII: #1",
+                "mr-1956-variations": "3 VIII: #post-8-ab-1960-07-26"
+            }
+        },
         "records/patrons/gamaliel/hie#isp": {
             "name": {
                 "la": "Gamaliel Hierosolymitanus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
