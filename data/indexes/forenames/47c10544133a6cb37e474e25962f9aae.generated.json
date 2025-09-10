@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Nikodem"
+    },
+    "translations": {
+        "la": [
+            "Nicodemus"
+        ],
+        "en": [
+            "Nicodemus"
+        ],
+        "pl": [
+            "Nikodem"
+        ]
+    },
+    "links": {
+        "records/patrons/nicodemus/pha": {
+            "la": "Nicodemus, Pharisaeus",
+            "en": "Nicodemus, Pharisee",
+            "pl": "Nikodem, Faryzeusz"
+        }
+    }
+}

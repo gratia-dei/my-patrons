@@ -1546,7 +1546,7 @@
             "la": "Iosaphat Kuncevicus"
         },
         "records/patrons/ioseph/ari": {
-            "la": "Joseph ab Arimathaea",
+            "la": "Ioseph de Arimathaea",
             "en": "Joseph of Arimathea",
             "pl": "Józef z Arymatei"
         },
@@ -2010,6 +2010,11 @@
             "la": "Natalis Chabanel",
             "en": "Natale Chabanel",
             "pl": "Natal Chabanel"
+        },
+        "records/patrons/nicodemus/pha": {
+            "la": "Nicodemus, Pharisaeus",
+            "en": "Nicodemus, Pharisee",
+            "pl": "Nikodem, Faryzeusz"
         },
         "records/patrons/nicolaus/flu": {
             "de": "Niklaus von Flüe",

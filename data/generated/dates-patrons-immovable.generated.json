@@ -1131,6 +1131,17 @@
                 "mr-2004": "17 III: #8"
             }
         },
+        "records/patrons/ioseph/ari": {
+            "name": {
+                "la": "Ioseph de Arimathaea",
+                "en": "Joseph of Arimathea",
+                "pl": "Józef z Arymatei"
+            },
+            "sources": {
+                "mr-1584": "17 III: #1",
+                "mr-1956": "17 III: #2"
+            }
+        },
         "records/patrons/patricius/hib": {
             "name": {
                 "ga": "Naomh Pádraig",
@@ -4379,6 +4390,26 @@
             },
             "sources": {
                 "mr-1956": "31 VIII: #2"
+            }
+        },
+        "records/patrons/ioseph/ari": {
+            "name": {
+                "la": "Ioseph de Arimathaea",
+                "en": "Joseph of Arimathea",
+                "pl": "Józef z Arymatei"
+            },
+            "sources": {
+                "mr-2004": "31 VIII: #1"
+            }
+        },
+        "records/patrons/nicodemus/pha": {
+            "name": {
+                "la": "Nicodemus, Pharisaeus",
+                "en": "Nicodemus, Pharisee",
+                "pl": "Nikodem, Faryzeusz"
+            },
+            "sources": {
+                "mr-2004": "31 VIII: #1"
             }
         }
     },

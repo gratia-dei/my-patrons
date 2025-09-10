@@ -6052,9 +6052,9 @@
         }
     },
     "patrons/ioseph/ari": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Joseph ab Arimathaea",
+            "la": "Ioseph de Arimathaea",
             "en": "Joseph of Arimathea",
             "pl": "Józef z Arymatei"
         },
@@ -9005,6 +9005,25 @@
         },
         "died": [
             "1649-12-08"
+        ],
+        "feasts": []
+    },
+    "patrons/nicodemus": {
+        "names": {
+            "la": "Nicodemus",
+            "en": "Nicodemus",
+            "pl": "Nikodem"
+        }
+    },
+    "patrons/nicodemus/pha": {
+        "active": true,
+        "names": {
+            "la": "Nicodemus, Pharisaeus",
+            "en": "Nicodemus, Pharisee",
+            "pl": "Nikodem, Faryzeusz"
+        },
+        "died": [
+            ">30"
         ],
         "feasts": []
     },

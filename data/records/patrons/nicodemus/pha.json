@@ -1,17 +1,16 @@
 {
     "names": {
         "la": [
-            "Ioseph de Arimathaea",
-            "Ioseph ab Arimathaea"
+            "Nicodemus, Pharisaeus"
         ],
         "en": [
-            "Joseph of Arimathea"
+            "Nicodemus, Pharisee"
         ],
         "pl": [
-            "Józef z Arymatei"
+            "Nikodem, Faryzeusz"
         ]
     },
-    "forenames": ["ioseph"],
+    "forenames": ["nicodemus"],
     "surnames": null,
     "epithets": null,
 
@@ -26,19 +25,19 @@
     "categories": ["vir"],
 
     "data-links": {
-        "mr-1584": ["1:Mart./17#1"],
+        "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Martii/17#2"],
+        "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:aug./31#1"],
+        "mr-2004": ["2:aug./31#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/70249",
-        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_z_Arymatei"
+        "gcatholic": "https://gcatholic.org/p/70250",
+        "wiki": "https://pl.wikipedia.org/wiki/Nikodem_(posta%C4%87_biblijna)"
     }
 }
