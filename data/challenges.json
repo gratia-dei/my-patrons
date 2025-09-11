@@ -3404,13 +3404,13 @@
 
   "TC": {
     "name": {
-      "pl": "Kościół"
+      "pl": "Miejsce Sakralne"
     },
     "selectable": true,
     "description": {
       "params": [],
       "template": {
-        "pl": "pl/wyzwania/kosciol"
+        "pl": "pl/wyzwania/miejsce-sakralne"
       }
     },
     "numbers": true,
@@ -3437,12 +3437,12 @@
         "to-complete-on-selected-date": true,
         "required": true,
         "name": {
-          "pl": "odwiedź świątynię rzymskokatolicką"
+          "pl": "odwiedź miejsce sakralne Kościoła Rzymskokatolickiego"
         },
         "description": {
           "params": [],
           "template": {
-            "pl": "pl/kroki/odwiedz-swiatynie-rzymskokatolicka"
+            "pl": "pl/kroki/odwiedz-miejsce-sakralne-kosciola-rzymskokatolickiego"
           }
         }
       },
@@ -3450,7 +3450,7 @@
         "to-complete-on-selected-date": false,
         "required": true,
         "name": {
-          "pl": "pomódl się do Patrona świątyni"
+          "pl": "pomódl się do Patrona tytularnego miejsca sakralnego"
         },
         "description": {
           "params": ["person-name"],

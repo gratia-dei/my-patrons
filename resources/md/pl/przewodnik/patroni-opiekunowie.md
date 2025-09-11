@@ -56,7 +56,7 @@ Wybrany Patron stał się właśnie **Twoim Opiekunem**! Prócz **wielkich korzy
 ## Dalsze wyzwania ##
 Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać teraz następujące wyzwania.:
 - **[TR] Relikwie lub Grób** - nawiedzenie i modlitwa przy relikwiach lub grobie Patrona Opiekuna,
-- **[TC] Kościół** - nawiedzenie rzymskokatolickiego kościoła pod wezwaniem Patrona Opiekuna,
+- **[TC] Miejsce Sakralne** - nawiedzenie miejsca sakralnego Kościoła Rzymskokatolickiego pod wezwaniem Patrona Opiekuna,
 - **[TT] Miejsce Sakralne Innego Wyznania lub Religii** - nawiedzenie świątyń innej religii lub wyznania pod wezwaniem Patrona Opiekuna,
 - **[TP] Miejsce Świeckie** - nawiedzenie miejsca świeckiego pod patronatem Patrona Opiekuna,
 - **[TH] Rękodzieło** - wykonanie rękodzieła z wizerunkiem Patrona Opiekuna,
