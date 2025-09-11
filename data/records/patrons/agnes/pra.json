@@ -1,38 +1,55 @@
 {
-  "names": {
-    "cs": [
-      "Anežka Česká"
-    ],
-    "en": [
-      "Agnes of Bohemia",
-      "Agnes of Prague"
-    ],
-    "la": [
-      "Agnes de Bohemia"
-    ],
-    "pl": [
-      "Agnieszka Przemyślidka",
-      "Agnieszka z Pragi",
-      "Agnieszka Czeska"
-    ]
-  },
+    "names": {
+        "cs": [
+            "Anežka Česká"
+        ],
+        "la": [
+            "Agnes de Bohemia"
+        ],
+        "en": [
+            "Agnes of Bohemia",
+            "Agnes of Prague"
+        ],
+        "pl": [
+            "Agnieszka Przemyślidka",
+            "Agnieszka z Pragi",
+            "Agnieszka Czeska"
+        ]
+    },
+    "forenames": ["agnes"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">1205", "<1211"],
-  "died": ["1282-03-02", "1282-03-06"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1874-12-02"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1989-11-12"
-  },
+    "born": ["1211-01-20"],
+    "died": ["1282-03-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1874-11-28"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1989-11-12"
+    },
+    "anniversary": ["03-02"],
 
-  "also-in-martyrology": ["03-02"],
+    "categories": ["femina", "abbas", "principissa"],
 
-  "forenames": ["agnes"],
-  "categories": ["femina", "abbas", "principissa"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["osc"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./2#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/agnese-di-boemia.html",
+        "gcatholic": "https://gcatholic.org/p/67129",
+        "wiki": "https://pl.wikipedia.org/wiki/Agnieszka_Przemy%C5%9Blidka_(1211%E2%80%931282)"
+    }
 }
