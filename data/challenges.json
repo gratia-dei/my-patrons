@@ -133,13 +133,13 @@
 
   "AA": {
     "name": {
-      "pl": "Ołtarz Główny"
+      "pl": "Kościół i Jego Ołtarz Główny"
     },
     "selectable": true,
     "description": {
       "params": [],
       "template": {
-        "pl": "pl/wyzwania/oltarz-glowny"
+        "pl": "pl/wyzwania/kosciol-i-jego-oltarz-glowny"
       }
     },
     "numbers": true,
@@ -167,12 +167,12 @@
         "to-complete-on-selected-date": true,
         "required": true,
         "name": {
-          "pl": "odwiedź ołtarz główny"
+          "pl": "odwiedź kościół i jego ołtarz główny"
         },
         "description": {
           "params": [],
           "template": {
-            "pl": "pl/kroki/odwiedz-oltarz-glowny"
+            "pl": "pl/kroki/odwiedz-kosciol-i-jego-oltarz-glowny"
           }
         }
       },
@@ -180,7 +180,7 @@
         "to-complete-on-selected-date": false,
         "required": true,
         "name": {
-          "pl": "pomódl się do Patrona ołtarza głównego lub świątyni"
+          "pl": "pomódl się do Patrona ołtarza głównego lub kościoła"
         },
         "description": {
           "params": ["person-name"],

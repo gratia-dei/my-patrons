@@ -1,6 +1,6 @@
 Osobiście **przyjdź do świątyni rzymskokatolickiej** i najlepiej wejdź do niej<sup>1</sup>. 
 
-Jeśli którykolwiek Patron tej świątyni jest także Twoim **Patronem Obrońcą** oraz **ujrzysz ołtarz główny**, możliwe będzie wykonanie w tym miejscu także wyzwania **[AA] Ołtarz Główny**.
+Jeśli którykolwiek Patron tej świątyni jest także Twoim **Patronem Obrońcą** oraz **ujrzysz ołtarz główny**, możliwe będzie wykonanie w tym miejscu także wyzwania **[AA] Kościół i Jego Ołtarz Główny**.
 
 ---
 Przypisy:
