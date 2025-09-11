@@ -1,34 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Jarogniew Wojciechowski",
-      "Jarogniew Zdzisław Wojciechowski"
+    "names": {
+        "pl": [
+            "Jarogniew Wojciechowski"
+        ],
+        "la": [
+            "Jarognievus Wojciechowski"
+        ],
+        "en": [
+            "Jarogniew Wojciechowski"
+        ]
+    },
+    "forenames": ["iarognievus"],
+    "surnames": [
+        {
+            "pl": "Wojciechowski"
+        }
     ],
-    "en": [
-      "Jarogniew Wojciechowski",
-      "Jarogniew Zdzisław Wojciechowski"
-    ],
-    "la": [
-      "Jarognievus Wojciechowski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Wojciechowski"
+    "active": true,
+
+    "born": ["1922-11-05"],
+    "died": ["1942-08-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-24"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["5:aug./24#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67788",
+        "wiki": "https://pl.wikipedia.org/wiki/Jarogniew_Wojciechowski"
     }
-  ],
-
-  "born": ["1922-11-05"],
-  "died": ["1942-08-24"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["08-24"],
-
-  "forenames": ["iarognievus"],
-  "categories": ["vir", "martyr"]
 }

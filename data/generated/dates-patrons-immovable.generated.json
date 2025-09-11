@@ -4340,6 +4340,68 @@
             }
         }
     },
+    "08-24": {
+        "records/patrons/ceslaus/joz": {
+            "name": {
+                "pl": "Czesław Jóźwiak",
+                "la": "Ceslaus Jóźwiak",
+                "en": "Czesław Jóźwiak"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "feast": "24 VIII",
+                "mr-2004": "24 VIII: #12"
+            }
+        },
+        "records/patrons/eduardus/kaz": {
+            "name": {
+                "pl": "Edward Kaźmierski",
+                "la": "Edwardus Kaźmierski",
+                "en": "Edward Kazmierski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "feast": "24 VIII",
+                "mr-2004": "24 VIII: #12"
+            }
+        },
+        "records/patrons/eduardus/kli": {
+            "name": {
+                "pl": "Edward Klinik",
+                "la": "Eduardus Klinik",
+                "en": "Edward Klinik"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "feast": "24 VIII",
+                "mr-2004": "24 VIII: #12"
+            }
+        },
+        "records/patrons/franciscus/kes": {
+            "name": {
+                "pl": "Franciszek Kęsy",
+                "la": "Franciscus Kęsy",
+                "en": "Franciszek Kęsy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "feast": "24 VIII",
+                "mr-2004": "24 VIII: #12"
+            }
+        },
+        "records/patrons/iarognievus/woj": {
+            "name": {
+                "pl": "Jarogniew Wojciechowski",
+                "la": "Jarognievus Wojciechowski",
+                "en": "Jarogniew Wojciechowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "feast": "24 VIII",
+                "mr-2004": "24 VIII: #12"
+            }
+        }
+    },
     "08-25": {
         "records/patrons/alexander/dor": {
             "name": {

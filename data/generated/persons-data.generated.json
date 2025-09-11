@@ -2753,11 +2753,11 @@
         }
     },
     "patrons/ceslaus/joz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Czesław Jóźwiak",
-            "en": "Czesław Jóźwiak",
-            "la": "Ceslaus Jóźwiak"
+            "la": "Ceslaus Jóźwiak",
+            "en": "Czesław Jóźwiak"
         },
         "died": [
             "1942-08-24"
@@ -3499,11 +3499,11 @@
         "feasts": []
     },
     "patrons/eduardus/kaz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Edward Kaźmierski",
-            "en": "Edward Kazmierski",
-            "la": "Edwardus Kaźmierski"
+            "la": "Edwardus Kaźmierski",
+            "en": "Edward Kazmierski"
         },
         "died": [
             "1942-08-24"
@@ -3511,11 +3511,11 @@
         "feasts": []
     },
     "patrons/eduardus/kli": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Edward Klinik",
-            "en": "Edward Klinik",
-            "la": "Eduardus Klinik"
+            "la": "Eduardus Klinik",
+            "en": "Edward Klinik"
         },
         "died": [
             "1942-08-24"
@@ -4254,11 +4254,11 @@
         "feasts": []
     },
     "patrons/franciscus/kes": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Franciszek Kęsy",
-            "en": "Franciszek Kęsy",
-            "la": "Franciscus Kęsy"
+            "la": "Franciscus Kęsy",
+            "en": "Franciszek Kęsy"
         },
         "died": [
             "1942-08-24"
@@ -5307,11 +5307,11 @@
         }
     },
     "patrons/iarognievus/woj": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jarogniew Wojciechowski",
-            "en": "Jarogniew Wojciechowski",
-            "la": "Jarognievus Wojciechowski"
+            "la": "Jarognievus Wojciechowski",
+            "en": "Jarogniew Wojciechowski"
         },
         "died": [
             "1942-08-24"
