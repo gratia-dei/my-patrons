@@ -411,7 +411,9 @@
     "source": {
       "values": "sorted"
     },
-    "hint": {}
+    "hint": {
+      "pl": "np. „Cerkiew prawosławna”, „Kościół starokatolicki”, itp."
+    }
   },
   "description": {
     "index": "descriptions",
@@ -803,128 +805,6 @@
       }
     },
     "hint": {}
-  },
-  "type-of-secular-place": {
-    "index": "types-of-secular-places",
-    "name": {
-      "en": "type of secular places",
-      "pl": "typ miejsca świeckiego"
-    },
-    "source": {
-      "list": [
-        {"1": {
-          "en": "country",
-          "pl": "państwo"
-        }},
-        {"2": {
-          "en": "region",
-          "pl": "region"
-        }},
-        {"3": {
-          "en": "city, town, or village",
-          "pl": "miejscowość"
-        }},
-        {"4": {
-          "en": "district",
-          "pl": "dzielnica"
-        }},
-        {"5": {
-          "en": "estate",
-          "pl": "osiedle"
-        }},
-        {"21": {
-          "en": "street",
-          "pl": "ulica"
-        }},
-        {"22": {
-          "en": "square",
-          "pl": "plac"
-        }},
-        {"23": {
-          "en": "roundabout",
-          "pl": "rondo"
-        }},
-        {"24": {
-          "en": "memorial",
-          "pl": "pomnik"
-        }},
-        {"25": {
-          "en": "avenue",
-          "pl": "aleja"
-        }},
-        {"26": {
-          "en": "bridge",
-          "pl": "most"
-        }},
-        {"41": {
-          "en": "institution",
-          "pl": "instytucja"
-        }},
-        {"42": {
-          "en": "department",
-          "pl": "wydział"
-        }},
-        {"51": {
-          "en": "stop",
-          "pl": "przystanek"
-        }},
-        {"52": {
-          "en": "station",
-          "pl": "stacja"
-        }},
-        {"53": {
-          "en": "airport",
-          "pl": "lotnisko"
-        }},
-        {"54": {
-          "en": "port",
-          "pl": "port"
-        }},
-        {"61": {
-          "en": "building",
-          "pl": "budynek"
-        }},
-        {"62": {
-          "en": "shop",
-          "pl": "sklep"
-        }},
-        {"71": {
-          "en": "ship",
-          "pl": "statek"
-        }},
-        {"72": {
-          "en": "train",
-          "pl": "pociąg"
-        }},
-        {"73": {
-          "en": "aeroplane",
-          "pl": "samolot"
-        }},
-        {"81": {
-          "en": "mountain",
-          "pl": "góra"
-        }},
-        {"82": {
-          "en": "island",
-          "pl": "wyspa"
-        }},
-        {"83": {
-          "en": "trail",
-          "pl": "szlak"
-        }},
-        {"99": {
-          "en": "other natural place",
-          "pl": "inne miejsce naturalne"
-        }},
-        {"100": {
-          "en": "other place",
-          "pl": "inne miejsce"
-        }}
-      ]
-    },
-    "hint": {
-      "pl": "Jeżeli Twoim zdaniem warto dopisać coś do tej listy, <a target=\"_blank\" href=\"/contact\">napisz do nas</a>."
-    }
   },
   "type-of-relic-or-grave": {
     "index": "types-of-relics-and-graves",

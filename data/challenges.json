@@ -3599,7 +3599,7 @@
     },
     "numbers": true,
     "uniqueness": [
-      ["person", "notes/type-of-place", "notes/place"]
+      ["person", "notes/place"]
     ],
     "addition-type": "",
     "person": {
@@ -3658,14 +3658,6 @@
       }
     },
     "notes": {
-      "type-of-place": {
-        "type": {
-          "type-of-secular-place": [1, 1]
-        },
-        "name": {
-          "pl": "typ miejsca świeckiego"
-        }
-      },
       "place": {
         "type": {
           "place": [1, 1]
