@@ -4622,6 +4622,19 @@
         }
     },
     "09-14": {
+        "records/patrons/cyprianus/car": {
+            "name": {
+                "la": "Cyprianus Carthaginensis",
+                "en": "Cyprian of Carthage",
+                "pl": "Cyprian z Kartaginy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 IX",
+                "mr-1584": "14 IX: #3",
+                "mr-1956": "14 IX: #3",
+                "mr-2004": "14 IX: #3"
+            }
+        },
         "records/patrons/gabriel/duf": {
             "name": {
                 "fr": "Gabriel Taurin Dufresse",
@@ -4716,6 +4729,17 @@
             },
             "sources": {
                 "mr-1584": "16 IX: #8"
+            }
+        },
+        "records/patrons/cyprianus/car": {
+            "name": {
+                "la": "Cyprianus Carthaginensis",
+                "en": "Cyprian of Carthage",
+                "pl": "Cyprian z Kartaginy"
+            },
+            "sources": {
+                "mr-1956": "16 IX: #1",
+                "mr-2004": "16 IX: #1"
             }
         }
     },

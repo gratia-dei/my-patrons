@@ -683,6 +683,26 @@
             }
         }
     },
+    "07-17": {
+        "records/patrons/cyprianus/car#tms": {
+            "name": {
+                "la": "Cyprianus Carthaginensis (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "pl": "Cyprian z Kartaginy (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "17 VII: #2"
+            }
+        },
+        "records/patrons/cyprianus/car#tss": {
+            "name": {
+                "la": "Cyprianus Carthaginensis (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "pl": "Cyprian z Kartaginy (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
+            },
+            "sources": {
+                "mr-1956": "17 VII: #2"
+            }
+        }
+    },
     "07-24": {
         "records/patrons/iacobus/mai#vim": {
             "name": {

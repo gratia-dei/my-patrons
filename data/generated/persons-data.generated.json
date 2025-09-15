@@ -3017,7 +3017,7 @@
         }
     },
     "patrons/cyprianus/car": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Cyprianus Carthaginensis",
             "en": "Cyprian of Carthage",
@@ -3026,7 +3026,22 @@
         "died": [
             "258-09-14"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            },
+            "feasts/tss": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
     },
     "patrons/cyriacus": {
         "names": {
