@@ -25,6 +25,11 @@
             "en": "Benedict XI",
             "pl": "Benedykt XI"
         },
+        "records/patrons/cornelius/1pp": {
+            "la": "Cornelius Pp.",
+            "en": "Cornelius, pope",
+            "pl": "Korneliusz, papież"
+        },
         "records/patrons/deusdedit/1pp": {
             "la": "Deusdedit Pp. I",
             "en": "Deusdedit I",

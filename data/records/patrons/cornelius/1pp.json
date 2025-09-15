@@ -1,0 +1,45 @@
+{
+    "names": {
+        "la": [
+            "Cornelius Pp."
+        ],
+        "en": [
+            "Cornelius, pope"
+        ],
+        "pl": [
+            "Korneliusz, papież"
+        ]
+    },
+    "forenames": ["cornelius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": [">253-06-01", "<253-06-30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./14#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/14#2", "1:Septembris/16#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./14#2", "1:sept./16#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#21"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/CR1",
+        "wiki": "https://pl.wikipedia.org/wiki/Korneliusz_(papie%C5%BC)"
+    }
+}

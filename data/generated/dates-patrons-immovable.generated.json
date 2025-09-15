@@ -4647,6 +4647,18 @@
                 "mr-2004": "14 IX: #10"
             }
         },
+        "records/patrons/cornelius/1pp": {
+            "name": {
+                "la": "Cornelius Pp.",
+                "en": "Cornelius, pope",
+                "pl": "Korneliusz, papież"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #2",
+                "mr-1956": "14 IX: #2",
+                "mr-2004": "14 IX: #2"
+            }
+        },
         "records/patrons/crescentianus/car": {
             "name": {
                 "la": "Crescentianus Carthaginensis",
@@ -4773,6 +4785,17 @@
             },
             "sources": {
                 "mr-1584": "16 IX: #8"
+            }
+        },
+        "records/patrons/cornelius/1pp": {
+            "name": {
+                "la": "Cornelius Pp.",
+                "en": "Cornelius, pope",
+                "pl": "Korneliusz, papież"
+            },
+            "sources": {
+                "mr-1956": "16 IX: #1",
+                "mr-2004": "16 IX: #1"
             }
         },
         "records/patrons/cyprianus/car": {

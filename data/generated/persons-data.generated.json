@@ -2968,6 +2968,26 @@
         ],
         "feasts": []
     },
+    "patrons/cornelius": {
+        "names": {
+            "la": "Cornelius",
+            "en": "Cornelius",
+            "pl": "Korneliusz"
+        }
+    },
+    "patrons/cornelius/1pp": {
+        "active": true,
+        "names": {
+            "la": "Cornelius Pp.",
+            "en": "Cornelius, pope",
+            "pl": "Korneliusz, papież"
+        },
+        "died": [
+            ">253-06-01",
+            "<253-06-30"
+        ],
+        "feasts": []
+    },
     "patrons/cosmas": {
         "names": {
             "la": "Cosmas",

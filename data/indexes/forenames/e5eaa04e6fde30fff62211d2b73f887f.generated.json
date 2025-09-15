@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Korneliusz"
+    },
+    "translations": {
+        "la": [
+            "Cornelius"
+        ],
+        "en": [
+            "Cornelius"
+        ],
+        "pl": [
+            "Korneliusz"
+        ]
+    },
+    "links": {
+        "records/patrons/cornelius/1pp": {
+            "la": "Cornelius Pp.",
+            "en": "Cornelius, pope",
+            "pl": "Korneliusz, papież"
+        }
+    }
+}
