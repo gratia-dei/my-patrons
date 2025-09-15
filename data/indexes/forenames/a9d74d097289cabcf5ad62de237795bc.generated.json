@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Rosula",
+        "en": "Rosula",
+        "pl": "Rosula"
+    },
+    "translations": {
+        "la": [
+            "Rosula"
+        ],
+        "en": [
+            "Rosula"
+        ],
+        "pl": [
+            "Rosula"
+        ]
+    },
+    "links": {
+        "records/patrons/rosula/car": {
+            "la": "Rosula Carthaginensis",
+            "en": "Rosula of Carthage",
+            "pl": "Rosula z Kartaginy"
+        }
+    }
+}

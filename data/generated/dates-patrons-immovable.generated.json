@@ -4646,6 +4646,50 @@
                 "reliable-death-anniversary": "14 IX",
                 "mr-2004": "14 IX: #10"
             }
+        },
+        "records/patrons/crescentianus/car": {
+            "name": {
+                "la": "Crescentianus Carthaginensis",
+                "en": "Crescentianus of Carthage",
+                "pl": "Krescencjan z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #3",
+                "mr-1956": "14 IX: #7"
+            }
+        },
+        "records/patrons/victor/car": {
+            "name": {
+                "la": "Victor Carthaginensis",
+                "en": "Victor of Carthage",
+                "pl": "Wiktor z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #3",
+                "mr-1956": "14 IX: #7"
+            }
+        },
+        "records/patrons/rosula/car": {
+            "name": {
+                "la": "Rosula Carthaginensis",
+                "en": "Rosula of Carthage",
+                "pl": "Rosula z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #3",
+                "mr-1956": "14 IX: #7"
+            }
+        },
+        "records/patrons/generalis/car": {
+            "name": {
+                "la": "Generalis Carthaginensis",
+                "en": "Generalis of Carthage",
+                "pl": "Generalis z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #3",
+                "mr-1956": "14 IX: #7"
+            }
         }
     },
     "09-16": {

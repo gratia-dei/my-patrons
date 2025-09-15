@@ -687,6 +687,11 @@
             "la": "Cosmas /+ Damianus",
             "pl": "Kosma /+ Damian"
         },
+        "records/patrons/crescentianus/car": {
+            "la": "Crescentianus Carthaginensis",
+            "en": "Crescentianus of Carthage",
+            "pl": "Krescencjan z Kartaginy"
+        },
         "records/patrons/cyprianus/car": {
             "la": "Cyprianus Carthaginensis",
             "en": "Cyprian of Carthage",
@@ -1084,6 +1089,11 @@
             "pl": "Radzim Gaudenty",
             "en": "Radim Gaudentius",
             "la": "Gaudentius seu Radzim"
+        },
+        "records/patrons/generalis/car": {
+            "la": "Generalis Carthaginensis",
+            "en": "Generalis of Carthage",
+            "pl": "Generalis z Kartaginy"
         },
         "records/patrons/georgius/cor": {
             "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
@@ -2674,6 +2684,11 @@
             "la": "Victor I",
             "en": "Victor I",
             "pl": "Wiktor I"
+        },
+        "records/patrons/victor/car": {
+            "la": "Victor Carthaginensis",
+            "en": "Victor of Carthage",
+            "pl": "Wiktor z Kartaginy"
         },
         "records/patrons/victorinus/pet": {
             "it": "Vittorino di Pettau",

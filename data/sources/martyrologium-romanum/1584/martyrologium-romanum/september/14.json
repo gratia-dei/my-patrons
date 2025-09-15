@@ -10,11 +10,11 @@
 
     "3": {
         "page": 283,
-        "la": "In Africa passio sancti [1|Cypriani] ..."
+        "la": "In Africa passio sancti [1|Cypriani] ... iuxta mare. Passi sunt etiam ibidem sancti martyres [2|Crescentianus], [3|Victor], [4|Rosula], et [5|Generalis]."
     },
 
     "4": {
-        "la": "Passi sunt etiam ibidem sancti martyres [todox-1|Crescentianus], [todox-2|Victor], [todox-3|Rosula], et [todo-4|Generalis]."
+        "la": "..."
     },
 
     "5": {
@@ -22,10 +22,6 @@
     },
 
     "6": {
-        "la": "..."
-    },
-
-    "7": {
         "la": "..."
     }
 }

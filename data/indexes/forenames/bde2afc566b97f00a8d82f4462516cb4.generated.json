@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Generalis",
+        "en": "Generalis",
+        "pl": "Generalis"
+    },
+    "translations": {
+        "la": [
+            "Generalis"
+        ],
+        "en": [
+            "Generalis"
+        ],
+        "pl": [
+            "Generalis"
+        ]
+    },
+    "links": {
+        "records/patrons/generalis/car": {
+            "la": "Generalis Carthaginensis",
+            "en": "Generalis of Carthage",
+            "pl": "Generalis z Kartaginy"
+        }
+    }
+}

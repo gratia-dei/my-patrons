@@ -18,6 +18,11 @@
             "la": "Victor I",
             "en": "Victor I",
             "pl": "Wiktor I"
+        },
+        "records/patrons/victor/car": {
+            "la": "Victor Carthaginensis",
+            "en": "Victor of Carthage",
+            "pl": "Wiktor z Kartaginy"
         }
     }
 }

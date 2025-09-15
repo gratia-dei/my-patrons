@@ -488,6 +488,11 @@
         "pl": "Kosma",
         "el": "Κοσμάς"
     },
+    "crescentianus": {
+        "la": "Crescentianus",
+        "en": "Crescentianus",
+        "pl": "Krescencjan"
+    },
     "crispina": {
         "la": "Crispina",
         "en": "Crispina",
@@ -762,6 +767,11 @@
         "en": "Gemma",
         "pl": "Gemma",
         "it": "Gemma"
+    },
+    "generalis": {
+        "la": "Generalis",
+        "en": "Generalis",
+        "pl": "Generalis"
     },
     "genovefa": {
         "la": "Genovefa",
@@ -1602,6 +1612,11 @@
         "en": "Rosalia",
         "pl": "Rozalia",
         "it": "Rosalia"
+    },
+    "rosula": {
+        "la": "Rosula",
+        "en": "Rosula",
+        "pl": "Rosula"
     },
     "rufus": {
         "la": "Rufus",

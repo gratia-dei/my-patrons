@@ -772,6 +772,11 @@
             "la": "Rosalia Panormitana",
             "pl": "Rozalia z Palermo"
         },
+        "records/patrons/rosula/car": {
+            "la": "Rosula Carthaginensis",
+            "en": "Rosula of Carthage",
+            "pl": "Rosula z Kartaginy"
+        },
         "records/patrons/sabigothon/aur": {
             "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
             "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",

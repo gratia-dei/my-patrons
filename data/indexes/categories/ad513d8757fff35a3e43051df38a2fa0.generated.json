@@ -418,6 +418,11 @@
             "la": "Cosmas /+ Damianus",
             "pl": "Kosma /+ Damian"
         },
+        "records/patrons/crescentianus/car": {
+            "la": "Crescentianus Carthaginensis",
+            "en": "Crescentianus of Carthage",
+            "pl": "Krescencjan z Kartaginy"
+        },
         "records/patrons/crispina/tha": {
             "la": "Crispina Thagorensis",
             "en": "Crispina of Numidia",
@@ -666,6 +671,11 @@
             "la": "Gabriel Lalemant",
             "en": "Gabriel Lalemant",
             "pl": "Gabriel Lalemant"
+        },
+        "records/patrons/generalis/car": {
+            "la": "Generalis Carthaginensis",
+            "en": "Generalis of Carthage",
+            "pl": "Generalis z Kartaginy"
         },
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",
@@ -1536,6 +1546,11 @@
             "en": "Rose Kim",
             "pl": "Róża Kim"
         },
+        "records/patrons/rosula/car": {
+            "la": "Rosula Carthaginensis",
+            "en": "Rosula of Carthage",
+            "pl": "Rosula z Kartaginy"
+        },
         "records/patrons/rufus/sim": {
             "la": "Rufus, cum eo, i.a., Simplicius",
             "en": "Rufus; with him, i.a., Simplicius",
@@ -1820,6 +1835,11 @@
             "la": "Victor I",
             "en": "Victor I",
             "pl": "Wiktor I"
+        },
+        "records/patrons/victor/car": {
+            "la": "Victor Carthaginensis",
+            "en": "Victor of Carthage",
+            "pl": "Wiktor z Kartaginy"
         },
         "records/patrons/victoria/ulm": {
             "pl": "Wiktoria Ulma",

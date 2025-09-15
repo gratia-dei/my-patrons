@@ -3,5 +3,10 @@
         "la": "Victor I",
         "en": "Victor I",
         "pl": "Wiktor I"
+    },
+    "car": {
+        "la": "Victor Carthaginensis",
+        "en": "Victor of Carthage",
+        "pl": "Wiktor z Kartaginy"
     }
 }

@@ -2990,6 +2990,26 @@
         ],
         "feasts": []
     },
+    "patrons/crescentianus": {
+        "names": {
+            "la": "Crescentianus",
+            "en": "Crescentianus",
+            "pl": "Krescencjan"
+        }
+    },
+    "patrons/crescentianus/car": {
+        "active": true,
+        "names": {
+            "la": "Crescentianus Carthaginensis",
+            "en": "Crescentianus of Carthage",
+            "pl": "Krescencjan z Kartaginy"
+        },
+        "died": [
+            ">201",
+            "<300"
+        ],
+        "feasts": []
+    },
     "patrons/crispina": {
         "names": {
             "la": "Crispina",
@@ -4520,6 +4540,26 @@
         },
         "died": [
             "1903-04-11"
+        ],
+        "feasts": []
+    },
+    "patrons/generalis": {
+        "names": {
+            "la": "Generalis",
+            "en": "Generalis",
+            "pl": "Generalis"
+        }
+    },
+    "patrons/generalis/car": {
+        "active": true,
+        "names": {
+            "la": "Generalis Carthaginensis",
+            "en": "Generalis of Carthage",
+            "pl": "Generalis z Kartaginy"
+        },
+        "died": [
+            ">201",
+            "<300"
         ],
         "feasts": []
     },
@@ -10393,6 +10433,26 @@
         ],
         "feasts": []
     },
+    "patrons/rosula": {
+        "names": {
+            "la": "Rosula",
+            "en": "Rosula",
+            "pl": "Rosula"
+        }
+    },
+    "patrons/rosula/car": {
+        "active": true,
+        "names": {
+            "la": "Rosula Carthaginensis",
+            "en": "Rosula of Carthage",
+            "pl": "Rosula z Kartaginy"
+        },
+        "died": [
+            ">201",
+            "<300"
+        ],
+        "feasts": []
+    },
     "patrons/rufus": {
         "names": {
             "la": "Rufus",
@@ -11923,6 +11983,19 @@
         "died": [
             ">197",
             "<200"
+        ],
+        "feasts": []
+    },
+    "patrons/victor/car": {
+        "active": true,
+        "names": {
+            "la": "Victor Carthaginensis",
+            "en": "Victor of Carthage",
+            "pl": "Wiktor z Kartaginy"
+        },
+        "died": [
+            ">201",
+            "<300"
         ],
         "feasts": []
     },

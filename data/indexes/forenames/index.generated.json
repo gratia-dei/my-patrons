@@ -1781,6 +1781,10 @@
     "71b497ee6bab22d402ccf3eaeefc26bf": {
         "la": "Eduardus"
     },
+    "72cd50571dea71b5a5242ec2003e1a45": {
+        "la": "Crescentianus",
+        "en": "Crescentianus"
+    },
     "73638d97980a98359423cc7cd5b83c3e": {
         "la": "Maurus",
         "en": "Maurus"
@@ -2664,6 +2668,11 @@
     "a9d4b4f5e663ce1431e7f203376166cb": {
         "pl": "Ryta"
     },
+    "a9d74d097289cabcf5ad62de237795bc": {
+        "la": "Rosula",
+        "en": "Rosula",
+        "pl": "Rosula"
+    },
     "aa016decf05ecd895a836046044e4945": {
         "la": "Isidorus"
     },
@@ -3032,6 +3041,11 @@
     "bdd382245bcf2a055fbc5aefc6ae5dd1": {
         "la": "Proclus",
         "en": "Proclus"
+    },
+    "bde2afc566b97f00a8d82f4462516cb4": {
+        "la": "Generalis",
+        "en": "Generalis",
+        "pl": "Generalis"
     },
     "be1ae2eeeca8fb8302aed56fb0a6019d": {
         "la": "Rita",
@@ -3858,6 +3872,9 @@
     "f4394bbd2bb1effe9ea1991e26a0bc78": {
         "pl": "Klemens",
         "de": "Klemens"
+    },
+    "f4b1085dafba3504b425296f77fad3f6": {
+        "pl": "Krescencjan"
     },
     "f4db62a6ccef5c90c8e7a000ea0a5288": {
         "la": "Gregorius"

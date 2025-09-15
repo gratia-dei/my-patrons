@@ -4,7 +4,11 @@
             "1": "records/god/fil#exa"
         },
         "3": {
-            "1": "records/patrons/cyprianus/car"
+            "1": "records/patrons/cyprianus/car",
+            "2": "records/patrons/crescentianus/car",
+            "3": "records/patrons/victor/car",
+            "4": "records/patrons/rosula/car",
+            "5": "records/patrons/generalis/car"
         }
     }
 }
