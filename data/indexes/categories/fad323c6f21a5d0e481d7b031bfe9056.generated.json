@@ -203,6 +203,11 @@
             "en": "Apollonia of Alexandria",
             "pl": "Apolonia z Aleksandrii"
         },
+        "records/patrons/aquilinus/sci": {
+            "la": "Aquilinus de Scillium",
+            "en": "Aquilinus of Scillium",
+            "pl": "Akwilin ze Scilium"
+        },
         "records/patrons/aristarchus/the": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",

@@ -3323,6 +3323,19 @@
         }
     },
     "07-17": {
+        "records/patrons/aquilinus/sci": {
+            "name": {
+                "la": "Aquilinus de Scillium",
+                "en": "Aquilinus of Scillium",
+                "pl": "Akwilin ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
+        },
         "records/patrons/cittinus/sci": {
             "name": {
                 "la": "Cittinus de Scillium",

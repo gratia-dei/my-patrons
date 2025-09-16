@@ -338,6 +338,11 @@
             "en": "Anthony Mary Zaccaria",
             "pl": "Antoni Maria Zaccaria"
         },
+        "records/patrons/aquilinus/sci": {
+            "la": "Aquilinus de Scillium",
+            "en": "Aquilinus of Scillium",
+            "pl": "Akwilin ze Scilium"
+        },
         "records/patrons/aristarchus/the": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
             "en": "Aristarchus of Thessalonica",

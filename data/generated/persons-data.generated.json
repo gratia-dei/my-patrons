@@ -1533,6 +1533,33 @@
         ],
         "feasts": []
     },
+    "patrons/aquilinus": {
+        "names": {
+            "la": "Aquilinus",
+            "en": "Aquilinus",
+            "pl": "Akwilin"
+        }
+    },
+    "patrons/aquilinus/sci": {
+        "active": true,
+        "names": {
+            "la": "Aquilinus de Scillium",
+            "en": "Aquilinus of Scillium",
+            "pl": "Akwilin ze Scilium"
+        },
+        "died": [
+            "180-07-17"
+        ],
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
+    },
     "patrons/aristarchus": {
         "names": {
             "la": "Aristarchus",
