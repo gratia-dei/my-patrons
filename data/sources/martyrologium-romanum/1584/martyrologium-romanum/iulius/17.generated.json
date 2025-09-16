@@ -3,8 +3,10 @@
         "2": {
             "1": "records/patrons/speratus/sci",
             "2": "records/patrons/nartzales/sci",
+            "3": "records/patrons/cittinus/sci",
             "13": "records/patrons/speratus/sci#tms",
             "14": "records/patrons/nartzales/sci#tms",
+            "15": "records/patrons/cittinus/sci#tms",
             "25": "records/patrons/cyprianus/car#tms",
             "26": "records/patrons/pantaleon/nic#tms"
         }

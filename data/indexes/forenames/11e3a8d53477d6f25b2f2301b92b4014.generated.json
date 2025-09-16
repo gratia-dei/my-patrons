@@ -1,0 +1,25 @@
+{
+    "names": {
+        "en": "Cintinus"
+    },
+    "translations": {
+        "la": [
+            "Cittinus",
+            "Cythinus"
+        ],
+        "en": [
+            "Cittinus",
+            "Cintinus"
+        ],
+        "pl": [
+            "Cytyn"
+        ]
+    },
+    "links": {
+        "records/patrons/cittinus/sci": {
+            "la": "Cittinus de Scillium",
+            "en": "Cittinus of Scillium",
+            "pl": "Cytyn ze Scilium"
+        }
+    }
+}

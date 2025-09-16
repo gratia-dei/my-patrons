@@ -400,6 +400,11 @@
             "en": "Chrysanthus /+ Daria",
             "pl": "Chryzant /+ Daria"
         },
+        "records/patrons/cittinus/sci": {
+            "la": "Cittinus de Scillium",
+            "en": "Cittinus of Scillium",
+            "pl": "Cytyn ze Scilium"
+        },
         "records/patrons/clemens/aga": {
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",

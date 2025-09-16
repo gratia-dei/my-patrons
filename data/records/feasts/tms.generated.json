@@ -1,5 +1,10 @@
 {
     "links": {
+        "records/patrons/cittinus/sci": {
+            "la": "Cittinus de Scillium",
+            "en": "Cittinus of Scillium",
+            "pl": "Cytyn ze Scilium"
+        },
         "records/patrons/cyprianus/car": {
             "la": "Cyprianus Carthaginensis",
             "en": "Cyprian of Carthage",
