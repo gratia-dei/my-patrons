@@ -9384,6 +9384,40 @@
         ],
         "feasts": []
     },
+    "patrons/pantaleon": {
+        "names": {
+            "la": "Pantaleon",
+            "en": "Pantaleon",
+            "pl": "Pantaleon"
+        }
+    },
+    "patrons/pantaleon/nic": {
+        "active": true,
+        "names": {
+            "la": "Pantaleon de Nicomedia",
+            "en": "Pantaleon of Nicomedia",
+            "pl": "Pantaleon z Nikomedii"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            },
+            "feasts/tss": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
+    },
     "patrons/paphnutius": {
         "names": {
             "la": "Paphnutius",

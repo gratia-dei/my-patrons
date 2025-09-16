@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Pantelejmon"
+    },
+    "translations": {
+        "la": [
+            "Pantalaimon"
+        ],
+        "en": [
+            "Panteleimon"
+        ],
+        "pl": [
+            "Pantelejmon"
+        ]
+    },
+    "links": {
+        "records/patrons/pantaleon/nic": {
+            "la": "Pantaleon de Nicomedia",
+            "en": "Pantaleon of Nicomedia",
+            "pl": "Pantaleon z Nikomedii"
+        }
+    }
+}

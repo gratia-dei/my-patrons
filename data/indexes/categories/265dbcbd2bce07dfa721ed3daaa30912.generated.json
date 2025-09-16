@@ -1423,6 +1423,11 @@
             "en": "Pancras of Rome",
             "pl": "Pankracy z Rzymu"
         },
+        "records/patrons/pantaleon/nic": {
+            "la": "Pantaleon de Nicomedia",
+            "en": "Pantaleon of Nicomedia",
+            "pl": "Pantaleon z Nikomedii"
+        },
         "records/patrons/paulus/apo": {
             "he": "שָׁאוּל התרס",
             "la": "Paulus Tersensis",

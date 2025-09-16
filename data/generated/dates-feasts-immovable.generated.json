@@ -693,10 +693,28 @@
                 "mr-1584": "17 VII: #2"
             }
         },
+        "records/patrons/pantaleon/nic#tms": {
+            "name": {
+                "la": "Pantaleon de Nicomedia (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "pl": "Pantaleon z Nikomedii (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "17 VII: #2"
+            }
+        },
         "records/patrons/cyprianus/car#tss": {
             "name": {
                 "la": "Cyprianus Carthaginensis (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
                 "pl": "Cyprian z Kartaginy (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
+            },
+            "sources": {
+                "mr-1956": "17 VII: #2"
+            }
+        },
+        "records/patrons/pantaleon/nic#tss": {
+            "name": {
+                "la": "Pantaleon de Nicomedia (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "pl": "Pantaleon z Nikomedii (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
                 "mr-1956": "17 VII: #2"

@@ -53,6 +53,11 @@
             "en": "Martin de Porres",
             "pl": "Marcin de Porres"
         },
+        "records/patrons/pantaleon/nic": {
+            "la": "Pantaleon de Nicomedia",
+            "en": "Pantaleon of Nicomedia",
+            "pl": "Pantaleon z Nikomedii"
+        },
         "records/patrons/renatus/gou": {
             "fr": "René Goupil",
             "la": "Renatus Goupil",

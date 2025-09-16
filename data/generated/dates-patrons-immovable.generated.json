@@ -3654,6 +3654,18 @@
                 "mr-1956": "27 VII: #4",
                 "mr-2004": "27 VII: #10"
             }
+        },
+        "records/patrons/pantaleon/nic": {
+            "name": {
+                "la": "Pantaleon de Nicomedia",
+                "en": "Pantaleon of Nicomedia",
+                "pl": "Pantaleon z Nikomedii"
+            },
+            "sources": {
+                "mr-1584": "27 VII: #1",
+                "mr-1956": "27 VII: #1",
+                "mr-2004": "27 VII: #2"
+            }
         }
     },
     "07-28": {

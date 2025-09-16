@@ -2096,6 +2096,11 @@
             "en": "Pancras of Rome",
             "pl": "Pankracy z Rzymu"
         },
+        "records/patrons/pantaleon/nic": {
+            "la": "Pantaleon de Nicomedia",
+            "en": "Pantaleon of Nicomedia",
+            "pl": "Pantaleon z Nikomedii"
+        },
         "records/patrons/paphnutius/epi": {
             "la": "Paphnutius Thebanus",
             "en": "Paphnutius of Thebes",
