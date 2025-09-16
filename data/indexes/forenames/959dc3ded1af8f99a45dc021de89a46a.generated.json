@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Sekunda"
+    },
+    "translations": {
+        "la": [
+            "Secunda"
+        ],
+        "en": [
+            "Secunda"
+        ],
+        "pl": [
+            "Sekunda"
+        ]
+    },
+    "links": {
+        "records/patrons/secunda/sci": {
+            "la": "Secunda de Scillium",
+            "en": "Secunda of Scillium",
+            "pl": "Sekunda ze Scilium"
+        }
+    }
+}

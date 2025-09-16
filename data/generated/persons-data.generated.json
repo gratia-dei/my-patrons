@@ -11033,6 +11033,33 @@
         ],
         "feasts": []
     },
+    "patrons/secunda": {
+        "names": {
+            "la": "Secunda",
+            "en": "Secunda",
+            "pl": "Sekunda"
+        }
+    },
+    "patrons/secunda/sci": {
+        "active": true,
+        "names": {
+            "la": "Secunda de Scillium",
+            "en": "Secunda of Scillium",
+            "pl": "Sekunda ze Scilium"
+        },
+        "died": [
+            "180-07-17"
+        ],
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
+    },
     "patrons/secundinus": {
         "names": {
             "la": "Secundinus",
