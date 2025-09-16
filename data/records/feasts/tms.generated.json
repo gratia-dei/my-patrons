@@ -20,6 +20,11 @@
             "en": "Felix of Scillium",
             "pl": "Feliks ze Scilium"
         },
+        "records/patrons/laetantius/sci": {
+            "la": "Laetantius de Scillium",
+            "en": "Laetantius of Scillium",
+            "pl": "Letancjusz ze Scilium"
+        },
         "records/patrons/nartzales/sci": {
             "la": "Nartzales de Scillium",
             "en": "Nartzalus of Scillium",

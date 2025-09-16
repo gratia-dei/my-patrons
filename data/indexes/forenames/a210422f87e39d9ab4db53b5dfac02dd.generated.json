@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "Letancjusz"
+    },
+    "translations": {
+        "la": [
+            "Laetantius",
+            "Laetatius"
+        ],
+        "en": [
+            "Laetantius"
+        ],
+        "pl": [
+            "Letancjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/laetantius/sci": {
+            "la": "Laetantius de Scillium",
+            "en": "Laetantius of Scillium",
+            "pl": "Letancjusz ze Scilium"
+        }
+    }
+}

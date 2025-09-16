@@ -1743,6 +1743,11 @@
             "la": "Ladislaus de Gielniów",
             "en": "Ladislaus of Gielniów"
         },
+        "records/patrons/laetantius/sci": {
+            "la": "Laetantius de Scillium",
+            "en": "Laetantius of Scillium",
+            "pl": "Letancjusz ze Scilium"
+        },
         "records/patrons/largus/aqu": {
             "it": "Largo da Aquileia",
             "la": "Largus de Aquileia",
