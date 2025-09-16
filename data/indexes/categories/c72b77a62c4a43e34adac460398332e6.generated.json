@@ -2510,6 +2510,11 @@
             "en": "Simplicius; with him, i.a., Faustinus",
             "pl": "Symplicjusz; z nim, m.in. Faustyn"
         },
+        "records/patrons/speratus/sci": {
+            "la": "Speratus de Scillium",
+            "en": "Speratus of Scillium",
+            "pl": "Sperat ze Scilium"
+        },
         "records/patrons/stanislaus/cas": {
             "pl": "Stanisław Kazimierczyk",
             "la": "Stanislaus Kazimierczyk",

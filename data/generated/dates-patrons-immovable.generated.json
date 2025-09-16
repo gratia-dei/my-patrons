@@ -3334,6 +3334,19 @@
                 "reliable-death-anniversary": "17 VII",
                 "mr-2004": "17 VII: #13"
             }
+        },
+        "records/patrons/speratus/sci": {
+            "name": {
+                "la": "Speratus de Scillium",
+                "en": "Speratus of Scillium",
+                "pl": "Sperat ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
         }
     },
     "07-18": {

@@ -1,6 +1,8 @@
 {
     "data-links": {
         "2": {
+            "1": "records/patrons/speratus/sci",
+            "13": "records/patrons/speratus/sci#tss",
             "14": "records/patrons/cyprianus/car#tss",
             "15": "records/patrons/pantaleon/nic#tss"
         }

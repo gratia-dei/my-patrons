@@ -11225,6 +11225,40 @@
         ],
         "feasts": []
     },
+    "patrons/speratus": {
+        "names": {
+            "la": "Speratus",
+            "en": "Speratus",
+            "pl": "Sperat"
+        }
+    },
+    "patrons/speratus/sci": {
+        "active": true,
+        "names": {
+            "la": "Speratus de Scillium",
+            "en": "Speratus of Scillium",
+            "pl": "Sperat ze Scilium"
+        },
+        "died": [
+            "180-07-17"
+        ],
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            },
+            "feasts/tss": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
+    },
     "patrons/stanislaus": {
         "names": {
             "la": "Stanislaus",

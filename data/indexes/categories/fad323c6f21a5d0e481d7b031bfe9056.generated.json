@@ -1687,6 +1687,11 @@
             "en": "Sophia of Fermo",
             "pl": "Zofia z Fermo"
         },
+        "records/patrons/speratus/sci": {
+            "la": "Speratus de Scillium",
+            "en": "Speratus of Scillium",
+            "pl": "Sperat ze Scilium"
+        },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",

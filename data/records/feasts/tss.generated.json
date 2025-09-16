@@ -9,6 +9,11 @@
             "la": "Pantaleon de Nicomedia",
             "en": "Pantaleon of Nicomedia",
             "pl": "Pantaleon z Nikomedii"
+        },
+        "records/patrons/speratus/sci": {
+            "la": "Speratus de Scillium",
+            "en": "Speratus of Scillium",
+            "pl": "Sperat ze Scilium"
         }
     }
 }

@@ -1,0 +1,71 @@
+{
+    "names": {
+        "la": [
+            "Speratus de Scillium"
+        ],
+        "en": [
+            "Speratus of Scillium"
+        ],
+        "pl": [
+            "Sperat ze Scilium"
+        ]
+    },
+    "forenames": ["speratus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["180-07-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./17#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/17#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tms": {
+            "data-links": {
+                "mr-1584": ["13:Iul./17#2"],
+                "mr-1584-movable": [],
+
+                "mr-1956": [],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+
+        "tss": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["13:Julii/17#2"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73670",
+        "wiki": "https://en.wikipedia.org/wiki/Scillitan_Martyrs"
+    }
+}
