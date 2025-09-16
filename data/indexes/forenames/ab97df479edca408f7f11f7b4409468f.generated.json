@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Beturius"
+    },
+    "translations": {
+        "la": [
+            "Veturius",
+            "Beturius"
+        ],
+        "en": [
+            "Veturius"
+        ],
+        "pl": [
+            "Weturiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/veturius/sci": {
+            "la": "Veturius de Scillium",
+            "en": "Veturius of Scillium",
+            "pl": "Weturiusz ze Scilium"
+        }
+    }
+}

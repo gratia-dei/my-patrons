@@ -2710,6 +2710,11 @@
             "en": "Valerian of Abbenza",
             "pl": "Walerian z Abbenzy"
         },
+        "records/patrons/veturius/sci": {
+            "la": "Veturius de Scillium",
+            "en": "Veturius of Scillium",
+            "pl": "Weturiusz ze Scilium"
+        },
         "records/patrons/victor/1pp": {
             "la": "Victor I",
             "en": "Victor I",

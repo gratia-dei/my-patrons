@@ -12145,6 +12145,33 @@
         ],
         "feasts": []
     },
+    "patrons/veturius": {
+        "names": {
+            "la": "Veturius",
+            "en": "Veturius",
+            "pl": "Weturiusz"
+        }
+    },
+    "patrons/veturius/sci": {
+        "active": true,
+        "names": {
+            "la": "Veturius de Scillium",
+            "en": "Veturius of Scillium",
+            "pl": "Weturiusz ze Scilium"
+        },
+        "died": [
+            "180-07-17"
+        ],
+        "feasts": {
+            "feasts/tms": {
+                "active": true,
+                "names": {
+                    "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
+                }
+            }
+        }
+    },
     "patrons/viatrix": {
         "names": {
             "la": "Viatrix",

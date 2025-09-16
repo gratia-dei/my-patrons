@@ -24,6 +24,11 @@
             "la": "Speratus de Scillium",
             "en": "Speratus of Scillium",
             "pl": "Sperat ze Scilium"
+        },
+        "records/patrons/veturius/sci": {
+            "la": "Veturius de Scillium",
+            "en": "Veturius of Scillium",
+            "pl": "Weturiusz ze Scilium"
         }
     }
 }
