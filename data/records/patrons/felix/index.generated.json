@@ -29,5 +29,10 @@
         "la": "Felix de Roma",
         "en": "Felix of Rome",
         "pl": "Feliks z Rzymu"
+    },
+    "sci": {
+        "la": "Felix de Scillium",
+        "en": "Felix of Scillium",
+        "pl": "Feliks ze Scilium"
     }
 }

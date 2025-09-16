@@ -983,6 +983,11 @@
             "en": "Felix of Rome",
             "pl": "Feliks z Rzymu"
         },
+        "records/patrons/felix/sci": {
+            "la": "Felix de Scillium",
+            "en": "Felix of Scillium",
+            "pl": "Feliks ze Scilium"
+        },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
             "en": "Fidelis of Sigmaringen",

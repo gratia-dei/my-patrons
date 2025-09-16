@@ -3336,6 +3336,19 @@
                 "mr-2004": "17 VII: #1"
             }
         },
+        "records/patrons/felix/sci": {
+            "name": {
+                "la": "Felix de Scillium",
+                "en": "Felix of Scillium",
+                "pl": "Feliks ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
+        },
         "records/patrons/hedwigis/hun": {
             "name": {
                 "hu": "Anjou Hedvig",
