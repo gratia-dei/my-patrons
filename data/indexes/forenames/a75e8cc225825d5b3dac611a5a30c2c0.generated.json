@@ -4,13 +4,16 @@
     },
     "translations": {
         "la": [
-            "Secundulus"
+            "Secundulus",
+            "Secundolus"
         ],
         "en": [
-            "Secundulus"
+            "Secundulus",
+            "Secundolus"
         ],
         "pl": [
-            "Sekundulus"
+            "Sekundulus",
+            "Sekundolus"
         ]
     },
     "links": {

@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Nartales"
+    },
+    "translations": {
+        "la": [
+            "Nartzales",
+            "Narzales",
+            "Nartales"
+        ],
+        "en": [
+            "Nartzalus",
+            "Narzalus",
+            "nartalus"
+        ],
+        "pl": [
+            "Nartzal",
+            "Narzal",
+            "Nartal"
+        ]
+    },
+    "links": {
+        "records/patrons/nartzales/sci": {
+            "la": "Nartzales de Scillium",
+            "en": "Nartzalus of Scillium",
+            "pl": "Nartzal ze Scilium"
+        }
+    }
+}

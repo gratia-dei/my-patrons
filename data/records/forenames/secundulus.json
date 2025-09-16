@@ -1,7 +1,7 @@
 {
     "names": {
-        "la": "Secundulus",
-        "en": "Secundulus",
-        "pl": "Sekundulus"
+        "la": ["Secundulus", "Secundolus"],
+        "en": ["Secundulus", "Secundolus"],
+        "pl": ["Sekundulus", "Sekundolus"]
     }
 }

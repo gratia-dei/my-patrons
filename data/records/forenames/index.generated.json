@@ -1670,6 +1670,11 @@
         "en": "Narcissus",
         "pl": "Narcyz"
     },
+    "nartzales": {
+        "la": "Nartzales",
+        "en": "Nartzalus",
+        "pl": "Nartzal"
+    },
     "natalia": {
         "la": "Natalia",
         "en": "Natalie",
@@ -2062,11 +2067,6 @@
         "la": "Secundinus",
         "en": "Secundinus",
         "pl": "Sekundyn"
-    },
-    "secundolus": {
-        "la": "Secundolus",
-        "en": "Secundolus",
-        "pl": "Sekundolus"
     },
     "secundulus": {
         "la": "Secundulus",
