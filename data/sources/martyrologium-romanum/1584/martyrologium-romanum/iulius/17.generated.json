@@ -11,6 +11,7 @@
             "8": "records/patrons/ianuaria/sci",
             "9": "records/patrons/generosa/sci",
             "10": "records/patrons/vestia/sci",
+            "11": "records/patrons/donata/sci",
             "13": "records/patrons/speratus/sci#tms",
             "14": "records/patrons/nartzales/sci#tms",
             "15": "records/patrons/cittinus/sci#tms",
@@ -21,6 +22,7 @@
             "20": "records/patrons/ianuaria/sci#tms",
             "21": "records/patrons/generosa/sci#tms",
             "22": "records/patrons/vestia/sci#tms",
+            "23": "records/patrons/donata/sci#tms",
             "25": "records/patrons/cyprianus/car#tms",
             "26": "records/patrons/pantaleon/nic#tms"
         }

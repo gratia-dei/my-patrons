@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Donata",
+        "en": "Donata",
+        "pl": "Donata"
+    },
+    "translations": {
+        "la": [
+            "Donata"
+        ],
+        "en": [
+            "Donata"
+        ],
+        "pl": [
+            "Donata"
+        ]
+    },
+    "links": {
+        "records/patrons/donata/sci": {
+            "la": "Donata de Scillium",
+            "en": "Donata of Scillium",
+            "pl": "Donata ze Scilium"
+        }
+    }
+}

@@ -3349,6 +3349,19 @@
                 "mr-2004": "17 VII: #1"
             }
         },
+        "records/patrons/donata/sci": {
+            "name": {
+                "la": "Donata de Scillium",
+                "en": "Donata of Scillium",
+                "pl": "Donata ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
+        },
         "records/patrons/felix/sci": {
             "name": {
                 "la": "Felix de Scillium",
