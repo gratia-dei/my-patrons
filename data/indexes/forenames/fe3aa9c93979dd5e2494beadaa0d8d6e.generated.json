@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Generoza"
+    },
+    "translations": {
+        "la": [
+            "Generosa"
+        ],
+        "en": [
+            "Generosa"
+        ],
+        "pl": [
+            "Generoza"
+        ]
+    },
+    "links": {
+        "records/patrons/generosa/sci": {
+            "la": "Generosa de Scillium",
+            "en": "Generosa of Scillium",
+            "pl": "Generoza ze Scilium"
+        }
+    }
+}

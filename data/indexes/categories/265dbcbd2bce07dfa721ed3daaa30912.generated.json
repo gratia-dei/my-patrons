@@ -702,6 +702,11 @@
             "en": "Generalis of Carthage",
             "pl": "Generalis z Kartaginy"
         },
+        "records/patrons/generosa/sci": {
+            "la": "Generosa de Scillium",
+            "en": "Generosa of Scillium",
+            "pl": "Generoza ze Scilium"
+        },
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",
             "be": "Юрый Кашыра",
