@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Bessia"
+    },
+    "translations": {
+        "la": [
+            "Vestia",
+            "Vestina",
+            "Bessia"
+        ],
+        "en": [
+            "Vestia",
+            "Vestina"
+        ],
+        "pl": [
+            "Westia",
+            "Westina"
+        ]
+    },
+    "links": {
+        "records/patrons/vestia/sci": {
+            "la": "Vestia de Scillium",
+            "en": "Vestia of Scillium",
+            "pl": "Westia ze Scilium"
+        }
+    }
+}

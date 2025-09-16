@@ -765,6 +765,15 @@
                 "mr-1584": "17 VII: #2"
             }
         },
+        "records/patrons/vestia/sci#tms": {
+            "name": {
+                "la": "Vestia de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "pl": "Westia ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "17 VII: #2"
+            }
+        },
         "records/patrons/cyprianus/car#tms": {
             "name": {
                 "la": "Cyprianus Carthaginensis (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",

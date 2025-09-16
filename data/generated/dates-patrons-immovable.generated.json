@@ -3439,6 +3439,19 @@
                 "mr-2004": "17 VII: #1"
             }
         },
+        "records/patrons/vestia/sci": {
+            "name": {
+                "la": "Vestia de Scillium",
+                "en": "Vestia of Scillium",
+                "pl": "Westia ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
+        },
         "records/patrons/veturius/sci": {
             "name": {
                 "la": "Veturius de Scillium",

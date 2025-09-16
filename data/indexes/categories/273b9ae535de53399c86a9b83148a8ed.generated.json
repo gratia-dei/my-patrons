@@ -903,6 +903,11 @@
             "en": "Veronica",
             "pl": "Weronika"
         },
+        "records/patrons/vestia/sci": {
+            "la": "Vestia de Scillium",
+            "en": "Vestia of Scillium",
+            "pl": "Westia ze Scilium"
+        },
         "records/patrons/viatrix/sim": {
             "la": "Viatrix, cum ea, i.a., Simplicius",
             "en": "Viatrice; with her, i.a., Simplicius",
