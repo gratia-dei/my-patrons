@@ -782,6 +782,11 @@
             "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
             "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
         },
+        "records/patrons/sallustia/rom": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
+        },
         "records/patrons/salomea/reg": {
             "pl": "Salomea Piastówna",
             "en": "Salomea of the Poland",

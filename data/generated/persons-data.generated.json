@@ -2377,6 +2377,27 @@
         ],
         "feasts": []
     },
+    "patrons/caerealis": {
+        "names": {
+            "la": "Caerealis",
+            "en": "Cereal",
+            "pl": "Cerealis"
+        }
+    },
+    "patrons/caerealis/rom": {
+        "active": true,
+        "names": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
+        "died": [
+            "~251",
+            ">253-06-01",
+            "<253-06-30"
+        ],
+        "feasts": []
+    },
     "patrons/caesarius": {
         "names": {
             "la": "Caesarius",
@@ -8987,6 +9008,20 @@
         ],
         "feasts": []
     },
+    "patrons/multi/rvu": {
+        "active": true,
+        "names": {
+            "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
+            "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
+            "pl": "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
+        },
+        "died": [
+            "~251",
+            ">253-06-01",
+            "<253-06-30"
+        ],
+        "feasts": []
+    },
     "patrons/multi/sad": {
         "active": true,
         "names": {
@@ -10583,6 +10618,27 @@
         },
         "died": [
             "~1260"
+        ],
+        "feasts": []
+    },
+    "patrons/sallustia": {
+        "names": {
+            "la": "Sallustia",
+            "en": "Salustia",
+            "pl": "Salustia"
+        }
+    },
+    "patrons/sallustia/rom": {
+        "active": true,
+        "names": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
+        },
+        "died": [
+            "~251",
+            ">253-06-01",
+            "<253-06-30"
         ],
         "feasts": []
     },

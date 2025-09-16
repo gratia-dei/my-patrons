@@ -20,6 +20,11 @@
             "la": "Bertoldus de Calabria",
             "pl": "Bertold z Kalabrii"
         },
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
         "records/patrons/eleutherius/nic": {
             "la": "Eleutherius de Nicomedia",
             "en": "Eleutherius of Nicomedia",

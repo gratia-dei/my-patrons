@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "Caerealis"
+    },
+    "translations": {
+        "la": [
+            "Caerealis"
+        ],
+        "en": [
+            "Cereal"
+        ],
+        "pl": [
+            "Cerealis"
+        ]
+    },
+    "links": {
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        }
+    }
+}

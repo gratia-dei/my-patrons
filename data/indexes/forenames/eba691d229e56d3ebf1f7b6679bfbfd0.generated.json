@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "Sallustia"
+    },
+    "translations": {
+        "la": [
+            "Sallustia"
+        ],
+        "en": [
+            "Salustia"
+        ],
+        "pl": [
+            "Salustia"
+        ]
+    },
+    "links": {
+        "records/patrons/sallustia/rom": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
+        }
+    }
+}

@@ -548,6 +548,11 @@
             "la": "Bruno Cartusiensis",
             "pl": "Bruno Kartuz"
         },
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
         "records/patrons/caesarius/are": {
             "la": "Caesarius Arelatensis",
             "pl": "Cezary z Arles",

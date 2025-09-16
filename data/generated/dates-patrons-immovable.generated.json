@@ -4659,6 +4659,39 @@
                 "mr-2004": "14 IX: #2"
             }
         },
+        "records/patrons/multi/rvu": {
+            "name": {
+                "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
+                "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
+                "pl": "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #2",
+                "mr-1956": "14 IX: #2"
+            }
+        },
+        "records/patrons/caerealis/rom": {
+            "name": {
+                "la": "Caerealis de Roma",
+                "en": "Cereal of Rome",
+                "pl": "Cerealis z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #2",
+                "mr-1956": "14 IX: #2"
+            }
+        },
+        "records/patrons/sallustia/rom": {
+            "name": {
+                "la": "Sallustia de Roma",
+                "en": "Salustia of Rome",
+                "pl": "Salustia z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "14 IX: #2",
+                "mr-1956": "14 IX: #2"
+            }
+        },
         "records/patrons/crescentianus/car": {
             "name": {
                 "la": "Crescentianus Carthaginensis",

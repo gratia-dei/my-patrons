@@ -24,6 +24,11 @@
             "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
             "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
         "records/patrons/chrysanthus/dar": {
             "la": "Chrysanthus /+ Daria",
             "en": "Chrysanthus /+ Daria",
@@ -78,6 +83,11 @@
             "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
             "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
             "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
+        },
+        "records/patrons/sallustia/rom": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
         },
         "records/patrons/salomea/reg": {
             "pl": "Salomea Piastówna",

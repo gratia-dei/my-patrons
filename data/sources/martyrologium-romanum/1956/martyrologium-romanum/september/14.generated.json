@@ -4,7 +4,10 @@
             "1": "records/god/fil#exa"
         },
         "2": {
-            "1": "records/patrons/cornelius/1pp"
+            "1": "records/patrons/cornelius/1pp",
+            "2": "records/patrons/multi/rvu",
+            "3": "records/patrons/caerealis/rom",
+            "4": "records/patrons/sallustia/rom"
         },
         "7": {
             "1": "records/patrons/crescentianus/car",

@@ -459,6 +459,11 @@
         "en": "Celestine",
         "pl": "Celestyna"
     },
+    "caerealis": {
+        "la": "Caerealis",
+        "en": "Cereal",
+        "pl": "Cerealis"
+    },
     "caesarius": {
         "la": "Caesarius",
         "en": "Caesarius",
@@ -2001,6 +2006,11 @@
         "la": "Sadochus",
         "en": "Sadok",
         "pl": "Sadok"
+    },
+    "sallustia": {
+        "la": "Sallustia",
+        "en": "Salustia",
+        "pl": "Salustia"
     },
     "salomea": {
         "la": "Salomea",

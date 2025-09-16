@@ -313,6 +313,11 @@
             "en": "Celestine Faron",
             "la": "Caelestina Faron"
         },
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
         "records/patrons/caesarius/tar": {
             "it": "Cesario di Terracina",
             "en": "Caesarius of Terracina",
@@ -1362,6 +1367,11 @@
             "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
             "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
         },
+        "records/patrons/multi/rvu": {
+            "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
+            "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
+            "pl": "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
+        },
         "records/patrons/multi/sad": {
             "pl": "Towarzysze Sadoka z Sandomierza",
             "la": "Sociorum Sadochii de Sandomierz",
@@ -1576,6 +1586,11 @@
             "pl": "Sadok z Sandomierza",
             "la": "Sadochus de Sandomierz",
             "en": "Sadok of Sandomierz"
+        },
+        "records/patrons/sallustia/rom": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
         },
         "records/patrons/saturninus/car": {
             "la": "Saturninus Carthaginensis",
