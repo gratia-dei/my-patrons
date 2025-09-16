@@ -20,6 +20,11 @@
             "en": "Felix of Scillium",
             "pl": "Feliks ze Scilium"
         },
+        "records/patrons/ianuaria/sci": {
+            "la": "Ianuaria de Scillium",
+            "en": "Januaria of Scillium",
+            "pl": "Januaria ze Scilium"
+        },
         "records/patrons/laetantius/sci": {
             "la": "Laetantius de Scillium",
             "en": "Laetantius of Scillium",

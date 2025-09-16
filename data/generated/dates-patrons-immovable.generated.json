@@ -3374,6 +3374,19 @@
                 "mr-2004": "17 VII: #13"
             }
         },
+        "records/patrons/ianuaria/sci": {
+            "name": {
+                "la": "Ianuaria de Scillium",
+                "en": "Januaria of Scillium",
+                "pl": "Januaria ze Scilium"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 VII",
+                "mr-1584": "17 VII: #2",
+                "mr-1956": "17 VII: #2",
+                "mr-2004": "17 VII: #1"
+            }
+        },
         "records/patrons/laetantius/sci": {
             "name": {
                 "la": "Laetantius de Scillium",

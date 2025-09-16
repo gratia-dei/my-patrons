@@ -795,6 +795,11 @@
             "en": "James the Less Apostle",
             "pl": "Jakub Mniejszy Apostoł"
         },
+        "records/patrons/ianuaria/sci": {
+            "la": "Ianuaria de Scillium",
+            "en": "Januaria of Scillium",
+            "pl": "Januaria ze Scilium"
+        },
         "records/patrons/ianuarius/ben": {
             "la": "Ianuarius Beneventanus",
             "en": "Januarius of Benevento",

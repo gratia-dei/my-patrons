@@ -1,0 +1,26 @@
+{
+    "names": {
+        "la": "Januaria",
+        "en": "Januaria",
+        "pl": "Januaria"
+    },
+    "translations": {
+        "la": [
+            "Ianuaria",
+            "Januaria"
+        ],
+        "en": [
+            "Januaria"
+        ],
+        "pl": [
+            "Januaria"
+        ]
+    },
+    "links": {
+        "records/patrons/ianuaria/sci": {
+            "la": "Ianuaria de Scillium",
+            "en": "Januaria of Scillium",
+            "pl": "Januaria ze Scilium"
+        }
+    }
+}
