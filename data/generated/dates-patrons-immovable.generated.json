@@ -4656,6 +4656,21 @@
             }
         }
     },
+    "09-01": {
+        "records/patrons/aegidius/abb": {
+            "name": {
+                "fr": "Gilles l'Ermite",
+                "la": "Aegidius Abbas",
+                "en": "Giles the Hermit",
+                "pl": "Idzi Eremita"
+            },
+            "sources": {
+                "mr-1584": "1 IX: #1",
+                "mr-1956": "1 IX: #1",
+                "mr-2004": "1 IX: #9"
+            }
+        }
+    },
     "09-05": {
         "records/patrons/teresia/gon": {
             "name": {
