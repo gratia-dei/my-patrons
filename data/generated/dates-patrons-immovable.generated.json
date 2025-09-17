@@ -4672,6 +4672,17 @@
         }
     },
     "09-02": {
+        "records/patrons/andreas/alr": {
+            "name": {
+                "fr": "André-Abel Alricy",
+                "la": "Andreas Abel Alricy",
+                "en": "Andrew Abel Alricy",
+                "pl": "Andrzej Abel Alricy"
+            },
+            "sources": {
+                "feast": "2 IX"
+            }
+        },
         "records/patrons/antoninus/apa": {
             "name": {
                 "la": "Antoninus de Apamea",
@@ -4682,6 +4693,20 @@
                 "mr-1584": "2 IX: #2",
                 "mr-1956": "2 IX: #3",
                 "mr-2004": "2 IX: #4"
+            }
+        }
+    },
+    "09-03": {
+        "records/patrons/andreas/alr": {
+            "name": {
+                "fr": "André-Abel Alricy",
+                "la": "Andreas Abel Alricy",
+                "en": "Andrew Abel Alricy",
+                "pl": "Andrzej Abel Alricy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 IX",
+                "mr-2004": "3 IX: #16"
             }
         }
     },

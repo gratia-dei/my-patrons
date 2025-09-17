@@ -1,32 +1,28 @@
 {
     "1": {
-        "page": "...",
+        "page": 493,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
+        "page": 494,
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -36,7 +32,6 @@
     },
 
     "8": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -51,7 +46,6 @@
     },
 
     "11": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -71,13 +65,14 @@
     },
 
     "15": {
+        "page": 495,
         "mark": "*",
         "la": "..."
     },
 
     "16": {
         "mark": "*",
-        "la": "..."
+        "la": "Parisiis in Gallia, passio beatorum [1|Andreae Abel Alricy], presbyteri, atque unius et septuaginta sociorum*, martyrum, ... sunt.[/][/]*Quorum nomina: beati [todo-2|Renatus Maria Andrieux], [todo-3|Petrus Paulus Balzac], [todo-4|Ioannes Franciscus Maria Benoit seu Vourlat], [todo-5|Michael Andreas Silvester Binard], [todo-6|Nicolaus Bize], [todo-7|Petrus Bonze], [todo-8|Petrus Briquet], [todo-9|Petrus Brisse], [todo-10|Carolus Carnus], [todo-11|Bertrandus Antonius de Caupenne], [todo-12|Iacobus Dufour], [todo-13|Dionysius Claudius Duval], [todo-14|Iosephus Falcoz], [todo-15|Gilbertus Ioannes Fautrel], [todo-16|Philibertus Fougere], [todo-17|Petrus Ioannes Garrigues], [todo-18|Nicolaus Gaudreau], [todo-19|Stephanus Michael Gillet], [todo-20|Georgius Hieronymus Giroust], [todo-21|Iosephus Maria Gros], [todo-22|Petrus Guerin du Rocher], [todo-23|Robertus Franciscus Guerin du Rocher], [todo-24|Ivo Andreas Guillan de Keranrun], [todo-25|Iulianus Franciscus Hedouin], [todo-26|Petrus Franciscus Henocq], [todo-27|Eligius Herque seu du Roule], [todo-28|Petrus Ludovicus Joret], [todo-29|Iacobus de la Lande], [todo-30|AEgidius Ludovicus Symphorianus Lanchon], [todo-31|Ludovicus Ioannes Matthaeus Lanier], [todo-32|Ioannes Iosephus de Laveze-Belay], [todo-33|Michael Leber], [todo-34|Petrus Florentius Leclercq], [todo-35|Ioannes Carolus Legrand], [todo-36|Ioannes Petrus Le Laisant], [todo-37|Iulianus le Laisant], [todo-38|Ioannes Lemaitre], [todo-39|Ioannes Thomas Leroy], [todo-40|Martinus Franciscus Alexius Loublier], [todo-41|Claudius Ludovicus Marmotant de Savigny], [todo-42|Claudius Silvanus Mayneaud de Bizefranc], [todo-43|Henricus Ioannes Millet], [todo-44|Franciscus Iosephus Monnier], [todo-45|Maria Franciscus Mouffle], [todo-46|Iosephus Ludovicus Oviefre], [todo-47|Ioannes Michael Philippot], [todo-48|Iacobus Rabe], [todo-49|Petrus Robertus Regnet], [todo-50|Ivo Ioannes Petrus Rey de Kervizic], [todo-51|Nicolaus Claudius Roussel], [todo-52|Petrus Saint-James], [todo-53|Iacobus Ludovicus Schmid], [todo-54|Ioannes Antonius Seconds], [todo-55|Petrus Iacobus de Turmenies], [todo-56|Renatus Iosephus Urvoy], [todo-57|Nicolaus Maria Verron], [todo-58|Carolus Victor Veret], omnes presbyteri, necnon [todo-59|Ioannes Carolus Maria Bernard du Cornillet], canonicus ex abbatia Sancti Victoris Parisiensi; [todo-60|Ioannes Franciscus Bonnel de Pradel] et [todo-61|Claudius Pons], canonici ex abbatia Sanctae Genovefae Parisiensi; [todo-62|Ioannes Carolus Caron], [todo-63|Nicolaus Colin], [todo-64|Ludovicus Iosephus Francois] et [todo-65|Ioannes Henricus Gruyer], e Congregatione Missionis; [todo-66|Claudius Bochat] et [todo-67|Eustachius Felix], e Congregatione Patrum a Doctrina Christiana; [todo-68|Cosmas (Ioannes Petrus) Duval], ex Ordine Fratrum Minorum Capuccinorum; [todo-69|Petrus Claudius Pottier], e Societate Iesu et Mariae; atque [todo-70|Sebastianus Desbrielles], magister scholae Parisiis, [todo-71|Ludovicus Franciscus Rigot] et [todo-72|Ioannes Antonius Iosephus de Villette]."
     },
 
     "17": {
@@ -86,17 +81,7 @@
     },
 
     "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
-        "mark": "*",
+        "page": 496,
         "la": "..."
     }
 }

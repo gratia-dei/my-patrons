@@ -1055,12 +1055,12 @@
         }
     },
     "patrons/andreas/alr": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "André-Abel Alricy",
-            "pl": "Andrzej Abel Alricy",
+            "la": "Andreas Abel Alricy",
             "en": "Andrew Abel Alricy",
-            "la": "Andreas Abel Alricy"
+            "pl": "Andrzej Abel Alricy"
         },
         "died": [
             "1792-09-03"

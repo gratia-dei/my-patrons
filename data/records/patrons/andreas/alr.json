@@ -1,35 +1,53 @@
 {
-  "names": {
-    "fr": [
-      "André-Abel Alricy"
+    "names": {
+        "fr": [
+            "André-Abel Alricy"
+        ],
+        "la": [
+            "Andreas Abel Alricy"
+        ],
+        "en": [
+            "Andrew Abel Alricy"
+        ],
+        "pl": [
+            "Andrzej Abel Alricy"
+        ]
+    },
+    "forenames": ["andreas", "abel"],
+    "surnames": [
+        {
+            "fr": "Alricy"
+        }
     ],
-    "pl": [
-      "Andrzej Abel Alricy"
-    ],
-    "en": [
-      "Andrew Abel Alricy"
-    ],
-    "la": [
-      "Andreas Abel Alricy"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Alricy"
+    "active": true,
+
+    "born": ["1712-08-02"],
+    "died": ["1792-09-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1926-10-17"
+    },
+    "canonized": null,
+    "anniversary": ["09-02"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./3#16"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/salomone-leclercq.html",
+        "gcatholic": "https://gcatholic.org/p/67466",
+        "wiki": "https://pl.wikipedia.org/wiki/Andrzej_Abel_Alricy"
     }
-  ],
-
-  "born": ["1712-08-02"],
-  "died": ["1792-09-03"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1926-10-17"
-  },
-
-  "also-in-martyrology": ["09-03"],
-
-  "forenames": ["andreas", "abel"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
