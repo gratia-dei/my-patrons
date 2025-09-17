@@ -4671,6 +4671,20 @@
             }
         }
     },
+    "09-02": {
+        "records/patrons/antoninus/apa": {
+            "name": {
+                "la": "Antoninus de Apamea",
+                "en": "Antoninus of Apamea",
+                "pl": "Antonin z Apamei"
+            },
+            "sources": {
+                "mr-1584": "2 IX: #2",
+                "mr-1956": "2 IX: #3",
+                "mr-2004": "2 IX: #4"
+            }
+        }
+    },
     "09-05": {
         "records/patrons/teresia/gon": {
             "name": {

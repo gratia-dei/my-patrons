@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Antoninus de Apamea"
-    ],
-    "en": [
-      "Antoninus of Apamea"
-    ],
-    "pl": [
-      "Antonin z Apamei"
-    ]
-  },
+    "names": {
+        "la": [
+            "Antoninus de Apamea"
+        ],
+        "en": [
+            "Antoninus of Apamea"
+        ],
+        "pl": [
+            "Antonin z Apamei"
+        ]
+    },
+    "forenames": ["antoninus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~307"],
+    "active": true,
 
-  "also-in-martyrology": ["09-02"],
+    "born": null,
+    "died": [">301", "<400"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["antoninus"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./2#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/2#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./2#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71345",
+        "wiki": null
+    }
 }

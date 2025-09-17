@@ -1298,14 +1298,15 @@
         }
     },
     "patrons/antoninus/apa": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Antoninus de Apamea",
             "en": "Antoninus of Apamea",
             "pl": "Antonin z Apamei"
         },
         "died": [
-            "~307"
+            ">301",
+            "<400"
         ],
         "feasts": []
     },
