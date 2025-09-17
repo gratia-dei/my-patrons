@@ -5079,6 +5079,19 @@
             }
         }
     },
+    "09-17": {
+        "records/patrons/sigismundus/fel": {
+            "name": {
+                "pl": "Zygmunt Szczęsny Feliński",
+                "la": "Sigismundus Felix Feliński",
+                "en": "Sigismund Szczęsny Feliński"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 IX",
+                "mr-2004": "17 IX: #12"
+            }
+        }
+    },
     "09-18": {
         "records/patrons/david/oke": {
             "name": {

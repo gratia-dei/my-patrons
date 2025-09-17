@@ -11196,11 +11196,11 @@
         }
     },
     "patrons/sigismundus/fel": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Zygmunt Szczęsny Feliński",
-            "en": "Zygmunt Szczęsny Feliński",
-            "la": "Sigismundus Felix Feliński"
+            "la": "Sigismundus Felix Feliński",
+            "en": "Sigismund Szczęsny Feliński"
         },
         "died": [
             "1895-09-17"

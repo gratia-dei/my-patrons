@@ -1,39 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Zygmunt Szczęsny Feliński"
+    "names": {
+        "pl": [
+            "Zygmunt Szczęsny Feliński"
+        ],
+        "la": [
+            "Sigismundus Felix Feliński"
+        ],
+        "en": [
+            "Sigismund Szczęsny Feliński"
+        ]
+    },
+    "forenames": ["sigismundus", "felix"],
+    "surnames": [
+        {
+            "pl": "Feliński"
+        }
     ],
-    "en": [
-      "Zygmunt Szczęsny Feliński",
-      "Sigismund Szczęsny Feliński"
-    ],
-    "la": [
-      "Sigismundus Felix Feliński"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Feliński"
+    "active": true,
+
+    "born": ["1822-11-01"],
+    "died": ["1895-09-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2002-08-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2009-10-11"
+    },
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./17#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/zygmunt-szczesny-felinski.html",
+        "gcatholic": "https://gcatholic.org/p/8782",
+        "wiki": "https://pl.wikipedia.org/wiki/Zygmunt_Szcz%C4%99sny_Feli%C5%84ski"
     }
-  ],
-
-  "born": ["1822-11-01"],
-  "died": ["1895-09-17"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2002-08-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2009-10-11"
-  },
-
-  "also-in-martyrology": ["09-17"],
-
-  "forenames": ["sigismundus", "felix"],
-  "categories": ["vir", "episcopus"],
-
-  "order-founder": ["csffm"]
 }
