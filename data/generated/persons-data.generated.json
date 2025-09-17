@@ -10717,18 +10717,26 @@
         }
     },
     "patrons/rosalia/pan": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Rosalia di Palermo",
-            "en": "Rosalia of Palermo",
             "la": "Rosalia Panormitana",
+            "en": "Rosalia of Palermo",
             "pl": "Rozalia z Palermo"
         },
         "died": [
-            ">1101",
-            "<1200"
+            "~1166",
+            "~1170"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/irp": {
+                "active": true,
+                "names": {
+                    "la": "Inventio corporis sanctae Rosaliae, Virginis Panormitanae",
+                    "pl": "Odnalezienie ciała świętej Rozalii, Dziewicy z Palermo"
+                }
+            }
+        }
     },
     "patrons/rosula": {
         "names": {

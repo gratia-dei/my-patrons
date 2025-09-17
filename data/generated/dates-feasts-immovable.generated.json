@@ -669,6 +669,17 @@
             }
         }
     },
+    "07-15": {
+        "records/patrons/rosalia/pan#irp": {
+            "name": {
+                "la": "Rosalia Panormitana (Inventio corporis sanctae Rosaliae, Virginis Panormitanae)",
+                "pl": "Rozalia z Palermo (Odnalezienie ciała świętej Rozalii, Dziewicy z Palermo)"
+            },
+            "sources": {
+                "mr-1956": "15 VII: #12"
+            }
+        }
+    },
     "07-16": {
         "records/patrons/maria/naz#mmc": {
             "name": {

@@ -4710,6 +4710,20 @@
             }
         }
     },
+    "09-04": {
+        "records/patrons/rosalia/pan": {
+            "name": {
+                "it": "Rosalia di Palermo",
+                "la": "Rosalia Panormitana",
+                "en": "Rosalia of Palermo",
+                "pl": "Rozalia z Palermo"
+            },
+            "sources": {
+                "mr-1956": "4 IX: #11",
+                "mr-2004": "4 IX: #8"
+            }
+        }
+    },
     "09-05": {
         "records/patrons/teresia/gon": {
             "name": {

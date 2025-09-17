@@ -1,28 +1,66 @@
 {
-  "names": {
-    "it": [
-      "Rosalia di Palermo",
-      "Rosalia Sinibaldi"
-    ],
-    "en": [
-      "Rosalia of Palermo",
-      "Rosalia Sinibaldi"
-    ],
-    "la": [
-      "Rosalia Panormitana",
-      "Rosalia Sinibaldi"
-    ],
-    "pl": [
-      "Rozalia z Palermo",
-      "Rozalia Sycylijska",
-      "Rozalia Sinibaldi"
-    ]
-  },
+    "names": {
+        "it": [
+            "Rosalia di Palermo",
+            "Rosalia Sinibaldi"
+        ],
+        "la": [
+            "Rosalia Panormitana",
+            "Rosalia Sinibaldi"
+        ],
+        "en": [
+            "Rosalia of Palermo",
+            "Rosalia Sinibaldi"
+        ],
+        "pl": [
+            "Rozalia z Palermo",
+            "Rozalia Sycylijska",
+            "Rozalia Sinibaldi"
+        ]
+    },
+    "forenames": ["rosalia"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">1101", "<1200"],
+    "active": true,
 
-  "also-in-martyrology": ["09-04"],
+    "born": null,
+    "died": ["~1166", "~1170"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["rosalia"],
-  "categories": ["femina", "virgo", "solitarius"]
+    "categories": ["femina", "virgo", "solitarius"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/4#11"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./4#8"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "irp": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Julii/15#12"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69590",
+        "wiki": "https://pl.wikipedia.org/wiki/Rozalia_z_Palermo"
+    }
 }
