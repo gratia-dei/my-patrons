@@ -1,21 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Ianuarius Beneventanus"
-    ],
-    "en": [
-      "Januarius of Benevento"
-    ],
-    "pl": [
-      "January z Benewentu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Ianuarius Beneventanus"
+        ],
+        "en": [
+            "Januarius of Benevento"
+        ],
+        "pl": [
+            "January z Benewentu"
+        ]
+    },
+    "forenames": ["ianuarius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~270"],
-  "died": ["~305"],
+    "active": true,
 
-  "also-in-martyrology": ["09-19"],
+    "born": ["~270"],
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["ianuarius"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./19#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/19#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./19#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/62886",
+        "wiki": "https://pl.wikipedia.org/wiki/January_z_Benewentu"
+    }
 }

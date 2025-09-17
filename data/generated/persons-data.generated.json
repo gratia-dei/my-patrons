@@ -5526,7 +5526,7 @@
         }
     },
     "patrons/ianuarius/ben": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Ianuarius Beneventanus",
             "en": "Januarius of Benevento",

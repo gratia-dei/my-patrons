@@ -5118,6 +5118,20 @@
             }
         }
     },
+    "09-19": {
+        "records/patrons/ianuarius/ben": {
+            "name": {
+                "la": "Ianuarius Beneventanus",
+                "en": "Januarius of Benevento",
+                "pl": "January z Benewentu"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1",
+                "mr-2004": "19 IX: #1"
+            }
+        }
+    },
     "09-20": {
         "records/patrons/agatha/cho": {
             "name": {
