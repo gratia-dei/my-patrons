@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Acutius Puteolensis"
+        ],
+        "en": [
+            "Acutius of Pozzuoli"
+        ],
+        "pl": [
+            "Akucjusz z Pozzuoli"
+        ]
+    },
+    "forenames": ["acutius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["7:Sept./19#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["7:Septembris/19#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:oct./18#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71336",
+        "wiki": "https://pl.wikipedia.org/wiki/January_z_Benewentu"
+    }
+}

@@ -46,6 +46,11 @@
             "en": "Acathius of Melitene",
             "pl": "Achacjusz z Melitene"
         },
+        "records/patrons/acutius/put": {
+            "la": "Acutius Puteolensis",
+            "en": "Acutius of Pozzuoli",
+            "pl": "Akucjusz z Pozzuoli"
+        },
         "records/patrons/adalbertus/nie": {
             "pl": "Wojciech Nierychlewski",
             "la": "Adalbertus Nierychlewski",

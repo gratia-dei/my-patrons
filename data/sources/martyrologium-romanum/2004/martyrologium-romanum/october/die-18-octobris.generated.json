@@ -2,7 +2,8 @@
     "data-links": {
         "3": {
             "1": "records/patrons/proculus/put",
-            "2": "records/patrons/euticius/put"
+            "2": "records/patrons/euticius/put",
+            "3": "records/patrons/acutius/put"
         },
         "7": {
             "1": "records/patrons/isaac/jog"

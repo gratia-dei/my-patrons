@@ -502,6 +502,25 @@
         ],
         "feasts": []
     },
+    "patrons/acutius": {
+        "names": {
+            "la": "Acutius",
+            "en": "Acutius",
+            "pl": "Akucjusz"
+        }
+    },
+    "patrons/acutius/put": {
+        "active": true,
+        "names": {
+            "la": "Acutius Puteolensis",
+            "en": "Acutius of Pozzuoli",
+            "pl": "Akucjusz z Pozzuoli"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/adalbertus": {
         "names": {
             "la": "Adalbertus",

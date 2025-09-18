@@ -1,20 +1,23 @@
 {
     "names": {
-        "pl": "Achacjusz"
+        "la": "Acatius"
     },
     "translations": {
         "la": [
             "Acacius",
-            "Acatius"
+            "Acatius",
+            "Acutius"
         ],
         "en": [
             "Acacius",
-            "Acathius"
+            "Acathius",
+            "Acutius"
         ],
         "pl": [
             "Achacjusz",
             "Akacjusz",
-            "Achacy"
+            "Achacy",
+            "Akucjusz"
         ]
     },
     "links": {
@@ -22,6 +25,11 @@
             "la": "Acacius Melitenensis",
             "en": "Acathius of Melitene",
             "pl": "Achacjusz z Melitene"
+        },
+        "records/patrons/acutius/put": {
+            "la": "Acutius Puteolensis",
+            "en": "Acutius of Pozzuoli",
+            "pl": "Akucjusz z Pozzuoli"
         }
     }
 }

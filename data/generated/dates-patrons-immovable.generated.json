@@ -5205,6 +5205,17 @@
                 "mr-1584": "19 IX: #1",
                 "mr-1956": "19 IX: #1"
             }
+        },
+        "records/patrons/acutius/put": {
+            "name": {
+                "la": "Acutius Puteolensis",
+                "en": "Acutius of Pozzuoli",
+                "pl": "Akucjusz z Pozzuoli"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1"
+            }
         }
     },
     "09-20": {
@@ -6174,6 +6185,16 @@
                 "la": "Euticius Puteolensis",
                 "en": "Eutyches of Pozzuoli",
                 "pl": "Eutyches z Pozzuoli"
+            },
+            "sources": {
+                "mr-2004": "18 X: #3"
+            }
+        },
+        "records/patrons/acutius/put": {
+            "name": {
+                "la": "Acutius Puteolensis",
+                "en": "Acutius of Pozzuoli",
+                "pl": "Akucjusz z Pozzuoli"
             },
             "sources": {
                 "mr-2004": "18 X: #3"

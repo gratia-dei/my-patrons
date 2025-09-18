@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Acutius",
+        "en": "Acutius"
+    },
+    "translations": {
+        "la": [
+            "Acutius",
+            "Acatius"
+        ],
+        "en": [
+            "Acutius"
+        ],
+        "pl": [
+            "Akucjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/acutius/put": {
+            "la": "Acutius Puteolensis",
+            "en": "Acutius of Pozzuoli",
+            "pl": "Akucjusz z Pozzuoli"
+        }
+    }
+}
