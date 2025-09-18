@@ -4829,6 +4829,16 @@
             "sources": {
                 "feast": "7 IX"
             }
+        },
+        "records/patrons/festus/ben": {
+            "name": {
+                "la": "Festus Beneventanus",
+                "en": "Festus of Benevento",
+                "pl": "Festus z Benewentu"
+            },
+            "sources": {
+                "mr-2004": "7 IX: #3"
+            }
         }
     },
     "09-11": {
@@ -5129,6 +5139,17 @@
                 "mr-1584": "19 IX: #1",
                 "mr-1956": "19 IX: #1",
                 "mr-2004": "19 IX: #1"
+            }
+        },
+        "records/patrons/festus/ben": {
+            "name": {
+                "la": "Festus Beneventanus",
+                "en": "Festus of Benevento",
+                "pl": "Festus z Benewentu"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1"
             }
         }
     },

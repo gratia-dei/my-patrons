@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Festus",
+        "en": "Festus",
+        "pl": "Festus"
+    },
+    "translations": {
+        "la": [
+            "Festus"
+        ],
+        "en": [
+            "Festus"
+        ],
+        "pl": [
+            "Festus"
+        ]
+    },
+    "links": {
+        "records/patrons/festus/ben": {
+            "la": "Festus Beneventanus",
+            "en": "Festus of Benevento",
+            "pl": "Festus z Benewentu"
+        }
+    }
+}

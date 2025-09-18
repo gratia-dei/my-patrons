@@ -4245,6 +4245,25 @@
             }
         }
     },
+    "patrons/festus": {
+        "names": {
+            "la": "Festus",
+            "en": "Festus",
+            "pl": "Festus"
+        }
+    },
+    "patrons/festus/ben": {
+        "active": true,
+        "names": {
+            "la": "Festus Beneventanus",
+            "en": "Festus of Benevento",
+            "pl": "Festus z Benewentu"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/fidelis": {
         "names": {
             "la": "Fidelis",

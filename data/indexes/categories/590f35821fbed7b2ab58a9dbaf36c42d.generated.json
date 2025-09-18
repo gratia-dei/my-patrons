@@ -993,6 +993,11 @@
             "en": "Felix of Scillium",
             "pl": "Feliks ze Scilium"
         },
+        "records/patrons/festus/ben": {
+            "la": "Festus Beneventanus",
+            "en": "Festus of Benevento",
+            "pl": "Festus z Benewentu"
+        },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
             "en": "Fidelis of Sigmaringen",

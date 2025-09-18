@@ -47,6 +47,11 @@
             "en": "Ephrem the Syrian",
             "pl": "Efrem Syryjczyk"
         },
+        "records/patrons/festus/ben": {
+            "la": "Festus Beneventanus",
+            "en": "Festus of Benevento",
+            "pl": "Festus z Benewentu"
+        },
         "records/patrons/georgius/cor": {
             "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
             "en": "George of Cordoba; with him, i.a., Aurelius",
