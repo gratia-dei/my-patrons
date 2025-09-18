@@ -72,6 +72,11 @@
             "en": "Sevibaldus; with him, i.a., Eoban",
             "pl": "Scirbald; z nim, m.in. Eoban"
         },
+        "records/patrons/sossius/mis": {
+            "la": "Sossius Missenensis",
+            "en": "Sossius of Misenum",
+            "pl": "Sozjusz z Misenum"
+        },
         "records/patrons/stephanus/pro": {
             "la": "Stephanus protomartyr",
             "en": "Stephen Protomartyr",

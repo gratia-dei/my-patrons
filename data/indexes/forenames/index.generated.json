@@ -1334,6 +1334,10 @@
     "4c998d07cb311bd5b93bee9f6a18f588": {
         "la": "Vladimirus"
     },
+    "4d1b33b24b2c68f8dc027a23ad6436d6": {
+        "la": "Sossius",
+        "en": "Sossius"
+    },
     "4d855d5ac0497a11941e8948568db749": {
         "la": "Rufus",
         "en": "Rufus",
@@ -3086,6 +3090,9 @@
     "b95e9d7022975acb5f72fa4468486233": {
         "es": "Cristóbal"
     },
+    "b97aaac00160940d4312fedab64583a3": {
+        "la": "Sosius"
+    },
     "b99168be6c071f8d2238682821f0d400": {
         "pl": "Elżbieta"
     },
@@ -4255,5 +4262,8 @@
     },
     "ff938ca4700d1b6a87091570b3d14992": {
         "la": "Pancratius"
+    },
+    "ffe5128b56ace041da831f32516b4686": {
+        "pl": "Sozjusz"
     }
 }

@@ -5172,6 +5172,17 @@
                 "mr-1584": "19 IX: #1",
                 "mr-1956": "19 IX: #1"
             }
+        },
+        "records/patrons/sossius/mis": {
+            "name": {
+                "la": "Sossius Missenensis",
+                "en": "Sossius of Misenum",
+                "pl": "Sozjusz z Misenum"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1"
+            }
         }
     },
     "09-20": {
@@ -5506,6 +5517,18 @@
                 "reliable-death-anniversary": "23 IX",
                 "feast": "23 IX",
                 "mr-2004": "23 IX: #1"
+            }
+        },
+        "records/patrons/sossius/mis": {
+            "name": {
+                "la": "Sossius Missenensis",
+                "en": "Sossius of Misenum",
+                "pl": "Sozjusz z Misenum"
+            },
+            "sources": {
+                "mr-1584": "23 IX: #3",
+                "mr-1956": "23 IX: #6",
+                "mr-2004": "23 IX: #4"
             }
         }
     },

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Sosius"
+    },
+    "translations": {
+        "la": [
+            "Sossius",
+            "Sosius"
+        ],
+        "en": [
+            "Sossius"
+        ],
+        "pl": [
+            "Sozjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/sossius/mis": {
+            "la": "Sossius Missenensis",
+            "en": "Sossius of Misenum",
+            "pl": "Sozjusz z Misenum"
+        }
+    }
+}

@@ -11506,6 +11506,25 @@
         ],
         "feasts": []
     },
+    "patrons/sossius": {
+        "names": {
+            "la": "Sossius",
+            "en": "Sossius",
+            "pl": "Sozjusz"
+        }
+    },
+    "patrons/sossius/mis": {
+        "active": true,
+        "names": {
+            "la": "Sossius Missenensis",
+            "en": "Sossius of Misenum",
+            "pl": "Sozjusz z Misenum"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/speratus": {
         "names": {
             "la": "Speratus",

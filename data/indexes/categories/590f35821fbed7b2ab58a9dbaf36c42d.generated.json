@@ -2545,6 +2545,11 @@
             "en": "Simplicius; with him, i.a., Faustinus",
             "pl": "Symplicjusz; z nim, m.in. Faustyn"
         },
+        "records/patrons/sossius/mis": {
+            "la": "Sossius Missenensis",
+            "en": "Sossius of Misenum",
+            "pl": "Sozjusz z Misenum"
+        },
         "records/patrons/speratus/sci": {
             "la": "Speratus de Scillium",
             "en": "Speratus of Scillium",
