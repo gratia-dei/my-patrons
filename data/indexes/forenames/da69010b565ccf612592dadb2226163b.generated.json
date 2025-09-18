@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Proculus",
+        "en": "Proculus"
+    },
+    "translations": {
+        "la": [
+            "Proculus"
+        ],
+        "en": [
+            "Proculus"
+        ],
+        "pl": [
+            "Prokul"
+        ]
+    },
+    "links": {
+        "records/patrons/proculus/put": {
+            "la": "Proculus Puteolensis",
+            "en": "Proculus of Pozzuoli",
+            "pl": "Prokul z Pozzuoli"
+        }
+    }
+}

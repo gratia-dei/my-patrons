@@ -1577,6 +1577,11 @@
             "en": "Proclus; with him, Hilarion",
             "pl": "Prokles; z nim, Hilarion"
         },
+        "records/patrons/proculus/put": {
+            "la": "Proculus Puteolensis",
+            "en": "Proculus of Pozzuoli",
+            "pl": "Prokul z Pozzuoli"
+        },
         "records/patrons/quiricus/iul": {
             "el": "Κήρυκος /+ Ιουλίττα",
             "en": "Cyricus /+ Julitta",

@@ -5183,6 +5183,17 @@
                 "mr-1584": "19 IX: #1",
                 "mr-1956": "19 IX: #1"
             }
+        },
+        "records/patrons/proculus/put": {
+            "name": {
+                "la": "Proculus Puteolensis",
+                "en": "Proculus of Pozzuoli",
+                "pl": "Prokul z Pozzuoli"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1"
+            }
         }
     },
     "09-20": {
@@ -6135,6 +6146,16 @@
             },
             "sources": {
                 "mr-1956": "18 X: #8"
+            }
+        },
+        "records/patrons/proculus/put": {
+            "name": {
+                "la": "Proculus Puteolensis",
+                "en": "Proculus of Pozzuoli",
+                "pl": "Prokul z Pozzuoli"
+            },
+            "sources": {
+                "mr-2004": "18 X: #3"
             }
         }
     },

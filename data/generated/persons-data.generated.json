@@ -10339,6 +10339,25 @@
         ],
         "feasts": []
     },
+    "patrons/proculus": {
+        "names": {
+            "la": "Proculus",
+            "en": "Proculus",
+            "pl": "Prokul"
+        }
+    },
+    "patrons/proculus/put": {
+        "active": true,
+        "names": {
+            "la": "Proculus Puteolensis",
+            "en": "Proculus of Pozzuoli",
+            "pl": "Prokul z Pozzuoli"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/quiricus": {
         "names": {
             "la": "Quiricus",
