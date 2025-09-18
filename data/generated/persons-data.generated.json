@@ -4044,6 +4044,25 @@
             }
         }
     },
+    "patrons/euticius": {
+        "names": {
+            "la": "Euticius",
+            "en": "Eutyches",
+            "pl": "Eutyches"
+        }
+    },
+    "patrons/euticius/put": {
+        "active": true,
+        "names": {
+            "la": "Euticius Puteolensis",
+            "en": "Eutyches of Pozzuoli",
+            "pl": "Eutyches z Pozzuoli"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/ezechiel": {
         "names": {
             "la": "Ezechiel",

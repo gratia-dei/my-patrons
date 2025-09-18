@@ -1214,6 +1214,9 @@
         "en": "Serapion",
         "pl": "Serapion"
     },
+    "46aa76d485842479c0a3ba56de50cdb5": {
+        "la": "Euticius"
+    },
     "46c4f01e2327d192679794393160ff21": {
         "la": "Renatus"
     },
@@ -1549,6 +1552,9 @@
     "5e0d7301e6ff6244a087a86e898f4499": {
         "la": "Auxentius",
         "en": "Auxentius"
+    },
+    "5e0df29459474b4e80b4b34c2a0eb86a": {
+        "la": "Eutychius"
     },
     "5e34c3acc31609119eb4e8505c9e22b5": {
         "la": "Vincentius"
@@ -2906,6 +2912,11 @@
     },
     "afeedaf93066e2ec9df89c8c36e25283": {
         "en": "Panteleimon"
+    },
+    "b00029e266a89ea31fa2a43575c0cd3b": {
+        "la": "Eutyches",
+        "en": "Eutyches",
+        "pl": "Eutyches"
     },
     "b0062c7fab7bf0da32f420f3b225d453": {
         "de": "Niklaus"

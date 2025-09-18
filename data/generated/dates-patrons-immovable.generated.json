@@ -5194,6 +5194,17 @@
                 "mr-1584": "19 IX: #1",
                 "mr-1956": "19 IX: #1"
             }
+        },
+        "records/patrons/euticius/put": {
+            "name": {
+                "la": "Euticius Puteolensis",
+                "en": "Eutyches of Pozzuoli",
+                "pl": "Eutyches z Pozzuoli"
+            },
+            "sources": {
+                "mr-1584": "19 IX: #1",
+                "mr-1956": "19 IX: #1"
+            }
         }
     },
     "09-20": {
@@ -6153,6 +6164,16 @@
                 "la": "Proculus Puteolensis",
                 "en": "Proculus of Pozzuoli",
                 "pl": "Prokul z Pozzuoli"
+            },
+            "sources": {
+                "mr-2004": "18 X: #3"
+            }
+        },
+        "records/patrons/euticius/put": {
+            "name": {
+                "la": "Euticius Puteolensis",
+                "en": "Eutyches of Pozzuoli",
+                "pl": "Eutyches z Pozzuoli"
             },
             "sources": {
                 "mr-2004": "18 X: #3"

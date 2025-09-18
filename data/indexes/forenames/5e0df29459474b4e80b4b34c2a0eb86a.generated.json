@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Eutychius"
+    },
+    "translations": {
+        "la": [
+            "Euticius",
+            "Eutychius",
+            "Eutyches"
+        ],
+        "en": [
+            "Eutyches"
+        ],
+        "pl": [
+            "Eutyches"
+        ]
+    },
+    "links": {
+        "records/patrons/euticius/put": {
+            "la": "Euticius Puteolensis",
+            "en": "Eutyches of Pozzuoli",
+            "pl": "Eutyches z Pozzuoli"
+        }
+    }
+}
