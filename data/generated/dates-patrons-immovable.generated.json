@@ -5553,6 +5553,20 @@
             }
         }
     },
+    "09-22": {
+        "records/patrons/emmerammus/rat": {
+            "name": {
+                "la": "Emmeramus Ratisbonensis",
+                "en": "Emmeram of Regensburg",
+                "pl": "Emmeram z Ratyzbony"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #4",
+                "mr-1956": "22 IX: #4",
+                "mr-2004": "22 IX: #8"
+            }
+        }
+    },
     "09-23": {
         "records/patrons/pius/pie": {
             "name": {

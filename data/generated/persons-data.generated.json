@@ -3902,7 +3902,7 @@
         }
     },
     "patrons/emmerammus/rat": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Emmeramus Ratisbonensis",
             "en": "Emmeram of Regensburg",
