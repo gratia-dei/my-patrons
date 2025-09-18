@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "lector",
+        "en": "lector"
+    },
+    "translations": {
+        "la": [
+            "lector"
+        ],
+        "en": [
+            "lector",
+            "reader"
+        ],
+        "pl": [
+            "lektor"
+        ]
+    },
+    "links": {
+        "records/patrons/desiderius/ben": {
+            "la": "Desiderius Beneventanus",
+            "en": "Desiderius of Benevento",
+            "pl": "Dezydery z Benewentu"
+        }
+    }
+}

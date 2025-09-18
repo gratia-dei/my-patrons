@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Desiderius Beneventanus"
+        ],
+        "en": [
+            "Desiderius of Benevento"
+        ],
+        "pl": [
+            "Dezydery z Benewentu"
+        ]
+    },
+    "forenames": ["desiderius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~305"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "lector"],
+
+    "data-links": {
+        "mr-1584": ["3:Sept./19#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["3:Septembris/19#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:sept./7#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69871",
+        "wiki": "https://pl.wikipedia.org/wiki/January_z_Benewentu"
+    }
+}

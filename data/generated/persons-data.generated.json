@@ -3312,6 +3312,25 @@
         ],
         "feasts": []
     },
+    "patrons/desiderius": {
+        "names": {
+            "la": "Desiderius",
+            "en": "Desiderius",
+            "pl": "Dezydery"
+        }
+    },
+    "patrons/desiderius/ben": {
+        "active": true,
+        "names": {
+            "la": "Desiderius Beneventanus",
+            "en": "Desiderius of Benevento",
+            "pl": "Dezydery z Benewentu"
+        },
+        "died": [
+            "~305"
+        ],
+        "feasts": []
+    },
     "patrons/deusdedit": {
         "names": {
             "la": "Deusdedit",

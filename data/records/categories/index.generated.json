@@ -219,6 +219,11 @@
         "en": "layman / laywoman",
         "pl": "świecki / świecka"
     },
+    "lector": {
+        "la": "lector",
+        "en": "lector",
+        "pl": "lektor"
+    },
     "levita": {
         "la": "levita",
         "en": "levi",

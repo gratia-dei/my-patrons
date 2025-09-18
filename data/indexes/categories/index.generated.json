@@ -89,6 +89,9 @@
     "1cdf4c400619855d6dba5d6292da42fa": {
         "la": "princeps"
     },
+    "1de9b0a30075ae8c303eb420c103c320": {
+        "en": "reader"
+    },
     "1eebfc936ec1c21dd0404b228c594997": {
         "pl": "królowa"
     },
@@ -287,6 +290,9 @@
     },
     "5a506982757b3883a0dee207a6212b49": {
         "la": "discipulus"
+    },
+    "5ba66f4b561c9b9c0a7f937dceb676f3": {
+        "pl": "lektor"
     },
     "5c42b721e415ab7fb03adcabbd069a21": {
         "la": "religiosus / religiosa"
@@ -673,6 +679,10 @@
     },
     "dc5c95c029534f43bc26a76a5f3c083b": {
         "pl": "biskup pomocniczy"
+    },
+    "dd381a050f1987e7b5c7b73296fd49a5": {
+        "la": "lector",
+        "en": "lector"
     },
     "e0f43c20eb7e1895c5b35fac9e28a3bf": {
         "pl": "konsul"

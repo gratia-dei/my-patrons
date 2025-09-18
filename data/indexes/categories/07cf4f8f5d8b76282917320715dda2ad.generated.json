@@ -762,6 +762,11 @@
             "en": "David, king",
             "pl": "Dawid, król"
         },
+        "records/patrons/desiderius/ben": {
+            "la": "Desiderius Beneventanus",
+            "en": "Desiderius of Benevento",
+            "pl": "Dezydery z Benewentu"
+        },
         "records/patrons/deusdedit/1pp": {
             "la": "Deusdedit Pp. I",
             "en": "Deusdedit I",
