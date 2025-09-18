@@ -7831,7 +7831,7 @@
             "feasts/tme": {
                 "active": true,
                 "names": {
-                    "la": "Translatio sancti Marcin Evangelistae",
+                    "la": "Translatio sancti Marci Evangelistae",
                     "pl": "Przeniesienie świętego Marka Ewangelisty"
                 }
             }
@@ -8813,17 +8813,32 @@
         }
     },
     "patrons/matthaeus/eva": {
-        "active": false,
+        "active": true,
         "names": {
             "he": "מתיו האוונגליסט",
-            "en": "Matthew the Evengelist",
             "la": "Matthaeus Evengelista",
+            "en": "Matthew the Evengelist",
             "pl": "Mateusz Ewangelista"
         },
         "died": [
             "~60"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tma": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Matthaei, Apostoli et Evangelistae",
+                    "pl": "Przeniesienie świętego Mateusza, Apostoła i Ewangelisty"
+                }
+            },
+            "feasts/vme": {
+                "active": true,
+                "names": {
+                    "la": "Vigilia sancti Mathaei, Apostoli et Evangelistae",
+                    "pl": "Wigilia świętego Mateusza, Apostoła i Ewangelisty"
+                }
+            }
+        }
     },
     "patrons/matthias": {
         "names": {

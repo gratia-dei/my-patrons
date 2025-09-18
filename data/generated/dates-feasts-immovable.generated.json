@@ -140,7 +140,7 @@
     "01-31": {
         "records/patrons/marcus/eva#tme": {
             "name": {
-                "la": "Marcus Evangelista (Translatio sancti Marcin Evangelistae)",
+                "la": "Marcus Evangelista (Translatio sancti Marci Evangelistae)",
                 "pl": "Marek Ewangelista (Przeniesienie świętego Marka Ewangelisty)"
             },
             "sources": {
@@ -406,6 +406,16 @@
                 "mr-1584": "6 V: #1",
                 "mr-1956": "6 V: #1",
                 "mr-1956-variations": "6 V: #2-ab-1960-07-26"
+            }
+        },
+        "records/patrons/matthaeus/eva#tma": {
+            "name": {
+                "la": "Matthaeus Evengelista (Translatio sancti Matthaei, Apostoli et Evangelistae)",
+                "pl": "Mateusz Ewangelista (Przeniesienie świętego Mateusza, Apostoła i Ewangelisty)"
+            },
+            "sources": {
+                "mr-1584": "6 V: #10",
+                "mr-1956": "6 V: #10"
             }
         }
     },
@@ -1184,6 +1194,18 @@
             },
             "sources": {
                 "mr-1956": "17 IX: #1"
+            }
+        }
+    },
+    "09-20": {
+        "records/patrons/matthaeus/eva#vme": {
+            "name": {
+                "la": "Matthaeus Evengelista (Vigilia sancti Mathaei, Apostoli et Evangelistae)",
+                "pl": "Mateusz Ewangelista (Wigilia świętego Mateusza, Apostoła i Ewangelisty)"
+            },
+            "sources": {
+                "mr-1584": "20 IX: #1",
+                "mr-1956": "20 IX: #1"
             }
         }
     },

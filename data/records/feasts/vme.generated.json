@@ -1,19 +1,4 @@
 {
-    "names": {
-        "la": "Levi",
-        "en": "Levi"
-    },
-    "translations": {
-        "la": [
-            "Levi"
-        ],
-        "en": [
-            "Levi"
-        ],
-        "pl": [
-            "Lewi"
-        ]
-    },
     "links": {
         "records/patrons/matthaeus/eva": {
             "he": "מתיו האוונגליסט",

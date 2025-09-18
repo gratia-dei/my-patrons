@@ -47,8 +47,8 @@
         },
         "records/patrons/matthaeus/eva": {
             "he": "מתיו האוונגליסט",
-            "en": "Matthew the Evengelist",
             "la": "Matthaeus Evengelista",
+            "en": "Matthew the Evengelist",
             "pl": "Mateusz Ewangelista"
         },
         "records/patrons/matthias/apo": {

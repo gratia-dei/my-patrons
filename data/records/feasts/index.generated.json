@@ -426,8 +426,12 @@
         "la": "Translatio sancti Iulianae",
         "pl": "Przeniesienie świętej Juliany"
     },
+    "tma": {
+        "la": "Translatio sancti Matthaei, Apostoli et Evangelistae",
+        "pl": "Przeniesienie świętego Mateusza, Apostoła i Ewangelisty"
+    },
     "tme": {
-        "la": "Translatio sancti Marcin Evangelistae",
+        "la": "Translatio sancti Marci Evangelistae",
         "pl": "Przeniesienie świętego Marka Ewangelisty"
     },
     "tmm": {
@@ -494,6 +498,10 @@
     "vma": {
         "la": "Vigilia sancti Matthiae Apostoli",
         "pl": "Wigilia świętego Macieja Apostoła"
+    },
+    "vme": {
+        "la": "Vigilia sancti Mathaei, Apostoli et Evangelistae",
+        "pl": "Wigilia świętego Mateusza, Apostoła i Ewangelisty"
     },
     "vos": {
         "la": "Vigilia Omnium Sanctorum",

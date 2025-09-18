@@ -1,29 +1,81 @@
 {
-  "names": {
-    "he": [
-      "מתיו האוונגליסט"
-    ],
-    "en": [
-      "Matthew the Evengelist",
-      "Matthew Levi",
-      "Matthew the Apostle"
-    ],
-    "la": [
-      "Matthaeus Evengelista",
-      "Matthaeus Levi",
-      "Matthaeus Apostolus"
-    ],
-    "pl": [
-      "Mateusz Ewangelista",
-      "Mateusz Lewi",
-      "Mateusz Apostoł"
-    ]
-  },
+    "names": {
+        "he": [
+            "מתיו האוונגליסט"
+        ],
+        "la": [
+            "Matthaeus Evengelista",
+            "Matthaeus Levi",
+            "Matthaeus Apostolus"
+        ],
+        "en": [
+            "Matthew the Evengelist",
+            "Matthew Levi",
+            "Matthew the Apostle"
+        ],
+        "pl": [
+            "Mateusz Ewangelista",
+            "Mateusz Lewi",
+            "Mateusz Apostoł"
+        ]
+    },
+    "forenames": ["matthaeus", "levi"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~60"],
+    "active": true,
 
-  "also-in-martyrology": ["09-21"],
+    "born": null,
+    "died": ["~60"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["matthaeus", "levi"],
-  "categories": ["vir", "apostolus", "evangelista", "martyr"]
+    "categories": ["vir", "apostolus", "evangelista", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./21#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/21#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./21#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tma": {
+            "data-links": {
+                "mr-1584": ["1:Mai./6#10"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Maji/6#10"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        },
+
+        "vme": {
+            "data-links": {
+                "mr-1584": ["1:Sept./20#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Septembris/20#1"],
+                "mr-1956-variations": ["1:Septembris/20#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69198",
+        "wiki": "https://pl.wikipedia.org/wiki/Mateusz_Ewangelista"
+    }
 }
