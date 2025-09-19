@@ -5544,6 +5544,19 @@
         ],
         "feasts": []
     },
+    "patrons/iacobus/gag": {
+        "active": true,
+        "names": {
+            "fr": "Jacques Gagnot",
+            "la": "Iacobus Gagnot",
+            "en": "James Gagnot",
+            "pl": "Jakub Gagnot"
+        },
+        "died": [
+            "1794-09-10"
+        ],
+        "feasts": []
+    },
     "patrons/iacobus/mai": {
         "active": true,
         "names": {

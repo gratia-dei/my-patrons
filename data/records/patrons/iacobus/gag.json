@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Jacques Gagnot"
+        ],
+        "la": [
+            "Iacobus Gagnot"
+        ],
+        "en": [
+            "James Gagnot"
+        ],
+        "pl": [
+            "Jakub Gagnot"
+        ]
+    },
+    "forenames": ["iacobus"],
+    "surnames": [
+        {
+            "fr": "Gagnot"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1753-02-09"],
+    "died": ["1794-09-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1995-10-01"
+    },
+    "canonized": null,
+    "anniversary": ["08-27"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./10#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jean-baptiste-souzy-e-63-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/67709",
+        "wiki": "https://fr.wikipedia.org/wiki/Jacques_Gagnot"
+    }
+}

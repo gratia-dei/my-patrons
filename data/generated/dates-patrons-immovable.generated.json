@@ -4585,6 +4585,17 @@
         }
     },
     "08-27": {
+        "records/patrons/iacobus/gag": {
+            "name": {
+                "fr": "Jacques Gagnot",
+                "la": "Iacobus Gagnot",
+                "en": "James Gagnot",
+                "pl": "Jakub Gagnot"
+            },
+            "sources": {
+                "feast": "27 VIII"
+            }
+        },
         "records/patrons/monica/vid": {
             "name": {
                 "la": "Monica Thagastensis",
@@ -4890,6 +4901,20 @@
                 "reliable-death-anniversary": "9 IX",
                 "feast": "9 IX",
                 "mr-2004": "9 IX: #10"
+            }
+        }
+    },
+    "09-10": {
+        "records/patrons/iacobus/gag": {
+            "name": {
+                "fr": "Jacques Gagnot",
+                "la": "Iacobus Gagnot",
+                "en": "James Gagnot",
+                "pl": "Jakub Gagnot"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 IX",
+                "mr-2004": "10 IX: #12"
             }
         }
     },
