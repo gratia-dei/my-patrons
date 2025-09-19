@@ -475,6 +475,16 @@
                 "mr-1956": "9 V: #8"
             }
         },
+        "records/patrons/hieronymus/dal#thd": {
+            "name": {
+                "la": "Hieronymus Stridonensis (Translatio sancti Hieronymi Presbyteri, Confessoris et Ecclesiae Doctoris)",
+                "pl": "Hieronim ze Strydonu (Przeniesienie świętego Hieronima Prezbitera, Wyznawcy i Doktora Kościoła)"
+            },
+            "sources": {
+                "mr-1584": "9 V: #7",
+                "mr-1956": "9 V: #9"
+            }
+        },
         "records/patrons/nicolaus/myr#tmm": {
             "name": {
                 "la": "Nicolaus Myrensis (Translatio sancti Nicolai)",

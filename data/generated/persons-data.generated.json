@@ -5293,7 +5293,7 @@
         }
     },
     "patrons/hieronymus/dal": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Hieronymus Stridonensis",
             "en": "Jerome of Stridon",
@@ -5302,7 +5302,15 @@
         "died": [
             "420-09-30"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/thd": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Hieronymi Presbyteri, Confessoris et Ecclesiae Doctoris",
+                    "pl": "Przeniesienie świętego Hieronima Prezbitera, Wyznawcy i Doktora Kościoła"
+                }
+            }
+        }
     },
     "patrons/hieronymus/emi": {
         "active": false,

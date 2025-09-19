@@ -5857,6 +5857,21 @@
             }
         }
     },
+    "09-30": {
+        "records/patrons/hieronymus/dal": {
+            "name": {
+                "la": "Hieronymus Stridonensis",
+                "en": "Jerome of Stridon",
+                "pl": "Hieronim ze Strydonu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 IX",
+                "mr-1584": "30 IX: #1",
+                "mr-1956": "30 IX: #1",
+                "mr-2004": "30 IX: #1"
+            }
+        }
+    },
     "10-02": {
         "records/patrons/maria/kra": {
             "name": {
