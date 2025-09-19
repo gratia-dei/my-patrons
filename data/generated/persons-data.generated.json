@@ -12444,6 +12444,28 @@
         ],
         "feasts": []
     },
+    "patrons/venceslaus": {
+        "names": {
+            "la": "Venceslaus",
+            "en": "Wenceslaus",
+            "pl": "Wacław",
+            "cz": "Václav"
+        }
+    },
+    "patrons/venceslaus/boh": {
+        "active": true,
+        "names": {
+            "cs": "Václav, český kníže",
+            "la": "Venceslaus, dux Bohemiae",
+            "en": "Wenceslaus, duke of Bohemia",
+            "pl": "Wacław, książę Czech"
+        },
+        "died": [
+            "929-09-28",
+            "935-09-28"
+        ],
+        "feasts": []
+    },
     "patrons/veronica": {
         "names": {
             "la": "Veronica",

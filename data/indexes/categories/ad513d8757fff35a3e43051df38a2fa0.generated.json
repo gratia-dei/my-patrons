@@ -1931,6 +1931,12 @@
             "la": "Valentinus de Roma",
             "pl": "Walenty z Rzymu"
         },
+        "records/patrons/venceslaus/boh": {
+            "cs": "Václav, český kníže",
+            "la": "Venceslaus, dux Bohemiae",
+            "en": "Wenceslaus, duke of Bohemia",
+            "pl": "Wacław, książę Czech"
+        },
         "records/patrons/vestia/sci": {
             "la": "Vestia de Scillium",
             "en": "Vestia of Scillium",

@@ -2755,6 +2755,12 @@
             "en": "Valerian of Abbenza",
             "pl": "Walerian z Abbenzy"
         },
+        "records/patrons/venceslaus/boh": {
+            "cs": "Václav, český kníže",
+            "la": "Venceslaus, dux Bohemiae",
+            "en": "Wenceslaus, duke of Bohemia",
+            "pl": "Wacław, książę Czech"
+        },
         "records/patrons/veturius/sci": {
             "la": "Veturius de Scillium",
             "en": "Veturius of Scillium",

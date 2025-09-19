@@ -30,6 +30,12 @@
             "en": "Margaret of Lorraine",
             "la": "Margarita de Lotharingia",
             "pl": "Małgorzata z Lotaryngii"
+        },
+        "records/patrons/venceslaus/boh": {
+            "cs": "Václav, český kníže",
+            "la": "Venceslaus, dux Bohemiae",
+            "en": "Wenceslaus, duke of Bohemia",
+            "pl": "Wacław, książę Czech"
         }
     }
 }

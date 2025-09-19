@@ -1,0 +1,29 @@
+{
+    "names": {
+        "cz": "Václav"
+    },
+    "translations": {
+        "la": [
+            "Venceslaus",
+            "Wenceslaus",
+            "Vuenceslaus"
+        ],
+        "en": [
+            "Wenceslaus"
+        ],
+        "pl": [
+            "Wacław"
+        ],
+        "cz": [
+            "Václav"
+        ]
+    },
+    "links": {
+        "records/patrons/venceslaus/boh": {
+            "cs": "Václav, český kníže",
+            "la": "Venceslaus, dux Bohemiae",
+            "en": "Wenceslaus, duke of Bohemia",
+            "pl": "Wacław, książę Czech"
+        }
+    }
+}

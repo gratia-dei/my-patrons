@@ -5795,6 +5795,20 @@
             "sources": {
                 "reliable-death-anniversary": "28 IX"
             }
+        },
+        "records/patrons/venceslaus/boh": {
+            "name": {
+                "cs": "Václav, český kníže",
+                "la": "Venceslaus, dux Bohemiae",
+                "en": "Wenceslaus, duke of Bohemia",
+                "pl": "Wacław, książę Czech"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 IX",
+                "mr-1584": "28 IX: #6",
+                "mr-1956": "28 IX: #1",
+                "mr-2004": "28 IX: #1"
+            }
         }
     },
     "09-29": {
