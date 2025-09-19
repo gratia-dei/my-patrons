@@ -3049,7 +3049,7 @@
         }
     },
     "patrons/corbinianus/fri": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Corbinianus de Frisingae",
             "en": "Corbinian of Freising",

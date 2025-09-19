@@ -4864,6 +4864,20 @@
             }
         }
     },
+    "09-08": {
+        "records/patrons/corbinianus/fri": {
+            "name": {
+                "la": "Corbinianus de Frisingae",
+                "en": "Corbinian of Freising",
+                "pl": "Korbinian z Fryzyngi"
+            },
+            "sources": {
+                "mr-1584": "8 IX: #7",
+                "mr-1956": "8 IX: #9",
+                "mr-2004": "8 IX: #6"
+            }
+        }
+    },
     "09-11": {
         "records/patrons/paphnutius/epi": {
             "name": {
