@@ -4739,6 +4739,19 @@
             }
         }
     },
+    "09-06": {
+        "records/patrons/magnus/abb": {
+            "name": {
+                "de": "Magnus von Füssen",
+                "la": "Magnus, abbas",
+                "en": "Magnus of Füssen",
+                "pl": "Magnus z Füssen"
+            },
+            "sources": {
+                "mr-2004": "6 IX: #7"
+            }
+        }
+    },
     "09-07": {
         "records/patrons/antonius/ulm": {
             "name": {

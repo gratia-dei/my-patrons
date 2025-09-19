@@ -1,25 +1,46 @@
 {
-  "names": {
-    "de": [
-      "Magnus von Füssen"
-    ],
-    "la": [
-      "Magnus"
-    ],
-    "en": [
-      "Magnus of Füssen",
-      "Magnoald",
-      "Mang"
-    ],
-    "pl": [
-      "Magnus z Füssen"
-    ]
-  },
+    "names": {
+        "de": [
+            "Magnus von Füssen"
+        ],
+        "la": [
+            "Magnus, abbas"
+        ],
+        "en": [
+            "Magnus of Füssen"
+        ],
+        "pl": [
+            "Magnus z Füssen"
+        ]
+    },
+    "forenames": ["magnus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">700", "<800"],
+    "active": true,
 
-  "also-in-martyrology": ["09-06"],
+    "born": null,
+    "died": ["~772"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["magnus"],
-  "categories": ["vir", "abbas"]
+    "categories": ["vir", "abbas"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./6#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71341",
+        "wiki": "https://pl.wikipedia.org/wiki/Magnus_z_F%C3%BCssen"
+    }
 }
