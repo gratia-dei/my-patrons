@@ -4878,6 +4878,21 @@
             }
         }
     },
+    "09-09": {
+        "records/patrons/franciscus/gar": {
+            "name": {
+                "es": "Francisco Gárate Aranguren",
+                "la": "Franciscus Gárate Aranguren",
+                "en": "Francis Gárate Aranguren",
+                "pl": "Franciszek Gárate Aranguren"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 IX",
+                "feast": "9 IX",
+                "mr-2004": "9 IX: #10"
+            }
+        }
+    },
     "09-11": {
         "records/patrons/paphnutius/epi": {
             "name": {

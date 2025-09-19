@@ -61,6 +61,12 @@
             "en": "Frances of Rome",
             "pl": "Franciszka Rzymianka"
         },
+        "records/patrons/franciscus/gar": {
+            "es": "Francisco Gárate Aranguren",
+            "la": "Franciscus Gárate Aranguren",
+            "en": "Francis Gárate Aranguren",
+            "pl": "Franciszek Gárate Aranguren"
+        },
         "records/patrons/gerardus/maj": {
             "it": "Gerardo Maiella",
             "la": "Gerard Majella",

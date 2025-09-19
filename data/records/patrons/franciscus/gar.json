@@ -1,0 +1,56 @@
+{
+    "names": {
+        "es": [
+            "Francisco Gárate Aranguren"
+        ],
+        "la": [
+            "Franciscus Gárate Aranguren"
+        ],
+        "en": [
+            "Francis Gárate Aranguren"
+        ],
+        "pl": [
+            "Franciszek Gárate Aranguren"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "es": "Gárate"
+        },
+        {
+            "es": "Aranguren"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1857-02-03"],
+    "died": ["1929-09-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1985-10-06"
+    },
+    "canonized": null,
+    "anniversary": ["09-09"],
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./9#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francisco-garate.html",
+        "gcatholic": "https://gcatholic.org/p/68463",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_G%C3%A1rate"
+    }
+}

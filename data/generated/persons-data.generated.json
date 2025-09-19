@@ -4505,6 +4505,19 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/gar": {
+        "active": true,
+        "names": {
+            "es": "Francisco Gárate Aranguren",
+            "la": "Franciscus Gárate Aranguren",
+            "en": "Francis Gárate Aranguren",
+            "pl": "Franciszek Gárate Aranguren"
+        },
+        "died": [
+            "1929-09-09"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/kes": {
         "active": true,
         "names": {
