@@ -1,47 +1,61 @@
 {
-  "names": {
-    "it": [
-      "Gerardo Sagredo"
+    "names": {
+        "it": [
+            "Gerardo Sagredo"
+        ],
+        "hu": [
+            "Sagredo Gellért"
+        ],
+        "la": [
+            "Gerardus Sagredo"
+        ],
+        "en": [
+            "Gerard Sagredo"
+        ],
+        "pl": [
+            "Gerard Sagredo"
+        ]
+    },
+    "forenames": ["gerardus"],
+    "surnames": [
+        {
+            "it": "Sagredo"
+        }
     ],
-    "hu": [
-      "Sagredo Gellért"
+    "epithets": [
+        {
+            "it": "Apostolo degli Ungari",
+            "hu": "A Magyarok Apostola",
+            "la": "Hungarorum Apostolus",
+            "en": "Apostle of the Hungarians",
+            "pl": "Apostoł Węgrów"
+        }
     ],
-    "en": [
-      "Gerard Sagredo"
-    ],
-    "la": [
-      "Gerardus Sagredo"
-    ],
-    "pl": [
-      "Gerard Sagredo"
-    ]
-  },
 
-  "surnames": [
-    {
-      "it": "Sagredo"
+    "active": true,
+
+    "born": ["~980"],
+    "died": ["1046-09-24"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./24#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/24#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./24#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/63026",
+        "wiki": "https://pl.wikipedia.org/wiki/Gerard_Sagredo"
     }
-  ],
-  "epithets": [
-    {
-      "it": "Apostolo degli Ungari",
-      "hu": "A Magyarok Apostola",
-      "la": "Hungarorum Apostolus",
-      "en": "Apostle of the Hungarians",
-      "pl": "Apostoł Węgrów"
-    }
-  ],
-
-  "born": ["~980"],
-  "died": ["1046-09-24"],
-
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1083"
-  },
-
-  "also-in-martyrology": ["09-24"],
-
-  "forenames": ["gerardus"],
-  "categories": ["vir", "martyr", "episcopus"]
 }

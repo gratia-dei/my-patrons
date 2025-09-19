@@ -4964,12 +4964,12 @@
         "feasts": []
     },
     "patrons/gerardus/sag": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Gerardo Sagredo",
             "hu": "Sagredo Gellért",
-            "en": "Gerard Sagredo",
             "la": "Gerardus Sagredo",
+            "en": "Gerard Sagredo",
             "pl": "Gerard Sagredo"
         },
         "died": [

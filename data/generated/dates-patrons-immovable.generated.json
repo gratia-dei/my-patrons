@@ -5594,6 +5594,23 @@
             }
         }
     },
+    "09-24": {
+        "records/patrons/gerardus/sag": {
+            "name": {
+                "it": "Gerardo Sagredo",
+                "hu": "Sagredo Gellért",
+                "la": "Gerardus Sagredo",
+                "en": "Gerard Sagredo",
+                "pl": "Gerard Sagredo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 IX",
+                "mr-1584": "24 IX: #4",
+                "mr-1956": "24 IX: #3",
+                "mr-2004": "24 IX: #6"
+            }
+        }
+    },
     "09-25": {
         "records/patrons/sergius/rad": {
             "name": {
