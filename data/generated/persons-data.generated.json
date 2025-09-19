@@ -2733,7 +2733,7 @@
         "feasts": []
     },
     "patrons/catharina/fie": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Caterina da Genova",
             "la": "Catharina Genuensis",

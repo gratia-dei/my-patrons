@@ -1,43 +1,60 @@
 {
-  "names": {
-    "it": [
-      "Caterina da Genova",
-      "Caterina Fieschi"
+    "names": {
+        "it": [
+            "Caterina da Genova",
+            "Caterina Fieschi"
+        ],
+        "la": [
+            "Catharina Genuensis",
+            "Catharina Fieschi"
+        ],
+        "en": [
+            "Catherine of Genoa",
+            "Catherine Fieschi"
+        ],
+        "pl": [
+            "Katarzyna z Genui",
+            "Katarzyna Fieschi"
+        ]
+    },
+    "forenames": ["catharina"],
+    "surnames": [
+        {
+            "it": "Fieschi"
+        }
     ],
-    "la": [
-      "Catharina Genuensis",
-      "Catharina Fieschi"
-    ],
-    "en": [
-      "Catherine of Genoa",
-      "Catharine Fieschi"
-    ],
-    "pl": [
-      "Katarzyna z Genui",
-      "Katarzyna Fieschi"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Fieschi"
+    "active": true,
+
+    "born": ["1447"],
+    "died": ["1510-09-15"],
+    "beatified": {
+        "type": "equipollently",
+        "date": "1675-04-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1737-06-16"
+    },
+    "anniversary": ["09-15"],
+
+    "categories": ["femina", "vidua"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/15#15"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./15#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/caterina-da-genova.html",
+        "gcatholic": "https://gcatholic.org/p/68273",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_z_Genui"
     }
-  ],
-
-  "born": ["1447"],
-  "died": ["1510-09-15"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1675-04-06"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1737-04-16"
-  },
-
-  "also-in-martyrology": ["09-15"],
-
-  "forenames": ["catharina"],
-  "categories": ["femina", "vidua"]
 }
