@@ -4596,6 +4596,17 @@
                 "feast": "27 VIII"
             }
         },
+        "records/patrons/petrus/fav": {
+            "name": {
+                "fr": "Pierre-Sulpice-Christophe Faverge",
+                "la": "Petrus Sulpitius Christophorus Faverge",
+                "en": "Peter Sulpice Christopher Faverge",
+                "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+            },
+            "sources": {
+                "feast": "27 VIII"
+            }
+        },
         "records/patrons/monica/vid": {
             "name": {
                 "la": "Monica Thagastensis",
@@ -4929,6 +4940,20 @@
                 "mr-1584": "11 IX: #4",
                 "mr-1956": "11 IX: #4",
                 "mr-2004": "11 IX: #3"
+            }
+        }
+    },
+    "09-12": {
+        "records/patrons/petrus/fav": {
+            "name": {
+                "fr": "Pierre-Sulpice-Christophe Faverge",
+                "la": "Petrus Sulpitius Christophorus Faverge",
+                "en": "Peter Sulpice Christopher Faverge",
+                "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 IX",
+                "mr-2004": "12 IX: #7"
             }
         }
     },

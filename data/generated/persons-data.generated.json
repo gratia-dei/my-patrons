@@ -2856,7 +2856,8 @@
             "la": "Christophorus",
             "en": "Christopher",
             "pl": "Krzysztof",
-            "es": "Cristóbal"
+            "es": "Cristóbal",
+            "fr": "Christophe"
         }
     },
     "patrons/christophorus/lyc": {
@@ -10149,6 +10150,19 @@
         },
         "died": [
             "1868-08-01"
+        ],
+        "feasts": []
+    },
+    "patrons/petrus/fav": {
+        "active": true,
+        "names": {
+            "fr": "Pierre-Sulpice-Christophe Faverge",
+            "la": "Petrus Sulpitius Christophorus Faverge",
+            "en": "Peter Sulpice Christopher Faverge",
+            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
+        "died": [
+            "1794-09-12"
         ],
         "feasts": []
     },

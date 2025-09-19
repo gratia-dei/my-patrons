@@ -571,7 +571,8 @@
         "la": "Christophorus",
         "en": "Christopher",
         "pl": "Krzysztof",
-        "es": "Cristóbal"
+        "es": "Cristóbal",
+        "fr": "Christophe"
     },
     "chrysanthus": {
         "la": "Chrysanthus",
@@ -2285,6 +2286,12 @@
         "pl": "Stefan",
         "el": "Στέφανος",
         "fr": "Étienne"
+    },
+    "sulpitius": {
+        "la": "Sulpitius",
+        "en": "Sulpice",
+        "pl": "Sulpicjusz",
+        "fr": "Sulpice"
     },
     "susanna": {
         "la": "Susanna",

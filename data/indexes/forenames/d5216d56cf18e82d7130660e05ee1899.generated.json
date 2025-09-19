@@ -74,6 +74,12 @@
             "la": "Patrus Iulianus Eymard",
             "pl": "Piotr Julian Eymard"
         },
+        "records/patrons/petrus/fav": {
+            "fr": "Pierre-Sulpice-Christophe Faverge",
+            "la": "Petrus Sulpitius Christophorus Faverge",
+            "en": "Peter Sulpice Christopher Faverge",
+            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
         "records/patrons/petrus/lux": {
             "fr": "Pierre de Luxembourg",
             "en": "Peter of Luxembourg",

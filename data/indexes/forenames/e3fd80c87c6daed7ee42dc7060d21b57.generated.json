@@ -1,0 +1,28 @@
+{
+    "names": {
+        "en": "Sulpice",
+        "fr": "Sulpice"
+    },
+    "translations": {
+        "la": [
+            "Sulpitius"
+        ],
+        "en": [
+            "Sulpice"
+        ],
+        "pl": [
+            "Sulpicjusz"
+        ],
+        "fr": [
+            "Sulpice"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/fav": {
+            "fr": "Pierre-Sulpice-Christophe Faverge",
+            "la": "Petrus Sulpitius Christophorus Faverge",
+            "en": "Peter Sulpice Christopher Faverge",
+            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        }
+    }
+}

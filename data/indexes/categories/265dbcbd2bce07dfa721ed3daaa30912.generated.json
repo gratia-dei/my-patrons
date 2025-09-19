@@ -1551,6 +1551,12 @@
             "en": "Peter Edward Dankowski",
             "la": "Petrus Eduardus Dańkowski"
         },
+        "records/patrons/petrus/fav": {
+            "fr": "Pierre-Sulpice-Christophe Faverge",
+            "la": "Petrus Sulpitius Christophorus Faverge",
+            "en": "Peter Sulpice Christopher Faverge",
+            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
         "records/patrons/philippus/apo": {
             "la": "Philippus Apostolus",
             "en": "Philip Apostle",
