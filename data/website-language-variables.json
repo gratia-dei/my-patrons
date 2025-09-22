@@ -64,6 +64,11 @@
         "pl": "symbol"
     },
 
+    "lang-achievements-table-header-god-person-or-trinity-name": {
+        "en": "God Person or Trinity",
+        "pl": "Osoba Boska lub Trójca"
+    },
+
     "lang-achievements-table-header-last-year-suffix": {
         "en": "(last year)",
         "pl": "(ostatni rok)"
@@ -85,8 +90,8 @@
     },
 
     "lang-achievements-table-header-progress-points": {
-        "en": "progress points",
-        "pl": "punkty postępu"
+        "en": "progress points*",
+        "pl": "punkty postępu*"
     },
 
     "lang-achievements-table-header-roles-and-missions": {
@@ -130,8 +135,8 @@
     },
 
     "lang-achievements-section-patrons-rank-description": {
-        "en": "Patrons rank statistics:",
-        "pl": "Statystyki rankingu Patronów:"
+        "en": "Patrons rank statistics:<br /><br />* You can score progress points for <strong>up to 7 challenges</strong> of each type.",
+        "pl": "Statystyki rankingu Patronów:<br /><br />* Możesz zdobywać punkty postępu za <strong>maksymalnie 7 wyzwań</strong> każdego typu."
     },
 
     "lang-achievements-section-challenges-assigned-to-god-persons": {

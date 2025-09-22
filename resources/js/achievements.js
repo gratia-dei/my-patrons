@@ -12,6 +12,7 @@ requirejs(
     .set("CONTEXT_PREFIX", " - ")
     .set("MISSING_VALUE", "!!!")
     .set("NEWLINE_TAG", "<br />")
+    .set("INDENT_LINE_TEXT", "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
     .set("STRONG_TAG_OPENING", "<strong>")
     .set("STRONG_TAG_CLOSING", "</strong>")
 
@@ -253,12 +254,13 @@ requirejs(
         data[personId].count++;
         data[personId].last = challengeDateStr;
         data[personId].counts[challengeType] = (data[personId].counts[challengeType] ?? 0) + 1;
-        if (additionId.length > 0) {
-          const additionType = additionId.split('/')[0] ?? '!!!';
-          data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
-          data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
-          data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
-        }
+        ////addition info
+        //if (additionId.length > 0) {
+          //const additionType = additionId.split('/')[0] ?? '!!!';
+          //data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
+          //data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
+          //data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
+        //}
       }
 
       let dataArr = [];
@@ -279,7 +281,7 @@ requirejs(
       });
 
       const rowNumberColumnWidth = "40px";
-      const nameColumnWidth = "300px";
+      const nameColumnWidth = "500px";
       const pointsColumnWidth = "100px";
 
       let result = [];
@@ -294,13 +296,7 @@ requirejs(
           style: {
             width: nameColumnWidth
           },
-          content: uLanguage.getTranslation("lang-achievements-table-header-patron-name", true)
-        },
-        points: {
-          style: {
-            width: pointsColumnWidth
-          },
-          content: uLanguage.getTranslation("lang-achievements-table-header-progress-points", true)
+          content: uLanguage.getTranslation("lang-achievements-table-header-god-person-or-trinity-name", true)
         },
         count: uLanguage.getTranslation("lang-achievements-table-header-challenges-count", true),
         dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
@@ -335,13 +331,6 @@ requirejs(
               .replace(/#person-or-addition-url#/g, personId)
               .replace(/#person-or-addition-name#/g, name)
           },
-          points: {
-            style: {
-              width: pointsColumnWidth,
-              "text-align": uConst.get("TEXT_ALIGN_CENTER")
-            },
-            content: makeTextStrong('∞')
-          },
           count: {
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
@@ -359,7 +348,7 @@ requirejs(
 
         dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
 
-        let content = makeTextStrong(uLanguage.getTranslation("lang-all-challenges") + ' --- ') + getChallengeTypeCountsInfo(counts);
+        let content = uConst.get("INDENT_LINE_TEXT") + getChallengeTypeCountsInfo(counts) + ' (' + uLanguage.getTranslation("lang-all-challenges") + ')';
         for (const additionType in additionsCounts) {
           content += (uConst.get('NEWLINE_TAG') + makeTextStrong(uLanguage.getTranslation("lang-" + additionType) + ':'));
 
@@ -565,12 +554,13 @@ requirejs(
         data[personId].count++;
         data[personId].last = challengeDateStr;
         data[personId].counts[challengeType] = (data[personId].counts[challengeType] ?? 0) + 1;
-        if (additionId.length > 0) {
-          const additionType = additionId.split('/')[0] ?? '!!!';
-          data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
-          data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
-          data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
-        }
+        ////addition info
+        //if (additionId.length > 0) {
+          //const additionType = additionId.split('/')[0] ?? '!!!';
+          //data[personId].additionsCounts[additionType] = data[personId].additionsCounts[additionType] ?? {};
+          //data[personId].additionsCounts[additionType][additionId] = data[personId].additionsCounts[additionType][additionId] ?? {};
+          //data[personId].additionsCounts[additionType][additionId][challengeType] = ((data[personId].additionsCounts[additionType][additionId] ?? {})[challengeType] ?? 0) + 1;
+        //}
       }
 
       let dataArr = [];
@@ -675,7 +665,7 @@ requirejs(
 
         dates: uLanguage.getTranslation("lang-achievements-table-header-date-range", true)
 
-        let content = makeTextStrong(uLanguage.getTranslation("lang-all-challenges") + ' --- ') + getChallengeTypeCountsInfo(counts);
+        let content = uConst.get("INDENT_LINE_TEXT") + getChallengeTypeCountsInfo(counts) + ' (' + uLanguage.getTranslation("lang-all-challenges") + ')';
         for (const additionType in additionsCounts) {
           content += (uConst.get('NEWLINE_TAG') + makeTextStrong(uLanguage.getTranslation("lang-" + additionType) + ':'));
 
