@@ -1950,12 +1950,12 @@
         "feasts": []
     },
     "patrons/bartholomaeus/lon": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Bartolo Longo",
-            "en": "Bartolo Longo",
             "la": "Bartholomaeus Longo",
-            "pl": "Bartolo Longo"
+            "en": "Bartholomew Longo",
+            "pl": "Bartłomiej Longo"
         },
         "died": [
             "1926-10-05"

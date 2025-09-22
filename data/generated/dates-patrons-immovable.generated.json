@@ -6105,6 +6105,19 @@
         }
     },
     "10-05": {
+        "records/patrons/bartholomaeus/lon": {
+            "name": {
+                "it": "Bartolo Longo",
+                "la": "Bartholomaeus Longo",
+                "en": "Bartholomew Longo",
+                "pl": "Bartłomiej Longo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 X",
+                "feast": "5 X",
+                "mr-2004": "5 X: #17"
+            }
+        },
         "records/patrons/maria/kow": {
             "name": {
                 "pl": "Maria Faustyna Kowalska",
