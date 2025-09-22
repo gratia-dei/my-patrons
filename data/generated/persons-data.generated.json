@@ -2371,11 +2371,11 @@
         }
     },
     "patrons/bruno/ere": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Bruno von Köln",
-            "en": "Bruno of Cologne",
             "la": "Bruno Cartusiensis",
+            "en": "Bruno of Cologne",
             "pl": "Bruno Kartuz"
         },
         "died": [

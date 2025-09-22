@@ -1,34 +1,48 @@
 {
-  "names": {
-    "de": [
-      "Bruno von Köln"
-    ],
-    "en": [
-      "Bruno of Cologne"
-    ],
-    "la": [
-      "Bruno Cartusiensis",
-      "Bruno Cartusianus",
-      "Bruno Carthusianus"
-    ],
-    "pl": [
-      "Bruno Kartuz"
-    ]
-  },
+    "names": {
+        "de": [
+            "Bruno von Köln"
+        ],
+        "la": [
+            "Bruno Cartusiensis",
+            "Bruno Cartusianus",
+            "Bruno Carthusianus"
+        ],
+        "en": [
+            "Bruno of Cologne"
+        ],
+        "pl": [
+            "Bruno Kartuz"
+        ]
+    },
+    "forenames": ["bruno"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1030"],
-  "died": ["1101-10-06"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1623-02-17"
-  },
+    "born": ["~1030"],
+    "died": ["1101-10-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["10-06"],
+    "categories": ["vir", "confessor", "presbyter", "fundator", "institutor", "eremita", "coenobita"],
 
-  "forenames": ["bruno"],
-  "categories": ["vir", "confessor", "presbyter", "fundator", "institutor", "eremita"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ocart"],
-  "order-founder": ["ocart"]
+        "mr-1956": ["1:Octobris/6#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/50085",
+        "wiki": "https://pl.wikipedia.org/wiki/Bruno_Kartuz"
+    }
 }

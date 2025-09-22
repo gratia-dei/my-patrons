@@ -6131,6 +6131,21 @@
             }
         }
     },
+    "10-06": {
+        "records/patrons/bruno/ere": {
+            "name": {
+                "de": "Bruno von Köln",
+                "la": "Bruno Cartusiensis",
+                "en": "Bruno of Cologne",
+                "pl": "Bruno Kartuz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 X",
+                "mr-1956": "6 X: #1",
+                "mr-2004": "6 X: #1"
+            }
+        }
+    },
     "10-07": {
         "records/patrons/iustina/pat": {
             "name": {
