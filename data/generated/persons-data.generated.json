@@ -8141,11 +8141,11 @@
         "feasts": []
     },
     "patrons/maria/kow": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Faustyna Kowalska",
-            "en": "Maria Faustyna Kowalska",
-            "la": "Maria Faustina Kowalska"
+            "la": "Maria Faustina Kowalska",
+            "en": "Maria Faustyna Kowalska"
         },
         "died": [
             "1938-10-05"

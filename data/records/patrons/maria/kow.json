@@ -1,41 +1,56 @@
 {
-  "names": {
-    "pl": [
-      "Maria Faustyna Kowalska",
-      "Helena Kowalska"
+    "names": {
+        "pl": [
+            "Maria Faustyna Kowalska",
+            "Helena Kowalska"
+        ],
+        "la": [
+            "Maria Faustina Kowalska",
+            "Helena Kowalska"
+        ],
+        "en": [
+            "Maria Faustyna Kowalska",
+            "Helena Kowalska"
+        ]
+    },
+    "forenames": ["maria", "faustina", "helena"],
+    "surnames": [
+        {
+            "pl": "Kowalska"
+        }
     ],
-    "en": [
-      "Maria Faustyna Kowalska",
-      "Helena Kowalska",
-      "Maria Faustyna Kowalska of the Blessed Sacrament"
-    ],
-    "la": [
-      "Maria Faustina Kowalska",
-      "Helena Kowalska"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Kowalska"
+    "active": true,
+
+    "born": ["1905-08-25"],
+    "died": ["1938-10-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1993-04-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-04-30"
+    },
+    "anniversary": ["10-05"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./5#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-faustyna-kowalska.html",
+        "gcatholic": "https://gcatholic.org/p/67238",
+        "wiki": "https://pl.wikipedia.org/wiki/Faustyna_Kowalska"
     }
-  ],
-
-  "born": ["1905-08-25"],
-  "died": ["1938-10-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1993-04-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-04-30"
-  },
-
-  "also-in-martyrology": ["10-05"],
-
-  "forenames": ["maria", "faustina", "helena"],
-  "categories": ["femina", "virgo"],
-  "order": ["olm"]
 }

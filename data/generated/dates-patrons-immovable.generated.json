@@ -6066,6 +6066,20 @@
             }
         }
     },
+    "10-05": {
+        "records/patrons/maria/kow": {
+            "name": {
+                "pl": "Maria Faustyna Kowalska",
+                "la": "Maria Faustina Kowalska",
+                "en": "Maria Faustyna Kowalska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 X",
+                "feast": "5 X",
+                "mr-2004": "5 X: #19"
+            }
+        }
+    },
     "10-07": {
         "records/patrons/iustina/pat": {
             "name": {
