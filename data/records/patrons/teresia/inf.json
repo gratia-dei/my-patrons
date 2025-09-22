@@ -1,47 +1,71 @@
 {
-  "names": {
-    "fr": [
-      "Thérèse de Lisieux",
-      "Thérèse de l'Enfant-Jésus"
+    "names": {
+        "fr": [
+            "Thérèse de Lisieux",
+            "Thérèse de l'Enfant-Jésus"
+        ],
+        "la": [
+            "Teresia Lexoviensis",
+            "Teresa a Iesu Infante",
+            "Teresia a Iesu Infante",
+            "Teresia a Iesu Infante et a Sacro Vultu",
+            "Teresina"
+        ],
+        "en": [
+            "Therese of Lisieux",
+            "Thérèse of the Child Jesus",
+            "Therese of the Child Jesus and the Holy Face",
+            "Little Flower"
+        ],
+        "pl": [
+            "Teresa z Lisieux",
+            "Teresa od Dzieciątka Jezus",
+            "Teresa od Dzieciątka Jezus i Najświętszego Oblicza",
+            "Mała Teresa",
+            "Mały Kwiatek"
+        ]
+    },
+    "forenames": ["teresia"],
+    "surnames": null,
+    "epithets": [
+        {
+            "fr": "de l'Enfant-Jésus",
+            "la": ["a Iesu Infante", "a Jesu Infante"],
+            "en": "of the Child Jesus",
+            "pl": "od Dzieciątka Jezus"
+        }
     ],
-    "en": [
-      "Therese of Lisieux",
-      "Thérèse of the Child Jesus",
-      "Therese of the Child Jesus and the Holy Face",
-      "Little Flower"
-    ],
-    "la": [
-      "Teresia Lexoviensis",
-      "Teresa a Iesu Infante",
-      "Teresia a Iesu Infante",
-      "Teresia a Iesu Infante et a Sacro Vultu",
-      "Teresina"
-    ],
-    "pl": [
-      "Teresa z Lisieux",
-      "Teresa od Dzieciątka Jezus",
-      "Teresa od Dzieciątka Jezus i Najświętszego Oblicza",
-      "Mała Teresa",
-      "Mały Kwiatek"
-    ]
-  },
 
-  "born": ["1873-01-02"],
-  "died": ["1897-09-30"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1923-04-29"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1925-05-17"
-  },
+    "born": ["1873-01-02"],
+    "died": ["1897-09-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1923-04-29"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1925-05-17"
+    },
+    "anniversary": ["10-01"],
 
-  "also-in-martyrology": ["09-30", "10-01", "10-03"],
+    "categories": ["femina", "virgo", "doctor-ecclesiae"],
 
-  "forenames": ["teresia"],
-  "categories": ["femina", "virgo", "doctor-ecclesiae"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ocd"]
+        "mr-1956": ["1:Septembris/30#3", "1:Octobris/3#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./30#14", "1:oct./1#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/teresa-di-gesu-bambino-di-lisieux.html",
+        "gcatholic": "https://gcatholic.org/p/67019",
+        "wiki": "https://pl.wikipedia.org/wiki/Teresa_z_Lisieux"
+    }
 }

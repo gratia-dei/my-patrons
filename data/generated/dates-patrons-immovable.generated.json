@@ -5978,6 +5978,33 @@
                 "mr-1956": "30 IX: #1",
                 "mr-2004": "30 IX: #1"
             }
+        },
+        "records/patrons/teresia/inf": {
+            "name": {
+                "fr": "Thérèse de Lisieux",
+                "la": "Teresia Lexoviensis",
+                "en": "Therese of Lisieux",
+                "pl": "Teresa z Lisieux"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 IX",
+                "mr-1956": "30 IX: #3",
+                "mr-2004": "30 IX: #14"
+            }
+        }
+    },
+    "10-01": {
+        "records/patrons/teresia/inf": {
+            "name": {
+                "fr": "Thérèse de Lisieux",
+                "la": "Teresia Lexoviensis",
+                "en": "Therese of Lisieux",
+                "pl": "Teresa z Lisieux"
+            },
+            "sources": {
+                "feast": "1 X",
+                "mr-2004": "1 X: #1"
+            }
         }
     },
     "10-02": {
@@ -6037,6 +6064,17 @@
             },
             "sources": {
                 "reliable-death-anniversary": "3 X"
+            }
+        },
+        "records/patrons/teresia/inf": {
+            "name": {
+                "fr": "Thérèse de Lisieux",
+                "la": "Teresia Lexoviensis",
+                "en": "Therese of Lisieux",
+                "pl": "Teresa z Lisieux"
+            },
+            "sources": {
+                "mr-1956": "3 X: #1"
             }
         },
         "records/patrons/dionysius/are": {

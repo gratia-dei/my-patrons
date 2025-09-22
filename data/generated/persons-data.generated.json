@@ -11958,11 +11958,11 @@
         "feasts": []
     },
     "patrons/teresia/inf": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Thérèse de Lisieux",
-            "en": "Therese of Lisieux",
             "la": "Teresia Lexoviensis",
+            "en": "Therese of Lisieux",
             "pl": "Teresa z Lisieux"
         },
         "died": [

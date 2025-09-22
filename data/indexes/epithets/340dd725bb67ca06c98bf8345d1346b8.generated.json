@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "a Iesu Infante"
+    },
+    "translations": {
+        "fr": [
+            "de l'Enfant-Jésus"
+        ],
+        "la": [
+            "a Iesu Infante",
+            "a Jesu Infante"
+        ],
+        "en": [
+            "of the Child Jesus"
+        ],
+        "pl": [
+            "od Dzieciątka Jezus"
+        ]
+    },
+    "links": {
+        "records/patrons/teresia/inf": {
+            "fr": "Thérèse de Lisieux",
+            "la": "Teresia Lexoviensis",
+            "en": "Therese of Lisieux",
+            "pl": "Teresa z Lisieux"
+        }
+    }
+}
