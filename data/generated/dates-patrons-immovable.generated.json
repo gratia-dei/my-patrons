@@ -5996,6 +5996,19 @@
         }
     },
     "09-30": {
+        "records/patrons/franciscus/bor": {
+            "name": {
+                "es": "Francisco de Borja",
+                "la": "Franciscus Borgia",
+                "en": "Francis Borgia",
+                "pl": "Franciszek Borgiasz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 IX",
+                "mr-1956": "30 IX: #2",
+                "mr-2004": "30 IX: #11"
+            }
+        },
         "records/patrons/hieronymus/dal": {
             "name": {
                 "la": "Hieronymus Stridonensis",
@@ -6276,6 +6289,19 @@
                 "mr-1584": "9 X: #1",
                 "mr-1956": "9 X: #2",
                 "mr-2004": "9 X: #1"
+            }
+        }
+    },
+    "10-10": {
+        "records/patrons/franciscus/bor": {
+            "name": {
+                "es": "Francisco de Borja",
+                "la": "Franciscus Borgia",
+                "en": "Francis Borgia",
+                "pl": "Franciszek Borgiasz"
+            },
+            "sources": {
+                "mr-1956": "10 X: #1"
             }
         }
     },

@@ -4469,11 +4469,11 @@
         }
     },
     "patrons/franciscus/bor": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Francisco de Borja",
-            "en": "Francis Borgia",
             "la": "Franciscus Borgia",
+            "en": "Francis Borgia",
             "pl": "Franciszek Borgiasz"
         },
         "died": [

@@ -1,44 +1,59 @@
 {
-  "names": {
-    "es": [
-      "Francisco de Borja"
+    "names": {
+        "es": [
+            "Francisco de Borja"
+        ],
+        "la": [
+            "Franciscus Borgia"
+        ],
+        "en": [
+            "Francis Borgia"
+        ],
+        "pl": [
+            "Franciszek Borgiasz"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "es": "de Borja",
+            "en": "Borgia",
+            "la": ["Borgia", "de Borja"],
+            "pl": "Borgiasz"
+        }
     ],
-    "en": [
-      "Francis Borgia"
-    ],
-    "la": [
-      "Franciscus Borgia"
-    ],
-    "pl": [
-      "Franciszek Borgiasz"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "es": "de Borja",
-      "en": "Borgia",
-      "la": ["Borgia", "de Borja"],
-      "pl": "Borgiasz"
+    "active": true,
+
+    "born": ["1510-10-28"],
+    "died": ["1572-09-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1624-11-23"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1671-04-12"
+    },
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "coniunx", "sacerdos", "presbyter", "generalis"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/30#2", "1:Octobris/10#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./30#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francesco-borgia.html",
+        "gcatholic": "https://gcatholic.org/p/24386",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Borgiasz"
     }
-  ],
-
-  "born": ["1510-10-28"],
-  "died": ["1572-09-30"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1624-11-23"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1670-06-20"
-  },
-
-  "also-in-martyrology": ["09-30", "10-10"],
-
-  "forenames": ["franciscus"],
-  "categories": ["vir", "confessor", "coniunx", "sacerdos", "presbyter", "generalis"],
-
-  "order": ["sj"]
 }

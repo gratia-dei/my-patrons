@@ -74,8 +74,8 @@
         },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
-            "en": "Francis Borgia",
             "la": "Franciscus Borgia",
+            "en": "Francis Borgia",
             "pl": "Franciszek Borgiasz"
         },
         "records/patrons/franciscus/xav": {
