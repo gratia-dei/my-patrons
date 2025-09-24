@@ -1447,6 +1447,11 @@
             "en": "John; with him, i.a., Abundius",
             "pl": "Jan; z nim, m.in., Abundiusz"
         },
+        "records/patrons/ioannes/ada": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        },
         "records/patrons/ioannes/bap": {
             "he": "יוחנן המטביל",
             "la": "Ioannes Baptista",
@@ -2394,6 +2399,11 @@
             "en": "Robert Bellarmine",
             "la": "Robertus Bellarminus",
             "pl": "Robert Bellarmin"
+        },
+        "records/patrons/robertus/dib": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
         },
         "records/patrons/robertus/nov": {
             "la": "Robertus Novomonasteriensis",

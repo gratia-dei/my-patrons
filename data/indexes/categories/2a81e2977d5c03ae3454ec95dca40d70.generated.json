@@ -389,6 +389,11 @@
             "la": "Innocentius Guz",
             "en": "Innocent Guz"
         },
+        "records/patrons/ioannes/ada": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        },
         "records/patrons/ioannes/bos": {
             "it": "Giovanni Bosco",
             "la": "Ioannes Bosco",
@@ -708,6 +713,11 @@
             "la": "Richarius Centulensis",
             "en": "Richarius of Centula",
             "pl": "Richariusz z Centuli"
+        },
+        "records/patrons/robertus/dib": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
         },
         "records/patrons/romanus/ada": {
             "es": "Román Adame Rosales",

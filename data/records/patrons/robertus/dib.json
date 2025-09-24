@@ -1,26 +1,26 @@
 {
     "names": {
         "en": [
-            "John Lowe"
+            "Robert Dibdale"
         ],
         "la": [
-            "Ioannes Lowe"
+            "Robertus Dibdale"
         ],
         "pl": [
-            "Jan Lowe"
+            "Robert Dibdale"
         ]
     },
-    "forenames": ["ioannes"],
+    "forenames": ["robertus"],
     "surnames": [
         {
-            "en": "Lowe"
+            "en": "Dibdale"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["~1553"],
+    "born": ["~1556"],
     "died": ["1586-10-08"],
     "beatified": {
         "type": "ceremonially",
@@ -38,15 +38,15 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["3:oct./8#7"],
+        "mr-2004": ["2:oct./8#7"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/85-martiri-inglesi.html",
-        "gcatholic": "https://gcatholic.org/p/66871",
+        "gcatholic": "https://gcatholic.org/p/66873",
         "wiki": [
-            "https://en.wikipedia.org/wiki/John_Lowe_(martyr)",
+            "https://en.wikipedia.org/wiki/Robert_Dibdale",
             "https://pl.wikipedia.org/wiki/Osiemdziesi%C4%99ciu_pi%C4%99ciu_m%C4%99czennik%C3%B3w_Anglii_i_Walii"
         ]
     }

@@ -897,6 +897,11 @@
             "en": "John; with him, i.a., Abundius",
             "pl": "Jan; z nim, m.in., Abundiusz"
         },
+        "records/patrons/ioannes/ada": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        },
         "records/patrons/ioannes/bap": {
             "he": "יוחנן המטביל",
             "la": "Ioannes Baptista",
@@ -1625,6 +1630,11 @@
             "la": "Revocatus Carthaginensis",
             "en": "Revocatus of Carthage",
             "pl": "Rewokatus z Kartaginy"
+        },
+        "records/patrons/robertus/dib": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
         },
         "records/patrons/romanus/ada": {
             "es": "Román Adame Rosales",

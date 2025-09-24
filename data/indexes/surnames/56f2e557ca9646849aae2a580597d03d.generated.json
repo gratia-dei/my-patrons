@@ -1,0 +1,17 @@
+{
+    "names": {
+        "en": "Dibdale"
+    },
+    "translations": {
+        "en": [
+            "Dibdale"
+        ]
+    },
+    "links": {
+        "records/patrons/robertus/dib": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
+        }
+    }
+}

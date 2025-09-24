@@ -5979,6 +5979,18 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/ada": {
+        "active": true,
+        "names": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        },
+        "died": [
+            "1586-10-08"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/bap": {
         "active": true,
         "names": {
@@ -6274,7 +6286,7 @@
         "feasts": []
     },
     "patrons/ioannes/low": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "John Lowe",
             "la": "Ioannes Lowe",
@@ -10711,6 +10723,18 @@
         },
         "died": [
             "1621-09-17"
+        ],
+        "feasts": []
+    },
+    "patrons/robertus/dib": {
+        "active": true,
+        "names": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
+        },
+        "died": [
+            "1586-10-08"
         ],
         "feasts": []
     },

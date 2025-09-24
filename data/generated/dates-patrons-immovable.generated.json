@@ -1963,6 +1963,36 @@
                 "mr-2004": "4 V: #5"
             }
         },
+        "records/patrons/ioannes/ada": {
+            "name": {
+                "en": "John Adams",
+                "la": "Ioannes Adams",
+                "pl": "Jan Adams"
+            },
+            "sources": {
+                "feast": "4 V"
+            }
+        },
+        "records/patrons/ioannes/low": {
+            "name": {
+                "en": "John Lowe",
+                "la": "Ioannes Lowe",
+                "pl": "Jan Lowe"
+            },
+            "sources": {
+                "feast": "4 V"
+            }
+        },
+        "records/patrons/robertus/dib": {
+            "name": {
+                "en": "Robert Dibdale",
+                "la": "Robertus Dibdale",
+                "pl": "Robert Dibdale"
+            },
+            "sources": {
+                "feast": "4 V"
+            }
+        },
         "records/patrons/monica/vid": {
             "name": {
                 "la": "Monica Thagastensis",
@@ -6158,6 +6188,41 @@
                 "mr-1584": "7 X: #5",
                 "mr-1956": "7 X: #6",
                 "mr-2004": "7 X: #3"
+            }
+        }
+    },
+    "10-08": {
+        "records/patrons/ioannes/ada": {
+            "name": {
+                "en": "John Adams",
+                "la": "Ioannes Adams",
+                "pl": "Jan Adams"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 X",
+                "mr-2004": "8 X: #7"
+            }
+        },
+        "records/patrons/ioannes/low": {
+            "name": {
+                "en": "John Lowe",
+                "la": "Ioannes Lowe",
+                "pl": "Jan Lowe"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 X",
+                "mr-2004": "8 X: #7"
+            }
+        },
+        "records/patrons/robertus/dib": {
+            "name": {
+                "en": "Robert Dibdale",
+                "la": "Robertus Dibdale",
+                "pl": "Robert Dibdale"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 X",
+                "mr-2004": "8 X: #7"
             }
         }
     },

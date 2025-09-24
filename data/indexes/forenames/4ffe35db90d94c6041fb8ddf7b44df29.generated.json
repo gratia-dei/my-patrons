@@ -24,6 +24,11 @@
             "la": "Robertus Bellarminus",
             "pl": "Robert Bellarmin"
         },
+        "records/patrons/robertus/dib": {
+            "en": "Robert Dibdale",
+            "la": "Robertus Dibdale",
+            "pl": "Robert Dibdale"
+        },
         "records/patrons/robertus/nov": {
             "la": "Robertus Novomonasteriensis",
             "en": "Robert of Newminster",

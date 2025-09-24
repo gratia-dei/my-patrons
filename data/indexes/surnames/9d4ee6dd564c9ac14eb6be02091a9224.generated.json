@@ -1,0 +1,17 @@
+{
+    "names": {
+        "en": "Adams"
+    },
+    "translations": {
+        "en": [
+            "Adams"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/ada": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        }
+    }
+}
