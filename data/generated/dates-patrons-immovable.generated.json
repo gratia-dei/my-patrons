@@ -1735,6 +1735,18 @@
             }
         }
     },
+    "04-24": {
+        "records/patrons/wilfridus/ebo": {
+            "name": {
+                "en": "Wilfrid of York",
+                "la": "Wilfridus Eboracensis",
+                "pl": "Wilfryd z Yorku"
+            },
+            "sources": {
+                "mr-2004": "24 IV: #8"
+            }
+        }
+    },
     "04-25": {
         "records/patrons/marcus/eva": {
             "name": {
@@ -6329,6 +6341,16 @@
             "sources": {
                 "reliable-death-anniversary": "12 X",
                 "feast": "12 X"
+            }
+        },
+        "records/patrons/wilfridus/ebo": {
+            "name": {
+                "en": "Wilfrid of York",
+                "la": "Wilfridus Eboracensis",
+                "pl": "Wilfryd z Yorku"
+            },
+            "sources": {
+                "mr-1956": "12 X: #6"
             }
         }
     },

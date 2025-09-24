@@ -12900,7 +12900,7 @@
         }
     },
     "patrons/wilfridus/ebo": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Wilfrid of York",
             "la": "Wilfridus Eboracensis",
