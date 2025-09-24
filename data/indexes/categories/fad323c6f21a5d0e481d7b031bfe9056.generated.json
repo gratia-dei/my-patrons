@@ -700,6 +700,11 @@
             "la": "Franciscus Kęsy",
             "en": "Franciszek Kęsy"
         },
+        "records/patrons/franciscus/ros": {
+            "pl": "Franciszek Rosłaniec",
+            "la": "Franciscus Rosłaniec",
+            "en": "Francis Rosłaniec"
+        },
         "records/patrons/franciscus/str": {
             "pl": "Franciszek Stryjas",
             "en": "Francis Stryjas",
@@ -1798,6 +1803,11 @@
             "pl": "Stanisław Kubski",
             "la": "Stanislaus Kubski",
             "en": "Stanislaus Kubski"
+        },
+        "records/patrons/stanislaus/mys": {
+            "pl": "Stanisław Mysakowski",
+            "la": "Stanislaus Mysakowski",
+            "en": "Stanislaus Mysakowski"
         },
         "records/patrons/stanislaus/sta": {
             "pl": "Stanisław Starowieyski",

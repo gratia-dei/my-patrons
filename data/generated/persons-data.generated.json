@@ -4557,6 +4557,19 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/ros": {
+        "active": true,
+        "names": {
+            "pl": "Franciszek Rosłaniec",
+            "la": "Franciscus Rosłaniec",
+            "en": "Francis Rosłaniec"
+        },
+        "died": [
+            ">1942-10-14",
+            "<1942-11-24"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/sal": {
         "active": false,
         "names": {
@@ -11754,6 +11767,19 @@
         },
         "died": [
             "1942-05-18"
+        ],
+        "feasts": []
+    },
+    "patrons/stanislaus/mys": {
+        "active": true,
+        "names": {
+            "pl": "Stanisław Mysakowski",
+            "la": "Stanislaus Mysakowski",
+            "en": "Stanislaus Mysakowski"
+        },
+        "died": [
+            ">1942-10-14",
+            "<1942-10-30"
         ],
         "feasts": []
     },

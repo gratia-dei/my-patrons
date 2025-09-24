@@ -1,27 +1,23 @@
 {
     "1": {
-        "page": "...",
+        "page": 570,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -41,6 +37,7 @@
     },
 
     "9": {
+        "page": 571,
         "mark": "*",
         "la": "..."
     },
@@ -57,45 +54,10 @@
 
     "12": {
         "mark": "*",
-        "la": "..."
+        "la": "Intra castra detentionis Dachani prope Monachium Bavariae in Germania, beatorum [1|Stanislai Mysakowski] et [2|Francisci Rosłaniec], presbyterorum et martyrum, ..."
     },
 
     "13": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

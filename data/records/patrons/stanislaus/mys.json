@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Stanisław Mysakowski"
+        ],
+        "la": [
+            "Stanislaus Mysakowski"
+        ],
+        "en": [
+            "Stanislaus Mysakowski"
+        ]
+    },
+    "forenames": ["stanislaus"],
+    "surnames": [
+        {
+            "pl": "Mysakowski"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1896-09-15"],
+    "died": [">1942-10-14", "<1942-10-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["10-14"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./14#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67795",
+        "wiki": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Mysakowski"
+    }
+}

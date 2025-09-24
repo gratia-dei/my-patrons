@@ -73,6 +73,11 @@
             "la": "Franciscus de Paula",
             "pl": "Franciszek z Paoli"
         },
+        "records/patrons/franciscus/ros": {
+            "pl": "Franciszek Rosłaniec",
+            "la": "Franciscus Rosłaniec",
+            "en": "Francis Rosłaniec"
+        },
         "records/patrons/franciscus/sal": {
             "fr": "François de Sales",
             "en": "Francis de Sales",

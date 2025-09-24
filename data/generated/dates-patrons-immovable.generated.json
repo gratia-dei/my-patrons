@@ -6354,6 +6354,30 @@
             }
         }
     },
+    "10-14": {
+        "records/patrons/franciscus/ros": {
+            "name": {
+                "pl": "Franciszek Rosłaniec",
+                "la": "Franciscus Rosłaniec",
+                "en": "Francis Rosłaniec"
+            },
+            "sources": {
+                "feast": "14 X",
+                "mr-2004": "14 X: #12"
+            }
+        },
+        "records/patrons/stanislaus/mys": {
+            "name": {
+                "pl": "Stanisław Mysakowski",
+                "la": "Stanislaus Mysakowski",
+                "en": "Stanislaus Mysakowski"
+            },
+            "sources": {
+                "feast": "14 X",
+                "mr-2004": "14 X: #12"
+            }
+        }
+    },
     "10-15": {
         "records/patrons/hedwigis/duc": {
             "name": {

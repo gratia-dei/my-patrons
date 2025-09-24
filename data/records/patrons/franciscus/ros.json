@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Franciszek Rosłaniec"
+        ],
+        "la": [
+            "Franciscus Rosłaniec"
+        ],
+        "en": [
+            "Francis Rosłaniec"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "pl": "Rosłaniec"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1889-12-19"],
+    "died": [">1942-10-14", "<1942-11-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["10-14"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:oct./14#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67796",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Ros%C5%82aniec"
+    }
+}

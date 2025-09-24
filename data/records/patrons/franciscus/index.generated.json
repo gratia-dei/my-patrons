@@ -45,6 +45,11 @@
         "la": "Franciscus de Paula",
         "pl": "Franciszek z Paoli"
     },
+    "ros": {
+        "pl": "Franciszek Rosłaniec",
+        "la": "Franciscus Rosłaniec",
+        "en": "Francis Rosłaniec"
+    },
     "sal": {
         "fr": "François de Sales",
         "en": "Francis de Sales",
