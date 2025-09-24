@@ -315,6 +315,18 @@
                 "mr-1584": "1 II: #5"
             }
         },
+        "records/patrons/ignatius/ant": {
+            "name": {
+                "grc": "Ἰγνάτιος Ἀντιοχείας",
+                "la": "Ignatius Antiochenus",
+                "en": "Ignatius of Antioch",
+                "pl": "Ignacy Antiocheński"
+            },
+            "sources": {
+                "mr-1584": "1 II: #1",
+                "mr-1956": "1 II: #1"
+            }
+        },
         "records/patrons/tryphon/phr": {
             "name": {
                 "la": "Tryphon de Phrygia",
@@ -6497,6 +6509,17 @@
                 "mr-1956": "17 X: #1",
                 "mr-2004": "17 X: #12"
             }
+        },
+        "records/patrons/ignatius/ant": {
+            "name": {
+                "grc": "Ἰγνάτιος Ἀντιοχείας",
+                "la": "Ignatius Antiochenus",
+                "en": "Ignatius of Antioch",
+                "pl": "Ignacy Antiocheński"
+            },
+            "sources": {
+                "mr-2004": "17 X: #1"
+            }
         }
     },
     "10-18": {
@@ -7574,6 +7597,19 @@
                 "reliable-death-anniversary": "19 XII",
                 "mr-1956": "19 XII: #6",
                 "mr-2004": "19 XII: #1"
+            }
+        }
+    },
+    "12-20": {
+        "records/patrons/ignatius/ant": {
+            "name": {
+                "grc": "Ἰγνάτιος Ἀντιοχείας",
+                "la": "Ignatius Antiochenus",
+                "en": "Ignatius of Antioch",
+                "pl": "Ignacy Antiocheński"
+            },
+            "sources": {
+                "mr-1956": "20 XII: #3"
             }
         }
     },

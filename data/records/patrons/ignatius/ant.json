@@ -1,24 +1,61 @@
 {
-  "names": {
-    "grc": [
-      "Ἰγνάτιος Ἀντιοχείας"
-    ],
-    "en": [
-      "Ignatius of Antioch"
-    ],
-    "la": [
-      "Ignatius Antiochenus"
-    ],
-    "pl": [
-      "Ignacy Antiocheński"
-    ]
-  },
+    "names": {
+        "grc": [
+            "Ἰγνάτιος Ἀντιοχείας"
+        ],
+        "la": [
+            "Ignatius Antiochenus"
+        ],
+        "en": [
+            "Ignatius of Antioch"
+        ],
+        "pl": [
+            "Ignacy Antiocheński"
+        ]
+    },
+    "forenames": ["ignatius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~30"],
-  "died": ["~107"],
+    "active": true,
 
-  "also-in-martyrology": ["02-01", "10-17", "12-20"],
+    "born": ["~30"],
+    "died": ["~107"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["ignatius"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./1#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/1#1", "1:Decembris/20#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tia": {
+            "data-links": {
+                "mr-1584": ["1:Dec./17#6"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Decembris/17#8"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/29797",
+        "wiki": "https://pl.wikipedia.org/wiki/Ignacy_Antioche%C5%84ski"
+    }
 }

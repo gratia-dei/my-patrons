@@ -5762,17 +5762,25 @@
         }
     },
     "patrons/ignatius/ant": {
-        "active": false,
+        "active": true,
         "names": {
             "grc": "Ἰγνάτιος Ἀντιοχείας",
-            "en": "Ignatius of Antioch",
             "la": "Ignatius Antiochenus",
+            "en": "Ignatius of Antioch",
             "pl": "Ignacy Antiocheński"
         },
         "died": [
             "~107"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tia": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Ignatii, Episcopi et Martyris",
+                    "pl": "Przeniesienie świętego Ignacego, Biskupa i Męczennika"
+                }
+            }
+        }
     },
     "patrons/ignatius/kim": {
         "active": true,

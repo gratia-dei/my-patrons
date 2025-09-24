@@ -1507,6 +1507,18 @@
             }
         }
     },
+    "12-17": {
+        "records/patrons/ignatius/ant#tia": {
+            "name": {
+                "la": "Ignatius Antiochenus (Translatio sancti Ignatii, Episcopi et Martyris)",
+                "pl": "Ignacy Antiocheński (Przeniesienie świętego Ignacego, Biskupa i Męczennika)"
+            },
+            "sources": {
+                "mr-1584": "17 XII: #6",
+                "mr-1956": "17 XII: #8"
+            }
+        }
+    },
     "12-24": {
         "records/god/fil#nav": {
             "name": {
