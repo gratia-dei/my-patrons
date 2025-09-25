@@ -968,9 +968,9 @@
             "pl": "Felicjan z Kartaginy"
         },
         "records/patrons/felicissimus/rog": {
-            "la": "Felicissimus /+ Rogatianus",
-            "en": "Felicissimus /+ Rogatian",
-            "pl": "Felicyssym /+ Rogacjan"
+            "la": "Felicissimus Carthaginensis",
+            "en": "Felicissimus of Carthage",
+            "pl": "Felicyssym z Kartaginy"
         },
         "records/patrons/felix/2ap": {
             "la": "Felix II, antipapa",
@@ -2420,6 +2420,11 @@
             "la": "Rochus, peregrinus",
             "en": "Roch of Montpellier",
             "pl": "Roch z Montpellier"
+        },
+        "records/patrons/rogatianus/car": {
+            "la": "Rogatianus Carthaginensis",
+            "en": "Rogatian of Carthage",
+            "pl": "Rogacjan z Kartaginy"
         },
         "records/patrons/romanus/abb": {
             "fr": "Romain de Condat",

@@ -4153,15 +4153,14 @@
         }
     },
     "patrons/felicissimus/rog": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Felicissimus /+ Rogatianus",
-            "en": "Felicissimus /+ Rogatian",
-            "pl": "Felicyssym /+ Rogacjan"
+            "la": "Felicissimus Carthaginensis",
+            "en": "Felicissimus of Carthage",
+            "pl": "Felicyssym z Kartaginy"
         },
         "died": [
-            "~256",
-            "~304"
+            "~256"
         ],
         "feasts": []
     },
@@ -10805,6 +10804,25 @@
         },
         "died": [
             "~1379"
+        ],
+        "feasts": []
+    },
+    "patrons/rogatianus": {
+        "names": {
+            "la": "Rogatianus",
+            "en": "Rogatian",
+            "pl": "Rogacjan"
+        }
+    },
+    "patrons/rogatianus/car": {
+        "active": true,
+        "names": {
+            "la": "Rogatianus Carthaginensis",
+            "en": "Rogatian of Carthage",
+            "pl": "Rogacjan z Kartaginy"
+        },
+        "died": [
+            "~256"
         ],
         "feasts": []
     },

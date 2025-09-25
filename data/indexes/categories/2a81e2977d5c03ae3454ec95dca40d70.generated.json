@@ -724,6 +724,11 @@
             "la": "Robertus Dibdale",
             "pl": "Robert Dibdale"
         },
+        "records/patrons/rogatianus/car": {
+            "la": "Rogatianus Carthaginensis",
+            "en": "Rogatian of Carthage",
+            "pl": "Rogacjan z Kartaginy"
+        },
         "records/patrons/romanus/ada": {
             "es": "Román Adame Rosales",
             "la": "Romanus Adame Rosales",

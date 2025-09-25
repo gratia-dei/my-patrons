@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Rogatian"
+    },
+    "translations": {
+        "la": [
+            "Rogatianus"
+        ],
+        "en": [
+            "Rogatian"
+        ],
+        "pl": [
+            "Rogacjan"
+        ]
+    },
+    "links": {
+        "records/patrons/rogatianus/car": {
+            "la": "Rogatianus Carthaginensis",
+            "en": "Rogatian of Carthage",
+            "pl": "Rogacjan z Kartaginy"
+        }
+    }
+}

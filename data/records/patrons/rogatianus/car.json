@@ -1,16 +1,16 @@
 {
     "names": {
         "la": [
-            "Felicissimus Carthaginensis"
+            "Rogatianus Carthaginensis"
         ],
         "en": [
-            "Felicissimus of Carthage"
+            "Rogatian of Carthage"
         ],
         "pl": [
-            "Felicyssym z Kartaginy"
+            "Rogacjan z Kartaginy"
         ]
     },
-    "forenames": ["felicissimus"],
+    "forenames": ["rogatianus"],
     "surnames": null,
     "epithets": null,
 
@@ -22,22 +22,22 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["vir", "martyr"],
+    "categories": ["vir", "martyr", "presbyter"],
 
     "data-links": {
-        "mr-1584": ["2:Oct./26#2"],
+        "mr-1584": ["1:Oct./26#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["2:Octobris/26#2"],
+        "mr-1956": ["1:Octobris/26#2"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["2:oct./26#2"],
+        "mr-2004": ["1:oct./26#2"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/72945",
+        "gcatholic": "https://gcatholic.org/p/72944",
         "wiki": null
     }
 }

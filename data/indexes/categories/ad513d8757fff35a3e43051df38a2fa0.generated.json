@@ -624,9 +624,9 @@
             "pl": "Felicjan z Kartaginy"
         },
         "records/patrons/felicissimus/rog": {
-            "la": "Felicissimus /+ Rogatianus",
-            "en": "Felicissimus /+ Rogatian",
-            "pl": "Felicyssym /+ Rogacjan"
+            "la": "Felicissimus Carthaginensis",
+            "en": "Felicissimus of Carthage",
+            "pl": "Felicyssym z Kartaginy"
         },
         "records/patrons/felicitas/car": {
             "la": "Felicitas Carthaginensis",
@@ -1646,6 +1646,11 @@
             "en": "Robert Dibdale",
             "la": "Robertus Dibdale",
             "pl": "Robert Dibdale"
+        },
+        "records/patrons/rogatianus/car": {
+            "la": "Rogatianus Carthaginensis",
+            "en": "Rogatian of Carthage",
+            "pl": "Rogacjan z Kartaginy"
         },
         "records/patrons/romanus/ada": {
             "es": "Román Adame Rosales",

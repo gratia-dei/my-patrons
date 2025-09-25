@@ -6855,6 +6855,32 @@
             }
         }
     },
+    "10-26": {
+        "records/patrons/rogatianus/car": {
+            "name": {
+                "la": "Rogatianus Carthaginensis",
+                "en": "Rogatian of Carthage",
+                "pl": "Rogacjan z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "26 X: #2",
+                "mr-1956": "26 X: #2",
+                "mr-2004": "26 X: #2"
+            }
+        },
+        "records/patrons/felicissimus/rog": {
+            "name": {
+                "la": "Felicissimus Carthaginensis",
+                "en": "Felicissimus of Carthage",
+                "pl": "Felicyssym z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "26 X: #2",
+                "mr-1956": "26 X: #2",
+                "mr-2004": "26 X: #2"
+            }
+        }
+    },
     "10-28": {
         "records/patrons/simon/apo": {
             "name": {
