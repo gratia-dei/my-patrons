@@ -9398,6 +9398,20 @@
             }
         }
     },
+    "patrons/multi/urs": {
+        "active": true,
+        "names": {
+            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+            "en": "Companions of Ursula of Cologne, virgins and martyrs",
+            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
+        },
+        "died": [
+            ">301",
+            "<400"
+        ],
+        "feasts": []
+    },
     "patrons/myron": {
         "names": {
             "la": "Myron",
@@ -12478,11 +12492,11 @@
         "feasts": []
     },
     "patrons/ursula/vir": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Ursula von Köln",
-            "en": "Ursula of Cologne",
             "la": "Ursula Coloniensis",
+            "en": "Ursula of Cologne",
             "pl": "Urszula z Kolonii"
         },
         "died": [

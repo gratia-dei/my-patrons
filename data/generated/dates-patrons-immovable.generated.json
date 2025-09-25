@@ -6749,6 +6749,34 @@
             }
         }
     },
+    "10-21": {
+        "records/patrons/ursula/vir": {
+            "name": {
+                "de": "Ursula von Köln",
+                "la": "Ursula Coloniensis",
+                "en": "Ursula of Cologne",
+                "pl": "Urszula z Kolonii"
+            },
+            "sources": {
+                "mr-1584": "21 X: #2",
+                "mr-1956": "21 X: #2",
+                "mr-2004": "21 X: #2"
+            }
+        },
+        "records/patrons/multi/urs": {
+            "name": {
+                "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+                "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+                "en": "Companions of Ursula of Cologne, virgins and martyrs",
+                "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
+            },
+            "sources": {
+                "mr-1584": "21 X: #2",
+                "mr-1956": "21 X: #2",
+                "mr-2004": "21 X: #2"
+            }
+        }
+    },
     "10-22": {
         "records/patrons/ioannes/p2p": {
             "name": {

@@ -712,6 +712,12 @@
             "en": "Monica of Tagasta",
             "pl": "Monika z Tagasty"
         },
+        "records/patrons/multi/urs": {
+            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+            "en": "Companions of Ursula of Cologne, virgins and martyrs",
+            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
+        },
         "records/patrons/natalia/tul": {
             "pl": "Natalia Tułasiewicz",
             "en": "Natalie Tułasiewicz",
@@ -904,8 +910,8 @@
         },
         "records/patrons/ursula/vir": {
             "de": "Ursula von Köln",
-            "en": "Ursula of Cologne",
             "la": "Ursula Coloniensis",
+            "en": "Ursula of Cologne",
             "pl": "Urszula z Kolonii"
         },
         "records/patrons/veronica/hie": {

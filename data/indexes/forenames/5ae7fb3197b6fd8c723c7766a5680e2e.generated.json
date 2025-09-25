@@ -83,6 +83,12 @@
             "la": "Omnes Sancti",
             "en": "All Saints",
             "pl": "Wszyscy Święci"
+        },
+        "records/patrons/multi/urs": {
+            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+            "en": "Companions of Ursula of Cologne, virgins and martyrs",
+            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
         }
     }
 }

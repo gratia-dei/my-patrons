@@ -46,6 +46,12 @@
             "en": "Cyricus /+ Julitta",
             "la": "Quiricus /+ Iulitta",
             "pl": "Cyryk /+ Julita"
+        },
+        "records/patrons/ursula/vir": {
+            "de": "Ursula von Köln",
+            "la": "Ursula Coloniensis",
+            "en": "Ursula of Cologne",
+            "pl": "Urszula z Kolonii"
         }
     }
 }

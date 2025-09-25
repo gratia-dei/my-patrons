@@ -1448,6 +1448,12 @@
             "la": "Sociorum Sadochii de Sandomierz",
             "en": "Companions of Sadok of Sandomierz"
         },
+        "records/patrons/multi/urs": {
+            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+            "en": "Companions of Ursula of Cologne, virgins and martyrs",
+            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
+        },
         "records/patrons/myron/cyz": {
             "la": "Myron Cyzicensis",
             "en": "Myron of Cyzicus",
@@ -1949,8 +1955,8 @@
         },
         "records/patrons/ursula/vir": {
             "de": "Ursula von Köln",
-            "en": "Ursula of Cologne",
             "la": "Ursula Coloniensis",
+            "en": "Ursula of Cologne",
             "pl": "Urszula z Kolonii"
         },
         "records/patrons/vaccarus/eob": {
