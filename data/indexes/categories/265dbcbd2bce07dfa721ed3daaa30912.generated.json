@@ -1408,6 +1408,11 @@
             "en": "Theotimus' of Caesarea Companions",
             "pl": "Towarzysze Teotyma z Cezarei"
         },
+        "records/patrons/multi/cvq": {
+            "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
+            "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
+            "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
+        },
         "records/patrons/multi/lug": {
             "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
             "en": "Almost all the citizens of Lyon; with them, Irenaeus",
@@ -1572,6 +1577,11 @@
             "la": "Petrus Sulpitius Christophorus Faverge",
             "en": "Peter Sulpice Christopher Faverge",
             "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
+        "records/patrons/philappianus/fel": {
+            "la": "Philappianus Carthaginiensis",
+            "en": "Felicianus of Carthage",
+            "pl": "Filapian z Kartaginy"
         },
         "records/patrons/philippus/apo": {
             "la": "Philippus Apostolus",

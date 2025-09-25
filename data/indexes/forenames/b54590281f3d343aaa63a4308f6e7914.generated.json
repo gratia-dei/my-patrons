@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Filapian"
+    },
+    "translations": {
+        "la": [
+            "Philappianus"
+        ],
+        "en": [
+            "Philappianus"
+        ],
+        "pl": [
+            "Filapian"
+        ]
+    },
+    "links": {
+        "records/patrons/philappianus/fel": {
+            "la": "Philappianus Carthaginiensis",
+            "en": "Felicianus of Carthage",
+            "pl": "Filapian z Kartaginy"
+        }
+    }
+}

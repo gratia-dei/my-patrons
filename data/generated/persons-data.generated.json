@@ -4133,7 +4133,7 @@
         }
     },
     "patrons/felicianus/car": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Felicianus Carthaginiensis",
             "en": "Felician of Carthage",
@@ -9268,6 +9268,19 @@
         ],
         "feasts": []
     },
+    "patrons/multi/cvq": {
+        "active": true,
+        "names": {
+            "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
+            "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
+            "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
+        },
+        "died": [
+            ">201",
+            "<300"
+        ],
+        "feasts": []
+    },
     "patrons/multi/fid": {
         "active": true,
         "names": {
@@ -10224,6 +10237,26 @@
         },
         "died": [
             "1387-07-02"
+        ],
+        "feasts": []
+    },
+    "patrons/philappianus": {
+        "names": {
+            "la": "Philappianus",
+            "en": "Philappianus",
+            "pl": "Filapian"
+        }
+    },
+    "patrons/philappianus/fel": {
+        "active": true,
+        "names": {
+            "la": "Philappianus Carthaginiensis",
+            "en": "Felicianus of Carthage",
+            "pl": "Filapian z Kartaginy"
+        },
+        "died": [
+            ">201",
+            "<300"
         ],
         "feasts": []
     },

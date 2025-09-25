@@ -1,16 +1,16 @@
 {
     "names": {
         "la": [
-            "Felicianus Carthaginiensis"
+            "Philappianus Carthaginiensis"
         ],
         "en": [
-            "Felician of Carthage"
+            "Felicianus of Carthage"
         ],
         "pl": [
-            "Felicjan z Kartaginy"
+            "Filapian z Kartaginy"
         ]
     },
-    "forenames": ["felicianus"],
+    "forenames": ["philappianus"],
     "surnames": null,
     "epithets": null,
 
@@ -25,19 +25,19 @@
     "categories": ["vir", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Ianu./30#2"],
+        "mr-1584": ["2:Ianu./30#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Januarii/30#4"],
+        "mr-1956": ["2:Januarii/30#4"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:oct./29#1"],
+        "mr-2004": [],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/73907",
-        "wiki": "https://pl.wikipedia.org/wiki/Felicjan_(imi%C4%99)"
+        "gcatholic": null,
+        "wiki": null
     }
 }

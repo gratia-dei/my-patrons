@@ -276,6 +276,39 @@
         }
     },
     "01-30": {
+        "records/patrons/felicianus/car": {
+            "name": {
+                "la": "Felicianus Carthaginiensis",
+                "en": "Felician of Carthage",
+                "pl": "Felicjan z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "30 I: #2",
+                "mr-1956": "30 I: #4"
+            }
+        },
+        "records/patrons/philappianus/fel": {
+            "name": {
+                "la": "Philappianus Carthaginiensis",
+                "en": "Felicianus of Carthage",
+                "pl": "Filapian z Kartaginy"
+            },
+            "sources": {
+                "mr-1584": "30 I: #2",
+                "mr-1956": "30 I: #4"
+            }
+        },
+        "records/patrons/multi/cvq": {
+            "name": {
+                "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
+                "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
+                "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
+            },
+            "sources": {
+                "mr-1584": "30 I: #2",
+                "mr-1956": "30 I: #4"
+            }
+        },
         "records/patrons/felix/3pp": {
             "name": {
                 "la": "Felix III",
@@ -6904,6 +6937,18 @@
                 "mr-1584": "28 X: #1",
                 "mr-1956": "28 X: #1",
                 "mr-2004": "28 X: #1"
+            }
+        }
+    },
+    "10-29": {
+        "records/patrons/felicianus/car": {
+            "name": {
+                "la": "Felicianus Carthaginiensis",
+                "en": "Felician of Carthage",
+                "pl": "Felicjan z Kartaginy"
+            },
+            "sources": {
+                "mr-2004": "29 X: #1"
             }
         }
     },

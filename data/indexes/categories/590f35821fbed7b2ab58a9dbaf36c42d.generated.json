@@ -2271,6 +2271,11 @@
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
         },
+        "records/patrons/philappianus/fel": {
+            "la": "Philappianus Carthaginiensis",
+            "en": "Felicianus of Carthage",
+            "pl": "Filapian z Kartaginy"
+        },
         "records/patrons/philippus/apo": {
             "la": "Philippus Apostolus",
             "en": "Philip Apostle",
