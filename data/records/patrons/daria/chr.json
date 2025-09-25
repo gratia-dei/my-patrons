@@ -1,21 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Daria /+ Chrysanthus"
-    ],
-    "en": [
-      "Daria /+ Chrysanthus"
-    ],
-    "pl": [
-      "Daria /+ Chryzant"
-    ]
-  },
+    "names": {
+        "la": [
+            "Daria de Roma"
+        ],
+        "en": [
+            "Daria of Rome"
+        ],
+        "pl": [
+            "Daria z Rzymu"
+        ]
+    },
+    "forenames": ["daria"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">201"],
-  "died": ["~253"],
+    "active": true,
 
-  "also-in-martyrology": ["10-25"],
+    "born": null,
+    "died": ["~253", "~283"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["daria"],
-  "categories": ["femina", "martyr", "coniunx"]
+    "categories": ["femina", "martyr", "coniunx"],
+
+    "data-links": {
+        "mr-1584": ["2:Oct./25#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Octobris/25#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:oct./25#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72540",
+        "wiki": "https://pl.wikipedia.org/wiki/Chryzant_i_Daria"
+    }
 }

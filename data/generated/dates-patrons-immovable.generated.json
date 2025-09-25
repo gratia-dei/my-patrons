@@ -6829,6 +6829,32 @@
             }
         }
     },
+    "10-25": {
+        "records/patrons/chrysanthus/dar": {
+            "name": {
+                "la": "Chrysanthus de Roma",
+                "en": "Chrysanthus of Rome",
+                "pl": "Chryzant z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "25 X: #1",
+                "mr-1956": "25 X: #1",
+                "mr-2004": "25 X: #1"
+            }
+        },
+        "records/patrons/daria/chr": {
+            "name": {
+                "la": "Daria de Roma",
+                "en": "Daria of Rome",
+                "pl": "Daria z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "25 X: #1",
+                "mr-1956": "25 X: #1",
+                "mr-2004": "25 X: #1"
+            }
+        }
+    },
     "10-28": {
         "records/patrons/simon/apo": {
             "name": {

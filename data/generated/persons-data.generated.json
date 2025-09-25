@@ -2893,14 +2893,15 @@
         }
     },
     "patrons/chrysanthus/dar": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Chrysanthus /+ Daria",
-            "en": "Chrysanthus /+ Daria",
-            "pl": "Chryzant /+ Daria"
+            "la": "Chrysanthus de Roma",
+            "en": "Chrysanthus of Rome",
+            "pl": "Chryzant z Rzymu"
         },
         "died": [
-            "~253"
+            "~253",
+            "~283"
         ],
         "feasts": []
     },
@@ -3272,14 +3273,15 @@
         }
     },
     "patrons/daria/chr": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Daria /+ Chrysanthus",
-            "en": "Daria /+ Chrysanthus",
-            "pl": "Daria /+ Chryzant"
+            "la": "Daria de Roma",
+            "en": "Daria of Rome",
+            "pl": "Daria z Rzymu"
         },
         "died": [
-            "~253"
+            "~253",
+            "~283"
         ],
         "feasts": []
     },

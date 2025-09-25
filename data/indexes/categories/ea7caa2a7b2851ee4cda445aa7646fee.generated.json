@@ -30,14 +30,14 @@
             "pl": "Cerealis z Rzymu"
         },
         "records/patrons/chrysanthus/dar": {
-            "la": "Chrysanthus /+ Daria",
-            "en": "Chrysanthus /+ Daria",
-            "pl": "Chryzant /+ Daria"
+            "la": "Chrysanthus de Roma",
+            "en": "Chrysanthus of Rome",
+            "pl": "Chryzant z Rzymu"
         },
         "records/patrons/daria/chr": {
-            "la": "Daria /+ Chrysanthus",
-            "en": "Daria /+ Chrysanthus",
-            "pl": "Daria /+ Chryzant"
+            "la": "Daria de Roma",
+            "en": "Daria of Rome",
+            "pl": "Daria z Rzymu"
         },
         "records/patrons/felix/lil": {
             "la": "Felix de Corduba; cum eo, i.a., Liliosa",
