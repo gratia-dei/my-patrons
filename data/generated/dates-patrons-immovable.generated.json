@@ -7590,6 +7590,21 @@
             }
         }
     },
+    "11-26": {
+        "records/patrons/iacobus/alb": {
+            "name": {
+                "it": "Giacomo Alberione",
+                "la": "Iacobus Alberione",
+                "en": "James Alberione",
+                "pl": "Jakub Alberione"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 XI",
+                "feast": "26 XI",
+                "mr-2004": "26 XI: #14"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/andreas/apo": {
             "name": {

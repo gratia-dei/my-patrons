@@ -5570,6 +5570,19 @@
             "it": "Giacomo"
         }
     },
+    "patrons/iacobus/alb": {
+        "active": true,
+        "names": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
+        "died": [
+            "1971-11-26"
+        ],
+        "feasts": []
+    },
     "patrons/iacobus/ben": {
         "active": false,
         "names": {

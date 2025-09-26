@@ -375,6 +375,12 @@
             "la": "Hyacinthus Polonus",
             "en": "Hyacinth of Poland"
         },
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
         "records/patrons/iacobus/ber": {
             "fr": "Jacques Berthieu",
             "la": "Iacobus Berthieu",

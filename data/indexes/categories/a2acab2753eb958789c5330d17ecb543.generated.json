@@ -132,6 +132,12 @@
             "la": "Hieronymus Emiliani",
             "pl": "Hieronim Emiliani"
         },
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",
             "la": "Ignatius de Loyola",

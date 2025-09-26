@@ -21,6 +21,12 @@
         ]
     },
     "links": {
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
         "records/patrons/iacobus/ben": {
             "it": "Giacomo Benfatti",
             "pl": "Jakub Benfatti",

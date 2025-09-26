@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Alberione"
+    },
+    "translations": {
+        "it": [
+            "Alberione"
+        ]
+    },
+    "links": {
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        }
+    }
+}
