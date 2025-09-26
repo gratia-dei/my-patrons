@@ -1,34 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Bronisław Kostkowski",
-      "Bronisław Kostowski"
+    "names": {
+        "pl": [
+            "Bronisław Kostkowski",
+            "Bronisław Kostowski"
+        ],
+        "la": [
+            "Bronislaus Kostkowski",
+            "Bronislaus Kostowski"
+        ],
+        "en": [
+            "Bronislaus Kostkowski",
+            "Bronislaus Kostowski"
+        ]
+    },
+    "forenames": ["bronislaus"],
+    "surnames": [
+        {
+            "pl": ["Kostowski", "Kostkowski"]
+        }
     ],
-    "la": [
-      "Bronislaus Kostkowski",
-      "Bronislaus Kostowski"
-    ],
-    "en": [
-      "Bronislaus Kostkowski",
-      "Bronislaus Kostowski"
-    ]
-  },
-  "surnames": [
-    {
-      "pl": "Kostowski"
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1915-03-11"],
+    "died": ["1942-09-27"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["11-27"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./27#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67798",
+        "wiki": "https://pl.wikipedia.org/wiki/Bronis%C5%82aw_Kostkowski"
     }
-  ],
-
-  "born": ["1915-03-11"],
-  "died": ["1942-09-27"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["11-27"],
-
-  "forenames": ["bronislaus"],
-  "categories": ["vir", "martyr"]
 }

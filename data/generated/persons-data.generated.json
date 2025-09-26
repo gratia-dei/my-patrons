@@ -2351,7 +2351,7 @@
         }
     },
     "patrons/bronislaus/kos": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",

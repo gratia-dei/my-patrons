@@ -5986,6 +5986,16 @@
         }
     },
     "09-27": {
+        "records/patrons/bronislaus/kos": {
+            "name": {
+                "pl": "Bronisław Kostkowski",
+                "la": "Bronislaus Kostkowski",
+                "en": "Bronislaus Kostkowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 IX"
+            }
+        },
         "records/patrons/vincentius/pau": {
             "name": {
                 "fr": "Vincent de Paul",
@@ -7602,6 +7612,19 @@
                 "reliable-death-anniversary": "26 XI",
                 "feast": "26 XI",
                 "mr-2004": "26 XI: #14"
+            }
+        }
+    },
+    "11-27": {
+        "records/patrons/bronislaus/kos": {
+            "name": {
+                "pl": "Bronisław Kostkowski",
+                "la": "Bronislaus Kostkowski",
+                "en": "Bronislaus Kostkowski"
+            },
+            "sources": {
+                "feast": "27 XI",
+                "mr-2004": "27 XI: #15"
             }
         }
     },
