@@ -5300,6 +5300,18 @@
             "es": "Enrique"
         }
     },
+    "patrons/henricus/hle": {
+        "active": true,
+        "names": {
+            "pl": "Henryk Hlebowicz",
+            "la": "Henricus Hlebowicz",
+            "en": "Henry Hlebowicz"
+        },
+        "died": [
+            "1941-11-09"
+        ],
+        "feasts": []
+    },
     "patrons/henricus/krz": {
         "active": false,
         "names": {

@@ -1269,6 +1269,11 @@
             "la": "Gunthramnus",
             "pl": "Guntram"
         },
+        "records/patrons/henricus/hle": {
+            "pl": "Henryk Hlebowicz",
+            "la": "Henricus Hlebowicz",
+            "en": "Henry Hlebowicz"
+        },
         "records/patrons/henricus/krz": {
             "pl": "Henryk Krzysztofik",
             "en": "Henry Krzysztofik",

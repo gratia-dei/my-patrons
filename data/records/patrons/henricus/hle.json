@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Henryk Hlebowicz"
+        ],
+        "la": [
+            "Henricus Hlebowicz"
+        ],
+        "en": [
+            "Henry Hlebowicz"
+        ]
+    },
+    "forenames": ["henricus"],
+    "surnames": [
+        {
+            "pl": "Hlebowicz"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1904-07-01"],
+    "died": ["1941-11-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["11-09"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./9#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67745",
+        "wiki": "https://pl.wikipedia.org/wiki/Henryk_Hlebowicz"
+    }
+}

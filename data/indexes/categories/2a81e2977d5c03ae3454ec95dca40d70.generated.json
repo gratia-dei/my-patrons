@@ -333,6 +333,11 @@
             "en": "Walter; with him, i.a., Eoban",
             "pl": "Walter; z nim, m.in. Eoban"
         },
+        "records/patrons/henricus/hle": {
+            "pl": "Henryk Hlebowicz",
+            "la": "Henricus Hlebowicz",
+            "en": "Henry Hlebowicz"
+        },
         "records/patrons/henricus/krz": {
             "pl": "Henryk Krzysztofik",
             "en": "Henry Krzysztofik",

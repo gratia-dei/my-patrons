@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Hlebowicz"
+    },
+    "translations": {
+        "pl": [
+            "Hlebowicz"
+        ]
+    },
+    "links": {
+        "records/patrons/henricus/hle": {
+            "pl": "Henryk Hlebowicz",
+            "la": "Henricus Hlebowicz",
+            "en": "Henry Hlebowicz"
+        }
+    }
+}

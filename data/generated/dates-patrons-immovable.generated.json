@@ -7291,6 +7291,20 @@
             }
         }
     },
+    "11-09": {
+        "records/patrons/henricus/hle": {
+            "name": {
+                "pl": "Henryk Hlebowicz",
+                "la": "Henricus Hlebowicz",
+                "en": "Henry Hlebowicz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 XI",
+                "feast": "9 XI",
+                "mr-2004": "9 XI: #13"
+            }
+        }
+    },
     "11-10": {
         "records/patrons/tryphon/phr": {
             "name": {
