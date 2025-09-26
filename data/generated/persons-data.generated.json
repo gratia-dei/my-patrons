@@ -10086,7 +10086,8 @@
             "fr": "Pierre",
             "nl": "Petrus",
             "it": "Pietro",
-            "tl": "Pedro"
+            "tl": "Pedro",
+            "zh": "伯鐸"
         }
     },
     "patrons/petrus/apo": {
@@ -10271,6 +10272,19 @@
         },
         "died": [
             "1387-07-02"
+        ],
+        "feasts": []
+    },
+    "patrons/petrus/wug": {
+        "active": true,
+        "names": {
+            "zh": "吳國盛伯鐸",
+            "la": "Petrus Wu Guosheng",
+            "en": "Peter Wu Guosheng",
+            "pl": "Piotr Wu Guosheng"
+        },
+        "died": [
+            "1814-11-07"
         ],
         "feasts": []
     },

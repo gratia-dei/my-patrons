@@ -2277,6 +2277,12 @@
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
         },
+        "records/patrons/petrus/wug": {
+            "zh": "吳國盛伯鐸",
+            "la": "Petrus Wu Guosheng",
+            "en": "Peter Wu Guosheng",
+            "pl": "Piotr Wu Guosheng"
+        },
         "records/patrons/philappianus/fel": {
             "la": "Philappianus Carthaginiensis",
             "en": "Felicianus of Carthage",

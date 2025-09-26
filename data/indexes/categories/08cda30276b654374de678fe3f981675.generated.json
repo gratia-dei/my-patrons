@@ -50,6 +50,12 @@
             "la": "Petrus Calungsod",
             "pl": "Piotr Calungsod"
         },
+        "records/patrons/petrus/wug": {
+            "zh": "吳國盛伯鐸",
+            "la": "Petrus Wu Guosheng",
+            "en": "Peter Wu Guosheng",
+            "pl": "Piotr Wu Guosheng"
+        },
         "records/patrons/thomas/son": {
             "ko": "손자선 토마스",
             "la": "Thomas Son Cha-sŏn",

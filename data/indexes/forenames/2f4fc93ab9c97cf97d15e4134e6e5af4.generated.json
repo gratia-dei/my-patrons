@@ -1,0 +1,27 @@
+{
+    "names": {
+        "zh": "國盛"
+    },
+    "translations": {
+        "la": [
+            "Guosheng"
+        ],
+        "en": [
+            "Guosheng"
+        ],
+        "pl": [
+            "Guosheng"
+        ],
+        "zh": [
+            "國盛"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/wug": {
+            "zh": "吳國盛伯鐸",
+            "la": "Petrus Wu Guosheng",
+            "en": "Peter Wu Guosheng",
+            "pl": "Piotr Wu Guosheng"
+        }
+    }
+}

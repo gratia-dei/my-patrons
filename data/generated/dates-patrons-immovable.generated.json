@@ -3208,6 +3208,18 @@
                 "feast": "9 VII",
                 "mr-2004": "9 VII: #1"
             }
+        },
+        "records/patrons/petrus/wug": {
+            "name": {
+                "zh": "吳國盛伯鐸",
+                "la": "Petrus Wu Guosheng",
+                "en": "Peter Wu Guosheng",
+                "pl": "Piotr Wu Guosheng"
+            },
+            "sources": {
+                "feast": "9 VII",
+                "mr-2004": "9 VII: #1"
+            }
         }
     },
     "07-10": {
@@ -7192,6 +7204,18 @@
             "sources": {
                 "reliable-death-anniversary": "7 XI",
                 "mr-2004": "7 XI: #12"
+            }
+        },
+        "records/patrons/petrus/wug": {
+            "name": {
+                "zh": "吳國盛伯鐸",
+                "la": "Petrus Wu Guosheng",
+                "en": "Peter Wu Guosheng",
+                "pl": "Piotr Wu Guosheng"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 XI",
+                "mr-2004": "7 XI: #14"
             }
         }
     },
