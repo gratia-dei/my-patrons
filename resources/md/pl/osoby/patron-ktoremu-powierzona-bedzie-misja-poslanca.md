@@ -5,6 +5,7 @@ Wybierz Patrona:
   - Patron Przewodnik<sup>2</sup>,
   - Martyrologium Rzymskie<sup>3</sup>,
   - wiarygodna rocznica śmierci<sup>4</sup>,
+  - przypisana rocznica święta<sup>5</sup>,
   - znajduje się na **poniższej liście** dla dnia, który jest dniem **Twoich urodzin** lub **pierwszego przyjęcia przez Ciebie dowolnego Sakramentu**:  
 
 <iframe id="my-patrons-for-today" src="https://pl.mypatrons.org/dates/messenger-mission-patrons/#immovable-dates#?mode=content-only&form=hidden"></iframe>
@@ -16,3 +17,5 @@ Przypisy:
 - <sup>2</sup> Patron jest Twoim **Patronem Przewodnikiem**.
 - <sup>3</sup> Patron jest wpisany w którymkolwiek zaakceptowanym przez papieża oficjalnym watykańskim wydaniu **Martyrologium Rzymskiego** w dowolnym dniu roku, będącym **dniem Twoich urodzin** lub **pierwszego przyjęcia przez Ciebie dowolnego Sakramentu**.
 - <sup>4</sup> **Dzień roku, w którym zmarł Patron**, jest znany i jednoznaczny (także w przypadku śmierci w nocy z dnia poprzedniego na ten dzień) oraz **przypada w dniu Twoich urodzin** lub **pierwszego przyjęcia przez Ciebie dowolnego Sakramentu**.
+- <sup>5</sup> **Dzień roku**, w którym ustalona została **rocznica święta Patrona** (po wł. _ricorrenza_) (co jest dostępne na stronie <a target="_blank" href="https://www.causesanti.va/it/celebrazioni.html">Dykasterii Spraw Kanonizacyjnych</a>), **przypada w dniu Twoich urodzin** lub **pierwszego przyjęcia przez Ciebie dowolnego Sakramentu**.
+
