@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/ludovicus/gie": {
+            "pl": "Ludwik Roch Gietyngier",
+            "la": "Ludovicus Rochus Gietyngier",
+            "en": "Louis Roch Gietyngier"
+        },
         "records/patrons/rochus/per": {
             "fr": "Roch de Montpellier",
             "la": "Rochus, peregrinus",

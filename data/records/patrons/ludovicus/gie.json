@@ -1,0 +1,53 @@
+{
+    "names": {
+        "pl": [
+            "Ludwik Roch Gietyngier",
+            "Ludwik Roch Gientyngier"
+        ],
+        "la": [
+            "Ludovicus Rochus Gietyngier",
+            "Ludovicus Rochus Gientyngier"
+        ],
+        "en": [
+            "Louis Roch Gietyngier",
+            "Louis Roch Gientyngier"
+        ]
+    },
+    "forenames": ["ludovicus", "rochus"],
+    "surnames": [
+        {
+            "pl": ["Gientyngier", "Gietyngier"]
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1904-08-16"],
+    "died": ["1941-11-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["11-30"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./30#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67742",
+        "wiki": "https://pl.wikipedia.org/wiki/Ludwik_Gietyngier"
+    }
+}

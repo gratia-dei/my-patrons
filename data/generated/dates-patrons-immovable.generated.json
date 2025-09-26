@@ -7606,6 +7606,18 @@
         }
     },
     "11-30": {
+        "records/patrons/ludovicus/gie": {
+            "name": {
+                "pl": "Ludwik Roch Gietyngier",
+                "la": "Ludovicus Rochus Gietyngier",
+                "en": "Louis Roch Gietyngier"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 XI",
+                "feast": "30 XI",
+                "mr-2004": "30 XI: #13"
+            }
+        },
         "records/patrons/andreas/apo": {
             "name": {
                 "grc": "Ανδρέας",

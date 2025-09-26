@@ -1,0 +1,18 @@
+{
+    "names": {
+        "pl": "Gietyngier"
+    },
+    "translations": {
+        "pl": [
+            "Gientyngier",
+            "Gietyngier"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/gie": {
+            "pl": "Ludwik Roch Gietyngier",
+            "la": "Ludovicus Rochus Gietyngier",
+            "en": "Louis Roch Gietyngier"
+        }
+    }
+}

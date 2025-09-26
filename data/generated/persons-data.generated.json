@@ -7604,6 +7604,18 @@
             "fr": "Louis"
         }
     },
+    "patrons/ludovicus/gie": {
+        "active": true,
+        "names": {
+            "pl": "Ludwik Roch Gietyngier",
+            "la": "Ludovicus Rochus Gietyngier",
+            "en": "Louis Roch Gietyngier"
+        },
+        "died": [
+            "1941-11-30"
+        ],
+        "feasts": []
+    },
     "patrons/ludovicus/mar": {
         "active": true,
         "names": {
