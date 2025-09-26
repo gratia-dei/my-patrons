@@ -1,0 +1,64 @@
+{
+    "names": {
+        "it": [
+            "Pio di San Luigi",
+            "Luigi Campidelli"
+        ],
+        "la": [
+            "Pius a Sancto Aloysio",
+            "Aloysius Campidelli"
+        ],
+        "en": [
+            "Pius of Saint Aloysius",
+            "Aloise Campidelli"
+        ],
+        "pl": [
+            "Pius od św. Alojzego",
+            "Alojzy Campidelli"
+        ]
+    },
+    "forenames": ["pius", "aloysius"],
+    "surnames": [
+        {
+            "it": "Campidelli"
+        }
+    ],
+    "epithets": [
+        {
+            "it": "di San Luigi",
+            "la": "a Sancto Aloysio",
+            "en": "of Saint Aloysius",
+            "pl": "od św. Alojzego"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1868-04-29"],
+    "died": ["1889-11-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1985-11-17"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./2#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pio-di-san-luigi.html",
+        "gcatholic": "https://gcatholic.org/p/67190",
+        "wiki": "https://pl.wikipedia.org/wiki/Pius_od_%C5%9Bw._Alojzego"
+    }
+}

@@ -7009,6 +7009,18 @@
         }
     },
     "11-02": {
+        "records/patrons/pius/cam": {
+            "name": {
+                "it": "Pio di San Luigi",
+                "la": "Pius a Sancto Aloysio",
+                "en": "Pius of Saint Aloysius",
+                "pl": "Pius od św. Alojzego"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 XI",
+                "mr-2004": "2 XI: #14"
+            }
+        },
         "records/patrons/multi/fid": {
             "name": {
                 "la": "Omnes Fideles Defuncti",

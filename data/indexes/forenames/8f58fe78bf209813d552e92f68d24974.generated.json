@@ -49,6 +49,12 @@
             "en": "Didacus Aloise de San Vitores",
             "la": "Didacus Aloysius de San Vitores",
             "pl": "Dydak Alojzy de San Vitores"
+        },
+        "records/patrons/pius/cam": {
+            "it": "Pio di San Luigi",
+            "la": "Pius a Sancto Aloysio",
+            "en": "Pius of Saint Aloysius",
+            "pl": "Pius od św. Alojzego"
         }
     }
 }

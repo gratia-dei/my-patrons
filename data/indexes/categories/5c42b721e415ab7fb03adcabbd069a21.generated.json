@@ -154,6 +154,12 @@
             "en": "Nicholas of Gesturi",
             "pl": "Mikołaj z Gesturi"
         },
+        "records/patrons/pius/cam": {
+            "it": "Pio di San Luigi",
+            "la": "Pius a Sancto Aloysio",
+            "en": "Pius of Saint Aloysius",
+            "pl": "Pius od św. Alojzego"
+        },
         "records/patrons/rita/cas": {
             "it": "Rita da Cascia",
             "la": "Rita de Cassia",

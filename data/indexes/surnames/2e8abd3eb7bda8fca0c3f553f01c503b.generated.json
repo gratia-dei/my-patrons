@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Campidelli"
+    },
+    "translations": {
+        "it": [
+            "Campidelli"
+        ]
+    },
+    "links": {
+        "records/patrons/pius/cam": {
+            "it": "Pio di San Luigi",
+            "la": "Pius a Sancto Aloysio",
+            "en": "Pius of Saint Aloysius",
+            "pl": "Pius od św. Alojzego"
+        }
+    }
+}

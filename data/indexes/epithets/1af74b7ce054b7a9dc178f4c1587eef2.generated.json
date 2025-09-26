@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "a Sancto Aloysio"
+    },
+    "translations": {
+        "it": [
+            "di San Luigi"
+        ],
+        "la": [
+            "a Sancto Aloysio"
+        ],
+        "en": [
+            "of Saint Aloysius"
+        ],
+        "pl": [
+            "od św. Alojzego"
+        ]
+    },
+    "links": {
+        "records/patrons/pius/cam": {
+            "it": "Pio di San Luigi",
+            "la": "Pius a Sancto Aloysio",
+            "en": "Pius of Saint Aloysius",
+            "pl": "Pius od św. Alojzego"
+        }
+    }
+}
