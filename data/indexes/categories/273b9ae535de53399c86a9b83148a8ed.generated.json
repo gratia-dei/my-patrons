@@ -283,6 +283,12 @@
             "en": "Hedwig of Anjou",
             "pl": "Jadwiga Andegaweńska"
         },
+        "records/patrons/helena/ens": {
+            "it": "Elena Enselmini",
+            "la": "Helena Enselmini",
+            "en": "Helen Enselmini",
+            "pl": "Helena Enselmini"
+        },
         "records/patrons/helena/mat": {
             "la": "Helena, mater Constantini",
             "en": "Helena, mother of Constantine",

@@ -7064,6 +7064,18 @@
         }
     },
     "11-04": {
+        "records/patrons/helena/ens": {
+            "name": {
+                "it": "Elena Enselmini",
+                "la": "Helena Enselmini",
+                "en": "Helen Enselmini",
+                "pl": "Helena Enselmini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 XI",
+                "mr-2004": "4 XI: #9"
+            }
+        },
         "records/patrons/carolus/bor": {
             "name": {
                 "it": "Carlo Borromeo",

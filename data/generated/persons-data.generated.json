@@ -5267,6 +5267,19 @@
             "pl": "Helena"
         }
     },
+    "patrons/helena/ens": {
+        "active": true,
+        "names": {
+            "it": "Elena Enselmini",
+            "la": "Helena Enselmini",
+            "en": "Helen Enselmini",
+            "pl": "Helena Enselmini"
+        },
+        "died": [
+            "1242-11-04"
+        ],
+        "feasts": []
+    },
     "patrons/helena/mat": {
         "active": false,
         "names": {
