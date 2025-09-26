@@ -9661,6 +9661,27 @@
         ],
         "feasts": []
     },
+    "patrons/nonius": {
+        "names": {
+            "la": "Nonius",
+            "en": "Nonius",
+            "pl": "Noniusz",
+            "pt": "Nuno"
+        }
+    },
+    "patrons/nonius/per": {
+        "active": true,
+        "names": {
+            "pt": "Nuno Álvares Pereira",
+            "la": "Nonius Álvares Pereira",
+            "en": "Nonius Álvares Pereira",
+            "pl": "Noniusz Álvares Pereira"
+        },
+        "died": [
+            "1431-11-01"
+        ],
+        "feasts": []
+    },
     "patrons/norbertus": {
         "names": {
             "la": "Norbertus",

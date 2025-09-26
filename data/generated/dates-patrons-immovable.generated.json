@@ -6982,6 +6982,19 @@
         }
     },
     "11-01": {
+        "records/patrons/nonius/per": {
+            "name": {
+                "pt": "Nuno Álvares Pereira",
+                "la": "Nonius Álvares Pereira",
+                "en": "Nonius Álvares Pereira",
+                "pl": "Noniusz Álvares Pereira"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 XI",
+                "feast": "1 XI",
+                "mr-2004": "1 XI: #14"
+            }
+        },
         "records/patrons/multi/san": {
             "name": {
                 "la": "Omnes Sancti",

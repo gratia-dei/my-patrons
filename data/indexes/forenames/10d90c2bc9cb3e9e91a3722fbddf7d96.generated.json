@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Noniusz"
+    },
+    "translations": {
+        "la": [
+            "Nonius"
+        ],
+        "en": [
+            "Nonius"
+        ],
+        "pl": [
+            "Noniusz"
+        ],
+        "pt": [
+            "Nuno"
+        ]
+    },
+    "links": {
+        "records/patrons/nonius/per": {
+            "pt": "Nuno Álvares Pereira",
+            "la": "Nonius Álvares Pereira",
+            "en": "Nonius Álvares Pereira",
+            "pl": "Noniusz Álvares Pereira"
+        }
+    }
+}
