@@ -1,39 +1,57 @@
 {
-  "names": {
-    "uk": [
-      "Олексій Васильович Зарицький"
+    "names": {
+        "uk": [
+            "Олексій Васильович Зарицький"
+        ],
+        "la": [
+            "Alexius Zaryckyj"
+        ],
+        "en": [
+            "Lex Zaryckyy",
+            "Oleksiy Zaryckyy"
+        ],
+        "pl": [
+            "Aleksy Zarycki"
+        ]
+    },
+    "forenames": ["alexius"],
+    "surnames": [
+        {
+            "uk": "Зарицький",
+            "la": "Zaryckyj",
+            "en": "Zaryckyy",
+            "pl": "Zarycki"
+        }
     ],
-    "la": [
-      "Alexius Zaryckyj"
-    ],
-    "en": [
-      "Lex Zaryckyy",
-      "Oleksiy Zaryckyy"
-    ],
-    "pl": [
-      "Aleksy Zarycki"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "uk": "Зарицький",
-      "la": "Zaryckyj",
-      "en": "Zaryckyy",
-      "pl": "Zarycki"
+    "active": true,
+
+    "born": ["1912-10-17"],
+    "died": ["1963-10-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-06-27"
+    },
+    "canonized": null,
+    "anniversary": ["10-30"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./30#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/mykola-carneckyj-e-24-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/67877",
+        "wiki": "https://pl.wikipedia.org/wiki/Aleksy_Zarycki"
     }
-  ],
-
-  "born": ["1912-10-17"],
-  "died": ["1963-10-30"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-06-27"
-  },
-
-  "also-in-martyrology": ["10-30"],
-
-  "forenames": ["alexius"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

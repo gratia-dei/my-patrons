@@ -6952,6 +6952,21 @@
             }
         }
     },
+    "10-30": {
+        "records/patrons/alexius/zar": {
+            "name": {
+                "uk": "Олексій Васильович Зарицький",
+                "la": "Alexius Zaryckyj",
+                "en": "Lex Zaryckyy",
+                "pl": "Aleksy Zarycki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 X",
+                "feast": "30 X",
+                "mr-2004": "30 X: #14"
+            }
+        }
+    },
     "11-01": {
         "records/patrons/multi/san": {
             "name": {

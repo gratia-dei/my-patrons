@@ -820,7 +820,7 @@
         "feasts": []
     },
     "patrons/alexius/zar": {
-        "active": false,
+        "active": true,
         "names": {
             "uk": "Олексій Васильович Зарицький",
             "la": "Alexius Zaryckyj",
