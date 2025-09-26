@@ -259,6 +259,11 @@
             "la": "Eduardus Grzymała",
             "en": "Edward Grzymała"
         },
+        "records/patrons/eduardus/osb": {
+            "en": "Edward Osbaldeston",
+            "la": "Eduardus Osbaldeston",
+            "pl": "Edward Osbaldeston"
+        },
         "records/patrons/eulogius/cor": {
             "es": "Eulogio de Córdoba",
             "en": "Eulogius of Cordoba",

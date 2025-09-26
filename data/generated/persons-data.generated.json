@@ -3719,6 +3719,18 @@
         ],
         "feasts": []
     },
+    "patrons/eduardus/osb": {
+        "active": true,
+        "names": {
+            "en": "Edward Osbaldeston",
+            "la": "Eduardus Osbaldeston",
+            "pl": "Edward Osbaldeston"
+        },
+        "died": [
+            "1594-11-16"
+        ],
+        "feasts": []
+    },
     "patrons/eduardus/rex": {
         "active": true,
         "names": {

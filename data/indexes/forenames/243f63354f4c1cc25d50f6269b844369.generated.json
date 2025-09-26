@@ -40,6 +40,11 @@
             "la": "Eduardus Klinik",
             "en": "Edward Klinik"
         },
+        "records/patrons/eduardus/osb": {
+            "en": "Edward Osbaldeston",
+            "la": "Eduardus Osbaldeston",
+            "pl": "Edward Osbaldeston"
+        },
         "records/patrons/eduardus/rex": {
             "en": "Edward the Martyr",
             "la": "Eduardus Martyr",

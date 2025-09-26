@@ -2020,6 +2020,16 @@
                 "mr-2004": "4 V: #5"
             }
         },
+        "records/patrons/eduardus/osb": {
+            "name": {
+                "en": "Edward Osbaldeston",
+                "la": "Eduardus Osbaldeston",
+                "pl": "Edward Osbaldeston"
+            },
+            "sources": {
+                "feast": "4 V"
+            }
+        },
         "records/patrons/ioannes/ada": {
             "name": {
                 "en": "John Adams",
@@ -7390,6 +7400,19 @@
             "sources": {
                 "reliable-death-anniversary": "14 XI",
                 "mr-2004": "14 XI: #12"
+            }
+        }
+    },
+    "11-16": {
+        "records/patrons/eduardus/osb": {
+            "name": {
+                "en": "Edward Osbaldeston",
+                "la": "Eduardus Osbaldeston",
+                "pl": "Edward Osbaldeston"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 XI",
+                "mr-2004": "16 XI: #10"
             }
         }
     },
