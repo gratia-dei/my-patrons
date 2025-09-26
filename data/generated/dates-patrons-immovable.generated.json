@@ -6967,6 +6967,20 @@
             }
         }
     },
+    "10-31": {
+        "records/patrons/leo/now": {
+            "name": {
+                "pl": "Leon Nowakowski",
+                "en": "Leon Nowakowski",
+                "la": "Leo Nowakowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 X",
+                "feast": "31 X",
+                "mr-2004": "31 X: #10"
+            }
+        }
+    },
     "11-01": {
         "records/patrons/multi/san": {
             "name": {

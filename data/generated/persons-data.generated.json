@@ -7301,7 +7301,7 @@
         "feasts": []
     },
     "patrons/leo/now": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Leon Nowakowski",
             "en": "Leon Nowakowski",
