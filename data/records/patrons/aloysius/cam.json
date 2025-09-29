@@ -1,38 +1,56 @@
 {
-  "names": {
-    "es": [
-      "Luis Campos Górriz"
-    ],
-    "en": [
-      "Aloise Campos Górriz"
-    ],
-    "la": [
-      "Aloysius Campos Górriz"
-    ],
-    "pl": [
-      "Alojzy Campos Górriz"
-    ]
-  },
-
-  "surnames": [
-    {
-      "es": "Campos"
+    "names": {
+        "es": [
+            "Luis Campos Górriz"
+        ],
+        "la": [
+            "Aloysius Campos Górriz"
+        ],
+        "en": [
+            "Aloise Campos Górriz"
+        ],
+        "pl": [
+            "Alojzy Campos Górriz"
+        ]
     },
-    {
-      "es": "Górriz"
+    "forenames": ["aloysius"],
+    "surnames": [
+        {
+            "es": "Campos"
+        },
+        {
+            "es": "Górriz"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1905-06-30"],
+    "died": ["1936-11-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-03-11"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./28#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jose-aparicio-sanz-e-232-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/64064",
+        "wiki": "https://pl.wikipedia.org/wiki/Alojzy_Campos_G%C3%B3rriz"
     }
-  ],
-
-  "born": ["1905-06-30"],
-  "died": ["1936-08-29"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-03-11"
-  },
-
-  "also-in-martyrology": ["11-28"],
-
-  "forenames": ["aloysius"],
-  "categories": ["vir", "martyr"]
 }

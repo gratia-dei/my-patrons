@@ -861,15 +861,15 @@
         }
     },
     "patrons/aloysius/cam": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Luis Campos Górriz",
-            "en": "Aloise Campos Górriz",
             "la": "Aloysius Campos Górriz",
+            "en": "Aloise Campos Górriz",
             "pl": "Alojzy Campos Górriz"
         },
         "died": [
-            "1936-08-29"
+            "1936-11-28"
         ],
         "feasts": []
     },

@@ -7757,6 +7757,20 @@
             }
         }
     },
+    "11-28": {
+        "records/patrons/aloysius/cam": {
+            "name": {
+                "es": "Luis Campos Górriz",
+                "la": "Aloysius Campos Górriz",
+                "en": "Aloise Campos Górriz",
+                "pl": "Alojzy Campos Górriz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 XI",
+                "mr-2004": "28 XI: #9"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/ludovicus/gie": {
             "name": {
