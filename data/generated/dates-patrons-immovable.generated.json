@@ -7555,6 +7555,20 @@
             }
         }
     },
+    "11-21": {
+        "records/patrons/maria/sie": {
+            "name": {
+                "pl": "Maria od Jezusa Dobrego Pasterza",
+                "la": "Maria a Iesu Bono Pastore",
+                "en": "Maria of Jesus the Good Shepherd"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 XI",
+                "feast": "21 XI",
+                "mr-2004": "21 XI: #7"
+            }
+        }
+    },
     "11-22": {
         "records/patrons/felix/2ap": {
             "name": {

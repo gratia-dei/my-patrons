@@ -8688,11 +8688,11 @@
         "feasts": []
     },
     "patrons/maria/sie": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria od Jezusa Dobrego Pasterza",
-            "en": "Maria of Jesus the Good Shepherd",
-            "la": "Maria a Iesu Bono Pastore"
+            "la": "Maria a Iesu Bono Pastore",
+            "en": "Maria of Jesus the Good Shepherd"
         },
         "died": [
             "1902-11-21"

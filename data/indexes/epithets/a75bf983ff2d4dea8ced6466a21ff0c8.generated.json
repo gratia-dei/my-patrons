@@ -6,18 +6,18 @@
         "pl": [
             "od Jezusa Dobrego Pasterza"
         ],
-        "en": [
-            "of Jesus the Good Shepherd"
-        ],
         "la": [
             "a Iesu Bono Pastore"
+        ],
+        "en": [
+            "of Jesus the Good Shepherd"
         ]
     },
     "links": {
         "records/patrons/maria/sie": {
             "pl": "Maria od Jezusa Dobrego Pasterza",
-            "en": "Maria of Jesus the Good Shepherd",
-            "la": "Maria a Iesu Bono Pastore"
+            "la": "Maria a Iesu Bono Pastore",
+            "en": "Maria of Jesus the Good Shepherd"
         }
     }
 }

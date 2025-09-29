@@ -1,46 +1,59 @@
 {
-  "names": {
-    "pl": [
-      "Maria od Jezusa Dobrego Pasterza",
-      "Franciszka Siedliska"
+    "names": {
+        "pl": [
+            "Maria od Jezusa Dobrego Pasterza",
+            "Franciszka Siedliska"
+        ],
+        "la": [
+            "Maria a Iesu Bono Pastore",
+            "Francisca Siedliska"
+        ],
+        "en": [
+            "Maria of Jesus the Good Shepherd",
+            "Frances Siedliska"
+        ]
+    },
+    "forenames": ["maria", "francisca"],
+    "surnames": [
+        {
+            "pl": "Siedliska"
+        }
     ],
-    "en": [
-      "Maria of Jesus the Good Shepherd",
-      "Frances Siedliska"
+    "epithets": [
+        {
+            "pl": "od Jezusa Dobrego Pasterza",
+            "la": "a Iesu Bono Pastore",
+            "en": "of Jesus the Good Shepherd"
+        }
     ],
-    "la": [
-      "Maria a Iesu Bono Pastore",
-      "Francisca Siedliska"
-    ]
-  },
 
-  "surnames": [
-    {
-      "pl": "Siedliska"
+    "active": true,
+
+    "born": ["1842-11-12"],
+    "died": ["1902-11-21"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1989-04-23"
+    },
+    "canonized": null,
+    "anniversary": ["11-21"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./21#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-di-gesu-buon-pastore.html",
+        "gcatholic": "https://gcatholic.org/p/68476",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszka_Siedliska"
     }
-  ],
-
-  "epithets": [
-    {
-      "pl": "od Jezusa Dobrego Pasterza",
-      "en": "of Jesus the Good Shepherd",
-      "la": "a Iesu Bono Pastore"
-    }
-  ],
-
-  "born": ["1842-11-12"],
-  "died": ["1902-11-21"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1989-04-23"
-  },
-
-  "also-in-martyrology": ["11-21"],
-
-  "forenames": ["maria", "francisca"],
-  "categories": ["femina", "virgo", "fundator"],
-
-  "order": ["csfn"],
-  "order-founder": ["csfn"]
 }
