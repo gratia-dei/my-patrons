@@ -7502,6 +7502,19 @@
             }
         }
     },
+    "11-17": {
+        "records/patrons/salomea/reg": {
+            "name": {
+                "pl": "Salomea Piastówna",
+                "la": "Salomea Regina Haliciensis",
+                "en": "Salomea of the Poland"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 XI",
+                "mr-2004": "17 XI: #13"
+            }
+        }
+    },
     "11-18": {
         "records/patrons/carolina/koz": {
             "name": {

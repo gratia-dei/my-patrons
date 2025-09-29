@@ -11336,11 +11336,11 @@
         }
     },
     "patrons/salomea/reg": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Salomea Piastówna",
-            "en": "Salomea of the Poland",
-            "la": "Salomea Regina Haliciensis"
+            "la": "Salomea Regina Haliciensis",
+            "en": "Salomea of the Poland"
         },
         "died": [
             "1268-11-17"

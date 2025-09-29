@@ -1,29 +1,44 @@
 {
-  "names": {
-    "pl": [
-      "Salomea Piastówna"
-    ],
-    "en": [
-      "Salomea of the Poland",
-      "Salomea of Crocow"
-    ],
-    "la": [
-      "Salomea Regina Haliciensis"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Salomea Piastówna"
+        ],
+        "la": [
+            "Salomea Regina Haliciensis"
+        ],
+        "en": [
+            "Salomea of the Poland",
+            "Salomea of Crocow"
+        ]
+    },
+    "forenames": ["salomea"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1211", "~1212"],
-  "died": ["1268-11-17"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1672-05-27"
-  },
+    "born": ["~1211", "~1212"],
+    "died": ["1268-11-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["11-17"],
+    "categories": ["femina", "coniunx", "abbas", "professa", "regina"],
 
-  "forenames": ["salomea"],
-  "categories": ["femina", "coniunx", "abbas", "professa", "regina"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["osc"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./17#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69009",
+        "wiki": "https://pl.wikipedia.org/wiki/Salomea_(b%C5%82ogos%C5%82awiona)"
+    }
 }
