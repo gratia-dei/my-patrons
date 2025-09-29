@@ -1971,7 +1971,7 @@
         }
     },
     "patrons/basilius/ant": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Basilius Antiochenus",
             "en": "Basil of Antioch",

@@ -7543,6 +7543,18 @@
             }
         }
     },
+    "11-20": {
+        "records/patrons/basilius/ant": {
+            "name": {
+                "la": "Basilius Antiochenus",
+                "en": "Basil of Antioch",
+                "pl": "Bazyli z Antiochii"
+            },
+            "sources": {
+                "mr-2004": "20 XI: #1"
+            }
+        }
+    },
     "11-22": {
         "records/patrons/felix/2ap": {
             "name": {
