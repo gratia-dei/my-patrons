@@ -5603,12 +5603,12 @@
         "feasts": []
     },
     "patrons/iacobus/ben": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giacomo Benfatti",
-            "pl": "Jakub Benfatti",
+            "la": "Iacobus Benfatti",
             "en": "James Benfatti",
-            "la": "Iacobus Benfatti"
+            "pl": "Jakub Benfatti"
         },
         "died": [
             "1332-11-19"

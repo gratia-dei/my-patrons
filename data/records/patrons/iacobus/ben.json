@@ -1,36 +1,53 @@
 {
-  "names": {
-    "it": [
-      "Giacomo Benfatti"
+    "names": {
+        "it": [
+            "Giacomo Benfatti"
+        ],
+        "la": [
+            "Iacobus Benfatti"
+        ],
+        "en": [
+            "James Benfatti"
+        ],
+        "pl": [
+            "Jakub Benfatti"
+        ]
+    },
+    "forenames": ["iacobus"],
+    "surnames": [
+        {
+            "it": "Benfatti"
+        }
     ],
-    "pl": [
-      "Jakub Benfatti"
-    ],
-    "en": [
-      "James Benfatti"
-    ],
-    "la": [
-      "Iacobus Benfatti"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Benfatti"
+    "active": true,
+
+    "born": null,
+    "died": ["1332-11-19"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1839-05-26"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./19#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/40149",
+        "wiki": "https://pl.wikipedia.org/wiki/Jakub_Benfatti"
     }
-  ],
-
-  "died": ["1332-11-19"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1859"
-  },
-
-  "also-in-martyrology": ["11-19"],
-
-  "forenames": ["iacobus"],
-  "categories": ["vir", "episcopus"],
-
-  "order": ["op"]
 }

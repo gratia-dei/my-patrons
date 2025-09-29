@@ -7529,6 +7529,20 @@
             }
         }
     },
+    "11-19": {
+        "records/patrons/iacobus/ben": {
+            "name": {
+                "it": "Giacomo Benfatti",
+                "la": "Iacobus Benfatti",
+                "en": "James Benfatti",
+                "pl": "Jakub Benfatti"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 XI",
+                "mr-2004": "19 XI: #9"
+            }
+        }
+    },
     "11-22": {
         "records/patrons/felix/2ap": {
             "name": {
