@@ -7813,6 +7813,18 @@
         }
     },
     "12-02": {
+        "records/patrons/raphael/chy": {
+            "name": {
+                "pl": "Rafał Chyliński",
+                "la": "Raphael Chylinski",
+                "en": "Raphael Chylinski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 XII",
+                "feast": "2 XII",
+                "mr-2004": "2 XII: #8"
+            }
+        },
         "records/patrons/franciscus/xav": {
             "name": {
                 "es": "Francisco Javier",

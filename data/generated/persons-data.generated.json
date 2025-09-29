@@ -10747,7 +10747,7 @@
         "feasts": []
     },
     "patrons/raphael/chy": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Rafał Chyliński",
             "la": "Raphael Chylinski",

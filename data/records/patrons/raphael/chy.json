@@ -1,37 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Rafał Chyliński",
-      "Melchior Chyliński"
+    "names": {
+        "pl": [
+            "Rafał Chyliński",
+            "Melchior Chyliński"
+        ],
+        "la": [
+            "Raphael Chylinski",
+            "Melchior Chyliński"
+        ],
+        "en": [
+            "Raphael Chylinski",
+            "Melchior Chyliński"
+        ]
+    },
+    "forenames": ["raphael", "melchior"],
+    "surnames": [
+        {
+            "pl": "Chyliński"
+        }
     ],
-    "la": [
-      "Raphael Chylinski",
-      "Melchior Chyliński"
-    ],
-    "en": [
-      "Raphael Chylinski",
-      "Melchior Chyliński"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Chyliński"
+    "active": true,
+
+    "born": ["1694-01-06", "1694-01-08"],
+    "died": ["1741-12-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1991-06-09"
+    },
+    "canonized": null,
+    "anniversary": ["12-02"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./2#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/raffaele-chylinski.html",
+        "gcatholic": "https://gcatholic.org/p/68484",
+        "wiki": "https://pl.wikipedia.org/wiki/Rafa%C5%82_Chyli%C5%84ski"
     }
-  ],
-
-  "born": ["1694-01-08"],
-  "died": ["1741-12-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1991-06-09"
-  },
-
-  "also-in-martyrology": ["12-02"],
-
-  "forenames": ["raphael", "melchior"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["ofmconv"]
 }
