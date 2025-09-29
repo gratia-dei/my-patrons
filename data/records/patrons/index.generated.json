@@ -856,6 +856,11 @@
         "hu": "Gellért",
         "it": "Gerardo"
     },
+    "germanus": {
+        "la": "Germanus",
+        "en": "Germanus",
+        "pl": "German"
+    },
     "gertrudis": {
         "la": "Gertrudis",
         "en": "Gertrude",
@@ -1252,6 +1257,11 @@
         "en": "Malachi",
         "pl": "Malachiasz"
     },
+    "manathas": {
+        "la": "Manathas",
+        "en": "Manatha",
+        "pl": "Manata"
+    },
     "marcellianus": {
         "la": "Marcellianus",
         "en": "Marcellian",
@@ -1429,6 +1439,11 @@
         "en": "Natale",
         "pl": "Natal",
         "fr": "Noël"
+    },
+    "nicephorus": {
+        "la": "Nicephorus",
+        "en": "Nicephorus",
+        "pl": "Nicefor"
     },
     "nicodemus": {
         "la": "Nicodemus",
@@ -2120,6 +2135,11 @@
         "la": "Xystus",
         "en": "Sixtus",
         "pl": "Sykstus"
+    },
+    "zebinas": {
+        "la": "Zebinas",
+        "en": "Zebinas",
+        "pl": "Zebinas"
     },
     "zelie": {
         "la": "Zelie",

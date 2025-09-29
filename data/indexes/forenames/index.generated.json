@@ -92,6 +92,9 @@
     "0586e7e1f27bc4035f1f33c73f80f984": {
         "en": "Without"
     },
+    "05879b709f885394988fe32dba2bbaa5": {
+        "pl": "Manata"
+    },
     "05d0610877bd3ee6cad61acd924d4a0e": {
         "pl": "Acylin"
     },
@@ -954,6 +957,10 @@
     "38d0d24129706e2bdf301b6879ba1546": {
         "en": "Ambrose"
     },
+    "38d1b44b02c656c5e470274afdc06e1e": {
+        "la": "Nicephorus",
+        "en": "Nicephorus"
+    },
     "38e2b2e31c0fce9537f735dda9fdf10a": {
         "tl": "Pedro"
     },
@@ -1303,6 +1310,9 @@
     "49193a24546c767b6feb6ddc25390739": {
         "la": "Damianus"
     },
+    "4929b280d46a0101e3b00405302fa042": {
+        "la": "Manathas"
+    },
     "492a23820f41458fd89cec3d0027712b": {
         "la": "Perpetua",
         "en": "Perpetua",
@@ -1361,6 +1371,9 @@
     },
     "4c998d07cb311bd5b93bee9f6a18f588": {
         "la": "Vladimirus"
+    },
+    "4cdc58f99e0bacb743551c2dfee088ad": {
+        "pl": "Ennata"
     },
     "4d1b33b24b2c68f8dc027a23ad6436d6": {
         "la": "Sossius",
@@ -1836,6 +1849,10 @@
         "en": "Juliana",
         "pl": "Juliana"
     },
+    "6e6b0f602d19680276cddba9c3157fd7": {
+        "la": "Ennatha",
+        "en": "Ennatha"
+    },
     "6f2ea64569981645cabaa50f57fad71f": {
         "la": "Boleslava",
         "en": "Boleslava"
@@ -2138,6 +2155,11 @@
         "en": "Martin",
         "fr": "Martin"
     },
+    "81dad6d81fe49d09e3f60ba0fec68440": {
+        "la": "Zebinas",
+        "en": "Zebinas",
+        "pl": "Zebinas"
+    },
     "81f5db724a1db0f5b46ddd0deba72d7c": {
         "en": "Emmeram",
         "pl": "Emmeram"
@@ -2225,6 +2247,9 @@
     "86ae6eda4c25e1ddf79a4c5b4166dfe9": {
         "it": "Felice"
     },
+    "86bc3115eb4e9873ac96904a4a68e19e": {
+        "pl": "German"
+    },
     "86ce8efaf6b90a32152487e676c9ff43": {
         "la": "Dorothea",
         "de": "Dorothea"
@@ -2261,6 +2286,10 @@
     },
     "893785018d20a58cf029e2e9fa6aacf8": {
         "fr": "Luc"
+    },
+    "894ca82edfcb2107fda6221021a7b094": {
+        "la": "Germanus",
+        "en": "Germanus"
     },
     "896fc9b4fcac3a55715d65b72ad85a77": {
         "pl": "Cerealis"
@@ -2647,6 +2676,9 @@
     },
     "a01397a2ded97debb64629932dbed73c": {
         "it": "Romualdo"
+    },
+    "a020646b7fcb173e939d17363976fef2": {
+        "pl": "Nicefor"
     },
     "a05b6a141c5e2a19384151d83681b783": {
         "la": "Cassianus"
@@ -4324,6 +4356,9 @@
     },
     "fdc983c69d8dfad817919626edee6257": {
         "pl": "Bonfiliusz"
+    },
+    "fdd4eeee9a65ea907e3ffa3dd50841a1": {
+        "en": "Manatha"
     },
     "fdf8075f1906880ffeebd4d01f354b0a": {
         "pl": "Rajmund"

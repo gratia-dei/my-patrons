@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "German"
+    },
+    "translations": {
+        "la": [
+            "Germanus"
+        ],
+        "en": [
+            "Germanus"
+        ],
+        "pl": [
+            "German"
+        ]
+    },
+    "links": {
+        "records/patrons/germanus/cae": {
+            "la": "Germanus Caesariensis",
+            "en": "Germanus of Caesarea",
+            "pl": "German z Cezarei"
+        }
+    }
+}

@@ -1,16 +1,16 @@
 {
     "names": {
         "la": [
-            "Antoninus Caesariensis"
+            "Zebinas Caesariensis"
         ],
         "en": [
-            "Antoninus of Caesarea"
+            "Zebina of Caesarea"
         ],
         "pl": [
-            "Antonin z Cezarei"
+            "Zebinas z Cezarei"
         ]
     },
-    "forenames": ["antoninus"],
+    "forenames": ["zebinas"],
     "surnames": null,
     "epithets": null,
 
@@ -25,19 +25,19 @@
     "categories": ["vir", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Nov./13#3"],
+        "mr-1584": ["2:Nov./13#3"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Novembris/13#4"],
+        "mr-1956": ["2:Novembris/13#4"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:nov./13#1"],
+        "mr-2004": ["3:nov./13#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/73964",
+        "gcatholic": "https://gcatholic.org/p/73966",
         "wiki": null
     }
 }

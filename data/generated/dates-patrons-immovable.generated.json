@@ -7399,6 +7399,66 @@
             }
         }
     },
+    "11-13": {
+        "records/patrons/antoninus/nic": {
+            "name": {
+                "la": "Antoninus Caesariensis",
+                "en": "Antoninus of Caesarea",
+                "pl": "Antonin z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "13 XI: #3",
+                "mr-1956": "13 XI: #4",
+                "mr-2004": "13 XI: #1"
+            }
+        },
+        "records/patrons/zebinas/cae": {
+            "name": {
+                "la": "Zebinas Caesariensis",
+                "en": "Zebina of Caesarea",
+                "pl": "Zebinas z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "13 XI: #3",
+                "mr-1956": "13 XI: #4",
+                "mr-2004": "13 XI: #1"
+            }
+        },
+        "records/patrons/germanus/cae": {
+            "name": {
+                "la": "Germanus Caesariensis",
+                "en": "Germanus of Caesarea",
+                "pl": "German z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "13 XI: #3",
+                "mr-1956": "13 XI: #4",
+                "mr-2004": "13 XI: #1"
+            }
+        },
+        "records/patrons/manathas/cae": {
+            "name": {
+                "la": "Manathas Caesariensis",
+                "en": "Manatha of Caesarea",
+                "pl": "Manata z Cezarei"
+            },
+            "sources": {
+                "mr-1584": "13 XI: #3",
+                "mr-1956": "13 XI: #4",
+                "mr-2004": "13 XI: #1"
+            }
+        },
+        "records/patrons/nicephorus/cae": {
+            "name": {
+                "la": "Nicephorus Caesariensis",
+                "en": "Nicephorus of Caesarea",
+                "pl": "Nicefor z Cezarei"
+            },
+            "sources": {
+                "mr-2004": "13 XI: #1"
+            }
+        }
+    },
     "11-14": {
         "records/patrons/stephanus/cue": {
             "name": {

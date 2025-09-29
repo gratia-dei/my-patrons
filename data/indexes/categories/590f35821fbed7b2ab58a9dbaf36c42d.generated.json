@@ -259,9 +259,9 @@
             "pl": "Antonin z Apamei"
         },
         "records/patrons/antoninus/nic": {
-            "la": "Antoninus /+ Nicephorus et alii",
-            "en": "Antoninus /+ Nicephorus and others",
-            "pl": "Antonin /+ Nicefor i inni"
+            "la": "Antoninus Caesariensis",
+            "en": "Antoninus of Caesarea",
+            "pl": "Antonin z Cezarei"
         },
         "records/patrons/antonius/abb": {
             "el": "Ἀντώνιος Μέγας",
@@ -1208,6 +1208,11 @@
             "en": "Gerard Sagredo",
             "pl": "Gerard Sagredo"
         },
+        "records/patrons/germanus/cae": {
+            "la": "Germanus Caesariensis",
+            "en": "Germanus of Caesarea",
+            "pl": "German z Cezarei"
+        },
         "records/patrons/gildus/irw": {
             "sw": "Jildo Irwa",
             "la": "Gildus Irwa",
@@ -2129,6 +2134,11 @@
             "en": "Natale Chabanel",
             "pl": "Natal Chabanel"
         },
+        "records/patrons/nicephorus/cae": {
+            "la": "Nicephorus Caesariensis",
+            "en": "Nicephorus of Caesarea",
+            "pl": "Nicefor z Cezarei"
+        },
         "records/patrons/nicodemus/pha": {
             "la": "Nicodemus, Pharisaeus",
             "en": "Nicodemus, Pharisee",
@@ -2932,6 +2942,11 @@
             "la": "Xystus Pp. II",
             "en": "Sixtus II",
             "pl": "Sykstus II"
+        },
+        "records/patrons/zebinas/cae": {
+            "la": "Zebinas Caesariensis",
+            "en": "Zebina of Caesarea",
+            "pl": "Zebinas z Cezarei"
         },
         "records/patrons/zeno/mai": {
             "la": "Zenon Maiumitanensis",

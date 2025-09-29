@@ -1330,11 +1330,11 @@
         "feasts": []
     },
     "patrons/antoninus/nic": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Antoninus /+ Nicephorus et alii",
-            "en": "Antoninus /+ Nicephorus and others",
-            "pl": "Antonin /+ Nicefor i inni"
+            "la": "Antoninus Caesariensis",
+            "en": "Antoninus of Caesarea",
+            "pl": "Antonin z Cezarei"
         },
         "died": [
             "~308"
@@ -5017,6 +5017,25 @@
         ],
         "feasts": []
     },
+    "patrons/germanus": {
+        "names": {
+            "la": "Germanus",
+            "en": "Germanus",
+            "pl": "German"
+        }
+    },
+    "patrons/germanus/cae": {
+        "active": true,
+        "names": {
+            "la": "Germanus Caesariensis",
+            "en": "Germanus of Caesarea",
+            "pl": "German z Cezarei"
+        },
+        "died": [
+            "~308"
+        ],
+        "feasts": []
+    },
     "patrons/gertrudis": {
         "names": {
             "la": "Gertrudis",
@@ -7836,6 +7855,25 @@
         ],
         "feasts": []
     },
+    "patrons/manathas": {
+        "names": {
+            "la": "Manathas",
+            "en": "Manatha",
+            "pl": "Manata"
+        }
+    },
+    "patrons/manathas/cae": {
+        "active": true,
+        "names": {
+            "la": "Manathas Caesariensis",
+            "en": "Manatha of Caesarea",
+            "pl": "Manata z Cezarei"
+        },
+        "died": [
+            "~308"
+        ],
+        "feasts": []
+    },
     "patrons/marcellianus": {
         "names": {
             "la": "Marcellianus",
@@ -9624,6 +9662,25 @@
         },
         "died": [
             "1649-12-08"
+        ],
+        "feasts": []
+    },
+    "patrons/nicephorus": {
+        "names": {
+            "la": "Nicephorus",
+            "en": "Nicephorus",
+            "pl": "Nicefor"
+        }
+    },
+    "patrons/nicephorus/cae": {
+        "active": true,
+        "names": {
+            "la": "Nicephorus Caesariensis",
+            "en": "Nicephorus of Caesarea",
+            "pl": "Nicefor z Cezarei"
+        },
+        "died": [
+            "~308"
         ],
         "feasts": []
     },
@@ -13138,6 +13195,25 @@
         },
         "died": [
             "258-08-06"
+        ],
+        "feasts": []
+    },
+    "patrons/zebinas": {
+        "names": {
+            "la": "Zebinas",
+            "en": "Zebinas",
+            "pl": "Zebinas"
+        }
+    },
+    "patrons/zebinas/cae": {
+        "active": true,
+        "names": {
+            "la": "Zebinas Caesariensis",
+            "en": "Zebina of Caesarea",
+            "pl": "Zebinas z Cezarei"
+        },
+        "died": [
+            "~308"
         ],
         "feasts": []
     },

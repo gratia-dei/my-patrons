@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Nicefor"
+    },
+    "translations": {
+        "la": [
+            "Nicephorus"
+        ],
+        "en": [
+            "Nicephorus"
+        ],
+        "pl": [
+            "Nicefor"
+        ]
+    },
+    "links": {
+        "records/patrons/nicephorus/cae": {
+            "la": "Nicephorus Caesariensis",
+            "en": "Nicephorus of Caesarea",
+            "pl": "Nicefor z Cezarei"
+        }
+    }
+}

@@ -1,16 +1,18 @@
 {
     "names": {
         "la": [
-            "Antoninus Caesariensis"
+            "Manathas Caesariensis",
+            "Ennatha Caesariensis"
         ],
         "en": [
-            "Antoninus of Caesarea"
+            "Manatha of Caesarea"
         ],
         "pl": [
-            "Antonin z Cezarei"
+            "Manata z Cezarei",
+            "Ennata z Cezarei"
         ]
     },
-    "forenames": ["antoninus"],
+    "forenames": ["manathas"],
     "surnames": null,
     "epithets": null,
 
@@ -22,22 +24,22 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["vir", "martyr"],
+    "categories": ["femina", "martyr", "virgo"],
 
     "data-links": {
-        "mr-1584": ["1:Nov./13#3"],
+        "mr-1584": ["4:Nov./13#3"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Novembris/13#4"],
+        "mr-1956": ["4:Novembris/13#4"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:nov./13#1"],
+        "mr-2004": ["5:nov./13#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/73964",
+        "gcatholic": "https://gcatholic.org/p/73968",
         "wiki": null
     }
 }

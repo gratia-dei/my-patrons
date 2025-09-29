@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Zebinas",
+        "en": "Zebinas",
+        "pl": "Zebinas"
+    },
+    "translations": {
+        "la": [
+            "Zebinas"
+        ],
+        "en": [
+            "Zebinas"
+        ],
+        "pl": [
+            "Zebinas"
+        ]
+    },
+    "links": {
+        "records/patrons/zebinas/cae": {
+            "la": "Zebinas Caesariensis",
+            "en": "Zebina of Caesarea",
+            "pl": "Zebinas z Cezarei"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Ennatha",
+        "en": "Ennatha"
+    },
+    "translations": {
+        "la": [
+            "Manathas",
+            "Ennatha"
+        ],
+        "en": [
+            "Manatha",
+            "Ennatha"
+        ],
+        "pl": [
+            "Manata",
+            "Ennata"
+        ]
+    },
+    "links": {
+        "records/patrons/manathas/cae": {
+            "la": "Manathas Caesariensis",
+            "en": "Manatha of Caesarea",
+            "pl": "Manata z Cezarei"
+        }
+    }
+}

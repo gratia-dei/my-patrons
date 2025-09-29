@@ -1032,6 +1032,11 @@
         "hu": "Gellért",
         "it": "Gerardo"
     },
+    "germanus": {
+        "la": "Germanus",
+        "en": "Germanus",
+        "pl": "German"
+    },
     "gertrudis": {
         "la": "Gertrudis",
         "en": "Gertrude",
@@ -1549,6 +1554,11 @@
         "en": "Malachi",
         "pl": "Malachiasz"
     },
+    "manathas": {
+        "la": "Manathas",
+        "en": "Manatha",
+        "pl": "Manata"
+    },
     "manettus": {
         "la": "Manettus",
         "en": "Manettus",
@@ -1759,6 +1769,11 @@
         "en": "Nghi",
         "pl": "Nghi",
         "vi": "Nghi"
+    },
+    "nicephorus": {
+        "la": "Nicephorus",
+        "en": "Nicephorus",
+        "pl": "Nicefor"
     },
     "nicodemus": {
         "la": "Nicodemus",
@@ -2587,6 +2602,11 @@
         "la": "Zaide",
         "pl": "Zaide",
         "zh": "在德"
+    },
+    "zebinas": {
+        "la": "Zebinas",
+        "en": "Zebinas",
+        "pl": "Zebinas"
     },
     "zelie": {
         "la": "Zelie",

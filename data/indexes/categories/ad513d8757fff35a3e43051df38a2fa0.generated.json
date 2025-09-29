@@ -172,9 +172,9 @@
             "pl": "Antonin z Apamei"
         },
         "records/patrons/antoninus/nic": {
-            "la": "Antoninus /+ Nicephorus et alii",
-            "en": "Antoninus /+ Nicephorus and others",
-            "pl": "Antonin /+ Nicefor i inni"
+            "la": "Antoninus Caesariensis",
+            "en": "Antoninus of Caesarea",
+            "pl": "Antonin z Cezarei"
         },
         "records/patrons/antonius/baj": {
             "pl": "Antoni Bajewski",
@@ -765,6 +765,11 @@
             "en": "Gerard Sagredo",
             "pl": "Gerard Sagredo"
         },
+        "records/patrons/germanus/cae": {
+            "la": "Germanus Caesariensis",
+            "en": "Germanus of Caesarea",
+            "pl": "German z Cezarei"
+        },
         "records/patrons/gildus/irw": {
             "sw": "Jildo Irwa",
             "la": "Gildus Irwa",
@@ -1206,6 +1211,11 @@
             "en": "Magdalene Yi Yŏng-hŭi",
             "pl": "Magdalena Yi Yŏng-hŭi"
         },
+        "records/patrons/manathas/cae": {
+            "la": "Manathas Caesariensis",
+            "en": "Manatha of Caesarea",
+            "pl": "Manata z Cezarei"
+        },
         "records/patrons/marcellianus/mar": {
             "la": "Marcellianus; cum eo, i.a., Marcus",
             "en": "Marcellian; with him, i.a., Mark",
@@ -1504,6 +1514,11 @@
             "la": "Natalis Chabanel",
             "en": "Natale Chabanel",
             "pl": "Natal Chabanel"
+        },
+        "records/patrons/nicephorus/cae": {
+            "la": "Nicephorus Caesariensis",
+            "en": "Nicephorus of Caesarea",
+            "pl": "Nicefor z Cezarei"
         },
         "records/patrons/nympha/try": {
             "la": "Nympha; cum ea, i.a., Tryphon",
@@ -2071,6 +2086,11 @@
             "la": "Xystus Pp. II",
             "en": "Sixtus II",
             "pl": "Sykstus II"
+        },
+        "records/patrons/zebinas/cae": {
+            "la": "Zebinas Caesariensis",
+            "en": "Zebina of Caesarea",
+            "pl": "Zebinas z Cezarei"
         }
     }
 }
