@@ -1,68 +1,80 @@
 {
-  "names": {
-    "de": [
-      "Albert der Große",
-      "Albertus Magnus",
-      "Albert von Lauingen",
-      "Albert von Köln",
-      "Albert der Deutsche",
-      "Albert Graf von Bollstädt",
-      "Doctor Universalis",
-      "Doctor Expertus"
-    ],
-    "en": [
-      "Albert the Great",
-      "Albertus Magnus",
-      "Albert of Swabia",
-      "Albert of Cologne",
-      "Doctor Universalis",
-      "Doctor Expertus"
-    ],
-    "la": [
-      "Albertus Magnus",
-      "Albertus Theutonicus",
-      "Albertus Coloniensis",
-      "Doctor Universalis",
-      "Doctor Expertus"
-    ],
-    "pl": [
-      "Albert Wielki",
-      "Albert z Kolonii",
-      "Albert z Lauingen",
-      "Albert von Bollstädt",
-      "Doctor Universalis",
-      "Doctor Expertus"
-    ]
-  },
-
-  "epithets": [
-    {
-      "de": "der Große",
-      "en": "the Great",
-      "la": "Magnus",
-      "pl": "Wielki"
+    "names": {
+        "de": [
+            "Albert der Große",
+            "Albertus Magnus",
+            "Albert von Lauingen",
+            "Albert von Köln",
+            "Albert der Deutsche",
+            "Albert Graf von Bollstädt",
+            "Doctor Universalis",
+            "Doctor Expertus"
+        ],
+        "la": [
+            "Albertus Magnus",
+            "Albertus Theutonicus",
+            "Albertus Coloniensis",
+            "Doctor Universalis",
+            "Doctor Expertus"
+        ],
+        "en": [
+            "Albert the Great",
+            "Albertus Magnus",
+            "Albert of Swabia",
+            "Albert of Cologne",
+            "Doctor Universalis",
+            "Doctor Expertus"
+        ],
+        "pl": [
+            "Albert Wielki",
+            "Albert z Kolonii",
+            "Albert z Lauingen",
+            "Albert von Bollstädt",
+            "Doctor Universalis",
+            "Doctor Expertus"
+        ]
     },
-    {
-      "la": "Doctor Universalis"
+    "forenames": ["albertus"],
+    "epithets": [
+        {
+            "de": "der Große",
+            "en": "the Great",
+            "la": "Magnus",
+            "pl": "Wielki"
+        }
+    ],
+    "surnames": null,
+
+    "active": true,
+
+    "born": [">1195", "<1206"],
+    "died": ["1280-11-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1622-11-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1931-12-16"
+    },
+    "anniversary": ["11-15"],
+
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/15#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./15#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/alberto-magno.html",
+        "gcatholic": "https://gcatholic.org/p/53583",
+        "wiki": "https://pl.wikipedia.org/wiki/Albert_Wielki"
     }
-  ],
-
-  "born": [">1195", "<1206"],
-  "died": ["1280-11-15"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1622"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1931-12-16"
-  },
-
-  "also-in-martyrology": ["11-15"],
-
-  "forenames": ["albertus"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
-
-  "order": ["op"]
 }

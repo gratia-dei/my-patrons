@@ -7473,6 +7473,22 @@
             }
         }
     },
+    "11-15": {
+        "records/patrons/albertus/mag": {
+            "name": {
+                "de": "Albert der Große",
+                "la": "Albertus Magnus",
+                "en": "Albert the Great",
+                "pl": "Albert Wielki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 XI",
+                "feast": "15 XI",
+                "mr-1956": "15 XI: #1",
+                "mr-2004": "15 XI: #1"
+            }
+        }
+    },
     "11-16": {
         "records/patrons/eduardus/osb": {
             "name": {

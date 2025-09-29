@@ -36,8 +36,8 @@
         },
         "records/patrons/albertus/mag": {
             "de": "Albert der Große",
-            "en": "Albert the Great",
             "la": "Albertus Magnus",
+            "en": "Albert the Great",
             "pl": "Albert Wielki"
         }
     }

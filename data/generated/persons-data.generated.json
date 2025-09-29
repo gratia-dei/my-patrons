@@ -752,11 +752,11 @@
         "feasts": []
     },
     "patrons/albertus/mag": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Albert der Große",
-            "en": "Albert the Great",
             "la": "Albertus Magnus",
+            "en": "Albert the Great",
             "pl": "Albert Wielki"
         },
         "died": [
