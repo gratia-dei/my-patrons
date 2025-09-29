@@ -11406,7 +11406,7 @@
         "feasts": []
     },
     "patrons/saturninus/tol": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Saturninus Tolosanensis",
             "en": "Saturnin of Toulouse",

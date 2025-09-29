@@ -7771,6 +7771,20 @@
             }
         }
     },
+    "11-29": {
+        "records/patrons/saturninus/tol": {
+            "name": {
+                "la": "Saturninus Tolosanensis",
+                "en": "Saturnin of Toulouse",
+                "pl": "Saturnin z Tuluzy"
+            },
+            "sources": {
+                "mr-1584": "29 XI: #3",
+                "mr-1956": "29 XI: #3",
+                "mr-2004": "29 XI: #2"
+            }
+        }
+    },
     "11-30": {
         "records/patrons/ludovicus/gie": {
             "name": {
