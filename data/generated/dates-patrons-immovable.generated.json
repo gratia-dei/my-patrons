@@ -7906,6 +7906,19 @@
                 "feast": "5 XII",
                 "mr-2004": "5 XII: #9"
             }
+        },
+        "records/patrons/philippus/rin": {
+            "name": {
+                "it": "Filippo Rinaldi",
+                "la": "Philippus Rinaldi",
+                "en": "Philip Rinaldi",
+                "pl": "Filip Rinaldi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 XII",
+                "feast": "5 XII",
+                "mr-2004": "5 XII: #8"
+            }
         }
     },
     "12-06": {

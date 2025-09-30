@@ -10493,6 +10493,19 @@
         ],
         "feasts": []
     },
+    "patrons/philippus/rin": {
+        "active": true,
+        "names": {
+            "it": "Filippo Rinaldi",
+            "la": "Philippus Rinaldi",
+            "en": "Philip Rinaldi",
+            "pl": "Filip Rinaldi"
+        },
+        "died": [
+            "1931-12-05"
+        ],
+        "feasts": []
+    },
     "patrons/philomena": {
         "names": {
             "la": "Philomena",
