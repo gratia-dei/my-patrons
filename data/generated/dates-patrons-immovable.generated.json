@@ -7952,6 +7952,18 @@
         }
     },
     "12-08": {
+        "records/patrons/aloysius/lig": {
+            "name": {
+                "pl": "Alojzy Liguda",
+                "la": "Aloise Liguda",
+                "en": "Aloysius Liguda"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XII",
+                "feast": "8 XII",
+                "mr-2004": "8 XII: #11"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",

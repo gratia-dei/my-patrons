@@ -1,34 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Alojzy Liguda"
+    "names": {
+        "pl": [
+            "Alojzy Liguda"
+        ],
+        "la": [
+            "Aloise Liguda"
+        ],
+        "en": [
+            "Aloysius Liguda"
+        ]
+    },
+    "forenames": ["aloysius"],
+    "surnames": [
+        {
+            "pl": "Liguda"
+        }
     ],
-    "la": [
-      "Aloise Liguda"
-    ],
-    "en": [
-      "Aloysius Liguda"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Liguda"
+    "active": true,
+
+    "born": ["1898-01-23"],
+    "died": ["1942-12-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["12-08"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./8#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67800",
+        "wiki": "https://pl.wikipedia.org/wiki/Alojzy_Liguda"
     }
-  ],
-
-  "born": ["1898-01-23"],
-  "died": ["1942-12-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["12-08"],
-
-  "forenames": ["aloysius"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["svd"]
 }

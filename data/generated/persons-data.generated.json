@@ -887,7 +887,7 @@
         "feasts": []
     },
     "patrons/aloysius/lig": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Alojzy Liguda",
             "la": "Aloise Liguda",
