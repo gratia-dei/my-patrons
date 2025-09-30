@@ -8007,6 +8007,19 @@
             }
         }
     },
+    "12-11": {
+        "records/patrons/hieronymus/tif": {
+            "name": {
+                "it": "Girolamo da Sant'Angelo in Vado",
+                "la": "Hieronymus de Tiferno Metaurensi",
+                "en": "Jerome Ranucci",
+                "pl": "Hieronim Ranucci"
+            },
+            "sources": {
+                "mr-2004": "11 XII: #8"
+            }
+        }
+    },
     "12-12": {
         "records/patrons/thomas/hol": {
             "name": {
