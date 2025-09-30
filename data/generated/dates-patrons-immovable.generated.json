@@ -3121,6 +3121,16 @@
             "sources": {
                 "mr-1956-variations": "3 VII: #pre-1-ab-1960-07-26"
             }
+        },
+        "records/patrons/thomas/apo": {
+            "name": {
+                "la": "Thomas Apostolus",
+                "en": "Thomas the Apostle",
+                "pl": "Tomasz Apostoł"
+            },
+            "sources": {
+                "mr-2004": "3 VII: #1"
+            }
         }
     },
     "07-04": {
@@ -8186,6 +8196,19 @@
             },
             "sources": {
                 "mr-1956": "20 XII: #3"
+            }
+        }
+    },
+    "12-21": {
+        "records/patrons/thomas/apo": {
+            "name": {
+                "la": "Thomas Apostolus",
+                "en": "Thomas the Apostle",
+                "pl": "Tomasz Apostoł"
+            },
+            "sources": {
+                "mr-1584": "21 XII: #1",
+                "mr-1956": "21 XII: #1"
             }
         }
     },

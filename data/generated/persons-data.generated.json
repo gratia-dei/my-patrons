@@ -12486,7 +12486,7 @@
         }
     },
     "patrons/thomas/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Thomas Apostolus",
             "en": "Thomas the Apostle",
@@ -12495,7 +12495,15 @@
         "died": [
             "~72"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/tta": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Thomae Apostoli",
+                    "pl": "Przeniesienie świętego Tomasza Apostoła"
+                }
+            }
+        }
     },
     "patrons/thomas/aqu": {
         "active": true,

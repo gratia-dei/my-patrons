@@ -655,6 +655,18 @@
             }
         }
     },
+    "07-03": {
+        "records/patrons/thomas/apo#tta": {
+            "name": {
+                "la": "Thomas Apostolus (Translatio sancti Thomae Apostoli)",
+                "pl": "Tomasz Apostoł (Przeniesienie świętego Tomasza Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "3 VII: #9",
+                "mr-1956": "3 VII: #10"
+            }
+        }
+    },
     "07-04": {
         "records/patrons/martinus/tur#tmt": {
             "name": {
