@@ -9554,11 +9554,11 @@
         }
     },
     "patrons/nahum/pro": {
-        "active": false,
+        "active": true,
         "names": {
             "he": "נחום, הנביא",
-            "en": "Nahum, prophet",
             "la": "Nahum, propheta",
+            "en": "Nahum, prophet",
             "pl": "Nahum, prorok"
         },
         "died": [

@@ -7812,6 +7812,21 @@
             }
         }
     },
+    "12-01": {
+        "records/patrons/nahum/pro": {
+            "name": {
+                "he": "נחום, הנביא",
+                "la": "Nahum, propheta",
+                "en": "Nahum, prophet",
+                "pl": "Nahum, prorok"
+            },
+            "sources": {
+                "mr-1584": "1 XII: #1",
+                "mr-1956": "1 XII: #1",
+                "mr-2004": "1 XII: #1"
+            }
+        }
+    },
     "12-02": {
         "records/patrons/raphael/chy": {
             "name": {

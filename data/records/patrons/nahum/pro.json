@@ -1,23 +1,46 @@
 {
-  "names": {
-    "he": [
-      "נחום, הנביא"
-    ],
-    "en": [
-      "Nahum, prophet"
-    ],
-    "la": [
-      "Nahum, propheta"
-    ],
-    "pl": [
-      "Nahum, prorok"
-    ]
-  },
+    "names": {
+        "he": [
+            "נחום, הנביא"
+        ],
+        "la": [
+            "Nahum, propheta"
+        ],
+        "en": [
+            "Nahum, prophet"
+        ],
+        "pl": [
+            "Nahum, prorok"
+        ]
+    },
+    "forenames": ["nahum"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">-700", "<-601"],
+    "active": true,
 
-  "also-in-martyrology": ["12-01"],
+    "born": null,
+    "died": [">-700", "<-601"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["nahum"],
-  "categories": ["vir", "propheta"]
+    "categories": ["vir", "propheta"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./1#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/1#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./1#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70073",
+        "wiki": "https://pl.wikipedia.org/wiki/Nahum_(prorok)"
+    }
 }
