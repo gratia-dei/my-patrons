@@ -8099,6 +8099,18 @@
         }
     },
     "12-16": {
+        "records/patrons/honoratus/kaz": {
+            "name": {
+                "pl": "Honorat Koźmiński",
+                "la": "Honoratus Koźmiński",
+                "en": "Honorat Koźmiński"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 XII",
+                "feast": "16 XII",
+                "mr-2004": "16 XII: #11"
+            }
+        },
         "records/patrons/eusebius/ver": {
             "name": {
                 "la": "Eusebius Vercellensis",

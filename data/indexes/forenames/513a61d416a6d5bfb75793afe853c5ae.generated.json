@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Honorat",
+        "pl": "Honorat"
+    },
+    "translations": {
+        "la": [
+            "Honoratus"
+        ],
+        "en": [
+            "Honorat"
+        ],
+        "pl": [
+            "Honorat"
+        ]
+    },
+    "links": {
+        "records/patrons/honoratus/kaz": {
+            "pl": "Honorat Koźmiński",
+            "la": "Honoratus Koźmiński",
+            "en": "Honorat Koźmiński"
+        }
+    }
+}

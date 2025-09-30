@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Florentius",
+        "en": "Florentius"
+    },
+    "translations": {
+        "la": [
+            "Florentius"
+        ],
+        "en": [
+            "Florentius"
+        ],
+        "pl": [
+            "Florenty",
+            "Florencjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/honoratus/kaz": {
+            "pl": "Honorat Koźmiński",
+            "la": "Honoratus Koźmiński",
+            "en": "Honorat Koźmiński"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "names": {
+        "la": "Kazminsky"
+    },
+    "translations": {
+        "pl": [
+            "Koźmiński"
+        ],
+        "la": [
+            "Kazminsky"
+        ]
+    },
+    "links": {
+        "records/patrons/honoratus/kaz": {
+            "pl": "Honorat Koźmiński",
+            "la": "Honoratus Koźmiński",
+            "en": "Honorat Koźmiński"
+        }
+    }
+}

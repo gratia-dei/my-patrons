@@ -5500,6 +5500,25 @@
         ],
         "feasts": []
     },
+    "patrons/honoratus": {
+        "names": {
+            "la": "Honoratus",
+            "en": "Honorat",
+            "pl": "Honorat"
+        }
+    },
+    "patrons/honoratus/kaz": {
+        "active": true,
+        "names": {
+            "pl": "Honorat Koźmiński",
+            "la": "Honoratus Koźmiński",
+            "en": "Honorat Koźmiński"
+        },
+        "died": [
+            "1916-12-16"
+        ],
+        "feasts": []
+    },
     "patrons/hormisdas": {
         "names": {
             "la": "Hormisdas",

@@ -939,6 +939,11 @@
         "en": "Flavius",
         "pl": "Flawiusz"
     },
+    "florentius": {
+        "la": "Florentius",
+        "en": "Florentius",
+        "pl": "Florenty"
+    },
     "florianus": {
         "la": "Florianus",
         "en": "Florian",
@@ -1136,6 +1141,11 @@
         "en": "Hillary",
         "pl": "Hilary",
         "it": "Ilario"
+    },
+    "honoratus": {
+        "la": "Honoratus",
+        "en": "Honorat",
+        "pl": "Honorat"
     },
     "hormisdas": {
         "la": "Hormisdas",
