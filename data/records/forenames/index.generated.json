@@ -387,7 +387,8 @@
         "la": "Bernardus",
         "en": "Bernard",
         "pl": "Bernard",
-        "fr": "Bernard"
+        "fr": "Bernard",
+        "it": "Bernardo"
     },
     "bertholdus": {
         "la": "Bertholdus",
@@ -473,6 +474,12 @@
         "la": "Caerealis",
         "en": "Cereal",
         "pl": "Cerealis"
+    },
+    "caesar": {
+        "la": "Caesar",
+        "en": "Caesar",
+        "pl": "Cezary",
+        "it": "Cesare"
     },
     "caesarius": {
         "la": "Caesarius",

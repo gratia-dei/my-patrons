@@ -4,19 +4,28 @@
     },
     "translations": {
         "la": [
+            "Caesar",
             "Caesarius"
         ],
         "en": [
+            "Caesar",
             "Caesarius"
         ],
         "pl": [
             "Cezary"
         ],
         "it": [
+            "Cesare",
             "Cesario"
         ]
     },
     "links": {
+        "records/patrons/bernardus/sil": {
+            "it": "Bernardo Maria di Gesù",
+            "la": "Bernardus Maria a Iesu",
+            "en": "Bernard Mary of Jesus",
+            "pl": "Bernard Maria od Jezusa"
+        },
         "records/patrons/caesarius/are": {
             "la": "Caesarius Arelatensis",
             "pl": "Cezary z Arles",

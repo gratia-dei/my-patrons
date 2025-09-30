@@ -1,19 +1,19 @@
 {
     "names": {
-        "it": "di Gesù"
+        "it": "Cesare"
     },
     "translations": {
-        "it": [
-            "di Gesù"
-        ],
         "la": [
-            "a Iesu"
+            "Caesar"
         ],
         "en": [
-            "of Jesus"
+            "Caesar"
         ],
         "pl": [
-            "od Jezusa"
+            "Cezary"
+        ],
+        "it": [
+            "Cesare"
         ]
     },
     "links": {
@@ -22,12 +22,6 @@
             "la": "Bernardus Maria a Iesu",
             "en": "Bernard Mary of Jesus",
             "pl": "Bernard Maria od Jezusa"
-        },
-        "records/patrons/maria/rub": {
-            "it": "Maria Francesca di Gesù",
-            "en": "Maria Francesca of Jesus",
-            "la": "Maria Francisca a Iesu",
-            "pl": "Maria Franciszka od Jezusa"
         }
     }
 }

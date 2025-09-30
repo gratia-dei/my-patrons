@@ -2138,7 +2138,8 @@
             "la": "Bernardus",
             "en": "Bernard",
             "pl": "Bernard",
-            "fr": "Bernard"
+            "fr": "Bernard",
+            "it": "Bernardo"
         }
     },
     "patrons/bernardus/cla": {
@@ -2151,6 +2152,19 @@
         },
         "died": [
             "1153-08-20"
+        ],
+        "feasts": []
+    },
+    "patrons/bernardus/sil": {
+        "active": true,
+        "names": {
+            "it": "Bernardo Maria di Gesù",
+            "la": "Bernardus Maria a Iesu",
+            "en": "Bernard Mary of Jesus",
+            "pl": "Bernard Maria od Jezusa"
+        },
+        "died": [
+            "1911-12-09"
         ],
         "feasts": []
     },
@@ -12238,7 +12252,7 @@
     "patrons/teresia/gon": {
         "active": true,
         "names": {
-            "ojczysty": "Nënë Tereza e Kalkutës",
+            "sq": "Nënë Tereza e Kalkutës",
             "la": "Mater Teresia de Calcutta",
             "en": "Mother Teresa of Calcutta",
             "pl": "Matka Teresa z Kalkuty"

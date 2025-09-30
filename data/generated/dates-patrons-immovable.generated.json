@@ -4858,7 +4858,7 @@
     "09-05": {
         "records/patrons/teresia/gon": {
             "name": {
-                "ojczysty": "Nënë Tereza e Kalkutës",
+                "sq": "Nënë Tereza e Kalkutës",
                 "la": "Mater Teresia de Calcutta",
                 "en": "Mother Teresa of Calcutta",
                 "pl": "Matka Teresa z Kalkuty"
@@ -7974,6 +7974,21 @@
             "sources": {
                 "reliable-death-anniversary": "8 XII",
                 "mr-2004": "8 XII: #8"
+            }
+        }
+    },
+    "12-09": {
+        "records/patrons/bernardus/sil": {
+            "name": {
+                "it": "Bernardo Maria di Gesù",
+                "la": "Bernardus Maria a Iesu",
+                "en": "Bernard Mary of Jesus",
+                "pl": "Bernard Maria od Jezusa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 XII",
+                "feast": "9 XII",
+                "mr-2004": "9 XII: #8"
             }
         }
     },

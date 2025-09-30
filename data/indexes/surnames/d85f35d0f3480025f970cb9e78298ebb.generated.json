@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Silvestrelli"
+    },
+    "translations": {
+        "it": [
+            "Silvestrelli"
+        ]
+    },
+    "links": {
+        "records/patrons/bernardus/sil": {
+            "it": "Bernardo Maria di Gesù",
+            "la": "Bernardus Maria a Iesu",
+            "en": "Bernard Mary of Jesus",
+            "pl": "Bernard Maria od Jezusa"
+        }
+    }
+}

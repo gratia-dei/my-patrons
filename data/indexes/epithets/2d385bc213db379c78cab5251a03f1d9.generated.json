@@ -3,23 +3,29 @@
         "en": "of Jesus"
     },
     "translations": {
-        "es": [
-            "de Jesús"
-        ],
-        "en": [
-            "of Jesus"
+        "it": [
+            "di Gesù"
         ],
         "la": [
             "a Iesu"
         ],
+        "en": [
+            "of Jesus"
+        ],
         "pl": [
             "od Jezusa"
         ],
-        "it": [
-            "di Gesù"
+        "es": [
+            "de Jesús"
         ]
     },
     "links": {
+        "records/patrons/bernardus/sil": {
+            "it": "Bernardo Maria di Gesù",
+            "la": "Bernardus Maria a Iesu",
+            "en": "Bernard Mary of Jesus",
+            "pl": "Bernard Maria od Jezusa"
+        },
         "records/patrons/maria/nav": {
             "es": "María Ana de Jesús Navarro",
             "en": "Maria Anna of Jesus Navarro",

@@ -185,6 +185,12 @@
             "la": "Bernardinus Senensis",
             "pl": "Bernardyn ze Sieny"
         },
+        "records/patrons/bernardus/sil": {
+            "it": "Bernardo Maria di Gesù",
+            "la": "Bernardus Maria a Iesu",
+            "en": "Bernard Mary of Jesus",
+            "pl": "Bernard Maria od Jezusa"
+        },
         "records/patrons/boleslaus/str": {
             "pl": "Bolesław Strzelecki",
             "la": "Boleslaus Strzelecki",

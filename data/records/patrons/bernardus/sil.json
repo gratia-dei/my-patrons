@@ -1,0 +1,64 @@
+{
+    "names": {
+        "it": [
+            "Bernardo Maria di Gesù",
+            "Cesare Silvestrelli"
+        ],
+        "la": [
+            "Bernardus Maria a Iesu",
+            "Caesar Silvestrelli"
+        ],
+        "en": [
+            "Bernard Mary of Jesus",
+            "Caesar Silvestrelli"
+        ],
+        "pl": [
+            "Bernard Maria od Jezusa",
+            "Cezary Silvestrelli"
+        ]
+    },
+    "forenames": ["bernardus", "maria", "caesar"],
+    "surnames": [
+        {
+            "it": "Silvestrelli"
+        }
+    ],
+    "epithets": [
+        {
+            "it": "di Gesù",
+            "la": "a Iesu",
+            "en": "of Jesus",
+            "pl": "od Jezusa"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1831-11-07"],
+    "died": ["1911-12-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1988-10-16"
+    },
+    "canonized": null,
+    "anniversary": ["12-09"],
+
+    "categories": ["vir", "presbyter", "generalis"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./9#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/bernardo-maria-di-gesu.html",
+        "gcatholic": "https://gcatholic.org/p/47246",
+        "wiki": "https://pl.wikipedia.org/wiki/Bernard_Maria_Silvestrelli"
+    }
+}
