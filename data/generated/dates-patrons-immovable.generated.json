@@ -124,6 +124,19 @@
             }
         }
     },
+    "01-14": {
+        "records/patrons/malachias/pro": {
+            "name": {
+                "la": "Malachias, propheta",
+                "en": "Malachi, the prophet",
+                "pl": "Malachiasz, prorok"
+            },
+            "sources": {
+                "mr-1584": "14 I: #2",
+                "mr-1956": "14 I: #3"
+            }
+        }
+    },
     "01-15": {
         "records/patrons/macarius/mag": {
             "name": {
@@ -8134,6 +8147,18 @@
                 "reliable-death-anniversary": "17 XII",
                 "mr-1956": "17 XII: #1",
                 "mr-2004": "17 XII: #8"
+            }
+        }
+    },
+    "12-18": {
+        "records/patrons/malachias/pro": {
+            "name": {
+                "la": "Malachias, propheta",
+                "en": "Malachi, the prophet",
+                "pl": "Malachiasz, prorok"
+            },
+            "sources": {
+                "mr-2004": "18 XII: #1"
             }
         }
     },

@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Malachias Propheta"
-    ],
-    "en": [
-      "Malachi the Prophet"
-    ],
-    "pl": [
-      "Malachiasz Prorok"
-    ]
-  },
+    "names": {
+        "la": [
+            "Malachias, propheta"
+        ],
+        "en": [
+            "Malachi, the prophet"
+        ],
+        "pl": [
+            "Malachiasz, prorok"
+        ]
+    },
+    "forenames": ["malachias"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">-500", "<-401"],
+    "active": true,
 
-  "also-in-martyrology": ["01-14", "12-18"],
+    "born": null,
+    "died": [">-500", "<-401"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["malachias"],
-  "categories": ["vir", "propheta"]
+    "categories": ["vir", "propheta"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./14#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/14#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./18#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70077",
+        "wiki": "https://pl.wikipedia.org/wiki/Malachiasz_(prorok)"
+    }
 }
