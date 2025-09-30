@@ -2086,19 +2086,6 @@
       }
     },
     "checklist": {
-      "selection": {
-        "to-complete-on-selected-date": true,
-        "required": true,
-        "name": {
-          "pl": "wybierz cytat Patrona"
-        },
-        "description": {
-          "params": [],
-          "template": {
-            "pl": "pl/kroki/wybierz-cytat-patrona"
-          }
-        }
-      },
       "meditation": {
         "to-complete-on-selected-date": false,
         "required": true,
