@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Pollo"
+    },
+    "translations": {
+        "it": [
+            "Pollo"
+        ]
+    },
+    "links": {
+        "records/patrons/secundus/pol": {
+            "it": "Secondo Pollo",
+            "la": "Secundus Pollo",
+            "en": "Secundus Pollo",
+            "pl": "Sekundus Pollo"
+        }
+    }
+}

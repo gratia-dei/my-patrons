@@ -8325,6 +8325,19 @@
         }
     },
     "12-26": {
+        "records/patrons/secundus/pol": {
+            "name": {
+                "it": "Secondo Pollo",
+                "la": "Secundus Pollo",
+                "en": "Secundus Pollo",
+                "pl": "Sekundus Pollo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 XII",
+                "feast": "26 XII",
+                "mr-2004": "26 XII: #8"
+            }
+        },
         "records/patrons/zosimus/1pp": {
             "name": {
                 "la": "Zosimus, papa",

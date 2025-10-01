@@ -2597,6 +2597,12 @@
             "la": "Secundus Astensis",
             "pl": "Sekundus z Asti"
         },
+        "records/patrons/secundus/pol": {
+            "it": "Secondo Pollo",
+            "la": "Secundus Pollo",
+            "en": "Secundus Pollo",
+            "pl": "Sekundus Pollo"
+        },
         "records/patrons/serapion/alg": {
             "la": "Serapion Algirensis",
             "en": "Serapion of Algiers",

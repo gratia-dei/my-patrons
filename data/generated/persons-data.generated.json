@@ -11602,6 +11602,19 @@
         ],
         "feasts": []
     },
+    "patrons/secundus/pol": {
+        "active": true,
+        "names": {
+            "it": "Secondo Pollo",
+            "la": "Secundus Pollo",
+            "en": "Secundus Pollo",
+            "pl": "Sekundus Pollo"
+        },
+        "died": [
+            "1941-12-26"
+        ],
+        "feasts": []
+    },
     "patrons/serapion": {
         "names": {
             "la": "Serapion",
