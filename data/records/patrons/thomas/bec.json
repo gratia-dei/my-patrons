@@ -1,32 +1,47 @@
 {
-  "names": {
-    "en": [
-      "Thomas Becket"
+    "names": {
+        "en": [
+            "Thomas Becket"
+        ],
+        "la": [
+            "Thomas Becket"
+        ],
+        "pl": [
+            "Tomasz Becket"
+        ]
+    },
+    "forenames": ["thomas"],
+    "surnames": [
+        {
+            "en": "Becket"
+        }
     ],
-    "la": [
-      "Thomas Becket"
-    ],
-    "pl": [
-      "Tomasz Becket"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "en": "Becket"
+    "active": true,
+
+    "born": ["~1118"],
+    "died": ["1170-12-29"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./29#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/29#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./29#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/28251",
+        "wiki": "https://pl.wikipedia.org/wiki/Tomasz_Becket"
     }
-  ],
-
-  "born": ["~1119-12-21"],
-  "died": ["1170-12-29"],
-
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1173-02-21"
-  },
-
-  "also-in-martyrology": ["12-29"],
-
-  "forenames": ["thomas"],
-  "categories": ["vir", "martyr", "episcopus"]
 }

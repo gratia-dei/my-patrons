@@ -8394,6 +8394,19 @@
         }
     },
     "12-29": {
+        "records/patrons/thomas/bec": {
+            "name": {
+                "en": "Thomas Becket",
+                "la": "Thomas Becket",
+                "pl": "Tomasz Becket"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 XII",
+                "mr-1584": "29 XII: #1",
+                "mr-1956": "29 XII: #1",
+                "mr-2004": "29 XII: #1"
+            }
+        },
         "records/patrons/david/rex": {
             "name": {
                 "he": "דָּוִד בֶּן יִשַׁי",

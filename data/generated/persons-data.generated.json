@@ -12558,7 +12558,7 @@
         "feasts": []
     },
     "patrons/thomas/bec": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Thomas Becket",
             "la": "Thomas Becket",
