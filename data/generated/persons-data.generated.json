@@ -12649,6 +12649,18 @@
         ],
         "feasts": []
     },
+    "patrons/thomas/plu": {
+        "active": true,
+        "names": {
+            "en": "Thomas Plumtree",
+            "la": "Thomas Plumtree",
+            "pl": "Tomasz Plumtree"
+        },
+        "died": [
+            "1570-01-04"
+        ],
+        "feasts": []
+    },
     "patrons/thomas/son": {
         "active": true,
         "names": {

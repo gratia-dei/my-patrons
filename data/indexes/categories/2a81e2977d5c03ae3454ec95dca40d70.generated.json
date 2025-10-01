@@ -871,6 +871,11 @@
             "la": "Thomas Holland",
             "pl": "Tomasz Holland"
         },
+        "records/patrons/thomas/plu": {
+            "en": "Thomas Plumtree",
+            "la": "Thomas Plumtree",
+            "pl": "Tomasz Plumtree"
+        },
         "records/patrons/tranquillinus/rom": {
             "la": "Tranquillinus de Roma",
             "en": "Tranquillinus of Rome",

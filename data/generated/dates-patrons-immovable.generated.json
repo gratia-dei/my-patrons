@@ -67,6 +67,17 @@
         }
     },
     "01-04": {
+        "records/patrons/thomas/plu": {
+            "name": {
+                "en": "Thomas Plumtree",
+                "la": "Thomas Plumtree",
+                "pl": "Tomasz Plumtree"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 I",
+                "mr-2004": "4 I: #10"
+            }
+        },
         "records/patrons/titus/cre": {
             "name": {
                 "el": "Τίτος Κρήτης",
