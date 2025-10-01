@@ -516,6 +516,12 @@
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
         },
+        "records/patrons/petrus/tho": {
+            "it": "Pietro Tommaso",
+            "la": "Petrus Thomas",
+            "en": "Peter Thomas",
+            "pl": "Piotr Tomasz"
+        },
         "records/patrons/pirminus/epi": {
             "de": "Pirmin, Bischof",
             "en": "Pirmin, bishop",

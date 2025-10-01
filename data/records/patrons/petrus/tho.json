@@ -1,0 +1,46 @@
+{
+    "names": {
+        "it": [
+            "Pietro Tommaso"
+        ],
+        "la": [
+            "Petrus Thomas"
+        ],
+        "en": [
+            "Peter Thomas"
+        ],
+        "pl": [
+            "Piotr Tomasz"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1305"],
+    "died": ["1366-01-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus", "legatus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./6#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/51631",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Tomasz"
+    }
+}

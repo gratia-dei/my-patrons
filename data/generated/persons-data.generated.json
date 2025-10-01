@@ -10483,6 +10483,19 @@
         ],
         "feasts": []
     },
+    "patrons/petrus/tho": {
+        "active": true,
+        "names": {
+            "it": "Pietro Tommaso",
+            "la": "Petrus Thomas",
+            "en": "Peter Thomas",
+            "pl": "Piotr Tomasz"
+        },
+        "died": [
+            "1366-01-06"
+        ],
+        "feasts": []
+    },
     "patrons/petrus/ven": {
         "active": true,
         "names": {

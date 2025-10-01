@@ -119,6 +119,18 @@
                 "feast": "6 I",
                 "mr-2004": "6 I: #9"
             }
+        },
+        "records/patrons/petrus/tho": {
+            "name": {
+                "it": "Pietro Tommaso",
+                "la": "Petrus Thomas",
+                "en": "Peter Thomas",
+                "pl": "Piotr Tomasz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "mr-2004": "6 I: #6"
+            }
         }
     },
     "01-07": {

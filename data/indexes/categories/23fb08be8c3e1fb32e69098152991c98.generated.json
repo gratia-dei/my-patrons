@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "legat"
+    },
+    "translations": {
+        "la": [
+            "legatus"
+        ],
+        "en": [
+            "legate"
+        ],
+        "pl": [
+            "legat"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/tho": {
+            "it": "Pietro Tommaso",
+            "la": "Petrus Thomas",
+            "en": "Peter Thomas",
+            "pl": "Piotr Tomasz"
+        }
+    }
+}

@@ -224,6 +224,11 @@
         "en": "lector",
         "pl": "lektor"
     },
+    "legatus": {
+        "la": "legatus",
+        "en": "legate",
+        "pl": "legat"
+    },
     "levita": {
         "la": "levita",
         "en": "levi",
