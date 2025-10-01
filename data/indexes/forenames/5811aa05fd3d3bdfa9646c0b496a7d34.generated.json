@@ -88,6 +88,12 @@
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
         },
+        "records/patrons/petrus/ven": {
+            "fr": "Pierre le Vénérable",
+            "la": "Peter Venerabilis",
+            "en": "Peter the Venerable",
+            "pl": "Piotr Czcigodny"
+        },
         "records/patrons/petrus/wug": {
             "zh": "吳國盛伯鐸",
             "la": "Petrus Wu Guosheng",

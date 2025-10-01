@@ -1,0 +1,27 @@
+{
+    "names": {
+        "fe": "le Vénérable"
+    },
+    "translations": {
+        "fe": [
+            "le Vénérable"
+        ],
+        "la": [
+            "Venerabilis"
+        ],
+        "en": [
+            "the Venerable"
+        ],
+        "pl": [
+            "Czcigodny"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/ven": {
+            "fr": "Pierre le Vénérable",
+            "la": "Peter Venerabilis",
+            "en": "Peter the Venerable",
+            "pl": "Piotr Czcigodny"
+        }
+    }
+}

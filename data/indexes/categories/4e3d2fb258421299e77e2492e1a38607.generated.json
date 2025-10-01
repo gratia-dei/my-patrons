@@ -88,6 +88,12 @@
             "en": "Maurus Abbot",
             "pl": "Maur Opat"
         },
+        "records/patrons/petrus/ven": {
+            "fr": "Pierre le Vénérable",
+            "la": "Peter Venerabilis",
+            "en": "Peter the Venerable",
+            "pl": "Piotr Czcigodny"
+        },
         "records/patrons/pirminus/epi": {
             "de": "Pirmin, Bischof",
             "en": "Pirmin, bishop",

@@ -8310,6 +8310,18 @@
                 "mr-1584": "25 XII: #4",
                 "mr-1956": "25 XII: #5"
             }
+        },
+        "records/patrons/petrus/ven": {
+            "name": {
+                "fr": "Pierre le Vénérable",
+                "la": "Peter Venerabilis",
+                "en": "Peter the Venerable",
+                "pl": "Piotr Czcigodny"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 XII",
+                "mr-2004": "25 XII: #5"
+            }
         }
     },
     "12-26": {

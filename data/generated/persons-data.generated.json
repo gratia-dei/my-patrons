@@ -10414,6 +10414,19 @@
         ],
         "feasts": []
     },
+    "patrons/petrus/ven": {
+        "active": true,
+        "names": {
+            "fr": "Pierre le Vénérable",
+            "la": "Peter Venerabilis",
+            "en": "Peter the Venerable",
+            "pl": "Piotr Czcigodny"
+        },
+        "died": [
+            "1156-12-25"
+        ],
+        "feasts": []
+    },
     "patrons/petrus/wug": {
         "active": true,
         "names": {
