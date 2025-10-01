@@ -4016,6 +4016,27 @@
         ],
         "feasts": []
     },
+    "patrons/eugenia": {
+        "names": {
+            "la": "Eugenia",
+            "en": "Eugenia",
+            "pl": "Eugenia",
+            "it": "Eugenia"
+        }
+    },
+    "patrons/eugenia/rav": {
+        "active": true,
+        "names": {
+            "it": "Eugenia Ravasco",
+            "la": "Eugenia Ravasco",
+            "en": "Eugenia Ravasco",
+            "pl": "Eugenia Ravasco"
+        },
+        "died": [
+            "1900-12-30"
+        ],
+        "feasts": []
+    },
     "patrons/eulalia": {
         "names": {
             "la": "Eulalia",
@@ -11799,11 +11820,11 @@
         }
     },
     "patrons/silvester/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Silvester I",
-            "en": "Sylvester I",
-            "pl": "Sylwester I"
+            "la": "Silvester Pp. I",
+            "en": "Sylvester I, pope",
+            "pl": "Sylwester I, papież"
         },
         "died": [
             "335-12-31"

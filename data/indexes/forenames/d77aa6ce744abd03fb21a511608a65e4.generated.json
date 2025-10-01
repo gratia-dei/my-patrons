@@ -2,7 +2,8 @@
     "names": {
         "la": "Eugenia",
         "en": "Eugenia",
-        "pl": "Eugenia"
+        "pl": "Eugenia",
+        "it": "Eugenia"
     },
     "translations": {
         "la": [
@@ -13,9 +14,18 @@
         ],
         "pl": [
             "Eugenia"
+        ],
+        "it": [
+            "Eugenia"
         ]
     },
     "links": {
+        "records/patrons/eugenia/rav": {
+            "it": "Eugenia Ravasco",
+            "la": "Eugenia Ravasco",
+            "en": "Eugenia Ravasco",
+            "pl": "Eugenia Ravasco"
+        },
         "records/patrons/maria/mac": {
             "pl": "Maria Kanizja Mackiewicz",
             "la": "Maria Canisia Mackiewicz",

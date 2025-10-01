@@ -6906,6 +6906,17 @@
         }
     },
     "10-24": {
+        "records/patrons/eugenia/rav": {
+            "name": {
+                "it": "Eugenia Ravasco",
+                "la": "Eugenia Ravasco",
+                "en": "Eugenia Ravasco",
+                "pl": "Eugenia Ravasco"
+            },
+            "sources": {
+                "feast": "24 X"
+            }
+        },
         "records/patrons/raphael/arc": {
             "name": {
                 "la": "Raphael Archangelus",
@@ -8418,6 +8429,35 @@
                 "mr-1584": "29 XII: #2",
                 "mr-1956": "29 XII: #2",
                 "mr-2004": "29 XII: #2"
+            }
+        }
+    },
+    "12-30": {
+        "records/patrons/eugenia/rav": {
+            "name": {
+                "it": "Eugenia Ravasco",
+                "la": "Eugenia Ravasco",
+                "en": "Eugenia Ravasco",
+                "pl": "Eugenia Ravasco"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 XII",
+                "mr-2004": "30 XII: #12"
+            }
+        }
+    },
+    "12-31": {
+        "records/patrons/silvester/1pp": {
+            "name": {
+                "la": "Silvester Pp. I",
+                "en": "Sylvester I, pope",
+                "pl": "Sylwester I, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 XII",
+                "mr-1584": "31 XII: #1",
+                "mr-1956": "31 XII: #1",
+                "mr-2004": "31 XII: #1"
             }
         }
     }

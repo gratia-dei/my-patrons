@@ -1,0 +1,53 @@
+{
+    "names": {
+        "it": [
+            "Eugenia Ravasco"
+        ],
+        "la": [
+            "Eugenia Ravasco"
+        ],
+        "en": [
+            "Eugenia Ravasco"
+        ],
+        "pl": [
+            "Eugenia Ravasco"
+        ]
+    },
+    "forenames": ["eugenia"],
+    "surnames": [
+        {
+            "it": "Ravasco"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1845-01-04"],
+    "died": ["1900-12-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2003-04-27"
+    },
+    "canonized": null,
+    "anniversary": ["10-24"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./30#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/eugenia-ravasco.html",
+        "gcatholic": "https://gcatholic.org/p/68027",
+        "wiki": "https://pl.wikipedia.org/wiki/Eugenia_Ravasco"
+    }
+}

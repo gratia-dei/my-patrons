@@ -1,32 +1,51 @@
 {
-  "names": {
-    "la": [
-      "Silvester I"
+    "names": {
+        "la": [
+            "Silvester Pp. I"
+        ],
+        "en": [
+            "Sylvester I, pope"
+        ],
+        "pl": [
+            "Sylwester I, papież"
+        ]
+    },
+    "forenames": ["silvester"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Primus",
+            "en": "the First",
+            "pl": "Pierwszy"
+        }
     ],
-    "en": [
-      "Sylvester I"
-    ],
-    "pl": [
-      "Sylwester I"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Primus",
-      "en": "the First",
-      "pl": "Pierwszy"
+    "active": true,
+
+    "born": null,
+    "died": ["335-12-31"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./31#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/31#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./31#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#33"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/SL1",
+        "wiki": "https://pl.wikipedia.org/wiki/Sylwester_I"
     }
-  ],
-
-  "died": ["335-12-31"],
-
-  "also-in-martyrology": ["12-31"],
-
-  "forenames": ["silvester"],
-  "categories": ["vir", "confessor", "papa"],
-
-  "data-links": {
-    "popes": ["1:#33"]
-  }
 }
