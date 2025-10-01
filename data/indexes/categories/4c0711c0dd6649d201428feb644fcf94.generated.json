@@ -100,6 +100,12 @@
             "en": "Catherine Tekakwitha",
             "pl": "Katarzyna Tekakwitha"
         },
+        "records/patrons/catharina/vol": {
+            "ojczysty": "Caterina Volpicelli",
+            "la": "Catharina Volpicelli",
+            "en": "Catherine Volpicelli",
+            "pl": "Katarzyna Volpicelli"
+        },
         "records/patrons/clara/asi": {
             "it": "Chiara d'Assisi",
             "la": "Clara Assisiensis",

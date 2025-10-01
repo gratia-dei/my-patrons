@@ -8378,6 +8378,21 @@
             }
         }
     },
+    "12-28": {
+        "records/patrons/catharina/vol": {
+            "name": {
+                "ojczysty": "Caterina Volpicelli",
+                "la": "Catharina Volpicelli",
+                "en": "Catherine Volpicelli",
+                "pl": "Katarzyna Volpicelli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 XII",
+                "feast": "28 XII",
+                "mr-2004": "28 XII: #7"
+            }
+        }
+    },
     "12-29": {
         "records/patrons/david/rex": {
             "name": {

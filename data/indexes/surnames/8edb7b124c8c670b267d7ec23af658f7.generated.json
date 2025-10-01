@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Volpicelli"
+    },
+    "translations": {
+        "it": [
+            "Volpicelli"
+        ]
+    },
+    "links": {
+        "records/patrons/catharina/vol": {
+            "ojczysty": "Caterina Volpicelli",
+            "la": "Catharina Volpicelli",
+            "en": "Catherine Volpicelli",
+            "pl": "Katarzyna Volpicelli"
+        }
+    }
+}

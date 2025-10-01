@@ -2811,6 +2811,19 @@
         ],
         "feasts": []
     },
+    "patrons/catharina/vol": {
+        "active": true,
+        "names": {
+            "ojczysty": "Caterina Volpicelli",
+            "la": "Catharina Volpicelli",
+            "en": "Catherine Volpicelli",
+            "pl": "Katarzyna Volpicelli"
+        },
+        "died": [
+            "1896-12-28"
+        ],
+        "feasts": []
+    },
     "patrons/catharina/yiv": {
         "active": true,
         "names": {
