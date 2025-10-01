@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Bâtard"
+    },
+    "translations": {
+        "fr": [
+            "Bâtard"
+        ]
+    },
+    "links": {
+        "records/patrons/laurentius/bat": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
+        }
+    }
+}

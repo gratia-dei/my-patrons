@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Laurent Bâtard"
+        ],
+        "la": [
+            "Laurentius Bâtard"
+        ],
+        "en": [
+            "Laurence Bâtard"
+        ],
+        "pl": [
+            "Wawrzyniec Bâtard"
+        ]
+    },
+    "forenames": ["laurentius"],
+    "surnames": [
+        {
+            "fr": "Bâtard"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1744-02-04"],
+    "died": ["1794-01-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": ["01-02"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:ian./2#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67563",
+        "wiki": "https://es.wikipedia.org/wiki/Lorenzo_B%C3%A2tard"
+    }
+}

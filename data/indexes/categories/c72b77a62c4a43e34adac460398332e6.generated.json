@@ -1274,6 +1274,12 @@
             "la": "Guido Maria Conforti",
             "pl": "Gwidon Maria Conforti"
         },
+        "records/patrons/gulielmus/rep": {
+            "fr": "Guillaume Repin",
+            "la": "Gulielmus Repin",
+            "en": "William Repin",
+            "pl": "Wilhelm Repin"
+        },
         "records/patrons/gundecarus/eob": {
             "la": "Gundecarus; cum eo, i.a., Eobanus",
             "en": "Gundecarus; with him, i.a., Eoban",
@@ -1827,6 +1833,12 @@
             "la": "Largus de Aquileia",
             "en": "Largus of Aquileia",
             "pl": "Largus z Akwilei"
+        },
+        "records/patrons/laurentius/bat": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
         },
         "records/patrons/laurentius/bru": {
             "it": "Lorenzo da Brindisi",

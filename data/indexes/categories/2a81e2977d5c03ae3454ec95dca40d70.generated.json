@@ -344,6 +344,12 @@
             "en": "Walter; with him, i.a., Eoban",
             "pl": "Walter; z nim, m.in. Eoban"
         },
+        "records/patrons/gulielmus/rep": {
+            "fr": "Guillaume Repin",
+            "la": "Gulielmus Repin",
+            "en": "William Repin",
+            "pl": "Wilhelm Repin"
+        },
         "records/patrons/henricus/hle": {
             "pl": "Henryk Hlebowicz",
             "la": "Henricus Hlebowicz",
@@ -584,6 +590,12 @@
             "pl": "Władysław z Gielniowa",
             "la": "Ladislaus de Gielniów",
             "en": "Ladislaus of Gielniów"
+        },
+        "records/patrons/laurentius/bat": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
         },
         "records/patrons/laurentius/bru": {
             "it": "Lorenzo da Brindisi",

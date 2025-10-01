@@ -25,6 +25,34 @@
             }
         }
     },
+    "01-02": {
+        "records/patrons/gulielmus/rep": {
+            "name": {
+                "fr": "Guillaume Repin",
+                "la": "Gulielmus Repin",
+                "en": "William Repin",
+                "pl": "Wilhelm Repin"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 I",
+                "feast": "2 I",
+                "mr-2004": "2 I: #14"
+            }
+        },
+        "records/patrons/laurentius/bat": {
+            "name": {
+                "fr": "Laurent Bâtard",
+                "la": "Laurentius Bâtard",
+                "en": "Laurence Bâtard",
+                "pl": "Wawrzyniec Bâtard"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 I",
+                "feast": "2 I",
+                "mr-2004": "2 I: #14"
+            }
+        }
+    },
     "01-03": {
         "records/patrons/lucianus/leo": {
             "name": {

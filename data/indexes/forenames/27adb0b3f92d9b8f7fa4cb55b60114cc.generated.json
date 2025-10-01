@@ -13,11 +13,20 @@
         "pl": [
             "Wawrzyniec"
         ],
+        "fr": [
+            "Laurent"
+        ],
         "it": [
             "Lorenzo"
         ]
     },
     "links": {
+        "records/patrons/laurentius/bat": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
+        },
         "records/patrons/laurentius/bru": {
             "it": "Lorenzo da Brindisi",
             "la": "Laurentius de Brundusio",

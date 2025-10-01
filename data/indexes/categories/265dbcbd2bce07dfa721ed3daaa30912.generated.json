@@ -792,6 +792,12 @@
             "en": "Walter; with him, i.a., Eoban",
             "pl": "Walter; z nim, m.in. Eoban"
         },
+        "records/patrons/gulielmus/rep": {
+            "fr": "Guillaume Repin",
+            "la": "Gulielmus Repin",
+            "en": "William Repin",
+            "pl": "Wilhelm Repin"
+        },
         "records/patrons/gundecarus/eob": {
             "la": "Gundecarus; cum eo, i.a., Eobanus",
             "en": "Gundecarus; with him, i.a., Eoban",
@@ -1132,6 +1138,12 @@
             "la": "Largus de Aquileia",
             "en": "Largus of Aquileia",
             "pl": "Largus z Akwilei"
+        },
+        "records/patrons/laurentius/bat": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
         },
         "records/patrons/laurentius/rom": {
             "la": "Laurentius de Roma",

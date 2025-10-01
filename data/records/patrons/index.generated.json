@@ -899,6 +899,12 @@
         "pl": "Gwidon",
         "it": "Guido"
     },
+    "gulielmus": {
+        "la": "Gulielmus",
+        "en": "William",
+        "pl": "Wilhelm",
+        "fr": "Guillaume"
+    },
     "gundecarus": {
         "la": "Gundecarus",
         "en": "Gundecarus",
@@ -1178,6 +1184,7 @@
         "la": "Laurentius",
         "en": "Lawrence",
         "pl": "Wawrzyniec",
+        "fr": "Laurent",
         "it": "Lorenzo"
     },
     "lazarus": {

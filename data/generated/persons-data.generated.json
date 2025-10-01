@@ -5263,6 +5263,27 @@
         ],
         "feasts": []
     },
+    "patrons/gulielmus": {
+        "names": {
+            "la": "Gulielmus",
+            "en": "William",
+            "pl": "Wilhelm",
+            "fr": "Guillaume"
+        }
+    },
+    "patrons/gulielmus/rep": {
+        "active": true,
+        "names": {
+            "fr": "Guillaume Repin",
+            "la": "Gulielmus Repin",
+            "en": "William Repin",
+            "pl": "Wilhelm Repin"
+        },
+        "died": [
+            "1794-01-02"
+        ],
+        "feasts": []
+    },
     "patrons/gundecarus": {
         "names": {
             "la": "Gundecarus",
@@ -7331,8 +7352,22 @@
             "la": "Laurentius",
             "en": "Lawrence",
             "pl": "Wawrzyniec",
+            "fr": "Laurent",
             "it": "Lorenzo"
         }
+    },
+    "patrons/laurentius/bat": {
+        "active": true,
+        "names": {
+            "fr": "Laurent Bâtard",
+            "la": "Laurentius Bâtard",
+            "en": "Laurence Bâtard",
+            "pl": "Wawrzyniec Bâtard"
+        },
+        "died": [
+            "1794-01-02"
+        ],
+        "feasts": []
     },
     "patrons/laurentius/bru": {
         "active": true,
