@@ -243,6 +243,20 @@
             }
         }
     },
+    "01-13": {
+        "records/patrons/aemilius/szr": {
+            "name": {
+                "pl": "Emil Szramek",
+                "la": "Aemilius Szramek",
+                "en": "Emil Szramek"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 I",
+                "feast": "13 I",
+                "mr-2004": "13 I: #12"
+            }
+        }
+    },
     "01-14": {
         "records/patrons/malachias/pro": {
             "name": {

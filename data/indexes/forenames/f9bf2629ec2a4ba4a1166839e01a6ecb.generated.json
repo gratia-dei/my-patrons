@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "Aemilius"
+    },
+    "translations": {
+        "la": [
+            "Aemilius"
+        ],
+        "en": [
+            "Emil"
+        ],
+        "pl": [
+            "Emil"
+        ]
+    },
+    "links": {
+        "records/patrons/aemilius/szr": {
+            "pl": "Emil Szramek",
+            "la": "Aemilius Szramek",
+            "en": "Emil Szramek"
+        }
+    }
+}

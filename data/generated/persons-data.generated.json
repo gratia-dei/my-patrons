@@ -615,6 +615,25 @@
         ],
         "feasts": []
     },
+    "patrons/aemilius": {
+        "names": {
+            "la": "Aemilius",
+            "en": "Emil",
+            "pl": "Emil"
+        }
+    },
+    "patrons/aemilius/szr": {
+        "active": true,
+        "names": {
+            "pl": "Emil Szramek",
+            "la": "Aemilius Szramek",
+            "en": "Emil Szramek"
+        },
+        "died": [
+            "1942-01-13"
+        ],
+        "feasts": []
+    },
     "patrons/agatha": {
         "names": {
             "la": "Agatha",
