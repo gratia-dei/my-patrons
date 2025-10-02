@@ -5211,15 +5211,15 @@
         "feasts": []
     },
     "patrons/gregorius/nys": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Γρηγόριος Νύσσης",
-            "en": "Gregory of Nyssa",
             "la": "Gregorius Nyssenus",
+            "en": "Gregory of Nyssa",
             "pl": "Grzegorz z Nyssy"
         },
         "died": [
-            "<400"
+            "~395"
         ],
         "feasts": []
     },

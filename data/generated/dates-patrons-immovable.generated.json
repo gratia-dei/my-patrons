@@ -201,6 +201,19 @@
             }
         }
     },
+    "01-10": {
+        "records/patrons/gregorius/nys": {
+            "name": {
+                "el": "Γρηγόριος Νύσσης",
+                "la": "Gregorius Nyssenus",
+                "en": "Gregory of Nyssa",
+                "pl": "Grzegorz z Nyssy"
+            },
+            "sources": {
+                "mr-2004": "10 I: #3"
+            }
+        }
+    },
     "01-12": {
         "records/patrons/antonius/puc": {
             "name": {
@@ -1140,6 +1153,18 @@
                 "feast": "9 III",
                 "mr-1956": "9 III: #1",
                 "mr-2004": "9 III: #1"
+            }
+        },
+        "records/patrons/gregorius/nys": {
+            "name": {
+                "el": "Γρηγόριος Νύσσης",
+                "la": "Gregorius Nyssenus",
+                "en": "Gregory of Nyssa",
+                "pl": "Grzegorz z Nyssy"
+            },
+            "sources": {
+                "mr-1584": "9 III: #2",
+                "mr-1956": "9 III: #3"
             }
         }
     },

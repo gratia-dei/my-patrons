@@ -1,24 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Γρηγόριος Νύσσης"
-    ],
-    "en": [
-      "Gregory of Nyssa"
-    ],
-    "la": [
-      "Gregorius Nyssenus"
-    ],
-    "pl": [
-      "Grzegorz z Nyssy"
-    ]
-  },
+    "names": {
+        "el": [
+            "Γρηγόριος Νύσσης"
+        ],
+        "la": [
+            "Gregorius Nyssenus"
+        ],
+        "en": [
+            "Gregory of Nyssa"
+        ],
+        "pl": [
+            "Grzegorz z Nyssy"
+        ]
+    },
+    "forenames": ["gregorius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~335"],
-  "died": ["<400"],
+    "active": true,
 
-  "also-in-martyrology": ["01-10", "03-09"],
+    "born": ["~335"],
+    "died": ["~395"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["gregorius"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./9#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/9#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./10#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71304",
+        "wiki": "https://pl.wikipedia.org/wiki/Grzegorz_z_Nyssy"
+    }
 }
