@@ -8093,11 +8093,11 @@
         }
     },
     "patrons/marcellus/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Marcellus Papa",
-            "en": "Marcellus Pope",
-            "pl": "Marceli Papież"
+            "la": "Marcellus Pp. I",
+            "en": "Marcellus I",
+            "pl": "Marceli I"
         },
         "died": [
             "309-01-16"

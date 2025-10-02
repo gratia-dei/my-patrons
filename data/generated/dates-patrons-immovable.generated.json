@@ -296,6 +296,21 @@
             }
         }
     },
+    "01-16": {
+        "records/patrons/marcellus/1pp": {
+            "name": {
+                "la": "Marcellus Pp. I",
+                "en": "Marcellus I",
+                "pl": "Marceli I"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 I",
+                "mr-1584": "16 I: #1",
+                "mr-1956": "16 I: #1",
+                "mr-2004": "16 I: #1"
+            }
+        }
+    },
     "01-19": {
         "records/patrons/simon/cos": {
             "name": {

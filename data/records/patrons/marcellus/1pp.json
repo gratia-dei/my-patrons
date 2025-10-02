@@ -1,32 +1,51 @@
 {
-  "names": {
-    "la": [
-      "Marcellus Papa"
+    "names": {
+        "la": [
+            "Marcellus Pp. I"
+        ],
+        "en": [
+            "Marcellus I"
+        ],
+        "pl": [
+            "Marceli I"
+        ]
+    },
+    "forenames": ["marcellus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Primus",
+            "en": "the First",
+            "pl": "Pierwszy"
+        }
     ],
-    "en": [
-      "Marcellus Pope"
-    ],
-    "pl": [
-      "Marceli Papież"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Primus",
-      "en": "the First",
-      "pl": "Pierwszy"
+    "active": true,
+
+    "born": ["255-01-06"],
+    "died": ["309-01-16"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./16#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/16#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./16#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#30"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/MC1",
+        "wiki": "https://pl.wikipedia.org/wiki/Marceli_I"
     }
-  ],
-
-  "died": ["309-01-16"],
-
-  "also-in-martyrology": ["01-16"],
-
-  "forenames": ["marcellus"],
-  "categories": ["vir", "martyr", "papa"],
-
-  "data-links": {
-    "popes": ["1:#30"]
-  }
 }
