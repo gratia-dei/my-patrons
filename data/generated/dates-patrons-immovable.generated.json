@@ -160,6 +160,21 @@
             }
         }
     },
+    "01-08": {
+        "records/patrons/patiens/met": {
+            "name": {
+                "fr": "Patient de Metz",
+                "la": "Patiens Metensis",
+                "en": "Patiens of Metz",
+                "pl": "Pacjens z Metz"
+            },
+            "sources": {
+                "mr-1584": "8 I: #7",
+                "mr-1956": "8 I: #7",
+                "mr-2004": "8 I: #4"
+            }
+        }
+    },
     "01-12": {
         "records/patrons/antonius/puc": {
             "name": {
