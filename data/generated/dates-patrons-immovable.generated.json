@@ -214,6 +214,20 @@
             }
         }
     },
+    "01-11": {
+        "records/patrons/franciscus/rog": {
+            "name": {
+                "pl": "Franciszek Rogaczewski",
+                "la": "Franciscus Rogaczewski",
+                "en": "Francis Rogaczewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 I",
+                "feast": "11 I",
+                "mr-2004": "11 I: #12"
+            }
+        }
+    },
     "01-12": {
         "records/patrons/antonius/puc": {
             "name": {

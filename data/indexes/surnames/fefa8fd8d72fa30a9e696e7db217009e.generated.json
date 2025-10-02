@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Rogaczewski"
+    },
+    "translations": {
+        "pl": [
+            "Rogaczewski"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/rog": {
+            "pl": "Franciszek Rogaczewski",
+            "la": "Franciscus Rogaczewski",
+            "en": "Francis Rogaczewski"
+        }
+    }
+}

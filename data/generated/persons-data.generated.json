@@ -4618,6 +4618,18 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/rog": {
+        "active": true,
+        "names": {
+            "pl": "Franciszek Rogaczewski",
+            "la": "Franciscus Rogaczewski",
+            "en": "Francis Rogaczewski"
+        },
+        "died": [
+            "1940-01-11"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/ros": {
         "active": true,
         "names": {
