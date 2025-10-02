@@ -1,37 +1,54 @@
 {
-  "names": {
-    "nl": [
-      "Petrus Donders"
+    "names": {
+        "nl": [
+            "Patrus Donders",
+            "Peerke Norbertus Donders"
+        ],
+        "la": [
+            "Petrus Donders"
+        ],
+        "en": [
+            "Peter Donders"
+        ],
+        "pl": [
+            "Piotr Donders"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": [
+        {
+            "nl": "Donders"
+        }
     ],
-    "en": [
-      "Peter Donders"
-    ],
-    "la": [
-      "Petrus Donders"
-    ],
-    "pl": [
-      "Piotr Donders"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "nl": "Donders"
+    "active": true,
+
+    "born": ["1809-10-27"],
+    "died": ["1887-01-14"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1982-05-23"
+    },
+    "canonized": null,
+    "anniversary": ["01-14"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./14#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pietro-donders.html",
+        "gcatholic": "https://gcatholic.org/p/67173",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Donders"
     }
-  ],
-
-  "born": ["1809-10-27"],
-  "died": ["1887-01-14"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1982-05-23"
-  },
-
-  "also-in-martyrology": ["01-14"],
-
-  "forenames": ["petrus"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["cssr"]
 }

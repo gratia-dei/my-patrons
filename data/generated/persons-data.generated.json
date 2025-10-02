@@ -10475,11 +10475,11 @@
         "feasts": []
     },
     "patrons/petrus/don": {
-        "active": false,
+        "active": true,
         "names": {
-            "nl": "Petrus Donders",
-            "en": "Peter Donders",
+            "nl": "Patrus Donders",
             "la": "Petrus Donders",
+            "en": "Peter Donders",
             "pl": "Piotr Donders"
         },
         "died": [

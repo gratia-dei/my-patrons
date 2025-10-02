@@ -258,6 +258,19 @@
         }
     },
     "01-14": {
+        "records/patrons/petrus/don": {
+            "name": {
+                "nl": "Patrus Donders",
+                "la": "Petrus Donders",
+                "en": "Peter Donders",
+                "pl": "Piotr Donders"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 I",
+                "feast": "14 I",
+                "mr-2004": "14 I: #12"
+            }
+        },
         "records/patrons/malachias/pro": {
             "name": {
                 "la": "Malachias, propheta",
