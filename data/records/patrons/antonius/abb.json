@@ -1,27 +1,49 @@
 {
-  "names": {
-    "el": [
-      "Ἀντώνιος Μέγας"
-    ],
-    "en": [
-      "Anthony the Great",
-      "Anthony of Egypt"
-    ],
-    "la": [
-      "Antonius Magnus",
-      "Antonius Aegyptius"
-    ],
-    "pl": [
-      "Antoni Wielki",
-      "Antoni Egipski"
-    ]
-  },
+    "names": {
+        "el": [
+            "Ἀντώνιος Μέγας"
+        ],
+        "la": [
+            "Antonius Magnus",
+            "Antonius Aegyptius"
+        ],
+        "en": [
+            "Anthony the Great",
+            "Anthony of Egypt"
+        ],
+        "pl": [
+            "Antoni Wielki",
+            "Antoni Egipski"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~251"],
-  "died": ["356"],
+    "active": true,
 
-  "also-in-martyrology": ["01-17"],
+    "born": ["~251"],
+    "died": ["356"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["antonius"],
-  "categories": ["vir", "abbas", "asceta"]
+    "categories": ["vir", "abbas", "asceta"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./17#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/17#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69119",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_Wielki"
+    }
 }

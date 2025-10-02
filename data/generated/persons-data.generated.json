@@ -1373,11 +1373,11 @@
         }
     },
     "patrons/antonius/abb": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Ἀντώνιος Μέγας",
-            "en": "Anthony the Great",
             "la": "Antonius Magnus",
+            "en": "Anthony the Great",
             "pl": "Antoni Wielki"
         },
         "died": [
