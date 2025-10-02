@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Pawłowski"
+    },
+    "translations": {
+        "pl": [
+            "Pawłowski"
+        ]
+    },
+    "links": {
+        "records/patrons/iosephus/paw": {
+            "pl": "Józef Pawłowski",
+            "la": "Iosephus Pawłowski",
+            "en": "Joseph Pawłowski"
+        }
+    }
+}

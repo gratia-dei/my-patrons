@@ -175,6 +175,32 @@
             }
         }
     },
+    "01-09": {
+        "records/patrons/casimirus/gre": {
+            "name": {
+                "pl": "Kazimierz Grelewski",
+                "la": "Casimirus Grelewski",
+                "en": "Casimir Grelewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 I",
+                "feast": "9 I",
+                "mr-2004": "9 I: #10"
+            }
+        },
+        "records/patrons/iosephus/paw": {
+            "name": {
+                "pl": "Józef Pawłowski",
+                "la": "Iosephus Pawłowski",
+                "en": "Joseph Pawłowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 I",
+                "feast": "9 I",
+                "mr-2004": "9 I: #10"
+            }
+        }
+    },
     "01-12": {
         "records/patrons/antonius/puc": {
             "name": {

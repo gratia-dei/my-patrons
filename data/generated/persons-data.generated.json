@@ -2665,11 +2665,11 @@
         }
     },
     "patrons/casimirus/gre": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Kazimierz Grelewski",
-            "en": "Casimir Grelewski",
-            "la": "Casimirus Grelewski"
+            "la": "Casimirus Grelewski",
+            "en": "Casimir Grelewski"
         },
         "died": [
             "1942-01-09"
@@ -6823,6 +6823,18 @@
         },
         "died": [
             "1840-11-08"
+        ],
+        "feasts": []
+    },
+    "patrons/iosephus/paw": {
+        "active": true,
+        "names": {
+            "pl": "Józef Pawłowski",
+            "la": "Iosephus Pawłowski",
+            "en": "Joseph Pawłowski"
+        },
+        "died": [
+            "1942-01-09"
         ],
         "feasts": []
     },

@@ -221,8 +221,8 @@
         },
         "records/patrons/casimirus/gre": {
             "pl": "Kazimierz Grelewski",
-            "en": "Casimir Grelewski",
-            "la": "Casimirus Grelewski"
+            "la": "Casimirus Grelewski",
+            "en": "Casimir Grelewski"
         },
         "records/patrons/casimirus/syk": {
             "pl": "Kazimierz Sykulski",
@@ -560,6 +560,11 @@
             "la": "Iosephus Nguyễn Đình Nghi",
             "en": "Joseph Nguyễn Đình Nghi",
             "pl": "Józef Nguyễn Đình Nghi"
+        },
+        "records/patrons/iosephus/paw": {
+            "pl": "Józef Pawłowski",
+            "la": "Iosephus Pawłowski",
+            "en": "Joseph Pawłowski"
         },
         "records/patrons/iosephus/tom": {
             "it": "Giuseppe Maria Tomasi",

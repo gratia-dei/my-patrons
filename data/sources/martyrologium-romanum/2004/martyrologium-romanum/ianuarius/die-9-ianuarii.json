@@ -1,8 +1,7 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
-        "la": "?..."
+        "page": 90,
+        "la": "..."
     },
 
     "2": {
@@ -26,6 +25,7 @@
     },
 
     "6": {
+        "page": 91,
         "mark": "*",
         "la": "..."
     },
@@ -41,62 +41,11 @@
     },
 
     "9": {
-        "mark": "*",
         "la": "..."
     },
 
     "10": {
         "mark": "*",
-        "la": "..."
-    },
-
-    "11": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "12": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "13": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
-        "mark": "*",
-        "la": "..."
+        "la": "Prope Monachium Bavariae in Germania intra castra detentionis Dachani, beatorum [1|Iosephi Pawłowski] et [2|Casimiri Grelewski], presbyterorum et martyrum, ..."
     }
 }
