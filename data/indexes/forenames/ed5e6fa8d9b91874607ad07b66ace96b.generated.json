@@ -1,27 +1,25 @@
 {
     "names": {
-        "la": "Cyprianus"
+        "la": "Iwene",
+        "en": "Iwene",
+        "pl": "Iwene",
+        "ig": "Iwene"
     },
     "translations": {
         "la": [
-            "Cyprianus"
+            "Iwene"
         ],
         "en": [
-            "Cyprian"
+            "Iwene"
         ],
         "pl": [
-            "Cyprian"
+            "Iwene"
         ],
         "ig": [
-            "Onye Saịprọs"
+            "Iwene"
         ]
     },
     "links": {
-        "records/patrons/cyprianus/car": {
-            "la": "Cyprianus Carthaginensis",
-            "en": "Cyprian of Carthage",
-            "pl": "Cyprian z Kartaginy"
-        },
         "records/patrons/cyprianus/tan": {
             "ig": "Onye Saịprọs Michael Iwene Tansi",
             "la": "Cyprianus Michael Iwene Tansi",

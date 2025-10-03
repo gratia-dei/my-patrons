@@ -1,0 +1,53 @@
+{
+    "names": {
+        "ig": [
+            "Onye Saịprọs Michael Iwene Tansi"
+        ],
+        "la": [
+            "Cyprianus Michael Iwene Tansi"
+        ],
+        "en": [
+            "Cyprian Michael Iwene Tansi"
+        ],
+        "pl": [
+            "Cyprian Michał Iwene Tansi"
+        ]
+    },
+    "forenames": ["cyprianus", "michael", "iwene"],
+    "surnames": [
+        {
+            "ig": "Tansi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": [">1903-09-01", "<1903-09-30"],
+    "died": ["1964-01-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1998-03-22"
+    },
+    "canonized": null,
+    "anniversary": ["01-20"],
+
+    "categories": ["vir", "presbyter", "monachus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./20#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/cyprian-tansi.html",
+        "gcatholic": "https://gcatholic.org/p/68513",
+        "wiki": "https://pl.wikipedia.org/wiki/Cyprian_Micha%C5%82_Iwene_Tansi"
+    }
+}

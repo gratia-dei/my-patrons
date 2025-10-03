@@ -399,6 +399,21 @@
             }
         }
     },
+    "01-20": {
+        "records/patrons/cyprianus/tan": {
+            "name": {
+                "ig": "Onye Saịprọs Michael Iwene Tansi",
+                "la": "Cyprianus Michael Iwene Tansi",
+                "en": "Cyprian Michael Iwene Tansi",
+                "pl": "Cyprian Michał Iwene Tansi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 I",
+                "feast": "20 I",
+                "mr-2004": "20 I: #12"
+            }
+        }
+    },
     "01-21": {
         "records/patrons/agnes/rom": {
             "name": {

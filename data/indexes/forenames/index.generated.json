@@ -1085,7 +1085,8 @@
     },
     "3e06fa3927cbdf4e9d93ba4541acce86": {
         "la": "Michael",
-        "en": "Michael"
+        "en": "Michael",
+        "ig": "Michael"
     },
     "3e33d47631088c7a9f6766f27569ae35": {
         "la": "Raymundus"
@@ -1665,6 +1666,9 @@
     },
     "61409aa1fd47d4a5332de23cbf59a36f": {
         "en": "John"
+    },
+    "61657f483e517ff1253d33de2021d154": {
+        "ig": "Onye Saịprọs"
     },
     "61781b0d2f5282b28b02f2a8139e30fd": {
         "pl": "Edyta"
@@ -4130,6 +4134,12 @@
     },
     "ed55d93988f5e21d7cffbb11e53e5a17": {
         "de": "Thekla"
+    },
+    "ed5e6fa8d9b91874607ad07b66ace96b": {
+        "la": "Iwene",
+        "en": "Iwene",
+        "pl": "Iwene",
+        "ig": "Iwene"
     },
     "edb628810c91487bfa0cc4307fae2c2c": {
         "pl": "Achacy"

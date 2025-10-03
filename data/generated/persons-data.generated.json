@@ -3235,7 +3235,8 @@
         "names": {
             "la": "Cyprianus",
             "en": "Cyprian",
-            "pl": "Cyprian"
+            "pl": "Cyprian",
+            "ig": "Onye Saịprọs"
         }
     },
     "patrons/cyprianus/car": {
@@ -3264,6 +3265,19 @@
                 }
             }
         }
+    },
+    "patrons/cyprianus/tan": {
+        "active": true,
+        "names": {
+            "ig": "Onye Saịprọs Michael Iwene Tansi",
+            "la": "Cyprianus Michael Iwene Tansi",
+            "en": "Cyprian Michael Iwene Tansi",
+            "pl": "Cyprian Michał Iwene Tansi"
+        },
+        "died": [
+            "1964-01-20"
+        ],
+        "feasts": []
     },
     "patrons/cyriacus": {
         "names": {
@@ -9395,6 +9409,7 @@
             "pl": "Michał",
             "ca": "Miquel",
             "ja": "ミカル",
+            "ig": "Michael",
             "it": "Michele"
         }
     },

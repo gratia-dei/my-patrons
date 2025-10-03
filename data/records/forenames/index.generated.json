@@ -683,7 +683,8 @@
     "cyprianus": {
         "la": "Cyprianus",
         "en": "Cyprian",
-        "pl": "Cyprian"
+        "pl": "Cyprian",
+        "ig": "Onye Saịprọs"
     },
     "cyriacus": {
         "la": "Cyriacus",
@@ -1444,6 +1445,12 @@
         "en": "Juvenal",
         "pl": "Juwenalis"
     },
+    "iwene": {
+        "la": "Iwene",
+        "en": "Iwene",
+        "pl": "Iwene",
+        "ig": "Iwene"
+    },
     "kinga": {
         "la": "Kinga",
         "en": "Kinga",
@@ -1757,6 +1764,7 @@
         "pl": "Michał",
         "ca": "Miquel",
         "ja": "ミカル",
+        "ig": "Michael",
         "it": "Michele"
     },
     "modestus": {
