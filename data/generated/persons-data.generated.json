@@ -2543,6 +2543,26 @@
         ],
         "feasts": []
     },
+    "patrons/candidus": {
+        "names": {
+            "la": "Candidus",
+            "en": "Candidus",
+            "pl": "Kandyd"
+        }
+    },
+    "patrons/candidus/the": {
+        "active": true,
+        "names": {
+            "la": "Candidus Legionis Thebanae",
+            "en": "Candidus of the Theban Legion",
+            "pl": "Kandyd z Legii Tebańskiej"
+        },
+        "died": [
+            "~286",
+            "~302"
+        ],
+        "feasts": []
+    },
     "patrons/carola": {
         "names": {
             "la": "Carola",
@@ -4182,6 +4202,26 @@
         },
         "died": [
             "~305"
+        ],
+        "feasts": []
+    },
+    "patrons/exsuperius": {
+        "names": {
+            "la": "Exsuperius",
+            "en": "Exuperius",
+            "pl": "Eksuperiusz"
+        }
+    },
+    "patrons/exsuperius/the": {
+        "active": true,
+        "names": {
+            "la": "Exsuperius Legionis Thebanae",
+            "en": "Exuperius of the Theban Legion",
+            "pl": "Eksuperiusz z Legii Tebańskiej"
+        },
+        "died": [
+            "~286",
+            "~302"
         ],
         "feasts": []
     },
@@ -6074,6 +6114,19 @@
         },
         "died": [
             "1940-06-06"
+        ],
+        "feasts": []
+    },
+    "patrons/innocentius/the": {
+        "active": true,
+        "names": {
+            "la": "Innocentius Legionis Thebanae",
+            "en": "Innocent of the Theban Legion",
+            "pl": "Innocenty z Legii Tebańskiej"
+        },
+        "died": [
+            "~286",
+            "~302"
         ],
         "feasts": []
     },
@@ -9224,13 +9277,14 @@
         }
     },
     "patrons/mauritius/the": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Mauritius Legionis Thebanae",
             "en": "Maurice of the Theban Legion",
             "pl": "Maurycy z Legii Tebańskiej"
         },
         "died": [
+            "~286",
             "~302"
         ],
         "feasts": []
@@ -9705,6 +9759,19 @@
                 }
             }
         }
+    },
+    "patrons/multi/the": {
+        "active": true,
+        "names": {
+            "la": "Sociorum Mauricii, milites legionis Thebanae",
+            "en": "Companions of Maurice, soldiers of the Theban legion",
+            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
+        },
+        "died": [
+            "~286",
+            "~302"
+        ],
+        "feasts": []
     },
     "patrons/multi/urs": {
         "active": true,
@@ -13196,6 +13263,19 @@
         ],
         "feasts": []
     },
+    "patrons/victor/the": {
+        "active": true,
+        "names": {
+            "la": "Victor Legionis Thebanae",
+            "en": "Victor of the Theban Legion",
+            "pl": "Wiktor z Legii Tebańskiej"
+        },
+        "died": [
+            "~286",
+            "~302"
+        ],
+        "feasts": []
+    },
     "patrons/victoria": {
         "names": {
             "la": "Victoria",
@@ -13399,6 +13479,19 @@
         },
         "died": [
             "~165"
+        ],
+        "feasts": []
+    },
+    "patrons/vitalis/the": {
+        "active": true,
+        "names": {
+            "la": "Vitalis Legionis Thebanae",
+            "en": "Vitalis of the Theban Legion",
+            "pl": "Witalis z Legii Tebańskiej"
+        },
+        "died": [
+            "~286",
+            "~302"
         ],
         "feasts": []
     },

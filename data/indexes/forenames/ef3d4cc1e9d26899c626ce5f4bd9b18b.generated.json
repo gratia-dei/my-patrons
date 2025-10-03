@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Exuperius",
+        "en": "Exuperius"
+    },
+    "translations": {
+        "la": [
+            "Exsuperius",
+            "Exuperius"
+        ],
+        "en": [
+            "Exuperius"
+        ],
+        "pl": [
+            "Eksuperiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/exsuperius/the": {
+            "la": "Exsuperius Legionis Thebanae",
+            "en": "Exuperius of the Theban Legion",
+            "pl": "Eksuperiusz z Legii Tebańskiej"
+        }
+    }
+}

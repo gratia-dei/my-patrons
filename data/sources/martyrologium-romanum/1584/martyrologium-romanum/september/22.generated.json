@@ -1,5 +1,14 @@
 {
     "data-links": {
+        "1": {
+            "1": "records/patrons/mauritius/the",
+            "2": "records/patrons/exsuperius/the",
+            "3": "records/patrons/candidus/the",
+            "4": "records/patrons/victor/the",
+            "5": "records/patrons/innocentius/the",
+            "6": "records/patrons/vitalis/the",
+            "7": "records/patrons/multi/the"
+        },
         "4": {
             "1": "records/patrons/emmerammus/rat"
         }

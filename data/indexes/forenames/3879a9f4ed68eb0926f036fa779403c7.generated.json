@@ -18,6 +18,11 @@
             "pl": "Innocenty Guz",
             "la": "Innocentius Guz",
             "en": "Innocent Guz"
+        },
+        "records/patrons/innocentius/the": {
+            "la": "Innocentius Legionis Thebanae",
+            "en": "Innocent of the Theban Legion",
+            "pl": "Innocenty z Legii Tebańskiej"
         }
     }
 }

@@ -6032,6 +6032,88 @@
         }
     },
     "09-22": {
+        "records/patrons/mauritius/the": {
+            "name": {
+                "la": "Mauritius Legionis Thebanae",
+                "en": "Maurice of the Theban Legion",
+                "pl": "Maurycy z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2",
+                "mr-2004": "22 IX: #2"
+            }
+        },
+        "records/patrons/exsuperius/the": {
+            "name": {
+                "la": "Exsuperius Legionis Thebanae",
+                "en": "Exuperius of the Theban Legion",
+                "pl": "Eksuperiusz z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2",
+                "mr-2004": "22 IX: #2"
+            }
+        },
+        "records/patrons/candidus/the": {
+            "name": {
+                "la": "Candidus Legionis Thebanae",
+                "en": "Candidus of the Theban Legion",
+                "pl": "Kandyd z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2",
+                "mr-2004": "22 IX: #2"
+            }
+        },
+        "records/patrons/victor/the": {
+            "name": {
+                "la": "Victor Legionis Thebanae",
+                "en": "Victor of the Theban Legion",
+                "pl": "Wiktor z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2",
+                "mr-2004": "22 IX: #2"
+            }
+        },
+        "records/patrons/innocentius/the": {
+            "name": {
+                "la": "Innocentius Legionis Thebanae",
+                "en": "Innocent of the Theban Legion",
+                "pl": "Innocenty z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2"
+            }
+        },
+        "records/patrons/vitalis/the": {
+            "name": {
+                "la": "Vitalis Legionis Thebanae",
+                "en": "Vitalis of the Theban Legion",
+                "pl": "Witalis z Legii Tebańskiej"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2"
+            }
+        },
+        "records/patrons/multi/the": {
+            "name": {
+                "la": "Sociorum Mauricii, milites legionis Thebanae",
+                "en": "Companions of Maurice, soldiers of the Theban legion",
+                "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
+            },
+            "sources": {
+                "mr-1584": "22 IX: #1",
+                "mr-1956": "22 IX: #2",
+                "mr-2004": "22 IX: #2"
+            }
+        },
         "records/patrons/emmerammus/rat": {
             "name": {
                 "la": "Emmeramus Ratisbonensis",

@@ -596,6 +596,11 @@
             "en": "Camillus de Lellis",
             "pl": "Kamil de Lellis"
         },
+        "records/patrons/candidus/the": {
+            "la": "Candidus Legionis Thebanae",
+            "en": "Candidus of the Theban Legion",
+            "pl": "Kandyd z Legii Tebańskiej"
+        },
         "records/patrons/carolus/acu": {
             "it": "Carlo Acutis",
             "la": "Carolus Acutis",
@@ -966,6 +971,11 @@
             "la": "Euticius Puteolensis",
             "en": "Eutyches of Pozzuoli",
             "pl": "Eutyches z Pozzuoli"
+        },
+        "records/patrons/exsuperius/the": {
+            "la": "Exsuperius Legionis Thebanae",
+            "en": "Exuperius of the Theban Legion",
+            "pl": "Eksuperiusz z Legii Tebańskiej"
         },
         "records/patrons/ezechiel/pro": {
             "he": "יחזקאל הנביא",
@@ -1482,6 +1492,11 @@
             "pl": "Innocenty Guz",
             "la": "Innocentius Guz",
             "en": "Innocent Guz"
+        },
+        "records/patrons/innocentius/the": {
+            "la": "Innocentius Legionis Thebanae",
+            "en": "Innocent of the Theban Legion",
+            "pl": "Innocenty z Legii Tebańskiej"
         },
         "records/patrons/ioachim/mar": {
             "he": "יהוֹיָקִים",
@@ -2139,6 +2154,11 @@
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
+        },
+        "records/patrons/multi/the": {
+            "la": "Sociorum Mauricii, milites legionis Thebanae",
+            "en": "Companions of Maurice, soldiers of the Theban legion",
+            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
         },
         "records/patrons/myron/cyz": {
             "la": "Myron Cyzicensis",
@@ -2940,6 +2960,11 @@
             "en": "Victor of Carthage",
             "pl": "Wiktor z Kartaginy"
         },
+        "records/patrons/victor/the": {
+            "la": "Victor Legionis Thebanae",
+            "en": "Victor of the Theban Legion",
+            "pl": "Wiktor z Legii Tebańskiej"
+        },
         "records/patrons/victorinus/pet": {
             "it": "Vittorino di Pettau",
             "en": "Victorinus of Pettau",
@@ -2989,6 +3014,11 @@
             "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
             "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
             "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "records/patrons/vitalis/the": {
+            "la": "Vitalis Legionis Thebanae",
+            "en": "Vitalis of the Theban Legion",
+            "pl": "Witalis z Legii Tebańskiej"
         },
         "records/patrons/vladimirus/las": {
             "pl": "Włodzimierz Laskowski",

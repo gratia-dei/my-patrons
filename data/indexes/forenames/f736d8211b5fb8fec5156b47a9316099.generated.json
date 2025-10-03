@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Kandyd"
+    },
+    "translations": {
+        "la": [
+            "Candidus"
+        ],
+        "en": [
+            "Candidus"
+        ],
+        "pl": [
+            "Kandyd"
+        ]
+    },
+    "links": {
+        "records/patrons/candidus/the": {
+            "la": "Candidus Legionis Thebanae",
+            "en": "Candidus of the Theban Legion",
+            "pl": "Kandyd z Legii Tebańskiej"
+        }
+    }
+}

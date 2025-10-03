@@ -25,16 +25,31 @@
             "en": "Cereal of Rome",
             "pl": "Cerealis z Rzymu"
         },
+        "records/patrons/candidus/the": {
+            "la": "Candidus Legionis Thebanae",
+            "en": "Candidus of the Theban Legion",
+            "pl": "Kandyd z Legii Tebańskiej"
+        },
         "records/patrons/eleutherius/nic": {
             "la": "Eleutherius de Nicomedia",
             "en": "Eleutherius of Nicomedia",
             "pl": "Eleuteriusz z Nikomedii"
+        },
+        "records/patrons/exsuperius/the": {
+            "la": "Exsuperius Legionis Thebanae",
+            "en": "Exuperius of the Theban Legion",
+            "pl": "Eksuperiusz z Legii Tebańskiej"
         },
         "records/patrons/ignatius/loy": {
             "es": "Ignacio de Loyola",
             "la": "Ignatius de Loyola",
             "en": "Ignatius of Loyola",
             "pl": "Ignacy Loyola"
+        },
+        "records/patrons/innocentius/the": {
+            "la": "Innocentius Legionis Thebanae",
+            "en": "Innocent of the Theban Legion",
+            "pl": "Innocenty z Legii Tebańskiej"
         },
         "records/patrons/ioannes/deo": {
             "pt": "João de Deus",
@@ -46,6 +61,21 @@
             "la": "Mauritius Legionis Thebanae",
             "en": "Maurice of the Theban Legion",
             "pl": "Maurycy z Legii Tebańskiej"
+        },
+        "records/patrons/multi/the": {
+            "la": "Sociorum Mauricii, milites legionis Thebanae",
+            "en": "Companions of Maurice, soldiers of the Theban legion",
+            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
+        },
+        "records/patrons/victor/the": {
+            "la": "Victor Legionis Thebanae",
+            "en": "Victor of the Theban Legion",
+            "pl": "Wiktor z Legii Tebańskiej"
+        },
+        "records/patrons/vitalis/the": {
+            "la": "Vitalis Legionis Thebanae",
+            "en": "Vitalis of the Theban Legion",
+            "pl": "Witalis z Legii Tebańskiej"
         }
     }
 }

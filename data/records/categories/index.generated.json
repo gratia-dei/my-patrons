@@ -414,6 +414,11 @@
         "en": "tertiary",
         "pl": "tercjarz / tercjarka"
     },
+    "veteranus": {
+        "la": "veteranus",
+        "en": "veteran",
+        "pl": "weteran"
+    },
     "vidua": {
         "la": "vidua",
         "en": "widow",

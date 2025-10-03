@@ -89,6 +89,11 @@
             "en": "All Saints",
             "pl": "Wszyscy Święci"
         },
+        "records/patrons/multi/the": {
+            "la": "Sociorum Mauricii, milites legionis Thebanae",
+            "en": "Companions of Maurice, soldiers of the Theban legion",
+            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
+        },
         "records/patrons/multi/urs": {
             "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
             "la": "Sociae Ursulae Coloniensis, virgines et martyres",

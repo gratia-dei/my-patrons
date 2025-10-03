@@ -1,19 +1,19 @@
 {
     "names": {
         "la": [
-            "Mauritius Legionis Thebanae",
-            "Mauritius de Agaunum"
+            "Victor Legionis Thebanae",
+            "Victor de Agaunum"
         ],
         "en": [
-            "Maurice of the Theban Legion",
-            "Maurice of Agaunum"
+            "Victor of the Theban Legion",
+            "Victor of Agaunum"
         ],
         "pl": [
-            "Maurycy z Legii Tebańskiej",
-            "Maurycy z Agaunum"
+            "Wiktor z Legii Tebańskiej",
+            "Wiktor z Agaunum"
         ]
     },
-    "forenames": ["mauritius"],
+    "forenames": ["victor"],
     "surnames": null,
     "epithets": null,
 
@@ -25,25 +25,25 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["vir", "martyr", "miles"],
+    "categories": ["vir", "martyr", "miles", "veteranus"],
 
     "data-links": {
-        "mr-1584": ["1:Sept./22#1"],
+        "mr-1584": ["4:Sept./22#1"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Septembris/22#2"],
+        "mr-1956": ["4:Septembris/22#2"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:sept./22#2"],
+        "mr-2004": ["5:sept./22#2"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/69523",
+        "gcatholic": "https://gcatholic.org/p/71959",
         "wiki": [
             "https://pl.wikipedia.org/wiki/Legia_Teba%C5%84ska",
-            "https://pl.wikipedia.org/wiki/Maurycy_(m%C4%99czennik)"
+            "https://pl.wikipedia.org/wiki/Wiktor_z_Agaunum"
         ]
     }
 }

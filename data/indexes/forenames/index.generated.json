@@ -2456,6 +2456,10 @@
         "en": "Gamaliel",
         "pl": "Gamaliel"
     },
+    "90eeee2562a280c60138445ee17642fe": {
+        "la": "Candidus",
+        "en": "Candidus"
+    },
     "9131b7fb62b033b2c02142afd214feb0": {
         "en": "Cyprian",
         "pl": "Cyprian"
@@ -2999,6 +3003,9 @@
     "ad8f727eafea516dcfdcd1b0a6551f3a": {
         "en": "Eoban",
         "pl": "Eoban"
+    },
+    "adb7c82953a803fd9bd48280bb27c11d": {
+        "pl": "Eksuperiusz"
     },
     "ade1847c18f09992908f6d419930bb0d": {
         "en": "Jacobinus"
@@ -4142,6 +4149,10 @@
     "ee8716cf94f13d7da6ee9182e60afd2d": {
         "la": "Caelestina"
     },
+    "ef3d4cc1e9d26899c626ce5f4bd9b18b": {
+        "la": "Exuperius",
+        "en": "Exuperius"
+    },
     "ef48f94260867a2a9fdad53362cd24a0": {
         "es": "Domingo"
     },
@@ -4235,6 +4246,9 @@
     "f330121641c728b6b19980952d943232": {
         "en": "Cereal"
     },
+    "f34c0c17378bda2d42956f7fe5f500f9": {
+        "la": "Exsuperius"
+    },
     "f3c0ff4acee8f5b9aa2165d00d789e5d": {
         "en": "Matilda"
     },
@@ -4303,6 +4317,9 @@
     "f71185951db8a1c8c166c45b001afd9a": {
         "la": "Titus",
         "en": "Titus"
+    },
+    "f736d8211b5fb8fec5156b47a9316099": {
+        "pl": "Kandyd"
     },
     "f74fe5a6d8873799e7a4cc49985ebb60": {
         "ko": "영희"

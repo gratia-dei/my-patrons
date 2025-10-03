@@ -415,6 +415,11 @@
         "pl": "Kamil",
         "it": "Camillo"
     },
+    "candidus": {
+        "la": "Candidus",
+        "en": "Candidus",
+        "pl": "Kandyd"
+    },
     "carola": {
         "la": "Carola",
         "en": "Carola",
@@ -725,6 +730,11 @@
         "la": "Euticius",
         "en": "Eutyches",
         "pl": "Eutyches"
+    },
+    "exsuperius": {
+        "la": "Exsuperius",
+        "en": "Exuperius",
+        "pl": "Eksuperiusz"
     },
     "ezechiel": {
         "la": "Ezechiel",

@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "veteranus"
+    },
+    "translations": {
+        "la": [
+            "veteranus"
+        ],
+        "en": [
+            "veteran"
+        ],
+        "pl": [
+            "weteran"
+        ]
+    },
+    "links": {
+        "records/patrons/victor/the": {
+            "la": "Victor Legionis Thebanae",
+            "en": "Victor of the Theban Legion",
+            "pl": "Wiktor z Legii Tebańskiej"
+        }
+    }
+}

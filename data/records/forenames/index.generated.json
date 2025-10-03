@@ -504,6 +504,11 @@
         "pl": "Kamil",
         "it": "Camillo"
     },
+    "candidus": {
+        "la": "Candidus",
+        "en": "Candidus",
+        "pl": "Kandyd"
+    },
     "canisia": {
         "la": "Canisia",
         "en": "Canisia",
@@ -903,6 +908,11 @@
         "la": "Eva",
         "en": "Eva",
         "pl": "Ewa"
+    },
+    "exsuperius": {
+        "la": "Exsuperius",
+        "en": "Exuperius",
+        "pl": "Eksuperiusz"
     },
     "ezechiel": {
         "la": "Ezechiel",
