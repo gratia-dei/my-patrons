@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Monique Pichery"
+        ],
+        "la": [
+            "Monica Pichery"
+        ],
+        "en": [
+            "Monica Pichery"
+        ],
+        "pl": [
+            "Monika Pichery"
+        ]
+    },
+    "forenames": ["monica"],
+    "surnames": [
+        {
+            "fr": "Pichery"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1762-04-04"],
+    "died": ["1794-01-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:ian./18#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67570",
+        "wiki": "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers"
+    }
+}

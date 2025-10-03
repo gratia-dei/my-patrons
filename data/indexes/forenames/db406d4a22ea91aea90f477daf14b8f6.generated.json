@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Felicyta"
+        ],
+        "fr": [
+            "Félicité"
         ]
     },
     "links": {
@@ -18,6 +21,12 @@
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
+        },
+        "records/patrons/felicitas/pri": {
+            "fr": "Félicité Pricet",
+            "la": "Felicitas Pricet",
+            "en": "Felicity Pricet",
+            "pl": "Felicyta Pricet"
         },
         "records/patrons/felicitas/rom": {
             "la": "Felicitas de Roma",

@@ -339,6 +339,12 @@
             "la": "Caesarius Terracinensis",
             "pl": "Cezary z Terraciny"
         },
+        "records/patrons/carola/luc": {
+            "fr": "Charlotte Lucas",
+            "la": "Carola Lucas",
+            "en": "Charlotte Lucas",
+            "pl": "Szarlota Lucas"
+        },
         "records/patrons/carolina/koz": {
             "pl": "Karolina Kózka",
             "la": "Carolina Kózka",
@@ -642,6 +648,12 @@
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
+        },
+        "records/patrons/felicitas/pri": {
+            "fr": "Félicité Pricet",
+            "la": "Felicitas Pricet",
+            "en": "Felicity Pricet",
+            "pl": "Felicyta Pricet"
         },
         "records/patrons/felicitas/rom": {
             "la": "Felicitas de Roma",
@@ -1445,6 +1457,12 @@
             "la": "Michael Tomaszek",
             "en": "Michael Tomaszek"
         },
+        "records/patrons/monica/pic": {
+            "fr": "Monique Pichery",
+            "la": "Monica Pichery",
+            "en": "Monica Pichery",
+            "pl": "Monika Pichery"
+        },
         "records/patrons/multi/abr": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
@@ -2082,6 +2100,12 @@
             "la": "Victor Carthaginensis",
             "en": "Victor of Carthage",
             "pl": "Wiktor z Kartaginy"
+        },
+        "records/patrons/victoria/gus": {
+            "fr": "Victoire Gusteau",
+            "la": "Victoria Gusteau",
+            "en": "Victoria Gusteau",
+            "pl": "Wiktoria Gusteau"
         },
         "records/patrons/victoria/ulm": {
             "pl": "Wiktoria Ulma",

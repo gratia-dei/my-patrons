@@ -326,6 +326,56 @@
             }
         }
     },
+    "01-18": {
+        "records/patrons/carola/luc": {
+            "name": {
+                "fr": "Charlotte Lucas",
+                "la": "Carola Lucas",
+                "en": "Charlotte Lucas",
+                "pl": "Szarlota Lucas"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 I",
+                "mr-2004": "18 I: #12"
+            }
+        },
+        "records/patrons/felicitas/pri": {
+            "name": {
+                "fr": "Félicité Pricet",
+                "la": "Felicitas Pricet",
+                "en": "Felicity Pricet",
+                "pl": "Felicyta Pricet"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 I",
+                "mr-2004": "18 I: #12"
+            }
+        },
+        "records/patrons/monica/pic": {
+            "name": {
+                "fr": "Monique Pichery",
+                "la": "Monica Pichery",
+                "en": "Monica Pichery",
+                "pl": "Monika Pichery"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 I",
+                "mr-2004": "18 I: #12"
+            }
+        },
+        "records/patrons/victoria/gus": {
+            "name": {
+                "fr": "Victoire Gusteau",
+                "la": "Victoria Gusteau",
+                "en": "Victoria Gusteau",
+                "pl": "Wiktoria Gusteau"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 I",
+                "mr-2004": "18 I: #12"
+            }
+        }
+    },
     "01-19": {
         "records/patrons/simon/cos": {
             "name": {

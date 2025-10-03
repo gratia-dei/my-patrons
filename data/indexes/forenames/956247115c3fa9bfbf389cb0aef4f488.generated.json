@@ -1,0 +1,30 @@
+{
+    "names": {
+        "pl": "Karola"
+    },
+    "translations": {
+        "la": [
+            "Carola"
+        ],
+        "en": [
+            "Carola",
+            "Charlotte"
+        ],
+        "pl": [
+            "Karola",
+            "Szarlota"
+        ],
+        "fr": [
+            "Carola",
+            "Charlotte"
+        ]
+    },
+    "links": {
+        "records/patrons/carola/luc": {
+            "fr": "Charlotte Lucas",
+            "la": "Carola Lucas",
+            "en": "Charlotte Lucas",
+            "pl": "Szarlota Lucas"
+        }
+    }
+}

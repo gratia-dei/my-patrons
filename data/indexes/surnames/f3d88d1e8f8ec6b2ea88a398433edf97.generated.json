@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Pichery"
+    },
+    "translations": {
+        "fr": [
+            "Pichery"
+        ]
+    },
+    "links": {
+        "records/patrons/monica/pic": {
+            "fr": "Monique Pichery",
+            "la": "Monica Pichery",
+            "en": "Monica Pichery",
+            "pl": "Monika Pichery"
+        }
+    }
+}

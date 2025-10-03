@@ -112,6 +112,12 @@
             "en": "Celestine Faron",
             "la": "Caelestina Faron"
         },
+        "records/patrons/carola/luc": {
+            "fr": "Charlotte Lucas",
+            "la": "Carola Lucas",
+            "en": "Charlotte Lucas",
+            "pl": "Szarlota Lucas"
+        },
         "records/patrons/carolina/koz": {
             "pl": "Karolina Kózka",
             "la": "Carolina Kózka",
@@ -248,6 +254,12 @@
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
             "pl": "Felicyta z Kartaginy"
+        },
+        "records/patrons/felicitas/pri": {
+            "fr": "Félicité Pricet",
+            "la": "Felicitas Pricet",
+            "en": "Felicity Pricet",
+            "pl": "Felicyta Pricet"
         },
         "records/patrons/felicitas/rom": {
             "la": "Felicitas de Roma",
@@ -730,6 +742,12 @@
             "la": "Mathildis de Ringelheim",
             "pl": "Matylda von Ringelheim"
         },
+        "records/patrons/monica/pic": {
+            "fr": "Monique Pichery",
+            "la": "Monica Pichery",
+            "en": "Monica Pichery",
+            "pl": "Monika Pichery"
+        },
         "records/patrons/monica/vid": {
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",
@@ -951,6 +969,12 @@
             "la": "Viatrix, cum ea, i.a., Simplicius",
             "en": "Viatrice; with her, i.a., Simplicius",
             "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        },
+        "records/patrons/victoria/gus": {
+            "fr": "Victoire Gusteau",
+            "la": "Victoria Gusteau",
+            "en": "Victoria Gusteau",
+            "pl": "Wiktoria Gusteau"
         },
         "records/patrons/victoria/ulm": {
             "pl": "Wiktoria Ulma",

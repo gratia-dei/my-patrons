@@ -415,6 +415,12 @@
         "pl": "Kamil",
         "it": "Camillo"
     },
+    "carola": {
+        "la": "Carola",
+        "en": "Carola",
+        "pl": "Karola",
+        "fr": "Carola"
+    },
     "carolina": {
         "la": "Carolina",
         "en": "Caroline",
@@ -744,7 +750,8 @@
     "felicitas": {
         "la": "Felicitas",
         "en": "Felicity",
-        "pl": "Felicyta"
+        "pl": "Felicyta",
+        "fr": "Félicité"
     },
     "felix": {
         "la": "Felix",
@@ -1425,7 +1432,8 @@
     "monica": {
         "la": "Monica",
         "en": "Monica",
-        "pl": "Monika"
+        "pl": "Monika",
+        "fr": "Monique"
     },
     "multi": {
         "la": "Multi",
@@ -2103,7 +2111,8 @@
     "victoria": {
         "la": "Victoria",
         "en": "Victoria",
-        "pl": "Wiktoria"
+        "pl": "Wiktoria",
+        "fr": "Victoire"
     },
     "victorinus": {
         "la": "Victorinus",

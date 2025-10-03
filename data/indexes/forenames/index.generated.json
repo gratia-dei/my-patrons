@@ -1772,6 +1772,9 @@
         "la": "Silvia",
         "en": "Silvia"
     },
+    "68d5418444ae4d3408517c355e90c5f3": {
+        "pl": "Szarlota"
+    },
     "6920fcbf5d633a60600165b41074c11d": {
         "pl": "Konstantyn"
     },
@@ -1979,6 +1982,10 @@
     },
     "75a9e0affd88cad779809d88b685de9e": {
         "pl": "Trankwilin"
+    },
+    "7647b2d875a94093cbc99f6f2cbfda77": {
+        "en": "Charlotte",
+        "fr": "Charlotte"
     },
     "76556d2f3c69f5c0b3cd531d4542a3d2": {
         "la": "Sabigothon",
@@ -2536,6 +2543,9 @@
     "951de19ef806b67662f3282df0458279": {
         "pl": "Maksymilian"
     },
+    "956247115c3fa9bfbf389cb0aef4f488": {
+        "pl": "Karola"
+    },
     "959dc3ded1af8f99a45dc021de89a46a": {
         "pl": "Sekunda"
     },
@@ -2807,6 +2817,9 @@
     },
     "a4e6a5ed8e8fbfe85b99eb74e29b04af": {
         "la": "Marcus"
+    },
+    "a5073fb5b3361c7e1551f2fb11500796": {
+        "fr": "Victoire"
     },
     "a57abe6ef457ecd3dab450c6d2171fe4": {
         "pl": "Marcjan"
@@ -3387,8 +3400,16 @@
     "c13e13da2073260c2194c15d782e86a9": {
         "en": "Paul"
     },
+    "c15d0de0160cc56dd235feaacd1df7b8": {
+        "la": "Carola",
+        "en": "Carola",
+        "fr": "Carola"
+    },
     "c17f64c649db924e1c6d18a1d04f03c9": {
         "pl": "Ludwik"
+    },
+    "c1ca1031a4b6209fb732abaf08d2b971": {
+        "fr": "Félicité"
     },
     "c201f6deb2f8f990cdce8653748f92dd": {
         "pl": "Gertruda"
@@ -3644,6 +3665,9 @@
     },
     "d1d238926145f8a75f127e07eb595dc6": {
         "pl": "Sabigotona"
+    },
+    "d2036b2c992459a7c0d447db6cb77966": {
+        "fr": "Monique"
     },
     "d2124a45efb6440bce721a07eceddf53": {
         "pl": "Julita"

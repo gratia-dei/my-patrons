@@ -12,9 +12,18 @@
         ],
         "pl": [
             "Wiktoria"
+        ],
+        "fr": [
+            "Victoire"
         ]
     },
     "links": {
+        "records/patrons/victoria/gus": {
+            "fr": "Victoire Gusteau",
+            "la": "Victoria Gusteau",
+            "en": "Victoria Gusteau",
+            "pl": "Wiktoria Gusteau"
+        },
         "records/patrons/victoria/ulm": {
             "pl": "Wiktoria Ulma",
             "la": "Victoria Ulma",

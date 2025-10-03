@@ -12,9 +12,18 @@
         ],
         "pl": [
             "Monika"
+        ],
+        "fr": [
+            "Monique"
         ]
     },
     "links": {
+        "records/patrons/monica/pic": {
+            "fr": "Monique Pichery",
+            "la": "Monica Pichery",
+            "en": "Monica Pichery",
+            "pl": "Monika Pichery"
+        },
         "records/patrons/monica/vid": {
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",
