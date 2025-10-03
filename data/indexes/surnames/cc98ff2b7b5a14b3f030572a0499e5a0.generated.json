@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Świadek"
+    },
+    "translations": {
+        "pl": [
+            "Świadek"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/swi": {
+            "pl": "Antoni Świadek",
+            "la": "Antonius Świadek",
+            "en": "Anthony Świadek"
+        }
+    }
+}

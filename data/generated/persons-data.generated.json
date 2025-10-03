@@ -1526,6 +1526,18 @@
         ],
         "feasts": []
     },
+    "patrons/antonius/swi": {
+        "active": true,
+        "names": {
+            "pl": "Antoni Świadek",
+            "la": "Antonius Świadek",
+            "en": "Anthony Świadek"
+        },
+        "died": [
+            "1945-01-25"
+        ],
+        "feasts": []
+    },
     "patrons/antonius/ulm": {
         "active": true,
         "names": {

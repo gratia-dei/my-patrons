@@ -457,6 +457,20 @@
             }
         }
     },
+    "01-25": {
+        "records/patrons/antonius/swi": {
+            "name": {
+                "pl": "Antoni Świadek",
+                "la": "Antonius Świadek",
+                "en": "Anthony Świadek"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 I",
+                "feast": "25 I",
+                "mr-2004": "25 I: #15"
+            }
+        }
+    },
     "01-26": {
         "records/patrons/timotheus/eph": {
             "name": {

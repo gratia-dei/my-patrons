@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Antoni Świadek"
+        ],
+        "la": [
+            "Antonius Świadek"
+        ],
+        "en": [
+            "Anthony Świadek"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": [
+        {
+            "pl": "Świadek"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1909-03-27"],
+    "died": ["1945-01-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["01-25"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./25#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67822",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_%C5%9Awiadek"
+    }
+}
