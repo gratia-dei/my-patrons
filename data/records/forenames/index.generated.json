@@ -1021,6 +1021,12 @@
         "pl": "Gabriel",
         "fr": "Gabriel"
     },
+    "gabriela": {
+        "la": "Gabriela",
+        "en": "Gabriella",
+        "pl": "Gabriela",
+        "it": "Gabriella"
+    },
     "gamaliel": {
         "la": "Gamaliel",
         "en": "Gamaliel",
@@ -1361,7 +1367,8 @@
         "la": "Iosephina",
         "en": "Josephine",
         "pl": "Józefina",
-        "ar": "جوزفين"
+        "ar": "جوزفين",
+        "it": "Giuseppina"
     },
     "iosephus": {
         "la": "Iosephus",

@@ -14,6 +14,9 @@
         ],
         "ar": [
             "جوزفين"
+        ],
+        "it": [
+            "Giuseppina"
         ]
     },
     "links": {
@@ -22,6 +25,12 @@
             "en": "Josephine Bakhita",
             "la": "Iosephina Bakhita",
             "pl": "Józefina Bakhita"
+        },
+        "records/patrons/iosephina/bon": {
+            "it": "Giuseppina Gabriella Bonino",
+            "la": "Iosephina Gabriela Bonino",
+            "en": "Josephine Gabriella Bonino",
+            "pl": "Józefina Gabriela Bonino"
         }
     }
 }

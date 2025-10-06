@@ -1,31 +1,25 @@
 {
     "names": {
-        "en": "Josephine"
+        "la": "Gabriela",
+        "pl": "Gabriela",
+        "it": "Gabriela"
     },
     "translations": {
         "la": [
-            "Iosephina"
+            "Gabriela"
         ],
         "en": [
-            "Josephine"
+            "Gabriella"
         ],
         "pl": [
-            "Józefina"
-        ],
-        "ar": [
-            "جوزفين"
+            "Gabriela"
         ],
         "it": [
-            "Giuseppina"
+            "Gabriella",
+            "Gabriela"
         ]
     },
     "links": {
-        "records/patrons/iosephina/bak": {
-            "ar": "جوزفين بخيتة",
-            "en": "Josephine Bakhita",
-            "la": "Iosephina Bakhita",
-            "pl": "Józefina Bakhita"
-        },
         "records/patrons/iosephina/bon": {
             "it": "Giuseppina Gabriella Bonino",
             "la": "Iosephina Gabriela Bonino",

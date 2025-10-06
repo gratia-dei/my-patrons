@@ -180,6 +180,12 @@
             "en": "John of Matha",
             "pl": "Jan de Matha"
         },
+        "records/patrons/iosephina/bon": {
+            "it": "Giuseppina Gabriella Bonino",
+            "la": "Iosephina Gabriela Bonino",
+            "en": "Josephine Gabriella Bonino",
+            "pl": "Józefina Gabriela Bonino"
+        },
         "records/patrons/iosephus/esc": {
             "es": "Josemaría Escrivá de Balaguer",
             "la": "Iosephus Maria Escrivá de Balaguer",

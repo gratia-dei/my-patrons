@@ -6884,7 +6884,8 @@
             "la": "Iosephina",
             "en": "Josephine",
             "pl": "Józefina",
-            "ar": "جوزفين"
+            "ar": "جوزفين",
+            "it": "Giuseppina"
         }
     },
     "patrons/iosephina/bak": {
@@ -6897,6 +6898,19 @@
         },
         "died": [
             "1947-02-08"
+        ],
+        "feasts": []
+    },
+    "patrons/iosephina/bon": {
+        "active": true,
+        "names": {
+            "it": "Giuseppina Gabriella Bonino",
+            "la": "Iosephina Gabriela Bonino",
+            "en": "Josephine Gabriella Bonino",
+            "pl": "Józefina Gabriela Bonino"
+        },
+        "died": [
+            "1906-02-08"
         ],
         "feasts": []
     },

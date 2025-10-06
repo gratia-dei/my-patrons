@@ -809,6 +809,19 @@
         }
     },
     "02-08": {
+        "records/patrons/iosephina/bon": {
+            "name": {
+                "it": "Giuseppina Gabriella Bonino",
+                "la": "Iosephina Gabriela Bonino",
+                "en": "Josephine Gabriella Bonino",
+                "pl": "Józefina Gabriela Bonino"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 II",
+                "feast": "8 II",
+                "mr-2004": "8 II: #12"
+            }
+        },
         "records/patrons/ioannes/mat": {
             "name": {
                 "fr": "Jean de Matha",
