@@ -225,6 +225,12 @@
             "la": "Maria Catharina Kasper",
             "pl": "Maria Katarzyna Kasper"
         },
+        "records/patrons/maria/man": {
+            "it": "Maria Domenica Mantovani",
+            "la": "Maria Dominica Mantovani",
+            "en": "Maria Dominica Mantovani",
+            "pl": "Maria Dominika Mantovani"
+        },
         "records/patrons/maria/pos": {
             "fr": "Marie-Madeleine Postel",
             "en": "Mary Magdalene Postel",

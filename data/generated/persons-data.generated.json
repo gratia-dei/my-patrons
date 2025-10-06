@@ -8624,6 +8624,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/man": {
+        "active": true,
+        "names": {
+            "it": "Maria Domenica Mantovani",
+            "la": "Maria Dominica Mantovani",
+            "en": "Maria Dominica Mantovani",
+            "pl": "Maria Dominika Mantovani"
+        },
+        "died": [
+            "1934-02-02"
+        ],
+        "feasts": []
+    },
     "patrons/maria/mar": {
         "active": true,
         "names": {

@@ -757,6 +757,12 @@
         "it": "Dionigi",
         "grc": "Διονύσιος"
     },
+    "dominica": {
+        "la": "Dominica",
+        "en": "Dominica",
+        "pl": "Dominika",
+        "it": "Domenica"
+    },
     "dominicus": {
         "la": "Dominicus",
         "en": "Dominic",

@@ -705,6 +705,19 @@
         }
     },
     "02-02": {
+        "records/patrons/maria/man": {
+            "name": {
+                "it": "Maria Domenica Mantovani",
+                "la": "Maria Dominica Mantovani",
+                "en": "Maria Dominica Mantovani",
+                "pl": "Maria Dominika Mantovani"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 II",
+                "feast": "2 II",
+                "mr-2004": "2 II: #14"
+            }
+        },
         "records/patrons/flosculus/aur": {
             "name": {
                 "la": "Flosculus de Aurelianum",
