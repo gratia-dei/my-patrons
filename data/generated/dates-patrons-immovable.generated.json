@@ -581,6 +581,20 @@
             }
         }
     },
+    "01-29": {
+        "records/patrons/boleslava/lam": {
+            "name": {
+                "pl": "Bolesława Lament",
+                "la": "Boleslava Lament",
+                "en": "Boleslava Lament"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 I",
+                "feast": "29 I",
+                "mr-2004": "29 I: #10"
+            }
+        }
+    },
     "01-30": {
         "records/patrons/felicianus/car": {
             "name": {

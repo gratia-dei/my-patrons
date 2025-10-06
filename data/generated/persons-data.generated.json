@@ -2325,11 +2325,11 @@
         }
     },
     "patrons/boleslava/lam": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Bolesława Lament",
-            "en": "Boleslava Lament",
-            "la": "Boleslava Lament"
+            "la": "Boleslava Lament",
+            "en": "Boleslava Lament"
         },
         "died": [
             "1946-01-29"

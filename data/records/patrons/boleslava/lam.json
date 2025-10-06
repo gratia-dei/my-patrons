@@ -1,38 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Bolesława Lament",
-      "Bolesława Maria Lament"
+    "names": {
+        "pl": [
+            "Bolesława Lament",
+            "Bolesława Maria Lament"
+        ],
+        "la": [
+            "Boleslava Lament",
+            "Boleslava Maria Lament"
+        ],
+        "en": [
+            "Boleslava Lament",
+            "Boleslava Maria Lament"
+        ]
+    },
+    "forenames": ["boleslava", "maria"],
+    "surnames": [
+        {
+            "pl": "Lament"
+        }
     ],
-    "en": [
-      "Boleslava Lament",
-      "Boleslava Maria Lament"
-    ],
-    "la": [
-      "Boleslava Lament",
-      "Boleslava Maria Lament"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Lament"
+    "active": true,
+
+    "born": ["1862-07-03"],
+    "died": ["1946-01-29"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1991-06-05"
+    },
+    "canonized": null,
+    "anniversary": ["01-29"],
+
+    "categories": ["femina", "virgo", "conditor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./29#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/boleslava-lament.html",
+        "gcatholic": "https://gcatholic.org/p/68483",
+        "wiki": "https://pl.wikipedia.org/wiki/Boles%C5%82awa_Lament"
     }
-  ],
-
-  "born": ["1862-07-03"],
-  "died": ["1946-01-29"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1991-06-05"
-  },
-
-  "also-in-martyrology": ["01-29"],
-
-  "forenames": ["boleslava", "maria"],
-  "categories": ["femina", "virgo", "conditor"],
-
-  "order": ["msf"],
-  "order-founder": ["msf"]
 }
