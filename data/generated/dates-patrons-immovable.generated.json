@@ -498,6 +498,18 @@
         }
     },
     "01-26": {
+        "records/patrons/michael/koz": {
+            "name": {
+                "pl": "Michał Kozal",
+                "la": "Michael Kozal",
+                "en": "Michael Kozal"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 I",
+                "feast": "26 I",
+                "mr-2004": "26 I: #8"
+            }
+        },
         "records/patrons/timotheus/eph": {
             "name": {
                 "el": "Τιμόθεος",

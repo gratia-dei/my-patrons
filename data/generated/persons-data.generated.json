@@ -9471,11 +9471,11 @@
         }
     },
     "patrons/michael/koz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Michał Kozal",
-            "en": "Michael Kozal",
-            "la": "Michael Kozal"
+            "la": "Michael Kozal",
+            "en": "Michael Kozal"
         },
         "died": [
             "1943-01-26"

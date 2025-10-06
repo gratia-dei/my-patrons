@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Michał Kozal"
+    "names": {
+        "pl": [
+            "Michał Kozal"
+        ],
+        "la": [
+            "Michael Kozal"
+        ],
+        "en": [
+            "Michael Kozal"
+        ]
+    },
+    "forenames": ["michael"],
+    "surnames": [
+        {
+            "pl": "Kozal"
+        }
     ],
-    "en": [
-      "Michael Kozal"
-    ],
-    "la": [
-      "Michael Kozal"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Kozal"
+    "active": true,
+
+    "born": ["1893-09-25"],
+    "died": ["1943-01-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-06-14"
+    },
+    "canonized": null,
+    "anniversary": ["01-26"],
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./26#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/michal-kozal.html",
+        "gcatholic": "https://gcatholic.org/p/15594",
+        "wiki": "https://pl.wikipedia.org/wiki/Micha%C5%82_Kozal"
     }
-  ],
-
-  "born": ["1893-09-25"],
-  "died": ["1943-01-26"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1987-06-14"
-  },
-
-  "also-in-martyrology": ["01-26"],
-
-  "forenames": ["michael"],
-  "categories": ["vir", "martyr", "episcopus"]
 }
