@@ -1,0 +1,53 @@
+{
+    "names": {
+        "it": [
+            "Luigi Variara"
+        ],
+        "la": [
+            "Aloysius Variara"
+        ],
+        "en": [
+            "Aloise Variara"
+        ],
+        "pl": [
+            "Alojzy Variara"
+        ]
+    },
+    "forenames": ["aloysius"],
+    "surnames": [
+        {
+            "it": "Variara"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1875-01-15"],
+    "died": ["1923-02-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2002-04-14"
+    },
+    "canonized": null,
+    "anniversary": ["02-01"],
+
+    "categories": ["vir", "presbyter", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./1#18"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/luigi-variara.html",
+        "gcatholic": "https://gcatholic.org/p/68022",
+        "wiki": "https://pl.wikipedia.org/wiki/Alojzy_Variara"
+    }
+}

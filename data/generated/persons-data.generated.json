@@ -949,6 +949,19 @@
         ],
         "feasts": []
     },
+    "patrons/aloysius/var": {
+        "active": true,
+        "names": {
+            "it": "Luigi Variara",
+            "la": "Aloysius Variara",
+            "en": "Aloise Variara",
+            "pl": "Alojzy Variara"
+        },
+        "died": [
+            "1923-02-01"
+        ],
+        "feasts": []
+    },
     "patrons/alphonsus": {
         "names": {
             "la": "Alphonsus",
