@@ -443,6 +443,32 @@
             }
         }
     },
+    "01-23": {
+        "records/patrons/agathangelus/anc": {
+            "name": {
+                "la": "Agathangelus Ancyranus",
+                "en": "Agathangelus of Ancyra",
+                "pl": "Agatangel z Ankary"
+            },
+            "sources": {
+                "mr-1584": "23 I: #6",
+                "mr-1956": "23 I: #5",
+                "mr-2004": "23 I: #3"
+            }
+        },
+        "records/patrons/clemens/aga": {
+            "name": {
+                "la": "Clemens Ancyranus",
+                "en": "Clement of Ancyra",
+                "pl": "Klemens z Ankary"
+            },
+            "sources": {
+                "mr-1584": "23 I: #5",
+                "mr-1956": "23 I: #4",
+                "mr-2004": "23 I: #3"
+            }
+        }
+    },
     "01-24": {
         "records/patrons/timotheus/eph": {
             "name": {

@@ -1,16 +1,16 @@
 {
     "names": {
         "la": [
-            "Clemens Ancyranus"
+            "Agathangelus Ancyranus"
         ],
         "en": [
-            "Clement of Ancyra"
+            "Agathangelus of Ancyra"
         ],
         "pl": [
-            "Klemens z Ankary"
+            "Agatangel z Ankary"
         ]
     },
-    "forenames": ["clemens"],
+    "forenames": ["agathangelus"],
     "surnames": null,
     "epithets": null,
 
@@ -22,22 +22,22 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["vir", "martyr", "episcopus"],
+    "categories": ["vir", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Ianu./23#5"],
+        "mr-1584": ["1:Ianu./23#6"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Januarii/23#4"],
+        "mr-1956": ["1:Januarii/23#5"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:ian./23#3"],
+        "mr-2004": ["2:ian./23#3"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
-        "gcatholic": "https://gcatholic.org/p/71306",
-        "wiki": "https://pl.wikipedia.org/wiki/Klemens_(biskup_Ankary)"
+        "gcatholic": "https://gcatholic.org/p/71307",
+        "wiki": "https://pl.wikipedia.org/wiki/Agatangel_(m%C4%99czennik)"
     }
 }

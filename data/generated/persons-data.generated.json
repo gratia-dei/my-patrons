@@ -667,6 +667,25 @@
         ],
         "feasts": []
     },
+    "patrons/agathangelus": {
+        "names": {
+            "la": "Agathangelus",
+            "en": "Agathangelus",
+            "pl": "Agatangel"
+        }
+    },
+    "patrons/agathangelus/anc": {
+        "active": true,
+        "names": {
+            "la": "Agathangelus Ancyranus",
+            "en": "Agathangelus of Ancyra",
+            "pl": "Agatangel z Ankary"
+        },
+        "died": [
+            "~312"
+        ],
+        "feasts": []
+    },
     "patrons/agnes": {
         "names": {
             "la": "Agnes",
@@ -3062,14 +3081,13 @@
         }
     },
     "patrons/clemens/aga": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",
             "pl": "Klemens z Ankary"
         },
         "died": [
-            "~303",
             "~312"
         ],
         "feasts": []
