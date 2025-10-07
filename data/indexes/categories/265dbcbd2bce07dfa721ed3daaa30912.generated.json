@@ -403,6 +403,12 @@
             "en": "Catherine of Alexandria",
             "pl": "Katarzyna Aleksandryjska"
         },
+        "records/patrons/catharina/ver": {
+            "fr": "Catherine du Verdier de La Sorinière",
+            "la": "Catharina du Verdier de La Sorinière",
+            "en": "Catherine du Verdier de La Sorinière",
+            "pl": "Katarzyna du Verdier de La Sorinière"
+        },
         "records/patrons/catharina/yiv": {
             "ko": "이 가타리나",
             "la": "Catharina Yi",
@@ -1241,6 +1247,18 @@
             "en": "Lucian of Antioch",
             "pl": "Lucjan z Antiochii"
         },
+        "records/patrons/ludovica/bes": {
+            "fr": "Louise Bessay de La Voute",
+            "la": "Ludovica Bessay de La Voute",
+            "en": "Louise Bessay de La Voute",
+            "pl": "Ludwika Bessay de La Voute"
+        },
+        "records/patrons/ludovica/poi": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
+        },
         "records/patrons/ludovicus/gie": {
             "pl": "Ludwik Roch Gietyngier",
             "la": "Ludovicus Rochus Gietyngier",
@@ -1345,6 +1363,12 @@
             "la": "Maria Guidona a Divina Misericordia",
             "en": "Mary Guidona of Divine Mercy"
         },
+        "records/patrons/maria/hac": {
+            "fr": "Marie-Anne Hacher du Bois",
+            "la": "Maria Anna Hacher du Bois",
+            "en": "Mary Anna Hacher du Bois",
+            "pl": "Maria Anna Hacher du Bois"
+        },
         "records/patrons/maria/joz": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
             "la": "Maria Daniela a Iusei et Maria Immaculata",
@@ -1389,6 +1413,12 @@
             "pl": "Maria Ulma",
             "la": "Maria Ulma",
             "en": "Mary Ulma"
+        },
+        "records/patrons/maria/ver": {
+            "fr": "Marie-Louise du Verdier de La Sorinière",
+            "la": "Maria Ludovica du Verdier de La Sorinière",
+            "en": "Mary Louise du Verdier de La Sorinière",
+            "pl": "Maria Ludwika du Verdier de La Sorinière"
         },
         "records/patrons/maria/won": {
             "ko": "원귀임 마리아",
@@ -1682,6 +1712,12 @@
             "la": "Petrus Sulpitius Christophorus Faverge",
             "en": "Peter Sulpice Christopher Faverge",
             "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
+        "records/patrons/petrus/fre": {
+            "fr": "Pierre Frémond",
+            "la": "Petrus Frémond",
+            "en": "Peter Frémond",
+            "pl": "Piotr Frémond"
         },
         "records/patrons/petrus/wug": {
             "zh": "吳國盛伯鐸",

@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Pierre Frémond"
+        ],
+        "la": [
+            "Petrus Frémond"
+        ],
+        "en": [
+            "Peter Frémond"
+        ],
+        "pl": [
+            "Piotr Frémond"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": [
+        {
+            "fr": "Frémond"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1754-09-16"],
+    "died": ["1794-02-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./10#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67624",
+        "wiki": "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers"
+    }
+}

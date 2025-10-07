@@ -61,6 +61,12 @@
             "en": "Liliosa of Cordoba; with her, i.a., Felix",
             "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
         },
+        "records/patrons/ludovica/poi": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
+        },
         "records/patrons/ludovicus/mar": {
             "fr": "Louis Martin",
             "la": "Ludovicus Martin",

@@ -158,6 +158,12 @@
             "en": "Catherine Tekakwitha",
             "pl": "Katarzyna Tekakwitha"
         },
+        "records/patrons/catharina/ver": {
+            "fr": "Catherine du Verdier de La Sorinière",
+            "la": "Catharina du Verdier de La Sorinière",
+            "en": "Catherine du Verdier de La Sorinière",
+            "pl": "Katarzyna du Verdier de La Sorinière"
+        },
         "records/patrons/catharina/vol": {
             "ojczysty": "Caterina Volpicelli",
             "la": "Catharina Volpicelli",
@@ -456,6 +462,12 @@
             "en": "Lucia of Syracuse",
             "pl": "Łucja z Syrakuz"
         },
+        "records/patrons/ludovica/bes": {
+            "fr": "Louise Bessay de La Voute",
+            "la": "Ludovica Bessay de La Voute",
+            "en": "Louise Bessay de La Voute",
+            "pl": "Ludwika Bessay de La Voute"
+        },
         "records/patrons/ludovica/mar": {
             "fr": "Louise de Marillac",
             "en": "Louise de Marillac",
@@ -467,6 +479,12 @@
             "la": "Ludovica Teresia de Montaignac de Chauvance",
             "en": "Louise Therese de Montaignac de Chauvance",
             "pl": "Ludwika Teresa de Montaignac de Chauvance"
+        },
+        "records/patrons/ludovica/poi": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
         },
         "records/patrons/lydia/thy": {
             "la": "Lydia Thyatirensis",
@@ -596,6 +614,12 @@
             "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
             "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
         },
+        "records/patrons/maria/hac": {
+            "fr": "Marie-Anne Hacher du Bois",
+            "la": "Maria Anna Hacher du Bois",
+            "en": "Mary Anna Hacher du Bois",
+            "pl": "Maria Anna Hacher du Bois"
+        },
         "records/patrons/maria/joz": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
             "la": "Maria Daniela a Iusei et Maria Immaculata",
@@ -714,6 +738,12 @@
             "pl": "Maria Ulma",
             "la": "Maria Ulma",
             "en": "Mary Ulma"
+        },
+        "records/patrons/maria/ver": {
+            "fr": "Marie-Louise du Verdier de La Sorinière",
+            "la": "Maria Ludovica du Verdier de La Sorinière",
+            "en": "Mary Louise du Verdier de La Sorinière",
+            "pl": "Maria Ludwika du Verdier de La Sorinière"
         },
         "records/patrons/maria/won": {
             "ko": "원귀임 마리아",

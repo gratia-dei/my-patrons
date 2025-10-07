@@ -858,6 +858,80 @@
             }
         }
     },
+    "02-10": {
+        "records/patrons/catharina/ver": {
+            "name": {
+                "fr": "Catherine du Verdier de La Sorinière",
+                "la": "Catharina du Verdier de La Sorinière",
+                "en": "Catherine du Verdier de La Sorinière",
+                "pl": "Katarzyna du Verdier de La Sorinière"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        },
+        "records/patrons/ludovica/bes": {
+            "name": {
+                "fr": "Louise Bessay de La Voute",
+                "la": "Ludovica Bessay de La Voute",
+                "en": "Louise Bessay de La Voute",
+                "pl": "Ludwika Bessay de La Voute"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        },
+        "records/patrons/ludovica/poi": {
+            "name": {
+                "fr": "Louise Poirier",
+                "la": "Ludovica Poirier",
+                "en": "Louise Poirier",
+                "pl": "Ludwika Poirier"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        },
+        "records/patrons/maria/hac": {
+            "name": {
+                "fr": "Marie-Anne Hacher du Bois",
+                "la": "Maria Anna Hacher du Bois",
+                "en": "Mary Anna Hacher du Bois",
+                "pl": "Maria Anna Hacher du Bois"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        },
+        "records/patrons/maria/ver": {
+            "name": {
+                "fr": "Marie-Louise du Verdier de La Sorinière",
+                "la": "Maria Ludovica du Verdier de La Sorinière",
+                "en": "Mary Louise du Verdier de La Sorinière",
+                "pl": "Maria Ludwika du Verdier de La Sorinière"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        },
+        "records/patrons/petrus/fre": {
+            "name": {
+                "fr": "Pierre Frémond",
+                "la": "Petrus Frémond",
+                "en": "Peter Frémond",
+                "pl": "Piotr Frémond"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 II",
+                "mr-2004": "10 II: #11"
+            }
+        }
+    },
     "02-12": {
         "records/patrons/alexius/fal": {
             "name": {

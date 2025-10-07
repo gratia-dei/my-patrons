@@ -1,0 +1,56 @@
+{
+    "names": {
+        "fr": [
+            "Marie-Louise du Verdier de La Sorinière"
+        ],
+        "la": [
+            "Maria Ludovica du Verdier de La Sorinière"
+        ],
+        "en": [
+            "Mary Louise du Verdier de La Sorinière"
+        ],
+        "pl": [
+            "Maria Ludwika du Verdier de La Sorinière"
+        ]
+    },
+    "forenames": ["maria", "ludovica"],
+    "surnames": [
+        {
+            "fr": "du Verdier de La Sorinière"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1765-06-27"],
+    "died": ["1794-02-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:feb./10#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67623",
+        "wiki": [
+            "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers",
+            "https://fr.wikipedia.org/wiki/Marie-Louise_du_Verdier_de_La_Sorini%C3%A8re"
+        ]
+    }
+}

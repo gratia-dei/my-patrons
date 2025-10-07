@@ -1,27 +1,23 @@
 {
     "1": {
-        "page": "...",
+        "page": 143,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -31,12 +27,11 @@
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
     "8": {
-        "mark": "*",
+        "page": 144,
         "la": "..."
     },
 
@@ -52,7 +47,7 @@
 
     "11": {
         "mark": "*",
-        "la": "..."
+        "la": "Apriliaci apud Andegavenum in Gallia, beatorum [1|Petri Fremond] et quinque sociarum*, martyrum, ... sunt.[/][/]*Quarum nomina: beatae [2|Catharina] et [3|Maria Ludovica du Verdier de la Soriniere], sorores; [4|Ludovica Bessay de la Voute]; [5|Maria Anna Hacher du Bois]; [6|Ludovica Poirier], uxor."
     },
 
     "12": {
@@ -61,41 +56,6 @@
     },
 
     "13": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

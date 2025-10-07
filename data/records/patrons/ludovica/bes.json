@@ -1,0 +1,53 @@
+{
+    "names": {
+        "fr": [
+            "Louise Bessay de La Voute"
+        ],
+        "la": [
+            "Ludovica Bessay de La Voute"
+        ],
+        "en": [
+            "Louise Bessay de La Voute"
+        ],
+        "pl": [
+            "Ludwika Bessay de La Voute"
+        ]
+    },
+    "forenames": ["ludovica"],
+    "surnames": [
+        {
+            "fr": "Bessay de La Voute"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1721-08-22"],
+    "died": ["1794-02-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:feb./10#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67621",
+        "wiki": "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers"
+    }
+}

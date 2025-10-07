@@ -1271,6 +1271,7 @@
             "es": "Ana",
             "he": "חַנָּה‎",
             "it": "Anna",
+            "fr": "Anne",
             "ko": "안나"
         }
     },
@@ -2912,6 +2913,19 @@
         },
         "died": [
             "1680-04-17"
+        ],
+        "feasts": []
+    },
+    "patrons/catharina/ver": {
+        "active": true,
+        "names": {
+            "fr": "Catherine du Verdier de La Sorinière",
+            "la": "Catharina du Verdier de La Sorinière",
+            "en": "Catherine du Verdier de La Sorinière",
+            "pl": "Katarzyna du Verdier de La Sorinière"
+        },
+        "died": [
+            "1794-02-10"
         ],
         "feasts": []
     },
@@ -7893,6 +7907,19 @@
             "fr": "Louise"
         }
     },
+    "patrons/ludovica/bes": {
+        "active": true,
+        "names": {
+            "fr": "Louise Bessay de La Voute",
+            "la": "Ludovica Bessay de La Voute",
+            "en": "Louise Bessay de La Voute",
+            "pl": "Ludwika Bessay de La Voute"
+        },
+        "died": [
+            "1794-02-10"
+        ],
+        "feasts": []
+    },
     "patrons/ludovica/mar": {
         "active": false,
         "names": {
@@ -7916,6 +7943,19 @@
         },
         "died": [
             "1885-06-27"
+        ],
+        "feasts": []
+    },
+    "patrons/ludovica/poi": {
+        "active": true,
+        "names": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
+        },
+        "died": [
+            "1794-02-10"
         ],
         "feasts": []
     },
@@ -8541,6 +8581,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/hac": {
+        "active": true,
+        "names": {
+            "fr": "Marie-Anne Hacher du Bois",
+            "la": "Maria Anna Hacher du Bois",
+            "en": "Mary Anna Hacher du Bois",
+            "pl": "Maria Anna Hacher du Bois"
+        },
+        "died": [
+            "1794-02-10"
+        ],
+        "feasts": []
+    },
     "patrons/maria/joz": {
         "active": true,
         "names": {
@@ -9038,6 +9091,19 @@
         },
         "died": [
             "1944-03-24"
+        ],
+        "feasts": []
+    },
+    "patrons/maria/ver": {
+        "active": true,
+        "names": {
+            "fr": "Marie-Louise du Verdier de La Sorinière",
+            "la": "Maria Ludovica du Verdier de La Sorinière",
+            "en": "Mary Louise du Verdier de La Sorinière",
+            "pl": "Maria Ludwika du Verdier de La Sorinière"
+        },
+        "died": [
+            "1794-02-10"
         ],
         "feasts": []
     },
@@ -10711,6 +10777,19 @@
         },
         "died": [
             "1794-09-12"
+        ],
+        "feasts": []
+    },
+    "patrons/petrus/fre": {
+        "active": true,
+        "names": {
+            "fr": "Pierre Frémond",
+            "la": "Petrus Frémond",
+            "en": "Peter Frémond",
+            "pl": "Piotr Frémond"
+        },
+        "died": [
+            "1794-02-10"
         ],
         "feasts": []
     },

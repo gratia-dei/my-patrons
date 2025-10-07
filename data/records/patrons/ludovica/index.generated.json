@@ -1,4 +1,10 @@
 {
+    "bes": {
+        "fr": "Louise Bessay de La Voute",
+        "la": "Ludovica Bessay de La Voute",
+        "en": "Louise Bessay de La Voute",
+        "pl": "Ludwika Bessay de La Voute"
+    },
     "mar": {
         "fr": "Louise de Marillac",
         "en": "Louise de Marillac",
@@ -10,5 +16,11 @@
         "la": "Ludovica Teresia de Montaignac de Chauvance",
         "en": "Louise Therese de Montaignac de Chauvance",
         "pl": "Ludwika Teresa de Montaignac de Chauvance"
+    },
+    "poi": {
+        "fr": "Louise Poirier",
+        "la": "Ludovica Poirier",
+        "en": "Louise Poirier",
+        "pl": "Ludwika Poirier"
     }
 }

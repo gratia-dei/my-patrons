@@ -37,6 +37,12 @@
         "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
         "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
     },
+    "hac": {
+        "fr": "Marie-Anne Hacher du Bois",
+        "la": "Maria Anna Hacher du Bois",
+        "en": "Mary Anna Hacher du Bois",
+        "pl": "Maria Anna Hacher du Bois"
+    },
     "joz": {
         "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
         "la": "Maria Daniela a Iusei et Maria Immaculata",
@@ -155,6 +161,12 @@
         "pl": "Maria Ulma",
         "la": "Maria Ulma",
         "en": "Mary Ulma"
+    },
+    "ver": {
+        "fr": "Marie-Louise du Verdier de La Sorinière",
+        "la": "Maria Ludovica du Verdier de La Sorinière",
+        "en": "Mary Louise du Verdier de La Sorinière",
+        "pl": "Maria Ludwika du Verdier de La Sorinière"
     },
     "won": {
         "ko": "원귀임 마리아",

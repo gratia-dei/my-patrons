@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Frémond"
+    },
+    "translations": {
+        "fr": [
+            "Frémond"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/fre": {
+            "fr": "Pierre Frémond",
+            "la": "Petrus Frémond",
+            "en": "Peter Frémond",
+            "pl": "Piotr Frémond"
+        }
+    }
+}

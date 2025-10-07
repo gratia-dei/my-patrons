@@ -28,6 +28,9 @@
         "it": [
             "Anna"
         ],
+        "fr": [
+            "Anne"
+        ],
         "ko": [
             "안나"
         ]
@@ -55,6 +58,12 @@
             "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
             "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
             "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
+        },
+        "records/patrons/maria/hac": {
+            "fr": "Marie-Anne Hacher du Bois",
+            "la": "Maria Anna Hacher du Bois",
+            "en": "Mary Anna Hacher du Bois",
+            "pl": "Maria Anna Hacher du Bois"
         },
         "records/patrons/maria/kuk": {
             "pl": "Maria Rajmunda od Jezusa i Maryi",

@@ -1,0 +1,56 @@
+{
+    "names": {
+        "fr": [
+            "Catherine du Verdier de La Sorinière"
+        ],
+        "la": [
+            "Catharina du Verdier de La Sorinière"
+        ],
+        "en": [
+            "Catherine du Verdier de La Sorinière"
+        ],
+        "pl": [
+            "Katarzyna du Verdier de La Sorinière"
+        ]
+    },
+    "forenames": ["catharina"],
+    "surnames": [
+        {
+            "fr": "du Verdier de La Sorinière"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1758-06-29"],
+    "died": ["1794-02-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:feb./10#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67622",
+        "wiki": [
+            "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers",
+            "https://pl.wikipedia.org/wiki/Katarzyna_du_Verdier_de_la_Sorini%C3%A8re"
+        ]
+    }
+}

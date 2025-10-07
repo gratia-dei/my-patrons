@@ -1,0 +1,24 @@
+{
+    "names": {
+        "fr": "du Verdier de La Sorinière"
+    },
+    "translations": {
+        "fr": [
+            "du Verdier de La Sorinière"
+        ]
+    },
+    "links": {
+        "records/patrons/catharina/ver": {
+            "fr": "Catherine du Verdier de La Sorinière",
+            "la": "Catharina du Verdier de La Sorinière",
+            "en": "Catherine du Verdier de La Sorinière",
+            "pl": "Katarzyna du Verdier de La Sorinière"
+        },
+        "records/patrons/maria/ver": {
+            "fr": "Marie-Louise du Verdier de La Sorinière",
+            "la": "Maria Ludovica du Verdier de La Sorinière",
+            "en": "Mary Louise du Verdier de La Sorinière",
+            "pl": "Maria Ludwika du Verdier de La Sorinière"
+        }
+    }
+}

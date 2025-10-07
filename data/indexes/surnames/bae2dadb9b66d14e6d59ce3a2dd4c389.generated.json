@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Poirier"
+    },
+    "translations": {
+        "fr": [
+            "Poirier"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovica/poi": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
+        }
+    }
+}
