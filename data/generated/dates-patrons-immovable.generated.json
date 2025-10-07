@@ -1125,6 +1125,20 @@
             }
         }
     },
+    "02-18": {
+        "records/patrons/gertrudis/com": {
+            "name": {
+                "it": "Geltrude Comensoli",
+                "la": "Gertrudis Comensoli",
+                "en": "Gertrude Comensoli",
+                "pl": "Gertruda Comensoli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 II",
+                "mr-2004": "18 II: #11"
+            }
+        }
+    },
     "02-20": {
         "records/patrons/hyacintha/mat": {
             "name": {

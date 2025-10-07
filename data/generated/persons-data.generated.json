@@ -5287,8 +5287,22 @@
             "la": "Gertrudis",
             "en": "Gertrude",
             "pl": "Gertruda",
+            "it": "Gertrude",
             "nl": "Gertrudis"
         }
+    },
+    "patrons/gertrudis/com": {
+        "active": true,
+        "names": {
+            "it": "Geltrude Comensoli",
+            "la": "Gertrudis Comensoli",
+            "en": "Gertrude Comensoli",
+            "pl": "Gertruda Comensoli"
+        },
+        "died": [
+            "1903-02-18"
+        ],
+        "feasts": []
     },
     "patrons/gertrudis/niv": {
         "active": false,

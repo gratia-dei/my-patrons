@@ -1,6 +1,7 @@
 {
     "names": {
-        "en": "Gertrude"
+        "en": "Gertrude",
+        "it": "Gertrude"
     },
     "translations": {
         "la": [
@@ -12,11 +13,21 @@
         "pl": [
             "Gertruda"
         ],
+        "it": [
+            "Gertrude",
+            "Geltrude"
+        ],
         "nl": [
             "Gertrudis"
         ]
     },
     "links": {
+        "records/patrons/gertrudis/com": {
+            "it": "Geltrude Comensoli",
+            "la": "Gertrudis Comensoli",
+            "en": "Gertrude Comensoli",
+            "pl": "Gertruda Comensoli"
+        },
         "records/patrons/gertrudis/niv": {
             "nl": "Gertrudis van Nijvel",
             "en": "Gertrude of Nivelles",

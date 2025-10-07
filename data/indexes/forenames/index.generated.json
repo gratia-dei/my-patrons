@@ -545,7 +545,8 @@
         "en": "Francis"
     },
     "219549b3d4b559730f2009f59d500415": {
-        "en": "Gertrude"
+        "en": "Gertrude",
+        "it": "Gertrude"
     },
     "21ad4b3763d8a48f411c2b1a872e515c": {
         "la": "Sbigneus"
@@ -2232,6 +2233,9 @@
     "82233bce59652cf3cc0eb7a03f3109d1": {
         "la": "Victor",
         "en": "Victor"
+    },
+    "8229600160453bfac05e31a5592f6c50": {
+        "it": "Geltrude"
     },
     "82472da019e4c6fb326b757e04a333e1": {
         "la": "Ioannina"
