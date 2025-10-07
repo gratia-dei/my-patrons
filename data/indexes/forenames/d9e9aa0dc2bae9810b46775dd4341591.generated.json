@@ -1,0 +1,27 @@
+{
+    "names": {
+        "it": "Angelo"
+    },
+    "translations": {
+        "la": [
+            "Angelus"
+        ],
+        "en": [
+            "Angel"
+        ],
+        "pl": [
+            "Anioł"
+        ],
+        "it": [
+            "Angelo"
+        ]
+    },
+    "links": {
+        "records/patrons/angelus/sca": {
+            "it": "Angelo Scarpetti",
+            "la": "Angelus Scarpetti",
+            "en": "Angel Scarpetti",
+            "pl": "Anioł Scarpetti"
+        }
+    }
+}

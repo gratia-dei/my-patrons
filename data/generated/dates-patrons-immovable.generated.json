@@ -1011,6 +1011,19 @@
             }
         }
     },
+    "02-15": {
+        "records/patrons/angelus/sca": {
+            "name": {
+                "it": "Angelo Scarpetti",
+                "la": "Angelus Scarpetti",
+                "en": "Angel Scarpetti",
+                "pl": "Anioł Scarpetti"
+            },
+            "sources": {
+                "mr-2004": "15 II: #10"
+            }
+        }
+    },
     "02-16": {
         "records/patrons/iuliana/cam": {
             "name": {

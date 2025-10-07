@@ -1243,6 +1243,27 @@
         ],
         "feasts": []
     },
+    "patrons/angelus": {
+        "names": {
+            "la": "Angelus",
+            "en": "Angel",
+            "pl": "Anioł",
+            "it": "Angelo"
+        }
+    },
+    "patrons/angelus/sca": {
+        "active": true,
+        "names": {
+            "it": "Angelo Scarpetti",
+            "la": "Angelus Scarpetti",
+            "en": "Angel Scarpetti",
+            "pl": "Anioł Scarpetti"
+        },
+        "died": [
+            "~1306"
+        ],
+        "feasts": []
+    },
     "patrons/anicetus": {
         "names": {
             "la": "Anicetus",
