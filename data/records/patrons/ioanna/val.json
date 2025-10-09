@@ -1,42 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Jeanne de Valois"
+    "names": {
+        "fr": [
+            "Jeanne de Valois"
+        ],
+        "la": [
+            "Ioanna de Valois"
+        ],
+        "en": [
+            "Joan of Valois"
+        ],
+        "pl": [
+            "Joanna de Valois"
+        ]
+    },
+    "forenames": ["ioanna"],
+    "surnames": [
+        {
+            "fr": "de Valois"
+        }
     ],
-    "en": [
-      "Joan of Valois"
-    ],
-    "la": [
-      "Ioanna de Valois"
-    ],
-    "pl": [
-      "Joanna de Valois"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "de Valois"
+    "active": true,
+
+    "born": ["1464-04-23"],
+    "died": ["1505-02-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1742-04-21"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1950-05-28"
+    },
+    "anniversary": ["02-04"],
+
+    "categories": ["femina", "fundator", "regina"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/4#11"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./4#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanna-di-valois.html",
+        "gcatholic": "https://gcatholic.org/p/68081",
+        "wiki": "https://pl.wikipedia.org/wiki/Joanna_de_Valois"
     }
-  ],
-
-  "born": ["1464-04-23"],
-  "died": ["1505-02-04"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1742-06-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1950-05-28"
-  },
-
-  "also-in-martyrology": ["02-04"],
-
-  "forenames": ["ioanna"],
-  "categories": ["femina", "fundator", "regina"],
-
-  "order": ["oannm"],
-  "order-founder": ["oannm"]
 }

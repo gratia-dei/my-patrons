@@ -1,29 +1,49 @@
 {
-  "names": {
-    "la": [
-      "Gregorius II"
+    "names": {
+        "la": [
+            "Gregorius II"
+        ],
+        "en": [
+            "Gregory II"
+        ],
+        "pl": [
+            "Grzegorz II"
+        ]
+    },
+    "forenames": ["gregorius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Secundus",
+            "en": "the Second",
+            "pl": "Drugi"
+        }
     ],
-    "en": [
-      "Gregory II"
-    ],
-    "pl": [
-      "Grzegorz II"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Secundus",
-      "en": "the Second",
-      "pl": "Drugi"
+    "active": true,
+
+    "born": ["~669"],
+    "died": ["731-02-11"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./13#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/11#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./11#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/G0://gcatholic.org/hierarchy/pope/G02",
+        "wiki": "https://pl.wikipedia.org/wiki/Grzegorz_II_(papie%C5%BC)"
     }
-  ],
-
-  "born": ["~669"],
-  "died": ["731-02-11"],
-
-  "also-in-martyrology": ["02-11"],
-
-  "forenames": ["gregorius"],
-  "categories": ["vir", "papa"]
 }

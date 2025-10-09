@@ -5361,7 +5361,7 @@
         "feasts": []
     },
     "patrons/gregorius/2pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Gregorius II",
             "en": "Gregory II",
@@ -6319,11 +6319,11 @@
         "feasts": []
     },
     "patrons/ioanna/val": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jeanne de Valois",
-            "en": "Joan of Valois",
             "la": "Ioanna de Valois",
+            "en": "Joan of Valois",
             "pl": "Joanna de Valois"
         },
         "died": [

@@ -747,6 +747,22 @@
             }
         }
     },
+    "02-04": {
+        "records/patrons/ioanna/val": {
+            "name": {
+                "fr": "Jeanne de Valois",
+                "la": "Ioanna de Valois",
+                "en": "Joan of Valois",
+                "pl": "Joanna de Valois"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 II",
+                "feast": "4 II",
+                "mr-1956": "4 II: #11",
+                "mr-2004": "4 II: #10"
+            }
+        }
+    },
     "02-05": {
         "records/patrons/iesus/men": {
             "name": {
@@ -948,6 +964,20 @@
             }
         }
     },
+    "02-11": {
+        "records/patrons/gregorius/2pp": {
+            "name": {
+                "la": "Gregorius II",
+                "en": "Gregory II",
+                "pl": "Grzegorz II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 II",
+                "mr-1956": "11 II: #5",
+                "mr-2004": "11 II: #7"
+            }
+        }
+    },
     "02-12": {
         "records/patrons/alexius/fal": {
             "name": {
@@ -1024,6 +1054,18 @@
             },
             "sources": {
                 "mr-1956": "12 II: #1"
+            }
+        }
+    },
+    "02-13": {
+        "records/patrons/gregorius/2pp": {
+            "name": {
+                "la": "Gregorius II",
+                "en": "Gregory II",
+                "pl": "Grzegorz II"
+            },
+            "sources": {
+                "mr-1584": "13 II: #6"
             }
         }
     },
