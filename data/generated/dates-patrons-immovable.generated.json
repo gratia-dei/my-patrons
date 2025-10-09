@@ -1058,6 +1058,19 @@
         }
     },
     "02-13": {
+        "records/patrons/benignus/tud": {
+            "name": {
+                "it": "Benigno da Todi",
+                "la": "Benignus Tudertinus",
+                "en": "Benignus of Todi",
+                "pl": "Benignus z Todi"
+            },
+            "sources": {
+                "mr-1584": "13 II: #5",
+                "mr-1956": "13 II: #2",
+                "mr-2004": "13 II: #3"
+            }
+        },
         "records/patrons/gregorius/2pp": {
             "name": {
                 "la": "Gregorius II",
