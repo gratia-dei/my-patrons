@@ -2131,9 +2131,14 @@
             "en": "Vaccarus; with him, i.a., Eoban",
             "pl": "Wakkar; z nim, m.in. Eoban"
         },
+        "records/patrons/valentinus/int": {
+            "la": "Valentinus Interamnensis",
+            "en": "Valentine of Terni",
+            "pl": "Walenty z Terni"
+        },
         "records/patrons/valentinus/rom": {
-            "en": "Valentine of Rome",
             "la": "Valentinus de Roma",
+            "en": "Valentine of Rome",
             "pl": "Walenty z Rzymu"
         },
         "records/patrons/venceslaus/boh": {

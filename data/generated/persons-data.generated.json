@@ -13283,15 +13283,26 @@
             "pl": "Walenty"
         }
     },
-    "patrons/valentinus/rom": {
-        "active": false,
+    "patrons/valentinus/int": {
+        "active": true,
         "names": {
-            "en": "Valentine of Rome",
+            "la": "Valentinus Interamnensis",
+            "en": "Valentine of Terni",
+            "pl": "Walenty z Terni"
+        },
+        "died": [
+            "~270"
+        ],
+        "feasts": []
+    },
+    "patrons/valentinus/rom": {
+        "active": true,
+        "names": {
             "la": "Valentinus de Roma",
+            "en": "Valentine of Rome",
             "pl": "Walenty z Rzymu"
         },
         "died": [
-            "~269",
             "~270"
         ],
         "feasts": []

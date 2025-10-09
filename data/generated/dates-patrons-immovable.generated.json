@@ -1082,6 +1082,31 @@
             }
         }
     },
+    "02-14": {
+        "records/patrons/valentinus/int": {
+            "name": {
+                "la": "Valentinus Interamnensis",
+                "en": "Valentine of Terni",
+                "pl": "Walenty z Terni"
+            },
+            "sources": {
+                "mr-1584": "14 II: #3",
+                "mr-1956": "14 II: #4"
+            }
+        },
+        "records/patrons/valentinus/rom": {
+            "name": {
+                "la": "Valentinus de Roma",
+                "en": "Valentine of Rome",
+                "pl": "Walenty z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "14 II: #1",
+                "mr-1956": "14 II: #1",
+                "mr-2004": "14 II: #2"
+            }
+        }
+    },
     "02-15": {
         "records/patrons/angelus/sca": {
             "name": {

@@ -613,6 +613,11 @@
             "en": "Turibius of Mogrovejo",
             "pl": "Turybiusz de Mogrovejo"
         },
+        "records/patrons/valentinus/int": {
+            "la": "Valentinus Interamnensis",
+            "en": "Valentine of Terni",
+            "pl": "Walenty z Terni"
+        },
         "records/patrons/valerianus/ave": {
             "la": "Valerianus, episcopus Avensan.",
             "en": "Valerian of Abbenza",
