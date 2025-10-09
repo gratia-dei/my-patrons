@@ -1,27 +1,50 @@
 {
-  "names": {
-    "de": [
-      "Ansgar",
-      "Anskar"
-    ],
-    "en": [
-      "Oscar",
-      "Ansgar"
-    ],
-    "la": [
-      "Ansgarius"
-    ],
-    "pl": [
-      "Oskar",
-      "Ansgar"
-    ]
-  },
+    "names": {
+        "de": [
+            "Ansgar von Bremen",
+            "Anskar von Bremen"
+        ],
+        "la": [
+            "Ansgarius Bremensis",
+            "Anscharius Bremensis"
+        ],
+        "en": [
+            "Ansgar of Bremen",
+            "Oscar of Bremen"
+        ],
+        "pl": [
+            "Ansgar z Bremy",
+            "Oskar z Bremy"
+        ]
+    },
+    "forenames": ["ansgarius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["801-09-08"],
-  "died": ["865-02-03"],
+    "active": true,
 
-  "also-in-martyrology": ["02-03"],
+    "born": ["801"],
+    "died": ["865-02-03"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["ansgarius"],
-  "categories": ["vir", "episcopus", "monachus"]
+    "categories": ["vir", "episcopus", "legatus", "monachus"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./3#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/3#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./3#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/52678",
+        "wiki": "https://pl.wikipedia.org/wiki/Ansgar"
+    }
 }

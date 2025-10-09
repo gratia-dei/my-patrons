@@ -1346,16 +1346,16 @@
             "la": "Ansgarius",
             "en": "Ansgar",
             "pl": "Ansgar",
-            "de": "Anskar"
+            "de": "Ansgar"
         }
     },
     "patrons/ansgarius/ham": {
-        "active": false,
+        "active": true,
         "names": {
-            "de": "Ansgar",
-            "en": "Oscar",
-            "la": "Ansgarius",
-            "pl": "Oskar"
+            "de": "Ansgar von Bremen",
+            "la": "Ansgarius Bremensis",
+            "en": "Ansgar of Bremen",
+            "pl": "Ansgar z Bremy"
         },
         "died": [
             "865-02-03"

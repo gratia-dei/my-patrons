@@ -731,6 +731,22 @@
             }
         }
     },
+    "02-03": {
+        "records/patrons/ansgarius/ham": {
+            "name": {
+                "de": "Ansgar von Bremen",
+                "la": "Ansgarius Bremensis",
+                "en": "Ansgar of Bremen",
+                "pl": "Ansgar z Bremy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 II",
+                "mr-1584": "3 II: #7",
+                "mr-1956": "3 II: #7",
+                "mr-2004": "3 II: #2"
+            }
+        }
+    },
     "02-05": {
         "records/patrons/iesus/men": {
             "name": {

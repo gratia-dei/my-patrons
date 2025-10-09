@@ -1,9 +1,9 @@
 {
     "names": {
-        "la": "Ansgarius",
+        "la": ["Ansgarius", "Anscharius"],
         "en": ["Ansgar", "Oscar"],
         "pl": ["Ansgar", "Oskar"],
 
-        "de": "Anskar"
+        "de": ["Ansgar", "Anskar"]
     }
 }

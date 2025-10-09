@@ -1,11 +1,13 @@
 {
     "names": {
         "en": "Ansgar",
-        "pl": "Ansgar"
+        "pl": "Ansgar",
+        "de": "Ansgar"
     },
     "translations": {
         "la": [
-            "Ansgarius"
+            "Ansgarius",
+            "Anscharius"
         ],
         "en": [
             "Ansgar",
@@ -16,15 +18,16 @@
             "Oskar"
         ],
         "de": [
+            "Ansgar",
             "Anskar"
         ]
     },
     "links": {
         "records/patrons/ansgarius/ham": {
-            "de": "Ansgar",
-            "en": "Oscar",
-            "la": "Ansgarius",
-            "pl": "Oskar"
+            "de": "Ansgar von Bremen",
+            "la": "Ansgarius Bremensis",
+            "en": "Ansgar of Bremen",
+            "pl": "Ansgar z Bremy"
         }
     }
 }
