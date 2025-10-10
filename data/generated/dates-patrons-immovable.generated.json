@@ -5527,10 +5527,10 @@
     "09-05": {
         "records/patrons/teresia/gon": {
             "name": {
-                "sq": "Nënë Tereza e Kalkutës",
-                "la": "Mater Teresia de Calcutta",
-                "en": "Mother Teresa of Calcutta",
-                "pl": "Matka Teresa z Kalkuty"
+                "sq": "Tereza e Kalkutës",
+                "la": "Teresia de Calcutta",
+                "en": "Teresa of Calcutta",
+                "pl": "Teresa z Kalkuty"
             },
             "sources": {
                 "reliable-death-anniversary": "5 IX",
