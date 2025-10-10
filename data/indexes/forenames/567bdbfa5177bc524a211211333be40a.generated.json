@@ -229,6 +229,12 @@
             "la": "Maria Virgo",
             "pl": "Maria z Nazaretu"
         },
+        "records/patrons/maria/oul": {
+            "fr": "Marie de Jésus d'Oultremont",
+            "la": "Maria a Iesu d'Oultremont",
+            "en": "Mary of Jesus d'Oultremont",
+            "pl": "Maria od Jezusa d'Oultremont"
+        },
         "records/patrons/maria/paz": {
             "it": "Maria Maddalena de' Pazzi",
             "la": "Maria Magdalena de' Pazzi",

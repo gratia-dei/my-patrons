@@ -1,0 +1,27 @@
+{
+    "names": {
+        "fr": "de Jésus"
+    },
+    "translations": {
+        "fr": [
+            "de Jésus"
+        ],
+        "la": [
+            "a Iesu"
+        ],
+        "en": [
+            "of Jesus"
+        ],
+        "pl": [
+            "od Jezusa"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/oul": {
+            "fr": "Marie de Jésus d'Oultremont",
+            "la": "Maria a Iesu d'Oultremont",
+            "en": "Mary of Jesus d'Oultremont",
+            "pl": "Maria od Jezusa d'Oultremont"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "names": {
+        "fr": [
+            "Marie de Jésus d'Oultremont",
+            "Émilie d'Oultremont de Warfusée"
+        ],
+        "la": [
+            "Maria a Iesu d'Oultremont",
+            "Aemilia d'Oultremont"
+        ],
+        "en": [
+            "Mary of Jesus d'Oultremont",
+            "Emily d'Oultremont"
+        ],
+        "pl": [
+            "Maria od Jezusa d'Oultremont",
+            "Emilia d'Oultremont"
+        ]
+    },
+    "forenames": ["maria", "aemilia"],
+    "surnames": [
+        {
+            "fr": "d'Oultremont"
+        }
+    ],
+    "epithets": [
+        {
+            "fr": "de Jésus",
+            "la": "a Iesu",
+            "en": "of Jesus",
+            "pl": "od Jezusa"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1818-10-11"],
+    "died": ["1878-02-22"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1997-10-12"
+    },
+    "canonized": null,
+    "anniversary": ["02-22"],
+
+    "categories": ["femina", "vidua", "constitutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./22#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-di-gesu-d-oultremont.html",
+        "gcatholic": "https://gcatholic.org/p/68001",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_od_Jezusa_d%E2%80%99Oultremont"
+    }
+}

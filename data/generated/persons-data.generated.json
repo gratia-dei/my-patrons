@@ -9028,6 +9028,19 @@
             }
         }
     },
+    "patrons/maria/oul": {
+        "active": true,
+        "names": {
+            "fr": "Marie de Jésus d'Oultremont",
+            "la": "Maria a Iesu d'Oultremont",
+            "en": "Mary of Jesus d'Oultremont",
+            "pl": "Maria od Jezusa d'Oultremont"
+        },
+        "died": [
+            "1878-02-22"
+        ],
+        "feasts": []
+    },
     "patrons/maria/paz": {
         "active": true,
         "names": {

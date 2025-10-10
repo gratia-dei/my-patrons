@@ -1299,6 +1299,19 @@
         }
     },
     "02-22": {
+        "records/patrons/maria/oul": {
+            "name": {
+                "fr": "Marie de Jésus d'Oultremont",
+                "la": "Maria a Iesu d'Oultremont",
+                "en": "Mary of Jesus d'Oultremont",
+                "pl": "Maria od Jezusa d'Oultremont"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 II",
+                "feast": "22 II",
+                "mr-2004": "22 II: #9"
+            }
+        },
         "records/patrons/petrus/dam": {
             "name": {
                 "it": "Pier Damiani",

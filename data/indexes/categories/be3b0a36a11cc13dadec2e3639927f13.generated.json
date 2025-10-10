@@ -92,6 +92,12 @@
             "la": "Margarita de Lotharingia",
             "pl": "Małgorzata z Lotaryngii"
         },
+        "records/patrons/maria/oul": {
+            "fr": "Marie de Jésus d'Oultremont",
+            "la": "Maria a Iesu d'Oultremont",
+            "en": "Mary of Jesus d'Oultremont",
+            "pl": "Maria od Jezusa d'Oultremont"
+        },
         "records/patrons/monica/vid": {
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",

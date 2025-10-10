@@ -17,6 +17,9 @@
         ],
         "es": [
             "de Jesús"
+        ],
+        "fr": [
+            "de Jésus"
         ]
     },
     "links": {
@@ -31,6 +34,12 @@
             "en": "Maria Anna of Jesus Navarro",
             "la": "Maria Anna a Iesu Navarro",
             "pl": "Maria Anna od Jezusa Navarro"
+        },
+        "records/patrons/maria/oul": {
+            "fr": "Marie de Jésus d'Oultremont",
+            "la": "Maria a Iesu d'Oultremont",
+            "en": "Mary of Jesus d'Oultremont",
+            "pl": "Maria od Jezusa d'Oultremont"
         },
         "records/patrons/maria/rub": {
             "it": "Maria Francesca di Gesù",
