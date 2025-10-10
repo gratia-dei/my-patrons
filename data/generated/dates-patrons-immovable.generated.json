@@ -1235,6 +1235,20 @@
             }
         }
     },
+    "02-19": {
+        "records/patrons/iosephus/zap": {
+            "name": {
+                "pl": "Józef Zapłata",
+                "la": "Iosephus Zaplata",
+                "en": "Joseph Zaplata"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 II",
+                "feast": "19 II",
+                "mr-2004": "19 II: #12"
+            }
+        }
+    },
     "02-20": {
         "records/patrons/hyacintha/mat": {
             "name": {
