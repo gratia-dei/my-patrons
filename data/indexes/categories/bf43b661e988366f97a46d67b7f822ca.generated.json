@@ -506,8 +506,8 @@
         },
         "records/patrons/petrus/dam": {
             "it": "Pier Damiani",
-            "en": "Peter Damian",
             "la": "Petrus Damiani",
+            "en": "Peter Damian",
             "pl": "Piotr Damiani"
         },
         "records/patrons/petrus/lux": {

@@ -1,29 +1,49 @@
 {
-  "names": {
-    "it": [
-      "Pier Damiani",
-      "Pier di Damiano",
-      "Pietro Damiani"
-    ],
-    "en": [
-      "Peter Damian"
-    ],
-    "la": [
-      "Petrus Damiani",
-      "Petrus Damianus"
-    ],
-    "pl": [
-      "Piotr Damiani"
-    ]
-  },
+    "names": {
+        "it": [
+            "Pier Damiani",
+            "Pier di Damiano",
+            "Pietro Damiani"
+        ],
+        "la": [
+            "Petrus Damiani",
+            "Petrus Damianus"
+        ],
+        "en": [
+            "Peter Damian"
+        ],
+        "pl": [
+            "Piotr Damiani"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1007-01"],
-  "died": ["1072-01-22"],
+    "active": true,
 
-  "also-in-martyrology": ["02-21", "02-22", "02-23"],
+    "born": [">1007-01-01", "<1007-01-31"],
+    "died": ["1072-01-22"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["petrus"],
-  "categories": ["vir", "confessor", "cardinalis", "cardinalis-episcopus", "episcopus", "doctor-ecclesiae"],
+    "categories": ["vir", "confessor", "cardinalis", "cardinalis-episcopus", "episcopus", "doctor-ecclesiae"],
 
-  "order": ["osbcam"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/22#2", "1:Februarii/23n#2", "1:Februarii/23b#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./21#1", "1:feb./22#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/63097",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Damiani"
+    }
 }

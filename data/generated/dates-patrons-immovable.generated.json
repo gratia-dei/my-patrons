@@ -429,6 +429,17 @@
         }
     },
     "01-22": {
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 I"
+            }
+        },
         "records/patrons/vincentius/pal": {
             "name": {
                 "it": "Vincenzo Pallotti",
@@ -1274,6 +1285,33 @@
             }
         }
     },
+    "02-21": {
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-2004": "21 II: #1"
+            }
+        }
+    },
+    "02-22": {
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-1956": "22 II: #2",
+                "mr-2004": "22 II: #5"
+            }
+        }
+    },
     "02-23": {
         "records/patrons/vincentius/fre": {
             "name": {
@@ -1312,6 +1350,19 @@
             }
         }
     },
+    "02b23": {
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-1956": "23 II: #1"
+            }
+        }
+    },
     "02b25": {
         "records/patrons/matthias/apo": {
             "name": {
@@ -1322,6 +1373,19 @@
             "sources": {
                 "mr-1584": "25 II: #1",
                 "mr-1956": "25 II: #1"
+            }
+        }
+    },
+    "02n23": {
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-1956": "23 II: #2"
             }
         }
     },
