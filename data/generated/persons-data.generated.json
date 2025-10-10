@@ -2563,14 +2563,14 @@
         "feasts": []
     },
     "patrons/caesarius/naz": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Caesarius Nazianzenus",
             "en": "Caesarius of Nazianzus",
             "pl": "Cezary z Nazjanzu"
         },
         "died": [
-            "~368"
+            "369"
         ],
         "feasts": []
     },

@@ -1350,6 +1350,18 @@
             }
         }
     },
+    "02-25": {
+        "records/patrons/caesarius/naz": {
+            "name": {
+                "la": "Caesarius Nazianzenus",
+                "en": "Caesarius of Nazianzus",
+                "pl": "Cezary z Nazjanzu"
+            },
+            "sources": {
+                "mr-2004": "25 II: #2"
+            }
+        }
+    },
     "02-27": {
         "records/patrons/stanislaus/str": {
             "name": {
@@ -1389,6 +1401,19 @@
             }
         }
     },
+    "02b26": {
+        "records/patrons/caesarius/naz": {
+            "name": {
+                "la": "Caesarius Nazianzenus",
+                "en": "Caesarius of Nazianzus",
+                "pl": "Cezary z Nazjanzu"
+            },
+            "sources": {
+                "mr-1584": "26 II: #5",
+                "mr-1956": "26 II: #4"
+            }
+        }
+    },
     "02n23": {
         "records/patrons/petrus/dam": {
             "name": {
@@ -1412,6 +1437,19 @@
             "sources": {
                 "mr-1584": "24 II: #1",
                 "mr-1956": "24 II: #1"
+            }
+        }
+    },
+    "02n25": {
+        "records/patrons/caesarius/naz": {
+            "name": {
+                "la": "Caesarius Nazianzenus",
+                "en": "Caesarius of Nazianzus",
+                "pl": "Cezary z Nazjanzu"
+            },
+            "sources": {
+                "mr-1584": "25 II: #5",
+                "mr-1956": "25 II: #4"
             }
         }
     },
