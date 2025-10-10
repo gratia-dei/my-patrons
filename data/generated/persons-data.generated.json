@@ -743,11 +743,11 @@
         }
     },
     "patrons/agricola/niv": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Agricole de Nevers",
-            "en": "Agricola of Nevers",
             "la": "Agricola Nivernensis",
+            "en": "Agricola of Nevers",
             "pl": "Agrykola z Nevers"
         },
         "died": [
@@ -11548,15 +11548,15 @@
         }
     },
     "patrons/romanus/abb": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Romain de Condat",
-            "pl": "Roman Jurajski",
+            "la": "Romanus de Monte Iura",
             "en": "Roman of Condat",
-            "la": "Romanus de Monte Iura"
+            "pl": "Roman Jurajski"
         },
         "died": [
-            "~463"
+            "463"
         ],
         "feasts": []
     },

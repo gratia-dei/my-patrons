@@ -37,8 +37,8 @@
     "26": "die-26-februarii",
     "27": "die-27-februarii",
 
-    "28n": "die-28-februarii-in-anno-non-bisextili",
-    "28b": "die-28-februarii-in-anno-bisextili",
+    "28n": "die-28-februarii-in-anno-non-bissextili",
+    "28b": "die-28-februarii-in-anno-bissextili",
 
-    "29b": "die-29-februarii-in-anno-bisextili"
+    "29b": "die-29-februarii-in-anno-bissextili"
 }

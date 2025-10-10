@@ -66,9 +66,9 @@
         },
         "records/patrons/romanus/abb": {
             "fr": "Romain de Condat",
-            "pl": "Roman Jurajski",
+            "la": "Romanus de Monte Iura",
             "en": "Roman of Condat",
-            "la": "Romanus de Monte Iura"
+            "pl": "Roman Jurajski"
         },
         "records/patrons/romualdus/cam": {
             "it": "Romualdo di Camaldoli",

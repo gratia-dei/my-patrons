@@ -20,8 +20,8 @@
     "links": {
         "records/patrons/agricola/niv": {
             "fr": "Agricole de Nevers",
-            "en": "Agricola of Nevers",
             "la": "Agricola Nivernensis",
+            "en": "Agricola of Nevers",
             "pl": "Agrykola z Nevers"
         }
     }

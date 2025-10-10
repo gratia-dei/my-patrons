@@ -1362,6 +1362,19 @@
             }
         }
     },
+    "02-26": {
+        "records/patrons/agricola/niv": {
+            "name": {
+                "fr": "Agricole de Nevers",
+                "la": "Agricola Nivernensis",
+                "en": "Agricola of Nevers",
+                "pl": "Agrykola z Nevers"
+            },
+            "sources": {
+                "mr-2004": "26 II: #4"
+            }
+        }
+    },
     "02-27": {
         "records/patrons/stanislaus/str": {
             "name": {
@@ -1414,6 +1427,33 @@
             }
         }
     },
+    "02b28": {
+        "records/patrons/romanus/abb": {
+            "name": {
+                "fr": "Romain de Condat",
+                "la": "Romanus de Monte Iura",
+                "en": "Roman of Condat",
+                "pl": "Roman Jurajski"
+            },
+            "sources": {
+                "mr-2004": "28 II: #2"
+            }
+        }
+    },
+    "02b29": {
+        "records/patrons/romanus/abb": {
+            "name": {
+                "fr": "Romain de Condat",
+                "la": "Romanus de Monte Iura",
+                "en": "Roman of Condat",
+                "pl": "Roman Jurajski"
+            },
+            "sources": {
+                "mr-1584": "29 II: #3",
+                "mr-1956": "29 II: #5"
+            }
+        }
+    },
     "02n23": {
         "records/patrons/petrus/dam": {
             "name": {
@@ -1450,6 +1490,21 @@
             "sources": {
                 "mr-1584": "25 II: #5",
                 "mr-1956": "25 II: #4"
+            }
+        }
+    },
+    "02n28": {
+        "records/patrons/romanus/abb": {
+            "name": {
+                "fr": "Romain de Condat",
+                "la": "Romanus de Monte Iura",
+                "en": "Roman of Condat",
+                "pl": "Roman Jurajski"
+            },
+            "sources": {
+                "mr-1584": "28 II: #3",
+                "mr-1956": "28 II: #5",
+                "mr-2004": "28 II: #2"
             }
         }
     },
