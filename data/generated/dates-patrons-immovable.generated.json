@@ -1560,6 +1560,21 @@
             }
         }
     },
+    "03-03": {
+        "records/patrons/teresia/ver": {
+            "name": {
+                "it": "Teresa Eustochio Verzeri",
+                "la": "Teresia Eustochius Verzeri",
+                "en": "Therese Eustochia Verzeri",
+                "pl": "Teresa Eustochia Verzeri"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 III",
+                "feast": "3 III",
+                "mr-2004": "3 III: #14"
+            }
+        }
+    },
     "03-04": {
         "records/patrons/casimirus/pri": {
             "name": {

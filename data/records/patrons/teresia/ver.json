@@ -1,42 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Teresa Eustochio Verzeri"
+    "names": {
+        "it": [
+            "Teresa Eustochio Verzeri"
+        ],
+        "la": [
+            "Teresia Eustochius Verzeri"
+        ],
+        "en": [
+            "Therese Eustochia Verzeri"
+        ],
+        "pl": [
+            "Teresa Eustochia Verzeri"
+        ]
+    },
+    "forenames": ["teresia", "eustochius", "ignatia"],
+    "surnames": [
+        {
+            "it": "Verzeri"
+        }
     ],
-    "en": [
-      "Teresa Eustochio Verzeri"
-    ],
-    "la": [
-      "Teresia Eustochius Verzeri"
-    ],
-    "pl": [
-      "Teresa Eustochio Verzeri"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Verzeri"
+    "active": true,
+
+    "born": ["1801-07-31"],
+    "died": ["1852-03-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1946-10-27"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2001-06-10"
+    },
+    "anniversary": ["03-03"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./3#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/teresa-eustochio-verzeri.html",
+        "gcatholic": "https://gcatholic.org/p/67138",
+        "wiki": "https://pl.wikipedia.org/wiki/Teresa_Eustochio_Verzeri"
     }
-  ],
-
-  "born": ["1801-07-31"],
-  "died": ["1852-03-03"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1946-10-27"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2001-06-10"
-  },
-
-  "also-in-martyrology": ["03-03"],
-
-  "forenames": ["teresia", "eustochius", "ignatia"],
-  "categories": ["femina", "virgo", "fundator"],
-
-  "order": ["fscg"],
-  "order-founder": ["fscg"]
 }
