@@ -1520,6 +1520,18 @@
                 "mr-1956": "1 III: #6",
                 "mr-2004": "1 III: #1"
             }
+        },
+        "records/patrons/ioanna/bon": {
+            "name": {
+                "it": "Giovanna Maria Bonomo",
+                "la": "Ioanna Maria Bonomo",
+                "en": "Joan Mary Bonomo",
+                "pl": "Joanna Maria Bonomo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 III",
+                "mr-2004": "1 III: #10"
+            }
         }
     },
     "03-02": {

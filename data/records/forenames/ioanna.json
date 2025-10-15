@@ -5,6 +5,6 @@
         "pl": "Joanna",
 
         "fr": "Jeanne",
-        "it": "Giana"
+        "it": ["Giana", "Giovanna"]
     }
 }

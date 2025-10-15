@@ -17,7 +17,8 @@
             "Jeanne"
         ],
         "it": [
-            "Giana"
+            "Giana",
+            "Giovanna"
         ]
     },
     "links": {
@@ -32,6 +33,12 @@
             "la": "Ioanna Beretta Molla",
             "en": "Joan Beretta Molla",
             "pl": "Joanna Beretta Molla"
+        },
+        "records/patrons/ioanna/bon": {
+            "it": "Giovanna Maria Bonomo",
+            "la": "Ioanna Maria Bonomo",
+            "en": "Joan Mary Bonomo",
+            "pl": "Joanna Maria Bonomo"
         },
         "records/patrons/ioanna/les": {
             "fr": "Jeanne de Lestonnac",

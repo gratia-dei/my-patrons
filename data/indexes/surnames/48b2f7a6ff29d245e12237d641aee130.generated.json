@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Bonomo"
+    },
+    "translations": {
+        "it": [
+            "Bonomo"
+        ]
+    },
+    "links": {
+        "records/patrons/ioanna/bon": {
+            "it": "Giovanna Maria Bonomo",
+            "la": "Ioanna Maria Bonomo",
+            "en": "Joan Mary Bonomo",
+            "pl": "Joanna Maria Bonomo"
+        }
+    }
+}

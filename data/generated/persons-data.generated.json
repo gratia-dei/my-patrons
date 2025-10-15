@@ -6292,6 +6292,19 @@
         ],
         "feasts": []
     },
+    "patrons/ioanna/bon": {
+        "active": true,
+        "names": {
+            "it": "Giovanna Maria Bonomo",
+            "la": "Ioanna Maria Bonomo",
+            "en": "Joan Mary Bonomo",
+            "pl": "Joanna Maria Bonomo"
+        },
+        "died": [
+            "1670-03-01"
+        ],
+        "feasts": []
+    },
     "patrons/ioanna/les": {
         "active": false,
         "names": {
