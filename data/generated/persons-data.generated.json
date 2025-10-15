@@ -9921,6 +9921,18 @@
         ],
         "feasts": []
     },
+    "patrons/multi/qda": {
+        "active": true,
+        "names": {
+            "la": "Quadraginta duo martyres Amorii",
+            "en": "Forty-two martyrs of Amorium",
+            "pl": "Czterdziestu dwóch męczenników z Amorium"
+        },
+        "died": [
+            "848"
+        ],
+        "feasts": []
+    },
     "patrons/multi/rvu": {
         "active": true,
         "names": {
