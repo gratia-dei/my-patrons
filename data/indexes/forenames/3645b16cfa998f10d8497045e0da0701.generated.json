@@ -20,6 +20,11 @@
             "en": "Antoninus of Apamea",
             "pl": "Antonin z Apamei"
         },
+        "records/patrons/antoninus/mar": {
+            "la": "Antoninus de Roma",
+            "en": "Anton of Rome",
+            "pl": "Antonin z Rzymu"
+        },
         "records/patrons/antoninus/nic": {
             "la": "Antoninus Caesariensis",
             "en": "Antoninus of Caesarea",

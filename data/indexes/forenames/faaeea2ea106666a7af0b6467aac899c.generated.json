@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Cyrinius",
+        "en": "Cyrinius"
+    },
+    "translations": {
+        "la": [
+            "Cyrinius",
+            "Cyrinus"
+        ],
+        "en": [
+            "Cyrinius"
+        ],
+        "pl": [
+            "Cyriniusz"
+        ]
+    },
+    "links": {
+        "records/patrons/cyrinius/mar": {
+            "la": "Cyrinius de Roma",
+            "en": "Cyrinius of Rome",
+            "pl": "Cyriniusz z Rzymu"
+        }
+    }
+}

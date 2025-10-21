@@ -1,24 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Marcellinus Papa"
-    ],
-    "en": [
-      "Pope Marcellinus"
-    ],
-    "pl": [
-      "Marcelin Papież"
-    ]
-  },
+    "names": {
+        "la": [
+            "Marcellinus, Papa"
+        ],
+        "en": [
+            "Marcellinus, pope"
+        ],
+        "pl": [
+            "Marcelin, papież"
+        ]
+    },
+    "forenames": ["marcellinus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["304-10-25"],
+    "active": true,
 
-  "also-in-martyrology": ["10-25"],
+    "born": null,
+    "died": ["304-10-25"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["marcellinus"],
-  "categories": ["vir", "martyr", "papa"],
+    "categories": ["vir", "martyr", "papa"],
 
-  "data-links": {
-    "popes": ["1:#29"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Apr./26#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/26#2", "1:Octobris/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#29"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/MN1",
+        "wiki": "https://pl.wikipedia.org/wiki/Marcelin_(papie%C5%BC)"
+    }
 }

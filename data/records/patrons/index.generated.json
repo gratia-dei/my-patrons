@@ -508,6 +508,11 @@
         "pl": "Klara",
         "it": "Chiara"
     },
+    "claudius": {
+        "la": "Claudius",
+        "en": "Claude",
+        "pl": "Klaudiusz"
+    },
     "clemens": {
         "la": "Clemens",
         "en": "Clement",
@@ -569,6 +574,11 @@
         "en": "Cyril",
         "pl": "Cyryl",
         "el": "Κύριλλος"
+    },
+    "cyrinius": {
+        "la": "Cyrinius",
+        "en": "Cyrinius",
+        "pl": "Cyriniusz"
     },
     "damianus": {
         "la": "Damianus",

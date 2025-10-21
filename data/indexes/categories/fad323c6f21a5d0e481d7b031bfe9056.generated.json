@@ -181,6 +181,11 @@
             "en": "Antoninus of Apamea",
             "pl": "Antonin z Apamei"
         },
+        "records/patrons/antoninus/mar": {
+            "la": "Antoninus de Roma",
+            "en": "Anton of Rome",
+            "pl": "Antonin z Rzymu"
+        },
         "records/patrons/antoninus/nic": {
             "la": "Antoninus Caesariensis",
             "en": "Antoninus of Caesarea",
@@ -447,6 +452,11 @@
             "en": "Cittinus of Scillium",
             "pl": "Cytyn ze Scilium"
         },
+        "records/patrons/claudius/mar": {
+            "la": "Claudius de Roma",
+            "en": "Claude of Rome",
+            "pl": "Klaudiusz z Rzymu"
+        },
         "records/patrons/clemens/aga": {
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",
@@ -494,6 +504,11 @@
             "la": "Cyriacus de Sebaste",
             "en": "Cyriacus of Sebaste",
             "pl": "Cyriak z Sebasty"
+        },
+        "records/patrons/cyrinius/mar": {
+            "la": "Cyrinius de Roma",
+            "en": "Cyrinius of Rome",
+            "pl": "Cyriniusz z Rzymu"
         },
         "records/patrons/damianus/cos": {
             "el": "Δαμιανός /+ Κοσμάς",
@@ -1304,9 +1319,9 @@
             "pl": "Marcelian; z nim, m.in., Marek"
         },
         "records/patrons/marcellinus/1pp": {
-            "la": "Marcellinus Papa",
-            "en": "Pope Marcellinus",
-            "pl": "Marcelin Papież"
+            "la": "Marcellinus, Papa",
+            "en": "Marcellinus, pope",
+            "pl": "Marcelin, papież"
         },
         "records/patrons/marcellus/1pp": {
             "la": "Marcellus Pp. I",
@@ -1542,6 +1557,11 @@
             "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
             "en": "Almost all the citizens of Lyon; with them, Irenaeus",
             "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
+        },
+        "records/patrons/multi/mar": {
+            "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
+            "en": "Seventeen thousand Christian Martyrs of Romee",
+            "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
         },
         "records/patrons/multi/nid": {
             "la": "Decem milia martyrum pro fide Nicomediae",

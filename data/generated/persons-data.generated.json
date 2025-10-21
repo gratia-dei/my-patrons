@@ -1402,6 +1402,18 @@
         ],
         "feasts": []
     },
+    "patrons/antoninus/mar": {
+        "active": true,
+        "names": {
+            "la": "Antoninus de Roma",
+            "en": "Anton of Rome",
+            "pl": "Antonin z Rzymu"
+        },
+        "died": [
+            "304"
+        ],
+        "feasts": []
+    },
     "patrons/antoninus/nic": {
         "active": true,
         "names": {
@@ -3119,6 +3131,25 @@
         ],
         "feasts": []
     },
+    "patrons/claudius": {
+        "names": {
+            "la": "Claudius",
+            "en": "Claude",
+            "pl": "Klaudiusz"
+        }
+    },
+    "patrons/claudius/mar": {
+        "active": true,
+        "names": {
+            "la": "Claudius de Roma",
+            "en": "Claude of Rome",
+            "pl": "Klaudiusz z Rzymu"
+        },
+        "died": [
+            "304"
+        ],
+        "feasts": []
+    },
     "patrons/clemens": {
         "names": {
             "la": "Clemens",
@@ -3419,6 +3450,25 @@
         },
         "died": [
             "869-02-14"
+        ],
+        "feasts": []
+    },
+    "patrons/cyrinius": {
+        "names": {
+            "la": "Cyrinius",
+            "en": "Cyrinius",
+            "pl": "Cyriniusz"
+        }
+    },
+    "patrons/cyrinius/mar": {
+        "active": true,
+        "names": {
+            "la": "Cyrinius de Roma",
+            "en": "Cyrinius of Rome",
+            "pl": "Cyriniusz z Rzymu"
+        },
+        "died": [
+            "304"
         ],
         "feasts": []
     },
@@ -8355,11 +8405,11 @@
         }
     },
     "patrons/marcellinus/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Marcellinus Papa",
-            "en": "Pope Marcellinus",
-            "pl": "Marcelin Papież"
+            "la": "Marcellinus, Papa",
+            "en": "Marcellinus, pope",
+            "pl": "Marcelin, papież"
         },
         "died": [
             "304-10-25"
@@ -9894,6 +9944,18 @@
         },
         "died": [
             "~202"
+        ],
+        "feasts": []
+    },
+    "patrons/multi/mar": {
+        "active": true,
+        "names": {
+            "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
+            "en": "Seventeen thousand Christian Martyrs of Romee",
+            "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
+        },
+        "died": [
+            "304"
         ],
         "feasts": []
     },

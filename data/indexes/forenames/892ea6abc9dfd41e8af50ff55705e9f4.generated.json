@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Claude"
+    },
+    "translations": {
+        "la": [
+            "Claudius"
+        ],
+        "en": [
+            "Claude",
+            "Claudius"
+        ],
+        "pl": [
+            "Klaudiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/claudius/mar": {
+            "la": "Claudius de Roma",
+            "en": "Claude of Rome",
+            "pl": "Klaudiusz z Rzymu"
+        }
+    }
+}

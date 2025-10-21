@@ -2624,6 +2624,57 @@
                 "mr-1956": "26 IV: #7",
                 "mr-2004": "26 IV: #4"
             }
+        },
+        "records/patrons/marcellinus/1pp": {
+            "name": {
+                "la": "Marcellinus, Papa",
+                "en": "Marcellinus, pope",
+                "pl": "Marcelin, papież"
+            },
+            "sources": {
+                "mr-1584": "26 IV: #2",
+                "mr-1956": "26 IV: #2"
+            }
+        },
+        "records/patrons/claudius/mar": {
+            "name": {
+                "la": "Claudius de Roma",
+                "en": "Claude of Rome",
+                "pl": "Klaudiusz z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "26 IV: #2"
+            }
+        },
+        "records/patrons/cyrinius/mar": {
+            "name": {
+                "la": "Cyrinius de Roma",
+                "en": "Cyrinius of Rome",
+                "pl": "Cyriniusz z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "26 IV: #2"
+            }
+        },
+        "records/patrons/antoninus/mar": {
+            "name": {
+                "la": "Antoninus de Roma",
+                "en": "Anton of Rome",
+                "pl": "Antonin z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "26 IV: #2"
+            }
+        },
+        "records/patrons/multi/mar": {
+            "name": {
+                "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
+                "en": "Seventeen thousand Christian Martyrs of Romee",
+                "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "26 IV: #2"
+            }
         }
     },
     "04-27": {
@@ -7816,6 +7867,17 @@
         }
     },
     "10-25": {
+        "records/patrons/marcellinus/1pp": {
+            "name": {
+                "la": "Marcellinus, Papa",
+                "en": "Marcellinus, pope",
+                "pl": "Marcelin, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 X",
+                "mr-1956": "25 X: #2"
+            }
+        },
         "records/patrons/chrysanthus/dar": {
             "name": {
                 "la": "Chrysanthus de Roma",
@@ -7838,6 +7900,46 @@
                 "mr-1584": "25 X: #1",
                 "mr-1956": "25 X: #1",
                 "mr-2004": "25 X: #1"
+            }
+        },
+        "records/patrons/claudius/mar": {
+            "name": {
+                "la": "Claudius de Roma",
+                "en": "Claude of Rome",
+                "pl": "Klaudiusz z Rzymu"
+            },
+            "sources": {
+                "mr-1956": "25 X: #2"
+            }
+        },
+        "records/patrons/cyrinius/mar": {
+            "name": {
+                "la": "Cyrinius de Roma",
+                "en": "Cyrinius of Rome",
+                "pl": "Cyriniusz z Rzymu"
+            },
+            "sources": {
+                "mr-1956": "25 X: #2"
+            }
+        },
+        "records/patrons/antoninus/mar": {
+            "name": {
+                "la": "Antoninus de Roma",
+                "en": "Anton of Rome",
+                "pl": "Antonin z Rzymu"
+            },
+            "sources": {
+                "mr-1956": "25 X: #2"
+            }
+        },
+        "records/patrons/multi/mar": {
+            "name": {
+                "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
+                "en": "Seventeen thousand Christian Martyrs of Romee",
+                "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
+            },
+            "sources": {
+                "mr-1956": "25 X: #2"
             }
         }
     },

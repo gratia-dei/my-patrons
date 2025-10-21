@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Antoninus de Roma"
+        ],
+        "en": [
+            "Anton of Rome"
+        ],
+        "pl": [
+            "Antonin z Rzymu"
+        ]
+    },
+    "forenames": ["antoninus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["4:Apr./26#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["4:Octobris/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/Pope_Marcellinus"
+    }
+}
