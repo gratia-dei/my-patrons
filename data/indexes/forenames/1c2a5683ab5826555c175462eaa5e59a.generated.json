@@ -1,10 +1,13 @@
 {
     "names": {
+        "la": "Elizabeth",
         "en": "Elizabeth"
     },
     "translations": {
         "la": [
-            "Elisabeth"
+            "Elisabeth",
+            "Elizabeth",
+            "Elizabet"
         ],
         "en": [
             "Elizabeth"
@@ -40,6 +43,12 @@
             "en": "Elizabeth of Aragon",
             "la": "Elisabeth Aragonae",
             "pl": "Elżbieta Aragońska"
+        },
+        "records/patrons/elisabeth/sch": {
+            "de": "Elisabeth von Schönau",
+            "la": "Elisabeth z Schönau",
+            "en": "Elisabeth of Schönau",
+            "pl": "Elżbieta z Schönau"
         }
     }
 }

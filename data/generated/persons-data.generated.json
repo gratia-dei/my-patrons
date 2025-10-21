@@ -4027,6 +4027,19 @@
         ],
         "feasts": []
     },
+    "patrons/elisabeth/sch": {
+        "active": true,
+        "names": {
+            "de": "Elisabeth von Schönau",
+            "la": "Elisabeth z Schönau",
+            "en": "Elisabeth of Schönau",
+            "pl": "Elżbieta z Schönau"
+        },
+        "died": [
+            "1164-06-18"
+        ],
+        "feasts": []
+    },
     "patrons/elisaeus": {
         "names": {
             "la": "Elisaeus",

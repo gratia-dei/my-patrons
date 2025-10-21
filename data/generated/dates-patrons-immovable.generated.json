@@ -3588,6 +3588,20 @@
         }
     },
     "06-18": {
+        "records/patrons/elisabeth/sch": {
+            "name": {
+                "de": "Elisabeth von Schönau",
+                "la": "Elisabeth z Schönau",
+                "en": "Elisabeth of Schönau",
+                "pl": "Elżbieta z Schönau"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 VI",
+                "mr-1584": "18 VI: #7",
+                "mr-1956": "18 VI: #9",
+                "mr-2004": "18 VI: #6"
+            }
+        },
         "records/patrons/marcus/mar": {
             "name": {
                 "la": "Marcus; cum eo, i.a., Marcellianus",

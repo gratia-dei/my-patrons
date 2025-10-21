@@ -1,0 +1,46 @@
+{
+    "names": {
+        "de": [
+            "Elisabeth von Schönau"
+        ],
+        "la": [
+            "Elisabeth z Schönau"
+        ],
+        "en": [
+            "Elisabeth of Schönau"
+        ],
+        "pl": [
+            "Elżbieta z Schönau"
+        ]
+    },
+    "forenames": ["elisabeth"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1129"],
+    "died": ["1164-06-18"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./18#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/18#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./18#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71591",
+        "wiki": "https://pl.wikipedia.org/wiki/El%C5%BCbieta_z_Sch%C3%B6nau"
+    }
+}
