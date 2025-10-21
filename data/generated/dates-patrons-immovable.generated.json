@@ -1590,6 +1590,19 @@
         }
     },
     "03-05": {
+        "records/patrons/gerasimus/ior": {
+            "name": {
+                "el": "Γεράσιμος Ἰορδανίτης",
+                "la": "Gerasimus Iordanita",
+                "en": "Gerasimus of the Jordan",
+                "pl": "Gerazym Jordanita"
+            },
+            "sources": {
+                "mr-1584": "5 III: #5",
+                "mr-1956": "5 III: #5",
+                "mr-2004": "5 III: #6"
+            }
+        },
         "records/patrons/virgilius/are": {
             "name": {
                 "la": "Virgilius Arelatensis",

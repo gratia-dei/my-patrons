@@ -15,6 +15,12 @@
         ]
     },
     "links": {
+        "records/patrons/gerasimus/ior": {
+            "el": "Γεράσιμος Ἰορδανίτης",
+            "la": "Gerasimus Iordanita",
+            "en": "Gerasimus of the Jordan",
+            "pl": "Gerazym Jordanita"
+        },
         "records/patrons/nicolaus/flu": {
             "de": "Niklaus von Flüe",
             "en": "Nicholas of Flüe",

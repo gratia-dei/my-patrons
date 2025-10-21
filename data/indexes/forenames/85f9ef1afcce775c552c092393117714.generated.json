@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Gerasimus",
+        "en": "Gerasimus"
+    },
+    "translations": {
+        "la": [
+            "Gerasimus"
+        ],
+        "en": [
+            "Gerasimus"
+        ],
+        "pl": [
+            "Gerazym"
+        ],
+        "el": [
+            "Γεράσιμος"
+        ]
+    },
+    "links": {
+        "records/patrons/gerasimus/ior": {
+            "el": "Γεράσιμος Ἰορδανίτης",
+            "la": "Gerasimus Iordanita",
+            "en": "Gerasimus of the Jordan",
+            "pl": "Gerazym Jordanita"
+        }
+    }
+}

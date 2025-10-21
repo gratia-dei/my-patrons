@@ -1262,6 +1262,12 @@
             "en": "Gerard Sagredo",
             "pl": "Gerard Sagredo"
         },
+        "records/patrons/gerasimus/ior": {
+            "el": "Γεράσιμος Ἰορδανίτης",
+            "la": "Gerasimus Iordanita",
+            "en": "Gerasimus of the Jordan",
+            "pl": "Gerazym Jordanita"
+        },
         "records/patrons/germanus/cae": {
             "la": "Germanus Caesariensis",
             "en": "Germanus of Caesarea",

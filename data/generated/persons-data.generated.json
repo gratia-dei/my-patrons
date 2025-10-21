@@ -5276,6 +5276,27 @@
         ],
         "feasts": []
     },
+    "patrons/gerasimus": {
+        "names": {
+            "la": "Gerasimus",
+            "en": "Gerasimus",
+            "pl": "Gerazym",
+            "el": "Γεράσιμος"
+        }
+    },
+    "patrons/gerasimus/ior": {
+        "active": true,
+        "names": {
+            "el": "Γεράσιμος Ἰορδανίτης",
+            "la": "Gerasimus Iordanita",
+            "en": "Gerasimus of the Jordan",
+            "pl": "Gerazym Jordanita"
+        },
+        "died": [
+            "475"
+        ],
+        "feasts": []
+    },
     "patrons/germanus": {
         "names": {
             "la": "Germanus",

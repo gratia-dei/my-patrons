@@ -60,6 +60,12 @@
             "la": "Gerardus Broniensis",
             "pl": "Gerard z Brogne"
         },
+        "records/patrons/gerasimus/ior": {
+            "el": "Γεράσιμος Ἰορδανίτης",
+            "la": "Gerasimus Iordanita",
+            "en": "Gerasimus of the Jordan",
+            "pl": "Gerazym Jordanita"
+        },
         "records/patrons/gertrudis/niv": {
             "nl": "Gertrudis van Nijvel",
             "en": "Gertrude of Nivelles",
