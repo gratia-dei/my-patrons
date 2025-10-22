@@ -2386,6 +2386,21 @@
             }
         }
     },
+    "03-27": {
+        "records/patrons/rupertus/sal": {
+            "name": {
+                "de": "Rupert von Salzburg",
+                "la": "Rupertus Salisburgensis",
+                "en": "Rupert of Salzburg",
+                "pl": "Rupert z Salzburga"
+            },
+            "sources": {
+                "mr-1584": "27 III: #5",
+                "mr-1956": "27 III: #5",
+                "mr-2004": "27 III: #1"
+            }
+        }
+    },
     "03-28": {
         "records/patrons/ioannes/cap": {
             "name": {

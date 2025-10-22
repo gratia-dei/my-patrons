@@ -129,6 +129,12 @@
             "la": "Romualdus Camaldulensis",
             "pl": "Romuald z Camaldoli"
         },
+        "records/patrons/rupertus/sal": {
+            "de": "Rupert von Salzburg",
+            "la": "Rupertus Salisburgensis",
+            "en": "Rupert of Salzburg",
+            "pl": "Rupert z Salzburga"
+        },
         "records/patrons/salomea/reg": {
             "pl": "Salomea Piastówna",
             "la": "Salomea Regina Haliciensis",

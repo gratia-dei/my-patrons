@@ -11880,15 +11880,15 @@
         "feasts": []
     },
     "patrons/rupertus/sal": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Rupert von Salzburg",
-            "en": "Rupert of Salzburg",
             "la": "Rupertus Salisburgensis",
+            "en": "Rupert of Salzburg",
             "pl": "Rupert z Salzburga"
         },
         "died": [
-            "~710"
+            "~718"
         ],
         "feasts": []
     },
