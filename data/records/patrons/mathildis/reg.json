@@ -1,24 +1,46 @@
 {
-  "names": {
-    "de": [
-      "Mathilde von Ringelheim"
-    ],
-    "en": [
-      "Matilda of Ringelheim"
-    ],
-    "la": [
-      "Mathildis de Ringelheim"
-    ],
-    "pl": [
-      "Matylda von Ringelheim"
-    ]
-  },
+    "names": {
+        "de": [
+            "Mathilde von Ringelheim"
+        ],
+        "la": [
+            "Mathildis de Ringelheim"
+        ],
+        "en": [
+            "Matilda of Ringelheim"
+        ],
+        "pl": [
+            "Matylda von Ringelheim"
+        ]
+    },
+    "forenames": ["mathildis"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~895"],
-  "died": ["968-03-14"],
+    "active": true,
 
-  "also-in-martyrology": ["03-14"],
+    "born": ["~892"],
+    "died": ["968-03-14"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["mathildis"],
-  "categories": ["femina", "coniunx", "regina"]
+    "categories": ["femina", "coniunx", "regina"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./14#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/14#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./14#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69844",
+        "wiki": "https://pl.wikipedia.org/wiki/Matylda_von_Ringelheim"
+    }
 }

@@ -1915,6 +1915,22 @@
             }
         }
     },
+    "03-14": {
+        "records/patrons/mathildis/reg": {
+            "name": {
+                "de": "Mathilde von Ringelheim",
+                "la": "Mathildis de Ringelheim",
+                "en": "Matilda of Ringelheim",
+                "pl": "Matylda von Ringelheim"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 III",
+                "mr-1584": "14 III: #7",
+                "mr-1956": "14 III: #7",
+                "mr-2004": "14 III: #4"
+            }
+        }
+    },
     "03-15": {
         "records/patrons/clemens/hof": {
             "name": {

@@ -9488,11 +9488,11 @@
         }
     },
     "patrons/mathildis/reg": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Mathilde von Ringelheim",
-            "en": "Matilda of Ringelheim",
             "la": "Mathildis de Ringelheim",
+            "en": "Matilda of Ringelheim",
             "pl": "Matylda von Ringelheim"
         },
         "died": [
