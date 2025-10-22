@@ -1,26 +1,26 @@
 {
     "names": {
         "pl": [
-            "Marian Górecki"
+            "Bronisław Komorowski"
         ],
         "la": [
-            "Marianus Górecki"
+            "Bronislaus Komorowski"
         ],
         "en": [
-            "Marian Górecki"
+            "Bronislaus Komorowski"
         ]
     },
-    "forenames": ["marianus"],
+    "forenames": ["bronislaus"],
     "surnames": [
         {
-            "pl": "Górecki"
+            "pl": "Komorowski"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1903-05-02"],
+    "born": ["1889-05-25"],
     "died": ["1940-03-22"],
     "beatified": {
         "type": "ceremonially",
@@ -38,13 +38,13 @@
         "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:mar./22#9"],
+        "mr-2004": ["2:mar./22#9"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
-        "gcatholic": "https://gcatholic.org/p/67726",
-        "wiki": "https://pl.wikipedia.org/wiki/Marian_G%C3%B3recki"
+        "gcatholic": "https://gcatholic.org/p/67727",
+        "wiki": "https://pl.wikipedia.org/wiki/Bronis%C5%82aw_Komorowski_(duchowny)"
     }
 }

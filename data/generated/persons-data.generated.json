@@ -2461,6 +2461,18 @@
             "pl": "Bronisław"
         }
     },
+    "patrons/bronislaus/kom": {
+        "active": true,
+        "names": {
+            "pl": "Bronisław Komorowski",
+            "la": "Bronislaus Komorowski",
+            "en": "Bronislaus Komorowski"
+        },
+        "died": [
+            "1940-03-22"
+        ],
+        "feasts": []
+    },
     "patrons/bronislaus/kos": {
         "active": true,
         "names": {
@@ -9298,11 +9310,11 @@
         }
     },
     "patrons/marianus/gor": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Marian Górecki",
-            "en": "Marian Górecki",
-            "la": "Marianus Górecki"
+            "la": "Marianus Górecki",
+            "en": "Marian Górecki"
         },
         "died": [
             "1940-03-22"

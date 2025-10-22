@@ -2200,6 +2200,32 @@
             }
         }
     },
+    "03-22": {
+        "records/patrons/bronislaus/kom": {
+            "name": {
+                "pl": "Bronisław Komorowski",
+                "la": "Bronislaus Komorowski",
+                "en": "Bronislaus Komorowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 III",
+                "feast": "22 III",
+                "mr-2004": "22 III: #9"
+            }
+        },
+        "records/patrons/marianus/gor": {
+            "name": {
+                "pl": "Marian Górecki",
+                "la": "Marianus Górecki",
+                "en": "Marian Górecki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 III",
+                "feast": "22 III",
+                "mr-2004": "22 III: #9"
+            }
+        }
+    },
     "03-23": {
         "records/patrons/turibius/mog": {
             "name": {

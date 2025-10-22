@@ -223,6 +223,11 @@
             "en": "Boniface Zukowski",
             "la": "Bonifatius Zukowski"
         },
+        "records/patrons/bronislaus/kom": {
+            "pl": "Bronisław Komorowski",
+            "la": "Bronislaus Komorowski",
+            "en": "Bronislaus Komorowski"
+        },
         "records/patrons/bruno/ere": {
             "de": "Bruno von Köln",
             "la": "Bruno Cartusiensis",
@@ -667,8 +672,8 @@
         },
         "records/patrons/marianus/gor": {
             "pl": "Marian Górecki",
-            "en": "Marian Górecki",
-            "la": "Marianus Górecki"
+            "la": "Marianus Górecki",
+            "en": "Marian Górecki"
         },
         "records/patrons/marianus/kon": {
             "pl": "Marian Konopiński",

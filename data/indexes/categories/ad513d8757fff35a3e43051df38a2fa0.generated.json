@@ -328,6 +328,11 @@
             "en": "Bosa; with him, i.a., Eoban",
             "pl": "Boza; z nim, m.in. Eoban"
         },
+        "records/patrons/bronislaus/kom": {
+            "pl": "Bronisław Komorowski",
+            "la": "Bronislaus Komorowski",
+            "en": "Bronislaus Komorowski"
+        },
         "records/patrons/bronislaus/kos": {
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",
@@ -1448,8 +1453,8 @@
         },
         "records/patrons/marianus/gor": {
             "pl": "Marian Górecki",
-            "en": "Marian Górecki",
-            "la": "Marianus Górecki"
+            "la": "Marianus Górecki",
+            "en": "Marian Górecki"
         },
         "records/patrons/marianus/kon": {
             "pl": "Marian Konopiński",

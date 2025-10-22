@@ -15,6 +15,11 @@
         ]
     },
     "links": {
+        "records/patrons/bronislaus/kom": {
+            "pl": "Bronisław Komorowski",
+            "la": "Bronislaus Komorowski",
+            "en": "Bronislaus Komorowski"
+        },
         "records/patrons/bronislaus/kos": {
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",
