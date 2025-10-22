@@ -1,42 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Luigi Orione"
+    "names": {
+        "it": [
+            "Luigi Orione"
+        ],
+        "la": [
+            "Aloysius Orione"
+        ],
+        "en": [
+            "Aloise Orione"
+        ],
+        "pl": [
+            "Alojzy Orione"
+        ]
+    },
+    "forenames": ["aloysius"],
+    "surnames": [
+        {
+            "it": "Orione"
+        }
     ],
-    "en": [
-      "Aloise Orione"
-    ],
-    "la": [
-      "Aloysius Orione"
-    ],
-    "pl": [
-      "Alojzy Orione"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Orione"
+    "active": true,
+
+    "born": ["1872-06-23"],
+    "died": ["1940-03-12"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1980-10-26"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2004-05-16"
+    },
+    "anniversary": ["03-12"],
+
+    "categories": ["vir", "presbyter", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./12#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/luigi-orione.html",
+        "gcatholic": "https://gcatholic.org/p/25828",
+        "wiki": "https://pl.wikipedia.org/wiki/Alojzy_Orione"
     }
-  ],
-
-  "born": ["1872-06-23"],
-  "died": ["1940-03-12"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1980-10-26"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2004-05-16"
-  },
-
-  "also-in-martyrology": ["03-12"],
-
-  "forenames": ["aloysius"],
-  "categories": ["vir", "presbyter", "institutor"],
-
-  "order": ["fdp"],
-  "order-founder": ["fdp"]
 }

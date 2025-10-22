@@ -937,11 +937,11 @@
         "feasts": []
     },
     "patrons/aloysius/ori": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Luigi Orione",
-            "en": "Aloise Orione",
             "la": "Aloysius Orione",
+            "en": "Aloise Orione",
             "pl": "Alojzy Orione"
         },
         "died": [

@@ -1885,6 +1885,21 @@
             }
         }
     },
+    "03-12": {
+        "records/patrons/aloysius/ori": {
+            "name": {
+                "it": "Luigi Orione",
+                "la": "Aloysius Orione",
+                "en": "Aloise Orione",
+                "pl": "Alojzy Orione"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 III",
+                "feast": "12 III",
+                "mr-2004": "12 III: #14"
+            }
+        }
+    },
     "03-15": {
         "records/patrons/clemens/hof": {
             "name": {
