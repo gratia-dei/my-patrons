@@ -3017,15 +3017,15 @@
         }
     },
     "patrons/christina/per": {
-        "active": false,
+        "active": true,
         "names": {
-            "fa": "کریستینا",
-            "en": "Christina of Persia",
+            "fa": "کریستینای ایرانی",
             "la": "Christina Persica",
+            "en": "Christina of Persia",
             "pl": "Krystyna z Persji"
         },
         "died": [
-            "~559"
+            "559"
         ],
         "feasts": []
     },

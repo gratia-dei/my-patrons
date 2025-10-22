@@ -1,23 +1,46 @@
 {
-  "names": {
-    "fa": [
-      "کریستینا"
-    ],
-    "en": [
-      "Christina of Persia"
-    ],
-    "la": [
-      "Christina Persica"
-    ],
-    "pl": [
-      "Krystyna z Persji"
-    ]
-  },
+    "names": {
+        "fa": [
+            "کریستینای ایرانی"
+        ],
+        "la": [
+            "Christina Persica"
+        ],
+        "en": [
+            "Christina of Persia"
+        ],
+        "pl": [
+            "Krystyna z Persji"
+        ]
+    },
+    "forenames": ["christina"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~559"],
+    "active": true,
 
-  "also-in-martyrology": ["03-13"],
+    "born": null,
+    "died": ["559"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["christina"],
-  "categories": ["femina", "martyr"]
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./13#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/13#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./13#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72049",
+        "wiki": "https://pl.wikipedia.org/wiki/Krystyna_z_Persji"
+    }
 }

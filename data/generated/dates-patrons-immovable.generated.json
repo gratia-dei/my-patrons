@@ -1900,6 +1900,21 @@
             }
         }
     },
+    "03-13": {
+        "records/patrons/christina/per": {
+            "name": {
+                "fa": "کریستینای ایرانی",
+                "la": "Christina Persica",
+                "en": "Christina of Persia",
+                "pl": "Krystyna z Persji"
+            },
+            "sources": {
+                "mr-1584": "13 III: #4",
+                "mr-1956": "13 III: #5",
+                "mr-2004": "13 III: #3"
+            }
+        }
+    },
     "03-15": {
         "records/patrons/clemens/hof": {
             "name": {
