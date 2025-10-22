@@ -6825,7 +6825,7 @@
         "feasts": []
     },
     "patrons/ioannes/ogi": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "John Ogilvie",
             "la": "Ioannes Ogilvie",

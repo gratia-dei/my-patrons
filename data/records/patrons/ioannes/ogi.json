@@ -1,38 +1,53 @@
 {
-  "names": {
-    "en": [
-      "John Ogilvie"
+    "names": {
+        "en": [
+            "John Ogilvie"
+        ],
+        "la": [
+            "Ioannes Ogilvie"
+        ],
+        "pl": [
+            "Jan Ogilvie"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "en": "Ogilvie"
+        }
     ],
-    "la": [
-      "Ioannes Ogilvie"
-    ],
-    "pl": [
-      "Jan Ogilvie"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "en": "Ogilvie"
+    "active": true,
+
+    "born": ["1579"],
+    "died": ["1615-03-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1928-12-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1976-10-17"
+    },
+    "anniversary": ["03-10"],
+
+    "categories": ["vir", "martyr", "sacerdos", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./10#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/john-ogilvie.html",
+        "gcatholic": "https://gcatholic.org/p/68051",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Ogilvie"
     }
-  ],
-
-  "born": ["1579"],
-  "died": ["1615-03-10"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1929-11-22"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1976-10-17"
-  },
-
-  "also-in-martyrology": ["03-10"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "martyr", "sacerdos", "presbyter"],
-
-  "order": ["sj"]
 }

@@ -1855,6 +1855,20 @@
             }
         }
     },
+    "03-10": {
+        "records/patrons/ioannes/ogi": {
+            "name": {
+                "en": "John Ogilvie",
+                "la": "Ioannes Ogilvie",
+                "pl": "Jan Ogilvie"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 III",
+                "feast": "10 III",
+                "mr-2004": "10 III: #7"
+            }
+        }
+    },
     "03-15": {
         "records/patrons/clemens/hof": {
             "name": {
