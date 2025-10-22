@@ -40,6 +40,11 @@
             "la": "Vincentius Grossi",
             "pl": "Wincenty Grossi"
         },
+        "records/patrons/vincentius/kad": {
+            "pl": "Wincenty Kadłubek",
+            "la": "Vincentius Kadlubek",
+            "en": "Vincent Kadłubek"
+        },
         "records/patrons/vincentius/pal": {
             "it": "Vincenzo Pallotti",
             "la": "Vincentius Pallotti",

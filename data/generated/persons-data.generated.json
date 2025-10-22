@@ -13743,6 +13743,18 @@
         ],
         "feasts": []
     },
+    "patrons/vincentius/kad": {
+        "active": true,
+        "names": {
+            "pl": "Wincenty Kadłubek",
+            "la": "Vincentius Kadlubek",
+            "en": "Vincent Kadłubek"
+        },
+        "died": [
+            "1223-03-08"
+        ],
+        "feasts": []
+    },
     "patrons/vincentius/pal": {
         "active": true,
         "names": {

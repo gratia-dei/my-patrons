@@ -1801,6 +1801,19 @@
             }
         }
     },
+    "03-08": {
+        "records/patrons/vincentius/kad": {
+            "name": {
+                "pl": "Wincenty Kadłubek",
+                "la": "Vincentius Kadlubek",
+                "en": "Vincent Kadłubek"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 III",
+                "mr-2004": "8 III: #13"
+            }
+        }
+    },
     "03-09": {
         "records/patrons/dominicus/sav": {
             "name": {
