@@ -1,37 +1,53 @@
 {
-  "names": {
-    "it": [
-      "Maddalena Caterina Morano"
+    "names": {
+        "it": [
+            "Maddalena Caterina Morano"
+        ],
+        "la": [
+            "Magdalena Catharina Morano"
+        ],
+        "en": [
+            "Magdalene Catherine Morano"
+        ],
+        "pl": [
+            "Magdalena Katarzyna Morano"
+        ]
+    },
+    "forenames": ["magdalena", "catharina"],
+    "surnames": [
+        {
+            "it": "Morano"
+        }
     ],
-    "en": [
-      "Magdalene Catherine Morano"
-    ],
-    "la": [
-      "Magdalena Catharina Morano"
-    ],
-    "pl": [
-      "Magdalena Katarzyna Morano"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Morano"
+    "active": true,
+
+    "born": ["1847-11-15"],
+    "died": ["1908-03-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1994-11-05"
+    },
+    "canonized": null,
+    "anniversary": ["03-26"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./26#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maddalena-caterina-morano.html",
+        "gcatholic": "https://gcatholic.org/p/67990",
+        "wiki": "https://pl.wikipedia.org/wiki/Magdalena_Caterina_Morano"
     }
-  ],
-
-  "born": ["1847-11-15"],
-  "died": ["1908-03-26"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1994-11-05"
-  },
-
-  "also-in-martyrology": ["03-26"],
-
-  "forenames": ["magdalena", "catharina"],
-  "categories": ["femina", "virgo"],
-
-  "order": ["fma"]
 }

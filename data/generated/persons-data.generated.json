@@ -8264,11 +8264,11 @@
         "feasts": []
     },
     "patrons/magdalena/mor": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Maddalena Caterina Morano",
-            "en": "Magdalene Catherine Morano",
             "la": "Magdalena Catharina Morano",
+            "en": "Magdalene Catherine Morano",
             "pl": "Magdalena Katarzyna Morano"
         },
         "died": [

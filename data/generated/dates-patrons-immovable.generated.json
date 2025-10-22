@@ -2371,6 +2371,21 @@
             }
         }
     },
+    "03-26": {
+        "records/patrons/magdalena/mor": {
+            "name": {
+                "it": "Maddalena Caterina Morano",
+                "la": "Magdalena Catharina Morano",
+                "en": "Magdalene Catherine Morano",
+                "pl": "Magdalena Katarzyna Morano"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 III",
+                "feast": "26 III",
+                "mr-2004": "26 III: #9"
+            }
+        }
+    },
     "03-28": {
         "records/patrons/ioannes/cap": {
             "name": {
