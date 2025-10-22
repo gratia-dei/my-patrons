@@ -1,23 +1,46 @@
 {
-  "names": {
-    "es": [
-      "Eulogio de Córdoba"
-    ],
-    "en": [
-      "Eulogius of Cordoba"
-    ],
-    "la": [
-      "Eulogius de Corduba"
-    ],
-    "pl": [
-      "Eulogiusz z Kordoby"
-    ]
-  },
+    "names": {
+        "es": [
+            "Eulogio de Córdoba"
+        ],
+        "la": [
+            "Eulogius de Corduba"
+        ],
+        "en": [
+            "Eulogius of Cordoba"
+        ],
+        "pl": [
+            "Eulogiusz z Kordoby"
+        ]
+    },
+    "forenames": ["eulogius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["859-03-11"],
+    "active": true,
 
-  "also-in-martyrology": ["03-11"],
+    "born": null,
+    "died": ["859-03-11"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["eulogius"],
-  "categories": ["vir", "martyr", "presbyter"]
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./11#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/11#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./11#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/63069",
+        "wiki": "https://pl.wikipedia.org/wiki/Eulogiusz_z_Kordoby"
+    }
 }

@@ -1869,6 +1869,22 @@
             }
         }
     },
+    "03-11": {
+        "records/patrons/eulogius/cor": {
+            "name": {
+                "es": "Eulogio de Córdoba",
+                "la": "Eulogius de Corduba",
+                "en": "Eulogius of Cordoba",
+                "pl": "Eulogiusz z Kordoby"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 III",
+                "mr-1584": "11 III: #5",
+                "mr-1956": "11 III: #2",
+                "mr-2004": "11 III: #8"
+            }
+        }
+    },
     "03-15": {
         "records/patrons/clemens/hof": {
             "name": {
