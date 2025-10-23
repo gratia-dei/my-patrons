@@ -2414,6 +2414,19 @@
             }
         }
     },
+    "03-29": {
+        "records/patrons/gulielmus/tem": {
+            "name": {
+                "fr": "Guillaume Tempier",
+                "la": "Gulielmus Tempier",
+                "en": "William Tempier",
+                "pl": "Wilhelm Tempier"
+            },
+            "sources": {
+                "mr-2004": "29 III: #5"
+            }
+        }
+    },
     "03-30": {
         "records/patrons/antonius/dav": {
             "name": {

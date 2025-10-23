@@ -1,0 +1,18 @@
+{
+    "names": {
+        "fr": "Tempier"
+    },
+    "translations": {
+        "fr": [
+            "Tempier"
+        ]
+    },
+    "links": {
+        "records/patrons/gulielmus/tem": {
+            "fr": "Guillaume Tempier",
+            "la": "Gulielmus Tempier",
+            "en": "William Tempier",
+            "pl": "Wilhelm Tempier"
+        }
+    }
+}

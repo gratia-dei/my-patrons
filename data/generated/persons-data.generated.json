@@ -5592,6 +5592,19 @@
         ],
         "feasts": []
     },
+    "patrons/gulielmus/tem": {
+        "active": true,
+        "names": {
+            "fr": "Guillaume Tempier",
+            "la": "Gulielmus Tempier",
+            "en": "William Tempier",
+            "pl": "Wilhelm Tempier"
+        },
+        "died": [
+            "1197"
+        ],
+        "feasts": []
+    },
     "patrons/gundecarus": {
         "names": {
             "la": "Gundecarus",
