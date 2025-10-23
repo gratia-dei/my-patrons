@@ -549,6 +549,12 @@
             "en": "Denis of Aquileia",
             "pl": "Dionizy z Akwilei"
         },
+        "records/patrons/dionysius/are": {
+            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
+            "la": "Dionysius Areopagita",
+            "en": "Denis the Areopagite",
+            "pl": "Dionizy Areopagita"
+        },
         "records/patrons/dionysius/lut": {
             "fr": "Denis de Paris, avec lui, a.o., Rustique",
             "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",

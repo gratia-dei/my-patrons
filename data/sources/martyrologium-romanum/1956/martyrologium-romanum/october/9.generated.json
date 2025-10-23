@@ -2,9 +2,8 @@
     "data-links": {
         "2": {
             "1": "records/patrons/dionysius/are",
-            "2": "records/patrons/dionysius/lut",
-            "3": "records/patrons/rusticus/dio",
-            "4": "records/patrons/eleutherius/dio"
+            "2": "records/patrons/rusticus/dio",
+            "3": "records/patrons/eleutherius/dio"
         }
     }
 }

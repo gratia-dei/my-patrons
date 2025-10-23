@@ -7447,19 +7447,6 @@
                 "mr-1956": "9 X: #2"
             }
         },
-        "records/patrons/dionysius/lut": {
-            "name": {
-                "fr": "Denis de Paris, avec lui, a.o., Rustique",
-                "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
-                "en": "Denis of Paris, with him, i.a., Rusticus",
-                "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
-            },
-            "sources": {
-                "mr-1584": "9 X: #1",
-                "mr-1956": "9 X: #2",
-                "mr-2004": "9 X: #1"
-            }
-        },
         "records/patrons/rusticus/dio": {
             "name": {
                 "fr": "Rustique de Paris, avec lui, a.o., Denis",
@@ -7483,6 +7470,17 @@
             "sources": {
                 "mr-1584": "9 X: #1",
                 "mr-1956": "9 X: #2",
+                "mr-2004": "9 X: #1"
+            }
+        },
+        "records/patrons/dionysius/lut": {
+            "name": {
+                "fr": "Denis de Paris, avec lui, a.o., Rustique",
+                "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
+                "en": "Denis of Paris, with him, i.a., Rusticus",
+                "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
+            },
+            "sources": {
                 "mr-2004": "9 X: #1"
             }
         }
