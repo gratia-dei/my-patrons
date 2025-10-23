@@ -2531,6 +2531,19 @@
         }
     },
     "04-02": {
+        "records/patrons/didacus/vit": {
+            "name": {
+                "es": "Diego Luis de San Vitores",
+                "la": "Didacus Aloysius de San Vitores",
+                "en": "Didacus Aloise de San Vitores",
+                "pl": "Dydak Alojzy de San Vitores"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 IV",
+                "feast": "2 IV",
+                "mr-2004": "2 IV: #9"
+            }
+        },
         "records/patrons/ioannes/p2p": {
             "name": {
                 "pl": "Jan Paweł II",
@@ -2539,6 +2552,19 @@
             },
             "sources": {
                 "reliable-death-anniversary": "2 IV"
+            }
+        },
+        "records/patrons/petrus/cal": {
+            "name": {
+                "tl": "Pedro Calungsod",
+                "la": "Petrus Calungsod",
+                "en": "Peter Calungsod",
+                "pl": "Piotr Calungsod"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 IV",
+                "feast": "2 IV",
+                "mr-2004": "2 IV: #9"
             }
         }
     },

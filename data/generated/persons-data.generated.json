@@ -3622,11 +3622,11 @@
         }
     },
     "patrons/didacus/vit": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Diego Luis de San Vitores",
-            "en": "Didacus Aloise de San Vitores",
             "la": "Didacus Aloysius de San Vitores",
+            "en": "Didacus Aloise de San Vitores",
             "pl": "Dydak Alojzy de San Vitores"
         },
         "died": [
@@ -10900,11 +10900,11 @@
         "feasts": []
     },
     "patrons/petrus/cal": {
-        "active": false,
+        "active": true,
         "names": {
             "tl": "Pedro Calungsod",
-            "en": "Pedro Calungsod",
             "la": "Petrus Calungsod",
+            "en": "Peter Calungsod",
             "pl": "Piotr Calungsod"
         },
         "died": [

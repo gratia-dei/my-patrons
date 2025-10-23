@@ -539,8 +539,8 @@
         },
         "records/patrons/didacus/vit": {
             "es": "Diego Luis de San Vitores",
-            "en": "Didacus Aloise de San Vitores",
             "la": "Didacus Aloysius de San Vitores",
+            "en": "Didacus Aloise de San Vitores",
             "pl": "Dydak Alojzy de San Vitores"
         },
         "records/patrons/dionysius/aqu": {
@@ -1734,8 +1734,8 @@
         },
         "records/patrons/petrus/cal": {
             "tl": "Pedro Calungsod",
-            "en": "Pedro Calungsod",
             "la": "Petrus Calungsod",
+            "en": "Peter Calungsod",
             "pl": "Piotr Calungsod"
         },
         "records/patrons/petrus/dan": {

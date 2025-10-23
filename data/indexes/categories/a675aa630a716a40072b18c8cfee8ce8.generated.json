@@ -46,8 +46,8 @@
         },
         "records/patrons/petrus/cal": {
             "tl": "Pedro Calungsod",
-            "en": "Pedro Calungsod",
             "la": "Petrus Calungsod",
+            "en": "Peter Calungsod",
             "pl": "Piotr Calungsod"
         },
         "records/patrons/petrus/wug": {

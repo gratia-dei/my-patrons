@@ -1,40 +1,56 @@
 {
-  "names": {
-    "tl": [
-      "Pedro Calungsod"
+    "names": {
+        "tl": [
+            "Pedro Calungsod"
+        ],
+        "la": [
+            "Petrus Calungsod"
+        ],
+        "en": [
+            "Peter Calungsod"
+        ],
+        "pl": [
+            "Piotr Calungsod"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": [
+        {
+            "tl": "Calungsod"
+        }
     ],
-    "en": [
-      "Pedro Calungsod",
-      "Peter Calungsod"
-    ],
-    "la": [
-      "Petrus Calungsod"
-    ],
-    "pl": [
-      "Piotr Calungsod"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "tl": "Calungsod"
+    "active": true,
+
+    "born": ["~1654"],
+    "died": ["1672-04-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2000-03-05"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2012-10-21"
+    },
+    "anniversary": ["04-02"],
+
+    "categories": ["vir", "martyr", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:apr./2#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pietro-calungsod.html",
+        "gcatholic": "https://gcatholic.org/p/67273",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Calungsod"
     }
-  ],
-
-  "born": ["1654"],
-  "died": ["1672-04-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2000-03-05"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2012-10-21"
-  },
-
-  "also-in-martyrology": ["04-02"],
-
-  "forenames": ["petrus"],
-  "categories": ["vir", "martyr", "catechista"]
 }

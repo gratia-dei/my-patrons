@@ -1,48 +1,42 @@
 {
     "1": {
-        "page": "...",
+        "page": 215,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
+        "page": 216,
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
     "8": {
-        "mark": "*",
         "la": "..."
     },
 
     "9": {
         "mark": "*",
-        "la": "..."
+        "la": "In vico Tomhom insulae Guam in Oceania, beatorum martyrum [1|Didaci Aloysii de San Vitores], presbyteri ..., et [2|Petri Calungsod], catechistae, ..."
     },
 
     "10": {
@@ -51,11 +45,11 @@
     },
 
     "11": {
-        "mark": "*",
         "la": "..."
     },
 
     "12": {
+        "page": 217,
         "mark": "*",
         "la": "..."
     },
@@ -76,26 +70,6 @@
     },
 
     "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }
