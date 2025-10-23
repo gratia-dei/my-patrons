@@ -14,6 +14,9 @@
         ],
         "fr": [
             "Louis"
+        ],
+        "it": [
+            "Lodovico"
         ]
     },
     "links": {
@@ -32,6 +35,12 @@
             "pl": "Ludwik Mzyk",
             "la": "Ludovicus Mzyk",
             "en": "Louis Mzyk"
+        },
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
         },
         "records/patrons/ludovicus/rex": {
             "fr": "Louis IX, roi de France",

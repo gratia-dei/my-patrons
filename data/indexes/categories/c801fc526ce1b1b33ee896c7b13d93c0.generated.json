@@ -215,6 +215,12 @@
             "en": "Louise Therese de Montaignac de Chauvance",
             "pl": "Ludwika Teresa de Montaignac de Chauvance"
         },
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        },
         "records/patrons/magdalena/can": {
             "it": "Maddalena di Canossa",
             "en": "Magdalene of Canossa",

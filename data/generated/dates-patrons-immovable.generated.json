@@ -2515,6 +2515,21 @@
             }
         }
     },
+    "04-01": {
+        "records/patrons/ludovicus/pav": {
+            "name": {
+                "it": "Lodovico Pavoni",
+                "la": "Ludovicus Pavoni",
+                "en": "Louis Pavoni",
+                "pl": "Ludwik Pavoni"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 IV",
+                "feast": "1 IV",
+                "mr-2004": "1 IV: #10"
+            }
+        }
+    },
     "04-02": {
         "records/patrons/ioannes/p2p": {
             "name": {

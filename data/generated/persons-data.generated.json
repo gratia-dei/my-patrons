@@ -8121,7 +8121,8 @@
             "la": "Ludovicus",
             "en": "Louis",
             "pl": "Ludwik",
-            "fr": "Louis"
+            "fr": "Louis",
+            "it": "Lodovico"
         }
     },
     "patrons/ludovicus/gie": {
@@ -8158,6 +8159,19 @@
         },
         "died": [
             "1940-02-20"
+        ],
+        "feasts": []
+    },
+    "patrons/ludovicus/pav": {
+        "active": true,
+        "names": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        },
+        "died": [
+            "1849-04-01"
         ],
         "feasts": []
     },

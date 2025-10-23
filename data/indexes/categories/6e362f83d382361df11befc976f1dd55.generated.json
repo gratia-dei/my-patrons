@@ -665,6 +665,12 @@
             "la": "Ludovicus Mzyk",
             "en": "Louis Mzyk"
         },
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        },
         "records/patrons/macarius/mag": {
             "la": "Macarius Magnus",
             "en": "Maracius the Great",

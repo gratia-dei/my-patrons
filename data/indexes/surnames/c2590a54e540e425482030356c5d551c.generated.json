@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Pavoni"
+    },
+    "translations": {
+        "it": [
+            "Pavoni"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        }
+    }
+}
