@@ -9329,11 +9329,11 @@
         "feasts": []
     },
     "patrons/maria/sou": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Bernadette-Marie Soubirous",
-            "en": "Bernadette Soubirous",
             "la": "Maria Bernarda Soubirous",
+            "en": "Bernadette Soubirous",
             "pl": "Bernadeta Soubirous"
         },
         "died": [

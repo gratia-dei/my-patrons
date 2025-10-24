@@ -1,42 +1,57 @@
 {
-  "names": {
-    "fr": [
-      "Bernadette-Marie Soubirous",
-      "Bernadette Soubirous"
+    "names": {
+        "fr": [
+            "Bernadette-Marie Soubirous",
+            "Bernadette Soubirous"
+        ],
+        "la": [
+            "Maria Bernarda Soubirous"
+        ],
+        "en": [
+            "Bernadette Soubirous"
+        ],
+        "pl": [
+            "Bernadeta Soubirous"
+        ]
+    },
+    "forenames": ["maria", "bernarda"],
+    "surnames": [
+        {
+            "fr": "Soubirous"
+        }
     ],
-    "en": [
-      "Bernadette Soubirous"
-    ],
-    "la": [
-      "Maria Bernarda Soubirous"
-    ],
-    "pl": [
-      "Bernadeta Soubirous"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Soubirous"
+    "active": true,
+
+    "born": ["1844-01-07"],
+    "died": ["1879-04-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-06-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1933-12-08"
+    },
+    "anniversary": ["04-16"],
+
+    "categories": ["femina", "virgo", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/16#11"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./16#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/bernadette-soubirous.html",
+        "gcatholic": "https://gcatholic.org/p/68106",
+        "wiki": "https://pl.wikipedia.org/wiki/Bernadeta_Soubirous"
     }
-  ],
-
-  "born": ["1844-01-07"],
-  "died": ["1879-04-16"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1925-06-14"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1933-12-08"
-  },
-
-  "also-in-martyrology": ["04-16"],
-
-  "forenames": ["maria", "bernarda"],
-  "categories": ["femina", "virgo"],
-
-  "order": ["cic"]
 }

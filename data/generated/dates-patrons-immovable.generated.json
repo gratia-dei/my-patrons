@@ -2799,6 +2799,22 @@
             }
         }
     },
+    "04-16": {
+        "records/patrons/maria/sou": {
+            "name": {
+                "fr": "Bernadette-Marie Soubirous",
+                "la": "Maria Bernarda Soubirous",
+                "en": "Bernadette Soubirous",
+                "pl": "Bernadeta Soubirous"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 IV",
+                "feast": "16 IV",
+                "mr-1956": "16 IV: #11",
+                "mr-2004": "16 IV: #13"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/catharina/tek": {
             "name": {
