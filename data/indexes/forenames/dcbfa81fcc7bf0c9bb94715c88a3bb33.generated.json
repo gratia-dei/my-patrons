@@ -17,6 +17,12 @@
         ]
     },
     "links": {
+        "records/patrons/caietanus/cat": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        },
         "records/patrons/ioannes/cal": {
             "it": "Giovanni Giuseppe della Croce",
             "en": "John Joseph of the Cross",

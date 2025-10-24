@@ -2625,6 +2625,27 @@
         ],
         "feasts": []
     },
+    "patrons/caietanus": {
+        "names": {
+            "la": "Caietanus",
+            "en": "Cajetan",
+            "pl": "Kajetan",
+            "it": "Gaetano"
+        }
+    },
+    "patrons/caietanus/cat": {
+        "active": true,
+        "names": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        },
+        "died": [
+            "1964-04-04"
+        ],
+        "feasts": []
+    },
     "patrons/camillus": {
         "names": {
             "la": "Camillus",
@@ -2990,7 +3011,7 @@
     "patrons/catharina/vol": {
         "active": true,
         "names": {
-            "ojczysty": "Caterina Volpicelli",
+            "it": "Caterina Volpicelli",
             "la": "Catharina Volpicelli",
             "en": "Catherine Volpicelli",
             "pl": "Katarzyna Volpicelli"

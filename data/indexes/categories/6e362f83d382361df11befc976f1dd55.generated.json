@@ -240,6 +240,12 @@
             "en": "Bruno of Cologne",
             "pl": "Bruno Kartuz"
         },
+        "records/patrons/caietanus/cat": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        },
         "records/patrons/camillus/lel": {
             "it": "Camillo de Lellis",
             "la": "Camillus de Lellis",

@@ -2584,6 +2584,18 @@
         }
     },
     "04-04": {
+        "records/patrons/caietanus/cat": {
+            "name": {
+                "it": "Gaetano Catanoso",
+                "la": "Caietanus Catanoso",
+                "en": "Cajetan Catanoso",
+                "pl": "Kajetan Catanoso"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 IV",
+                "mr-2004": "4 IV: #10"
+            }
+        },
         "records/patrons/franciscus/mar": {
             "name": {
                 "pt": "Francisco Marto",
@@ -6565,6 +6577,17 @@
                 "mr-2004": "20 IX: #1"
             }
         },
+        "records/patrons/caietanus/cat": {
+            "name": {
+                "it": "Gaetano Catanoso",
+                "la": "Caietanus Catanoso",
+                "en": "Cajetan Catanoso",
+                "pl": "Kajetan Catanoso"
+            },
+            "sources": {
+                "feast": "20 IX"
+            }
+        },
         "records/patrons/carolus/cho": {
             "name": {
                 "ko": "조신철 가롤로",
@@ -9593,7 +9616,7 @@
     "12-28": {
         "records/patrons/catharina/vol": {
             "name": {
-                "ojczysty": "Caterina Volpicelli",
+                "it": "Caterina Volpicelli",
                 "la": "Catharina Volpicelli",
                 "en": "Catherine Volpicelli",
                 "pl": "Katarzyna Volpicelli"

@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Catanoso"
+    },
+    "translations": {
+        "it": [
+            "Catanoso"
+        ]
+    },
+    "links": {
+        "records/patrons/caietanus/cat": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        }
+    }
+}

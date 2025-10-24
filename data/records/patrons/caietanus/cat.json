@@ -1,0 +1,56 @@
+{
+    "names": {
+        "it": [
+            "Gaetano Catanoso"
+        ],
+        "la": [
+            "Caietanus Catanoso"
+        ],
+        "en": [
+            "Cajetan Catanoso"
+        ],
+        "pl": [
+            "Kajetan Catanoso"
+        ]
+    },
+    "forenames": ["caietanus"],
+    "surnames": [
+        {
+            "it": "Catanoso"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1879-02-14"],
+    "died": ["1964-04-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1997-05-04"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2005-10-23"
+    },
+    "anniversary": ["09-20"],
+
+    "categories": ["vir", "presbyter", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./4#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/gaetano-catanoso.html",
+        "gcatholic": "https://gcatholic.org/p/67147",
+        "wiki": "https://pl.wikipedia.org/wiki/Kajetan_Catanoso"
+    }
+}

@@ -628,6 +628,12 @@
             "la": "Caesarius Terracinensis",
             "pl": "Cezary z Terraciny"
         },
+        "records/patrons/caietanus/cat": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        },
         "records/patrons/camillus/lel": {
             "it": "Camillo de Lellis",
             "la": "Camillus de Lellis",
