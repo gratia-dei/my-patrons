@@ -7208,6 +7208,19 @@
         ],
         "feasts": []
     },
+    "patrons/iosephus/mos": {
+        "active": true,
+        "names": {
+            "it": "Giuseppe Moscati",
+            "la": "Iosephus Moscati",
+            "en": "Joseph Moscati",
+            "pl": "Józef Moscati"
+        },
+        "died": [
+            "1927-04-12"
+        ],
+        "feasts": []
+    },
     "patrons/iosephus/ngu": {
         "active": true,
         "names": {

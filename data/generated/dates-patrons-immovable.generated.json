@@ -2698,6 +2698,21 @@
             }
         }
     },
+    "04-12": {
+        "records/patrons/iosephus/mos": {
+            "name": {
+                "it": "Giuseppe Moscati",
+                "la": "Iosephus Moscati",
+                "en": "Joseph Moscati",
+                "pl": "Józef Moscati"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 IV",
+                "feast": "12 IV",
+                "mr-2004": "12 IV: #12"
+            }
+        }
+    },
     "04-13": {
         "records/patrons/iustinus/phi": {
             "name": {
@@ -8816,6 +8831,17 @@
             "sources": {
                 "reliable-death-anniversary": "16 XI",
                 "mr-2004": "16 XI: #10"
+            }
+        },
+        "records/patrons/iosephus/mos": {
+            "name": {
+                "it": "Giuseppe Moscati",
+                "la": "Iosephus Moscati",
+                "en": "Joseph Moscati",
+                "pl": "Józef Moscati"
+            },
+            "sources": {
+                "feast": "16 XI"
             }
         }
     },
