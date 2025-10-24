@@ -2568,6 +2568,21 @@
             }
         }
     },
+    "04-03": {
+        "records/patrons/aloysius/scr": {
+            "name": {
+                "it": "Luigi Scrosoppi",
+                "la": "Aloysius Scrosoppi",
+                "en": "Aloise Scrosoppi",
+                "pl": "Alojzy Scrosoppi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 IV",
+                "feast": "3 IV",
+                "mr-2004": "3 IV: #11"
+            }
+        }
+    },
     "04-04": {
         "records/patrons/franciscus/mar": {
             "name": {

@@ -949,6 +949,19 @@
         ],
         "feasts": []
     },
+    "patrons/aloysius/scr": {
+        "active": true,
+        "names": {
+            "it": "Luigi Scrosoppi",
+            "la": "Aloysius Scrosoppi",
+            "en": "Aloise Scrosoppi",
+            "pl": "Alojzy Scrosoppi"
+        },
+        "died": [
+            "1884-04-03"
+        ],
+        "feasts": []
+    },
     "patrons/aloysius/var": {
         "active": true,
         "names": {
