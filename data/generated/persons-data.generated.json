@@ -3718,11 +3718,11 @@
         "feasts": []
     },
     "patrons/dionysius/cor": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Διονύσιος Κορίνθου",
-            "en": "Dionysius of Corinth",
             "la": "Dionysius Corinthius",
+            "en": "Dionysius of Corinth",
             "pl": "Dionizy z Koryntu"
         },
         "died": [

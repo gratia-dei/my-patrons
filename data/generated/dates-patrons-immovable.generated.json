@@ -2653,6 +2653,21 @@
             }
         }
     },
+    "04-08": {
+        "records/patrons/dionysius/cor": {
+            "name": {
+                "el": "Διονύσιος Κορίνθου",
+                "la": "Dionysius Corinthius",
+                "en": "Dionysius of Corinth",
+                "pl": "Dionizy z Koryntu"
+            },
+            "sources": {
+                "mr-1584": "8 IV: #5",
+                "mr-1956": "8 IV: #5",
+                "mr-2004": "8 IV: #3"
+            }
+        }
+    },
     "04-10": {
         "records/patrons/ezechiel/pro": {
             "name": {

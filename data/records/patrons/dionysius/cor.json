@@ -1,23 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Διονύσιος Κορίνθου"
-    ],
-    "en": [
-      "Dionysius of Corinth"
-    ],
-    "la": [
-      "Dionysius Corinthius"
-    ],
-    "pl": [
-      "Dionizy z Koryntu"
-    ]
-  },
+    "names": {
+        "el": [
+            "Διονύσιος Κορίνθου"
+        ],
+        "la": [
+            "Dionysius Corinthius"
+        ],
+        "en": [
+            "Dionysius of Corinth"
+        ],
+        "pl": [
+            "Dionizy z Koryntu"
+        ]
+    },
+    "forenames": ["dionysius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~171", "~180"],
+    "active": true,
 
-  "also-in-martyrology": ["04-08"],
+    "born": null,
+    "died": ["~171", "~180"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["dionysius"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./8#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/8#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./8#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71403",
+        "wiki": "https://pl.wikipedia.org/wiki/Dionizy_z_Koryntu"
+    }
 }
