@@ -1,9 +1,6 @@
 {
     "data-links": {
         "1": {
-            "1": "records/patrons/iustinus/phi"
-        },
-        "2": {
             "1": "records/patrons/tiburtius/val",
             "2": "records/patrons/valerianus/tib",
             "3": "records/patrons/maximus/rom"

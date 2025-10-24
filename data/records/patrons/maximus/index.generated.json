@@ -3,5 +3,10 @@
         "la": "Maximus Hierosolymitanus",
         "en": "Maximus of Jerusalem",
         "pl": "Maksym z Jerozolimy"
+    },
+    "rom": {
+        "la": "Maximus de Roma",
+        "en": "Maximus of Rome",
+        "pl": "Maksym z Rzymu"
     }
 }

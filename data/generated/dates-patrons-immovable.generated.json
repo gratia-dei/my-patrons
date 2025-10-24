@@ -2737,6 +2737,42 @@
         }
     },
     "04-14": {
+        "records/patrons/tiburtius/val": {
+            "name": {
+                "la": "Tiburtius de Roma, frater Valeriani",
+                "en": "Tiburtius of Rome, brother of Valerian",
+                "pl": "Tyburcjusz z Rzymu, brat Waleriana"
+            },
+            "sources": {
+                "mr-1584": "14 IV: #1",
+                "mr-1956": "14 IV: #2",
+                "mr-2004": "14 IV: #1"
+            }
+        },
+        "records/patrons/valerianus/tib": {
+            "name": {
+                "la": "Valerianus de Roma, frater Tiburti",
+                "en": "Valerian of Rome, brother of Tiburtius",
+                "pl": "Walerian z Rzymu, brat Tyburcjusza"
+            },
+            "sources": {
+                "mr-1584": "14 IV: #1",
+                "mr-1956": "14 IV: #2",
+                "mr-2004": "14 IV: #1"
+            }
+        },
+        "records/patrons/maximus/rom": {
+            "name": {
+                "la": "Maximus de Roma",
+                "en": "Maximus of Rome",
+                "pl": "Maksym z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "14 IV: #1",
+                "mr-1956": "14 IV: #2",
+                "mr-2004": "14 IV: #1"
+            }
+        },
         "records/patrons/iustinus/phi": {
             "name": {
                 "la": "Iustinus Philosophus",

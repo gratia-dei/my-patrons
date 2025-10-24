@@ -18,6 +18,11 @@
             "la": "Maximus Hierosolymitanus",
             "en": "Maximus of Jerusalem",
             "pl": "Maksym z Jerozolimy"
+        },
+        "records/patrons/maximus/rom": {
+            "la": "Maximus de Roma",
+            "en": "Maximus of Rome",
+            "pl": "Maksym z Rzymu"
         }
     }
 }

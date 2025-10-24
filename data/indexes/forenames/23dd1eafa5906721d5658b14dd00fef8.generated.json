@@ -18,6 +18,11 @@
             "la": "Valerianus, episcopus Avensan.",
             "en": "Valerian of Abbenza",
             "pl": "Walerian z Abbenzy"
+        },
+        "records/patrons/valerianus/tib": {
+            "la": "Valerianus de Roma, frater Tiburti",
+            "en": "Valerian of Rome, brother of Tiburtius",
+            "pl": "Walerian z Rzymu, brat Tyburcjusza"
         }
     }
 }

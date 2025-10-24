@@ -1522,6 +1522,11 @@
             "la": "Maximilianus Maria Kolbe",
             "en": "Maximilian Maria Kolbe"
         },
+        "records/patrons/maximus/rom": {
+            "la": "Maximus de Roma",
+            "en": "Maximus of Rome",
+            "pl": "Maksym z Rzymu"
+        },
         "records/patrons/michael/koz": {
             "pl": "Michał Kozal",
             "la": "Michael Kozal",
@@ -2126,9 +2131,9 @@
             "pl": "Tomasz Son Cha-sŏn"
         },
         "records/patrons/tiburtius/val": {
-            "la": "Tiburtius /+ Valerianus et Maximus",
-            "en": "Tiburtius /+ Valerian and Maximus",
-            "pl": "Tyburcjusz /+ Walerian i Maksym"
+            "la": "Tiburtius de Roma, frater Valeriani",
+            "en": "Tiburtius of Rome, brother of Valerian",
+            "pl": "Tyburcjusz z Rzymu, brat Waleriana"
         },
         "records/patrons/timotheus/cae": {
             "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
@@ -2176,6 +2181,11 @@
             "la": "Valentinus de Roma",
             "en": "Valentine of Rome",
             "pl": "Walenty z Rzymu"
+        },
+        "records/patrons/valerianus/tib": {
+            "la": "Valerianus de Roma, frater Tiburti",
+            "en": "Valerian of Rome, brother of Tiburtius",
+            "pl": "Walerian z Rzymu, brat Tyburcjusza"
         },
         "records/patrons/venceslaus/boh": {
             "cs": "Václav, český kníže",

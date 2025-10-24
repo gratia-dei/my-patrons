@@ -15,9 +15,9 @@
     },
     "links": {
         "records/patrons/tiburtius/val": {
-            "la": "Tiburtius /+ Valerianus et Maximus",
-            "en": "Tiburtius /+ Valerian and Maximus",
-            "pl": "Tyburcjusz /+ Walerian i Maksym"
+            "la": "Tiburtius de Roma, frater Valeriani",
+            "en": "Tiburtius of Rome, brother of Valerian",
+            "pl": "Tyburcjusz z Rzymu, brat Waleriana"
         }
     }
 }

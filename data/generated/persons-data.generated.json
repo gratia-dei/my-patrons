@@ -9742,6 +9742,18 @@
         ],
         "feasts": []
     },
+    "patrons/maximus/rom": {
+        "active": true,
+        "names": {
+            "la": "Maximus de Roma",
+            "en": "Maximus of Rome",
+            "pl": "Maksym z Rzymu"
+        },
+        "died": [
+            "~230"
+        ],
+        "feasts": []
+    },
     "patrons/melanius": {
         "names": {
             "la": "Melanius",
@@ -13286,11 +13298,11 @@
         }
     },
     "patrons/tiburtius/val": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Tiburtius /+ Valerianus et Maximus",
-            "en": "Tiburtius /+ Valerian and Maximus",
-            "pl": "Tyburcjusz /+ Walerian i Maksym"
+            "la": "Tiburtius de Roma, frater Valeriani",
+            "en": "Tiburtius of Rome, brother of Valerian",
+            "pl": "Tyburcjusz z Rzymu, brat Waleriana"
         },
         "died": [
             "~230"
@@ -13556,6 +13568,18 @@
         },
         "died": [
             ">457"
+        ],
+        "feasts": []
+    },
+    "patrons/valerianus/tib": {
+        "active": true,
+        "names": {
+            "la": "Valerianus de Roma, frater Tiburti",
+            "en": "Valerian of Rome, brother of Tiburtius",
+            "pl": "Walerian z Rzymu, brat Tyburcjusza"
+        },
+        "died": [
+            "~230"
         ],
         "feasts": []
     },
