@@ -2637,6 +2637,22 @@
             }
         }
     },
+    "04-07": {
+        "records/patrons/ioannes/sal": {
+            "name": {
+                "fr": "Jean-Baptiste de la Salle",
+                "la": "Ioannes Baptista de la Salle",
+                "en": "John Baptist de la Salle",
+                "pl": "Jan Chrzciciel de la Salle"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 IV",
+                "feast": "7 IV",
+                "mr-1956": "7 IV: #1",
+                "mr-2004": "7 IV: #1"
+            }
+        }
+    },
     "04-10": {
         "records/patrons/ezechiel/pro": {
             "name": {
@@ -3226,6 +3242,19 @@
             },
             "sources": {
                 "mr-2004": "14 V: #1"
+            }
+        }
+    },
+    "05-15": {
+        "records/patrons/ioannes/sal": {
+            "name": {
+                "fr": "Jean-Baptiste de la Salle",
+                "la": "Ioannes Baptista de la Salle",
+                "en": "John Baptist de la Salle",
+                "pl": "Jan Chrzciciel de la Salle"
+            },
+            "sources": {
+                "mr-1956": "15 V: #1"
             }
         }
     },

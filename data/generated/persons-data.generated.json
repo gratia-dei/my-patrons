@@ -6934,11 +6934,11 @@
         "feasts": []
     },
     "patrons/ioannes/sal": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jean-Baptiste de la Salle",
-            "en": "John Baptist de la Salle",
             "la": "Ioannes Baptista de la Salle",
+            "en": "John Baptist de la Salle",
             "pl": "Jan Chrzciciel de la Salle"
         },
         "died": [

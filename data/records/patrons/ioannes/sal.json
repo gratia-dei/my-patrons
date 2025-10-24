@@ -1,42 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Jean-Baptiste de la Salle"
+    "names": {
+        "fr": [
+            "Jean-Baptiste de la Salle"
+        ],
+        "la": [
+            "Ioannes Baptista de la Salle"
+        ],
+        "en": [
+            "John Baptist de la Salle"
+        ],
+        "pl": [
+            "Jan Chrzciciel de la Salle"
+        ]
+    },
+    "forenames": ["ioannes-baptista"],
+    "surnames": [
+        {
+            "fr": "de la Salle"
+        }
     ],
-    "en": [
-      "John Baptist de la Salle"
-    ],
-    "la": [
-      "Ioannes Baptista de la Salle"
-    ],
-    "pl": [
-      "Jan Chrzciciel de la Salle"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "de la Salle"
+    "active": true,
+
+    "born": ["1651-04-30"],
+    "died": ["1719-04-07"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1888-02-19"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1900-05-24"
+    },
+    "anniversary": ["04-07"],
+
+    "categories": ["vir", "confessor", "presbyter", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/7#1", "1:Maji/15#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./7#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-battista-de-la-salle.html",
+        "gcatholic": "https://gcatholic.org/p/25673",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Chrzciciel_de_la_Salle"
     }
-  ],
-
-  "born": ["1651-04-30"],
-  "died": ["1719-04-07"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1888-02-19"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1900-05-24"
-  },
-
-  "also-in-martyrology": ["04-07", "05-15"],
-
-  "forenames": ["ioannes-baptista"],
-  "categories": ["vir", "confessor", "presbyter", "institutor"],
-
-  "order": ["fsc"],
-  "order-founder": ["fsc"]
 }
