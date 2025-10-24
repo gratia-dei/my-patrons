@@ -2784,6 +2784,21 @@
             }
         }
     },
+    "04-15": {
+        "records/patrons/damianus/veu": {
+            "name": {
+                "nl": "Damiaan de Veuster",
+                "la": "Damianus de Veuster",
+                "en": "Damian de Veuster",
+                "pl": "Damian de Veuster"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 IV",
+                "feast": "15 IV",
+                "mr-2004": "15 IV: #8"
+            }
+        }
+    },
     "04-17": {
         "records/patrons/catharina/tek": {
             "name": {

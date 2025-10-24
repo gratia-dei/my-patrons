@@ -825,6 +825,12 @@
             "la": "Damianus /+ Cosmas",
             "pl": "Damian /+ Kosma"
         },
+        "records/patrons/damianus/veu": {
+            "nl": "Damiaan de Veuster",
+            "la": "Damianus de Veuster",
+            "en": "Damian de Veuster",
+            "pl": "Damian de Veuster"
+        },
         "records/patrons/david/men": {
             "cy": "Dewi Sant",
             "en": "David of Menevia",

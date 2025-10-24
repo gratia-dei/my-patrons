@@ -14,6 +14,9 @@
         ],
         "el": [
             "Δαμιανός"
+        ],
+        "nl": [
+            "Damiaan"
         ]
     },
     "links": {
@@ -22,6 +25,12 @@
             "en": "Damian /+ Cosmas",
             "la": "Damianus /+ Cosmas",
             "pl": "Damian /+ Kosma"
+        },
+        "records/patrons/damianus/veu": {
+            "nl": "Damiaan de Veuster",
+            "la": "Damianus de Veuster",
+            "en": "Damian de Veuster",
+            "pl": "Damian de Veuster"
         }
     }
 }

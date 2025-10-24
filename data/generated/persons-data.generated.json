@@ -3523,7 +3523,8 @@
             "la": "Damianus",
             "en": "Damian",
             "pl": "Damian",
-            "el": "Δαμιανός"
+            "el": "Δαμιανός",
+            "nl": "Damiaan"
         }
     },
     "patrons/damianus/cos": {
@@ -3537,6 +3538,19 @@
         "died": [
             ">287",
             "<303"
+        ],
+        "feasts": []
+    },
+    "patrons/damianus/veu": {
+        "active": true,
+        "names": {
+            "nl": "Damiaan de Veuster",
+            "la": "Damianus de Veuster",
+            "en": "Damian de Veuster",
+            "pl": "Damian de Veuster"
+        },
+        "died": [
+            "1889-04-15"
         ],
         "feasts": []
     },
@@ -7128,6 +7142,7 @@
             "fr": "Joseph",
             "it": "Giuseppe",
             "ko": "요셉",
+            "nl": "Jozef",
             "vi": "Giuse",
             "zh": "若瑟"
         }
