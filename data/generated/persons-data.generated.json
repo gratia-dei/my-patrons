@@ -8799,6 +8799,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/hos": {
+        "active": true,
+        "names": {
+            "de": "Maria Crescentia Höss",
+            "la": "Maria Crescentia Höss",
+            "en": "Mary Crescentia Höss",
+            "pl": "Maria Krescencja Höss"
+        },
+        "died": [
+            "1744-04-05"
+        ],
+        "feasts": []
+    },
     "patrons/maria/joz": {
         "active": true,
         "names": {

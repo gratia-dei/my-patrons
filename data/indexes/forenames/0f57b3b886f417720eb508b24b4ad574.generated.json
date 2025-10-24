@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Crescentia",
+        "en": "Crescentia",
+        "de": "Crescentia"
+    },
+    "translations": {
+        "la": [
+            "Crescentia"
+        ],
+        "en": [
+            "Crescentia"
+        ],
+        "pl": [
+            "Krescencja"
+        ],
+        "de": [
+            "Crescentia"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/hos": {
+            "de": "Maria Crescentia Höss",
+            "la": "Maria Crescentia Höss",
+            "en": "Mary Crescentia Höss",
+            "pl": "Maria Krescencja Höss"
+        }
+    }
+}

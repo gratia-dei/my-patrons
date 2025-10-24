@@ -330,6 +330,12 @@
             "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
             "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
         },
+        "records/patrons/maria/hos": {
+            "de": "Maria Crescentia Höss",
+            "la": "Maria Crescentia Höss",
+            "en": "Mary Crescentia Höss",
+            "pl": "Maria Krescencja Höss"
+        },
         "records/patrons/maria/joz": {
             "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
             "la": "Maria Daniela a Iusei et Maria Immaculata",

@@ -1,0 +1,56 @@
+{
+    "names": {
+        "de": [
+            "Maria Crescentia Höss"
+        ],
+        "la": [
+            "Maria Crescentia Höss"
+        ],
+        "en": [
+            "Mary Crescentia Höss"
+        ],
+        "pl": [
+            "Maria Krescencja Höss"
+        ]
+    },
+    "forenames": ["maria", "crescentia", "anna"],
+    "surnames": [
+        {
+            "de": "Höss"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1682-01-20"],
+    "died": ["1744-04-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900-10-07"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2001-11-25"
+    },
+    "anniversary": ["04-05"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./5#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-crescentia-hoss.html",
+        "gcatholic": "https://gcatholic.org/p/67140",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Krescencja_H%C3%B6ss"
+    }
+}

@@ -2610,6 +2610,21 @@
             }
         }
     },
+    "04-05": {
+        "records/patrons/maria/hos": {
+            "name": {
+                "de": "Maria Crescentia Höss",
+                "la": "Maria Crescentia Höss",
+                "en": "Mary Crescentia Höss",
+                "pl": "Maria Krescencja Höss"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 IV",
+                "feast": "5 IV",
+                "mr-2004": "5 IV: #10"
+            }
+        }
+    },
     "04-06": {
         "records/patrons/irenaeus/sir": {
             "name": {
