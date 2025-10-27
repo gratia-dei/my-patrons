@@ -8753,6 +8753,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/bel": {
+        "active": true,
+        "names": {
+            "it": "Maria Beltrame Quattrocchi",
+            "la": "Maria Beltrame Quattrocchi",
+            "en": "Mary Beltrame Quattrocchi",
+            "pl": "Maria Beltrame Quattrocchi"
+        },
+        "died": [
+            "1965-08-26"
+        ],
+        "feasts": []
+    },
     "patrons/maria/bie": {
         "active": false,
         "names": {

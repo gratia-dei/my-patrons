@@ -5939,6 +5939,21 @@
             }
         }
     },
+    "08-26": {
+        "records/patrons/maria/bel": {
+            "name": {
+                "it": "Maria Beltrame Quattrocchi",
+                "la": "Maria Beltrame Quattrocchi",
+                "en": "Mary Beltrame Quattrocchi",
+                "pl": "Maria Beltrame Quattrocchi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 VIII",
+                "feast": "26 VIII",
+                "mr-2004": "26 VIII: #15"
+            }
+        }
+    },
     "08-27": {
         "records/patrons/iacobus/gag": {
             "name": {
