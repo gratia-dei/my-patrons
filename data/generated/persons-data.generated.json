@@ -6098,6 +6098,18 @@
         ],
         "feasts": []
     },
+    "patrons/iacobus/duc": {
+        "active": true,
+        "names": {
+            "en": "James Duckett",
+            "la": "Iacobus Duckett",
+            "pl": "Jakub Duckett"
+        },
+        "died": [
+            "1602-04-19"
+        ],
+        "feasts": []
+    },
     "patrons/iacobus/gag": {
         "active": true,
         "names": {

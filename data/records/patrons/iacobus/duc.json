@@ -1,0 +1,47 @@
+{
+    "names": {
+        "en": [
+            "James Duckett"
+        ],
+        "la": [
+            "Iacobus Duckett"
+        ],
+        "pl": [
+            "Jakub Duckett"
+        ]
+    },
+    "forenames": ["iacobus"],
+    "surnames": [
+        {
+            "en": "Duckett"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1602-04-19"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "coniunx"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./19#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/66822",
+        "wiki": "https://en.wikipedia.org/wiki/James_Duckett"
+    }
+}

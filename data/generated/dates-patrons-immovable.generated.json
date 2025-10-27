@@ -2866,6 +2866,17 @@
         }
     },
     "04-19": {
+        "records/patrons/iacobus/duc": {
+            "name": {
+                "en": "James Duckett",
+                "la": "Iacobus Duckett",
+                "pl": "Jakub Duckett"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 IV",
+                "mr-2004": "19 IV: #8"
+            }
+        },
         "records/patrons/leo/9pp": {
             "name": {
                 "la": "Leo IX",

@@ -56,6 +56,11 @@
             "en": "Francis Borgia",
             "pl": "Franciszek Borgiasz"
         },
+        "records/patrons/iacobus/duc": {
+            "en": "James Duckett",
+            "la": "Iacobus Duckett",
+            "pl": "Jakub Duckett"
+        },
         "records/patrons/liliosa/fel": {
             "la": "Liliosa de Corduba; cum ea, i.a., Felix",
             "en": "Liliosa of Cordoba; with her, i.a., Felix",
