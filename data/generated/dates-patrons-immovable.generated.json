@@ -2921,6 +2921,20 @@
             }
         }
     },
+    "04-22": {
+        "records/patrons/franciscus/ven": {
+            "name": {
+                "it": "Francesco Venimbeni",
+                "la": "Franciscus Venimbeni",
+                "en": "Francis Venimbeni",
+                "pl": "Franciszek Venimbeni"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 IV",
+                "mr-2004": "22 IV: #11"
+            }
+        }
+    },
     "04-23": {
         "records/patrons/adalbertus/pra": {
             "name": {

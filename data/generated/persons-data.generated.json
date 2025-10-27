@@ -5002,6 +5002,19 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/ven": {
+        "active": true,
+        "names": {
+            "it": "Francesco Venimbeni",
+            "la": "Franciscus Venimbeni",
+            "en": "Francis Venimbeni",
+            "pl": "Franciszek Venimbeni"
+        },
+        "died": [
+            "1322-04-22"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/xav": {
         "active": true,
         "names": {

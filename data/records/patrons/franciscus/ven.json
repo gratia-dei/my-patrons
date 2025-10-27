@@ -1,0 +1,54 @@
+{
+    "names": {
+        "it": [
+            "Francesco Venimbeni",
+            "Francesco da Fabriano"
+        ],
+        "la": [
+            "Franciscus Venimbeni",
+            "Franciscus de Fabriano"
+        ],
+        "en": [
+            "Francis Venimbeni",
+            "Francis of Fabriano"
+        ],
+        "pl": [
+            "Franciszek Venimbeni",
+            "Franciszek z Fabriano"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "it": "Venimbeni"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1251-09-02"],
+    "died": ["1322-04-22"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./22#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68916",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_z_Fabriano"
+    }
+}

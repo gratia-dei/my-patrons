@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Venimbeni"
+    },
+    "translations": {
+        "it": [
+            "Venimbeni"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/ven": {
+            "it": "Francesco Venimbeni",
+            "la": "Franciscus Venimbeni",
+            "en": "Francis Venimbeni",
+            "pl": "Franciszek Venimbeni"
+        }
+    }
+}
