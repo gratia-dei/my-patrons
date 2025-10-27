@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/aloysius/bel": {
+            "it": "Luigi Beltrame Quattrocchi",
+            "la": "Aloysius Beltrame Quattrocchi",
+            "en": "Aloise Beltrame Quattrocchi",
+            "pl": "Alojzy Beltrame Quattrocchi"
+        },
         "records/patrons/iosephus/tua": {
             "vi": "Giuse Trần Văn Tuấn",
             "la": "Iosephus Trần Văn Tuấn",

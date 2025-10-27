@@ -898,6 +898,19 @@
             "it": "Luigi"
         }
     },
+    "patrons/aloysius/bel": {
+        "active": true,
+        "names": {
+            "it": "Luigi Beltrame Quattrocchi",
+            "la": "Aloysius Beltrame Quattrocchi",
+            "en": "Aloise Beltrame Quattrocchi",
+            "pl": "Alojzy Beltrame Quattrocchi"
+        },
+        "died": [
+            "1951-11-09"
+        ],
+        "feasts": []
+    },
     "patrons/aloysius/cam": {
         "active": true,
         "names": {

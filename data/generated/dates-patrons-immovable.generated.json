@@ -8711,6 +8711,19 @@
         }
     },
     "11-09": {
+        "records/patrons/aloysius/bel": {
+            "name": {
+                "it": "Luigi Beltrame Quattrocchi",
+                "la": "Aloysius Beltrame Quattrocchi",
+                "en": "Aloise Beltrame Quattrocchi",
+                "pl": "Alojzy Beltrame Quattrocchi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 XI",
+                "feast": "9 XI",
+                "mr-2004": "9 XI: #14"
+            }
+        },
         "records/patrons/henricus/hle": {
             "name": {
                 "pl": "Henryk Hlebowicz",

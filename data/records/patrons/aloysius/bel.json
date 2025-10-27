@@ -1,0 +1,53 @@
+{
+    "names": {
+        "it": [
+            "Luigi Beltrame Quattrocchi"
+        ],
+        "la": [
+            "Aloysius Beltrame Quattrocchi"
+        ],
+        "en": [
+            "Aloise Beltrame Quattrocchi"
+        ],
+        "pl": [
+            "Alojzy Beltrame Quattrocchi"
+        ]
+    },
+    "forenames": ["aloysius"],
+    "surnames": [
+        {
+            "it": "Beltrame Quattrocchi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1880-01-12"],
+    "died": ["1951-11-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-10-21"
+    },
+    "canonized": null,
+    "anniversary": ["11-09"],
+
+    "categories": ["vir", "paterfamilias"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./9#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/luigi-beltrame-quattrocchi-e-maria-corsini.html",
+        "gcatholic": "https://gcatholic.org/p/68019",
+        "wiki": "https://pl.wikipedia.org/wiki/Luigi_i_Maria_Beltrame_Quattrocchi"
+    }
+}
