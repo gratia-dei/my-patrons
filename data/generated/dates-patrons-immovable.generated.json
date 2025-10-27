@@ -3004,6 +3004,29 @@
                 "mr-2004": "26 IV: #4"
             }
         },
+        "records/patrons/stanislaus/kbs": {
+            "name": {
+                "pl": "Stanisław Kubista",
+                "la": "Stanislaus Kubista",
+                "en": "Stanislaus Kubista"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 IV",
+                "feast": "26 IV",
+                "mr-2004": "26 IV: #11"
+            }
+        },
+        "records/patrons/ladislaus/gor": {
+            "name": {
+                "pl": "Władysław Goral",
+                "la": "Ladislaus Goral",
+                "en": "Ladislaus Goral"
+            },
+            "sources": {
+                "feast": "26 IV",
+                "mr-2004": "26 IV: #11"
+            }
+        },
         "records/patrons/marcellinus/1pp": {
             "name": {
                 "la": "Marcellinus, Papa",

@@ -1954,6 +1954,11 @@
             "la": "Ladislaus de Gielniów",
             "en": "Ladislaus of Gielniów"
         },
+        "records/patrons/ladislaus/gor": {
+            "pl": "Władysław Goral",
+            "la": "Ladislaus Goral",
+            "en": "Ladislaus Goral"
+        },
         "records/patrons/laetantius/sci": {
             "la": "Laetantius de Scillium",
             "en": "Laetantius of Scillium",
@@ -2871,6 +2876,11 @@
             "pl": "Stanisław ze Szczepanowa",
             "en": "Stanislaus of Szczepanów",
             "la": "Stanislaus Cracoviensis"
+        },
+        "records/patrons/stanislaus/kbs": {
+            "pl": "Stanisław Kubista",
+            "la": "Stanislaus Kubista",
+            "en": "Stanislaus Kubista"
         },
         "records/patrons/stanislaus/kos": {
             "pl": "Stanisław Kostka",

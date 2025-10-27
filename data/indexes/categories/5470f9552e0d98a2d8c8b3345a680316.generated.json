@@ -396,6 +396,11 @@
             "en": "Juvenal of Narni",
             "pl": "Juwenalis z Narni"
         },
+        "records/patrons/ladislaus/gor": {
+            "pl": "Władysław Goral",
+            "la": "Ladislaus Goral",
+            "en": "Ladislaus Goral"
+        },
         "records/patrons/laurentius/can": {
             "en": "Laurence of Canterbury",
             "la": "Laurentius Cantuariensis",

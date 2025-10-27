@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Goral"
+    },
+    "translations": {
+        "pl": [
+            "Goral"
+        ]
+    },
+    "links": {
+        "records/patrons/ladislaus/gor": {
+            "pl": "Władysław Goral",
+            "la": "Ladislaus Goral",
+            "en": "Ladislaus Goral"
+        }
+    }
+}

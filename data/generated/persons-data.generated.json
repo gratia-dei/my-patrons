@@ -7772,6 +7772,18 @@
         ],
         "feasts": []
     },
+    "patrons/ladislaus/gor": {
+        "active": true,
+        "names": {
+            "pl": "Władysław Goral",
+            "la": "Ladislaus Goral",
+            "en": "Ladislaus Goral"
+        },
+        "died": [
+            "1945"
+        ],
+        "feasts": []
+    },
     "patrons/laetantius": {
         "names": {
             "la": "Laetantius",
@@ -12808,6 +12820,18 @@
         },
         "died": [
             "1079-04-11"
+        ],
+        "feasts": []
+    },
+    "patrons/stanislaus/kbs": {
+        "active": true,
+        "names": {
+            "pl": "Stanisław Kubista",
+            "la": "Stanislaus Kubista",
+            "en": "Stanislaus Kubista"
+        },
+        "died": [
+            "1940-04-26"
         ],
         "feasts": []
     },

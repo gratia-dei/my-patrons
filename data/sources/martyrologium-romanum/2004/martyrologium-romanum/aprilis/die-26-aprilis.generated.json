@@ -1,5 +1,9 @@
 {
     "data-links": {
+        "11": {
+            "1": "records/patrons/stanislaus/kbs",
+            "2": "records/patrons/ladislaus/gor"
+        },
         "4": {
             "1": "records/patrons/richarius/cen"
         }

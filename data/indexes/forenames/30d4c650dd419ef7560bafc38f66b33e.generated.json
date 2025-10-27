@@ -19,6 +19,11 @@
             "pl": "Władysław z Gielniowa",
             "la": "Ladislaus de Gielniów",
             "en": "Ladislaus of Gielniów"
+        },
+        "records/patrons/ladislaus/gor": {
+            "pl": "Władysław Goral",
+            "la": "Ladislaus Goral",
+            "en": "Ladislaus Goral"
         }
     }
 }
