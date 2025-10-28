@@ -1,0 +1,50 @@
+{
+    "names": {
+        "it": [
+            "Imelda Lambertini"
+        ],
+        "la": [
+            "Imelda Lambertini"
+        ],
+        "en": [
+            "Imelda Lambertini"
+        ],
+        "pl": [
+            "Imelda Lambertini"
+        ]
+    },
+    "forenames": ["imelda"],
+    "surnames": [
+        {
+            "it": "Lambertini"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1322"],
+    "died": ["1333-05-12"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/12#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68825",
+        "wiki": "https://pl.wikipedia.org/wiki/Imelda_Lambertini"
+    }
+}

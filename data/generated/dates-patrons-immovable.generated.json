@@ -3451,6 +3451,18 @@
         }
     },
     "05-12": {
+        "records/patrons/imelda/lam": {
+            "name": {
+                "it": "Imelda Lambertini",
+                "la": "Imelda Lambertini",
+                "en": "Imelda Lambertini",
+                "pl": "Imelda Lambertini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 V",
+                "mr-2004": "12 V: #10"
+            }
+        },
         "records/patrons/pancratius/rom": {
             "name": {
                 "la": "Pancratius de Roma",

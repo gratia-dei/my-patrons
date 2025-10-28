@@ -6426,6 +6426,27 @@
         ],
         "feasts": []
     },
+    "patrons/imelda": {
+        "names": {
+            "la": "Imelda",
+            "en": "Imelda",
+            "pl": "Imelda",
+            "it": "Imelda"
+        }
+    },
+    "patrons/imelda/lam": {
+        "active": true,
+        "names": {
+            "it": "Imelda Lambertini",
+            "la": "Imelda Lambertini",
+            "en": "Imelda Lambertini",
+            "pl": "Imelda Lambertini"
+        },
+        "died": [
+            "1333-05-12"
+        ],
+        "feasts": []
+    },
     "patrons/innocentius": {
         "names": {
             "la": "Innocentius",

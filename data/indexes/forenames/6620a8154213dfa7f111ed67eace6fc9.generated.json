@@ -2,7 +2,8 @@
     "names": {
         "la": "Imelda",
         "en": "Imelda",
-        "pl": "Imelda"
+        "pl": "Imelda",
+        "it": "Imelda"
     },
     "translations": {
         "la": [
@@ -13,9 +14,18 @@
         ],
         "pl": [
             "Imelda"
+        ],
+        "it": [
+            "Imelda"
         ]
     },
     "links": {
+        "records/patrons/imelda/lam": {
+            "it": "Imelda Lambertini",
+            "la": "Imelda Lambertini",
+            "en": "Imelda Lambertini",
+            "pl": "Imelda Lambertini"
+        },
         "records/patrons/maria/zak": {
             "pl": "Maria Imelda od Jezusa Hostii",
             "la": "Maria Imelda a Iesu Hostia",
