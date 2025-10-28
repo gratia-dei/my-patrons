@@ -2,7 +2,7 @@ Aby przygoda mogła się rozpocząć, potrzebny jest **Bóg oraz Ty!**
 
 **Macie z Bogiem wspólny cel - Twoje zbawienie!** Bóg tego pragnie, chce dać Ci Swoją **wielką miłość i niewyobrażalne szczęście**, dla których Cię stworzył! Tylko, że Ty także **musisz tego chcieć** - w absolutnej wolności, bo **do miłości nie da się nikogo zmusić**! Droga do celu może wydawać się Tobie teraz długa i żmudna, w dodatku **nie zawsze będziesz wiedzieć którędy iść**, bo życie często daje wiele różnych możliwości.
 
-Nasza inicjatywa _**„Moi Patroni”**_ powstała, by **stać się dla Ciebie drogowskazem**, który pozwoli Ci w nieco inny sposób, **lepiej poznać i ujrzeć piękno Boga i Kościoła**, a może także podpowie Ci bazując na sprawdzonej mądrości **Świętych i Błogosławionych**, która droga może być tą **właściwą dla Ciebie**! Do tego **Patroni to tacy superbohaterowie** naszych ... każdych czasów, dlatego na pewno warto z każdym z nich z osobna spędzić trochę czasu.
+Nasza inicjatywa _**„Moi Patroni”**_ powstała, by **stać się dla Ciebie drogowskazem**, który pozwoli Ci w nieco inny sposób, **lepiej poznać i ujrzeć piękno Boga i Kościoła**, a może także podpowie Ci bazując na sprawdzonej mądrości **Świętych i Błogosławionych**, która droga może być tą **właściwą dla Ciebie**! Do tego **Patroni to tacy superbohaterowie** naszych ..., każdych czasów, dlatego na pewno warto z każdym z nich z osobna spędzić trochę czasu.
 
 Wróćmy jednak do początku ...
 

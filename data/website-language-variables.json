@@ -419,7 +419,7 @@
     },
 
     "lang-brochure-patron-role-level-4": {
-        "pl": "<strong>Poziom IV</strong> - współdziałanie:"
+        "pl": "<strong>Poziom IV</strong> - wzrastanie:"
     },
 
     "lang-brochure-patron-role-guide": {
@@ -1917,8 +1917,8 @@
     },
 
     "lang-read-more-in-our-guide": {
-        "en": "read more in our guide",
-        "pl": "czytaj więcej w naszym przewodniku"
+        "en": "initiative guide",
+        "pl": "przewodnik po inicjatywie"
     },
 
     "lang-rebuild-page": {
