@@ -88,6 +88,12 @@
             "en": "Maracius the Great",
             "pl": "Makary Wielki"
         },
+        "records/patrons/magdalena/alb": {
+            "it": "Maddalena Albrici",
+            "la": "Magdalena Albrici",
+            "en": "Magdalena Albrici",
+            "pl": "Magdalena Albrici"
+        },
         "records/patrons/magnus/abb": {
             "de": "Magnus von Füssen",
             "la": "Magnus, abbas",

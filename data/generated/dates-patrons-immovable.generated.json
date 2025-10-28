@@ -3490,6 +3490,17 @@
                 "mr-1956": "13 V: #8",
                 "mr-2004": "13 V: #6"
             }
+        },
+        "records/patrons/magdalena/alb": {
+            "name": {
+                "it": "Maddalena Albrici",
+                "la": "Magdalena Albrici",
+                "en": "Magdalena Albrici",
+                "pl": "Magdalena Albrici"
+            },
+            "sources": {
+                "mr-2004": "13 V: #5"
+            }
         }
     },
     "05-14": {
@@ -3505,6 +3516,17 @@
         }
     },
     "05-15": {
+        "records/patrons/magdalena/alb": {
+            "name": {
+                "it": "Maddalena Albrici",
+                "la": "Magdalena Albrici",
+                "en": "Magdalena Albrici",
+                "pl": "Magdalena Albrici"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 V"
+            }
+        },
         "records/patrons/ioannes/sal": {
             "name": {
                 "fr": "Jean-Baptiste de la Salle",

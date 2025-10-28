@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Albrici"
+    },
+    "translations": {
+        "it": [
+            "Albrici"
+        ]
+    },
+    "links": {
+        "records/patrons/magdalena/alb": {
+            "it": "Maddalena Albrici",
+            "la": "Magdalena Albrici",
+            "en": "Magdalena Albrici",
+            "pl": "Magdalena Albrici"
+        }
+    }
+}

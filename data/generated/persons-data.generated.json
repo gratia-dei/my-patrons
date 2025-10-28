@@ -8410,6 +8410,19 @@
             "ko": "막달레나"
         }
     },
+    "patrons/magdalena/alb": {
+        "active": true,
+        "names": {
+            "it": "Maddalena Albrici",
+            "la": "Magdalena Albrici",
+            "en": "Magdalena Albrici",
+            "pl": "Magdalena Albrici"
+        },
+        "died": [
+            "1465-05-15"
+        ],
+        "feasts": []
+    },
     "patrons/magdalena/can": {
         "active": false,
         "names": {
