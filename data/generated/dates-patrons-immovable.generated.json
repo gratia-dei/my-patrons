@@ -3401,6 +3401,20 @@
         }
     },
     "05-11": {
+        "records/patrons/franciscus/ger": {
+            "name": {
+                "it": "Francesco de Geronimo",
+                "la": "Franciscus de Geronimo",
+                "en": "Francis de Geronimo",
+                "pl": "Franciszek de Hieronimo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 V",
+                "feast": "11 V",
+                "mr-1956": "11 V: #10",
+                "mr-2004": "11 V: #10"
+            }
+        },
         "records/patrons/ignatius/lac": {
             "name": {
                 "it": "Ignazio da Laconi",

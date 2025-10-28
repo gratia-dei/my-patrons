@@ -4902,6 +4902,19 @@
         ],
         "feasts": []
     },
+    "patrons/franciscus/ger": {
+        "active": true,
+        "names": {
+            "it": "Francesco de Geronimo",
+            "la": "Franciscus de Geronimo",
+            "en": "Francis de Geronimo",
+            "pl": "Franciszek de Hieronimo"
+        },
+        "died": [
+            "1716-05-11"
+        ],
+        "feasts": []
+    },
     "patrons/franciscus/kes": {
         "active": true,
         "names": {

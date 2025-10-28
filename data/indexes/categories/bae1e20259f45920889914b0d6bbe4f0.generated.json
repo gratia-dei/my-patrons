@@ -72,6 +72,12 @@
             "en": "Francis Borgia",
             "pl": "Franciszek Borgiasz"
         },
+        "records/patrons/franciscus/ger": {
+            "it": "Francesco de Geronimo",
+            "la": "Franciscus de Geronimo",
+            "en": "Francis de Geronimo",
+            "pl": "Franciszek de Hieronimo"
+        },
         "records/patrons/franciscus/xav": {
             "es": "Francisco Javier",
             "la": "Franciscus Xavier",

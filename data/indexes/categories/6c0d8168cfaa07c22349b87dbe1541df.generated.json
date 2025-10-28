@@ -204,6 +204,12 @@
             "la": "Franciscus Caracciolo",
             "pl": "Franciszek Caracciolo"
         },
+        "records/patrons/franciscus/ger": {
+            "it": "Francesco de Geronimo",
+            "la": "Franciscus de Geronimo",
+            "en": "Francis de Geronimo",
+            "pl": "Franciszek de Hieronimo"
+        },
         "records/patrons/franciscus/pau": {
             "it": "Francesco da Paola",
             "en": "Francis of Paola",

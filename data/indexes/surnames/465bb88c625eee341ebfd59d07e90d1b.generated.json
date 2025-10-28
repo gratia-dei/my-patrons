@@ -1,0 +1,25 @@
+{
+    "names": {
+        "pl": "de Hieronimo"
+    },
+    "translations": {
+        "it": [
+            "de Geronimo"
+        ],
+        "la": [
+            "de Geronimo",
+            "de Hieronymo"
+        ],
+        "pl": [
+            "de Hieronimo"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/ger": {
+            "it": "Francesco de Geronimo",
+            "la": "Franciscus de Geronimo",
+            "en": "Francis de Geronimo",
+            "pl": "Franciszek de Hieronimo"
+        }
+    }
+}
