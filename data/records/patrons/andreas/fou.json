@@ -1,41 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "André-Hubert Fournet"
+    "names": {
+        "fr": [
+            "André-Hubert Fournet"
+        ],
+        "la": [
+            "Andreas Hubertus Fournet"
+        ],
+        "en": [
+            "Andrew Hubert Fournet"
+        ],
+        "pl": [
+            "Andrzej Hubert Fournet"
+        ]
+    },
+    "forenames": ["andreas", "hubertus"],
+    "surnames": [
+        {
+            "fr": "Fournet"
+        }
     ],
-    "en": [
-      "Andrew Hubert Fournet"
-    ],
-    "la": [
-      "Andreas Hubertus Fournet"
-    ],
-    "pl": [
-      "Andrzej Hubert Fournet"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Fournet"
+    "active": true,
+
+    "born": ["1752-12-06"],
+    "died": ["1834-05-13"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1926-05-16"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1933-06-04"
+    },
+    "anniversary": ["05-13"],
+
+    "categories": ["vir", "confessor", "presbyter", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/13#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/13#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/andrea-uberto-fournet.html",
+        "gcatholic": "https://gcatholic.org/p/68068",
+        "wiki": "https://pl.wikipedia.org/wiki/Andrzej_Hubert_Fournet"
     }
-  ],
-
-  "born": ["1752-12-06"],
-  "died": ["1834-05-13"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1926-05-16"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1933-06-04"
-  },
-
-  "also-in-martyrology": ["05-13"],
-
-  "forenames": ["andreas", "hubertus"],
-  "categories": ["vir", "confessor", "presbyter", "fundator"],
-
-  "order-founder": ["fc"]
 }

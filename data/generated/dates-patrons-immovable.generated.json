@@ -3476,6 +3476,22 @@
             }
         }
     },
+    "05-13": {
+        "records/patrons/andreas/fou": {
+            "name": {
+                "fr": "André-Hubert Fournet",
+                "la": "Andreas Hubertus Fournet",
+                "en": "Andrew Hubert Fournet",
+                "pl": "Andrzej Hubert Fournet"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 V",
+                "feast": "13 V",
+                "mr-1956": "13 V: #8",
+                "mr-2004": "13 V: #6"
+            }
+        }
+    },
     "05-14": {
         "records/patrons/matthias/apo": {
             "name": {
