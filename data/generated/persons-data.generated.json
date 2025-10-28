@@ -11954,11 +11954,11 @@
         "feasts": []
     },
     "patrons/rosa/ven": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Rosa Venerini",
-            "en": "Rose Venerini",
             "la": "Rosa Venerini",
+            "en": "Rose Venerini",
             "pl": "Róża Venerini"
         },
         "died": [

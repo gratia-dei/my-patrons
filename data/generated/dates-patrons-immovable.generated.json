@@ -3356,6 +3356,21 @@
             }
         }
     },
+    "05-07": {
+        "records/patrons/rosa/ven": {
+            "name": {
+                "it": "Rosa Venerini",
+                "la": "Rosa Venerini",
+                "en": "Rose Venerini",
+                "pl": "Róża Venerini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 V",
+                "feast": "7 V",
+                "mr-2004": "7 V: #8"
+            }
+        }
+    },
     "05-11": {
         "records/patrons/ignatius/lac": {
             "name": {
