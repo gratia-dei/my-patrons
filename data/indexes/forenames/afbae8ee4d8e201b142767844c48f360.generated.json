@@ -27,6 +27,11 @@
             "en": "Stephen Theodore Cuenot",
             "pl": "Stefan Teodor Cuenot"
         },
+        "records/patrons/stephanus/gre": {
+            "pl": "Stefan Grelewski",
+            "la": "Stephanus Grelewski",
+            "en": "Stephen Grelewski"
+        },
         "records/patrons/stephanus/pro": {
             "la": "Stephanus protomartyr",
             "en": "Stephen Protomartyr",

@@ -12958,6 +12958,18 @@
         ],
         "feasts": []
     },
+    "patrons/stephanus/gre": {
+        "active": true,
+        "names": {
+            "pl": "Stefan Grelewski",
+            "la": "Stephanus Grelewski",
+            "en": "Stephen Grelewski"
+        },
+        "died": [
+            "1941-05-09"
+        ],
+        "feasts": []
+    },
     "patrons/stephanus/pro": {
         "active": true,
         "names": {

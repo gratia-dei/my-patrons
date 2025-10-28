@@ -1,32 +1,27 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
-        "la": "?..."
+        "page": 277,
+        "la": "..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
+        "page": 278,
         "la": "..."
     },
 
@@ -51,7 +46,6 @@
     },
 
     "11": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -62,41 +56,6 @@
 
     "13": {
         "mark": "*",
-        "la": "..."
-    },
-
-    "14": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
-        "mark": "*",
-        "la": "..."
+        "la": "Intra castra detentionis Dachani prope Monachium Bavariae in Germania, beati [1|Stephani Grelewski], presbyteri et martyris, ..."
     }
 }

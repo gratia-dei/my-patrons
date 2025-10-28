@@ -3371,6 +3371,20 @@
             }
         }
     },
+    "05-09": {
+        "records/patrons/stephanus/gre": {
+            "name": {
+                "pl": "Stefan Grelewski",
+                "la": "Stephanus Grelewski",
+                "en": "Stephen Grelewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 V",
+                "feast": "9 V",
+                "mr-2004": "9 V: #13"
+            }
+        }
+    },
     "05-11": {
         "records/patrons/ignatius/lac": {
             "name": {
