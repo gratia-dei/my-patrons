@@ -3329,6 +3329,20 @@
             }
         }
     },
+    "05-05": {
+        "records/patrons/gregorius/fra": {
+            "name": {
+                "pl": "Grzegorz Frąckowiak",
+                "la": "Gregorius Frąckowiak",
+                "en": "Gregory Frąckowiak"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 V",
+                "feast": "5 V",
+                "mr-2004": "5 V: #17"
+            }
+        }
+    },
     "05-06": {
         "records/patrons/dominicus/sav": {
             "name": {

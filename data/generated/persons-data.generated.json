@@ -5555,11 +5555,11 @@
         "feasts": []
     },
     "patrons/gregorius/fra": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Grzegorz Frąckowiak",
-            "en": "Gregory Frąckowiak",
-            "la": "Gregorius Frąckowiak"
+            "la": "Gregorius Frąckowiak",
+            "en": "Gregory Frąckowiak"
         },
         "died": [
             "1943-05-05"
