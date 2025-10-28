@@ -3450,6 +3450,20 @@
             }
         }
     },
+    "05-12": {
+        "records/patrons/pancratius/rom": {
+            "name": {
+                "la": "Pancratius de Roma",
+                "en": "Pancras of Rome",
+                "pl": "Pankracy z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "12 V: #2",
+                "mr-1956": "12 V: #2",
+                "mr-2004": "12 V: #2"
+            }
+        }
+    },
     "05-14": {
         "records/patrons/matthias/apo": {
             "name": {

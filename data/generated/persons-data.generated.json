@@ -10704,14 +10704,14 @@
         }
     },
     "patrons/pancratius/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Pancratius de Roma",
             "en": "Pancras of Rome",
             "pl": "Pankracy z Rzymu"
         },
         "died": [
-            "~304"
+            "~303"
         ],
         "feasts": []
     },

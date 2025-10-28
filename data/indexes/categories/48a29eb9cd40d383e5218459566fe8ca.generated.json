@@ -41,6 +41,11 @@
             "en": "Justus /+ Pastor",
             "pl": "Just /+ Pastor"
         },
+        "records/patrons/pancratius/rom": {
+            "la": "Pancratius de Roma",
+            "en": "Pancras of Rome",
+            "pl": "Pankracy z Rzymu"
+        },
         "records/patrons/quiricus/iul": {
             "el": "Κήρυκος /+ Ιουλίττα",
             "en": "Cyricus /+ Julitta",
