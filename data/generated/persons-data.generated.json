@@ -5792,7 +5792,8 @@
             "la": "Henricus",
             "en": "Henry",
             "pl": "Henryk",
-            "es": "Enrique"
+            "es": "Enrique",
+            "it": "Enrico"
         }
     },
     "patrons/henricus/hle": {
@@ -5829,6 +5830,19 @@
         },
         "died": [
             "1936-10-04"
+        ],
+        "feasts": []
+    },
+    "patrons/henricus/reb": {
+        "active": true,
+        "names": {
+            "it": "Enrico Rebuschini",
+            "la": "Henricus Rebuschini",
+            "en": "Henry Rebuschini",
+            "pl": "Henryk Rebuschini"
+        },
+        "died": [
+            "1938-05-10"
         ],
         "feasts": []
     },

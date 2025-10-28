@@ -14,6 +14,9 @@
         ],
         "es": [
             "Enrique"
+        ],
+        "it": [
+            "Enrico"
         ]
     },
     "links": {
@@ -32,6 +35,12 @@
             "en": "Henry Morant Pellicer",
             "la": "Henricus Morant Pellicer",
             "pl": "Henryk Morant Pellicer"
+        },
+        "records/patrons/henricus/reb": {
+            "it": "Enrico Rebuschini",
+            "la": "Henricus Rebuschini",
+            "en": "Henry Rebuschini",
+            "pl": "Henryk Rebuschini"
         }
     }
 }

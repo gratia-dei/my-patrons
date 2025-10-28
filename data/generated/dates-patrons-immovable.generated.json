@@ -3385,6 +3385,21 @@
             }
         }
     },
+    "05-10": {
+        "records/patrons/henricus/reb": {
+            "name": {
+                "it": "Enrico Rebuschini",
+                "la": "Henricus Rebuschini",
+                "en": "Henry Rebuschini",
+                "pl": "Henryk Rebuschini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 V",
+                "feast": "10 V",
+                "mr-2004": "10 V: #14"
+            }
+        }
+    },
     "05-11": {
         "records/patrons/ignatius/lac": {
             "name": {
