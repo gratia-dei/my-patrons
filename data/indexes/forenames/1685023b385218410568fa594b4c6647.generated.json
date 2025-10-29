@@ -1,0 +1,30 @@
+{
+    "names": {
+        "la": "Gonzaga",
+        "en": "Gonzaga",
+        "pl": "Gonzaga",
+        "sw": "Gonzaga"
+    },
+    "translations": {
+        "la": [
+            "Gonzaga"
+        ],
+        "en": [
+            "Gonzaga"
+        ],
+        "pl": [
+            "Gonzaga"
+        ],
+        "sw": [
+            "Gonzaga"
+        ]
+    },
+    "links": {
+        "records/patrons/gonzaga/gon": {
+            "sw": "Gonzaga Gonza",
+            "la": "Gonzaga Gonza",
+            "en": "Gonzaga Gonza",
+            "pl": "Gonzaga Gonza"
+        }
+    }
+}

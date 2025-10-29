@@ -5555,6 +5555,27 @@
         ],
         "feasts": []
     },
+    "patrons/gonzaga": {
+        "names": {
+            "la": "Gonzaga",
+            "en": "Gonzaga",
+            "pl": "Gonzaga",
+            "sw": "Gonzaga"
+        }
+    },
+    "patrons/gonzaga/gon": {
+        "active": true,
+        "names": {
+            "sw": "Gonzaga Gonza",
+            "la": "Gonzaga Gonza",
+            "en": "Gonzaga Gonza",
+            "pl": "Gonzaga Gonza"
+        },
+        "died": [
+            "1886-05-27"
+        ],
+        "feasts": []
+    },
     "patrons/gregorius": {
         "names": {
             "la": "Gregorius",

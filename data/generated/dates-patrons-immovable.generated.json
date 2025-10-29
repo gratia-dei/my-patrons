@@ -3865,6 +3865,20 @@
             }
         }
     },
+    "05-27": {
+        "records/patrons/gonzaga/gon": {
+            "name": {
+                "sw": "Gonzaga Gonza",
+                "la": "Gonzaga Gonza",
+                "en": "Gonzaga Gonza",
+                "pl": "Gonzaga Gonza"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 V",
+                "mr-2004": "27 V: #10"
+            }
+        }
+    },
     "05-28": {
         "records/patrons/stephanus/wys": {
             "name": {
