@@ -1,32 +1,51 @@
 {
-  "names": {
-    "la": [
-      "Urbanus I"
+    "names": {
+        "la": [
+            "Urbanus I"
+        ],
+        "en": [
+            "Urban I"
+        ],
+        "pl": [
+            "Urban I"
+        ]
+    },
+    "forenames": ["urbanus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Primus",
+            "en": "the First",
+            "pl": "Pierwszy"
+        }
     ],
-    "en": [
-      "Urban I"
-    ],
-    "pl": [
-      "Urban I"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Primus",
-      "en": "the First",
-      "pl": "Pierwszy"
+    "active": true,
+
+    "born": null,
+    "died": ["230-05-23"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./25#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/19#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#17"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/U01",
+        "wiki": "https://pl.wikipedia.org/wiki/Urban_I"
     }
-  ],
-
-  "died": ["230-05-23"],
-
-  "also-in-martyrology": ["05-19"],
-
-  "forenames": ["urbanus"],
-  "categories": ["vir", "martyr", "papa"],
-
-  "data-links": {
-    "popes": ["1:#17"]
-  }
 }

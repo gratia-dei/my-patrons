@@ -3619,6 +3619,18 @@
             }
         }
     },
+    "05-19": {
+        "records/patrons/urbanus/1pp": {
+            "name": {
+                "la": "Urbanus I",
+                "en": "Urban I",
+                "pl": "Urban I"
+            },
+            "sources": {
+                "mr-2004": "19 V: #1"
+            }
+        }
+    },
     "05-20": {
         "records/patrons/lydia/thy": {
             "name": {
@@ -3693,6 +3705,18 @@
             }
         }
     },
+    "05-23": {
+        "records/patrons/urbanus/1pp": {
+            "name": {
+                "la": "Urbanus I",
+                "en": "Urban I",
+                "pl": "Urban I"
+            },
+            "sources": {
+                "reliable-death-anniversary": "23 V"
+            }
+        }
+    },
     "05-25": {
         "records/patrons/augustinus/cal": {
             "name": {
@@ -3754,6 +3778,17 @@
             },
             "sources": {
                 "feast": "25 V"
+            }
+        },
+        "records/patrons/urbanus/1pp": {
+            "name": {
+                "la": "Urbanus I",
+                "en": "Urban I",
+                "pl": "Urban I"
+            },
+            "sources": {
+                "mr-1584": "25 V: #1",
+                "mr-1956": "25 V: #2"
             }
         }
     },
