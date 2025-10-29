@@ -3530,6 +3530,18 @@
         }
     },
     "05-15": {
+        "records/patrons/andreas/abe": {
+            "name": {
+                "fr": "André Abellon",
+                "la": "Andreas Abellon",
+                "en": "Andrew Abellon",
+                "pl": "Andrzej Abellon"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 V",
+                "mr-2004": "15 V: #11"
+            }
+        },
         "records/patrons/magdalena/alb": {
             "name": {
                 "it": "Maddalena Albrici",

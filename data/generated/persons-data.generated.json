@@ -1150,6 +1150,19 @@
             "pt": "André"
         }
     },
+    "patrons/andreas/abe": {
+        "active": true,
+        "names": {
+            "fr": "André Abellon",
+            "la": "Andreas Abellon",
+            "en": "Andrew Abellon",
+            "pl": "Andrzej Abellon"
+        },
+        "died": [
+            "1450-05-15"
+        ],
+        "feasts": []
+    },
     "patrons/andreas/alr": {
         "active": true,
         "names": {
