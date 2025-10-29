@@ -1,0 +1,53 @@
+{
+    "names": {
+        "it": [
+            "Antonia Mesina"
+        ],
+        "la": [
+            "Antonia Mesina"
+        ],
+        "en": [
+            "Anthonia Mesina"
+        ],
+        "pl": [
+            "Antonia Mesina"
+        ]
+    },
+    "forenames": ["antonia"],
+    "surnames": [
+        {
+            "it": "Mesina"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1919-06-21"],
+    "died": ["1935-05-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-10-04"
+    },
+    "canonized": null,
+    "anniversary": ["05-17"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/17#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/antonia-mesina.html",
+        "gcatholic": "https://gcatholic.org/p/67929",
+        "wiki": "https://pl.wikipedia.org/wiki/Antonia_Mesina"
+    }
+}

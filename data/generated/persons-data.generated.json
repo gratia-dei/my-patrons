@@ -1421,6 +1421,27 @@
         ],
         "feasts": []
     },
+    "patrons/antonia": {
+        "names": {
+            "la": "Antonia",
+            "en": "Anthonia",
+            "pl": "Antonia",
+            "it": "Antonia"
+        }
+    },
+    "patrons/antonia/mes": {
+        "active": true,
+        "names": {
+            "it": "Antonia Mesina",
+            "la": "Antonia Mesina",
+            "en": "Anthonia Mesina",
+            "pl": "Antonia Mesina"
+        },
+        "died": [
+            "1935-05-17"
+        ],
+        "feasts": []
+    },
     "patrons/antoninus": {
         "names": {
             "la": "Antoninus",

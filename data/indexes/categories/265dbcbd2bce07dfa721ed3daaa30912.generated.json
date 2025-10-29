@@ -176,6 +176,12 @@
             "en": "Antiochus of Anastasiopolis",
             "pl": "Antioch z Anastasiopolis"
         },
+        "records/patrons/antonia/mes": {
+            "it": "Antonia Mesina",
+            "la": "Antonia Mesina",
+            "en": "Anthonia Mesina",
+            "pl": "Antonia Mesina"
+        },
         "records/patrons/antoninus/apa": {
             "la": "Antoninus de Apamea",
             "en": "Antoninus of Apamea",

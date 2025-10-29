@@ -1,0 +1,27 @@
+{
+    "names": {
+        "en": "Anthonia"
+    },
+    "translations": {
+        "la": [
+            "Antonia"
+        ],
+        "en": [
+            "Anthonia"
+        ],
+        "pl": [
+            "Antonia"
+        ],
+        "it": [
+            "Antonia"
+        ]
+    },
+    "links": {
+        "records/patrons/antonia/mes": {
+            "it": "Antonia Mesina",
+            "la": "Antonia Mesina",
+            "en": "Anthonia Mesina",
+            "pl": "Antonia Mesina"
+        }
+    }
+}

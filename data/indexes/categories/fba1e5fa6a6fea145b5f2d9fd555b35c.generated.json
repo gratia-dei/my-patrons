@@ -64,6 +64,12 @@
             "en": "Anna, mother of Mary",
             "pl": "Anna, matka Maryi"
         },
+        "records/patrons/antonia/mes": {
+            "it": "Antonia Mesina",
+            "la": "Antonia Mesina",
+            "en": "Anthonia Mesina",
+            "pl": "Antonia Mesina"
+        },
         "records/patrons/apollonia/ale": {
             "la": "Apollonia de Alexandria",
             "en": "Apollonia of Alexandria",
