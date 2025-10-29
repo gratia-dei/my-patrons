@@ -1,0 +1,30 @@
+{
+    "names": {
+        "la": "Noe",
+        "en": "Noe",
+        "pl": "Noe",
+        "sw": "Noe"
+    },
+    "translations": {
+        "la": [
+            "Noe"
+        ],
+        "en": [
+            "Noe"
+        ],
+        "pl": [
+            "Noe"
+        ],
+        "sw": [
+            "Noe"
+        ]
+    },
+    "links": {
+        "records/patrons/noe/maw": {
+            "sw": "Noe Mawaggali",
+            "la": "Noe Mawaggali",
+            "en": "Noe Mawaggali",
+            "pl": "Noe Mawaggali"
+        }
+    }
+}

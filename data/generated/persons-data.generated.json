@@ -10703,6 +10703,27 @@
         ],
         "feasts": []
     },
+    "patrons/noe": {
+        "names": {
+            "la": "Noe",
+            "en": "Noe",
+            "pl": "Noe",
+            "sw": "Noe"
+        }
+    },
+    "patrons/noe/maw": {
+        "active": true,
+        "names": {
+            "sw": "Noe Mawaggali",
+            "la": "Noe Mawaggali",
+            "en": "Noe Mawaggali",
+            "pl": "Noe Mawaggali"
+        },
+        "died": [
+            "1886-05-31"
+        ],
+        "feasts": []
+    },
     "patrons/nonius": {
         "names": {
             "la": "Nonius",

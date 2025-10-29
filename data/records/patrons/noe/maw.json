@@ -1,0 +1,56 @@
+{
+    "names": {
+        "sw": [
+            "Noe Mawaggali"
+        ],
+        "la": [
+            "Noe Mawaggali"
+        ],
+        "en": [
+            "Noe Mawaggali"
+        ],
+        "pl": [
+            "Noe Mawaggali"
+        ]
+    },
+    "forenames": ["noe"],
+    "surnames": [
+        {
+            "sw": "Mawaggali"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1886-05-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1920-06-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1964-10-18"
+    },
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/31#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-dell-uganda.html",
+        "gcatholic": "https://gcatholic.org/p/66473",
+        "wiki": "https://pl.wikipedia.org/wiki/Noe_Mwaggali"
+    }
+}

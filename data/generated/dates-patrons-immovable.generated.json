@@ -3932,6 +3932,20 @@
             }
         }
     },
+    "05-31": {
+        "records/patrons/noe/maw": {
+            "name": {
+                "sw": "Noe Mawaggali",
+                "la": "Noe Mawaggali",
+                "en": "Noe Mawaggali",
+                "pl": "Noe Mawaggali"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 V",
+                "mr-2004": "31 V: #12"
+            }
+        }
+    },
     "06-01": {
         "records/patrons/iustinus/phi": {
             "name": {
