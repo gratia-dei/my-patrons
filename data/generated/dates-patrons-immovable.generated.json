@@ -3715,6 +3715,50 @@
             "sources": {
                 "reliable-death-anniversary": "23 V"
             }
+        },
+        "records/patrons/iosephus/kur": {
+            "name": {
+                "pl": "Józef Kurzawa",
+                "la": "Iosephus Kurzawa",
+                "en": "Joseph Kurzawa"
+            },
+            "sources": {
+                "feast": "23 V",
+                "mr-2004": "23 V: #13"
+            }
+        },
+        "records/patrons/vincentius/mat": {
+            "name": {
+                "pl": "Wincenty Matuszewski",
+                "la": "Vincentius Matuszewski",
+                "en": "Vincent Matuszewski"
+            },
+            "sources": {
+                "feast": "23 V",
+                "mr-2004": "23 V: #13"
+            }
+        }
+    },
+    "05-24": {
+        "records/patrons/iosephus/kur": {
+            "name": {
+                "pl": "Józef Kurzawa",
+                "la": "Iosephus Kurzawa",
+                "en": "Joseph Kurzawa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 V"
+            }
+        },
+        "records/patrons/vincentius/mat": {
+            "name": {
+                "pl": "Wincenty Matuszewski",
+                "la": "Vincentius Matuszewski",
+                "en": "Vincent Matuszewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 V"
+            }
         }
     },
     "05-25": {

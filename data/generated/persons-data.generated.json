@@ -7306,14 +7306,13 @@
         "feasts": []
     },
     "patrons/iosephus/kur": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Józef Kurzawa",
-            "en": "Joseph Kurzawa",
-            "la": "Iosephus Kurzawa"
+            "la": "Iosephus Kurzawa",
+            "en": "Joseph Kurzawa"
         },
         "died": [
-            "1940-05-23",
             "1940-05-24"
         ],
         "feasts": []
@@ -14097,6 +14096,18 @@
         },
         "died": [
             "1223-03-08"
+        ],
+        "feasts": []
+    },
+    "patrons/vincentius/mat": {
+        "active": true,
+        "names": {
+            "pl": "Wincenty Matuszewski",
+            "la": "Vincentius Matuszewski",
+            "en": "Vincent Matuszewski"
+        },
+        "died": [
+            "1940-05-24"
         ],
         "feasts": []
     },

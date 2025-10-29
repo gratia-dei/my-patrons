@@ -622,8 +622,8 @@
         },
         "records/patrons/iosephus/kur": {
             "pl": "Józef Kurzawa",
-            "en": "Joseph Kurzawa",
-            "la": "Iosephus Kurzawa"
+            "la": "Iosephus Kurzawa",
+            "en": "Joseph Kurzawa"
         },
         "records/patrons/iosephus/kut": {
             "pl": "Józef Kut",
@@ -1008,6 +1008,11 @@
             "en": "Vincent Grossi",
             "la": "Vincentius Grossi",
             "pl": "Wincenty Grossi"
+        },
+        "records/patrons/vincentius/mat": {
+            "pl": "Wincenty Matuszewski",
+            "la": "Vincentius Matuszewski",
+            "en": "Vincent Matuszewski"
         },
         "records/patrons/vincentius/pal": {
             "it": "Vincenzo Pallotti",

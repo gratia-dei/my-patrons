@@ -1104,8 +1104,8 @@
         },
         "records/patrons/iosephus/kur": {
             "pl": "Józef Kurzawa",
-            "en": "Joseph Kurzawa",
-            "la": "Iosephus Kurzawa"
+            "la": "Iosephus Kurzawa",
+            "en": "Joseph Kurzawa"
         },
         "records/patrons/iosephus/kut": {
             "pl": "Józef Kut",
@@ -2270,6 +2270,11 @@
             "en": "Victorinus of Pettau",
             "la": "Victorinus Petovionensis",
             "pl": "Wiktoryn z Patawii"
+        },
+        "records/patrons/vincentius/mat": {
+            "pl": "Wincenty Matuszewski",
+            "la": "Vincentius Matuszewski",
+            "en": "Vincent Matuszewski"
         },
         "records/patrons/vintrungus/eob": {
             "la": "Vintrungus; cum eo, i.a., Eobanus",

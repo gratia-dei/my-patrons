@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Matuszewski"
+    },
+    "translations": {
+        "pl": [
+            "Matuszewski"
+        ]
+    },
+    "links": {
+        "records/patrons/vincentius/mat": {
+            "pl": "Wincenty Matuszewski",
+            "la": "Vincentius Matuszewski",
+            "en": "Vincent Matuszewski"
+        }
+    }
+}
