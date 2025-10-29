@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Woźniak"
+    },
+    "translations": {
+        "pl": [
+            "Woźniak"
+        ]
+    },
+    "links": {
+        "records/patrons/michael/woz": {
+            "pl": "Michał Woźniak",
+            "la": "Michael Woźniak",
+            "en": "Michael Woźniak"
+        }
+    }
+}

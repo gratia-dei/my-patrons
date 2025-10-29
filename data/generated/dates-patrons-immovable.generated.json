@@ -3566,6 +3566,18 @@
         }
     },
     "05-16": {
+        "records/patrons/michael/woz": {
+            "name": {
+                "pl": "Michał Woźniak",
+                "la": "Michael Woźniak",
+                "en": "Michael Woźniak"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 V",
+                "feast": "16 V",
+                "mr-2004": "16 V: #16"
+            }
+        },
         "records/patrons/ioannes/nep": {
             "name": {
                 "cs": "Jan Nepomucký",

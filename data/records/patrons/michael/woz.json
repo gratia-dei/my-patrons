@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Michał Woźniak"
+        ],
+        "la": [
+            "Michael Woźniak"
+        ],
+        "en": [
+            "Michael Woźniak"
+        ]
+    },
+    "forenames": ["michael"],
+    "surnames": [
+        {
+            "pl": "Woźniak"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1875-09-09"],
+    "died": ["1942-05-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["05-16"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/16#16"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67766",
+        "wiki": "https://pl.wikipedia.org/wiki/Micha%C5%82_Wo%C5%BAniak_(m%C4%99czennik)"
+    }
+}

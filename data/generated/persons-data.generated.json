@@ -10060,6 +10060,18 @@
         ],
         "feasts": []
     },
+    "patrons/michael/woz": {
+        "active": true,
+        "names": {
+            "pl": "Michał Woźniak",
+            "la": "Michael Woźniak",
+            "en": "Michael Woźniak"
+        },
+        "died": [
+            "1942-05-16"
+        ],
+        "feasts": []
+    },
     "patrons/modestus": {
         "names": {
             "la": "Modestus",
