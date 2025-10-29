@@ -417,6 +417,12 @@
             "en": "Lucian of Lentini",
             "pl": "Lucjan z Lentini"
         },
+        "records/patrons/ludovicus/mor": {
+            "fr": "Louis-Zéphirin Moreau",
+            "la": "Ludovicus Zephyrinus Moreau",
+            "en": "Louis Zephyrinus Moreau",
+            "pl": "Ludwik Zefiryn Moreau"
+        },
         "records/patrons/macarius/hie": {
             "el": "Μακάριος Ἱεροσολύμων",
             "en": "Macarius of Jerusalem",

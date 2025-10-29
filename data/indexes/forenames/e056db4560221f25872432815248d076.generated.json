@@ -1,19 +1,22 @@
 {
     "names": {
-        "fr": "Moreau"
+        "fr": "Zéphirin"
     },
     "translations": {
+        "la": [
+            "Zephyrinus"
+        ],
+        "en": [
+            "Zephyrinus"
+        ],
+        "pl": [
+            "Zefiryn"
+        ],
         "fr": [
-            "Moreau"
+            "Zéphirin"
         ]
     },
     "links": {
-        "records/patrons/iosephus/mor": {
-            "fr": "Joseph Moreau",
-            "en": "Joseph Moreau",
-            "la": "Iosephus Moreau",
-            "pl": "Józef Moreau"
-        },
         "records/patrons/ludovicus/mor": {
             "fr": "Louis-Zéphirin Moreau",
             "la": "Ludovicus Zephyrinus Moreau",

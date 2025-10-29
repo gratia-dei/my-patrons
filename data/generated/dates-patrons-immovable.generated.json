@@ -3750,6 +3750,19 @@
                 "reliable-death-anniversary": "24 V"
             }
         },
+        "records/patrons/ludovicus/mor": {
+            "name": {
+                "fr": "Louis-Zéphirin Moreau",
+                "la": "Ludovicus Zephyrinus Moreau",
+                "en": "Louis Zephyrinus Moreau",
+                "pl": "Ludwik Zefiryn Moreau"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 V",
+                "feast": "24 V",
+                "mr-2004": "24 V: #12"
+            }
+        },
         "records/patrons/vincentius/mat": {
             "name": {
                 "pl": "Wincenty Matuszewski",

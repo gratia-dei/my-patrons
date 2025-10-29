@@ -8343,6 +8343,19 @@
         ],
         "feasts": []
     },
+    "patrons/ludovicus/mor": {
+        "active": true,
+        "names": {
+            "fr": "Louis-Zéphirin Moreau",
+            "la": "Ludovicus Zephyrinus Moreau",
+            "en": "Louis Zephyrinus Moreau",
+            "pl": "Ludwik Zefiryn Moreau"
+        },
+        "died": [
+            "1901-05-24"
+        ],
+        "feasts": []
+    },
     "patrons/ludovicus/mzy": {
         "active": true,
         "names": {
