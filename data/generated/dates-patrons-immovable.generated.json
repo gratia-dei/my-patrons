@@ -3504,6 +3504,20 @@
         }
     },
     "05-14": {
+        "records/patrons/maria/maz": {
+            "name": {
+                "it": "Maria Domenica Mazzarello",
+                "la": "Maria Dominica Mazzarello",
+                "en": "Maria Dominica Mazzarello",
+                "pl": "Maria Dominika Mazzarello"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 V",
+                "feast": "14 V",
+                "mr-1956": "14 V: #7",
+                "mr-2004": "14 V: #15"
+            }
+        },
         "records/patrons/matthias/apo": {
             "name": {
                 "la": "Matthias Apostolus",

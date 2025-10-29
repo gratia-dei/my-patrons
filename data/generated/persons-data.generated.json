@@ -9098,6 +9098,19 @@
         ],
         "feasts": []
     },
+    "patrons/maria/maz": {
+        "active": true,
+        "names": {
+            "it": "Maria Domenica Mazzarello",
+            "la": "Maria Dominica Mazzarello",
+            "en": "Maria Dominica Mazzarello",
+            "pl": "Maria Dominika Mazzarello"
+        },
+        "died": [
+            "1881-05-14"
+        ],
+        "feasts": []
+    },
     "patrons/maria/nar": {
         "active": true,
         "names": {
