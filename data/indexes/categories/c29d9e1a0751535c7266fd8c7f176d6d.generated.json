@@ -117,6 +117,11 @@
             "la": "Tatianus de Aquileia",
             "en": "Tatian of Aquileia",
             "pl": "Tacjan z Akwilei"
+        },
+        "records/patrons/vincentius/xys": {
+            "la": "Vincentius de Roma, subdiaconus Xysti Pp. II",
+            "en": "Vincent of Rome, subdeacon of Xystus II",
+            "pl": "Wincenty z Rzymu, subdiakon Sykstusa II"
         }
     }
 }
