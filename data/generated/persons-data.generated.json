@@ -4566,6 +4566,18 @@
         ],
         "feasts": []
     },
+    "patrons/felicissimus/xys": {
+        "active": true,
+        "names": {
+            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
+            "en": "Felicissimus of Rome, deacon of Xystus II",
+            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
+        },
+        "died": [
+            "258-08-06"
+        ],
+        "feasts": []
+    },
     "patrons/felicitas": {
         "names": {
             "la": "Felicitas",

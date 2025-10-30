@@ -702,6 +702,11 @@
             "en": "Felicissimus of Carthage",
             "pl": "Felicyssym z Kartaginy"
         },
+        "records/patrons/felicissimus/xys": {
+            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
+            "en": "Felicissimus of Rome, deacon of Xystus II",
+            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
+        },
         "records/patrons/felicitas/car": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",

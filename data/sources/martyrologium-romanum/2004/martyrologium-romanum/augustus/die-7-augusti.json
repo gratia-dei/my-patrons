@@ -1,36 +1,33 @@
 {
     "1": {
-        "page": "...",
+        "page": 437,
+        "mark": "!",
+        "la": "Sanctorum [1|Xysti papae Secundi] et sociorum, martyrum. Xystus ... sexta augusti; cum eo [todo-2|diaconi quattuor martyrium]/[todo-3|+]/[todo-4|+]/[todo-5|+] passi sunt ... et Romae ... depositi sunt. Eodem die sancti [todo-6|Agapitus] et [7|Felicissimus] ipsi, eius diaconi, in ... sunt."
+    },
+
+    "2": {
         "mark": "!",
         "la": "?..."
     },
 
-    "2": {
-        "mark": "*",
-        "la": "..."
-    },
-
     "3": {
-        "mark": "*",
         "la": "..."
     },
 
     "4": {
-        "mark": "*",
         "la": "..."
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
+        "page": 438,
         "mark": "*",
         "la": "..."
     },
@@ -76,27 +73,7 @@
     },
 
     "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
-        "mark": "*",
+        "page": 439,
         "la": "..."
     }
 }

@@ -47,6 +47,11 @@
             "en": "Ephrem the Syrian",
             "pl": "Efrem Syryjczyk"
         },
+        "records/patrons/felicissimus/xys": {
+            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
+            "en": "Felicissimus of Rome, deacon of Xystus II",
+            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
+        },
         "records/patrons/festus/ben": {
             "la": "Festus Beneventanus",
             "en": "Festus of Benevento",
