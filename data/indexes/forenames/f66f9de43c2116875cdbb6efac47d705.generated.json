@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Quartus",
+        "en": "Quartus"
+    },
+    "translations": {
+        "la": [
+            "Quartus"
+        ],
+        "en": [
+            "Quartus"
+        ],
+        "pl": [
+            "Kwartus"
+        ]
+    },
+    "links": {
+        "records/patrons/quartus/xys": {
+            "la": "Quartus de Roma",
+            "en": "Quartus of Rome",
+            "pl": "Kwartus z Rzymu"
+        }
+    }
+}

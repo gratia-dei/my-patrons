@@ -11757,6 +11757,25 @@
         ],
         "feasts": []
     },
+    "patrons/quartus": {
+        "names": {
+            "la": "Quartus",
+            "en": "Quartus",
+            "pl": "Kwartus"
+        }
+    },
+    "patrons/quartus/xys": {
+        "active": true,
+        "names": {
+            "la": "Quartus de Roma",
+            "en": "Quartus of Rome",
+            "pl": "Kwartus z Rzymu"
+        },
+        "died": [
+            "258-08-06"
+        ],
+        "feasts": []
+    },
     "patrons/quiricus": {
         "names": {
             "la": "Quiricus",

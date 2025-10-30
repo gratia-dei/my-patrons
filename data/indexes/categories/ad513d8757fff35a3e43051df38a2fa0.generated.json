@@ -1871,6 +1871,11 @@
             "en": "Proculus of Pozzuoli",
             "pl": "Prokul z Pozzuoli"
         },
+        "records/patrons/quartus/xys": {
+            "la": "Quartus de Roma",
+            "en": "Quartus of Rome",
+            "pl": "Kwartus z Rzymu"
+        },
         "records/patrons/quiricus/iul": {
             "el": "Κήρυκος /+ Ιουλίττα",
             "en": "Cyricus /+ Julitta",

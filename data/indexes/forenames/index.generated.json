@@ -440,6 +440,9 @@
         "pl": "Gonzaga",
         "sw": "Gonzaga"
     },
+    "16a8dff81a31fe6ae7d0017c28c4e12d": {
+        "pl": "Kwartus"
+    },
     "17373f9776a0aaae539549527b0c3243": {
         "la": "Benignus",
         "en": "Benignus",
@@ -4460,6 +4463,10 @@
     },
     "f66bc03a1509fc01543d939e14f42a76": {
         "pl": "Abundiusz"
+    },
+    "f66f9de43c2116875cdbb6efac47d705": {
+        "la": "Quartus",
+        "en": "Quartus"
     },
     "f672b57fe75f97be267ea5143e427fd6": {
         "la": "Iosaphat"

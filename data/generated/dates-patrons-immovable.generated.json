@@ -6008,6 +6008,18 @@
                 "mr-2004": "6 VIII: #2"
             }
         },
+        "records/patrons/quartus/xys": {
+            "name": {
+                "la": "Quartus de Roma",
+                "en": "Quartus of Rome",
+                "pl": "Kwartus z Rzymu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1584": "6 VIII: #3",
+                "mr-1956": "6 VIII: #3"
+            }
+        },
         "records/patrons/stephanus/xys": {
             "name": {
                 "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
