@@ -82,6 +82,11 @@
             "en": "Leo I the Great",
             "pl": "Leon I Wielki"
         },
+        "records/patrons/magnus/xys": {
+            "la": "Magnus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Magnus of Rome, subdeacon of Xystus II",
+            "pl": "Magnus z Rzymu, subdiakon Sykstusa II"
+        },
         "records/patrons/proculus/put": {
             "la": "Proculus Puteolensis",
             "en": "Proculus of Pozzuoli",

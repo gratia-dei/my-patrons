@@ -18,6 +18,11 @@
             "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
             "en": "Januarius of Rome, subdeacon of Xystus II",
             "pl": "January z Rzymu, subdiakon Sykstusa II"
+        },
+        "records/patrons/magnus/xys": {
+            "la": "Magnus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Magnus of Rome, subdeacon of Xystus II",
+            "pl": "Magnus z Rzymu, subdiakon Sykstusa II"
         }
     }
 }

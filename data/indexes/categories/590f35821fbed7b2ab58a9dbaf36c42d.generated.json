@@ -2136,6 +2136,11 @@
             "en": "Magnus of Füssen",
             "pl": "Magnus z Füssen"
         },
+        "records/patrons/magnus/xys": {
+            "la": "Magnus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Magnus of Rome, subdeacon of Xystus II",
+            "pl": "Magnus z Rzymu, subdiakon Sykstusa II"
+        },
         "records/patrons/malachias/pro": {
             "la": "Malachias, propheta",
             "en": "Malachi, the prophet",
