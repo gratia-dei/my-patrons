@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Agapitus de Roma, diaconus Xysti Pp. II"
+        ],
+        "en": [
+            "Agapitus of Rome, deacon of Xystus II"
+        ],
+        "pl": [
+            "Agapit z Rzymu, diakon Sykstusa II"
+        ]
+    },
+    "forenames": ["agapitus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["258-08-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "diaconus"],
+
+    "data-links": {
+        "mr-1584": ["2:Aug./6#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Augusti/6#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["6:aug./6#2", "6:aug./7#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/Pope_Sixtus_II"
+    }
+}

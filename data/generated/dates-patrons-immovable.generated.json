@@ -5943,6 +5943,19 @@
         }
     },
     "08-06": {
+        "records/patrons/agapitus/xys": {
+            "name": {
+                "la": "Agapitus de Roma, diaconus Xysti Pp. II",
+                "en": "Agapitus of Rome, deacon of Xystus II",
+                "pl": "Agapit z Rzymu, diakon Sykstusa II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1584": "6 VIII: #3",
+                "mr-1956": "6 VIII: #3",
+                "mr-2004": "6 VIII: #2"
+            }
+        },
         "records/patrons/dominicus/oxo": {
             "name": {
                 "es": "Domingo de Osma",
@@ -5989,6 +6002,16 @@
                 "la": "Xystus Pp. II",
                 "en": "Sixtus II",
                 "pl": "Sykstus II"
+            },
+            "sources": {
+                "mr-2004": "7 VIII: #1"
+            }
+        },
+        "records/patrons/agapitus/xys": {
+            "name": {
+                "la": "Agapitus de Roma, diaconus Xysti Pp. II",
+                "en": "Agapitus of Rome, deacon of Xystus II",
+                "pl": "Agapit z Rzymu, diakon Sykstusa II"
             },
             "sources": {
                 "mr-2004": "7 VIII: #1"

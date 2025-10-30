@@ -634,6 +634,25 @@
         ],
         "feasts": []
     },
+    "patrons/agapitus": {
+        "names": {
+            "la": "Agapitus",
+            "en": "Agapitus",
+            "pl": "Agapit"
+        }
+    },
+    "patrons/agapitus/xys": {
+        "active": true,
+        "names": {
+            "la": "Agapitus de Roma, diaconus Xysti Pp. II",
+            "en": "Agapitus of Rome, deacon of Xystus II",
+            "pl": "Agapit z Rzymu, diakon Sykstusa II"
+        },
+        "died": [
+            "258-08-06"
+        ],
+        "feasts": []
+    },
     "patrons/agatha": {
         "names": {
             "la": "Agatha",
