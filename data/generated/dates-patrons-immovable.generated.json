@@ -5955,6 +5955,19 @@
                 "mr-1956": "6 VIII: #4",
                 "mr-2004": "6 VIII: #7"
             }
+        },
+        "records/patrons/xystus/2pp": {
+            "name": {
+                "la": "Xystus Pp. II",
+                "en": "Sixtus II",
+                "pl": "Sykstus II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1584": "6 VIII: #2",
+                "mr-1956": "6 VIII: #2",
+                "mr-2004": "6 VIII: #2"
+            }
         }
     },
     "08-08": {

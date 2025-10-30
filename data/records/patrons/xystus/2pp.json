@@ -1,34 +1,52 @@
 {
-  "names": {
-    "la": [
-      "Xystus Pp. II",
-      "Xystus II"
+    "names": {
+        "la": [
+            "Xystus Pp. II"
+        ],
+        "en": [
+            "Sixtus II",
+            "Xystus II"
+        ],
+        "pl": [
+            "Sykstus II"
+        ]
+    },
+    "forenames": ["xystus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Secundus",
+            "en": "the Second",
+            "pl": "Drugi"
+        }
     ],
-    "en": [
-      "Sixtus II",
-      "Xystus II"
-    ],
-    "pl": [
-      "Sykstus II"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Secundus",
-      "en": "the Second",
-      "pl": "Drugi"
+    "active": true,
+
+    "born": null,
+    "died": ["258-08-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./6#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/6#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./6#2"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#24"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/SX2",
+        "wiki": "https://pl.wikipedia.org/wiki/Sykstus_II"
     }
-  ],
-
-  "died": ["258-08-06"],
-
-  "also-in-martyrology": ["08-06", "08-07"],
-
-  "forenames": ["xystus"],
-  "categories": ["vir", "martyr", "papa"],
-
-  "data-links": {
-    "popes": ["1:#24"]
-  }
 }
