@@ -107,6 +107,11 @@
             "en": "Stephen Protomartyr",
             "pl": "Szczepan Pramęczennik"
         },
+        "records/patrons/stephanus/xys": {
+            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Stephen of Rome, subdeacon of Xystus II",
+            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
+        },
         "records/patrons/tatianus/aqu": {
             "it": "Taziano da Aquileia",
             "la": "Tatianus de Aquileia",

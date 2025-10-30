@@ -2989,6 +2989,11 @@
             "la": "Stephanus Wyszyński",
             "en": "Stephen Wyszyński"
         },
+        "records/patrons/stephanus/xys": {
+            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Stephen of Rome, subdeacon of Xystus II",
+            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
+        },
         "records/patrons/tarsicius/aco": {
             "la": "Tarsicius Acolytus",
             "en": "Tarcisius Acolyte",

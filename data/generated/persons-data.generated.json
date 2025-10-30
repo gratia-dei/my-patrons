@@ -13238,6 +13238,18 @@
         ],
         "feasts": []
     },
+    "patrons/stephanus/xys": {
+        "active": true,
+        "names": {
+            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
+            "en": "Stephen of Rome, subdeacon of Xystus II",
+            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
+        },
+        "died": [
+            "258-08-06"
+        ],
+        "feasts": []
+    },
     "patrons/susanna": {
         "names": {
             "la": "Susanna",
