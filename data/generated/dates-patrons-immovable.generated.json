@@ -5928,6 +5928,20 @@
             }
         }
     },
+    "08-05": {
+        "records/patrons/oswaldus/nor": {
+            "name": {
+                "en": "Oswald of Northumbria",
+                "la": "Oswaldus rex Northumbriae",
+                "pl": "Oswald z Nortumbrii"
+            },
+            "sources": {
+                "mr-1584": "5 VIII: #9",
+                "mr-1956": "5 VIII: #10",
+                "mr-2004": "5 VIII: #9"
+            }
+        }
+    },
     "08-06": {
         "records/patrons/dominicus/oxo": {
             "name": {

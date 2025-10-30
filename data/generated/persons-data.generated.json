@@ -10811,14 +10811,14 @@
         }
     },
     "patrons/oswaldus/nor": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Oswald of Northumbria",
             "la": "Oswaldus rex Northumbriae",
             "pl": "Oswald z Nortumbrii"
         },
         "died": [
-            "642-08-05"
+            "642"
         ],
         "feasts": []
     },
