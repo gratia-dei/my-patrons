@@ -6351,6 +6351,18 @@
         ],
         "feasts": []
     },
+    "patrons/ianuarius/xys": {
+        "active": true,
+        "names": {
+            "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
+            "en": "Januarius of Rome, subdeacon of Xystus II",
+            "pl": "January z Rzymu, subdiakon Sykstusa II"
+        },
+        "died": [
+            "258-08-06"
+        ],
+        "feasts": []
+    },
     "patrons/iarognievus": {
         "names": {
             "la": "Iarognievus",

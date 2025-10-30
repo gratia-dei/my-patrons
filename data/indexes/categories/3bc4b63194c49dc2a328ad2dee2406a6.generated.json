@@ -67,6 +67,11 @@
             "en": "George of Cordoba; with him, i.a., Aurelius",
             "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
         },
+        "records/patrons/ianuarius/xys": {
+            "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
+            "en": "Januarius of Rome, subdeacon of Xystus II",
+            "pl": "January z Rzymu, subdiakon Sykstusa II"
+        },
         "records/patrons/laurentius/rom": {
             "la": "Laurentius de Roma",
             "en": "Lawrence of Rome",

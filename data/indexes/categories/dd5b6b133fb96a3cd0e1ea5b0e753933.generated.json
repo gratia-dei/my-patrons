@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "subdiaconus"
+    },
+    "translations": {
+        "la": [
+            "subdiaconus"
+        ],
+        "en": [
+            "subdeacon"
+        ],
+        "pl": [
+            "subdiakon"
+        ]
+    },
+    "links": {
+        "records/patrons/ianuarius/xys": {
+            "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
+            "en": "Januarius of Rome, subdeacon of Xystus II",
+            "pl": "January z Rzymu, subdiakon Sykstusa II"
+        }
+    }
+}

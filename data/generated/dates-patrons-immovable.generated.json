@@ -5982,6 +5982,19 @@
                 "mr-2004": "6 VIII: #2"
             }
         },
+        "records/patrons/ianuarius/xys": {
+            "name": {
+                "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
+                "en": "Januarius of Rome, subdeacon of Xystus II",
+                "pl": "January z Rzymu, subdiakon Sykstusa II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1584": "6 VIII: #3",
+                "mr-1956": "6 VIII: #3",
+                "mr-2004": "6 VIII: #2"
+            }
+        },
         "records/patrons/xystus/2pp": {
             "name": {
                 "la": "Xystus Pp. II",
@@ -6002,6 +6015,16 @@
                 "la": "Xystus Pp. II",
                 "en": "Sixtus II",
                 "pl": "Sykstus II"
+            },
+            "sources": {
+                "mr-2004": "7 VIII: #1"
+            }
+        },
+        "records/patrons/ianuarius/xys": {
+            "name": {
+                "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
+                "en": "Januarius of Rome, subdeacon of Xystus II",
+                "pl": "January z Rzymu, subdiakon Sykstusa II"
             },
             "sources": {
                 "mr-2004": "7 VIII: #1"

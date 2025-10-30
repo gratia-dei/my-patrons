@@ -409,6 +409,11 @@
         "en": "styllite",
         "pl": "słupnik"
     },
+    "subdiaconus": {
+        "la": "subdiaconus",
+        "en": "subdeacon",
+        "pl": "subdiakon"
+    },
     "tertiarius": {
         "la": "tertiarius / tertiaria",
         "en": "tertiary",

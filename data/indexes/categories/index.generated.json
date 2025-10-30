@@ -158,6 +158,9 @@
     "2863e14774dce430ad6ba848b13708ea": {
         "en": "instituter / institutress"
     },
+    "28bb4a8d07e45946d37104a6e4081d6c": {
+        "pl": "subdiakon"
+    },
     "29c2dba503acb8b350059150648dd1ca": {
         "pl": "prezbiter diecezjalny"
     },
@@ -336,6 +339,9 @@
     },
     "6638070bc99321b316adbd95e6951f5b": {
         "en": "canon"
+    },
+    "669f0b859e5f5f2b9e98a7339bfb6f68": {
+        "en": "subdeacon"
     },
     "67abd1c2374ccd3b64dcbea631fa06fa": {
         "pl": "książę / księżna"
@@ -701,6 +707,9 @@
     "dd381a050f1987e7b5c7b73296fd49a5": {
         "la": "lector",
         "en": "lector"
+    },
+    "dd5b6b133fb96a3cd0e1ea5b0e753933": {
+        "la": "subdiaconus"
     },
     "e0f43c20eb7e1895c5b35fac9e28a3bf": {
         "pl": "konsul"
