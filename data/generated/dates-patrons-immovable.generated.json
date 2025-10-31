@@ -6331,6 +6331,28 @@
             }
         }
     },
+    "08-13": {
+        "records/patrons/pontianus/1pp": {
+            "name": {
+                "la": "Pontianus Pp.",
+                "en": "Pontian, pope",
+                "pl": "Poncjan, papież"
+            },
+            "sources": {
+                "mr-2004": "13 VIII: #1"
+            }
+        },
+        "records/patrons/hippolytus/rom": {
+            "name": {
+                "la": "Hippolytus Romanus",
+                "en": "Hippolytus of Rome",
+                "pl": "Hipolit Rzymski"
+            },
+            "sources": {
+                "mr-2004": "13 VIII: #1"
+            }
+        }
+    },
     "08-14": {
         "records/patrons/maximilianus/kol": {
             "name": {
@@ -9030,6 +9052,26 @@
                 "feast": "30 X",
                 "mr-2004": "30 X: #14"
             }
+        },
+        "records/patrons/pontianus/1pp": {
+            "name": {
+                "la": "Pontianus Pp.",
+                "en": "Pontian, pope",
+                "pl": "Poncjan, papież"
+            },
+            "sources": {
+                "mr-1956": "30 X: #1"
+            }
+        },
+        "records/patrons/hippolytus/rom": {
+            "name": {
+                "la": "Hippolytus Romanus",
+                "en": "Hippolytus of Rome",
+                "pl": "Hipolit Rzymski"
+            },
+            "sources": {
+                "mr-1956": "30 X: #1"
+            }
         }
     },
     "10-31": {
@@ -9597,6 +9639,27 @@
             "sources": {
                 "reliable-death-anniversary": "19 XI",
                 "mr-2004": "19 XI: #9"
+            }
+        },
+        "records/patrons/pontianus/1pp": {
+            "name": {
+                "la": "Pontianus Pp.",
+                "en": "Pontian, pope",
+                "pl": "Poncjan, papież"
+            },
+            "sources": {
+                "mr-1584": "19 XI: #1",
+                "mr-1956": "19 XI: #2"
+            }
+        },
+        "records/patrons/hippolytus/rom": {
+            "name": {
+                "la": "Hippolytus Romanus",
+                "en": "Hippolytus of Rome",
+                "pl": "Hipolit Rzymski"
+            },
+            "sources": {
+                "mr-1584": "19 XI: #1"
             }
         }
     },

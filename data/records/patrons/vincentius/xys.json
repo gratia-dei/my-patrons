@@ -1,16 +1,13 @@
 {
     "names": {
         "la": [
-            "Vincentius de Roma, subdiaconus Xysti Pp. II",
-            "Innocentius de Roma"
+            "Vincentius de Roma, subdiaconus Xysti Pp. II"
         ],
         "en": [
-            "Vincent of Rome, subdeacon of Xystus II",
-            "Innocent of Rome"
+            "Vincent of Rome, subdeacon of Xystus II"
         ],
         "pl": [
-            "Wincenty z Rzymu, subdiakon Sykstusa II",
-            "Innocenty z Rzymu"
+            "Wincenty z Rzymu, subdiakon Sykstusa II"
         ]
     },
     "forenames": ["vincentius", "innocentius"],

@@ -6075,6 +6075,25 @@
         ],
         "feasts": []
     },
+    "patrons/hippolytus": {
+        "names": {
+            "la": "Hippolytus",
+            "en": "Hippolytus",
+            "pl": "Hipolit"
+        }
+    },
+    "patrons/hippolytus/rom": {
+        "active": true,
+        "names": {
+            "la": "Hippolytus Romanus",
+            "en": "Hippolytus of Rome",
+            "pl": "Hipolit Rzymski"
+        },
+        "died": [
+            "~235"
+        ],
+        "feasts": []
+    },
     "patrons/honoratus": {
         "names": {
             "la": "Honoratus",
@@ -11732,11 +11751,11 @@
         }
     },
     "patrons/pontianus/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Pontianus Papa",
-            "en": "Pontian Pope",
-            "pl": "Poncjan Papież"
+            "la": "Pontianus Pp.",
+            "en": "Pontian, pope",
+            "pl": "Poncjan, papież"
         },
         "died": [
             "~235"

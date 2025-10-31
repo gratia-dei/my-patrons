@@ -936,6 +936,11 @@
             "en": "Hillary Januszewski",
             "la": "Hilarius Januszewski"
         },
+        "records/patrons/hippolytus/rom": {
+            "la": "Hippolytus Romanus",
+            "en": "Hippolytus of Rome",
+            "pl": "Hipolit Rzymski"
+        },
         "records/patrons/iacobus/ber": {
             "fr": "Jacques Berthieu",
             "la": "Iacobus Berthieu",
@@ -1867,9 +1872,9 @@
             "pl": "Polikarp ze Smyrny"
         },
         "records/patrons/pontianus/1pp": {
-            "la": "Pontianus Papa",
-            "en": "Pontian Pope",
-            "pl": "Poncjan Papież"
+            "la": "Pontianus Pp.",
+            "en": "Pontian, pope",
+            "pl": "Poncjan, papież"
         },
         "records/patrons/proclus/hil": {
             "la": "Proclus; cum eo, Hilarion",

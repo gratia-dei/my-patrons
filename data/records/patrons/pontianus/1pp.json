@@ -1,25 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Pontianus Papa"
-    ],
-    "en": [
-      "Pontian Pope"
-    ],
-    "pl": [
-      "Poncjan Papież"
-    ]
-  },
+    "names": {
+        "la": [
+            "Pontianus Pp."
+        ],
+        "en": [
+            "Pontian, pope"
+        ],
+        "pl": [
+            "Poncjan, papież"
+        ]
+    },
+    "forenames": ["pontianus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~200"],
-  "died": ["~235"],
+    "active": true,
 
-  "also-in-martyrology": ["10-30", "08-13"],
+    "born": null,
+    "died": ["~235"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["pontianus"],
-  "categories": ["vir", "martyr", "papa"],
+    "categories": ["vir", "martyr", "papa"],
 
-  "data-links": {
-    "popes": ["1:#18"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Nov./19#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/30#1", "1:Novembris/19#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./13#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#18"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/PN1",
+        "wiki": "https://pl.wikipedia.org/wiki/Poncjan"
+    }
 }

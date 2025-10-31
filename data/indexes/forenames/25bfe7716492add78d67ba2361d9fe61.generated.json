@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Hipolit"
+    },
+    "translations": {
+        "la": [
+            "Hippolytus"
+        ],
+        "en": [
+            "Hippolytus"
+        ],
+        "pl": [
+            "Hipolit"
+        ]
+    },
+    "links": {
+        "records/patrons/hippolytus/rom": {
+            "la": "Hippolytus Romanus",
+            "en": "Hippolytus of Rome",
+            "pl": "Hipolit Rzymski"
+        }
+    }
+}

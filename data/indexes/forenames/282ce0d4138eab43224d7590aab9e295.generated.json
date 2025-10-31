@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/hippolytus/rom": {
+            "la": "Hippolytus Romanus",
+            "en": "Hippolytus of Rome",
+            "pl": "Hipolit Rzymski"
+        },
         "records/patrons/philippus/apo": {
             "la": "Philippus Apostolus",
             "en": "Philip Apostle",
