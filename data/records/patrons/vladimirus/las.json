@@ -1,33 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Włodzimierz Laskowski"
+    "names": {
+        "pl": [
+            "Włodzimierz Laskowski"
+        ],
+        "la": [
+            "Vladimirus Laskowski"
+        ],
+        "en": [
+            "Vladimir Laskowski"
+        ]
+    },
+    "forenames": ["vladimirus"],
+    "surnames": [
+        {
+            "pl": "Laskowski"
+        }
     ],
-    "en": [
-      "Wlodzimierz Laskowski",
-      "Vladimir Laskowski"
-    ],
-    "la": [
-      "Vladimirus Laskowski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Laskowski"
+    "active": true,
+
+    "born": ["1886-01-30"],
+    "died": ["1940-08-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-08"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./8#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67733",
+        "wiki": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Laskowski"
     }
-  ],
-
-  "born": ["1886-01-30"],
-  "died": ["1940-08-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["08-08"],
-
-  "forenames": ["vladimirus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

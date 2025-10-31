@@ -14368,11 +14368,11 @@
         }
     },
     "patrons/vladimirus/las": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Włodzimierz Laskowski",
-            "en": "Wlodzimierz Laskowski",
-            "la": "Vladimirus Laskowski"
+            "la": "Vladimirus Laskowski",
+            "en": "Vladimir Laskowski"
         },
         "died": [
             "1940-08-08"

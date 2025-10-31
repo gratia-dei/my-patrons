@@ -6145,6 +6145,18 @@
         }
     },
     "08-08": {
+        "records/patrons/vladimirus/las": {
+            "name": {
+                "pl": "Włodzimierz Laskowski",
+                "la": "Vladimirus Laskowski",
+                "en": "Vladimir Laskowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 VIII",
+                "feast": "8 VIII",
+                "mr-2004": "8 VIII: #19"
+            }
+        },
         "records/patrons/ioannes/via": {
             "name": {
                 "fr": "Jean-Marie Vianney",
