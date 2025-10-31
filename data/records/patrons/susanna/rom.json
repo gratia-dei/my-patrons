@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Susanna Romana"
-    ],
-    "en": [
-      "Susanna of Rome"
-    ],
-    "pl": [
-      "Zuzanna Rzymska"
-    ]
-  },
+    "names": {
+        "la": [
+            "Susanna Romana"
+        ],
+        "en": [
+            "Susanna of Rome"
+        ],
+        "pl": [
+            "Zuzanna Rzymska"
+        ]
+    },
+    "forenames": ["susanna"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">201", "<300"],
+    "active": true,
 
-  "also-in-martyrology": ["08-11"],
+    "born": null,
+    "died": ["~295"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["susanna"],
-  "categories": ["femina", "martyr", "virgo"]
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./11#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/11#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./11#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71350",
+        "wiki": "https://pl.wikipedia.org/wiki/Zuzanna_Rzymska"
+    }
 }

@@ -6279,6 +6279,18 @@
                 "mr-1956": "11 VIII: #3",
                 "mr-2004": "11 VIII: #1"
             }
+        },
+        "records/patrons/susanna/rom": {
+            "name": {
+                "la": "Susanna Romana",
+                "en": "Susanna of Rome",
+                "pl": "Zuzanna Rzymska"
+            },
+            "sources": {
+                "mr-1584": "11 VIII: #2",
+                "mr-1956": "11 VIII: #2",
+                "mr-2004": "11 VIII: #4"
+            }
         }
     },
     "08-12": {

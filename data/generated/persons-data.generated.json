@@ -13277,15 +13277,14 @@
         }
     },
     "patrons/susanna/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Susanna Romana",
             "en": "Susanna of Rome",
             "pl": "Zuzanna Rzymska"
         },
         "died": [
-            ">201",
-            "<300"
+            "~295"
         ],
         "feasts": []
     },
