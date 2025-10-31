@@ -6294,6 +6294,30 @@
         }
     },
     "08-12": {
+        "records/patrons/florianus/ste": {
+            "name": {
+                "pl": "Florian Stępniak",
+                "la": "Florianus Stępniak",
+                "en": "Florian Stępniak"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 VIII",
+                "feast": "12 VIII",
+                "mr-2004": "12 VIII: #16"
+            }
+        },
+        "records/patrons/iosephus/str": {
+            "name": {
+                "pl": "Józef Straszewski",
+                "la": "Iosephus Straszewski",
+                "en": "Joseph Straszewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 VIII",
+                "feast": "12 VIII",
+                "mr-2004": "12 VIII: #16"
+            }
+        },
         "records/patrons/clara/asi": {
             "name": {
                 "it": "Chiara d'Assisi",

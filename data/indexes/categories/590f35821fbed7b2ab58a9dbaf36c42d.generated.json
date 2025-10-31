@@ -1143,6 +1143,11 @@
             "en": "Florian of Lauriacum",
             "pl": "Florian z Lauriacum"
         },
+        "records/patrons/florianus/ste": {
+            "pl": "Florian Stępniak",
+            "la": "Florianus Stępniak",
+            "en": "Florian Stępniak"
+        },
         "records/patrons/flosculus/aur": {
             "la": "Flosculus de Aurelianum",
             "en": "Floscule of Orleans",
@@ -1894,6 +1899,11 @@
             "pl": "Józef Sebastian Pelczar",
             "en": "Joseph Sebastian Pelczar",
             "la": "Iosephus Sebastianus Pelczar"
+        },
+        "records/patrons/iosephus/str": {
+            "pl": "Józef Straszewski",
+            "la": "Iosephus Straszewski",
+            "en": "Joseph Straszewski"
         },
         "records/patrons/iosephus/tom": {
             "it": "Giuseppe Maria Tomasi",

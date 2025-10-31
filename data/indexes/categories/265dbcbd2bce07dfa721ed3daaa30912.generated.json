@@ -780,6 +780,11 @@
             "en": "Florian of Lauriacum",
             "pl": "Florian z Lauriacum"
         },
+        "records/patrons/florianus/ste": {
+            "pl": "Florian Stępniak",
+            "la": "Florianus Stępniak",
+            "en": "Florian Stępniak"
+        },
         "records/patrons/franciscus/drz": {
             "pl": "Franciszek Drzewiecki",
             "la": "Franciscus Drzewiecki",
@@ -1149,6 +1154,11 @@
             "pl": "Józef Pawłowski",
             "la": "Iosephus Pawłowski",
             "en": "Joseph Pawłowski"
+        },
+        "records/patrons/iosephus/str": {
+            "pl": "Józef Straszewski",
+            "la": "Iosephus Straszewski",
+            "en": "Joseph Straszewski"
         },
         "records/patrons/iosephus/tua": {
             "vi": "Giuse Trần Văn Tuấn",

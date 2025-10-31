@@ -4837,6 +4837,18 @@
         ],
         "feasts": []
     },
+    "patrons/florianus/ste": {
+        "active": true,
+        "names": {
+            "pl": "Florian Stępniak",
+            "la": "Florianus Stępniak",
+            "en": "Florian Stępniak"
+        },
+        "died": [
+            "1942-08-12"
+        ],
+        "feasts": []
+    },
     "patrons/flosculus": {
         "names": {
             "la": "Flosculus",
@@ -7453,6 +7465,18 @@
         },
         "died": [
             "1924-03-28"
+        ],
+        "feasts": []
+    },
+    "patrons/iosephus/str": {
+        "active": true,
+        "names": {
+            "pl": "Józef Straszewski",
+            "la": "Iosephus Straszewski",
+            "en": "Joseph Straszewski"
+        },
+        "died": [
+            "1942-08-12"
         ],
         "feasts": []
     },

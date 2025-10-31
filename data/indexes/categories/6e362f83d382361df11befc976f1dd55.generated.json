@@ -338,6 +338,11 @@
             "la": "Fidelis de Sigmaringa",
             "pl": "Fidelis z Sigmaringen"
         },
+        "records/patrons/florianus/ste": {
+            "pl": "Florian Stępniak",
+            "la": "Florianus Stępniak",
+            "en": "Florian Stępniak"
+        },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
             "la": "Franciscus Borgia",
@@ -645,6 +650,11 @@
             "pl": "Józef Pawłowski",
             "la": "Iosephus Pawłowski",
             "en": "Joseph Pawłowski"
+        },
+        "records/patrons/iosephus/str": {
+            "pl": "Józef Straszewski",
+            "la": "Iosephus Straszewski",
+            "en": "Joseph Straszewski"
         },
         "records/patrons/iosephus/tom": {
             "it": "Giuseppe Maria Tomasi",

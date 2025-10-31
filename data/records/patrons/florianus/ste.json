@@ -1,0 +1,50 @@
+{
+    "names": {
+        "pl": [
+            "Florian Stępniak"
+        ],
+        "la": [
+            "Florianus Stępniak"
+        ],
+        "en": [
+            "Florian Stępniak"
+        ]
+    },
+    "forenames": ["florianus"],
+    "surnames": [
+        {
+            "pl": "Stępniak"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1912-01-03"],
+    "died": ["1942-08-12"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-12"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./12#16"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67781",
+        "wiki": "https://pl.wikipedia.org/wiki/Florian_St%C4%99pniak"
+    }
+}

@@ -1,17 +1,16 @@
 {
     "1": {
-        "page": "...",
+        "page": 447,
         "mark": "!",
         "la": "?..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
+        "page": 448,
         "la": "..."
     },
 
@@ -26,12 +25,10 @@
     },
 
     "6": {
-        "mark": "*",
         "la": "..."
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -51,7 +48,6 @@
     },
 
     "11": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -66,6 +62,7 @@
     },
 
     "14": {
+        "page": 449,
         "mark": "*",
         "la": "..."
     },
@@ -77,25 +74,10 @@
 
     "16": {
         "mark": "*",
-        "la": "..."
+        "la": "Dachani prope Monachium Bavariae in Germania, beatorum [1|Floriani Stępniak], ex ..., et [2|Iosephi Straszewski], presbyterorum et martyrum, ..."
     },
 
     "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

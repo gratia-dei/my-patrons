@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Straszewski"
+    },
+    "translations": {
+        "pl": [
+            "Straszewski"
+        ]
+    },
+    "links": {
+        "records/patrons/iosephus/str": {
+            "pl": "Józef Straszewski",
+            "la": "Iosephus Straszewski",
+            "en": "Joseph Straszewski"
+        }
+    }
+}
