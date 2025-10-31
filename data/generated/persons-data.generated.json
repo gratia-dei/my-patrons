@@ -3988,7 +3988,7 @@
         }
     },
     "patrons/edmundus/boj": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Edmund Bojanowski",
             "la": "Edmundus Bojanowski",

@@ -6061,6 +6061,18 @@
         }
     },
     "08-07": {
+        "records/patrons/edmundus/boj": {
+            "name": {
+                "pl": "Edmund Bojanowski",
+                "la": "Edmundus Bojanowski",
+                "en": "Edmund Bojanowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 VIII",
+                "feast": "7 VIII",
+                "mr-2004": "7 VIII: #15"
+            }
+        },
         "records/patrons/xystus/2pp": {
             "name": {
                 "la": "Xystus Pp. II",
