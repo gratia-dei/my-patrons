@@ -1,52 +1,67 @@
 {
-  "names": {
-    "de": [
-      "Therese Benedicta vom Kreuz",
-      "Edith Stein"
+    "names": {
+        "de": [
+            "Therese Benedicta vom Kreuz",
+            "Edith Stein"
+        ],
+        "la": [
+            "Teresia Benedicta a Cruce",
+            "Editha Stein"
+        ],
+        "en": [
+            "Therese Benedicta of the Cross",
+            "Edith Stein"
+        ],
+        "pl": [
+            "Teresa Benedykta od Krzyża",
+            "Edyta Stein"
+        ]
+    },
+    "forenames": ["teresia", "benedicta", "editha"],
+    "surnames": [
+        {
+            "de": "Stein"
+        }
     ],
-    "en": [
-      "Teresa Benedicta of the Cross",
-      "Edith Stein"
+    "epithets": [
+        {
+            "de": "vom Kreuz",
+            "en": "of the Cross",
+            "la": "a Cruce",
+            "pl": "od Krzyża"
+        }
     ],
-    "la": [
-      "Teresia Benedicta a Cruce",
-      "Editha Stein"
-    ],
-    "pl": [
-      "Teresa Benedykta od Krzyża",
-      "Edyta Stein"
-    ]
-  },
 
-  "surnames": [
-    {
-      "de": "Stein"
+    "active": true,
+
+    "born": ["1891-10-12"],
+    "died": ["1942-08-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-05-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1998-10-11"
+    },
+    "anniversary": ["08-09"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./9#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/teresa-benedetta-della-croce.html",
+        "gcatholic": "https://gcatholic.org/p/67234",
+        "wiki": "https://pl.wikipedia.org/wiki/Edyta_Stein"
     }
-  ],
-  "epithets": [
-    {
-      "de": "vom Kreuz",
-      "en": "of the Cross",
-      "la": "a Cruce",
-      "pl": "od Krzyża"
-    }
-  ],
-
-  "born": ["1891-10-12"],
-  "died": ["1942-08-09"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1987-05-01"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1998-10-11"
-  },
-
-  "also-in-martyrology": ["08-09"],
-
-  "forenames": ["teresia", "benedicta", "editha"],
-  "categories": ["femina", "martyr", "virgo"],
-  "order": ["ocd"]
 }

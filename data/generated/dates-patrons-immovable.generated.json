@@ -6203,6 +6203,19 @@
                 "feast": "9 VIII"
             }
         },
+        "records/patrons/teresia/ste": {
+            "name": {
+                "de": "Therese Benedicta vom Kreuz",
+                "la": "Teresia Benedicta a Cruce",
+                "en": "Therese Benedicta of the Cross",
+                "pl": "Teresa Benedykta od Krzyża"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 VIII",
+                "feast": "9 VIII",
+                "mr-2004": "9 VIII: #1"
+            }
+        },
         "records/patrons/ioannes/via": {
             "name": {
                 "fr": "Jean-Marie Vianney",
@@ -6691,7 +6704,7 @@
             "name": {
                 "sq": "Tereza e Kalkutës",
                 "la": "Teresia de Calcutta",
-                "en": "Teresa of Calcutta",
+                "en": "Therese of Calcutta",
                 "pl": "Teresa z Kalkuty"
             },
             "sources": {
@@ -8396,7 +8409,7 @@
             "name": {
                 "es": "Teresa de Ávila",
                 "la": "Teresia Abulensis",
-                "en": "Teresa of Ávila",
+                "en": "Therese of Ávila",
                 "pl": "Teresa z Ávili"
             },
             "sources": {
