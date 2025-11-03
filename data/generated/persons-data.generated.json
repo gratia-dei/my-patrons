@@ -12232,11 +12232,11 @@
         "feasts": []
     },
     "patrons/rosa/lim": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Rosa de Lima",
-            "en": "Rose of Lima",
             "la": "Rosa de Lima",
+            "en": "Rose of Lima",
             "pl": "Róża z Limy"
         },
         "died": [

@@ -1,48 +1,63 @@
 {
-  "names": {
-    "es": [
-      "Rosa de Lima",
-      "Isabel Flores de Oliva"
+    "names": {
+        "es": [
+            "Rosa de Lima",
+            "Isabel Flores de Oliva"
+        ],
+        "la": [
+            "Rosa de Lima",
+            "Isabella Flores de Oliva"
+        ],
+        "en": [
+            "Rose of Lima",
+            "Isabel Flores de Oliva"
+        ],
+        "pl": [
+            "Róża z Limy",
+            "Izabela Flores de Oliva"
+        ]
+    },
+    "forenames": ["rosa"],
+    "surnames": null,
+    "epithets": [
+        {
+            "es": "de Sancta Maria",
+            "en": "of Saint Mary",
+            "la": "a Sancta Maria",
+            "pl": "od Najświętszej Maryi"
+        }
     ],
-    "en": [
-      "Rose of Lima",
-      "Isabel Flores de Oliva"
-    ],
-    "la": [
-      "Rosa de Lima",
-      "Isabel Flores de Oliva"
-    ],
-    "pl": [
-      "Róża z Limy",
-      "Isabel Flores de Oliva"
-    ]
-  },
 
-  "epithets": [
-    {
-      "es": "de Sancta Maria",
-      "en": "of Saint Mary",
-      "la": "a Sancta Maria",
-      "pl": "od Najświętszej Maryi"
+    "active": true,
+
+    "born": ["1586-04-20"],
+    "died": ["1617-08-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1668-04-15"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1671-04-12"
+    },
+    "anniversary": ["08-23"],
+
+    "categories": ["femina", "virgo", "tertiarius"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/24#2", "1:Augusti/30#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./23#1", "1:aug./24#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/rosa-da-lima.html",
+        "gcatholic": "https://gcatholic.org/p/68300",
+        "wiki": "https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCa_z_Limy"
     }
-  ],
-
-  "born": ["1586-04-20"],
-  "died": ["1617-08-24"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1668-04-15"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1671-04-12"
-  },
-
-  "also-in-martyrology": ["08-23", "08-24", "08-30"],
-
-  "forenames": ["rosa"],
-  "categories": ["femina", "virgo", "tertiarius"],
-
-  "order": ["top"]
 }

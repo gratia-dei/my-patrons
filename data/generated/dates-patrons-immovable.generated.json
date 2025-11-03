@@ -6576,6 +6576,18 @@
         }
     },
     "08-23": {
+        "records/patrons/rosa/lim": {
+            "name": {
+                "es": "Rosa de Lima",
+                "la": "Rosa de Lima",
+                "en": "Rose of Lima",
+                "pl": "Róża z Limy"
+            },
+            "sources": {
+                "feast": "23 VIII",
+                "mr-2004": "23 VIII: #1"
+            }
+        },
         "records/patrons/philippus/ben": {
             "name": {
                 "it": "Filippo Benizi",
@@ -6647,6 +6659,19 @@
                 "reliable-death-anniversary": "24 VIII",
                 "feast": "24 VIII",
                 "mr-2004": "24 VIII: #12"
+            }
+        },
+        "records/patrons/rosa/lim": {
+            "name": {
+                "es": "Rosa de Lima",
+                "la": "Rosa de Lima",
+                "en": "Rose of Lima",
+                "pl": "Róża z Limy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VIII",
+                "mr-1956": "24 VIII: #2",
+                "mr-2004": "24 VIII: #5"
             }
         }
     },
@@ -6737,6 +6762,19 @@
             "sources": {
                 "reliable-death-anniversary": "28 VIII",
                 "feast": "28 VIII"
+            }
+        }
+    },
+    "08-30": {
+        "records/patrons/rosa/lim": {
+            "name": {
+                "es": "Rosa de Lima",
+                "la": "Rosa de Lima",
+                "en": "Rose of Lima",
+                "pl": "Róża z Limy"
+            },
+            "sources": {
+                "mr-1956": "30 VIII: #1"
             }
         }
     },
