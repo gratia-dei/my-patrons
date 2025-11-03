@@ -6779,6 +6779,20 @@
             }
         }
     },
+    "08-29": {
+        "records/patrons/sancia/szy": {
+            "name": {
+                "pl": "Sancja Szymkowiak",
+                "la": "Sancia Szymkowiak",
+                "en": "Santia Szymkowiak"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 VIII",
+                "feast": "29 VIII",
+                "mr-2004": "29 VIII: #17"
+            }
+        }
+    },
     "08-30": {
         "records/patrons/rosa/lim": {
             "name": {

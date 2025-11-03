@@ -1,38 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Sancja Szymkowiak",
-      "Maria Sancja Szymkowiak",
-      "Janina Szymkowiak",
-      "Sancja Janina Szymkowiak"
+    "names": {
+        "pl": [
+            "Sancja Szymkowiak",
+            "Janina Szymkowiak"
+        ],
+        "la": [
+            "Sancia Szymkowiak",
+            "Ioannina Szymkowiak"
+        ],
+        "en": [
+            "Santia Szymkowiak",
+            "Jane Szymkowiak"
+        ]
+    },
+    "forenames": ["sancia", "ioannina"],
+    "surnames": [
+        {
+            "pl": "Szymkowiak"
+        }
     ],
-    "en": [
-      "Sancja Szymkowiak",
-      "Janina Szymkowiak"
-    ],
-    "la": [
-      "Sancia Szymkowiak",
-      "Sancia Ioannina Szymkowiak"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Szymkowiak"
+    "active": true,
+
+    "born": ["1910-07-10"],
+    "died": ["1942-08-29"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2002-08-18"
+    },
+    "canonized": null,
+    "anniversary": ["08-29"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./29#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sancja-szymkowiak.html",
+        "gcatholic": "https://gcatholic.org/p/68541",
+        "wiki": "https://pl.wikipedia.org/wiki/Sancja_Szymkowiak"
     }
-  ],
-
-  "born": ["1910-07-10"],
-  "died": ["1942-08-29"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2002-08-18"
-  },
-
-  "also-in-martyrology": ["08-29"],
-
-  "forenames": ["sancia", "ioannina"],
-  "categories": ["femina", "virgo"],
-  "order": ["cmbb"]
 }

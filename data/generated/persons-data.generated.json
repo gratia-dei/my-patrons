@@ -12468,11 +12468,11 @@
         }
     },
     "patrons/sancia/szy": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Sancja Szymkowiak",
-            "en": "Sancja Szymkowiak",
-            "la": "Sancia Szymkowiak"
+            "la": "Sancia Szymkowiak",
+            "en": "Santia Szymkowiak"
         },
         "died": [
             "1942-08-29"
