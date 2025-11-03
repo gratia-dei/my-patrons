@@ -6530,6 +6530,33 @@
                 "reliable-death-anniversary": "20 VIII",
                 "mr-1956": "20 VIII: #3"
             }
+        },
+        "records/patrons/pius/10p": {
+            "name": {
+                "it": "Pio X",
+                "la": "Pius X",
+                "en": "Pius X",
+                "pl": "Pius X"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 VIII",
+                "mr-1956": "20 VIII: #2",
+                "mr-2004": "20 VIII: #9"
+            }
+        }
+    },
+    "08-21": {
+        "records/patrons/pius/10p": {
+            "name": {
+                "it": "Pio X",
+                "la": "Pius X",
+                "en": "Pius X",
+                "pl": "Pius X"
+            },
+            "sources": {
+                "feast": "21 VIII",
+                "mr-2004": "21 VIII: #1"
+            }
         }
     },
     "08-24": {
@@ -6768,6 +6795,17 @@
             "sources": {
                 "reliable-death-anniversary": "3 IX",
                 "mr-2004": "3 IX: #16"
+            }
+        },
+        "records/patrons/pius/10p": {
+            "name": {
+                "it": "Pio X",
+                "la": "Pius X",
+                "en": "Pius X",
+                "pl": "Pius X"
+            },
+            "sources": {
+                "mr-1956": "3 IX: #1"
             }
         }
     },

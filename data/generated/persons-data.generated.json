@@ -11658,11 +11658,11 @@
         }
     },
     "patrons/pius/10p": {
-        "active": false,
+        "active": true,
         "names": {
-            "it": "Papa Pio X",
+            "it": "Pio X",
             "la": "Pius X",
-            "en": "Pope Pius X",
+            "en": "Pius X",
             "pl": "Pius X"
         },
         "died": [

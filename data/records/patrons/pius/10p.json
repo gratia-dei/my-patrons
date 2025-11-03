@@ -1,50 +1,65 @@
 {
-  "names": {
-    "it": [
-      "Papa Pio X",
-      "Giuseppe Melchiorre Sarto"
+    "names": {
+        "it": [
+            "Pio X",
+            "Giuseppe Melchiorre Sarto"
+        ],
+        "la": [
+            "Pius X",
+            "Iosephus Melchior Sarto"
+        ],
+        "en": [
+            "Pius X",
+            "Joseph Melchior Sarto"
+        ],
+        "pl": [
+            "Pius X",
+            "Józef Melchior Sarto"
+        ]
+    },
+    "forenames": ["pius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "it": "Decimo",
+            "la": "Decimus",
+            "en": "the Tenth",
+            "pl": "Dziesiąty"
+        }
     ],
-    "la": [
-      "Pius X",
-      "Giuseppe Melchiorre Sarto"
-    ],
-    "en": [
-      "Pope Pius X",
-      "Giuseppe Melchiorre Sarto"
-    ],
-    "pl": [
-      "Pius X",
-      "Giuseppe Melchiorre Sarto"
-    ]
-  },
 
-  "epithets": [
-    {
-      "it": "Decimo",
-      "la": "Decimus",
-      "en": "the Tenth",
-      "pl": "Dziesiąty"
+    "active": true,
+
+    "born": ["1835-06-02"],
+    "died": ["1914-08-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1951-06-03"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1954-05-29"
+    },
+    "anniversary": ["08-21"],
+
+    "categories": ["vir", "confessor", "papa", "patriarcha", "episcopus", "sacerdos"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/20#2", "1:Septembris/3#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./20#9", "1:aug./21#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#257"]
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pio-x.html",
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/P10",
+        "wiki": "https://pl.wikipedia.org/wiki/Pius_X"
     }
-  ],
-
-  "born": ["1835-06-02"],
-  "died": ["1914-08-20"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1951-06-03"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1954-05-29"
-  },
-
-  "also-in-martyrology": ["08-20", "08-21", "09-03"],
-
-  "forenames": ["pius"],
-  "categories": ["vir", "confessor", "papa", "patriarcha", "episcopus", "sacerdos"],
-
-  "data-links": {
-    "popes": ["1:#257"]
-  }
 }
