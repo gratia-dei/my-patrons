@@ -8489,7 +8489,7 @@
         "feasts": []
     },
     "patrons/ludovicus/rex": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Louis IX, roi de France",
             "la": "Ludovicus IX, rex Franciae",
