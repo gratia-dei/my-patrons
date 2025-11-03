@@ -5887,7 +5887,7 @@
         "feasts": []
     },
     "patrons/helena/mat": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Helena, mater Constantini",
             "en": "Helena, mother of Constantine",

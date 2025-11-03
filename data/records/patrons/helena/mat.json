@@ -1,38 +1,58 @@
 {
-  "names": {
-    "la": [
-      "Helena, mater Constantini",
-      "Flavia Iulia Helena Augusta"
-    ],
-    "en": [
-      "Helena, mother of Constantine",
-      "Helena of Constantinople",
-      "Flavia Julia Helena"
-    ],
-    "pl": [
-      "Helena, matka Konstantyna",
-      "Helena, cesarzowa"
-    ]
-  },
-
-  "epithets": [
-    {
-      "la": "Mater Constantini imperatoris",
-      "en": "Mother of Constantine, imperator",
-      "pl": "Matka cesarza Konstantyna"
+    "names": {
+        "la": [
+            "Helena, mater Constantini",
+            "Flavia Iulia Helena Augusta"
+        ],
+        "en": [
+            "Helena, mother of Constantine",
+            "Helena of Constantinople",
+            "Flavia Julia Helena"
+        ],
+        "pl": [
+            "Helena, matka Konstantyna",
+            "Helena, cesarzowa"
+        ]
     },
-    {
-      "la": "Augusta",
-      "en": "Augusta",
-      "pl": "Augusta"
+    "forenames": ["helena"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Mater Constantini imperatoris",
+            "en": "Mother of Constantine, imperator",
+            "pl": "Matka cesarza Konstantyna"
+        },
+        {
+            "la": "Augusta",
+            "en": "Augusta",
+            "pl": "Augusta"
+        }
+    ],
+
+    "active": true,
+
+    "born": [">246", "<250"],
+    "died": ["~329"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./18#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/18#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./18#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69694",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ta_Helena"
     }
-  ],
-
-  "born": [">246", "<250"],
-  "died": ["~329"],
-
-  "also-in-martyrology": ["08-18"],
-
-  "forenames": ["helena"],
-  "categories": ["femina"]
 }
