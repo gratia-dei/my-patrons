@@ -11537,11 +11537,11 @@
         "feasts": []
     },
     "patrons/philippus/ben": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Filippo Benizi",
-            "en": "Philip Benizi",
             "la": "Philippus Benitius",
+            "en": "Philip Benizi",
             "pl": "Filip Benicjusz"
         },
         "died": [

@@ -6559,6 +6559,35 @@
             }
         }
     },
+    "08-22": {
+        "records/patrons/philippus/ben": {
+            "name": {
+                "it": "Filippo Benizi",
+                "la": "Philippus Benitius",
+                "en": "Philip Benizi",
+                "pl": "Filip Benicjusz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 VIII",
+                "feast": "22 VIII",
+                "mr-1956": "22 VIII: #6",
+                "mr-2004": "22 VIII: #4"
+            }
+        }
+    },
+    "08-23": {
+        "records/patrons/philippus/ben": {
+            "name": {
+                "it": "Filippo Benizi",
+                "la": "Philippus Benitius",
+                "en": "Philip Benizi",
+                "pl": "Filip Benicjusz"
+            },
+            "sources": {
+                "mr-1956": "23 VIII: #2"
+            }
+        }
+    },
     "08-24": {
         "records/patrons/ceslaus/joz": {
             "name": {

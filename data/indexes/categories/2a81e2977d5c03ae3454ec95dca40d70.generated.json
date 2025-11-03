@@ -835,8 +835,8 @@
         },
         "records/patrons/philippus/ben": {
             "it": "Filippo Benizi",
-            "en": "Philip Benizi",
             "la": "Philippus Benitius",
+            "en": "Philip Benizi",
             "pl": "Filip Benicjusz"
         },
         "records/patrons/philippus/ner": {
