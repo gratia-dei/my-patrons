@@ -9182,6 +9182,18 @@
                 "feast": "3 XI",
                 "mr-2004": "3 XI: #1"
             }
+        },
+        "records/patrons/simon/bal": {
+            "name": {
+                "it": "Simone Balacchi",
+                "la": "Simon Balacchi",
+                "en": "Simon Balacchi",
+                "pl": "Szymon Balacchi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 XI",
+                "mr-2004": "3 XI: #15"
+            }
         }
     },
     "11-04": {

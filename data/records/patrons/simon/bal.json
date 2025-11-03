@@ -1,0 +1,50 @@
+{
+    "names": {
+        "it": [
+            "Simone Balacchi"
+        ],
+        "la": [
+            "Simon Balacchi"
+        ],
+        "en": [
+            "Simon Balacchi"
+        ],
+        "pl": [
+            "Szymon Balacchi"
+        ]
+    },
+    "forenames": ["simon"],
+    "surnames": [
+        {
+            "it": "Balacchi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1240"],
+    "died": ["1319-11-03"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./3#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68892",
+        "wiki": "https://pl.wikipedia.org/wiki/Szymon_Ballacchi"
+    }
+}

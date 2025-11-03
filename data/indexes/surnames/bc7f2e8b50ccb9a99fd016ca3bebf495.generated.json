@@ -1,0 +1,18 @@
+{
+    "names": {
+        "it": "Balacchi"
+    },
+    "translations": {
+        "it": [
+            "Balacchi"
+        ]
+    },
+    "links": {
+        "records/patrons/simon/bal": {
+            "it": "Simone Balacchi",
+            "la": "Simon Balacchi",
+            "en": "Simon Balacchi",
+            "pl": "Szymon Balacchi"
+        }
+    }
+}
