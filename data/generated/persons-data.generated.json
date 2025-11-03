@@ -13610,6 +13610,7 @@
             "la": "Thomas",
             "en": "Thomas",
             "pl": "Tomasz",
+            "es": "Tomás",
             "it": "Tommaso",
             "ko": "토마스"
         }
@@ -13692,6 +13693,19 @@
         },
         "died": [
             "1570-01-04"
+        ],
+        "feasts": []
+    },
+    "patrons/thomas/sit": {
+        "active": true,
+        "names": {
+            "es": "Tomás Sitjar Fortiá",
+            "la": "Thomas Sitjar Fortiá",
+            "en": "Thomas Sitjar Fortiá",
+            "pl": "Tomasz Sitjar Fortiá"
+        },
+        "died": [
+            "1936-08-19"
         ],
         "feasts": []
     },

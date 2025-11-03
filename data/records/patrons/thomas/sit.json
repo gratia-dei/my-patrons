@@ -1,0 +1,56 @@
+{
+    "names": {
+        "es": [
+            "Tomás Sitjar Fortiá"
+        ],
+        "la": [
+            "Thomas Sitjar Fortiá"
+        ],
+        "en": [
+            "Thomas Sitjar Fortiá"
+        ],
+        "pl": [
+            "Tomasz Sitjar Fortiá"
+        ]
+    },
+    "forenames": ["thomas"],
+    "surnames": [
+        {
+            "es": "Sitjar"
+        },
+        {
+            "es": "Fortiá"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1866-03-21"],
+    "died": ["1936-08-19"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-03-11"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./19#20"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jose-aparicio-sanz-e-232-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/64055",
+        "wiki": "https://pl.wikipedia.org/wiki/Tomasz_Sitjar_Forti%C3%A1"
+    }
+}

@@ -12,6 +12,9 @@
         "pl": [
             "Tomasz"
         ],
+        "es": [
+            "Tomás"
+        ],
         "it": [
             "Tommaso"
         ],
@@ -50,6 +53,12 @@
             "en": "Thomas Plumtree",
             "la": "Thomas Plumtree",
             "pl": "Tomasz Plumtree"
+        },
+        "records/patrons/thomas/sit": {
+            "es": "Tomás Sitjar Fortiá",
+            "la": "Thomas Sitjar Fortiá",
+            "en": "Thomas Sitjar Fortiá",
+            "pl": "Tomasz Sitjar Fortiá"
         },
         "records/patrons/thomas/son": {
             "ko": "손자선 토마스",
