@@ -129,6 +129,11 @@
             "la": "Pius X",
             "en": "Pius X",
             "pl": "Pius X"
+        },
+        "records/patrons/richardus/lei": {
+            "en": "Richard Leigh",
+            "la": "Richardus Leigh",
+            "pl": "Ryszard Leigh"
         }
     }
 }

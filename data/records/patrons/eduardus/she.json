@@ -1,0 +1,47 @@
+{
+    "names": {
+        "en": [
+            "Edward Shelley"
+        ],
+        "la": [
+            "Eduardus Shelley"
+        ],
+        "pl": [
+            "Edward Shelley"
+        ]
+    },
+    "forenames": ["eduardus"],
+    "surnames": [
+        {
+            "en": "Shelley"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1530"],
+    "died": ["1588-08-30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "laicus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:aug./30#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/66776",
+        "wiki": "https://en.wikipedia.org/wiki/William_Dean_(priest)"
+    }
+}

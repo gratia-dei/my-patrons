@@ -1,0 +1,47 @@
+{
+    "names": {
+        "en": [
+            "Richard Martin"
+        ],
+        "la": [
+            "Richardus Martin"
+        ],
+        "pl": [
+            "Ryszard Martin"
+        ]
+    },
+    "forenames": ["richardus"],
+    "surnames": [
+        {
+            "en": "Martin"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1588-08-30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "laicus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["4:aug./30#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/66777",
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Martin_(martyr)"
+    }
+}

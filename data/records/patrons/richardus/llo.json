@@ -1,0 +1,47 @@
+{
+    "names": {
+        "en": [
+            "Richard Lloyd"
+        ],
+        "la": [
+            "Richardus Lloyd"
+        ],
+        "pl": [
+            "Ryszard Lloyd"
+        ]
+    },
+    "forenames": ["richardus"],
+    "surnames": [
+        {
+            "en": "Lloyd"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1566"],
+    "died": ["1588-08-30"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "laicus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["6:aug./30#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/66885",
+        "wiki": "https://en.wikipedia.org/wiki/Richard_Flower_(martyr)"
+    }
+}

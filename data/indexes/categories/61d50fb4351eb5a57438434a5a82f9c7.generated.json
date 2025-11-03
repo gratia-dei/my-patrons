@@ -14,11 +14,31 @@
         ]
     },
     "links": {
+        "records/patrons/eduardus/she": {
+            "en": "Edward Shelley",
+            "la": "Eduardus Shelley",
+            "pl": "Edward Shelley"
+        },
+        "records/patrons/ioannes/roc": {
+            "en": "John Roche",
+            "la": "Ioannes Roche",
+            "pl": "Jan Roche"
+        },
         "records/patrons/ludovicus/mar": {
             "fr": "Louis Martin",
             "la": "Ludovicus Martin",
             "en": "Louis Martin",
             "pl": "Ludwik Martin"
+        },
+        "records/patrons/richardus/llo": {
+            "en": "Richard Lloyd",
+            "la": "Richardus Lloyd",
+            "pl": "Ryszard Lloyd"
+        },
+        "records/patrons/richardus/mar": {
+            "en": "Richard Martin",
+            "la": "Richardus Martin",
+            "pl": "Ryszard Martin"
         },
         "records/patrons/zelie/gue": {
             "fr": "Zélie Guérin",

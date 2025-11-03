@@ -6794,6 +6794,73 @@
         }
     },
     "08-30": {
+        "records/patrons/eduardus/she": {
+            "name": {
+                "en": "Edward Shelley",
+                "la": "Eduardus Shelley",
+                "pl": "Edward Shelley"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
+        "records/patrons/ioannes/roc": {
+            "name": {
+                "en": "John Roche",
+                "la": "Ioannes Roche",
+                "pl": "Jan Roche"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
+        "records/patrons/margarita/war": {
+            "name": {
+                "en": "Margaret Ward",
+                "la": "Margarita Ward",
+                "pl": "Małgorzata Ward"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "feast": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
+        "records/patrons/richardus/lei": {
+            "name": {
+                "en": "Richard Leigh",
+                "la": "Richardus Leigh",
+                "pl": "Ryszard Leigh"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
+        "records/patrons/richardus/llo": {
+            "name": {
+                "en": "Richard Lloyd",
+                "la": "Richardus Lloyd",
+                "pl": "Ryszard Lloyd"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
+        "records/patrons/richardus/mar": {
+            "name": {
+                "en": "Richard Martin",
+                "la": "Richardus Martin",
+                "pl": "Ryszard Martin"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 VIII",
+                "mr-2004": "30 VIII: #9"
+            }
+        },
         "records/patrons/rosa/lim": {
             "name": {
                 "es": "Rosa de Lima",

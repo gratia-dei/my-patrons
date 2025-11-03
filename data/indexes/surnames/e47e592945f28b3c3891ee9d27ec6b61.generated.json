@@ -1,0 +1,17 @@
+{
+    "names": {
+        "en": "Shelley"
+    },
+    "translations": {
+        "en": [
+            "Shelley"
+        ]
+    },
+    "links": {
+        "records/patrons/eduardus/she": {
+            "en": "Edward Shelley",
+            "la": "Eduardus Shelley",
+            "pl": "Edward Shelley"
+        }
+    }
+}

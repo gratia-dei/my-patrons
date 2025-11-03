@@ -1,17 +1,15 @@
 {
     "1": {
-        "page": "...",
-        "mark": "!",
-        "la": "?..."
+        "page": 485,
+        "la": "..."
     },
 
     "2": {
-        "mark": "*",
         "la": "..."
     },
 
     "3": {
-        "mark": "*",
+        "page": 486,
         "la": "..."
     },
 
@@ -21,7 +19,6 @@
     },
 
     "5": {
-        "mark": "*",
         "la": "..."
     },
 
@@ -31,18 +28,15 @@
     },
 
     "7": {
-        "mark": "*",
         "la": "..."
     },
 
     "8": {
-        "mark": "*",
         "la": "..."
     },
 
     "9": {
-        "mark": "*",
-        "la": "..."
+        "la": "Londinii in Anglia, sanctae [1|Margaritae Ward], martyris, quae, uxor, sub ... . Ibidem, cum ea passionem consummaverunt beati martyres [2|Richardus Leigh], presbyter, et laici [3|Eduardus Shelley] ac [4|Richardus Martin], angli, [5|Ioannes Roche], hibernus, et [6|Richardus Lloyd], cambriensis, primus ..."
     },
 
     "10": {
@@ -66,36 +60,12 @@
     },
 
     "14": {
+        "page": 487,
         "mark": "*",
         "la": "..."
     },
 
     "15": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "16": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "17": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "18": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "19": {
-        "mark": "*",
-        "la": "..."
-    },
-
-    "20": {
         "mark": "*",
         "la": "..."
     }

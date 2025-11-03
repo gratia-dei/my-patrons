@@ -50,6 +50,11 @@
             "la": "Eduardus Martyr",
             "pl": "Edward Męczennik"
         },
+        "records/patrons/eduardus/she": {
+            "en": "Edward Shelley",
+            "la": "Eduardus Shelley",
+            "pl": "Edward Shelley"
+        },
         "records/patrons/petrus/dan": {
             "pl": "Piotr Edward Dańkowski",
             "en": "Peter Edward Dankowski",

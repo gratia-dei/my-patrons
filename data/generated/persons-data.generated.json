@@ -4098,6 +4098,18 @@
         ],
         "feasts": []
     },
+    "patrons/eduardus/she": {
+        "active": true,
+        "names": {
+            "en": "Edward Shelley",
+            "la": "Eduardus Shelley",
+            "pl": "Edward Shelley"
+        },
+        "died": [
+            "1588-08-30"
+        ],
+        "feasts": []
+    },
     "patrons/eleutherius": {
         "names": {
             "la": "Eleutherius",
@@ -7162,6 +7174,18 @@
         ],
         "feasts": []
     },
+    "patrons/ioannes/roc": {
+        "active": true,
+        "names": {
+            "en": "John Roche",
+            "la": "Ioannes Roche",
+            "pl": "Jan Roche"
+        },
+        "died": [
+            "1588-08-30"
+        ],
+        "feasts": []
+    },
     "patrons/ioannes/sal": {
         "active": true,
         "names": {
@@ -8978,7 +9002,7 @@
         "feasts": []
     },
     "patrons/margarita/war": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Margaret Ward",
             "la": "Margarita Ward",
@@ -11978,6 +12002,42 @@
             "en": "Richard",
             "pl": "Ryszard"
         }
+    },
+    "patrons/richardus/lei": {
+        "active": true,
+        "names": {
+            "en": "Richard Leigh",
+            "la": "Richardus Leigh",
+            "pl": "Ryszard Leigh"
+        },
+        "died": [
+            "1588-08-30"
+        ],
+        "feasts": []
+    },
+    "patrons/richardus/llo": {
+        "active": true,
+        "names": {
+            "en": "Richard Lloyd",
+            "la": "Richardus Lloyd",
+            "pl": "Ryszard Lloyd"
+        },
+        "died": [
+            "1588-08-30"
+        ],
+        "feasts": []
+    },
+    "patrons/richardus/mar": {
+        "active": true,
+        "names": {
+            "en": "Richard Martin",
+            "la": "Richardus Martin",
+            "pl": "Ryszard Martin"
+        },
+        "died": [
+            "1588-08-30"
+        ],
+        "feasts": []
     },
     "patrons/richardus/per": {
         "active": true,

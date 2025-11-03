@@ -1,9 +1,13 @@
 {
     "names": {
-        "fr": "Martin"
+        "fr": "Martin",
+        "en": "Martin"
     },
     "translations": {
         "fr": [
+            "Martin"
+        ],
+        "en": [
             "Martin"
         ]
     },
@@ -13,6 +17,11 @@
             "la": "Ludovicus Martin",
             "en": "Louis Martin",
             "pl": "Ludwik Martin"
+        },
+        "records/patrons/richardus/mar": {
+            "en": "Richard Martin",
+            "la": "Richardus Martin",
+            "pl": "Ryszard Martin"
         }
     }
 }

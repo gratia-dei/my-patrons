@@ -14,6 +14,21 @@
         ]
     },
     "links": {
+        "records/patrons/richardus/lei": {
+            "en": "Richard Leigh",
+            "la": "Richardus Leigh",
+            "pl": "Ryszard Leigh"
+        },
+        "records/patrons/richardus/llo": {
+            "en": "Richard Lloyd",
+            "la": "Richardus Lloyd",
+            "pl": "Ryszard Lloyd"
+        },
+        "records/patrons/richardus/mar": {
+            "en": "Richard Martin",
+            "la": "Richardus Martin",
+            "pl": "Ryszard Martin"
+        },
         "records/patrons/richardus/per": {
             "en": "Richard the Pilgrim",
             "la": "Richardus Peregrinus",
