@@ -786,6 +786,18 @@
                 "reliable-death-anniversary": "5 II",
                 "mr-2004": "5 II: #12"
             }
+        },
+        "records/patrons/agatha/cat": {
+            "name": {
+                "la": "Agatha Catanensis",
+                "en": "Agatha of Sicily",
+                "pl": "Agata Sycylijska"
+            },
+            "sources": {
+                "mr-1584": "5 II: #1",
+                "mr-1956": "5 II: #1",
+                "mr-2004": "5 II: #1"
+            }
         }
     },
     "02-06": {

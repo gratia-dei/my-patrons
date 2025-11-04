@@ -662,7 +662,7 @@
         }
     },
     "patrons/agatha/cat": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Agatha Catanensis",
             "en": "Agatha of Sicily",
