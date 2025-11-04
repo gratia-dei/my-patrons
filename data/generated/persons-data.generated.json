@@ -796,11 +796,11 @@
         "feasts": []
     },
     "patrons/albertus/lov": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Albert de Louvain",
-            "en": "Albert of Louvain",
             "la": "Albertus Lovaniensis",
+            "en": "Albert of Louvain",
             "pl": "Albert z Louvain"
         },
         "died": [

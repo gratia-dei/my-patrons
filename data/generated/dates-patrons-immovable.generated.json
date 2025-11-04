@@ -9972,6 +9972,18 @@
                 "feast": "21 XI",
                 "mr-2004": "21 XI: #7"
             }
+        },
+        "records/patrons/albertus/lov": {
+            "name": {
+                "fr": "Albert de Louvain",
+                "la": "Albertus Lovaniensis",
+                "en": "Albert of Louvain",
+                "pl": "Albert z Louvain"
+            },
+            "sources": {
+                "mr-1584": "21 XI: #5",
+                "mr-1956": "21 XI: #4"
+            }
         }
     },
     "11-22": {
@@ -10001,6 +10013,18 @@
         }
     },
     "11-24": {
+        "records/patrons/albertus/lov": {
+            "name": {
+                "fr": "Albert de Louvain",
+                "la": "Albertus Lovaniensis",
+                "en": "Albert of Louvain",
+                "pl": "Albert z Louvain"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 XI",
+                "mr-2004": "24 XI: #9"
+            }
+        },
         "records/patrons/emmanuel/lev": {
             "name": {
                 "vi": "Emanuen Lê Văn Phụng",

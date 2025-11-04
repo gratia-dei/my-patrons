@@ -1,30 +1,47 @@
 {
-  "names": {
-    "fr": [
-      "Albert de Louvain",
-      "Albert de Liège"
-    ],
-    "en": [
-      "Albert of Louvain"
-    ],
-    "la": [
-      "Albertus Lovaniensis"
-    ],
-    "pl": [
-      "Albert z Louvain"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Albert de Louvain",
+            "Albert de Liège"
+        ],
+        "la": [
+            "Albertus Lovaniensis"
+        ],
+        "en": [
+            "Albert of Louvain"
+        ],
+        "pl": [
+            "Albert z Louvain"
+        ]
+    },
+    "forenames": ["albertus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1160"],
-  "died": ["1192-11-24"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1613-08-09"
-  },
+    "born": ["~1166"],
+    "died": ["1192-11-24"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["11-21", "11-24"],
+    "categories": ["vir", "martyr", "episcopus"],
 
-  "forenames": ["albertus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "data-links": {
+        "mr-1584": ["1:Nov./21#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/21#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./24#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/55185",
+        "wiki": "https://pl.wikipedia.org/wiki/Albert_z_Louvain"
+    }
 }
