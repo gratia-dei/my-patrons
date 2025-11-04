@@ -2345,6 +2345,18 @@
         }
     },
     "03-25": {
+        "records/patrons/aemilianus/kov": {
+            "name": {
+                "uk": "Омелян Ковч",
+                "la": "Aemilianus Kovc",
+                "en": "Emilian Kovch",
+                "pl": "Emilian Kowcz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 III",
+                "mr-2004": "25 III: #17"
+            }
+        },
         "records/patrons/lucia/fil": {
             "name": {
                 "it": "Lucia Filippini",

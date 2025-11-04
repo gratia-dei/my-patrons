@@ -1,39 +1,57 @@
 {
-  "names": {
-    "uk": [
-      "Омелян Ковч"
+    "names": {
+        "uk": [
+            "Омелян Ковч"
+        ],
+        "la": [
+            "Aemilianus Kovc",
+            "Aemilianus Kovč"
+        ],
+        "en": [
+            "Emilian Kovch"
+        ],
+        "pl": [
+            "Emilian Kowcz"
+        ]
+    },
+    "forenames": ["aemilianus"],
+    "surnames": [
+        {
+            "uk": "Ковч",
+            "pl": "Kowcz",
+            "en": "Kovch",
+            "la": ["Kovc", "Kovč"]
+        }
     ],
-    "pl": [
-      "Emilian Kowcz"
-    ],
-    "en": [
-      "Emilian Kovch"
-    ],
-    "la": [
-      "Aemilianus Kovc",
-      "Aemilianus Kovč"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "uk": "Ковч",
-      "pl": "Kowcz",
-      "en": "Kovch",
-      "la": ["Kovc", "Kovč"]
+    "active": true,
+
+    "born": ["1884-08-20"],
+    "died": ["1944-03-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-06-27"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./25#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/omeljan-kovc.html",
+        "gcatholic": "https://gcatholic.org/p/67878",
+        "wiki": "https://pl.wikipedia.org/wiki/Emilian_Kowcz"
     }
-  ],
-
-  "born": ["1884-08-20"],
-  "died": ["1944-03-25"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-06-27"
-  },
-
-  "also-in-martyrology": ["03-25"],
-
-  "forenames": ["aemilianus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

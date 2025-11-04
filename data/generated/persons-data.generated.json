@@ -603,12 +603,12 @@
         }
     },
     "patrons/aemilianus/kov": {
-        "active": false,
+        "active": true,
         "names": {
             "uk": "Омелян Ковч",
-            "pl": "Emilian Kowcz",
+            "la": "Aemilianus Kovc",
             "en": "Emilian Kovch",
-            "la": "Aemilianus Kovc"
+            "pl": "Emilian Kowcz"
         },
         "died": [
             "1944-03-25"
