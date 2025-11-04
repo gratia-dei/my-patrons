@@ -1133,6 +1133,28 @@
             }
         }
     },
+    "08-23": {
+        "records/patrons/bartholomaeus/apo#vba": {
+            "name": {
+                "la": "Bartholomaeus Apostolus (Vigilia sancti Bartholomaei Apostoli)",
+                "pl": "Bartłomiej Apostoł (Wigilia świętego Bartłomieja Apostoła)"
+            },
+            "sources": {
+                "mr-1956": "23 VIII: #1"
+            }
+        }
+    },
+    "08-24": {
+        "records/patrons/bartholomaeus/apo#vba": {
+            "name": {
+                "la": "Bartholomaeus Apostolus (Vigilia sancti Bartholomaei Apostoli)",
+                "pl": "Bartłomiej Apostoł (Wigilia świętego Bartłomieja Apostoła)"
+            },
+            "sources": {
+                "mr-1584": "24 VIII: #1"
+            }
+        }
+    },
     "08-29": {
         "records/patrons/ioannes/bap#pib": {
             "name": {

@@ -1,22 +1,62 @@
 {
-  "names": {
-    "la": [
-      "Bartholomaeus Apostolus",
-      "Nathanael"
-    ],
-    "en": [
-      "Bartholomew the Apostle"
-    ],
-    "pl": [
-      "Bartłomiej Apostoł",
-      "Nataniel"
-    ]
-  },
+    "names": {
+        "la": [
+            "Bartholomaeus Apostolus",
+            "Nathanael Apostolus"
+        ],
+        "en": [
+            "Bartholomew the Apostle",
+            "Nathanael the Apostle"
+        ],
+        "pl": [
+            "Bartłomiej Apostoł",
+            "Nataniel Apostoł"
+        ]
+    },
+    "forenames": ["bartholomaeus", "nathanael"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~80"],
+    "active": true,
 
-  "also-in-martyrology": ["08-24"],
+    "born": null,
+    "died": ["~80"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["bartholomaeus", "nathanael"],
-  "categories": ["vir", "apostolus", "martyr"]
+    "categories": ["vir", "apostolus", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./25#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/24#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./24#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "vba": {
+            "data-links": {
+                "mr-1584": ["1:Aug./24#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Augusti/23#1"],
+                "mr-1956-variations": ["1:Augusti/23#1-ab-1960-07-26"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69197",
+        "wiki": "https://pl.wikipedia.org/wiki/Bart%C5%82omiej_Aposto%C5%82"
+    }
 }

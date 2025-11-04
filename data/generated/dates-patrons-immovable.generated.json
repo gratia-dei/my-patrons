@@ -6673,6 +6673,17 @@
                 "mr-1956": "24 VIII: #2",
                 "mr-2004": "24 VIII: #5"
             }
+        },
+        "records/patrons/bartholomaeus/apo": {
+            "name": {
+                "la": "Bartholomaeus Apostolus",
+                "en": "Bartholomew the Apostle",
+                "pl": "Bartłomiej Apostoł"
+            },
+            "sources": {
+                "mr-1956": "24 VIII: #1",
+                "mr-2004": "24 VIII: #1"
+            }
         }
     },
     "08-25": {
@@ -6700,6 +6711,16 @@
                 "mr-1584": "25 VIII: #2",
                 "mr-1956": "25 VIII: #1",
                 "mr-2004": "25 VIII: #1"
+            }
+        },
+        "records/patrons/bartholomaeus/apo": {
+            "name": {
+                "la": "Bartholomaeus Apostolus",
+                "en": "Bartholomew the Apostle",
+                "pl": "Bartłomiej Apostoł"
+            },
+            "sources": {
+                "mr-1584": "25 VIII: #1"
             }
         }
     },
