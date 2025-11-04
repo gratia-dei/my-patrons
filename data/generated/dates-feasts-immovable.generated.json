@@ -1467,6 +1467,16 @@
         }
     },
     "12-07": {
+        "records/patrons/ambrosius/med#oam": {
+            "name": {
+                "la": "Ambrosius Mediolanensis (Ordinatio sancti Ambrosii episcopi)",
+                "pl": "Ambroży z Mediolanu (Wyświęcenie świętego Ambrożego biskupa)"
+            },
+            "sources": {
+                "mr-1584": "7 XII: #1",
+                "mr-1956": "7 XII: #2"
+            }
+        },
         "records/patrons/maria/naz#civ": {
             "name": {
                 "la": "Maria Virgo (Vigilia Conceptionis Immaculatae beatae Mariae Virginis)",
@@ -1524,8 +1534,8 @@
     "12-15": {
         "records/patrons/eusebius/ver#oev": {
             "name": {
-                "la": "Eusebius Vercellensis (Ordinatio sancti Eusebii)",
-                "pl": "Euzebiusz z Vercelli (Wyświęcenie na biskupa świętego Euzebiusza)"
+                "la": "Eusebius Vercellensis (Ordinatio sancti Eusebii episcopi)",
+                "pl": "Euzebiusz z Vercelli (Wyświęcenie świętego Euzebiusza biskupa)"
             },
             "sources": {
                 "mr-1956": "15 XII: #7"

@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/ambrosius/med": {
+            "la": "Ambrosius Mediolanensis",
+            "en": "Ambrose of Milan",
+            "pl": "Ambroży z Mediolanu"
+        },
         "records/patrons/felicitas/car": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",

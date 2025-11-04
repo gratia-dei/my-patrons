@@ -1067,7 +1067,7 @@
         }
     },
     "patrons/ambrosius/med": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Ambrosius Mediolanensis",
             "en": "Ambrose of Milan",
@@ -1076,7 +1076,15 @@
         "died": [
             "397-04-04"
         ],
-        "feasts": []
+        "feasts": {
+            "feasts/oam": {
+                "active": true,
+                "names": {
+                    "la": "Ordinatio sancti Ambrosii episcopi",
+                    "pl": "Wyświęcenie świętego Ambrożego biskupa"
+                }
+            }
+        }
     },
     "patrons/amos": {
         "names": {
@@ -4481,8 +4489,8 @@
             "feasts/oev": {
                 "active": true,
                 "names": {
-                    "la": "Ordinatio sancti Eusebii",
-                    "pl": "Wyświęcenie na biskupa świętego Euzebiusza"
+                    "la": "Ordinatio sancti Eusebii episcopi",
+                    "pl": "Wyświęcenie świętego Euzebiusza biskupa"
                 }
             }
         }

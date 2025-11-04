@@ -2608,6 +2608,19 @@
         }
     },
     "04-04": {
+        "records/patrons/ambrosius/med": {
+            "name": {
+                "la": "Ambrosius Mediolanensis",
+                "en": "Ambrose of Milan",
+                "pl": "Ambroży z Mediolanu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 IV",
+                "mr-1584": "4 IV: #2",
+                "mr-1956": "4 IV: #2",
+                "mr-2004": "4 IV: #3"
+            }
+        },
         "records/patrons/caietanus/cat": {
             "name": {
                 "it": "Gaetano Catanoso",
@@ -10389,6 +10402,16 @@
             "sources": {
                 "reliable-death-anniversary": "7 XII",
                 "mr-2004": "7 XII: #7"
+            }
+        },
+        "records/patrons/ambrosius/med": {
+            "name": {
+                "la": "Ambrosius Mediolanensis",
+                "en": "Ambrose of Milan",
+                "pl": "Ambroży z Mediolanu"
+            },
+            "sources": {
+                "mr-2004": "7 XII: #1"
             }
         }
     },

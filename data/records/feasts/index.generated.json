@@ -254,9 +254,13 @@
         "la": "Octava Nativitatis Beatae Mariae Virginis",
         "pl": "Oktawa Narodzin Błogosławionej Maryi Dziewicy"
     },
+    "oam": {
+        "la": "Ordinatio sancti Ambrosii episcopi",
+        "pl": "Wyświęcenie świętego Ambrożego biskupa"
+    },
     "oev": {
-        "la": "Ordinatio sancti Eusebii",
-        "pl": "Wyświęcenie na biskupa świętego Euzebiusza"
+        "la": "Ordinatio sancti Eusebii episcopi",
+        "pl": "Wyświęcenie świętego Euzebiusza biskupa"
     },
     "oie": {
         "la": "Octava sancti Ioannis Apostoli et Evangelistae",
