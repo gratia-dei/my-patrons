@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Alfons Maria Mazurek"
+    "names": {
+        "pl": [
+            "Alfons Maria Mazurek"
+        ],
+        "la": [
+            "Alphonsus Maria Mazurek"
+        ],
+        "en": [
+            "Alphonsus Maria Mazurek"
+        ]
+    },
+    "forenames": ["alphonsus", "maria"],
+    "surnames": [
+        {
+            "pl": "Mazurek"
+        }
     ],
-    "en": [
-      "Alphonsus Maria Mazurek"
-    ],
-    "la": [
-      "Alphonsus Maria Mazurek"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Mazurek"
+    "active": true,
+
+    "born": ["1891-03-01"],
+    "died": ["1944-08-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-28"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./28#18"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67817",
+        "wiki": "https://pl.wikipedia.org/wiki/Alfons_Mazurek"
     }
-  ],
-
-  "born": ["1891-03-01"],
-  "died": ["1944-08-28"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["08-28"],
-
-  "forenames": ["alphonsus", "maria"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

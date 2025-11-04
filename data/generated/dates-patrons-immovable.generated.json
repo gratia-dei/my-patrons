@@ -6798,6 +6798,18 @@
         }
     },
     "08-28": {
+        "records/patrons/alphonsus/maz": {
+            "name": {
+                "pl": "Alfons Maria Mazurek",
+                "la": "Alphonsus Maria Mazurek",
+                "en": "Alphonsus Maria Mazurek"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 VIII",
+                "feast": "28 VIII",
+                "mr-2004": "28 VIII: #18"
+            }
+        },
         "records/patrons/augustinus/hip": {
             "name": {
                 "la": "Augustinus Hipponensis",
