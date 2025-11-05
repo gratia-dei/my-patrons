@@ -3459,6 +3459,20 @@
             }
         }
     },
+    "05-08": {
+        "records/patrons/antonius/baj": {
+            "name": {
+                "pl": "Antoni Bajewski",
+                "la": "Antonius Bajewski",
+                "en": "Anthony Bajewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 V",
+                "feast": "8 V",
+                "mr-2004": "8 V: #17"
+            }
+        }
+    },
     "05-09": {
         "records/patrons/stephanus/gre": {
             "name": {

@@ -1540,11 +1540,11 @@
         "feasts": []
     },
     "patrons/antonius/baj": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Antoni Bajewski",
-            "en": "Anthony Bajewski",
-            "la": "Antonius Bajewski"
+            "la": "Antonius Bajewski",
+            "en": "Anthony Bajewski"
         },
         "died": [
             "1941-05-08"

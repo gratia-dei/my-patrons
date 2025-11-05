@@ -1,39 +1,55 @@
 {
-  "names": {
-    "pl": [
-      "Antoni Bajewski",
-      "Antonin Bajewski",
-      "Jan Eugeniusz Bajewski"
+    "names": {
+        "pl": [
+            "Antoni Bajewski",
+            "Antonin Bajewski",
+            "Jan Eugeniusz Bajewski"
+        ],
+        "la": [
+            "Antonius Bajewski",
+            "Antoninus Bajewski"
+        ],
+        "en": [
+            "Anthony Bajewski",
+            "Antonin Bajewski",
+            "John Eugene Bajewski"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": [
+        {
+            "pl": "Bajewski"
+        }
     ],
-    "en": [
-      "Anthony Bajewski",
-      "Antonin Bajewski",
-      "John Eugene Bajewski"
-    ],
-    "la": [
-      "Antonius Bajewski",
-      "Antoninus Bajewski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Bajewski"
+    "active": true,
+
+    "born": ["1915-01-17"],
+    "died": ["1941-05-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["05-08"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/8#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67740",
+        "wiki": "https://pl.wikipedia.org/wiki/Antonin_Bajewski"
     }
-  ],
-
-  "born": ["1915-01-17"],
-  "died": ["1941-05-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["05-08"],
-
-  "forenames": ["antonius"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["ofmconv"]
 }
