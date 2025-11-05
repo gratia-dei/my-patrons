@@ -120,6 +120,20 @@
                 "mr-2004": "6 I: #11"
             }
         },
+        "records/patrons/andreas/cor": {
+            "name": {
+                "it": "Andrea Corsini",
+                "la": "Andreas Corsinus",
+                "en": "Andrew Corsini",
+                "pl": "Andrzej Corsini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "feast": "6 I",
+                "mr-1956": "6 I: #2",
+                "mr-2004": "6 I: #7"
+            }
+        },
         "records/patrons/carolus/set": {
             "name": {
                 "it": "Carlo da Sezze",
@@ -784,6 +798,17 @@
                 "feast": "4 II",
                 "mr-1956": "4 II: #11",
                 "mr-2004": "4 II: #10"
+            }
+        },
+        "records/patrons/andreas/cor": {
+            "name": {
+                "it": "Andrea Corsini",
+                "la": "Andreas Corsinus",
+                "en": "Andrew Corsini",
+                "pl": "Andrzej Corsini"
+            },
+            "sources": {
+                "mr-1956": "4 II: #1"
             }
         }
     },
