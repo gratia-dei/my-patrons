@@ -161,8 +161,8 @@
         },
         "records/patrons/andreas/sov": {
             "pt": "André de Soveral",
-            "en": "Andrew de Soveral",
             "la": "Andreas de Soveral",
+            "en": "Andrew de Soveral",
             "pl": "Andrzej de Soveral"
         },
         "records/patrons/anicetus/kop": {
@@ -571,6 +571,12 @@
             "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
             "en": "Denis of Paris, with him, i.a., Rusticus",
             "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
+        },
+        "records/patrons/dominicus/car": {
+            "pt": "Domingos Carvalho",
+            "la": "Dominicus Carvalho",
+            "en": "Dominic Carvalho",
+            "pl": "Dominik Carvalho"
         },
         "records/patrons/domninus/cae": {
             "la": "Domninus Caesariensis",

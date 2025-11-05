@@ -1,0 +1,18 @@
+{
+    "names": {
+        "pt": "Carvalho"
+    },
+    "translations": {
+        "pt": [
+            "Carvalho"
+        ]
+    },
+    "links": {
+        "records/patrons/dominicus/car": {
+            "pt": "Domingos Carvalho",
+            "la": "Dominicus Carvalho",
+            "en": "Dominic Carvalho",
+            "pl": "Dominik Carvalho"
+        }
+    }
+}

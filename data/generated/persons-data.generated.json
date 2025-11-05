@@ -1298,11 +1298,11 @@
         "feasts": []
     },
     "patrons/andreas/sov": {
-        "active": false,
+        "active": true,
         "names": {
             "pt": "André de Soveral",
-            "en": "Andrew de Soveral",
             "la": "Andreas de Soveral",
+            "en": "Andrew de Soveral",
             "pl": "Andrzej de Soveral"
         },
         "died": [
@@ -3848,8 +3848,22 @@
             "en": "Dominic",
             "pl": "Dominik",
             "es": "Domingo",
-            "it": "Domenico"
+            "it": "Domenico",
+            "pt": "Domingos"
         }
+    },
+    "patrons/dominicus/car": {
+        "active": true,
+        "names": {
+            "pt": "Domingos Carvalho",
+            "la": "Dominicus Carvalho",
+            "en": "Dominic Carvalho",
+            "pl": "Dominik Carvalho"
+        },
+        "died": [
+            "1645-07-16"
+        ],
+        "feasts": []
     },
     "patrons/dominicus/exi": {
         "active": false,

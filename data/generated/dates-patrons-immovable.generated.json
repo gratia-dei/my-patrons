@@ -5099,6 +5099,30 @@
         }
     },
     "07-16": {
+        "records/patrons/andreas/sov": {
+            "name": {
+                "pt": "André de Soveral",
+                "la": "Andreas de Soveral",
+                "en": "Andrew de Soveral",
+                "pl": "Andrzej de Soveral"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 VII",
+                "mr-2004": "16 VII: #12"
+            }
+        },
+        "records/patrons/dominicus/car": {
+            "name": {
+                "pt": "Domingos Carvalho",
+                "la": "Dominicus Carvalho",
+                "en": "Dominic Carvalho",
+                "pl": "Dominik Carvalho"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 VII",
+                "mr-2004": "16 VII: #12"
+            }
+        },
         "records/patrons/simon/cos": {
             "name": {
                 "pt": "Simão da Costa",
