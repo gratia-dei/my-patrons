@@ -2983,6 +2983,19 @@
         }
     },
     "04-21": {
+        "records/patrons/anselmus/can": {
+            "name": {
+                "en": "Anselm of Canterbury",
+                "la": "Anselmus Cantuariensis",
+                "pl": "Anzelm z Canterbury"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 IV",
+                "mr-1584": "21 IV: #4",
+                "mr-1956": "21 IV: #1",
+                "mr-2004": "21 IV: #1"
+            }
+        },
         "records/patrons/romanus/ada": {
             "name": {
                 "es": "Román Adame Rosales",

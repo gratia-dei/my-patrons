@@ -1,26 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Anselmus Cantuariensis"
-    ],
-    "en": [
-      "Anselm of Canterbury"
-    ],
-    "pl": [
-      "Anzelm z Canterbury"
-    ]
-  },
+    "names": {
+        "en": [
+            "Anselm of Canterbury"
+        ],
+        "la": [
+            "Anselmus Cantuariensis"
+        ],
+        "pl": [
+            "Anzelm z Canterbury"
+        ]
+    },
+    "forenames": ["anselmus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1033"],
-  "died": ["1109-04-21"],
+    "active": true,
 
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1494-10-04"
-  },
+    "born": ["1033"],
+    "died": ["1109-04-21"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["04-21"],
+    "categories": ["vir", "confessor", "episcopus", "abbas", "monachus", "doctor-ecclesiae"],
 
-  "forenames": ["anselmus"],
-  "categories": ["vir", "confessor", "episcopus", "abbas", "monachus", "doctor-ecclesiae"]
+    "data-links": {
+        "mr-1584": ["1:Apr./21#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/21#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./21#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/28255",
+        "wiki": "https://pl.wikipedia.org/wiki/Anzelm_z_Canterbury"
+    }
 }
