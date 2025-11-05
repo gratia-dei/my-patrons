@@ -1617,16 +1617,15 @@
         "feasts": []
     },
     "patrons/antonius/ere": {
-        "active": false,
+        "active": true,
         "names": {
             "uk": "Антоній Печерський",
-            "en": "Anthony of Kiev",
             "la": "Antonius Pecherskii",
+            "en": "Anthony of Kiev",
             "pl": "Antoni Pieczerski"
         },
         "died": [
-            "1073-05-27",
-            "1073-07-10"
+            "~1073"
         ],
         "feasts": []
     },

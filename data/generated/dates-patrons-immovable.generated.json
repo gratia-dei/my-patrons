@@ -3483,6 +3483,17 @@
                 "feast": "7 V",
                 "mr-2004": "7 V: #8"
             }
+        },
+        "records/patrons/antonius/ere": {
+            "name": {
+                "uk": "Антоній Печерський",
+                "la": "Antonius Pecherskii",
+                "en": "Anthony of Kiev",
+                "pl": "Antoni Pieczerski"
+            },
+            "sources": {
+                "mr-2004": "7 V: #6"
+            }
         }
     },
     "05-08": {

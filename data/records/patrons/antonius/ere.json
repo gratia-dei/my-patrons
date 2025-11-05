@@ -1,24 +1,46 @@
 {
-  "names": {
-    "uk": [
-      "Антоній Печерський"
-    ],
-    "en": [
-      "Anthony of Kiev"
-    ],
-    "la": [
-      "Antonius Pecherskii"
-    ],
-    "pl": [
-      "Antoni Pieczerski"
-    ]
-  },
+    "names": {
+        "uk": [
+            "Антоній Печерський"
+        ],
+        "la": [
+            "Antonius Pecherskii"
+        ],
+        "en": [
+            "Anthony of Kiev"
+        ],
+        "pl": [
+            "Antoni Pieczerski"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">963", "<983"],
-  "died": ["1073-05-27", "1073-07-10"],
+    "active": true,
 
-  "also-in-martyrology": ["05-07"],
+    "born": ["~983"],
+    "died": ["~1073"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["antonius"],
-  "categories": ["vir", "eremita"]
+    "categories": ["vir", "eremita"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/7#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71657",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_Pieczerski"
+    }
 }
