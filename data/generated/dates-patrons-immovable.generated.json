@@ -107,6 +107,19 @@
         }
     },
     "01-06": {
+        "records/patrons/andreas/bes": {
+            "name": {
+                "fr": "André Bessette",
+                "la": "Andreas Bessette",
+                "en": "Andrew Bessette",
+                "pl": "Andrzej Bessette"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "feast": "6 I",
+                "mr-2004": "6 I: #11"
+            }
+        },
         "records/patrons/carolus/set": {
             "name": {
                 "it": "Carlo da Sezze",

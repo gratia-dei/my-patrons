@@ -1233,11 +1233,11 @@
         }
     },
     "patrons/andreas/bes": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "André Bessette",
-            "en": "Andrew Bessette",
             "la": "Andreas Bessette",
+            "en": "Andrew Bessette",
             "pl": "Andrzej Bessette"
         },
         "died": [
