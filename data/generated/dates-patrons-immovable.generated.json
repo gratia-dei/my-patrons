@@ -456,6 +456,18 @@
         }
     },
     "01-22": {
+        "records/patrons/antonius/chi": {
+            "name": {
+                "it": "Antonio della Chiesa",
+                "la": "Antonius della Chiesa",
+                "en": "Anthony della Chiesa",
+                "pl": "Antoni della Chiesa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 I",
+                "mr-2004": "22 I: #8"
+            }
+        },
         "records/patrons/petrus/dam": {
             "name": {
                 "it": "Pier Damiani",

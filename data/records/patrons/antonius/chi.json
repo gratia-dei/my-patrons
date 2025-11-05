@@ -1,37 +1,50 @@
 {
-  "names": {
-    "it": [
-      "Antonio Della Chiesa"
+    "names": {
+        "it": [
+            "Antonio della Chiesa"
+        ],
+        "la": [
+            "Antonius della Chiesa"
+        ],
+        "en": [
+            "Anthony della Chiesa"
+        ],
+        "pl": [
+            "Antoni della Chiesa"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": [
+        {
+            "it": "della Chiesa"
+        }
     ],
-    "en": [
-      "Anthony Della Chiesa"
-    ],
-    "la": [
-      "Antonius Della Chiesa"
-    ],
-    "pl": [
-      "Antoni Della Chiesa"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Della Chiesa"
+    "active": true,
+
+    "born": ["1394"],
+    "died": ["1459-01-22"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./22#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68890",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_della_Chiesa"
     }
-  ],
-
-  "born": ["1394"],
-  "died": ["1459-01-22"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1819-05-15"
-  },
-
-  "also-in-martyrology": ["01-22"],
-
-  "forenames": ["antonius"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["op"]
 }

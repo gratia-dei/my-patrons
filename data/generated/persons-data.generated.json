@@ -1578,12 +1578,12 @@
         "feasts": []
     },
     "patrons/antonius/chi": {
-        "active": false,
+        "active": true,
         "names": {
-            "it": "Antonio Della Chiesa",
-            "en": "Anthony Della Chiesa",
-            "la": "Antonius Della Chiesa",
-            "pl": "Antoni Della Chiesa"
+            "it": "Antonio della Chiesa",
+            "la": "Antonius della Chiesa",
+            "en": "Anthony della Chiesa",
+            "pl": "Antoni della Chiesa"
         },
         "died": [
             "1459-01-22"
