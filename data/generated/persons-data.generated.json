@@ -1246,11 +1246,11 @@
         "feasts": []
     },
     "patrons/andreas/bob": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Andrzej Bobola",
-            "en": "Andrew Bobola",
-            "la": "Andreas Bobola"
+            "la": "Andreas Bobola",
+            "en": "Andrew Bobola"
         },
         "died": [
             "1657-05-16"

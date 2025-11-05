@@ -3616,6 +3616,19 @@
         }
     },
     "05-16": {
+        "records/patrons/andreas/bob": {
+            "name": {
+                "pl": "Andrzej Bobola",
+                "la": "Andreas Bobola",
+                "en": "Andrew Bobola"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 V",
+                "feast": "16 V",
+                "mr-1956": "16 V: #8",
+                "mr-2004": "16 V: #15"
+            }
+        },
         "records/patrons/michael/woz": {
             "name": {
                 "pl": "Michał Woźniak",
