@@ -1565,11 +1565,11 @@
         "feasts": []
     },
     "patrons/antonius/cau": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Ἀντώνιος Καυλέας",
-            "en": "Anthony Cauleas",
             "la": "Antonius Cauleas",
+            "en": "Anthony Cauleas",
             "pl": "Antoni Kauleas"
         },
         "died": [

@@ -1040,6 +1040,20 @@
         }
     },
     "02-12": {
+        "records/patrons/antonius/cau": {
+            "name": {
+                "el": "Ἀντώνιος Καυλέας",
+                "la": "Antonius Cauleas",
+                "en": "Anthony Cauleas",
+                "pl": "Antoni Kauleas"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 II",
+                "mr-1584": "12 II: #8",
+                "mr-1956": "12 II: #7",
+                "mr-2004": "12 II: #4"
+            }
+        },
         "records/patrons/alexius/fal": {
             "name": {
                 "it": "Alessio Falconieri",

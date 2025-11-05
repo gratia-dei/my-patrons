@@ -1,33 +1,53 @@
 {
-  "names": {
-    "el": [
-      "Ἀντώνιος Καυλέας"
+    "names": {
+        "el": [
+            "Ἀντώνιος Καυλέας"
+        ],
+        "la": [
+            "Antonius Cauleas"
+        ],
+        "en": [
+            "Anthony Cauleas"
+        ],
+        "pl": [
+            "Antoni Kauleas"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "el": "Καυλέας",
+            "en": "Cauleas",
+            "la": "Cauleas",
+            "pl": "Kauleas"
+        }
     ],
-    "en": [
-      "Anthony Cauleas"
-    ],
-    "la": [
-      "Antonius Cauleas"
-    ],
-    "pl": [
-      "Antoni Kauleas"
-    ]
-  },
 
-  "surnames": [
-    {
-      "el": "Καυλέας",
-      "en": "Cauleas",
-      "la": "Cauleas",
-      "pl": "Kauleas"
+    "active": true,
+
+    "born": ["~629"],
+    "died": ["901-02-12"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./12#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/12#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./12#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69645",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_II_Kauleas"
     }
-  ],
-
-  "born": ["~629"],
-  "died": ["901-02-12"],
-
-  "also-in-martyrology": ["02-12"],
-
-  "forenames": ["antonius"],
-  "categories": ["vir", "episcopus"]
 }
