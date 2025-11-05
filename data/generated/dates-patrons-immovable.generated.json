@@ -4032,6 +4032,18 @@
         }
     },
     "05-28": {
+        "records/patrons/antonius/now": {
+            "name": {
+                "pl": "Antoni Julian Nowowiejski",
+                "la": "Antonius Iulianus Nowowiejski",
+                "en": "Anthony Julian Nowowiejski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 V",
+                "feast": "28 V",
+                "mr-2004": "28 V: #14"
+            }
+        },
         "records/patrons/stephanus/wys": {
             "name": {
                 "pl": "Stefan Wyszyński",

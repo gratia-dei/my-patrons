@@ -1630,11 +1630,11 @@
         "feasts": []
     },
     "patrons/antonius/now": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Antoni Julian Nowowiejski",
-            "en": "Anthony Julian Nowowiejski",
-            "la": "Antonius Iulianus Nowowiejski"
+            "la": "Antonius Iulianus Nowowiejski",
+            "en": "Anthony Julian Nowowiejski"
         },
         "died": [
             "1941-05-28"
