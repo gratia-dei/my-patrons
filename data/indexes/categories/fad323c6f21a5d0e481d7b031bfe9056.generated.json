@@ -134,7 +134,7 @@
         "records/patrons/anastasia/sir": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Dalmacji"
+            "pl": "Anastazja z Sirmium"
         },
         "records/patrons/andreas/alr": {
             "fr": "André-Abel Alricy",
@@ -1641,6 +1641,11 @@
             "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
             "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
         },
+        "records/patrons/multi/dva": {
+            "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+        },
         "records/patrons/multi/lug": {
             "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
             "en": "Almost all the citizens of Lyon; with them, Irenaeus",
@@ -1690,6 +1695,11 @@
             "pl": "Towarzysze Sadoka z Sandomierza",
             "la": "Sociorum Sadochii de Sandomierz",
             "en": "Companions of Sadok of Sandomierz"
+        },
+        "records/patrons/multi/sfa": {
+            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
         },
         "records/patrons/multi/the": {
             "la": "Sociorum Mauricii, milites legionis Thebanae",

@@ -39,6 +39,11 @@
             "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
             "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
         },
+        "records/patrons/multi/dva": {
+            "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+        },
         "records/patrons/multi/fid": {
             "la": "Omnes Fideles Defuncti",
             "en": "All the Faithful Departed",
@@ -98,6 +103,11 @@
             "la": "Omnes Sancti",
             "en": "All Saints",
             "pl": "Wszyscy Święci"
+        },
+        "records/patrons/multi/sfa": {
+            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
         },
         "records/patrons/multi/the": {
             "la": "Sociorum Mauricii, milites legionis Thebanae",

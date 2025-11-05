@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia"
+        ],
+        "en": [
+            "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia"
+        ],
+        "pl": [
+            "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+        ]
+    },
+    "forenames": ["multi"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia", "vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Dec./25#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Decembris/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": null
+    }
+}

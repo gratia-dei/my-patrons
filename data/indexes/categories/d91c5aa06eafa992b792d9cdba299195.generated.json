@@ -50,7 +50,7 @@
         "records/patrons/anastasia/sir": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Dalmacji"
+            "pl": "Anastazja z Sirmium"
         },
         "records/patrons/anna/kim": {
             "ko": "김장금 안나",
@@ -854,6 +854,11 @@
             "la": "Monica Thagastensis",
             "en": "Monica of Tagasta",
             "pl": "Monika z Tagasty"
+        },
+        "records/patrons/multi/sfa": {
+            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
         },
         "records/patrons/multi/urs": {
             "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",

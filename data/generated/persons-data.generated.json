@@ -1135,14 +1135,14 @@
         }
     },
     "patrons/anastasia/sir": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Dalmacji"
+            "pl": "Anastazja z Sirmium"
         },
         "died": [
-            "~300"
+            "~304"
         ],
         "feasts": []
     },
@@ -10405,6 +10405,18 @@
         ],
         "feasts": []
     },
+    "patrons/multi/dva": {
+        "active": true,
+        "names": {
+            "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": []
+    },
     "patrons/multi/fid": {
         "active": true,
         "names": {
@@ -10559,6 +10571,18 @@
                 }
             }
         }
+    },
+    "patrons/multi/sfa": {
+        "active": true,
+        "names": {
+            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": []
     },
     "patrons/multi/the": {
         "active": true,

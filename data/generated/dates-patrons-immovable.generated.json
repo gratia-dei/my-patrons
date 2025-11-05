@@ -10763,6 +10763,40 @@
                 "reliable-death-anniversary": "25 XII",
                 "mr-2004": "25 XII: #5"
             }
+        },
+        "records/patrons/anastasia/sir": {
+            "name": {
+                "la": "Anastasia Sirmiensis",
+                "en": "Anastasia of Sirmium",
+                "pl": "Anastazja z Sirmium"
+            },
+            "sources": {
+                "mr-1584": "25 XII: #2",
+                "mr-1956": "25 XII: #2",
+                "mr-2004": "25 XII: #2"
+            }
+        },
+        "records/patrons/multi/dva": {
+            "name": {
+                "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
+                "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
+                "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+            },
+            "sources": {
+                "mr-1584": "25 XII: #2",
+                "mr-1956": "25 XII: #2"
+            }
+        },
+        "records/patrons/multi/sfa": {
+            "name": {
+                "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+                "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+                "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
+            },
+            "sources": {
+                "mr-1584": "25 XII: #2",
+                "mr-1956": "25 XII: #2"
+            }
         }
     },
     "12-26": {
