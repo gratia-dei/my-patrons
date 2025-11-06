@@ -1,23 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Balbina di Roma"
-    ],
-    "en": [
-      "Balbina of Rome"
-    ],
-    "la": [
-      "Balbina Romana"
-    ],
-    "pl": [
-      "Balbina z Rzymu"
-    ]
-  },
+    "names": {
+        "it": [
+            "Balbina di Roma"
+        ],
+        "la": [
+            "Balbina Romana"
+        ],
+        "en": [
+            "Balbina of Rome"
+        ],
+        "pl": [
+            "Balbina z Rzymu"
+        ]
+    },
+    "forenames": ["balbina"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~130"],
+    "active": true,
 
-  "also-in-martyrology": ["03-31"],
+    "born": null,
+    "died": ["~130"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["balbina"],
-  "categories": ["femina", "virgo"]
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./31#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/31#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./31#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72036",
+        "wiki": "https://pl.wikipedia.org/wiki/Balbina_Rzymska"
+    }
 }

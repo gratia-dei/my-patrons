@@ -2601,6 +2601,19 @@
                 "mr-1584": "31 III: #1",
                 "mr-1956": "31 III: #1"
             }
+        },
+        "records/patrons/balbina/rom": {
+            "name": {
+                "it": "Balbina di Roma",
+                "la": "Balbina Romana",
+                "en": "Balbina of Rome",
+                "pl": "Balbina z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "31 III: #5",
+                "mr-1956": "31 III: #4",
+                "mr-2004": "31 III: #2"
+            }
         }
     },
     "04-01": {
