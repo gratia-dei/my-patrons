@@ -54,13 +54,13 @@ Warto na początku udziału przemyśleć **jakie informacje dodatkowe chcesz not
 Wybrany Patron stał się właśnie **Twoim Opiekunem**! Prócz **wielkich korzyści duchowych** jakie może za sobą nieść takie **świadome zawierzenie się opiece Patronów**, powoduje ono także wielką **radość Boga i zapraszanych Patronów**, którzy bardzo chcą nam pomagać i czekają na tę możliwość, do czego konieczna jest jednak zawsze **nasza świadoma zgoda**!
 
 ## Dalsze wyzwania ##
-Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać teraz następujące wyzwania.:
-- **[TR] Relikwie lub Grób** - nawiedzenie i modlitwa przy relikwiach lub grobie Patrona Opiekuna,
-- **[TC] Miejsce Sakralne** - nawiedzenie miejsca sakralnego Kościoła Rzymskokatolickiego pod wezwaniem Patrona Opiekuna,
-- **[TT] Miejsce Sakralne Innego Wyznania lub Religii** - nawiedzenie świątyń innej religii lub wyznania pod wezwaniem Patrona Opiekuna,
-- **[TP] Miejsce Świeckie** - nawiedzenie miejsca świeckiego pod patronatem Patrona Opiekuna,
-- **[TH] Rękodzieło** - wykonanie rękodzieła z wizerunkiem Patrona Opiekuna,
-- **[TS] Selfie z Patronem** - zrobienie sobie selfie lub zdjęcie z dowolnym wizerunkiem Patrona Opiekuna,
+Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać teraz następujące wyzwania:
+- **[TR] Relikwie lub Grób** - odwiedź (fizycznie) i pomódl się przy relikwiach lub grobie Patrona Opiekuna,
+- **[TC] Miejsce Sakralne** - odwiedź miejsce sakralne Kościoła Rzymskokatolickiego pod wezwaniem Patrona Opiekuna,
+- **[TT] Miejsce Sakralne Innego Wyznania lub Religii** - odwiedź miejsce sakralne (np. świątynię) innego wyznania lub religii, które jest pod wezwaniem Patrona Opiekuna,
+- **[TP] Miejsce Świeckie** - odwiedź miejsce świeckie pod patronatem Patrona Opiekuna,
+- **[TH] Rękodzieło** - wykonaj rękodzieło z wizerunkiem Patrona Opiekuna,
+- **[TS] Selfie z Patronem** - zrób sobie selfie lub zdjęcie z dowolnym wizerunkiem Patrona Opiekuna,
 - ... **i kolejne wyzwania**, które powstaną dla Patronów Opiekunów! Planowane jest tu m.in. wyzwanie **[DA] Atrybut Patrona**, polegające na znalezieniu wizerunku Patrona z wybranym przypisanym do niego **atrybutem** (np. palmą męczeńską).
 
 ## Atrybuty i inne dodatki ##
