@@ -6103,6 +6103,19 @@
                 "mr-2004": "4 VIII: #1"
             }
         },
+        "records/patrons/aristarchus/the": {
+            "name": {
+                "el": "Αρίσταρχος ο Θεσσαλονικεύς",
+                "la": "Aristarchus Thessalonicensis",
+                "en": "Aristarchus of Thessalonica",
+                "pl": "Arystarch z Tesaloniki"
+            },
+            "sources": {
+                "mr-1584": "4 VIII: #2",
+                "mr-1956": "4 VIII: #3",
+                "mr-2004": "4 VIII: #2"
+            }
+        },
         "records/patrons/dominicus/oxo": {
             "name": {
                 "es": "Domingo de Osma",

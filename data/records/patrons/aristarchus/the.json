@@ -1,23 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Αρίσταρχος ο Θεσσαλονικεύς"
-    ],
-    "en": [
-      "Aristarchus of Thessalonica"
-    ],
-    "la": [
-      "Aristarchus Thessalonicensis"
-    ],
-    "pl": [
-      "Arystarch z Tesaloniki"
-    ]
-  },
+    "names": {
+        "el": [
+            "Αρίσταρχος ο Θεσσαλονικεύς"
+        ],
+        "la": [
+            "Aristarchus Thessalonicensis"
+        ],
+        "en": [
+            "Aristarchus of Thessalonica"
+        ],
+        "pl": [
+            "Arystarch z Tesaloniki"
+        ]
+    },
+    "forenames": ["aristarchus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">1", "<100"],
+    "active": true,
 
-  "also-in-martyrology": ["08-04"],
+    "born": null,
+    "died": ["<100"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["aristarchus"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./4#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/4#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./4#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71239",
+        "wiki": "https://pl.wikipedia.org/wiki/Arystarch_(posta%C4%87_biblijna)"
+    }
 }

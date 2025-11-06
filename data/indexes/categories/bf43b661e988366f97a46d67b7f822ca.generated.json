@@ -93,6 +93,12 @@
             "la": "Antonius Iulianus Nowowiejski",
             "en": "Anthony Julian Nowowiejski"
         },
+        "records/patrons/aristarchus/the": {
+            "el": "Αρίσταρχος ο Θεσσαλονικεύς",
+            "la": "Aristarchus Thessalonicensis",
+            "en": "Aristarchus of Thessalonica",
+            "pl": "Arystarch z Tesaloniki"
+        },
         "records/patrons/asprenas/nea": {
             "it": "Aspreno di Napoli",
             "la": "Asprenas de Neapolis",

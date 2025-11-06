@@ -1771,15 +1771,14 @@
         }
     },
     "patrons/aristarchus/the": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Αρίσταρχος ο Θεσσαλονικεύς",
-            "en": "Aristarchus of Thessalonica",
             "la": "Aristarchus Thessalonicensis",
+            "en": "Aristarchus of Thessalonica",
             "pl": "Arystarch z Tesaloniki"
         },
         "died": [
-            ">1",
             "<100"
         ],
         "feasts": []
