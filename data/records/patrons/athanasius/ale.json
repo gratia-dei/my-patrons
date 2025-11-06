@@ -1,24 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Athanasius Magnus",
-      "Athanasius Alexandrinus"
-    ],
-    "en": [
-      "Athanasius the Great",
-      "Athanasius of Alexandria"
-    ],
-    "pl": [
-      "Atanazy Wielki",
-      "Atanazy z Aleksandrii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Athanasius Magnus",
+            "Athanasius Alexandrinus"
+        ],
+        "en": [
+            "Athanasius the Great",
+            "Athanasius of Alexandria"
+        ],
+        "pl": [
+            "Atanazy Wielki",
+            "Atanazy z Aleksandrii"
+        ]
+    },
+    "forenames": ["athanasius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~295"],
-  "died": ["373-05-02"],
+    "active": true,
 
-  "also-in-martyrology": ["05-02"],
+    "born": ["~297"],
+    "died": ["373-05-02"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["athanasius"],
-  "categories": ["vir", "confessor", "episcopus", "sacerdos", "doctor-ecclesiae"]
+    "categories": ["vir", "confessor", "episcopus", "sacerdos", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./2#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/2#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/2#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/57515",
+        "wiki": "https://pl.wikipedia.org/wiki/Atanazy_Wielki"
+    }
 }

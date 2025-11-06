@@ -3309,6 +3309,19 @@
         }
     },
     "05-02": {
+        "records/patrons/athanasius/ale": {
+            "name": {
+                "la": "Athanasius Magnus",
+                "en": "Athanasius the Great",
+                "pl": "Atanazy Wielki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 V",
+                "mr-1584": "2 V: #1",
+                "mr-1956": "2 V: #1",
+                "mr-2004": "2 V: #1"
+            }
+        },
         "records/patrons/boleslaus/str": {
             "name": {
                 "pl": "Bolesław Strzelecki",

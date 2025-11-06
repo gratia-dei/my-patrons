@@ -1872,7 +1872,7 @@
         }
     },
     "patrons/athanasius/ale": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Athanasius Magnus",
             "en": "Athanasius the Great",
