@@ -8570,6 +8570,18 @@
         }
     },
     "10-01": {
+        "records/patrons/antonius/rew": {
+            "name": {
+                "pl": "Antoni Rewera",
+                "la": "Antonius Rewera",
+                "en": "Anthony Rewera"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 X",
+                "feast": "1 X",
+                "mr-2004": "1 X: #15"
+            }
+        },
         "records/patrons/teresia/inf": {
             "name": {
                 "fr": "Thérèse de Lisieux",

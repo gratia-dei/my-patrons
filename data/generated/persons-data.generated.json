@@ -1668,11 +1668,11 @@
         "feasts": []
     },
     "patrons/antonius/rew": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Antoni Rewera",
-            "en": "Anthony Rewera",
-            "la": "Antonius Rewera"
+            "la": "Antonius Rewera",
+            "en": "Anthony Rewera"
         },
         "died": [
             "1942-10-01"

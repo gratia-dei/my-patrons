@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Antoni Rewera"
+    "names": {
+        "pl": [
+            "Antoni Rewera"
+        ],
+        "la": [
+            "Antonius Rewera"
+        ],
+        "en": [
+            "Anthony Rewera"
+        ]
+    },
+    "forenames": ["antonius"],
+    "surnames": [
+        {
+            "pl": "Rewera"
+        }
     ],
-    "en": [
-      "Anthony Rewera"
-    ],
-    "la": [
-      "Antonius Rewera"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Rewera"
+    "active": true,
+
+    "born": ["1869-01-06"],
+    "died": ["1942-10-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["10-01"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./1#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67791",
+        "wiki": "https://pl.wikipedia.org/wiki/Antoni_Rewera"
     }
-  ],
-
-  "born": ["1869-01-06"],
-  "died": ["1942-10-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["10-01"],
-
-  "forenames": ["antonius"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
