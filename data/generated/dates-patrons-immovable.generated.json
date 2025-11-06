@@ -7108,6 +7108,18 @@
         }
     },
     "08-31": {
+        "records/patrons/aristides/ath": {
+            "name": {
+                "la": "Aristides Atheniensis",
+                "en": "Aristides of Athens",
+                "pl": "Arystydes z Aten"
+            },
+            "sources": {
+                "mr-1584": "31 VIII: #5",
+                "mr-1956": "31 VIII: #10",
+                "mr-2004": "31 VIII: #2"
+            }
+        },
         "records/patrons/ioannes/bon": {
             "name": {
                 "it": "Giovanni Buonagiunta Manetti",

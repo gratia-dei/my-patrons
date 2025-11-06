@@ -1791,14 +1791,15 @@
         }
     },
     "patrons/aristides/ath": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Aristides Atheniensis",
             "en": "Aristides of Athens",
             "pl": "Arystydes z Aten"
         },
         "died": [
-            "~134"
+            "~134",
+            "~150"
         ],
         "feasts": []
     },
