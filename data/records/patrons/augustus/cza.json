@@ -1,34 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "August Czartoryski"
+    "names": {
+        "pl": [
+            "August Czartoryski"
+        ],
+        "la": [
+            "Augustus Czartoryski"
+        ],
+        "en": [
+            "August Czartoryski"
+        ]
+    },
+    "forenames": ["augustus"],
+    "surnames": [
+        {
+            "pl": "Czartoryski"
+        }
     ],
-    "en": [
-      "August Czartoryski"
-    ],
-    "la": [
-      "Augustus Czartoryski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Czartoryski"
+    "active": true,
+
+    "born": ["1858-08-02"],
+    "died": ["1893-04-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2004-04-25"
+    },
+    "canonized": null,
+    "anniversary": ["04-08"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./8#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/augusto-czartoryski.html",
+        "gcatholic": "https://gcatholic.org/p/68555",
+        "wiki": "https://pl.wikipedia.org/wiki/August_Franciszek_Czartoryski"
     }
-  ],
-
-  "born": ["1858-08-02"],
-  "died": ["1893-04-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2004-04-25"
-  },
-
-  "also-in-martyrology": ["04-08"],
-
-  "forenames": ["augustus"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["sdb"]
 }

@@ -2755,6 +2755,18 @@
         }
     },
     "04-08": {
+        "records/patrons/augustus/cza": {
+            "name": {
+                "pl": "August Czartoryski",
+                "la": "Augustus Czartoryski",
+                "en": "August Czartoryski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 IV",
+                "feast": "8 IV",
+                "mr-2004": "8 IV: #10"
+            }
+        },
         "records/patrons/dionysius/cor": {
             "name": {
                 "el": "Διονύσιος Κορίνθου",

@@ -1953,11 +1953,11 @@
         }
     },
     "patrons/augustus/cza": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "August Czartoryski",
-            "en": "August Czartoryski",
-            "la": "Augustus Czartoryski"
+            "la": "Augustus Czartoryski",
+            "en": "August Czartoryski"
         },
         "died": [
             "1893-04-08"
