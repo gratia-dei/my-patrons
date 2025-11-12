@@ -8630,6 +8630,17 @@
                 "mr-1956": "30 IX: #3",
                 "mr-2004": "30 IX: #14"
             }
+        },
+        "records/patrons/sophia/rom": {
+            "name": {
+                "la": "Sophia de Roma",
+                "en": "Sophia of Rome",
+                "pl": "Zofia z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "30 IX: #7",
+                "mr-1956": "30 IX: #9"
+            }
         }
     },
     "10-01": {

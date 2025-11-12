@@ -13158,6 +13158,19 @@
         ],
         "feasts": []
     },
+    "patrons/sophia/rom": {
+        "active": true,
+        "names": {
+            "la": "Sophia de Roma",
+            "en": "Sophia of Rome",
+            "pl": "Zofia z Rzymu"
+        },
+        "died": [
+            ">101",
+            "<300"
+        ],
+        "feasts": []
+    },
     "patrons/sossius": {
         "names": {
             "la": "Sossius",

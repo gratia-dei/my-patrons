@@ -114,6 +114,11 @@
             "la": "Rita de Cassia",
             "en": "Rita of Cascia",
             "pl": "Rita z Cascii"
+        },
+        "records/patrons/sophia/rom": {
+            "la": "Sophia de Roma",
+            "en": "Sophia of Rome",
+            "pl": "Zofia z Rzymu"
         }
     }
 }
