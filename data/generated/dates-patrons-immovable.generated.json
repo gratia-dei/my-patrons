@@ -2371,9 +2371,9 @@
         },
         "records/patrons/sine/ulm": {
             "name": {
-                "pl": "Nienarodzone dziecko Ulmów",
-                "la": "Infans Non Natus Ulmarum",
-                "en": "Unborn Child of the Ulma Family"
+                "pl": "Bezimienne dziecko Józefa i Wiktorii Ulmów",
+                "la": "Infans innominatus Iosephi et Victoriae Ulma",
+                "en": "Unnamed child of Józef and Wiktoria Ulma"
             },
             "sources": {
                 "reliable-death-anniversary": "24 III"
@@ -7350,9 +7350,9 @@
         },
         "records/patrons/sine/ulm": {
             "name": {
-                "pl": "Nienarodzone dziecko Ulmów",
-                "la": "Infans Non Natus Ulmarum",
-                "en": "Unborn Child of the Ulma Family"
+                "pl": "Bezimienne dziecko Józefa i Wiktorii Ulmów",
+                "la": "Infans innominatus Iosephi et Victoriae Ulma",
+                "en": "Unnamed child of Józef and Wiktoria Ulma"
             },
             "sources": {
                 "feast": "7 IX"

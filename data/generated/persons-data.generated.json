@@ -13116,9 +13116,9 @@
     "patrons/sine/ulm": {
         "active": true,
         "names": {
-            "pl": "Nienarodzone dziecko Ulmów",
-            "la": "Infans Non Natus Ulmarum",
-            "en": "Unborn Child of the Ulma Family"
+            "pl": "Bezimienne dziecko Józefa i Wiktorii Ulmów",
+            "la": "Infans innominatus Iosephi et Victoriae Ulma",
+            "en": "Unnamed child of Józef and Wiktoria Ulma"
         },
         "died": [
             "1944-03-24"
