@@ -449,6 +449,11 @@
         "en": "Candidus",
         "pl": "Kandyd"
     },
+    "caritas": {
+        "la": "Caritas",
+        "en": "Charity",
+        "pl": "Miłość"
+    },
     "carola": {
         "la": "Carola",
         "en": "Carola",
@@ -821,6 +826,11 @@
         "en": "Fidelis",
         "pl": "Fidelis",
         "de": "Fidelis"
+    },
+    "fides": {
+        "la": "Fides",
+        "en": "Faith",
+        "pl": "Wiara"
     },
     "flavius": {
         "la": "Flavius",
@@ -2024,6 +2034,11 @@
         "la": "Speratus",
         "en": "Speratus",
         "pl": "Sperat"
+    },
+    "spes": {
+        "la": "Spes",
+        "en": "Hope",
+        "pl": "Nadzieja"
     },
     "stanislaus": {
         "la": "Stanislaus",

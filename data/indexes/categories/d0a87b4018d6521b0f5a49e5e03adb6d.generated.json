@@ -72,6 +72,11 @@
             "en": "Celestine Faron",
             "la": "Caelestina Faron"
         },
+        "records/patrons/caritas/rom": {
+            "la": "Caritas de Roma",
+            "en": "Charity of Rome",
+            "pl": "Miłość z Rzymu"
+        },
         "records/patrons/carolina/koz": {
             "pl": "Karolina Kózka",
             "la": "Carolina Kózka",
@@ -164,6 +169,11 @@
             "la": "Eulalia de Mérida",
             "en": "Eulalia of Mérida",
             "pl": "Eulalia z Méridy"
+        },
+        "records/patrons/fides/rom": {
+            "la": "Fides de Roma",
+            "en": "Faith of Rome",
+            "pl": "Wiara z Rzymu"
         },
         "records/patrons/gemma/gal": {
             "it": "Gemma Galgani",
@@ -542,6 +552,11 @@
             "la": "Sophia Firmana",
             "en": "Sophia of Fermo",
             "pl": "Zofia z Fermo"
+        },
+        "records/patrons/spes/rom": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
         },
         "records/patrons/stephana/qui": {
             "it": "Stefana Quinzani",

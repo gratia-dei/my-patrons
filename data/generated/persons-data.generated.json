@@ -2769,6 +2769,25 @@
         ],
         "feasts": []
     },
+    "patrons/caritas": {
+        "names": {
+            "la": "Caritas",
+            "en": "Charity",
+            "pl": "Miłość"
+        }
+    },
+    "patrons/caritas/rom": {
+        "active": true,
+        "names": {
+            "la": "Caritas de Roma",
+            "en": "Charity of Rome",
+            "pl": "Miłość z Rzymu"
+        },
+        "died": [
+            "~137"
+        ],
+        "feasts": []
+    },
     "patrons/carola": {
         "names": {
             "la": "Carola",
@@ -4830,6 +4849,25 @@
         },
         "died": [
             "1622-04-24"
+        ],
+        "feasts": []
+    },
+    "patrons/fides": {
+        "names": {
+            "la": "Fides",
+            "en": "Faith",
+            "pl": "Wiara"
+        }
+    },
+    "patrons/fides/rom": {
+        "active": true,
+        "names": {
+            "la": "Fides de Roma",
+            "en": "Faith of Rome",
+            "pl": "Wiara z Rzymu"
+        },
+        "died": [
+            "~137"
         ],
         "feasts": []
     },
@@ -13166,8 +13204,7 @@
             "pl": "Zofia z Rzymu"
         },
         "died": [
-            ">101",
-            "<300"
+            "~137"
         ],
         "feasts": []
     },
@@ -13223,6 +13260,25 @@
                 }
             }
         }
+    },
+    "patrons/spes": {
+        "names": {
+            "la": "Spes",
+            "en": "Hope",
+            "pl": "Nadzieja"
+        }
+    },
+    "patrons/spes/rom": {
+        "active": true,
+        "names": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
+        },
+        "died": [
+            "~137"
+        ],
+        "feasts": []
     },
     "patrons/stanislaus": {
         "names": {

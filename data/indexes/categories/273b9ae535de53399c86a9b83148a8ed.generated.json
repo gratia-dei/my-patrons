@@ -118,6 +118,11 @@
             "en": "Celestine Faron",
             "la": "Caelestina Faron"
         },
+        "records/patrons/caritas/rom": {
+            "la": "Caritas de Roma",
+            "en": "Charity of Rome",
+            "pl": "Miłość z Rzymu"
+        },
         "records/patrons/carola/luc": {
             "fr": "Charlotte Lucas",
             "la": "Carola Lucas",
@@ -283,6 +288,11 @@
             "la": "Felicitas de Roma",
             "en": "Felicity of Rome",
             "pl": "Felicyta z Rzymu"
+        },
+        "records/patrons/fides/rom": {
+            "la": "Fides de Roma",
+            "en": "Faith of Rome",
+            "pl": "Wiara z Rzymu"
         },
         "records/patrons/francisca/rom": {
             "it": "Francesca Romana",
@@ -997,6 +1007,11 @@
             "la": "Sophia de Roma",
             "en": "Sophia of Rome",
             "pl": "Zofia z Rzymu"
+        },
+        "records/patrons/spes/rom": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
         },
         "records/patrons/stanislava/ulm": {
             "pl": "Stanisława Ulma",

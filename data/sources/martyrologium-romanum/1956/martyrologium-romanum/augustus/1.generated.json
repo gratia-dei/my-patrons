@@ -3,6 +3,11 @@
         "4": {
             "1": "records/patrons/alphonsus/lig"
         },
+        "6": {
+            "1": "records/patrons/fides/rom",
+            "2": "records/patrons/spes/rom",
+            "3": "records/patrons/caritas/rom"
+        },
         "3": {
             "1": "records/patrons/eusebius/ver"
         },

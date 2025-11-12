@@ -1,5 +1,10 @@
 {
     "data-links": {
+        "3": {
+            "1": "records/patrons/fides/rom",
+            "2": "records/patrons/spes/rom",
+            "3": "records/patrons/caritas/rom"
+        },
         "8": {
             "1": "records/patrons/eusebius/ver"
         },

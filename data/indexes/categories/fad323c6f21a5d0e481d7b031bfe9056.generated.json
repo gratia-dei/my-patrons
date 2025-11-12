@@ -375,6 +375,11 @@
             "en": "Candidus of the Theban Legion",
             "pl": "Kandyd z Legii Tebańskiej"
         },
+        "records/patrons/caritas/rom": {
+            "la": "Caritas de Roma",
+            "en": "Charity of Rome",
+            "pl": "Miłość z Rzymu"
+        },
         "records/patrons/carola/luc": {
             "fr": "Charlotte Lucas",
             "la": "Carola Lucas",
@@ -780,6 +785,11 @@
             "en": "Fidelis of Sigmaringen",
             "la": "Fidelis de Sigmaringa",
             "pl": "Fidelis z Sigmaringen"
+        },
+        "records/patrons/fides/rom": {
+            "la": "Fides de Roma",
+            "en": "Faith of Rome",
+            "pl": "Wiara z Rzymu"
         },
         "records/patrons/flavius/cle": {
             "la": "Flavius Clemens",
@@ -2116,6 +2126,11 @@
             "la": "Speratus de Scillium",
             "en": "Speratus of Scillium",
             "pl": "Sperat ze Scilium"
+        },
+        "records/patrons/spes/rom": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
         },
         "records/patrons/stanislaus/cra": {
             "pl": "Stanisław ze Szczepanowa",

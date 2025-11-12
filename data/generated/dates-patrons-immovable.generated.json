@@ -6074,6 +6074,39 @@
                 "feast": "1 VIII",
                 "mr-2004": "1 VIII: #19"
             }
+        },
+        "records/patrons/fides/rom": {
+            "name": {
+                "la": "Fides de Roma",
+                "en": "Faith of Rome",
+                "pl": "Wiara z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "1 VIII: #3",
+                "mr-1956": "1 VIII: #6"
+            }
+        },
+        "records/patrons/spes/rom": {
+            "name": {
+                "la": "Spes de Roma",
+                "en": "Hope of Rome",
+                "pl": "Nadzieja z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "1 VIII: #3",
+                "mr-1956": "1 VIII: #6"
+            }
+        },
+        "records/patrons/caritas/rom": {
+            "name": {
+                "la": "Caritas de Roma",
+                "en": "Charity of Rome",
+                "pl": "Miłość z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "1 VIII: #3",
+                "mr-1956": "1 VIII: #6"
+            }
         }
     },
     "08-02": {

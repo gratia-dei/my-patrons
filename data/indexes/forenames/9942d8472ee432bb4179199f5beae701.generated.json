@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "Hope"
+    },
+    "translations": {
+        "la": [
+            "Spes"
+        ],
+        "en": [
+            "Hope"
+        ],
+        "pl": [
+            "Nadzieja"
+        ]
+    },
+    "links": {
+        "records/patrons/spes/rom": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
+        }
+    }
+}
