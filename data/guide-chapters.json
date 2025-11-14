@@ -52,5 +52,16 @@
                 "pl": "pl/przewodnik/patroni-opiekunowie"
             }
         }
+    },
+
+    "table-of-contents": {
+        "name": {
+            "pl": "Spis treści"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/spis-tresci"
+            }
+        }
     }
 }

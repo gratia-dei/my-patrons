@@ -2,16 +2,16 @@ Aby przygoda mogła się rozpocząć, potrzebny jest **Bóg oraz Ty!**
 
 **Macie z Bogiem wspólny cel - Twoje zbawienie!** Bóg tego pragnie, chce dać Ci Swoją **wielką miłość i niewyobrażalne szczęście**, dla których Cię stworzył! Tylko, że Ty także **musisz tego chcieć** - w absolutnej wolności, bo **do miłości nie da się nikogo zmusić**! Droga do celu może wydawać się Tobie teraz długa i żmudna, w dodatku **nie zawsze będziesz wiedzieć którędy iść**, bo życie często daje wiele różnych możliwości.
 
-Nasza inicjatywa _**„Moi Patroni”**_ powstała, by **stać się dla Ciebie drogowskazem**, który pozwoli Ci w nieco inny sposób, **lepiej poznać i ujrzeć piękno Boga i Kościoła**, a może także podpowie Ci bazując na sprawdzonej mądrości **Świętych i Błogosławionych**, która droga może być tą **właściwą dla Ciebie**! Do tego **Patroni to tacy superbohaterowie** naszych ..., każdych czasów, dlatego na pewno warto z każdym z nich z osobna spędzić trochę czasu.
+Nasza inicjatywa _**„Moi Patroni”**_ powstała, by **stać się dla Ciebie drogowskazem**, który pozwoli Ci w nieco inny sposób, **lepiej poznać i ujrzeć piękno Boga i Kościoła**, a może także podpowie Ci bazując na sprawdzonej mądrości **Świętych i Błogosławionych**, która droga może być tą **właściwą dla Ciebie**! **Patroni to tacy superbohaterowie** naszych ..., a raczej każdych czasów, dlatego na pewno warto z każdym z nich z osobna spędzić trochę czasu.
 
 Wróćmy jednak do początku ...
 
 ## Jak zostać Uczestnikiem? ##
-Aby **stać się Uczestnikiem**, należy wykonać dwa podstawowe wyzwania:
+Aby **stać się Uczestnikiem** inicjatywy **_„Moi Patroni”_**, należy wykonać dwa podstawowe wyzwania:
 - **[B] Narodziny** - podziękowanie Bogu za dar swojego życia,
 - **[I] Bóg** - powierzenie swojego udziału w inicjatywie _**„Moi Patroni”**_ Panu Bogu i wyznanie Mu swojej wiary.
 
-Od tego momentu możesz już m.in. **zapraszać Patronów** (na początku, by stali się Twoimi Opiekunami) **i powierzać im niektóre wykonywane przez Ciebie Misje Specjalne!**
+Od tego momentu będziesz mógł **zapraszać Patronów** (na początku, by stali się Twoimi Opiekunami) **i powierzać im niektóre wykonywane przez Ciebie Misje Specjalne!**
 
 ## Jak to zrobić? ##
 Skorzystaj z <a target="_blank" href="/my-challenges">edytora wyzwań</a> (link otworzy edytor na nowej karcie przeglądarki, dzięki czemu będzie można wykonywać tam czynności opisane tutaj)
@@ -73,7 +73,7 @@ Teraz możesz **wyjść** z edytora wyzwań, **wejść** do niego ponownie i spr
 
 Masz już wiedzę na temat wyzwań: **[B] Narodziny** i **[I] Bóg**.
 
-#### Warto trzymać się zasady, by wykonywać i dodawać w edytorze wyzwań tylko i wyłącznie wyzwania poznanych już typów i nie wybiegać naprzód! Na wszystko przyjdzie odpowiedni czas! ####
+### Warto trzymać się zasady, by wykonywać i dodawać w edytorze wyzwań tylko i wyłącznie wyzwania poznanych już w tym przewodniku typów i nie wybiegać naprzód, bo na wszystko przyjdzie odpowiedni czas! ###
 <br />
 
 **Znasz** już ideę i cel inicjatywy _**„Moi Patroni”**_, **umiesz** korzystać z edytora wyzwań, dodawać nowe wyzwania, modyfikować je, usuwać, **wiesz** czym są kroki wyzwania i jak oznaczać ich wykonanie, co wpływa na status wyzwania, **potrafisz** zapisywać pliki i je wczytywać.
@@ -85,4 +85,4 @@ Reasumując: **posiadasz jakieś 95% potrzebnych umiejętności**! Najtrudniejsz
 &gt;&gt;&gt; [Notatki własne](/guide/own-notes) - słów kilka.  
 &gt;&gt;&gt; [Zapraszaj Patronów Opiekunów](/guide/guardian-patrons) - zacznij już dziś! **Święci czekają na Ciebie**!
 
-&lt;&lt;&lt; [Powrót](/guide)
+&lt;&lt;&lt; [Powrót do strony początkowej przewodnika](/guide)

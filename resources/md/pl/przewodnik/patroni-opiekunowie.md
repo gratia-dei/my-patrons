@@ -1,13 +1,8 @@
 **Rozpoczyna się Twoja przygoda z Patronami**!
 
-Twoim zadaniem będzie **poszukiwanie ich w otaczającym Cię świecie**, w ich fizycznej obecności np. **w relikwiach** lub poprzez **ich wizerunki**, które można napotkać w wielu miejscach **świeckiej przestrzeni** naszego życia, zarówno **publicznej** (np. patronat ulicy lub instytucji), jak i **prywatnej** (np. obrazy na ścianie lub święte obrazki w szufladzie). Choć będziemy się skupiać na całym naszym otoczeniu, czasem oczywiście dotykać będziemy także **przestrzeni sakralnej Kościoła Rzymskokatolickiego**, ale będzie się to odbywało w sposób bardzo uproszczony.
+W tym obszarze Twoim zadaniem będzie **poszukiwanie ich w otaczającym Cię świecie**, w ich fizycznej obecności np. **w relikwiach** lub poprzez **ich wizerunki**, które można napotkać w wielu miejscach **świeckiej przestrzeni** naszego życia, zarówno **publicznej** (np. patronat ulicy lub instytucji), jak i **prywatnej** (np. obrazy na ścianie lub święte obrazki w szufladzie). Choć będziemy się skupiać na całym naszym otoczeniu, czasem oczywiście dotykać będziemy także **przestrzeni sakralnej Kościoła Rzymskokatolickiego**, ale będzie się to odbywało w sposób bardzo uproszczony.
 
 **Patroni Opiekunowie wydają się być najlepszym wyborem dla każdego Uczestnika na początku** i warto się na nich zatrzymać przez jakiś czas (np. miesiąc), poznając w praktyce mechanikę inicjatywy **_„Moi Patroni”_**. Już nawet **kilkuletnie dzieci** dadzą radę **zapraszać** Świętych i Błogosławionych Kościoła, do **pełnienia roli ich Opiekunów** i wykonywać z nimi **dalsze wyzwania**.
-
-To wszystko może zwiększyć:
-- **umiejętność** rozpoznawania Patronów,
-- **zainteresowanie** tą tematyką,
-- **motywację** np. do czytania lub udziału we Mszy Świętej.
 
 ## Cel ##
 Zapraszając Patrona Opiekuna, **prosisz Go, by się Tobą opiekował**, trochę tak jak dzieckiem, aby Cię podnosił za rękę, gdy się przewrócisz, aby usuwał Ci spod nóg różne przeszkody i prostował drogi, którymi kroczysz, usuwając czyhające wokół niebezpieczeństwa. Uczysz się rozpoznawać Go na różnych wizerunkach, które przypominają Ci o Nim i o Bogu.
@@ -75,8 +70,8 @@ Skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć **jakie rodzaje in
   - itp.
 
 ## Co dalej? ##
-**Warto się teraz zatrzymać** i poświęcić trochę czasu na dobre poznanie **Patronów Opiekunów** i związanych z nimi wyzwań.
+**Warto się teraz zatrzymać** i poświęcić trochę czasu (np. miesiąc) na dobre poznanie **Patronów Opiekunów** i związanych z nimi wyzwań.
 
 Już wkrótce zamieścimy tutaj opisy dalszych obszarów.
 
-&lt;&lt;&lt; [Powrót](/guide/god-and-me)
+&lt;&lt;&lt; [Powrót do strony początkowej przewodnika](/guide)
