@@ -81,8 +81,4 @@ Masz już wiedzę na temat wyzwań: **[B] Narodziny** i **[I] Bóg**.
 Reasumując: **posiadasz jakieś 95% potrzebnych umiejętności**! Najtrudniejsze już za Tobą!
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Poznaj Misje Apostoła](/guide/apostles-missions) - warto je poznać już teraz i zapamiętać, bo **mogą się przydać wkrótce**.  
-&gt;&gt;&gt; [Notatki własne](/guide/own-notes) - słów kilka.  
-&gt;&gt;&gt; [Zapraszaj Patronów Opiekunów](/guide/guardian-patrons) - zacznij już dziś! **Święci czekają na Ciebie**!
-
-&lt;&lt;&lt; [Powrót do strony początkowej przewodnika](/guide)
+&gt;&gt;&gt; [Poznaj Misje Apostoła](/guide/apostles-missions) - warto je poznać już teraz i zapamiętać, bo **mogą Ci się przydać wkrótce**.
