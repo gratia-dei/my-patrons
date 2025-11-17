@@ -1,37 +1,37 @@
 {
     "names": {
         "la": [
-            "Monachi Abrahamitae"
+            "Quadraginta duo martyres Amorii"
         ],
         "en": [
-            "Abrahamic Monks"
+            "Forty-two martyrs of Amorium"
         ],
         "pl": [
-            "Mnisi Abrahamici"
+            "Czterdziestu dwóch męczenników z Amorium"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~835"],
+    "died": ["848"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia", "vir", "martyr", "monachus"],
+    "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Iul./8#4"],
+        "mr-1584": ["1:Mart./6#5"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Julii/8#6"],
+        "mr-1956": ["1:Martii/6#5"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:iul./8#9"],
+        "mr-2004": ["1:mar./6#8"],
         "mr-2004-movable": []
     },
 

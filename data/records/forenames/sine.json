@@ -1,7 +1,7 @@
 {
     "names": {
-        "la": "Sine",
-        "en": "Without",
-        "pl": "Bez"
+        "la": ["Sine nomine", "Sine"],
+        "en": "Without a name",
+        "pl": "Bez imienia"
     }
 }

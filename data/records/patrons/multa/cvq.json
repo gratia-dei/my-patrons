@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Multi Martyres Nicomedienses in montibus et speluncis latentes"
+            "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus"
         ],
         "en": [
-            "Many Martyrs of Nicomedia hiding in mountains and caves"
+            "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician"
         ],
         "pl": [
-            "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
+            "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["303"],
+    "died": [">201", "<300"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,19 +25,19 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Iuni./23#4"],
+        "mr-1584": ["3:Ianu./30#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Junii/23#5"],
+        "mr-1956": ["3:Januarii/30#4"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:iun./23#1"],
+        "mr-2004": [],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
+        "wiki": null
     }
 }

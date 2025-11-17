@@ -1,16 +1,16 @@
 {
     "names": {
         "la": [
-            "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia"
+            "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia"
         ],
         "en": [
-            "Seventy women, martyrs on the island of Palmaria; with them, Anastasia"
+            "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia"
         ],
         "pl": [
-            "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
+            "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
@@ -22,13 +22,13 @@
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia", "femina", "martyr"],
+    "categories": ["socia", "vir", "martyr"],
 
     "data-links": {
-        "mr-1584": ["3:Dec./25#2"],
+        "mr-1584": ["2:Dec./25#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["3:Decembris/25#2"],
+        "mr-1956": ["2:Decembris/25#2"],
         "mr-1956-movable": [],
 
         "mr-2004": [],

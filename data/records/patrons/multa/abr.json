@@ -1,43 +1,43 @@
 {
     "names": {
         "la": [
-            "Multa Milia Martyres in Nicomediae ecclesia"
+            "Monachi Abrahamitae"
         ],
         "en": [
-            "Many Thousands of Martyrs from church in Nicomedia"
+            "Abrahamic Monks"
         ],
         "pl": [
-            "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
+            "Mnisi Abrahamici"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~304-12-25"],
+    "died": ["~835"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia", "martyr"],
+    "categories": ["socia", "vir", "martyr", "monachus"],
 
     "data-links": {
-        "mr-1584": ["1:Dec./25#4"],
+        "mr-1584": ["1:Iul./8#4"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Decembris/25#5"],
+        "mr-1956": ["1:Julii/8#6"],
         "mr-1956-movable": [],
 
-        "mr-2004": [],
+        "mr-2004": ["1:iul./8#9"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
+        "wiki": null
     }
 }

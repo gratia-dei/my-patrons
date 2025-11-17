@@ -1,16 +1,17 @@
 {
     "names": {
-        "en": "Without"
+        "pl": "Bez imienia"
     },
     "translations": {
         "la": [
+            "Sine nomine",
             "Sine"
         ],
         "en": [
-            "Without"
+            "Without a name"
         ],
         "pl": [
-            "Bez"
+            "Bez imienia"
         ]
     },
     "links": {

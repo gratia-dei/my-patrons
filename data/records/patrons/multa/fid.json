@@ -1,43 +1,43 @@
 {
     "names": {
         "la": [
-            "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia"
+            "Omnes Fideles Defuncti"
         ],
         "en": [
-            "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia"
+            "All the Faithful Departed"
         ],
         "pl": [
-            "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
+            "Wszyscy Wierni Zmarli"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~304"],
+    "died": null,
     "beatified": null,
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia", "vir", "martyr"],
+    "categories": ["socia"],
 
     "data-links": {
-        "mr-1584": ["2:Dec./25#2"],
+        "mr-1584": ["1:Nov./2#1"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["2:Decembris/25#2"],
+        "mr-1956": ["1:Novembris/2#1", "1:Novembris/2#12"],
         "mr-1956-movable": [],
 
-        "mr-2004": [],
+        "mr-2004": ["1:nov./2#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": null
+        "wiki": "https://pl.wikipedia.org/wiki/Zaduszki"
     }
 }

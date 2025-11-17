@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp."
+            "Omnes fere civitas Lugdunenses; cum eis, Irenaeus"
         ],
         "en": [
-            "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius"
+            "Almost all the citizens of Lyon; with them, Irenaeus"
         ],
         "pl": [
-            "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
+            "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~251", ">253-06-01", "<253-06-30"],
+    "died": ["~202"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,11 +25,12 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["2:Sept./14#2"],
+        "mr-1584": ["2:Iuni./28#3"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["2:Septembris/14#2"],
+        "mr-1956": ["2:Junii/28#2"],
         "mr-1956-movable": [],
+        "mr-1956-variations": ["2:Junii/28#2-ab-1960-07-26"],
 
         "mr-2004": [],
         "mr-2004-movable": []
@@ -38,6 +39,6 @@
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": null
+        "wiki": "https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu"
     }
 }

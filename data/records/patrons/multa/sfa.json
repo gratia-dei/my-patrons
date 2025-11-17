@@ -1,37 +1,37 @@
 {
     "names": {
         "la": [
-            "Quadraginta duo martyres Amorii"
+            "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia"
         ],
         "en": [
-            "Forty-two martyrs of Amorium"
+            "Seventy women, martyrs on the island of Palmaria; with them, Anastasia"
         ],
         "pl": [
-            "Czterdziestu dwóch męczenników z Amorium"
+            "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["848"],
+    "died": ["~304"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia", "martyr"],
+    "categories": ["socia", "femina", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Mart./6#5"],
+        "mr-1584": ["3:Dec./25#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Martii/6#5"],
+        "mr-1956": ["3:Decembris/25#2"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:mar./6#8"],
+        "mr-2004": [],
         "mr-2004-movable": []
     },
 

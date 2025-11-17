@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Omnes fere civitas Lugdunenses; cum eis, Irenaeus"
+            "Viginti Martyres persecutionis Diocletiani Nicomediae"
         ],
         "en": [
-            "Almost all the citizens of Lyon; with them, Irenaeus"
+            "Twenty Martyrs of the Diocletianic persecution in Nicomedia"
         ],
         "pl": [
-            "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
+            "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~202"],
+    "died": ["~303"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,12 +25,11 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["2:Iuni./28#3"],
+        "mr-1584": ["1:Dec./23#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["2:Junii/28#2"],
+        "mr-1956": ["1:Decembris/23#3"],
         "mr-1956-movable": [],
-        "mr-1956-variations": ["2:Junii/28#2-ab-1960-07-26"],
 
         "mr-2004": [],
         "mr-2004-movable": []
@@ -39,6 +38,6 @@
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/Ireneusz_z_Lyonu"
+        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
     }
 }

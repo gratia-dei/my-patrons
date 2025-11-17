@@ -668,7 +668,7 @@
                 "mr-1956": "30 I: #4"
             }
         },
-        "records/patrons/multi/cvq": {
+        "records/patrons/multa/cvq": {
             "name": {
                 "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
                 "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
@@ -1691,7 +1691,7 @@
         }
     },
     "03-06": {
-        "records/patrons/multi/qda": {
+        "records/patrons/multa/qda": {
             "name": {
                 "la": "Quadraginta duo martyres Amorii",
                 "en": "Forty-two martyrs of Amorium",
@@ -2197,7 +2197,7 @@
                 "mr-2004": "18 III: #6"
             }
         },
-        "records/patrons/multi/nid": {
+        "records/patrons/multa/nid": {
             "name": {
                 "la": "Decem milia martyrum pro fide Nicomediae",
                 "en": "Ten thousand Martyrs for the faith from Nicomedia",
@@ -3207,7 +3207,7 @@
                 "mr-1584": "26 IV: #2"
             }
         },
-        "records/patrons/multi/mar": {
+        "records/patrons/multa/mar": {
             "name": {
                 "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
                 "en": "Seventeen thousand Christian Martyrs of Romee",
@@ -4171,7 +4171,7 @@
                 "mr-2004": "2 VI: #8"
             }
         },
-        "records/patrons/multi/sad": {
+        "records/patrons/multa/sad": {
             "name": {
                 "pl": "Towarzysze Sadoka z Sandomierza",
                 "la": "Sociorum Sadochii de Sandomierz",
@@ -4330,7 +4330,7 @@
                 "mr-2004": "5 VI: #6"
             }
         },
-        "records/patrons/multi/bon": {
+        "records/patrons/multa/bon": {
             "name": {
                 "la": "Alii Socii Bonifatii Winfridi",
                 "en": "Other Companions of Boniface Wynfreth",
@@ -4698,7 +4698,7 @@
                 "mr-2004": "23 VI: #8"
             }
         },
-        "records/patrons/multi/nim": {
+        "records/patrons/multa/nim": {
             "name": {
                 "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
                 "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
@@ -4796,7 +4796,7 @@
                 "mr-2004": "28 VI: #1"
             }
         },
-        "records/patrons/multi/lug": {
+        "records/patrons/multa/lug": {
             "name": {
                 "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
                 "en": "Almost all the citizens of Lyon; with them, Irenaeus",
@@ -4974,7 +4974,7 @@
         }
     },
     "07-08": {
-        "records/patrons/multi/abr": {
+        "records/patrons/multa/abr": {
             "name": {
                 "la": "Monachi Abrahamitae",
                 "en": "Abrahamic Monks",
@@ -7563,7 +7563,7 @@
                 "mr-2004": "14 IX: #2"
             }
         },
-        "records/patrons/multi/rvu": {
+        "records/patrons/multa/rvu": {
             "name": {
                 "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
                 "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
@@ -8299,7 +8299,7 @@
                 "mr-1956": "22 IX: #2"
             }
         },
-        "records/patrons/multi/the": {
+        "records/patrons/multa/the": {
             "name": {
                 "la": "Sociorum Mauricii, milites legionis Thebanae",
                 "en": "Companions of Maurice, soldiers of the Theban legion",
@@ -8726,7 +8726,7 @@
                 "mr-1956": "2 X: #4"
             }
         },
-        "records/patrons/multi/nip": {
+        "records/patrons/multa/nip": {
             "name": {
                 "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
                 "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
@@ -8737,7 +8737,7 @@
                 "mr-1956": "2 X: #4"
             }
         },
-        "records/patrons/multi/ang": {
+        "records/patrons/multa/ang": {
             "name": {
                 "la": "Angeli Custodes",
                 "en": "Guardian Angels",
@@ -9389,7 +9389,7 @@
                 "mr-2004": "21 X: #2"
             }
         },
-        "records/patrons/multi/urs": {
+        "records/patrons/multa/urs": {
             "name": {
                 "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
                 "la": "Sociae Ursulae Coloniensis, virgines et martyres",
@@ -9532,7 +9532,7 @@
                 "mr-1956": "25 X: #2"
             }
         },
-        "records/patrons/multi/mar": {
+        "records/patrons/multa/mar": {
             "name": {
                 "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
                 "en": "Seventeen thousand Christian Martyrs of Romee",
@@ -9670,7 +9670,7 @@
                 "mr-2004": "1 XI: #14"
             }
         },
-        "records/patrons/multi/san": {
+        "records/patrons/multa/san": {
             "name": {
                 "la": "Omnes Sancti",
                 "en": "All Saints",
@@ -9696,7 +9696,7 @@
                 "mr-2004": "2 XI: #14"
             }
         },
-        "records/patrons/multi/fid": {
+        "records/patrons/multa/fid": {
             "name": {
                 "la": "Omnes Fideles Defuncti",
                 "en": "All the Faithful Departed",
@@ -9824,7 +9824,7 @@
                 "mr-1956": "5 XI: #5"
             }
         },
-        "records/patrons/multi/cae": {
+        "records/patrons/multa/cae": {
             "name": {
                 "la": "Socia Theotimi Caesariensis",
                 "en": "Theotimus' of Caesarea Companions",
@@ -10947,7 +10947,7 @@
                 "mr-2004": "23 XII: #1"
             }
         },
-        "records/patrons/multi/niv": {
+        "records/patrons/multa/niv": {
             "name": {
                 "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
                 "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
@@ -11010,7 +11010,7 @@
                 "mr-2004": "25 XII: #8"
             }
         },
-        "records/patrons/multi/nie": {
+        "records/patrons/multa/nie": {
             "name": {
                 "la": "Multa Milia Martyres in Nicomediae ecclesia",
                 "en": "Many Thousands of Martyrs from church in Nicomedia",
@@ -11046,7 +11046,7 @@
                 "mr-2004": "25 XII: #2"
             }
         },
-        "records/patrons/multi/dva": {
+        "records/patrons/multa/dva": {
             "name": {
                 "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
                 "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
@@ -11057,7 +11057,7 @@
                 "mr-1956": "25 XII: #2"
             }
         },
-        "records/patrons/multi/sfa": {
+        "records/patrons/multa/sfa": {
             "name": {
                 "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
                 "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",

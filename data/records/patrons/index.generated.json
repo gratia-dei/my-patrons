@@ -1526,10 +1526,10 @@
         "pl": "Monika",
         "fr": "Monique"
     },
-    "multi": {
-        "la": "Multi",
-        "en": "Many",
-        "pl": "Wiele"
+    "multa": {
+        "la": "Cum multis nominibus",
+        "en": "With Many names",
+        "pl": "Z wieloma imionami"
     },
     "myron": {
         "la": "Myron",
@@ -2015,9 +2015,9 @@
         "pl": "Symplicjusz"
     },
     "sine": {
-        "la": "Sine",
-        "en": "Without",
-        "pl": "Bez"
+        "la": "Sine nomine",
+        "en": "Without a name",
+        "pl": "Bez imienia"
     },
     "sophia": {
         "la": "Sophia",

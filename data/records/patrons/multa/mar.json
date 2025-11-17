@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Septemdecim millibus Christianorum Martyrum Romanorum"
+        ],
+        "en": [
+            "Seventeen thousand Christian Martyrs of Romee"
+        ],
+        "pl": [
+            "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
+        ]
+    },
+    "forenames": ["multa"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["5:Apr./26#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["5:Octobris/25#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/Pope_Marcellinus"
+    }
+}

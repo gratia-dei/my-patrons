@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Decem milia martyrum pro fide Nicomediae"
+            "Multa Milia Martyres in Nicomediae ecclesia"
         ],
         "en": [
-            "Ten thousand Martyrs for the faith from Nicomedia"
+            "Many Thousands of Martyrs from church in Nicomedia"
         ],
         "pl": [
-            "Dziesięć tysięcy Męczenników za wiarę z Nikomedii"
+            "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": null,
+    "died": ["~304-12-25"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,10 +25,10 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Mart./18#3"],
+        "mr-1584": ["1:Dec./25#4"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Martii/18#4"],
+        "mr-1956": ["1:Decembris/25#5"],
         "mr-1956-movable": [],
 
         "mr-2004": [],

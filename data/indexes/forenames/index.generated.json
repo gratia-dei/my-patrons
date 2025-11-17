@@ -95,9 +95,6 @@
     "054ccb21359317186d798f92f6b2ae02": {
         "la": "Venceslaus"
     },
-    "0586e7e1f27bc4035f1f33c73f80f984": {
-        "en": "Without"
-    },
     "05879b709f885394988fe32dba2bbaa5": {
         "pl": "Manata"
     },
@@ -763,9 +760,6 @@
     "2a0f0bde0d7bbcfa5d674500234938fa": {
         "en": "Gildas",
         "pl": "Gildas"
-    },
-    "2a26993da84014bac614a7990a2312cb": {
-        "pl": "Bez"
     },
     "2a35413cdaa959a89407c3e73ab480e5": {
         "he": "דָּוִד‎"
@@ -1655,9 +1649,6 @@
     "5aca8e3e9bba04243cf32770964d35cc": {
         "la": "Bentivolius"
     },
-    "5ae7fb3197b6fd8c723c7766a5680e2e": {
-        "en": "Many"
-    },
     "5b6cf49a657875a1e3e3659f90c74bf8": {
         "la": "Pius",
         "en": "Pius",
@@ -1833,6 +1824,9 @@
     "652c32e3acec34c19d209ebca0a0dcd1": {
         "la": "Adela"
     },
+    "654be4a26cb5a103c8335fb4dfebd077": {
+        "pl": "Z wieloma imionami"
+    },
     "654cd76590cebe0ba37e8d4cce8a96ee": {
         "it": "Sofia"
     },
@@ -2000,6 +1994,9 @@
     "6f37021f96f37dcb9a4b5dc508756a9f": {
         "pl": "Sergiusz"
     },
+    "6f3fb1b5fa4b45367e6362463cffa583": {
+        "la": "Sine nomine"
+    },
     "6f53f60f6657f8ae745613a0e7008555": {
         "es": "Agustín"
     },
@@ -2041,6 +2038,9 @@
     },
     "71706d55353b0314d222ebeef56173e5": {
         "la": "Aloisius"
+    },
+    "71ab1c3ad7d9123962d40078258025fc": {
+        "pl": "Bez imienia"
     },
     "71b497ee6bab22d402ccf3eaeefc26bf": {
         "la": "Eduardus"
@@ -2159,6 +2159,9 @@
     },
     "79162b02a4adef009a7d8214aaaafec5": {
         "en": "Alexis"
+    },
+    "79351745c02cf584536f6b5a9d9c59fa": {
+        "en": "Without a name"
     },
     "79699cf1b90e62727c5954c4ffe10f43": {
         "en": "Zbigniew",
@@ -3615,6 +3618,9 @@
         "en": "Saturnin",
         "pl": "Saturnin"
     },
+    "c3a1c995ec9c2d60cd5b230903bf2fce": {
+        "la": "Cum multis nominibus"
+    },
     "c3d13fc7446ab64cda6c78c4e05aef52": {
         "pl": "Amideusz"
     },
@@ -3786,9 +3792,6 @@
     "ce3d7fcc43d6fb7464a8167e3afe8f4e": {
         "pl": "Apolonia"
     },
-    "ce7898536dd0e928d1640ee2ad531cc8": {
-        "la": "Multi"
-    },
     "ce82789814a48bd427a650b22aa8eda3": {
         "ko": "아가타"
     },
@@ -3859,6 +3862,9 @@
     },
     "d2cfdbda3b7c33142b334bc0df20854c": {
         "uk": "Юрій"
+    },
+    "d2dc3a0e4f10a56c09b7c5a19d37f427": {
+        "en": "With Many names"
     },
     "d2eaaba35087e3069c367b44c992c87a": {
         "la": "Irmina",
@@ -4564,14 +4570,14 @@
         "en": "Uguccione",
         "it": "Uguccione"
     },
+    "f8baec8c09854ec17229601feaff1818": {
+        "la": "Multa"
+    },
     "f8e242c3a5a81b279e739433ad3e7a80": {
         "ko": "금주 "
     },
     "f91a4426dd179e1cee9bfcfb73decfc7": {
         "la": "Basilius"
-    },
-    "f92e4d1b5a0c6517c9f535ed7e913b09": {
-        "pl": "Wiele"
     },
     "f9565e11b7c4df433dd6f4edc8cb055f": {
         "en": "Winfreth"

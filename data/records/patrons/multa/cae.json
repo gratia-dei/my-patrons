@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus"
+            "Socia Theotimi Caesariensis"
         ],
         "en": [
-            "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician"
+            "Theotimus' of Caesarea Companions"
         ],
         "pl": [
-            "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
+            "Towarzysze Teotyma z Cezarei"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": [">201", "<300"],
+    "died": ["~307"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,10 +25,10 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["3:Ianu./30#2"],
+        "mr-1584": ["5:Nov./5#4"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["3:Januarii/30#4"],
+        "mr-1956": ["5:Novembris/5#5"],
         "mr-1956-movable": [],
 
         "mr-2004": [],

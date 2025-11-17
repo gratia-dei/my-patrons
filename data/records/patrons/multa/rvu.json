@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Socia Theotimi Caesariensis"
+            "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp."
         ],
         "en": [
-            "Theotimus' of Caesarea Companions"
+            "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius"
         ],
         "pl": [
-            "Towarzysze Teotyma z Cezarei"
+            "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~307"],
+    "died": ["~251", ">253-06-01", "<253-06-30"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,10 +25,10 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["5:Nov./5#4"],
+        "mr-1584": ["2:Sept./14#2"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["5:Novembris/5#5"],
+        "mr-1956": ["2:Septembris/14#2"],
         "mr-1956-movable": [],
 
         "mr-2004": [],

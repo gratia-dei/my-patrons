@@ -1348,7 +1348,7 @@
         }
     },
     "10-31": {
-        "records/patrons/multi/san#vos": {
+        "records/patrons/multa/san#vos": {
             "name": {
                 "la": "Omnes Sancti (Vigilia Omnium Sanctorum)",
                 "pl": "Wszyscy Święci (Wigilia Wszystkich Świętych)"
@@ -1360,7 +1360,7 @@
         }
     },
     "11-08": {
-        "records/patrons/multi/san#oos": {
+        "records/patrons/multa/san#oos": {
             "name": {
                 "la": "Omnes Sancti (Octava Omnium Sanctorum)",
                 "pl": "Wszyscy Święci (Oktawa Wszystkich Świętych)"

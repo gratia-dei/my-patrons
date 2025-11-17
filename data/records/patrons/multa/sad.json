@@ -1,23 +1,23 @@
 {
     "names": {
+        "pl": [
+            "Towarzysze Sadoka z Sandomierza"
+        ],
         "la": [
-            "Viginti Martyres persecutionis Diocletiani Nicomediae"
+            "Sociorum Sadochii de Sandomierz"
         ],
         "en": [
-            "Twenty Martyrs of the Diocletianic persecution in Nicomedia"
-        ],
-        "pl": [
-            "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
+            "Companions of Sadok of Sandomierz"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~303"],
+    "died": ["~1260"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,19 +25,19 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Dec./23#2"],
+        "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Decembris/23#3"],
+        "mr-1956": [],
         "mr-1956-movable": [],
 
-        "mr-2004": [],
+        "mr-2004": ["2:iun./2#8"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
+        "wiki": "https://pl.wikipedia.org/wiki/Sadok_i_48_Sandomierskich_Dominika%C5%84skich_M%C4%99czennik%C3%B3w"
     }
 }

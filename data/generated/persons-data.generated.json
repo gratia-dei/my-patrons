@@ -10389,14 +10389,14 @@
             }
         }
     },
-    "patrons/multi": {
+    "patrons/multa": {
         "names": {
-            "la": "Multi",
-            "en": "Many",
-            "pl": "Wiele"
+            "la": "Cum multis nominibus",
+            "en": "With Many names",
+            "pl": "Z wieloma imionami"
         }
     },
-    "patrons/multi/abr": {
+    "patrons/multa/abr": {
         "active": true,
         "names": {
             "la": "Monachi Abrahamitae",
@@ -10408,7 +10408,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/ang": {
+    "patrons/multa/ang": {
         "active": true,
         "names": {
             "la": "Angeli Custodes",
@@ -10420,7 +10420,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/bon": {
+    "patrons/multa/bon": {
         "active": true,
         "names": {
             "la": "Alii Socii Bonifatii Winfridi",
@@ -10432,7 +10432,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/cae": {
+    "patrons/multa/cae": {
         "active": true,
         "names": {
             "la": "Socia Theotimi Caesariensis",
@@ -10444,7 +10444,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/cvq": {
+    "patrons/multa/cvq": {
         "active": true,
         "names": {
             "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
@@ -10457,7 +10457,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/dva": {
+    "patrons/multa/dva": {
         "active": true,
         "names": {
             "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
@@ -10469,7 +10469,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/fid": {
+    "patrons/multa/fid": {
         "active": true,
         "names": {
             "la": "Omnes Fideles Defuncti",
@@ -10479,7 +10479,7 @@
         "died": [],
         "feasts": []
     },
-    "patrons/multi/lug": {
+    "patrons/multa/lug": {
         "active": true,
         "names": {
             "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
@@ -10491,7 +10491,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/mar": {
+    "patrons/multa/mar": {
         "active": true,
         "names": {
             "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
@@ -10503,7 +10503,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/nid": {
+    "patrons/multa/nid": {
         "active": true,
         "names": {
             "la": "Decem milia martyrum pro fide Nicomediae",
@@ -10513,7 +10513,7 @@
         "died": [],
         "feasts": []
     },
-    "patrons/multi/nie": {
+    "patrons/multa/nie": {
         "active": true,
         "names": {
             "la": "Multa Milia Martyres in Nicomediae ecclesia",
@@ -10525,7 +10525,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/nim": {
+    "patrons/multa/nim": {
         "active": true,
         "names": {
             "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
@@ -10537,7 +10537,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/nip": {
+    "patrons/multa/nip": {
         "active": true,
         "names": {
             "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
@@ -10549,7 +10549,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/niv": {
+    "patrons/multa/niv": {
         "active": true,
         "names": {
             "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
@@ -10561,7 +10561,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/qda": {
+    "patrons/multa/qda": {
         "active": true,
         "names": {
             "la": "Quadraginta duo martyres Amorii",
@@ -10573,7 +10573,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/rvu": {
+    "patrons/multa/rvu": {
         "active": true,
         "names": {
             "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
@@ -10587,7 +10587,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/sad": {
+    "patrons/multa/sad": {
         "active": true,
         "names": {
             "pl": "Towarzysze Sadoka z Sandomierza",
@@ -10599,7 +10599,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/san": {
+    "patrons/multa/san": {
         "active": true,
         "names": {
             "la": "Omnes Sancti",
@@ -10624,7 +10624,7 @@
             }
         }
     },
-    "patrons/multi/sfa": {
+    "patrons/multa/sfa": {
         "active": true,
         "names": {
             "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
@@ -10636,7 +10636,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/the": {
+    "patrons/multa/the": {
         "active": true,
         "names": {
             "la": "Sociorum Mauricii, milites legionis Thebanae",
@@ -10649,7 +10649,7 @@
         ],
         "feasts": []
     },
-    "patrons/multi/urs": {
+    "patrons/multa/urs": {
         "active": true,
         "names": {
             "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
@@ -13146,9 +13146,9 @@
     },
     "patrons/sine": {
         "names": {
-            "la": "Sine",
-            "en": "Without",
-            "pl": "Bez"
+            "la": "Sine nomine",
+            "en": "Without a name",
+            "pl": "Bez imienia"
         }
     },
     "patrons/sine/ulm": {

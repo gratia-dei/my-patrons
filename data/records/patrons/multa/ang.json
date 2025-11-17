@@ -1,43 +1,43 @@
 {
     "names": {
         "la": [
-            "Omnes Fideles Defuncti"
+            "Angeli Custodes"
         ],
         "en": [
-            "All the Faithful Departed"
+            "Guardian Angels"
         ],
         "pl": [
-            "Wszyscy Wierni Zmarli"
+            "Aniołowie Stróżowie"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
-    "born": null,
-    "died": null,
+    "born": ["-"],
+    "died": ["-"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
 
-    "categories": ["socia"],
+    "categories": ["socia", "angelus"],
 
     "data-links": {
-        "mr-1584": ["1:Nov./2#1"],
+        "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Novembris/2#1", "1:Novembris/2#12"],
+        "mr-1956": ["1:Octobris/2#1"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:nov./2#1"],
+        "mr-2004": ["1:oct./2#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/Zaduszki"
+        "wiki": "https://pl.wikipedia.org/wiki/Agnieszka_Rzymianka"
     }
 }

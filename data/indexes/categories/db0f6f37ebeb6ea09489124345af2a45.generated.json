@@ -14,107 +14,107 @@
         ]
     },
     "links": {
-        "records/patrons/multi/abr": {
+        "records/patrons/multa/abr": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
         },
-        "records/patrons/multi/ang": {
+        "records/patrons/multa/ang": {
             "la": "Angeli Custodes",
             "en": "Guardian Angels",
             "pl": "Aniołowie Stróżowie"
         },
-        "records/patrons/multi/bon": {
+        "records/patrons/multa/bon": {
             "la": "Alii Socii Bonifatii Winfridi",
             "en": "Other Companions of Boniface Wynfreth",
             "pl": "Inni Towarzysze Bonifacego Wynfryda"
         },
-        "records/patrons/multi/cae": {
+        "records/patrons/multa/cae": {
             "la": "Socia Theotimi Caesariensis",
             "en": "Theotimus' of Caesarea Companions",
             "pl": "Towarzysze Teotyma z Cezarei"
         },
-        "records/patrons/multi/cvq": {
+        "records/patrons/multa/cvq": {
             "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
             "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
             "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
         },
-        "records/patrons/multi/dva": {
+        "records/patrons/multa/dva": {
             "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
             "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
             "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
         },
-        "records/patrons/multi/fid": {
+        "records/patrons/multa/fid": {
             "la": "Omnes Fideles Defuncti",
             "en": "All the Faithful Departed",
             "pl": "Wszyscy Wierni Zmarli"
         },
-        "records/patrons/multi/lug": {
+        "records/patrons/multa/lug": {
             "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
             "en": "Almost all the citizens of Lyon; with them, Irenaeus",
             "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
         },
-        "records/patrons/multi/mar": {
+        "records/patrons/multa/mar": {
             "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
             "en": "Seventeen thousand Christian Martyrs of Romee",
             "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
         },
-        "records/patrons/multi/nid": {
+        "records/patrons/multa/nid": {
             "la": "Decem milia martyrum pro fide Nicomediae",
             "en": "Ten thousand Martyrs for the faith from Nicomedia",
             "pl": "Dziesięć tysięcy Męczenników za wiarę z Nikomedii"
         },
-        "records/patrons/multi/nie": {
+        "records/patrons/multa/nie": {
             "la": "Multa Milia Martyres in Nicomediae ecclesia",
             "en": "Many Thousands of Martyrs from church in Nicomedia",
             "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
         },
-        "records/patrons/multi/nim": {
+        "records/patrons/multa/nim": {
             "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
             "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
             "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
         },
-        "records/patrons/multi/nip": {
+        "records/patrons/multa/nip": {
             "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
             "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
             "pl": "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
         },
-        "records/patrons/multi/niv": {
+        "records/patrons/multa/niv": {
             "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
             "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
             "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
         },
-        "records/patrons/multi/qda": {
+        "records/patrons/multa/qda": {
             "la": "Quadraginta duo martyres Amorii",
             "en": "Forty-two martyrs of Amorium",
             "pl": "Czterdziestu dwóch męczenników z Amorium"
         },
-        "records/patrons/multi/rvu": {
+        "records/patrons/multa/rvu": {
             "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
             "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
             "pl": "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
         },
-        "records/patrons/multi/sad": {
+        "records/patrons/multa/sad": {
             "pl": "Towarzysze Sadoka z Sandomierza",
             "la": "Sociorum Sadochii de Sandomierz",
             "en": "Companions of Sadok of Sandomierz"
         },
-        "records/patrons/multi/san": {
+        "records/patrons/multa/san": {
             "la": "Omnes Sancti",
             "en": "All Saints",
             "pl": "Wszyscy Święci"
         },
-        "records/patrons/multi/sfa": {
+        "records/patrons/multa/sfa": {
             "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
             "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
             "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
         },
-        "records/patrons/multi/the": {
+        "records/patrons/multa/the": {
             "la": "Sociorum Mauricii, milites legionis Thebanae",
             "en": "Companions of Maurice, soldiers of the Theban legion",
             "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
         },
-        "records/patrons/multi/urs": {
+        "records/patrons/multa/urs": {
             "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
             "la": "Sociae Ursulae Coloniensis, virgines et martyres",
             "en": "Companions of Ursula of Cologne, virgins and martyrs",

@@ -1,23 +1,23 @@
 {
     "names": {
         "la": [
-            "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis"
+            "Alii Socii Bonifatii Winfridi"
         ],
         "en": [
-            "Innumerable companions of Eleutherius, martyrs of Nicomedia"
+            "Other Companions of Boniface Wynfreth"
         ],
         "pl": [
-            "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
+            "Inni Towarzysze Bonifacego Wynfryda"
         ]
     },
-    "forenames": ["multi"],
+    "forenames": ["multa"],
     "surnames": null,
     "epithets": null,
 
     "active": true,
 
     "born": null,
-    "died": ["~303"],
+    "died": ["754-06-05"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,
@@ -25,10 +25,10 @@
     "categories": ["socia", "martyr"],
 
     "data-links": {
-        "mr-1584": ["2:Oct./2#1"],
+        "mr-1584": ["3:Iuni./5#5"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["2:Octobris/2#4"],
+        "mr-1956": ["3:Junii/5#1"],
         "mr-1956-movable": [],
 
         "mr-2004": [],
@@ -38,6 +38,6 @@
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nikomedii"
+        "wiki": "https://pl.wikipedia.org/wiki/Eoban"
     }
 }
