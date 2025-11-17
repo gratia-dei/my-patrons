@@ -1,5 +1,6 @@
 **UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Bóg i ja](/guide/god-and-me).
 
+---
 **[X] Własna Notatka** to specjalny typ wyzwania, który da Tobie możliwość **utworzenia niezależnej** od innych wyzwań, **dowolnej notatki tekstowej**.
 
 ## Więcej informacji ##
