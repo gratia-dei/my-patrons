@@ -12,5 +12,12 @@ Więcej informacji znajdziesz w opisie wyzwania, klikając w edytorze wyzwań pr
 ## Ogólnie o Misjach Specjalnych ##
 **Podejmowane przez Ciebie pewne pobożne działania**, których wykonanie zawierzasz Patronom, nazywamy **Misjami Specjalnymi**. Współpraca z Patronami zwiększa skuteczność Twoich działań, gdyż mogą Oni wypraszać u Boga dużo więcej niż gdybyś Ty robił to sam.
 
+W ramach inicjatywy _„Moi Patroni”_ mamy:
+- **Misje Apostoła**,
+- **Misje Wierności** (wkrótce),
+- **Misje Zdobywców Odpustów** (wkrótce),
+- **Misje Posłańca**,
+- **Misje Pobożności**.
+
 ## Co dalej? ##
 &gt;&gt;&gt; [Notatki własne](/guide/own-notes) - słów kilka.

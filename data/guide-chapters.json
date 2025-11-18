@@ -52,5 +52,159 @@
                 "pl": "pl/przewodnik/patroni-opiekunowie"
             }
         }
+    },
+
+    "collectible-cards": {
+        "name": {
+            "pl": "Karty kolekcjonerskie"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/karty-kolekcjonerskie"
+            }
+        }
+    },
+
+    "name-patrons": {
+        "name": {
+            "pl": "Patroni Imienia"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-imienia"
+            }
+        }
+    },
+
+    "missions-of-faithfulness": {
+        "name": {
+            "pl": "Misje Wierności"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-wiernosci"
+            }
+        }
+    },
+
+    "mentor-patrons": {
+        "name": {
+            "pl": "Patroni Mentorzy"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-mentorzy"
+            }
+        }
+    },
+
+    "sacraments": {
+        "name": {
+            "pl": "Sakramenty"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/sakramenty"
+            }
+        }
+    },
+
+    "holy-confessions": {
+        "name": {
+            "pl": "Spowiedzi Święte"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/spowiedzi-swiete"
+            }
+        }
+    },
+
+    "defender-patrons": {
+        "name": {
+            "pl": "Patroni Obrońcy"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-obroncy"
+            }
+        }
+    },
+
+    "indulgences-obtainers-missions": {
+        "name": {
+            "pl": "Misje Zdobywców Odpustów"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-zdobywcow-odpustow"
+            }
+        }
+    },
+
+    "messengers-missions": {
+        "name": {
+            "pl": "Misje Posłańca"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-poslanca"
+            }
+        }
+    },
+
+    "advocate-patrons": {
+        "name": {
+            "pl": "Patroni Orędownicy"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-oredownicy"
+            }
+        }
+    },
+
+    "cycles-of-piety": {
+        "name": {
+            "pl": "Cykle Pobożności"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/cykle-poboznosci"
+            }
+        }
+    },
+
+    "missions-of-piety": {
+        "name": {
+            "pl": "Misje Pobożności"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-poboznosci"
+            }
+        }
+    },
+
+    "helper-patrons": {
+        "name": {
+            "pl": "Patroni Wspomożyciele"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-wspomozyciele"
+            }
+        }
+    },
+
+    "guide-patrons": {
+        "name": {
+            "pl": "Patroni Przewodnicy"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/patroni-przewodnicy"
+            }
+        }
     }
 }
