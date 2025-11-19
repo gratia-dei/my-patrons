@@ -1,8 +1,6 @@
 **UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Bóg i ja](/guide/god-and-me).
 
 ---
-**Rozpoczyna się Twoja przygoda z Patronami**!
-
 W tym obszarze Twoim zadaniem będzie **poszukiwanie ich w otaczającym Cię świecie**, w ich fizycznej obecności np. **w relikwiach** lub poprzez **ich wizerunki**, które można napotkać w wielu miejscach **świeckiej przestrzeni** naszego życia, zarówno **publicznej** (np. patronat ulicy lub instytucji), jak i **prywatnej** (np. obrazy na ścianie lub święte obrazki w szufladzie). Choć będziemy się skupiać na całym naszym otoczeniu, czasem oczywiście dotykać będziemy także **przestrzeni sakralnej Kościoła Rzymskokatolickiego**, ale będzie się to odbywało w sposób bardzo uproszczony.
 
 **Patroni Opiekunowie wydają się być najlepszym wyborem dla każdego Uczestnika na początku** i warto się na nich zatrzymać przez jakiś czas (np. miesiąc), poznając w praktyce mechanikę inicjatywy **_„Moi Patroni”_**. Już nawet **kilkuletnie dzieci** dadzą radę **zapraszać** Świętych i Błogosławionych Kościoła, do **pełnienia roli ich Opiekunów** i wykonywać z nimi **dalsze wyzwania**.
@@ -12,11 +10,6 @@ Zapraszając Patrona Opiekuna, **prosisz Go, by się Tobą opiekował**, trochę
 
 ## Jak często? ##
 Można zaprosić tylko **jednego Patrona Opiekuna każdego dnia**!
-
-## Warto zapamiętać! ##
-**Obowiązujące Uczestników** przedstawione w **inicjatywie _„Moi Patroni”_** sposoby wykonywania różnych **wyzwań**, w szczególności **zapraszanie Patronów**, to **nasze autorskie propozycje**, adaptujące wiele pożytecznych i pobożnych praktyk, mających dodatkowo zachęcić do poznawania Boga i Patronów oraz głębszej relacji z Nimi.
-
-Należy pamiętać jednak, że **Bóg w swojej wielkiej mądrości działa, jak chce** i może przydzielać nam Patronów dowolnych rodzajów według swojego uznania, choćby w odpowiedzi na nasze zwyczajne westchnienie czy prośbę o pomoc.
 
 ## Jak zaprosić Patrona Opiekuna? ##
 **Konkretnego Patrona możesz zaprosić do grona Twoich Opiekunów tylko raz**! W tym celu kliknij w edytorze wyzwań przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_**.
@@ -49,7 +42,10 @@ Krok ten polega na **odmówieniu poniższej modlitwy**, będącej zaproszeniem P
 Warto na początku udziału przemyśleć **jakie informacje dodatkowe chcesz notować** w wyzwaniach. Wymagać to może trochę **więcej czasu przy dodawaniu wyzwania**, ale w przyszłości pozwoli przypomnieć sobie głębszy kontekst notowanych wydarzeń.
 
 ## Gratulacje! ##
-Wybrany Patron stał się właśnie **Twoim Opiekunem**! Prócz **wielkich korzyści duchowych** jakie może za sobą nieść takie **świadome zawierzenie się opiece Patronów**, powoduje ono także wielką **radość Boga i zapraszanych Patronów**, którzy bardzo chcą nam pomagać i czekają na tę możliwość, do czego konieczna jest jednak zawsze **nasza świadoma zgoda**!
+Wybrany Patron dołączył właśnie **do grona Twoich Opiekunów**!
+
+## Więcej informacji ##
+W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_**.
 
 ## Dalsze wyzwania ##
 Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać teraz następujące wyzwania:
@@ -61,22 +57,5 @@ Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać t
 - **[TS] Selfie z Patronem** - zrób sobie selfie lub zdjęcie z dowolnym wizerunkiem Patrona Opiekuna,
 - ... **i kolejne wyzwania**, które powstaną dla Patronów Opiekunów! Planowane jest tu m.in. wyzwanie **[DA] Atrybut Patrona**, polegające na znalezieniu wizerunku Patrona z wybranym przypisanym do niego **atrybutem** (np. palmą męczeńską).
 
-## Atrybuty i inne dodatki ##
-Skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć **jakie rodzaje informacji o osobach można przypisywać do wyzwań**. Jest to zależne od typu wyzwania i mamy tu **trzy możliwe rodzaje**:
-- **_„Ja”_** - dla wyzwań ogólnych, niedotyczących żadnego Patrona przypisujemy siebie,
-- **osoba (w ogólności)** - jeśli wyzwanie dotyczy konkretnego Patrona - np. **_„Maria z Nazaretu”_**. Do niektórych wyzwań możliwe jest także przypisanie każdej z Trzech **Osób Boskich** lub całej **Trójcy Przenajświętszej**.
-- **uszczegółowienie osoby** - jeśli wyzwanie dotyczy przypisanego do osoby **dodatku**, którym mogą być:
-  - **atrybut Patrona** (wkrótce) - np. **_„topór”_** dla Macieja Apostoła,
-  - **święto Patrona** - np. **_„Wniebowzięcie Najświętszej Maryi Panny”_** dla Maryi z Nazaretu,
-  - **imię Patrona** (wkrótce) - np. **_„Rajmund”_** dla Maksymiliana Marii Kolbe,
-  - **kategoria Patrona** (wkrótce) - np. **_„papież”_** dla Jana Pawła II,
-  - **towarzysz Patrona** (wkrótce) - np. **_„Chryzant z Rzymu”_** dla Darii z Rzymu,
-  - **Święty szczególnej czci Patrona** (wkrótce) - np. **_„Filomena z Rzymu”_** dla Jana Marii Vianneya,
-  - **zakon Patrona** (wkrótce) - np. **_„Towarzystwo Jezusowe (Jezuici)”_** dla Stanisława Kostki.
-
 ## Co dalej? ##
-**Warto się teraz zatrzymać** i poświęcić trochę czasu (np. miesiąc) na dobre poznanie **Patronów Opiekunów** i związanych z nimi wyzwań.
-
-Już wkrótce zamieścimy tutaj opisy dalszych obszarów.
-
-<!--&gt;&gt;&gt; [Karty kolekcjonerskie](/guide/collectible-cards) - już wkrótce ...-->
+&gt;&gt;&gt; [Komu możemy przypisywać wyzwania](/guide/who-can-we-assign-the-challenges-to) - skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć jakie rodzaje informacji o osobach można przypisywać do wyzwań.

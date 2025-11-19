@@ -4,7 +4,7 @@
 **[X] Własna Notatka** to specjalny typ wyzwania, który da Tobie możliwość **utworzenia niezależnej** od innych wyzwań, **dowolnej notatki tekstowej**.
 
 ## Więcej informacji ##
-Więcej informacji znajdziesz w opisie wyzwania, klikając w edytorze wyzwań przycisk **_„Dodaj nowe wyzwanie“_** i wybierając typ wyzwania: **_„Własna Notatka [X]”_**.
+W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Własna Notatka [X]”_**.
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Zapraszaj Patronów Opiekunów](/guide/guardian-patrons) - zacznij już dziś! **Święci czekają na Ciebie**!
+&gt;&gt;&gt; [Moi Patroni](/guide/my-patrons) - dowiedz się wreszcie **kim są i jak ich zapraszać**!

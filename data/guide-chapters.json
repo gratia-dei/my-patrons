@@ -21,6 +21,17 @@
         }
     },
 
+    "special-missions": {
+        "name": {
+            "pl": "Misje Specjalne"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/misje-specjalne"
+            }
+        }
+    },
+
     "apostles-missions": {
         "name": {
             "pl": "Misje Apostoła"
@@ -43,6 +54,17 @@
         }
     },
 
+    "my-patrons": {
+        "name": {
+            "pl": "Moi Patroni"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/moi-patroni"
+            }
+        }
+    },
+
     "guardian-patrons": {
         "name": {
             "pl": "Patroni Opiekunowie"
@@ -50,6 +72,17 @@
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-opiekunowie"
+            }
+        }
+    },
+
+    "who-can-we-assign-the-challenges-to": {
+        "name": {
+            "pl": "Komu możemy przypisywać wyzwania?"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/komu-mozemy-przypisywac-wyzwania"
             }
         }
     },
@@ -131,13 +164,13 @@
         }
     },
 
-    "indulgences-obtainers-missions": {
+    "missions-of-indulgence": {
         "name": {
-            "pl": "Misje Zdobywców Odpustów"
+            "pl": "Misje Odpustu"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/misje-zdobywcow-odpustow"
+                "pl": "pl/przewodnik/misje-odpustu"
             }
         }
     },
