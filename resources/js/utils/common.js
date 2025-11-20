@@ -86,6 +86,8 @@ define(["const", "file", "language"], function(uConst, uFile, uLanguage) {
     .set("COMMON/CONFIG_FIELD_REQUIRED", 'required')
     .set("COMMON/CONFIG_FIELD_SELECTABLE", 'selectable')
     .set("COMMON/CONFIG_FIELD_TO_COMPLETE_ON_SELECTED_DATE", 'to-complete-on-selected-date')
+
+    .set("COMMON/WEEKDAY_LANGUAGE_VARIABLES_PREFIX", 'lang-weekday-abbreviation-')
   ;
 
   let personsData = {};

@@ -1,4 +1,4 @@
-define(["const"], function(uConst) {
+define(["common", "const", "language"], function(uCommon, uConst, uLanguage) {
 
   uConst
     .set("DATE/MONTHS_DAYS_COUNT", [null, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31])
@@ -199,6 +199,16 @@ define(["const"], function(uConst) {
 
 
 
+
+  function getDateFormatToShow(dateString) {
+    const weekday = getWeekdayName(dateString);
+    const prefix = uLanguage.getTranslation(uCommon.getConst("WEEKDAY_LANGUAGE_VARIABLES_PREFIX") + weekday.toLowerCase());
+
+    return prefix + ' ' + dateString.substring(8) + '.' + dateString.substring(5, 7) + '.' + dateString.substring(0, 4);
+  }
+
+
+
   function getValidYearMonthDayArray(dateStr) {
     const matches = dateStr.match(/^([0-9]{1,4})-([0-9]{2})-([0-9]{2})$/);
     if (!matches) {
@@ -247,7 +257,9 @@ define(["const"], function(uConst) {
     getDatesDiffInDays,
 
     getNonLeapYearExample,
-    getLeapYearExample
+    getLeapYearExample,
+
+    getDateFormatToShow
   };
 
 });

@@ -1360,7 +1360,7 @@ table.wyzwania-tab {
 
 .wyzwania-tab tr th.challenge-column-date,
 .wyzwania-tab tr td.challenge-column-date {
-    width: 10%;
+    width: 12%;
     text-align: center;
 }
 
@@ -1376,13 +1376,13 @@ table.wyzwania-tab {
 
 .wyzwania-tab tr th.challenge-column-status,
 .wyzwania-tab tr td.challenge-column-status {
-    width: 6%;
+    width: 5%;
     text-align: center;
 }
 
 .wyzwania-tab tr th.challenge-column-progress,
 .wyzwania-tab tr td.challenge-column-progress {
-    width: 12%;
+    width: 11%;
 }
 
 .wyzwania-tab .bg-success {

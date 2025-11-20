@@ -315,6 +315,9 @@ requirejs(
         const firstTime = rowData.first;
         const lastTime = rowData.last;
 
+        const firstTimeToShow = uDate.getDateFormatToShow(firstTime);
+        const lastTimeToShow = uDate.getDateFormatToShow(lastTime);
+
         const row = {
           number: {
             style: {
@@ -341,7 +344,7 @@ requirejs(
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
-            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
+            content: count <= 1 ? makeTextStrong(firstTimeToShow) : makeTextStrong(firstTimeToShow) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTimeToShow)
           }
         }
         result.push(row);
@@ -470,7 +473,12 @@ requirejs(
         const firstTime = rowData.first;
         const lastTime = rowData.last;
         const average = getCountPercentValue(uDate.getDatesDiffInDays(selectedDateStr, firstTime) + 1, count * 100);
-        const lastYearAverage = lastYearCount > 0 ? getCountPercentValue(uDate.getDatesDiffInDays(selectedDateStr, lastYearDateStr) + 1, lastYearCount * 100) : '-';
+
+        const dateStrForLastYearAverage = firstTime > lastYearDateStr ? firstTime : lastYearDateStr;
+        const lastYearAverage = lastYearCount > 0 ? getCountPercentValue(uDate.getDatesDiffInDays(selectedDateStr, dateStrForLastYearAverage) + 1, lastYearCount * 100) : '-';
+
+        const firstTimeToShow = uDate.getDateFormatToShow(firstTime);
+        const lastTimeToShow = uDate.getDateFormatToShow(lastTime);
 
         const row = {
           number: {
@@ -502,7 +510,7 @@ requirejs(
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
-            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
+            content: count <= 1 ? makeTextStrong(firstTimeToShow) : makeTextStrong(firstTimeToShow) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTimeToShow)
           }
         }
         result.push(row);
@@ -623,6 +631,9 @@ requirejs(
         const firstTime = rowData.first;
         const lastTime = rowData.last;
 
+        const firstTimeToShow = uDate.getDateFormatToShow(firstTime);
+        const lastTimeToShow = uDate.getDateFormatToShow(lastTime);
+
         const row = {
           number: {
             style: {
@@ -658,7 +669,7 @@ requirejs(
             style: {
               "text-align": uConst.get("TEXT_ALIGN_CENTER")
             },
-            content: count <= 1 ? makeTextStrong(firstTime) : makeTextStrong(firstTime) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTime)
+            content: count <= 1 ? makeTextStrong(firstTimeToShow) : makeTextStrong(firstTimeToShow) + uConst.get("NEWLINE_TAG") + makeTextStrong(lastTimeToShow)
           }
         }
         result.push(row);

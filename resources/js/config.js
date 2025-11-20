@@ -27,7 +27,7 @@ requirejs.config({
       deps: ["const", "file", "language"]
     },
     date: {
-      deps: ["const"]
+      deps: ["common", "const", "language"]
     },
     document: {
       deps: ["env"]

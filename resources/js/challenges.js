@@ -285,7 +285,7 @@ requirejs(
     .set("MAX_NOTE_OBJECT_STRUCTURE_LEVELS", 5)
 
     .set("LANGUAGE_VARIABLE_PREFIX", 'lang-')
-    .set("WEEKDAY_LANGUAGE_VARIABLES_PREFIX", 'lang-weekday-abbreviation-')
+    .set("WEEKDAY_LANGUAGE_VARIABLES_PREFIX", uCommon.getConst("WEEKDAY_LANGUAGE_VARIABLES_PREFIX"))
     .set("MONTH_LANGUAGE_VARIABLES_PREFIX", 'lang-month-')
 
     .set("SELECTED_PERSON_IN_GENERAL_LANGUAGE_VARIABLE_NAME", 'lang-without-addition-selection')
@@ -387,13 +387,6 @@ requirejs(
     }
 
     return [Object.keys(activePatrons).length, Object.keys(activeFeasts).length];
-  }
-
-  function getDateFormat(dateString) {
-    const weekday = uDate.getWeekdayName(dateString);
-    const prefix = uLanguage.getTranslation(uConst.get("WEEKDAY_LANGUAGE_VARIABLES_PREFIX") + weekday.toLowerCase());
-
-    return prefix + ' ' + dateString;
   }
 
   function isAdvancedMode() {
@@ -1322,7 +1315,7 @@ requirejs(
 
       innerHtmlToSet += content
         .replace(/#row-id#/g, rowData.rowId)
-        .replace(/#date#/g, getDateFormat(rowData.date))
+        .replace(/#date#/g, uDate.getDateFormatToShow(rowData.date))
         .replace(/#type-name#/g, typeName)
         .replace(/#type#/g, rowData.type)
         .replace(/#number#/g, rowData.number)
@@ -3115,7 +3108,7 @@ requirejs(
 
       row.innerHTML = content
         .replace(/#row-id#/g, rowId)
-        .replace(/#date#/g, getDateFormat(date))
+        .replace(/#date#/g, uDate.getDateFormatToShow(date))
         .replace(/#type-name#/g, typeName)
         .replace(/#type#/g, type)
         .replace(/#number#/g, number.toString())
