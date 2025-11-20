@@ -1689,7 +1689,7 @@
       "description": {
         "params": [],
         "template": {
-          "pl": "pl/osoby/patron-ktoremu-powierzona-bedzie-misja-apostola"
+          "pl": "pl/osoby/swiety-lub-blogoslawiony-ktoremu-powierzona-bedzie-misja-apostola"
         }
       },
       "requirements": {
@@ -1702,12 +1702,12 @@
         "to-complete-on-selected-date": false,
         "required": true,
         "name": {
-          "pl": "powierz Patronowi swoją Misję Apostoła"
+          "pl": "powierz Świętemu lub Błogosławionemu swoją Misję Apostoła"
         },
         "description": {
           "params": ["person-name"],
           "template": {
-            "pl": "pl/kroki/powierz-patronowi-swoja-misje-apostola"
+            "pl": "pl/kroki/powierz-swietemu-lub-blogoslawionemu-swoja-misje-apostola"
           }
         }
       },
@@ -1768,7 +1768,7 @@
       "description": {
         "params": ["immovable-dates"],
         "template": {
-          "pl": "pl/osoby/patron-ktoremu-powierzona-bedzie-misja-poslanca"
+          "pl": "pl/osoby/swiety-lub-blogoslawiony-ktoremu-powierzona-bedzie-misja-poslanca"
         }
       },
       "requirements": {
@@ -1795,12 +1795,12 @@
         "to-complete-on-selected-date": true,
         "required": true,
         "name": {
-          "pl": "powierz Patronowi swoją Misję Posłańca"
+          "pl": "powierz Świętemu lub Błogosławionemu swoją Misję Posłańca"
         },
         "description": {
           "params": ["person-name"],
           "template": {
-            "pl": "pl/kroki/powierz-patronowi-swoja-misje-poslanca"
+            "pl": "pl/kroki/powierz-swietemu-lub-blogoslawionemu-swoja-misje-poslanca"
           }
         }
       },
@@ -1861,7 +1861,7 @@
       "description": {
         "params": [],
         "template": {
-          "pl": "pl/osoby/patron-ktoremu-powierzona-bedzie-misja-poboznosci"
+          "pl": "pl/osoby/swiety-lub-blogoslawiony-ktoremu-powierzona-bedzie-misja-poboznosci"
         }
       },
       "requirements": {
@@ -1888,12 +1888,12 @@
         "to-complete-on-selected-date": false,
         "required": true,
         "name": {
-          "pl": "powierz Patronowi swoją Misję Pobożności"
+          "pl": "powierz Świętemu lub Błogosławionemu swoją Misję Pobożności"
         },
         "description": {
           "params": ["person-name"],
           "template": {
-            "pl": "pl/kroki/powierz-patronowi-swoja-misje-poboznosci"
+            "pl": "pl/kroki/powierz-swietemu-lub-blogoslawionemu-swoja-misje-poboznosci"
           }
         }
       },

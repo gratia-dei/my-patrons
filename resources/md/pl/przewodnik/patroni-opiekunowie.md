@@ -1,4 +1,4 @@
-**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Bóg i ja](/guide/god-and-me).
+**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Moi Patroni](/guide/my-patrons).
 
 ---
 W tym obszarze Twoim zadaniem będzie **poszukiwanie ich w otaczającym Cię świecie**, w ich fizycznej obecności np. **w relikwiach** lub poprzez **ich wizerunki**, które można napotkać w wielu miejscach **świeckiej przestrzeni** naszego życia, zarówno **publicznej** (np. patronat ulicy lub instytucji), jak i **prywatnej** (np. obrazy na ścianie lub święte obrazki w szufladzie). Choć będziemy się skupiać na całym naszym otoczeniu, czasem oczywiście dotykać będziemy także **przestrzeni sakralnej Kościoła Rzymskokatolickiego**, ale będzie się to odbywało w sposób bardzo uproszczony.
@@ -44,9 +44,6 @@ Warto na początku udziału przemyśleć **jakie informacje dodatkowe chcesz not
 ## Gratulacje! ##
 Wybrany Patron dołączył właśnie **do grona Twoich Opiekunów**!
 
-## Więcej informacji ##
-W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_**.
-
 ## Dalsze wyzwania ##
 Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać teraz następujące wyzwania:
 - **[TR] Relikwie lub Grób** - odwiedź (fizycznie) i pomódl się przy relikwiach lub grobie Patrona Opiekuna,
@@ -56,6 +53,9 @@ Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać t
 - **[TH] Rękodzieło** - wykonaj rękodzieło z wizerunkiem Patrona Opiekuna,
 - **[TS] Selfie z Patronem** - zrób sobie selfie lub zdjęcie z dowolnym wizerunkiem Patrona Opiekuna,
 - ... **i kolejne wyzwania**, które powstaną dla Patronów Opiekunów! Planowane jest tu m.in. wyzwanie **[DA] Atrybut Patrona**, polegające na znalezieniu wizerunku Patrona z wybranym przypisanym do niego **atrybutem** (np. palmą męczeńską).
+
+## Więcej informacji ##
+W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_** lub innego wyzwania z powyższej listy.
 
 ## Co dalej? ##
 &gt;&gt;&gt; [Komu możemy przypisywać wyzwania](/guide/who-can-we-assign-the-challenges-to) - skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć jakie rodzaje informacji o osobach można przypisywać do wyzwań.
