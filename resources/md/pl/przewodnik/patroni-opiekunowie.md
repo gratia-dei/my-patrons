@@ -1,6 +1,8 @@
-**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Moi Patroni](/guide/my-patrons).
+**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Bóg i ja](/guide/god-and-me).
 
 ---
+**Rozpoczyna się Twoja przygoda z Patronami**!
+
 W tym obszarze Twoim zadaniem będzie **poszukiwanie ich w otaczającym Cię świecie**, w ich fizycznej obecności np. **w relikwiach** lub poprzez **ich wizerunki**, które można napotkać w wielu miejscach **świeckiej przestrzeni** naszego życia, zarówno **publicznej** (np. patronat ulicy lub instytucji), jak i **prywatnej** (np. obrazy na ścianie lub święte obrazki w szufladzie). Choć będziemy się skupiać na całym naszym otoczeniu, czasem oczywiście dotykać będziemy także **przestrzeni sakralnej Kościoła Rzymskokatolickiego**, ale będzie się to odbywało w sposób bardzo uproszczony.
 
 **Patroni Opiekunowie wydają się być najlepszym wyborem dla każdego Uczestnika na początku** i warto się na nich zatrzymać przez jakiś czas (np. miesiąc), poznając w praktyce mechanikę inicjatywy **_„Moi Patroni”_**. Już nawet **kilkuletnie dzieci** dadzą radę **zapraszać** Świętych i Błogosławionych Kościoła, do **pełnienia roli ich Opiekunów** i wykonywać z nimi **dalsze wyzwania**.

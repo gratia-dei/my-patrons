@@ -7,4 +7,4 @@
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Własna Notatka [X]”_**.
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Moi Patroni](/guide/my-patrons) - dowiedz się wreszcie **kim są i jak ich zapraszać**!
+&gt;&gt;&gt; [Patroni Opiekunowie](/guide/guardian-patrons) - zacznij zapraszać ich już dziś! **Święci czekają na Ciebie**!

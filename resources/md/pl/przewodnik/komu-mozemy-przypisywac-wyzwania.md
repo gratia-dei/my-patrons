@@ -14,5 +14,4 @@ To, jakie rodzaje informacji o osobach **można przypisywać do wyzwań** jest z
   - **zakon Patrona** (wkrótce) - np. **_„Towarzystwo Jezusowe (Jezuici)”_** dla Stanisława Kostki.
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Karty kolekcjonerskie](/guide/collectible-cards) - już wkrótce ...-->
+&gt;&gt;&gt; [Moi Patroni](/guide/my-patrons) - skoro poznaliśmy już **Patronów Opiekunów**, warto teraz spojrzeć nieco szerzej na cały proces zapraszania Patronów!

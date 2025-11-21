@@ -54,17 +54,6 @@
         }
     },
 
-    "my-patrons": {
-        "name": {
-            "pl": "Moi Patroni"
-        },
-        "description": {
-            "template": {
-                "pl": "pl/przewodnik/moi-patroni"
-            }
-        }
-    },
-
     "guardian-patrons": {
         "name": {
             "pl": "Patroni Opiekunowie"
@@ -83,6 +72,17 @@
         "description": {
             "template": {
                 "pl": "pl/przewodnik/komu-mozemy-przypisywac-wyzwania"
+            }
+        }
+    },
+
+    "my-patrons": {
+        "name": {
+            "pl": "Moi Patroni"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/moi-patroni"
             }
         }
     },
