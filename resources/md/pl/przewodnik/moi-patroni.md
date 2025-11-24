@@ -106,5 +106,4 @@ Te literki będą alternatywnym sposobem oznaczania **statusu Patrona** m.in. na
 Należy pamiętać jednak, że **Bóg w swojej wielkiej mądrości działa, jak chce** i może przydzielać nam Patronów dowolnych rodzajów według swojego uznania, choćby w odpowiedzi na nasze zwyczajne westchnienie czy prośbę o pomoc.
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Karty kolekcjonerskie](/guide/collectible-cards) - już wkrótce ...-->
+&gt;&gt;&gt; [Karty kolekcjonerskie](/guide/collectible-cards) - już wkrótce zbuduj talię kart ze swoimi Patronami!

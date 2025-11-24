@@ -60,4 +60,4 @@ Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać t
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_** lub innego wyzwania z powyższej listy.
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Komu możemy przypisywać wyzwania](/guide/who-can-we-assign-the-challenges-to) - skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć jakie rodzaje informacji o osobach można przypisywać do wyzwań.
+&gt;&gt;&gt; [Komu możemy przypisywać wyzwania](/guide/who-can-we-assign-the-challenges-to) - skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć jakie rodzaje informacji o osobach można w ogóle przypisywać do wyzwań.
