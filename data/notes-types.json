@@ -525,6 +525,19 @@
       "pl": "Warto rozważyć stosowanie następującego formatu:<br />„<strong>Nazwa Miejscowości, unikalna <em>(w ramach miejscowości)</em> nazwa miejsca //nazwa gminy <em>(jeśli inna od nazwy miejscowości)</em>, nazwa powiatu <em>(jeśli inna od nazwy miejscowości)</em>, nazwa województwa, nazwa państwa</strong>”,<br />np. „<strong>Licheń Stary, Bazylika Najświętszej Maryi Panny Licheńskiej //Ślesin, Koniński, Wielkopolskie, Polska</strong>”."
     }
   },
+  "place-for-messenger-missions": {
+    "index": "places",
+    "name": {
+      "en": "place",
+      "pl": "miejsce"
+    },
+    "source": {
+      "values": "same-challenge-type-sorted"
+    },
+    "hint": {
+      "pl": "<strong>Należy wpisać nowe miejsce przydrożnego krzyża lub kapliczki, spoza powyższej listy wszystkich już wybranych!</strong><br /><br />Warto rozważyć stosowanie następującego formatu:<br />„<strong>Nazwa Miejscowości, unikalna <em>(w ramach miejscowości)</em> nazwa miejsca //nazwa gminy <em>(jeśli inna od nazwy miejscowości)</em>, nazwa powiatu <em>(jeśli inna od nazwy miejscowości)</em>, nazwa województwa, nazwa państwa</strong>”,<br />np. „<strong>Licheń Stary, Bazylika Najświętszej Maryi Panny Licheńskiej //Ślesin, Koniński, Wielkopolskie, Polska</strong>”."
+    }
+  },
   "quote": {
     "index": "quotes",
     "name": {

@@ -1821,7 +1821,7 @@
     "notes": {
       "place": {
         "type": {
-          "place": [1, 1]
+          "place-for-messenger-missions": [1, 1]
         },
         "name": {
           "pl": "miejscowość i opis miejsca przydrożnego krzyża lub kapliczki"

@@ -270,6 +270,7 @@ requirejs(
 
     .set("NOTE_CONFIG_SOURCE_TYPE_VALUES", 'values')
     .set("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED", 'sorted')
+    .set("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SAME_CHALLENGE_TYPE_SORTED", 'same-challenge-type-sorted')
     .set("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED", 'last-year-or-10-challenges-sorted')
     .set("NOTE_CONFIG_SOURCE_TYPE_LIST", 'list')
     .set("NOTE_CONFIG_SOURCE_TYPE_PATRONS", 'patrons')
@@ -3907,7 +3908,10 @@ requirejs(
           if (sourceData === uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SORTED")) {
             valuesData = uSort.getSortedObject(valuesData);
           } else if (sourceData === uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_LAST_YEAR_OR_10_CHALLENGES_SORTED")) {
-            valuesData = getLastYearOrTenChallengesValuesData(valuesData, rowId, noteType);
+            valuesData = getLastYearOrTenChallengesValuesData(valuesData, rowId, noteIndex);
+            valuesData = uSort.getSortedObject(valuesData);
+          } else if (sourceData === uConst.get("NOTE_CONFIG_SOURCE_TYPE_VALUES_TYPE_SAME_CHALLENGE_TYPE_SORTED")) {
+            valuesData = getSameChallengeTypeValuesData(valuesData, rowId, challengeType, noteIndex);
             valuesData = uSort.getSortedObject(valuesData);
           } else {
             valuesData = Object.entries(valuesData);
@@ -4006,7 +4010,53 @@ requirejs(
     }
   }
 
-  function getLastYearOrTenChallengesValuesData(valuesData, challengeRowId, selectedNoteType) {
+  function getSameChallengeTypeValuesData(valuesData, challengeRowId, challengeType, selectedNoteTypeIndex) {
+    let result = {};
+
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
+    if (challengeRowId == uConst.get("EMPTY_ROW_ID")) {
+      challengeRowId = challenges.length;
+    }
+
+    let rowId = 0;
+    for (const challenge of challenges) {
+      rowId++;
+      if (rowId > challengeRowId) {
+        break;
+      }
+
+      const type = challenge.type;
+      const notes = challenge.notes;
+      const notesConfig = (challengesConfig[type] ?? {})[uConst.get("DATA_FIELD_NOTES")] ?? {};
+
+      if (type !== challengeType) {
+        continue;
+      }
+
+      for (const noteConfigId of Object.keys(notesConfig)) {
+        let level = 0;
+        for (const noteType in (notesConfig[noteConfigId] ?? {}).type ?? {}) {
+          level++;
+
+          const noteTypeIndex = (notesTypesConfig[noteType] ?? {}).index ?? '';
+          if (noteTypeIndex !== selectedNoteTypeIndex) {
+            continue;
+          }
+          const noteIds = getNotesIdsForLevel(notes[noteConfigId] ?? [], level);
+          for (const noteId of Object.keys(noteIds)) {
+            const value = valuesData[noteId] ?? null;
+            if (value != null) {
+              result[noteId] = value;
+            }
+          }
+        }
+      }
+    }
+
+    return result;
+  }
+
+  function getLastYearOrTenChallengesValuesData(valuesData, challengeRowId, selectedNoteTypeIndex) {
     let result = {};
 
     const lastMiliseconds = (366 + 60) * 24 * 60 * 60 * 1000; //60 days more to now hide movable feasts to early
@@ -4040,7 +4090,8 @@ requirejs(
         for (const noteType in (notesConfig[noteConfigId] ?? {}).type ?? {}) {
           level++;
 
-          if (noteType !== selectedNoteType) {
+          const noteTypeIndex = (notesTypesConfig[noteType] ?? {}).index ?? '';
+          if (noteTypeIndex !== selectedNoteTypeIndex) {
             continue;
           }
           const noteIds = getNotesIdsForLevel(notes[noteConfigId] ?? [], level);
