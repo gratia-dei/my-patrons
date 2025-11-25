@@ -228,6 +228,16 @@
         "pl": "<strong>przesuń wyzwanie</strong> w górę"
     },
 
+    "lang-addition-name-for-feasts": {
+        "en": "feast",
+        "pl": "święto"
+    },
+
+    "lang-addition-name-for-forenames": {
+        "en": "forename",
+        "pl": "imię"
+    },
+
     "lang-add-new-challenge": {
         "en": "add new challenge",
         "pl": "dodaj nowe wyzwanie"
@@ -2219,38 +2229,38 @@
     },
 
     "lang-weekday-abbreviation-monday": {
-        "en": "Mo.",
-        "pl": "Pn."
+        "en": "Mo",
+        "pl": "Pn"
     },
 
     "lang-weekday-abbreviation-tuesday": {
-        "en": "Tu.",
-        "pl": "Wt."
+        "en": "Tu",
+        "pl": "Wt"
     },
 
     "lang-weekday-abbreviation-wednesday": {
-        "en": "We.",
-        "pl": "Śr."
+        "en": "We",
+        "pl": "Śr"
     },
 
     "lang-weekday-abbreviation-thursday": {
-        "en": "Th.",
-        "pl": "Cz."
+        "en": "Th",
+        "pl": "Cz"
     },
 
     "lang-weekday-abbreviation-friday": {
-        "en": "Fr.",
-        "pl": "Pt."
+        "en": "Fr",
+        "pl": "Pt"
     },
 
     "lang-weekday-abbreviation-saturday": {
-        "en": "Sa.",
-        "pl": "So."
+        "en": "Sa",
+        "pl": "So"
     },
 
     "lang-weekday-abbreviation-sunday": {
-        "en": "Su.",
-        "pl": "Nd."
+        "en": "Su",
+        "pl": "Nd"
     },
 
     "lang-weekday-monday": {

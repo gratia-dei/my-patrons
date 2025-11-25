@@ -165,6 +165,7 @@ requirejs(
     .set("IMPORT_MARKDOWN_DESCRIPTION_TRIES", 10)
     .set("IMPORT_MARKDOWN_DESCRIPTION_TRIES_SLEEP_MILISECONDS", 3000)
 
+    .set("CHALLENGE_ITEM_ADDITION_NAME_LANG_PREFIX", 'lang-addition-name-for-')
     .set("CHALLENGE_ITEM_CHALLENGE_STATUS_INFO_LANG_PREFIX", 'lang-challenge-status-')
     .set("CHALLENGE_ITEM_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-action-button-')
     .set("CHALLENGE_ITEM_NOTE_ACTION_BUTTON_INFO_LANG_PREFIX", 'lang-note-action-button-')
@@ -1322,6 +1323,7 @@ requirejs(
         .replace(/#number#/g, rowData.number)
         .replace(/#person-url#/g, rowData.personUrl)
         .replace(/#person#/g, getPersonDataName(rowData.personUrl))
+        .replace(/#addition-name#/g, getAdditionNamePrefix(rowData.additionUrl))
         .replace(/#addition-url#/g, rowData.additionUrl.length > 0 ? rowData.additionUrl : '')
         .replace(/#addition#/g, rowData.additionUrl.length > 0 ? getPersonDataAdditionName(rowData.personUrl, additionType, rowData.additionUrl) : '')
       ;
@@ -1828,6 +1830,16 @@ requirejs(
     const data = ((personsData[personId] ?? {})[additionType] ?? {})[additionId] ?? {};
 
     return uLanguage.getTranslation(uConst.get("PERSONS_DATA_FIELD_NAMES"), true, data[uConst.get("PERSONS_DATA_FIELD_NAMES")] ?? []);
+  }
+
+  function getAdditionNamePrefix(additionUrl) {
+    if (additionUrl === '') {
+      return '';
+    }
+
+    const additionType = additionUrl.split('/')[0];
+
+    return uLanguage.getTranslation(uConst.get("CHALLENGE_ITEM_ADDITION_NAME_LANG_PREFIX") + additionType) + ':';
   }
 
   function getChallengeTypeName(challengeTypeId) {
@@ -3115,6 +3127,7 @@ requirejs(
         .replace(/#number#/g, number.toString())
         .replace(/#person-url#/g, personUrl)
         .replace(/#person#/g, getPersonDataName(personUrl))
+        .replace(/#addition-name#/g, getAdditionNamePrefix(additionUrl))
         .replace(/#addition-url#/g, additionUrl.length > 0 ? additionUrl : '')
         .replace(/#addition#/g, additionUrl.length > 0 ? getPersonDataAdditionName(personUrl, additionType, additionUrl) : '')
       ;

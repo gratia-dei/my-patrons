@@ -741,6 +741,72 @@
     }
   },
 
+  "DN": {
+    "name": {
+      "pl": "Imię Patrona"
+    },
+    "selectable": false,
+    "description": {
+      "params": [],
+      "template": {
+        "pl": "pl/wyzwania/imie-patrona"
+      }
+    },
+    "numbers": true,
+    "uniqueness": [
+      ["person", "addition"]
+    ],
+    "addition-type": "forenames",
+    "person": {
+      "types": ["Patrons"],
+      "description": {
+        "params": [],
+        "template": {
+          "pl": "pl/osoby/imie-patrona"
+        }
+      },
+      "requirements": {
+        "person-addition-is-not-empty": true,
+        "anybody-having-challenges": ["R"],
+        "person-having-challenges": ["R"],
+        "person-addition-not-having-challenges": ["DN"]
+      }
+    },
+    "checklist": {
+
+
+
+      "note": {
+        "to-complete-on-selected-date": false,
+        "required": false,
+        "name": {
+          "pl": "uzupełnij dowolne notatki"
+        },
+        "description": {
+          "params": ["row-id"],
+          "template": {
+            "pl": "pl/kroki/uzupelnij-dowolne-notatki"
+          }
+        }
+      }
+    },
+    "notes": {
+
+
+
+
+      "other": {
+        "type": {
+          "description": [0, 0]
+        },
+        "name": {
+          "en": "additional information",
+          "pl": "informacje dodatkowe"
+        }
+      }
+    }
+  },
+
   "EF": {
     "name": {
       "pl": "Cykl Pobożności: Nabożeństwo IX Pierwszych Piątków Miesiąca"
