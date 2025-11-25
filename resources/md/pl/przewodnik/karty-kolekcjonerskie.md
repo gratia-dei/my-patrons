@@ -7,5 +7,4 @@ Jeżeli inicjatywa **_„Moi Patroni”_** spotka się z szerszym zainteresowani
 Przejdź do strony [Karty Kolekcjonerskie](/collectible-cards).
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Patroni Imienia](/guide/name-patrons) - już wkrótce ...-->
+&gt;&gt;&gt; [Patroni Imion](/guide/name-patrons) - opiekują się Tobą od dawna, a czy Ty o nich pamiętasz?

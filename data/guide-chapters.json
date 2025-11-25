@@ -100,11 +100,11 @@
 
     "name-patrons": {
         "name": {
-            "pl": "Patroni Imienia"
+            "pl": "Patroni Imion"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/patroni-imienia"
+                "pl": "pl/przewodnik/patroni-imion"
             }
         }
     },

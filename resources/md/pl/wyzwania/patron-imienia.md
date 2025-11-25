@@ -2,7 +2,7 @@
 
 Dzięki temu będziesz mógł zwrócić na Niego Twoją większą uwagę, może przypomnisz sobie o Jego istnieniu, jeśli nie było to dla Ciebie ważne do tej pory, a może nawet będziesz mieć okazję dokonania wyboru Patrona Imienia **na stałe**, jeśli nie było to do tej pory uczynione lub nikt nie pamiętał, kim On był.
 
-Potwierdzając wybór Patrona Opiekuna, **prosisz Go** o dalsze Jego wstawiennictwo i pomoc w Twoim życiu, a także **dziękujesz Mu** za wszystko, co do tej pory dobrego wyprosił dla Ciebie u Boga.
+Potwierdzając wybór Patrona Imienia, **prosisz Go** o dalsze Jego wstawiennictwo i pomoc w Twoim życiu, a także **dziękujesz Mu** za wszystko, co do tej pory dobrego wyprosił dla Ciebie u Boga.
 
 Pamiętaj, że można potwierdzić maksymalnie **jednego Patrona Imienia** dla każdego z nadanych Tobie imion!
 
