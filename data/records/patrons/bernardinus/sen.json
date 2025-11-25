@@ -1,32 +1,47 @@
 {
-  "names": {
-    "it": [
-      "Bernardino da Siena",
-      "Bernardino degli Albizzeschi"
-    ],
-    "en": [
-      "Bernardine of Siena"
-    ],
-    "la": [
-      "Bernardinus Senensis"
-    ],
-    "pl": [
-      "Bernardyn ze Sieny"
-    ]
-  },
+    "names": {
+        "it": [
+            "Bernardino da Siena",
+            "Bernardino degli Albizzeschi"
+        ],
+        "la": [
+            "Bernardinus Senensis"
+        ],
+        "en": [
+            "Bernardine of Siena"
+        ],
+        "pl": [
+            "Bernardyn ze Sieny"
+        ]
+    },
+    "forenames": ["bernardinus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1380-09-08"],
-  "died": ["1444-05-20"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1450-05-24"
-  },
+    "born": ["1380-09-08"],
+    "died": ["1444-05-20"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["05-20"],
+    "categories": ["vir", "confessor", "sacerdos", "presbyter"],
 
-  "forenames": ["bernardinus"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter"],
+    "data-links": {
+        "mr-1584": ["1:Mai./20#7"],
+        "mr-1584-movable": [],
 
-  "order": ["ofm"]
+        "mr-1956": ["1:Maji/20#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/20#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68710",
+        "wiki": "https://pl.wikipedia.org/wiki/Bernardyn_ze_Sieny"
+    }
 }

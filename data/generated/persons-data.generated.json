@@ -3833,11 +3833,11 @@
         }
     },
     "patrons/bernardinus/sen": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Bernardino da Siena",
-            "en": "Bernardine of Siena",
             "la": "Bernardinus Senensis",
+            "en": "Bernardine of Siena",
             "pl": "Bernardyn ze Sieny"
         },
         "died": [

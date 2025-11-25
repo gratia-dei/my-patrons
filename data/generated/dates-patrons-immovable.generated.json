@@ -3822,6 +3822,20 @@
         }
     },
     "05-20": {
+        "records/patrons/bernardinus/sen": {
+            "name": {
+                "it": "Bernardino da Siena",
+                "la": "Bernardinus Senensis",
+                "en": "Bernardine of Siena",
+                "pl": "Bernardyn ze Sieny"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 V",
+                "mr-1584": "20 V: #7",
+                "mr-1956": "20 V: #1",
+                "mr-2004": "20 V: #1"
+            }
+        },
         "records/patrons/lydia/thy": {
             "name": {
                 "la": "Lydia Thyatirensis",
