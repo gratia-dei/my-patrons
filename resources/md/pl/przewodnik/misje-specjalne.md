@@ -4,11 +4,11 @@
 **Podejmowane przez Ciebie pewne pobożne działania**, których wykonanie zawierzasz Świętym i Błogosławionym, nazywamy (w inicjatywie _„Moi Patroni”)_ **Misjami Specjalnymi**. Współpraca z Patronami zwiększa skuteczność Twoich działań, gdyż mogą Oni wypraszać u Boga dużo więcej niż gdybyś Ty robił to sam.
 
 W ramach inicjatywy _„Moi Patroni”_ mamy:
-- **Misje Apostoła**,
-- **Misje Wierności** (wkrótce),
-- **Misje Odpustu** (wkrótce),
-- **Misje Posłańca**,
-- **Misje Pobożności**.
+- **Misje Apostoła** - krzewienie inicjatywy **_„Moi Patroni”_**,
+- **Misje Wierności** (wkrótce) - codzienność blisko Boga i Świętych, w modlitwie i nie tylko,
+- **Misje Odpustu** (wkrótce) - uzyskiwanie odpustów za zmarłych,
+- **Misje Posłańca** - niesienie Świętego innym ludziom i pośredniczenie w zapraszaniu go jako **Patrona Orędownika**,
+- **Misje Pobożności** - aktywność w nabożeństwah i innych aktach pobożności.
 
 Misje Specjalne **są niezależne od procesu zapraszania** Świętych i Błogosławionych do grona osobistych Patronów, który to proces opisaliśmy na kolejnych stronach tego przewodnika.
 
