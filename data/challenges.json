@@ -2077,6 +2077,19 @@
           }
         }
       },
+      "silence": {
+        "to-complete-on-selected-date": false,
+        "required": true,
+        "name": {
+          "pl": "ćwicz się w cnocie milczenia"
+        },
+        "description": {
+          "params": ["person-name"],
+          "template": {
+            "pl": "pl/kroki/cwicz-sie-w-cnocie-milczenia"
+          }
+        }
+      },
       "note": {
         "to-complete-on-selected-date": false,
         "required": false,
