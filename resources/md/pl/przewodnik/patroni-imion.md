@@ -37,5 +37,4 @@ Potwierdziłeś wybranego Świętego lub Błogosławionego jako Twojego **Patron
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patroni Imienia [YN]”_**.
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Misje Wierności](/guide/missions-of-faithfulness) - już wkrótce ...-->
+&gt;&gt;&gt; [Misje Wierności](/guide/missions-of-faithfulness) - już wkrótce ...

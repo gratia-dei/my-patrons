@@ -228,5 +228,16 @@
                 "pl": "pl/przewodnik/patroni-przewodnicy"
             }
         }
+    },
+
+    "favourite-patrons": {
+        "name": {
+            "pl": "Ulubieni Patroni"
+        },
+        "description": {
+            "template": {
+                "pl": "pl/przewodnik/ulubieni-patroni"
+            }
+        }
     }
 }
