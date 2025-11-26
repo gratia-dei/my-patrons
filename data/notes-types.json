@@ -656,6 +656,15 @@
     },
     "hint": {}
   },
+  "source-of-knowledge-description": {
+    "index": "sources-of-knowledge-descriptions",
+    "name": {
+      "en": "source of knowledge description",
+      "pl": "opis źródła wiedzy"
+    },
+    "source": {},
+    "hint": {}
+  },
   "time": {
     "index": "times",
     "name": {

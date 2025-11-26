@@ -2094,7 +2094,8 @@
     "notes": {
       "source": {
         "type": {
-          "source-of-knowledge": [0, 0]
+          "source-of-knowledge": [0, 0],
+          "source-of-knowledge-description": [0, 0]
         },
         "name": {
           "pl": "źródło wiedzy o Patronie"
@@ -2203,7 +2204,8 @@
       },
       "source": {
         "type": {
-          "source-of-knowledge": [0, 0]
+          "source-of-knowledge": [0, 0],
+          "source-of-knowledge-description": [0, 0]
         },
         "name": {
           "pl": "źródło cytatu"
