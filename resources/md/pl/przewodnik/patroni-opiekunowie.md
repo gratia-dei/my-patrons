@@ -54,10 +54,13 @@ Dla wszystkich swoich zaproszonych **Patronów Opiekunów** możesz wykonywać t
 - **[TP] Miejsce Świeckie** - odwiedź miejsce świeckie pod patronatem Patrona Opiekuna,
 - **[TH] Rękodzieło** - wykonaj rękodzieło z wizerunkiem Patrona Opiekuna,
 - **[TS] Selfie z Patronem** - zrób sobie selfie lub zdjęcie z dowolnym wizerunkiem Patrona Opiekuna,
-- ... **i kolejne wyzwania**, które powstaną dla Patronów Opiekunów! Planowane jest tu m.in. wyzwanie **[DA] Atrybut Patrona**, polegające na znalezieniu wizerunku Patrona z wybranym przypisanym do niego **atrybutem** (np. palmą męczeńską).
+- ... **i kolejne wyzwania**, które powstaną dla Patronów Opiekunów, np. wyzwanie **[DA] Atrybut Patrona** (patrz niżej).
+
+## O atrybutach Patrona ##
+Planujemy wkrótce udostępnić wyzwanie **[DA] Atrybut Patrona**, polegające na jednokrotnym znajdowaniu wizerunku Patrona z jakimkolwiek przypisanym do niego **atrybutem**, np. palmą męczeńską, kluczem, księgą, itp.
 
 ## Więcej informacji ##
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Opiekun [T]”_** lub innego wyzwania z powyższej listy.
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Komu możemy przypisywać wyzwania](/guide/who-can-we-assign-the-challenges-to) - skoro już wspomnieliśmy o **atrybutach**, warto powiedzieć jakie rodzaje informacji o osobach można w ogóle przypisywać do wyzwań.
+&gt;&gt;&gt; [Moi Patroni](/guide/my-patrons) - skoro poznaliśmy już **Patronów Opiekunów**, warto teraz spojrzeć nieco szerzej na cały proces zapraszania Patronów!

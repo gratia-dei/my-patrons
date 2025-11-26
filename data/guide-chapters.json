@@ -65,17 +65,6 @@
         }
     },
 
-    "who-can-we-assign-the-challenges-to": {
-        "name": {
-            "pl": "Komu możemy przypisywać wyzwania?"
-        },
-        "description": {
-            "template": {
-                "pl": "pl/przewodnik/komu-mozemy-przypisywac-wyzwania"
-            }
-        }
-    },
-
     "my-patrons": {
         "name": {
             "pl": "Moi Patroni"
