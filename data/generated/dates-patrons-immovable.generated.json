@@ -5239,6 +5239,19 @@
                 "mr-2004": "16 VII: #12"
             }
         },
+        "records/patrons/bartholomaeus/fer": {
+            "name": {
+                "pt": "Bartolomeu dos Mártires",
+                "la": "Bartholomaeus a Martyribus Fernandes",
+                "en": "Bartholomew of the Martyrs",
+                "pl": "Bartłomiej Fernandes od Męczenników"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 VII",
+                "feast": "16 VII",
+                "mr-2004": "16 VII: #10"
+            }
+        },
         "records/patrons/dominicus/car": {
             "name": {
                 "pt": "Domingos Carvalho",

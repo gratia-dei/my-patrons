@@ -1,50 +1,65 @@
 {
-  "names": {
-    "pt": [
-      "Bartolomeu dos Mártires"
+    "names": {
+        "pt": [
+            "Bartolomeu dos Mártires"
+        ],
+        "la": [
+            "Bartholomaeus a Martyribus Fernandes"
+        ],
+        "en": [
+            "Bartholomew of the Martyrs",
+            "Bartholomew of Braga"
+        ],
+        "pl": [
+            "Bartłomiej Fernandes od Męczenników",
+            "Bartłomiej z Bragi"
+        ]
+    },
+    "forenames": ["bartholomaeus"],
+    "surnames": [
+        {
+            "pt": "Fernandes"
+        }
     ],
-    "en": [
-      "Bartholomew of the Martyrs",
-      "Bartholomew of Braga"
+    "epithets": [
+        {
+            "pt": "dos Mártires",
+            "en": "of the Martyrs",
+            "la": "a Martyribus",
+            "pl": "od Męczenników"
+        }
     ],
-    "la": [
-      "Bartholomaeus a Martyribus Fernandes"
-    ],
-    "pl": [
-      "Bartłomiej Fernandes od Męczenników",
-      "Bartłomiej z Bragi"
-    ]
-  },
 
-  "surnames": [
-    {
-      "pt": "Fernandes"
+    "active": true,
+
+    "born": ["1514-05-03"],
+    "died": ["1590-07-16"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-11-04"
+    },
+    "canonized": {
+        "type": "equipollently",
+        "date": "2019-07-05"
+    },
+    "anniversary": ["07-16"],
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./16#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/bartolomeu-fernandes-dos-martires.html",
+        "gcatholic": "https://gcatholic.org/p/15589",
+        "wiki": "https://pl.wikipedia.org/wiki/Bart%C5%82omiej_Fernandes_od_M%C4%99czennik%C3%B3w"
     }
-  ],
-
-  "epithets": [
-    {
-      "pt": "dos Mártires",
-      "en": "of the Martyrs",
-      "la": "a Martyribus",
-      "pl": "od Męczenników"
-    }
-  ],
-
-  "born": ["1514-05-03"],
-  "died": ["1590-07-16"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-11-04"
-  },
-  "canonized": {
-    "type": "equipollently",
-    "date": "2019-07-05"
-  },
-
-  "also-in-martyrology": ["07-16"],
-
-  "forenames": ["bartholomaeus"],
-  "categories": ["vir", "episcopus"]
 }
