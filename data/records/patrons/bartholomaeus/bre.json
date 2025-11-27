@@ -1,32 +1,47 @@
 {
-  "names": {
-    "it": [
-      "Bartolomeo da Breganze"
-    ],
-    "en": [
-      "Bartholomew of Breganze"
-    ],
-    "la": [
-      "Bartholomaeus de Bregantia"
-    ],
-    "pl": [
-      "Bartłomiej z Vicenzy",
-      "Bartłomiej z Breganze"
-    ]
-  },
+    "names": {
+        "it": [
+            "Bartolomeo da Breganze"
+        ],
+        "la": [
+            "Bartholomaeus de Bregantia"
+        ],
+        "en": [
+            "Bartholomew of Breganze"
+        ],
+        "pl": [
+            "Bartłomiej z Vicenzy",
+            "Bartłomiej z Breganze"
+        ]
+    },
+    "forenames": ["bartholomaeus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1200"],
-  "died": ["1270"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1793-09-11"
-  },
+    "born": ["~1200"],
+    "died": ["1270"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["10-27"],
+    "categories": ["vir", "episcopus", "institutor"],
 
-  "forenames": ["bartholomaeus"],
-  "categories": ["vir", "episcopus", "institutor"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["op"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./27#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/43544",
+        "wiki": "https://pl.wikipedia.org/wiki/Bart%C5%82omiej_z_Vicenzy"
+    }
 }

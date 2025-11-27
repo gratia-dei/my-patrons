@@ -3490,11 +3490,11 @@
         }
     },
     "patrons/bartholomaeus/bre": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Bartolomeo da Breganze",
-            "en": "Bartholomew of Breganze",
             "la": "Bartholomaeus de Bregantia",
+            "en": "Bartholomew of Breganze",
             "pl": "Bartłomiej z Vicenzy"
         },
         "died": [

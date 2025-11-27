@@ -9583,6 +9583,19 @@
             }
         }
     },
+    "10-27": {
+        "records/patrons/bartholomaeus/bre": {
+            "name": {
+                "it": "Bartolomeo da Breganze",
+                "la": "Bartholomaeus de Bregantia",
+                "en": "Bartholomew of Breganze",
+                "pl": "Bartłomiej z Vicenzy"
+            },
+            "sources": {
+                "mr-2004": "27 X: #6"
+            }
+        }
+    },
     "10-28": {
         "records/patrons/simon/apo": {
             "name": {
