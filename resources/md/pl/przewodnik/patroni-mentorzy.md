@@ -62,5 +62,4 @@ Planujemy wkrótce udostępnić wyzwanie **[DC] Kategoria Patrona**, związane z
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Mentor [N]”_** lub innego wyzwania z powyższej listy.
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Sakramenty](/guide/sacraments) - już wkrótce ...-->
+&gt;&gt;&gt; [Sakramenty](/guide/sacraments) - przypomnij sobie, kiedy przyjmowałeś każdy z nich **po raz pierwszy**.

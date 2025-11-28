@@ -131,17 +131,6 @@
         }
     },
 
-    "holy-confessions": {
-        "name": {
-            "pl": "Spowiedzi Święte"
-        },
-        "description": {
-            "template": {
-                "pl": "pl/przewodnik/spowiedzi-swiete"
-            }
-        }
-    },
-
     "defender-patrons": {
         "name": {
             "pl": "Patroni Obrońcy"
