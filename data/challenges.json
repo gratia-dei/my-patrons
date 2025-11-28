@@ -2166,19 +2166,6 @@
       }
     },
     "checklist": {
-      "meditation": {
-        "to-complete-on-selected-date": false,
-        "required": true,
-        "name": {
-          "pl": "rozważaj cytat Patrona"
-        },
-        "description": {
-          "params": [],
-          "template": {
-            "pl": "pl/kroki/rozwazaj-cytat-patrona"
-          }
-        }
-      },
       "prayer": {
         "to-complete-on-selected-date": false,
         "required": true,
@@ -2189,6 +2176,19 @@
           "params": [],
           "template": {
             "pl": "pl/kroki/pomodl-sie-do-patrona"
+          }
+        }
+      },
+      "meditation": {
+        "to-complete-on-selected-date": false,
+        "required": true,
+        "name": {
+          "pl": "rozważaj cytat Patrona"
+        },
+        "description": {
+          "params": [],
+          "template": {
+            "pl": "pl/kroki/rozwazaj-cytat-patrona"
           }
         }
       },
