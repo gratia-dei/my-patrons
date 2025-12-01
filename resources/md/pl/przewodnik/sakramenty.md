@@ -31,5 +31,4 @@ Dostępne wyzwanie **[SPA] Spowiedź Święta** daje Uczestnikowi możliwość z
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz którykolwiek powyższy typ wyzwania.
 
 ## Co dalej? ##
-Już wkrótce pojawią się tutaj opisy kolejnych obszarów inicjatywy.
-<!--&gt;&gt;&gt; [Patroni Obrońcy](/guide/defender-patrons) - już wkrótce ...-->
+&gt;&gt;&gt; [Patroni Obrońcy](/guide/defender-patrons) - szukaj **Patronów** w naszym Kościele.
