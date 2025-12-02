@@ -5658,6 +5658,56 @@
             }
         }
     },
+    "patrons/clementina": {
+        "names": {
+            "la": "Clementina",
+            "en": "Clementine",
+            "pl": "Klementyna",
+            "fr": "Clémentine"
+        }
+    },
+    "patrons/clementina/nen": {
+        "active": true,
+        "names": {
+            "fr": "Clémentine Anuarite Nengapeta",
+            "la": "Clementina Nengapeta Anuarite",
+            "en": "Clementine Anuarite Nengapeta",
+            "pl": "Klementyna Anuarita Nengapeta"
+        },
+        "died": [
+            "1964-12-01"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/clementina": {
+                "active": true,
+                "names": {
+                    "la": "Clementina",
+                    "en": "Clementine",
+                    "pl": "Klementyna",
+                    "fr": "Clémentine"
+                }
+            },
+            "forenames/nengapeta": {
+                "active": true,
+                "names": {
+                    "la": "Nengapeta",
+                    "en": "Nengapeta",
+                    "pl": "Nengapeta",
+                    "fr": "Nengapeta"
+                }
+            },
+            "forenames/anuarite": {
+                "active": true,
+                "names": {
+                    "la": "Anuarite",
+                    "en": "Anuarite",
+                    "pl": "Anuarita",
+                    "fr": "Anuarite"
+                }
+            }
+        }
+    },
     "patrons/coleta": {
         "names": {
             "la": "Coleta",

@@ -10577,6 +10577,19 @@
         }
     },
     "12-01": {
+        "records/patrons/clementina/nen": {
+            "name": {
+                "fr": "Clémentine Anuarite Nengapeta",
+                "la": "Clementina Nengapeta Anuarite",
+                "en": "Clementine Anuarite Nengapeta",
+                "pl": "Klementyna Anuarita Nengapeta"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 XII",
+                "feast": "1 XII",
+                "mr-2004": "1 XII: #14"
+            }
+        },
         "records/patrons/nahum/pro": {
             "name": {
                 "he": "נחום, הנביא",

@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Anuarite",
+        "en": "Anuarite",
+        "fr": "Anuarite"
+    },
+    "translations": {
+        "la": [
+            "Anuarite"
+        ],
+        "en": [
+            "Anuarite"
+        ],
+        "pl": [
+            "Anuarita"
+        ],
+        "fr": [
+            "Anuarite"
+        ]
+    },
+    "links": {
+        "records/patrons/clementina/nen": {
+            "fr": "Clémentine Anuarite Nengapeta",
+            "la": "Clementina Nengapeta Anuarite",
+            "en": "Clementine Anuarite Nengapeta",
+            "pl": "Klementyna Anuarita Nengapeta"
+        }
+    }
+}
