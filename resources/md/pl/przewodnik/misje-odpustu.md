@@ -1,10 +1,7 @@
-**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Spowiedzi Święte](/guide/holy-confessions) oraz brak przeciwskazań do przyjmowania Komunii Świętej.
+**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Misje Specjalne](/guide/special-missions) oraz [Sakramenty](/guide/sacraments).
 
 ---
-Już wkrótce ...
-
-## Więcej informacji ##
-Już wkrótce ...
+Opis **Misji Odpustu** pojawi się wkrótce ...
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Misje Posłańca](/guide/messengers-missions) - już wkrótce ...
+&gt;&gt;&gt; [Misje Posłańca](/guide/messenger-missions) - nieś Patronów innym!

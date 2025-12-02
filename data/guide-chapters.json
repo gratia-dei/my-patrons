@@ -32,7 +32,7 @@
         }
     },
 
-    "apostles-missions": {
+    "apostle-missions": {
         "name": {
             "pl": "Misje Apostoła"
         },
@@ -153,7 +153,7 @@
         }
     },
 
-    "messengers-missions": {
+    "messenger-missions": {
         "name": {
             "pl": "Misje Posłańca"
         },

@@ -1,4 +1,4 @@
-**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Misje Posłańca](/guide/messengers-missions).
+**UWAGA!** Aby użyć w praktyce i w pełni zrozumieć poniższy tekst, wymagana jest uprzednia znajomość obszaru [Misje Posłańca](/guide/messenger-missions).
 
 ---
 Już wkrótce ...

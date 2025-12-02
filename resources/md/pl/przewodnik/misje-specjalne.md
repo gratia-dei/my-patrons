@@ -13,4 +13,4 @@ W ramach inicjatywy _„Moi Patroni”_ mamy:
 Misje Specjalne **są niezależne od procesu zapraszania** Świętych i Błogosławionych do grona osobistych Patronów, który to proces opisaliśmy na kolejnych stronach tego przewodnika.
 
 ## Co dalej? ##
-&gt;&gt;&gt; [Misje Apostoła](/guide/apostles-missions) - warto je poznać na początku i pamiętać o możliwości ich wykonywania, bo mogą Ci się przydać w każdym momencie!
+&gt;&gt;&gt; [Misje Apostoła](/guide/apostle-missions) - warto je poznać na początku i pamiętać o możliwości ich wykonywania, bo mogą Ci się przydać w każdym momencie!
