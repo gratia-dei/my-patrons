@@ -25565,11 +25565,11 @@
         }
     },
     "patrons/veronica/hie": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Veronica",
-            "en": "Veronica",
-            "pl": "Weronika"
+            "la": "Veronica Hierosolymitana",
+            "en": "Veronica of Jerusalem",
+            "pl": "Weronika z Jerozolimy"
         },
         "died": [
             "<100"
