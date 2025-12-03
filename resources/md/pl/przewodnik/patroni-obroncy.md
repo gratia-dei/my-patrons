@@ -60,6 +60,15 @@ Dzięki temu możliwe będzie lepsze poznanie jakiegoś **konkretnego aspektu** 
 - **szerszych pojęć** grupujących wielu Patronów, np. Święta Rodzina,
 - innych **aspektów**, nie dotyczących Patronów w ogólności.
 
+Jednym z kroków tego wyzwania jest poniższa **modlitwa dziękczynna**:
+> Dziękuję Ci, Jezu,  
+> za ustanowienie święta _**[nazwa święta]**_,  
+> proszę o Twoją pomoc  
+> w lepszym zrozumieniu jego znaczenia  
+> oraz w czerpaniu wielkiej radości, mądrości i duchowego pożytku  
+> z uczestniczenia w nim dzięki Kościołowi Świętemu.  
+> Amen.
+
 ## Więcej informacji ##
 W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Obrońca [A]”_** lub innego wyzwania z powyższej listy.
 
