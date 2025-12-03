@@ -10751,6 +10751,18 @@
                 "mr-2004": "8 XII: #11"
             }
         },
+        "records/patrons/iosephus/zab": {
+            "name": {
+                "es": "José María Zabal Blasco",
+                "la": "Iosephus Maria Zabal Blasco",
+                "en": "Joseph Mary Zabal Blasco",
+                "pl": "Józef Maria Zabal Blasco"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XII",
+                "mr-2004": "8 XII: #10"
+            }
+        },
         "records/patrons/natalis/cha": {
             "name": {
                 "fr": "Noël Chabanel",

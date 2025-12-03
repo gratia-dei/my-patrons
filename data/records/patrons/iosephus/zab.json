@@ -1,0 +1,56 @@
+{
+    "names": {
+        "es": [
+            "José María Zabal Blasco"
+        ],
+        "la": [
+            "Iosephus Maria Zabal Blasco"
+        ],
+        "en": [
+            "Joseph Mary Zabal Blasco"
+        ],
+        "pl": [
+            "Józef Maria Zabal Blasco"
+        ]
+    },
+    "forenames": ["iosephus", "maria"],
+    "surnames": [
+        {
+            "es": "Zabal"
+        },
+        {
+            "es": "Blasco"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1898-03-20"],
+    "died": ["1936-12-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-03-11"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "paterfamilias"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./8#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jose-aparicio-sanz-e-232-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/63971",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Maria_Zabal_Blasco"
+    }
+}

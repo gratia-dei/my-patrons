@@ -1,0 +1,18 @@
+{
+    "names": {
+        "es": "Blasco"
+    },
+    "translations": {
+        "es": [
+            "Blasco"
+        ]
+    },
+    "links": {
+        "records/patrons/iosephus/zab": {
+            "es": "José María Zabal Blasco",
+            "la": "Iosephus Maria Zabal Blasco",
+            "en": "Joseph Mary Zabal Blasco",
+            "pl": "Józef Maria Zabal Blasco"
+        }
+    }
+}

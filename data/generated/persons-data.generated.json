@@ -13618,6 +13618,51 @@
             }
         }
     },
+    "patrons/iosephus/zab": {
+        "active": true,
+        "names": {
+            "es": "José María Zabal Blasco",
+            "la": "Iosephus Maria Zabal Blasco",
+            "en": "Joseph Mary Zabal Blasco",
+            "pl": "Józef Maria Zabal Blasco"
+        },
+        "died": [
+            "1936-12-08"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iosephus": {
+                "active": true,
+                "names": {
+                    "la": "Iosephus",
+                    "en": "Joseph",
+                    "pl": "Józef",
+                    "es": "José",
+                    "fr": "Joseph",
+                    "it": "Giuseppe",
+                    "ko": "요셉",
+                    "nl": "Jozef",
+                    "vi": "Giuse",
+                    "zh": "若瑟"
+                }
+            },
+            "forenames/maria": {
+                "active": true,
+                "names": {
+                    "la": "Maria",
+                    "en": "Mary",
+                    "pl": "Maria",
+                    "arc": "ܡܪܝܡ",
+                    "de": "Maria",
+                    "el": "Μαρία",
+                    "es": "María",
+                    "fr": "Marie",
+                    "it": "Maria",
+                    "ko": "마리아"
+                }
+            }
+        }
+    },
     "patrons/iosephus/zap": {
         "active": true,
         "names": {
@@ -14222,7 +14267,7 @@
                 "active": true,
                 "names": {
                     "la": "Cunegundis",
-                    "en": "CUnegunda",
+                    "en": "Cunegunda",
                     "pl": "Kunegunda"
                 }
             }
