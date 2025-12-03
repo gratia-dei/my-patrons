@@ -219,6 +219,12 @@
             "en": "Anthony Daveluy",
             "pl": "Antoni Daveluy"
         },
+        "records/patrons/antonius/mar": {
+            "es": "Antonio Martín Hernández",
+            "la": "Antonius Martín Hernández",
+            "en": "Anthony Martín Hernández",
+            "pl": "Antoni Martín Hernández"
+        },
         "records/patrons/antonius/rew": {
             "pl": "Antoni Rewera",
             "la": "Antonius Rewera",
@@ -260,6 +266,12 @@
             "la": "Augustinus Caloca Cortés",
             "en": "Augustine Caloca Cortés",
             "pl": "Augustyn Caloca Cortés"
+        },
+        "records/patrons/augustinus/gar": {
+            "es": "Agustín García Calvo",
+            "la": "Augustinus García Calvo",
+            "en": "Augustine García Calvo",
+            "pl": "Augustyn García Calvo"
         },
         "records/patrons/augustinus/zha": {
             "zh": "趙榮思定",

@@ -1,5 +1,6 @@
 {
     "names": {
+        "es": "Antonio",
         "it": "Antonio"
     },
     "translations": {
@@ -14,6 +15,9 @@
         ],
         "el": [
             "Ἀντώνιος"
+        ],
+        "es": [
+            "Antonio"
         ],
         "fr": [
             "Antoine"
@@ -75,6 +79,12 @@
             "la": "Antonius Pecherskii",
             "en": "Anthony of Kiev",
             "pl": "Antoni Pieczerski"
+        },
+        "records/patrons/antonius/mar": {
+            "es": "Antonio Martín Hernández",
+            "la": "Antonius Martín Hernández",
+            "en": "Anthony Martín Hernández",
+            "pl": "Antoni Martín Hernández"
         },
         "records/patrons/antonius/now": {
             "pl": "Antoni Julian Nowowiejski",

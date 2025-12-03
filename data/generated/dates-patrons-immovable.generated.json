@@ -10777,6 +10777,17 @@
         }
     },
     "12-09": {
+        "records/patrons/augustinus/gar": {
+            "name": {
+                "es": "Agustín García Calvo",
+                "la": "Augustinus García Calvo",
+                "en": "Augustine García Calvo",
+                "pl": "Augustyn García Calvo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 XII"
+            }
+        },
         "records/patrons/bernardus/sil": {
             "name": {
                 "it": "Bernardo Maria di Gesù",
@@ -10792,6 +10803,18 @@
         }
     },
     "12-10": {
+        "records/patrons/antonius/mar": {
+            "name": {
+                "es": "Antonio Martín Hernández",
+                "la": "Antonius Martín Hernández",
+                "en": "Anthony Martín Hernández",
+                "pl": "Antoni Martín Hernández"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 XII",
+                "mr-2004": "10 XII: #10"
+            }
+        },
         "records/patrons/eulalia/eme": {
             "name": {
                 "es": "Eulalia de Mérida",
@@ -10803,6 +10826,17 @@
                 "mr-1584": "10 XII: #3",
                 "mr-1956": "10 XII: #7",
                 "mr-2004": "10 XII: #1"
+            }
+        },
+        "records/patrons/augustinus/gar": {
+            "name": {
+                "es": "Agustín García Calvo",
+                "la": "Augustinus García Calvo",
+                "en": "Augustine García Calvo",
+                "pl": "Augustyn García Calvo"
+            },
+            "sources": {
+                "mr-2004": "10 XII: #10"
             }
         }
     },

@@ -2372,6 +2372,7 @@
             "en": "Anthony",
             "pl": "Antoni",
             "el": "Ἀντώνιος",
+            "es": "Antonio",
             "fr": "Antoine",
             "it": "Antonio",
             "pt": "Antônio",
@@ -2398,6 +2399,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2425,6 +2427,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2453,6 +2456,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2481,6 +2485,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2509,6 +2514,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2537,6 +2543,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2565,6 +2572,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2593,6 +2601,36 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
+                    "fr": "Antoine",
+                    "it": "Antonio",
+                    "pt": "Antônio",
+                    "uk": "Антоній"
+                }
+            }
+        }
+    },
+    "patrons/antonius/mar": {
+        "active": true,
+        "names": {
+            "es": "Antonio Martín Hernández",
+            "la": "Antonius Martín Hernández",
+            "en": "Anthony Martín Hernández",
+            "pl": "Antoni Martín Hernández"
+        },
+        "died": [
+            "1936-12-10"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/antonius": {
+                "active": true,
+                "names": {
+                    "la": "Antonius",
+                    "en": "Anthony",
+                    "pl": "Antoni",
+                    "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2620,6 +2658,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2657,6 +2696,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2685,6 +2725,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2727,6 +2768,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2754,6 +2796,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2781,6 +2824,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -2809,6 +2853,7 @@
                     "en": "Anthony",
                     "pl": "Antoni",
                     "el": "Ἀντώνιος",
+                    "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
                     "pt": "Antônio",
@@ -3119,6 +3164,31 @@
         },
         "died": [
             "1927-05-25"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/augustinus": {
+                "active": true,
+                "names": {
+                    "la": "Augustinus",
+                    "en": "Augustine",
+                    "pl": "Augustyn",
+                    "es": "Agustín",
+                    "zh": "思定"
+                }
+            }
+        }
+    },
+    "patrons/augustinus/gar": {
+        "active": true,
+        "names": {
+            "es": "Agustín García Calvo",
+            "la": "Augustinus García Calvo",
+            "en": "Augustine García Calvo",
+            "pl": "Augustyn García Calvo"
+        },
+        "died": [
+            "1936-12-09"
         ],
         "feasts": [],
         "forenames": {

@@ -1,0 +1,18 @@
+{
+    "names": {
+        "es": "Calvo"
+    },
+    "translations": {
+        "es": [
+            "Calvo"
+        ]
+    },
+    "links": {
+        "records/patrons/augustinus/gar": {
+            "es": "Agustín García Calvo",
+            "la": "Augustinus García Calvo",
+            "en": "Augustine García Calvo",
+            "pl": "Augustyn García Calvo"
+        }
+    }
+}
