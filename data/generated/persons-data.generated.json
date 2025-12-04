@@ -10724,7 +10724,42 @@
         "names": {
             "la": "Hyacinthus",
             "en": "Hyacinth",
-            "pl": "Jacek"
+            "pl": "Jacek",
+            "fr": "Hyacinthe"
+        }
+    },
+    "patrons/hyacinthus/cor": {
+        "active": true,
+        "names": {
+            "fr": "Hyacinthe-Marie Cormier",
+            "la": "Hyacinthus Cormier",
+            "en": "Hyacinth Mary Cormier",
+            "pl": "Jacek Maria Cormier"
+        },
+        "died": [
+            "1916-12-17"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/hyacinthus": {
+                "active": true,
+                "names": {
+                    "la": "Hyacinthus",
+                    "en": "Hyacinth",
+                    "pl": "Jacek",
+                    "fr": "Hyacinthe"
+                }
+            },
+            "forenames/henricus": {
+                "active": true,
+                "names": {
+                    "la": "Henricus",
+                    "en": "Henry",
+                    "pl": "Henryk",
+                    "es": "Enrique",
+                    "it": "Enrico"
+                }
+            }
         }
     },
     "patrons/hyacinthus/cra": {
@@ -10744,7 +10779,8 @@
                 "names": {
                     "la": "Hyacinthus",
                     "en": "Hyacinth",
-                    "pl": "Jacek"
+                    "pl": "Jacek",
+                    "fr": "Hyacinthe"
                 }
             }
         }

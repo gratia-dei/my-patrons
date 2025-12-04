@@ -3848,6 +3848,17 @@
         }
     },
     "05-21": {
+        "records/patrons/hyacinthus/cor": {
+            "name": {
+                "fr": "Hyacinthe-Marie Cormier",
+                "la": "Hyacinthus Cormier",
+                "en": "Hyacinth Mary Cormier",
+                "pl": "Jacek Maria Cormier"
+            },
+            "sources": {
+                "feast": "21 V"
+            }
+        },
         "records/patrons/christophorus/mag": {
             "name": {
                 "es": "Cristóbal Magallanes Jara",
@@ -10969,6 +10980,18 @@
         }
     },
     "12-17": {
+        "records/patrons/hyacinthus/cor": {
+            "name": {
+                "fr": "Hyacinthe-Marie Cormier",
+                "la": "Hyacinthus Cormier",
+                "en": "Hyacinth Mary Cormier",
+                "pl": "Jacek Maria Cormier"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 XII",
+                "mr-2004": "17 XII: #11"
+            }
+        },
         "records/patrons/ioannes/mat": {
             "name": {
                 "fr": "Jean de Matha",

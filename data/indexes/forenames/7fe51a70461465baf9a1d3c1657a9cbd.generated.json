@@ -11,9 +11,18 @@
         ],
         "pl": [
             "Jacek"
+        ],
+        "fr": [
+            "Hyacinthe"
         ]
     },
     "links": {
+        "records/patrons/hyacinthus/cor": {
+            "fr": "Hyacinthe-Marie Cormier",
+            "la": "Hyacinthus Cormier",
+            "en": "Hyacinth Mary Cormier",
+            "pl": "Jacek Maria Cormier"
+        },
         "records/patrons/hyacinthus/cra": {
             "pl": "Jacek Odrowąż",
             "la": "Hyacinthus Polonus",

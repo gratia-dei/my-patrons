@@ -1,0 +1,56 @@
+{
+    "names": {
+        "fr": [
+            "Hyacinthe-Marie Cormier"
+        ],
+        "la": [
+            "Hyacinthus Cormier",
+            "Henricus Cormier"
+        ],
+        "en": [
+            "Hyacinth Mary Cormier",
+            "Henry Cormier"
+        ],
+        "pl": [
+            "Jacek Maria Cormier",
+            "Henryk Cormier"
+        ]
+    },
+    "forenames": ["hyacinthus", "henricus"],
+    "surnames": [
+        {
+            "fr": "Cormier"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1832-12-08"],
+    "died": ["1916-12-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1994-11-20"
+    },
+    "canonized": null,
+    "anniversary": ["05-21"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./17#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/hyacinthe-marie-cormier.html",
+        "gcatholic": "https://gcatholic.org/p/24425",
+        "wiki": "https://pl.wikipedia.org/wiki/Jacek_Maria_Cormier"
+    }
+}
