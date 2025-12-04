@@ -219,13 +219,13 @@
         }
     },
 
-    "friend-patrons": {
+    "heart-patrons": {
         "name": {
-            "pl": "Patroni Przyjaciele"
+            "pl": "Patroni Serca"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/patroni-przyjaciele"
+                "pl": "pl/przewodnik/patroni-serca"
             }
         }
     },

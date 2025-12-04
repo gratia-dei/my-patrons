@@ -83,7 +83,7 @@ Należy pamiętać także, że **obliczanie większości zestawień zatrzymuje s
 ## Patroni Specjalni ##
 Oprócz wspomnianych na początku **6 ról Patrona**, inicjatywa _**„Moi Patroni”**_ umożliwia niezależnie także nadawanie Patronom **ról specjalnych**:
 - **[YN] Patron Imienia** - nasz imiennik wybrany np. na Chrzcie lub Bierzmowaniu,
-- **[YF] Patron Przyjaciel** (już wkrótce) - Patron zajmujący bardzo szczególne miejsce w naszym życiu.
+- **[YH] Patron Serca** (już wkrótce) - Patron zajmujący bardzo szczególne miejsce w naszym życiu.
 
 ## Litery: „MY PATRON” ##
 W inicjatywie **_„Moi Patroni”_** każde wyzwanie posiada swoje oznaczenie literowe:
