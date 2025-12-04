@@ -1,0 +1,59 @@
+{
+    "names": {
+        "it": [
+            "Maria Crocifissa Di Rosa"
+        ],
+        "la": [
+            "Maria Crucifixa De Rosa"
+        ],
+        "en": [
+            "Maria Crocifissa di Rosa"
+        ],
+        "pl": [
+            "Maria Krucyfiksa di Rosa"
+        ]
+    },
+    "forenames": ["maria", "crucifixa"],
+    "surnames": [
+        {
+            "it": "Di Rosa",
+            "la": "De Rosa",
+            "en": "di Rosa",
+            "pl": "di Rosa"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1813-11-06"],
+    "died": ["1855-12-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1940-05-26"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1954-06-12"
+    },
+    "anniversary": ["12-15"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./15#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-crocifissa-di-rosa.html",
+        "gcatholic": "https://gcatholic.org/p/68100",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_od_Krzy%C5%BCa_di_Rosa"
+    }
+}

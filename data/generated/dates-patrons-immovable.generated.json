@@ -10918,6 +10918,19 @@
         }
     },
     "12-15": {
+        "records/patrons/maria/ros": {
+            "name": {
+                "it": "Maria Crocifissa Di Rosa",
+                "la": "Maria Crucifixa De Rosa",
+                "en": "Maria Crocifissa di Rosa",
+                "pl": "Maria Krucyfiksa di Rosa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 XII",
+                "feast": "15 XII",
+                "mr-2004": "15 XII: #6"
+            }
+        },
         "records/patrons/valerianus/ave": {
             "name": {
                 "la": "Valerianus, episcopus Avensan.",

@@ -221,6 +221,9 @@
         "la": "Rusticus",
         "en": "Rusticus"
     },
+    "0bea2e0505b0ad6e57d6c28b8fdc15e4": {
+        "pl": "Krucyfiksa"
+    },
     "0bf951dd6b7b6b004e16e5d70b7f3a27": {
         "ko": "루치아"
     },
@@ -1988,6 +1991,9 @@
     "6e23358cf86e4fbcff966002f539bb05": {
         "la": "Caesarius",
         "en": "Caesarius"
+    },
+    "6e4d5193ae93be5a1a9b7a56020376ab": {
+        "la": "Crucifixa"
     },
     "6e5ca558ba6d80449bff46a492971adf": {
         "en": "Juliana",
@@ -4389,6 +4395,10 @@
     },
     "ee8716cf94f13d7da6ee9182e60afd2d": {
         "la": "Caelestina"
+    },
+    "ef29b229639ddbaca4767b00d60d01ef": {
+        "en": "Crocifissa",
+        "it": "Crocifissa"
     },
     "ef3d4cc1e9d26899c626ce5f4bd9b18b": {
         "la": "Exuperius",

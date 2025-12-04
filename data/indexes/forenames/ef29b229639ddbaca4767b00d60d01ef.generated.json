@@ -1,0 +1,28 @@
+{
+    "names": {
+        "en": "Crocifissa",
+        "it": "Crocifissa"
+    },
+    "translations": {
+        "la": [
+            "Crucifixa"
+        ],
+        "en": [
+            "Crocifissa"
+        ],
+        "pl": [
+            "Krucyfiksa"
+        ],
+        "it": [
+            "Crocifissa"
+        ]
+    },
+    "links": {
+        "records/patrons/maria/ros": {
+            "it": "Maria Crocifissa Di Rosa",
+            "la": "Maria Crucifixa De Rosa",
+            "en": "Maria Crocifissa di Rosa",
+            "pl": "Maria Krucyfiksa di Rosa"
+        }
+    }
+}

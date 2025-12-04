@@ -17693,6 +17693,45 @@
             }
         }
     },
+    "patrons/maria/ros": {
+        "active": true,
+        "names": {
+            "it": "Maria Crocifissa Di Rosa",
+            "la": "Maria Crucifixa De Rosa",
+            "en": "Maria Crocifissa di Rosa",
+            "pl": "Maria Krucyfiksa di Rosa"
+        },
+        "died": [
+            "1855-12-15"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/maria": {
+                "active": true,
+                "names": {
+                    "la": "Maria",
+                    "en": "Mary",
+                    "pl": "Maria",
+                    "arc": "ܡܪܝܡ",
+                    "de": "Maria",
+                    "el": "Μαρία",
+                    "es": "María",
+                    "fr": "Marie",
+                    "it": "Maria",
+                    "ko": "마리아"
+                }
+            },
+            "forenames/crucifixa": {
+                "active": true,
+                "names": {
+                    "la": "Crucifixa",
+                    "en": "Crocifissa",
+                    "pl": "Krucyfiksa",
+                    "it": "Crocifissa"
+                }
+            }
+        }
+    },
     "patrons/maria/rub": {
         "active": false,
         "names": {

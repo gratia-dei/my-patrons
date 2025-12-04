@@ -787,6 +787,12 @@
             "la": "Maria Sergia a Virgine Perdolenti",
             "en": "Mary Sergia of Our Lady of Sorrows"
         },
+        "records/patrons/maria/ros": {
+            "it": "Maria Crocifissa Di Rosa",
+            "la": "Maria Crucifixa De Rosa",
+            "en": "Maria Crocifissa di Rosa",
+            "pl": "Maria Krucyfiksa di Rosa"
+        },
         "records/patrons/maria/rub": {
             "it": "Maria Francesca di Gesù",
             "en": "Maria Francesca of Jesus",
