@@ -41,11 +41,11 @@ Wybrany Patron dołączył właśnie **do grona Twoich Obrońców**!
 
 ## Dalsze wyzwania ##
 Dla wszystkich swoich zaproszonych **Patronów Obrońców** możesz wykonywać teraz następujące wyzwania:
-- **[DF] Święto Patrona** - odkryj nowe święto, powiązane z Twoim Patronem Obrońcą (patrz niżej),
 - **[AA] Kościół i Jego Ołtarz Główny** - odwiedź ołtarz główny kościoła pod wezwaniem Patrona Obrońcy,
 - **[AC] Ołtarz Boczny lub Kaplica** - odwiedź ołtarz boczny lub kaplicę (odrębne pomieszczenie w kościele) pod wezwaniem Patrona Obrońcy,
 - **[AD] Rocznica Poświęcenia Kościoła** - weź udział we Mszy Świętej w rocznicę poświęcenia kościoła pod wezwaniem Patrona Obrońcy,
 - **[AF] Odpust Parafialny** - weź udział w Odpuście Parafialnym w kościele pod wezwaniem Patrona Obrońcy,
+- **[DF] Święto Patrona** - odkryj nowe święto, powiązane z Twoim Patronem Obrońcą (patrz niżej),
 - ... **i kolejne wyzwania**, które powstaną dla Patronów Obrońców.
 
 ## O świętach Patrona ##

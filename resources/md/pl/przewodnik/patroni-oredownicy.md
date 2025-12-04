@@ -89,7 +89,7 @@ Wybrany Patron dołączył właśnie **do grona Twoich Orędowników**!
 Dla wszystkich swoich zaproszonych **Patronów Orędowników** możesz wykonywać teraz następujące wyzwania:
 - **[DN] Imię Patrona** - odkryj nowe imię, powiązane z Twoim Patronem Orędownikiem (patrz niżej),
 <!--- **[R...] ...** - ...-->
-- ... **i kolejne wyzwania**, które powstaną dla Patronów Orędowników.
+- ... **i kolejne wyzwania**, które powstaną dla Patronów Orędowników (jeszcze pracujemy nad nieco odmienną mechaniką wyzwań).
 
 ## O imionach Patrona ##
 Wspomniane wyzwanie **[DN] Imię Patrona** polega na odkryciu nowego imienia **Patrona Orędownika**, dla którego będziemy mogli wykonywać wiele dalszych wyzwań.

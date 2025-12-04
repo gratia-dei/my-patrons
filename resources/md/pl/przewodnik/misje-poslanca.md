@@ -19,7 +19,7 @@ Na początku, **w dniu wybranym na powierzenie misji,** wykonaj poniższe czynno
 - **udaj się** do dowolnego **przydrożnego krzyża lub kapliczki**, przy których jeszcze **nie powierzałeś swojej Misji Posłańca żadnemu Patronowi**,
 - **pomódl się** do Jezusa i ewentualnych innych Patronów kapliczki, przy której się znajdujesz w intencji dokonującego się właśnie powierzenia **Misji Posłańca**.
 
-## Krok 2: Powierz Świętemu lub Błogosławionemu swoją Misję Apostoła ##
+## Krok 2: Powierz Świętemu lub Błogosławionemu swoją Misję Posłańca ##
 Także **w tym dniu i miejscu odmów poniższą modlitwę**, będącą powierzeniem Misji Posłańca:
 
 > Św./Bł. _**[wymień adresata modlitwy]**_,  

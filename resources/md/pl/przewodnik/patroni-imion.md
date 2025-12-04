@@ -11,7 +11,7 @@ Dzięki temu wyzwaniu będziesz mógł zwrócić na Niego Twoją większą uwag�
 ## Jak często? ##
 Pamiętaj, że można potwierdzić maksymalnie **jednego Patrona Imienia** dla każdego z nadanych Tobie imion!
 
-## Jak potwierdzić Świętego lub Błogosławionego jako swojego Patronia Imienia? ##
+## Jak potwierdzić Świętego lub Błogosławionego jako swojego Patrona Imienia? ##
 Należy wybrać Świętego lub Błogosławionego posiadającego imię, które nosisz. W tym celu kliknij w edytorze wyzwań przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Imienia [YN]”_**.
 
 ## Krok 1: Potwierdź wybór Patrona swojego imienia ##
@@ -34,7 +34,7 @@ Krok ten polega na **odmówieniu poniższej modlitwy**, będącej potwierdzenie 
 Potwierdziłeś wybranego Świętego lub Błogosławionego jako Twojego **Patroni Imienia**!
 
 ## Więcej informacji ##
-W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patroni Imienia [YN]”_**.
+W edytorze wyzwań kliknij przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Imienia [YN]”_**.
 
 ## Co dalej? ##
 &gt;&gt;&gt; [Misje Wierności](/guide/missions-of-faithfulness) - już wkrótce ...
