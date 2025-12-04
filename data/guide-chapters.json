@@ -219,13 +219,13 @@
         }
     },
 
-    "favourite-patrons": {
+    "friend-patrons": {
         "name": {
-            "pl": "Ulubieni Patroni"
+            "pl": "Patroni Przyjaciele"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/ulubieni-patroni"
+                "pl": "pl/przewodnik/patroni-przyjaciele"
             }
         }
     },

@@ -20,4 +20,4 @@
     - [Misje Pobożności](/guide/missions-of-piety)
     - [Patroni Wspomożyciele](/guide/helper-patrons)
     - [Patroni Przewodnicy](/guide/guide-patrons)
-    - [Ulubieni Patroni](/guide/favourite-patrons)
+    - [Patroni Przyjaciele](/guide/friend-patrons)
