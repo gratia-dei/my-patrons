@@ -6,7 +6,7 @@ W tym obszarze Twoim zadaniem będzie **pogłębianie relacji z Patronem** za po
 **UWAGA**! Trwają jeszcze prace nad tym obszarem, dlatego jesteśmy otwarci na wszelkie sugestie!
 
 ## Cel ##
-Zapraszając Patrona Wspomożyciela, prosisz Go, **by Ci pomagał** w wielkich jak i błahych, codziennych sprawach, **by nauczył Cię** współpracować z nim, a poprzez niego, z Bożą Łaską.
+Zapraszając Patrona Wspomożyciela, prosisz Go, **by Ci pomagał** w wielkich jak i błahych, codziennych sprawach, **by nauczył Cię** współpracować z Nim, a poprzez Niego, z Bożą Łaską.
 
 ## Jak często? ##
 <!--Można zaprosić tylko **jednego Patrona Wspomożyciela każdego dnia**!-->

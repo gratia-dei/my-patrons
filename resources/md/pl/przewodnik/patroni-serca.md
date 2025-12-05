@@ -33,4 +33,4 @@ Już wkrótce ...
 ## Co dalej? ##
 To na chwilę obecną już **koniec naszego przewodnika**! Mamy nadzieję, że był on pomocny w zgłębianiu tajników inicjatywy _„Moi Patroni”_.
 
-Na koniec zapraszamy do [spisu wszystkich obszarów](/guide/table-of-contents)!
+Na koniec zapraszamy do [podsumowania](/guide/summary).

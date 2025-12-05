@@ -230,13 +230,13 @@
         }
     },
 
-    "table-of-contents": {
+    "summary": {
         "name": {
-            "pl": "Spis treści"
+            "pl": "Podsumowanie"
         },
         "description": {
             "template": {
-                "pl": "pl/przewodnik/spis-tresci"
+                "pl": "pl/przewodnik/podsumowanie"
             }
         }
     }
