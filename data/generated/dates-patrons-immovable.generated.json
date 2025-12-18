@@ -1170,6 +1170,18 @@
         }
     },
     "02-14": {
+        "records/patrons/cyrillus/met": {
+            "name": {
+                "la": "Cyrillus Thessalonicensis",
+                "en": "Cyril of Thessalonica",
+                "pl": "Cyryl z Tesaloniki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 II",
+                "mr-1956": "14 II: #2",
+                "mr-2004": "14 II: #1"
+            }
+        },
         "records/patrons/valentinus/int": {
             "name": {
                 "la": "Valentinus Interamnensis",
@@ -1191,6 +1203,16 @@
                 "mr-1584": "14 II: #1",
                 "mr-1956": "14 II: #1",
                 "mr-2004": "14 II: #2"
+            }
+        },
+        "records/patrons/methodius/cyr": {
+            "name": {
+                "la": "Methodius Thessalonicensis",
+                "en": "Methodius of Thessalonica",
+                "pl": "Metody z Tesaloniki"
+            },
+            "sources": {
+                "mr-2004": "14 II: #1"
             }
         }
     },
@@ -1916,6 +1938,26 @@
                 "feast": "9 III",
                 "mr-1956": "9 III: #1",
                 "mr-2004": "9 III: #1"
+            }
+        },
+        "records/patrons/cyrillus/met": {
+            "name": {
+                "la": "Cyrillus Thessalonicensis",
+                "en": "Cyril of Thessalonica",
+                "pl": "Cyryl z Tesaloniki"
+            },
+            "sources": {
+                "mr-1584": "9 III: #4"
+            }
+        },
+        "records/patrons/methodius/cyr": {
+            "name": {
+                "la": "Methodius Thessalonicensis",
+                "en": "Methodius of Thessalonica",
+                "pl": "Metody z Tesaloniki"
+            },
+            "sources": {
+                "mr-1584": "9 III: #4"
             }
         },
         "records/patrons/gregorius/nys": {
@@ -2740,6 +2782,16 @@
         }
     },
     "04-06": {
+        "records/patrons/methodius/cyr": {
+            "name": {
+                "la": "Methodius Thessalonicensis",
+                "en": "Methodius of Thessalonica",
+                "pl": "Metody z Tesaloniki"
+            },
+            "sources": {
+                "mr-1956": "6 IV: #2"
+            }
+        },
         "records/patrons/irenaeus/sir": {
             "name": {
                 "la": "Irenaeus Sirmiensis",
@@ -4995,6 +5047,26 @@
                 "reliable-death-anniversary": "7 VII",
                 "mr-1956": "7 VII: #11",
                 "mr-2004": "7 VII: #7"
+            }
+        },
+        "records/patrons/cyrillus/met": {
+            "name": {
+                "la": "Cyrillus Thessalonicensis",
+                "en": "Cyril of Thessalonica",
+                "pl": "Cyryl z Tesaloniki"
+            },
+            "sources": {
+                "mr-1956": "7 VII: #1"
+            }
+        },
+        "records/patrons/methodius/cyr": {
+            "name": {
+                "la": "Methodius Thessalonicensis",
+                "en": "Methodius of Thessalonica",
+                "pl": "Metody z Tesaloniki"
+            },
+            "sources": {
+                "mr-1956": "7 VII: #1"
             }
         }
     },

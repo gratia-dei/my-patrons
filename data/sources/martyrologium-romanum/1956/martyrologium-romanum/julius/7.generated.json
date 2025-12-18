@@ -2,6 +2,10 @@
     "data-links": {
         "11": {
             "1": "records/patrons/benedictus/11p"
+        },
+        "1": {
+            "1": "records/patrons/cyrillus/met",
+            "2": "records/patrons/methodius/cyr"
         }
     }
 }

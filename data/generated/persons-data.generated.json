@@ -6180,11 +6180,11 @@
         }
     },
     "patrons/cyrillus/met": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Cyrillus /+ Methodius",
+            "la": "Cyrillus Thessalonicensis",
             "en": "Cyril of Thessalonica",
-            "pl": "Cyryl /+ Metody"
+            "pl": "Cyryl z Tesaloniki"
         },
         "died": [
             "869-02-14"
@@ -18890,14 +18890,14 @@
         }
     },
     "patrons/methodius/cyr": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Methodius /+ Cyrillus",
-            "en": "Methodius /+ Cyril",
-            "pl": "Metody /+ Cyryl"
+            "la": "Methodius Thessalonicensis",
+            "en": "Methodius of Thessalonica",
+            "pl": "Metody z Tesaloniki"
         },
         "died": [
-            "~885-04-06"
+            "~885"
         ],
         "feasts": [],
         "forenames": {

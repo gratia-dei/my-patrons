@@ -839,9 +839,9 @@
             "pl": "Cyryl Jerozolimski"
         },
         "records/patrons/cyrillus/met": {
-            "la": "Cyrillus /+ Methodius",
+            "la": "Cyrillus Thessalonicensis",
             "en": "Cyril of Thessalonica",
-            "pl": "Cyryl /+ Metody"
+            "pl": "Cyryl z Tesaloniki"
         },
         "records/patrons/cyrinius/mar": {
             "la": "Cyrinius de Roma",
@@ -2329,9 +2329,9 @@
             "pl": "Melaniusz z Rennes"
         },
         "records/patrons/methodius/cyr": {
-            "la": "Methodius /+ Cyrillus",
-            "en": "Methodius /+ Cyril",
-            "pl": "Metody /+ Cyryl"
+            "la": "Methodius Thessalonicensis",
+            "en": "Methodius of Thessalonica",
+            "pl": "Metody z Tesaloniki"
         },
         "records/patrons/michael/koz": {
             "pl": "Michał Kozal",

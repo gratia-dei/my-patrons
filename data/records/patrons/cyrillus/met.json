@@ -1,27 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Cyrillus /+ Methodius"
-    ],
-    "en": [
-      "Cyril of Thessalonica",
-      "Cyril /+ Methodius"
-    ],
-    "pl": [
-      "Cyryl /+ Metody",
-      "Cyryl z Tesaloniki"
-    ]
-  },
+    "names": {
+        "la": [
+            "Cyrillus Thessalonicensis"
+        ],
+        "en": [
+            "Cyril of Thessalonica"
+        ],
+        "pl": [
+            "Cyryl z Tesaloniki"
+        ]
+    },
+    "forenames": ["cyrillus", "constantinus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">826", "<828"],
-  "died": ["869-02-14"],
+    "active": true,
 
-  "also-in-martyrology": ["02-14"],
+    "born": [">826", "<828"],
+    "died": ["869-02-14"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["cyrillus", "constantinus"],
-  "categories": ["vir", "confessor", "episcopus", "monachus"],
+    "categories": ["vir", "confessor", "episcopus", "monachus"],
 
-  "data-linksx": {
-    "mr-1956": ["1:iul/7#1"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Mart./9#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/14#2", "1:Julii/7#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./14#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69186",
+        "wiki": [
+            "https://pl.wikipedia.org/wiki/Cyryl-Konstantyn",
+            "https://pl.wikipedia.org/wiki/Cyryl_i_Metod://pl.wikipedia.org/wiki/Cyryl_i_Metody"
+        ]
+    }
 }

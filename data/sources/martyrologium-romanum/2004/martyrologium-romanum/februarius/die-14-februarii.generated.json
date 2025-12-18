@@ -1,5 +1,9 @@
 {
     "data-links": {
+        "1": {
+            "1": "records/patrons/cyrillus/met",
+            "2": "records/patrons/methodius/cyr"
+        },
         "2": {
             "1": "records/patrons/valentinus/rom"
         }
