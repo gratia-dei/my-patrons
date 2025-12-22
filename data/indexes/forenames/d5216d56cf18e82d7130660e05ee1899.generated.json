@@ -13,6 +13,9 @@
         "pl": [
             "Piotr"
         ],
+        "de": [
+            "Peter"
+        ],
         "fr": [
             "Pierre"
         ],
@@ -88,6 +91,12 @@
             "la": "Petrus Frémond",
             "en": "Peter Frémond",
             "pl": "Piotr Frémond"
+        },
+        "records/patrons/petrus/fri": {
+            "de": "Peter Friedhofen",
+            "la": "Petrus Friedhofen",
+            "en": "Peter Friedhofen",
+            "pl": "Piotr Friedhofen"
         },
         "records/patrons/petrus/lux": {
             "fr": "Pierre de Luxembourg",

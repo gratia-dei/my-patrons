@@ -1,0 +1,53 @@
+{
+    "names": {
+        "de": [
+            "Peter Friedhofen"
+        ],
+        "la": [
+            "Petrus Friedhofen"
+        ],
+        "en": [
+            "Peter Friedhofen"
+        ],
+        "pl": [
+            "Piotr Friedhofen"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": [
+        {
+            "de": "Friedhofen"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1819-02-25"],
+    "died": ["1860-12-21"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1985-06-23"
+    },
+    "canonized": null,
+    "anniversary": ["12-21"],
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./21#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pietro-friedhofen.html",
+        "gcatholic": "https://gcatholic.org/p/62214",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Friedhofen"
+    }
+}

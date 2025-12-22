@@ -166,6 +166,12 @@
             "en": "Nicholas of Gesturi",
             "pl": "Mikołaj z Gesturi"
         },
+        "records/patrons/petrus/fri": {
+            "de": "Peter Friedhofen",
+            "la": "Petrus Friedhofen",
+            "en": "Peter Friedhofen",
+            "pl": "Piotr Friedhofen"
+        },
         "records/patrons/pius/cam": {
             "it": "Pio di San Luigi",
             "la": "Pius a Sancto Aloysio",

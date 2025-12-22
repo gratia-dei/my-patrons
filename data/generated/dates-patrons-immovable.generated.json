@@ -11118,6 +11118,19 @@
         }
     },
     "12-21": {
+        "records/patrons/petrus/fri": {
+            "name": {
+                "de": "Peter Friedhofen",
+                "la": "Petrus Friedhofen",
+                "en": "Peter Friedhofen",
+                "pl": "Piotr Friedhofen"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 XII",
+                "feast": "21 XII",
+                "mr-2004": "21 XII: #6"
+            }
+        },
         "records/patrons/thomas/apo": {
             "name": {
                 "la": "Thomas Apostolus",
