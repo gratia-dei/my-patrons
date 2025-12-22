@@ -293,8 +293,8 @@
         },
         "records/patrons/gregorius/naz": {
             "grc": "Γρηγόριος Ναζιανζηνός",
-            "en": "Gregory of Nazianzus",
             "la": "Gregorius Nazianzenus",
+            "en": "Gregory of Nazianzus",
             "pl": "Grzegorz z Nazjanzu"
         },
         "records/patrons/gregorius/nys": {

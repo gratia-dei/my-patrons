@@ -76,6 +76,17 @@
             "sources": {
                 "mr-2004": "2 I: #1"
             }
+        },
+        "records/patrons/gregorius/naz": {
+            "name": {
+                "grc": "Γρηγόριος Ναζιανζηνός",
+                "la": "Gregorius Nazianzenus",
+                "en": "Gregory of Nazianzus",
+                "pl": "Grzegorz z Nazjanzu"
+            },
+            "sources": {
+                "mr-2004": "2 I: #1"
+            }
         }
     },
     "01-03": {
@@ -569,6 +580,17 @@
                 "reliable-death-anniversary": "25 I",
                 "feast": "25 I",
                 "mr-2004": "25 I: #15"
+            }
+        },
+        "records/patrons/gregorius/naz": {
+            "name": {
+                "grc": "Γρηγόριος Ναζιανζηνός",
+                "la": "Gregorius Nazianzenus",
+                "en": "Gregory of Nazianzus",
+                "pl": "Grzegorz z Nazjanzu"
+            },
+            "sources": {
+                "mr-2004": "25 I: #5"
             }
         }
     },
@@ -3636,6 +3658,18 @@
                 "reliable-death-anniversary": "9 V",
                 "feast": "9 V",
                 "mr-2004": "9 V: #13"
+            }
+        },
+        "records/patrons/gregorius/naz": {
+            "name": {
+                "grc": "Γρηγόριος Ναζιανζηνός",
+                "la": "Gregorius Nazianzenus",
+                "en": "Gregory of Nazianzus",
+                "pl": "Grzegorz z Nazjanzu"
+            },
+            "sources": {
+                "mr-1584": "9 V: #1",
+                "mr-1956": "9 V: #1"
             }
         }
     },

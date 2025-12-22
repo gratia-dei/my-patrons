@@ -9908,17 +9908,25 @@
         }
     },
     "patrons/gregorius/naz": {
-        "active": false,
+        "active": true,
         "names": {
             "grc": "Γρηγόριος Ναζιανζηνός",
-            "en": "Gregory of Nazianzus",
             "la": "Gregorius Nazianzenus",
+            "en": "Gregory of Nazianzus",
             "pl": "Grzegorz z Nazjanzu"
         },
         "died": [
             "~389"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/tgn": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Gregorii Nazianzeni",
+                    "pl": "Przeniesienie świętego Grzegorza z Nazjanzu"
+                }
+            }
+        },
         "forenames": {
             "forenames/gregorius": {
                 "active": true,

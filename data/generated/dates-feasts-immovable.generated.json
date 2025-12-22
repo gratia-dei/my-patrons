@@ -563,6 +563,18 @@
             }
         }
     },
+    "06-11": {
+        "records/patrons/gregorius/naz#tgn": {
+            "name": {
+                "la": "Gregorius Nazianzenus (Translatio sancti Gregorii Nazianzeni)",
+                "pl": "Grzegorz z Nazjanzu (Przeniesienie świętego Grzegorza z Nazjanzu)"
+            },
+            "sources": {
+                "mr-1584": "11 VI: #4",
+                "mr-1956": "11 VI: #6"
+            }
+        }
+    },
     "06-14": {
         "records/patrons/basilius/mag#obm": {
             "name": {

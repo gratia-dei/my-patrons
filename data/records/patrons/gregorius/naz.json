@@ -1,34 +1,70 @@
 {
-  "names": {
-    "grc": [
-      "Γρηγόριος Ναζιανζηνός"
+    "names": {
+        "grc": [
+            "Γρηγόριος Ναζιανζηνός"
+        ],
+        "la": [
+            "Gregorius Nazianzenus",
+            "Gregorius Theologus"
+        ],
+        "en": [
+            "Gregory of Nazianzus"
+        ],
+        "pl": [
+            "Grzegorz z Nazjanzu",
+            "Grzegorz Teolog"
+        ]
+    },
+    "forenames": ["gregorius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "grc": "o Θεολόγος",
+            "en": "the Theologian",
+            "la": "Theologus",
+            "pl": "Teolog"
+        }
     ],
-    "en": [
-      "Gregory of Nazianzus"
-    ],
-    "la": [
-      "Gregorius Nazianzenus"
-    ],
-    "pl": [
-      "Grzegorz z Nazjanzu",
-      "Grzegorz Teolog"
-    ]
-  },
 
-  "epithets": [
-    {
-      "grc": "o Θεολόγος",
-      "en": "the Theologian",
-      "la": "Theologus",
-      "pl": "Teolog"
+    "active": true,
+
+    "born": [">326", "<330"],
+    "died": ["~389"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./9#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/9#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:ian./2#1", "1:ian./25#5"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tgn": {
+            "data-links": {
+                "mr-1584": ["1:Iuni./11#4"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Junii/11#6"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67060",
+        "wiki": "https://pl.wikipedia.org/wiki/Grzegorz_z_Nazjanzu"
     }
-  ],
-
-  "born": [">326", "<330"],
-  "died": ["~389"],
-
-  "also-in-martyrology": ["01-02", "01-25", "05-09"],
-
-  "forenames": ["gregorius"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"]
 }
