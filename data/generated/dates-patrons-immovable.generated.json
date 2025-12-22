@@ -1,5 +1,19 @@
 {
     "01-01": {
+        "records/patrons/basilius/mag": {
+            "name": {
+                "el": "Βασίλειος Μέγας",
+                "la": "Basilius Magnus",
+                "en": "Basil the Great",
+                "pl": "Bazyli Wielki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 I",
+                "mr-1584": "1 I: #7",
+                "mr-1956": "1 I: #3",
+                "mr-2004": "1 I: #2"
+            }
+        },
         "records/patrons/bonfilius/flo": {
             "name": {
                 "it": "Bonfilio Monaldi",
@@ -50,6 +64,17 @@
                 "reliable-death-anniversary": "2 I",
                 "feast": "2 I",
                 "mr-2004": "2 I: #14"
+            }
+        },
+        "records/patrons/basilius/mag": {
+            "name": {
+                "el": "Βασίλειος Μέγας",
+                "la": "Basilius Magnus",
+                "en": "Basil the Great",
+                "pl": "Bazyli Wielki"
+            },
+            "sources": {
+                "mr-2004": "2 I: #1"
             }
         }
     },

@@ -28,8 +28,8 @@
         },
         "records/patrons/basilius/mag": {
             "el": "Βασίλειος Μέγας",
-            "en": "Basil the Great",
             "la": "Basilius Magnus",
+            "en": "Basil the Great",
             "pl": "Bazyli Wielki"
         },
         "records/patrons/gregorius/1pp": {

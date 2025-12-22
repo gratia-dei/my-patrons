@@ -3667,17 +3667,25 @@
         }
     },
     "patrons/basilius/mag": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Βασίλειος Μέγας",
-            "en": "Basil the Great",
             "la": "Basilius Magnus",
+            "en": "Basil the Great",
             "pl": "Bazyli Wielki"
         },
         "died": [
             "379-01-01"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/obm": {
+                "active": true,
+                "names": {
+                    "la": "Ordinatio sancti Basili Magni",
+                    "pl": "Wyświęcenie świętego Bazylego Wielkiego"
+                }
+            }
+        },
         "forenames": {
             "forenames/basilius": {
                 "active": true,

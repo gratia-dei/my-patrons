@@ -563,6 +563,18 @@
             }
         }
     },
+    "06-14": {
+        "records/patrons/basilius/mag#obm": {
+            "name": {
+                "la": "Basilius Magnus (Ordinatio sancti Basili Magni)",
+                "pl": "Bazyli Wielki (Wyświęcenie świętego Bazylego Wielkiego)"
+            },
+            "sources": {
+                "mr-1584": "14 VI: #1",
+                "mr-1956": "14 VI: #1"
+            }
+        }
+    },
     "06-22": {
         "records/patrons/flavius/cle#tfc": {
             "name": {
