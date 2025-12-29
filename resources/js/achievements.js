@@ -724,6 +724,10 @@ requirejs(
       const fileContent = await data.text();
 
       fileData = JSON.parse(fileContent);
+
+      const dateInput = uDocument.getElementById(uConst.get("DATE_INPUT_ELEMENT_ID"));
+      dateInput.value = uDate.getToday();
+
       await refreshAllTabs();
 
       uNotification.success(uLanguage.getTranslation('lang-file-loaded-successfully', true));
