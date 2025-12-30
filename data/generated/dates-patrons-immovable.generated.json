@@ -842,6 +842,27 @@
                 "mr-1956": "3 II: #7",
                 "mr-2004": "3 II: #2"
             }
+        },
+        "records/patrons/simeon/sen": {
+            "name": {
+                "la": "Simeon, senex",
+                "en": "Simeon, the old man",
+                "pl": "Symeon, starzec"
+            },
+            "sources": {
+                "mr-2004": "3 II: #3"
+            }
+        },
+        "records/patrons/anna/pro": {
+            "name": {
+                "he": "חנה, הנביאה",
+                "la": "Anna, prophetissa",
+                "en": "Anna, the Prophetess",
+                "pl": "Anna, prorokini"
+            },
+            "sources": {
+                "mr-2004": "3 II: #3"
+            }
         }
     },
     "02-04": {
@@ -7504,6 +7525,18 @@
                 "mr-1956": "1 IX: #1",
                 "mr-2004": "1 IX: #9"
             }
+        },
+        "records/patrons/anna/pro": {
+            "name": {
+                "he": "חנה, הנביאה",
+                "la": "Anna, prophetissa",
+                "en": "Anna, the Prophetess",
+                "pl": "Anna, prorokini"
+            },
+            "sources": {
+                "mr-1584": "1 IX: #4",
+                "mr-1956": "1 IX: #4"
+            }
         }
     },
     "09-02": {
@@ -9156,6 +9189,17 @@
             "sources": {
                 "reliable-death-anniversary": "8 X",
                 "mr-2004": "8 X: #7"
+            }
+        },
+        "records/patrons/simeon/sen": {
+            "name": {
+                "la": "Simeon, senex",
+                "en": "Simeon, the old man",
+                "pl": "Symeon, starzec"
+            },
+            "sources": {
+                "mr-1584": "8 X: #1",
+                "mr-1956": "8 X: #2"
             }
         }
     },

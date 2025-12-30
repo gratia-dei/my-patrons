@@ -143,9 +143,6 @@
     "26ac8ccc37adf7ca65a0ccd0428d3d58": {
         "en": "other apostle"
     },
-    "26b648ffb78d41b7e951eaec7a7e3a1a": {
-        "pl": "prorok"
-    },
     "273b9ae535de53399c86a9b83148a8ed": {
         "en": "female"
     },
@@ -189,8 +186,14 @@
     "3281d64d71abcf40e862001e6a5e7c58": {
         "la": "Deus"
     },
+    "33e0da506f8e8cdbcb0abb0a08cf88e2": {
+        "la": "prophet / prophetissa"
+    },
     "3520d88e8cf8fcdd418320906225411a": {
         "pl": "weteran"
+    },
+    "359be3ab9ecdca938402c73c4c533c0f": {
+        "en": "prophet / prophetess"
     },
     "3611dea289526bff962f8b4c45d79ce8": {
         "la": "legatus"
@@ -363,9 +366,6 @@
     },
     "6e9d599ed430ce0954b6c108fcfc12a5": {
         "la": "coepiscopus"
-    },
-    "71dd21b124b3942e3743c8f20022ea26": {
-        "la": "propheta"
     },
     "72545f3f86fad045a26ed54abd2bbb9f": {
         "en": "queen"
@@ -541,9 +541,6 @@
     "af6725bf03a59d7c6b24aa2b2c1ad05a": {
         "pl": "król"
     },
-    "b0a0c1146cfdd2c67b0d5f359bc53349": {
-        "en": "prophet"
-    },
     "b0c70b38bf5b3e98d5ec630125cb7369": {
         "pl": "żołnierz"
     },
@@ -652,6 +649,9 @@
     },
     "c801fc526ce1b1b33ee896c7b13d93c0": {
         "en": "founder / foundress"
+    },
+    "c8a63f3aec7a1193c3db5bad292b683d": {
+        "pl": "prorok / prorokini"
     },
     "c9ad31e5740747285dae5c168715d2de": {
         "en": "widow"

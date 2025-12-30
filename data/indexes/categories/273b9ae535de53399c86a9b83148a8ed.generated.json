@@ -64,6 +64,12 @@
             "en": "Anna, mother of Mary",
             "pl": "Anna, matka Maryi"
         },
+        "records/patrons/anna/pro": {
+            "he": "חנה, הנביאה",
+            "la": "Anna, prophetissa",
+            "en": "Anna, the Prophetess",
+            "pl": "Anna, prorokini"
+        },
         "records/patrons/antonia/mes": {
             "it": "Antonia Mesina",
             "la": "Antonia Mesina",

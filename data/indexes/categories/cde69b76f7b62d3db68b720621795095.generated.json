@@ -18,6 +18,11 @@
             "la": "Auxentius Caesariensis; cum eo, i.a., Theotimus",
             "en": "Auxentius of Caesarea; with him, i.a., Theotimus",
             "pl": "Auksenty z Cezarei; z nim, m.in., Teotym"
+        },
+        "records/patrons/simeon/sen": {
+            "la": "Simeon, senex",
+            "en": "Simeon, the old man",
+            "pl": "Symeon, starzec"
         }
     }
 }

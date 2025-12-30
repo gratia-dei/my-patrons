@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "prorok"
+        "en": "prophet / prophetess"
     },
     "translations": {
         "la": [
-            "propheta"
+            "prophet / prophetissa"
         ],
         "en": [
-            "prophet"
+            "prophet / prophetess"
         ],
         "pl": [
-            "prorok"
+            "prorok / prorokini"
         ]
     },
     "links": {
@@ -19,6 +19,12 @@
             "la": "Amos, propheta",
             "en": "Amos, prophet",
             "pl": "Amos, prorok"
+        },
+        "records/patrons/anna/pro": {
+            "he": "חנה, הנביאה",
+            "la": "Anna, prophetissa",
+            "en": "Anna, the Prophetess",
+            "pl": "Anna, prorokini"
         },
         "records/patrons/david/rex": {
             "he": "דָּוִד בֶּן יִשַׁי",
@@ -66,6 +72,11 @@
             "la": "Nahum, propheta",
             "en": "Nahum, prophet",
             "pl": "Nahum, prorok"
+        },
+        "records/patrons/simeon/sen": {
+            "la": "Simeon, senex",
+            "en": "Simeon, the old man",
+            "pl": "Symeon, starzec"
         }
     }
 }

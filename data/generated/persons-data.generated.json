@@ -2198,6 +2198,35 @@
             }
         }
     },
+    "patrons/anna/pro": {
+        "active": true,
+        "names": {
+            "he": "חנה, הנביאה",
+            "la": "Anna, prophetissa",
+            "en": "Anna, the Prophetess",
+            "pl": "Anna, prorokini"
+        },
+        "died": [
+            ">1"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/anna": {
+                "active": true,
+                "names": {
+                    "la": "Anna",
+                    "en": "Anna",
+                    "pl": "Anna",
+                    "de": "Anna",
+                    "es": "Ana",
+                    "he": "חַנָּה‎",
+                    "it": "Anna",
+                    "fr": "Anne",
+                    "ko": "안나"
+                }
+            }
+        }
+    },
     "patrons/anselmus": {
         "names": {
             "la": "Anselmus",
@@ -23998,6 +24027,28 @@
             "la": "Simeon",
             "en": "Simeon",
             "pl": "Symeon"
+        }
+    },
+    "patrons/simeon/sen": {
+        "active": true,
+        "names": {
+            "la": "Simeon, senex",
+            "en": "Simeon, the old man",
+            "pl": "Symeon, starzec"
+        },
+        "died": [
+            ">1"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/simeon": {
+                "active": true,
+                "names": {
+                    "la": "Simeon",
+                    "en": "Simeon",
+                    "pl": "Symeon"
+                }
+            }
         }
     },
     "patrons/simeon/sta": {
