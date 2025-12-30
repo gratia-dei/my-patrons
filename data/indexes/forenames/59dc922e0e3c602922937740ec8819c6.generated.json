@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Cyriaka"
+    },
+    "translations": {
+        "la": [
+            "Cyriaca"
+        ],
+        "en": [
+            "Cyriaca"
+        ],
+        "pl": [
+            "Cyriaka"
+        ]
+    },
+    "links": {
+        "records/patrons/cyriaca/pho": {
+            "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        }
+    }
+}

@@ -2326,6 +2326,105 @@
                 "mr-2004": "20 III: #10"
             }
         },
+        "records/patrons/photina/sam": {
+            "name": {
+                "la": "Photina Samaritana",
+                "en": "Photine the Samaritan",
+                "pl": "Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/ioseph/pho": {
+            "name": {
+                "la": "Ioseph de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/victor/pho": {
+            "name": {
+                "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/sebastianus/pho": {
+            "name": {
+                "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/anatolius/pho": {
+            "name": {
+                "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Anatolius of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Anatol z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/photius/pho": {
+            "name": {
+                "la": "Photius de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Photios of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Focjusz z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/photis/pho": {
+            "name": {
+                "la": "Photis de Roma; cum eo, i.a., Photina Samaritana",
+                "en": "Photis of Rome; with him, i.a., Photine the Samaritan",
+                "pl": "Fotis z Rzymu; z nim, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/parasceve/pho": {
+            "name": {
+                "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
+                "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
+                "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
+        "records/patrons/cyriaca/pho": {
+            "name": {
+                "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
+                "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
+                "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
+            },
+            "sources": {
+                "mr-1584": "20 III: #4",
+                "mr-1956": "20 III: #4"
+            }
+        },
         "records/patrons/ioachim/mar": {
             "name": {
                 "he": "יהוֹיָקִים",

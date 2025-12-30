@@ -218,6 +218,11 @@
             "en": "Anastasius I, pope",
             "pl": "Anastazy I, papież"
         },
+        "records/patrons/anatolius/pho": {
+            "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Anatolius of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Anatol z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/andreas/abe": {
             "fr": "André Abellon",
             "la": "Andreas Abellon",
@@ -1884,6 +1889,11 @@
             "en": "Joseph of Nazareth",
             "pl": "Józef z Nazaretu"
         },
+        "records/patrons/ioseph/pho": {
+            "la": "Ioseph de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/iosephus/cha": {
             "ko": "장주기 요셉",
             "la": "Iosephus Chang Chu-gi",
@@ -2672,6 +2682,16 @@
             "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
             "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
         },
+        "records/patrons/photis/pho": {
+            "la": "Photis de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Photis of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Fotis z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "records/patrons/photius/pho": {
+            "la": "Photius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Photios of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Focjusz z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/pirminus/epi": {
             "de": "Pirmin, Bischof",
             "en": "Pirmin, bishop",
@@ -2908,6 +2928,11 @@
             "la": "Sebastianus Nam I-gwan",
             "en": "Sebastian Nam I-gwan",
             "pl": "Sebastian Nam I-gwan"
+        },
+        "records/patrons/sebastianus/pho": {
+            "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
         },
         "records/patrons/secundinus/car": {
             "la": "Secundinus seu Secundulus Carthaginensis",
@@ -3266,6 +3291,11 @@
             "la": "Victor Carthaginensis",
             "en": "Victor of Carthage",
             "pl": "Wiktor z Kartaginy"
+        },
+        "records/patrons/victor/pho": {
+            "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
         },
         "records/patrons/victor/the": {
             "la": "Victor Legionis Thebanae",

@@ -1712,6 +1712,35 @@
             }
         }
     },
+    "patrons/anatolius": {
+        "names": {
+            "la": "Anatolius",
+            "en": "Anatolius",
+            "pl": "Anatol"
+        }
+    },
+    "patrons/anatolius/pho": {
+        "active": true,
+        "names": {
+            "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Anatolius of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Anatol z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/anatolius": {
+                "active": true,
+                "names": {
+                    "la": "Anatolius",
+                    "en": "Anatolius",
+                    "pl": "Anatol"
+                }
+            }
+        }
+    },
     "patrons/andreas": {
         "names": {
             "la": "Andreas",
@@ -6098,6 +6127,35 @@
                     "en": "Iwene",
                     "pl": "Iwene",
                     "ig": "Iwene"
+                }
+            }
+        }
+    },
+    "patrons/cyriaca": {
+        "names": {
+            "la": "Cyriaca",
+            "en": "Cyriaca",
+            "pl": "Cyriaka"
+        }
+    },
+    "patrons/cyriaca/pho": {
+        "active": true,
+        "names": {
+            "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/cyriaca": {
+                "active": true,
+                "names": {
+                    "la": "Cyriaca",
+                    "en": "Cyriaca",
+                    "pl": "Cyriaka"
                 }
             }
         }
@@ -13098,6 +13156,29 @@
                 }
             }
         },
+        "forenames": {
+            "forenames/ioseph": {
+                "active": true,
+                "names": {
+                    "la": "Ioseph",
+                    "en": "Joseph",
+                    "pl": "Józef",
+                    "arc": "ܡܪܝ ܝܘܣܦ"
+                }
+            }
+        }
+    },
+    "patrons/ioseph/pho": {
+        "active": true,
+        "names": {
+            "la": "Ioseph de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
         "forenames": {
             "forenames/ioseph": {
                 "active": true,
@@ -20475,6 +20556,35 @@
             }
         }
     },
+    "patrons/parasceve": {
+        "names": {
+            "la": "Parasceve",
+            "en": "Parasceva",
+            "pl": "Parascewa"
+        }
+    },
+    "patrons/parasceve/pho": {
+        "active": true,
+        "names": {
+            "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/parasceve": {
+                "active": true,
+                "names": {
+                    "la": "Parasceve",
+                    "en": "Parasceva",
+                    "pl": "Parascewa"
+                }
+            }
+        }
+    },
     "patrons/patiens": {
         "names": {
             "la": "Patiens",
@@ -21621,6 +21731,93 @@
                     "la": "Philoteus",
                     "en": "Philotheus",
                     "pl": "Filoteusz"
+                }
+            }
+        }
+    },
+    "patrons/photina": {
+        "names": {
+            "la": "Photina",
+            "en": "Photine",
+            "pl": "Fotyna"
+        }
+    },
+    "patrons/photina/sam": {
+        "active": true,
+        "names": {
+            "la": "Photina Samaritana",
+            "en": "Photine the Samaritan",
+            "pl": "Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/photina": {
+                "active": true,
+                "names": {
+                    "la": "Photina",
+                    "en": "Photine",
+                    "pl": "Fotyna"
+                }
+            }
+        }
+    },
+    "patrons/photis": {
+        "names": {
+            "la": "Photis",
+            "en": "Photis",
+            "pl": "Fotis"
+        }
+    },
+    "patrons/photis/pho": {
+        "active": true,
+        "names": {
+            "la": "Photis de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Photis of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Fotis z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/photis": {
+                "active": true,
+                "names": {
+                    "la": "Photis",
+                    "en": "Photis",
+                    "pl": "Fotis"
+                }
+            }
+        }
+    },
+    "patrons/photius": {
+        "names": {
+            "la": "Photius",
+            "en": "Photios",
+            "pl": "Focjusz"
+        }
+    },
+    "patrons/photius/pho": {
+        "active": true,
+        "names": {
+            "la": "Photius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Photios of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Focjusz z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/photius": {
+                "active": true,
+                "names": {
+                    "la": "Photius",
+                    "en": "Photios",
+                    "pl": "Focjusz"
                 }
             }
         }
@@ -23306,6 +23503,29 @@
                     "en": "I-gwan",
                     "pl": "I-gwan",
                     "ko": "이관"
+                }
+            }
+        }
+    },
+    "patrons/sebastianus/pho": {
+        "active": true,
+        "names": {
+            "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/sebastianus": {
+                "active": true,
+                "names": {
+                    "la": "Sebastianus",
+                    "en": "Sebastian",
+                    "pl": "Sebastian",
+                    "ko": "세바스티아노"
                 }
             }
         }
@@ -26037,6 +26257,28 @@
         "died": [
             ">201",
             "<300"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/victor": {
+                "active": true,
+                "names": {
+                    "la": "Victor",
+                    "en": "Victor",
+                    "pl": "Wiktor"
+                }
+            }
+        }
+    },
+    "patrons/victor/pho": {
+        "active": true,
+        "names": {
+            "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "died": [
+            ">33"
         ],
         "feasts": [],
         "forenames": {

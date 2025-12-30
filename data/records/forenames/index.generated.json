@@ -190,6 +190,11 @@
         "en": "Anastasius",
         "pl": "Anastazy"
     },
+    "anatolius": {
+        "la": "Anatolius",
+        "en": "Anatolius",
+        "pl": "Anatol"
+    },
     "andreas": {
         "la": "Andreas",
         "en": "Andrew",
@@ -749,6 +754,11 @@
         "en": "Cyprian",
         "pl": "Cyprian",
         "ig": "Onye Saịprọs"
+    },
+    "cyriaca": {
+        "la": "Cyriaca",
+        "en": "Cyriaca",
+        "pl": "Cyriaka"
     },
     "cyriacus": {
         "la": "Cyriacus",
@@ -2027,6 +2037,11 @@
         "en": "Paphnutius",
         "pl": "Pafnucy"
     },
+    "parasceve": {
+        "la": "Parasceve",
+        "en": "Parasceva",
+        "pl": "Parascewa"
+    },
     "patiens": {
         "la": "Patiens",
         "en": "Patiens",
@@ -2101,6 +2116,21 @@
         "la": "Philoteus",
         "en": "Philotheus",
         "pl": "Filoteusz"
+    },
+    "photina": {
+        "la": "Photina",
+        "en": "Photine",
+        "pl": "Fotyna"
+    },
+    "photis": {
+        "la": "Photis",
+        "en": "Photis",
+        "pl": "Fotis"
+    },
+    "photius": {
+        "la": "Photius",
+        "en": "Photios",
+        "pl": "Focjusz"
     },
     "phung": {
         "la": "Phụng",

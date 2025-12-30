@@ -25,6 +25,11 @@
             "en": "Victor of Carthage",
             "pl": "Wiktor z Kartaginy"
         },
+        "records/patrons/victor/pho": {
+            "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/victor/the": {
             "la": "Victor Legionis Thebanae",
             "en": "Victor of the Theban Legion",

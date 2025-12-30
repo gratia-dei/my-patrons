@@ -60,6 +60,11 @@
             "en": "Joseph of Nazareth",
             "pl": "Józef z Nazaretu"
         },
+        "records/patrons/ioseph/pho": {
+            "la": "Ioseph de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/iosephus/cha": {
             "ko": "장주기 요셉",
             "la": "Iosephus Chang Chu-gi",

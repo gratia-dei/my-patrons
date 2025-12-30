@@ -222,6 +222,11 @@
             "en": "Crispina of Numidia",
             "pl": "Kryspina z Numidii"
         },
+        "records/patrons/cyriaca/pho": {
+            "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/daria/chr": {
             "la": "Daria de Roma",
             "en": "Daria of Rome",
@@ -898,6 +903,11 @@
             "en": "Nympha; with her, i.a., Tryphon",
             "pl": "Nimfa; z nią, m.in. Tryfon"
         },
+        "records/patrons/parasceve/pho": {
+            "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
         "records/patrons/paulina/jar": {
             "fr": "Pauline Jaricot",
             "en": "Pauline Jaricot",
@@ -926,6 +936,11 @@
             "la": "Philomena Romana",
             "en": "Philomena of Rome",
             "pl": "Filomena z Rzymu"
+        },
+        "records/patrons/photina/sam": {
+            "la": "Photina Samaritana",
+            "en": "Photine the Samaritan",
+            "pl": "Fotyna Samarytanka"
         },
         "records/patrons/raphaela/por": {
             "es": "Rafaela María del Sagrado Corazón",

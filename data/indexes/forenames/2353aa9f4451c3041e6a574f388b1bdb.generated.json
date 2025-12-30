@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Photina"
+    },
+    "translations": {
+        "la": [
+            "Photina"
+        ],
+        "en": [
+            "Photine",
+            "Photini"
+        ],
+        "pl": [
+            "Fotyna"
+        ]
+    },
+    "links": {
+        "records/patrons/photina/sam": {
+            "la": "Photina Samaritana",
+            "en": "Photine the Samaritan",
+            "pl": "Fotyna Samarytanka"
+        }
+    }
+}

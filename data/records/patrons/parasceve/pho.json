@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Parasceve de Roma; cum ea, i.a., Photina Samaritana"
+        ],
+        "en": [
+            "Parasceva of Rome; with her, i.a., Photine the Samaritan"
+        ],
+        "pl": [
+            "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        ]
+    },
+    "forenames": ["parasceve"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": [">33"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["8:Mart./20#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["8:Martii/20#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://fr.wikipedia.org/wiki/Photine_la_Samaritaine"
+    }
+}

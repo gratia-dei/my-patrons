@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Fotios"
+    },
+    "translations": {
+        "la": [
+            "Photius"
+        ],
+        "en": [
+            "Photios",
+            "Fotios"
+        ],
+        "pl": [
+            "Focjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/photius/pho": {
+            "la": "Photius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Photios of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Focjusz z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "Parasceva"
+    },
+    "translations": {
+        "la": [
+            "Parasceve",
+            "Parasceves"
+        ],
+        "en": [
+            "Parasceva"
+        ],
+        "pl": [
+            "Parascewa"
+        ]
+    },
+    "links": {
+        "records/patrons/parasceve/pho": {
+            "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        }
+    }
+}
