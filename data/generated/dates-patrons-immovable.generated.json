@@ -2592,6 +2592,16 @@
                 "reliable-death-anniversary": "24 III"
             }
         },
+        "records/patrons/ladislaus/ulm": {
+            "name": {
+                "pl": "Władysław Ulma",
+                "la": "Ladislaus Ulma",
+                "en": "Ladislaus Ulma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III"
+            }
+        },
         "records/patrons/maria/ulm": {
             "name": {
                 "pl": "Maria Ulma",
@@ -2627,16 +2637,6 @@
                 "pl": "Wiktoria Ulma",
                 "la": "Victoria Ulma",
                 "en": "Victoria Ulma"
-            },
-            "sources": {
-                "reliable-death-anniversary": "24 III"
-            }
-        },
-        "records/patrons/vladislaus/ulm": {
-            "name": {
-                "pl": "Władysław Ulma",
-                "la": "Vladislaus Ulma",
-                "en": "Vladislas Ulma"
             },
             "sources": {
                 "reliable-death-anniversary": "24 III"
@@ -7696,6 +7696,16 @@
                 "feast": "7 IX"
             }
         },
+        "records/patrons/ladislaus/ulm": {
+            "name": {
+                "pl": "Władysław Ulma",
+                "la": "Ladislaus Ulma",
+                "en": "Ladislaus Ulma"
+            },
+            "sources": {
+                "feast": "7 IX"
+            }
+        },
         "records/patrons/maria/ulm": {
             "name": {
                 "pl": "Maria Ulma",
@@ -7731,16 +7741,6 @@
                 "pl": "Wiktoria Ulma",
                 "la": "Victoria Ulma",
                 "en": "Victoria Ulma"
-            },
-            "sources": {
-                "feast": "7 IX"
-            }
-        },
-        "records/patrons/vladislaus/ulm": {
-            "name": {
-                "pl": "Władysław Ulma",
-                "la": "Vladislaus Ulma",
-                "en": "Vladislas Ulma"
             },
             "sources": {
                 "feast": "7 IX"

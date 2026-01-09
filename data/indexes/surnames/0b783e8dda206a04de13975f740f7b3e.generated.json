@@ -28,6 +28,11 @@
             "la": "Iosephus Ulma",
             "en": "Joseph Ulma"
         },
+        "records/patrons/ladislaus/ulm": {
+            "pl": "Władysław Ulma",
+            "la": "Ladislaus Ulma",
+            "en": "Ladislaus Ulma"
+        },
         "records/patrons/maria/ulm": {
             "pl": "Maria Ulma",
             "la": "Maria Ulma",
@@ -47,11 +52,6 @@
             "pl": "Wiktoria Ulma",
             "la": "Victoria Ulma",
             "en": "Victoria Ulma"
-        },
-        "records/patrons/vladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "la": "Vladislaus Ulma",
-            "en": "Vladislas Ulma"
         }
     }
 }

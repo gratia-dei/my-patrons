@@ -14622,6 +14622,28 @@
             }
         }
     },
+    "patrons/ladislaus/ulm": {
+        "active": true,
+        "names": {
+            "pl": "Władysław Ulma",
+            "la": "Ladislaus Ulma",
+            "en": "Ladislaus Ulma"
+        },
+        "died": [
+            "1944-03-24"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ladislaus": {
+                "active": true,
+                "names": {
+                    "la": "Ladislaus",
+                    "en": "Ladislaus",
+                    "pl": "Władysław"
+                }
+            }
+        }
+    },
     "patrons/laetantius": {
         "names": {
             "la": "Laetantius",
@@ -26923,35 +26945,6 @@
                     "la": "Vladimirus",
                     "en": "Vladimir",
                     "pl": "Włodzimierz"
-                }
-            }
-        }
-    },
-    "patrons/vladislaus": {
-        "names": {
-            "la": "Vladislaus",
-            "en": "Vladislaus",
-            "pl": "Władysław"
-        }
-    },
-    "patrons/vladislaus/ulm": {
-        "active": true,
-        "names": {
-            "pl": "Władysław Ulma",
-            "la": "Vladislaus Ulma",
-            "en": "Vladislas Ulma"
-        },
-        "died": [
-            "1944-03-24"
-        ],
-        "feasts": [],
-        "forenames": {
-            "forenames/vladislaus": {
-                "active": true,
-                "names": {
-                    "la": "Vladislaus",
-                    "en": "Vladislaus",
-                    "pl": "Władysław"
                 }
             }
         }

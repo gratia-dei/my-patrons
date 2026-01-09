@@ -1335,6 +1335,11 @@
             "la": "Ladislaus Goral",
             "en": "Ladislaus Goral"
         },
+        "records/patrons/ladislaus/ulm": {
+            "pl": "Władysław Ulma",
+            "la": "Ladislaus Ulma",
+            "en": "Ladislaus Ulma"
+        },
         "records/patrons/laetantius/sci": {
             "la": "Laetantius de Scillium",
             "en": "Laetantius of Scillium",
@@ -2494,11 +2499,6 @@
             "pl": "Włodzimierz Laskowski",
             "la": "Vladimirus Laskowski",
             "en": "Vladimir Laskowski"
-        },
-        "records/patrons/vladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "la": "Vladislaus Ulma",
-            "en": "Vladislas Ulma"
         },
         "records/patrons/xystus/2pp": {
             "la": "Xystus Pp. II",
