@@ -2862,6 +2862,17 @@
                 "feast": "1 IV",
                 "mr-2004": "1 IV: #10"
             }
+        },
+        "records/patrons/maria/aeg": {
+            "name": {
+                "el": "Μαρία η Αιγυπτία",
+                "la": "Maria Aegyptiaca",
+                "en": "Mary of Egypt",
+                "pl": "Maria Egipcjanka"
+            },
+            "sources": {
+                "mr-2004": "1 IV: #3"
+            }
         }
     },
     "04-02": {
@@ -2899,6 +2910,18 @@
                 "reliable-death-anniversary": "2 IV",
                 "feast": "2 IV",
                 "mr-2004": "2 IV: #9"
+            }
+        },
+        "records/patrons/maria/aeg": {
+            "name": {
+                "el": "Μαρία η Αιγυπτία",
+                "la": "Maria Aegyptiaca",
+                "en": "Mary of Egypt",
+                "pl": "Maria Egipcjanka"
+            },
+            "sources": {
+                "mr-1584": "2 IV: #7",
+                "mr-1956": "2 IV: #8"
             }
         }
     },

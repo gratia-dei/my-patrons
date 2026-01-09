@@ -128,8 +128,8 @@
         },
         "records/patrons/maria/aeg": {
             "el": "Μαρία η Αιγυπτία",
-            "en": "Mary of Egypt",
             "la": "Maria Aegyptiaca",
+            "en": "Mary of Egypt",
             "pl": "Maria Egipcjanka"
         },
         "records/patrons/maria/bel": {

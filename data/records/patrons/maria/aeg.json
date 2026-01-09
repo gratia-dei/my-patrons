@@ -1,32 +1,52 @@
 {
-  "names": {
-    "el": [
-      "Μαρία η Αιγυπτία"
+    "names": {
+        "el": [
+            "Μαρία η Αιγυπτία"
+        ],
+        "la": [
+            "Maria Aegyptiaca"
+        ],
+        "en": [
+            "Mary of Egypt"
+        ],
+        "pl": [
+            "Maria Egipcjanka"
+        ]
+    },
+    "forenames": ["maria"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Peccatrix",
+            "en": "Sinner",
+            "pl": "Grzesznica"
+        }
     ],
-    "en": [
-      "Mary of Egypt"
-    ],
-    "la": [
-      "Maria Aegyptiaca"
-    ],
-    "pl": [
-      "Maria Egipcjanka"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Peccatrix",
-      "en": "Sinner",
-      "pl": "Grzesznica"
+    "active": true,
+
+    "born": ["~344"],
+    "died": ["~421"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "solitarius"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./2#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/2#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./1#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72058",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Egipcjanka"
     }
-  ],
-
-  "born": ["~344"],
-  "died": ["~421"],
-
-  "also-in-martyrology": ["04-01", "04-02"],
-
-  "forenames": ["maria"],
-  "categories": ["femina", "solitarius"]
 }

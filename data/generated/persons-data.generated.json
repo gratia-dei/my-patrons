@@ -16478,11 +16478,11 @@
         }
     },
     "patrons/maria/aeg": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Μαρία η Αιγυπτία",
-            "en": "Mary of Egypt",
             "la": "Maria Aegyptiaca",
+            "en": "Mary of Egypt",
             "pl": "Maria Egipcjanka"
         },
         "died": [
