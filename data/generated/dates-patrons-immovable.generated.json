@@ -7439,6 +7439,18 @@
                 "reliable-death-anniversary": "28 VIII",
                 "feast": "28 VIII"
             }
+        },
+        "records/patrons/moyses/aet": {
+            "name": {
+                "la": "Moyses Aethiops",
+                "en": "Moses the Ethiopian",
+                "pl": "Mojżesz Etiopczyk"
+            },
+            "sources": {
+                "mr-1584": "28 VIII: #8",
+                "mr-1956": "28 VIII: #9",
+                "mr-2004": "28 VIII: #9"
+            }
         }
     },
     "08-29": {

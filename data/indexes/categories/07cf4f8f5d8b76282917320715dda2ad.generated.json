@@ -2404,6 +2404,11 @@
             "la": "Modestus Trevirensis",
             "pl": "Modest z Trewiru"
         },
+        "records/patrons/moyses/aet": {
+            "la": "Moyses Aethiops",
+            "en": "Moses the Ethiopian",
+            "pl": "Mojżesz Etiopczyk"
+        },
         "records/patrons/multa/abr": {
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",

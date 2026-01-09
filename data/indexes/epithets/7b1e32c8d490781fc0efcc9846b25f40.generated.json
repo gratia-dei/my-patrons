@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Etiopczyk"
+    },
+    "translations": {
+        "la": [
+            "Aethiops"
+        ],
+        "en": [
+            "the Ethiopian"
+        ],
+        "pl": [
+            "Etiopczyk"
+        ]
+    },
+    "links": {
+        "records/patrons/moyses/aet": {
+            "la": "Moyses Aethiops",
+            "en": "Moses the Ethiopian",
+            "pl": "Mojżesz Etiopczyk"
+        }
+    }
+}

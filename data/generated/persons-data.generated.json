@@ -19451,6 +19451,35 @@
             }
         }
     },
+    "patrons/moyses": {
+        "names": {
+            "la": "Moyses",
+            "en": "Moses",
+            "pl": "Mojżesz"
+        }
+    },
+    "patrons/moyses/aet": {
+        "active": true,
+        "names": {
+            "la": "Moyses Aethiops",
+            "en": "Moses the Ethiopian",
+            "pl": "Mojżesz Etiopczyk"
+        },
+        "died": [
+            "~405"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/moyses": {
+                "active": true,
+                "names": {
+                    "la": "Moyses",
+                    "en": "Moses",
+                    "pl": "Mojżesz"
+                }
+            }
+        }
+    },
     "patrons/multa": {
         "names": {
             "la": "Cum multis nominibus",
