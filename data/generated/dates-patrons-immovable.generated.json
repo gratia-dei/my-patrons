@@ -1410,6 +1410,18 @@
                 "reliable-death-anniversary": "18 II",
                 "mr-2004": "18 II: #11"
             }
+        },
+        "records/patrons/ioannes/fae": {
+            "name": {
+                "it": "Giovanni da Fiesole",
+                "la": "Ioannes Faesulanus",
+                "en": "John from Fiesole",
+                "pl": "Jan z Fiesole"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 II",
+                "mr-2004": "18 II: #6"
+            }
         }
     },
     "02-19": {

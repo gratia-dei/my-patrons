@@ -1,0 +1,27 @@
+{
+    "names": {
+        "en": "Blessed Angelic"
+    },
+    "translations": {
+        "it": [
+            "Beato Angelico"
+        ],
+        "la": [
+            "Beatus Angelicus"
+        ],
+        "en": [
+            "Blessed Angelic"
+        ],
+        "pl": [
+            "Błogosławiony Anielski"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/fae": {
+            "it": "Giovanni da Fiesole",
+            "la": "Ioannes Faesulanus",
+            "en": "John from Fiesole",
+            "pl": "Jan z Fiesole"
+        }
+    }
+}

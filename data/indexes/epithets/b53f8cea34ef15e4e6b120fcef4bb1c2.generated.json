@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "Angelicus"
+    },
+    "translations": {
+        "it": [
+            "Angelico"
+        ],
+        "la": [
+            "Angelicus"
+        ],
+        "en": [
+            "Angelic"
+        ],
+        "pl": [
+            "Anielski"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/fae": {
+            "it": "Giovanni da Fiesole",
+            "la": "Ioannes Faesulanus",
+            "en": "John from Fiesole",
+            "pl": "Jan z Fiesole"
+        }
+    }
+}

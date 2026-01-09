@@ -132,6 +132,12 @@
             "en": "John the Evangelist",
             "pl": "Jan Ewangelista"
         },
+        "records/patrons/ioannes/fae": {
+            "it": "Giovanni da Fiesole",
+            "la": "Ioannes Faesulanus",
+            "en": "John from Fiesole",
+            "pl": "Jan z Fiesole"
+        },
         "records/patrons/ioannes/ham": {
             "en": "John Hambley",
             "la": "Ioannes Hambley",

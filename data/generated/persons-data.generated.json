@@ -12517,6 +12517,36 @@
             }
         }
     },
+    "patrons/ioannes/fae": {
+        "active": true,
+        "names": {
+            "it": "Giovanni da Fiesole",
+            "la": "Ioannes Faesulanus",
+            "en": "John from Fiesole",
+            "pl": "Jan z Fiesole"
+        },
+        "died": [
+            "1455-02-18"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ioannes": {
+                "active": true,
+                "names": {
+                    "la": "Ioannes",
+                    "en": "John",
+                    "pl": "Jan",
+                    "cs": "Jan",
+                    "de": "Johannes",
+                    "es": "Juan",
+                    "fr": "Jean",
+                    "it": "Giovanni",
+                    "pt": "João",
+                    "ko": "요한"
+                }
+            }
+        }
+    },
     "patrons/ioannes/ham": {
         "active": false,
         "names": {
