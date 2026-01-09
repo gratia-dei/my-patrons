@@ -2540,6 +2540,18 @@
         }
     },
     "03-24": {
+        "records/patrons/ansgarius/rom": {
+            "name": {
+                "es": "Óscar Arnulfo Romero y Galdámez",
+                "la": "Ansgarius Arnulphus Romero Galdámez",
+                "en": "Oscar Arnulf Romero Galdámez",
+                "pl": "Oskar Arnulf Romero Galdámez"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III",
+                "feast": "24 III"
+            }
+        },
         "records/patrons/antonius/ulm": {
             "name": {
                 "pl": "Antoni Ulma",

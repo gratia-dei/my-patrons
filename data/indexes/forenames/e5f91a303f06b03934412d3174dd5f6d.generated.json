@@ -1,0 +1,27 @@
+{
+    "names": {
+        "es": "Arnulfo"
+    },
+    "translations": {
+        "la": [
+            "Arnulphus"
+        ],
+        "en": [
+            "Arnulf"
+        ],
+        "pl": [
+            "Arnulf"
+        ],
+        "es": [
+            "Arnulfo"
+        ]
+    },
+    "links": {
+        "records/patrons/ansgarius/rom": {
+            "es": "Óscar Arnulfo Romero y Galdámez",
+            "la": "Ansgarius Arnulphus Romero Galdámez",
+            "en": "Oscar Arnulf Romero Galdámez",
+            "pl": "Oskar Arnulf Romero Galdámez"
+        }
+    }
+}

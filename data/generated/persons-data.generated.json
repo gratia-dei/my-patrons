@@ -2261,7 +2261,8 @@
             "la": "Ansgarius",
             "en": "Ansgar",
             "pl": "Ansgar",
-            "de": "Ansgar"
+            "de": "Ansgar",
+            "es": "Óscar"
         }
     },
     "patrons/ansgarius/ham": {
@@ -2283,7 +2284,42 @@
                     "la": "Ansgarius",
                     "en": "Ansgar",
                     "pl": "Ansgar",
-                    "de": "Ansgar"
+                    "de": "Ansgar",
+                    "es": "Óscar"
+                }
+            }
+        }
+    },
+    "patrons/ansgarius/rom": {
+        "active": true,
+        "names": {
+            "es": "Óscar Arnulfo Romero y Galdámez",
+            "la": "Ansgarius Arnulphus Romero Galdámez",
+            "en": "Oscar Arnulf Romero Galdámez",
+            "pl": "Oskar Arnulf Romero Galdámez"
+        },
+        "died": [
+            "1980-03-24"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ansgarius": {
+                "active": true,
+                "names": {
+                    "la": "Ansgarius",
+                    "en": "Ansgar",
+                    "pl": "Ansgar",
+                    "de": "Ansgar",
+                    "es": "Óscar"
+                }
+            },
+            "forenames/arnulphus": {
+                "active": true,
+                "names": {
+                    "la": "Arnulphus",
+                    "en": "Arnulf",
+                    "pl": "Arnulf",
+                    "es": "Arnulfo"
                 }
             }
         }

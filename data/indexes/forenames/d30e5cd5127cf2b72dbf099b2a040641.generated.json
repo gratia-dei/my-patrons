@@ -18,6 +18,9 @@
         "de": [
             "Ansgar",
             "Anskar"
+        ],
+        "es": [
+            "Óscar"
         ]
     },
     "links": {
@@ -26,6 +29,12 @@
             "la": "Ansgarius Bremensis",
             "en": "Ansgar of Bremen",
             "pl": "Ansgar z Bremy"
+        },
+        "records/patrons/ansgarius/rom": {
+            "es": "Óscar Arnulfo Romero y Galdámez",
+            "la": "Ansgarius Arnulphus Romero Galdámez",
+            "en": "Oscar Arnulf Romero Galdámez",
+            "pl": "Oskar Arnulf Romero Galdámez"
         }
     }
 }

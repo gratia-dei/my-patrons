@@ -241,7 +241,8 @@
         "la": "Ansgarius",
         "en": "Ansgar",
         "pl": "Ansgar",
-        "de": "Ansgar"
+        "de": "Ansgar",
+        "es": "Óscar"
     },
     "antiochus": {
         "la": "Antiochus",
@@ -301,6 +302,12 @@
         "la": "Aristides",
         "en": "Aristides",
         "pl": "Arystydes"
+    },
+    "arnulphus": {
+        "la": "Arnulphus",
+        "en": "Arnulf",
+        "pl": "Arnulf",
+        "es": "Arnulfo"
     },
     "aspren": {
         "la": "Aspren",

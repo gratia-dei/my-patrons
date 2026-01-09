@@ -1,0 +1,59 @@
+{
+    "names": {
+        "es": [
+            "Óscar Arnulfo Romero y Galdámez"
+        ],
+        "la": [
+            "Ansgarius Arnulphus Romero Galdámez"
+        ],
+        "en": [
+            "Oscar Arnulf Romero Galdámez"
+        ],
+        "pl": [
+            "Oskar Arnulf Romero Galdámez"
+        ]
+    },
+    "forenames": ["ansgarius", "arnulphus"],
+    "surnames": [
+        {
+            "es": "Romero"
+        },
+        {
+            "es": "Galdámez"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1917-08-15"],
+    "died": ["1980-03-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2015-05-23"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2018-10-14"
+    },
+    "anniversary": ["03-24"],
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/oscar-romero.html",
+        "gcatholic": "https://gcatholic.org/p/11631",
+        "wiki": "https://pl.wikipedia.org/wiki/Oskar_Romero"
+    }
+}
