@@ -1,42 +1,56 @@
 {
-  "names": {
-    "pl": [
-      "Urszula Ledóchowska",
-      "Julia Ledóchowska"
+    "names": {
+        "pl": [
+            "Urszula Ledóchowska",
+            "Julia Ledóchowska"
+        ],
+        "la": [
+            "Urszula Ledóchowska",
+            "Iulia Ledóchowska"
+        ],
+        "en": [
+            "Ursula Ledóchowska",
+            "Julia Ledóchowska"
+        ]
+    },
+    "forenames": ["ursula", "iulia"],
+    "surnames": [
+        {
+            "pl": "Ledóchowska"
+        }
     ],
-    "en": [
-      "Ursula Ledóchowska",
-      "Julia Ledóchowska"
-    ],
-    "la": [
-      "Urszula Ledóchowska",
-      "Iulia Ledóchowska"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Ledóchowska"
+    "active": true,
+
+    "born": ["1865-04-17"],
+    "died": ["1939-05-29"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1983-06-20"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2003-05-18"
+    },
+    "anniversary": ["07-06"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/29#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/urszula-ledochowska.html",
+        "gcatholic": "https://gcatholic.org/p/67253",
+        "wiki": "https://pl.wikipedia.org/wiki/Urszula_Led%C3%B3chowska"
     }
-  ],
-
-  "born": ["1865-04-17"],
-  "died": ["1939-05-29"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1983-06-20"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2003-05-18"
-  },
-
-  "also-in-martyrology": ["05-29"],
-
-  "forenames": ["ursula", "iulia"],
-  "categories": ["femina", "virgo", "fundator"],
-
-  "order": ["usjk"],
-  "order-founder": ["usjk"]
 }

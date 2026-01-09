@@ -4375,6 +4375,17 @@
         }
     },
     "05-29": {
+        "records/patrons/ursula/led": {
+            "name": {
+                "pl": "Urszula Ledóchowska",
+                "la": "Urszula Ledóchowska",
+                "en": "Ursula Ledóchowska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 V",
+                "mr-2004": "29 V: #12"
+            }
+        },
         "records/patrons/maria/paz": {
             "name": {
                 "it": "Maria Maddalena de' Pazzi",
@@ -5226,6 +5237,16 @@
         }
     },
     "07-06": {
+        "records/patrons/ursula/led": {
+            "name": {
+                "pl": "Urszula Ledóchowska",
+                "la": "Urszula Ledóchowska",
+                "en": "Ursula Ledóchowska"
+            },
+            "sources": {
+                "feast": "6 VII"
+            }
+        },
         "records/patrons/tranquillinus/rom": {
             "name": {
                 "la": "Tranquillinus de Roma",

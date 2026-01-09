@@ -25997,11 +25997,11 @@
         }
     },
     "patrons/ursula/led": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Urszula Ledóchowska",
-            "en": "Ursula Ledóchowska",
-            "la": "Urszula Ledóchowska"
+            "la": "Urszula Ledóchowska",
+            "en": "Ursula Ledóchowska"
         },
         "died": [
             "1939-05-29"
