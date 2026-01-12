@@ -277,7 +277,7 @@ requirejs(
       }
 
       const sortedDataArr = dataArr.sort(function (a, b) {
-        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.last < b.last ? -1 : 1);
       });
 
       const rowNumberColumnWidth = "40px";
@@ -435,7 +435,7 @@ requirejs(
       }
 
       const sortedDataArr = dataArr.sort(function (a, b) {
-        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.first < b.first ? -1 : 1);
+        return a.count > b.count ? -1 : a.count < b.count ? 1 : (a.last < b.last ? -1 : 1);
       });
 
       const rowNumberColumnWidth = "40px";
@@ -586,7 +586,7 @@ requirejs(
       }
 
       const sortedDataArr = dataArr.sort(function (a, b) {
-        return a.points > b.points ? -1 : a.points < b.points ? 1 : (a.first < b.first ? -1 : 1);
+        return a.points > b.points ? -1 : a.points < b.points ? 1 : (a.last < b.last ? -1 : 1);
       });
 
       const rowNumberColumnWidth = "40px";
