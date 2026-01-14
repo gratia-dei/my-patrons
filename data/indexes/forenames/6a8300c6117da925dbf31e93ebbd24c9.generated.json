@@ -36,6 +36,11 @@
             "pl": "Roman Archutowski",
             "en": "Roman Archutowski",
             "la": "Romanus Archutowski"
+        },
+        "records/patrons/romanus/mel": {
+            "la": "Romanus Melodus",
+            "en": "Roman the Melodist",
+            "pl": "Roman Melodos"
         }
     }
 }

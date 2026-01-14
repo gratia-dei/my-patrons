@@ -1,0 +1,51 @@
+{
+    "names": {
+        "la": [
+            "Romanus Melodus"
+        ],
+        "en": [
+            "Roman the Melodist"
+        ],
+        "pl": [
+            "Roman Melodos",
+            "Roman Pieśniarz",
+            "Roman Hymnograf"
+        ]
+    },
+    "forenames": ["romanus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Melodus",
+            "en": "the Melodist",
+            "pl": ["Melodos", "Pieśniarz", "Hymnograf"]
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["~555", "~565"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "diaconus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./1#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73873",
+        "wiki": "https://pl.wikipedia.org/wiki/Roman_Melodos"
+    }
+}

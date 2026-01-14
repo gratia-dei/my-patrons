@@ -2885,6 +2885,11 @@
             "en": "Roman Archutowski",
             "la": "Romanus Archutowski"
         },
+        "records/patrons/romanus/mel": {
+            "la": "Romanus Melodus",
+            "en": "Roman the Melodist",
+            "pl": "Roman Melodos"
+        },
         "records/patrons/romualdus/cam": {
             "it": "Romualdo di Camaldoli",
             "en": "Romuald of Camaldoli",

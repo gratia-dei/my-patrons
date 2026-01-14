@@ -9081,6 +9081,16 @@
                 "feast": "1 X",
                 "mr-2004": "1 X: #1"
             }
+        },
+        "records/patrons/romanus/mel": {
+            "name": {
+                "la": "Romanus Melodus",
+                "en": "Roman the Melodist",
+                "pl": "Roman Melodos"
+            },
+            "sources": {
+                "mr-2004": "1 X: #4"
+            }
         }
     },
     "10-02": {

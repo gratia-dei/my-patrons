@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Melodus"
+    },
+    "translations": {
+        "la": [
+            "Melodus"
+        ],
+        "en": [
+            "the Melodist"
+        ],
+        "pl": [
+            "Melodos",
+            "Pieśniarz",
+            "Hymnograf"
+        ]
+    },
+    "links": {
+        "records/patrons/romanus/mel": {
+            "la": "Romanus Melodus",
+            "en": "Roman the Melodist",
+            "pl": "Roman Melodos"
+        }
+    }
+}

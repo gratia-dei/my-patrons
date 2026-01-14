@@ -22982,6 +22982,31 @@
             }
         }
     },
+    "patrons/romanus/mel": {
+        "active": true,
+        "names": {
+            "la": "Romanus Melodus",
+            "en": "Roman the Melodist",
+            "pl": "Roman Melodos"
+        },
+        "died": [
+            "~555",
+            "~565"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/romanus": {
+                "active": true,
+                "names": {
+                    "la": "Romanus",
+                    "en": "Roman",
+                    "pl": "Roman",
+                    "es": "Román",
+                    "fr": "Romain"
+                }
+            }
+        }
+    },
     "patrons/romualdus": {
         "names": {
             "la": "Romualdus",
