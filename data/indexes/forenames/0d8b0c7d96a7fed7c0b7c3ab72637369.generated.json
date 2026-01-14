@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Prokop"
+    },
+    "translations": {
+        "la": [
+            "Procopius"
+        ],
+        "en": [
+            "Procopius"
+        ],
+        "pl": [
+            "Prokop"
+        ]
+    },
+    "links": {
+        "records/patrons/procopius/cae": {
+            "la": "Procopius de Scythopolis",
+            "en": "Procopius of Scythopolis",
+            "pl": "Prokop ze Scytopolis"
+        }
+    }
+}
