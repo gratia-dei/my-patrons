@@ -11293,6 +11293,17 @@
                 "feast": "12 XII",
                 "mr-2004": "12 XII: #12"
             }
+        },
+        "records/patrons/spyridon/cyp": {
+            "name": {
+                "el": "Σπυρίδων Τριμυθούντος",
+                "la": "Spyridon Trimituntinus",
+                "en": "Spyridon of Tremithus",
+                "pl": "Spirydon z Tremituntu"
+            },
+            "sources": {
+                "mr-2004": "12 XII: #3"
+            }
         }
     },
     "12-13": {
@@ -11333,6 +11344,18 @@
                 "feast": "14 XII",
                 "mr-1956": "14 XII: #1",
                 "mr-2004": "14 XII: #1"
+            }
+        },
+        "records/patrons/spyridon/cyp": {
+            "name": {
+                "el": "Σπυρίδων Τριμυθούντος",
+                "la": "Spyridon Trimituntinus",
+                "en": "Spyridon of Tremithus",
+                "pl": "Spirydon z Tremituntu"
+            },
+            "sources": {
+                "mr-1584": "14 XII: #4",
+                "mr-1956": "14 XII: #6"
             }
         }
     },

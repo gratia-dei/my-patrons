@@ -24728,6 +24728,38 @@
             }
         }
     },
+    "patrons/spyridon": {
+        "names": {
+            "la": "Spyridon",
+            "en": "Spyridon",
+            "pl": "Spirydon",
+            "el": "Σπυρίδων"
+        }
+    },
+    "patrons/spyridon/cyp": {
+        "active": true,
+        "names": {
+            "el": "Σπυρίδων Τριμυθούντος",
+            "la": "Spyridon Trimituntinus",
+            "en": "Spyridon of Tremithus",
+            "pl": "Spirydon z Tremituntu"
+        },
+        "died": [
+            "348"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/spyridon": {
+                "active": true,
+                "names": {
+                    "la": "Spyridon",
+                    "en": "Spyridon",
+                    "pl": "Spirydon",
+                    "el": "Σπυρίδων"
+                }
+            }
+        }
+    },
     "patrons/stanislaus": {
         "names": {
             "la": "Stanislaus",

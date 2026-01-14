@@ -1,0 +1,28 @@
+{
+    "names": {
+        "el": "Σπυρίδων"
+    },
+    "translations": {
+        "la": [
+            "Spyridon",
+            "Spiridion"
+        ],
+        "en": [
+            "Spyridon"
+        ],
+        "pl": [
+            "Spirydon"
+        ],
+        "el": [
+            "Σπυρίδων"
+        ]
+    },
+    "links": {
+        "records/patrons/spyridon/cyp": {
+            "el": "Σπυρίδων Τριμυθούντος",
+            "la": "Spyridon Trimituntinus",
+            "en": "Spyridon of Tremithus",
+            "pl": "Spirydon z Tremituntu"
+        }
+    }
+}
