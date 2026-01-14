@@ -12495,6 +12495,35 @@
             }
         }
     },
+    "patrons/ioannes/ele": {
+        "active": true,
+        "names": {
+            "la": "Ioannes Eleemosynarius",
+            "en": "John the Almsgiver",
+            "pl": "Jan Jałmużnik"
+        },
+        "died": [
+            "~620"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ioannes": {
+                "active": true,
+                "names": {
+                    "la": "Ioannes",
+                    "en": "John",
+                    "pl": "Jan",
+                    "cs": "Jan",
+                    "de": "Johannes",
+                    "es": "Juan",
+                    "fr": "Jean",
+                    "it": "Giovanni",
+                    "pt": "João",
+                    "ko": "요한"
+                }
+            }
+        }
+    },
     "patrons/ioannes/eva": {
         "active": true,
         "names": {

@@ -1,0 +1,50 @@
+{
+    "names": {
+        "la": [
+            "Ioannes Eleemosynarius"
+        ],
+        "en": [
+            "John the Almsgiver",
+            "John Eleemon"
+        ],
+        "pl": [
+            "Jan Jałmużnik"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Eleemosynarius",
+            "en": ["the Almsgiver", "Eleemon"],
+            "pl": "Jałmużnik"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["~550"],
+    "died": ["~620"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./11#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71179",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Ja%C5%82mu%C5%BCnik"
+    }
+}

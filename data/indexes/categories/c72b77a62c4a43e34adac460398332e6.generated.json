@@ -1779,6 +1779,11 @@
             "la": "Ioannes Duns Scotus",
             "pl": "Jan Duns Szkot"
         },
+        "records/patrons/ioannes/ele": {
+            "la": "Ioannes Eleemosynarius",
+            "en": "John the Almsgiver",
+            "pl": "Jan Jałmużnik"
+        },
         "records/patrons/ioannes/eva": {
             "la": "Ioannes Evangelista",
             "en": "John the Evangelist",

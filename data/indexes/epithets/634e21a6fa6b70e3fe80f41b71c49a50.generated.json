@@ -1,0 +1,24 @@
+{
+    "names": {
+        "en": "the Almsgiver"
+    },
+    "translations": {
+        "la": [
+            "Eleemosynarius"
+        ],
+        "en": [
+            "the Almsgiver",
+            "Eleemon"
+        ],
+        "pl": [
+            "Jałmużnik"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/ele": {
+            "la": "Ioannes Eleemosynarius",
+            "en": "John the Almsgiver",
+            "pl": "Jan Jałmużnik"
+        }
+    }
+}

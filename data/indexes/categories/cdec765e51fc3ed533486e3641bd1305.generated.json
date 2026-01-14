@@ -365,6 +365,11 @@
             "en": "John Chrysostom",
             "pl": "Jan Chryzostom"
         },
+        "records/patrons/ioannes/ele": {
+            "la": "Ioannes Eleemosynarius",
+            "en": "John the Almsgiver",
+            "pl": "Jan Jałmużnik"
+        },
         "records/patrons/ioannes/rib": {
             "es": "Juan de Ribera",
             "en": "John de Ribera",

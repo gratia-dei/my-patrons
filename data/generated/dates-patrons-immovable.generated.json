@@ -10467,6 +10467,16 @@
                 "mr-1956": "11 XI: #1",
                 "mr-2004": "11 XI: #1"
             }
+        },
+        "records/patrons/ioannes/ele": {
+            "name": {
+                "la": "Ioannes Eleemosynarius",
+                "en": "John the Almsgiver",
+                "pl": "Jan Jałmużnik"
+            },
+            "sources": {
+                "mr-2004": "11 XI: #5"
+            }
         }
     },
     "11-12": {
