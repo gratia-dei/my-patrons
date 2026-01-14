@@ -10800,6 +10800,35 @@
             }
         }
     },
+    "patrons/hugo": {
+        "names": {
+            "la": "Hugo",
+            "en": "Hugo",
+            "pl": "Hugo"
+        }
+    },
+    "patrons/hugo/lin": {
+        "active": true,
+        "names": {
+            "en": "Hugo of Lincoln",
+            "la": "Hugo Lincolniensis",
+            "pl": "Hugo z Lincoln"
+        },
+        "died": [
+            "1200-11-17"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/hugo": {
+                "active": true,
+                "names": {
+                    "la": "Hugo",
+                    "en": "Hugo",
+                    "pl": "Hugo"
+                }
+            }
+        }
+    },
     "patrons/hyacintha": {
         "names": {
             "la": "Hyacintha",

@@ -1543,6 +1543,11 @@
             "en": "Hormisdas",
             "pl": "Hormizdas"
         },
+        "records/patrons/hugo/lin": {
+            "en": "Hugo of Lincoln",
+            "la": "Hugo Lincolniensis",
+            "pl": "Hugo z Lincoln"
+        },
         "records/patrons/hyacinthus/cor": {
             "fr": "Hyacinthe-Marie Cormier",
             "la": "Hyacinthus Cormier",

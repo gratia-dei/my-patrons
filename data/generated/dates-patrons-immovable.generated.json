@@ -10619,6 +10619,17 @@
         }
     },
     "11-17": {
+        "records/patrons/hugo/lin": {
+            "name": {
+                "en": "Hugo of Lincoln",
+                "la": "Hugo Lincolniensis",
+                "pl": "Hugo z Lincoln"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 XI",
+                "mr-2004": "17 XI: #12"
+            }
+        },
         "records/patrons/salomea/reg": {
             "name": {
                 "pl": "Salomea Piastówna",

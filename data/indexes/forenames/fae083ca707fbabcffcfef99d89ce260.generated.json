@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "Hugon"
+    },
+    "translations": {
+        "la": [
+            "Hugo"
+        ],
+        "en": [
+            "Hugo"
+        ],
+        "pl": [
+            "Hugo",
+            "Hugon"
+        ]
+    },
+    "links": {
+        "records/patrons/hugo/lin": {
+            "en": "Hugo of Lincoln",
+            "la": "Hugo Lincolniensis",
+            "pl": "Hugo z Lincoln"
+        }
+    }
+}

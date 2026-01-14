@@ -514,6 +514,11 @@
     "1aa27eb7de8d92bd383c5b21bc2eb850": {
         "it": "Ricovero"
     },
+    "1b3840b0b70d91c17e70014c8537dbba": {
+        "la": "Hugo",
+        "en": "Hugo",
+        "pl": "Hugo"
+    },
     "1b60d982cb1c5485a0ef85b2248a0e3f": {
         "la": "Zosimus",
         "en": "Zosimus"
@@ -4744,6 +4749,9 @@
     },
     "facd3e6dd9f884688ad7ec408117816a": {
         "pl": "Witalis"
+    },
+    "fae083ca707fbabcffcfef99d89ce260": {
+        "pl": "Hugon"
     },
     "fafb83893a003818f2deec5cd20667b9": {
         "la": "Sibyllina",

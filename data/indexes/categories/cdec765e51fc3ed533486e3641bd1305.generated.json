@@ -327,6 +327,11 @@
             "en": "Hilarius of Aquileia",
             "pl": "Hilary z Akwilei"
         },
+        "records/patrons/hugo/lin": {
+            "en": "Hugo of Lincoln",
+            "la": "Hugo Lincolniensis",
+            "pl": "Hugo z Lincoln"
+        },
         "records/patrons/iacobus/ben": {
             "it": "Giacomo Benfatti",
             "la": "Iacobus Benfatti",

@@ -1,0 +1,45 @@
+{
+    "names": {
+        "en": [
+            "Hugo of Lincoln",
+            "Hugo of Avalon"
+        ],
+        "la": [
+            "Hugo Lincolniensis"
+        ],
+        "pl": [
+            "Hugo z Lincoln",
+            "Hugo z Avalon"
+        ]
+    },
+    "forenames": ["hugo"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1140"],
+    "died": ["1200-11-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./17#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/54323",
+        "wiki": "https://pl.wikipedia.org/wiki/Hugo_z_Lincoln"
+    }
+}
