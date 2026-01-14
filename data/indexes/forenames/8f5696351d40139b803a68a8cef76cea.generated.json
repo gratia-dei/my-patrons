@@ -12,6 +12,9 @@
         ],
         "pl": [
             "Helena"
+        ],
+        "uk": [
+            "Олена"
         ]
     },
     "links": {
@@ -35,6 +38,12 @@
             "pl": "Maria Faustyna Kowalska",
             "la": "Maria Faustina Kowalska",
             "en": "Maria Faustyna Kowalska"
+        },
+        "records/patrons/olga/kio": {
+            "uk": "Ольга, княгиня",
+            "la": "Olga Kioviensis",
+            "en": "Olga of Kiev",
+            "pl": "Olga Kijowska"
         }
     }
 }

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "uk": "Ольга"
+    },
+    "translations": {
+        "la": [
+            "Olga"
+        ],
+        "en": [
+            "Olga"
+        ],
+        "pl": [
+            "Olga"
+        ],
+        "uk": [
+            "Ольга"
+        ]
+    },
+    "links": {
+        "records/patrons/olga/kio": {
+            "uk": "Ольга, княгиня",
+            "la": "Olga Kioviensis",
+            "en": "Olga of Kiev",
+            "pl": "Olga Kijowska"
+        }
+    }
+}

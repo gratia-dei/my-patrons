@@ -1,0 +1,46 @@
+{
+    "names": {
+        "uk": [
+            "Ольга, княгиня"
+        ],
+        "la": [
+            "Olga Kioviensis"
+        ],
+        "en": [
+            "Olga of Kiev"
+        ],
+        "pl": [
+            "Olga Kijowska"
+        ]
+    },
+    "forenames": ["olga", "helena"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": [">890", "<927"],
+    "died": ["969"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./11#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69571",
+        "wiki": "https://pl.wikipedia.org/wiki/Olga_Kijowska"
+    }
+}

@@ -1031,7 +1031,8 @@
     "helena": {
         "la": "Helena",
         "en": "Helen",
-        "pl": "Helena"
+        "pl": "Helena",
+        "uk": "Олена"
     },
     "henricus": {
         "la": "Henricus",
@@ -1632,6 +1633,12 @@
         "la": "Nympha",
         "en": "Nympha",
         "pl": "Nimfa"
+    },
+    "olga": {
+        "la": "Olga",
+        "en": "Olga",
+        "pl": "Olga",
+        "uk": "Ольга"
     },
     "onesiphorus": {
         "la": "Onesiphorus",

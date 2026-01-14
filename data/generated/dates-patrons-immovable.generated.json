@@ -5489,6 +5489,17 @@
             "sources": {
                 "mr-2004": "11 VII: #1"
             }
+        },
+        "records/patrons/olga/kio": {
+            "name": {
+                "uk": "Ольга, княгиня",
+                "la": "Olga Kioviensis",
+                "en": "Olga of Kiev",
+                "pl": "Olga Kijowska"
+            },
+            "sources": {
+                "mr-2004": "11 VII: #10"
+            }
         }
     },
     "07-12": {

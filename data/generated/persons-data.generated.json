@@ -10347,7 +10347,8 @@
         "names": {
             "la": "Helena",
             "en": "Helen",
-            "pl": "Helena"
+            "pl": "Helena",
+            "uk": "Олена"
         }
     },
     "patrons/helena/ens": {
@@ -10368,7 +10369,8 @@
                 "names": {
                     "la": "Helena",
                     "en": "Helen",
-                    "pl": "Helena"
+                    "pl": "Helena",
+                    "uk": "Олена"
                 }
             }
         }
@@ -10390,7 +10392,8 @@
                 "names": {
                     "la": "Helena",
                     "en": "Helen",
-                    "pl": "Helena"
+                    "pl": "Helena",
+                    "uk": "Олена"
                 }
             }
         }
@@ -16770,7 +16773,8 @@
                 "names": {
                     "la": "Helena",
                     "en": "Helen",
-                    "pl": "Helena"
+                    "pl": "Helena",
+                    "uk": "Олена"
                 }
             }
         }
@@ -17143,7 +17147,8 @@
                 "names": {
                     "la": "Helena",
                     "en": "Helen",
-                    "pl": "Helena"
+                    "pl": "Helena",
+                    "uk": "Олена"
                 }
             }
         }
@@ -20554,6 +20559,47 @@
                     "la": "Nympha",
                     "en": "Nympha",
                     "pl": "Nimfa"
+                }
+            }
+        }
+    },
+    "patrons/olga": {
+        "names": {
+            "la": "Olga",
+            "en": "Olga",
+            "pl": "Olga",
+            "uk": "Ольга"
+        }
+    },
+    "patrons/olga/kio": {
+        "active": true,
+        "names": {
+            "uk": "Ольга, княгиня",
+            "la": "Olga Kioviensis",
+            "en": "Olga of Kiev",
+            "pl": "Olga Kijowska"
+        },
+        "died": [
+            "969"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/olga": {
+                "active": true,
+                "names": {
+                    "la": "Olga",
+                    "en": "Olga",
+                    "pl": "Olga",
+                    "uk": "Ольга"
+                }
+            },
+            "forenames/helena": {
+                "active": true,
+                "names": {
+                    "la": "Helena",
+                    "en": "Helen",
+                    "pl": "Helena",
+                    "uk": "Олена"
                 }
             }
         }
