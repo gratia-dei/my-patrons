@@ -371,6 +371,12 @@
             "en": "Joseph of Nazareth",
             "pl": "Józef z Nazaretu"
         },
+        "records/patrons/iosephus/cup": {
+            "it": "Giuseppe da Copertino",
+            "la": "Iosephus de Cupertino",
+            "en": "Joseph of Cupertino",
+            "pl": "Józef z Kupertynu"
+        },
         "records/patrons/isidorus/his": {
             "la": "Isidorus Hispalensis",
             "en": "Isidore of Seville",

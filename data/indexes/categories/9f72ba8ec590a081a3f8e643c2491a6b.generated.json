@@ -107,6 +107,12 @@
             "la": "Ioannes Ogilvie",
             "pl": "Jan Ogilvie"
         },
+        "records/patrons/iosephus/cup": {
+            "it": "Giuseppe da Copertino",
+            "la": "Iosephus de Cupertino",
+            "en": "Joseph of Cupertino",
+            "pl": "Józef z Kupertynu"
+        },
         "records/patrons/isaac/jog": {
             "fr": "Isaac Jogues",
             "la": "Isaac Jogues",

@@ -8202,6 +8202,20 @@
         }
     },
     "09-18": {
+        "records/patrons/iosephus/cup": {
+            "name": {
+                "it": "Giuseppe da Copertino",
+                "la": "Iosephus de Cupertino",
+                "en": "Joseph of Cupertino",
+                "pl": "Józef z Kupertynu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 IX",
+                "feast": "18 IX",
+                "mr-1956": "18 IX: #1",
+                "mr-2004": "18 IX: #9"
+            }
+        },
         "records/patrons/david/oke": {
             "name": {
                 "sw": "Daudi Okelo",

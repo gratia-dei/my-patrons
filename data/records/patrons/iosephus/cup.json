@@ -1,0 +1,53 @@
+{
+    "names": {
+        "it": [
+            "Giuseppe da Copertino"
+        ],
+        "la": [
+            "Iosephus de Cupertino",
+            "Iosephus a Cupertino"
+        ],
+        "en": [
+            "Joseph of Cupertino"
+        ],
+        "pl": [
+            "Józef z Kupertynu"
+        ]
+    },
+    "forenames": ["iosephus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1603-06-17"],
+    "died": ["1663-09-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1753-02-24"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1767-07-16"
+    },
+    "anniversary": ["09-18"],
+
+    "categories": ["vir", "confessor", "presbyter", "sacerdos"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/18#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./18#9"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giuseppe-da-copertino.html",
+        "gcatholic": "https://gcatholic.org/p/68261",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_z_Kupertynu"
+    }
+}

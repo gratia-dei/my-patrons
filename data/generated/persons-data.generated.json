@@ -13468,6 +13468,36 @@
             }
         }
     },
+    "patrons/iosephus/cup": {
+        "active": true,
+        "names": {
+            "it": "Giuseppe da Copertino",
+            "la": "Iosephus de Cupertino",
+            "en": "Joseph of Cupertino",
+            "pl": "Józef z Kupertynu"
+        },
+        "died": [
+            "1663-09-18"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iosephus": {
+                "active": true,
+                "names": {
+                    "la": "Iosephus",
+                    "en": "Joseph",
+                    "pl": "Józef",
+                    "es": "José",
+                    "fr": "Joseph",
+                    "it": "Giuseppe",
+                    "ko": "요셉",
+                    "nl": "Jozef",
+                    "vi": "Giuse",
+                    "zh": "若瑟"
+                }
+            }
+        }
+    },
     "patrons/iosephus/esc": {
         "active": true,
         "names": {
