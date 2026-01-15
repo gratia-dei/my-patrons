@@ -962,6 +962,11 @@
             "la": "Sigismundus Gorazdowski",
             "en": "Sigismund Gorazdowski"
         },
+        "records/patrons/simeon/sti": {
+            "la": "Simeon Stylita Iunior",
+            "en": "Simeon Stylites the Younger",
+            "pl": "Symeon Słupnik Młodszy"
+        },
         "records/patrons/simon/lip": {
             "pl": "Szymon z Lipnicy",
             "la": "Simon de Lipnica",

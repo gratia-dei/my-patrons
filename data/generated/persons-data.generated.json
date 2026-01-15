@@ -24348,6 +24348,28 @@
             }
         }
     },
+    "patrons/simeon/sti": {
+        "active": true,
+        "names": {
+            "la": "Simeon Stylita Iunior",
+            "en": "Simeon Stylites the Younger",
+            "pl": "Symeon Słupnik Młodszy"
+        },
+        "died": [
+            "592"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/simeon": {
+                "active": true,
+                "names": {
+                    "la": "Simeon",
+                    "en": "Simeon",
+                    "pl": "Symeon"
+                }
+            }
+        }
+    },
     "patrons/simon": {
         "names": {
             "la": "Simon",

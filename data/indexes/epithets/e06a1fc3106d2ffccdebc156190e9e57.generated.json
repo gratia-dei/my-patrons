@@ -1,13 +1,13 @@
 {
     "names": {
-        "en": "the Styllite"
+        "en": "Stylites"
     },
     "translations": {
         "la": [
             "Stylita"
         ],
         "en": [
-            "the Styllite"
+            "Stylites"
         ],
         "pl": [
             "Słupnik"
@@ -18,6 +18,11 @@
             "la": "Symeon Stylita Senior",
             "en": "Simeon Stylites the Elder",
             "pl": "Symeon Słupnik Starszy"
+        },
+        "records/patrons/simeon/sti": {
+            "la": "Simeon Stylita Iunior",
+            "en": "Simeon Stylites the Younger",
+            "pl": "Symeon Słupnik Młodszy"
         }
     }
 }

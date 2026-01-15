@@ -4265,6 +4265,16 @@
             "sources": {
                 "reliable-death-anniversary": "24 V"
             }
+        },
+        "records/patrons/simeon/sti": {
+            "name": {
+                "la": "Simeon Stylita Iunior",
+                "en": "Simeon Stylites the Younger",
+                "pl": "Symeon Słupnik Młodszy"
+            },
+            "sources": {
+                "mr-2004": "24 V: #8"
+            }
         }
     },
     "05-25": {
@@ -7678,6 +7688,17 @@
             "sources": {
                 "reliable-death-anniversary": "3 IX",
                 "mr-2004": "3 IX: #16"
+            }
+        },
+        "records/patrons/simeon/sti": {
+            "name": {
+                "la": "Simeon Stylita Iunior",
+                "en": "Simeon Stylites the Younger",
+                "pl": "Symeon Słupnik Młodszy"
+            },
+            "sources": {
+                "mr-1584": "3 IX: #12",
+                "mr-1956": "3 IX: #11"
             }
         },
         "records/patrons/pius/10p": {

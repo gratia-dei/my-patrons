@@ -37,6 +37,11 @@
             "en": "Romuald of Camaldoli",
             "la": "Romualdus Camaldulensis",
             "pl": "Romuald z Camaldoli"
+        },
+        "records/patrons/simeon/sti": {
+            "la": "Simeon Stylita Iunior",
+            "en": "Simeon Stylites the Younger",
+            "pl": "Symeon Słupnik Młodszy"
         }
     }
 }
