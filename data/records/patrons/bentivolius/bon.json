@@ -1,31 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Bentivoglio de Bonis"
-    ],
-    "la": [
-      "Bentivolius de Bonis"
-    ],
-    "en": [
-      "Bentivoglio de Bonis"
-    ],
-    "pl": [
-      "Bentivoglio de Bonis"
-    ]
-  },
+    "names": {
+        "it": [
+            "Bentivoglio de Bonis"
+        ],
+        "la": [
+            "Bentivolius de Bonis"
+        ],
+        "en": [
+            "Bentivolius of Bonis"
+        ],
+        "pl": [
+            "Bentiwoliusz z Bonis"
+        ]
+    },
+    "forenames": ["bentivolius"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1188"],
-  "died": ["1232"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1852-09-30"
-  },
+    "born": ["~1188"],
+    "died": ["1232"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["12-25"],
+    "categories": ["vir", "presbyter"],
 
-  "forenames": ["bentivolius"],
-  "categories": ["vir", "presbyter"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ofm"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./25#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68754",
+        "wiki": "https://pl.wikipedia.org/wiki/Bentivoglio_de_Bonis"
+    }
 }

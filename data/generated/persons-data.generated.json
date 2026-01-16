@@ -3967,18 +3967,18 @@
     "patrons/bentivolius": {
         "names": {
             "la": "Bentivolius",
-            "en": "Bentivoglio",
-            "pl": "Bentivoglio",
+            "en": "Bentivolius",
+            "pl": "Bentiwoliusz",
             "it": "Bentivoglio"
         }
     },
     "patrons/bentivolius/bon": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Bentivoglio de Bonis",
             "la": "Bentivolius de Bonis",
-            "en": "Bentivoglio de Bonis",
-            "pl": "Bentivoglio de Bonis"
+            "en": "Bentivolius of Bonis",
+            "pl": "Bentiwoliusz z Bonis"
         },
         "died": [
             "1232"
@@ -3989,8 +3989,8 @@
                 "active": true,
                 "names": {
                     "la": "Bentivolius",
-                    "en": "Bentivoglio",
-                    "pl": "Bentivoglio",
+                    "en": "Bentivolius",
+                    "pl": "Bentiwoliusz",
                     "it": "Bentivoglio"
                 }
             }

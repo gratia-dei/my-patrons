@@ -11740,6 +11740,17 @@
                 "mr-1584": "25 XII: #2",
                 "mr-1956": "25 XII: #2"
             }
+        },
+        "records/patrons/bentivolius/bon": {
+            "name": {
+                "it": "Bentivoglio de Bonis",
+                "la": "Bentivolius de Bonis",
+                "en": "Bentivolius of Bonis",
+                "pl": "Bentiwoliusz z Bonis"
+            },
+            "sources": {
+                "mr-2004": "25 XII: #6"
+            }
         }
     },
     "12-26": {

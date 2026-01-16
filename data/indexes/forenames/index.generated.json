@@ -1548,6 +1548,9 @@
     "4fb845c67d91bcb3178498fc6fe1fedc": {
         "es": "Diego"
     },
+    "4fbd1aad4591f529d07c49f8391b858b": {
+        "pl": "Bentiwoliusz"
+    },
     "4fce54f456642e3f8e052d64877aa1f7": {
         "en": "Boniface"
     },
@@ -1702,7 +1705,8 @@
         "en": "Camillus"
     },
     "5aca8e3e9bba04243cf32770964d35cc": {
-        "la": "Bentivolius"
+        "la": "Bentivolius",
+        "en": "Bentivolius"
     },
     "5b6cf49a657875a1e3e3659f90c74bf8": {
         "la": "Pius",
@@ -2032,8 +2036,6 @@
         "it": "Rosalia"
     },
     "6de9da958d4e9498fc12a8034426a645": {
-        "en": "Bentivoglio",
-        "pl": "Bentivoglio",
         "it": "Bentivoglio"
     },
     "6e23358cf86e4fbcff966002f539bb05": {
