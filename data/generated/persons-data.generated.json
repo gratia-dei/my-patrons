@@ -4062,12 +4062,12 @@
         }
     },
     "patrons/bernardus/cla": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Bernard de Clairvaux",
-            "pl": "Bernard z Clairvaux",
+            "la": "Bernardus Claravallensis",
             "en": "Bernard of Clairvaux",
-            "la": "Bernardus Claravallensis"
+            "pl": "Bernard z Clairvaux"
         },
         "died": [
             "1153-08-20"

@@ -1,32 +1,47 @@
 {
-  "names": {
-    "fr": [
-      "Bernard de Clairvaux",
-      "Bernard de Fontaine, abbé de Clairvaux"
-    ],
-    "pl": [
-      "Bernard z Clairvaux"
-    ],
-    "en": [
-      "Bernard of Clairvaux"
-    ],
-    "la": [
-      "Bernardus Claravallensis"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Bernard de Clairvaux",
+            "Bernard de Fontaine, abbé de Clairvaux"
+        ],
+        "la": [
+            "Bernardus Claravallensis"
+        ],
+        "en": [
+            "Bernard of Clairvaux"
+        ],
+        "pl": [
+            "Bernard z Clairvaux"
+        ]
+    },
+    "forenames": ["bernardus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1090", "~1091"],
-  "died": ["1153-08-20"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1174-01-18"
-  },
+    "born": ["~1090", "~1091"],
+    "died": ["1153-08-20"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["08-20"],
+    "categories": ["vir", "fundator", "abbas", "doctor-ecclesiae"],
 
-  "forenames": ["bernardus"],
-  "categories": ["vir", "fundator", "abbas", "doctor-ecclesiae"],
+    "data-links": {
+        "mr-1584": ["1:Aug./20#1"],
+        "mr-1584-movable": [],
 
-  "order": ["ocist"]
+        "mr-1956": ["1:Augusti/20#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./20#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67025",
+        "wiki": "https://pl.wikipedia.org/wiki/Bernard_z_Clairvaux"
+    }
 }

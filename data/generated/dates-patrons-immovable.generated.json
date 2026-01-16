@@ -7241,6 +7241,20 @@
                 "mr-1956": "20 VIII: #3"
             }
         },
+        "records/patrons/bernardus/cla": {
+            "name": {
+                "fr": "Bernard de Clairvaux",
+                "la": "Bernardus Claravallensis",
+                "en": "Bernard of Clairvaux",
+                "pl": "Bernard z Clairvaux"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 VIII",
+                "mr-1584": "20 VIII: #1",
+                "mr-1956": "20 VIII: #1",
+                "mr-2004": "20 VIII: #1"
+            }
+        },
         "records/patrons/pius/10p": {
             "name": {
                 "it": "Pio X",
