@@ -1105,6 +1105,12 @@
             "en": "Ezekiel, prophet",
             "pl": "Ezechiel, prorok"
         },
+        "records/patrons/fantinus/sen": {
+            "it": "Fantino il Vecchio",
+            "la": "Fantinur Senior",
+            "en": "Fantinus the Older",
+            "pl": "Fantyn Starszy"
+        },
         "records/patrons/faustinus/sim": {
             "la": "Faustinus, cum eo, i.a., Simplicius",
             "en": "Faustinus; with him, i.a., Simplicius",

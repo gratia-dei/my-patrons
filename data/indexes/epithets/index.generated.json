@@ -53,6 +53,9 @@
     "0a840af379c38a9b516e0005efbcc364": {
         "en": "of the Martyrs"
     },
+    "0af9a219963e5e57dff1303362e35ff5": {
+        "it": "Il Vecchio"
+    },
     "0cbc9707cd90c437df1cf618d09ef667": {
         "en": "of Our Lady of Sorrows"
     },
@@ -410,6 +413,9 @@
     "7b1e32c8d490781fc0efcc9846b25f40": {
         "pl": "Etiopczyk"
     },
+    "7daef429c344feee1df81fed4d6b0f50": {
+        "en": "Thaumaturge"
+    },
     "7dcd8cead9b4648766e137cfd4453adb": {
         "pl": "Uczeń świętego Pawła Apostoła"
     },
@@ -499,6 +505,9 @@
     },
     "9dfc2a829f6b90299876ff931b1cdf7f": {
         "pl": "Trzeci"
+    },
+    "9e5d8a26ef22c9295feedf7c6fd869ec": {
+        "pl": "Starszy"
     },
     "9f9be9eff06483e3617debac2facedf3": {
         "en": "of Jesus and Mary"
@@ -647,11 +656,17 @@
     "c66679f1e3fb900616ba65f014104059": {
         "pl": "Pramęczennik"
     },
+    "c67b3d2d99035d741f0f3dd1ab9f4f81": {
+        "it": "Taumaturgo"
+    },
     "c75337ee197ff03f992b6ae50f40b073": {
         "pl": "od Jezusa i Maryi"
     },
     "c75a57f974dae9795589aeb6c8fb2ab8": {
         "en": "of Saint Joseph"
+    },
+    "c8c6243e29ba07bd4c8eba9271f57675": {
+        "pl": "Taumaturg"
     },
     "c94ac2af71972e883a782f9523146aa6": {
         "la": "Eleemosynarius"
@@ -684,11 +699,17 @@
     "d0a426693c0a6f8e87aacb4d854634ae": {
         "la": "ab Apostolis"
     },
+    "d1646f519fc635895dec6fbc42e48963": {
+        "en": "the Older"
+    },
     "d2241a4cd9a22f91a648abf478d5e1a1": {
         "la": "a Iesu in Horto Getsemani"
     },
     "d243d56d17ff4b6b09c8d34cdea6656d": {
         "en": "of the Child Jesus"
+    },
+    "d34fbb4a19fdbdc01f148bcb79784e19": {
+        "la": "Thaumaturgus"
     },
     "d3db47ed0086d4b08f89ff9e1a89768e": {
         "la": "Areopagita",
@@ -771,6 +792,9 @@
     },
     "e899ff9981dd693a299459d17ef1ce31": {
         "de": "der Große"
+    },
+    "e8cdb964fb869d42981e6ac512177523": {
+        "la": "Senior"
     },
     "ec17f7acf21c5b9faa33546d9788d026": {
         "pl": "od Najświętszego Sakramentu"

@@ -8002,6 +8002,38 @@
             }
         }
     },
+    "patrons/fantinus": {
+        "names": {
+            "la": "Fantinus",
+            "en": "Fantinus",
+            "pl": "Fantyn",
+            "it": "Fantino"
+        }
+    },
+    "patrons/fantinus/sen": {
+        "active": true,
+        "names": {
+            "it": "Fantino il Vecchio",
+            "la": "Fantinur Senior",
+            "en": "Fantinus the Older",
+            "pl": "Fantyn Starszy"
+        },
+        "died": [
+            "~336"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/fantinus": {
+                "active": true,
+                "names": {
+                    "la": "Fantinus",
+                    "en": "Fantinus",
+                    "pl": "Fantyn",
+                    "it": "Fantino"
+                }
+            }
+        }
+    },
     "patrons/faustinus": {
         "names": {
             "la": "Faustinus",

@@ -6036,6 +6036,17 @@
                 "feast": "24 VII",
                 "mr-2004": "24 VII: #1"
             }
+        },
+        "records/patrons/fantinus/sen": {
+            "name": {
+                "it": "Fantino il Vecchio",
+                "la": "Fantinur Senior",
+                "en": "Fantinus the Older",
+                "pl": "Fantyn Starszy"
+            },
+            "sources": {
+                "mr-2004": "24 VII: #4"
+            }
         }
     },
     "07-25": {

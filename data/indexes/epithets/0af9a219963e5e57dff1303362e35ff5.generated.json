@@ -1,0 +1,27 @@
+{
+    "names": {
+        "it": "Il Vecchio"
+    },
+    "translations": {
+        "it": [
+            "Il Vecchio"
+        ],
+        "la": [
+            "Senior"
+        ],
+        "en": [
+            "the Older"
+        ],
+        "pl": [
+            "Starszy"
+        ]
+    },
+    "links": {
+        "records/patrons/fantinus/sen": {
+            "it": "Fantino il Vecchio",
+            "la": "Fantinur Senior",
+            "en": "Fantinus the Older",
+            "pl": "Fantyn Starszy"
+        }
+    }
+}
