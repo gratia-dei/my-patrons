@@ -1,41 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Bernardino Realino"
+    "names": {
+        "it": [
+            "Bernardino Realino"
+        ],
+        "la": [
+            "Bernardinus Realinus"
+        ],
+        "en": [
+            "Bernardine Realino"
+        ],
+        "pl": [
+            "Bernardyn Realino"
+        ]
+    },
+    "forenames": ["bernardinus"],
+    "surnames": [
+        {
+            "it": "Realino"
+        }
     ],
-    "en": [
-      "Bernardine Realino"
-    ],
-    "la": [
-      "Bernardinus Realinus"
-    ],
-    "pl": [
-      "Bernardyn Realino"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Realino"
+    "active": true,
+
+    "born": ["1530-12-01"],
+    "died": ["1616-07-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1896-01-12"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1947-06-22"
+    },
+    "anniversary": ["07-02"],
+
+    "categories": ["vir", "confessor", "sacerdos", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/2#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./2#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/bernardino-realino.html",
+        "gcatholic": "https://gcatholic.org/p/68074",
+        "wiki": "https://pl.wikipedia.org/wiki/Bernardyn_Realino"
     }
-  ],
-
-  "born": ["1530-12-01"],
-  "died": ["1616-07-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1896-01-12"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1947-06-22"
-  },
-
-  "also-in-martyrology": ["07-02"],
-
-  "forenames": ["bernardinus"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter"],
-
-  "order": ["sj"]
 }

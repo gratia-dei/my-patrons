@@ -5214,6 +5214,20 @@
         }
     },
     "07-02": {
+        "records/patrons/bernardinus/rea": {
+            "name": {
+                "it": "Bernardino Realino",
+                "la": "Bernardinus Realinus",
+                "en": "Bernardine Realino",
+                "pl": "Bernardyn Realino"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 VII",
+                "feast": "2 VII",
+                "mr-1956": "2 VII: #7",
+                "mr-2004": "2 VII: #8"
+            }
+        },
         "records/patrons/otho/bam": {
             "name": {
                 "de": "Otto von Bamberg",
