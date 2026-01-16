@@ -1,26 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Bertoldo di Calabria"
-    ],
-    "en": [
-      "Berthold of Calabria"
-    ],
-    "la": [
-      "Bertoldus de Calabria"
-    ],
-    "pl": [
-      "Bertold z Kalabrii"
-    ]
-  },
+    "names": {
+        "it": [
+            "Bertoldo di Calabria"
+        ],
+        "la": [
+            "Bertoldus de Calabria"
+        ],
+        "en": [
+            "Berthold of Calabria"
+        ],
+        "pl": [
+            "Bertold z Kalabrii"
+        ]
+    },
+    "forenames": ["bertholdus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~1188"],
+    "active": true,
 
-  "also-in-martyrology": ["03-29"],
+    "born": null,
+    "died": ["~1188", "~1195"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["bertholdus"],
-  "categories": ["vir", "religiosus", "miles"],
+    "categories": ["vir", "religiosus", "miles"],
 
-  "order": ["ocarm"],
-  "order-founder": ["ocarm"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./29#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/50077",
+        "wiki": "https://pl.wikipedia.org/wiki/Bertold_(karmelita)"
+    }
 }

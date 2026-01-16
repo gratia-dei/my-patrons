@@ -2736,6 +2736,17 @@
         }
     },
     "03-29": {
+        "records/patrons/bertholdus/car": {
+            "name": {
+                "it": "Bertoldo di Calabria",
+                "la": "Bertoldus de Calabria",
+                "en": "Berthold of Calabria",
+                "pl": "Bertold z Kalabrii"
+            },
+            "sources": {
+                "mr-2004": "29 III: #4"
+            }
+        },
         "records/patrons/gulielmus/tem": {
             "name": {
                 "fr": "Guillaume Tempier",

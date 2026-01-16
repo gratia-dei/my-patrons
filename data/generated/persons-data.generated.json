@@ -4144,15 +4144,16 @@
         }
     },
     "patrons/bertholdus/car": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Bertoldo di Calabria",
-            "en": "Berthold of Calabria",
             "la": "Bertoldus de Calabria",
+            "en": "Berthold of Calabria",
             "pl": "Bertold z Kalabrii"
         },
         "died": [
-            "~1188"
+            "~1188",
+            "~1195"
         ],
         "feasts": [],
         "forenames": {
