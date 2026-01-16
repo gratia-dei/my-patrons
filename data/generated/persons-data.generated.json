@@ -16865,6 +16865,48 @@
             }
         }
     },
+    "patrons/maria/dem": {
+        "active": true,
+        "names": {
+            "en": "Miriam Teresa Demjanovich",
+            "la": "Maria Teresia Demjanovich",
+            "pl": "Maria Teresa Demjanovich"
+        },
+        "died": [
+            "1927-05-08"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/maria": {
+                "active": true,
+                "names": {
+                    "la": "Maria",
+                    "en": "Mary",
+                    "pl": "Maria",
+                    "arc": "ܡܪܝܡ",
+                    "de": "Maria",
+                    "el": "Μαρία",
+                    "es": "María",
+                    "fr": "Marie",
+                    "it": "Maria",
+                    "ko": "마리아"
+                }
+            },
+            "forenames/teresia": {
+                "active": true,
+                "names": {
+                    "la": "Teresia",
+                    "en": "Therese",
+                    "pl": "Teresa",
+                    "de": "Therese",
+                    "es": "Teresa",
+                    "fr": "Thérèse",
+                    "it": "Teresa",
+                    "ko": "데레사"
+                }
+            }
+        }
+    },
     "patrons/maria/dur": {
         "active": false,
         "names": {

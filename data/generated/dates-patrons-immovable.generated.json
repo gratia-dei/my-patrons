@@ -3812,6 +3812,17 @@
                 "feast": "8 V",
                 "mr-2004": "8 V: #17"
             }
+        },
+        "records/patrons/maria/dem": {
+            "name": {
+                "en": "Miriam Teresa Demjanovich",
+                "la": "Maria Teresia Demjanovich",
+                "pl": "Maria Teresa Demjanovich"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 V",
+                "feast": "8 V"
+            }
         }
     },
     "05-09": {
