@@ -5818,6 +5818,18 @@
                 "mr-1956": "17 VII: #2",
                 "mr-2004": "17 VII: #1"
             }
+        },
+        "records/patrons/alexius/dei": {
+            "name": {
+                "la": "Alexius Confessor, Homo Dei",
+                "en": "Alexius Confessor, the Man of God",
+                "pl": "Aleksy Wyznawca, Człowiek Boży"
+            },
+            "sources": {
+                "mr-1584": "17 VII: #1",
+                "mr-1956": "17 VII: #1",
+                "mr-2004": "17 VII: #5"
+            }
         }
     },
     "07-18": {

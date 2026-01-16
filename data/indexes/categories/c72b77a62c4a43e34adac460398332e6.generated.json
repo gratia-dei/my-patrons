@@ -128,6 +128,11 @@
             "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
             "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
         },
+        "records/patrons/alexius/dei": {
+            "la": "Alexius Confessor, Homo Dei",
+            "en": "Alexius Confessor, the Man of God",
+            "pl": "Aleksy Wyznawca, Człowiek Boży"
+        },
         "records/patrons/alexius/fal": {
             "it": "Alessio Falconieri",
             "la": "Alexius Falconieri",

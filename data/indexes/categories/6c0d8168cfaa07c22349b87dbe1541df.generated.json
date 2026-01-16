@@ -26,6 +26,11 @@
             "en": "Albert the Great",
             "pl": "Albert Wielki"
         },
+        "records/patrons/alexius/dei": {
+            "la": "Alexius Confessor, Homo Dei",
+            "en": "Alexius Confessor, the Man of God",
+            "pl": "Aleksy Wyznawca, Człowiek Boży"
+        },
         "records/patrons/alexius/fal": {
             "it": "Alessio Falconieri",
             "la": "Alexius Falconieri",

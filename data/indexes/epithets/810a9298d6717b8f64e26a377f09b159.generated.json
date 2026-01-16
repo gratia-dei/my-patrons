@@ -1,0 +1,23 @@
+{
+    "names": {
+        "la": "Homo Dei"
+    },
+    "translations": {
+        "la": [
+            "Homo Dei"
+        ],
+        "en": [
+            "the Man of God"
+        ],
+        "pl": [
+            "Człowiek Boży"
+        ]
+    },
+    "links": {
+        "records/patrons/alexius/dei": {
+            "la": "Alexius Confessor, Homo Dei",
+            "en": "Alexius Confessor, the Man of God",
+            "pl": "Aleksy Wyznawca, Człowiek Boży"
+        }
+    }
+}

@@ -1179,6 +1179,30 @@
             "uk": "Олексій"
         }
     },
+    "patrons/alexius/dei": {
+        "active": true,
+        "names": {
+            "la": "Alexius Confessor, Homo Dei",
+            "en": "Alexius Confessor, the Man of God",
+            "pl": "Aleksy Wyznawca, Człowiek Boży"
+        },
+        "died": [
+            "~411"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/alexius": {
+                "active": true,
+                "names": {
+                    "la": "Alexius",
+                    "en": "Alexis",
+                    "pl": "Aleksy",
+                    "it": "Alessio",
+                    "uk": "Олексій"
+                }
+            }
+        }
+    },
     "patrons/alexius/fal": {
         "active": true,
         "names": {

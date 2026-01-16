@@ -1,0 +1,49 @@
+{
+    "names": {
+        "la": [
+            "Alexius Confessor, Homo Dei"
+        ],
+        "en": [
+            "Alexius Confessor, the Man of God"
+        ],
+        "pl": [
+            "Aleksy Wyznawca, Człowiek Boży"
+        ]
+    },
+    "forenames": ["alexius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Homo Dei",
+            "en": "the Man of God",
+            "pl": "Człowiek Boży"
+        }
+    ],
+
+    "active": true,
+
+    "born": null,
+    "died": ["~411"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "coniunx"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./17#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/17#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./17#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72515",
+        "wiki": "https://pl.wikipedia.org/wiki/Aleksy_Wyznawca"
+    }
+}
