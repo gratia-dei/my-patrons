@@ -1,0 +1,23 @@
+{
+    "names": {
+        "en": "of Saint Joseph"
+    },
+    "translations": {
+        "pl": [
+            "od Świętego Józefa"
+        ],
+        "la": [
+            "a Sancto Ioseph"
+        ],
+        "en": [
+            "of Saint Joseph"
+        ]
+    },
+    "links": {
+        "records/patrons/raphael/kal": {
+            "pl": "Rafał Kalinowski",
+            "la": "Raphael Kalinowski",
+            "en": "Raphael Kalinowski"
+        }
+    }
+}

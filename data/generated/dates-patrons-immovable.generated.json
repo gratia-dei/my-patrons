@@ -10638,6 +10638,18 @@
                 "mr-1956": "15 XI: #1",
                 "mr-2004": "15 XI: #1"
             }
+        },
+        "records/patrons/raphael/kal": {
+            "name": {
+                "pl": "Rafał Kalinowski",
+                "la": "Raphael Kalinowski",
+                "en": "Raphael Kalinowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 XI",
+                "feast": "15 XI",
+                "mr-2004": "15 XI: #19"
+            }
         }
     },
     "11-16": {

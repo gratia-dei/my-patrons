@@ -1,0 +1,65 @@
+{
+    "names": {
+        "pl": [
+            "Rafał Kalinowski",
+            "Rafał od Świętego Józefa Kalinowski",
+            "Józef Kalinowski"
+        ],
+        "la": [
+            "Raphael Kalinowski",
+            "Raphael a Sancto Ioseph Kalinowski",
+            "Iosephus Kalinowski"
+        ],
+        "en": [
+            "Raphael Kalinowski",
+            "Raphael of Saint Joseph Kalinowski",
+            "Joseph Kalinowski"
+        ]
+    },
+    "forenames": ["raphael", "iosephus"],
+    "surnames": [
+        {
+            "pl": "Kalinowski"
+        }
+    ],
+    "epithets": [
+        {
+            "pl": "od Świętego Józefa",
+            "la": "a Sancto Ioseph",
+            "en": "of Saint Joseph"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1835-09-01"],
+    "died": ["1907-11-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1983-06-22"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1991-11-17"
+    },
+    "anniversary": ["11-15"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./15#19"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/raffaele-kalinowski.html",
+        "gcatholic": "https://gcatholic.org/p/67226",
+        "wiki": "https://pl.wikipedia.org/wiki/Rafa%C5%82_Kalinowski"
+    }
+}

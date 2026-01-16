@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Kalinowski"
+    },
+    "translations": {
+        "pl": [
+            "Kalinowski"
+        ]
+    },
+    "links": {
+        "records/patrons/raphael/kal": {
+            "pl": "Rafał Kalinowski",
+            "la": "Raphael Kalinowski",
+            "en": "Raphael Kalinowski"
+        }
+    }
+}

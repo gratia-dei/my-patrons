@@ -22553,6 +22553,43 @@
             }
         }
     },
+    "patrons/raphael/kal": {
+        "active": true,
+        "names": {
+            "pl": "Rafał Kalinowski",
+            "la": "Raphael Kalinowski",
+            "en": "Raphael Kalinowski"
+        },
+        "died": [
+            "1907-11-15"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/raphael": {
+                "active": true,
+                "names": {
+                    "la": "Raphael",
+                    "en": "Raphael",
+                    "pl": "Rafał"
+                }
+            },
+            "forenames/iosephus": {
+                "active": true,
+                "names": {
+                    "la": "Iosephus",
+                    "en": "Joseph",
+                    "pl": "Józef",
+                    "es": "José",
+                    "fr": "Joseph",
+                    "it": "Giuseppe",
+                    "ko": "요셉",
+                    "nl": "Jozef",
+                    "vi": "Giuse",
+                    "zh": "若瑟"
+                }
+            }
+        }
+    },
     "patrons/raphaela": {
         "names": {
             "la": "Raphaela",
