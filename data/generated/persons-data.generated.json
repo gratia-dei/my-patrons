@@ -3914,11 +3914,11 @@
         }
     },
     "patrons/benignus/div": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Bénigne de Dijon",
-            "en": "Benignus of Dijon",
             "la": "Benignus Divionensis",
+            "en": "Benignus of Dijon",
             "pl": "Benigny z Dijon"
         },
         "died": [

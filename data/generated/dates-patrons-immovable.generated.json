@@ -10177,6 +10177,19 @@
                 "mr-2004": "1 XI: #14"
             }
         },
+        "records/patrons/benignus/div": {
+            "name": {
+                "fr": "Bénigne de Dijon",
+                "la": "Benignus Divionensis",
+                "en": "Benignus of Dijon",
+                "pl": "Benigny z Dijon"
+            },
+            "sources": {
+                "mr-1584": "1 XI: #3",
+                "mr-1956": "1 XI: #4",
+                "mr-2004": "1 XI: #3"
+            }
+        },
         "records/patrons/multa/san": {
             "name": {
                 "la": "Omnes Sancti",
