@@ -4177,17 +4177,25 @@
         }
     },
     "patrons/birgitta/sue": {
-        "active": false,
+        "active": true,
         "names": {
             "sv": "Birgitta Birgersdotter",
-            "en": "Bridget of Sweden",
             "la": "Birgitta de Suecia",
+            "en": "Bridget of Sweden",
             "pl": "Brygida Szwedzka"
         },
         "died": [
             "1373-07-23"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/tbv": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sanctae Birgittae viduae",
+                    "pl": "Przeniesienie ciała świętej Brygidy wdowy"
+                }
+            }
+        },
         "forenames": {
             "forenames/birgitta": {
                 "active": true,

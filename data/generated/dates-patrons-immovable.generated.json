@@ -6048,6 +6048,20 @@
         }
     },
     "07-23": {
+        "records/patrons/birgitta/sue": {
+            "name": {
+                "sv": "Birgitta Birgersdotter",
+                "la": "Birgitta de Suecia",
+                "en": "Bridget of Sweden",
+                "pl": "Brygida Szwedzka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "23 VII",
+                "mr-1584": "23 VII: #9",
+                "mr-1956": "23 VII: #3",
+                "mr-2004": "23 VII: #1"
+            }
+        },
         "records/patrons/ezechiel/pro": {
             "name": {
                 "he": "יחזקאל הנביא",
@@ -9421,6 +9435,17 @@
             "sources": {
                 "mr-1584": "8 X: #1",
                 "mr-1956": "8 X: #2"
+            }
+        },
+        "records/patrons/birgitta/sue": {
+            "name": {
+                "sv": "Birgitta Birgersdotter",
+                "la": "Birgitta de Suecia",
+                "en": "Bridget of Sweden",
+                "pl": "Brygida Szwedzka"
+            },
+            "sources": {
+                "mr-1956": "8 X: #1"
             }
         }
     },

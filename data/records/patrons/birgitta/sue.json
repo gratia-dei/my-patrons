@@ -1,42 +1,63 @@
 {
-  "names": {
-    "sv": [
-      "Birgitta Birgersdotter"
-    ],
-    "en": [
-      "Bridget of Sweden",
-      "Birgitta of Sweden",
-      "Birgitta of Vadstena"
-    ],
-    "la": [
-      "Birgitta de Suecia"
-    ],
-    "pl": [
-      "Brygida Szwedzka"
-    ]
-  },
+    "names": {
+        "sv": [
+            "Birgitta Birgersdotter"
+        ],
+        "la": [
+            "Birgitta de Suecia"
+        ],
+        "en": [
+            "Bridget of Sweden",
+            "Birgitta of Sweden",
+            "Birgitta of Vadstena"
+        ],
+        "pl": [
+            "Brygida Szwedzka"
+        ]
+    },
+    "forenames": ["birgitta"],
+    "surnames": null,
+    "epithets": null,
 
-  "epithets": [
-    {
-      "en": "of Sweden",
-      "la": "de Suecia",
-      "pl": "Szwedzka"
+    "active": true,
+
+    "born": ["1303"],
+    "died": ["1373-07-23"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "vidua", "religiosus"],
+
+    "data-links": {
+        "mr-1584": ["1:Iul./23#9"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Julii/23#3", "1:Octobris/8#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tbv": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Octobris/7#9"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic":"https://gcatholic.org/p/68711",
+        "wiki": "https://pl.wikipedia.org/wiki/Brygida_Szwedzka"
     }
-  ],
-
-  "born": ["1303"],
-  "died": ["1373-07-23"],
-
-  "canonized": {
-    "type": "equipollently",
-    "date": "1391-10-07"
-  },
-
-  "also-in-martyrology": ["07-23", "10-08"],
-
-  "forenames": ["birgitta"],
-  "categories": ["femina", "vidua", "religiosus"],
-
-  "order": ["osss"],
-  "order-founder": ["osss"]
 }

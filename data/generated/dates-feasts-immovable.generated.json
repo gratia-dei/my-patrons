@@ -1314,6 +1314,15 @@
                 "mr-1956-variations": "7 X: #1-ab-1960-07-26"
             }
         },
+        "records/patrons/birgitta/sue#tbv": {
+            "name": {
+                "la": "Birgitta de Suecia (Translatio corporis sanctae Birgittae viduae)",
+                "pl": "Brygida Szwedzka (Przeniesienie ciała świętej Brygidy wdowy)"
+            },
+            "sources": {
+                "mr-1956": "7 X: #9"
+            }
+        },
         "records/patrons/maria/naz#ros": {
             "name": {
                 "la": "Maria Virgo (Beatae Maria Virgo de Rosario)",
