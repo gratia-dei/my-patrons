@@ -843,6 +843,40 @@
                 "mr-2004": "3 II: #2"
             }
         },
+        "records/patrons/blasius/seb": {
+            "name": {
+                "la": "Blasius de Sebaste",
+                "en": "Blaise of Sebaste",
+                "pl": "Błażej z Sebasty"
+            },
+            "sources": {
+                "mr-1584": "3 II: #1",
+                "mr-1956": "3 II: #1",
+                "mr-2004": "3 II: #1"
+            }
+        },
+        "records/patrons/multa/dps": {
+            "name": {
+                "la": "Duo pueri, sociorum Blasii de Sebaste",
+                "en": "Two boys, companions of Blaise of Sebaste",
+                "pl": "Dwóch chłopców, towarzysze Błażeja z Sebasty"
+            },
+            "sources": {
+                "mr-1584": "3 II: #1",
+                "mr-1956": "3 II: #1"
+            }
+        },
+        "records/patrons/multa/sms": {
+            "name": {
+                "la": "Septem mulieres, sociorum Blasii de Sebaste",
+                "en": "Seven women, companions of Blaise of Sebaste",
+                "pl": "Siedem kobiet, towarzyszki Błażeja z Sebasty"
+            },
+            "sources": {
+                "mr-1584": "3 II: #1",
+                "mr-1956": "3 II: #1"
+            }
+        },
         "records/patrons/simeon/sen": {
             "name": {
                 "la": "Simeon, senex",

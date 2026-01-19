@@ -8,7 +8,7 @@
             "Multa"
         ],
         "en": [
-            "With Many names"
+            "With many names"
         ],
         "pl": [
             "Z wieloma imionami"
@@ -39,6 +39,11 @@
             "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
             "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
             "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
+        },
+        "records/patrons/multa/dps": {
+            "la": "Duo pueri, sociorum Blasii de Sebaste",
+            "en": "Two boys, companions of Blaise of Sebaste",
+            "pl": "Dwóch chłopców, towarzysze Błażeja z Sebasty"
         },
         "records/patrons/multa/dva": {
             "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
@@ -109,6 +114,11 @@
             "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
             "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
             "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
+        },
+        "records/patrons/multa/sms": {
+            "la": "Septem mulieres, sociorum Blasii de Sebaste",
+            "en": "Seven women, companions of Blaise of Sebaste",
+            "pl": "Siedem kobiet, towarzyszki Błażeja z Sebasty"
         },
         "records/patrons/multa/the": {
             "la": "Sociorum Mauricii, milites legionis Thebanae",

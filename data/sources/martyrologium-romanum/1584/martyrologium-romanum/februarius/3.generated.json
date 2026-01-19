@@ -2,6 +2,11 @@
     "data-links": {
         "7": {
             "1": "records/patrons/ansgarius/ham"
+        },
+        "1": {
+            "1": "records/patrons/blasius/seb",
+            "2": "records/patrons/multa/dps",
+            "3": "records/patrons/multa/sms"
         }
     }
 }
