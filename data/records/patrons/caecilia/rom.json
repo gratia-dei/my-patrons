@@ -17,7 +17,7 @@
     "active": true,
 
     "born": null,
-    "died": [">201", "<300"],
+    "died": ["~230"],
     "beatified": null,
     "canonized": null,
     "anniversary": null,

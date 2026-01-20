@@ -4558,8 +4558,7 @@
             "pl": "Cecylia z Rzymu"
         },
         "died": [
-            ">201",
-            "<300"
+            "~230"
         ],
         "feasts": [],
         "forenames": {
@@ -26188,9 +26187,9 @@
     "patrons/tiburtius/val": {
         "active": true,
         "names": {
-            "la": "Tiburtius de Roma, frater Valeriani",
-            "en": "Tiburtius of Rome, brother of Valerian",
-            "pl": "Tyburcjusz z Rzymu, brat Waleriana"
+            "la": "Tiburtius de Roma",
+            "en": "Tiburtius of Rome",
+            "pl": "Tyburcjusz z Rzymu"
         },
         "died": [
             "~230"
@@ -26626,9 +26625,9 @@
     "patrons/valerianus/tib": {
         "active": true,
         "names": {
-            "la": "Valerianus de Roma, frater Tiburti",
-            "en": "Valerian of Rome, brother of Tiburtius",
-            "pl": "Walerian z Rzymu, brat Tyburcjusza"
+            "la": "Valerianus de Roma",
+            "en": "Valerian of Rome",
+            "pl": "Walerian z Rzymu"
         },
         "died": [
             "~230"

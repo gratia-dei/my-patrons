@@ -2371,9 +2371,9 @@
             "pl": "Tomasz Son Cha-sŏn"
         },
         "records/patrons/tiburtius/val": {
-            "la": "Tiburtius de Roma, frater Valeriani",
-            "en": "Tiburtius of Rome, brother of Valerian",
-            "pl": "Tyburcjusz z Rzymu, brat Waleriana"
+            "la": "Tiburtius de Roma",
+            "en": "Tiburtius of Rome",
+            "pl": "Tyburcjusz z Rzymu"
         },
         "records/patrons/timotheus/cae": {
             "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
@@ -2423,9 +2423,9 @@
             "pl": "Walenty z Rzymu"
         },
         "records/patrons/valerianus/tib": {
-            "la": "Valerianus de Roma, frater Tiburti",
-            "en": "Valerian of Rome, brother of Tiburtius",
-            "pl": "Walerian z Rzymu, brat Tyburcjusza"
+            "la": "Valerianus de Roma",
+            "en": "Valerian of Rome",
+            "pl": "Walerian z Rzymu"
         },
         "records/patrons/venceslaus/boh": {
             "cs": "Václav, český kníže",

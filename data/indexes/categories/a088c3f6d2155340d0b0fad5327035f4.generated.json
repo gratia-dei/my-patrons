@@ -29,6 +29,11 @@
             "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
             "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
         },
+        "records/patrons/caecilia/rom": {
+            "la": "Caecilia Romana",
+            "en": "Cecilia of Rome",
+            "pl": "Cecylia z Rzymu"
+        },
         "records/patrons/caerealis/rom": {
             "la": "Caerealis de Roma",
             "en": "Cereal of Rome",
@@ -114,6 +119,11 @@
             "pl": "Salomea Piastówna",
             "la": "Salomea Regina Haliciensis",
             "en": "Salomea of the Poland"
+        },
+        "records/patrons/valerianus/tib": {
+            "la": "Valerianus de Roma",
+            "en": "Valerian of Rome",
+            "pl": "Walerian z Rzymu"
         },
         "records/patrons/zelie/gue": {
             "fr": "Zélie Guérin",
