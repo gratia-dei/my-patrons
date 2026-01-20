@@ -3105,6 +3105,20 @@
             }
         }
     },
+    "04-09": {
+        "records/patrons/caelestina/far": {
+            "name": {
+                "pl": "Celestyna Faron",
+                "la": "Caelestina Faron",
+                "en": "Celestine Faron"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 IV",
+                "feast": "9 IV",
+                "mr-2004": "9 IV: #14"
+            }
+        }
+    },
     "04-10": {
         "records/patrons/bonifatius/zuk": {
             "name": {

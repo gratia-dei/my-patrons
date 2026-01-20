@@ -1,37 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Celestyna Faron",
-      "Katarzyna Celestyna Faron"
+    "names": {
+        "pl": [
+            "Celestyna Faron",
+            "Katarzyna Celestyna Faron"
+        ],
+        "la": [
+            "Caelestina Faron",
+            "Catharina Caelestina Faron"
+        ],
+        "en": [
+            "Celestine Faron",
+            "Catherine Celestine Faron"
+        ]
+    },
+    "forenames": ["caelestina"],
+    "surnames": [
+        {
+            "pl": "Faron"
+        }
     ],
-    "en": [
-      "Celestine Faron",
-      "Catherine Celestine Faron"
-    ],
-    "la": [
-      "Caelestina Faron",
-      "Catharina Caelestina Faron"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Faron"
+    "active": true,
+
+    "born": ["1913-04-24"],
+    "died": ["1944-04-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["04-09"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./9#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67815",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_Celestyna_Faron"
     }
-  ],
-
-  "born": ["1913-04-24"],
-  "died": ["1944-04-09"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["04-09"],
-
-  "forenames": ["caelestina"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["abmv"]
 }

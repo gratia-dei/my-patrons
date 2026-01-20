@@ -4580,11 +4580,11 @@
         }
     },
     "patrons/caelestina/far": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Celestyna Faron",
-            "en": "Celestine Faron",
-            "la": "Caelestina Faron"
+            "la": "Caelestina Faron",
+            "en": "Celestine Faron"
         },
         "died": [
             "1944-04-09"
