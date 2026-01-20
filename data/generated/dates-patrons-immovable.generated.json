@@ -3106,6 +3106,18 @@
         }
     },
     "04-10": {
+        "records/patrons/bonifatius/zuk": {
+            "name": {
+                "pl": "Bonifacy Żukowski",
+                "la": "Bonifatius Zukowski",
+                "en": "Boniface Zukowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 IV",
+                "feast": "10 IV",
+                "mr-2004": "10 IV: #11"
+            }
+        },
         "records/patrons/ezechiel/pro": {
             "name": {
                 "he": "יחזקאל הנביא",

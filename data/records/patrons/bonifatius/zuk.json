@@ -1,35 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Bonifacy Żukowski",
-      "Piotr Bonifacy Żukowski"
+    "names": {
+        "pl": [
+            "Bonifacy Żukowski",
+            "Piotr Bonifacy Żukowski"
+        ],
+        "la": [
+            "Bonifatius Zukowski"
+        ],
+        "en": [
+            "Boniface Zukowski"
+        ]
+    },
+    "forenames": ["bonifatius"],
+    "surnames": [
+        {
+            "pl": "Żukowski"
+        }
     ],
-    "en": [
-      "Boniface Zukowski"
-    ],
-    "la": [
-      "Bonifatius Zukowski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Żukowski"
+    "active": true,
+
+    "born": ["1913-01-13"],
+    "died": ["1942-04-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["04-10"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./10#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67759",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Bonifacy_%C5%BBukowski"
     }
-  ],
-
-  "born": ["1913-01-13"],
-  "died": ["1942-04-10"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["04-10"],
-
-  "forenames": ["bonifatius"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["ofmconv"]
 }

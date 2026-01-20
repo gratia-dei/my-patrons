@@ -4410,11 +4410,11 @@
         }
     },
     "patrons/bonifatius/zuk": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Bonifacy Żukowski",
-            "en": "Boniface Zukowski",
-            "la": "Bonifatius Zukowski"
+            "la": "Bonifatius Zukowski",
+            "en": "Boniface Zukowski"
         },
         "died": [
             "1942-04-10"
