@@ -4551,7 +4551,7 @@
         }
     },
     "patrons/caecilia/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Caecilia Romana",
             "en": "Cecilia of Rome",

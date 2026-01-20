@@ -8298,6 +8298,16 @@
                 "mr-1584": "16 IX: #8"
             }
         },
+        "records/patrons/caecilia/rom": {
+            "name": {
+                "la": "Caecilia Romana",
+                "en": "Cecilia of Rome",
+                "pl": "Cecylia z Rzymu"
+            },
+            "sources": {
+                "mr-1956": "16 IX: #5"
+            }
+        },
         "records/patrons/cornelius/1pp": {
             "name": {
                 "la": "Cornelius Pp.",
@@ -10953,6 +10963,18 @@
             },
             "sources": {
                 "reliable-death-anniversary": "22 XI"
+            }
+        },
+        "records/patrons/caecilia/rom": {
+            "name": {
+                "la": "Caecilia Romana",
+                "en": "Cecilia of Rome",
+                "pl": "Cecylia z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "22 XI: #1",
+                "mr-1956": "22 XI: #1",
+                "mr-2004": "22 XI: #1"
             }
         }
     },
