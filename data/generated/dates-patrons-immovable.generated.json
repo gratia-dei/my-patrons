@@ -7549,6 +7549,19 @@
         }
     },
     "08-27": {
+        "records/patrons/caesarius/are": {
+            "name": {
+                "la": "Caesarius Arelatensis",
+                "en": "Caesarius of Arles",
+                "pl": "Cezary z Arles"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 VIII",
+                "mr-1584": "27 VIII: #7",
+                "mr-1956": "27 VIII: #9",
+                "mr-2004": "27 VIII: #7"
+            }
+        },
         "records/patrons/iacobus/gag": {
             "name": {
                 "fr": "Jacques Gagnot",

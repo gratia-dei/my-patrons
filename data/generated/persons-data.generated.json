@@ -4641,11 +4641,11 @@
         }
     },
     "patrons/caesarius/are": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Caesarius Arelatensis",
-            "pl": "Cezary z Arles",
-            "en": "Caesarius of Arles"
+            "en": "Caesarius of Arles",
+            "pl": "Cezary z Arles"
         },
         "died": [
             "542-08-27"
