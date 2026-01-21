@@ -1,0 +1,21 @@
+{
+    "names": {
+        "sw": "Buzabaliawo"
+    },
+    "translations": {
+        "sw": [
+            "Buzabaliawo"
+        ],
+        "la": [
+            "Buzabaliao"
+        ]
+    },
+    "links": {
+        "records/patrons/iacobus/buz": {
+            "sw": "Yakobo Buzabaliawo",
+            "la": "Iacobus Buzabaliao",
+            "en": "James Buzabaliawo",
+            "pl": "Jakub Buzabaliawo"
+        }
+    }
+}

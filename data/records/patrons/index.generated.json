@@ -25,6 +25,12 @@
         "en": "Acacius",
         "pl": "Achacjusz"
     },
+    "achilles": {
+        "la": "Achilles",
+        "en": "Achille",
+        "pl": "Achilles",
+        "sw": "Achile"
+    },
     "acutius": {
         "la": "Acutius",
         "en": "Acutius",
@@ -40,6 +46,12 @@
         "la": "Adelarius",
         "en": "Adalarius",
         "pl": "Adalariusz"
+    },
+    "adolphus": {
+        "la": "Adolphus",
+        "en": "Adolphus",
+        "pl": "Adolf",
+        "sw": "Adolfo"
     },
     "aegidius": {
         "la": "Aegidius",
@@ -134,7 +146,8 @@
     "ambrosius": {
         "la": "Ambrosius",
         "en": "Ambrose",
-        "pl": "Ambroży"
+        "pl": "Ambroży",
+        "sw": "Ambrosio"
     },
     "amos": {
         "la": "Amos",
@@ -160,7 +173,8 @@
     "anatolius": {
         "la": "Anatolius",
         "en": "Anatolius",
-        "pl": "Anatol"
+        "pl": "Anatoliusz",
+        "sw": "Anatoli"
     },
     "andreas": {
         "la": "Andreas",
@@ -416,7 +430,8 @@
         "la": "Bruno",
         "en": "Bruno",
         "pl": "Bruno",
-        "de": "Bruno"
+        "de": "Bruno",
+        "sw": "Bruno"
     },
     "caecilia": {
         "la": "Caecilia",
@@ -1027,6 +1042,12 @@
         "pl": "Guntram",
         "fr": "Gontran"
     },
+    "gyavira": {
+        "la": "Gyavira",
+        "en": "Gyaviira",
+        "pl": "Gyaviira",
+        "sw": "Gyaviira"
+    },
     "hedwigis": {
         "la": "Hedwigis",
         "en": "Hedwig",
@@ -1108,7 +1129,8 @@
         "en": "James",
         "pl": "Jakub",
         "fr": "Jacques",
-        "it": "Giacomo"
+        "it": "Giacomo",
+        "sw": "Yakobo"
     },
     "ianuaria": {
         "la": "Ianuaria",
@@ -1303,6 +1325,12 @@
         "en": "Kinga",
         "pl": "Kinga"
     },
+    "kizito": {
+        "la": "Kizito",
+        "en": "Kizito",
+        "pl": "Kizito",
+        "sw": "Kizito"
+    },
     "ladislaus": {
         "la": "Ladislaus",
         "en": "Ladislaus",
@@ -1353,7 +1381,8 @@
         "pl": "Łukasz",
         "el": "Λουκάς",
         "fr": "Luc",
-        "ko": "루가"
+        "ko": "루가",
+        "sw": "Luka"
     },
     "lucia": {
         "la": "Lucia",
@@ -1533,6 +1562,12 @@
         "en": "Maximus",
         "pl": "Maksym"
     },
+    "mbaya": {
+        "la": "Mbaya",
+        "en": "Mbaga",
+        "pl": "Mbaga",
+        "sw": "Mbaga"
+    },
     "melanius": {
         "la": "Melanius",
         "en": "Melaine",
@@ -1543,6 +1578,12 @@
         "la": "Methodius",
         "en": "Methodius",
         "pl": "Metody"
+    },
+    "mgagga": {
+        "la": "Mgagga",
+        "en": "Mugagga",
+        "pl": "Mugagga",
+        "sw": "Mugagga"
     },
     "michael": {
         "la": "Michael",
@@ -1568,6 +1609,12 @@
         "la": "Moyses",
         "en": "Moses",
         "pl": "Mojżesz"
+    },
+    "mukasa": {
+        "la": "Mukasa",
+        "en": "Mukasa",
+        "pl": "Mukasa",
+        "sw": "Mukasa"
     },
     "multa": {
         "la": "Cum multis nominibus",

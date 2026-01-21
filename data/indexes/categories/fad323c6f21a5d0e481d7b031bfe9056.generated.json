@@ -24,6 +24,12 @@
             "en": "Abundius of Latium",
             "pl": "Abundiusz z Lacjum"
         },
+        "records/patrons/achilles/kiw": {
+            "sw": "Achile Kiwanuka",
+            "la": "Achilles Kiwanuka",
+            "en": "Achille Kiwanuka",
+            "pl": "Achilles Kiwanuka"
+        },
         "records/patrons/acutius/put": {
             "la": "Acutius Puteolensis",
             "en": "Acutius of Pozzuoli",
@@ -44,6 +50,12 @@
             "la": "Adelarius; cum eo, i.a., Eobanus",
             "en": "Adolar; with him, i.a., Eoban",
             "pl": "Adalariusz; z nim, m.in. Eoban"
+        },
+        "records/patrons/adolphus/lud": {
+            "sw": "Adolfo Mukasa Ludigo",
+            "la": "Adolphus Ludigo Mkasa",
+            "en": "Adolphus Ludigo Mkasa",
+            "pl": "Adolf Ludigo Mkasa"
         },
         "records/patrons/aemilianus/kov": {
             "uk": "Омелян Ковч",
@@ -126,6 +138,12 @@
             "la": "Alphonsus Maria Mazurek",
             "en": "Alphonsus Maria Mazurek"
         },
+        "records/patrons/ambrosius/kib": {
+            "sw": "Ambrosio Kibuuka",
+            "la": "Ambrosius Kibuuka",
+            "en": "Ambrose Kibuuka",
+            "pl": "Ambroży Kibuuka"
+        },
         "records/patrons/amundus/eob": {
             "la": "Amundus; cum eo, i.a., Eobanus",
             "en": "Amund; with him, i.a., Eoban",
@@ -135,6 +153,12 @@
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
             "pl": "Anastazja z Sirmium"
+        },
+        "records/patrons/anatolius/kir": {
+            "sw": "Luka Banabakintu",
+            "la": "Lucas Banabakintu",
+            "en": "Luke Banabakintu",
+            "pl": "Łukasz Banabakintu"
         },
         "records/patrons/anatolius/pho": {
             "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
@@ -371,6 +395,12 @@
             "pl": "Bronisław Kostkowski",
             "la": "Bronislaus Kostkowski",
             "en": "Bronislaus Kostkowski"
+        },
+        "records/patrons/bruno/ser": {
+            "sw": "Bruno Sserunkuma",
+            "la": "Bruno Seronuma",
+            "en": "Bruno Sserunkuma",
+            "pl": "Bruno Sserunkuma"
         },
         "records/patrons/caecilia/rom": {
             "la": "Caecilia Romana",
@@ -959,6 +989,12 @@
             "en": "Gundecarus; with him, i.a., Eoban",
             "pl": "Gundekar; z nim, m.in. Eoban"
         },
+        "records/patrons/gyavira/lwa": {
+            "sw": "Gyaviira Musoke",
+            "la": "Gyavira",
+            "en": "Gyaviira Musoke",
+            "pl": "Gyaviira Musoke"
+        },
         "records/patrons/henricus/hle": {
             "pl": "Henryk Hlebowicz",
             "la": "Henricus Hlebowicz",
@@ -1001,6 +1037,12 @@
             "la": "Iacobus Berthieu",
             "en": "James Berthieu",
             "pl": "Jakub Berthieu"
+        },
+        "records/patrons/iacobus/buz": {
+            "sw": "Yakobo Buzabaliawo",
+            "la": "Iacobus Buzabaliao",
+            "en": "James Buzabaliawo",
+            "pl": "Jakub Buzabaliawo"
         },
         "records/patrons/iacobus/duc": {
             "en": "James Duckett",
@@ -1336,6 +1378,12 @@
             "en": "Justus /+ Pastor",
             "pl": "Just /+ Pastor"
         },
+        "records/patrons/kizito/lwa": {
+            "sw": "Kizito",
+            "la": "Kizito",
+            "en": "Kizito",
+            "pl": "Kizito"
+        },
         "records/patrons/ladislaus/gor": {
             "pl": "Władysław Goral",
             "la": "Ladislaus Goral",
@@ -1377,6 +1425,12 @@
             "la": "Liliosa de Corduba; cum ea, i.a., Felix",
             "en": "Liliosa of Cordoba; with her, i.a., Felix",
             "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
+        },
+        "records/patrons/lucas/ban": {
+            "sw": "Anatoli Kiriggwajjo",
+            "la": "Anatolius Kiriggwajjo",
+            "en": "Anatolius Kiriggwajjo",
+            "pl": "Anatoliusz Kiriggwajjo"
         },
         "records/patrons/lucas/hwa": {
             "ko": "황석두 루가",
@@ -1666,6 +1720,18 @@
             "en": "Maximus of Rome",
             "pl": "Maksym z Rzymu"
         },
+        "records/patrons/mbaya/tuz": {
+            "sw": "Mbaga Tuzinde",
+            "la": "Mbaya Tuzinde",
+            "en": "Mbaga Tuzinde",
+            "pl": "Mbaga Tuzinde"
+        },
+        "records/patrons/mgagga/lwa": {
+            "sw": "Mugagga Lubowa",
+            "la": "Mgagga",
+            "en": "Mugagga Lubowa",
+            "pl": "Mugagga Lubowa"
+        },
         "records/patrons/michael/koz": {
             "pl": "Michał Kozal",
             "la": "Michael Kozal",
@@ -1692,6 +1758,12 @@
             "la": "Monica Pichery",
             "en": "Monica Pichery",
             "pl": "Monika Pichery"
+        },
+        "records/patrons/mukasa/kir": {
+            "sw": "Mukasa Kiriwawanvu",
+            "la": "Mukasa Kiriwanvu",
+            "en": "Mukasa Kiriwawanvu",
+            "pl": "Mukasa Kiriwawanvu"
         },
         "records/patrons/multa/abr": {
             "la": "Monachi Abrahamitae",

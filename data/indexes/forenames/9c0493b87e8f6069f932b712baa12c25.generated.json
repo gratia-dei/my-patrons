@@ -1,0 +1,33 @@
+{
+    "names": {
+        "pl": "Anatoliusz"
+    },
+    "translations": {
+        "la": [
+            "Anatolius"
+        ],
+        "en": [
+            "Anatolius"
+        ],
+        "pl": [
+            "Anatoliusz",
+            "Anatol"
+        ],
+        "sw": [
+            "Anatoli"
+        ]
+    },
+    "links": {
+        "records/patrons/anatolius/pho": {
+            "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
+            "en": "Anatolius of Rome; with him, i.a., Photine the Samaritan",
+            "pl": "Anatol z Rzymu; z nim, m.in., Fotyna Samarytanka"
+        },
+        "records/patrons/lucas/ban": {
+            "sw": "Anatoli Kiriggwajjo",
+            "la": "Anatolius Kiriggwajjo",
+            "en": "Anatolius Kiriggwajjo",
+            "pl": "Anatoliusz Kiriggwajjo"
+        }
+    }
+}

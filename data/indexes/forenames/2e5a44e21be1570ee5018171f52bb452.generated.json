@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Adolphus",
+        "en": "Adolphus"
+    },
+    "translations": {
+        "la": [
+            "Adolphus"
+        ],
+        "en": [
+            "Adolphus"
+        ],
+        "pl": [
+            "Adolf"
+        ],
+        "sw": [
+            "Adolfo"
+        ]
+    },
+    "links": {
+        "records/patrons/adolphus/lud": {
+            "sw": "Adolfo Mukasa Ludigo",
+            "la": "Adolphus Ludigo Mkasa",
+            "en": "Adolphus Ludigo Mkasa",
+            "pl": "Adolf Ludigo Mkasa"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Gyavira"
+    },
+    "translations": {
+        "la": [
+            "Gyavira",
+            "Gyaviira"
+        ],
+        "en": [
+            "Gyaviira"
+        ],
+        "pl": [
+            "Gyaviira"
+        ],
+        "sw": [
+            "Gyaviira"
+        ]
+    },
+    "links": {
+        "records/patrons/gyavira/lwa": {
+            "sw": "Gyaviira Musoke",
+            "la": "Gyavira",
+            "en": "Gyaviira Musoke",
+            "pl": "Gyaviira Musoke"
+        }
+    }
+}

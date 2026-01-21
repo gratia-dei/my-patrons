@@ -1,0 +1,31 @@
+{
+    "names": {
+        "la": "Mugagga",
+        "en": "Mugagga",
+        "pl": "Mugagga",
+        "sw": "Mugagga"
+    },
+    "translations": {
+        "la": [
+            "Mgagga",
+            "Mugagga"
+        ],
+        "en": [
+            "Mugagga"
+        ],
+        "pl": [
+            "Mugagga"
+        ],
+        "sw": [
+            "Mugagga"
+        ]
+    },
+    "links": {
+        "records/patrons/mgagga/lwa": {
+            "sw": "Mugagga Lubowa",
+            "la": "Mgagga",
+            "en": "Mugagga Lubowa",
+            "pl": "Mugagga Lubowa"
+        }
+    }
+}

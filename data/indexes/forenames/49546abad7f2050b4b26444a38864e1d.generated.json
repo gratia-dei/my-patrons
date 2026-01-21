@@ -1,0 +1,32 @@
+{
+    "names": {
+        "sw": "Ambrosio"
+    },
+    "translations": {
+        "la": [
+            "Ambrosius"
+        ],
+        "en": [
+            "Ambrose"
+        ],
+        "pl": [
+            "Ambroży"
+        ],
+        "sw": [
+            "Ambrosio"
+        ]
+    },
+    "links": {
+        "records/patrons/ambrosius/kib": {
+            "sw": "Ambrosio Kibuuka",
+            "la": "Ambrosius Kibuuka",
+            "en": "Ambrose Kibuuka",
+            "pl": "Ambroży Kibuuka"
+        },
+        "records/patrons/ambrosius/med": {
+            "la": "Ambrosius Mediolanensis",
+            "en": "Ambrose of Milan",
+            "pl": "Ambroży z Mediolanu"
+        }
+    }
+}

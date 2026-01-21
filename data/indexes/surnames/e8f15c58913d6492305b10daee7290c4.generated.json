@@ -1,0 +1,18 @@
+{
+    "names": {
+        "sw": "Kiriggwajjo"
+    },
+    "translations": {
+        "sw": [
+            "Kiriggwajjo"
+        ]
+    },
+    "links": {
+        "records/patrons/lucas/ban": {
+            "sw": "Anatoli Kiriggwajjo",
+            "la": "Anatolius Kiriggwajjo",
+            "en": "Anatolius Kiriggwajjo",
+            "pl": "Anatoliusz Kiriggwajjo"
+        }
+    }
+}

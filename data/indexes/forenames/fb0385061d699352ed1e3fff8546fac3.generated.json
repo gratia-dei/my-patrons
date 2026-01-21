@@ -1,0 +1,28 @@
+{
+    "names": {
+        "la": "Mbaya"
+    },
+    "translations": {
+        "la": [
+            "Mbaya",
+            "Mbaga"
+        ],
+        "en": [
+            "Mbaga"
+        ],
+        "pl": [
+            "Mbaga"
+        ],
+        "sw": [
+            "Mbaga"
+        ]
+    },
+    "links": {
+        "records/patrons/mbaya/tuz": {
+            "sw": "Mbaga Tuzinde",
+            "la": "Mbaya Tuzinde",
+            "en": "Mbaga Tuzinde",
+            "pl": "Mbaga Tuzinde"
+        }
+    }
+}

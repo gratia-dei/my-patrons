@@ -1,0 +1,54 @@
+{
+    "names": {
+        "sw": "Luka"
+    },
+    "translations": {
+        "la": [
+            "Lucas"
+        ],
+        "en": [
+            "Luke"
+        ],
+        "pl": [
+            "Łukasz"
+        ],
+        "el": [
+            "Λουκάς"
+        ],
+        "fr": [
+            "Luc"
+        ],
+        "ko": [
+            "루가"
+        ],
+        "sw": [
+            "Luka"
+        ]
+    },
+    "links": {
+        "records/patrons/anatolius/kir": {
+            "sw": "Luka Banabakintu",
+            "la": "Lucas Banabakintu",
+            "en": "Luke Banabakintu",
+            "pl": "Łukasz Banabakintu"
+        },
+        "records/patrons/lucas/eva": {
+            "el": "Ευαγγελιστής Λουκάς",
+            "la": "Lucas Evangelista",
+            "en": "Luke the Evangelist",
+            "pl": "Łukasz Ewangelista"
+        },
+        "records/patrons/lucas/hwa": {
+            "ko": "황석두 루가",
+            "la": "Lucas Hwang Sŏk-tu",
+            "en": "Luke Hwang Sŏk-tu",
+            "pl": "Łukasz Hwang Sŏk-tu"
+        },
+        "records/patrons/martinus/hui": {
+            "fr": "Martin Luc Huin",
+            "la": "Martinus Lucas Huin",
+            "en": "Martin Luke Huin",
+            "pl": "Marcin Łukasz Huin"
+        }
+    }
+}

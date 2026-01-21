@@ -1,7 +1,19 @@
 {
     "data-links": {
         "1": {
-            "1": "records/patrons/carolus/lwa"
+            "1": "records/patrons/carolus/lwa",
+            "2": "records/patrons/mbaya/tuz",
+            "3": "records/patrons/bruno/ser",
+            "4": "records/patrons/iacobus/buz",
+            "5": "records/patrons/kizito/lwa",
+            "6": "records/patrons/ambrosius/kib",
+            "7": "records/patrons/mgagga/lwa",
+            "8": "records/patrons/gyavira/lwa",
+            "9": "records/patrons/achilles/kiw",
+            "10": "records/patrons/adolphus/lud",
+            "11": "records/patrons/mukasa/kir",
+            "12": "records/patrons/lucas/ban",
+            "13": "records/patrons/anatolius/kir"
         },
         "19": {
             "1": "records/patrons/ioannes/23p"

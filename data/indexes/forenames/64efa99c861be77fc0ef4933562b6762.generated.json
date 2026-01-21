@@ -1,0 +1,78 @@
+{
+    "names": {
+        "sw": "Yakobo"
+    },
+    "translations": {
+        "la": [
+            "Iacobus",
+            "Jacobus"
+        ],
+        "en": [
+            "James"
+        ],
+        "pl": [
+            "Jakub"
+        ],
+        "fr": [
+            "Jacques"
+        ],
+        "it": [
+            "Giacomo"
+        ],
+        "sw": [
+            "Yakobo"
+        ]
+    },
+    "links": {
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
+        "records/patrons/iacobus/ben": {
+            "it": "Giacomo Benfatti",
+            "la": "Iacobus Benfatti",
+            "en": "James Benfatti",
+            "pl": "Jakub Benfatti"
+        },
+        "records/patrons/iacobus/ber": {
+            "fr": "Jacques Berthieu",
+            "la": "Iacobus Berthieu",
+            "en": "James Berthieu",
+            "pl": "Jakub Berthieu"
+        },
+        "records/patrons/iacobus/buz": {
+            "sw": "Yakobo Buzabaliawo",
+            "la": "Iacobus Buzabaliao",
+            "en": "James Buzabaliawo",
+            "pl": "Jakub Buzabaliawo"
+        },
+        "records/patrons/iacobus/duc": {
+            "en": "James Duckett",
+            "la": "Iacobus Duckett",
+            "pl": "Jakub Duckett"
+        },
+        "records/patrons/iacobus/gag": {
+            "fr": "Jacques Gagnot",
+            "la": "Iacobus Gagnot",
+            "en": "James Gagnot",
+            "pl": "Jakub Gagnot"
+        },
+        "records/patrons/iacobus/mai": {
+            "la": "Iacobus Maior Apostolus",
+            "en": "James the Great",
+            "pl": "Jakub Większy Apostoł"
+        },
+        "records/patrons/iacobus/min": {
+            "la": "Iacobus Minor Apostolus",
+            "en": "James the Less Apostle",
+            "pl": "Jakub Mniejszy Apostoł"
+        },
+        "records/patrons/iacobus/str": {
+            "pl": "Jakub Strzemię",
+            "la": "Iacobus Strepa",
+            "en": "James Strzemie"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "names": {
+        "sw": "Kiriwawanvu"
+    },
+    "translations": {
+        "sw": [
+            "Kiriwawanvu"
+        ],
+        "la": [
+            "Kiriwanvu"
+        ]
+    },
+    "links": {
+        "records/patrons/mukasa/kir": {
+            "sw": "Mukasa Kiriwawanvu",
+            "la": "Mukasa Kiriwanvu",
+            "en": "Mukasa Kiriwawanvu",
+            "pl": "Mukasa Kiriwawanvu"
+        }
+    }
+}

@@ -46,6 +46,12 @@
             "en": "Acathius of Melitene",
             "pl": "Achacjusz z Melitene"
         },
+        "records/patrons/achilles/kiw": {
+            "sw": "Achile Kiwanuka",
+            "la": "Achilles Kiwanuka",
+            "en": "Achille Kiwanuka",
+            "pl": "Achilles Kiwanuka"
+        },
         "records/patrons/acutius/put": {
             "la": "Acutius Puteolensis",
             "en": "Acutius of Pozzuoli",
@@ -66,6 +72,12 @@
             "la": "Adelarius; cum eo, i.a., Eobanus",
             "en": "Adolar; with him, i.a., Eoban",
             "pl": "Adalariusz; z nim, m.in. Eoban"
+        },
+        "records/patrons/adolphus/lud": {
+            "sw": "Adolfo Mukasa Ludigo",
+            "la": "Adolphus Ludigo Mkasa",
+            "en": "Adolphus Ludigo Mkasa",
+            "pl": "Adolf Ludigo Mkasa"
         },
         "records/patrons/aegidius/abb": {
             "fr": "Gilles l'Ermite",
@@ -202,6 +214,12 @@
             "en": "Alypius of Tagaste",
             "pl": "Alipiusz z Tagasty"
         },
+        "records/patrons/ambrosius/kib": {
+            "sw": "Ambrosio Kibuuka",
+            "la": "Ambrosius Kibuuka",
+            "en": "Ambrose Kibuuka",
+            "pl": "Ambroży Kibuuka"
+        },
         "records/patrons/ambrosius/med": {
             "la": "Ambrosius Mediolanensis",
             "en": "Ambrose of Milan",
@@ -222,6 +240,12 @@
             "la": "Anastasius Pp. I",
             "en": "Anastasius I, pope",
             "pl": "Anastazy I, papież"
+        },
+        "records/patrons/anatolius/kir": {
+            "sw": "Luka Banabakintu",
+            "la": "Lucas Banabakintu",
+            "en": "Luke Banabakintu",
+            "pl": "Łukasz Banabakintu"
         },
         "records/patrons/anatolius/pho": {
             "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
@@ -651,6 +675,12 @@
             "la": "Bruno Cartusiensis",
             "en": "Bruno of Cologne",
             "pl": "Bruno Kartuz"
+        },
+        "records/patrons/bruno/ser": {
+            "sw": "Bruno Sserunkuma",
+            "la": "Bruno Seronuma",
+            "en": "Bruno Sserunkuma",
+            "pl": "Bruno Sserunkuma"
         },
         "records/patrons/caerealis/rom": {
             "la": "Caerealis de Roma",
@@ -1479,6 +1509,12 @@
             "la": "Gunthramnus",
             "pl": "Guntram"
         },
+        "records/patrons/gyavira/lwa": {
+            "sw": "Gyaviira Musoke",
+            "la": "Gyavira",
+            "en": "Gyaviira Musoke",
+            "pl": "Gyaviira Musoke"
+        },
         "records/patrons/henricus/hle": {
             "pl": "Henryk Hlebowicz",
             "la": "Henricus Hlebowicz",
@@ -1593,6 +1629,12 @@
             "la": "Iacobus Berthieu",
             "en": "James Berthieu",
             "pl": "Jakub Berthieu"
+        },
+        "records/patrons/iacobus/buz": {
+            "sw": "Yakobo Buzabaliawo",
+            "la": "Iacobus Buzabaliao",
+            "en": "James Buzabaliawo",
+            "pl": "Jakub Buzabaliawo"
         },
         "records/patrons/iacobus/duc": {
             "en": "James Duckett",
@@ -2098,6 +2140,12 @@
             "en": "Juvenal of Narni",
             "pl": "Juwenalis z Narni"
         },
+        "records/patrons/kizito/lwa": {
+            "sw": "Kizito",
+            "la": "Kizito",
+            "en": "Kizito",
+            "pl": "Kizito"
+        },
         "records/patrons/ladislaus/gie": {
             "pl": "Władysław z Gielniowa",
             "la": "Ladislaus de Gielniów",
@@ -2171,6 +2219,12 @@
             "en": "Leonard of Noblac",
             "la": "Leonardus Lemovicensis",
             "pl": "Leonard z Limoges"
+        },
+        "records/patrons/lucas/ban": {
+            "sw": "Anatoli Kiriggwajjo",
+            "la": "Anatolius Kiriggwajjo",
+            "en": "Anatolius Kiriggwajjo",
+            "pl": "Anatoliusz Kiriggwajjo"
         },
         "records/patrons/lucas/eva": {
             "el": "Ευαγγελιστής Λουκάς",
@@ -2382,6 +2436,12 @@
             "en": "Maximus of Rome",
             "pl": "Maksym z Rzymu"
         },
+        "records/patrons/mbaya/tuz": {
+            "sw": "Mbaga Tuzinde",
+            "la": "Mbaya Tuzinde",
+            "en": "Mbaga Tuzinde",
+            "pl": "Mbaga Tuzinde"
+        },
         "records/patrons/melanius/rhe": {
             "fr": "Melaine de Rennes",
             "en": "Melaine of Rennes",
@@ -2392,6 +2452,12 @@
             "la": "Methodius Thessalonicensis",
             "en": "Methodius of Thessalonica",
             "pl": "Metody z Tesaloniki"
+        },
+        "records/patrons/mgagga/lwa": {
+            "sw": "Mugagga Lubowa",
+            "la": "Mgagga",
+            "en": "Mugagga Lubowa",
+            "pl": "Mugagga Lubowa"
         },
         "records/patrons/michael/koz": {
             "pl": "Michał Kozal",
@@ -2441,6 +2507,12 @@
             "la": "Moyses Aethiops",
             "en": "Moses the Ethiopian",
             "pl": "Mojżesz Etiopczyk"
+        },
+        "records/patrons/mukasa/kir": {
+            "sw": "Mukasa Kiriwawanvu",
+            "la": "Mukasa Kiriwanvu",
+            "en": "Mukasa Kiriwawanvu",
+            "pl": "Mukasa Kiriwawanvu"
         },
         "records/patrons/multa/abr": {
             "la": "Monachi Abrahamitae",

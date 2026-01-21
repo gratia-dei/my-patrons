@@ -1,0 +1,18 @@
+{
+    "names": {
+        "sw": "Kiwanuka"
+    },
+    "translations": {
+        "sw": [
+            "Kiwanuka"
+        ]
+    },
+    "links": {
+        "records/patrons/achilles/kiw": {
+            "sw": "Achile Kiwanuka",
+            "la": "Achilles Kiwanuka",
+            "en": "Achille Kiwanuka",
+            "pl": "Achilles Kiwanuka"
+        }
+    }
+}

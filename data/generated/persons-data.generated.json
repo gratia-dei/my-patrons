@@ -568,6 +568,38 @@
             }
         }
     },
+    "patrons/achilles": {
+        "names": {
+            "la": "Achilles",
+            "en": "Achille",
+            "pl": "Achilles",
+            "sw": "Achile"
+        }
+    },
+    "patrons/achilles/kiw": {
+        "active": true,
+        "names": {
+            "sw": "Achile Kiwanuka",
+            "la": "Achilles Kiwanuka",
+            "en": "Achille Kiwanuka",
+            "pl": "Achilles Kiwanuka"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/achilles": {
+                "active": true,
+                "names": {
+                    "la": "Achilles",
+                    "en": "Achille",
+                    "pl": "Achilles",
+                    "sw": "Achile"
+                }
+            }
+        }
+    },
     "patrons/acutius": {
         "names": {
             "la": "Acutius",
@@ -686,6 +718,38 @@
                     "la": "Adelarius",
                     "en": "Adalarius",
                     "pl": "Adalariusz"
+                }
+            }
+        }
+    },
+    "patrons/adolphus": {
+        "names": {
+            "la": "Adolphus",
+            "en": "Adolphus",
+            "pl": "Adolf",
+            "sw": "Adolfo"
+        }
+    },
+    "patrons/adolphus/lud": {
+        "active": true,
+        "names": {
+            "sw": "Adolfo Mukasa Ludigo",
+            "la": "Adolphus Ludigo Mkasa",
+            "en": "Adolphus Ludigo Mkasa",
+            "pl": "Adolf Ludigo Mkasa"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/adolphus": {
+                "active": true,
+                "names": {
+                    "la": "Adolphus",
+                    "en": "Adolphus",
+                    "pl": "Adolf",
+                    "sw": "Adolfo"
                 }
             }
         }
@@ -1583,7 +1647,32 @@
         "names": {
             "la": "Ambrosius",
             "en": "Ambrose",
-            "pl": "Ambroży"
+            "pl": "Ambroży",
+            "sw": "Ambrosio"
+        }
+    },
+    "patrons/ambrosius/kib": {
+        "active": true,
+        "names": {
+            "sw": "Ambrosio Kibuuka",
+            "la": "Ambrosius Kibuuka",
+            "en": "Ambrose Kibuuka",
+            "pl": "Ambroży Kibuuka"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ambrosius": {
+                "active": true,
+                "names": {
+                    "la": "Ambrosius",
+                    "en": "Ambrose",
+                    "pl": "Ambroży",
+                    "sw": "Ambrosio"
+                }
+            }
         }
     },
     "patrons/ambrosius/med": {
@@ -1611,7 +1700,8 @@
                 "names": {
                     "la": "Ambrosius",
                     "en": "Ambrose",
-                    "pl": "Ambroży"
+                    "pl": "Ambroży",
+                    "sw": "Ambrosio"
                 }
             }
         }
@@ -1740,7 +1830,35 @@
         "names": {
             "la": "Anatolius",
             "en": "Anatolius",
-            "pl": "Anatol"
+            "pl": "Anatoliusz",
+            "sw": "Anatoli"
+        }
+    },
+    "patrons/anatolius/kir": {
+        "active": true,
+        "names": {
+            "sw": "Luka Banabakintu",
+            "la": "Lucas Banabakintu",
+            "en": "Luke Banabakintu",
+            "pl": "Łukasz Banabakintu"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/lucas": {
+                "active": true,
+                "names": {
+                    "la": "Lucas",
+                    "en": "Luke",
+                    "pl": "Łukasz",
+                    "el": "Λουκάς",
+                    "fr": "Luc",
+                    "ko": "루가",
+                    "sw": "Luka"
+                }
+            }
         }
     },
     "patrons/anatolius/pho": {
@@ -1760,7 +1878,8 @@
                 "names": {
                     "la": "Anatolius",
                     "en": "Anatolius",
-                    "pl": "Anatol"
+                    "pl": "Anatoliusz",
+                    "sw": "Anatoli"
                 }
             }
         }
@@ -4517,7 +4636,8 @@
             "la": "Bruno",
             "en": "Bruno",
             "pl": "Bruno",
-            "de": "Bruno"
+            "de": "Bruno",
+            "sw": "Bruno"
         }
     },
     "patrons/bruno/ere": {
@@ -4539,7 +4659,33 @@
                     "la": "Bruno",
                     "en": "Bruno",
                     "pl": "Bruno",
-                    "de": "Bruno"
+                    "de": "Bruno",
+                    "sw": "Bruno"
+                }
+            }
+        }
+    },
+    "patrons/bruno/ser": {
+        "active": true,
+        "names": {
+            "sw": "Bruno Sserunkuma",
+            "la": "Bruno Seronuma",
+            "en": "Bruno Sserunkuma",
+            "pl": "Bruno Sserunkuma"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/bruno": {
+                "active": true,
+                "names": {
+                    "la": "Bruno",
+                    "en": "Bruno",
+                    "pl": "Bruno",
+                    "de": "Bruno",
+                    "sw": "Bruno"
                 }
             }
         }
@@ -10349,6 +10495,38 @@
             }
         }
     },
+    "patrons/gyavira": {
+        "names": {
+            "la": "Gyavira",
+            "en": "Gyaviira",
+            "pl": "Gyaviira",
+            "sw": "Gyaviira"
+        }
+    },
+    "patrons/gyavira/lwa": {
+        "active": true,
+        "names": {
+            "sw": "Gyaviira Musoke",
+            "la": "Gyavira",
+            "en": "Gyaviira Musoke",
+            "pl": "Gyaviira Musoke"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/gyavira": {
+                "active": true,
+                "names": {
+                    "la": "Gyavira",
+                    "en": "Gyaviira",
+                    "pl": "Gyaviira",
+                    "sw": "Gyaviira"
+                }
+            }
+        }
+    },
     "patrons/hedwigis": {
         "names": {
             "la": "Hedwigis",
@@ -11060,7 +11238,8 @@
             "en": "James",
             "pl": "Jakub",
             "fr": "Jacques",
-            "it": "Giacomo"
+            "it": "Giacomo",
+            "sw": "Yakobo"
         }
     },
     "patrons/iacobus/alb": {
@@ -11083,7 +11262,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11108,7 +11288,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11133,7 +11314,34 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
+                }
+            }
+        }
+    },
+    "patrons/iacobus/buz": {
+        "active": true,
+        "names": {
+            "sw": "Yakobo Buzabaliawo",
+            "la": "Iacobus Buzabaliao",
+            "en": "James Buzabaliawo",
+            "pl": "Jakub Buzabaliawo"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iacobus": {
+                "active": true,
+                "names": {
+                    "la": "Iacobus",
+                    "en": "James",
+                    "pl": "Jakub",
+                    "fr": "Jacques",
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11157,7 +11365,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11182,7 +11391,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11214,7 +11424,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11238,7 +11449,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -11262,7 +11474,8 @@
                     "en": "James",
                     "pl": "Jakub",
                     "fr": "Jacques",
-                    "it": "Giacomo"
+                    "it": "Giacomo",
+                    "sw": "Yakobo"
                 }
             }
         }
@@ -14763,6 +14976,38 @@
             }
         }
     },
+    "patrons/kizito": {
+        "names": {
+            "la": "Kizito",
+            "en": "Kizito",
+            "pl": "Kizito",
+            "sw": "Kizito"
+        }
+    },
+    "patrons/kizito/lwa": {
+        "active": true,
+        "names": {
+            "sw": "Kizito",
+            "la": "Kizito",
+            "en": "Kizito",
+            "pl": "Kizito"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/kizito": {
+                "active": true,
+                "names": {
+                    "la": "Kizito",
+                    "en": "Kizito",
+                    "pl": "Kizito",
+                    "sw": "Kizito"
+                }
+            }
+        }
+    },
     "patrons/ladislaus": {
         "names": {
             "la": "Ladislaus",
@@ -15198,7 +15443,32 @@
             "pl": "Łukasz",
             "el": "Λουκάς",
             "fr": "Luc",
-            "ko": "루가"
+            "ko": "루가",
+            "sw": "Luka"
+        }
+    },
+    "patrons/lucas/ban": {
+        "active": true,
+        "names": {
+            "sw": "Anatoli Kiriggwajjo",
+            "la": "Anatolius Kiriggwajjo",
+            "en": "Anatolius Kiriggwajjo",
+            "pl": "Anatoliusz Kiriggwajjo"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/anatolius": {
+                "active": true,
+                "names": {
+                    "la": "Anatolius",
+                    "en": "Anatolius",
+                    "pl": "Anatoliusz",
+                    "sw": "Anatoli"
+                }
+            }
         }
     },
     "patrons/lucas/eva": {
@@ -15231,7 +15501,8 @@
                     "pl": "Łukasz",
                     "el": "Λουκάς",
                     "fr": "Luc",
-                    "ko": "루가"
+                    "ko": "루가",
+                    "sw": "Luka"
                 }
             }
         }
@@ -15257,7 +15528,8 @@
                     "pl": "Łukasz",
                     "el": "Λουκάς",
                     "fr": "Luc",
-                    "ko": "루가"
+                    "ko": "루가",
+                    "sw": "Luka"
                 }
             },
             "forenames/sok-tu": {
@@ -18874,7 +19146,8 @@
                     "pl": "Łukasz",
                     "el": "Λουκάς",
                     "fr": "Luc",
-                    "ko": "루가"
+                    "ko": "루가",
+                    "sw": "Luka"
                 }
             }
         }
@@ -19300,6 +19573,38 @@
             }
         }
     },
+    "patrons/mbaya": {
+        "names": {
+            "la": "Mbaya",
+            "en": "Mbaga",
+            "pl": "Mbaga",
+            "sw": "Mbaga"
+        }
+    },
+    "patrons/mbaya/tuz": {
+        "active": true,
+        "names": {
+            "sw": "Mbaga Tuzinde",
+            "la": "Mbaya Tuzinde",
+            "en": "Mbaga Tuzinde",
+            "pl": "Mbaga Tuzinde"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/mbaya": {
+                "active": true,
+                "names": {
+                    "la": "Mbaya",
+                    "en": "Mbaga",
+                    "pl": "Mbaga",
+                    "sw": "Mbaga"
+                }
+            }
+        }
+    },
     "patrons/melanius": {
         "names": {
             "la": "Melanius",
@@ -19357,6 +19662,38 @@
                     "la": "Methodius",
                     "en": "Methodius",
                     "pl": "Metody"
+                }
+            }
+        }
+    },
+    "patrons/mgagga": {
+        "names": {
+            "la": "Mgagga",
+            "en": "Mugagga",
+            "pl": "Mugagga",
+            "sw": "Mugagga"
+        }
+    },
+    "patrons/mgagga/lwa": {
+        "active": true,
+        "names": {
+            "sw": "Mugagga Lubowa",
+            "la": "Mgagga",
+            "en": "Mugagga Lubowa",
+            "pl": "Mugagga Lubowa"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/mgagga": {
+                "active": true,
+                "names": {
+                    "la": "Mgagga",
+                    "en": "Mugagga",
+                    "pl": "Mugagga",
+                    "sw": "Mugagga"
                 }
             }
         }
@@ -19712,6 +20049,38 @@
                     "la": "Moyses",
                     "en": "Moses",
                     "pl": "Mojżesz"
+                }
+            }
+        }
+    },
+    "patrons/mukasa": {
+        "names": {
+            "la": "Mukasa",
+            "en": "Mukasa",
+            "pl": "Mukasa",
+            "sw": "Mukasa"
+        }
+    },
+    "patrons/mukasa/kir": {
+        "active": true,
+        "names": {
+            "sw": "Mukasa Kiriwawanvu",
+            "la": "Mukasa Kiriwanvu",
+            "en": "Mukasa Kiriwawanvu",
+            "pl": "Mukasa Kiriwawanvu"
+        },
+        "died": [
+            "1886-06-03"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/mukasa": {
+                "active": true,
+                "names": {
+                    "la": "Mukasa",
+                    "en": "Mukasa",
+                    "pl": "Mukasa",
+                    "sw": "Mukasa"
                 }
             }
         }

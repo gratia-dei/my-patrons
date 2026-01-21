@@ -416,6 +416,12 @@
         "de": "Elisabeth",
         "fr": "Elisabeth"
     },
+    "15add2656d83f673869abbb4402c998f": {
+        "la": "Gyaviira",
+        "en": "Gyaviira",
+        "pl": "Gyaviira",
+        "sw": "Gyaviira"
+    },
     "15b3ad73d516f71f056f25338113194c": {
         "it": "Dionigi"
     },
@@ -682,6 +688,9 @@
     "24c7a23dab34f08dff673790d531f458": {
         "pl": "Felicjan"
     },
+    "24c8e8fdd203338d06e4330c28c90d1b": {
+        "sw": "Luka"
+    },
     "24eb352111dceb975bc29089d39aabe7": {
         "ko": "가타리나"
     },
@@ -735,6 +744,12 @@
     },
     "266d6bdae8c392d22d470fd47bc57985": {
         "pl": "Kanuta"
+    },
+    "26a3fa5d73d35519ce5066b349038620": {
+        "la": "Mbaga",
+        "en": "Mbaga",
+        "pl": "Mbaga",
+        "sw": "Mbaga"
     },
     "26d8b147a1e3c9db26d061386018fd42": {
         "el": "Μακάριος"
@@ -811,6 +826,9 @@
     "2a71f53094ee0192ab4c7c9ed75c2bfb": {
         "pl": "Westina"
     },
+    "2aa729bec6c60f64cf8bc5cfd2e0aa45": {
+        "sw": "Adolfo"
+    },
     "2b4639556d132ff7953adcd4961077c5": {
         "pl": "Agatangel"
     },
@@ -873,6 +891,10 @@
     },
     "2e57018424015edb25474898507de4e4": {
         "pl": "Justyn"
+    },
+    "2e5a44e21be1570ee5018171f52bb452": {
+        "la": "Adolphus",
+        "en": "Adolphus"
     },
     "2e60a2cd293ed7c92d7752b2185b9d51": {
         "la": "Sarbelius"
@@ -1455,6 +1477,9 @@
     "4938727e20bcccd7a04016965deb0c28": {
         "pl": "Erazm"
     },
+    "49546abad7f2050b4b26444a38864e1d": {
+        "sw": "Ambrosio"
+    },
     "495f1d91314dd2e2997c3b9fb866f48e": {
         "la": "Adelarius"
     },
@@ -1831,8 +1856,14 @@
     "61657f483e517ff1253d33de2021d154": {
         "ig": "Onye Saịprọs"
     },
+    "6174a0824836b08515c7a4d037f3ae90": {
+        "pl": "Adolf"
+    },
     "61781b0d2f5282b28b02f2a8139e30fd": {
         "pl": "Edyta"
+    },
+    "6180951e7024268142e82d35bf86fb1f": {
+        "sw": "Anatoli"
     },
     "6194023aa47eaf8246bb2374535f77bb": {
         "pt": "Bartolomeu"
@@ -1888,8 +1919,14 @@
     "64bf6a86230365619e9249e5b083aa46": {
         "en": "Basil"
     },
+    "64efa99c861be77fc0ef4933562b6762": {
+        "sw": "Yakobo"
+    },
     "650ec3ff43b45d1e94bc284f1f56b825": {
         "ko": "페르페투아"
+    },
+    "6512404ab3a06bf25fce3516510d1066": {
+        "sw": "Achile"
     },
     "652c32e3acec34c19d209ebca0a0dcd1": {
         "la": "Adela"
@@ -2333,6 +2370,12 @@
     },
     "7d1c097fff965fb2870132fa74fdbdfd": {
         "en": "Hillary"
+    },
+    "7d762a26e220351692f8843cf392b677": {
+        "la": "Kizito",
+        "en": "Kizito",
+        "pl": "Kizito",
+        "sw": "Kizito"
     },
     "7dc320bcadcf7c15e90eac0a65e12e88": {
         "it": "Giuliano"
@@ -2904,7 +2947,8 @@
         "la": "Bruno",
         "en": "Bruno",
         "pl": "Bruno",
-        "de": "Bruno"
+        "de": "Bruno",
+        "sw": "Bruno"
     },
     "9b2db9eb08982c85bba1b7a7bf1fba8c": {
         "fa": "کریستینا"
@@ -2927,6 +2971,9 @@
     },
     "9bfd719cf4f17e1969cf566a31e88a18": {
         "en": "Amadeus"
+    },
+    "9c0493b87e8f6069f932b712baa12c25": {
+        "pl": "Anatoliusz"
     },
     "9c1c94c30affad7d656a15008159aabd": {
         "en": "Rogatian"
@@ -3362,6 +3409,9 @@
     "b25eac2087867571f68ab8a9ae7c13f2": {
         "it": "Manetto"
     },
+    "b26fa771539986f8875beef3a28ca644": {
+        "la": "Gyavira"
+    },
     "b27bfe5ba5bec17f80de30b9f23ff658": {
         "pl": "Jerzy"
     },
@@ -3606,6 +3656,9 @@
     "bcc4c8ffc17b9d3798a0d43e9fef13e7": {
         "la": "Vincentia"
     },
+    "bcd2f035521796a5545eb66d9e15dffc": {
+        "en": "Achille"
+    },
     "bd3ec56c606c53c47e3fe6be6913fffb": {
         "pl": "Anzelm"
     },
@@ -3617,6 +3670,9 @@
     },
     "bd770c416f6dc72824a698b326bdc9ff": {
         "ko": "토마스"
+    },
+    "bd86a972148491fc638fc79401e4d6d8": {
+        "la": "Mgagga"
     },
     "bda6a984e70a3f9e77c8160ebe0ee6c8": {
         "la": "Acacius",
@@ -3847,6 +3903,12 @@
     },
     "c973d4a3dbba1ef55d1c6044968fc305": {
         "en": "Angel"
+    },
+    "c9c871dc1b9a5003649d586535189419": {
+        "la": "Mugagga",
+        "en": "Mugagga",
+        "pl": "Mugagga",
+        "sw": "Mugagga"
     },
     "c9d51803020076e72a56374a279ceccb": {
         "pl": "Kolumba"
@@ -4202,6 +4264,10 @@
     "dd68545ca881e8b0546c571818dab5af": {
         "uk": "Антоній"
     },
+    "dda093a0d95855ccfb851a4c054a8f15": {
+        "la": "Achilles",
+        "pl": "Achilles"
+    },
     "dda0a7620efa09906b2b51ec4d48b6dd": {
         "pl": "Arystarch"
     },
@@ -4275,6 +4341,12 @@
     },
     "e18ab1f3de92faf8042c6b66c025868e": {
         "pl": "Elizeusz"
+    },
+    "e190a521b24faef570806f220586d087": {
+        "la": "Mukasa",
+        "en": "Mukasa",
+        "pl": "Mukasa",
+        "sw": "Mukasa"
     },
     "e1b3e94455a102d75f5f4e8ae4aa763a": {
         "la": "Spiridion"
@@ -4790,6 +4862,9 @@
         "la": "Sibyllina",
         "en": "Sibyllina"
     },
+    "fb0385061d699352ed1e3fff8546fac3": {
+        "la": "Mbaya"
+    },
     "fb2a7e07febbe7636dbbce0824477691": {
         "la": "Anicetus",
         "en": "Anicetus"
@@ -4842,6 +4917,9 @@
     },
     "fd0fcf880d7cd5f3dad173449774b745": {
         "ko": "가롤로"
+    },
+    "fd15a9b0b2d44b4b6870c623679e2332": {
+        "sw": "Achileo"
     },
     "fd284a7ba3215a33995aacfc9b38f234": {
         "la": "Deusdedit",

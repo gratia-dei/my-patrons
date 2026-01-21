@@ -1,0 +1,22 @@
+{
+    "names": {
+        "sw": "Sserunkuma"
+    },
+    "translations": {
+        "sw": [
+            "Sserunkuma"
+        ],
+        "la": [
+            "Seronuma",
+            "Sérun Kuma"
+        ]
+    },
+    "links": {
+        "records/patrons/bruno/ser": {
+            "sw": "Bruno Sserunkuma",
+            "la": "Bruno Seronuma",
+            "en": "Bruno Sserunkuma",
+            "pl": "Bruno Sserunkuma"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "names": {
+        "sw": [
+            "Bruno Sserunkuma"
+        ],
+        "la": [
+            "Bruno Seronuma",
+            "Bruno Séron Kuma"
+        ],
+        "en": [
+            "Bruno Sserunkuma"
+        ],
+        "pl": [
+            "Bruno Sserunkuma"
+        ]
+    },
+    "forenames": ["bruno"],
+    "surnames": [
+        {
+            "sw": "Sserunkuma",
+            "la": ["Seronuma", "Sérun Kuma"]
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1856"],
+    "died": ["1886-06-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1920-06-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1964-10-18"
+    },
+    "anniversary": ["06-03"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["3:iun./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-dell-uganda.html",
+        "gcatholic": "https://gcatholic.org/p/66483",
+        "wiki": "https://pl.wikipedia.org/wiki/Bruno_Sserunkuma"
+    }
+}

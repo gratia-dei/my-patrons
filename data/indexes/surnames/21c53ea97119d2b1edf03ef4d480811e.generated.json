@@ -1,0 +1,18 @@
+{
+    "names": {
+        "sw": "Banabakintu"
+    },
+    "translations": {
+        "sw": [
+            "Banabakintu"
+        ]
+    },
+    "links": {
+        "records/patrons/anatolius/kir": {
+            "sw": "Luka Banabakintu",
+            "la": "Lucas Banabakintu",
+            "en": "Luke Banabakintu",
+            "pl": "Łukasz Banabakintu"
+        }
+    }
+}

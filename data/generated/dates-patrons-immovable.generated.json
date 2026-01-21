@@ -4589,12 +4589,103 @@
         }
     },
     "06-03": {
+        "records/patrons/achilles/kiw": {
+            "name": {
+                "sw": "Achile Kiwanuka",
+                "la": "Achilles Kiwanuka",
+                "en": "Achille Kiwanuka",
+                "pl": "Achilles Kiwanuka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/adolphus/lud": {
+            "name": {
+                "sw": "Adolfo Mukasa Ludigo",
+                "la": "Adolphus Ludigo Mkasa",
+                "en": "Adolphus Ludigo Mkasa",
+                "pl": "Adolf Ludigo Mkasa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/ambrosius/kib": {
+            "name": {
+                "sw": "Ambrosio Kibuuka",
+                "la": "Ambrosius Kibuuka",
+                "en": "Ambrose Kibuuka",
+                "pl": "Ambroży Kibuuka"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/anatolius/kir": {
+            "name": {
+                "sw": "Luka Banabakintu",
+                "la": "Lucas Banabakintu",
+                "en": "Luke Banabakintu",
+                "pl": "Łukasz Banabakintu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/bruno/ser": {
+            "name": {
+                "sw": "Bruno Sserunkuma",
+                "la": "Bruno Seronuma",
+                "en": "Bruno Sserunkuma",
+                "pl": "Bruno Sserunkuma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
         "records/patrons/carolus/lwa": {
             "name": {
                 "sw": "Karoli Lwanga",
                 "la": "Carolus Lwanga",
                 "en": "Charles Lwanga",
                 "pl": "Karol Lwanga"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/gyavira/lwa": {
+            "name": {
+                "sw": "Gyaviira Musoke",
+                "la": "Gyavira",
+                "en": "Gyaviira Musoke",
+                "pl": "Gyaviira Musoke"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/iacobus/buz": {
+            "name": {
+                "sw": "Yakobo Buzabaliawo",
+                "la": "Iacobus Buzabaliao",
+                "en": "James Buzabaliawo",
+                "pl": "Jakub Buzabaliawo"
             },
             "sources": {
                 "reliable-death-anniversary": "3 VI",
@@ -4612,6 +4703,71 @@
             "sources": {
                 "reliable-death-anniversary": "3 VI",
                 "mr-2004": "3 VI: #19"
+            }
+        },
+        "records/patrons/kizito/lwa": {
+            "name": {
+                "sw": "Kizito",
+                "la": "Kizito",
+                "en": "Kizito",
+                "pl": "Kizito"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/lucas/ban": {
+            "name": {
+                "sw": "Anatoli Kiriggwajjo",
+                "la": "Anatolius Kiriggwajjo",
+                "en": "Anatolius Kiriggwajjo",
+                "pl": "Anatoliusz Kiriggwajjo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/mbaya/tuz": {
+            "name": {
+                "sw": "Mbaga Tuzinde",
+                "la": "Mbaya Tuzinde",
+                "en": "Mbaga Tuzinde",
+                "pl": "Mbaga Tuzinde"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/mgagga/lwa": {
+            "name": {
+                "sw": "Mugagga Lubowa",
+                "la": "Mgagga",
+                "en": "Mugagga Lubowa",
+                "pl": "Mugagga Lubowa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
+        "records/patrons/mukasa/kir": {
+            "name": {
+                "sw": "Mukasa Kiriwawanvu",
+                "la": "Mukasa Kiriwanvu",
+                "en": "Mukasa Kiriwawanvu",
+                "pl": "Mukasa Kiriwawanvu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
             }
         }
     },

@@ -1,0 +1,52 @@
+{
+    "names": {
+        "sw": [
+            "Kizito"
+        ],
+        "la": [
+            "Kizito"
+        ],
+        "en": [
+            "Kizito"
+        ],
+        "pl": [
+            "Kizito"
+        ]
+    },
+    "forenames": ["kizito"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["~1872"],
+    "died": ["1886-06-03"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1920-06-06"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1964-10-18"
+    },
+    "anniversary": ["06-03"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["5:iun./3#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/martiri-dell-uganda.html",
+        "gcatholic": "https://gcatholic.org/p/66486",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ty_Kizito"
+    }
+}

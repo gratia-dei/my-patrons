@@ -2,6 +2,8 @@
     "names": {
         "la": "Anatolius",
         "en": "Anatolius",
-        "pl": "Anatol"
+        "pl": ["Anatoliusz", "Anatol"],
+
+        "sw": "Anatoli"
     }
 }
