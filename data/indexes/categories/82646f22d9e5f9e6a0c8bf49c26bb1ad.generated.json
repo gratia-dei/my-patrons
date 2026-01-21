@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/carolus/fou": {
+            "fr": "Charles de Foucauld",
+            "la": "Carolus de Foucauld",
+            "en": "Charles de Foucauld",
+            "pl": "Karol de Foucauld"
+        },
         "records/patrons/petrus/eym": {
             "fr": "Pierre-Julien Eymard",
             "en": "Peter Julian Eymanrd",

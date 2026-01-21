@@ -11314,6 +11314,18 @@
         }
     },
     "12-01": {
+        "records/patrons/carolus/fou": {
+            "name": {
+                "fr": "Charles de Foucauld",
+                "la": "Carolus de Foucauld",
+                "en": "Charles de Foucauld",
+                "pl": "Karol de Foucauld"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 XII",
+                "feast": "1 XII"
+            }
+        },
         "records/patrons/clementina/nen": {
             "name": {
                 "fr": "Clémentine Anuarite Nengapeta",
