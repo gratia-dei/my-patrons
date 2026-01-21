@@ -4687,11 +4687,11 @@
         }
     },
     "patrons/caesarius/tar": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Cesario di Terracina",
-            "en": "Caesarius of Terracina",
             "la": "Caesarius Terracinensis",
+            "en": "Caesarius of Terracina",
             "pl": "Cezary z Terraciny"
         },
         "died": [

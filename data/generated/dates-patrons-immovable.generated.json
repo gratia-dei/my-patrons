@@ -10357,6 +10357,19 @@
                 "mr-2004": "1 XI: #3"
             }
         },
+        "records/patrons/caesarius/tar": {
+            "name": {
+                "it": "Cesario di Terracina",
+                "la": "Caesarius Terracinensis",
+                "en": "Caesarius of Terracina",
+                "pl": "Cezary z Terraciny"
+            },
+            "sources": {
+                "mr-1584": "1 XI: #2",
+                "mr-1956": "1 XI: #3",
+                "mr-2004": "1 XI: #2"
+            }
+        },
         "records/patrons/multa/san": {
             "name": {
                 "la": "Omnes Sancti",
