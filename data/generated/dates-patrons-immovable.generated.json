@@ -4589,6 +4589,19 @@
         }
     },
     "06-03": {
+        "records/patrons/carolus/lwa": {
+            "name": {
+                "sw": "Karoli Lwanga",
+                "la": "Carolus Lwanga",
+                "en": "Charles Lwanga",
+                "pl": "Karol Lwanga"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 VI",
+                "feast": "3 VI",
+                "mr-2004": "3 VI: #1"
+            }
+        },
         "records/patrons/ioannes/23p": {
             "name": {
                 "it": "Giovanni XXIII",

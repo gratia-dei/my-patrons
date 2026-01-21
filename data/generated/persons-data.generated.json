@@ -4904,7 +4904,7 @@
             "fr": "Charles",
             "it": "Carlo",
             "ko": "가롤로",
-            "lg": "Kaloli"
+            "sw": "Karoli"
         }
     },
     "patrons/carolus/acu": {
@@ -4929,7 +4929,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -4955,7 +4955,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -4982,7 +4982,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -5009,7 +5009,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             },
             "forenames/shin-chol": {
@@ -5045,7 +5045,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -5072,17 +5072,17 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
     },
     "patrons/carolus/lwa": {
-        "active": false,
+        "active": true,
         "names": {
-            "lg": "Kaloli Lwanga",
-            "en": "Charles Lwanga",
+            "sw": "Karoli Lwanga",
             "la": "Carolus Lwanga",
+            "en": "Charles Lwanga",
             "pl": "Karol Lwanga"
         },
         "died": [
@@ -5099,7 +5099,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -5126,7 +5126,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             }
         }
@@ -12375,7 +12375,7 @@
                     "fr": "Charles",
                     "it": "Carlo",
                     "ko": "가롤로",
-                    "lg": "Kaloli"
+                    "sw": "Karoli"
                 }
             },
             "forenames/caietanus": {

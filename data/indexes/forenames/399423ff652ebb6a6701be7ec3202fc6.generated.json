@@ -22,8 +22,8 @@
         "ko": [
             "가롤로"
         ],
-        "lg": [
-            "Kaloli"
+        "sw": [
+            "Karoli"
         ]
     },
     "links": {
@@ -63,9 +63,9 @@
             "pl": "Karol Garnier"
         },
         "records/patrons/carolus/lwa": {
-            "lg": "Kaloli Lwanga",
-            "en": "Charles Lwanga",
+            "sw": "Karoli Lwanga",
             "la": "Carolus Lwanga",
+            "en": "Charles Lwanga",
             "pl": "Karol Lwanga"
         },
         "records/patrons/carolus/set": {
