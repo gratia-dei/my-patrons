@@ -2789,7 +2789,8 @@
                     "la": "Iulianus",
                     "en": "Julian",
                     "pl": "Julian",
-                    "fr": "Julien"
+                    "fr": "Julien",
+                    "it": "Giuliano"
                 }
             }
         }
@@ -14489,6 +14490,41 @@
             }
         }
     },
+    "patrons/iulianus": {
+        "names": {
+            "la": "Iulianus",
+            "en": "Julian",
+            "pl": "Julian",
+            "fr": "Julien",
+            "it": "Giuliano"
+        }
+    },
+    "patrons/iulianus/tar": {
+        "active": true,
+        "names": {
+            "it": "Giuliano di Terracina",
+            "la": "Iulianus Terracinensis",
+            "en": "Julian of Terracina",
+            "pl": "Julian z Terraciny"
+        },
+        "died": [
+            ">201",
+            "<303"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iulianus": {
+                "active": true,
+                "names": {
+                    "la": "Iulianus",
+                    "en": "Julian",
+                    "pl": "Julian",
+                    "fr": "Julien",
+                    "it": "Giuliano"
+                }
+            }
+        }
+    },
     "patrons/iulitta": {
         "names": {
             "la": "Iulitta",
@@ -21683,7 +21719,8 @@
                     "la": "Iulianus",
                     "en": "Julian",
                     "pl": "Julian",
-                    "fr": "Julien"
+                    "fr": "Julien",
+                    "it": "Giuliano"
                 }
             }
         }

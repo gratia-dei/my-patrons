@@ -2071,6 +2071,12 @@
             "en": "Judas Thaddaeus",
             "pl": "Juda Tadeusz Apostoł"
         },
+        "records/patrons/iulianus/tar": {
+            "it": "Giuliano di Terracina",
+            "la": "Iulianus Terracinensis",
+            "en": "Julian of Terracina",
+            "pl": "Julian z Terraciny"
+        },
         "records/patrons/iustinus/iac": {
             "it": "Giustino de Jacobis",
             "en": "Justin de Jacobis",

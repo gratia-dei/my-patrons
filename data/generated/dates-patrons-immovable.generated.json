@@ -10370,6 +10370,18 @@
                 "mr-2004": "1 XI: #2"
             }
         },
+        "records/patrons/iulianus/tar": {
+            "name": {
+                "it": "Giuliano di Terracina",
+                "la": "Iulianus Terracinensis",
+                "en": "Julian of Terracina",
+                "pl": "Julian z Terraciny"
+            },
+            "sources": {
+                "mr-1584": "1 XI: #2",
+                "mr-1956": "1 XI: #3"
+            }
+        },
         "records/patrons/multa/san": {
             "name": {
                 "la": "Omnes Sancti",

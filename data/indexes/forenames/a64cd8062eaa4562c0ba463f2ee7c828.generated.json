@@ -15,6 +15,9 @@
         ],
         "fr": [
             "Julien"
+        ],
+        "it": [
+            "Giuliano"
         ]
     },
     "links": {
@@ -22,6 +25,12 @@
             "pl": "Antoni Julian Nowowiejski",
             "la": "Antonius Iulianus Nowowiejski",
             "en": "Anthony Julian Nowowiejski"
+        },
+        "records/patrons/iulianus/tar": {
+            "it": "Giuliano di Terracina",
+            "la": "Iulianus Terracinensis",
+            "en": "Julian of Terracina",
+            "pl": "Julian z Terraciny"
         },
         "records/patrons/petrus/eym": {
             "fr": "Pierre-Julien Eymard",
