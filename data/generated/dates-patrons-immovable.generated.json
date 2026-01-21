@@ -8335,26 +8335,6 @@
                 "mr-1956": "16 IX: #5"
             }
         },
-        "records/patrons/valerianus/tib": {
-            "name": {
-                "la": "Valerianus de Roma",
-                "en": "Valerian of Rome",
-                "pl": "Walerian z Rzymu"
-            },
-            "sources": {
-                "mr-1956": "16 IX: #5"
-            }
-        },
-        "records/patrons/tiburtius/val": {
-            "name": {
-                "la": "Tiburtius de Roma",
-                "en": "Tiburtius of Rome",
-                "pl": "Tyburcjusz z Rzymu"
-            },
-            "sources": {
-                "mr-1956": "16 IX: #5"
-            }
-        },
         "records/patrons/cornelius/1pp": {
             "name": {
                 "la": "Cornelius Pp.",
@@ -11047,26 +11027,6 @@
                 "mr-1584": "22 XI: #1",
                 "mr-1956": "22 XI: #1",
                 "mr-2004": "22 XI: #1"
-            }
-        },
-        "records/patrons/valerianus/tib": {
-            "name": {
-                "la": "Valerianus de Roma",
-                "en": "Valerian of Rome",
-                "pl": "Walerian z Rzymu"
-            },
-            "sources": {
-                "mr-1584": "22 XI: #1"
-            }
-        },
-        "records/patrons/tiburtius/val": {
-            "name": {
-                "la": "Tiburtius de Roma",
-                "en": "Tiburtius of Rome",
-                "pl": "Tyburcjusz z Rzymu"
-            },
-            "sources": {
-                "mr-1584": "22 XI: #1"
             }
         }
     },

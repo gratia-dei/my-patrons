@@ -1,9 +1,7 @@
 {
     "data-links": {
         "1": {
-            "1": "records/patrons/caecilia/rom",
-            "2": "records/patrons/valerianus/tib",
-            "3": "records/patrons/tiburtius/val"
+            "1": "records/patrons/caecilia/rom"
         }
     }
 }
