@@ -1,23 +1,46 @@
 {
-  "names": {
-    "fr": [
-      "Cassien d'Autun"
-    ],
-    "la": [
-      "Cassianus episcopus Augustodunensis"
-    ],
-    "en": [
-      "Cassian of Autun"
-    ],
-    "pl": [
-      "Kasjan z Autun"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Cassien d'Autun"
+        ],
+        "la": [
+            "Cassianus Augustodunensis"
+        ],
+        "en": [
+            "Cassian of Autun"
+        ],
+        "pl": [
+            "Kasjan z Autun"
+        ]
+    },
+    "forenames": ["cassianus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~350"],
+    "active": true,
 
-  "also-in-martyrology": ["08-05"],
+    "born": null,
+    "died": ["~350"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["cassianus"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./5#8"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/5#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./5#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70886",
+        "wiki": "https://en.wikipedia.org/wiki/Cassian_of_Autun"
+    }
 }

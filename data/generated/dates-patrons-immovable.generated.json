@@ -6893,6 +6893,19 @@
         }
     },
     "08-05": {
+        "records/patrons/cassianus/aug": {
+            "name": {
+                "fr": "Cassien d'Autun",
+                "la": "Cassianus Augustodunensis",
+                "en": "Cassian of Autun",
+                "pl": "Kasjan z Autun"
+            },
+            "sources": {
+                "mr-1584": "5 VIII: #8",
+                "mr-1956": "5 VIII: #8",
+                "mr-2004": "5 VIII: #4"
+            }
+        },
         "records/patrons/oswaldus/nor": {
             "name": {
                 "en": "Oswald of Northumbria",
