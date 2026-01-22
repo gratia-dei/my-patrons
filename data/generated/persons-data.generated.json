@@ -2467,6 +2467,36 @@
             }
         }
     },
+    "patrons/anthimus": {
+        "names": {
+            "la": "Anthimus",
+            "en": "Anthimos",
+            "pl": "Antym"
+        }
+    },
+    "patrons/anthimus/aeg": {
+        "active": true,
+        "names": {
+            "la": "Anthimus Aegaeensis",
+            "en": "Anthimos of Aegeae",
+            "pl": "Antym z Egei"
+        },
+        "died": [
+            ">287",
+            "<303"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/anthimus": {
+                "active": true,
+                "names": {
+                    "la": "Anthimus",
+                    "en": "Anthimos",
+                    "pl": "Antym"
+                }
+            }
+        }
+    },
     "patrons/antiochus": {
         "names": {
             "la": "Antiochus",
@@ -6560,12 +6590,12 @@
         }
     },
     "patrons/damianus/cos": {
-        "active": false,
+        "active": true,
         "names": {
-            "el": "Δαμιανός /+ Κοσμάς",
-            "en": "Damian /+ Cosmas",
-            "la": "Damianus /+ Cosmas",
-            "pl": "Damian /+ Kosma"
+            "el": "Δαμιανός ὁ Αἰγεεύς",
+            "la": "Damianus Aegaeensis",
+            "en": "Damian of Aegeae",
+            "pl": "Damian z Egei"
         },
         "died": [
             ">287",
@@ -8026,6 +8056,36 @@
                     "la": "Eunus",
                     "en": "Eunus",
                     "pl": "Eunus"
+                }
+            }
+        }
+    },
+    "patrons/euprepius": {
+        "names": {
+            "la": "Euprepius",
+            "en": "Euprepius",
+            "pl": "Euprepiusz"
+        }
+    },
+    "patrons/euprepius/aeg": {
+        "active": true,
+        "names": {
+            "la": "Euprepius Aegaeensis",
+            "en": "Euprepius of Aegeae",
+            "pl": "Euprepiusz z Egei"
+        },
+        "died": [
+            ">287",
+            "<303"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/euprepius": {
+                "active": true,
+                "names": {
+                    "la": "Euprepius",
+                    "en": "Euprepius",
+                    "pl": "Euprepiusz"
                 }
             }
         }
@@ -15403,6 +15463,36 @@
                     "en": "Leonard",
                     "pl": "Leonard",
                     "fr": "Léonard"
+                }
+            }
+        }
+    },
+    "patrons/leontius": {
+        "names": {
+            "la": "Leontius",
+            "en": "Leontius",
+            "pl": "Leoncjusz"
+        }
+    },
+    "patrons/leontius/aeg": {
+        "active": true,
+        "names": {
+            "la": "Leontius Aegaeensis",
+            "en": "Leontius of Aegeae",
+            "pl": "Leoncjusz z Egei"
+        },
+        "died": [
+            ">287",
+            "<303"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/leontius": {
+                "active": true,
+                "names": {
+                    "la": "Leontius",
+                    "en": "Leontius",
+                    "pl": "Leoncjusz"
                 }
             }
         }

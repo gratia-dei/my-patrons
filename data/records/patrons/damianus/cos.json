@@ -1,23 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Δαμιανός /+ Κοσμάς"
-    ],
-    "en": [
-      "Damian /+ Cosmas"
-    ],
-    "la": [
-      "Damianus /+ Cosmas"
-    ],
-    "pl": [
-      "Damian /+ Kosma"
-    ]
-  },
+    "names": {
+        "el": [
+            "Δαμιανός ὁ Αἰγεεύς"
+        ],
+        "la": [
+            "Damianus Aegaeensis"
+        ],
+        "en": [
+            "Damian of Aegeae"
+        ],
+        "pl": [
+            "Damian z Egei"
+        ]
+    },
+    "forenames": ["damianus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">287", "<303"],
+    "active": true,
 
-  "also-in-martyrology": ["09-26", "09-27"],
+    "born": null,
+    "died": [">287", "<303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["damianus"],
-  "categories": ["vir", "martyr", "medicus"]
+    "categories": ["vir", "martyr", "medicus"],
+
+    "data-links": {
+        "mr-1584": ["2:Sept./27#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Septembris/27#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:sept./26#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69146",
+        "wiki": "https://pl.wikipedia.org/wiki/Kosma_i_Damian"
+    }
 }

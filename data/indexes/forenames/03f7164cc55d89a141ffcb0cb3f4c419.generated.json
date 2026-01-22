@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Antym"
+    },
+    "translations": {
+        "la": [
+            "Anthimus"
+        ],
+        "en": [
+            "Anthimos"
+        ],
+        "pl": [
+            "Antym"
+        ]
+    },
+    "links": {
+        "records/patrons/anthimus/aeg": {
+            "la": "Anthimus Aegaeensis",
+            "en": "Anthimos of Aegeae",
+            "pl": "Antym z Egei"
+        }
+    }
+}

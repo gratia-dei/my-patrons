@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Euprepius",
+        "en": "Euprepius"
+    },
+    "translations": {
+        "la": [
+            "Euprepius"
+        ],
+        "en": [
+            "Euprepius"
+        ],
+        "pl": [
+            "Euprepiusz"
+        ]
+    },
+    "links": {
+        "records/patrons/euprepius/aeg": {
+            "la": "Euprepius Aegaeensis",
+            "en": "Euprepius of Aegeae",
+            "pl": "Euprepiusz z Egei"
+        }
+    }
+}

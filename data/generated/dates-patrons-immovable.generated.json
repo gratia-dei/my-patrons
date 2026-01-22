@@ -9352,6 +9352,17 @@
             "sources": {
                 "mr-2004": "26 IX: #1"
             }
+        },
+        "records/patrons/damianus/cos": {
+            "name": {
+                "el": "Δαμιανός ὁ Αἰγεεύς",
+                "la": "Damianus Aegaeensis",
+                "en": "Damian of Aegeae",
+                "pl": "Damian z Egei"
+            },
+            "sources": {
+                "mr-2004": "26 IX: #1"
+            }
         }
     },
     "09-27": {
@@ -9385,6 +9396,51 @@
                 "la": "Cosmas Aegaeensis",
                 "en": "Cosmas of Aegeae",
                 "pl": "Kosma z Egei"
+            },
+            "sources": {
+                "mr-1584": "27 IX: #1",
+                "mr-1956": "27 IX: #1"
+            }
+        },
+        "records/patrons/damianus/cos": {
+            "name": {
+                "el": "Δαμιανός ὁ Αἰγεεύς",
+                "la": "Damianus Aegaeensis",
+                "en": "Damian of Aegeae",
+                "pl": "Damian z Egei"
+            },
+            "sources": {
+                "mr-1584": "27 IX: #1",
+                "mr-1956": "27 IX: #1"
+            }
+        },
+        "records/patrons/anthimus/aeg": {
+            "name": {
+                "la": "Anthimus Aegaeensis",
+                "en": "Anthimos of Aegeae",
+                "pl": "Antym z Egei"
+            },
+            "sources": {
+                "mr-1584": "27 IX: #1",
+                "mr-1956": "27 IX: #1"
+            }
+        },
+        "records/patrons/leontius/aeg": {
+            "name": {
+                "la": "Leontius Aegaeensis",
+                "en": "Leontius of Aegeae",
+                "pl": "Leoncjusz z Egei"
+            },
+            "sources": {
+                "mr-1584": "27 IX: #1",
+                "mr-1956": "27 IX: #1"
+            }
+        },
+        "records/patrons/euprepius/aeg": {
+            "name": {
+                "la": "Euprepius Aegaeensis",
+                "en": "Euprepius of Aegeae",
+                "pl": "Euprepiusz z Egei"
             },
             "sources": {
                 "mr-1584": "27 IX: #1",

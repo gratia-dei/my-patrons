@@ -211,6 +211,11 @@
             "en": "Oscar Arnulf Romero Galdámez",
             "pl": "Oskar Arnulf Romero Galdámez"
         },
+        "records/patrons/anthimus/aeg": {
+            "la": "Anthimus Aegaeensis",
+            "en": "Anthimos of Aegeae",
+            "pl": "Antym z Egei"
+        },
         "records/patrons/antiochus/ana": {
             "la": "Antiochus Anastasiopolitanus",
             "en": "Antiochus of Anastasiopolis",
@@ -596,10 +601,10 @@
             "pl": "Cyriniusz z Rzymu"
         },
         "records/patrons/damianus/cos": {
-            "el": "Δαμιανός /+ Κοσμάς",
-            "en": "Damian /+ Cosmas",
-            "la": "Damianus /+ Cosmas",
-            "pl": "Damian /+ Kosma"
+            "el": "Δαμιανός ὁ Αἰγεεύς",
+            "la": "Damianus Aegaeensis",
+            "en": "Damian of Aegeae",
+            "pl": "Damian z Egei"
         },
         "records/patrons/daria/chr": {
             "la": "Daria de Roma",
@@ -750,6 +755,11 @@
             "la": "Eunus Alexandrinus",
             "en": "Eunus of Alexandria",
             "pl": "Eunus z Aleksandrii"
+        },
+        "records/patrons/euprepius/aeg": {
+            "la": "Euprepius Aegaeensis",
+            "en": "Euprepius of Aegeae",
+            "pl": "Euprepiusz z Egei"
         },
         "records/patrons/eusebius/ver": {
             "la": "Eusebius Vercellensis",
@@ -1420,6 +1430,11 @@
             "pl": "Leon Nowakowski",
             "en": "Leon Nowakowski",
             "la": "Leo Nowakowski"
+        },
+        "records/patrons/leontius/aeg": {
+            "la": "Leontius Aegaeensis",
+            "en": "Leontius of Aegeae",
+            "pl": "Leoncjusz z Egei"
         },
         "records/patrons/liliosa/fel": {
             "la": "Liliosa de Corduba; cum ea, i.a., Felix",

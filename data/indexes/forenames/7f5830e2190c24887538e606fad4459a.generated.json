@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Leoncjusz"
+    },
+    "translations": {
+        "la": [
+            "Leontius"
+        ],
+        "en": [
+            "Leontius"
+        ],
+        "pl": [
+            "Leoncjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/leontius/aeg": {
+            "la": "Leontius Aegaeensis",
+            "en": "Leontius of Aegeae",
+            "pl": "Leoncjusz z Egei"
+        }
+    }
+}

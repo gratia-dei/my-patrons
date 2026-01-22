@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Euprepius Aegaeensis"
+        ],
+        "en": [
+            "Euprepius of Aegeae"
+        ],
+        "pl": [
+            "Euprepiusz z Egei"
+        ]
+    },
+    "forenames": ["euprepius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": [">287", "<303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["5:Sept./27#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["5:Septembris/27#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/Cosmas_and_Damian"
+    }
+}

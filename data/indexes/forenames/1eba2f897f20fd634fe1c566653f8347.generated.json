@@ -21,10 +21,10 @@
     },
     "links": {
         "records/patrons/damianus/cos": {
-            "el": "Δαμιανός /+ Κοσμάς",
-            "en": "Damian /+ Cosmas",
-            "la": "Damianus /+ Cosmas",
-            "pl": "Damian /+ Kosma"
+            "el": "Δαμιανός ὁ Αἰγεεύς",
+            "la": "Damianus Aegaeensis",
+            "en": "Damian of Aegeae",
+            "pl": "Damian z Egei"
         },
         "records/patrons/damianus/veu": {
             "nl": "Damiaan de Veuster",

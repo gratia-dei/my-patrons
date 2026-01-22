@@ -258,6 +258,11 @@
         "de": "Ansgar",
         "es": "Óscar"
     },
+    "anthimus": {
+        "la": "Anthimus",
+        "en": "Anthimos",
+        "pl": "Antym"
+    },
     "antiochus": {
         "la": "Antiochus",
         "en": "Antiochus",
@@ -998,6 +1003,11 @@
         "en": "Eunus",
         "pl": "Eunus"
     },
+    "euprepius": {
+        "la": "Euprepius",
+        "en": "Euprepius",
+        "pl": "Euprepiusz"
+    },
     "eusebius": {
         "la": "Eusebius",
         "en": "Eusebius",
@@ -1693,6 +1703,11 @@
         "en": "Leonard",
         "pl": "Leonard",
         "fr": "Léonard"
+    },
+    "leontius": {
+        "la": "Leontius",
+        "en": "Leontius",
+        "pl": "Leoncjusz"
     },
     "leucadia": {
         "la": "Leukadia",
