@@ -847,10 +847,10 @@
             "pl": "Korneliusz, papież"
         },
         "records/patrons/cosmas/dam": {
-            "el": "Κοσμάς /+ Δαμιανός",
-            "en": "Cosmas /+ Damian",
-            "la": "Cosmas /+ Damianus",
-            "pl": "Kosma /+ Damian"
+            "el": "Κοσμᾶς ὁ Αἰγεεύς",
+            "la": "Cosmas Aegaeensis",
+            "en": "Cosmas of Aegeae",
+            "pl": "Kosma z Egei"
         },
         "records/patrons/crescentianus/car": {
             "la": "Crescentianus Carthaginensis",

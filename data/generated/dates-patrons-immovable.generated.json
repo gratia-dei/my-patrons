@@ -9341,6 +9341,17 @@
             "sources": {
                 "mr-2004": "26 IX: #8"
             }
+        },
+        "records/patrons/cosmas/dam": {
+            "name": {
+                "el": "Κοσμᾶς ὁ Αἰγεεύς",
+                "la": "Cosmas Aegaeensis",
+                "en": "Cosmas of Aegeae",
+                "pl": "Kosma z Egei"
+            },
+            "sources": {
+                "mr-2004": "26 IX: #1"
+            }
         }
     },
     "09-27": {
@@ -9366,6 +9377,18 @@
                 "feast": "27 IX",
                 "mr-1956": "27 IX: #2",
                 "mr-2004": "27 IX: #1"
+            }
+        },
+        "records/patrons/cosmas/dam": {
+            "name": {
+                "el": "Κοσμᾶς ὁ Αἰγεεύς",
+                "la": "Cosmas Aegaeensis",
+                "en": "Cosmas of Aegeae",
+                "pl": "Kosma z Egei"
+            },
+            "sources": {
+                "mr-1584": "27 IX: #1",
+                "mr-1956": "27 IX: #1"
             }
         }
     },

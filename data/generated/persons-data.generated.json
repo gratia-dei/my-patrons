@@ -6202,12 +6202,12 @@
         }
     },
     "patrons/cosmas/dam": {
-        "active": false,
+        "active": true,
         "names": {
-            "el": "Κοσμάς /+ Δαμιανός",
-            "en": "Cosmas /+ Damian",
-            "la": "Cosmas /+ Damianus",
-            "pl": "Kosma /+ Damian"
+            "el": "Κοσμᾶς ὁ Αἰγεεύς",
+            "la": "Cosmas Aegaeensis",
+            "en": "Cosmas of Aegeae",
+            "pl": "Kosma z Egei"
         },
         "died": [
             ">287",
