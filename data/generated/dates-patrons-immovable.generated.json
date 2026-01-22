@@ -12264,6 +12264,20 @@
         }
     },
     "12-31": {
+        "records/patrons/catharina/lab": {
+            "name": {
+                "fr": "Catherine Labouré",
+                "la": "Catharina Labouré",
+                "en": "Catherine Labouré",
+                "pl": "Katarzyna Labouré"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 XII",
+                "feast": "31 XII",
+                "mr-1956": "31 XII: #10",
+                "mr-2004": "31 XII: #10"
+            }
+        },
         "records/patrons/silvester/1pp": {
             "name": {
                 "la": "Silvester Pp. I",

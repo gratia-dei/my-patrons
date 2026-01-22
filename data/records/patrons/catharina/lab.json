@@ -1,41 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Catherine Labouré"
+    "names": {
+        "fr": [
+            "Catherine Labouré"
+        ],
+        "la": [
+            "Catharina Labouré"
+        ],
+        "en": [
+            "Catherine Labouré"
+        ],
+        "pl": [
+            "Katarzyna Labouré"
+        ]
+    },
+    "forenames": ["catharina"],
+    "surnames": [
+        {
+            "fr": "Labouré"
+        }
     ],
-    "en": [
-      "Catherine Labouré"
-    ],
-    "la": [
-      "Catherina Labouré"
-    ],
-    "pl": [
-      "Katarzyna Labouré"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Labouré"
+    "active": true,
+
+    "born": ["1806-05-02"],
+    "died": ["1876-12-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1933-05-28"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1947-07-27"
+    },
+    "anniversary": ["12-31"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/31#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./31#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/caterina-laboure.html",
+        "gcatholic": "https://gcatholic.org/p/68076",
+        "wiki": "https://pl.wikipedia.org/wiki/Katarzyna_Labour%C3%A9"
     }
-  ],
-
-  "born": ["1806-05-02"],
-  "died": ["1876-12-31"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1933-05-28"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1947-07-27"
-  },
-
-  "also-in-martyrology": ["12-31"],
-
-  "forenames": ["catharina"],
-  "categories": ["femina", "virgo"],
-
-  "order": ["sm"]
 }

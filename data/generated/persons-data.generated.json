@@ -5453,11 +5453,11 @@
         }
     },
     "patrons/catharina/lab": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Catherine Labouré",
+            "la": "Catharina Labouré",
             "en": "Catherine Labouré",
-            "la": "Catherina Labouré",
             "pl": "Katarzyna Labouré"
         },
         "died": [
