@@ -3636,6 +3636,19 @@
         }
     },
     "05-01": {
+        "records/patrons/clemens/sep": {
+            "name": {
+                "uk": "Климентій Шептицький",
+                "la": "Clemens Šeptyckyj",
+                "en": "Clement Sheptytsky",
+                "pl": "Klemens Szeptycki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 V",
+                "feast": "1 V",
+                "mr-2004": "1 V: #23"
+            }
+        },
         "records/patrons/philippus/apo": {
             "name": {
                 "la": "Philippus Apostolus",
