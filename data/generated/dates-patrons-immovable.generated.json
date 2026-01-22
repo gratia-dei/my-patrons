@@ -1827,6 +1827,20 @@
         }
     },
     "03-06": {
+        "records/patrons/coleta/boy": {
+            "name": {
+                "fr": "Colette Boylet",
+                "la": "Coleta Boylet",
+                "en": "Colette Boylet",
+                "pl": "Koleta Boylet"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 III",
+                "feast": "6 III",
+                "mr-1956": "6 III: #10",
+                "mr-2004": "6 III: #11"
+            }
+        },
         "records/patrons/multa/qda": {
             "name": {
                 "la": "Quadraginta duo martyres Amorii",

@@ -6069,11 +6069,11 @@
         }
     },
     "patrons/coleta/boy": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Colette Boylet",
-            "en": "Colette Boylet",
             "la": "Coleta Boylet",
+            "en": "Colette Boylet",
             "pl": "Koleta Boylet"
         },
         "died": [

@@ -1,41 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Colette Boylet"
+    "names": {
+        "fr": [
+            "Colette Boylet"
+        ],
+        "la": [
+            "Coleta Boylet"
+        ],
+        "en": [
+            "Colette Boylet"
+        ],
+        "pl": [
+            "Koleta Boylet"
+        ]
+    },
+    "forenames": ["coleta"],
+    "surnames": [
+        {
+            "fr": "Boylet"
+        }
     ],
-    "en": [
-      "Colette Boylet"
-    ],
-    "la": [
-      "Coleta Boylet"
-    ],
-    "pl": [
-      "Koleta Boylet"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Boylet"
+    "active": true,
+
+    "born": ["1381-01-13"],
+    "died": ["1447-03-06"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1740-01-23"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1807-05-24"
+    },
+    "anniversary": ["03-06"],
+
+    "categories": ["femina", "virgo", "reclusa"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/6#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./6#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/coletta-boylet.html",
+        "gcatholic": "https://gcatholic.org/p/68263",
+        "wiki": "https://pl.wikipedia.org/wiki/Koleta_Boylet"
     }
-  ],
-
-  "born": ["1381-01-13"],
-  "died": ["1447-03-06"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1740-01-23"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1807-05-24"
-  },
-
-  "also-in-martyrology": ["03-06"],
-
-  "forenames": ["coleta"],
-  "categories": ["femina", "virgo", "reclusa"],
-
-  "order": ["osc"]
 }
