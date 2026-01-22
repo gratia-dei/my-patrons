@@ -5329,11 +5329,11 @@
         }
     },
     "patrons/casimirus/syk": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Kazimierz Sykulski",
-            "en": "Casimir Sykulski",
-            "la": "Casimirus Sykulski"
+            "la": "Casimirus Sykulski",
+            "en": "Casimir Sykulski"
         },
         "died": [
             "1941-12-11"

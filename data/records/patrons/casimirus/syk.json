@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Kazimierz Sykulski"
+    "names": {
+        "pl": [
+            "Kazimierz Sykulski"
+        ],
+        "la": [
+            "Casimirus Sykulski"
+        ],
+        "en": [
+            "Casimir Sykulski"
+        ]
+    },
+    "forenames": ["casimirus"],
+    "surnames": [
+        {
+            "pl": "Sykulski"
+        }
     ],
-    "en": [
-      "Casimir Sykulski"
-    ],
-    "la": [
-      "Casimirus Sykulski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Sykulski"
+    "active": true,
+
+    "born": ["1882-12-29"],
+    "died": ["1941-12-11"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["12-01"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./1#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67801",
+        "wiki": "https://pl.wikipedia.org/wiki/Kazimierz_Sykulski"
     }
-  ],
-
-  "born": ["1882-12-29"],
-  "died": ["1941-12-11"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["12-01"],
-
-  "forenames": ["casimirus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
