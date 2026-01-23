@@ -546,7 +546,12 @@ requirejs(
       unchangedFileContent = fileContent;
 
       gotoChallenge(uCommon.getFileDataChallenges(fileData).length);
-      successNotification(uLanguage.getTranslation('lang-file-loaded-successfully', true));
+
+      const fileOwner = fileData[uConst.get("DATA_FIELD_OWNER")];
+      let successInfo = uLanguage.getTranslation('lang-file-loaded-successfully', true)
+        .replace(/#user-name#/g, fileOwner)
+      ;
+      successNotification(successInfo);
 
       showRandomQuoteIfExists();
     } catch (e) {

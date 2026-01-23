@@ -70,6 +70,8 @@ requirejs(
         options: {}
       }
     })
+
+    .set("DATA_FIELD_OWNER", uCommon.getConst("DATA_FIELD_OWNER"))
   ;
 
   let fileData = {};
@@ -730,7 +732,11 @@ requirejs(
 
       await refreshAllTabs();
 
-      uNotification.success(uLanguage.getTranslation('lang-file-loaded-successfully', true));
+      const fileOwner = fileData[uConst.get("DATA_FIELD_OWNER")];
+      let successInfo = uLanguage.getTranslation('lang-file-loaded-successfully', true)
+        .replace(/#user-name#/g, fileOwner)
+      ;
+      uNotification.success(successInfo);
     } catch (e) {
       uNotification.error(e.message);
     }

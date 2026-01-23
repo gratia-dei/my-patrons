@@ -585,8 +585,8 @@
     },
 
     "lang-challenges-after-load-file-quote-info": {
-        "en": "If you like, you can meditate today on the quote \"<strong><em>#quote#</em></strong>\" by <strong>#person#</strong>.",
-        "pl": "Jeżeli chcesz, możesz dzisiaj rozważać cytat „<strong><em>#quote#</em></strong>”, którego autorem jest <strong>#person#</strong>."
+        "en": "If you like, you can meditate today on the quote: \"<strong><em>#quote#</em></strong>\" by <strong>#person#</strong>.",
+        "pl": "Jeżeli chcesz, możesz dzisiaj rozważać cytat: „<strong><em>#quote#</em></strong>”, którego autorem jest <strong>#person#</strong>."
     },
 
     "lang-challenges-save-file": {
@@ -1191,8 +1191,8 @@
     },
 
     "lang-file-loaded-successfully": {
-        "en": "file loaded successfully",
-        "pl": "plik został wczytany pomyślnie"
+        "en": "file loaded successfully for User: <strong>#user-name#</strong>.",
+        "pl": "plik został wczytany pomyślnie dla Użytkownika: <strong>#user-name#</strong>."
     },
 
     "lang-file-prepared-to-save-successfully": {
