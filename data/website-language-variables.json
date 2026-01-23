@@ -584,6 +584,11 @@
         "pl": "wczytaj plik wyzwań"
     },
 
+    "lang-challenges-after-load-file-quote-info": {
+        "en": "If you like, you can meditate today on the quote \"<strong><em>#quote#</em></strong>\" by <strong>#person#</strong>.",
+        "pl": "Jeżeli chcesz, możesz dzisiaj rozważać cytat „<strong><em>#quote#</em></strong>”, którego autorem jest <strong>#person#</strong>."
+    },
+
     "lang-challenges-save-file": {
         "en": "save challenges file",
         "pl": "zapisz plik wyzwań"

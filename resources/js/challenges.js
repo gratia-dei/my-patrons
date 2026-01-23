@@ -52,6 +52,8 @@ requirejs(
     .set("IMMOVABLE_DATES_PATRONS_LIST_CHARACTER", '#')
     .set("IMMOVABLE_DATES_TAKEN_CHALLENGES_LIST", ['B', 'SB', 'SC', 'SE', 'SP', 'SA', 'SO', 'SM']) //order is important!
 
+    .set("CHALLENGE_TYPE_FOR_PATRONS_QUOTES", 'NC')
+
     .set("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR_IN_IMMOVABLE_DATES_SITE", '!')
     .set("MONTH_WITH_DAY_LEAP_YEAR_SEPARATOR", 'b')
     .set("MONTH_WITH_DAY_NON_LEAP_YEAR_SEPARATOR", 'n')
@@ -545,6 +547,8 @@ requirejs(
 
       gotoChallenge(uCommon.getFileDataChallenges(fileData).length);
       successNotification(uLanguage.getTranslation('lang-file-loaded-successfully', true));
+
+      showRandomQuoteIfExists();
     } catch (e) {
       errorNotification(e.message);
     }
@@ -4381,6 +4385,39 @@ requirejs(
     }
 
     return false;
+  }
+
+
+  function showRandomQuoteIfExists() {
+    foundQuoteChallenges = [];
+
+    const challenges = fileData[uConst.get("DATA_FIELD_CHALLENGES")] ?? [];
+    for (const ch of challenges) {
+      if (ch.type === uConst.get("CHALLENGE_TYPE_FOR_PATRONS_QUOTES")) {
+        foundQuoteChallenges.push(ch);
+      }
+    }
+
+    if (foundQuoteChallenges.length > 0) {
+      const random = Math.floor(Math.random() * foundQuoteChallenges.length);
+      const challenge = foundQuoteChallenges[random];
+
+      const quotes = getNotesFileDataValues('quotes');
+      const quoteId = Object.keys(((challenge.notes ?? {}).quote ?? {})[0] ?? {})[0] ?? null;
+
+      const person = getPersonDataName(challenge.person ?? '');
+      const quote = quotes[quoteId] ?? null;
+
+      if (quote === null) {
+        errorNotification('INTERNAL ERROR: missing random quote!');
+      } else {
+        let quoteInfo = uLanguage.getTranslation('lang-challenges-after-load-file-quote-info', true)
+          .replace(/#quote#/g, quote)
+          .replace(/#person#/g, person)
+        ;
+        infoNotification(quoteInfo);
+      }
+    }
   }
 
   build();
