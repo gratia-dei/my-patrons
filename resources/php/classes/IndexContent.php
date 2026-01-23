@@ -2,6 +2,8 @@
 
 class IndexContent extends Content
 {
+    private const SUBDOMAINS_TO_REDIRECT_TO_LANGUAGE_SUBDOMAIN_ON_MAIN_PAGE = ['www'];
+
     private $bodyContent;
 
     public function __construct()
@@ -37,10 +39,11 @@ class IndexContent extends Content
         $language = $this->getLanguage();
         $requestPath = $this->getEnvironment()->getRequestPath();
 
-        if (!$isHomeMode && $language === '' && ltrim($requestPath, '/') === '') {
+        $subdomainsToRedirect = self::SUBDOMAINS_TO_REDIRECT_TO_LANGUAGE_SUBDOMAIN_ON_MAIN_PAGE;
+        if (!$isHomeMode && ($language === '' || in_array($language, $subdomainsToRedirect, true)) && ltrim($requestPath, '/') === '') {
             $allowedLanguages = self::SELECTABLE_LANGUAGES_ORDER;
             $acceptLanguages = $this->getEnvironment()->getAcceptLanguages();
-            $host = $this->getEnvironment()->getHostDomain();
+            $host = $this->getEnvironment()->getHostMainDomainOnly();
 
             foreach ($acceptLanguages as $acceptLanguageString) {
                 $acceptLanguage = preg_replace('/^([a-z]+)[^a-z].*$/', '\\1', mb_strtolower($acceptLanguageString));
