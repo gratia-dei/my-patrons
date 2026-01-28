@@ -6870,11 +6870,11 @@
         }
     },
     "patrons/dionysius/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Dionysius Papa",
-            "en": "Dionysius Pope",
-            "pl": "Dionizy Papież"
+            "la": "Dionysius Pp.",
+            "en": "Dionysius, pope",
+            "pl": "Dionizy, papież"
         },
         "died": [
             "268-12-26"

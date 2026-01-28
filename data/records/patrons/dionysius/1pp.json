@@ -1,24 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Dionysius Papa"
-    ],
-    "en": [
-      "Dionysius Pope"
-    ],
-    "pl": [
-      "Dionizy Papież"
-    ]
-  },
+    "names": {
+        "la": [
+            "Dionysius Pp."
+        ],
+        "en": [
+            "Dionysius, pope"
+        ],
+        "pl": [
+            "Dionizy, papież"
+        ]
+    },
+    "forenames": ["dionysius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["268-12-26"],
+    "active": true,
 
-  "also-in-martyrology": ["12-26"],
+    "born": null,
+    "died": ["268-12-26"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["dionysius"],
-  "categories": ["vir", "papa"],
+    "categories": ["vir", "papa"],
 
-  "data-links": {
-    "popes": ["1:#25"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Dec./26#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/26#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./26#2"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#25"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/DI1",
+        "wiki": "https://pl.wikipedia.org/wiki/Dionizy_(papie%C5%BC)"
+    }
 }
