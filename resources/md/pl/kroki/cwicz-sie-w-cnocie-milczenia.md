@@ -7,4 +7,4 @@ Warto poprosić zapraszanego **Patrona Mentora** („#person-name#”) o wsparci
 ---
 Przypisy:
 
-- <sup>1</sup> **Najlepiej kolejnego dnia** lub w dowolny inny dzień zacznij ćwiczenia **od rana** i zakończ **wieczorem**.
+- <sup>1</sup> **Najlepiej zacznij teraz** i staraj się pamiętać o tym przez co najmniej **24 godziny**!
