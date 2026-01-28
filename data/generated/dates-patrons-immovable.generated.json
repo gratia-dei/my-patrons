@@ -1744,6 +1744,17 @@
                 "reliable-death-anniversary": "1 III",
                 "mr-2004": "1 III: #10"
             }
+        },
+        "records/patrons/david/men": {
+            "name": {
+                "cy": "Dewi Mynyw",
+                "la": "David Meneviensis",
+                "en": "David of Menevia",
+                "pl": "Dawid z Menevii"
+            },
+            "sources": {
+                "mr-2004": "1 III: #3"
+            }
         }
     },
     "03-02": {

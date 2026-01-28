@@ -24,9 +24,9 @@
     },
     "links": {
         "records/patrons/david/men": {
-            "cy": "Dewi Sant",
+            "cy": "Dewi Mynyw",
+            "la": "David Meneviensis",
             "en": "David of Menevia",
-            "la": "David episcopus Meneviensis",
             "pl": "Dawid z Menevii"
         },
         "records/patrons/david/oke": {
