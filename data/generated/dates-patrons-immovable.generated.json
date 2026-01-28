@@ -12100,6 +12100,19 @@
         }
     },
     "12-20": {
+        "records/patrons/dominicus/exi": {
+            "name": {
+                "es": "Domingo de Silos",
+                "la": "Dominicus de Silos",
+                "en": "Dominic of Silos",
+                "pl": "Dominik z Silos"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 XII",
+                "mr-1956": "20 XII: #10",
+                "mr-2004": "20 XII: #5"
+            }
+        },
         "records/patrons/ignatius/ant": {
             "name": {
                 "grc": "Ἰγνάτιος Ἀντιοχείας",

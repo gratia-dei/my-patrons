@@ -7042,11 +7042,11 @@
         }
     },
     "patrons/dominicus/exi": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Domingo de Silos",
-            "en": "Dominic of Silos",
             "la": "Dominicus de Silos",
+            "en": "Dominic of Silos",
             "pl": "Dominik z Silos"
         },
         "died": [
