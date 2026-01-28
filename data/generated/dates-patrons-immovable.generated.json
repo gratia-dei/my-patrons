@@ -10899,6 +10899,19 @@
         }
     },
     "11-08": {
+        "records/patrons/deusdedit/1pp": {
+            "name": {
+                "la": "Deusdedit Pp. I",
+                "en": "Deusdedit I",
+                "pl": "Deusdedit I"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "mr-1584": "8 XI: #4",
+                "mr-1956": "8 XI: #4",
+                "mr-2004": "8 XI: #3"
+            }
+        },
         "records/patrons/ioannes/con": {
             "name": {
                 "vi": "Gioan Baotixita Cỏn",

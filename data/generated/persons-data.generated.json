@@ -6795,7 +6795,7 @@
         }
     },
     "patrons/deusdedit/1pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Deusdedit Pp. I",
             "en": "Deusdedit I",
