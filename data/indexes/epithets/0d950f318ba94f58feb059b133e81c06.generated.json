@@ -3,20 +3,25 @@
         "pl": "Szkot"
     },
     "translations": {
-        "de": [
-            "Schotte"
+        "la": [
+            "Scotus"
         ],
         "en": [
-            "Scottish"
-        ],
-        "la": [
             "Scotus"
         ],
         "pl": [
             "Szkot"
+        ],
+        "de": [
+            "Schotte"
         ]
     },
     "links": {
+        "records/patrons/donatus/sco": {
+            "en": "Donatus of Fiesole",
+            "la": "Donatus Scotus",
+            "pl": "Donat z Fiesole"
+        },
         "records/patrons/ioannes/dun": {
             "de": "Johannes Duns Scotus",
             "en": "John Duns Scotus",

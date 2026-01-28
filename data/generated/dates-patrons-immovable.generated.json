@@ -10367,6 +10367,18 @@
                 "feast": "22 X"
             }
         },
+        "records/patrons/donatus/sco": {
+            "name": {
+                "en": "Donatus of Fiesole",
+                "la": "Donatus Scotus",
+                "pl": "Donat z Fiesole"
+            },
+            "sources": {
+                "mr-1584": "22 X: #9",
+                "mr-1956": "22 X: #10",
+                "mr-2004": "22 X: #11"
+            }
+        },
         "records/patrons/marcus/hie": {
             "name": {
                 "la": "Marcus Hierosolymitanus",

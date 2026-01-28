@@ -321,7 +321,8 @@
         "pl": "Chrzciciel"
     },
     "60bdf6df060abedcc0bb5588af581696": {
-        "la": "Scotus"
+        "la": "Scotus",
+        "en": "Scotus"
     },
     "619b136922b26ab131cd10d37c339eda": {
         "la": "Secundus"
@@ -505,9 +506,6 @@
     },
     "9f9be9eff06483e3617debac2facedf3": {
         "en": "of Jesus and Mary"
-    },
-    "a1b27c48dae43b9ae63141c37f0a5034": {
-        "en": "Scottish"
     },
     "a1e7aeee17f1e0c1e7f36cfe5e92a5e9": {
         "fr": "de l'Enfant-Jésus"
