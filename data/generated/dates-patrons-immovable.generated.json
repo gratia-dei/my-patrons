@@ -2367,6 +2367,19 @@
                 "mr-2004": "18 III: #6"
             }
         },
+        "records/patrons/cyrillus/hie": {
+            "name": {
+                "el": "Κύριλλος Ιεροσολύμων",
+                "la": "Cyrillus Hierosolymitanus",
+                "en": "Cyril of Jerusalem",
+                "pl": "Cyryl Jerozolimski"
+            },
+            "sources": {
+                "mr-1584": "18 III: #6",
+                "mr-1956": "18 III: #1",
+                "mr-2004": "18 III: #1"
+            }
+        },
         "records/patrons/multa/nid": {
             "name": {
                 "la": "Decem milia martyrum pro fide Nicomediae",

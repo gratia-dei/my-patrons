@@ -1,24 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Κύριλλος Ιεροσολύμων"
-    ],
-    "en": [
-      "Cyril of Jerusalem"
-    ],
-    "la": [
-      "Cyrillus Hierosolymitanus"
-    ],
-    "pl": [
-      "Cyryl Jerozolimski"
-    ]
-  },
+    "names": {
+        "el": [
+            "Κύριλλος Ιεροσολύμων"
+        ],
+        "la": [
+            "Cyrillus Hierosolymitanus"
+        ],
+        "en": [
+            "Cyril of Jerusalem"
+        ],
+        "pl": [
+            "Cyryl Jerozolimski"
+        ]
+    },
+    "forenames": ["cyrillus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~315"],
-  "died": ["386-03-18"],
+    "active": true,
 
-  "also-in-martyrology": ["03-18"],
+    "born": ["~315"],
+    "died": ["386"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["cyrillus"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"]
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./18#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/18#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./18#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/33989",
+        "wiki": "https://pl.wikipedia.org/wiki/Cyryl_Jerozolimski"
+    }
 }

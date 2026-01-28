@@ -6497,15 +6497,15 @@
         }
     },
     "patrons/cyrillus/hie": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Κύριλλος Ιεροσολύμων",
-            "en": "Cyril of Jerusalem",
             "la": "Cyrillus Hierosolymitanus",
+            "en": "Cyril of Jerusalem",
             "pl": "Cyryl Jerozolimski"
         },
         "died": [
-            "386-03-18"
+            "386"
         ],
         "feasts": [],
         "forenames": {
