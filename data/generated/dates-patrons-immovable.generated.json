@@ -6282,6 +6282,19 @@
                 "reliable-death-anniversary": "20 VII",
                 "mr-2004": "20 VII: #10"
             }
+        },
+        "records/patrons/elias/the": {
+            "name": {
+                "he": "אליהו התשבי",
+                "la": "Elias Thesbita",
+                "en": "Elijah the Tishbite",
+                "pl": "Eliasz Tiszbita"
+            },
+            "sources": {
+                "mr-1584": "20 VII: #2",
+                "mr-1956": "20 VII: #3",
+                "mr-2004": "20 VII: #2"
+            }
         }
     },
     "07-21": {

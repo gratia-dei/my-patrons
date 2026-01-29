@@ -7563,11 +7563,11 @@
         }
     },
     "patrons/elias/the": {
-        "active": false,
+        "active": true,
         "names": {
-            "he": "אֵלִיָּהוּ הַנָּבִיא",
+            "he": "אליהו התשבי",
             "la": "Elias Thesbita",
-            "en": "Elijah Tishbite",
+            "en": "Elijah the Tishbite",
             "pl": "Eliasz Tiszbita"
         },
         "died": [

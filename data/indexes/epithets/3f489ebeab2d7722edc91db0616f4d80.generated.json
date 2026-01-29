@@ -1,19 +1,19 @@
 {
     "names": {
-        "en": "Elijah"
+        "he": "התשבי"
     },
     "translations": {
+        "he": [
+            "התשבי"
+        ],
         "la": [
-            "Elias"
+            "Thesbita"
         ],
         "en": [
-            "Elijah"
+            "the Tishbite"
         ],
         "pl": [
-            "Eliasz"
-        ],
-        "he": [
-            "אֵלִיָּהוּ"
+            "Tiszbita"
         ]
     },
     "links": {
