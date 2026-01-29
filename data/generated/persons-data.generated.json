@@ -7315,11 +7315,11 @@
         }
     },
     "patrons/eduardus/col": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Edward Coleman",
-            "pl": "Edward Coleman",
-            "la": "Eduardus Coleman"
+            "la": "Eduardus Coleman",
+            "pl": "Edward Coleman"
         },
         "died": [
             "1678-12-03"

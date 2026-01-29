@@ -11687,6 +11687,17 @@
         }
     },
     "12-03": {
+        "records/patrons/eduardus/col": {
+            "name": {
+                "en": "Edward Coleman",
+                "la": "Eduardus Coleman",
+                "pl": "Edward Coleman"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 XII",
+                "mr-2004": "3 XII: #6"
+            }
+        },
         "records/patrons/franciscus/xav": {
             "name": {
                 "es": "Francisco Javier",
