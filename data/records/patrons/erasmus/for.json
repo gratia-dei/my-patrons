@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Erasmus de Formia"
-    ],
-    "en": [
-      "Erasmus of Formia"
-    ],
-    "pl": [
-      "Erazm z Formii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Erasmus de Formia"
+        ],
+        "en": [
+            "Erasmus of Formia"
+        ],
+        "pl": [
+            "Erazm z Formii"
+        ]
+    },
+    "forenames": ["erasmus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~303"],
+    "active": true,
 
-  "also-in-martyrology": ["06-02"],
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["erasmus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./2#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/2#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./2#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70000",
+        "wiki": "https://pl.wikipedia.org/wiki/Erazm_z_Formii"
+    }
 }

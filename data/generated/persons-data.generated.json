@@ -7912,7 +7912,7 @@
         }
     },
     "patrons/erasmus/for": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Erasmus de Formia",
             "en": "Erasmus of Formia",
