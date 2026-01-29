@@ -1,39 +1,56 @@
 {
-  "names": {
-    "es": [
-      "Elisabet de Aragón",
-      "Isabel de Portugal"
-    ],
-    "en": [
-      "Elizabeth of Aragon",
-      "Isabel of Portugal"
-    ],
-    "la": [
-      "Elisabeth Aragonae",
-      "Isabella Portugalliae"
-    ],
-    "pl": [
-      "Elżbieta Aragońska",
-      "Izabela Portugalska"
-    ]
-  },
+    "names": {
+        "es": [
+            "Elisabet de Aragón",
+            "Isabel de Portugal"
+        ],
+        "la": [
+            "Elisabeth Aragonae",
+            "Isabella Portugalliae"
+        ],
+        "en": [
+            "Elizabeth of Aragon",
+            "Isabel of Portugal"
+        ],
+        "pl": [
+            "Elżbieta Aragońska",
+            "Izabela Portugalska"
+        ]
+    },
+    "forenames": ["elisabeth"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1271-01-04"],
-  "died": ["1336-07-04"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1526-01-24"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1625-05-25"
-  },
+    "born": ["1271"],
+    "died": ["1336-07-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1516-04-15"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1626-06-24"
+    },
+    "anniversary": ["07-04"],
 
-  "also-in-martyrology": ["07-04", "07-08"],
+    "categories": ["femina", "vidua", "religiosus", "tertiarius", "regina"],
 
-  "forenames": ["elisabeth"],
-  "categories": ["femina", "vidua", "religiosus", "tertiarius", "regina"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["tosf"]
+        "mr-1956": ["1:Julii/4#1", "1:Julii/8#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/elisabetta-isabella-di-portogallo.html",
+        "gcatholic": "https://gcatholic.org/p/68717",
+        "wiki": "https://pl.wikipedia.org/wiki/El%C5%BCbieta_Arago%C5%84ska_(kr%C3%B3lowa_Portugalii)"
+    }
 }

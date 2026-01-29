@@ -5567,6 +5567,20 @@
                 "reliable-death-anniversary": "4 VII",
                 "mr-2004": "4 VII: #13"
             }
+        },
+        "records/patrons/elisabeth/lus": {
+            "name": {
+                "es": "Elisabet de Aragón",
+                "la": "Elisabeth Aragonae",
+                "en": "Elizabeth of Aragon",
+                "pl": "Elżbieta Aragońska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VII",
+                "feast": "4 VII",
+                "mr-1956": "4 VII: #1",
+                "mr-2004": "4 VII: #1"
+            }
         }
     },
     "07-05": {
@@ -5666,6 +5680,17 @@
                 "mr-1584": "8 VII: #3",
                 "mr-1956": "8 VII: #5",
                 "mr-2004": "8 VII: #3"
+            }
+        },
+        "records/patrons/elisabeth/lus": {
+            "name": {
+                "es": "Elisabet de Aragón",
+                "la": "Elisabeth Aragonae",
+                "en": "Elizabeth of Aragon",
+                "pl": "Elżbieta Aragońska"
+            },
+            "sources": {
+                "mr-1956": "8 VII: #1"
             }
         }
     },
