@@ -7598,11 +7598,11 @@
         }
     },
     "patrons/elisabeth/cat": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Élisabeth de la Sainte Trinité",
-            "en": "Elizabeth of the Holy Trinity",
             "la": "Elisabetha a Sanctissima Trinitate",
+            "en": "Elizabeth of the Holy Trinity",
             "pl": "Elżbieta od Trójcy Przenajświętszej"
         },
         "died": [

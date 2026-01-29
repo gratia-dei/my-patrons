@@ -11022,6 +11022,19 @@
                 "mr-2004": "9 XI: #14"
             }
         },
+        "records/patrons/elisabeth/cat": {
+            "name": {
+                "fr": "Élisabeth de la Sainte Trinité",
+                "la": "Elisabetha a Sanctissima Trinitate",
+                "en": "Elizabeth of the Holy Trinity",
+                "pl": "Elżbieta od Trójcy Przenajświętszej"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 XI",
+                "feast": "9 XI",
+                "mr-2004": "9 XI: #12"
+            }
+        },
         "records/patrons/henricus/hle": {
             "name": {
                 "pl": "Henryk Hlebowicz",

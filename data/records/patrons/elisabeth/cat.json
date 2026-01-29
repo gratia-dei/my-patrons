@@ -1,53 +1,67 @@
 {
-  "names": {
-    "fr": [
-      "Élisabeth de la Sainte Trinité",
-      "Élisabeth Catez"
+    "names": {
+        "fr": [
+            "Élisabeth de la Sainte Trinité",
+            "Élisabeth Catez"
+        ],
+        "la": [
+            "Elisabetha a Sanctissima Trinitate",
+            "Elisabetha Catez"
+        ],
+        "en": [
+            "Elizabeth of the Holy Trinity",
+            "Elizabeth Catez"
+        ],
+        "pl": [
+            "Elżbieta od Trójcy Przenajświętszej",
+            "Elżbieta Catez"
+        ]
+    },
+    "forenames": ["elisabeth"],
+    "surnames": [
+        {
+            "fr": "Catez"
+        }
     ],
-    "en": [
-      "Elizabeth of the Holy Trinity",
-      "Elizabeth Catez"
+    "epithets": [
+        {
+            "fr": "de la Sainte Trinité",
+            "en": "of the Holy Trinity",
+            "la": "a Sanctissima Trinitate",
+            "pl": "od Trójcy Przenajświętszej"
+        }
     ],
-    "la": [
-      "Elisabetha a Sanctissima Trinitate",
-      "Elisabetha Catez"
-    ],
-    "pl": [
-      "Elżbieta od Trójcy Przenajświętszej",
-      "Elżbieta Catez"
-    ]
-  },
 
-  "surnames": [
-    {
-      "fr": "Catez"
+    "active": true,
+
+    "born": ["1880-07-18"],
+    "died": ["1906-11-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-11-25"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2016-10-16"
+    },
+    "anniversary": ["11-09"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./9#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/elisabetta-della-santissima-trinita.html",
+        "gcatholic": "https://gcatholic.org/p/67187",
+        "wiki": "https://pl.wikipedia.org/wiki/El%C5%BCbieta_od_Tr%C3%B3jcy_Przenaj%C5%9Bwi%C4%99tszej"
     }
-  ],
-  "epithets": [
-    {
-      "fr": "de la Sainte Trinité",
-      "en": "of the Holy Trinity",
-      "la": "a Sanctissima Trinitate",
-      "pl": "od Trójcy Przenajświętszej"
-    }
-  ],
-
-  "born": ["1880-07-18"],
-  "died": ["1906-11-09"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1984-11-25"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2016-10-16"
-  },
-
-  "also-in-martyrology": [],
-
-  "forenames": ["elisabeth"],
-  "categories": ["femina", "virgo"],
-
-  "order": ["ocd"]
 }
