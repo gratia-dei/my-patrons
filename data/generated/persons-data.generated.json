@@ -7624,11 +7624,11 @@
         }
     },
     "patrons/elisabeth/hun": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Elisabeth von Ungarn",
+            "la": "Elisabeth de Hungaria",
             "en": "Elizabeth of Hungary",
-            "la": "Elisabeth Hungariae",
             "pl": "Elżbieta Węgierska"
         },
         "died": [

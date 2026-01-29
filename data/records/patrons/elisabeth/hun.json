@@ -1,35 +1,50 @@
 {
-  "names": {
-    "de": [
-      "Elisabeth von Ungarn",
-      "Elisabeth von Thüringen"
-    ],
-    "en": [
-      "Elizabeth of Hungary",
-      "Elizabeth of Thuringia"
-    ],
-    "la": [
-      "Elisabeth Hungariae",
-      "Elisabeth Thuringiae"
-    ],
-    "pl": [
-      "Elżbieta Węgierska",
-      "Elżbieta z Turyngii"
-    ]
-  },
+    "names": {
+        "de": [
+            "Elisabeth von Ungarn",
+            "Elisabeth von Thüringen"
+        ],
+        "la": [
+            "Elisabeth de Hungaria",
+            "Elisabeth Thuringiae"
+        ],
+        "en": [
+            "Elizabeth of Hungary",
+            "Elizabeth of Thuringia"
+        ],
+        "pl": [
+            "Elżbieta Węgierska",
+            "Elżbieta z Turyngii"
+        ]
+    },
+    "forenames": ["elisabeth"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1207-07-07"],
-  "died": ["1231-11-17"],
+    "active": true,
 
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1235-05-27"
-  },
+    "born": ["1207-07-07"],
+    "died": ["1231-11-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["11-17", "11-19"],
+    "categories": ["femina", "vidua", "tertiarius"],
 
-  "forenames": ["elisabeth"],
-  "categories": ["femina", "vidua", "tertiarius"],
+    "data-links": {
+        "mr-1584": ["1:Nov./19#9"],
+        "mr-1584-movable": [],
 
-  "order": ["tosf"]
+        "mr-1956": ["1:Novembris/19#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68717",
+        "wiki": "https://pl.wikipedia.org/wiki/El%C5%BCbieta_z_Turyngii"
+    }
 }

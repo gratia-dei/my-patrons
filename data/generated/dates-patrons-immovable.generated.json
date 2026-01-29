@@ -11259,6 +11259,18 @@
         }
     },
     "11-17": {
+        "records/patrons/elisabeth/hun": {
+            "name": {
+                "de": "Elisabeth von Ungarn",
+                "la": "Elisabeth de Hungaria",
+                "en": "Elizabeth of Hungary",
+                "pl": "Elżbieta Węgierska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 XI",
+                "mr-2004": "17 XI: #1"
+            }
+        },
         "records/patrons/hugo/lin": {
             "name": {
                 "en": "Hugo of Lincoln",
@@ -11307,6 +11319,18 @@
             "sources": {
                 "reliable-death-anniversary": "19 XI",
                 "mr-2004": "19 XI: #9"
+            }
+        },
+        "records/patrons/elisabeth/hun": {
+            "name": {
+                "de": "Elisabeth von Ungarn",
+                "la": "Elisabeth de Hungaria",
+                "en": "Elizabeth of Hungary",
+                "pl": "Elżbieta Węgierska"
+            },
+            "sources": {
+                "mr-1584": "19 XI: #9",
+                "mr-1956": "19 XI: #1"
             }
         },
         "records/patrons/pontianus/1pp": {
