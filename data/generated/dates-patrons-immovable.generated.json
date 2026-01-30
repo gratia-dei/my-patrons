@@ -1599,6 +1599,16 @@
                 "feast": "27 II"
             }
         },
+        "records/patrons/besas/ale": {
+            "name": {
+                "la": "Besas Alexandrinus",
+                "en": "Besas of Alexandria",
+                "pl": "Bezas z Aleksandrii"
+            },
+            "sources": {
+                "mr-2004": "27 II: #2"
+            }
+        },
         "records/patrons/iulianus/eun": {
             "name": {
                 "la": "Iulianus Alexandrinus",
@@ -1660,6 +1670,17 @@
         }
     },
     "02b28": {
+        "records/patrons/besas/ale": {
+            "name": {
+                "la": "Besas Alexandrinus",
+                "en": "Besas of Alexandria",
+                "pl": "Bezas z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "28 II: #3",
+                "mr-1956": "28 II: #4"
+            }
+        },
         "records/patrons/iulianus/eun": {
             "name": {
                 "la": "Iulianus Alexandrinus",
@@ -1748,6 +1769,17 @@
         }
     },
     "02n27": {
+        "records/patrons/besas/ale": {
+            "name": {
+                "la": "Besas Alexandrinus",
+                "en": "Besas of Alexandria",
+                "pl": "Bezas z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "27 II: #3",
+                "mr-1956": "27 II: #4"
+            }
+        },
         "records/patrons/iulianus/eun": {
             "name": {
                 "la": "Iulianus Alexandrinus",

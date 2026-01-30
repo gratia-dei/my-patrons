@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "Bezas"
+    },
+    "translations": {
+        "la": [
+            "Besas",
+            "Besa"
+        ],
+        "en": [
+            "Besas"
+        ],
+        "pl": [
+            "Bezas"
+        ]
+    },
+    "links": {
+        "records/patrons/besas/ale": {
+            "la": "Besas Alexandrinus",
+            "en": "Besas of Alexandria",
+            "pl": "Bezas z Aleksandrii"
+        }
+    }
+}

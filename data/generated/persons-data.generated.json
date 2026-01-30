@@ -4318,6 +4318,35 @@
             }
         }
     },
+    "patrons/besas": {
+        "names": {
+            "la": "Besas",
+            "en": "Besas",
+            "pl": "Bezas"
+        }
+    },
+    "patrons/besas/ale": {
+        "active": true,
+        "names": {
+            "la": "Besas Alexandrinus",
+            "en": "Besas of Alexandria",
+            "pl": "Bezas z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/besas": {
+                "active": true,
+                "names": {
+                    "la": "Besas",
+                    "en": "Besas",
+                    "pl": "Bezas"
+                }
+            }
+        }
+    },
     "patrons/birgitta": {
         "names": {
             "la": "Birgitta",

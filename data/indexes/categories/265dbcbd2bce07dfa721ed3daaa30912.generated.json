@@ -366,6 +366,11 @@
             "en": "Benignus of Todi",
             "pl": "Benignus z Todi"
         },
+        "records/patrons/besas/ale": {
+            "la": "Besas Alexandrinus",
+            "en": "Besas of Alexandria",
+            "pl": "Bezas z Aleksandrii"
+        },
         "records/patrons/blasius/seb": {
             "la": "Blasius de Sebaste",
             "en": "Blaise of Sebaste",
