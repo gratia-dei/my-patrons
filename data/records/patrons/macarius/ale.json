@@ -25,10 +25,10 @@
     "categories": ["vir", "martyr"],
 
     "data-links": {
-        "mr-1584": ["1:Dec./8#3", "3:Oct./30#3"],
+        "mr-1584": ["3:Oct./30#3", "1:Dec./8#3"],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Decembris/8#3", "16:Octobris/30#6"],
+        "mr-1956": ["16:Octobris/30#6", "1:Decembris/8#3"],
         "mr-1956-movable": [],
 
         "mr-2004": ["1:dec./8#2"],

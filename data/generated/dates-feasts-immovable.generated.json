@@ -496,6 +496,18 @@
             }
         }
     },
+    "05-10": {
+        "records/patrons/epimachus/ale#tea": {
+            "name": {
+                "la": "Epimachus Alexandrinus (Translatio sancti Epimachi)",
+                "pl": "Epimach z Aleksandrii (Przeniesienie świętego Epimacha)"
+            },
+            "sources": {
+                "mr-1584": "10 V: #1",
+                "mr-1956": "10 V: #2"
+            }
+        }
+    },
     "05-13": {
         "records/patrons/maria/naz#dem": {
             "name": {

@@ -739,6 +739,11 @@
             "en": "Eoban of Utrecht",
             "pl": "Eoban z Utrechtu"
         },
+        "records/patrons/epimachus/ale": {
+            "la": "Epimachus Alexandrinus",
+            "en": "Epimachus of Alexandria",
+            "pl": "Epimach z Aleksandrii"
+        },
         "records/patrons/erasmus/for": {
             "la": "Erasmus de Formia",
             "en": "Erasmus of Formia",

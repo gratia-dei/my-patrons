@@ -7933,6 +7933,43 @@
             }
         }
     },
+    "patrons/epimachus": {
+        "names": {
+            "la": "Epimachus",
+            "en": "Epimachus",
+            "pl": "Epimach"
+        }
+    },
+    "patrons/epimachus/ale": {
+        "active": true,
+        "names": {
+            "la": "Epimachus Alexandrinus",
+            "en": "Epimachus of Alexandria",
+            "pl": "Epimach z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": {
+            "feasts/tea": {
+                "active": true,
+                "names": {
+                    "la": "Translatio sancti Epimachi",
+                    "pl": "Przeniesienie świętego Epimacha"
+                }
+            }
+        },
+        "forenames": {
+            "forenames/epimachus": {
+                "active": true,
+                "names": {
+                    "la": "Epimachus",
+                    "en": "Epimachus",
+                    "pl": "Epimach"
+                }
+            }
+        }
+    },
     "patrons/erasmus": {
         "names": {
             "la": "Erasmus",

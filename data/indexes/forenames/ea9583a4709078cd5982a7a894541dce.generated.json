@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Epimachus",
+        "en": "Epimachus"
+    },
+    "translations": {
+        "la": [
+            "Epimachus"
+        ],
+        "en": [
+            "Epimachus"
+        ],
+        "pl": [
+            "Epimach"
+        ]
+    },
+    "links": {
+        "records/patrons/epimachus/ale": {
+            "la": "Epimachus Alexandrinus",
+            "en": "Epimachus of Alexandria",
+            "pl": "Epimach z Aleksandrii"
+        }
+    }
+}
