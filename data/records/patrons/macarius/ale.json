@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Macarius Alexandrinus"
+        ],
+        "en": [
+            "Macarius of Alexandria"
+        ],
+        "pl": [
+            "Makary z Aleksandrii"
+        ]
+    },
+    "forenames": ["macarius"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./8#3", "3:Oct./30#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/8#3", "3:Octobris/30#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./8#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73072",
+        "wiki": "https://en.wikipedia.org/wiki/Martyrs_of_Alexandria_under_Decius"
+    }
+}

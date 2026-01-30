@@ -10737,6 +10737,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/macarius/ale": {
+            "name": {
+                "la": "Macarius Alexandrinus",
+                "en": "Macarius of Alexandria",
+                "pl": "Makary z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12016,6 +12027,18 @@
             "sources": {
                 "reliable-death-anniversary": "8 XII",
                 "mr-2004": "8 XII: #8"
+            }
+        },
+        "records/patrons/macarius/ale": {
+            "name": {
+                "la": "Macarius Alexandrinus",
+                "en": "Macarius of Alexandria",
+                "pl": "Makary z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "8 XII: #3",
+                "mr-1956": "8 XII: #3",
+                "mr-2004": "8 XII: #2"
             }
         }
     },

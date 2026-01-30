@@ -1503,6 +1503,11 @@
             "la": "Ludovicus Mzyk",
             "en": "Louis Mzyk"
         },
+        "records/patrons/macarius/ale": {
+            "la": "Macarius Alexandrinus",
+            "en": "Macarius of Alexandria",
+            "pl": "Makary z Aleksandrii"
+        },
         "records/patrons/magdalena/cho": {
             "ko": "조 막달레나",
             "la": "Magdalena Cho",

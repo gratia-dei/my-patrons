@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/macarius/ale": {
+            "la": "Macarius Alexandrinus",
+            "en": "Macarius of Alexandria",
+            "pl": "Makary z Aleksandrii"
+        },
         "records/patrons/macarius/hie": {
             "el": "Μακάριος Ἱεροσολύμων",
             "en": "Macarius of Jerusalem",

@@ -16188,6 +16188,29 @@
             "el": "Μακάριος"
         }
     },
+    "patrons/macarius/ale": {
+        "active": true,
+        "names": {
+            "la": "Macarius Alexandrinus",
+            "en": "Macarius of Alexandria",
+            "pl": "Makary z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/macarius": {
+                "active": true,
+                "names": {
+                    "la": "Macarius",
+                    "en": "Macarius",
+                    "pl": "Makary",
+                    "el": "Μακάριος"
+                }
+            }
+        }
+    },
     "patrons/macarius/hie": {
         "active": false,
         "names": {
