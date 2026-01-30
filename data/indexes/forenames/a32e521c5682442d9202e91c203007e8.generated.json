@@ -1,16 +1,17 @@
 {
     "names": {
-        "pl": "niewolnik / niewolnica"
+        "la": "Coronion",
+        "en": "Coronion"
     },
     "translations": {
         "la": [
-            "servus / serva"
+            "Coronion"
         ],
         "en": [
-            "slave"
+            "Coronion"
         ],
         "pl": [
-            "niewolnik / niewolnica"
+            "Koronion"
         ]
     },
     "links": {
@@ -18,11 +19,6 @@
             "la": "Eunus Alexandrinus",
             "en": "Eunus of Alexandria",
             "pl": "Euniusz z Aleksandrii"
-        },
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
         }
     }
 }

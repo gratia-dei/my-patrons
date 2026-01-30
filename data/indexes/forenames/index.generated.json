@@ -1007,8 +1007,7 @@
     },
     "32f5590846c060006edd81ebc6ea7684": {
         "la": "Eunus",
-        "en": "Eunus",
-        "pl": "Eunus"
+        "en": "Eunus"
     },
     "337d7fa34b085b860536485535db17c7": {
         "pl": "Szczepan"
@@ -2438,6 +2437,9 @@
     "806af137cba9a5ab7139bacbc624445e": {
         "la": "Edmundus"
     },
+    "80c6ce7bce81bdee54d7bb58360d622c": {
+        "pl": "Euniusz"
+    },
     "80d4d410d6b330bc2015e461e6b6b78d": {
         "en": "Caroline"
     },
@@ -3085,6 +3087,10 @@
     "a2be6a6bc9b581e42999abaf571e8074": {
         "la": "Rogatianus"
     },
+    "a32e521c5682442d9202e91c203007e8": {
+        "la": "Coronion",
+        "en": "Coronion"
+    },
     "a3414e4de5966756216ee7d2915f5c74": {
         "sq": "Anjezë"
     },
@@ -3490,6 +3496,9 @@
     "b5df36ac79aa6391ffb432b9e5ad7880": {
         "en": "Roman",
         "pl": "Roman"
+    },
+    "b5ebe61b11e71ec36ad5f66a1a0a6c81": {
+        "pl": "Koronion"
     },
     "b62b60881ed395029082646c6b223186": {
         "la": "Largus",

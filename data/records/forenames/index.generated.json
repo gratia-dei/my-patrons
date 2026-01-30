@@ -743,6 +743,11 @@
         "en": "Cornelius",
         "pl": "Korneliusz"
     },
+    "coronion": {
+        "la": "Coronion",
+        "en": "Coronion",
+        "pl": "Koronion"
+    },
     "cosmas": {
         "la": "Cosmas",
         "en": "Cosmas",
@@ -1001,7 +1006,7 @@
     "eunus": {
         "la": "Eunus",
         "en": "Eunus",
-        "pl": "Eunus"
+        "pl": "Euniusz"
     },
     "euprepius": {
         "la": "Euprepius",

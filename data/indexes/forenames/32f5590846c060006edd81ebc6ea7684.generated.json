@@ -1,8 +1,7 @@
 {
     "names": {
         "la": "Eunus",
-        "en": "Eunus",
-        "pl": "Eunus"
+        "en": "Eunus"
     },
     "translations": {
         "la": [
@@ -12,14 +11,14 @@
             "Eunus"
         ],
         "pl": [
-            "Eunus"
+            "Euniusz"
         ]
     },
     "links": {
         "records/patrons/eunus/iul": {
             "la": "Eunus Alexandrinus",
             "en": "Eunus of Alexandria",
-            "pl": "Eunus z Aleksandrii"
+            "pl": "Euniusz z Aleksandrii"
         }
     }
 }

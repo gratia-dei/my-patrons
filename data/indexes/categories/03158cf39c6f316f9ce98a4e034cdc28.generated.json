@@ -14,6 +14,11 @@
         ]
     },
     "links": {
+        "records/patrons/eunus/iul": {
+            "la": "Eunus Alexandrinus",
+            "en": "Eunus of Alexandria",
+            "pl": "Euniusz z Aleksandrii"
+        },
         "records/patrons/felicitas/car": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",

@@ -1598,6 +1598,16 @@
                 "reliable-death-anniversary": "27 II",
                 "feast": "27 II"
             }
+        },
+        "records/patrons/eunus/iul": {
+            "name": {
+                "la": "Eunus Alexandrinus",
+                "en": "Eunus of Alexandria",
+                "pl": "Euniusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-2004": "27 II: #1"
+            }
         }
     },
     "02b23": {
@@ -1640,6 +1650,17 @@
         }
     },
     "02b28": {
+        "records/patrons/eunus/iul": {
+            "name": {
+                "la": "Eunus Alexandrinus",
+                "en": "Eunus of Alexandria",
+                "pl": "Euniusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "28 II: #2",
+                "mr-1956": "28 II: #3"
+            }
+        },
         "records/patrons/romanus/abb": {
             "name": {
                 "fr": "Romain de Condat",
@@ -1702,6 +1723,19 @@
             "sources": {
                 "mr-1584": "25 II: #5",
                 "mr-1956": "25 II: #4"
+            }
+        }
+    },
+    "02n27": {
+        "records/patrons/eunus/iul": {
+            "name": {
+                "la": "Eunus Alexandrinus",
+                "en": "Eunus of Alexandria",
+                "pl": "Euniusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "27 II: #2",
+                "mr-1956": "27 II: #3"
             }
         }
     },
@@ -10647,6 +10681,17 @@
                 "reliable-death-anniversary": "30 X",
                 "feast": "30 X",
                 "mr-2004": "30 X: #14"
+            }
+        },
+        "records/patrons/eunus/iul": {
+            "name": {
+                "la": "Eunus Alexandrinus",
+                "en": "Eunus of Alexandria",
+                "pl": "Euniusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
             }
         },
         "records/patrons/pontianus/1pp": {

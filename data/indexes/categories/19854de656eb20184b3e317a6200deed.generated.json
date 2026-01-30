@@ -1,16 +1,16 @@
 {
     "names": {
-        "pl": "niewolnik / niewolnica"
+        "la": "famulus / famula"
     },
     "translations": {
         "la": [
-            "servus / serva"
+            "famulus / famula"
         ],
         "en": [
-            "slave"
+            "servant"
         ],
         "pl": [
-            "niewolnik / niewolnica"
+            "służący / służąca"
         ]
     },
     "links": {
@@ -18,11 +18,6 @@
             "la": "Eunus Alexandrinus",
             "en": "Eunus of Alexandria",
             "pl": "Euniusz z Aleksandrii"
-        },
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
         }
     }
 }

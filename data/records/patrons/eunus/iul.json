@@ -1,23 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Eunus Alexandrinus",
-      "Eunus /+ Iulianus"
-    ],
-    "en": [
-      "Eunus of Alexandria",
-      "Eunus /+ Julian"
-    ],
-    "pl": [
-      "Eunus z Aleksandrii",
-      "Eunus /+ Julian"
-    ]
-  },
+    "names": {
+        "la": [
+            "Eunus Alexandrinus",
+            "Coronion Alexandrinus"
+        ],
+        "en": [
+            "Eunus of Alexandria",
+            "Coronion of Alexandria"
+        ],
+        "pl": [
+            "Euniusz z Aleksandrii",
+            "Koronion z Aleksandrii"
+        ]
+    },
+    "forenames": ["eunus", "coronion"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~250"],
+    "active": true,
 
-  "also-in-martyrology": ["02-27", "02n27", "02b28"],
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["eunus"],
-  "categories": ["vir", "martyr"]
+    "categories": ["vir", "martyr", "servus", "famulus"],
+
+    "data-links": {
+        "mr-1584": ["2:Febr./27n#2", "2:Febr./28b#2", "1:Oct./30#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Februarii/27n#3", "2:Februarii/28b#3", "2:Octobris/30#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:feb./27#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73230",
+        "wiki": "https://en.wikipedia.org/wiki/Martyrs_of_Alexandria_under_Decius"
+    }
 }

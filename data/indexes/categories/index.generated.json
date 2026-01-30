@@ -74,6 +74,9 @@
     "171b6ba14aeefeb08caf15065042a4c2": {
         "en": "monk"
     },
+    "19854de656eb20184b3e317a6200deed": {
+        "la": "famulus / famula"
+    },
     "198e63d55fd441cffd0223648df1c2a2": {
         "pl": "samotnik / samotnica"
     },
@@ -236,6 +239,9 @@
     },
     "411f665ec30226a3c5881d78cbfc915d": {
         "la": "senex"
+    },
+    "41dabe0c59a3233e3691f3c893eb789e": {
+        "en": "servant"
     },
     "420495861b9f31a0a84a016c13a863f1": {
         "en": "professed layperson"
@@ -710,6 +716,9 @@
     },
     "dd5b6b133fb96a3cd0e1ea5b0e753933": {
         "la": "subdiaconus"
+    },
+    "ddae583a1af3661a64cc86c1efec0857": {
+        "pl": "służący / służąca"
     },
     "e0f43c20eb7e1895c5b35fac9e28a3bf": {
         "pl": "konsul"
