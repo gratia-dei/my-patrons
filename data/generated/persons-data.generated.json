@@ -14780,6 +14780,30 @@
             "it": "Giuliano"
         }
     },
+    "patrons/iulianus/eun": {
+        "active": true,
+        "names": {
+            "la": "Iulianus Alexandrinus",
+            "en": "Julian of Alexandria",
+            "pl": "Julian z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iulianus": {
+                "active": true,
+                "names": {
+                    "la": "Iulianus",
+                    "en": "Julian",
+                    "pl": "Julian",
+                    "fr": "Julien",
+                    "it": "Giuliano"
+                }
+            }
+        }
+    },
     "patrons/iulianus/tar": {
         "active": true,
         "names": {

@@ -27,6 +27,11 @@
             "la": "Antonius Iulianus Nowowiejski",
             "en": "Anthony Julian Nowowiejski"
         },
+        "records/patrons/iulianus/eun": {
+            "la": "Iulianus Alexandrinus",
+            "en": "Julian of Alexandria",
+            "pl": "Julian z Aleksandrii"
+        },
         "records/patrons/iulianus/tar": {
             "it": "Giuliano di Terracina",
             "la": "Iulianus Terracinensis",

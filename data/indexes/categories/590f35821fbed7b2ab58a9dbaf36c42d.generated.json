@@ -2123,6 +2123,11 @@
             "en": "Judas Thaddaeus",
             "pl": "Juda Tadeusz Apostoł"
         },
+        "records/patrons/iulianus/eun": {
+            "la": "Iulianus Alexandrinus",
+            "en": "Julian of Alexandria",
+            "pl": "Julian z Aleksandrii"
+        },
         "records/patrons/iulianus/tar": {
             "it": "Giuliano di Terracina",
             "la": "Iulianus Terracinensis",

@@ -1599,6 +1599,16 @@
                 "feast": "27 II"
             }
         },
+        "records/patrons/iulianus/eun": {
+            "name": {
+                "la": "Iulianus Alexandrinus",
+                "en": "Julian of Alexandria",
+                "pl": "Julian z Aleksandrii"
+            },
+            "sources": {
+                "mr-2004": "27 II: #1"
+            }
+        },
         "records/patrons/eunus/iul": {
             "name": {
                 "la": "Eunus Alexandrinus",
@@ -1650,6 +1660,17 @@
         }
     },
     "02b28": {
+        "records/patrons/iulianus/eun": {
+            "name": {
+                "la": "Iulianus Alexandrinus",
+                "en": "Julian of Alexandria",
+                "pl": "Julian z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "28 II: #2",
+                "mr-1956": "28 II: #3"
+            }
+        },
         "records/patrons/eunus/iul": {
             "name": {
                 "la": "Eunus Alexandrinus",
@@ -1727,6 +1748,17 @@
         }
     },
     "02n27": {
+        "records/patrons/iulianus/eun": {
+            "name": {
+                "la": "Iulianus Alexandrinus",
+                "en": "Julian of Alexandria",
+                "pl": "Julian z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "27 II: #2",
+                "mr-1956": "27 II: #3"
+            }
+        },
         "records/patrons/eunus/iul": {
             "name": {
                 "la": "Eunus Alexandrinus",
@@ -10688,6 +10720,17 @@
                 "la": "Eunus Alexandrinus",
                 "en": "Eunus of Alexandria",
                 "pl": "Euniusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
+        "records/patrons/iulianus/eun": {
+            "name": {
+                "la": "Iulianus Alexandrinus",
+                "en": "Julian of Alexandria",
+                "pl": "Julian z Aleksandrii"
             },
             "sources": {
                 "mr-1584": "30 X: #3",
