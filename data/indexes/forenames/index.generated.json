@@ -1669,6 +1669,9 @@
     "55195b6de48e7e8dcd54f70cad56d8d3": {
         "la": "Alicia"
     },
+    "5573a1b1785dcd182f475fc7243d154f": {
+        "pl": "Amonaria"
+    },
     "559ca794a6a5924dbd3277fea3c19074": {
         "pl": "Jozafat"
     },
@@ -1890,6 +1893,9 @@
     },
     "6200f43f9c3fc66e99e8eedce7561953": {
         "pl": "Mikołaj"
+    },
+    "624ff9165d05c7d5f741bfcf9bce5347": {
+        "la": "Ammonaria"
     },
     "62d6e974d7f0fed30a6114454009e40a": {
         "la": "Procopius",
@@ -4591,6 +4597,10 @@
     "ec1c6a312d6626afd52e1fa592358b1f": {
         "la": "Justus",
         "en": "Justus"
+    },
+    "ec2e153ac216c947f5dc637c16354064": {
+        "la": "Ammonarion",
+        "en": "Ammonarion"
     },
     "ec3f5219e8a650c8138f90ca46842d7e": {
         "cs": "Anežka"

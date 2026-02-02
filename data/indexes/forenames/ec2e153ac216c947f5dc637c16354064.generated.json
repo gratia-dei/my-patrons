@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Ammonarion",
+        "en": "Ammonarion"
+    },
+    "translations": {
+        "la": [
+            "Ammonarion",
+            "Ammonaria"
+        ],
+        "en": [
+            "Ammonarion"
+        ],
+        "pl": [
+            "Amonaria"
+        ]
+    },
+    "links": {
+        "records/patrons/ammonarion/ale": {
+            "la": "Ammonarion Alexandrina",
+            "en": "Ammonarion of Alexandria",
+            "pl": "Amonaria z Aleksandrii"
+        }
+    }
+}

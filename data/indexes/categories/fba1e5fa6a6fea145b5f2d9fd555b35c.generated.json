@@ -47,6 +47,11 @@
             "la": "Alicia Kotowska",
             "en": "Alice Kotowska"
         },
+        "records/patrons/ammonarion/ale": {
+            "la": "Ammonarion Alexandrina",
+            "en": "Ammonarion of Alexandria",
+            "pl": "Amonaria z Aleksandrii"
+        },
         "records/patrons/anastasia/sir": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",

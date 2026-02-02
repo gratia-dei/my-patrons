@@ -35,6 +35,11 @@
             "la": "Alicia Kotowska",
             "en": "Alice Kotowska"
         },
+        "records/patrons/ammonarion/ale": {
+            "la": "Ammonarion Alexandrina",
+            "en": "Ammonarion of Alexandria",
+            "pl": "Amonaria z Aleksandrii"
+        },
         "records/patrons/antonia/mes": {
             "it": "Antonia Mesina",
             "la": "Antonia Mesina",

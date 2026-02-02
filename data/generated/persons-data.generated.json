@@ -1729,6 +1729,35 @@
             }
         }
     },
+    "patrons/ammonarion": {
+        "names": {
+            "la": "Ammonarion",
+            "en": "Ammonarion",
+            "pl": "Amonaria"
+        }
+    },
+    "patrons/ammonarion/ale": {
+        "active": true,
+        "names": {
+            "la": "Ammonarion Alexandrina",
+            "en": "Ammonarion of Alexandria",
+            "pl": "Amonaria z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ammonarion": {
+                "active": true,
+                "names": {
+                    "la": "Ammonarion",
+                    "en": "Ammonarion",
+                    "pl": "Amonaria"
+                }
+            }
+        }
+    },
     "patrons/amos": {
         "names": {
             "la": "Amos",
