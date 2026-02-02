@@ -24,6 +24,11 @@
             "en": "Agnes of Rome",
             "pl": "Agnieszka Rzymianka"
         },
+        "records/patrons/dioscorus/ale": {
+            "la": "Dioscorus Alexandrinus",
+            "en": "Dioscorus of Alexandria",
+            "pl": "Dioskur z Aleksandrii"
+        },
         "records/patrons/franciscus/mar": {
             "pt": "Francisco Marto",
             "la": "Franciscus Marto",

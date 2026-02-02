@@ -989,6 +989,11 @@
             "en": "Denis of Paris, with him, i.a., Rusticus",
             "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
         },
+        "records/patrons/dioscorus/ale": {
+            "la": "Dioscorus Alexandrinus",
+            "en": "Dioscorus of Alexandria",
+            "pl": "Dioskur z Aleksandrii"
+        },
         "records/patrons/dominicus/car": {
             "pt": "Domingos Carvalho",
             "la": "Dominicus Carvalho",

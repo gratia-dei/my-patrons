@@ -10902,6 +10902,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/dioscorus/ale": {
+            "name": {
+                "la": "Dioscorus Alexandrinus",
+                "en": "Dioscorus of Alexandria",
+                "pl": "Dioskur z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12467,6 +12478,18 @@
                 "la": "Isidorus Alexandrinus",
                 "en": "Isidore of Alexandria",
                 "pl": "Izydor z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "14 XII: #1",
+                "mr-1956": "14 XII: #3",
+                "mr-2004": "14 XII: #2"
+            }
+        },
+        "records/patrons/dioscorus/ale": {
+            "name": {
+                "la": "Dioscorus Alexandrinus",
+                "en": "Dioscorus of Alexandria",
+                "pl": "Dioskur z Aleksandrii"
             },
             "sources": {
                 "mr-1584": "14 XII: #1",

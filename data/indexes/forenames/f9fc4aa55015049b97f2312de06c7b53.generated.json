@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Dioskur"
+    },
+    "translations": {
+        "la": [
+            "Dioscorus"
+        ],
+        "en": [
+            "Dioscorus"
+        ],
+        "pl": [
+            "Dioskur"
+        ]
+    },
+    "links": {
+        "records/patrons/dioscorus/ale": {
+            "la": "Dioscorus Alexandrinus",
+            "en": "Dioscorus of Alexandria",
+            "pl": "Dioskur z Aleksandrii"
+        }
+    }
+}

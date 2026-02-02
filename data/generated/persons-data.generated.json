@@ -7174,6 +7174,35 @@
             }
         }
     },
+    "patrons/dioscorus": {
+        "names": {
+            "la": "Dioscorus",
+            "en": "Dioscorus",
+            "pl": "Dioskur"
+        }
+    },
+    "patrons/dioscorus/ale": {
+        "active": true,
+        "names": {
+            "la": "Dioscorus Alexandrinus",
+            "en": "Dioscorus of Alexandria",
+            "pl": "Dioskur z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/dioscorus": {
+                "active": true,
+                "names": {
+                    "la": "Dioscorus",
+                    "en": "Dioscorus",
+                    "pl": "Dioskur"
+                }
+            }
+        }
+    },
     "patrons/dominicus": {
         "names": {
             "la": "Dominicus",
