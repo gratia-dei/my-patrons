@@ -1187,6 +1187,29 @@
             "it": "Alessandro"
         }
     },
+    "patrons/alexander/ale": {
+        "active": true,
+        "names": {
+            "la": "Alexander Alexandrinus",
+            "en": "Alexander of Alexandria",
+            "pl": "Aleksander z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/alexander": {
+                "active": true,
+                "names": {
+                    "la": "Alexander",
+                    "en": "Alexander",
+                    "pl": "Aleksander",
+                    "it": "Alessandro"
+                }
+            }
+        }
+    },
     "patrons/alexander/dor": {
         "active": true,
         "names": {

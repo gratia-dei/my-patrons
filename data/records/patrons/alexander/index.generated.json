@@ -1,4 +1,9 @@
 {
+    "ale": {
+        "la": "Alexander Alexandrinus",
+        "en": "Alexander of Alexandria",
+        "pl": "Aleksander z Aleksandrii"
+    },
     "dor": {
         "it": "Alessandro Dordi",
         "la": "Alexander Dordi",

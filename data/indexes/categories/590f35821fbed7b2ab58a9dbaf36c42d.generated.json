@@ -129,6 +129,11 @@
             "en": "Albert the Great",
             "pl": "Albert Wielki"
         },
+        "records/patrons/alexander/ale": {
+            "la": "Alexander Alexandrinus",
+            "en": "Alexander of Alexandria",
+            "pl": "Aleksander z Aleksandrii"
+        },
         "records/patrons/alexander/dor": {
             "it": "Alessandro Dordi",
             "la": "Alexander Dordi",
