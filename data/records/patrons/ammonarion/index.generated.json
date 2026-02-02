@@ -3,5 +3,10 @@
         "la": "Ammonarion Alexandrina",
         "en": "Ammonarion of Alexandria",
         "pl": "Amonaria z Aleksandrii"
+    },
+    "alt": {
+        "la": "Ammonarion Alexandrina, altera",
+        "en": "Ammonarion of Alexandria, another",
+        "pl": "Amonaria z Aleksandrii, druga"
     }
 }

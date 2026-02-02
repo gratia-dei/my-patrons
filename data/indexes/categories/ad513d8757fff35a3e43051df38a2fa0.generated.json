@@ -154,6 +154,11 @@
             "en": "Ammonarion of Alexandria",
             "pl": "Amonaria z Aleksandrii"
         },
+        "records/patrons/ammonarion/alt": {
+            "la": "Ammonarion Alexandrina, altera",
+            "en": "Ammonarion of Alexandria, another",
+            "pl": "Amonaria z Aleksandrii, druga"
+        },
         "records/patrons/amundus/eob": {
             "la": "Amundus; cum eo, i.a., Eobanus",
             "en": "Amund; with him, i.a., Eoban",

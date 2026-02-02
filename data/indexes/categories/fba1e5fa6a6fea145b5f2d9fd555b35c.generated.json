@@ -52,6 +52,11 @@
             "en": "Ammonarion of Alexandria",
             "pl": "Amonaria z Aleksandrii"
         },
+        "records/patrons/ammonarion/alt": {
+            "la": "Ammonarion Alexandrina, altera",
+            "en": "Ammonarion of Alexandria, another",
+            "pl": "Amonaria z Aleksandrii, druga"
+        },
         "records/patrons/anastasia/sir": {
             "la": "Anastasia Sirmiensis",
             "en": "Anastasia of Sirmium",
