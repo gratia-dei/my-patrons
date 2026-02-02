@@ -643,6 +643,11 @@
             "en": "Didacus Aloise de San Vitores",
             "pl": "Dydak Alojzy de San Vitores"
         },
+        "records/patrons/dionysia/ale": {
+            "la": "Dionysia Alexandrina",
+            "en": "Dionysia of Alexandria",
+            "pl": "Dionizja z Aleksandrii"
+        },
         "records/patrons/dionysius/aqu": {
             "it": "Dionigi da Aquileia",
             "la": "Dionysius de Aquileia",

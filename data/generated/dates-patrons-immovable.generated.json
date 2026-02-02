@@ -10847,6 +10847,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/dionysia/ale": {
+            "name": {
+                "la": "Dionysia Alexandrina",
+                "en": "Dionysia of Alexandria",
+                "pl": "Dionizja z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12291,6 +12302,18 @@
                 "la": "Mercuria Alexandrina",
                 "en": "Mercuria of Alexandria",
                 "pl": "Merkuria z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "12 XII: #3",
+                "mr-1956": "12 XII: #5",
+                "mr-2004": "12 XII: #2"
+            }
+        },
+        "records/patrons/dionysia/ale": {
+            "name": {
+                "la": "Dionysia Alexandrina",
+                "en": "Dionysia of Alexandria",
+                "pl": "Dionizja z Aleksandrii"
             },
             "sources": {
                 "mr-1584": "12 XII: #3",

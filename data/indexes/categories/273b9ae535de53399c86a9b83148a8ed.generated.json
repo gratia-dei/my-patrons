@@ -243,6 +243,11 @@
             "en": "Daria of Rome",
             "pl": "Daria z Rzymu"
         },
+        "records/patrons/dionysia/ale": {
+            "la": "Dionysia Alexandrina",
+            "en": "Dionysia of Alexandria",
+            "pl": "Dionizja z Aleksandrii"
+        },
         "records/patrons/donata/sci": {
             "la": "Donata de Scillium",
             "en": "Donata of Scillium",

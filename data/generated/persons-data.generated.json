@@ -6939,6 +6939,35 @@
             }
         }
     },
+    "patrons/dionysia": {
+        "names": {
+            "la": "Dionysia",
+            "en": "Dionysia",
+            "pl": "Dionizja"
+        }
+    },
+    "patrons/dionysia/ale": {
+        "active": true,
+        "names": {
+            "la": "Dionysia Alexandrina",
+            "en": "Dionysia of Alexandria",
+            "pl": "Dionizja z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/dionysia": {
+                "active": true,
+                "names": {
+                    "la": "Dionysia",
+                    "en": "Dionysia",
+                    "pl": "Dionizja"
+                }
+            }
+        }
+    },
     "patrons/dionysius": {
         "names": {
             "la": "Dionysius",
