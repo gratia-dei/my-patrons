@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Heron Alexandrinus"
+        ],
+        "en": [
+            "Heron of Alexandria"
+        ],
+        "pl": [
+            "Heron z Aleksandrii"
+        ]
+    },
+    "forenames": ["heron"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["10:Oct./30#3", "1:Dec./14#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["7:Octobris/30#6", "1:Decembris/14#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./14#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73094",
+        "wiki": "https://en.wikipedia.org/wiki/Martyrs_of_Alexandria_under_Decius"
+    }
+}

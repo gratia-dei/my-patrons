@@ -11016,6 +11016,35 @@
             }
         }
     },
+    "patrons/heron": {
+        "names": {
+            "la": "Heron",
+            "en": "Heron",
+            "pl": "Heron"
+        }
+    },
+    "patrons/heron/ale": {
+        "active": true,
+        "names": {
+            "la": "Heron Alexandrinus",
+            "en": "Heron of Alexandria",
+            "pl": "Heron z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/heron": {
+                "active": true,
+                "names": {
+                    "la": "Heron",
+                    "en": "Heron",
+                    "pl": "Heron"
+                }
+            }
+        }
+    },
     "patrons/hieronymus": {
         "names": {
             "la": "Hieronymus",

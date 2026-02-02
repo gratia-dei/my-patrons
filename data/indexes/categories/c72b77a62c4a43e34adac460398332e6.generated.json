@@ -1567,6 +1567,11 @@
             "en": "Henry Rebuschini",
             "pl": "Henryk Rebuschini"
         },
+        "records/patrons/heron/ale": {
+            "la": "Heron Alexandrinus",
+            "en": "Heron of Alexandria",
+            "pl": "Heron z Aleksandrii"
+        },
         "records/patrons/hieronymus/dal": {
             "la": "Hieronymus Stridonensis",
             "en": "Jerome of Stridon",

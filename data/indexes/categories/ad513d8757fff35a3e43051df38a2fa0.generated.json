@@ -1056,6 +1056,11 @@
             "la": "Henricus Morant Pellicer",
             "pl": "Henryk Morant Pellicer"
         },
+        "records/patrons/heron/ale": {
+            "la": "Heron Alexandrinus",
+            "en": "Heron of Alexandria",
+            "pl": "Heron z Aleksandrii"
+        },
         "records/patrons/hilarion/pro": {
             "la": "Hilarion; cum eo, Proclus",
             "en": "Hilarion; with him, Proclus",

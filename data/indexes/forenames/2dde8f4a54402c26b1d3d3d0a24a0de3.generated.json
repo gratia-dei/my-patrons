@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Heron",
+        "en": "Heron",
+        "pl": "Heron"
+    },
+    "translations": {
+        "la": [
+            "Heron"
+        ],
+        "en": [
+            "Heron"
+        ],
+        "pl": [
+            "Heron"
+        ]
+    },
+    "links": {
+        "records/patrons/heron/ale": {
+            "la": "Heron Alexandrinus",
+            "en": "Heron of Alexandria",
+            "pl": "Heron z Aleksandrii"
+        }
+    }
+}
