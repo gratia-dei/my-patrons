@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Merkuria"
+    },
+    "translations": {
+        "la": [
+            "Mercuria"
+        ],
+        "en": [
+            "Mercuria"
+        ],
+        "pl": [
+            "Merkuria"
+        ]
+    },
+    "links": {
+        "records/patrons/mercuria/ale": {
+            "la": "Mercuria Alexandrina",
+            "en": "Mercuria of Alexandria",
+            "pl": "Merkuria z Aleksandrii"
+        }
+    }
+}

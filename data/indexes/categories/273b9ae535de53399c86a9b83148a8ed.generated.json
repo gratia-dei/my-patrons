@@ -887,6 +887,11 @@
             "en": "Matilda of Ringelheim",
             "pl": "Matylda von Ringelheim"
         },
+        "records/patrons/mercuria/ale": {
+            "la": "Mercuria Alexandrina",
+            "en": "Mercuria of Alexandria",
+            "pl": "Merkuria z Aleksandrii"
+        },
         "records/patrons/monica/pic": {
             "fr": "Monique Pichery",
             "la": "Monica Pichery",

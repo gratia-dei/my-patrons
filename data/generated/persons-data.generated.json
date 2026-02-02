@@ -19930,6 +19930,35 @@
             }
         }
     },
+    "patrons/mercuria": {
+        "names": {
+            "la": "Mercuria",
+            "en": "Mercuria",
+            "pl": "Merkuria"
+        }
+    },
+    "patrons/mercuria/ale": {
+        "active": true,
+        "names": {
+            "la": "Mercuria Alexandrina",
+            "en": "Mercuria of Alexandria",
+            "pl": "Merkuria z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/mercuria": {
+                "active": true,
+                "names": {
+                    "la": "Mercuria",
+                    "en": "Mercuria",
+                    "pl": "Merkuria"
+                }
+            }
+        }
+    },
     "patrons/methodius": {
         "names": {
             "la": "Methodius",
