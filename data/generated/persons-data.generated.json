@@ -20487,6 +20487,28 @@
             }
         }
     },
+    "patrons/multa/ama": {
+        "active": true,
+        "names": {
+            "la": "Sociae Ammonariionis Alexandrinae",
+            "en": "The Female Companions of Ammonarion of Alexandria",
+            "pl": "Towarzyszki Amonarii z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/multa": {
+                "active": true,
+                "names": {
+                    "la": "Cum multis nominibus",
+                    "en": "With many names",
+                    "pl": "Z wieloma imionami"
+                }
+            }
+        }
+    },
     "patrons/multa/ang": {
         "active": true,
         "names": {

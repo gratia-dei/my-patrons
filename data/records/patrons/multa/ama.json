@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Sociae Ammonariionis Alexandrinae"
+        ],
+        "en": [
+            "The Female Companions of Ammonarion of Alexandria"
+        ],
+        "pl": [
+            "Towarzyszki Amonarii z Aleksandrii"
+        ]
+    },
+    "forenames": ["multa"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia", "femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["6:dec./12#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://en.wikipedia.org/wiki/Epimachus_of_Alexandria"
+    }
+}

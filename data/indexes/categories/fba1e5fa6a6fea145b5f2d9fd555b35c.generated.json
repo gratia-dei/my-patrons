@@ -913,6 +913,11 @@
             "en": "Monica of Tagasta",
             "pl": "Monika z Tagasty"
         },
+        "records/patrons/multa/ama": {
+            "la": "Sociae Ammonariionis Alexandrinae",
+            "en": "The Female Companions of Ammonarion of Alexandria",
+            "pl": "Towarzyszki Amonarii z Aleksandrii"
+        },
         "records/patrons/multa/sfa": {
             "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
             "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",

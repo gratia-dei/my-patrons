@@ -1835,6 +1835,11 @@
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
         },
+        "records/patrons/multa/ama": {
+            "la": "Sociae Ammonariionis Alexandrinae",
+            "en": "The Female Companions of Ammonarion of Alexandria",
+            "pl": "Towarzyszki Amonarii z Aleksandrii"
+        },
         "records/patrons/multa/bon": {
             "la": "Alii Socii Bonifatii Winfridi",
             "en": "Other Companions of Boniface Wynfreth",

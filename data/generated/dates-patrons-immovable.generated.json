@@ -12343,6 +12343,16 @@
                 "mr-1956": "12 XII: #5"
             }
         },
+        "records/patrons/multa/ama": {
+            "name": {
+                "la": "Sociae Ammonariionis Alexandrinae",
+                "en": "The Female Companions of Ammonarion of Alexandria",
+                "pl": "Towarzyszki Amonarii z Aleksandrii"
+            },
+            "sources": {
+                "mr-2004": "12 XII: #2"
+            }
+        },
         "records/patrons/spyridon/cyp": {
             "name": {
                 "el": "Σπυρίδων Τριμυθούντος",
