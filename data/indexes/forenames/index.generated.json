@@ -150,6 +150,9 @@
     "07a333b6900285368b7481ed2ae9a38f": {
         "el": "Θεοδώρος"
     },
+    "07e57886bebd68eefac3b02ea76bcf9a": {
+        "pl": "Arseniusz"
+    },
     "07f3ca235faaa1c9ad16facef5526d8b": {
         "la": "Mauritius"
     },
@@ -1334,6 +1337,10 @@
         "en": "Kwi-im",
         "pl": "Kwi-im"
     },
+    "438d18130eb5c4bcc5c87e80ba3dfb92": {
+        "la": "Ateus",
+        "en": "Ateus"
+    },
     "4399d88d89d552895c77910f31374763": {
         "pl": "Melaniusz"
     },
@@ -1847,6 +1854,9 @@
     },
     "5ff7ca568760a1bf9e8d01d0a3f0748d": {
         "la": "Emmanuel"
+    },
+    "603949bcfee672429ea282d7d71f4cad": {
+        "pl": "Ateusz"
     },
     "604c8dd5066ee30539037569a028dc9b": {
         "en": "William"
@@ -3941,6 +3951,10 @@
     },
     "c7e9b4a827fb2288387f6c1cfefc8f2d": {
         "la": "Clemens"
+    },
+    "c800c3ca496f1a235f4623012f90baed": {
+        "la": "Arsenius",
+        "en": "Arsenius"
     },
     "c807ebc2bf4b0043c1e3919586dad71f": {
         "la": "Wenceslaus",

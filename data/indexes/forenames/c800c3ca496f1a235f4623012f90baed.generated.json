@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Arsenius",
+        "en": "Arsenius"
+    },
+    "translations": {
+        "la": [
+            "Arsenius"
+        ],
+        "en": [
+            "Arsenius"
+        ],
+        "pl": [
+            "Arseniusz"
+        ]
+    },
+    "links": {
+        "records/patrons/ateus/ale": {
+            "la": "Ateus Alexandrinus",
+            "en": "Ateus of Alexandria",
+            "pl": "Ateusz z Aleksandrii"
+        }
+    }
+}

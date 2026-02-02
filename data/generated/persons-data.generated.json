@@ -3397,6 +3397,43 @@
             }
         }
     },
+    "patrons/ateus": {
+        "names": {
+            "la": "Ateus",
+            "en": "Ateus",
+            "pl": "Ateusz"
+        }
+    },
+    "patrons/ateus/ale": {
+        "active": true,
+        "names": {
+            "la": "Ateus Alexandrinus",
+            "en": "Ateus of Alexandria",
+            "pl": "Ateusz z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ateus": {
+                "active": true,
+                "names": {
+                    "la": "Ateus",
+                    "en": "Ateus",
+                    "pl": "Ateusz"
+                }
+            },
+            "forenames/arsenius": {
+                "active": true,
+                "names": {
+                    "la": "Arsenius",
+                    "en": "Arsenius",
+                    "pl": "Arseniusz"
+                }
+            }
+        }
+    },
     "patrons/atevulfus": {
         "names": {
             "la": "Atevulfus",
