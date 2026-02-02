@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "Nemezjusz"
+    },
+    "translations": {
+        "la": [
+            "Nemesius"
+        ],
+        "en": [
+            "Nemesius"
+        ],
+        "pl": [
+            "Nemezjusz"
+        ]
+    },
+    "links": {
+        "records/patrons/nemesius/ale": {
+            "la": "Nemesius Alexandrinus",
+            "en": "Nemesius of Alexandria",
+            "pl": "Nemezjusz z Aleksandrii"
+        }
+    }
+}

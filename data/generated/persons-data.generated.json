@@ -21338,6 +21338,36 @@
             }
         }
     },
+    "patrons/nemesius": {
+        "names": {
+            "la": "Nemesius",
+            "en": "Nemesius",
+            "pl": "Nemezjusz"
+        }
+    },
+    "patrons/nemesius/ale": {
+        "active": true,
+        "names": {
+            "la": "Nemesius Alexandrinus",
+            "en": "Nemesius of Alexandria",
+            "pl": "Nemezjusz z Aleksandrii"
+        },
+        "died": [
+            "~250",
+            "~251"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/nemesius": {
+                "active": true,
+                "names": {
+                    "la": "Nemesius",
+                    "en": "Nemesius",
+                    "pl": "Nemezjusz"
+                }
+            }
+        }
+    },
     "patrons/nicephorus": {
         "names": {
             "la": "Nicephorus",

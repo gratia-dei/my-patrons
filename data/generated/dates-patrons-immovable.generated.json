@@ -8472,6 +8472,16 @@
                 "reliable-death-anniversary": "10 IX",
                 "mr-2004": "10 IX: #12"
             }
+        },
+        "records/patrons/nemesius/ale": {
+            "name": {
+                "la": "Nemesius Alexandrinus",
+                "en": "Nemesius of Alexandria",
+                "pl": "Nemezjusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-2004": "10 IX: #1"
+            }
         }
     },
     "09-11": {
@@ -10913,6 +10923,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/nemesius/ale": {
+            "name": {
+                "la": "Nemesius Alexandrinus",
+                "en": "Nemesius of Alexandria",
+                "pl": "Nemezjusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12611,6 +12632,17 @@
                 "reliable-death-anniversary": "19 XII",
                 "mr-1956": "19 XII: #6",
                 "mr-2004": "19 XII: #1"
+            }
+        },
+        "records/patrons/nemesius/ale": {
+            "name": {
+                "la": "Nemesius Alexandrinus",
+                "en": "Nemesius of Alexandria",
+                "pl": "Nemezjusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "19 XII: #1",
+                "mr-1956": "19 XII: #2"
             }
         }
     },

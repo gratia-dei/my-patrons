@@ -1982,6 +1982,11 @@
             "en": "Natale Chabanel",
             "pl": "Natal Chabanel"
         },
+        "records/patrons/nemesius/ale": {
+            "la": "Nemesius Alexandrinus",
+            "en": "Nemesius of Alexandria",
+            "pl": "Nemezjusz z Aleksandrii"
+        },
         "records/patrons/nicephorus/cae": {
             "la": "Nicephorus Caesariensis",
             "en": "Nicephorus of Caesarea",
