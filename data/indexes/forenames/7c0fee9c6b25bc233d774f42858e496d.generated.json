@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Gordianus",
+        "en": "Gordianus"
+    },
+    "translations": {
+        "la": [
+            "Gordianus"
+        ],
+        "en": [
+            "Gordianus"
+        ],
+        "pl": [
+            "Gordian"
+        ]
+    },
+    "links": {
+        "records/patrons/gordianus/rom": {
+            "la": "Gordianus de Roma",
+            "en": "Gordianus of Rome",
+            "pl": "Gordian z Rzymu"
+        }
+    }
+}

@@ -10240,6 +10240,36 @@
             }
         }
     },
+    "patrons/gordianus": {
+        "names": {
+            "la": "Gordianus",
+            "en": "Gordianus",
+            "pl": "Gordian"
+        }
+    },
+    "patrons/gordianus/rom": {
+        "active": true,
+        "names": {
+            "la": "Gordianus de Roma",
+            "en": "Gordianus of Rome",
+            "pl": "Gordian z Rzymu"
+        },
+        "died": [
+            "~300",
+            "~360"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/gordianus": {
+                "active": true,
+                "names": {
+                    "la": "Gordianus",
+                    "en": "Gordianus",
+                    "pl": "Gordian"
+                }
+            }
+        }
+    },
     "patrons/gregorius": {
         "names": {
             "la": "Gregorius",

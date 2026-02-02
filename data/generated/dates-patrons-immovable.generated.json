@@ -4085,6 +4085,18 @@
                 "mr-2004": "10 V: #14"
             }
         },
+        "records/patrons/gordianus/rom": {
+            "name": {
+                "la": "Gordianus de Roma",
+                "en": "Gordianus of Rome",
+                "pl": "Gordian z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "10 V: #1",
+                "mr-1956": "10 V: #2",
+                "mr-2004": "10 V: #4"
+            }
+        },
         "records/patrons/epimachus/ale": {
             "name": {
                 "la": "Epimachus Alexandrinus",

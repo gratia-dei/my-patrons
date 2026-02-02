@@ -2348,6 +2348,10 @@
         "la": "Hosanna",
         "pl": "Hosanna"
     },
+    "7c0fee9c6b25bc233d774f42858e496d": {
+        "la": "Gordianus",
+        "en": "Gordianus"
+    },
     "7c1a4930e7626a911043374828a73610": {
         "la": "Iarognievus",
         "en": "Iarognievus"
@@ -4744,6 +4748,9 @@
     },
     "f330121641c728b6b19980952d943232": {
         "en": "Cereal"
+    },
+    "f335053e407ae2ac533d644f6d466c86": {
+        "pl": "Gordian"
     },
     "f34c0c17378bda2d42956f7fe5f500f9": {
         "la": "Exsuperius"
