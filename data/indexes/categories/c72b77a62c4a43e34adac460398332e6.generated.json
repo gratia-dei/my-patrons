@@ -2143,6 +2143,11 @@
             "la": "Isaias",
             "pl": "Izajasz"
         },
+        "records/patrons/isidorus/ale": {
+            "la": "Isidorus Alexandrinus",
+            "en": "Isidore of Alexandria",
+            "pl": "Izydor z Aleksandrii"
+        },
         "records/patrons/isidorus/his": {
             "la": "Isidorus Hispalensis",
             "en": "Isidore of Seville",

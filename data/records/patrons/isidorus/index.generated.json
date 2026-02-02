@@ -1,4 +1,9 @@
 {
+    "ale": {
+        "la": "Isidorus Alexandrinus",
+        "en": "Isidore of Alexandria",
+        "pl": "Izydor z Aleksandrii"
+    },
     "his": {
         "la": "Isidorus Hispalensis",
         "en": "Isidore of Seville",

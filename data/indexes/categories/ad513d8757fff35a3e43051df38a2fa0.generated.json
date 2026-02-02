@@ -1384,6 +1384,11 @@
             "la": "Isaias",
             "pl": "Izajasz"
         },
+        "records/patrons/isidorus/ale": {
+            "la": "Isidorus Alexandrinus",
+            "en": "Isidore of Alexandria",
+            "pl": "Izydor z Aleksandrii"
+        },
         "records/patrons/iudas/tha": {
             "la": "Iudas Thaddaeus",
             "en": "Judas Thaddaeus",

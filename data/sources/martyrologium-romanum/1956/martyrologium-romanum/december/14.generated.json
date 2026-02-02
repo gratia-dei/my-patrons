@@ -2,7 +2,8 @@
     "data-links": {
         "3": {
             "1": "records/patrons/heron/ale",
-            "2": "records/patrons/ateus/ale"
+            "2": "records/patrons/ateus/ale",
+            "3": "records/patrons/isidorus/ale"
         },
         "1": {
             "1": "records/patrons/ioannes/cru"

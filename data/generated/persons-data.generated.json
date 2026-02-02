@@ -14876,6 +14876,28 @@
             "pl": "Izydor"
         }
     },
+    "patrons/isidorus/ale": {
+        "active": true,
+        "names": {
+            "la": "Isidorus Alexandrinus",
+            "en": "Isidore of Alexandria",
+            "pl": "Izydor z Aleksandrii"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/isidorus": {
+                "active": true,
+                "names": {
+                    "la": "Isidorus",
+                    "en": "Isidore",
+                    "pl": "Izydor"
+                }
+            }
+        }
+    },
     "patrons/isidorus/his": {
         "active": false,
         "names": {

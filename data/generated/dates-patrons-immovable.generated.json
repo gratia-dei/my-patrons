@@ -10891,6 +10891,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/isidorus/ale": {
+            "name": {
+                "la": "Isidorus Alexandrinus",
+                "en": "Isidore of Alexandria",
+                "pl": "Izydor z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12444,6 +12455,18 @@
                 "la": "Ateus Alexandrinus",
                 "en": "Ateus of Alexandria",
                 "pl": "Ateusz z Aleksandrii"
+            },
+            "sources": {
+                "mr-1584": "14 XII: #1",
+                "mr-1956": "14 XII: #3",
+                "mr-2004": "14 XII: #2"
+            }
+        },
+        "records/patrons/isidorus/ale": {
+            "name": {
+                "la": "Isidorus Alexandrinus",
+                "en": "Isidore of Alexandria",
+                "pl": "Izydor z Aleksandrii"
             },
             "sources": {
                 "mr-1584": "14 XII: #1",
