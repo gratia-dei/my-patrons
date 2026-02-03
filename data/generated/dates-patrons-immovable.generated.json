@@ -13082,6 +13082,19 @@
                 "mr-1956": "28 XII: #2",
                 "mr-2004": "28 XII: #5"
             }
+        },
+        "records/patrons/gaspar/buf": {
+            "name": {
+                "it": "Gaspare del Bufalo",
+                "la": "Gaspar del Bufalo",
+                "en": "Gaspar del Bufalo",
+                "pl": "Kasper del Bufalo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 XII",
+                "feast": "28 XII",
+                "mr-2004": "28 XII: #6"
+            }
         }
     },
     "12-29": {
