@@ -6866,6 +6866,18 @@
                 "reliable-death-anniversary": "31 VII"
             }
         },
+        "records/patrons/franciscus/str": {
+            "name": {
+                "pl": "Franciszek Stryjas",
+                "la": "Franciscus Stryjas",
+                "en": "Francis Stryjas"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 VII",
+                "feast": "31 VII",
+                "mr-2004": "31 VII: #17"
+            }
+        },
         "records/patrons/ignatius/loy": {
             "name": {
                 "es": "Ignacio de Loyola",

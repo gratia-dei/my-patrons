@@ -9501,11 +9501,11 @@
         }
     },
     "patrons/franciscus/str": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Franciszek Stryjas",
-            "en": "Francis Stryjas",
-            "la": "Franciscus Stryjas"
+            "la": "Franciscus Stryjas",
+            "en": "Francis Stryjas"
         },
         "died": [
             "1944-07-31"

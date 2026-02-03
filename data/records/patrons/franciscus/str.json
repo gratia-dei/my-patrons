@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Franciszek Stryjas"
+    "names": {
+        "pl": [
+            "Franciszek Stryjas"
+        ],
+        "la": [
+            "Franciscus Stryjas"
+        ],
+        "en": [
+            "Francis Stryjas"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "pl": "Stryjas"
+        }
     ],
-    "en": [
-      "Francis Stryjas"
-    ],
-    "la": [
-      "Franciscus Stryjas"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Stryjas"
+    "active": true,
+
+    "born": ["1882-01-26"],
+    "died": ["1944-07-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["07-31"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./31#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67816",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Stryjas"
     }
-  ],
-
-  "born": ["1882-01-26"],
-  "died": ["1944-07-31"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["07-31"],
-
-  "forenames": ["franciscus"],
-  "categories": ["vir", "martyr"]
 }
