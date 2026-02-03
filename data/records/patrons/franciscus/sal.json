@@ -1,42 +1,72 @@
 {
-  "names": {
-    "fr": [
-      "François de Sales"
+    "names": {
+        "fr": [
+            "François de Sales"
+        ],
+        "la": [
+            "Franciscus de Sales"
+        ],
+        "en": [
+            "Francis de Sales",
+            "Francis of Sales"
+        ],
+        "pl": [
+            "Franciszek Salezy"
+        ]
+    },
+    "forenames": ["franciscus"],
+    "surnames": [
+        {
+            "fr": "de Sales"
+        }
     ],
-    "en": [
-      "Francis de Sales",
-      "Francis of Sales"
-    ],
-    "la": [
-      "Franciscus de Sales"
-    ],
-    "pl": [
-      "Franciszek Salezy"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "de Sales"
+    "active": true,
+
+    "born": ["1567-08-21"],
+    "died": ["1622-12-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1662-01-08"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1665-04-19"
+    },
+    "anniversary": ["01-24"],
+
+    "categories": ["vir", "confessor", "episcopus", "institutor", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/28#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./24#1", "1:dec./28#5"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tfs": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Januarii/29#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/francesco-di-sales.html",
+        "gcatholic": "https://gcatholic.org/p/20885",
+        "wiki": "https://pl.wikipedia.org/wiki/Franciszek_Salezy"
     }
-  ],
-
-  "born": ["1567-08-21"],
-  "died": ["1622-12-28"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1661-01-08"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1665-04-08"
-  },
-
-  "also-in-martyrology": ["01-24", "12-28"],
-
-  "forenames": ["franciscus"],
-  "categories": ["vir", "confessor", "episcopus", "institutor", "doctor-ecclesiae"],
-
-  "order-founder": ["vsm"]
 }

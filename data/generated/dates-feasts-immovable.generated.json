@@ -137,6 +137,17 @@
             }
         }
     },
+    "01-29": {
+        "records/patrons/franciscus/sal#tfs": {
+            "name": {
+                "la": "Franciscus de Sales (Translatio corporis sancti Francisci Salesii)",
+                "pl": "Franciszek Salezy (Przeniesienie ciała świętego Franciszka Salezego)"
+            },
+            "sources": {
+                "mr-1956": "29 I: #1"
+            }
+        }
+    },
     "01-31": {
         "records/patrons/marcus/eva#tme": {
             "name": {

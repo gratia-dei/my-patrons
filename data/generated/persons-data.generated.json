@@ -9466,17 +9466,25 @@
         }
     },
     "patrons/franciscus/sal": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "François de Sales",
-            "en": "Francis de Sales",
             "la": "Franciscus de Sales",
+            "en": "Francis de Sales",
             "pl": "Franciszek Salezy"
         },
         "died": [
             "1622-12-28"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/tfs": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sancti Francisci Salesii",
+                    "pl": "Przeniesienie ciała świętego Franciszka Salezego"
+                }
+            }
+        },
         "forenames": {
             "forenames/franciscus": {
                 "active": true,
