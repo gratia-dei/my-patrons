@@ -8934,11 +8934,11 @@
         }
     },
     "patrons/fidelis/sig": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Fidelis von Sigmaringen",
-            "en": "Fidelis of Sigmaringen",
             "la": "Fidelis de Sigmaringa",
+            "en": "Fidelis of Sigmaringen",
             "pl": "Fidelis z Sigmaringen"
         },
         "died": [

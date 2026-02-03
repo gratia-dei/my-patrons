@@ -896,8 +896,8 @@
         },
         "records/patrons/fidelis/sig": {
             "de": "Fidelis von Sigmaringen",
-            "en": "Fidelis of Sigmaringen",
             "la": "Fidelis de Sigmaringa",
+            "en": "Fidelis of Sigmaringen",
             "pl": "Fidelis z Sigmaringen"
         },
         "records/patrons/fides/rom": {

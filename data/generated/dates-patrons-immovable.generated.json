@@ -3576,6 +3576,20 @@
         }
     },
     "04-24": {
+        "records/patrons/fidelis/sig": {
+            "name": {
+                "de": "Fidelis von Sigmaringen",
+                "la": "Fidelis de Sigmaringa",
+                "en": "Fidelis of Sigmaringen",
+                "pl": "Fidelis z Sigmaringen"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 IV",
+                "feast": "24 IV",
+                "mr-1956": "24 IV: #1",
+                "mr-2004": "24 IV: #1"
+            }
+        },
         "records/patrons/wilfridus/ebo": {
             "name": {
                 "en": "Wilfrid of York",
