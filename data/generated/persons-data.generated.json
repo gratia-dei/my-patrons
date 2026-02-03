@@ -9386,11 +9386,11 @@
         }
     },
     "patrons/franciscus/pau": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Francesco da Paola",
-            "en": "Francis of Paola",
             "la": "Franciscus de Paula",
+            "en": "Francis of Paola",
             "pl": "Franciszek z Paoli"
         },
         "died": [
