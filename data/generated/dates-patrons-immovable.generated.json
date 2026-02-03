@@ -37,6 +37,18 @@
                 "feast": "1 I",
                 "mr-2004": "1 I: #17"
             }
+        },
+        "records/patrons/fulgentius/rus": {
+            "name": {
+                "la": "Fulgentius Ruspensis",
+                "en": "Fulgentius of Ruspe",
+                "pl": "Fulgencjusz z Ruspe"
+            },
+            "sources": {
+                "mr-1584": "1 I: #8",
+                "mr-1956": "1 I: #9",
+                "mr-2004": "1 I: #6"
+            }
         }
     },
     "01-02": {

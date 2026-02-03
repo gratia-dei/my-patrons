@@ -9615,14 +9615,14 @@
         }
     },
     "patrons/fulgentius/rus": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Fulgentius Ruspensis",
             "en": "Fulgentius of Ruspe",
             "pl": "Fulgencjusz z Ruspe"
         },
         "died": [
-            "~533-01-01"
+            "~533"
         ],
         "feasts": [],
         "forenames": {
