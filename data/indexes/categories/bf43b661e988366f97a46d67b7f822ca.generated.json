@@ -171,6 +171,11 @@
             "en": "Cassian of Autun",
             "pl": "Kasjan z Autun"
         },
+        "records/patrons/chaeremon/nil": {
+            "la": "Chaeremon Nilopolitanus",
+            "en": "Chaeremon of Nilopolis",
+            "pl": "Chajremon z Nilopolis"
+        },
         "records/patrons/clemens/aga": {
             "la": "Clemens Ancyranus",
             "en": "Clement of Ancyra",

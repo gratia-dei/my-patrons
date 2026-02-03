@@ -1,0 +1,25 @@
+{
+    "names": {
+        "pl": "Chajremon"
+    },
+    "translations": {
+        "la": [
+            "Chaeremon"
+        ],
+        "en": [
+            "Chaeremon",
+            "Cheremon"
+        ],
+        "pl": [
+            "Chajremon",
+            "Cheremon"
+        ]
+    },
+    "links": {
+        "records/patrons/chaeremon/nil": {
+            "la": "Chaeremon Nilopolitanus",
+            "en": "Chaeremon of Nilopolis",
+            "pl": "Chajremon z Nilopolis"
+        }
+    }
+}

@@ -529,6 +529,11 @@
             "la": "Ceslaus Jóźwiak",
             "en": "Czesław Jóźwiak"
         },
+        "records/patrons/chaeremon/nil": {
+            "la": "Chaeremon Nilopolitanus",
+            "en": "Chaeremon of Nilopolis",
+            "pl": "Chajremon z Nilopolis"
+        },
         "records/patrons/christina/per": {
             "fa": "کریستینای ایرانی",
             "la": "Christina Persica",
@@ -1849,6 +1854,11 @@
             "la": "Monachi Abrahamitae",
             "en": "Abrahamic Monks",
             "pl": "Mnisi Abrahamici"
+        },
+        "records/patrons/multa/aeg": {
+            "la": "Plurimi Martyres in Aegypto",
+            "en": "Very many Martyrs in Egypt",
+            "pl": "Bardzo liczni Męczennicy w Egipcie"
         },
         "records/patrons/multa/ama": {
             "la": "Sociae Ammonariionis Alexandrinae",

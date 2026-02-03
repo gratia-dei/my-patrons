@@ -5864,6 +5864,35 @@
             }
         }
     },
+    "patrons/chaeremon": {
+        "names": {
+            "la": "Chaeremon",
+            "en": "Chaeremon",
+            "pl": "Chajremon"
+        }
+    },
+    "patrons/chaeremon/nil": {
+        "active": true,
+        "names": {
+            "la": "Chaeremon Nilopolitanus",
+            "en": "Chaeremon of Nilopolis",
+            "pl": "Chajremon z Nilopolis"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/chaeremon": {
+                "active": true,
+                "names": {
+                    "la": "Chaeremon",
+                    "en": "Chaeremon",
+                    "pl": "Chajremon"
+                }
+            }
+        }
+    },
     "patrons/christina": {
         "names": {
             "la": "Christina",
@@ -20591,6 +20620,28 @@
         },
         "died": [
             "~835"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/multa": {
+                "active": true,
+                "names": {
+                    "la": "Cum multis nominibus",
+                    "en": "With many names",
+                    "pl": "Z wieloma imionami"
+                }
+            }
+        }
+    },
+    "patrons/multa/aeg": {
+        "active": true,
+        "names": {
+            "la": "Plurimi Martyres in Aegypto",
+            "en": "Very many Martyrs in Egypt",
+            "pl": "Bardzo liczni Męczennicy w Egipcie"
+        },
+        "died": [
+            "~250"
         ],
         "feasts": [],
         "forenames": {

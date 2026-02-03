@@ -10934,6 +10934,17 @@
                 "mr-1956": "30 X: #6"
             }
         },
+        "records/patrons/chaeremon/nil": {
+            "name": {
+                "la": "Chaeremon Nilopolitanus",
+                "en": "Chaeremon of Nilopolis",
+                "pl": "Chajremon z Nilopolis"
+            },
+            "sources": {
+                "mr-1584": "30 X: #3",
+                "mr-1956": "30 X: #6"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -12699,6 +12710,30 @@
         }
     },
     "12-22": {
+        "records/patrons/chaeremon/nil": {
+            "name": {
+                "la": "Chaeremon Nilopolitanus",
+                "en": "Chaeremon of Nilopolis",
+                "pl": "Chajremon z Nilopolis"
+            },
+            "sources": {
+                "mr-1584": "22 XII: #5",
+                "mr-1956": "22 XII: #3",
+                "mr-2004": "22 XII: #1"
+            }
+        },
+        "records/patrons/multa/aeg": {
+            "name": {
+                "la": "Plurimi Martyres in Aegypto",
+                "en": "Very many Martyrs in Egypt",
+                "pl": "Bardzo liczni Męczennicy w Egipcie"
+            },
+            "sources": {
+                "mr-1584": "22 XII: #5",
+                "mr-1956": "22 XII: #3",
+                "mr-2004": "22 XII: #1"
+            }
+        },
         "records/patrons/thomas/hol": {
             "name": {
                 "en": "Thomas Holland",

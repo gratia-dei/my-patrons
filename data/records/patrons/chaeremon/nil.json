@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Chaeremon Nilopolitanus"
+        ],
+        "en": [
+            "Chaeremon of Nilopolis"
+        ],
+        "pl": [
+            "Chajremon z Nilopolis"
+        ]
+    },
+    "forenames": ["chaeremon"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["15:Oct./30#3", "1:Dec./22#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["12:Octobris/30#6", "1:Decembris/22#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./22#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71300",
+        "wiki": "https://fr.wikipedia.org/wiki/Ch%C3%A9r%C3%A9mon_de_Nilopolis"
+    }
+}
