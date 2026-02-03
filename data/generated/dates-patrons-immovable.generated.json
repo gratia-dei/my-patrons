@@ -3969,6 +3969,18 @@
                 "feast": "4 V"
             }
         },
+        "records/patrons/florianus/lau": {
+            "name": {
+                "la": "Florianus Lauriacensis",
+                "en": "Florian of Lauriacum",
+                "pl": "Florian z Lauriacum"
+            },
+            "sources": {
+                "mr-1584": "4 V: #7",
+                "mr-1956": "4 V: #6",
+                "mr-2004": "4 V: #3"
+            }
+        },
         "records/patrons/monica/vid": {
             "name": {
                 "la": "Monica Thagastensis",

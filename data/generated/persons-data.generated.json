@@ -9041,14 +9041,14 @@
         }
     },
     "patrons/florianus/lau": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Florianus Lauriacensis",
             "en": "Florian of Lauriacum",
             "pl": "Florian z Lauriacum"
         },
         "died": [
-            "304-05-04"
+            "304"
         ],
         "feasts": [],
         "forenames": {
