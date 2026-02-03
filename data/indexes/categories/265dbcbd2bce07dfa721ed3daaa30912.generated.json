@@ -1389,6 +1389,11 @@
             "la": "Isaias",
             "pl": "Izajasz"
         },
+        "records/patrons/ischyrion/aeg": {
+            "la": "Ischyrion de Aegypto",
+            "en": "Ischyrion of Egypt",
+            "pl": "Ischyrion z Egiptu"
+        },
         "records/patrons/isidorus/ale": {
             "la": "Isidorus Alexandrinus",
             "en": "Isidore of Alexandria",

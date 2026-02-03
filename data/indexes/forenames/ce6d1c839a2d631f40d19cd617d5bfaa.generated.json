@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Ischyrion",
+        "en": "Ischyrion",
+        "pl": "Ischyrion"
+    },
+    "translations": {
+        "la": [
+            "Ischyrion"
+        ],
+        "en": [
+            "Ischyrion"
+        ],
+        "pl": [
+            "Ischyrion"
+        ]
+    },
+    "links": {
+        "records/patrons/ischyrion/aeg": {
+            "la": "Ischyrion de Aegypto",
+            "en": "Ischyrion of Egypt",
+            "pl": "Ischyrion z Egiptu"
+        }
+    }
+}

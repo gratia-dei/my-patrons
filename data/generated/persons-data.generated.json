@@ -14927,6 +14927,35 @@
             }
         }
     },
+    "patrons/ischyrion": {
+        "names": {
+            "la": "Ischyrion",
+            "en": "Ischyrion",
+            "pl": "Ischyrion"
+        }
+    },
+    "patrons/ischyrion/aeg": {
+        "active": true,
+        "names": {
+            "la": "Ischyrion de Aegypto",
+            "en": "Ischyrion of Egypt",
+            "pl": "Ischyrion z Egiptu"
+        },
+        "died": [
+            "~250"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ischyrion": {
+                "active": true,
+                "names": {
+                    "la": "Ischyrion",
+                    "en": "Ischyrion",
+                    "pl": "Ischyrion"
+                }
+            }
+        }
+    },
     "patrons/isidorus": {
         "names": {
             "la": "Isidorus",

@@ -1,0 +1,46 @@
+{
+    "names": {
+        "la": [
+            "Ischyrion de Aegypto",
+            "Ischyrion Alexandrinus"
+        ],
+        "en": [
+            "Ischyrion of Egypt",
+            "Ischyrion of Alexandria"
+        ],
+        "pl": [
+            "Ischyrion z Egiptu",
+            "Ischyrion z Aleksandrii"
+        ]
+    },
+    "forenames": ["ischyrion"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["16:Oct./30#3", "1:Dec./22#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["13:Octobris/30#6", "1:Decembris/22#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./22#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73093",
+        "wiki": "https://en.wikipedia.org/wiki/Saint_Ischyrion"
+    }
+}
