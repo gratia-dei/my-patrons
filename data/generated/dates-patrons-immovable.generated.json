@@ -11313,6 +11313,19 @@
         }
     },
     "11-05": {
+        "records/patrons/guido/con": {
+            "name": {
+                "it": "Guido Maria Conforti",
+                "la": "Guido Maria Conforti",
+                "en": "Guido Maria Conforti",
+                "pl": "Gwidon Maria Conforti"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 XI",
+                "feast": "5 XI",
+                "mr-2004": "5 XI: #10"
+            }
+        },
         "records/patrons/gregorius/lak": {
             "name": {
                 "uk": "Григорій Лакота",

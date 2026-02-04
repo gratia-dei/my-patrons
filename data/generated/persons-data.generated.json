@@ -10724,11 +10724,11 @@
         }
     },
     "patrons/guido/con": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Guido Maria Conforti",
-            "en": "Guido Maria Conforti",
             "la": "Guido Maria Conforti",
+            "en": "Guido Maria Conforti",
             "pl": "Gwidon Maria Conforti"
         },
         "died": [
