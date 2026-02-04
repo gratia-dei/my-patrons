@@ -1,24 +1,46 @@
 {
-  "names": {
-    "fr": [
-      "Guiraud de Béziers"
-    ],
-    "en": [
-      "Gerald of Béziers"
-    ],
-    "la": [
-      "Geraldus Biterrensis"
-    ],
-    "pl": [
-      "Gerald z Béziers"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Guiraud de Béziers"
+        ],
+        "la": [
+            "Geraldus Biterrensis"
+        ],
+        "en": [
+            "Gerald of Béziers"
+        ],
+        "pl": [
+            "Gerald z Béziers"
+        ]
+    },
+    "forenames": ["geraldus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1070"],
-  "died": ["1123-11-05"],
+    "active": true,
 
-  "also-in-martyrology": ["11-05"],
+    "born": ["~1070"],
+    "died": ["1123"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["geraldus"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./5#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/48232",
+        "wiki": "https://pl.wikipedia.org/wiki/Gerald_z_B%C3%A9ziers"
+    }
 }

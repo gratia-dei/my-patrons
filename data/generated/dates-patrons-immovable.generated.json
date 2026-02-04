@@ -11339,6 +11339,17 @@
             "sources": {
                 "mr-2004": "5 XI: #2"
             }
+        },
+        "records/patrons/geraldus/bit": {
+            "name": {
+                "fr": "Guiraud de Béziers",
+                "la": "Geraldus Biterrensis",
+                "en": "Gerald of Béziers",
+                "pl": "Gerald z Béziers"
+            },
+            "sources": {
+                "mr-2004": "5 XI: #7"
+            }
         }
     },
     "11-06": {

@@ -10101,15 +10101,15 @@
         }
     },
     "patrons/geraldus/bit": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Guiraud de Béziers",
-            "en": "Gerald of Béziers",
             "la": "Geraldus Biterrensis",
+            "en": "Gerald of Béziers",
             "pl": "Gerald z Béziers"
         },
         "died": [
-            "1123-11-05"
+            "1123"
         ],
         "feasts": [],
         "forenames": {
