@@ -1,26 +1,47 @@
 {
-  "names": {
-    "fr": [
-      "Geneviève de Paris"
-    ],
-    "en": [
-      "Genovefa of Paris",
-      "Genevieve"
-    ],
-    "la": [
-      "Genovefa Nemptodurensis",
-      "Genovefa Parisiensis"
-    ],
-    "pl": [
-      "Genowefa z Paryża"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Geneviève de Paris"
+        ],
+        "la": [
+            "Genovefa Nemptodurensis",
+            "Genovefa Parisiensis"
+        ],
+        "en": [
+            "Genovefa of Paris"
+        ],
+        "pl": [
+            "Genowefa z Paryża"
+        ]
+    },
+    "forenames": ["genovefa"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~422"],
-  "died": ["~500"],
+    "active": true,
 
-  "also-in-martyrology": ["01-03"],
+    "born": [">419", "<422"],
+    "died": [">500", "<512"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["genovefa"],
-  "categories": ["femina", "virgo"]
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./3#9"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/3#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./3#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69689",
+        "wiki": "https://pl.wikipedia.org/wiki/Genowefa_z_Pary%C5%BCa"
+    }
 }

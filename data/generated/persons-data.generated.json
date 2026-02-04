@@ -9962,15 +9962,16 @@
         }
     },
     "patrons/genovefa/nem": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Geneviève de Paris",
-            "en": "Genovefa of Paris",
             "la": "Genovefa Nemptodurensis",
+            "en": "Genovefa of Paris",
             "pl": "Genowefa z Paryża"
         },
         "died": [
-            "~500"
+            ">500",
+            "<512"
         ],
         "feasts": [],
         "forenames": {

@@ -102,6 +102,19 @@
         }
     },
     "01-03": {
+        "records/patrons/genovefa/nem": {
+            "name": {
+                "fr": "Geneviève de Paris",
+                "la": "Genovefa Nemptodurensis",
+                "en": "Genovefa of Paris",
+                "pl": "Genowefa z Paryża"
+            },
+            "sources": {
+                "mr-1584": "3 I: #9",
+                "mr-1956": "3 I: #10",
+                "mr-2004": "3 I: #8"
+            }
+        },
         "records/patrons/lucianus/leo": {
             "name": {
                 "it": "Luciano di Lentini",
