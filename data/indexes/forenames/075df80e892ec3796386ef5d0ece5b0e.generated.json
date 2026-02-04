@@ -5,7 +5,8 @@
     },
     "translations": {
         "la": [
-            "Gunthramnus"
+            "Gunthramnus",
+            "Guntramnus"
         ],
         "en": [
             "Guntram"
@@ -19,10 +20,10 @@
     },
     "links": {
         "records/patrons/gunthramnus/rex": {
-            "fr": "Gontran",
-            "en": "Guntram",
-            "la": "Gunthramnus",
-            "pl": "Guntram"
+            "fr": "Gontran, roi des Francs",
+            "la": "Gunthramnus, rex Francorum",
+            "en": "Guntram, Frankish king",
+            "pl": "Guntram, król Franków"
         }
     }
 }

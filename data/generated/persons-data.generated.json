@@ -10856,12 +10856,12 @@
         }
     },
     "patrons/gunthramnus/rex": {
-        "active": false,
+        "active": true,
         "names": {
-            "fr": "Gontran",
-            "en": "Guntram",
-            "la": "Gunthramnus",
-            "pl": "Guntram"
+            "fr": "Gontran, roi des Francs",
+            "la": "Gunthramnus, rex Francorum",
+            "en": "Guntram, Frankish king",
+            "pl": "Guntram, król Franków"
         },
         "died": [
             "592-03-28"

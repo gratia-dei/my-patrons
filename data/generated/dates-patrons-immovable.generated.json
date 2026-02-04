@@ -2970,6 +2970,20 @@
         }
     },
     "03-28": {
+        "records/patrons/gunthramnus/rex": {
+            "name": {
+                "fr": "Gontran, roi des Francs",
+                "la": "Gunthramnus, rex Francorum",
+                "en": "Guntram, Frankish king",
+                "pl": "Guntram, król Franków"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 III",
+                "mr-1584": "28 III: #7",
+                "mr-1956": "28 III: #6",
+                "mr-2004": "28 III: #5"
+            }
+        },
         "records/patrons/ioannes/cap": {
             "name": {
                 "it": "Giovanni da Capestrano",
