@@ -1,24 +1,46 @@
 {
-  "names": {
-    "nl": [
-      "Gertrudis van Nijvel"
-    ],
-    "en": [
-      "Gertrude of Nivelles"
-    ],
-    "la": [
-      "Gertrudis Nivigellensis"
-    ],
-    "pl": [
-      "Gertruda z Nivelles"
-    ]
-  },
+    "names": {
+        "nl": [
+            "Gertrudis van Nijvel"
+        ],
+        "la": [
+            "Gertrudis Nivigellensis"
+        ],
+        "en": [
+            "Gertrude of Nivelles"
+        ],
+        "pl": [
+            "Gertruda z Nivelles"
+        ]
+    },
+    "forenames": ["gertrudis"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~626"],
-  "died": ["659-03-17"],
+    "active": true,
 
-  "also-in-martyrology": ["03-17"],
+    "born": ["~626"],
+    "died": ["659-03-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["gertrudis"],
-  "categories": ["femina", "virgo", "abbas"]
+    "categories": ["femina", "virgo", "abbas"],
+
+    "data-links": {
+        "mr-1584": ["1:Mart./17#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/17#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./17#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70281",
+        "wiki": "https://pl.wikipedia.org/wiki/Gertruda_z_Nivelles"
+    }
 }

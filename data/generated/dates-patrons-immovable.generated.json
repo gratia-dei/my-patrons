@@ -2487,6 +2487,20 @@
                 "mr-2004": "17 III: #8"
             }
         },
+        "records/patrons/gertrudis/niv": {
+            "name": {
+                "nl": "Gertrudis van Nijvel",
+                "la": "Gertrudis Nivigellensis",
+                "en": "Gertrude of Nivelles",
+                "pl": "Gertruda z Nivelles"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 III",
+                "mr-1584": "17 III: #7",
+                "mr-1956": "17 III: #7",
+                "mr-2004": "17 III: #4"
+            }
+        },
         "records/patrons/ioseph/ari": {
             "name": {
                 "la": "Ioseph de Arimathaea",
