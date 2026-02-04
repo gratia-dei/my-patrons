@@ -1,32 +1,51 @@
 {
-  "names": {
-    "la": [
-      "Gregorius III"
+    "names": {
+        "la": [
+            "Gregorius III"
+        ],
+        "en": [
+            "Gregory III"
+        ],
+        "pl": [
+            "Grzegorz III"
+        ]
+    },
+    "forenames": ["gregorius"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Tertius",
+            "en": "the Third",
+            "pl": "Trzeci"
+        }
     ],
-    "en": [
-      "Gregory III"
-    ],
-    "pl": [
-      "Grzegorz III"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Tertius",
-      "en": "the Third",
-      "pl": "Trzeci"
+    "active": true,
+
+    "born": null,
+    "died": ["741-11-28"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "papa"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./28#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/10#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./10#4"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#90"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/G03",
+        "wiki": "https://pl.wikipedia.org/wiki/Grzegorz_III_(papie%C5%BC)"
     }
-  ],
-
-  "died": ["741-11-28"],
-
-  "also-in-martyrology": ["12-10"],
-
-  "forenames": ["gregorius"],
-  "categories": ["vir", "papa"],
-
-  "data-links": {
-    "popes": ["1:#90"]
-  }
 }

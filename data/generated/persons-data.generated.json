@@ -10551,7 +10551,7 @@
         }
     },
     "patrons/gregorius/3pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Gregorius III",
             "en": "Gregory III",

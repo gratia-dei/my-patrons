@@ -12135,6 +12135,17 @@
                 "reliable-death-anniversary": "28 XI",
                 "mr-2004": "28 XI: #9"
             }
+        },
+        "records/patrons/gregorius/3pp": {
+            "name": {
+                "la": "Gregorius III",
+                "en": "Gregory III",
+                "pl": "Grzegorz III"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 XI",
+                "mr-1584": "28 XI: #5"
+            }
         }
     },
     "11-29": {
@@ -12474,6 +12485,17 @@
                 "mr-1584": "10 XII: #3",
                 "mr-1956": "10 XII: #7",
                 "mr-2004": "10 XII: #1"
+            }
+        },
+        "records/patrons/gregorius/3pp": {
+            "name": {
+                "la": "Gregorius III",
+                "en": "Gregory III",
+                "pl": "Grzegorz III"
+            },
+            "sources": {
+                "mr-1956": "10 XII: #9",
+                "mr-2004": "10 XII: #4"
             }
         },
         "records/patrons/augustinus/gar": {
