@@ -1470,6 +1470,19 @@
         }
     },
     "02-18": {
+        "records/patrons/georgius/kas": {
+            "name": {
+                "pl": "Jerzy Kaszyra",
+                "be": "Юрый Кашыра",
+                "la": "Georgius Kaszyra",
+                "en": "George Kashyra"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 II",
+                "feast": "18 II",
+                "mr-2004": "18 II: #12"
+            }
+        },
         "records/patrons/gertrudis/com": {
             "name": {
                 "it": "Geltrude Comensoli",

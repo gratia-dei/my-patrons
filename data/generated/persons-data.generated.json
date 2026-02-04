@@ -9991,6 +9991,7 @@
             "la": "Georgius",
             "en": "George",
             "pl": "Jerzy",
+            "be": "Юрый",
             "uk": "Юрій"
         }
     },
@@ -10012,18 +10013,19 @@
                     "la": "Georgius",
                     "en": "George",
                     "pl": "Jerzy",
+                    "be": "Юрый",
                     "uk": "Юрій"
                 }
             }
         }
     },
     "patrons/georgius/kas": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jerzy Kaszyra",
             "be": "Юрый Кашыра",
-            "en": "Jury Kashyra",
-            "la": "Georgius Kaszyra"
+            "la": "Georgius Kaszyra",
+            "en": "George Kashyra"
         },
         "died": [
             "1943-02-18"
@@ -10036,6 +10038,7 @@
                     "la": "Georgius",
                     "en": "George",
                     "pl": "Jerzy",
+                    "be": "Юрый",
                     "uk": "Юрій"
                 }
             }
@@ -10059,6 +10062,7 @@
                     "la": "Georgius",
                     "en": "George",
                     "pl": "Jerzy",
+                    "be": "Юрый",
                     "uk": "Юрій"
                 }
             }
@@ -10082,6 +10086,7 @@
                     "la": "Georgius",
                     "en": "George",
                     "pl": "Jerzy",
+                    "be": "Юрый",
                     "uk": "Юрій"
                 }
             }
@@ -26894,6 +26899,7 @@
                     "la": "Georgius",
                     "en": "George",
                     "pl": "Jerzy",
+                    "be": "Юрый",
                     "uk": "Юрій"
                 }
             }

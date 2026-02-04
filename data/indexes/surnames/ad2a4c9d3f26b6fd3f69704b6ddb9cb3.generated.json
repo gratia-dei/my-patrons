@@ -1,7 +1,6 @@
 {
     "names": {
-        "en": "Kashyra",
-        "la": "Kashyra"
+        "en": "Kashyra"
     },
     "translations": {
         "pl": [
@@ -12,17 +11,14 @@
         ],
         "en": [
             "Kashyra"
-        ],
-        "la": [
-            "Kashyra"
         ]
     },
     "links": {
         "records/patrons/georgius/kas": {
             "pl": "Jerzy Kaszyra",
             "be": "Юрый Кашыра",
-            "en": "Jury Kashyra",
-            "la": "Georgius Kaszyra"
+            "la": "Georgius Kaszyra",
+            "en": "George Kashyra"
         }
     }
 }
