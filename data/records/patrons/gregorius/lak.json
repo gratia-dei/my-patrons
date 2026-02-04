@@ -1,38 +1,56 @@
 {
-  "names": {
-    "uk": [
-      "Григорій Лакота"
+    "names": {
+        "uk": [
+            "Григорій Лакота"
+        ],
+        "pl": [
+            "Grzegorz Łakota"
+        ],
+        "la": [
+            "Gregorius Lakota"
+        ],
+        "en": [
+            "Gregory Lakota"
+        ]
+    },
+    "forenames": ["gregorius"],
+    "surnames": [
+        {
+            "uk": "Лакота",
+            "pl": "Łakota",
+            "en": "Lakota",
+            "la": "Lakota"
+        }
     ],
-    "pl": [
-      "Grzegorz Lakota"
-    ],
-    "en": [
-      "Gregory Lakota"
-    ],
-    "la": [
-      "Gregorius Lakota"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "uk": "Лакота",
-      "pl": "Lakota",
-      "en": "Lakota",
-      "la": "Lakota"
+    "active": true,
+
+    "born": ["1883-01-31"],
+    "died": ["1950-11-12"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-06-27"
+    },
+    "canonized": null,
+    "anniversary": ["11-05"],
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./5#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/mykola-carneckyj-e-24-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/15591",
+        "wiki": "https://pl.wikipedia.org/wiki/Grzegorz_%C5%81akota"
     }
-  ],
-
-  "born": ["1883-01-31"],
-  "died": ["1950-11-12"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-06-27"
-  },
-
-  "also-in-martyrology": ["11-05"],
-
-  "forenames": ["gregorius"],
-  "categories": ["vir", "martyr", "episcopus"]
 }

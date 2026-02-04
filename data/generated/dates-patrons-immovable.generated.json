@@ -11313,6 +11313,18 @@
         }
     },
     "11-05": {
+        "records/patrons/gregorius/lak": {
+            "name": {
+                "uk": "Григорій Лакота",
+                "pl": "Grzegorz Łakota",
+                "la": "Gregorius Lakota",
+                "en": "Gregory Lakota"
+            },
+            "sources": {
+                "feast": "5 XI",
+                "mr-2004": "5 XI: #14"
+            }
+        },
         "records/patrons/domninus/cae": {
             "name": {
                 "la": "Domninus Caesariensis",
@@ -11638,6 +11650,17 @@
         }
     },
     "11-12": {
+        "records/patrons/gregorius/lak": {
+            "name": {
+                "uk": "Григорій Лакота",
+                "pl": "Grzegorz Łakota",
+                "la": "Gregorius Lakota",
+                "en": "Gregory Lakota"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 XI"
+            }
+        },
         "records/patrons/martinus/1pp": {
             "name": {
                 "la": "Martinus Pp. I",
