@@ -10493,7 +10493,7 @@
         }
     },
     "patrons/gregorius/1pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Gregorius Magnus",
             "en": "Gregory the Great",
@@ -10502,7 +10502,15 @@
         "died": [
             "604-03-12"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/ogm": {
+                "active": true,
+                "names": {
+                    "la": "Ordinatio sancti Gregorii Magni in Summum Pontificem",
+                    "pl": "Wyniesienie świętego Grzegorza Wielkiego na Papieża"
+                }
+            }
+        },
         "forenames": {
             "forenames/gregorius": {
                 "active": true,
@@ -13991,7 +13999,7 @@
             "feasts/oin": {
                 "active": true,
                 "names": {
-                    "la": "loseph Opifex",
+                    "la": "Ioseph Opifex",
                     "pl": "Józef Rzemieślnik"
                 }
             }

@@ -374,7 +374,7 @@
     "05-01": {
         "records/patrons/ioseph/naz#oin": {
             "name": {
-                "la": "Ioseph Nazarenus (loseph Opifex)",
+                "la": "Ioseph Nazarenus (Ioseph Opifex)",
                 "pl": "Józef z Nazaretu (Józef Rzemieślnik)"
             },
             "sources": {
@@ -1212,6 +1212,18 @@
                 "mr-1584": "29 VIII: #1",
                 "mr-1956": "29 VIII: #1",
                 "mr-2004": "29 VIII: #1"
+            }
+        }
+    },
+    "09-03": {
+        "records/patrons/gregorius/1pp#ogm": {
+            "name": {
+                "la": "Gregorius Magnus (Ordinatio sancti Gregorii Magni in Summum Pontificem)",
+                "pl": "Grzegorz Wielki (Wyniesienie świętego Grzegorza Wielkiego na Papieża)"
+            },
+            "sources": {
+                "mr-1584": "3 IX: #13",
+                "mr-1956": "3 IX: #13"
             }
         }
     },

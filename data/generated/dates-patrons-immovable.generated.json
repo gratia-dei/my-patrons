@@ -2303,6 +2303,19 @@
                 "feast": "12 III",
                 "mr-2004": "12 III: #14"
             }
+        },
+        "records/patrons/gregorius/1pp": {
+            "name": {
+                "la": "Gregorius Magnus",
+                "en": "Gregory the Great",
+                "pl": "Grzegorz Wielki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 III",
+                "mr-1584": "12 III: #1",
+                "mr-1956": "12 III: #1",
+                "mr-2004": "12 III: #6"
+            }
         }
     },
     "03-13": {
@@ -8390,6 +8403,16 @@
             },
             "sources": {
                 "mr-1956": "3 IX: #1"
+            }
+        },
+        "records/patrons/gregorius/1pp": {
+            "name": {
+                "la": "Gregorius Magnus",
+                "en": "Gregory the Great",
+                "pl": "Grzegorz Wielki"
+            },
+            "sources": {
+                "mr-2004": "3 IX: #1"
             }
         }
     },
