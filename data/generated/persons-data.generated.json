@@ -10176,11 +10176,11 @@
         }
     },
     "patrons/gerardus/abb": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Gérard de Brogne",
-            "en": "Gerard of Brogne",
             "la": "Gerardus Broniensis",
+            "en": "Gerard of Brogne",
             "pl": "Gerard z Brogne"
         },
         "died": [
