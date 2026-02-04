@@ -9825,11 +9825,11 @@
         }
     },
     "patrons/gaudentius/rad": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Radzim Gaudenty",
-            "en": "Radim Gaudentius",
-            "la": "Gaudentius seu Radzim"
+            "la": "Gaudentius seu Radzim",
+            "en": "Radim Gaudentius"
         },
         "died": [
             "~1011"

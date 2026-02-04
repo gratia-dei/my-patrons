@@ -10176,6 +10176,16 @@
             "sources": {
                 "feast": "11 X"
             }
+        },
+        "records/patrons/gaudentius/rad": {
+            "name": {
+                "pl": "Radzim Gaudenty",
+                "la": "Gaudentius seu Radzim",
+                "en": "Radim Gaudentius"
+            },
+            "sources": {
+                "mr-2004": "11 X: #11"
+            }
         }
     },
     "10-12": {

@@ -1,21 +1,43 @@
 {
-  "names": {
-    "pl": [
-      "Radzim Gaudenty"
-    ],
-    "en": [
-      "Radim Gaudentius"
-    ],
-    "la": [
-      "Gaudentius seu Radzim"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Radzim Gaudenty"
+        ],
+        "la": [
+            "Gaudentius seu Radzim"
+        ],
+        "en": [
+            "Radim Gaudentius"
+        ]
+    },
+    "forenames": ["gaudentius", "radzim"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">960", "<970"],
-  "died": ["~1011"],
+    "active": true,
 
-  "also-in-martyrology": ["10-11"],
+    "born": [">960", "<970"],
+    "died": ["~1011"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["gaudentius", "radzim"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./11#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/29180",
+        "wiki": "https://pl.wikipedia.org/wiki/Radzim_Gaudenty"
+    }
 }
