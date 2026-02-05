@@ -24,7 +24,7 @@ class Path
         return $this->getResourcesPath('md/' . $subPath, $getDocumentRootPath);
     }
 
-    private function getRootPath(string $subPath = '', bool $getDocumentRootPath = false): string
+    public function getRootPath(string $subPath = '', bool $getDocumentRootPath = false): string
     {
         if (!$getDocumentRootPath) {
             $rootPath = $this->environment->getRootDirectoryPath();

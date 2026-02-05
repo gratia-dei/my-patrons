@@ -179,6 +179,20 @@ abstract class Content extends Base
         return ($requestParams[self::CONTENT_ONLY_QUERY_PARAM_NAME] ?? '') === self::CONTENT_ONLY_QUERY_PARAM_VALUE;
     }
 
+    protected function isRequestPathProtected($path) {
+        $path = preg_replace('/' . self::FEAST_ID_SEPARATOR . '.*$/', '', $path);
+
+        if ($this->getEnvironment()->isProdServer()) {
+            foreach (self::PROTECTED_PATH_ROOTS as $protectedPath) {
+                if (0 === mb_strpos($path . '/', $protectedPath . '/') && !in_array($path, self::PROTECTED_PATHS_AVAILABLE)) {
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    }
+
     private function getMissingTranslationMessage(string $originalLanguage): string
     {
         $originalMessage = self::VARIABLE_NAME_SIGN . self::LANGUAGE_VARIABLE_NAME_BEFORE . self::VARIABLE_NAME_SIGN
@@ -261,19 +275,5 @@ abstract class Content extends Base
         }
 
         return $result;
-    }
-
-    protected function isRequestPathProtected($path) {
-        $path = preg_replace('/' . self::FEAST_ID_SEPARATOR . '.*$/', '', $path);
-
-        if ($this->getEnvironment()->isProdServer()) {
-            foreach (self::PROTECTED_PATH_ROOTS as $protectedPath) {
-                if (0 === mb_strpos($path . '/', $protectedPath . '/') && !in_array($path, self::PROTECTED_PATHS_AVAILABLE)) {
-                    return true;
-                }
-            }
-        }
-
-        return false;
     }
 }

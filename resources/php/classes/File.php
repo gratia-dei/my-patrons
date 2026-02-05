@@ -2,6 +2,11 @@
 
 class File
 {
+    private const MIME_TYPES_TO_OVERRIDE = [
+        'css' => 'text/css',
+        'js' => 'text/javascript',
+    ];
+
     public function exists(string $path): bool
     {
         return @file_exists($path);
@@ -15,6 +20,13 @@ class File
     public function setFileContent(string $filePath, string $content): int
     {
         return @file_put_contents($filePath, $content);
+    }
+
+    public function getFileMimeContentType(string $filePath): string
+    {
+        $fileExtension = @pathinfo($filePath, PATHINFO_EXTENSION);
+
+        return self::MIME_TYPES_TO_OVERRIDE[mb_strtolower($fileExtension)] ?? @mime_content_type($filePath);
     }
 
     public function getList(string $path, string $pattern = '*'): array

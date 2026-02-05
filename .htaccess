@@ -20,7 +20,7 @@
 
   RewriteRule ^(.+)/data/generated/?$ /data/$1.generated.json [END]
   RewriteRule ^(.+)/data/?$ /data/$1.json [END]
-  RewriteRule ^files/(.*)$ $1 [END]
+  #RewriteRule ^files/(.*)$ $1 [END]     #moved into index.php due to not allow access to some paths
   RewriteRule ^.*$ /resources/php/index.php [END]
 </IfModule>
 

@@ -4,6 +4,8 @@ class IndexContent extends Content
 {
     private const SUBDOMAINS_TO_REDIRECT_TO_LANGUAGE_SUBDOMAIN_ON_MAIN_PAGE = ['www'];
 
+    private const FILES_CONTENTS_ROOT_PATH = '/files/';
+
     private $bodyContent;
 
     public function __construct()
@@ -16,6 +18,27 @@ class IndexContent extends Content
 
     public function getContent(): string
     {
+        $originalRequestPath = $this->getEnvironment()->getRequestPath();
+        $filesRootPath = self::FILES_CONTENTS_ROOT_PATH;
+        $filesRootPathLength = mb_strlen($filesRootPath);
+
+        if (mb_substr($originalRequestPath, 0, $filesRootPathLength) === $filesRootPath) {
+            $rootPath = $this->getPath()->getRootPath();
+            $filePath = mb_substr($originalRequestPath, $filesRootPathLength);
+            $fullFilePath = $rootPath . $filePath;
+
+            if ($this->getFile()->exists($fullFilePath) && !$this->getFile()->isDirectory($fullFilePath)) {
+                $fileContent = $this->getFile()->getFileContent($fullFilePath);
+                $fileContentMimeType = $this->getFile()->getFileMimeContentType($fullFilePath);
+
+                if ($fileContentMimeType) {
+                    header('Content-Type: ' . $fileContentMimeType);
+                }
+
+                return $fileContent;
+            }
+        }
+
         $originalContent = $this->getOriginalHtmlFileContent('index.html');
         $language = $this->getEnvironment()->getHostSubdomainOnly();
         $websiteTranslatedVariables = $this->getTranslatedVariables($language, 'website-language-variables.json');
