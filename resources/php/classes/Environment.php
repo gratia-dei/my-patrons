@@ -10,6 +10,9 @@ class Environment
     private const MODE_CONTENT_ONLY = 'content-only';
     private const MODE_HOME = 'home';
 
+    private const HTTP_CODE_FORBIDDEN = 403;
+    private const HTTP_CODE_NOT_FOUND = 404;
+
     public function __construct()
     {
     }
@@ -51,7 +54,22 @@ class Environment
 
     public function getHttpStatusCode(): int
     {
+        $code = http_response_code();
+        if ($code) {
+            return (int) $code;
+        }
+
         return (int) $this->getFromServerGlobal('REDIRECT_STATUS');
+    }
+
+    public function setHttpCodeForbidden(): void
+    {
+        @http_response_code(self::HTTP_CODE_FORBIDDEN);
+    }
+
+    public function setHttpCodeNotFound(): void
+    {
+        @http_response_code(self::HTTP_CODE_NOT_FOUND);
     }
 
     public function getHostProtocol(): string

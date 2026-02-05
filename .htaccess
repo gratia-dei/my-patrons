@@ -1,7 +1,4 @@
 <IfModule mod_rewrite.c>
-  ErrorDocument 403 /resources/php/index.php
-  ErrorDocument 404 /resources/php/index.php
-
   Options -Indexes
   RewriteEngine On
   RewriteBase /
@@ -18,8 +15,6 @@
   RewriteRule ^browserconfig\.xml /files/resources/favicon/browserconfig.xml [R=301,END]
   RewriteRule ^mstile-150x150\.png$ /files/resources/favicon/mstile-150x150.png [R=301,END]
 
-  RewriteRule ^(.+)/data/generated/?$ /data/$1.generated.json [END]
-  RewriteRule ^(.+)/data/?$ /data/$1.json [END]
   #RewriteRule ^files/(.*)$ $1 [END]     #moved into index.php due to not allow access to some paths
   RewriteRule ^.*$ /resources/php/index.php [END]
 </IfModule>

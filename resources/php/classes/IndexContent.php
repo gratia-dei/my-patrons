@@ -27,15 +27,21 @@ class IndexContent extends Content
             $filePath = mb_substr($originalRequestPath, $filesRootPathLength);
             $fullFilePath = $rootPath . $filePath;
 
-            if ($this->getFile()->exists($fullFilePath) && !$this->getFile()->isDirectory($fullFilePath)) {
-                $fileContent = $this->getFile()->getFileContent($fullFilePath);
-                $fileContentMimeType = $this->getFile()->getFileMimeContentType($fullFilePath);
+            if ($this->getFile()->exists($fullFilePath)) {
+                if (!$this->getFile()->isDirectory($fullFilePath)) {
+                    $fileContent = $this->getFile()->getFileContent($fullFilePath);
+                    $fileContentMimeType = $this->getFile()->getFileMimeContentType($fullFilePath);
 
-                if ($fileContentMimeType) {
-                    header('Content-Type: ' . $fileContentMimeType);
+                    if ($fileContentMimeType) {
+                        header('Content-Type: ' . $fileContentMimeType);
+                    }
+
+                    return $fileContent;
+                } else {
+                    $this->getEnvironment()->setHttpCodeForbidden();
                 }
-
-                return $fileContent;
+            } else {
+                $this->getEnvironment()->setHttpCodeNotFound();
             }
         }
 
