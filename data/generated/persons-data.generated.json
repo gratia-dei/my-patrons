@@ -11060,11 +11060,11 @@
         }
     },
     "patrons/henricus/krz": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Henryk Krzysztofik",
-            "en": "Henry Krzysztofik",
-            "la": "Henricus Krzysztofik"
+            "la": "Henricus Krzysztofik",
+            "en": "Henry Krzysztofik"
         },
         "died": [
             "1942-08-04"

@@ -7216,6 +7216,18 @@
         }
     },
     "08-04": {
+        "records/patrons/henricus/krz": {
+            "name": {
+                "pl": "Henryk Krzysztofik",
+                "la": "Henricus Krzysztofik",
+                "en": "Henry Krzysztofik"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VIII",
+                "feast": "4 VIII",
+                "mr-2004": "4 VIII: #14"
+            }
+        },
         "records/patrons/ioannes/via": {
             "name": {
                 "fr": "Jean-Marie Vianney",

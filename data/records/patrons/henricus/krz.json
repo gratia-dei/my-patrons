@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Henryk Krzysztofik"
+    "names": {
+        "pl": [
+            "Henryk Krzysztofik"
+        ],
+        "la": [
+            "Henricus Krzysztofik"
+        ],
+        "en": [
+            "Henry Krzysztofik"
+        ]
+    },
+    "forenames": ["henricus"],
+    "surnames": [
+        {
+            "pl": "Krzysztofik"
+        }
     ],
-    "en": [
-      "Henry Krzysztofik"
-    ],
-    "la": [
-      "Henricus Krzysztofik"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Krzysztofik"
+    "active": true,
+
+    "born": ["1908-03-22"],
+    "died": ["1942-08-04"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["08-04"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./4#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67776",
+        "wiki": "https://pl.wikipedia.org/wiki/Henryk_Krzysztofik"
     }
-  ],
-
-  "born": ["1908-05-22"],
-  "died": ["1942-08-04"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["08-04"],
-
-  "forenames": ["henricus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
