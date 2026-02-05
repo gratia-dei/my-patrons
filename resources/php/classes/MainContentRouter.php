@@ -21,8 +21,8 @@ class MainContentRouter extends Content
     private function getMainContentObjectForParams(string $path, string $originalPath, int $httpStatusCode): object
     {
         $stepsData = [
-            'ProtectedPageMainContent' => $path,
             'ErrorMainContent' => $httpStatusCode,
+            'ProtectedPageMainContent' => $path,
             'CardsMainContent' => $path,
             'ChallengesMainContent' => $path,
             'AchievementsMainContent' => $path,

@@ -30,6 +30,7 @@ abstract class Content extends Base
 
     private const PROTECTED_PATH_ROOTS = [
         '/sources/martyrologium-romanum',
+        '/files/data/sources/martyrologium-romanum',
     ];
     private const PROTECTED_PATHS_AVAILABLE = [
         '/sources/martyrologium-romanum',

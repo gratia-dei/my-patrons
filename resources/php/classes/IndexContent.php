@@ -27,7 +27,9 @@ class IndexContent extends Content
             $filePath = mb_substr($originalRequestPath, $filesRootPathLength);
             $fullFilePath = $rootPath . $filePath;
 
-            if ($this->getFile()->exists($fullFilePath)) {
+            if ($this->isRequestPathProtected($originalRequestPath)) {
+                $this->getEnvironment()->setHttpCodeForbidden();
+            } else if ($this->getFile()->exists($fullFilePath)) {
                 if (!$this->getFile()->isDirectory($fullFilePath)) {
                     $fileContent = $this->getFile()->getFileContent($fullFilePath);
                     $fileContentMimeType = $this->getFile()->getFileMimeContentType($fullFilePath);
