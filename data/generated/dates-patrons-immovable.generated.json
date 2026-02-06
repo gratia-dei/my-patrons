@@ -1694,6 +1694,18 @@
             }
         }
     },
+    "02-29": {
+        "records/patrons/hilarius/1pp": {
+            "name": {
+                "la": "Papa Hilarius Pp.",
+                "en": "Hillary, pope",
+                "pl": "Hilary, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 II"
+            }
+        }
+    },
     "02b23": {
         "records/patrons/petrus/dam": {
             "name": {
@@ -1791,6 +1803,17 @@
                 "mr-1584": "29 II: #3",
                 "mr-1956": "29 II: #5"
             }
+        },
+        "records/patrons/hilarius/1pp": {
+            "name": {
+                "la": "Papa Hilarius Pp.",
+                "en": "Hillary, pope",
+                "pl": "Hilary, papież"
+            },
+            "sources": {
+                "mr-1956": "29 II: #4",
+                "mr-2004": "29 II: #1"
+            }
         }
     },
     "02n23": {
@@ -1879,6 +1902,17 @@
                 "mr-1584": "28 II: #3",
                 "mr-1956": "28 II: #5",
                 "mr-2004": "28 II: #2"
+            }
+        },
+        "records/patrons/hilarius/1pp": {
+            "name": {
+                "la": "Papa Hilarius Pp.",
+                "en": "Hillary, pope",
+                "pl": "Hilary, papież"
+            },
+            "sources": {
+                "mr-1956": "28 II: #4",
+                "mr-2004": "28 II: #4"
             }
         }
     },
@@ -8661,6 +8695,16 @@
             "sources": {
                 "reliable-death-anniversary": "10 IX",
                 "mr-2004": "10 IX: #12"
+            }
+        },
+        "records/patrons/hilarius/1pp": {
+            "name": {
+                "la": "Papa Hilarius Pp.",
+                "en": "Hillary, pope",
+                "pl": "Hilary, papież"
+            },
+            "sources": {
+                "mr-1584": "10 IX: #6"
             }
         },
         "records/patrons/nemesius/ale": {

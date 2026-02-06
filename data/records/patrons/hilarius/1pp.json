@@ -1,24 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Papa Hilarius"
-    ],
-    "en": [
-      "Pope Hillary"
-    ],
-    "pl": [
-      "Hilary Papież"
-    ]
-  },
+    "names": {
+        "la": [
+            "Papa Hilarius Pp."
+        ],
+        "en": [
+            "Hillary, pope"
+        ],
+        "pl": [
+            "Hilary, papież"
+        ]
+    },
+    "forenames": ["hilarius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["468-02-29"],
+    "active": true,
 
-  "also-in-martyrology": ["02n28", "02b29"],
+    "born": null,
+    "died": ["468-02-29"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["hilarius"],
-  "categories": ["vir", "confessor", "papa"],
+    "categories": ["vir", "confessor", "papa"],
 
-  "data-links": {
-    "popes": ["1:#46"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Sept./10#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/28n#4", "1:Februarii/29b#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./28n#4", "1:feb./29b#1"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#46"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/HL1",
+        "wiki": "https://pl.wikipedia.org/wiki/Hilary_(papie%C5%BC)"
+    }
 }

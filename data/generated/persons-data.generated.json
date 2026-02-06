@@ -11287,11 +11287,11 @@
         }
     },
     "patrons/hilarius/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Papa Hilarius",
-            "en": "Pope Hillary",
-            "pl": "Hilary Papież"
+            "la": "Papa Hilarius Pp.",
+            "en": "Hillary, pope",
+            "pl": "Hilary, papież"
         },
         "died": [
             "468-02-29"
