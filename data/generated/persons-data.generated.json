@@ -11334,11 +11334,11 @@
         }
     },
     "patrons/hilarius/jan": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Hilary Januszewski",
-            "en": "Hillary Januszewski",
-            "la": "Hilarius Januszewski"
+            "la": "Hilarius Januszewski",
+            "en": "Hillary Januszewski"
         },
         "died": [
             "1945-03-25"

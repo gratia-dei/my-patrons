@@ -2961,6 +2961,18 @@
                 "mr-2004": "25 III: #17"
             }
         },
+        "records/patrons/hilarius/jan": {
+            "name": {
+                "pl": "Hilary Januszewski",
+                "la": "Hilarius Januszewski",
+                "en": "Hillary Januszewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 III",
+                "feast": "25 III",
+                "mr-2004": "25 III: #18"
+            }
+        },
         "records/patrons/lucia/fil": {
             "name": {
                 "it": "Lucia Filippini",

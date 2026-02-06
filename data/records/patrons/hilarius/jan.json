@@ -1,34 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Hilary Januszewski"
+    "names": {
+        "pl": [
+            "Hilary Januszewski"
+        ],
+        "la": [
+            "Hilarius Januszewski"
+        ],
+        "en": [
+            "Hillary Januszewski"
+        ]
+    },
+    "forenames": ["hilarius"],
+    "surnames": [
+        {
+            "pl": "Januszewski"
+        }
     ],
-    "en": [
-      "Hillary Januszewski"
-    ],
-    "la": [
-      "Hilarius Januszewski"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Januszewski"
+    "active": true,
+
+    "born": ["1907-06-11"],
+    "died": ["1945-03-25"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["03-25"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./25#18"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67825",
+        "wiki": "https://pl.wikipedia.org/wiki/Hilary_Januszewski"
     }
-  ],
-
-  "born": ["1907-06-11"],
-  "died": ["1945-03-25"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["03-25"],
-
-  "forenames": ["hilarius"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["ocarm"]
 }
