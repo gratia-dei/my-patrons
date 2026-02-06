@@ -20,7 +20,7 @@
     "forenames": ["alphonsus", "maria"],
     "surnames": [
         {
-            "it": "Liguori"
+            "it": ["de' Liguori", "Liguori"]
         }
     ],
     "epithets": null,

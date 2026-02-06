@@ -11622,11 +11622,11 @@
         }
     },
     "patrons/iacobinus/can": {
-        "active": false,
+        "active": true,
         "names": {
-            "it": "Giacomino de Canepacci",
+            "it": "Giacomino de' Canepacci",
+            "la": "Iacobinus de' Canepacci",
             "en": "Jacobinus de Canepacci",
-            "la": "Iacobinus de Canepacci",
             "pl": "Jakobin de Canepacci"
         },
         "died": [

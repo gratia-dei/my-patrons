@@ -1,37 +1,50 @@
 {
-  "names": {
-    "it": [
-      "Giacomino de Canepacci"
+    "names": {
+        "it": [
+            "Giacomino de' Canepacci"
+        ],
+        "la": [
+            "Iacobinus de' Canepacci"
+        ],
+        "en": [
+            "Jacobinus de Canepacci"
+        ],
+        "pl": [
+            "Jakobin de Canepacci"
+        ]
+    },
+    "forenames": ["iacobinus"],
+    "surnames": [
+        {
+            "it": "de' Canepacci"
+        }
     ],
-    "en": [
-      "Jacobinus de Canepacci"
-    ],
-    "la": [
-      "Iacobinus de Canepacci"
-    ],
-    "pl": [
-      "Jakobin de Canepacci"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "de Canepacci"
+    "active": true,
+
+    "born": ["~1438"],
+    "died": ["~1508"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./3#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68786",
+        "wiki": "https://it.wikipedia.org/wiki/Giacomino_de%27_Canepacci"
     }
-  ],
-
-  "born": ["~1438"],
-  "died": ["~1508"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1845-05-03"
-  },
-
-  "also-in-martyrology": ["03-03"],
-
-  "forenames": ["iacobinus"],
-  "categories": ["vir", "religiosus"],
-
-  "order": ["ocarm"]
 }
