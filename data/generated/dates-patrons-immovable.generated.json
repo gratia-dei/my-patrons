@@ -1053,6 +1053,20 @@
         }
     },
     "02-08": {
+        "records/patrons/hieronymus/emi": {
+            "name": {
+                "it": "Girolamo Emiliani",
+                "la": "Hieronymus Emiliani",
+                "en": "Jerome Emiliani",
+                "pl": "Hieronim Emiliani"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 II",
+                "feast": "8 II",
+                "mr-1956": "8 II: #2",
+                "mr-2004": "8 II: #1"
+            }
+        },
         "records/patrons/iosephina/bon": {
             "name": {
                 "it": "Giuseppina Gabriella Bonino",
@@ -6583,6 +6597,17 @@
                 "mr-1584": "20 VII: #2",
                 "mr-1956": "20 VII: #3",
                 "mr-2004": "20 VII: #2"
+            }
+        },
+        "records/patrons/hieronymus/emi": {
+            "name": {
+                "it": "Girolamo Emiliani",
+                "la": "Hieronymus Emiliani",
+                "en": "Jerome Emiliani",
+                "pl": "Hieronim Emiliani"
+            },
+            "sources": {
+                "mr-1956": "20 VII: #1"
             }
         }
     },

@@ -11202,11 +11202,11 @@
         }
     },
     "patrons/hieronymus/emi": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Girolamo Emiliani",
-            "en": "Jerome Emiliani",
             "la": "Hieronymus Emiliani",
+            "en": "Jerome Emiliani",
             "pl": "Hieronim Emiliani"
         },
         "died": [

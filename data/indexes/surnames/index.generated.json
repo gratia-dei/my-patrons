@@ -778,6 +778,9 @@
         "la": "Wu",
         "pl": "Wu"
     },
+    "97ed849744ca152ae3174ac99569d4e2": {
+        "la": "Aemiliani"
+    },
     "98bc42153a2996412936f7e43f68124f": {
         "la": "Kovc"
     },
@@ -800,7 +803,8 @@
         "en": "Becket"
     },
     "9bd6383d2502f115296a01b70a36e3bf": {
-        "it": "Emiliani"
+        "it": "Emiliani",
+        "la": "Emiliani"
     },
     "9c8855836ce1550f049ce69d2a8906ed": {
         "ko": "허"
