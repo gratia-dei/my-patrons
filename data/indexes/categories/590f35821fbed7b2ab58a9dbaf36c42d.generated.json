@@ -1734,9 +1734,9 @@
         },
         "records/patrons/ieremias/pro": {
             "he": "ירמיהו",
-            "en": "Jeremiah Prophet",
-            "la": "Ieremias Propheta",
-            "pl": "Jeremiasz Prorok"
+            "la": "Ieremias, propheta",
+            "en": "Jeremiah, prophet",
+            "pl": "Jeremiasz, prorok"
         },
         "records/patrons/ieremias/val": {
             "ro": "Ieremia Valahul",

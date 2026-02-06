@@ -1,24 +1,46 @@
 {
-  "names": {
-    "he": [
-      "ירמיהו"
-    ],
-    "en": [
-      "Jeremiah Prophet"
-    ],
-    "la": [
-      "Ieremias Propheta"
-    ],
-    "pl": [
-      "Jeremiasz Prorok"
-    ]
-  },
+    "names": {
+        "he": [
+            "ירמיהו"
+        ],
+        "la": [
+            "Ieremias, propheta"
+        ],
+        "en": [
+            "Jeremiah, prophet"
+        ],
+        "pl": [
+            "Jeremiasz, prorok"
+        ]
+    },
+    "forenames": ["ieremias"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~-650"],
-  "died": ["~-570"],
+    "active": true,
 
-  "also-in-martyrology": ["05-01"],
+    "born": ["~-650"],
+    "died": ["~-570"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["ieremias"],
-  "categories": ["vir", "martyr", "propheta"]
+    "categories": ["vir", "martyr", "propheta"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./1#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/1#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/1#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69841",
+        "wiki": "https://pl.wikipedia.org/wiki/Jeremiasz"
+    }
 }

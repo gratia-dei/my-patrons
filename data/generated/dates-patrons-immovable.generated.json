@@ -4009,6 +4009,19 @@
                 "mr-1584": "1 V: #1"
             }
         },
+        "records/patrons/ieremias/pro": {
+            "name": {
+                "he": "ירמיהו",
+                "la": "Ieremias, propheta",
+                "en": "Jeremiah, prophet",
+                "pl": "Jeremiasz, prorok"
+            },
+            "sources": {
+                "mr-1584": "1 V: #2",
+                "mr-1956": "1 V: #3",
+                "mr-2004": "1 V: #2"
+            }
+        },
         "records/patrons/sigismundus/rex": {
             "name": {
                 "fr": "Sigismond, roi des Burgondes",
