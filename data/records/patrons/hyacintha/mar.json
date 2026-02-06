@@ -1,42 +1,61 @@
 {
-  "names": {
-    "it": [
-      "Giacinta Marescotti"
+    "names": {
+        "it": [
+            "Giacinta Marescotti"
+        ],
+        "la": [
+            "Hyacintha Mariscotti",
+            "Hyacintha de Mariscottis"
+        ],
+        "en": [
+            "Hyacintha Mariscotti",
+            "Hyacintha of Mariscotti",
+            "Hyacintha Marescotti"
+        ],
+        "pl": [
+            "Hiacynta Mariscotti",
+            "Hiacynta Marescotti"
+        ]
+    },
+    "forenames": ["hyacintha"],
+    "surnames": [
+        {
+            "it": "Marescotti",
+            "la": "Mariscotti"
+        }
     ],
-    "en": [
-      "Hyacintha Mariscotti",
-      "Hyacintha of Mariscotti"
-    ],
-    "la": [
-      "Hyacintha de Mariscottis"
-    ],
-    "pl": [
-      "Hiacynta Mariscotti"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Mariscotti"
+    "active": true,
+
+    "born": ["1585"],
+    "died": ["1640-01-30"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1726-07-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1807-05-24"
+    },
+    "anniversary": ["01-30"],
+
+    "categories": ["femina", "virgo", "sanctimonialis", "tertiarius"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/30#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./30#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giacinta-marescotti.html",
+        "gcatholic": "https://gcatholic.org/p/68254",
+        "wiki": "https://pl.wikipedia.org/wiki/Hiacynta_Mariscotti"
     }
-  ],
-
-  "born": ["1585-03-16"],
-  "died": ["1640-01-30"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1726-08-01"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1807-05-14"
-  },
-
-  "also-in-martyrology": ["01-30"],
-
-  "forenames": ["hyacintha"],
-  "categories": ["femina", "virgo", "sanctimonialis", "tertiarius"],
-
-  "order": ["ofs"]
 }

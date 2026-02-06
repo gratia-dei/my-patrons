@@ -1,16 +1,13 @@
 {
     "names": {
-        "la": "sanctimonialis"
+        "it": "Marescotti"
     },
     "translations": {
+        "it": [
+            "Marescotti"
+        ],
         "la": [
-            "sanctimonialis"
-        ],
-        "en": [
-            "nun"
-        ],
-        "pl": [
-            "mniszka"
+            "Mariscotti"
         ]
     },
     "links": {

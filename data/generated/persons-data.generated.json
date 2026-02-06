@@ -11499,11 +11499,11 @@
         }
     },
     "patrons/hyacintha/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giacinta Marescotti",
+            "la": "Hyacintha Mariscotti",
             "en": "Hyacintha Mariscotti",
-            "la": "Hyacintha de Mariscottis",
             "pl": "Hiacynta Mariscotti"
         },
         "died": [

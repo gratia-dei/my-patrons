@@ -730,6 +730,20 @@
         }
     },
     "01-30": {
+        "records/patrons/hyacintha/mar": {
+            "name": {
+                "it": "Giacinta Marescotti",
+                "la": "Hyacintha Mariscotti",
+                "en": "Hyacintha Mariscotti",
+                "pl": "Hiacynta Mariscotti"
+            },
+            "sources": {
+                "reliable-death-anniversary": "30 I",
+                "feast": "30 I",
+                "mr-1956": "30 I: #10",
+                "mr-2004": "30 I: #10"
+            }
+        },
         "records/patrons/felicianus/car": {
             "name": {
                 "la": "Felicianus Carthaginiensis",
