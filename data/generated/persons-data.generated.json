@@ -11439,11 +11439,11 @@
         }
     },
     "patrons/hormisdas/1pp": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Hormisdas",
-            "en": "Hormisdas",
-            "pl": "Hormizdas"
+            "la": "Hormisdas Pp.",
+            "en": "Hormisdas, pope",
+            "pl": "Hormizdas, papież"
         },
         "died": [
             "523-08-06"

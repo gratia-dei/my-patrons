@@ -1,24 +1,45 @@
 {
-  "names": {
-    "la": [
-      "Hormisdas"
-    ],
-    "en": [
-      "Hormisdas"
-    ],
-    "pl": [
-      "Hormizdas"
-    ]
-  },
+    "names": {
+        "la": [
+            "Hormisdas Pp."
+        ],
+        "en": [
+            "Hormisdas, pope"
+        ],
+        "pl": [
+            "Hormizdas, papież"
+        ]
+    },
+    "forenames": ["hormisdas"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["523-08-06"],
+    "active": true,
 
-  "also-in-martyrology": ["08-06"],
+    "born": null,
+    "died": ["523-08-06"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["hormisdas"],
-  "categories": ["vir", "confessor", "papa"],
+    "categories": ["vir", "confessor", "papa"],
 
-  "data-links": {
-    "popes": ["1:#52"]
-  }
+    "data-links": {
+        "mr-1584": ["1:Aug./6#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/6#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./6#4"],
+        "mr-2004-movable": [],
+
+        "popes": ["1:#52"]
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/hierarchy/pope/HM1",
+        "wiki": "https://pl.wikipedia.org/wiki/Hormizdas"
+    }
 }

@@ -7407,6 +7407,19 @@
                 "mr-2004": "6 VIII: #2"
             }
         },
+        "records/patrons/hormisdas/1pp": {
+            "name": {
+                "la": "Hormisdas Pp.",
+                "en": "Hormisdas, pope",
+                "pl": "Hormizdas, papież"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "mr-1584": "6 VIII: #5",
+                "mr-1956": "6 VIII: #7",
+                "mr-2004": "6 VIII: #4"
+            }
+        },
         "records/patrons/ianuarius/xys": {
             "name": {
                 "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
