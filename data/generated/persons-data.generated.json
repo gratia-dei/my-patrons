@@ -11084,11 +11084,11 @@
         }
     },
     "patrons/henricus/mor": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Enrique Morant Pellicer",
-            "en": "Henry Morant Pellicer",
             "la": "Henricus Morant Pellicer",
+            "en": "Henry Morant Pellicer",
             "pl": "Henryk Morant Pellicer"
         },
         "died": [
