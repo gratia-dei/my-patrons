@@ -12282,11 +12282,11 @@
         }
     },
     "patrons/ignatius/mal": {
-        "active": false,
+        "active": true,
         "names": {
             "hy": "Իգնատիոս Մալոյան",
-            "en": "Ignatius Maloyan",
             "la": "Ignatius Maloyan",
+            "en": "Ignatius Maloyan",
             "pl": "Ignacy Maloyan"
         },
         "died": [

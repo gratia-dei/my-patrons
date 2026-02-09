@@ -1,38 +1,59 @@
 {
-  "names": {
-    "hy": [
-      "Իգնատիոս Մալոյան"
+    "names": {
+        "hy": [
+            "Իգնատիոս Մալոյան"
+        ],
+        "la": [
+            "Ignatius Maloyan"
+        ],
+        "en": [
+            "Ignatius Maloyan"
+        ],
+        "pl": [
+            "Ignacy Maloyan"
+        ]
+    },
+    "forenames": ["ignatius"],
+    "surnames": [
+        {
+            "hy": "Մալոյան",
+            "en": "Maloyan",
+            "la": "Maloyan",
+            "pl": "Malojan"
+        }
     ],
-    "en": [
-      "Ignatius Maloyan"
-    ],
-    "la": [
-      "Ignatius Maloyan"
-    ],
-    "pl": [
-      "Ignacy Maloyan"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "hy": "Մալոյան",
-      "en": "Maloyan",
-      "la": "Maloyan",
-      "pl": "Malojan"
+    "active": true,
+
+    "born": ["1869-04-08"],
+    "died": ["1915-06-11"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-10-07"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2025-10-19"
+    },
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./11#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/ignazio-maloyan.html",
+        "gcatholic": "https://gcatholic.org/p/15596",
+        "wiki": "https://pl.wikipedia.org/wiki/Ignacy_Maloyan"
     }
-  ],
-
-  "born": ["1869"],
-  "died": ["1915-06-11"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-10-07"
-  },
-
-  "also-in-martyrology": ["06-11"],
-
-  "forenames": ["ignatius"],
-  "categories": ["vir", "martyr", "episcopus"]
 }
