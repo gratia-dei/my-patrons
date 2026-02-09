@@ -1,41 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Jeanne de Lestonnac"
+    "names": {
+        "fr": [
+            "Jeanne de Lestonnac"
+        ],
+        "la": [
+            "Ioanna de Lestonnac"
+        ],
+        "en": [
+            "Joan of Lestonnac"
+        ],
+        "pl": [
+            "Joanna de Lestonnac"
+        ]
+    },
+    "forenames": ["ioanna"],
+    "surnames": [
+        {
+            "fr": "de Lestonnac"
+        }
     ],
-    "en": [
-      "Joan of Lestonnac"
-    ],
-    "la": [
-      "Ioanna de Lestonnac"
-    ],
-    "pl": [
-      "Joanna de Lestonnac"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "de Lestonnac"
+    "active": true,
+
+    "born": ["1556-12-27"],
+    "died": ["1640-02-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1900"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1949-05-15"
+    },
+    "anniversary": ["02-02"],
+
+    "categories": ["femina", "vidua", "conditor", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/2#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./2#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/jeanne-de-lestonnac.html",
+        "gcatholic": "https://gcatholic.org/p/68077",
+        "wiki": "https://en.wikipedia.org/wiki/Jeanne_de_Lestonnac"
     }
-  ],
-
-  "born": ["1556-12-27"],
-  "died": ["1640-02-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1900"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1949-05-15"
-  },
-
-  "also-in-martyrology": ["02-02"],
-
-  "forenames": ["ioanna"],
-  "categories": ["femina", "vidua", "conditor", "fundator"],
-
-  "order": ["odn"]
 }

@@ -36,7 +36,7 @@
         "type": "ceremonially",
         "date": "2025-10-19"
     },
-    "anniversary": null,
+    "anniversary": ["06-11"],
 
     "categories": ["vir", "martyr", "episcopus"],
 

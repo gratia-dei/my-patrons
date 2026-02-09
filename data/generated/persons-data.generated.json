@@ -12525,11 +12525,11 @@
         }
     },
     "patrons/ioanna/les": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jeanne de Lestonnac",
-            "en": "Joan of Lestonnac",
             "la": "Ioanna de Lestonnac",
+            "en": "Joan of Lestonnac",
             "pl": "Joanna de Lestonnac"
         },
         "died": [
