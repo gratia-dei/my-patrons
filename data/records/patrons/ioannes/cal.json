@@ -1,54 +1,67 @@
 {
-  "names": {
-    "it": [
-      "Giovanni Giuseppe della Croce",
-      "Carlo Gaetano Calosirto"
+    "names": {
+        "it": [
+            "Giovanni Giuseppe della Croce",
+            "Carlo Gaetano Calosirto"
+        ],
+        "la": [
+            "Ioannes Ioseph a Cruce",
+            "Carolus Caietanus Calosirto"
+        ],
+        "en": [
+            "John Joseph of the Cross",
+            "Charles Cajetan Calosirto"
+        ],
+        "pl": [
+            "Jan Józef od Krzyża",
+            "Karol Kajetan Calosirto"
+        ]
+    },
+    "forenames": ["ioannes", "iosephus", "carolus", "caietanus"],
+    "surnames": [
+        {
+            "it": "Calosirto"
+        }
     ],
-    "en": [
-      "John Joseph of the Cross",
-      "Carlo Gaetano Calosirto"
+    "epithets": [
+        {
+            "it": "della Croce",
+            "en": "of the Cross",
+            "la": "a Cruce",
+            "pl": "od Krzyża"
+        }
     ],
-    "la": [
-      "Ioannes Ioseph a Cruce"
-    ],
-    "pl": [
-      "Jan Józef od Krzyża",
-      "Karol Gaetano",
-      "Carlo Gaetano Calosirto"
-    ]
-  },
 
-  "epithets": [
-    {
-      "it": "della Croce",
-      "en": "of the Cross",
-      "la": "a Cruce",
-      "pl": "od Krzyża"
+    "active": true,
+
+    "born": ["1654-08-15"],
+    "died": ["1734-03-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1789-05-24"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1839-05-26"
+    },
+    "anniversary": ["03-05"],
+
+    "categories": ["vir", "confessor", "sacerdos", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/5#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./5#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovan-giuseppe-della-croce.html",
+        "gcatholic": "https://gcatholic.org/p/68265",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_J%C3%B3zef_od_Krzy%C5%BCa"
     }
-  ],
-
-  "surnames": [
-    {
-      "it": "Calosirto"
-    }
-  ],
-
-  "born": ["1654-08-15"],
-  "died": ["1734-03-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1789-03-24"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1839-05-26"
-  },
-
-  "also-in-martyrology": ["03-05"],
-
-  "forenames": ["ioannes", "iosephus", "carolus", "caietanus"],
-  "categories": ["vir", "confessor", "sacerdos", "presbyter"],
-
-  "order": ["ofm"]
 }

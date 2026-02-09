@@ -2061,6 +2061,20 @@
                 "mr-2004": "5 III: #10"
             }
         },
+        "records/patrons/ioannes/cal": {
+            "name": {
+                "it": "Giovanni Giuseppe della Croce",
+                "la": "Ioannes Ioseph a Cruce",
+                "en": "John Joseph of the Cross",
+                "pl": "Jan Józef od Krzyża"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 III",
+                "feast": "5 III",
+                "mr-1956": "5 III: #6",
+                "mr-2004": "5 III: #11"
+            }
+        },
         "records/patrons/gerasimus/ior": {
             "name": {
                 "el": "Γεράσιμος Ἰορδανίτης",
