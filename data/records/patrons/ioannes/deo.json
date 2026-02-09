@@ -1,36 +1,59 @@
 {
-  "names": {
-    "pt": [
-      "João de Deus"
+    "names": {
+        "pt": [
+            "João de Deus"
+        ],
+        "la": [
+            "Ioannes de Deo"
+        ],
+        "en": [
+            "John of God"
+        ],
+        "pl": [
+            "Jan Boży"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "pt": "de Deus",
+            "la": "de Deo",
+            "en": "of God",
+            "pl": "Boży"
+        }
     ],
-    "en": [
-      "John of God"
-    ],
-    "la": [
-      "Ioannes de Deo"
-    ],
-    "pl": [
-      "Jan Boży"
-    ]
-  },
+    "epithets": null,
 
-  "born": ["1495-03-08"],
-  "died": ["1550-03-08"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1630-09-21"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1690-10-16"
-  },
+    "born": ["1495-03-08"],
+    "died": ["1550-03-08"],
+    "beatified": {
+        "type": "equipollently",
+        "date": "1630-09-21"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1690-10-16"
+    },
+    "anniversary": ["03-08"],
 
-  "also-in-martyrology": ["03-08"],
+    "categories": ["vir", "confessor", "religiosus", "constitutor", "institutor", "miles"],
 
-  "forenames": ["ioannes"],
-  "categories": ["vir", "confessor", "religiosus", "constitutor", "institutor", "miles"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["oh"],
-  "order-founder": ["oh"]
+        "mr-1956": ["1:Martii/8#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./8#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-di-dio.html",
+        "gcatholic": "https://gcatholic.org/p/26160",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Bo%C5%BCy"
+    }
 }

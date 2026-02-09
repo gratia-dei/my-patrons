@@ -1,0 +1,27 @@
+{
+    "names": {
+        "la": "de Deo"
+    },
+    "translations": {
+        "pt": [
+            "de Deus"
+        ],
+        "la": [
+            "de Deo"
+        ],
+        "en": [
+            "of God"
+        ],
+        "pl": [
+            "Boży"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/deo": {
+            "pt": "João de Deus",
+            "la": "Ioannes de Deo",
+            "en": "John of God",
+            "pl": "Jan Boży"
+        }
+    }
+}

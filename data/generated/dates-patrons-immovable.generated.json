@@ -2301,6 +2301,20 @@
         }
     },
     "03-08": {
+        "records/patrons/ioannes/deo": {
+            "name": {
+                "pt": "João de Deus",
+                "la": "Ioannes de Deo",
+                "en": "John of God",
+                "pl": "Jan Boży"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 III",
+                "feast": "8 III",
+                "mr-1956": "8 III: #1",
+                "mr-2004": "8 III: #1"
+            }
+        },
         "records/patrons/vincentius/kad": {
             "name": {
                 "pl": "Wincenty Kadłubek",
