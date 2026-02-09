@@ -137,6 +137,18 @@
             }
         }
     },
+    "01-27": {
+        "records/patrons/ioannes/chr#tih": {
+            "name": {
+                "la": "Ioannes Chrysostomus (Translatio corporis sancti Ioannis Christostomi)",
+                "pl": "Jan Chryzostom (Przeniesienie ciała świętego Jana Chryzostoma)"
+            },
+            "sources": {
+                "mr-1584": "27 I: #1",
+                "mr-1956": "27 I: #1"
+            }
+        }
+    },
     "01-29": {
         "records/patrons/franciscus/sal#tfs": {
             "name": {

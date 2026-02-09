@@ -1,31 +1,66 @@
 {
-  "names": {
-    "la": [
-      "Ioannes Chrysostomus",
-      "Ioannes Antiochensis"
+    "names": {
+        "la": [
+            "Ioannes Chrysostomus",
+            "Ioannes Antiochensis"
+        ],
+        "en": [
+            "John Chrysostom"
+        ],
+        "pl": [
+            "Jan Chryzostom",
+            "Jan Złotousty"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Chrysostomus",
+            "en": "Chrysostom",
+            "pl": "Chryzostom"
+        }
     ],
-    "en": [
-      "John Chrysostom"
-    ],
-    "pl": [
-      "Jan Chryzostom",
-      "Jan Złotousty"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Chrysostomus",
-      "en": "Chrysostom",
-      "pl": "Chryzostom"
+    "active": true,
+
+    "born": ["~347"],
+    "died": ["407-09-14"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./14#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/14#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./13#1", "1:sept./14#5"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "tih": {
+            "data-links": {
+                "mr-1584": ["1:Ianu./27#1"],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Januarii/27#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/67062",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Chryzostom"
     }
-  ],
-
-  "born": ["~347"],
-  "died": ["407-09-14"],
-
-  "also-in-martyrology": ["09-13", "09-14"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"]
 }

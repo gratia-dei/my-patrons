@@ -13046,7 +13046,7 @@
         }
     },
     "patrons/ioannes/chr": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Ioannes Chrysostomus",
             "en": "John Chrysostom",
@@ -13055,7 +13055,15 @@
         "died": [
             "407-09-14"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/tih": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sancti Ioannis Christostomi",
+                    "pl": "Przeniesienie ciała świętego Jana Chryzostoma"
+                }
+            }
+        },
         "forenames": {
             "forenames/ioannes": {
                 "active": true,

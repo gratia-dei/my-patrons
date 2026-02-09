@@ -15,6 +15,9 @@
             "3": "records/patrons/victor/car",
             "4": "records/patrons/rosula/car",
             "5": "records/patrons/generalis/car"
+        },
+        "5": {
+            "1": "records/patrons/ioannes/chr"
         }
     }
 }

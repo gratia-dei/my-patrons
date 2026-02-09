@@ -8897,6 +8897,16 @@
             "sources": {
                 "reliable-death-anniversary": "13 IX"
             }
+        },
+        "records/patrons/ioannes/chr": {
+            "name": {
+                "la": "Ioannes Chrysostomus",
+                "en": "John Chrysostom",
+                "pl": "Jan Chryzostom"
+            },
+            "sources": {
+                "mr-2004": "13 IX: #1"
+            }
         }
     },
     "09-14": {
@@ -8923,6 +8933,19 @@
             "sources": {
                 "reliable-death-anniversary": "14 IX",
                 "mr-2004": "14 IX: #10"
+            }
+        },
+        "records/patrons/ioannes/chr": {
+            "name": {
+                "la": "Ioannes Chrysostomus",
+                "en": "John Chrysostom",
+                "pl": "Jan Chryzostom"
+            },
+            "sources": {
+                "reliable-death-anniversary": "14 IX",
+                "mr-1584": "14 IX: #5",
+                "mr-1956": "14 IX: #4",
+                "mr-2004": "14 IX: #5"
             }
         },
         "records/patrons/cornelius/1pp": {
