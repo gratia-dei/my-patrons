@@ -12615,12 +12615,12 @@
         }
     },
     "patrons/ioanna/ver": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Jeanne Véron",
-            "en": "Joan Veron",
             "la": "Ioanna Véron",
-            "pl": "Joanna Veron"
+            "en": "Joann Véron",
+            "pl": "Joanna Véron"
         },
         "died": [
             "1794-03-20"

@@ -1192,9 +1192,9 @@
         },
         "records/patrons/ioanna/ver": {
             "fr": "Jeanne Véron",
-            "en": "Joan Veron",
             "la": "Ioanna Véron",
-            "pl": "Joanna Veron"
+            "en": "Joann Véron",
+            "pl": "Joanna Véron"
         },
         "records/patrons/ioannes/abu": {
             "la": "Ioannes; cum eo, i.a., Abundius",

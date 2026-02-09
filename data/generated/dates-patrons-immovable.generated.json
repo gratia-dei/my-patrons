@@ -2693,6 +2693,18 @@
         }
     },
     "03-20": {
+        "records/patrons/ioanna/ver": {
+            "name": {
+                "fr": "Jeanne Véron",
+                "la": "Ioanna Véron",
+                "en": "Joann Véron",
+                "pl": "Joanna Véron"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 III",
+                "mr-2004": "20 III: #13"
+            }
+        },
         "records/patrons/ioannes/nep": {
             "name": {
                 "cs": "Jan Nepomucký",
