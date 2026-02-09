@@ -1,32 +1,47 @@
 {
-  "names": {
-    "en": [
-      "John Bodey"
+    "names": {
+        "en": [
+            "John Bodey"
+        ],
+        "la": [
+            "Ioannes Bodey"
+        ],
+        "pl": [
+            "Jan Bodey"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "en": "Bodey"
+        }
     ],
-    "pl": [
-      "Jan Bodey"
-    ],
-    "la": [
-      "Ioannes Bodey"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "en": "Bodey"
+    "active": true,
+
+    "born": ["1549"],
+    "died": ["1583-11-02"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./2#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/66756",
+        "wiki": "https://en.wikipedia.org/wiki/John_Bodey"
     }
-  ],
-
-  "born": ["1549"],
-  "died": ["1583-11-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1929-12-15"
-  },
-
-  "also-in-martyrology": ["11-02"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "martyr"]
 }

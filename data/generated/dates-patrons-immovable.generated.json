@@ -11454,6 +11454,17 @@
         }
     },
     "11-02": {
+        "records/patrons/ioannes/bod": {
+            "name": {
+                "en": "John Bodey",
+                "la": "Ioannes Bodey",
+                "pl": "Jan Bodey"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 XI",
+                "mr-2004": "2 XI: #13"
+            }
+        },
         "records/patrons/pius/cam": {
             "name": {
                 "it": "Pio di San Luigi",

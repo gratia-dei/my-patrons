@@ -12822,11 +12822,11 @@
         }
     },
     "patrons/ioannes/bod": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "John Bodey",
-            "pl": "Jan Bodey",
-            "la": "Ioannes Bodey"
+            "la": "Ioannes Bodey",
+            "pl": "Jan Bodey"
         },
         "died": [
             "1583-11-02"
