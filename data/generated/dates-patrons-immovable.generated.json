@@ -3096,6 +3096,18 @@
                 "mr-2004": "28 III: #5"
             }
         },
+        "records/patrons/ioanna/mai": {
+            "name": {
+                "fr": "Jeanne-Marie de Maillé",
+                "la": "Ioanna Maria de Maille",
+                "en": "Joan Mary of Maille",
+                "pl": "Joanna Maria z Maille"
+            },
+            "sources": {
+                "reliable-death-anniversary": "28 III",
+                "mr-2004": "28 III: #10"
+            }
+        },
         "records/patrons/ioannes/cap": {
             "name": {
                 "it": "Giovanni da Capestrano",

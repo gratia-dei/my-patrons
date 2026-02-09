@@ -1,29 +1,46 @@
 {
-  "names": {
-    "fr": [
-      "Jeanne-Marie de Maillé"
-    ],
-    "en": [
-      "Joan Mary of Maille"
-    ],
-    "la": [
-      "Ioanna Maria de Maille"
-    ],
-    "pl": [
-      "Joanna Maria z Maille"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Jeanne-Marie de Maillé"
+        ],
+        "la": [
+            "Ioanna Maria de Maille"
+        ],
+        "en": [
+            "Joan Mary of Maille"
+        ],
+        "pl": [
+            "Joanna Maria z Maille"
+        ]
+    },
+    "forenames": ["ioanna", "maria"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1331-04-14"],
-  "died": ["1414-03-28"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1871-04-27"
-  },
+    "born": ["1331-04-14"],
+    "died": ["1414-03-28"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["03-28"],
+    "categories": ["femina", "reclusa", "coniunx"],
 
-  "forenames": ["ioanna", "maria"],
-  "categories": ["femina", "reclusa"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./28#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68723",
+        "wiki": "https://pl.wikipedia.org/wiki/Joanna_Maria_z_Maille"
+    }
 }
