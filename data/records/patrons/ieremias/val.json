@@ -1,44 +1,60 @@
 {
-  "names": {
-    "ro": [
-      "Ieremia Valahul",
-      "Ioan Costiste"
+    "names": {
+        "ro": [
+            "Ieremia Valahul",
+            "Ioan Costiste"
+        ],
+        "la": [
+            "Ieremias de Valachia",
+            "Ioannes Kostistik"
+        ],
+        "en": [
+            "Jeremiah of Wallachia"
+        ],
+        "pl": [
+            "Jeremiasz z Wołoszczyzny",
+            "Jeremiasz z Wołoszy",
+            "Jon Kostist"
+        ]
+    },
+    "forenames": ["ieremias", "ioannes"],
+    "surnames": [
+        {
+            "ro": "Costişte",
+            "en": "Costiste",
+            "la": "Kostistik",
+            "pl": "Kostist"
+        }
     ],
-    "en": [
-      "Jeremiah of Wallachia"
-    ],
-    "la": [
-      "Ieremias de Valachia",
-      "Ioannes Kostistik"
-    ],
-    "pl": [
-      "Jeremiasz z Wołoszczyzny",
-      "Jeremiasz z Wołoszy",
-      "Jon Kostist"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "ro": "Costişte",
-      "en": "Costiste",
-      "la": "Kostistik",
-      "pl": "Kostist"
+    "active": true,
+
+    "born": ["1556-06-29"],
+    "died": ["1625-03-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1983-10-30"
+    },
+    "canonized": null,
+    "anniversary": ["03-05"],
+
+    "categories": ["vir", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./5#10"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/geremia-da-valacchia.html",
+        "gcatholic": "https://gcatholic.org/p/67183",
+        "wiki": "https://pl.wikipedia.org/wiki/Jeremiasz_z_Wo%C5%82oszczyzny"
     }
-  ],
-
-  "born": ["1556-06-29"],
-  "died": ["1625-03-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1983-10-30"
-  },
-
-  "also-in-martyrology": ["03-05"],
-
-  "forenames": ["ieremias", "ioannes"],
-  "categories": ["vir", "religiosus"],
-
-  "order": ["ofmcap"]
 }

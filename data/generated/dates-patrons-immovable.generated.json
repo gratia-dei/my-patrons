@@ -2034,6 +2034,19 @@
         }
     },
     "03-05": {
+        "records/patrons/ieremias/val": {
+            "name": {
+                "ro": "Ieremia Valahul",
+                "la": "Ieremias de Valachia",
+                "en": "Jeremiah of Wallachia",
+                "pl": "Jeremiasz z Wołoszczyzny"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 III",
+                "feast": "5 III",
+                "mr-2004": "5 III: #10"
+            }
+        },
         "records/patrons/gerasimus/ior": {
             "name": {
                 "el": "Γεράσιμος Ἰορδανίτης",
