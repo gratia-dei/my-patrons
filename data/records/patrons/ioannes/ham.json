@@ -1,32 +1,50 @@
 {
-  "names": {
-    "en": [
-      "John Hambley"
+    "names": {
+        "en": [
+            "John Hambley"
+        ],
+        "la": [
+            "Ioannes Hambley"
+        ],
+        "pl": [
+            "Jan Hambley"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "en": "Hambley"
+        }
     ],
-    "la": [
-      "Ioannes Hambley"
-    ],
-    "pl": [
-      "Jan Hambley"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "en": "Hambley"
+    "active": true,
+
+    "born": ["~1560"],
+    "died": ["1587"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-11-22"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./29#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/85-martiri-inglesi.html",
+        "gcatholic": "https://gcatholic.org/p/66877",
+        "wiki": "https://en.wikipedia.org/wiki/John_Hambley_(martyr)"
     }
-  ],
-
-  "born": ["~1560"],
-  "died": ["1587"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1987-11-22"
-  },
-
-  "also-in-martyrology": ["03-29"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "martyr", "presbyter"]
 }

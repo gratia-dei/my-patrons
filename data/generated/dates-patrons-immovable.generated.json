@@ -3182,6 +3182,16 @@
             "sources": {
                 "mr-2004": "29 III: #5"
             }
+        },
+        "records/patrons/ioannes/ham": {
+            "name": {
+                "en": "John Hambley",
+                "la": "Ioannes Hambley",
+                "pl": "Jan Hambley"
+            },
+            "sources": {
+                "mr-2004": "29 III: #7"
+            }
         }
     },
     "03-30": {

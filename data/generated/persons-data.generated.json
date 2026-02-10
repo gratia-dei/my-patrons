@@ -13345,7 +13345,7 @@
         }
     },
     "patrons/ioannes/ham": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "John Hambley",
             "la": "Ioannes Hambley",
