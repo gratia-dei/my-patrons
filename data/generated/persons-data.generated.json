@@ -13715,11 +13715,11 @@
         }
     },
     "patrons/ioannes/sar": {
-        "active": false,
+        "active": true,
         "names": {
             "cs": "Jan Sarkander",
-            "en": "John Sarkander",
             "la": "Ioannes Sarkander",
+            "en": "John Sarkander",
             "pl": "Jan Sarkander"
         },
         "died": [

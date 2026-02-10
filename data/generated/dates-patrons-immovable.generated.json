@@ -2655,6 +2655,19 @@
                 "mr-2004": "17 III: #4"
             }
         },
+        "records/patrons/ioannes/sar": {
+            "name": {
+                "cs": "Jan Sarkander",
+                "la": "Ioannes Sarkander",
+                "en": "John Sarkander",
+                "pl": "Jan Sarkander"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 III",
+                "feast": "17 III",
+                "mr-2004": "17 III: #7"
+            }
+        },
         "records/patrons/ioseph/ari": {
             "name": {
                 "la": "Ioseph de Arimathaea",
