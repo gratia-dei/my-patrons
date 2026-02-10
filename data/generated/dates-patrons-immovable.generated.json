@@ -10093,6 +10093,18 @@
         }
     },
     "09-29": {
+        "records/patrons/ioannes/duk": {
+            "name": {
+                "pl": "Jan z Dukli",
+                "la": "Ioannes de Dukla",
+                "en": "John of Dukla"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 IX",
+                "feast": "29 IX",
+                "mr-2004": "29 IX: #12"
+            }
+        },
         "records/patrons/renatus/gou": {
             "name": {
                 "fr": "René Goupil",

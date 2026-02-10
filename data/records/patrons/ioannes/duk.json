@@ -1,32 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Ioannes de Dukla"
-    ],
-    "en": [
-      "John of Dukla"
-    ],
-    "pl": [
-      "Jan z Dukli"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Jan z Dukli"
+        ],
+        "la": [
+            "Ioannes de Dukla"
+        ],
+        "en": [
+            "John of Dukla"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~1414"],
-  "died": ["1484-09-29"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1733-01-23"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1997-06-10"
-  },
+    "born": ["~1414"],
+    "died": ["1484-09-29"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1997-06-10"
+    },
+    "anniversary": ["09-29"],
 
-  "also-in-martyrology": ["09-29"],
+    "categories": ["vir", "presbyter"],
 
-  "forenames": ["ioannes"],
-  "categories": ["vir", "presbyter"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["ofm"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./29#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-da-dukla.html",
+        "gcatholic": "https://gcatholic.org/p/67233",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_z_Dukli"
+    }
 }

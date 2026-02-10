@@ -13169,11 +13169,11 @@
         }
     },
     "patrons/ioannes/duk": {
-        "active": false,
+        "active": true,
         "names": {
+            "pl": "Jan z Dukli",
             "la": "Ioannes de Dukla",
-            "en": "John of Dukla",
-            "pl": "Jan z Dukli"
+            "en": "John of Dukla"
         },
         "died": [
             "1484-09-29"

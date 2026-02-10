@@ -564,9 +564,9 @@
             "pl": "Jan od Krzyża"
         },
         "records/patrons/ioannes/duk": {
+            "pl": "Jan z Dukli",
             "la": "Ioannes de Dukla",
-            "en": "John of Dukla",
-            "pl": "Jan z Dukli"
+            "en": "John of Dukla"
         },
         "records/patrons/ioannes/dun": {
             "de": "Johannes Duns Scotus",
