@@ -11800,6 +11800,19 @@
                 "mr-2004": "8 XI: #8"
             }
         },
+        "records/patrons/ioannes/dun": {
+            "name": {
+                "de": "Johannes Duns Scotus",
+                "la": "Ioannes Duns Scotus",
+                "en": "John Duns Scotus",
+                "pl": "Jan Duns Szkot"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 XI",
+                "feast": "8 XI",
+                "mr-2004": "8 XI: #6"
+            }
+        },
         "records/patrons/iosephus/ngu": {
             "name": {
                 "vi": "Giuse Nguyễn Đình Nghi",

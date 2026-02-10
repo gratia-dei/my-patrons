@@ -1,45 +1,62 @@
 {
-  "names": {
-    "de": [
-      "Johannes Duns Scotus"
-    ],
-    "en": [
-      "John Duns Scotus"
-    ],
-    "la": [
-      "Ioannes Duns Scotus"
-    ],
-    "pl": [
-      "Jan Duns Szkot"
-    ]
-  },
-
-  "epithets": [
-    {
-      "de": "Duns",
-      "en": "Duns",
-      "la": "Duns",
-      "pl": "Duns"
+    "names": {
+        "de": [
+            "Johannes Duns Scotus"
+        ],
+        "la": [
+            "Ioannes Duns Scotus"
+        ],
+        "en": [
+            "John Duns Scotus"
+        ],
+        "pl": [
+            "Jan Duns Szkot"
+        ]
     },
-    {
-      "de": "Schotte",
-      "en": "Scotus",
-      "la": "Scotus",
-      "pl": "Szkot"
+    "forenames": ["ioannes"],
+    "surnames": null,
+    "epithets": [
+        {
+            "de": "Duns",
+            "en": "Duns",
+            "la": "Duns",
+            "pl": "Duns"
+        },
+        {
+            "de": "Schotte",
+            "en": "Scotus",
+            "la": "Scotus",
+            "pl": "Szkot"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["~1266"],
+    "died": ["1308-11-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1993-03-20"
+    },
+    "canonized": null,
+    "anniversary": ["11-08"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./8#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/duns-scoto.html",
+        "gcatholic": "https://gcatholic.org/p/68487",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_Duns_Szkot"
     }
-  ],
-
-  "born": ["~1266"],
-  "died": ["1308-11-08"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1991-07-06"
-  },
-
-  "also-in-martyrology": ["11-08"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "presbyter"],
-  "order": ["ofm"]
 }
