@@ -12115,6 +12115,17 @@
                 "reliable-death-anniversary": "14 XI",
                 "mr-2004": "14 XI: #12"
             }
+        },
+        "records/patrons/ioannes/tup": {
+            "name": {
+                "it": "Giovanni da Tufara",
+                "la": "Ioannes de Tupharia",
+                "en": "John of Tufaria",
+                "pl": "Jan z Tufarii"
+            },
+            "sources": {
+                "mr-2004": "14 XI: #7"
+            }
         }
     },
     "11-15": {
