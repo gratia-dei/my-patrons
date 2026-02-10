@@ -14332,11 +14332,11 @@
         }
     },
     "patrons/iosephus/mor": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Joseph Moreau",
-            "en": "Joseph Moreau",
             "la": "Iosephus Moreau",
+            "en": "Joseph Moreau",
             "pl": "Józef Moreau"
         },
         "died": [

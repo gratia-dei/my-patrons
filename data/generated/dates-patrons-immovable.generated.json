@@ -3782,6 +3782,18 @@
                 "mr-1956": "18 IV: #1"
             }
         },
+        "records/patrons/iosephus/mor": {
+            "name": {
+                "fr": "Joseph Moreau",
+                "la": "Iosephus Moreau",
+                "en": "Joseph Moreau",
+                "pl": "Józef Moreau"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 IV",
+                "mr-2004": "18 IV: #15"
+            }
+        },
         "records/patrons/athanasia/aeg": {
             "name": {
                 "el": "Αθανασία της Αιγίνης",

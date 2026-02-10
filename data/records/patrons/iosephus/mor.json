@@ -1,35 +1,53 @@
 {
-  "names": {
-    "fr": [
-      "Joseph Moreau"
+    "names": {
+        "fr": [
+            "Joseph Moreau"
+        ],
+        "la": [
+            "Iosephus Moreau"
+        ],
+        "en": [
+            "Joseph Moreau"
+        ],
+        "pl": [
+            "Józef Moreau"
+        ]
+    },
+    "forenames": ["iosephus"],
+    "surnames": [
+        {
+            "fr": "Moreau"
+        }
     ],
-    "en": [
-      "Joseph Moreau"
-    ],
-    "la": [
-      "Iosephus Moreau"
-    ],
-    "pl": [
-      "Józef Moreau"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Moreau"
+    "active": true,
+
+    "born": ["1763-10-21"],
+    "died": ["1794-04-18"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1984-02-19"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./18#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/guglielmo-repin.html",
+        "gcatholic": "https://gcatholic.org/p/67655",
+        "wiki": "https://fr.wikipedia.org/wiki/Martyrs_d%27Angers"
     }
-  ],
-
-  "born": ["1763-10-21"],
-  "died": ["1794-04-18"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1984-02-19"
-  },
-
-  "also-in-martyrology": ["04-18"],
-
-  "forenames": ["iosephus"],
-  "categories": ["vir", "martyr", "presbyter"]
 }
