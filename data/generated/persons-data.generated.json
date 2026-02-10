@@ -14790,7 +14790,7 @@
         }
     },
     "patrons/iosue/nun": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Iosue, filius Nun",
             "en": "Joshua, son of Nun",

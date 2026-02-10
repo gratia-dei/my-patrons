@@ -8681,6 +8681,18 @@
                 "mr-1584": "1 IX: #4",
                 "mr-1956": "1 IX: #4"
             }
+        },
+        "records/patrons/iosue/nun": {
+            "name": {
+                "la": "Iosue, filius Nun",
+                "en": "Joshua, son of Nun",
+                "pl": "Jozue, syn Nuna"
+            },
+            "sources": {
+                "mr-1584": "1 IX: #3",
+                "mr-1956": "1 IX: #3",
+                "mr-2004": "1 IX: #1"
+            }
         }
     },
     "09-02": {
