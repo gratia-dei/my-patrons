@@ -1397,6 +1397,11 @@
             "la": "Gaudentius seu Radzim",
             "en": "Radim Gaudentius"
         },
+        "records/patrons/gedeon/man": {
+            "la": "Gedeon, filius Ioash",
+            "en": "Gedeon, son of Joash",
+            "pl": "Gedeon, syn Joasza"
+        },
         "records/patrons/generalis/car": {
             "la": "Generalis Carthaginensis",
             "en": "Generalis of Carthage",

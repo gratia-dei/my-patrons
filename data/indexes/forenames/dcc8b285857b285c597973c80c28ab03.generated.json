@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Gedeon",
+        "en": "Gedeon",
+        "pl": "Gedeon"
+    },
+    "translations": {
+        "la": [
+            "Gedeon"
+        ],
+        "en": [
+            "Gedeon"
+        ],
+        "pl": [
+            "Gedeon"
+        ]
+    },
+    "links": {
+        "records/patrons/gedeon/man": {
+            "la": "Gedeon, filius Ioash",
+            "en": "Gedeon, son of Joash",
+            "pl": "Gedeon, syn Joasza"
+        }
+    }
+}

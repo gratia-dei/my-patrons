@@ -9854,6 +9854,36 @@
             }
         }
     },
+    "patrons/gedeon": {
+        "names": {
+            "la": "Gedeon",
+            "en": "Gedeon",
+            "pl": "Gedeon"
+        }
+    },
+    "patrons/gedeon/man": {
+        "active": true,
+        "names": {
+            "la": "Gedeon, filius Ioash",
+            "en": "Gedeon, son of Joash",
+            "pl": "Gedeon, syn Joasza"
+        },
+        "died": [
+            ">-1200",
+            "<-1101"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/gedeon": {
+                "active": true,
+                "names": {
+                    "la": "Gedeon",
+                    "en": "Gedeon",
+                    "pl": "Gedeon"
+                }
+            }
+        }
+    },
     "patrons/gemma": {
         "names": {
             "la": "Gemma",

@@ -8693,6 +8693,17 @@
                 "mr-1956": "1 IX: #3",
                 "mr-2004": "1 IX: #1"
             }
+        },
+        "records/patrons/gedeon/man": {
+            "name": {
+                "la": "Gedeon, filius Ioash",
+                "en": "Gedeon, son of Joash",
+                "pl": "Gedeon, syn Joasza"
+            },
+            "sources": {
+                "mr-1584": "1 IX: #3",
+                "mr-1956": "1 IX: #3"
+            }
         }
     },
     "09-02": {
@@ -10101,6 +10112,16 @@
             },
             "sources": {
                 "mr-2004": "26 IX: #1"
+            }
+        },
+        "records/patrons/gedeon/man": {
+            "name": {
+                "la": "Gedeon, filius Ioash",
+                "en": "Gedeon, son of Joash",
+                "pl": "Gedeon, syn Joasza"
+            },
+            "sources": {
+                "mr-2004": "26 IX: #2"
             }
         }
     },
