@@ -26,6 +26,19 @@
                 "mr-1956": "1 I: #4"
             }
         },
+        "records/patrons/iosephus/tom": {
+            "name": {
+                "it": "Giuseppe Maria Tomasi",
+                "la": "Josephus Maria Tomasi",
+                "en": "Joseph Mary Tomasi",
+                "pl": "Józef Maria Tomasi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 I",
+                "feast": "1 I",
+                "mr-2004": "1 I: #13"
+            }
+        },
         "records/patrons/sigismundus/gor": {
             "name": {
                 "pl": "Zygmunt Gorazdowski",

@@ -1,41 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Giuseppe Maria Tomasi"
+    "names": {
+        "it": [
+            "Giuseppe Maria Tomasi"
+        ],
+        "la": [
+            "Josephus Maria Tomasi"
+        ],
+        "en": [
+            "Joseph Mary Tomasi"
+        ],
+        "pl": [
+            "Józef Maria Tomasi"
+        ]
+    },
+    "forenames": ["iosephus", "maria"],
+    "surnames": [
+        {
+            "it": "Tomasi"
+        }
     ],
-    "en": [
-      "Joseph Mary Tomasi"
-    ],
-    "la": [
-      "Josephus Maria Tomasi"
-    ],
-    "pl": [
-      "Józef Maria Tomasi"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Tomasi"
+    "active": true,
+
+    "born": ["1649-09-12"],
+    "died": ["1713-01-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1803-09-29"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1986-10-12"
+    },
+    "anniversary": ["01-01"],
+
+    "categories": ["vir", "presbyter", "cardinalis"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./1#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giuseppe-maria-tomasi.html",
+        "gcatholic": "https://gcatholic.org/p/16173",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Maria_Tomasi"
     }
-  ],
-
-  "born": ["1649-09-12"],
-  "died": ["1713-01-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1803-09-29"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1986-10-12"
-  },
-
-  "also-in-martyrology": ["01-01"],
-
-  "forenames": ["iosephus", "maria"],
-  "categories": ["vir", "presbyter", "cardinalis"],
-
-  "order": ["cr"]
 }
