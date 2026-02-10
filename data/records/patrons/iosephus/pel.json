@@ -1,38 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Józef Sebastian Pelczar"
+    "names": {
+        "pl": [
+            "Józef Sebastian Pelczar"
+        ],
+        "la": [
+            "Iosephus Sebastianus Pelczar"
+        ],
+        "en": [
+            "Joseph Sebastian Pelczar"
+        ]
+    },
+    "forenames": ["iosephus", "sebastianus"],
+    "surnames": [
+        {
+            "pl": "Pelczar"
+        }
     ],
-    "en": [
-      "Joseph Sebastian Pelczar"
-    ],
-    "la": [
-      "Iosephus Sebastianus Pelczar"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Pelczar"
+    "active": true,
+
+    "born": ["1842-01-17"],
+    "died": ["1924-03-28"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1991-06-02"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2003-05-18"
+    },
+    "anniversary": ["03-28"],
+
+    "categories": ["vir", "episcopus", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./28#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/josef-sebastian-pelczar.html",
+        "gcatholic": "https://gcatholic.org/p/15580",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Sebastian_Pelczar"
     }
-  ],
-
-  "born": ["1842-01-17"],
-  "died": ["1924-03-28"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1991-06-02"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2003-05-18"
-  },
-
-  "also-in-martyrology": ["03-28"],
-
-  "forenames": ["iosephus", "sebastianus"],
-  "categories": ["vir", "episcopus", "fundator"],
-
-  "order-founder": ["sscj"]
 }

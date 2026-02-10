@@ -14469,11 +14469,11 @@
         }
     },
     "patrons/iosephus/pel": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Józef Sebastian Pelczar",
-            "en": "Joseph Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar"
+            "la": "Iosephus Sebastianus Pelczar",
+            "en": "Joseph Sebastian Pelczar"
         },
         "died": [
             "1924-03-28"
