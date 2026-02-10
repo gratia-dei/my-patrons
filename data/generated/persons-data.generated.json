@@ -13912,11 +13912,11 @@
         }
     },
     "patrons/iosaphat/kun": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Jozafat Kuncewicz",
-            "en": "Josaphat Kuntsevych",
-            "la": "Iosaphat Kuncevicus"
+            "la": "Iosaphat Kuncewicz",
+            "en": "Josaphat Kuntsevych"
         },
         "died": [
             "1623-11-12"

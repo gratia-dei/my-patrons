@@ -12043,6 +12043,19 @@
                 "reliable-death-anniversary": "12 XI"
             }
         },
+        "records/patrons/iosaphat/kun": {
+            "name": {
+                "pl": "Jozafat Kuncewicz",
+                "la": "Iosaphat Kuncewicz",
+                "en": "Josaphat Kuntsevych"
+            },
+            "sources": {
+                "reliable-death-anniversary": "12 XI",
+                "feast": "12 XI",
+                "mr-1956": "12 XI: #2",
+                "mr-2004": "12 XI: #1"
+            }
+        },
         "records/patrons/martinus/1pp": {
             "name": {
                 "la": "Martinus Pp. I",
@@ -12126,6 +12139,16 @@
             "sources": {
                 "reliable-death-anniversary": "14 XI",
                 "mr-2004": "14 XI: #12"
+            }
+        },
+        "records/patrons/iosaphat/kun": {
+            "name": {
+                "pl": "Jozafat Kuncewicz",
+                "la": "Iosaphat Kuncewicz",
+                "en": "Josaphat Kuntsevych"
+            },
+            "sources": {
+                "mr-1956": "14 XI: #1"
             }
         },
         "records/patrons/ioannes/tup": {
