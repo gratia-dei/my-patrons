@@ -1,44 +1,59 @@
 {
-  "names": {
-    "ar": [
-      "جوزفين بخيتة"
+    "names": {
+        "ar": [
+            "جوزفين بخيتة"
+        ],
+        "la": [
+            "Iosephina Bakhita"
+        ],
+        "en": [
+            "Josephine Bakhita"
+        ],
+        "pl": [
+            "Józefina Bakhita"
+        ]
+    },
+    "forenames": ["iosephina"],
+    "surnames": null,
+    "epithets": [
+        {
+            "ar": "بخيتة",
+            "en": "Bakhita",
+            "la": "Bakhita",
+            "pl": "Bakhita"
+        }
     ],
-    "en": [
-      "Josephine Bakhita"
-    ],
-    "la": [
-      "Iosephina Bakhita"
-    ],
-    "pl": [
-      "Józefina Bakhita"
-    ]
-  },
 
-  "epithets": [
-    {
-      "ar": "بخيتة",
-      "en": "Bakhita",
-      "la": "Bakhita",
-      "pl": "Bakhita"
+    "active": true,
+
+    "born": ["~1868", "~1869"],
+    "died": ["1947-02-08"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1992-05-17"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2000-10-01"
+    },
+    "anniversary": ["02-08"],
+
+    "categories": ["femina", "virgo", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./8#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giuseppina-bakhita.html",
+        "gcatholic": "https://gcatholic.org/p/67241",
+        "wiki": "https://pl.wikipedia.org/wiki/J%C3%B3zefina_Bakhita"
     }
-  ],
-
-  "born": ["~1868", "~1869"],
-  "died": ["1947-02-08"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1992-05-17"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2000-10-01"
-  },
-
-  "also-in-martyrology": [],
-
-  "forenames": ["iosephina"],
-  "categories": ["femina", "virgo", "religiosus"],
-
-  "order": ["fdcc"]
 }

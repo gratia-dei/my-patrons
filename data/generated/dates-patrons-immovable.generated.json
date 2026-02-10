@@ -1120,6 +1120,19 @@
                 "mr-2004": "8 II: #1"
             }
         },
+        "records/patrons/iosephina/bak": {
+            "name": {
+                "ar": "جوزفين بخيتة",
+                "la": "Iosephina Bakhita",
+                "en": "Josephine Bakhita",
+                "pl": "Józefina Bakhita"
+            },
+            "sources": {
+                "reliable-death-anniversary": "8 II",
+                "feast": "8 II",
+                "mr-2004": "8 II: #2"
+            }
+        },
         "records/patrons/iosephina/bon": {
             "name": {
                 "it": "Giuseppina Gabriella Bonino",
