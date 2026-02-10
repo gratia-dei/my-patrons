@@ -9273,6 +9273,18 @@
                 "mr-2004": "18 IX: #9"
             }
         },
+        "records/patrons/iosephus/kut": {
+            "name": {
+                "pl": "Józef Kut",
+                "la": "Iosephus Kut",
+                "en": "Joseph Kut"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 IX",
+                "feast": "18 IX",
+                "mr-2004": "18 IX: #15"
+            }
+        },
         "records/patrons/david/oke": {
             "name": {
                 "sw": "Daudi Okelo",

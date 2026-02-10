@@ -14303,11 +14303,11 @@
         }
     },
     "patrons/iosephus/kut": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Józef Kut",
-            "en": "Joseph Kut",
-            "la": "Iosephus Kut"
+            "la": "Iosephus Kut",
+            "en": "Joseph Kut"
         },
         "died": [
             "1942-09-18"
