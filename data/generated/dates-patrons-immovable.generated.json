@@ -880,6 +880,18 @@
                 "mr-2004": "2 II: #8"
             }
         },
+        "records/patrons/ioannes/ven": {
+            "name": {
+                "fr": "Jean-Théophane Vénard",
+                "la": "Ioannes Theophanes Vénard",
+                "en": "John Theophanes Vénard",
+                "pl": "Jan Teofan Vénard"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 II",
+                "mr-2004": "2 II: #11"
+            }
+        },
         "records/patrons/maria/man": {
             "name": {
                 "it": "Maria Domenica Mantovani",
@@ -12384,6 +12396,18 @@
                 "la": "Ioannes Baptista Cỏn",
                 "en": "John Baptist Cỏn",
                 "pl": "Jan Chrzciciel Cỏn"
+            },
+            "sources": {
+                "feast": "24 XI",
+                "mr-2004": "24 XI: #1"
+            }
+        },
+        "records/patrons/ioannes/ven": {
+            "name": {
+                "fr": "Jean-Théophane Vénard",
+                "la": "Ioannes Theophanes Vénard",
+                "en": "John Theophanes Vénard",
+                "pl": "Jan Teofan Vénard"
             },
             "sources": {
                 "feast": "24 XI",
