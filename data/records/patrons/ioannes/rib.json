@@ -1,39 +1,57 @@
 {
-  "names": {
-    "es": [
-      "Juan de Ribera"
+    "names": {
+        "es": [
+            "Juan de Ribera"
+        ],
+        "la": [
+            "Ioannes de Ribera"
+        ],
+        "en": [
+            "John de Ribera"
+        ],
+        "pl": [
+            "Jan de Ribera"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "es": "de Ribera"
+        }
     ],
-    "en": [
-      "John de Ribera"
-    ],
-    "la": [
-      "Ioannes de Ribera"
-    ],
-    "pl": [
-      "Jan de Ribera"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "es": "de Ribera"
+    "active": true,
+
+    "canonized": null,
+    "born": ["1532-12-27"],
+    "died": ["1611-01-06"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1796-09-18"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1960-06-12"
+    },
+    "anniversary": ["01-06"],
+
+    "categories": ["vir", "episcopus", "rex"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./6#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giovanni-de-ribera.html",
+        "gcatholic": "https://gcatholic.org/p/15597",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_de_Ribera"
     }
-  ],
-
-  "born": ["1532-12-27"],
-  "died": ["1611-01-06"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1796-09-18"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1960-06-12"
-  },
-
-  "also-in-martyrology": ["01-06"],
-
-  "forenames": ["ioannes"],
-  "categories": ["vir", "episcopus", "rex"]
 }

@@ -13630,11 +13630,11 @@
         }
     },
     "patrons/ioannes/rib": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Juan de Ribera",
-            "en": "John de Ribera",
             "la": "Ioannes de Ribera",
+            "en": "John de Ribera",
             "pl": "Jan de Ribera"
         },
         "died": [

@@ -208,6 +208,19 @@
                 "mr-2004": "6 I: #9"
             }
         },
+        "records/patrons/ioannes/rib": {
+            "name": {
+                "es": "Juan de Ribera",
+                "la": "Ioannes de Ribera",
+                "en": "John de Ribera",
+                "pl": "Jan de Ribera"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "feast": "6 I",
+                "mr-2004": "6 I: #8"
+            }
+        },
         "records/patrons/petrus/tho": {
             "name": {
                 "it": "Pietro Tommaso",
