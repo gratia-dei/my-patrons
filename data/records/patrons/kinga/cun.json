@@ -1,35 +1,47 @@
 {
-  "names": {
-    "pl": [
-      "Kinga",
-      "Kunegunda"
-    ],
-    "en": [
-      "Kinga of Poland",
-      "Kinga of Hungary",
-      "Cunegunda"
-    ],
-    "la": [
-      "Kinga seu Cunegundis"
-    ]
-  },
+    "names": {
+        "pl": [
+            "Kinga Węgierska"
+        ],
+        "la": [
+            "Kinga seu Cunegundis"
+        ],
+        "en": [
+            "Kinga of Poland",
+            "Kinga of Hungary"
+        ]
+    },
+    "forenames": ["kinga", "cunegundis"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1224-03-05", "1234-03-05"],
-  "died": ["1293-07-24"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1690-06-10"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1999-06-16"
-  },
+    "born": ["1234-03-05"],
+    "died": ["1292-07-24"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1999-06-16"
+    },
+    "anniversary": ["03-03"],
 
-  "also-in-martyrology": ["07-24"],
+    "categories": ["femina", "virgo", "monialis", "dux"],
 
-  "forenames": ["kinga", "cunegundis"],
-  "categories": ["femina", "virgo", "monialis", "dux"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["osc"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./24#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/cunegonda-kinga.html",
+        "gcatholic": "https://gcatholic.org/p/67133",
+        "wiki": "https://pl.wikipedia.org/wiki/Kinga_(%C5%9Bwi%C4%99ta)"
+    }
 }

@@ -2084,6 +2084,16 @@
                 "mr-2004": "3 III: #14"
             }
         },
+        "records/patrons/kinga/cun": {
+            "name": {
+                "pl": "Kinga Węgierska",
+                "la": "Kinga seu Cunegundis",
+                "en": "Kinga of Poland"
+            },
+            "sources": {
+                "feast": "3 III"
+            }
+        },
         "records/patrons/iacobinus/can": {
             "name": {
                 "it": "Giacomino de' Canepacci",
@@ -7017,6 +7027,17 @@
         }
     },
     "07-24": {
+        "records/patrons/kinga/cun": {
+            "name": {
+                "pl": "Kinga Węgierska",
+                "la": "Kinga seu Cunegundis",
+                "en": "Kinga of Poland"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 VII",
+                "mr-2004": "24 VII: #11"
+            }
+        },
         "records/patrons/sarbelius/mak": {
             "name": {
                 "ar": "شربل مخلوف",

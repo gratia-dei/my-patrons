@@ -15478,14 +15478,14 @@
         }
     },
     "patrons/kinga/cun": {
-        "active": false,
+        "active": true,
         "names": {
-            "pl": "Kinga",
-            "en": "Kinga of Poland",
-            "la": "Kinga seu Cunegundis"
+            "pl": "Kinga Węgierska",
+            "la": "Kinga seu Cunegundis",
+            "en": "Kinga of Poland"
         },
         "died": [
-            "1293-07-24"
+            "1292-07-24"
         ],
         "feasts": [],
         "forenames": {
