@@ -1629,6 +1629,18 @@
                 "mr-2004": "20 II: #7"
             }
         },
+        "records/patrons/iulia/rod": {
+            "name": {
+                "pl": "Julia Rodzińska",
+                "en": "Julia Rodzińska",
+                "la": "Iulia Rodzińska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 II",
+                "feast": "20 II",
+                "mr-2004": "20 II: #8"
+            }
+        },
         "records/patrons/ludovicus/mzy": {
             "name": {
                 "pl": "Ludwik Mzyk",

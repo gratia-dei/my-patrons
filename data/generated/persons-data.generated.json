@@ -15126,7 +15126,7 @@
         }
     },
     "patrons/iulia/rod": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Julia Rodzińska",
             "en": "Julia Rodzińska",

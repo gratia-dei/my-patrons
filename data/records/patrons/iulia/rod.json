@@ -1,34 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Julia Rodzińska"
+    "names": {
+        "pl": [
+            "Julia Rodzińska"
+        ],
+        "en": [
+            "Julia Rodzińska"
+        ],
+        "la": [
+            "Iulia Rodzińska"
+        ]
+    },
+    "forenames": ["iulia"],
+    "surnames": [
+        {
+            "pl": "Rodzińska"
+        }
     ],
-    "en": [
-      "Julia Rodzińska"
-    ],
-    "la": [
-      "Iulia Rodzińska"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Rodzińska"
+    "active": true,
+
+    "born": ["1899-03-16"],
+    "died": ["1945-02-20"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["02-20"],
+
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./20#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67824",
+        "wiki": "https://pl.wikipedia.org/wiki/Julia_Rodzi%C5%84ska"
     }
-  ],
-
-  "born": ["1899-03-16"],
-  "died": ["1945-02-20"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["02-20"],
-
-  "forenames": ["iulia"],
-  "categories": ["femina", "martyr", "virgo"],
-
-  "order": ["op"]
 }
