@@ -3720,6 +3720,17 @@
                 "mr-1956": "11 IV: #8",
                 "mr-2004": "11 IV: #11"
             }
+        },
+        "records/patrons/leo/1pp": {
+            "name": {
+                "la": "Leo I Magnus",
+                "en": "Leo I the Great",
+                "pl": "Leon I Wielki"
+            },
+            "sources": {
+                "mr-1584": "11 IV: #1",
+                "mr-1956": "11 IV: #1"
+            }
         }
     },
     "04-12": {
@@ -12209,6 +12220,18 @@
         }
     },
     "11-10": {
+        "records/patrons/leo/1pp": {
+            "name": {
+                "la": "Leo I Magnus",
+                "en": "Leo I the Great",
+                "pl": "Leon I Wielki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 XI",
+                "mr-1956": "10 XI: #3",
+                "mr-2004": "10 XI: #1"
+            }
+        },
         "records/patrons/tryphon/phr": {
             "name": {
                 "la": "Tryphon de Phrygia",

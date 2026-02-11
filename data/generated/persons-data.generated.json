@@ -15840,7 +15840,7 @@
         }
     },
     "patrons/leo/1pp": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Leo I Magnus",
             "en": "Leo I the Great",
