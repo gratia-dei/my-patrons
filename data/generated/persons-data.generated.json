@@ -15914,16 +15914,15 @@
         }
     },
     "patrons/leonardus/ere": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Léonard de Noblat",
-            "en": "Leonard of Noblac",
             "la": "Leonardus Lemovicensis",
+            "en": "Leonard of Noblac",
             "pl": "Leonard z Limoges"
         },
         "died": [
-            ">501",
-            "<600"
+            "~559"
         ],
         "feasts": [],
         "forenames": {

@@ -12044,6 +12044,19 @@
         }
     },
     "11-06": {
+        "records/patrons/leonardus/ere": {
+            "name": {
+                "fr": "Léonard de Noblat",
+                "la": "Leonardus Lemovicensis",
+                "en": "Leonard of Noblac",
+                "pl": "Leonard z Limoges"
+            },
+            "sources": {
+                "mr-1584": "6 XI: #7",
+                "mr-1956": "6 XI: #7",
+                "mr-2004": "6 XI: #5"
+            }
+        },
         "records/patrons/paulus/con": {
             "name": {
                 "la": "Paulus Constantinopolitanus",
