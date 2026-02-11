@@ -4,7 +4,8 @@
     },
     "translations": {
         "la": [
-            "Isaias"
+            "Isaias",
+            "Esaias"
         ],
         "en": [
             "Isaiah"
@@ -18,10 +19,10 @@
     },
     "links": {
         "records/patrons/isaias/pro": {
-            "he": "יְשַׁעְיָהוּ",
-            "en": "Isaiah",
-            "la": "Isaias",
-            "pl": "Izajasz"
+            "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
+            "la": "Isaias, propheta",
+            "en": "Isaiah, prophet",
+            "pl": "Izajasz, prorok"
         }
     }
 }

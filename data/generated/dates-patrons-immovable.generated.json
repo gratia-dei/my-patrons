@@ -4475,6 +4475,17 @@
                 "mr-1584": "9 V: #1",
                 "mr-1956": "9 V: #1"
             }
+        },
+        "records/patrons/isaias/pro": {
+            "name": {
+                "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
+                "la": "Isaias, propheta",
+                "en": "Isaiah, prophet",
+                "pl": "Izajasz, prorok"
+            },
+            "sources": {
+                "mr-2004": "9 V: #1"
+            }
         }
     },
     "05-10": {
@@ -6160,6 +6171,18 @@
             },
             "sources": {
                 "feast": "6 VII"
+            }
+        },
+        "records/patrons/isaias/pro": {
+            "name": {
+                "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
+                "la": "Isaias, propheta",
+                "en": "Isaiah, prophet",
+                "pl": "Izajasz, prorok"
+            },
+            "sources": {
+                "mr-1584": "6 VII: #2",
+                "mr-1956": "6 VII: #2"
             }
         },
         "records/patrons/tranquillinus/rom": {
