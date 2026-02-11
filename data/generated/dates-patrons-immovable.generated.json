@@ -1294,6 +1294,17 @@
                 "mr-1956": "11 II: #5",
                 "mr-2004": "11 II: #7"
             }
+        },
+        "records/patrons/lazarus/med": {
+            "name": {
+                "la": "Lazarus Mediolanensis",
+                "en": "Lazarus of Milan",
+                "pl": "Łazarz z Mediolanu"
+            },
+            "sources": {
+                "mr-1584": "11 II: #6",
+                "mr-1956": "11 II: #8"
+            }
         }
     },
     "02-12": {
@@ -2560,6 +2571,16 @@
                 "mr-1584": "14 III: #7",
                 "mr-1956": "14 III: #7",
                 "mr-2004": "14 III: #4"
+            }
+        },
+        "records/patrons/lazarus/med": {
+            "name": {
+                "la": "Lazarus Mediolanensis",
+                "en": "Lazarus of Milan",
+                "pl": "Łazarz z Mediolanu"
+            },
+            "sources": {
+                "mr-2004": "14 III: #2"
             }
         }
     },

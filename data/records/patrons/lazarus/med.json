@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Lazarus Mediolanensis"
-    ],
-    "en": [
-      "Lazarus of Milan"
-    ],
-    "pl": [
-      "Łazarz z Mediolanu"
-    ]
-  },
+    "names": {
+        "la": [
+            "Lazarus Mediolanensis"
+        ],
+        "en": [
+            "Lazarus of Milan"
+        ],
+        "pl": [
+            "Łazarz z Mediolanu"
+        ]
+    },
+    "forenames": ["lazarus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~449"],
+    "active": true,
 
-  "also-in-martyrology": ["02-11", "03-14"],
+    "born": null,
+    "died": ["~449"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["lazarus"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Febr./11#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/11#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./14#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/47504",
+        "wiki": "https://en.wikipedia.org/wiki/Lazarus_(bishop_of_Milan)"
+    }
 }

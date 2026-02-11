@@ -15811,7 +15811,7 @@
         }
     },
     "patrons/lazarus/med": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Lazarus Mediolanensis",
             "en": "Lazarus of Milan",
