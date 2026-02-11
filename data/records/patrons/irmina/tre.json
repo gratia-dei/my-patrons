@@ -1,21 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Irmina de Oeren"
-    ],
-    "en": [
-      "Irmina of Oeren"
-    ],
-    "pl": [
-      "Irmina z Oeren",
-      "Irmina z Trewiru"
-    ]
-  },
+    "names": {
+        "la": [
+            "Irmina de Oeren",
+            "Irmina de Treviris"
+        ],
+        "en": [
+            "Irmina of Oeren",
+            "Irmina of Trier"
+        ],
+        "pl": [
+            "Irmina z Oeren",
+            "Irmina z Trewiru"
+        ]
+    },
+    "forenames": ["irmina"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~710"],
+    "active": true,
 
-  "also-in-martyrology": ["12-24"],
+    "born": null,
+    "died": ["~710"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["irmina"],
-  "categories": ["femina", "virgo", "abbas"]
+    "categories": ["femina", "virgo", "abbas"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./24#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/24#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./24#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70612",
+        "wiki": "https://pl.wikipedia.org/wiki/Irmina_z_Oeren"
+    }
 }

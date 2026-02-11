@@ -13558,6 +13558,18 @@
                 "reliable-death-anniversary": "24 XII",
                 "mr-2004": "24 XII: #8"
             }
+        },
+        "records/patrons/irmina/tre": {
+            "name": {
+                "la": "Irmina de Oeren",
+                "en": "Irmina of Oeren",
+                "pl": "Irmina z Oeren"
+            },
+            "sources": {
+                "mr-1584": "24 XII: #6",
+                "mr-1956": "24 XII: #9",
+                "mr-2004": "24 XII: #4"
+            }
         }
     },
     "12-25": {

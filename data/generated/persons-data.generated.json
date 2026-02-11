@@ -14902,7 +14902,7 @@
         }
     },
     "patrons/irmina/tre": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Irmina de Oeren",
             "en": "Irmina of Oeren",
