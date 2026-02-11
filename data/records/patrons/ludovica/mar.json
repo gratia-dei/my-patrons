@@ -1,42 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Louise de Marillac"
+    "names": {
+        "fr": [
+            "Louise de Marillac"
+        ],
+        "la": [
+            "Ludovica de Marillac"
+        ],
+        "en": [
+            "Louise de Marillac"
+        ],
+        "pl": [
+            "Ludwika de Marillac"
+        ]
+    },
+    "forenames": ["ludovica"],
+    "surnames": [
+        {
+            "fr": "de Marillac"
+        }
     ],
-    "en": [
-      "Louise de Marillac"
-    ],
-    "la": [
-      "Ludovica de Marillac"
-    ],
-    "pl": [
-      "Ludwika de Marillac"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "de Marillac"
+    "active": true,
+
+    "born": ["1591-08-12"],
+    "died": ["1660-03-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1920-05-09"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1934-03-11"
+    },
+    "anniversary": ["03-15", "05-09"],
+
+    "categories": ["femina", "vidua", "formator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/15#10"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./15#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/luisa-de-marillac.html",
+        "gcatholic": "https://gcatholic.org/p/68109",
+        "wiki": "https://pl.wikipedia.org/wiki/Ludwika_de_Marillac"
     }
-  ],
-
-  "born": ["1591-08-12"],
-  "died": ["1660-03-15"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1920-05-09"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1934-03-11"
-  },
-
-  "also-in-martyrology": ["03-15"],
-
-  "forenames": ["ludovica"],
-  "categories": ["femina", "vidua", "formator"],
-
-  "order": ["sm"],
-  "order-founder": ["sm"]
 }

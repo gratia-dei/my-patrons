@@ -2598,6 +2598,20 @@
                 "mr-1956": "15 III: #8",
                 "mr-2004": "15 III: #7"
             }
+        },
+        "records/patrons/ludovica/mar": {
+            "name": {
+                "fr": "Louise de Marillac",
+                "la": "Ludovica de Marillac",
+                "en": "Louise de Marillac",
+                "pl": "Ludwika de Marillac"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 III",
+                "feast": "15 III",
+                "mr-1956": "15 III: #10",
+                "mr-2004": "15 III: #6"
+            }
         }
     },
     "03-16": {
@@ -4555,6 +4569,17 @@
                 "reliable-death-anniversary": "9 V",
                 "feast": "9 V",
                 "mr-2004": "9 V: #13"
+            }
+        },
+        "records/patrons/ludovica/mar": {
+            "name": {
+                "fr": "Louise de Marillac",
+                "la": "Ludovica de Marillac",
+                "en": "Louise de Marillac",
+                "pl": "Ludwika de Marillac"
+            },
+            "sources": {
+                "feast": "9 V"
             }
         },
         "records/patrons/gregorius/naz": {
