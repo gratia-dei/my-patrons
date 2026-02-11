@@ -56,6 +56,11 @@
             "en": "Pancras of Rome",
             "pl": "Pankracy z Rzymu"
         },
+        "records/patrons/pastor/ius": {
+            "la": "Pastor Complutensis",
+            "en": "Pastor of Complutum",
+            "pl": "Pastor z Komplutum"
+        },
         "records/patrons/quiricus/iul": {
             "el": "Κήρυκος /+ Ιουλίττα",
             "en": "Cyricus /+ Julitta",

@@ -22110,6 +22110,35 @@
             }
         }
     },
+    "patrons/pastor": {
+        "names": {
+            "la": "Pastor",
+            "en": "Pastor",
+            "pl": "Pastor"
+        }
+    },
+    "patrons/pastor/ius": {
+        "active": true,
+        "names": {
+            "la": "Pastor Complutensis",
+            "en": "Pastor of Complutum",
+            "pl": "Pastor z Komplutum"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/pastor": {
+                "active": true,
+                "names": {
+                    "la": "Pastor",
+                    "en": "Pastor",
+                    "pl": "Pastor"
+                }
+            }
+        }
+    },
     "patrons/patiens": {
         "names": {
             "la": "Patiens",

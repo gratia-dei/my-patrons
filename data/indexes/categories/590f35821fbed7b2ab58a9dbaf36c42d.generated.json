@@ -2735,6 +2735,11 @@
             "en": "Paphnutius of Thebes",
             "pl": "Pafnucy z Tebaidy"
         },
+        "records/patrons/pastor/ius": {
+            "la": "Pastor Complutensis",
+            "en": "Pastor of Complutum",
+            "pl": "Pastor z Komplutum"
+        },
         "records/patrons/patiens/met": {
             "fr": "Patient de Metz",
             "la": "Patiens Metensis",

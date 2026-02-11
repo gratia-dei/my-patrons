@@ -7798,6 +7798,18 @@
                 "mr-1956": "6 VIII: #6",
                 "mr-2004": "6 VIII: #3"
             }
+        },
+        "records/patrons/pastor/ius": {
+            "name": {
+                "la": "Pastor Complutensis",
+                "en": "Pastor of Complutum",
+                "pl": "Pastor z Komplutum"
+            },
+            "sources": {
+                "mr-1584": "6 VIII: #4",
+                "mr-1956": "6 VIII: #6",
+                "mr-2004": "6 VIII: #3"
+            }
         }
     },
     "08-07": {

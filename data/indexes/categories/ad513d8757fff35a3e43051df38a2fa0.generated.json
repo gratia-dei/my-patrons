@@ -2043,6 +2043,11 @@
             "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
             "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
         },
+        "records/patrons/pastor/ius": {
+            "la": "Pastor Complutensis",
+            "en": "Pastor of Complutum",
+            "pl": "Pastor z Komplutum"
+        },
         "records/patrons/paulus/apo": {
             "he": "שָׁאוּל התרס",
             "la": "Paulus Tersensis",

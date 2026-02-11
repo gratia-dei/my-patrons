@@ -1,0 +1,25 @@
+{
+    "names": {
+        "la": "Pastor",
+        "en": "Pastor",
+        "pl": "Pastor"
+    },
+    "translations": {
+        "la": [
+            "Pastor"
+        ],
+        "en": [
+            "Pastor"
+        ],
+        "pl": [
+            "Pastor"
+        ]
+    },
+    "links": {
+        "records/patrons/pastor/ius": {
+            "la": "Pastor Complutensis",
+            "en": "Pastor of Complutum",
+            "pl": "Pastor z Komplutum"
+        }
+    }
+}
