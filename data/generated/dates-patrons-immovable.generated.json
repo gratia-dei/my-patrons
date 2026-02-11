@@ -7318,6 +7318,19 @@
                 "mr-1956": "31 VII: #1",
                 "mr-2004": "31 VII: #1"
             }
+        },
+        "records/patrons/iustinus/iac": {
+            "name": {
+                "it": "Giustino de Jacobis",
+                "la": "Iustinus de Iacobis",
+                "en": "Justin de Jacobis",
+                "pl": "Justyn de Jacobis"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 VII",
+                "feast": "31 VII",
+                "mr-2004": "31 VII: #13"
+            }
         }
     },
     "08-01": {

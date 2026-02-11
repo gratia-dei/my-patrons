@@ -15366,11 +15366,11 @@
         }
     },
     "patrons/iustinus/iac": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Giustino de Jacobis",
-            "en": "Justin de Jacobis",
             "la": "Iustinus de Iacobis",
+            "en": "Justin de Jacobis",
             "pl": "Justyn de Jacobis"
         },
         "died": [

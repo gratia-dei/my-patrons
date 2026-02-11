@@ -1,41 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Giustino de Jacobis"
+    "names": {
+        "it": [
+            "Giustino de Jacobis"
+        ],
+        "la": [
+            "Iustinus de Iacobis"
+        ],
+        "en": [
+            "Justin de Jacobis"
+        ],
+        "pl": [
+            "Justyn de Jacobis"
+        ]
+    },
+    "forenames": ["iustinus"],
+    "surnames": [
+        {
+            "it": "de Jacobis"
+        }
     ],
-    "en": [
-      "Justin de Jacobis"
-    ],
-    "la": [
-      "Iustinus de Iacobis"
-    ],
-    "pl": [
-      "Justyn de Jacobis"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "de Jacobis"
+    "active": true,
+
+    "born": ["1800-10-09"],
+    "died": ["1860-07-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1939-07-25"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1975-10-26"
+    },
+    "anniversary": ["07-31"],
+
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./31#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/giustino-de-jacobis.html",
+        "gcatholic": "https://gcatholic.org/p/58215",
+        "wiki": "https://pl.wikipedia.org/wiki/Justyn_de_Jacobis"
     }
-  ],
-
-  "born": ["1800-10-09"],
-  "died": ["1860-07-31"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1939-06-25"
-  },
-  "canonized": {
-    "type": "equipollently",
-    "date": "1975-10-26"
-  },
-
-  "also-in-martyrology": ["07-31"],
-
-  "forenames": ["iustinus"],
-  "categories": ["vir", "episcopus"],
-
-  "order": ["cm"]
 }
