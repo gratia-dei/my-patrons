@@ -3514,6 +3514,20 @@
                 "feast": "4 IV",
                 "mr-2004": "4 IV: #9"
             }
+        },
+        "records/patrons/isidorus/his": {
+            "name": {
+                "es": "Isidoro de Sevilla",
+                "la": "Isidorus Hispalensis",
+                "en": "Isidore of Seville",
+                "pl": "Izydor z Sewilli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 IV",
+                "mr-1584": "4 IV: #3",
+                "mr-1956": "4 IV: #1",
+                "mr-2004": "4 IV: #1"
+            }
         }
     },
     "04-05": {

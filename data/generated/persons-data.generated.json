@@ -15021,7 +15021,8 @@
         "names": {
             "la": "Isidorus",
             "en": "Isidore",
-            "pl": "Izydor"
+            "pl": "Izydor",
+            "es": "Isidoro"
         }
     },
     "patrons/isidorus/ale": {
@@ -15041,14 +15042,16 @@
                 "names": {
                     "la": "Isidorus",
                     "en": "Isidore",
-                    "pl": "Izydor"
+                    "pl": "Izydor",
+                    "es": "Isidoro"
                 }
             }
         }
     },
     "patrons/isidorus/his": {
-        "active": false,
+        "active": true,
         "names": {
+            "es": "Isidoro de Sevilla",
             "la": "Isidorus Hispalensis",
             "en": "Isidore of Seville",
             "pl": "Izydor z Sewilli"
@@ -15063,7 +15066,8 @@
                 "names": {
                     "la": "Isidorus",
                     "en": "Isidore",
-                    "pl": "Izydor"
+                    "pl": "Izydor",
+                    "es": "Isidoro"
                 }
             }
         }

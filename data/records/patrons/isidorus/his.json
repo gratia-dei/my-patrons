@@ -1,21 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Isidorus Hispalensis"
-    ],
-    "en": [
-      "Isidore of Seville"
-    ],
-    "pl": [
-      "Izydor z Sewilli"
-    ]
-  },
+    "names": {
+        "es": [
+            "Isidoro de Sevilla"
+        ],
+        "la": [
+            "Isidorus Hispalensis"
+        ],
+        "en": [
+            "Isidore of Seville"
+        ],
+        "pl": [
+            "Izydor z Sewilli"
+        ]
+    },
+    "forenames": ["isidorus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~560"],
-  "died": ["636-04-04"],
+    "active": true,
 
-  "also-in-martyrology": ["04-04"],
+    "born": ["~560"],
+    "died": ["636-04-04"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["isidorus"],
-  "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"]
+    "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./4#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/4#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./4#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/62874",
+        "wiki": "https://pl.wikipedia.org/wiki/Izydor_z_Sewilli"
+    }
 }
