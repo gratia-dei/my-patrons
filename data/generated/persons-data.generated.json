@@ -15420,11 +15420,11 @@
         }
     },
     "patrons/iustus/pas": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Iustus /+ Pastor",
-            "en": "Justus /+ Pastor",
-            "pl": "Just /+ Pastor"
+            "la": "Iustus Complutensis",
+            "en": "Justus of Complutum",
+            "pl": "Just z Komplutum"
         },
         "died": [
             "~304"

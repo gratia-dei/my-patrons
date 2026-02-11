@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Iustus /+ Pastor"
-    ],
-    "en": [
-      "Justus /+ Pastor"
-    ],
-    "pl": [
-      "Just /+ Pastor"
-    ]
-  },
+    "names": {
+        "la": [
+            "Iustus Complutensis"
+        ],
+        "en": [
+            "Justus of Complutum"
+        ],
+        "pl": [
+            "Just z Komplutum"
+        ]
+    },
+    "forenames": ["iustus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~304"],
+    "active": true,
 
-  "also-in-martyrology": ["08-06"],
+    "born": null,
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["iustus"],
-  "categories": ["vir", "puer", "martyr"]
+    "categories": ["vir", "puer", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./6#4"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/6#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./6#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69572",
+        "wiki": "https://en.wikipedia.org/wiki/Justus_and_Pastor"
+    }
 }

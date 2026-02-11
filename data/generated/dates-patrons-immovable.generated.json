@@ -7786,6 +7786,18 @@
                 "mr-1956": "6 VIII: #2",
                 "mr-2004": "6 VIII: #2"
             }
+        },
+        "records/patrons/iustus/pas": {
+            "name": {
+                "la": "Iustus Complutensis",
+                "en": "Justus of Complutum",
+                "pl": "Just z Komplutum"
+            },
+            "sources": {
+                "mr-1584": "6 VIII: #4",
+                "mr-1956": "6 VIII: #6",
+                "mr-2004": "6 VIII: #3"
+            }
         }
     },
     "08-07": {
