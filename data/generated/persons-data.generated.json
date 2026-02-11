@@ -15449,7 +15449,7 @@
         }
     },
     "patrons/iuvenalis/nar": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Iuvenalis Narniensis",
             "en": "Juvenal of Narni",

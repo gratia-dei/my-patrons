@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Iuvenalis Narniensis"
-    ],
-    "en": [
-      "Juvenal of Narni"
-    ],
-    "pl": [
-      "Juwenalis z Narni"
-    ]
-  },
+    "names": {
+        "la": [
+            "Iuvenalis Narniensis"
+        ],
+        "en": [
+            "Juvenal of Narni"
+        ],
+        "pl": [
+            "Juwenalis z Narni"
+        ]
+    },
+    "forenames": ["iuvenalis"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~376"],
+    "active": true,
 
-  "also-in-martyrology": ["05-03"],
+    "born": null,
+    "died": ["~376"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["iuvenalis"],
-  "categories": ["vir", "confessor", "episcopus"]
+    "categories": ["vir", "confessor", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Mai./3#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/3#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:maii/3#4"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/43067",
+        "wiki": "https://pl.wikipedia.org/wiki/Juwenalis_z_Narni"
+    }
 }
