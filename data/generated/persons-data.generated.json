@@ -15741,7 +15741,7 @@
         }
     },
     "patrons/laurentius/can": {
-        "active": false,
+        "active": true,
         "names": {
             "en": "Laurence of Canterbury",
             "la": "Laurentius Cantuariensis",
