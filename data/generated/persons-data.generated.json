@@ -18063,11 +18063,11 @@
         }
     },
     "patrons/maria/kar": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Karłowska",
-            "en": "Maria Karłowska",
-            "la": "Maria Karlowska"
+            "la": "Maria Karlowska",
+            "en": "Maria Karłowska"
         },
         "died": [
             "1935-03-24"

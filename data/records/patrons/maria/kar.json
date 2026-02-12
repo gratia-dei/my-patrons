@@ -1,36 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Maria Karłowska"
+    "names": {
+        "pl": [
+            "Maria Karłowska"
+        ],
+        "la": [
+            "Maria Karlowska"
+        ],
+        "en": [
+            "Maria Karłowska"
+        ]
+    },
+    "forenames": ["maria"],
+    "surnames": [
+        {
+            "pl": "Karłowska",
+            "la": "Karlowska"
+        }
     ],
-    "en": [
-      "Maria Karłowska"
-    ],
-    "la": [
-      "Maria Karlowska"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Karłowska",
-      "la": "Karlowska"
+    "active": true,
+
+    "born": ["1865-09-04"],
+    "died": ["1935-03-24"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1997-06-06"
+    },
+    "canonized": null,
+    "anniversary": ["03-24"],
+
+    "categories": ["femina", "virgo", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./24#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-karlowska.html",
+        "gcatholic": "https://gcatholic.org/p/68510",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Kar%C5%82owska"
     }
-  ],
-
-  "born": ["1865-09-04"],
-  "died": ["1935-03-24"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1997-06-06"
-  },
-
-  "also-in-martyrology": ["03-24"],
-
-  "forenames": ["maria"],
-  "categories": ["femina", "virgo", "institutor"],
-
-  "order": ["csdp"],
-  "order-founder": ["csdp"]
 }

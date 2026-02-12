@@ -3162,6 +3162,18 @@
                 "reliable-death-anniversary": "24 III"
             }
         },
+        "records/patrons/maria/kar": {
+            "name": {
+                "pl": "Maria Karłowska",
+                "la": "Maria Karlowska",
+                "en": "Maria Karłowska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "24 III",
+                "feast": "24 III",
+                "mr-2004": "24 III: #8"
+            }
+        },
         "records/patrons/maria/ulm": {
             "name": {
                 "pl": "Maria Ulma",
