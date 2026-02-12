@@ -269,6 +269,18 @@
                 "reliable-death-anniversary": "6 I",
                 "mr-2004": "6 I: #6"
             }
+        },
+        "records/patrons/melanius/rhe": {
+            "name": {
+                "fr": "Melaine de Rennes",
+                "la": "Melanius Rhedonensis",
+                "en": "Melaine of Rennes",
+                "pl": "Melaniusz z Rennes"
+            },
+            "sources": {
+                "mr-1584": "6 I: #4",
+                "mr-1956": "6 I: #6"
+            }
         }
     },
     "01-07": {
@@ -12326,6 +12338,17 @@
                 "mr-1584": "6 XI: #7",
                 "mr-1956": "6 XI: #7",
                 "mr-2004": "6 XI: #5"
+            }
+        },
+        "records/patrons/melanius/rhe": {
+            "name": {
+                "fr": "Melaine de Rennes",
+                "la": "Melanius Rhedonensis",
+                "en": "Melaine of Rennes",
+                "pl": "Melaniusz z Rennes"
+            },
+            "sources": {
+                "mr-2004": "6 XI: #3"
             }
         },
         "records/patrons/paulus/con": {

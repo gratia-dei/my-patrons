@@ -20197,11 +20197,11 @@
         }
     },
     "patrons/melanius/rhe": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Melaine de Rennes",
-            "en": "Melaine of Rennes",
             "la": "Melanius Rhedonensis",
+            "en": "Melaine of Rennes",
             "pl": "Melaniusz z Rennes"
         },
         "died": [
