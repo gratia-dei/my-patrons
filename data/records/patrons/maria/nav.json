@@ -1,48 +1,59 @@
 {
-  "names": {
-    "es": [
-      "María Ana de Jesús Navarro",
-      "María Ana Navarro de Guevara y Romero"
+    "names": {
+        "es": [
+            "María Ana de Jesús Navarro",
+            "María Ana Navarro de Guevara y Romero"
+        ],
+        "la": [
+            "Maria Anna a Iesu Navarro",
+            "Maria Anna a Iesu Navarro de Guevara"
+        ],
+        "en": [
+            "Maria Anna of Jesus Navarro"
+        ],
+        "pl": [
+            "Maria Anna od Jezusa Navarro"
+        ]
+    },
+    "forenames": ["maria", "anna"],
+    "surnames": [
+        {
+            "es": "Navarro de Guevara"
+        }
     ],
-    "en": [
-      "Maria Anna of Jesus Navarro"
+    "epithets": [
+        {
+            "es": "de Jesús",
+            "en": "of Jesus",
+            "la": "a Iesu",
+            "pl": "od Jezusa"
+        }
     ],
-    "la": [
-      "Maria Anna a Iesu Navarro",
-      "Maria Anna a Iesu Navarro de Guevara"
-    ],
-    "pl": [
-      "Maria Anna od Jezusa Navarro"
-    ]
-  },
 
-  "surnames": [
-    {
-      "es": "Navarro de Guevara"
+    "active": true,
+
+    "born": ["1565-01-21"],
+    "died": ["1624-04-17"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./17#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68910",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Anna_od_Jezusa_Navarro"
     }
-  ],
-
-  "epithets": [
-    {
-      "es": "de Jesús",
-      "en": "of Jesus",
-      "la": "a Iesu",
-      "pl": "od Jezusa"
-    }
-  ],
-
-  "born": ["1565-01-21"],
-  "died": ["1624-04-17"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1783-05-25"
-  },
-
-  "also-in-martyrology": ["04-17"],
-
-  "forenames": ["maria", "anna"],
-  "categories": ["femina", "virgo"],
-
-  "order": ["odem"]
 }

@@ -18568,11 +18568,11 @@
         }
     },
     "patrons/maria/nav": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "María Ana de Jesús Navarro",
-            "en": "Maria Anna of Jesus Navarro",
             "la": "Maria Anna a Iesu Navarro",
+            "en": "Maria Anna of Jesus Navarro",
             "pl": "Maria Anna od Jezusa Navarro"
         },
         "died": [

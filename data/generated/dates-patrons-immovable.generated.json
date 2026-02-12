@@ -3955,6 +3955,18 @@
                 "mr-2004": "17 IV: #15"
             }
         },
+        "records/patrons/maria/nav": {
+            "name": {
+                "es": "María Ana de Jesús Navarro",
+                "la": "Maria Anna a Iesu Navarro",
+                "en": "Maria Anna of Jesus Navarro",
+                "pl": "Maria Anna od Jezusa Navarro"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 IV",
+                "mr-2004": "17 IV: #13"
+            }
+        },
         "records/patrons/acacius/mel": {
             "name": {
                 "la": "Acacius Melitenensis",
