@@ -6,11 +6,11 @@
         "it": [
             "delle Piaghe di nostro Signore Gesù Cristo"
         ],
-        "en": [
-            "of the Wounds of our Lord Jesus Christ"
-        ],
         "la": [
             "a Vulneribus Domini nostri Iesu Christi"
+        ],
+        "en": [
+            "of the Wounds of our Lord Jesus Christ"
         ],
         "pl": [
             "od Ran naszego Pana Jezusa Chrystusa"
@@ -19,8 +19,8 @@
     "links": {
         "records/patrons/maria/gal": {
             "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
-            "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
             "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
+            "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
             "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
         }
     }

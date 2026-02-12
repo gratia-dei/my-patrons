@@ -1,64 +1,77 @@
 {
-  "names": {
-    "it": [
-      "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
-      "Maria Francesca delle Cinque Piaghe di nostro Signore Gesù Cristo",
-      "Anna Maria Gallo"
-    ],
-    "en": [
-      "Mary Frances of the Wounds of our Lord Jesus Christ",
-      "Mary Frances of the Five Wounds of our Lord Jesus Christ",
-      "Anna Maria Gallo"
-    ],
-    "la": [
-      "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
-      "Maria Francisca a Quinque Vulneribus Domini nostri Iesu Christi",
-      "Anna Maria Gallo"
-    ],
-    "pl": [
-      "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa",
-      "Maria Franciszka od Pięciu Ran naszego Pana Jezusa Chrystusa",
-      "Anna Maria Gallo"
-    ]
-  },
-
-  "surnames": [
-    {
-      "it": "Gallo"
-    }
-  ],
-
-  "epithets": [
-    {
-      "it": "delle Piaghe di nostro Signore Gesù Cristo",
-      "en": "of the Wounds of our Lord Jesus Christ",
-      "la": "a Vulneribus Domini nostri Iesu Christi",
-      "pl": "od Ran naszego Pana Jezusa Chrystusa"
+    "names": {
+        "it": [
+            "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
+            "Maria Francesca delle Cinque Piaghe di nostro Signore Gesù Cristo",
+            "Anna Maria Gallo"
+        ],
+        "la": [
+            "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
+            "Maria Francisca a Quinque Vulneribus Domini nostri Iesu Christi",
+            "Anna Maria Gallo"
+        ],
+        "en": [
+            "Mary Frances of the Wounds of our Lord Jesus Christ",
+            "Mary Frances of the Five Wounds of our Lord Jesus Christ",
+            "Anna Maria Gallo"
+        ],
+        "pl": [
+            "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa",
+            "Maria Franciszka od Pięciu Ran naszego Pana Jezusa Chrystusa",
+            "Anna Maria Gallo"
+        ]
     },
-    {
-      "it": "delle Cinque Piaghe di nostro Signore Gesù Cristo",
-      "en": "of the Five Wounds of our Lord Jesus Christ",
-      "la": "a Quinque Vulneribus Domini nostri Iesu Christi",
-      "pl": "od Pięciu Ran naszego Pana Jezusa Chrystusa"
+    "forenames": ["maria", "francisca", "anna"],
+    "surnames": [
+        {
+            "it": "Gallo"
+        }
+    ],
+    "epithets": [
+        {
+            "it": "delle Piaghe di nostro Signore Gesù Cristo",
+            "la": "a Vulneribus Domini nostri Iesu Christi",
+            "en": "of the Wounds of our Lord Jesus Christ",
+            "pl": "od Ran naszego Pana Jezusa Chrystusa"
+        },
+        {
+            "it": "delle Cinque Piaghe di nostro Signore Gesù Cristo",
+            "la": "a Quinque Vulneribus Domini nostri Iesu Christi",
+            "en": "of the Five Wounds of our Lord Jesus Christ",
+            "pl": "od Pięciu Ran naszego Pana Jezusa Chrystusa"
+        }
+    ],
+
+    "active": true,
+
+    "born": ["1715-03-25"],
+    "died": ["1791-10-07"],
+    "beatified": {
+        "type": "equipollently",
+        "date": "1843-11-12"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1867-06-29"
+    },
+    "anniversary": ["10-06"],
+
+    "categories": ["femina", "virgo", "tertiarius"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/6#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./6#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-francesca-delle-cinque-piaghe.html",
+        "gcatholic": "https://gcatholic.org/p/68251",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Franciszka_od_Pi%C4%99ciu_Ran_Jezusa"
     }
-  ],
-
-  "born": ["1715-03-25"],
-  "died": ["1791-10-06"],
-
-  "beatified": {
-    "type": "equipollently",
-    "date": "1843-11-12"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1867-06-29"
-  },
-
-  "also-in-martyrology": ["10-06"],
-
-  "forenames": ["maria", "francisca", "anna"],
-  "categories": ["femina", "virgo", "tertiarius"],
-
-  "order": ["tosf"]
 }

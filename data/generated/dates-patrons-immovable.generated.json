@@ -10842,9 +10842,33 @@
                 "feast": "6 X",
                 "mr-2004": "6 X: #14"
             }
+        },
+        "records/patrons/maria/gal": {
+            "name": {
+                "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
+                "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
+                "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
+                "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
+            },
+            "sources": {
+                "feast": "6 X",
+                "mr-1956": "6 X: #9",
+                "mr-2004": "6 X: #12"
+            }
         }
     },
     "10-07": {
+        "records/patrons/maria/gal": {
+            "name": {
+                "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
+                "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
+                "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
+                "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 X"
+            }
+        },
         "records/patrons/iustina/pat": {
             "name": {
                 "it": "Giustina di Padova",
