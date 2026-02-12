@@ -13881,6 +13881,16 @@
                 "mr-1956": "17 XII: #1",
                 "mr-2004": "17 XII: #8"
             }
+        },
+        "records/patrons/modestus/hie": {
+            "name": {
+                "la": "Modestus Hierosolymitanus",
+                "en": "Modestus of Jerusalem",
+                "pl": "Modest z Jerozolimy"
+            },
+            "sources": {
+                "mr-2004": "17 XII: #1"
+            }
         }
     },
     "12-18": {

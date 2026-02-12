@@ -20530,7 +20530,7 @@
         }
     },
     "patrons/modestus/hie": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Modestus Hierosolymitanus",
             "en": "Modestus of Jerusalem",

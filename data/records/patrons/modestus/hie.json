@@ -1,21 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Modestus Hierosolymitanus"
-    ],
-    "en": [
-      "Modestus of Jerusalem"
-    ],
-    "pl": [
-      "Modest z Jerozolimy"
-    ]
-  },
+    "names": {
+        "la": [
+            "Modestus Hierosolymitanus"
+        ],
+        "en": [
+            "Modestus of Jerusalem"
+        ],
+        "pl": [
+            "Modest z Jerozolimy"
+        ]
+    },
+    "forenames": ["modestus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~537"],
-  "died": ["634"],
+    "active": true,
 
-  "also-in-martyrology": ["12-17"],
+    "born": ["~537"],
+    "died": ["634"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["modestus"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70959",
+        "wiki": "https://pl.wikipedia.org/wiki/Modest_(patriarcha_Jerozolimy)"
+    }
 }
