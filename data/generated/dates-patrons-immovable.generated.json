@@ -39,6 +39,18 @@
                 "mr-2004": "1 I: #13"
             }
         },
+        "records/patrons/marianus/kon": {
+            "name": {
+                "pl": "Marian Konopiński",
+                "la": "Marianus Konopiński",
+                "en": "Marian Konopiński"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 I",
+                "feast": "1 I",
+                "mr-2004": "1 I: #18"
+            }
+        },
         "records/patrons/sigismundus/gor": {
             "name": {
                 "pl": "Zygmunt Gorazdowski",

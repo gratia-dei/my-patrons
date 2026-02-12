@@ -19510,11 +19510,11 @@
         }
     },
     "patrons/marianus/kon": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Marian Konopiński",
-            "en": "Marian Konopiński",
-            "la": "Marianus Konopiński"
+            "la": "Marianus Konopiński",
+            "en": "Marian Konopiński"
         },
         "died": [
             "1943-01-01"
