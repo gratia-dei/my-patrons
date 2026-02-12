@@ -10,8 +10,8 @@
     "links": {
         "records/patrons/maria/pos": {
             "fr": "Marie-Madeleine Postel",
-            "en": "Mary Magdalene Postel",
             "la": "Maria Magdalena Postel",
+            "en": "Mary Magdalene Postel",
             "pl": "Maria Magdalena Postel"
         }
     }
