@@ -17090,11 +17090,11 @@
         }
     },
     "patrons/marcellina/dar": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Marcelina Darowska",
-            "en": "Marcelina Darowska",
-            "la": "Marcellina Darowska"
+            "la": "Marcellina Darowska",
+            "en": "Marcelina Darowska"
         },
         "died": [
             "1911-01-05"

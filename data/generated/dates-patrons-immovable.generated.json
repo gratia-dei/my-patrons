@@ -178,6 +178,18 @@
                 "mr-1956": "5 I: #3",
                 "mr-2004": "5 I: #5"
             }
+        },
+        "records/patrons/marcellina/dar": {
+            "name": {
+                "pl": "Marcelina Darowska",
+                "la": "Marcellina Darowska",
+                "en": "Marcelina Darowska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 I",
+                "feast": "5 I",
+                "mr-2004": "5 I: #12"
+            }
         }
     },
     "01-06": {

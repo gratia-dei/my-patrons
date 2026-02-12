@@ -1,35 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Marcelina Darowska"
+    "names": {
+        "pl": [
+            "Marcelina Darowska"
+        ],
+        "la": [
+            "Marcellina Darowska"
+        ],
+        "en": [
+            "Marcelina Darowska"
+        ]
+    },
+    "forenames": ["marcellina"],
+    "surnames": [
+        {
+            "pl": "Darowska"
+        }
     ],
-    "en": [
-      "Marcelina Darowska"
-    ],
-    "la": [
-      "Marcellina Darowska"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Darowska"
+    "active": true,
+
+    "born": ["1827-01-16"],
+    "died": ["1911-01-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1996-10-06"
+    },
+    "canonized": null,
+    "anniversary": ["01-05"],
+
+    "categories": ["femina", "coniunx", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./5#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/marcelina-darowska.html",
+        "gcatholic": "https://gcatholic.org/p/68504",
+        "wiki": "https://pl.wikipedia.org/wiki/Marcelina_Darowska"
     }
-  ],
-
-  "born": ["1827-01-16"],
-  "died": ["1911-01-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1996-10-06"
-  },
-
-  "also-in-martyrology": ["01-05"],
-
-  "forenames": ["marcellina"],
-  "categories": ["femina", "fundator"],
-
-  "order": ["csic"],
-  "order-founder": ["csic"]
 }
