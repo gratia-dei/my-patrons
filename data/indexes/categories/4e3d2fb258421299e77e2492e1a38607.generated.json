@@ -101,10 +101,10 @@
             "pl": "Magnus z Füssen"
         },
         "records/patrons/maurus/abb": {
-            "fr": "Maur Abbé",
-            "la": "Maurus Abbas",
-            "en": "Maurus Abbot",
-            "pl": "Maur Opat"
+            "fr": "Maur, abbé",
+            "la": "Maurus, abbas",
+            "en": "Maurus, abbot",
+            "pl": "Maur, opat"
         },
         "records/patrons/petrus/ven": {
             "fr": "Pierre le Vénérable",

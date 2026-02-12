@@ -432,6 +432,19 @@
                 "mr-1584": "15 I: #7",
                 "mr-1956": "15 I: #8"
             }
+        },
+        "records/patrons/maurus/abb": {
+            "name": {
+                "fr": "Maur, abbé",
+                "la": "Maurus, abbas",
+                "en": "Maurus, abbot",
+                "pl": "Maur, opat"
+            },
+            "sources": {
+                "mr-1584": "15 I: #1",
+                "mr-1956": "15 I: #2",
+                "mr-2004": "15 I: #5"
+            }
         }
     },
     "01-16": {

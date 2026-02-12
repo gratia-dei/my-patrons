@@ -2498,10 +2498,10 @@
             "pl": "Maurycy z Legii Tebańskiej"
         },
         "records/patrons/maurus/abb": {
-            "fr": "Maur Abbé",
-            "la": "Maurus Abbas",
-            "en": "Maurus Abbot",
-            "pl": "Maur Opat"
+            "fr": "Maur, abbé",
+            "la": "Maurus, abbas",
+            "en": "Maurus, abbot",
+            "pl": "Maur, opat"
         },
         "records/patrons/maximilianus/kol": {
             "pl": "Maksymilian Maria Kolbe",
