@@ -1828,6 +1828,19 @@
             }
         }
     },
+    "02-24": {
+        "records/patrons/modestus/tre": {
+            "name": {
+                "de": "Modestus von Trier",
+                "la": "Modestus Trevirensis",
+                "en": "Modestus of Trier",
+                "pl": "Modest z Trewiru"
+            },
+            "sources": {
+                "mr-2004": "24 II: #2"
+            }
+        }
+    },
     "02-25": {
         "records/patrons/caesarius/naz": {
             "name": {
@@ -1931,6 +1944,18 @@
             "sources": {
                 "mr-1584": "25 II: #1",
                 "mr-1956": "25 II: #1"
+            }
+        },
+        "records/patrons/modestus/tre": {
+            "name": {
+                "de": "Modestus von Trier",
+                "la": "Modestus Trevirensis",
+                "en": "Modestus of Trier",
+                "pl": "Modest z Trewiru"
+            },
+            "sources": {
+                "mr-1584": "25 II: #6",
+                "mr-1956": "25 II: #6"
             }
         }
     },
@@ -2041,6 +2066,18 @@
             "sources": {
                 "mr-1584": "24 II: #1",
                 "mr-1956": "24 II: #1"
+            }
+        },
+        "records/patrons/modestus/tre": {
+            "name": {
+                "de": "Modestus von Trier",
+                "la": "Modestus Trevirensis",
+                "en": "Modestus of Trier",
+                "pl": "Modest z Trewiru"
+            },
+            "sources": {
+                "mr-1584": "24 II: #6",
+                "mr-1956": "24 II: #6"
             }
         }
     },

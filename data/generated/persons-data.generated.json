@@ -20552,11 +20552,11 @@
         }
     },
     "patrons/modestus/tre": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Modestus von Trier",
-            "en": "Modestus of Trier",
             "la": "Modestus Trevirensis",
+            "en": "Modestus of Trier",
             "pl": "Modest z Trewiru"
         },
         "died": [
