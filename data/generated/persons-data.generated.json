@@ -16733,11 +16733,11 @@
         }
     },
     "patrons/magdalena/can": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Maddalena di Canossa",
-            "en": "Magdalene of Canossa",
             "la": "Magdalena de Canossa",
+            "en": "Magdalene of Canossa",
             "pl": "Magdalena z Canossy"
         },
         "died": [

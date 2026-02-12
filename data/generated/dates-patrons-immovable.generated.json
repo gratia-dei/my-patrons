@@ -3720,6 +3720,19 @@
                 "mr-2004": "10 IV: #11"
             }
         },
+        "records/patrons/magdalena/can": {
+            "name": {
+                "it": "Maddalena di Canossa",
+                "la": "Magdalena de Canossa",
+                "en": "Magdalene of Canossa",
+                "pl": "Magdalena z Canossy"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 IV",
+                "feast": "10 IV",
+                "mr-2004": "10 IV: #10"
+            }
+        },
         "records/patrons/ezechiel/pro": {
             "name": {
                 "he": "יחזקאל הנביא",
