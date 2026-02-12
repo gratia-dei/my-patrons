@@ -17585,11 +17585,11 @@
         }
     },
     "patrons/maria/bie": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Maria Anna Biernacka",
-            "en": "Maria Anna Biernacka",
-            "la": "Maria Anna Biernacka"
+            "la": "Maria Anna Biernacka",
+            "en": "Maria Anna Biernacka"
         },
         "died": [
             "1943-07-13"

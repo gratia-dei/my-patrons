@@ -1,34 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Maria Anna Biernacka",
-      "Marianna Biernacka",
-      "Marianna Biernacka zd. Czokało"
+    "names": {
+        "pl": [
+            "Maria Anna Biernacka",
+            "Marianna Biernacka"
+        ],
+        "la": [
+            "Maria Anna Biernacka"
+        ],
+        "en": [
+            "Maria Anna Biernacka"
+        ]
+    },
+    "forenames": ["maria", "anna"],
+    "surnames": [
+        {
+            "pl": "Biernacka"
+        }
     ],
-    "en": [
-      "Maria Anna Biernacka"
-    ],
-    "la": [
-      "Maria Anna Biernacka"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Biernacka"
+    "active": true,
+
+    "born": ["1888"],
+    "died": ["1943-07-13"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["06-13"],
+
+    "categories": ["femina", "martyr", "materfamilias"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./13#13"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67810",
+        "wiki": "https://pl.wikipedia.org/wiki/Marianna_Biernacka"
     }
-  ],
-
-  "born": ["1888"],
-  "died": ["1943-07-13"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["06-13"],
-
-  "forenames": ["maria", "anna"],
-  "categories": ["femina", "martyr", "materfamilias"]
 }
