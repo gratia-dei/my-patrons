@@ -7986,6 +7986,19 @@
                 "mr-2004": "6 VIII: #2"
             }
         },
+        "records/patrons/maria/rub": {
+            "name": {
+                "it": "Maria Francesca di Gesù Rubatto",
+                "la": "Maria Francisca a Iesu Rubatto",
+                "en": "Maria Francesca of Jesus Rubatto",
+                "pl": "Maria Franciszka od Jezusa Rubatto"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 VIII",
+                "feast": "6 VIII",
+                "mr-2004": "6 VIII: #8"
+            }
+        },
         "records/patrons/quartus/xys": {
             "name": {
                 "la": "Quartus de Roma",

@@ -19074,12 +19074,12 @@
         }
     },
     "patrons/maria/rub": {
-        "active": false,
+        "active": true,
         "names": {
-            "it": "Maria Francesca di Gesù",
-            "en": "Maria Francesca of Jesus",
-            "la": "Maria Francisca a Iesu",
-            "pl": "Maria Franciszka od Jezusa"
+            "it": "Maria Francesca di Gesù Rubatto",
+            "la": "Maria Francisca a Iesu Rubatto",
+            "en": "Maria Francesca of Jesus Rubatto",
+            "pl": "Maria Franciszka od Jezusa Rubatto"
         },
         "died": [
             "1904-08-06"
