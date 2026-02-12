@@ -17451,11 +17451,11 @@
         }
     },
     "patrons/margarita/sze": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Małgorzata Łucja Szewczyk",
-            "en": "Margaret Lucy Szewczyk",
-            "la": "Margarita Lucia Szewczyk"
+            "la": "Margarita Lucia Szewczyk",
+            "en": "Margaret Lucy Szewczyk"
         },
         "died": [
             "1905-06-05"

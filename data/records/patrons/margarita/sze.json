@@ -1,36 +1,53 @@
 {
-  "names": {
-    "pl": [
-      "Małgorzata Łucja Szewczyk",
-      "Łucja Szewczyk"
+    "names": {
+        "pl": [
+            "Małgorzata Łucja Szewczyk",
+            "Łucja Szewczyk"
+        ],
+        "la": [
+            "Margarita Lucia Szewczyk",
+            "Lucia Szewczyk"
+        ],
+        "en": [
+            "Margaret Lucy Szewczyk",
+            "Lucy Szewczyk"
+        ]
+    },
+    "forenames": ["margarita", "lucia"],
+    "surnames": [
+        {
+            "pl": "Szewczyk"
+        }
     ],
-    "en": [
-      "Margaret Lucy Szewczyk",
-      "Lucy Szewczyk"
-    ],
-    "la": [
-      "Margarita Lucia Szewczyk",
-      "Lucia Szewczyk"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Szewczyk"
+    "active": true,
+
+    "born": ["1828"],
+    "died": ["1905-06-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2013-06-09"
+    },
+    "canonized": null,
+    "anniversary": ["06-05"],
+
+    "categories": ["femina", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/margherita-lucia-szewczyk.html",
+        "gcatholic": "https://gcatholic.org/p/68610",
+        "wiki": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_Szewczyk"
     }
-  ],
-
-  "born": ["1828"],
-  "died": ["1905-06-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2013-06-09"
-  },
-
-  "forenames": ["margarita", "lucia"],
-  "categories": ["femina", "fundator"],
-
-  "order": ["cmbb"],
-  "order-founder": ["cmbb"]
 }

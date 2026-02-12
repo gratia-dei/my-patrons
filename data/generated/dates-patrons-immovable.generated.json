@@ -5676,6 +5676,17 @@
                 "mr-2004": "5 VI: #6"
             }
         },
+        "records/patrons/margarita/sze": {
+            "name": {
+                "pl": "Małgorzata Łucja Szewczyk",
+                "la": "Margarita Lucia Szewczyk",
+                "en": "Margaret Lucy Szewczyk"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 VI",
+                "feast": "5 VI"
+            }
+        },
         "records/patrons/multa/bon": {
             "name": {
                 "la": "Alii Socii Bonifatii Winfridi",
