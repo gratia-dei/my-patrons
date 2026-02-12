@@ -1,30 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Michał Sopoćko"
+    "names": {
+        "pl": [
+            "Michał Sopoćko"
+        ],
+        "la": [
+            "Michael Sopocko"
+        ],
+        "en": [
+            "Michael Sopocko"
+        ]
+    },
+    "forenames": ["michael"],
+    "surnames": [
+        {
+            "pl": "Sopoćko"
+        }
     ],
-    "en": [
-      "Michael Sopocko"
-    ],
-    "la": [
-      "Michael Sopocko"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Sopoćko"
+    "active": true,
+
+    "born": ["1888-11-01"],
+    "died": ["1975-02-15"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2008-09-28"
+    },
+    "canonized": null,
+    "anniversary": ["02-15"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/michal-sopocko.html",
+        "gcatholic": "https://gcatholic.org/p/68583",
+        "wiki": "https://pl.wikipedia.org/wiki/Micha%C5%82_Sopo%C4%87ko"
     }
-  ],
-
-  "born": ["1888-11-01"],
-  "died": ["1975-02-15"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2008-09-28"
-  },
-
-  "forenames": ["michael"],
-  "categories": ["vir", "presbyter"]
 }

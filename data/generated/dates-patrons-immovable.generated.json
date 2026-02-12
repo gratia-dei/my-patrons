@@ -1535,6 +1535,17 @@
         }
     },
     "02-15": {
+        "records/patrons/michael/sop": {
+            "name": {
+                "pl": "Michał Sopoćko",
+                "la": "Michael Sopocko",
+                "en": "Michael Sopocko"
+            },
+            "sources": {
+                "reliable-death-anniversary": "15 II",
+                "feast": "15 II"
+            }
+        },
         "records/patrons/angelus/sca": {
             "name": {
                 "it": "Angelo Scarpetti",

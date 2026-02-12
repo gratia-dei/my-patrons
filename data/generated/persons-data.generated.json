@@ -20445,11 +20445,11 @@
         }
     },
     "patrons/michael/sop": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Michał Sopoćko",
-            "en": "Michael Sopocko",
-            "la": "Michael Sopocko"
+            "la": "Michael Sopocko",
+            "en": "Michael Sopocko"
         },
         "died": [
             "1975-02-15"
