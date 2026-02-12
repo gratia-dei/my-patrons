@@ -11912,6 +11912,18 @@
                 "mr-2004": "2 XI: #13"
             }
         },
+        "records/patrons/margarita/lot": {
+            "name": {
+                "fr": "Marguerite de Lorraine-Vaudémont",
+                "la": "Margarita de Lotharingia",
+                "en": "Margaret of Lorraine",
+                "pl": "Małgorzata z Lotaryngii"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 XI",
+                "mr-2004": "2 XI: #12"
+            }
+        },
         "records/patrons/pius/cam": {
             "name": {
                 "it": "Pio di San Luigi",

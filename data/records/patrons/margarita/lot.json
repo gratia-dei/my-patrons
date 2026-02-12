@@ -1,32 +1,47 @@
 {
-  "names": {
-    "fr": [
-      "Marguerite de Lorraine-Vaudémont"
-    ],
-    "en": [
-      "Margaret of Lorraine"
-    ],
-    "la": [
-      "Margarita de Lotharingia"
-    ],
-    "pl": [
-      "Małgorzata z Lotaryngii",
-      "Małgorzata Lotaryńska"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Marguerite de Lorraine-Vaudémont"
+        ],
+        "la": [
+            "Margarita de Lotharingia"
+        ],
+        "en": [
+            "Margaret of Lorraine"
+        ],
+        "pl": [
+            "Małgorzata z Lotaryngii",
+            "Małgorzata Lotaryńska"
+        ]
+    },
+    "forenames": ["margarita"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1463"],
-  "died": ["1521-11-02"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1921-03-10"
-  },
+    "born": ["1463"],
+    "died": ["1521-11-02"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["11-02"],
+    "categories": ["femina", "vidua", "religiosus", "dux"],
 
-  "forenames": ["margarita"],
-  "categories": ["femina", "vidua", "religiosus", "dux"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["osc"]
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./2#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68149",
+        "wiki": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_Lotary%C5%84ska"
+    }
 }
