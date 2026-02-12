@@ -18092,11 +18092,11 @@
         }
     },
     "patrons/maria/kas": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Maria Katharina Kasper",
-            "en": "Maria Katharina Kasper",
             "la": "Maria Catharina Kasper",
+            "en": "Maria Katharina Kasper",
             "pl": "Maria Katarzyna Kasper"
         },
         "died": [

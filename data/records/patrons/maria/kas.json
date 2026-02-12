@@ -1,42 +1,56 @@
 {
-  "names": {
-    "de": [
-      "Maria Katharina Kasper"
+    "names": {
+        "de": [
+            "Maria Katharina Kasper"
+        ],
+        "la": [
+            "Maria Catharina Kasper"
+        ],
+        "en": [
+            "Maria Katharina Kasper"
+        ],
+        "pl": [
+            "Maria Katarzyna Kasper"
+        ]
+    },
+    "forenames": ["maria", "catharina"],
+    "surnames": [
+        {
+            "de": "Kasper"
+        }
     ],
-    "en": [
-      "Maria Katharina Kasper"
-    ],
-    "la": [
-      "Maria Catharina Kasper"
-    ],
-    "pl": [
-      "Maria Katarzyna Kasper"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "de": "Kasper"
+    "active": true,
+
+    "born": ["1820-05-26"],
+    "died": ["1898-02-02"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1978-04-16"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2018-10-14"
+    },
+    "anniversary": ["02-02"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./2#12"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-caterina-kasper.html",
+        "gcatholic": "https://gcatholic.org/p/67207",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Katarzyna_Kasper"
     }
-  ],
-
-  "born": ["1820-05-26"],
-  "died": ["1898-02-02"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1978-04-16"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2018-10-14"
-  },
-
-  "also-in-martyrology": ["02-02"],
-
-  "forenames": ["maria", "catharina"],
-  "categories": ["femina", "virgo", "fundator"],
-
-  "order": ["adjc"],
-  "order-founder": ["adjc"]
 }

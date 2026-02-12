@@ -930,6 +930,19 @@
                 "mr-2004": "2 II: #3"
             }
         },
+        "records/patrons/maria/kas": {
+            "name": {
+                "de": "Maria Katharina Kasper",
+                "la": "Maria Catharina Kasper",
+                "en": "Maria Katharina Kasper",
+                "pl": "Maria Katarzyna Kasper"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 II",
+                "feast": "2 II",
+                "mr-2004": "2 II: #12"
+            }
+        },
         "records/patrons/maria/man": {
             "name": {
                 "it": "Maria Domenica Mantovani",
