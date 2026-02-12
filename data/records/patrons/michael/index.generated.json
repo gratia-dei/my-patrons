@@ -17,10 +17,11 @@
     },
     "san": {
         "ca": "Miquel dels Sants",
-        "it": "Michele dei Santi",
-        "en": "Michael de Sanctis",
         "la": "Michael de Sanctis",
-        "pl": "Michał de Santis"
+        "en": "Michael of the Saints",
+        "pl": "Michał od Świętych",
+        "es": "Miguel de los Santos",
+        "it": "Michele dei Santi"
     },
     "sop": {
         "pl": "Michał Sopoćko",

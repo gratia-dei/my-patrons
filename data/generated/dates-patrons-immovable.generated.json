@@ -3821,6 +3821,22 @@
                 "mr-2004": "10 IV: #10"
             }
         },
+        "records/patrons/michael/san": {
+            "name": {
+                "ca": "Miquel dels Sants",
+                "la": "Michael de Sanctis",
+                "en": "Michael of the Saints",
+                "pl": "Michał od Świętych",
+                "es": "Miguel de los Santos",
+                "it": "Michele dei Santi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 IV",
+                "feast": "10 IV",
+                "mr-1956": "10 IV: #6",
+                "mr-2004": "10 IV: #9"
+            }
+        },
         "records/patrons/ezechiel/pro": {
             "name": {
                 "he": "יחזקאל הנביא",

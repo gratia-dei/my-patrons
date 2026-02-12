@@ -1,0 +1,35 @@
+{
+    "names": {
+        "it": "dei Santi"
+    },
+    "translations": {
+        "ca": [
+            "dels Sants"
+        ],
+        "la": [
+            "de Sanctis"
+        ],
+        "en": [
+            "of the Saints"
+        ],
+        "pl": [
+            "od Świętych"
+        ],
+        "es": [
+            "de los Santos"
+        ],
+        "it": [
+            "dei Santi"
+        ]
+    },
+    "links": {
+        "records/patrons/michael/san": {
+            "ca": "Miquel dels Sants",
+            "la": "Michael de Sanctis",
+            "en": "Michael of the Saints",
+            "pl": "Michał od Świętych",
+            "es": "Miguel de los Santos",
+            "it": "Michele dei Santi"
+        }
+    }
+}
