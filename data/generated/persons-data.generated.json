@@ -20113,7 +20113,7 @@
         }
     },
     "patrons/maximus/hie": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Maximus Hierosolymitanus",
             "en": "Maximus of Jerusalem",
