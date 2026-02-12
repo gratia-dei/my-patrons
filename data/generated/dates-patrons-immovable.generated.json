@@ -2497,6 +2497,19 @@
                 "feast": "10 III",
                 "mr-2004": "10 III: #7"
             }
+        },
+        "records/patrons/macarius/hie": {
+            "name": {
+                "el": "Μακάριος Ἱεροσολύμων",
+                "la": "Macarius Hierosolymitanus",
+                "en": "Macarius of Jerusalem",
+                "pl": "Makary z Jerozolimy"
+            },
+            "sources": {
+                "mr-1584": "10 III: #5",
+                "mr-1956": "10 III: #7",
+                "mr-2004": "10 III: #3"
+            }
         }
     },
     "03-11": {
