@@ -1,40 +1,53 @@
 {
-  "names": {
-    "ja": [
-      "ミゲル中島"
+    "names": {
+        "ja": [
+            "ミゲル中島"
+        ],
+        "la": [
+            "Michael Nakashima"
+        ],
+        "en": [
+            "Michael Nakashima"
+        ],
+        "pl": [
+            "Michał Nakashima"
+        ]
+    },
+    "forenames": ["michael"],
+    "surnames": [
+        {
+            "ja": "中島",
+            "en": "Nakashima",
+            "la": "Nakashima",
+            "pl": "Nakashima"
+        }
     ],
-    "en": [
-      "Michael Nakashima"
-    ],
-    "la": [
-      "Michael Nakashima"
-    ],
-    "pl": [
-      "Michał Nakashima"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "ja": "中島",
-      "en": "Nakashima",
-      "la": "Nakashima",
-      "pl": "Nakashima"
+    "active": true,
+
+    "born": ["1583"],
+    "died": ["1628-12-25"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "religiosus", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./25#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/65810",
+        "wiki": "https://pl.wikipedia.org/wiki/Micha%C5%82_Nakashima"
     }
-  ],
-
-  "born": ["1583"],
-  "died": ["1628-12-25"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1867-07-07"
-  },
-
-  "also-in-martyrology": ["12-25"],
-
-  "forenames": ["michael"],
-  "categories": ["vir", "martyr", "religiosus", "catechista"],
-
-  "order": ["sj"]
 }

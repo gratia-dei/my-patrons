@@ -14080,6 +14080,18 @@
                 "mr-2004": "25 XII: #8"
             }
         },
+        "records/patrons/michael/nak": {
+            "name": {
+                "ja": "ミゲル中島",
+                "la": "Michael Nakashima",
+                "en": "Michael Nakashima",
+                "pl": "Michał Nakashima"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 XII",
+                "mr-2004": "25 XII: #7"
+            }
+        },
         "records/patrons/multa/nie": {
             "name": {
                 "la": "Multa Milia Martyres in Nicomediae ecclesia",

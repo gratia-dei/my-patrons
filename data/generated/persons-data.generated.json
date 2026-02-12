@@ -20389,11 +20389,11 @@
         }
     },
     "patrons/michael/nak": {
-        "active": false,
+        "active": true,
         "names": {
             "ja": "ミゲル中島",
-            "en": "Michael Nakashima",
             "la": "Michael Nakashima",
+            "en": "Michael Nakashima",
             "pl": "Michał Nakashima"
         },
         "died": [
