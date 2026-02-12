@@ -10829,6 +10829,19 @@
                 "mr-1956": "6 X: #1",
                 "mr-2004": "6 X: #1"
             }
+        },
+        "records/patrons/maria/dur": {
+            "name": {
+                "fr": "Marie-Rose Durocher",
+                "pl": "Maria Róża Durocher",
+                "la": "Maria Rosa Durocher",
+                "en": "Marie Rose Durocher"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 X",
+                "feast": "6 X",
+                "mr-2004": "6 X: #14"
+            }
         }
     },
     "10-07": {

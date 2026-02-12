@@ -17808,12 +17808,12 @@
         }
     },
     "patrons/maria/dur": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Marie-Rose Durocher",
             "pl": "Maria Róża Durocher",
-            "en": "Marie Rose Durocher",
-            "la": "Maria Rosa Durocher"
+            "la": "Maria Rosa Durocher",
+            "en": "Marie Rose Durocher"
         },
         "died": [
             "1849-10-06"

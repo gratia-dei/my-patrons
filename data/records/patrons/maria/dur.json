@@ -1,42 +1,57 @@
 {
-  "names": {
-    "fr": [
-      "Marie-Rose Durocher",
-      "Eulalie Mélanie Durocher"
+    "names": {
+        "fr": [
+            "Marie-Rose Durocher",
+            "Eulalie Mélanie Durocher"
+        ],
+        "pl": [
+            "Maria Róża Durocher",
+            "Eulalia Melania Durocher"
+        ],
+        "la": [
+            "Maria Rosa Durocher",
+            "Eulalia Durocher"
+        ],
+        "en": [
+            "Marie Rose Durocher",
+            "Eulalie Melanie Durocher"
+        ]
+    },
+    "forenames": ["maria", "rosa", "eulalia"],
+    "surnames": [
+        {
+            "fr": "Durocher"
+        }
     ],
-    "pl": [
-      "Maria Róża Durocher",
-      "Eulalia Melania Durocher"
-    ],
-    "en": [
-      "Marie Rose Durocher",
-      "Eulalie Melanie Durocher"
-    ],
-    "la": [
-      "Maria Rosa Durocher",
-      "Eulalia Durocher"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Durocher"
+    "active": true,
+
+    "born": ["1811-10-06"],
+    "died": ["1849-10-06"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1982-05-23"
+    },
+    "canonized": null,
+    "anniversary": ["10-06"],
+
+    "categories": ["femina"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./6#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/marie-rose-durocher.html",
+        "gcatholic": "https://gcatholic.org/p/68449",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_R%C3%B3%C5%BCa_Durocher"
     }
-  ],
-
-  "born": ["1811-10-06"],
-  "died": ["1849-10-06"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1982-05-23"
-  },
-
-  "also-in-martyrology": ["10-06"],
-
-  "forenames": ["maria", "rosa", "eulalia"],
-  "categories": ["femina"],
-
-  "order": ["snjm"],
-  "order-founder": ["snjm"]
 }
