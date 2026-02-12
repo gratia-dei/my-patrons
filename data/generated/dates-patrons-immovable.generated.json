@@ -1702,6 +1702,20 @@
         }
     },
     "02-22": {
+        "records/patrons/margarita/cor": {
+            "name": {
+                "it": "Margherita da Cortona",
+                "la": "Margarita de Cortona",
+                "en": "Margaret of Cortona",
+                "pl": "Małgorzata z Kortony"
+            },
+            "sources": {
+                "reliable-death-anniversary": "22 II",
+                "feast": "22 II",
+                "mr-1956": "22 II: #9",
+                "mr-2004": "22 II: #7"
+            }
+        },
         "records/patrons/maria/oul": {
             "name": {
                 "fr": "Marie de Jésus d'Oultremont",
