@@ -7066,6 +7066,18 @@
                 "mr-2004": "20 VII: #2"
             }
         },
+        "records/patrons/margarita/pis": {
+            "name": {
+                "la": "Margarita Antiochena",
+                "en": "Margaret of Antioch",
+                "pl": "Małgorzata z Antiochii"
+            },
+            "sources": {
+                "mr-1584": "20 VII: #1",
+                "mr-1956": "20 VII: #2",
+                "mr-2004": "20 VII: #4"
+            }
+        },
         "records/patrons/hieronymus/emi": {
             "name": {
                 "it": "Girolamo Emiliani",

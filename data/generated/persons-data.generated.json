@@ -17418,7 +17418,7 @@
         }
     },
     "patrons/margarita/pis": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Margarita Antiochena",
             "en": "Margaret of Antioch",
