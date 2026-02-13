@@ -22226,11 +22226,11 @@
         }
     },
     "patrons/paulina/jar": {
-        "active": false,
+        "active": true,
         "names": {
             "fr": "Pauline Jaricot",
-            "en": "Pauline Jaricot",
             "la": "Paulina Maria Jaricot",
+            "en": "Pauline Jaricot",
             "pl": "Paulina Jaricot"
         },
         "died": [

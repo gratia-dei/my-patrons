@@ -1,37 +1,55 @@
 {
-  "names": {
-    "fr": [
-      "Pauline Jaricot",
-      "Pauline-Marie Jaricot"
+    "names": {
+        "fr": [
+            "Pauline Jaricot",
+            "Pauline-Marie Jaricot"
+        ],
+        "la": [
+            "Paulina Maria Jaricot"
+        ],
+        "en": [
+            "Pauline Jaricot"
+        ],
+        "pl": [
+            "Paulina Jaricot",
+            "Paulina Maria Jaricot"
+        ]
+    },
+    "forenames": ["paulina"],
+    "surnames": [
+        {
+            "fr": "Jaricot"
+        }
     ],
-    "en": [
-      "Pauline Jaricot"
-    ],
-    "la": [
-      "Paulina Maria Jaricot"
-    ],
-    "pl": [
-      "Paulina Jaricot",
-      "Paulina Maria Jaricot"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Jaricot"
+    "active": true,
+
+    "born": ["1799-07-22"],
+    "died": ["1862-01-09"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2022-05-22"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolina-maria-jaricot.html",
+        "gcatholic": "https://gcatholic.org/p/70205",
+        "wiki": "https://pl.wikipedia.org/wiki/Paulina_Jaricot"
     }
-  ],
-
-  "born": ["1799-07-22"],
-  "died": ["1862-01-09"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2022-05-22"
-  },
-
-  "forenames": ["paulina"],
-  "categories": ["femina"],
-
-  "order": ["tosd"]
 }

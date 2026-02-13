@@ -349,6 +349,17 @@
                 "feast": "9 I",
                 "mr-2004": "9 I: #10"
             }
+        },
+        "records/patrons/paulina/jar": {
+            "name": {
+                "fr": "Pauline Jaricot",
+                "la": "Paulina Maria Jaricot",
+                "en": "Pauline Jaricot",
+                "pl": "Paulina Jaricot"
+            },
+            "sources": {
+                "reliable-death-anniversary": "9 I"
+            }
         }
     },
     "01-10": {

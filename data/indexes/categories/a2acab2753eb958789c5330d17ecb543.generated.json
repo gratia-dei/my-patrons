@@ -301,6 +301,12 @@
             "en": "Norbert of Xanten",
             "pl": "Norbert z Xanten"
         },
+        "records/patrons/paulina/jar": {
+            "fr": "Pauline Jaricot",
+            "la": "Paulina Maria Jaricot",
+            "en": "Pauline Jaricot",
+            "pl": "Paulina Jaricot"
+        },
         "records/patrons/philippus/ner": {
             "it": "Filippo Neri",
             "la": "Fhilippus Nerius",
