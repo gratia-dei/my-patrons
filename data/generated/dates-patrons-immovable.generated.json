@@ -3576,6 +3576,18 @@
         }
     },
     "03-31": {
+        "records/patrons/natalia/tul": {
+            "name": {
+                "pl": "Natalia Tułasiewicz",
+                "la": "Natalia Tułasiewicz",
+                "en": "Natalie Tułasiewicz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 III",
+                "feast": "31 III",
+                "mr-2004": "31 III: #8"
+            }
+        },
         "records/patrons/amos/pro": {
             "name": {
                 "he": "עמוס",

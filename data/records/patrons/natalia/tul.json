@@ -1,32 +1,50 @@
 {
-  "names": {
-    "pl": [
-      "Natalia Tułasiewicz"
+    "names": {
+        "pl": [
+            "Natalia Tułasiewicz"
+        ],
+        "la": [
+            "Natalia Tułasiewicz"
+        ],
+        "en": [
+            "Natalie Tułasiewicz"
+        ]
+    },
+    "forenames": ["natalia"],
+    "surnames": [
+        {
+            "pl": "Tułasiewicz"
+        }
     ],
-    "en": [
-      "Natalie Tułasiewicz"
-    ],
-    "la": [
-      "Natalia Tułasiewicz"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Tułasiewicz"
+    "active": true,
+
+    "born": ["1906-04-09"],
+    "died": ["1945-03-31"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["03-31"],
+
+    "categories": ["femina", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./31#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67826",
+        "wiki": "https://pl.wikipedia.org/wiki/Natalia_Tu%C5%82asiewicz"
     }
-  ],
-
-  "born": ["1906-04-09"],
-  "died": ["1945-03-31"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["03-31"],
-
-  "forenames": ["natalia"],
-  "categories": ["femina", "martyr"]
 }

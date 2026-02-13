@@ -21430,11 +21430,11 @@
         }
     },
     "patrons/natalia/tul": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Natalia Tułasiewicz",
-            "en": "Natalie Tułasiewicz",
-            "la": "Natalia Tułasiewicz"
+            "la": "Natalia Tułasiewicz",
+            "en": "Natalie Tułasiewicz"
         },
         "died": [
             "1945-03-31"
