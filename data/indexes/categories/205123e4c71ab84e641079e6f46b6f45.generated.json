@@ -337,11 +337,6 @@
             "en": "Margaret Ebner",
             "pl": "Małgorzata Ebner"
         },
-        "records/patrons/margarita/pis": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
-        },
         "records/patrons/maria/bor": {
             "pl": "Maria Felicyta Borowik",
             "la": "Maria Felicitas Borowik",
@@ -506,6 +501,11 @@
             "pl": "Maria Imelda od Jezusa Hostii",
             "la": "Maria Imelda a Iesu Hostia",
             "en": "Mary Imelda of the Eucharistic Jesus"
+        },
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
         },
         "records/patrons/martha/laz": {
             "la": "Martha Bethaniae",

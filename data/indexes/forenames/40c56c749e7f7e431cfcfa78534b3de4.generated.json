@@ -47,11 +47,6 @@
             "en": "Margaret of Lorraine",
             "pl": "Małgorzata z Lotaryngii"
         },
-        "records/patrons/margarita/pis": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
-        },
         "records/patrons/margarita/sze": {
             "pl": "Małgorzata Łucja Szewczyk",
             "la": "Margarita Lucia Szewczyk",
@@ -61,6 +56,11 @@
             "en": "Margaret Ward",
             "la": "Margarita Ward",
             "pl": "Małgorzata Ward"
+        },
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
         }
     }
 }

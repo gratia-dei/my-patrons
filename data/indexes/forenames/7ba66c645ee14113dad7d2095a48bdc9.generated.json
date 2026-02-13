@@ -16,10 +16,10 @@
         ]
     },
     "links": {
-        "records/patrons/margarita/pis": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
         }
     }
 }

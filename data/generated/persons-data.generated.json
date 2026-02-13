@@ -17417,39 +17417,6 @@
             }
         }
     },
-    "patrons/margarita/pis": {
-        "active": true,
-        "names": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
-        },
-        "died": [
-            "~304"
-        ],
-        "feasts": [],
-        "forenames": {
-            "forenames/margarita": {
-                "active": true,
-                "names": {
-                    "la": "Margarita",
-                    "en": "Margaret",
-                    "pl": "Małgorzata",
-                    "de": "Margareta",
-                    "fr": "Marguerite",
-                    "it": "Margherita"
-                }
-            },
-            "forenames/marina": {
-                "active": true,
-                "names": {
-                    "la": "Marina",
-                    "en": "Marina",
-                    "pl": "Marina"
-                }
-            }
-        }
-    },
     "patrons/margarita/sze": {
         "active": true,
         "names": {
@@ -19527,6 +19494,46 @@
                     "la": "Marianus",
                     "en": "Marian",
                     "pl": "Marian"
+                }
+            }
+        }
+    },
+    "patrons/marina": {
+        "names": {
+            "la": "Marina",
+            "en": "Marina",
+            "pl": "Marina"
+        }
+    },
+    "patrons/marina/pis": {
+        "active": true,
+        "names": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/marina": {
+                "active": true,
+                "names": {
+                    "la": "Marina",
+                    "en": "Marina",
+                    "pl": "Marina"
+                }
+            },
+            "forenames/margarita": {
+                "active": true,
+                "names": {
+                    "la": "Margarita",
+                    "en": "Margaret",
+                    "pl": "Małgorzata",
+                    "de": "Margareta",
+                    "fr": "Marguerite",
+                    "it": "Margherita"
                 }
             }
         }

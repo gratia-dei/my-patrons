@@ -639,11 +639,6 @@
             "en": "Margaret of Lorraine",
             "pl": "Małgorzata z Lotaryngii"
         },
-        "records/patrons/margarita/pis": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
-        },
         "records/patrons/margarita/sze": {
             "pl": "Małgorzata Łucja Szewczyk",
             "la": "Margarita Lucia Szewczyk",
@@ -874,6 +869,11 @@
             "pl": "Maria Imelda od Jezusa Hostii",
             "la": "Maria Imelda a Iesu Hostia",
             "en": "Mary Imelda of the Eucharistic Jesus"
+        },
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
         },
         "records/patrons/martha/kim": {
             "ko": "김성임 마르타",

@@ -1637,11 +1637,6 @@
             "en": "Mark; with him, i.a., Marcellian",
             "pl": "Marek; z nim, m.in., Marcelian"
         },
-        "records/patrons/margarita/pis": {
-            "la": "Margarita Antiochena",
-            "en": "Margaret of Antioch",
-            "pl": "Małgorzata z Antiochii"
-        },
         "records/patrons/margarita/war": {
             "en": "Margaret Ward",
             "la": "Margarita Ward",
@@ -1744,6 +1739,11 @@
             "pl": "Marian Konopiński",
             "la": "Marianus Konopiński",
             "en": "Marian Konopiński"
+        },
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
         },
         "records/patrons/martha/kim": {
             "ko": "김성임 마르타",
