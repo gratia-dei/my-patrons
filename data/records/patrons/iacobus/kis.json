@@ -1,32 +1,32 @@
 {
     "names": {
         "ja": [
-            "パウロ三木"
+            "ディエゴ喜斎"
         ],
         "la": [
-            "Paulus Miki"
+            "Iacobus Kisai"
         ],
         "en": [
-            "Paul Miki"
+            "James Kisai"
         ],
         "pl": [
-            "Paweł Miki"
+            "Jakub Kisai"
         ]
     },
-    "forenames": ["paulus"],
+    "forenames": ["iacobus"],
     "surnames": [
         {
-            "ja": "三木",
-            "la": "Miki",
-            "en": "Miki",
-            "pl": "Miki"
+            "ja": "喜斎",
+            "la": "Kisai",
+            "en": "Kisai",
+            "pl": "Kisai"
         }
     ],
     "epithets": null,
 
     "active": true,
 
-    "born": ["1565"],
+    "born": ["1533"],
     "died": ["1597-02-05"],
     "beatified": {
         "type": "ceremonially",
@@ -38,22 +38,22 @@
     },
     "anniversary": ["02-05"],
 
-    "categories": ["vir", "martyr"],
+    "categories": ["vir", "martyr", "religiosus"],
 
     "data-links": {
         "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Februarii/5#2"],
+        "mr-1956": ["3:Februarii/5#2"],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:feb./5#9", "1:feb./6#1"],
+        "mr-2004": ["3:feb./5#9", "3:feb./6#1"],
         "mr-2004-movable": []
     },
 
     "sources": {
         "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
-        "gcatholic": "https://gcatholic.org/p/65582",
-        "wiki": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Miki"
+        "gcatholic": "https://gcatholic.org/p/65584",
+        "wiki": "https://pl.wikipedia.org/wiki/Jakub_Kisai"
     }
 }
