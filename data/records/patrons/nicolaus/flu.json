@@ -1,34 +1,52 @@
 {
-  "names": {
-    "de": [
-      "Niklaus von Flüe"
-    ],
-    "en": [
-      "Nicholas of Flüe",
-      "Nicholas of Flue"
-    ],
-    "la": [
-      "Nicolaus de Flue"
-    ],
-    "pl": [
-      "Mikołaj z Flüe"
-    ]
-  },
+    "names": {
+        "de": [
+            "Niklaus von Flüe"
+        ],
+        "la": [
+            "Nicolaus de Flüe"
+        ],
+        "en": [
+            "Nicholas of Flüe"
+        ],
+        "pl": [
+            "Mikołaj z Flüe"
+        ]
+    },
+    "forenames": ["nicolaus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1417"],
-  "died": ["1487-03-21"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1669-03-08"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1947-05-15"
-  },
+    "born": ["1417"],
+    "died": ["1487-03-21"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1669-03-08"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1947-05-15"
+    },
+    "anniversary": ["03-21"],
 
-  "also-in-martyrology": ["03-21"],
+    "categories": ["vir", "coniunx", "paterfamilias", "anachoreta"],
 
-  "forenames": ["nicolaus"],
-  "categories": ["vir", "coniunx", "paterfamilias", "anachoreta"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Martii/21#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./21#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/nicola-di-fluee.html",
+        "gcatholic": "https://gcatholic.org/p/68092",
+        "wiki": "https://pl.wikipedia.org/wiki/Miko%C5%82aj_z_Fl%C3%BCe"
+    }
 }

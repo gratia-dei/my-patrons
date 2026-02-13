@@ -3155,6 +3155,20 @@
                 "mr-2004": "21 III: #5"
             }
         },
+        "records/patrons/nicolaus/flu": {
+            "name": {
+                "de": "Niklaus von Flüe",
+                "la": "Nicolaus de Flüe",
+                "en": "Nicholas of Flüe",
+                "pl": "Mikołaj z Flüe"
+            },
+            "sources": {
+                "reliable-death-anniversary": "21 III",
+                "feast": "21 III",
+                "mr-1956": "21 III: #7",
+                "mr-2004": "21 III: #8"
+            }
+        },
         "records/patrons/augustinus/zha": {
             "name": {
                 "zh": "趙榮思定",

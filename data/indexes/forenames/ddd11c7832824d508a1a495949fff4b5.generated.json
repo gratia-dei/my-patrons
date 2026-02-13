@@ -25,8 +25,8 @@
     "links": {
         "records/patrons/nicolaus/flu": {
             "de": "Niklaus von Flüe",
+            "la": "Nicolaus de Flüe",
             "en": "Nicholas of Flüe",
-            "la": "Nicolaus de Flue",
             "pl": "Mikołaj z Flüe"
         },
         "records/patrons/nicolaus/ges": {
