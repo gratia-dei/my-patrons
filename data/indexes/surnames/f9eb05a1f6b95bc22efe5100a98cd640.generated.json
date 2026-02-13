@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ja": "喜斎"
+    },
+    "translations": {
+        "ja": [
+            "喜斎"
+        ],
+        "la": [
+            "Kisai"
+        ],
+        "en": [
+            "Kisai"
+        ],
+        "pl": [
+            "Kisai"
+        ]
+    },
+    "links": {
+        "records/patrons/iacobus/kis": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
+        }
+    }
+}

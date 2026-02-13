@@ -53,6 +53,9 @@
     "0dfefe064d8f8866ea700408809232ac": {
         "pl": "Grzymała"
     },
+    "104bf393ae90eac7e3045a657d5adb84": {
+        "es": "Blanco"
+    },
     "11a754c2e844cd18db6f3e31a7152ba0": {
         "la": "Chŏn",
         "en": "Chŏn",
@@ -306,8 +309,16 @@
     "3f7dd5d9df3f6a3c72a476388108c8fe": {
         "fr": "Aumaître"
     },
+    "3fc5e4154656990cd179aa27c22e8021": {
+        "es": "Aguirre"
+    },
     "3fecd66e54f806bfff00f67ab9974773": {
         "fr": "Hacher du Bois"
+    },
+    "4057a2774ffb93c09975ab8593346ca7": {
+        "la": "Karasuma",
+        "en": "Karasuma",
+        "pl": "Karasuma"
     },
     "409f05ab6909f15290e10ff5b201f6dd": {
         "it": "Rubatto"
@@ -348,6 +359,11 @@
     "465bb88c625eee341ebfd59d07e90d1b": {
         "pl": "de Hieronimo"
     },
+    "481dea358d34e77030df53fb7564632a": {
+        "la": "Kinuya",
+        "en": "Kinuya",
+        "pl": "Kinuya"
+    },
     "4847e2e624920907b6dc4516738ecc50": {
         "la": "Karlowska"
     },
@@ -383,6 +399,11 @@
     },
     "4b1395aeedf5ad8f669a8cb4e1cfa8fc": {
         "fr": "Durocher"
+    },
+    "4beccaa7c7870c9cc714898c4e71c085": {
+        "la": "Kozaki",
+        "en": "Kozaki",
+        "pl": "Kozaki"
     },
     "4ca5de79aea92f49323e8e40dd3d02f0": {
         "pl": "Pawłowski"
@@ -462,6 +483,11 @@
     "59df8d849ca1ec0a921ebaa184a1d3d3": {
         "pl": "Wojciechowski"
     },
+    "5aa13218563e755df4c7b35efb78741d": {
+        "la": "Suzuki",
+        "en": "Suzuki",
+        "pl": "Suzuki"
+    },
     "5b18879c1c11ab0bb6914a8dc192514f": {
         "pl": "Kostist"
     },
@@ -524,6 +550,9 @@
     "64a7a4cebb718daa803e04c6d483f75c": {
         "pl": "Gientyngier"
     },
+    "64d1c7a0c594ea40c2854f9177506698": {
+        "es": "de la Parilla"
+    },
     "65bc2ef7f0e947632eb5c5c29706ebcb": {
         "es": "de Ribera"
     },
@@ -535,6 +564,9 @@
     },
     "675c59ab9f14ccb32b9f6d024f769ca4": {
         "pt": "Fernandes"
+    },
+    "67ce1ccdd9b3678fc4bf9fb8f8aeac16": {
+        "ja": "草庵"
     },
     "67e90df41eed19ae00d7ebe6f910f299": {
         "es": "Calvo"
@@ -560,6 +592,9 @@
         "en": "Maloyan",
         "la": "Maloyan"
     },
+    "6cc3c62261d5e1f308aff9557b2f7f68": {
+        "ja": "談義者"
+    },
     "6cd78f285101797c8eba7f0f8773322c": {
         "pt": "de Soveral"
     },
@@ -569,6 +604,9 @@
     "6db6cba46e568773a08e594c8c64f5f9": {
         "it": "Rebuschini"
     },
+    "6eba14d50de88e016479b4b3d68a7f0c": {
+        "ja": "茨木"
+    },
     "6f260c6904c54f7565ccd78bd0ecf2cb": {
         "la": "Cho",
         "en": "Cho",
@@ -576,6 +614,9 @@
     },
     "6f3ac52824961a0e5a0165fb1bb911ef": {
         "ko": "이"
+    },
+    "7013dd8caf235788ddedee06ff8ad0ed": {
+        "pt": "Garcia"
     },
     "705aac27dd1bf883a09e49556d278b6e": {
         "es": "de Borja",
@@ -601,6 +642,9 @@
     },
     "73a0eb70edfb03ba358129daeb17ded5": {
         "en": "Bodey"
+    },
+    "73be423e47d485a87232b9878d12405a": {
+        "ja": "榊原"
     },
     "760dbd197443a467dcf7d9cf5297e392": {
         "es": "Hernández"
@@ -751,6 +795,9 @@
     },
     "904fa9a97e55c1dbe19b77b9764ad11c": {
         "fr": "Lalemant"
+    },
+    "90a87acd12693e795267ed347ef3108c": {
+        "es": "de Las Casas"
     },
     "90b58d3ffbabdee19b41046d411905a3": {
         "pl": "Goral"
@@ -1020,6 +1067,9 @@
     "bc7f2e8b50ccb9a99fd016ca3bebf495": {
         "it": "Balacchi"
     },
+    "bcc7e3b2adcf8e4e2ff204599d0c69eb": {
+        "ja": "竹屋"
+    },
     "bcd2ad82e6d9e5ced82913ead8c0dc24": {
         "pl": "Kapistran"
     },
@@ -1040,6 +1090,11 @@
     },
     "bff83822c02096b0a3426a9b82a4952d": {
         "it": "Catanoso"
+    },
+    "c06f4cd7723f0c7ca27129a647108777": {
+        "la": "Takeya",
+        "en": "Takeya",
+        "pl": "Takeya"
     },
     "c1c6077f67b6ff9102cf9fc304d6698f": {
         "it": "Venimbeni"
@@ -1109,6 +1164,11 @@
     "cc0722b733e25829ed9de9e93ac97be5": {
         "de": "Stein"
     },
+    "cc2003021efb26c08d4692207e2ec97a": {
+        "la": "Sakakibara",
+        "en": "Sakakibara",
+        "pl": "Sakakibara"
+    },
     "cc3eb7e8b820fac39509cbae23345df3": {
         "en": "Demjanovich"
     },
@@ -1121,9 +1181,17 @@
     "cdc98eea2ac359f9646295955732824a": {
         "la": "Mariscotti"
     },
+    "d0ae143efe96f406e71441d750f9e65a": {
+        "la": "Soan",
+        "en": "Soan",
+        "pl": "Soan"
+    },
     "d16ca5c85b5b111a17051f78d0a1d2ea": {
         "it": "de Geronimo",
         "la": "de Geronimo"
+    },
+    "d1ab54271b40ed647d7ad43fce310c51": {
+        "ja": "助四郎"
     },
     "d1aec1a60b876171019aa27e1deaa7db": {
         "es": "Caloca"
@@ -1142,6 +1210,14 @@
     },
     "d37201d86b12ff320829643574e20eeb": {
         "en": "Costiste"
+    },
+    "d3b5ebff6605cc0a832d57202789418e": {
+        "es": "Blázquez"
+    },
+    "d3b694316f1fb17b5f3bc753d2fc8544": {
+        "la": "Dangi",
+        "en": "Dangi",
+        "pl": "Dangi"
     },
     "d3c30697281eaca4375fd7b657b24f6c": {
         "es": "Gárate"
@@ -1167,6 +1243,9 @@
     "d85f35d0f3480025f970cb9e78298ebb": {
         "it": "Silvestrelli"
     },
+    "d86be7912e2cab206670c03a97bb2751": {
+        "ja": "小崎"
+    },
     "d8be412df3e94378cc070fb9cb1f7998": {
         "pl": "Kotowska"
     },
@@ -1184,6 +1263,9 @@
     },
     "dac3d622408645faa123538f640760c0": {
         "fr": "Fournet"
+    },
+    "dae0a78456058150a6f7df217e354bc0": {
+        "ja": "絹屋"
     },
     "dbe1b614a066c9b2bb3d1f5127a9b43c": {
         "en": "Ward"
@@ -1287,11 +1369,21 @@
     "f05f1ad0d889f07caa0f9ac9069e1535": {
         "pl": "Malojan"
     },
+    "f06b527a706cbd72868f04fed3aeff77": {
+        "la": "Ibaraki",
+        "en": "Ibaraki",
+        "pl": "Ibaraki"
+    },
     "f173424f29af787b27486e58bff57d54": {
         "pl": "Strepa"
     },
     "f2204f6f44d5c9ff1bb86f199a729137": {
         "la": "Romzsa"
+    },
+    "f2e9dd2afda03552af7cf421550e1b87": {
+        "la": "Kisai",
+        "en": "Kisai",
+        "pl": "Kisai"
     },
     "f3d88d1e8f8ec6b2ea88a398433edf97": {
         "fr": "Pichery"
@@ -1346,6 +1438,9 @@
         "en": "di Rosa",
         "pl": "di Rosa"
     },
+    "f9eb05a1f6b95bc22efe5100a98cd640": {
+        "ja": "喜斎"
+    },
     "fa1368cc3ea21023d6032e673ceab1f7": {
         "it": "de' Pazzi"
     },
@@ -1355,14 +1450,25 @@
     "faa9e9a22dbe99927e7482cf66975da7": {
         "ko": "남"
     },
+    "fab60c906e94b2d25e718a5b9f13b1fe": {
+        "ja": "烏丸"
+    },
     "fabc8c0284c226c51ef678e8159c1a1a": {
         "pl": "Karłowska"
+    },
+    "fb14264a68ae44799886fac68b60c112": {
+        "la": "Sukejiro",
+        "en": "Sukejiro",
+        "pl": "Sukejiro"
     },
     "fb56916b7b11b81cd15ffe1630d4ba79": {
         "en": "Lowe"
     },
     "fc472bce8c36190224ae84f040d3379f": {
         "hy": "Մալոյան"
+    },
+    "fc998674af8b38637a35063b9df43e48": {
+        "ja": "鈴木"
     },
     "fedeaed6ef18786ea69f400113ccfdfd": {
         "en": "of Capistrano"

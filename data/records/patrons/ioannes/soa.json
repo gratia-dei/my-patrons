@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ja": [
+            "ヨハネ草庵"
+        ],
+        "la": [
+            "Ioannes de Goto Soan"
+        ],
+        "en": [
+            "John Soan of Goto"
+        ],
+        "pl": [
+            "Jan Soan z Goto"
+        ]
+    },
+    "forenames": ["ioannes"],
+    "surnames": [
+        {
+            "ja": "草庵",
+            "la": "Soan",
+            "en": "Soan",
+            "pl": "Soan"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1578"],
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr", "religiosus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["2:feb./5#9", "2:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65583",
+        "wiki": "https://pl.wikipedia.org/wiki/Jan_S%C5%8Dan"
+    }
+}

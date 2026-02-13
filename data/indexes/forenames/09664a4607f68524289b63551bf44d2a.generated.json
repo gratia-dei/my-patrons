@@ -1,0 +1,36 @@
+{
+    "names": {
+        "ja": "コスメ"
+    },
+    "translations": {
+        "la": [
+            "Cosmas"
+        ],
+        "en": [
+            "Cosmas"
+        ],
+        "pl": [
+            "Kosma"
+        ],
+        "el": [
+            "Κοσμάς"
+        ],
+        "ja": [
+            "コスメ"
+        ]
+    },
+    "links": {
+        "records/patrons/cosmas/dam": {
+            "el": "Κοσμᾶς ὁ Αἰγεεύς",
+            "la": "Cosmas Aegaeensis",
+            "en": "Cosmas of Aegeae",
+            "pl": "Kosma z Egei"
+        },
+        "records/patrons/cosmas/tak": {
+            "ja": "コスメ竹屋",
+            "la": "Cosmas Takeya",
+            "en": "Cosmas Takeya",
+            "pl": "Kosma Takeya"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ja": [
+            "コスメ竹屋"
+        ],
+        "la": [
+            "Cosmas Takeya"
+        ],
+        "en": [
+            "Cosmas Takeya"
+        ],
+        "pl": [
+            "Kosma Takeya"
+        ]
+    },
+    "forenames": ["cosmas"],
+    "surnames": [
+        {
+            "ja": "竹屋",
+            "la": "Takeya",
+            "en": "Takeya",
+            "pl": "Takeya"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["12:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["12:feb./5#9", "12:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65600",
+        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nagasaki"
+    }
+}

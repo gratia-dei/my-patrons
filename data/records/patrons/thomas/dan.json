@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ja": [
+            "トマス談義者"
+        ],
+        "la": [
+            "Thomas Dangi"
+        ],
+        "en": [
+            "Thomas Dangi"
+        ],
+        "pl": [
+            "Tomasz Dangi"
+        ]
+    },
+    "forenames": ["thomas"],
+    "surnames": [
+        {
+            "ja": "談義者",
+            "la": "Dangi",
+            "en": "Dangi",
+            "pl": "Dangi"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr", "catechista"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["14:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["14:feb./5#9", "14:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65588",
+        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nagasaki"
+    }
+}

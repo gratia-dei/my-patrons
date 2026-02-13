@@ -14,6 +14,12 @@
         ]
     },
     "links": {
+        "records/patrons/cosmas/tak": {
+            "ja": "コスメ竹屋",
+            "la": "Cosmas Takeya",
+            "en": "Cosmas Takeya",
+            "pl": "Kosma Takeya"
+        },
         "records/patrons/david/oke": {
             "sw": "Daudi Okelo",
             "la": "David Okelo",
@@ -32,6 +38,12 @@
             "en": "Joseph Chang Chu-gi",
             "pl": "Józef Chang Chu-gi"
         },
+        "records/patrons/leo/kar": {
+            "ja": "レオン烏丸",
+            "la": "Leo Karasuma",
+            "en": "Leo Karasuma",
+            "pl": "Leon Karasuma"
+        },
         "records/patrons/lucas/hwa": {
             "ko": "황석두 루가",
             "la": "Lucas Hwang Sŏk-tu",
@@ -44,17 +56,41 @@
             "en": "Michael Nakashima",
             "pl": "Michał Nakashima"
         },
+        "records/patrons/paulus/iba": {
+            "ja": "パウロ茨木",
+            "la": "Paulus Ibaraki",
+            "en": "Paul Ibaraki",
+            "pl": "Paweł Ibaraki"
+        },
+        "records/patrons/paulus/suz": {
+            "ja": "パウロ鈴木",
+            "la": "Paulus Suzuki",
+            "en": "Paul Suzuki",
+            "pl": "Paweł Suzuki"
+        },
         "records/patrons/petrus/cal": {
             "tl": "Pedro Calungsod",
             "la": "Petrus Calungsod",
             "en": "Peter Calungsod",
             "pl": "Piotr Calungsod"
         },
+        "records/patrons/petrus/suk": {
+            "ja": "ペトロ助四郎",
+            "la": "Petrus Sukejiro",
+            "en": "Peter Sukejiro",
+            "pl": "Piotr Sukejiro"
+        },
         "records/patrons/petrus/wug": {
             "zh": "吳國盛伯鐸",
             "la": "Petrus Wu Guosheng",
             "en": "Peter Wu Guosheng",
             "pl": "Piotr Wu Guosheng"
+        },
+        "records/patrons/thomas/dan": {
+            "ja": "トマス談義者",
+            "la": "Thomas Dangi",
+            "en": "Thomas Dangi",
+            "pl": "Tomasz Dangi"
         },
         "records/patrons/thomas/son": {
             "ko": "손자선 토마스",

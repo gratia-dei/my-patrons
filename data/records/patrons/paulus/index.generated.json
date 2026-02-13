@@ -10,6 +10,12 @@
         "en": "Paul of Constantinople",
         "pl": "Paweł z Bizancjum"
     },
+    "iba": {
+        "ja": "パウロ茨木",
+        "la": "Paulus Ibaraki",
+        "en": "Paul Ibaraki",
+        "pl": "Paweł Ibaraki"
+    },
     "mik": {
         "ja": "パウロ三木",
         "la": "Paulus Miki",
@@ -21,5 +27,11 @@
         "la": "Paulus Nguyễn Ngân",
         "en": "Paul Nguyễn Ngân",
         "pl": "Paweł Nguyễn Ngân"
+    },
+    "suz": {
+        "ja": "パウロ鈴木",
+        "la": "Paulus Suzuki",
+        "en": "Paul Suzuki",
+        "pl": "Paweł Suzuki"
     }
 }

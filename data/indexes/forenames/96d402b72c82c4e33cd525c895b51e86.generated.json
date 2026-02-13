@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "Adaukt"
+    },
+    "translations": {
+        "la": [
+            "Adauctus"
+        ],
+        "en": [
+            "Adauctus"
+        ],
+        "pl": [
+            "Adaukt"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/ada": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        }
+    }
+}

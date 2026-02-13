@@ -1,0 +1,35 @@
+{
+    "names": {
+        "la": "Kozaki",
+        "en": "Kozaki",
+        "pl": "Kozaki"
+    },
+    "translations": {
+        "ja": [
+            "小崎"
+        ],
+        "la": [
+            "Kozaki"
+        ],
+        "en": [
+            "Kozaki"
+        ],
+        "pl": [
+            "Kozaki"
+        ]
+    },
+    "links": {
+        "records/patrons/michael/kzk": {
+            "ja": "ミカエル小崎",
+            "la": "Michael Kozaki",
+            "en": "Michael Kozaki",
+            "pl": "Michał Kozaki"
+        },
+        "records/patrons/thomas/koz": {
+            "ja": "トマス小崎",
+            "la": "Thomas Kozaki",
+            "en": "Thomas Kozaki",
+            "pl": "Tomasz Kozaki"
+        }
+    }
+}

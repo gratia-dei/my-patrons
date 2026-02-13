@@ -1,0 +1,136 @@
+{
+    "names": {
+        "ja": "アントニオ"
+    },
+    "translations": {
+        "la": [
+            "Antonius"
+        ],
+        "en": [
+            "Anthony"
+        ],
+        "pl": [
+            "Antoni"
+        ],
+        "el": [
+            "Ἀντώνιος"
+        ],
+        "es": [
+            "Antonio"
+        ],
+        "fr": [
+            "Antoine"
+        ],
+        "it": [
+            "Antonio"
+        ],
+        "ja": [
+            "アントニオ"
+        ],
+        "pt": [
+            "Antônio"
+        ],
+        "uk": [
+            "Антоній"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/abb": {
+            "el": "Ἀντώνιος Μέγας",
+            "la": "Antonius Magnus",
+            "en": "Anthony the Great",
+            "pl": "Antoni Wielki"
+        },
+        "records/patrons/antonius/baj": {
+            "pl": "Antoni Bajewski",
+            "la": "Antonius Bajewski",
+            "en": "Anthony Bajewski"
+        },
+        "records/patrons/antonius/bal": {
+            "it": "Antonio Baldinucci",
+            "la": "Antonius Baldinucci",
+            "en": "Anthony Baldinucci",
+            "pl": "Antoni Baldinucci"
+        },
+        "records/patrons/antonius/cau": {
+            "el": "Ἀντώνιος Καυλέας",
+            "la": "Antonius Cauleas",
+            "en": "Anthony Cauleas",
+            "pl": "Antoni Kauleas"
+        },
+        "records/patrons/antonius/chi": {
+            "it": "Antonio della Chiesa",
+            "la": "Antonius della Chiesa",
+            "en": "Anthony della Chiesa",
+            "pl": "Antoni della Chiesa"
+        },
+        "records/patrons/antonius/dan": {
+            "fr": "Antoine Daniel",
+            "la": "Antonius Daniel",
+            "en": "Anthony Daniel",
+            "pl": "Antoni Daniel"
+        },
+        "records/patrons/antonius/dav": {
+            "fr": "Antoine Daveluy",
+            "la": "Antonius Daveluy",
+            "en": "Anthony Daveluy",
+            "pl": "Antoni Daveluy"
+        },
+        "records/patrons/antonius/ere": {
+            "uk": "Антоній Печерський",
+            "la": "Antonius Pecherskii",
+            "en": "Anthony of Kiev",
+            "pl": "Antoni Pieczerski"
+        },
+        "records/patrons/antonius/mar": {
+            "es": "Antonio Martín Hernández",
+            "la": "Antonius Martín Hernández",
+            "en": "Anthony Martín Hernández",
+            "pl": "Antoni Martín Hernández"
+        },
+        "records/patrons/antonius/nag": {
+            "ja": "ルドビコ茨木",
+            "la": "Antonius de Nagasaki",
+            "en": "Anthony of Nagasaki",
+            "pl": "Antoni z Nagasaki"
+        },
+        "records/patrons/antonius/now": {
+            "pl": "Antoni Julian Nowowiejski",
+            "la": "Antonius Iulianus Nowowiejski",
+            "en": "Anthony Julian Nowowiejski"
+        },
+        "records/patrons/antonius/pat": {
+            "pt": "Antônio de Pádua",
+            "la": "Antonius Patavinus",
+            "en": "Anthony of Padua",
+            "pl": "Antoni Padewski"
+        },
+        "records/patrons/antonius/puc": {
+            "it": "Antonio Maria Pucci",
+            "la": "Antonius Maria Pucci",
+            "en": "Anthony Mary Pucci",
+            "pl": "Antoni Maria Pucci"
+        },
+        "records/patrons/antonius/rew": {
+            "pl": "Antoni Rewera",
+            "la": "Antonius Rewera",
+            "en": "Anthony Rewera"
+        },
+        "records/patrons/antonius/swi": {
+            "pl": "Antoni Świadek",
+            "la": "Antonius Świadek",
+            "en": "Anthony Świadek"
+        },
+        "records/patrons/antonius/ulm": {
+            "pl": "Antoni Ulma",
+            "la": "Antonius Ulma",
+            "en": "Anthony Ulma"
+        },
+        "records/patrons/antonius/zac": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
+        }
+    }
+}

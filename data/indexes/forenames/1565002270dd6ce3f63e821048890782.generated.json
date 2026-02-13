@@ -28,6 +28,9 @@
         "it": [
             "Giovanni"
         ],
+        "ja": [
+            "ヨハネ"
+        ],
         "pt": [
             "João"
         ],
@@ -153,6 +156,12 @@
             "la": "Ioannes Cantius",
             "en": "John Cantius"
         },
+        "records/patrons/ioannes/kin": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        },
         "records/patrons/ioannes/lal": {
             "fr": "Jean de La Lande",
             "la": "Ioannes de la Lande",
@@ -208,6 +217,12 @@
             "la": "Ioannes Sarkander",
             "en": "John Sarkander",
             "pl": "Jan Sarkander"
+        },
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
         },
         "records/patrons/ioannes/tup": {
             "it": "Giovanni da Tufara",

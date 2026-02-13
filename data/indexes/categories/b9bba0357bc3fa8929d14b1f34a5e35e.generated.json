@@ -73,6 +73,12 @@
             "en": "Francis Gárate Aranguren",
             "pl": "Franciszek Gárate Aranguren"
         },
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
+        },
         "records/patrons/gerardus/maj": {
             "it": "Gerardo Maiella",
             "la": "Gerard Majella",
@@ -83,6 +89,12 @@
             "pl": "Grzegorz Frąckowiak",
             "la": "Gregorius Frąckowiak",
             "en": "Gregory Frąckowiak"
+        },
+        "records/patrons/gundisalvus/gar": {
+            "pt": "Gonçalo Garcia",
+            "la": "Gundisalvus Garcia",
+            "en": "Gonsalo Garcia",
+            "pl": "Gonsalwy Garcia"
         },
         "records/patrons/hedwigis/duc": {
             "de": "Hedwig von Andechs",
@@ -95,6 +107,12 @@
             "la": "Iacobinus de' Canepacci",
             "en": "Jacobinus de Canepacci",
             "pl": "Jakobin de Canepacci"
+        },
+        "records/patrons/iacobus/kis": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
         },
         "records/patrons/ieremias/val": {
             "ro": "Ieremia Valahul",
@@ -119,6 +137,12 @@
             "la": "Ioannes de la Lande",
             "en": "John de La Lande",
             "pl": "Jan de La Lande"
+        },
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
         },
         "records/patrons/iosephina/bak": {
             "ar": "جوزفين بخيتة",
@@ -176,6 +200,12 @@
             "la": "Petrus Friedhofen",
             "en": "Peter Friedhofen",
             "pl": "Piotr Friedhofen"
+        },
+        "records/patrons/philippus/las": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
         },
         "records/patrons/pius/cam": {
             "it": "Pio di San Luigi",

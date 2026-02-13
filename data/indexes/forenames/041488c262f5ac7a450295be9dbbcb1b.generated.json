@@ -1,0 +1,27 @@
+{
+    "names": {
+        "pl": "Bonawentura"
+    },
+    "translations": {
+        "la": [
+            "Bonaventura"
+        ],
+        "en": [
+            "Bonaventura"
+        ],
+        "pl": [
+            "Bonawentura"
+        ],
+        "ja": [
+            "ボナベントゥラ"
+        ]
+    },
+    "links": {
+        "records/patrons/bonaventura/nag": {
+            "ja": "ボナベントゥラ",
+            "la": "Bonaventura de Nagasaki",
+            "en": "Bonaventura of Nagasaki",
+            "pl": "Bonawentura z Nagasaki"
+        }
+    }
+}

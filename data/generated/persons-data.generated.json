@@ -2716,6 +2716,7 @@
             "es": "Antonio",
             "fr": "Antoine",
             "it": "Antonio",
+            "ja": "アントニオ",
             "pt": "Antônio",
             "uk": "Антоній"
         }
@@ -2743,6 +2744,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2771,6 +2773,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2800,6 +2803,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2829,6 +2833,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2858,6 +2863,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2887,6 +2893,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2916,6 +2923,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2945,6 +2953,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -2974,6 +2983,37 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
+                    "pt": "Antônio",
+                    "uk": "Антоній"
+                }
+            }
+        }
+    },
+    "patrons/antonius/nag": {
+        "active": true,
+        "names": {
+            "ja": "ルドビコ茨木",
+            "la": "Antonius de Nagasaki",
+            "en": "Anthony of Nagasaki",
+            "pl": "Antoni z Nagasaki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/antonius": {
+                "active": true,
+                "names": {
+                    "la": "Antonius",
+                    "en": "Anthony",
+                    "pl": "Antoni",
+                    "el": "Ἀντώνιος",
+                    "es": "Antonio",
+                    "fr": "Antoine",
+                    "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3002,6 +3042,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3041,6 +3082,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3070,6 +3112,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3113,6 +3156,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3141,6 +3185,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3169,6 +3214,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -3198,6 +3244,7 @@
                     "es": "Antonio",
                     "fr": "Antoine",
                     "it": "Antonio",
+                    "ja": "アントニオ",
                     "pt": "Antônio",
                     "uk": "Антоній"
                 }
@@ -4626,6 +4673,38 @@
                     "fr": "Marie",
                     "it": "Maria",
                     "ko": "마리아"
+                }
+            }
+        }
+    },
+    "patrons/bonaventura": {
+        "names": {
+            "la": "Bonaventura",
+            "en": "Bonaventura",
+            "pl": "Bonawentura",
+            "ja": "ボナベントゥラ"
+        }
+    },
+    "patrons/bonaventura/nag": {
+        "active": true,
+        "names": {
+            "ja": "ボナベントゥラ",
+            "la": "Bonaventura de Nagasaki",
+            "en": "Bonaventura of Nagasaki",
+            "pl": "Bonawentura z Nagasaki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/bonaventura": {
+                "active": true,
+                "names": {
+                    "la": "Bonaventura",
+                    "en": "Bonaventura",
+                    "pl": "Bonawentura",
+                    "ja": "ボナベントゥラ"
                 }
             }
         }
@@ -6397,7 +6476,8 @@
             "la": "Cosmas",
             "en": "Cosmas",
             "pl": "Kosma",
-            "el": "Κοσμάς"
+            "el": "Κοσμάς",
+            "ja": "コスメ"
         }
     },
     "patrons/cosmas/dam": {
@@ -6420,7 +6500,33 @@
                     "la": "Cosmas",
                     "en": "Cosmas",
                     "pl": "Kosma",
-                    "el": "Κοσμάς"
+                    "el": "Κοσμάς",
+                    "ja": "コスメ"
+                }
+            }
+        }
+    },
+    "patrons/cosmas/tak": {
+        "active": true,
+        "names": {
+            "ja": "コスメ竹屋",
+            "la": "Cosmas Takeya",
+            "en": "Cosmas Takeya",
+            "pl": "Kosma Takeya"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/cosmas": {
+                "active": true,
+                "names": {
+                    "la": "Cosmas",
+                    "en": "Cosmas",
+                    "pl": "Kosma",
+                    "el": "Κοσμάς",
+                    "ja": "コスメ"
                 }
             }
         }
@@ -9153,7 +9259,44 @@
             "es": "Francisco",
             "fr": "François",
             "it": "Francesco",
+            "ja": "フランシスコ",
             "pt": "Francisco"
+        }
+    },
+    "patrons/franciscus/ada": {
+        "active": true,
+        "names": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/franciscus": {
+                "active": true,
+                "names": {
+                    "la": "Franciscus",
+                    "en": "Francis",
+                    "pl": "Franciszek",
+                    "es": "Francisco",
+                    "fr": "François",
+                    "it": "Francesco",
+                    "ja": "フランシスコ",
+                    "pt": "Francisco"
+                }
+            },
+            "forenames/adauctus": {
+                "active": true,
+                "names": {
+                    "la": "Adauctus",
+                    "en": "Adauctus",
+                    "pl": "Adaukt"
+                }
+            }
         }
     },
     "patrons/franciscus/asi": {
@@ -9193,6 +9336,35 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
+                    "pt": "Francisco"
+                }
+            }
+        }
+    },
+    "patrons/franciscus/bla": {
+        "active": true,
+        "names": {
+            "es": "Francisco Blanco",
+            "la": "Franciscus Blanco",
+            "en": "Francis Blanco",
+            "pl": "Franciszek Blanco"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/franciscus": {
+                "active": true,
+                "names": {
+                    "la": "Franciscus",
+                    "en": "Francis",
+                    "pl": "Franciszek",
+                    "es": "Francisco",
+                    "fr": "François",
+                    "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9220,6 +9392,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9247,6 +9420,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9273,6 +9447,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9300,6 +9475,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9327,6 +9503,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9353,6 +9530,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9380,6 +9558,63 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
+                    "pt": "Francisco"
+                }
+            }
+        }
+    },
+    "patrons/franciscus/mea": {
+        "active": true,
+        "names": {
+            "ja": "フランシスコ医師",
+            "la": "Franciscus de Meako",
+            "en": "Francis of Meako",
+            "pl": "Franciszek z Meako"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/franciscus": {
+                "active": true,
+                "names": {
+                    "la": "Franciscus",
+                    "en": "Francis",
+                    "pl": "Franciszek",
+                    "es": "Francisco",
+                    "fr": "François",
+                    "it": "Francesco",
+                    "ja": "フランシスコ",
+                    "pt": "Francisco"
+                }
+            }
+        }
+    },
+    "patrons/franciscus/par": {
+        "active": true,
+        "names": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/franciscus": {
+                "active": true,
+                "names": {
+                    "la": "Franciscus",
+                    "en": "Francis",
+                    "pl": "Franciszek",
+                    "es": "Francisco",
+                    "fr": "François",
+                    "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9407,6 +9642,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9433,6 +9669,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9460,6 +9697,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9495,6 +9733,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9521,6 +9760,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9547,6 +9787,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9574,6 +9815,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9602,6 +9844,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -9641,7 +9884,8 @@
             "la": "Gabriel",
             "en": "Gabriel",
             "pl": "Gabriel",
-            "fr": "Gabriel"
+            "fr": "Gabriel",
+            "ja": "ガブリエル"
         }
     },
     "patrons/gabriel/arc": {
@@ -9662,7 +9906,8 @@
                     "la": "Gabriel",
                     "en": "Gabriel",
                     "pl": "Gabriel",
-                    "fr": "Gabriel"
+                    "fr": "Gabriel",
+                    "ja": "ガブリエル"
                 }
             }
         }
@@ -9686,7 +9931,8 @@
                     "la": "Gabriel",
                     "en": "Gabriel",
                     "pl": "Gabriel",
-                    "fr": "Gabriel"
+                    "fr": "Gabriel",
+                    "ja": "ガブリエル"
                 }
             },
             "forenames/taurinus": {
@@ -9719,7 +9965,33 @@
                     "la": "Gabriel",
                     "en": "Gabriel",
                     "pl": "Gabriel",
-                    "fr": "Gabriel"
+                    "fr": "Gabriel",
+                    "ja": "ガブリエル"
+                }
+            }
+        }
+    },
+    "patrons/gabriel/nag": {
+        "active": true,
+        "names": {
+            "ja": "ガブリエル",
+            "la": "Gabriel de Nagasaki",
+            "en": "Gabriel of Nagasaki",
+            "pl": "Gabriel z Nagasaki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/gabriel": {
+                "active": true,
+                "names": {
+                    "la": "Gabriel",
+                    "en": "Gabriel",
+                    "pl": "Gabriel",
+                    "fr": "Gabriel",
+                    "ja": "ガブリエル"
                 }
             }
         }
@@ -10877,6 +11149,38 @@
             }
         }
     },
+    "patrons/gundisalvus": {
+        "names": {
+            "la": "Gundisalvus",
+            "en": "Gonsalo",
+            "pl": "Gonsalwy",
+            "pt": "Gonçalo"
+        }
+    },
+    "patrons/gundisalvus/gar": {
+        "active": true,
+        "names": {
+            "pt": "Gonçalo Garcia",
+            "la": "Gundisalvus Garcia",
+            "en": "Gonsalo Garcia",
+            "pl": "Gonsalwy Garcia"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/gundisalvus": {
+                "active": true,
+                "names": {
+                    "la": "Gundisalvus",
+                    "en": "Gonsalo",
+                    "pl": "Gonsalwy",
+                    "pt": "Gonçalo"
+                }
+            }
+        }
+    },
     "patrons/gunthramnus": {
         "names": {
             "la": "Gunthramnus",
@@ -11419,6 +11723,7 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -11682,6 +11987,7 @@
             "pl": "Jakub",
             "fr": "Jacques",
             "it": "Giacomo",
+            "ja": "ディエゴ",
             "sw": "Yakobo"
         }
     },
@@ -11706,6 +12012,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11732,6 +12039,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11758,6 +12066,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11784,6 +12093,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11809,6 +12119,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11835,6 +12146,34 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
+                    "sw": "Yakobo"
+                }
+            }
+        }
+    },
+    "patrons/iacobus/kis": {
+        "active": true,
+        "names": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iacobus": {
+                "active": true,
+                "names": {
+                    "la": "Iacobus",
+                    "en": "James",
+                    "pl": "Jakub",
+                    "fr": "Jacques",
+                    "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11868,6 +12207,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11893,6 +12233,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -11918,6 +12259,7 @@
                     "pl": "Jakub",
                     "fr": "Jacques",
                     "it": "Giacomo",
+                    "ja": "ディエゴ",
                     "sw": "Yakobo"
                 }
             }
@@ -12130,6 +12472,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12428,7 +12771,8 @@
             "la": "Ioachim",
             "en": "Joachim",
             "pl": "Joachim",
-            "he": "יהוֹיָקִים"
+            "he": "יהוֹיָקִים",
+            "ja": "ヨアキム"
         }
     },
     "patrons/ioachim/mar": {
@@ -12450,7 +12794,33 @@
                     "la": "Ioachim",
                     "en": "Joachim",
                     "pl": "Joachim",
-                    "he": "יהוֹיָקִים"
+                    "he": "יהוֹיָקִים",
+                    "ja": "ヨアキム"
+                }
+            }
+        }
+    },
+    "patrons/ioachim/sak": {
+        "active": true,
+        "names": {
+            "ja": "ヨアキム榊原",
+            "la": "Ioachim Sakakibara",
+            "en": "Joachim Sakakibara",
+            "pl": "Joachim Sakakibara"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ioachim": {
+                "active": true,
+                "names": {
+                    "la": "Ioachim",
+                    "en": "Joachim",
+                    "pl": "Joachim",
+                    "he": "יהוֹיָקִים",
+                    "ja": "ヨアキム"
                 }
             }
         }
@@ -12679,6 +13049,7 @@
             "es": "Juan",
             "fr": "Jean",
             "it": "Giovanni",
+            "ja": "ヨハネ",
             "pt": "João",
             "ko": "요한"
         }
@@ -12707,6 +13078,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12736,6 +13108,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12765,6 +13138,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12845,6 +13219,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12874,6 +13249,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12904,6 +13280,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12943,6 +13320,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -12973,6 +13351,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13003,6 +13382,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13069,6 +13449,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13106,6 +13487,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13162,6 +13544,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13192,6 +13575,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13221,6 +13605,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13251,6 +13636,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13280,6 +13666,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13338,6 +13725,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13368,6 +13756,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13397,6 +13786,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13426,6 +13816,38 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
+                    "pt": "João",
+                    "ko": "요한"
+                }
+            }
+        }
+    },
+    "patrons/ioannes/kin": {
+        "active": true,
+        "names": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ioannes": {
+                "active": true,
+                "names": {
+                    "la": "Ioannes",
+                    "en": "John",
+                    "pl": "Jan",
+                    "cs": "Jan",
+                    "de": "Johannes",
+                    "es": "Juan",
+                    "fr": "Jean",
+                    "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13456,6 +13878,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13485,6 +13908,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13515,6 +13939,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13545,6 +13970,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13574,6 +14000,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13604,6 +14031,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13643,6 +14071,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13683,6 +14112,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13712,6 +14142,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13768,6 +14199,38 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
+                    "pt": "João",
+                    "ko": "요한"
+                }
+            }
+        }
+    },
+    "patrons/ioannes/soa": {
+        "active": true,
+        "names": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ioannes": {
+                "active": true,
+                "names": {
+                    "la": "Ioannes",
+                    "en": "John",
+                    "pl": "Jan",
+                    "cs": "Jan",
+                    "de": "Johannes",
+                    "es": "Juan",
+                    "fr": "Jean",
+                    "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13798,6 +14261,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13828,6 +14292,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13867,6 +14332,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -13972,6 +14438,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -15836,7 +16303,8 @@
         "names": {
             "la": "Leo",
             "en": "Leo",
-            "pl": "Leon"
+            "pl": "Leon",
+            "ja": "レオン"
         }
     },
     "patrons/leo/1pp": {
@@ -15856,7 +16324,8 @@
                 "names": {
                     "la": "Leo",
                     "en": "Leo",
-                    "pl": "Leon"
+                    "pl": "Leon",
+                    "ja": "レオン"
                 }
             }
         }
@@ -15878,7 +16347,32 @@
                 "names": {
                     "la": "Leo",
                     "en": "Leo",
-                    "pl": "Leon"
+                    "pl": "Leon",
+                    "ja": "レオン"
+                }
+            }
+        }
+    },
+    "patrons/leo/kar": {
+        "active": true,
+        "names": {
+            "ja": "レオン烏丸",
+            "la": "Leo Karasuma",
+            "en": "Leo Karasuma",
+            "pl": "Leon Karasuma"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/leo": {
+                "active": true,
+                "names": {
+                    "la": "Leo",
+                    "en": "Leo",
+                    "pl": "Leon",
+                    "ja": "レオン"
                 }
             }
         }
@@ -15900,7 +16394,8 @@
                 "names": {
                     "la": "Leo",
                     "en": "Leo",
-                    "pl": "Leon"
+                    "pl": "Leon",
+                    "ja": "レオン"
                 }
             }
         }
@@ -16420,7 +16915,8 @@
             "en": "Louis",
             "pl": "Ludwik",
             "fr": "Louis",
-            "it": "Lodovico"
+            "it": "Lodovico",
+            "ja": "ルドビコ"
         }
     },
     "patrons/ludovicus/gie": {
@@ -16442,7 +16938,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             },
             "forenames/rochus": {
@@ -16452,6 +16949,32 @@
                     "en": "Roch",
                     "pl": "Roch",
                     "fr": "Roch"
+                }
+            }
+        }
+    },
+    "patrons/ludovicus/iba": {
+        "active": true,
+        "names": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ludovicus": {
+                "active": true,
+                "names": {
+                    "la": "Ludovicus",
+                    "en": "Louis",
+                    "pl": "Ludwik",
+                    "fr": "Louis",
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             }
         }
@@ -16476,7 +16999,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             }
         }
@@ -16501,7 +17025,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             },
             "forenames/zephyrinus": {
@@ -16534,7 +17059,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             }
         }
@@ -16559,7 +17085,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             }
         }
@@ -16584,7 +17111,8 @@
                     "en": "Louis",
                     "pl": "Ludwik",
                     "fr": "Louis",
-                    "it": "Lodovico"
+                    "it": "Lodovico",
+                    "ja": "ルドビコ"
                 }
             }
         }
@@ -19704,6 +20232,32 @@
             }
         }
     },
+    "patrons/martinus/agu": {
+        "active": true,
+        "names": {
+            "es": "Martín de la Ascensión Aguirre",
+            "la": "Martinus ab Ascensione Aguirre",
+            "en": "Martin of the Ascension Aguirre",
+            "pl": "Marcin od Wniebowstąpienia Aguirre"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/martinus": {
+                "active": true,
+                "names": {
+                    "la": "Martinus",
+                    "en": "Martin",
+                    "pl": "Marcin",
+                    "es": "Martín",
+                    "fr": "Martin",
+                    "vi": "Martinô"
+                }
+            }
+        }
+    },
     "patrons/martinus/hui": {
         "active": true,
         "names": {
@@ -19962,7 +20516,8 @@
         "names": {
             "la": "Matthias",
             "en": "Matthias",
-            "pl": "Maciej"
+            "pl": "Maciej",
+            "ja": "マチアス"
         }
     },
     "patrons/matthias/apo": {
@@ -19991,7 +20546,32 @@
                 "names": {
                     "la": "Matthias",
                     "en": "Matthias",
-                    "pl": "Maciej"
+                    "pl": "Maciej",
+                    "ja": "マチアス"
+                }
+            }
+        }
+    },
+    "patrons/matthias/nag": {
+        "active": true,
+        "names": {
+            "ja": "マチアス",
+            "la": "Matthias de Nagasaki",
+            "en": "Matthias of Nagasaki",
+            "pl": "Maciej z Nagasaki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/matthias": {
+                "active": true,
+                "names": {
+                    "la": "Matthias",
+                    "en": "Matthias",
+                    "pl": "Maciej",
+                    "ja": "マチアス"
                 }
             }
         }
@@ -20378,6 +20958,33 @@
         },
         "died": [
             "1943-01-26"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/michael": {
+                "active": true,
+                "names": {
+                    "la": "Michael",
+                    "en": "Michael",
+                    "pl": "Michał",
+                    "ca": "Miquel",
+                    "ja": "ミカル",
+                    "ig": "Michael",
+                    "it": "Michele"
+                }
+            }
+        }
+    },
+    "patrons/michael/kzk": {
+        "active": true,
+        "names": {
+            "ja": "ミカエル小崎",
+            "la": "Michael Kozaki",
+            "en": "Michael Kozaki",
+            "pl": "Michał Kozaki"
+        },
+        "died": [
+            "1597-02-05"
         ],
         "feasts": [],
         "forenames": {
@@ -21660,6 +22267,7 @@
                     "es": "Juan",
                     "fr": "Jean",
                     "it": "Giovanni",
+                    "ja": "ヨハネ",
                     "pt": "João",
                     "ko": "요한"
                 }
@@ -22343,6 +22951,31 @@
             }
         }
     },
+    "patrons/paulus/iba": {
+        "active": true,
+        "names": {
+            "ja": "パウロ茨木",
+            "la": "Paulus Ibaraki",
+            "en": "Paul Ibaraki",
+            "pl": "Paweł Ibaraki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/paulus": {
+                "active": true,
+                "names": {
+                    "la": "Paulus",
+                    "en": "Paul",
+                    "pl": "Paweł",
+                    "ja": "パウロ",
+                    "vi": "Phaolô"
+                }
+            }
+        }
+    },
     "patrons/paulus/mik": {
         "active": true,
         "names": {
@@ -22398,6 +23031,31 @@
                     "en": "Ngân",
                     "pl": "Ngân",
                     "vi": "Ngân"
+                }
+            }
+        }
+    },
+    "patrons/paulus/suz": {
+        "active": true,
+        "names": {
+            "ja": "パウロ鈴木",
+            "la": "Paulus Suzuki",
+            "en": "Paul Suzuki",
+            "pl": "Paweł Suzuki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/paulus": {
+                "active": true,
+                "names": {
+                    "la": "Paulus",
+                    "en": "Paul",
+                    "pl": "Paweł",
+                    "ja": "パウロ",
+                    "vi": "Phaolô"
                 }
             }
         }
@@ -22501,7 +23159,9 @@
             "en": "Peter",
             "pl": "Piotr",
             "de": "Peter",
+            "es": "Pedro",
             "fr": "Pierre",
+            "ja": "ペトロ",
             "nl": "Petrus",
             "it": "Pietro",
             "tl": "Pedro",
@@ -22585,7 +23245,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22624,11 +23286,53 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
                     "zh": "伯鐸"
+                }
+            }
+        }
+    },
+    "patrons/petrus/bla": {
+        "active": true,
+        "names": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/petrus": {
+                "active": true,
+                "names": {
+                    "la": "Petrus",
+                    "en": "Peter",
+                    "pl": "Piotr",
+                    "de": "Peter",
+                    "es": "Pedro",
+                    "fr": "Pierre",
+                    "ja": "ペトロ",
+                    "nl": "Petrus",
+                    "it": "Pietro",
+                    "tl": "Pedro",
+                    "zh": "伯鐸"
+                }
+            },
+            "forenames/baptista": {
+                "active": true,
+                "names": {
+                    "la": "Baptista",
+                    "en": "Baptist",
+                    "pl": "Chrzciciel",
+                    "es": "Bautista"
                 }
             }
         }
@@ -22653,7 +23357,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22681,7 +23387,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22710,7 +23418,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22738,7 +23448,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22775,7 +23487,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22804,7 +23518,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22843,7 +23559,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22891,7 +23609,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22920,7 +23640,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22949,7 +23671,40 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
+                    "nl": "Petrus",
+                    "it": "Pietro",
+                    "tl": "Pedro",
+                    "zh": "伯鐸"
+                }
+            }
+        }
+    },
+    "patrons/petrus/suk": {
+        "active": true,
+        "names": {
+            "ja": "ペトロ助四郎",
+            "la": "Petrus Sukejiro",
+            "en": "Peter Sukejiro",
+            "pl": "Piotr Sukejiro"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/petrus": {
+                "active": true,
+                "names": {
+                    "la": "Petrus",
+                    "en": "Peter",
+                    "pl": "Piotr",
+                    "de": "Peter",
+                    "es": "Pedro",
+                    "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -22978,7 +23733,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -23007,7 +23764,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -23036,7 +23795,9 @@
                     "en": "Peter",
                     "pl": "Piotr",
                     "de": "Peter",
+                    "es": "Pedro",
                     "fr": "Pierre",
+                    "ja": "ペトロ",
                     "nl": "Petrus",
                     "it": "Pietro",
                     "tl": "Pedro",
@@ -23121,6 +23882,7 @@
             "la": "Philippus",
             "en": "Philip",
             "pl": "Filip",
+            "es": "Felipe",
             "it": "Filippo"
         }
     },
@@ -23142,6 +23904,7 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -23166,6 +23929,7 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -23189,6 +23953,32 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
+                    "it": "Filippo"
+                }
+            }
+        }
+    },
+    "patrons/philippus/las": {
+        "active": true,
+        "names": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/philippus": {
+                "active": true,
+                "names": {
+                    "la": "Philippus",
+                    "en": "Philip",
+                    "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -23213,6 +24003,7 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -23237,6 +24028,7 @@
                     "la": "Philippus",
                     "en": "Philip",
                     "pl": "Filip",
+                    "es": "Felipe",
                     "it": "Filippo"
                 }
             }
@@ -23568,6 +24360,7 @@
                     "es": "Francisco",
                     "fr": "François",
                     "it": "Francesco",
+                    "ja": "フランシスコ",
                     "pt": "Francisco"
                 }
             }
@@ -27120,6 +27913,7 @@
             "pl": "Tomasz",
             "es": "Tomás",
             "it": "Tommaso",
+            "ja": "トマス",
             "ko": "토마스"
         }
     },
@@ -27151,6 +27945,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27177,6 +27972,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27202,6 +27998,34 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
+                    "ko": "토마스"
+                }
+            }
+        }
+    },
+    "patrons/thomas/dan": {
+        "active": true,
+        "names": {
+            "ja": "トマス談義者",
+            "la": "Thomas Dangi",
+            "en": "Thomas Dangi",
+            "pl": "Tomasz Dangi"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/thomas": {
+                "active": true,
+                "names": {
+                    "la": "Thomas",
+                    "en": "Thomas",
+                    "pl": "Tomasz",
+                    "es": "Tomás",
+                    "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27227,6 +28051,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27252,6 +28077,34 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
+                    "ko": "토마스"
+                }
+            }
+        }
+    },
+    "patrons/thomas/koz": {
+        "active": true,
+        "names": {
+            "ja": "トマス小崎",
+            "la": "Thomas Kozaki",
+            "en": "Thomas Kozaki",
+            "pl": "Tomasz Kozaki"
+        },
+        "died": [
+            "1597-02-05"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/thomas": {
+                "active": true,
+                "names": {
+                    "la": "Thomas",
+                    "en": "Thomas",
+                    "pl": "Tomasz",
+                    "es": "Tomás",
+                    "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27277,6 +28130,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27303,6 +28157,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             }
@@ -27329,6 +28184,7 @@
                     "pl": "Tomasz",
                     "es": "Tomás",
                     "it": "Tommaso",
+                    "ja": "トマス",
                     "ko": "토마스"
                 }
             },

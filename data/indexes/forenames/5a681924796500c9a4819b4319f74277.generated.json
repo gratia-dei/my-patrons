@@ -1,0 +1,63 @@
+{
+    "names": {
+        "es": "Felipe"
+    },
+    "translations": {
+        "la": [
+            "Philippus"
+        ],
+        "en": [
+            "Philip"
+        ],
+        "pl": [
+            "Filip"
+        ],
+        "es": [
+            "Felipe"
+        ],
+        "it": [
+            "Filippo"
+        ]
+    },
+    "links": {
+        "records/patrons/hippolytus/rom": {
+            "la": "Hippolytus Romanus",
+            "en": "Hippolytus of Rome",
+            "pl": "Hipolit Rzymski"
+        },
+        "records/patrons/philippus/apo": {
+            "la": "Philippus Apostolus",
+            "en": "Philip Apostle",
+            "pl": "Filip Apostoł"
+        },
+        "records/patrons/philippus/ben": {
+            "it": "Filippo Benizi",
+            "la": "Philippus Benitius",
+            "en": "Philip Benizi",
+            "pl": "Filip Benicjusz"
+        },
+        "records/patrons/philippus/fel": {
+            "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
+            "en": "Philip; with him, i.a., Felix; as Seven Brothers",
+            "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "records/patrons/philippus/las": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
+        },
+        "records/patrons/philippus/ner": {
+            "it": "Filippo Neri",
+            "la": "Fhilippus Nerius",
+            "en": "Fhilip Neri",
+            "pl": "Filip Neri"
+        },
+        "records/patrons/philippus/rin": {
+            "it": "Filippo Rinaldi",
+            "la": "Philippus Rinaldi",
+            "en": "Philip Rinaldi",
+            "pl": "Filip Rinaldi"
+        }
+    }
+}

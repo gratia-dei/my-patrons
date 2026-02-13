@@ -15,6 +15,12 @@
         "la": "Thomas Becket",
         "pl": "Tomasz Becket"
     },
+    "dan": {
+        "ja": "トマス談義者",
+        "la": "Thomas Dangi",
+        "en": "Thomas Dangi",
+        "pl": "Tomasz Dangi"
+    },
     "gar": {
         "en": "Thomas Garnet",
         "la": "Thomas Garnet",
@@ -24,6 +30,12 @@
         "en": "Thomas Holland",
         "la": "Thomas Holland",
         "pl": "Tomasz Holland"
+    },
+    "koz": {
+        "ja": "トマス小崎",
+        "la": "Thomas Kozaki",
+        "en": "Thomas Kozaki",
+        "pl": "Tomasz Kozaki"
     },
     "plu": {
         "en": "Thomas Plumtree",

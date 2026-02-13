@@ -4,7 +4,32 @@
             "1": "records/patrons/agatha/cat"
         },
         "2": {
-            "1": "records/patrons/paulus/mik"
+            "1": "records/patrons/paulus/mik",
+            "2": "records/patrons/ioannes/soa",
+            "3": "records/patrons/iacobus/kis",
+            "4": "records/patrons/petrus/bla",
+            "5": "records/patrons/martinus/agu",
+            "6": "records/patrons/franciscus/bla",
+            "7": "records/patrons/philippus/las",
+            "8": "records/patrons/gundisalvus/gar",
+            "9": "records/patrons/franciscus/par",
+            "10": "records/patrons/leo/kar",
+            "11": "records/patrons/petrus/suk",
+            "12": "records/patrons/cosmas/tak",
+            "13": "records/patrons/paulus/iba",
+            "14": "records/patrons/thomas/dan",
+            "15": "records/patrons/paulus/suz",
+            "16": "records/patrons/ludovicus/iba",
+            "17": "records/patrons/antonius/nag",
+            "18": "records/patrons/michael/kzk",
+            "19": "records/patrons/thomas/koz",
+            "20": "records/patrons/bonaventura/nag",
+            "21": "records/patrons/gabriel/nag",
+            "22": "records/patrons/ioannes/kin",
+            "23": "records/patrons/matthias/nag",
+            "24": "records/patrons/franciscus/mea",
+            "25": "records/patrons/ioachim/sak",
+            "26": "records/patrons/franciscus/ada"
         }
     }
 }

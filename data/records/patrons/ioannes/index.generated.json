@@ -116,6 +116,12 @@
         "la": "Ioannes Cantius",
         "en": "John Cantius"
     },
+    "kin": {
+        "ja": "ヨハネ絹屋",
+        "la": "Ioannes Kinuya",
+        "en": "John Kinuya",
+        "pl": "Jan Kinuya"
+    },
     "lal": {
         "fr": "Jean de La Lande",
         "la": "Ioannes de la Lande",
@@ -177,6 +183,12 @@
         "la": "Ioannes Sarkander",
         "en": "John Sarkander",
         "pl": "Jan Sarkander"
+    },
+    "soa": {
+        "ja": "ヨハネ草庵",
+        "la": "Ioannes de Goto Soan",
+        "en": "John Soan of Goto",
+        "pl": "Jan Soan z Goto"
     },
     "tup": {
         "it": "Giovanni da Tufara",

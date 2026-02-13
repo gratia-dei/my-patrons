@@ -11,6 +11,9 @@
         ],
         "pl": [
             "Leon"
+        ],
+        "ja": [
+            "レオン"
         ]
     },
     "links": {
@@ -23,6 +26,12 @@
             "la": "Leo IX",
             "en": "Leo IX",
             "pl": "Leon IX"
+        },
+        "records/patrons/leo/kar": {
+            "ja": "レオン烏丸",
+            "la": "Leo Karasuma",
+            "en": "Leo Karasuma",
+            "pl": "Leon Karasuma"
         },
         "records/patrons/leo/now": {
             "pl": "Leon Nowakowski",

@@ -349,6 +349,12 @@
             "la": "Florianus Stępniak",
             "en": "Florian Stępniak"
         },
+        "records/patrons/franciscus/bla": {
+            "es": "Francisco Blanco",
+            "la": "Franciscus Blanco",
+            "en": "Francis Blanco",
+            "pl": "Franciszek Blanco"
+        },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
             "la": "Franciscus Borgia",
@@ -773,6 +779,12 @@
             "la": "Marianus Konopiński",
             "en": "Marian Konopiński"
         },
+        "records/patrons/martinus/agu": {
+            "es": "Martín de la Ascensión Aguirre",
+            "la": "Martinus ab Ascensione Aguirre",
+            "en": "Martin of the Ascension Aguirre",
+            "pl": "Marcin od Wniebowstąpienia Aguirre"
+        },
         "records/patrons/martinus/hui": {
             "fr": "Martin Luc Huin",
             "la": "Martinus Lucas Huin",
@@ -845,6 +857,12 @@
             "la": "Petrus Aumaître",
             "en": "Peter Aumaître",
             "pl": "Piotr Aumaître"
+        },
+        "records/patrons/petrus/bla": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
         },
         "records/patrons/petrus/dan": {
             "pl": "Piotr Edward Dańkowski",

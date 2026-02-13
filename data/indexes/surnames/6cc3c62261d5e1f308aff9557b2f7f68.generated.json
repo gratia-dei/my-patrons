@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ja": "談義者"
+    },
+    "translations": {
+        "ja": [
+            "談義者"
+        ],
+        "la": [
+            "Dangi"
+        ],
+        "en": [
+            "Dangi"
+        ],
+        "pl": [
+            "Dangi"
+        ]
+    },
+    "links": {
+        "records/patrons/thomas/dan": {
+            "ja": "トマス談義者",
+            "la": "Thomas Dangi",
+            "en": "Thomas Dangi",
+            "pl": "Tomasz Dangi"
+        }
+    }
+}

@@ -19,6 +19,9 @@
         "it": [
             "Tommaso"
         ],
+        "ja": [
+            "トマス"
+        ],
         "ko": [
             "토마스"
         ]
@@ -40,6 +43,12 @@
             "la": "Thomas Becket",
             "pl": "Tomasz Becket"
         },
+        "records/patrons/thomas/dan": {
+            "ja": "トマス談義者",
+            "la": "Thomas Dangi",
+            "en": "Thomas Dangi",
+            "pl": "Tomasz Dangi"
+        },
         "records/patrons/thomas/gar": {
             "en": "Thomas Garnet",
             "la": "Thomas Garnet",
@@ -49,6 +58,12 @@
             "en": "Thomas Holland",
             "la": "Thomas Holland",
             "pl": "Tomasz Holland"
+        },
+        "records/patrons/thomas/koz": {
+            "ja": "トマス小崎",
+            "la": "Thomas Kozaki",
+            "en": "Thomas Kozaki",
+            "pl": "Tomasz Kozaki"
         },
         "records/patrons/thomas/plu": {
             "en": "Thomas Plumtree",

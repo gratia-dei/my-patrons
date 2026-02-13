@@ -1,0 +1,85 @@
+{
+    "names": {
+        "la": "neophyta",
+        "en": "neophyta"
+    },
+    "translations": {
+        "la": [
+            "neophyta"
+        ],
+        "en": [
+            "neophyta"
+        ],
+        "pl": [
+            "neofita"
+        ]
+    },
+    "links": {
+        "records/patrons/antonius/nag": {
+            "ja": "ルドビコ茨木",
+            "la": "Antonius de Nagasaki",
+            "en": "Anthony of Nagasaki",
+            "pl": "Antoni z Nagasaki"
+        },
+        "records/patrons/bonaventura/nag": {
+            "ja": "ボナベントゥラ",
+            "la": "Bonaventura de Nagasaki",
+            "en": "Bonaventura of Nagasaki",
+            "pl": "Bonawentura z Nagasaki"
+        },
+        "records/patrons/franciscus/ada": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        },
+        "records/patrons/franciscus/mea": {
+            "ja": "フランシスコ医師",
+            "la": "Franciscus de Meako",
+            "en": "Francis of Meako",
+            "pl": "Franciszek z Meako"
+        },
+        "records/patrons/gabriel/nag": {
+            "ja": "ガブリエル",
+            "la": "Gabriel de Nagasaki",
+            "en": "Gabriel of Nagasaki",
+            "pl": "Gabriel z Nagasaki"
+        },
+        "records/patrons/ioachim/sak": {
+            "ja": "ヨアキム榊原",
+            "la": "Ioachim Sakakibara",
+            "en": "Joachim Sakakibara",
+            "pl": "Joachim Sakakibara"
+        },
+        "records/patrons/ioannes/kin": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        },
+        "records/patrons/ludovicus/iba": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
+        },
+        "records/patrons/matthias/nag": {
+            "ja": "マチアス",
+            "la": "Matthias de Nagasaki",
+            "en": "Matthias of Nagasaki",
+            "pl": "Maciej z Nagasaki"
+        },
+        "records/patrons/michael/kzk": {
+            "ja": "ミカエル小崎",
+            "la": "Michael Kozaki",
+            "en": "Michael Kozaki",
+            "pl": "Michał Kozaki"
+        },
+        "records/patrons/thomas/koz": {
+            "ja": "トマス小崎",
+            "la": "Thomas Kozaki",
+            "en": "Thomas Kozaki",
+            "pl": "Tomasz Kozaki"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Sakakibara",
+        "en": "Sakakibara",
+        "pl": "Sakakibara"
+    },
+    "translations": {
+        "ja": [
+            "榊原"
+        ],
+        "la": [
+            "Sakakibara"
+        ],
+        "en": [
+            "Sakakibara"
+        ],
+        "pl": [
+            "Sakakibara"
+        ]
+    },
+    "links": {
+        "records/patrons/ioachim/sak": {
+            "ja": "ヨアキム榊原",
+            "la": "Ioachim Sakakibara",
+            "en": "Joachim Sakakibara",
+            "pl": "Joachim Sakakibara"
+        }
+    }
+}

@@ -16,8 +16,14 @@
         "de": [
             "Peter"
         ],
+        "es": [
+            "Pedro"
+        ],
         "fr": [
             "Pierre"
+        ],
+        "ja": [
+            "ペトロ"
         ],
         "nl": [
             "Petrus"
@@ -45,6 +51,12 @@
             "la": "Petrus Aumaître",
             "en": "Peter Aumaître",
             "pl": "Piotr Aumaître"
+        },
+        "records/patrons/petrus/bla": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
         },
         "records/patrons/petrus/cal": {
             "tl": "Pedro Calungsod",
@@ -103,6 +115,12 @@
             "en": "Peter of Luxembourg",
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
+        },
+        "records/patrons/petrus/suk": {
+            "ja": "ペトロ助四郎",
+            "la": "Petrus Sukejiro",
+            "en": "Peter Sukejiro",
+            "pl": "Piotr Sukejiro"
         },
         "records/patrons/petrus/tho": {
             "it": "Pietro Tommaso",

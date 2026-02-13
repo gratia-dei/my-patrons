@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Soan",
+        "en": "Soan",
+        "pl": "Soan"
+    },
+    "translations": {
+        "ja": [
+            "草庵"
+        ],
+        "la": [
+            "Soan"
+        ],
+        "en": [
+            "Soan"
+        ],
+        "pl": [
+            "Soan"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "names": {
+        "ja": [
+            "フランシスコ吉"
+        ],
+        "la": [
+            "Franciscus Adauctus de Nagasaki"
+        ],
+        "en": [
+            "Francis Kichi"
+        ],
+        "pl": [
+            "Franciszek Kichi"
+        ]
+    },
+    "forenames": ["franciscus", "adauctus"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr", "neophyta"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["26:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["26:feb./5#9", "26:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65601",
+        "wiki": "https://pl.wikipedia.org/wiki/M%C4%99czennicy_z_Nagasaki"
+    }
+}

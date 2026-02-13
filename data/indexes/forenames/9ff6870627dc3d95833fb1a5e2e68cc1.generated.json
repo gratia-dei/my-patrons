@@ -12,6 +12,9 @@
         "pl": [
             "Filip"
         ],
+        "es": [
+            "Felipe"
+        ],
         "it": [
             "Filippo"
         ]
@@ -37,6 +40,12 @@
             "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
             "en": "Philip; with him, i.a., Felix; as Seven Brothers",
             "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "records/patrons/philippus/las": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
         },
         "records/patrons/philippus/ner": {
             "it": "Filippo Neri",

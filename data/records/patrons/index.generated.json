@@ -254,6 +254,7 @@
         "es": "Antonio",
         "fr": "Antoine",
         "it": "Antonio",
+        "ja": "アントニオ",
         "pt": "Antônio",
         "uk": "Антоній"
     },
@@ -424,6 +425,12 @@
         "la": "Boleslava",
         "en": "Boleslava",
         "pl": "Bolesława"
+    },
+    "bonaventura": {
+        "la": "Bonaventura",
+        "en": "Bonaventura",
+        "pl": "Bonawentura",
+        "ja": "ボナベントゥラ"
     },
     "bonfilius": {
         "la": "Bonfilius",
@@ -621,7 +628,8 @@
         "la": "Cosmas",
         "en": "Cosmas",
         "pl": "Kosma",
-        "el": "Κοσμάς"
+        "el": "Κοσμάς",
+        "ja": "コスメ"
     },
     "crescentianus": {
         "la": "Crescentianus",
@@ -944,6 +952,7 @@
         "es": "Francisco",
         "fr": "François",
         "it": "Francesco",
+        "ja": "フランシスコ",
         "pt": "Francisco"
     },
     "fulgentius": {
@@ -955,7 +964,8 @@
         "la": "Gabriel",
         "en": "Gabriel",
         "pl": "Gabriel",
-        "fr": "Gabriel"
+        "fr": "Gabriel",
+        "ja": "ガブリエル"
     },
     "gamaliel": {
         "la": "Gamaliel",
@@ -1092,6 +1102,12 @@
         "en": "Gundecarus",
         "pl": "Gundekar"
     },
+    "gundisalvus": {
+        "la": "Gundisalvus",
+        "en": "Gonsalo",
+        "pl": "Gonsalwy",
+        "pt": "Gonçalo"
+    },
     "gunthramnus": {
         "la": "Gunthramnus",
         "en": "Guntram",
@@ -1191,6 +1207,7 @@
         "pl": "Jakub",
         "fr": "Jacques",
         "it": "Giacomo",
+        "ja": "ディエゴ",
         "sw": "Yakobo"
     },
     "ianuaria": {
@@ -1247,7 +1264,8 @@
         "la": "Ioachim",
         "en": "Joachim",
         "pl": "Joachim",
-        "he": "יהוֹיָקִים"
+        "he": "יהוֹיָקִים",
+        "ja": "ヨアキム"
     },
     "ioanna": {
         "la": "Ioanna",
@@ -1265,6 +1283,7 @@
         "es": "Juan",
         "fr": "Jean",
         "it": "Giovanni",
+        "ja": "ヨハネ",
         "pt": "João",
         "ko": "요한"
     },
@@ -1429,7 +1448,8 @@
     "leo": {
         "la": "Leo",
         "en": "Leo",
-        "pl": "Leon"
+        "pl": "Leon",
+        "ja": "レオン"
     },
     "leonardus": {
         "la": "Leonardus",
@@ -1485,7 +1505,8 @@
         "en": "Louis",
         "pl": "Ludwik",
         "fr": "Louis",
-        "it": "Lodovico"
+        "it": "Lodovico",
+        "ja": "ルドビコ"
     },
     "lydia": {
         "la": "Lydia",
@@ -1616,7 +1637,8 @@
     "matthias": {
         "la": "Matthias",
         "en": "Matthias",
-        "pl": "Maciej"
+        "pl": "Maciej",
+        "ja": "マチアス"
     },
     "mauritius": {
         "la": "Mauritius",
@@ -1870,7 +1892,9 @@
         "en": "Peter",
         "pl": "Piotr",
         "de": "Peter",
+        "es": "Pedro",
         "fr": "Pierre",
+        "ja": "ペトロ",
         "nl": "Petrus",
         "it": "Pietro",
         "tl": "Pedro",
@@ -1891,6 +1915,7 @@
         "la": "Philippus",
         "en": "Philip",
         "pl": "Filip",
+        "es": "Felipe",
         "it": "Filippo"
     },
     "philomena": {
@@ -2351,6 +2376,7 @@
         "pl": "Tomasz",
         "es": "Tomás",
         "it": "Tommaso",
+        "ja": "トマス",
         "ko": "토마스"
     },
     "tiburtius": {

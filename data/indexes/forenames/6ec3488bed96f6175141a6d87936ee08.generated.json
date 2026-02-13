@@ -1,0 +1,153 @@
+{
+    "names": {
+        "ja": "フランシスコ"
+    },
+    "translations": {
+        "la": [
+            "Franciscus"
+        ],
+        "en": [
+            "Francis"
+        ],
+        "pl": [
+            "Franciszek"
+        ],
+        "es": [
+            "Francisco"
+        ],
+        "fr": [
+            "François"
+        ],
+        "it": [
+            "Francesco"
+        ],
+        "ja": [
+            "フランシスコ"
+        ],
+        "pt": [
+            "Francisco"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/ada": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        },
+        "records/patrons/franciscus/asi": {
+            "it": "Francesco d'Assisi",
+            "la": "Franciscus Asisiensis",
+            "en": "Francis of Assisi",
+            "pl": "Franciszek z Asyżu"
+        },
+        "records/patrons/franciscus/bla": {
+            "es": "Francisco Blanco",
+            "la": "Franciscus Blanco",
+            "en": "Francis Blanco",
+            "pl": "Franciszek Blanco"
+        },
+        "records/patrons/franciscus/bor": {
+            "es": "Francisco de Borja",
+            "la": "Franciscus Borgia",
+            "en": "Francis Borgia",
+            "pl": "Franciszek Borgiasz"
+        },
+        "records/patrons/franciscus/car": {
+            "it": "Francesco Caracciolo",
+            "en": "Francis Caracciolo",
+            "la": "Franciscus Caracciolo",
+            "pl": "Franciszek Caracciolo"
+        },
+        "records/patrons/franciscus/drz": {
+            "pl": "Franciszek Drzewiecki",
+            "la": "Franciscus Drzewiecki",
+            "en": "Francis Drzewiecki"
+        },
+        "records/patrons/franciscus/gar": {
+            "es": "Francisco Gárate Aranguren",
+            "la": "Franciscus Gárate Aranguren",
+            "en": "Francis Gárate Aranguren",
+            "pl": "Franciszek Gárate Aranguren"
+        },
+        "records/patrons/franciscus/ger": {
+            "it": "Francesco de Geronimo",
+            "la": "Franciscus de Geronimo",
+            "en": "Francis de Geronimo",
+            "pl": "Franciszek de Hieronimo"
+        },
+        "records/patrons/franciscus/kes": {
+            "pl": "Franciszek Kęsy",
+            "la": "Franciscus Kęsy",
+            "en": "Franciszek Kęsy"
+        },
+        "records/patrons/franciscus/mar": {
+            "pt": "Francisco Marto",
+            "la": "Franciscus Marto",
+            "en": "Francisco Marto",
+            "pl": "Franciszek Marto"
+        },
+        "records/patrons/franciscus/mea": {
+            "ja": "フランシスコ医師",
+            "la": "Franciscus de Meako",
+            "en": "Francis of Meako",
+            "pl": "Franciszek z Meako"
+        },
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
+        },
+        "records/patrons/franciscus/pau": {
+            "it": "Francesco da Paola",
+            "la": "Franciscus de Paula",
+            "en": "Francis of Paola",
+            "pl": "Franciszek z Paoli"
+        },
+        "records/patrons/franciscus/rog": {
+            "pl": "Franciszek Rogaczewski",
+            "la": "Franciscus Rogaczewski",
+            "en": "Francis Rogaczewski"
+        },
+        "records/patrons/franciscus/ros": {
+            "pl": "Franciszek Rosłaniec",
+            "la": "Franciscus Rosłaniec",
+            "en": "Francis Rosłaniec"
+        },
+        "records/patrons/franciscus/sal": {
+            "fr": "François de Sales",
+            "la": "Franciscus de Sales",
+            "en": "Francis de Sales",
+            "pl": "Franciszek Salezy"
+        },
+        "records/patrons/franciscus/str": {
+            "pl": "Franciszek Stryjas",
+            "la": "Franciscus Stryjas",
+            "en": "Francis Stryjas"
+        },
+        "records/patrons/franciscus/ulm": {
+            "pl": "Franciszek Ulma",
+            "la": "Franciscus Ulma",
+            "en": "Francis Ulma"
+        },
+        "records/patrons/franciscus/ven": {
+            "it": "Francesco Venimbeni",
+            "la": "Franciscus Venimbeni",
+            "en": "Francis Venimbeni",
+            "pl": "Franciszek Venimbeni"
+        },
+        "records/patrons/franciscus/xav": {
+            "es": "Francisco Javier",
+            "la": "Franciscus Xavier",
+            "en": "Francis Xavier",
+            "pl": "Franciszek Ksawery"
+        },
+        "records/patrons/pius/pie": {
+            "it": "Pio da Pietrelcina",
+            "la": "Pius de Pietrelcina",
+            "en": "Pio of Pietrelcina",
+            "pl": "Pio z Pietrelciny"
+        }
+    }
+}

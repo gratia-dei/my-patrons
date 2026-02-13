@@ -1,0 +1,59 @@
+{
+    "names": {
+        "ja": [
+            "ルドビコ茨木"
+        ],
+        "la": [
+            "Ludovicus Ibaraki"
+        ],
+        "en": [
+            "Ludovicus Ibaraki"
+        ],
+        "pl": [
+            "Ludwik Ibaraki"
+        ]
+    },
+    "forenames": ["ludovicus"],
+    "surnames": [
+        {
+            "ja": "茨木",
+            "la": "Ibaraki",
+            "en": "Ibaraki",
+            "pl": "Ibaraki"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1584"],
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr", "neophyta"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["16:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["16:feb./5#9", "16:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65596",
+        "wiki": "https://es.wikipedia.org/wiki/Luis_Ibaraki"
+    }
+}

@@ -22,16 +22,31 @@
         "it": [
             "Francesco"
         ],
+        "ja": [
+            "フランシスコ"
+        ],
         "pt": [
             "Francisco"
         ]
     },
     "links": {
+        "records/patrons/franciscus/ada": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        },
         "records/patrons/franciscus/asi": {
             "it": "Francesco d'Assisi",
             "la": "Franciscus Asisiensis",
             "en": "Francis of Assisi",
             "pl": "Franciszek z Asyżu"
+        },
+        "records/patrons/franciscus/bla": {
+            "es": "Francisco Blanco",
+            "la": "Franciscus Blanco",
+            "en": "Francis Blanco",
+            "pl": "Franciszek Blanco"
         },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
@@ -72,6 +87,18 @@
             "la": "Franciscus Marto",
             "en": "Francisco Marto",
             "pl": "Franciszek Marto"
+        },
+        "records/patrons/franciscus/mea": {
+            "ja": "フランシスコ医師",
+            "la": "Franciscus de Meako",
+            "en": "Francis of Meako",
+            "pl": "Franciszek z Meako"
+        },
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
         },
         "records/patrons/franciscus/pau": {
             "it": "Francesco da Paola",

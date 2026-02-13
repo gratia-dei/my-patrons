@@ -1,0 +1,143 @@
+{
+    "names": {
+        "ja": "ペトロ"
+    },
+    "translations": {
+        "la": [
+            "Petrus"
+        ],
+        "en": [
+            "Peter"
+        ],
+        "pl": [
+            "Piotr"
+        ],
+        "de": [
+            "Peter"
+        ],
+        "es": [
+            "Pedro"
+        ],
+        "fr": [
+            "Pierre"
+        ],
+        "ja": [
+            "ペトロ"
+        ],
+        "nl": [
+            "Petrus"
+        ],
+        "it": [
+            "Pietro",
+            "Pier"
+        ],
+        "tl": [
+            "Pedro"
+        ],
+        "zh": [
+            "伯鐸"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/apo": {
+            "arc": "ܟܐܦܐ",
+            "la": "Petrus",
+            "en": "Peter the Apostle",
+            "pl": "Piotr Apostoł"
+        },
+        "records/patrons/petrus/aum": {
+            "fr": "Pierre Aumaître",
+            "la": "Petrus Aumaître",
+            "en": "Peter Aumaître",
+            "pl": "Piotr Aumaître"
+        },
+        "records/patrons/petrus/bla": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
+        },
+        "records/patrons/petrus/cal": {
+            "tl": "Pedro Calungsod",
+            "la": "Petrus Calungsod",
+            "en": "Peter Calungsod",
+            "pl": "Piotr Calungsod"
+        },
+        "records/patrons/petrus/chr": {
+            "la": "Petrus Chrysologus",
+            "en": "Peter Chrysologus",
+            "pl": "Piotr Chryzolog"
+        },
+        "records/patrons/petrus/dam": {
+            "it": "Pier Damiani",
+            "la": "Petrus Damiani",
+            "en": "Peter Damian",
+            "pl": "Piotr Damiani"
+        },
+        "records/patrons/petrus/dan": {
+            "pl": "Piotr Edward Dańkowski",
+            "en": "Peter Edward Dankowski",
+            "la": "Petrus Eduardus Dańkowski"
+        },
+        "records/patrons/petrus/don": {
+            "nl": "Patrus Donders",
+            "la": "Petrus Donders",
+            "en": "Peter Donders",
+            "pl": "Piotr Donders"
+        },
+        "records/patrons/petrus/eym": {
+            "fr": "Pierre-Julien Eymard",
+            "en": "Peter Julian Eymanrd",
+            "la": "Patrus Iulianus Eymard",
+            "pl": "Piotr Julian Eymard"
+        },
+        "records/patrons/petrus/fav": {
+            "fr": "Pierre-Sulpice-Christophe Faverge",
+            "la": "Petrus Sulpitius Christophorus Faverge",
+            "en": "Peter Sulpice Christopher Faverge",
+            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
+        },
+        "records/patrons/petrus/fre": {
+            "fr": "Pierre Frémond",
+            "la": "Petrus Frémond",
+            "en": "Peter Frémond",
+            "pl": "Piotr Frémond"
+        },
+        "records/patrons/petrus/fri": {
+            "de": "Peter Friedhofen",
+            "la": "Petrus Friedhofen",
+            "en": "Peter Friedhofen",
+            "pl": "Piotr Friedhofen"
+        },
+        "records/patrons/petrus/lux": {
+            "fr": "Pierre de Luxembourg",
+            "en": "Peter of Luxembourg",
+            "la": "Petrus de Luxemburgo",
+            "pl": "Piotr de Luxemburgo"
+        },
+        "records/patrons/petrus/suk": {
+            "ja": "ペトロ助四郎",
+            "la": "Petrus Sukejiro",
+            "en": "Peter Sukejiro",
+            "pl": "Piotr Sukejiro"
+        },
+        "records/patrons/petrus/tho": {
+            "it": "Pietro Tommaso",
+            "la": "Petrus Thomas",
+            "en": "Peter Thomas",
+            "pl": "Piotr Tomasz"
+        },
+        "records/patrons/petrus/ven": {
+            "fr": "Pierre le Vénérable",
+            "la": "Peter Venerabilis",
+            "en": "Peter the Venerable",
+            "pl": "Piotr Czcigodny"
+        },
+        "records/patrons/petrus/wug": {
+            "zh": "吳國盛伯鐸",
+            "la": "Petrus Wu Guosheng",
+            "en": "Peter Wu Guosheng",
+            "pl": "Piotr Wu Guosheng"
+        }
+    }
+}

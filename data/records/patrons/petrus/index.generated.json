@@ -11,6 +11,12 @@
         "en": "Peter Aumaître",
         "pl": "Piotr Aumaître"
     },
+    "bla": {
+        "es": "Pedro Bautista Blázquez",
+        "la": "Petrus Baptista Blázquez",
+        "en": "Peter Baptist Blázquez",
+        "pl": "Piotr Chrzciciel Blázquez"
+    },
     "cal": {
         "tl": "Pedro Calungsod",
         "la": "Petrus Calungsod",
@@ -68,6 +74,12 @@
         "en": "Peter of Luxembourg",
         "la": "Petrus de Luxemburgo",
         "pl": "Piotr de Luxemburgo"
+    },
+    "suk": {
+        "ja": "ペトロ助四郎",
+        "la": "Petrus Sukejiro",
+        "en": "Peter Sukejiro",
+        "pl": "Piotr Sukejiro"
     },
     "tho": {
         "it": "Pietro Tommaso",

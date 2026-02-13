@@ -1,0 +1,67 @@
+{
+    "names": {
+        "ja": "ルドビコ"
+    },
+    "translations": {
+        "la": [
+            "Ludovicus"
+        ],
+        "en": [
+            "Louis"
+        ],
+        "pl": [
+            "Ludwik"
+        ],
+        "fr": [
+            "Louis"
+        ],
+        "it": [
+            "Lodovico"
+        ],
+        "ja": [
+            "ルドビコ"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/gie": {
+            "pl": "Ludwik Roch Gietyngier",
+            "la": "Ludovicus Rochus Gietyngier",
+            "en": "Louis Roch Gietyngier"
+        },
+        "records/patrons/ludovicus/iba": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
+        },
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
+        "records/patrons/ludovicus/mor": {
+            "fr": "Louis-Zéphirin Moreau",
+            "la": "Ludovicus Zephyrinus Moreau",
+            "en": "Louis Zephyrinus Moreau",
+            "pl": "Ludwik Zefiryn Moreau"
+        },
+        "records/patrons/ludovicus/mzy": {
+            "pl": "Ludwik Mzyk",
+            "la": "Ludovicus Mzyk",
+            "en": "Louis Mzyk"
+        },
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        },
+        "records/patrons/ludovicus/rex": {
+            "fr": "Louis IX, roi de France",
+            "la": "Ludovicus IX, rex Franciae",
+            "en": "Louis IX, king of France",
+            "pl": "Ludwik IX, król Francji"
+        }
+    }
+}

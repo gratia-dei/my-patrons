@@ -19,6 +19,9 @@
         "it": [
             "Giacomo"
         ],
+        "ja": [
+            "ディエゴ"
+        ],
         "sw": [
             "Yakobo"
         ]
@@ -58,6 +61,12 @@
             "la": "Iacobus Gagnot",
             "en": "James Gagnot",
             "pl": "Jakub Gagnot"
+        },
+        "records/patrons/iacobus/kis": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
         },
         "records/patrons/iacobus/mai": {
             "la": "Iacobus Maior Apostolus",

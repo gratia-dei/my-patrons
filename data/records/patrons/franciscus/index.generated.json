@@ -1,9 +1,21 @@
 {
+    "ada": {
+        "ja": "フランシスコ吉",
+        "la": "Franciscus Adauctus de Nagasaki",
+        "en": "Francis Kichi",
+        "pl": "Franciszek Kichi"
+    },
     "asi": {
         "it": "Francesco d'Assisi",
         "la": "Franciscus Asisiensis",
         "en": "Francis of Assisi",
         "pl": "Franciszek z Asyżu"
+    },
+    "bla": {
+        "es": "Francisco Blanco",
+        "la": "Franciscus Blanco",
+        "en": "Francis Blanco",
+        "pl": "Franciszek Blanco"
     },
     "bor": {
         "es": "Francisco de Borja",
@@ -44,6 +56,18 @@
         "la": "Franciscus Marto",
         "en": "Francisco Marto",
         "pl": "Franciszek Marto"
+    },
+    "mea": {
+        "ja": "フランシスコ医師",
+        "la": "Franciscus de Meako",
+        "en": "Francis of Meako",
+        "pl": "Franciszek z Meako"
+    },
+    "par": {
+        "es": "Francisco de San Miguel de la Parilla",
+        "la": "Franciscus a Sancto Michaele de la Parilla",
+        "en": "Francis of Saint Michael de la Parilla",
+        "pl": "Franciszek od św. Michała de la Parilla"
     },
     "pau": {
         "it": "Francesco da Paola",

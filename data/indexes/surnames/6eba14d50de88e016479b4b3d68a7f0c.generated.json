@@ -1,0 +1,33 @@
+{
+    "names": {
+        "ja": "茨木"
+    },
+    "translations": {
+        "ja": [
+            "茨木"
+        ],
+        "la": [
+            "Ibaraki"
+        ],
+        "en": [
+            "Ibaraki"
+        ],
+        "pl": [
+            "Ibaraki"
+        ]
+    },
+    "links": {
+        "records/patrons/ludovicus/iba": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
+        },
+        "records/patrons/paulus/iba": {
+            "ja": "パウロ茨木",
+            "la": "Paulus Ibaraki",
+            "en": "Paul Ibaraki",
+            "pl": "Paweł Ibaraki"
+        }
+    }
+}

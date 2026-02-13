@@ -42,6 +42,12 @@
             "en": "Paul of Constantinople",
             "pl": "Paweł z Bizancjum"
         },
+        "records/patrons/paulus/iba": {
+            "ja": "パウロ茨木",
+            "la": "Paulus Ibaraki",
+            "en": "Paul Ibaraki",
+            "pl": "Paweł Ibaraki"
+        },
         "records/patrons/paulus/mik": {
             "ja": "パウロ三木",
             "la": "Paulus Miki",
@@ -53,6 +59,12 @@
             "la": "Paulus Nguyễn Ngân",
             "en": "Paul Nguyễn Ngân",
             "pl": "Paweł Nguyễn Ngân"
+        },
+        "records/patrons/paulus/suz": {
+            "ja": "パウロ鈴木",
+            "la": "Paulus Suzuki",
+            "en": "Paul Suzuki",
+            "pl": "Paweł Suzuki"
         }
     }
 }

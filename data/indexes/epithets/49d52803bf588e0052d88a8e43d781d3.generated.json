@@ -1,0 +1,27 @@
+{
+    "names": {
+        "en": "of the Ascension"
+    },
+    "translations": {
+        "es": [
+            "de la Ascensión"
+        ],
+        "la": [
+            "ab Ascensione"
+        ],
+        "en": [
+            "of the Ascension"
+        ],
+        "pl": [
+            "od Wniebowstąpienia"
+        ]
+    },
+    "links": {
+        "records/patrons/martinus/agu": {
+            "es": "Martín de la Ascensión Aguirre",
+            "la": "Martinus ab Ascensione Aguirre",
+            "en": "Martin of the Ascension Aguirre",
+            "pl": "Marcin od Wniebowstąpienia Aguirre"
+        }
+    }
+}

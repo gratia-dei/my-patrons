@@ -3,6 +3,9 @@
         "la": "Antiochus",
         "en": "Antiochus"
     },
+    "00401ff0658f72641acceee6f8178b59": {
+        "ja": "ディエゴ"
+    },
     "006999e496e8df9c2839f5c41a41f393": {
         "la": "Joachim",
         "en": "Joachim",
@@ -72,6 +75,9 @@
     },
     "03f7164cc55d89a141ffcb0cb3f4c419": {
         "pl": "Antym"
+    },
+    "041488c262f5ac7a450295be9dbbcb1b": {
+        "pl": "Bonawentura"
     },
     "042c8ab33f4114b01ebb367801c88096": {
         "la": "Guntramnus"
@@ -205,6 +211,9 @@
     "095df5ff0ba91e8c503068cf75bfc2ce": {
         "ko": "막달레나"
     },
+    "09664a4607f68524289b63551bf44d2a": {
+        "ja": "コスメ"
+    },
     "09a9fa35195113aac2970b7c41473ca4": {
         "pl": "Zefiryn"
     },
@@ -287,6 +296,9 @@
     "0d8b0c7d96a7fed7c0b7c3ab72637369": {
         "pl": "Prokop"
     },
+    "0dad63b1d499473db097555c563c1c27": {
+        "ja": "ミカエル"
+    },
     "0db50c4d24c552c213afe0ba17a08123": {
         "la": "Eleonora",
         "en": "Eleonora",
@@ -320,6 +332,10 @@
         "la": "Crescentia",
         "en": "Crescentia",
         "de": "Crescentia"
+    },
+    "0f9dde768142e206e39a8faea7cd8c12": {
+        "la": "Bonaventura",
+        "en": "Bonaventura"
     },
     "0fa9a2449196cf0c8e6bc9629fc362a6": {
         "la": "Romualdus"
@@ -480,6 +496,9 @@
     },
     "179909b745f81f03f177a3079e0ce5e3": {
         "en": "Henry"
+    },
+    "179c02725511e2f3da3d62507b325c57": {
+        "ja": "レオン"
     },
     "17b695a876124a357bbb078ad8024f3c": {
         "pl": "Wirgiliusz"
@@ -1112,6 +1131,7 @@
         "en": "Nicephorus"
     },
     "38e2b2e31c0fce9537f735dda9fdf10a": {
+        "es": "Pedro",
         "tl": "Pedro"
     },
     "3905381f1dfe3bae61bb80f90fac2136": {
@@ -1484,6 +1504,9 @@
     "48a0572e6e7cfc81b428b18da87cf613": {
         "en": "Oscar"
     },
+    "48ab52f20219962ec3729e64189e25ba": {
+        "ja": "ルドビコ"
+    },
     "48d7447c6a7e3ac7d2bcccd03212a5f0": {
         "it": "Pio"
     },
@@ -1557,6 +1580,9 @@
         "la": "Sŏng-im",
         "en": "Sŏng-im",
         "pl": "Sŏng-im"
+    },
+    "4c941565f6752c16cb5b63264b844860": {
+        "ja": "ヨハネ"
     },
     "4c998d07cb311bd5b93bee9f6a18f588": {
         "la": "Vladimirus"
@@ -1735,6 +1761,9 @@
     "5918bdca7ebe39d42e5dabcea73f628f": {
         "ko": "주기"
     },
+    "59946a784d3ea0a3ea65339efbc5941d": {
+        "ja": "ガブリエル"
+    },
     "59984b2071baf772225dfc38fe4c3f03": {
         "la": "Parasceve"
     },
@@ -1750,6 +1779,9 @@
     "5a4d0d7de527bf84e56731ab76cbfdca": {
         "la": "Theophanes",
         "en": "Theophanes"
+    },
+    "5a681924796500c9a4819b4319f74277": {
+        "es": "Felipe"
     },
     "5a747a35744e5f50f55d0bac09a43d8d": {
         "la": "Matthias",
@@ -1864,6 +1896,9 @@
     "604c8dd5066ee30539037569a028dc9b": {
         "en": "William"
     },
+    "604cf5ac86ca2069b1d86b101872f286": {
+        "pl": "Chrzciciel"
+    },
     "606310b274a9fa112cdba296bb5b4a1b": {
         "la": "Alfonsus"
     },
@@ -1948,6 +1983,9 @@
         "pl": "Teresa",
         "es": "Teresa",
         "it": "Teresa"
+    },
+    "64a620a89229018e90da6bd8bac52708": {
+        "pt": "Gonçalo"
     },
     "64bf6a86230365619e9249e5b083aa46": {
         "en": "Basil"
@@ -2130,6 +2168,9 @@
     "6e6b0f602d19680276cddba9c3157fd7": {
         "la": "Ennatha",
         "en": "Ennatha"
+    },
+    "6ec3488bed96f6175141a6d87936ee08": {
+        "ja": "フランシスコ"
     },
     "6f2ea64569981645cabaa50f57fad71f": {
         "la": "Boleslava",
@@ -2625,6 +2666,9 @@
         "en": "Hyo-im",
         "pl": "Hyo-im"
     },
+    "8718136dc6fef7c76864010300215d9a": {
+        "ja": "ペトロ"
+    },
     "8741231c092fd0837b6a179aae89bd8a": {
         "la": "Bonifatius"
     },
@@ -2846,6 +2890,9 @@
         "la": "Christina",
         "en": "Christina"
     },
+    "92272036424d2a01ab7b084c61168dfc": {
+        "ja": "ボナベントゥラ"
+    },
     "925bf081b559b69e6a5af241becf8d36": {
         "pl": "Katarzyna"
     },
@@ -2882,6 +2929,9 @@
     "93f251cbfa36fc2bcb1f698b86e399ca": {
         "en": "Anselm"
     },
+    "9411ec7564b80b2c952f89be5f1fab58": {
+        "pl": "Gonsalwy"
+    },
     "944002bcb5d31c9090116eb30e48ce9d": {
         "it": "Simone"
     },
@@ -2890,6 +2940,9 @@
     },
     "945788951dd03b7b55645e9b3355c02d": {
         "la": "Caecilia"
+    },
+    "94b6725bcc1c7c3359e22cf85b671b39": {
+        "es": "Bautista"
     },
     "94c29109f601bc00f2fe8ff2214f1062": {
         "la": "Simplicius",
@@ -2930,6 +2983,9 @@
     },
     "967c8dcae4402277f54e17468d6ec74e": {
         "pl": "Nartal"
+    },
+    "96d402b72c82c4e33cd525c895b51e86": {
+        "pl": "Adaukt"
     },
     "97120b240d07087f5024e4492c18186e": {
         "pl": "Scirbald"
@@ -3250,6 +3306,10 @@
         "la": "Alypius",
         "en": "Alypius"
     },
+    "a665c19d8741bacc23ea6d59d1a233a4": {
+        "la": "Adauctus",
+        "en": "Adauctus"
+    },
     "a681979bbd6b6af205587a85e57bee62": {
         "en": "Moses"
     },
@@ -3274,12 +3334,18 @@
     "a78bcf26721280c66741cb091d89a774": {
         "la": "Laurentius"
     },
+    "a7a82fab3b41f23c88965822a4701bd3": {
+        "en": "Gonsalo"
+    },
     "a7fc44290f691cd888b68b59eb4989a1": {
         "en": "Joan"
     },
     "a850016a75b48183f73f8aa71b1f1c35": {
         "la": "Methodius",
         "en": "Methodius"
+    },
+    "a8c6b316689d042e719889b21d0a57de": {
+        "la": "Baptista"
     },
     "a8f7bdb72e2e23920073b8241e6606e3": {
         "pl": "Narzal"
@@ -3343,6 +3409,9 @@
     },
     "aa2f4974e63a75e5490787a641eb0fa3": {
         "la": "Gerardus"
+    },
+    "aa8c9b3b156fcaae78e955263a2a1dec": {
+        "en": "Baptist"
     },
     "aa9af946440aa33c627e8ab54d834658": {
         "en": "Josepha"
@@ -3454,6 +3523,9 @@
     "afbae8ee4d8e201b142767844c48f360": {
         "la": "Stephanus"
     },
+    "afca89173dc8354c268a32ca4a538333": {
+        "ja": "アントニオ"
+    },
     "afeedaf93066e2ec9df89c8c36e25283": {
         "en": "Panteleimon"
     },
@@ -3474,6 +3546,9 @@
     "b06853d28a701a9d3231ada86f505718": {
         "la": "Tiburtius",
         "en": "Tiburtius"
+    },
+    "b09b637f05eb68b744f313fedc8159e8": {
+        "ja": "ヨアキム"
     },
     "b15622485c953060a7a30fbff65b9d5b": {
         "fr": "Théophane"
@@ -3519,6 +3594,9 @@
     },
     "b3140f50db8520403a6e38adf5064857": {
         "fr": "François"
+    },
+    "b317d962cc1299aee29d8226896af586": {
+        "la": "Gundisalvus"
     },
     "b322f79ef26d512c24dc3ea75a32e66e": {
         "pl": "Benedykta"
@@ -4723,6 +4801,9 @@
         "pl": "Iwene",
         "ig": "Iwene"
     },
+    "ed6c6bb3d44fc61a9e01e18280862a77": {
+        "ja": "マチアス"
+    },
     "edb628810c91487bfa0cc4307fae2c2c": {
         "pl": "Achacy"
     },
@@ -4928,6 +5009,9 @@
     },
     "f6ecfaa1edb61778854bb455f45ce790": {
         "en": "With many names"
+    },
+    "f6f086462d4ff542061818be6e676770": {
+        "ja": "トマス"
     },
     "f6f301a7923ac6978c927d9600d217e2": {
         "pl": "Marceli"

@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Karasuma",
+        "en": "Karasuma",
+        "pl": "Karasuma"
+    },
+    "translations": {
+        "ja": [
+            "烏丸"
+        ],
+        "la": [
+            "Karasuma"
+        ],
+        "en": [
+            "Karasuma"
+        ],
+        "pl": [
+            "Karasuma"
+        ]
+    },
+    "links": {
+        "records/patrons/leo/kar": {
+            "ja": "レオン烏丸",
+            "la": "Leo Karasuma",
+            "en": "Leo Karasuma",
+            "pl": "Leon Karasuma"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ja": "鈴木"
+    },
+    "translations": {
+        "ja": [
+            "鈴木"
+        ],
+        "la": [
+            "Suzuki"
+        ],
+        "en": [
+            "Suzuki"
+        ],
+        "pl": [
+            "Suzuki"
+        ]
+    },
+    "links": {
+        "records/patrons/paulus/suz": {
+            "ja": "パウロ鈴木",
+            "la": "Paulus Suzuki",
+            "en": "Paul Suzuki",
+            "pl": "Paweł Suzuki"
+        }
+    }
+}

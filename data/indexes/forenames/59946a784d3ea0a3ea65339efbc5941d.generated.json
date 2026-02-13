@@ -1,0 +1,47 @@
+{
+    "names": {
+        "ja": "ガブリエル"
+    },
+    "translations": {
+        "la": [
+            "Gabriel"
+        ],
+        "en": [
+            "Gabriel"
+        ],
+        "pl": [
+            "Gabriel"
+        ],
+        "fr": [
+            "Gabriel"
+        ],
+        "ja": [
+            "ガブリエル"
+        ]
+    },
+    "links": {
+        "records/patrons/gabriel/arc": {
+            "la": "Gabriel Archangelus",
+            "en": "Archangel Gabriel",
+            "pl": "Gabriel Archanioł"
+        },
+        "records/patrons/gabriel/duf": {
+            "fr": "Gabriel Taurin Dufresse",
+            "la": "Gabriel Taurinus Dufresse",
+            "en": "Gabriel Taurin Dufresse",
+            "pl": "Gabriel Taurin Dufresse"
+        },
+        "records/patrons/gabriel/lal": {
+            "fr": "Gabriel Lalemant",
+            "la": "Gabriel Lalemant",
+            "en": "Gabriel Lalemant",
+            "pl": "Gabriel Lalemant"
+        },
+        "records/patrons/gabriel/nag": {
+            "ja": "ガブリエル",
+            "la": "Gabriel de Nagasaki",
+            "en": "Gabriel of Nagasaki",
+            "pl": "Gabriel z Nagasaki"
+        }
+    }
+}

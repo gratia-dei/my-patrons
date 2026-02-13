@@ -1,0 +1,82 @@
+{
+    "names": {
+        "ja": "ミカエル"
+    },
+    "translations": {
+        "la": [
+            "Michael"
+        ],
+        "en": [
+            "Michael"
+        ],
+        "pl": [
+            "Michał"
+        ],
+        "ca": [
+            "Miquel"
+        ],
+        "ja": [
+            "ミカル",
+            "ミカエル"
+        ],
+        "ig": [
+            "Michael"
+        ],
+        "it": [
+            "Michele"
+        ]
+    },
+    "links": {
+        "records/patrons/cyprianus/tan": {
+            "ig": "Onye Saịprọs Michael Iwene Tansi",
+            "la": "Cyprianus Michael Iwene Tansi",
+            "en": "Cyprian Michael Iwene Tansi",
+            "pl": "Cyprian Michał Iwene Tansi"
+        },
+        "records/patrons/michael/arc": {
+            "la": "Michael Archangelus",
+            "en": "Archangel Michael",
+            "pl": "Michał Archanioł"
+        },
+        "records/patrons/michael/koz": {
+            "pl": "Michał Kozal",
+            "la": "Michael Kozal",
+            "en": "Michael Kozal"
+        },
+        "records/patrons/michael/kzk": {
+            "ja": "ミカエル小崎",
+            "la": "Michael Kozaki",
+            "en": "Michael Kozaki",
+            "pl": "Michał Kozaki"
+        },
+        "records/patrons/michael/nak": {
+            "ja": "ミゲル中島",
+            "la": "Michael Nakashima",
+            "en": "Michael Nakashima",
+            "pl": "Michał Nakashima"
+        },
+        "records/patrons/michael/san": {
+            "ca": "Miquel dels Sants",
+            "la": "Michael de Sanctis",
+            "en": "Michael of the Saints",
+            "pl": "Michał od Świętych",
+            "es": "Miguel de los Santos",
+            "it": "Michele dei Santi"
+        },
+        "records/patrons/michael/sop": {
+            "pl": "Michał Sopoćko",
+            "la": "Michael Sopocko",
+            "en": "Michael Sopocko"
+        },
+        "records/patrons/michael/tom": {
+            "pl": "Michał Tomaszek",
+            "la": "Michael Tomaszek",
+            "en": "Michael Tomaszek"
+        },
+        "records/patrons/michael/woz": {
+            "pl": "Michał Woźniak",
+            "la": "Michael Woźniak",
+            "en": "Michael Woźniak"
+        }
+    }
+}

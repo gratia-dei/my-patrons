@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Kinuya",
+        "en": "Kinuya",
+        "pl": "Kinuya"
+    },
+    "translations": {
+        "ja": [
+            "絹屋"
+        ],
+        "la": [
+            "Kinuya"
+        ],
+        "en": [
+            "Kinuya"
+        ],
+        "pl": [
+            "Kinuya"
+        ]
+    },
+    "links": {
+        "records/patrons/ioannes/kin": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        }
+    }
+}

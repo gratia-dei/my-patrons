@@ -17,6 +17,9 @@
         ],
         "fr": [
             "Gabriel"
+        ],
+        "ja": [
+            "ガブリエル"
         ]
     },
     "links": {
@@ -36,6 +39,12 @@
             "la": "Gabriel Lalemant",
             "en": "Gabriel Lalemant",
             "pl": "Gabriel Lalemant"
+        },
+        "records/patrons/gabriel/nag": {
+            "ja": "ガブリエル",
+            "la": "Gabriel de Nagasaki",
+            "en": "Gabriel of Nagasaki",
+            "pl": "Gabriel z Nagasaki"
         }
     }
 }

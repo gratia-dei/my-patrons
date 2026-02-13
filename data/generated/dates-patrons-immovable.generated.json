@@ -1127,6 +1127,146 @@
         }
     },
     "02-05": {
+        "records/patrons/antonius/nag": {
+            "name": {
+                "ja": "ルドビコ茨木",
+                "la": "Antonius de Nagasaki",
+                "en": "Anthony of Nagasaki",
+                "pl": "Antoni z Nagasaki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/bonaventura/nag": {
+            "name": {
+                "ja": "ボナベントゥラ",
+                "la": "Bonaventura de Nagasaki",
+                "en": "Bonaventura of Nagasaki",
+                "pl": "Bonawentura z Nagasaki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/cosmas/tak": {
+            "name": {
+                "ja": "コスメ竹屋",
+                "la": "Cosmas Takeya",
+                "en": "Cosmas Takeya",
+                "pl": "Kosma Takeya"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/franciscus/ada": {
+            "name": {
+                "ja": "フランシスコ吉",
+                "la": "Franciscus Adauctus de Nagasaki",
+                "en": "Francis Kichi",
+                "pl": "Franciszek Kichi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/franciscus/bla": {
+            "name": {
+                "es": "Francisco Blanco",
+                "la": "Franciscus Blanco",
+                "en": "Francis Blanco",
+                "pl": "Franciszek Blanco"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/franciscus/mea": {
+            "name": {
+                "ja": "フランシスコ医師",
+                "la": "Franciscus de Meako",
+                "en": "Francis of Meako",
+                "pl": "Franciszek z Meako"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/franciscus/par": {
+            "name": {
+                "es": "Francisco de San Miguel de la Parilla",
+                "la": "Franciscus a Sancto Michaele de la Parilla",
+                "en": "Francis of Saint Michael de la Parilla",
+                "pl": "Franciszek od św. Michała de la Parilla"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/gabriel/nag": {
+            "name": {
+                "ja": "ガブリエル",
+                "la": "Gabriel de Nagasaki",
+                "en": "Gabriel of Nagasaki",
+                "pl": "Gabriel z Nagasaki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/gundisalvus/gar": {
+            "name": {
+                "pt": "Gonçalo Garcia",
+                "la": "Gundisalvus Garcia",
+                "en": "Gonsalo Garcia",
+                "pl": "Gonsalwy Garcia"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/iacobus/kis": {
+            "name": {
+                "ja": "ディエゴ喜斎",
+                "la": "Iacobus Kisai",
+                "en": "James Kisai",
+                "pl": "Jakub Kisai"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
         "records/patrons/iesus/men": {
             "name": {
                 "es": "Jesús Méndez Montoya",
@@ -1139,12 +1279,222 @@
                 "mr-2004": "5 II: #12"
             }
         },
+        "records/patrons/ioachim/sak": {
+            "name": {
+                "ja": "ヨアキム榊原",
+                "la": "Ioachim Sakakibara",
+                "en": "Joachim Sakakibara",
+                "pl": "Joachim Sakakibara"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/ioannes/kin": {
+            "name": {
+                "ja": "ヨハネ絹屋",
+                "la": "Ioannes Kinuya",
+                "en": "John Kinuya",
+                "pl": "Jan Kinuya"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/ioannes/soa": {
+            "name": {
+                "ja": "ヨハネ草庵",
+                "la": "Ioannes de Goto Soan",
+                "en": "John Soan of Goto",
+                "pl": "Jan Soan z Goto"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/leo/kar": {
+            "name": {
+                "ja": "レオン烏丸",
+                "la": "Leo Karasuma",
+                "en": "Leo Karasuma",
+                "pl": "Leon Karasuma"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/ludovicus/iba": {
+            "name": {
+                "ja": "ルドビコ茨木",
+                "la": "Ludovicus Ibaraki",
+                "en": "Ludovicus Ibaraki",
+                "pl": "Ludwik Ibaraki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/martinus/agu": {
+            "name": {
+                "es": "Martín de la Ascensión Aguirre",
+                "la": "Martinus ab Ascensione Aguirre",
+                "en": "Martin of the Ascension Aguirre",
+                "pl": "Marcin od Wniebowstąpienia Aguirre"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/matthias/nag": {
+            "name": {
+                "ja": "マチアス",
+                "la": "Matthias de Nagasaki",
+                "en": "Matthias of Nagasaki",
+                "pl": "Maciej z Nagasaki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/michael/kzk": {
+            "name": {
+                "ja": "ミカエル小崎",
+                "la": "Michael Kozaki",
+                "en": "Michael Kozaki",
+                "pl": "Michał Kozaki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/paulus/iba": {
+            "name": {
+                "ja": "パウロ茨木",
+                "la": "Paulus Ibaraki",
+                "en": "Paul Ibaraki",
+                "pl": "Paweł Ibaraki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
         "records/patrons/paulus/mik": {
             "name": {
                 "ja": "パウロ三木",
                 "la": "Paulus Miki",
                 "en": "Paul Miki",
                 "pl": "Paweł Miki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/paulus/suz": {
+            "name": {
+                "ja": "パウロ鈴木",
+                "la": "Paulus Suzuki",
+                "en": "Paul Suzuki",
+                "pl": "Paweł Suzuki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/petrus/bla": {
+            "name": {
+                "es": "Pedro Bautista Blázquez",
+                "la": "Petrus Baptista Blázquez",
+                "en": "Peter Baptist Blázquez",
+                "pl": "Piotr Chrzciciel Blázquez"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/petrus/suk": {
+            "name": {
+                "ja": "ペトロ助四郎",
+                "la": "Petrus Sukejiro",
+                "en": "Peter Sukejiro",
+                "pl": "Piotr Sukejiro"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/philippus/las": {
+            "name": {
+                "es": "Felipe de Jesús de Las Casas",
+                "la": "Philippus a Iesu de Las Casas",
+                "en": "Philip of Jesus de Las Casas",
+                "pl": "Filip od Jezusa de Las Casas"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/thomas/dan": {
+            "name": {
+                "ja": "トマス談義者",
+                "la": "Thomas Dangi",
+                "en": "Thomas Dangi",
+                "pl": "Tomasz Dangi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
+        "records/patrons/thomas/koz": {
+            "name": {
+                "ja": "トマス小崎",
+                "la": "Thomas Kozaki",
+                "en": "Thomas Kozaki",
+                "pl": "Tomasz Kozaki"
             },
             "sources": {
                 "reliable-death-anniversary": "5 II",
@@ -1208,6 +1558,281 @@
                 "la": "Paulus Miki",
                 "en": "Paul Miki",
                 "pl": "Paweł Miki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/ioannes/soa": {
+            "name": {
+                "ja": "ヨハネ草庵",
+                "la": "Ioannes de Goto Soan",
+                "en": "John Soan of Goto",
+                "pl": "Jan Soan z Goto"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/iacobus/kis": {
+            "name": {
+                "ja": "ディエゴ喜斎",
+                "la": "Iacobus Kisai",
+                "en": "James Kisai",
+                "pl": "Jakub Kisai"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/petrus/bla": {
+            "name": {
+                "es": "Pedro Bautista Blázquez",
+                "la": "Petrus Baptista Blázquez",
+                "en": "Peter Baptist Blázquez",
+                "pl": "Piotr Chrzciciel Blázquez"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/martinus/agu": {
+            "name": {
+                "es": "Martín de la Ascensión Aguirre",
+                "la": "Martinus ab Ascensione Aguirre",
+                "en": "Martin of the Ascension Aguirre",
+                "pl": "Marcin od Wniebowstąpienia Aguirre"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/franciscus/bla": {
+            "name": {
+                "es": "Francisco Blanco",
+                "la": "Franciscus Blanco",
+                "en": "Francis Blanco",
+                "pl": "Franciszek Blanco"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/philippus/las": {
+            "name": {
+                "es": "Felipe de Jesús de Las Casas",
+                "la": "Philippus a Iesu de Las Casas",
+                "en": "Philip of Jesus de Las Casas",
+                "pl": "Filip od Jezusa de Las Casas"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/gundisalvus/gar": {
+            "name": {
+                "pt": "Gonçalo Garcia",
+                "la": "Gundisalvus Garcia",
+                "en": "Gonsalo Garcia",
+                "pl": "Gonsalwy Garcia"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/franciscus/par": {
+            "name": {
+                "es": "Francisco de San Miguel de la Parilla",
+                "la": "Franciscus a Sancto Michaele de la Parilla",
+                "en": "Francis of Saint Michael de la Parilla",
+                "pl": "Franciszek od św. Michała de la Parilla"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/leo/kar": {
+            "name": {
+                "ja": "レオン烏丸",
+                "la": "Leo Karasuma",
+                "en": "Leo Karasuma",
+                "pl": "Leon Karasuma"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/petrus/suk": {
+            "name": {
+                "ja": "ペトロ助四郎",
+                "la": "Petrus Sukejiro",
+                "en": "Peter Sukejiro",
+                "pl": "Piotr Sukejiro"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/cosmas/tak": {
+            "name": {
+                "ja": "コスメ竹屋",
+                "la": "Cosmas Takeya",
+                "en": "Cosmas Takeya",
+                "pl": "Kosma Takeya"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/paulus/iba": {
+            "name": {
+                "ja": "パウロ茨木",
+                "la": "Paulus Ibaraki",
+                "en": "Paul Ibaraki",
+                "pl": "Paweł Ibaraki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/thomas/dan": {
+            "name": {
+                "ja": "トマス談義者",
+                "la": "Thomas Dangi",
+                "en": "Thomas Dangi",
+                "pl": "Tomasz Dangi"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/paulus/suz": {
+            "name": {
+                "ja": "パウロ鈴木",
+                "la": "Paulus Suzuki",
+                "en": "Paul Suzuki",
+                "pl": "Paweł Suzuki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/ludovicus/iba": {
+            "name": {
+                "ja": "ルドビコ茨木",
+                "la": "Ludovicus Ibaraki",
+                "en": "Ludovicus Ibaraki",
+                "pl": "Ludwik Ibaraki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/antonius/nag": {
+            "name": {
+                "ja": "ルドビコ茨木",
+                "la": "Antonius de Nagasaki",
+                "en": "Anthony of Nagasaki",
+                "pl": "Antoni z Nagasaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/michael/kzk": {
+            "name": {
+                "ja": "ミカエル小崎",
+                "la": "Michael Kozaki",
+                "en": "Michael Kozaki",
+                "pl": "Michał Kozaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/thomas/koz": {
+            "name": {
+                "ja": "トマス小崎",
+                "la": "Thomas Kozaki",
+                "en": "Thomas Kozaki",
+                "pl": "Tomasz Kozaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/bonaventura/nag": {
+            "name": {
+                "ja": "ボナベントゥラ",
+                "la": "Bonaventura de Nagasaki",
+                "en": "Bonaventura of Nagasaki",
+                "pl": "Bonawentura z Nagasaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/gabriel/nag": {
+            "name": {
+                "ja": "ガブリエル",
+                "la": "Gabriel de Nagasaki",
+                "en": "Gabriel of Nagasaki",
+                "pl": "Gabriel z Nagasaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/ioannes/kin": {
+            "name": {
+                "ja": "ヨハネ絹屋",
+                "la": "Ioannes Kinuya",
+                "en": "John Kinuya",
+                "pl": "Jan Kinuya"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/matthias/nag": {
+            "name": {
+                "ja": "マチアス",
+                "la": "Matthias de Nagasaki",
+                "en": "Matthias of Nagasaki",
+                "pl": "Maciej z Nagasaki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/franciscus/mea": {
+            "name": {
+                "ja": "フランシスコ医師",
+                "la": "Franciscus de Meako",
+                "en": "Francis of Meako",
+                "pl": "Franciszek z Meako"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/ioachim/sak": {
+            "name": {
+                "ja": "ヨアキム榊原",
+                "la": "Ioachim Sakakibara",
+                "en": "Joachim Sakakibara",
+                "pl": "Joachim Sakakibara"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
+            }
+        },
+        "records/patrons/franciscus/ada": {
+            "name": {
+                "ja": "フランシスコ吉",
+                "la": "Franciscus Adauctus de Nagasaki",
+                "en": "Francis Kichi",
+                "pl": "Franciszek Kichi"
             },
             "sources": {
                 "mr-2004": "6 II: #1"

@@ -15,6 +15,9 @@
         ],
         "el": [
             "Κοσμάς"
+        ],
+        "ja": [
+            "コスメ"
         ]
     },
     "links": {
@@ -23,6 +26,12 @@
             "la": "Cosmas Aegaeensis",
             "en": "Cosmas of Aegeae",
             "pl": "Kosma z Egei"
+        },
+        "records/patrons/cosmas/tak": {
+            "ja": "コスメ竹屋",
+            "la": "Cosmas Takeya",
+            "en": "Cosmas Takeya",
+            "pl": "Kosma Takeya"
         }
     }
 }

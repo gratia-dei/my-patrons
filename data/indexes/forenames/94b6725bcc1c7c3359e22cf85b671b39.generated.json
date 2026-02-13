@@ -1,0 +1,27 @@
+{
+    "names": {
+        "es": "Bautista"
+    },
+    "translations": {
+        "la": [
+            "Baptista"
+        ],
+        "en": [
+            "Baptist"
+        ],
+        "pl": [
+            "Chrzciciel"
+        ],
+        "es": [
+            "Bautista"
+        ]
+    },
+    "links": {
+        "records/patrons/petrus/bla": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
+        }
+    }
+}

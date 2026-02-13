@@ -1,0 +1,18 @@
+{
+    "names": {
+        "es": "de la Parilla"
+    },
+    "translations": {
+        "es": [
+            "de la Parilla"
+        ]
+    },
+    "links": {
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
+        }
+    }
+}

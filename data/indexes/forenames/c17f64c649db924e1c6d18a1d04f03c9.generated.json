@@ -17,6 +17,9 @@
         ],
         "it": [
             "Lodovico"
+        ],
+        "ja": [
+            "ルドビコ"
         ]
     },
     "links": {
@@ -24,6 +27,12 @@
             "pl": "Ludwik Roch Gietyngier",
             "la": "Ludovicus Rochus Gietyngier",
             "en": "Louis Roch Gietyngier"
+        },
+        "records/patrons/ludovicus/iba": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
         },
         "records/patrons/ludovicus/mar": {
             "fr": "Louis Martin",

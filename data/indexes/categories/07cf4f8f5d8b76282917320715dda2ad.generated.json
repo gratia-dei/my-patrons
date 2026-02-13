@@ -416,6 +416,12 @@
             "en": "Anthony Martín Hernández",
             "pl": "Antoni Martín Hernández"
         },
+        "records/patrons/antonius/nag": {
+            "ja": "ルドビコ茨木",
+            "la": "Antonius de Nagasaki",
+            "en": "Anthony of Nagasaki",
+            "pl": "Antoni z Nagasaki"
+        },
         "records/patrons/antonius/now": {
             "pl": "Antoni Julian Nowowiejski",
             "la": "Antonius Iulianus Nowowiejski",
@@ -659,6 +665,12 @@
             "la": "Boleslaus Strzelecki",
             "en": "Boleslaus Strzelecki"
         },
+        "records/patrons/bonaventura/nag": {
+            "ja": "ボナベントゥラ",
+            "la": "Bonaventura de Nagasaki",
+            "en": "Bonaventura of Nagasaki",
+            "pl": "Bonawentura z Nagasaki"
+        },
         "records/patrons/bonfilius/flo": {
             "it": "Bonfilio Monaldi",
             "la": "Bonfilius Monaldi",
@@ -876,6 +888,12 @@
             "la": "Cosmas Aegaeensis",
             "en": "Cosmas of Aegeae",
             "pl": "Kosma z Egei"
+        },
+        "records/patrons/cosmas/tak": {
+            "ja": "コスメ竹屋",
+            "la": "Cosmas Takeya",
+            "en": "Cosmas Takeya",
+            "pl": "Kosma Takeya"
         },
         "records/patrons/crescentianus/car": {
             "la": "Crescentianus Carthaginensis",
@@ -1268,11 +1286,23 @@
             "en": "Floscule of Orleans",
             "pl": "Floskul z Orleanu"
         },
+        "records/patrons/franciscus/ada": {
+            "ja": "フランシスコ吉",
+            "la": "Franciscus Adauctus de Nagasaki",
+            "en": "Francis Kichi",
+            "pl": "Franciszek Kichi"
+        },
         "records/patrons/franciscus/asi": {
             "it": "Francesco d'Assisi",
             "la": "Franciscus Asisiensis",
             "en": "Francis of Assisi",
             "pl": "Franciszek z Asyżu"
+        },
+        "records/patrons/franciscus/bla": {
+            "es": "Francisco Blanco",
+            "la": "Franciscus Blanco",
+            "en": "Francis Blanco",
+            "pl": "Franciszek Blanco"
         },
         "records/patrons/franciscus/bor": {
             "es": "Francisco de Borja",
@@ -1313,6 +1343,18 @@
             "la": "Franciscus Marto",
             "en": "Francisco Marto",
             "pl": "Franciszek Marto"
+        },
+        "records/patrons/franciscus/mea": {
+            "ja": "フランシスコ医師",
+            "la": "Franciscus de Meako",
+            "en": "Francis of Meako",
+            "pl": "Franciszek z Meako"
+        },
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
         },
         "records/patrons/franciscus/pau": {
             "it": "Francesco da Paola",
@@ -1374,6 +1416,12 @@
             "la": "Gabriel Lalemant",
             "en": "Gabriel Lalemant",
             "pl": "Gabriel Lalemant"
+        },
+        "records/patrons/gabriel/nag": {
+            "ja": "ガブリエル",
+            "la": "Gabriel de Nagasaki",
+            "en": "Gabriel of Nagasaki",
+            "pl": "Gabriel z Nagasaki"
         },
         "records/patrons/gamaliel/hie": {
             "la": "Gamaliel Hierosolymitanus",
@@ -1553,6 +1601,12 @@
             "en": "Gundecarus; with him, i.a., Eoban",
             "pl": "Gundekar; z nim, m.in. Eoban"
         },
+        "records/patrons/gundisalvus/gar": {
+            "pt": "Gonçalo Garcia",
+            "la": "Gundisalvus Garcia",
+            "en": "Gonsalo Garcia",
+            "pl": "Gonsalwy Garcia"
+        },
         "records/patrons/gunthramnus/rex": {
             "fr": "Gontran, roi des Francs",
             "la": "Gunthramnus, rex Francorum",
@@ -1702,6 +1756,12 @@
             "en": "James Gagnot",
             "pl": "Jakub Gagnot"
         },
+        "records/patrons/iacobus/kis": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
+        },
         "records/patrons/iacobus/mai": {
             "la": "Iacobus Maior Apostolus",
             "en": "James the Great",
@@ -1800,6 +1860,12 @@
             "la": "Ioachim, pater Mariae",
             "en": "Joachim, father of Mary",
             "pl": "Joachim, ojciec Maryi"
+        },
+        "records/patrons/ioachim/sak": {
+            "ja": "ヨアキム榊原",
+            "la": "Ioachim Sakakibara",
+            "en": "Joachim Sakakibara",
+            "pl": "Joachim Sakakibara"
         },
         "records/patrons/ioannes/23p": {
             "it": "Giovanni XXIII",
@@ -1918,6 +1984,12 @@
             "la": "Ioannes Cantius",
             "en": "John Cantius"
         },
+        "records/patrons/ioannes/kin": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        },
         "records/patrons/ioannes/lal": {
             "fr": "Jean de La Lande",
             "la": "Ioannes de la Lande",
@@ -1979,6 +2051,12 @@
             "la": "Ioannes Sarkander",
             "en": "John Sarkander",
             "pl": "Jan Sarkander"
+        },
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
         },
         "records/patrons/ioannes/tup": {
             "it": "Giovanni da Tufara",
@@ -2281,6 +2359,12 @@
             "en": "Leo IX",
             "pl": "Leon IX"
         },
+        "records/patrons/leo/kar": {
+            "ja": "レオン烏丸",
+            "la": "Leo Karasuma",
+            "en": "Leo Karasuma",
+            "pl": "Leon Karasuma"
+        },
         "records/patrons/leo/now": {
             "pl": "Leon Nowakowski",
             "en": "Leon Nowakowski",
@@ -2335,6 +2419,12 @@
             "pl": "Ludwik Roch Gietyngier",
             "la": "Ludovicus Rochus Gietyngier",
             "en": "Louis Roch Gietyngier"
+        },
+        "records/patrons/ludovicus/iba": {
+            "ja": "ルドビコ茨木",
+            "la": "Ludovicus Ibaraki",
+            "en": "Ludovicus Ibaraki",
+            "pl": "Ludwik Ibaraki"
         },
         "records/patrons/ludovicus/mar": {
             "fr": "Louis Martin",
@@ -2452,6 +2542,12 @@
             "en": "Martin I",
             "pl": "Marcin I"
         },
+        "records/patrons/martinus/agu": {
+            "es": "Martín de la Ascensión Aguirre",
+            "la": "Martinus ab Ascensione Aguirre",
+            "en": "Martin of the Ascension Aguirre",
+            "pl": "Marcin od Wniebowstąpienia Aguirre"
+        },
         "records/patrons/martinus/hui": {
             "fr": "Martin Luc Huin",
             "la": "Martinus Lucas Huin",
@@ -2491,6 +2587,12 @@
             "la": "Matthias Apostolus",
             "en": "Matthias the Apostle",
             "pl": "Maciej Apostoł"
+        },
+        "records/patrons/matthias/nag": {
+            "ja": "マチアス",
+            "la": "Matthias de Nagasaki",
+            "en": "Matthias of Nagasaki",
+            "pl": "Maciej z Nagasaki"
         },
         "records/patrons/mauritius/the": {
             "la": "Mauritius Legionis Thebanae",
@@ -2545,6 +2647,12 @@
             "pl": "Michał Kozal",
             "la": "Michael Kozal",
             "en": "Michael Kozal"
+        },
+        "records/patrons/michael/kzk": {
+            "ja": "ミカエル小崎",
+            "la": "Michael Kozaki",
+            "en": "Michael Kozaki",
+            "pl": "Michał Kozaki"
         },
         "records/patrons/michael/nak": {
             "ja": "ミゲル中島",
@@ -2765,6 +2873,12 @@
             "en": "Paul of Constantinople",
             "pl": "Paweł z Bizancjum"
         },
+        "records/patrons/paulus/iba": {
+            "ja": "パウロ茨木",
+            "la": "Paulus Ibaraki",
+            "en": "Paul Ibaraki",
+            "pl": "Paweł Ibaraki"
+        },
         "records/patrons/paulus/mik": {
             "ja": "パウロ三木",
             "la": "Paulus Miki",
@@ -2776,6 +2890,12 @@
             "la": "Paulus Nguyễn Ngân",
             "en": "Paul Nguyễn Ngân",
             "pl": "Paweł Nguyễn Ngân"
+        },
+        "records/patrons/paulus/suz": {
+            "ja": "パウロ鈴木",
+            "la": "Paulus Suzuki",
+            "en": "Paul Suzuki",
+            "pl": "Paweł Suzuki"
         },
         "records/patrons/petronius/bon": {
             "la": "Petronius Bononiensis",
@@ -2793,6 +2913,12 @@
             "la": "Petrus Aumaître",
             "en": "Peter Aumaître",
             "pl": "Piotr Aumaître"
+        },
+        "records/patrons/petrus/bla": {
+            "es": "Pedro Bautista Blázquez",
+            "la": "Petrus Baptista Blázquez",
+            "en": "Peter Baptist Blázquez",
+            "pl": "Piotr Chrzciciel Blázquez"
         },
         "records/patrons/petrus/cal": {
             "tl": "Pedro Calungsod",
@@ -2852,6 +2978,12 @@
             "la": "Petrus de Luxemburgo",
             "pl": "Piotr de Luxemburgo"
         },
+        "records/patrons/petrus/suk": {
+            "ja": "ペトロ助四郎",
+            "la": "Petrus Sukejiro",
+            "en": "Peter Sukejiro",
+            "pl": "Piotr Sukejiro"
+        },
         "records/patrons/petrus/tho": {
             "it": "Pietro Tommaso",
             "la": "Petrus Thomas",
@@ -2890,6 +3022,12 @@
             "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
             "en": "Philip; with him, i.a., Felix; as Seven Brothers",
             "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
+        },
+        "records/patrons/philippus/las": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
         },
         "records/patrons/philippus/ner": {
             "it": "Filippo Neri",
@@ -3433,6 +3571,12 @@
             "la": "Thomas Becket",
             "pl": "Tomasz Becket"
         },
+        "records/patrons/thomas/dan": {
+            "ja": "トマス談義者",
+            "la": "Thomas Dangi",
+            "en": "Thomas Dangi",
+            "pl": "Tomasz Dangi"
+        },
         "records/patrons/thomas/gar": {
             "en": "Thomas Garnet",
             "la": "Thomas Garnet",
@@ -3442,6 +3586,12 @@
             "en": "Thomas Holland",
             "la": "Thomas Holland",
             "pl": "Tomasz Holland"
+        },
+        "records/patrons/thomas/koz": {
+            "ja": "トマス小崎",
+            "la": "Thomas Kozaki",
+            "en": "Thomas Kozaki",
+            "pl": "Tomasz Kozaki"
         },
         "records/patrons/thomas/plu": {
             "en": "Thomas Plumtree",

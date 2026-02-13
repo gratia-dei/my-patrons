@@ -24,6 +24,9 @@
         "it": [
             "Antonio"
         ],
+        "ja": [
+            "アントニオ"
+        ],
         "pt": [
             "Antônio"
         ],
@@ -84,6 +87,12 @@
             "la": "Antonius Martín Hernández",
             "en": "Anthony Martín Hernández",
             "pl": "Antoni Martín Hernández"
+        },
+        "records/patrons/antonius/nag": {
+            "ja": "ルドビコ茨木",
+            "la": "Antonius de Nagasaki",
+            "en": "Anthony of Nagasaki",
+            "pl": "Antoni z Nagasaki"
         },
         "records/patrons/antonius/now": {
             "pl": "Antoni Julian Nowowiejski",

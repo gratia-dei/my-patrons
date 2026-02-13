@@ -1,0 +1,257 @@
+{
+    "names": {
+        "ja": "ヨハネ"
+    },
+    "translations": {
+        "la": [
+            "Ioannes",
+            "Joannes"
+        ],
+        "en": [
+            "John"
+        ],
+        "pl": [
+            "Jan"
+        ],
+        "cs": [
+            "Jan"
+        ],
+        "de": [
+            "Johannes"
+        ],
+        "es": [
+            "Juan"
+        ],
+        "fr": [
+            "Jean"
+        ],
+        "it": [
+            "Giovanni"
+        ],
+        "ja": [
+            "ヨハネ"
+        ],
+        "pt": [
+            "João"
+        ],
+        "ko": [
+            "요한"
+        ]
+    },
+    "links": {
+        "records/patrons/ieremias/val": {
+            "ro": "Ieremia Valahul",
+            "la": "Ieremias de Valachia",
+            "en": "Jeremiah of Wallachia",
+            "pl": "Jeremiasz z Wołoszczyzny"
+        },
+        "records/patrons/ioannes/23p": {
+            "it": "Giovanni XXIII",
+            "la": "Ioannes Pp. XXIII",
+            "en": "John XXIII",
+            "pl": "Jan XXIII"
+        },
+        "records/patrons/ioannes/abu": {
+            "la": "Ioannes; cum eo, i.a., Abundius",
+            "en": "John; with him, i.a., Abundius",
+            "pl": "Jan; z nim, m.in., Abundiusz"
+        },
+        "records/patrons/ioannes/ada": {
+            "en": "John Adams",
+            "la": "Ioannes Adams",
+            "pl": "Jan Adams"
+        },
+        "records/patrons/ioannes/bap": {
+            "he": "יוחנן המטביל",
+            "la": "Ioannes Baptista",
+            "en": "John the Baptist",
+            "pl": "Jan Chrzciciel"
+        },
+        "records/patrons/ioannes/bod": {
+            "en": "John Bodey",
+            "la": "Ioannes Bodey",
+            "pl": "Jan Bodey"
+        },
+        "records/patrons/ioannes/bon": {
+            "it": "Giovanni Buonagiunta Manetti",
+            "la": "Ioannes Bonaiuncta Manetti",
+            "en": "John Bonajuncta Manetti",
+            "pl": "Jan Bonajunkta Manetti"
+        },
+        "records/patrons/ioannes/bos": {
+            "it": "Giovanni Bosco",
+            "la": "Ioannes Bosco",
+            "en": "John Bosco",
+            "pl": "Jan Bosko"
+        },
+        "records/patrons/ioannes/bre": {
+            "fr": "Jean de Brébeuf",
+            "la": "Ioannes de Brébeuf",
+            "en": "John de Brébeuf",
+            "pl": "Jan de Brébeuf"
+        },
+        "records/patrons/ioannes/cal": {
+            "it": "Giovanni Giuseppe della Croce",
+            "la": "Ioannes Ioseph a Cruce",
+            "en": "John Joseph of the Cross",
+            "pl": "Jan Józef od Krzyża"
+        },
+        "records/patrons/ioannes/cap": {
+            "it": "Giovanni da Capestrano",
+            "la": "Ioannes de Capestrano",
+            "en": "John of Capistrano",
+            "pl": "Jan Kapistran"
+        },
+        "records/patrons/ioannes/chr": {
+            "la": "Ioannes Chrysostomus",
+            "en": "John Chrysostom",
+            "pl": "Jan Chryzostom"
+        },
+        "records/patrons/ioannes/cru": {
+            "es": "Juan de la Cruz",
+            "la": "Ioannes a Cruce",
+            "en": "John of the Cross",
+            "pl": "Jan od Krzyża"
+        },
+        "records/patrons/ioannes/deo": {
+            "pt": "João de Deus",
+            "la": "Ioannes de Deo",
+            "en": "John of God",
+            "pl": "Jan Boży"
+        },
+        "records/patrons/ioannes/duk": {
+            "pl": "Jan z Dukli",
+            "la": "Ioannes de Dukla",
+            "en": "John of Dukla"
+        },
+        "records/patrons/ioannes/dun": {
+            "de": "Johannes Duns Scotus",
+            "la": "Ioannes Duns Scotus",
+            "en": "John Duns Scotus",
+            "pl": "Jan Duns Szkot"
+        },
+        "records/patrons/ioannes/ele": {
+            "la": "Ioannes Eleemosynarius",
+            "en": "John the Almsgiver",
+            "pl": "Jan Jałmużnik"
+        },
+        "records/patrons/ioannes/eva": {
+            "la": "Ioannes Evangelista",
+            "en": "John the Evangelist",
+            "pl": "Jan Ewangelista"
+        },
+        "records/patrons/ioannes/fae": {
+            "it": "Giovanni da Fiesole",
+            "la": "Ioannes Faesulanus",
+            "en": "John from Fiesole",
+            "pl": "Jan z Fiesole"
+        },
+        "records/patrons/ioannes/ham": {
+            "en": "John Hambley",
+            "la": "Ioannes Hambley",
+            "pl": "Jan Hambley"
+        },
+        "records/patrons/ioannes/ket": {
+            "pl": "Jan Kanty",
+            "la": "Ioannes Cantius",
+            "en": "John Cantius"
+        },
+        "records/patrons/ioannes/kin": {
+            "ja": "ヨハネ絹屋",
+            "la": "Ioannes Kinuya",
+            "en": "John Kinuya",
+            "pl": "Jan Kinuya"
+        },
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de La Lande",
+            "pl": "Jan de La Lande"
+        },
+        "records/patrons/ioannes/low": {
+            "en": "John Lowe",
+            "la": "Ioannes Lowe",
+            "pl": "Jan Lowe"
+        },
+        "records/patrons/ioannes/mat": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
+        "records/patrons/ioannes/nep": {
+            "cs": "Jan Nepomucký",
+            "la": "Ioannes Nepomucenus",
+            "en": "John of Nepomuk",
+            "pl": "Jan Nepomucen"
+        },
+        "records/patrons/ioannes/ogi": {
+            "en": "John Ogilvie",
+            "la": "Ioannes Ogilvie",
+            "pl": "Jan Ogilvie"
+        },
+        "records/patrons/ioannes/p1p": {
+            "it": "Giovanni Paolo I",
+            "la": "Ioannes Paulus Pp. I",
+            "en": "John Paul I",
+            "pl": "Jan Paweł I"
+        },
+        "records/patrons/ioannes/p2p": {
+            "pl": "Jan Paweł II",
+            "la": "Ioannes Paulus Pp. II",
+            "en": "John Paul II"
+        },
+        "records/patrons/ioannes/rib": {
+            "es": "Juan de Ribera",
+            "la": "Ioannes de Ribera",
+            "en": "John de Ribera",
+            "pl": "Jan de Ribera"
+        },
+        "records/patrons/ioannes/roc": {
+            "en": "John Roche",
+            "la": "Ioannes Roche",
+            "pl": "Jan Roche"
+        },
+        "records/patrons/ioannes/sar": {
+            "cs": "Jan Sarkander",
+            "la": "Ioannes Sarkander",
+            "en": "John Sarkander",
+            "pl": "Jan Sarkander"
+        },
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
+        },
+        "records/patrons/ioannes/tup": {
+            "it": "Giovanni da Tufara",
+            "la": "Ioannes de Tupharia",
+            "en": "John of Tufaria",
+            "pl": "Jan z Tufarii"
+        },
+        "records/patrons/ioannes/ven": {
+            "fr": "Jean-Théophane Vénard",
+            "la": "Ioannes Theophanes Vénard",
+            "en": "John Theophanes Vénard",
+            "pl": "Jan Teofan Vénard"
+        },
+        "records/patrons/ioannes/via": {
+            "fr": "Jean-Marie Vianney",
+            "la": "Ioannes Maria Vianney",
+            "en": "John Mary Vianney",
+            "pl": "Jan Maria Vianney"
+        },
+        "records/patrons/iosaphat/kun": {
+            "pl": "Jozafat Kuncewicz",
+            "la": "Iosaphat Kuncewicz",
+            "en": "Josaphat Kuntsevych"
+        },
+        "records/patrons/nicolaus/ges": {
+            "it": "Nicola da Gesturi",
+            "la": "Nicolaus de Gesturi",
+            "en": "Nicholas of Gesturi",
+            "pl": "Mikołaj z Gesturi"
+        }
+    }
+}
