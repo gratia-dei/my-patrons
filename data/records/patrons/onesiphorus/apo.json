@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Onesiphorus, Apostolorum discipulus"
-    ],
-    "en": [
-      "Onesiphorus, disciple of Apostles"
-    ],
-    "pl": [
-      "Onezyfor, uczeń Apostołów"
-    ]
-  },
+    "names": {
+        "la": [
+            "Onesiphorus, Apostolorum discipulus"
+        ],
+        "en": [
+            "Onesiphorus, disciple of Apostles"
+        ],
+        "pl": [
+            "Onezyfor, uczeń Apostołów"
+        ]
+    },
+    "forenames": ["onesiphorus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": [">1", "<100"],
+    "active": true,
 
-  "also-in-martyrology": ["09-06"],
+    "born": null,
+    "died": [">33", "<100"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["onesiphorus"],
-  "categories": ["vir", "martyr", "discipulus"]
+    "categories": ["vir", "martyr", "discipulus"],
+
+    "data-links": {
+        "mr-1584": ["1:Sept./6#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Septembris/6#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./6#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71558",
+        "wiki": "https://pl.wikipedia.org/wiki/Onezyfor_(posta%C4%87_biblijna)"
+    }
 }

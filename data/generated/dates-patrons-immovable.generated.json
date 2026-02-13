@@ -9318,6 +9318,18 @@
         }
     },
     "09-06": {
+        "records/patrons/onesiphorus/apo": {
+            "name": {
+                "la": "Onesiphorus, Apostolorum discipulus",
+                "en": "Onesiphorus, disciple of Apostles",
+                "pl": "Onezyfor, uczeń Apostołów"
+            },
+            "sources": {
+                "mr-1584": "6 IX: #2",
+                "mr-1956": "6 IX: #2",
+                "mr-2004": "6 IX: #2"
+            }
+        },
         "records/patrons/magnus/abb": {
             "name": {
                 "de": "Magnus von Füssen",

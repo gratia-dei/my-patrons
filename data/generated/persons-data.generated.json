@@ -21900,14 +21900,14 @@
         }
     },
     "patrons/onesiphorus/apo": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Onesiphorus, Apostolorum discipulus",
             "en": "Onesiphorus, disciple of Apostles",
             "pl": "Onezyfor, uczeń Apostołów"
         },
         "died": [
-            ">1",
+            ">33",
             "<100"
         ],
         "feasts": [],
