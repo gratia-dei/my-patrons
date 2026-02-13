@@ -18,6 +18,9 @@
         "el": [
             "Νικόλαος"
         ],
+        "fr": [
+            "Nicolas"
+        ],
         "it": [
             "Nicola"
         ]
@@ -44,7 +47,8 @@
         "records/patrons/nicolaus/stu": {
             "la": "Nicolaus Studita",
             "en": "Nicholas the Studite",
-            "pl": "Mikołaj Studita"
+            "pl": "Mikołaj Studita",
+            "fr": "Nicolas le Studite"
         }
     }
 }

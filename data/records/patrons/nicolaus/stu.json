@@ -1,20 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Nicolaus Studita"
-    ],
-    "en": [
-      "Nicholas the Studite"
-    ],
-    "pl": [
-      "Mikołaj Studita"
-    ]
-  },
+    "names": {
+        "la": [
+            "Nicolaus Studita"
+        ],
+        "en": [
+            "Nicholas the Studite"
+        ],
+        "pl": [
+            "Mikołaj Studita"
+        ],
+        "fr": [
+            "Nicolas le Studite"
+        ]
+    },
+    "forenames": ["nicolaus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["868"],
+    "active": true,
 
-  "also-in-martyrology": ["02-04"],
+    "born": ["~793"],
+    "died": ["868"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["nicolaus"],
-  "categories": ["vir", "monachus"]
+    "categories": ["vir", "monachus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./4#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/73175",
+        "wiki": "https://fr.wikipedia.org/wiki/Nicolas_le_Studite"
+    }
 }

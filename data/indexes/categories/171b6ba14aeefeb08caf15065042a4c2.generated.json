@@ -112,7 +112,8 @@
         "records/patrons/nicolaus/stu": {
             "la": "Nicolaus Studita",
             "en": "Nicholas the Studite",
-            "pl": "Mikołaj Studita"
+            "pl": "Mikołaj Studita",
+            "fr": "Nicolas le Studite"
         },
         "records/patrons/romualdus/cam": {
             "it": "Romualdo di Camaldoli",

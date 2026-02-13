@@ -1102,6 +1102,17 @@
             "sources": {
                 "mr-1956": "4 II: #1"
             }
+        },
+        "records/patrons/nicolaus/stu": {
+            "name": {
+                "la": "Nicolaus Studita",
+                "en": "Nicholas the Studite",
+                "pl": "Mikołaj Studita",
+                "fr": "Nicolas le Studite"
+            },
+            "sources": {
+                "mr-2004": "4 II: #8"
+            }
         }
     },
     "02-05": {

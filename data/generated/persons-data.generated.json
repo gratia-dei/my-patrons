@@ -21593,6 +21593,7 @@
             "pl": "Mikołaj",
             "de": "Niklaus",
             "el": "Νικόλαος",
+            "fr": "Nicolas",
             "it": "Nicola"
         }
     },
@@ -21617,6 +21618,7 @@
                     "pl": "Mikołaj",
                     "de": "Niklaus",
                     "el": "Νικόλαος",
+                    "fr": "Nicolas",
                     "it": "Nicola"
                 }
             }
@@ -21643,6 +21645,7 @@
                     "pl": "Mikołaj",
                     "de": "Niklaus",
                     "el": "Νικόλαος",
+                    "fr": "Nicolas",
                     "it": "Nicola"
                 }
             },
@@ -21692,17 +21695,19 @@
                     "pl": "Mikołaj",
                     "de": "Niklaus",
                     "el": "Νικόλαος",
+                    "fr": "Nicolas",
                     "it": "Nicola"
                 }
             }
         }
     },
     "patrons/nicolaus/stu": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Nicolaus Studita",
             "en": "Nicholas the Studite",
-            "pl": "Mikołaj Studita"
+            "pl": "Mikołaj Studita",
+            "fr": "Nicolas le Studite"
         },
         "died": [
             "868"
@@ -21717,6 +21722,7 @@
                     "pl": "Mikołaj",
                     "de": "Niklaus",
                     "el": "Νικόλαος",
+                    "fr": "Nicolas",
                     "it": "Nicola"
                 }
             }
