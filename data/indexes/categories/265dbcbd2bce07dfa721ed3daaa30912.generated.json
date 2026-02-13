@@ -2180,6 +2180,11 @@
             "en": "Pontian, pope",
             "pl": "Poncjan, papież"
         },
+        "records/patrons/porphyrius/one": {
+            "la": "Porphyrius; cum eo Onesiphorus",
+            "en": "Porphyrius; with him Onesiphorus",
+            "pl": "Porfiriusz; z nim Onezyfor"
+        },
         "records/patrons/proclus/hil": {
             "la": "Proclus; cum eo, Hilarion",
             "en": "Proclus; with him, Hilarion",

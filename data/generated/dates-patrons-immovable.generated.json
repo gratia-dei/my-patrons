@@ -9330,6 +9330,17 @@
                 "mr-2004": "6 IX: #2"
             }
         },
+        "records/patrons/porphyrius/one": {
+            "name": {
+                "la": "Porphyrius; cum eo Onesiphorus",
+                "en": "Porphyrius; with him Onesiphorus",
+                "pl": "Porfiriusz; z nim Onezyfor"
+            },
+            "sources": {
+                "mr-1584": "6 IX: #2",
+                "mr-1956": "6 IX: #2"
+            }
+        },
         "records/patrons/magnus/abb": {
             "name": {
                 "de": "Magnus von Füssen",

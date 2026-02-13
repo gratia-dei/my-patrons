@@ -23634,6 +23634,36 @@
             }
         }
     },
+    "patrons/porphyrius": {
+        "names": {
+            "la": "Porphyrius",
+            "en": "Porphyrius",
+            "pl": "Porfiriusz"
+        }
+    },
+    "patrons/porphyrius/one": {
+        "active": true,
+        "names": {
+            "la": "Porphyrius; cum eo Onesiphorus",
+            "en": "Porphyrius; with him Onesiphorus",
+            "pl": "Porfiriusz; z nim Onezyfor"
+        },
+        "died": [
+            ">33",
+            "<100"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/porphyrius": {
+                "active": true,
+                "names": {
+                    "la": "Porphyrius",
+                    "en": "Porphyrius",
+                    "pl": "Porfiriusz"
+                }
+            }
+        }
+    },
     "patrons/proclus": {
         "names": {
             "la": "Proclus",

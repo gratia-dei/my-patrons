@@ -1,0 +1,24 @@
+{
+    "names": {
+        "la": "Porphyrius",
+        "en": "Porphyrius"
+    },
+    "translations": {
+        "la": [
+            "Porphyrius"
+        ],
+        "en": [
+            "Porphyrius"
+        ],
+        "pl": [
+            "Porfiriusz"
+        ]
+    },
+    "links": {
+        "records/patrons/porphyrius/one": {
+            "la": "Porphyrius; cum eo Onesiphorus",
+            "en": "Porphyrius; with him Onesiphorus",
+            "pl": "Porfiriusz; z nim Onezyfor"
+        }
+    }
+}
