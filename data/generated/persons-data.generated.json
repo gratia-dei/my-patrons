@@ -21364,11 +21364,11 @@
         }
     },
     "patrons/narcissus/tur": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Narcyz Turchan",
-            "en": "Narcissus Turchan",
-            "la": "Narcissus Turchan"
+            "la": "Narcissus Turchan",
+            "en": "Narcissus Turchan"
         },
         "died": [
             "1942-03-19"

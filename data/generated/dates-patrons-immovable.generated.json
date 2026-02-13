@@ -2978,6 +2978,18 @@
         }
     },
     "03-19": {
+        "records/patrons/narcissus/tur": {
+            "name": {
+                "pl": "Narcyz Turchan",
+                "la": "Narcissus Turchan",
+                "en": "Narcissus Turchan"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 III",
+                "feast": "19 III",
+                "mr-2004": "19 III: #8"
+            }
+        },
         "records/patrons/sibyllina/bis": {
             "name": {
                 "it": "Sibillina Biscossi",

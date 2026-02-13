@@ -1,35 +1,51 @@
 {
-  "names": {
-    "pl": [
-      "Narcyz Turchan",
-      "Jan Turchan"
+    "names": {
+        "pl": [
+            "Narcyz Turchan",
+            "Jan Turchan"
+        ],
+        "la": [
+            "Narcissus Turchan"
+        ],
+        "en": [
+            "Narcissus Turchan"
+        ]
+    },
+    "forenames": ["narcissus"],
+    "surnames": [
+        {
+            "pl": "Turchan"
+        }
     ],
-    "en": [
-      "Narcissus Turchan"
-    ],
-    "la": [
-      "Narcissus Turchan"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "pl": "Turchan"
+    "active": true,
+
+    "born": ["1879-09-19"],
+    "died": ["1942-03-19"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1999-06-13"
+    },
+    "canonized": null,
+    "anniversary": ["03-19"],
+
+    "categories": ["vir", "martyr", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:mar./19#8"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/108-martiri-polacchi-della-ii-guerra-mondiale.html",
+        "gcatholic": "https://gcatholic.org/p/67756",
+        "wiki": "https://pl.wikipedia.org/wiki/Narcyz_Turchan"
     }
-  ],
-
-  "born": ["1879-09-19"],
-  "died": ["1942-03-19"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1999-06-13"
-  },
-
-  "also-in-martyrology": ["03-19"],
-
-  "forenames": ["narcissus"],
-  "categories": ["vir", "martyr", "presbyter"],
-
-  "order": ["ofm"]
 }
