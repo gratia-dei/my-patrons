@@ -1,42 +1,59 @@
 {
-  "names": {
-    "ja": [
-      "パウロ三木"
+    "names": {
+        "ja": [
+            "パウロ三木"
+        ],
+        "la": [
+            "Paulus Miki"
+        ],
+        "en": [
+            "Paul Miki"
+        ],
+        "pl": [
+            "Paweł Miki"
+        ]
+    },
+    "forenames": ["paulus"],
+    "surnames": [
+        {
+            "ja": "三木",
+            "la": "Miki",
+            "en": "Miki",
+            "pl": "Miki"
+        }
     ],
-    "en": [
-      "Paul Miki"
-    ],
-    "la": [
-      "Paulus Miki"
-    ],
-    "pl": [
-      "Paweł Miki"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "ja": "三木",
-      "en": "Miki",
-      "la": "Miki",
-      "pl": "Miki"
+    "active": true,
+
+    "born": ["~1565"],
+    "died": ["1597-02-05"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1627-09-14"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1862-06-08"
+    },
+    "anniversary": ["02-05"],
+
+    "categories": ["vir", "martyr"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Februarii/5#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./5#9", "1:feb./6#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/paolo-miki-pietro-battista-blasquez-e-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/65582",
+        "wiki": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Miki"
     }
-  ],
-
-  "born": ["~1565"],
-  "died": ["1597-02-05"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1627-09-14"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1862-06-08"
-  },
-
-  "also-in-martyrology": ["02-05", "02-06"],
-
-  "forenames": ["paulus"],
-  "categories": ["vir", "martyr"]
 }

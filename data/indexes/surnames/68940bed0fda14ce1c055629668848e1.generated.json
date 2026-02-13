@@ -1,17 +1,17 @@
 {
     "names": {
-        "en": "Miki",
         "la": "Miki",
+        "en": "Miki",
         "pl": "Miki"
     },
     "translations": {
         "ja": [
             "三木"
         ],
-        "en": [
+        "la": [
             "Miki"
         ],
-        "la": [
+        "en": [
             "Miki"
         ],
         "pl": [
@@ -21,8 +21,8 @@
     "links": {
         "records/patrons/paulus/mik": {
             "ja": "パウロ三木",
-            "en": "Paul Miki",
             "la": "Paulus Miki",
+            "en": "Paul Miki",
             "pl": "Paweł Miki"
         }
     }

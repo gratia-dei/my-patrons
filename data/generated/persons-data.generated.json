@@ -22344,11 +22344,11 @@
         }
     },
     "patrons/paulus/mik": {
-        "active": false,
+        "active": true,
         "names": {
             "ja": "パウロ三木",
-            "en": "Paul Miki",
             "la": "Paulus Miki",
+            "en": "Paul Miki",
             "pl": "Paweł Miki"
         },
         "died": [

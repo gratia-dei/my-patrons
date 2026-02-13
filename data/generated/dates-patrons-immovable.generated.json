@@ -1139,6 +1139,20 @@
                 "mr-2004": "5 II: #12"
             }
         },
+        "records/patrons/paulus/mik": {
+            "name": {
+                "ja": "パウロ三木",
+                "la": "Paulus Miki",
+                "en": "Paul Miki",
+                "pl": "Paweł Miki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 II",
+                "feast": "5 II",
+                "mr-1956": "5 II: #2",
+                "mr-2004": "5 II: #9"
+            }
+        },
         "records/patrons/agatha/cat": {
             "name": {
                 "la": "Agatha Catanensis",
@@ -1186,6 +1200,17 @@
             },
             "sources": {
                 "mr-1956": "6 II: #1"
+            }
+        },
+        "records/patrons/paulus/mik": {
+            "name": {
+                "ja": "パウロ三木",
+                "la": "Paulus Miki",
+                "en": "Paul Miki",
+                "pl": "Paweł Miki"
+            },
+            "sources": {
+                "mr-2004": "6 II: #1"
             }
         }
     },
