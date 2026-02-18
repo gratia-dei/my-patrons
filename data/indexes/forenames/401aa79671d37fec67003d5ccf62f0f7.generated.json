@@ -19,10 +19,10 @@
     },
     "links": {
         "records/patrons/pirminus/epi": {
-            "de": "Pirmin, Bischof",
-            "en": "Pirmin, bishop",
-            "la": "Pirminus, episcopus",
-            "pl": "Pirmin, biskup"
+            "de": "Pirminius von Hornbach",
+            "la": "Pirminus Hornbacensis",
+            "en": "Pirmin of Hornbach",
+            "pl": "Pirmin z Hornbach"
         }
     }
 }

@@ -24191,12 +24191,12 @@
         }
     },
     "patrons/pirminus/epi": {
-        "active": false,
+        "active": true,
         "names": {
-            "de": "Pirmin, Bischof",
-            "en": "Pirmin, bishop",
-            "la": "Pirminus, episcopus",
-            "pl": "Pirmin, biskup"
+            "de": "Pirminius von Hornbach",
+            "la": "Pirminus Hornbacensis",
+            "en": "Pirmin of Hornbach",
+            "pl": "Pirmin z Hornbach"
         },
         "died": [
             "~753",

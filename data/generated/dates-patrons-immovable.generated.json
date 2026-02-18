@@ -13071,6 +13071,19 @@
                 "reliable-death-anniversary": "3 XI",
                 "mr-2004": "3 XI: #15"
             }
+        },
+        "records/patrons/pirminus/epi": {
+            "name": {
+                "de": "Pirminius von Hornbach",
+                "la": "Pirminus Hornbacensis",
+                "en": "Pirmin of Hornbach",
+                "pl": "Pirmin z Hornbach"
+            },
+            "sources": {
+                "mr-1584": "3 XI: #9",
+                "mr-1956": "3 XI: #10",
+                "mr-2004": "3 XI: #8"
+            }
         }
     },
     "11-04": {
