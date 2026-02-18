@@ -23854,11 +23854,11 @@
         }
     },
     "patrons/philippa/mar": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Filippa Mareri",
-            "en": "Philippa Mareri",
             "la": "Philippa Mareri",
+            "en": "Philippa Mareri",
             "pl": "Filipa Mareri"
         },
         "died": [

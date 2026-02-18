@@ -2231,6 +2231,18 @@
         }
     },
     "02-16": {
+        "records/patrons/philippa/mar": {
+            "name": {
+                "it": "Filippa Mareri",
+                "la": "Philippa Mareri",
+                "en": "Philippa Mareri",
+                "pl": "Filipa Mareri"
+            },
+            "sources": {
+                "reliable-death-anniversary": "16 II",
+                "mr-2004": "16 II: #4"
+            }
+        },
         "records/patrons/iuliana/cam": {
             "name": {
                 "la": "Iuliana de Nicomedia",
