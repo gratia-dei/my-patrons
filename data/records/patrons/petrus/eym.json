@@ -1,42 +1,56 @@
 {
-  "names": {
-    "fr": [
-      "Pierre-Julien Eymard"
+    "names": {
+        "fr": [
+            "Pierre-Julien Eymard"
+        ],
+        "la": [
+            "Patrus Iulianus Eymard"
+        ],
+        "en": [
+            "Peter Julian Eymanrd"
+        ],
+        "pl": [
+            "Piotr Julian Eymard"
+        ]
+    },
+    "forenames": ["petrus", "iulianus"],
+    "surnames": [
+        {
+            "fr": "Eymard"
+        }
     ],
-    "en": [
-      "Peter Julian Eymanrd"
-    ],
-    "la": [
-      "Patrus Iulianus Eymard"
-    ],
-    "pl": [
-      "Piotr Julian Eymard"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "fr": "Eymard"
+    "active": true,
+
+    "born": ["1811-02-04"],
+    "died": ["1868-08-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1925-08-03"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1962-12-09"
+    },
+    "anniversary": ["08-02"],
+
+    "categories": ["vir", "sacerdos-dioecesanus", "presbyter", "institutor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:aug./1#16", "1:aug./2#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pierre-julien-eymard.html",
+        "gcatholic": "https://gcatholic.org/p/25811",
+        "wiki": "https://pl.wikipedia.org/wiki/Piotr_Julian_Eymard"
     }
-  ],
-
-  "born": ["1811-02-04"],
-  "died": ["1868-08-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1925-12-07"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1962-12-09"
-  },
-
-  "also-in-martyrology": ["08-01", "08-02"],
-
-  "forenames": ["petrus", "iulianus"],
-  "categories": ["vir", "sacerdos-dioecesanus", "presbyter", "institutor"],
-
-  "order": ["sss"],
-  "order-founder": ["sss"]
 }

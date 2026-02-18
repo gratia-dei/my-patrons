@@ -8598,6 +8598,18 @@
                 "mr-2004": "1 VIII: #19"
             }
         },
+        "records/patrons/petrus/eym": {
+            "name": {
+                "fr": "Pierre-Julien Eymard",
+                "la": "Patrus Iulianus Eymard",
+                "en": "Peter Julian Eymanrd",
+                "pl": "Piotr Julian Eymard"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 VIII",
+                "mr-2004": "1 VIII: #16"
+            }
+        },
         "records/patrons/fides/rom": {
             "name": {
                 "la": "Fides de Roma",
@@ -8633,6 +8645,18 @@
         }
     },
     "08-02": {
+        "records/patrons/petrus/eym": {
+            "name": {
+                "fr": "Pierre-Julien Eymard",
+                "la": "Patrus Iulianus Eymard",
+                "en": "Peter Julian Eymanrd",
+                "pl": "Piotr Julian Eymard"
+            },
+            "sources": {
+                "feast": "2 VIII",
+                "mr-2004": "2 VIII: #2"
+            }
+        },
         "records/patrons/alphonsus/lig": {
             "name": {
                 "it": "Alfonso Maria de' Liguori",
