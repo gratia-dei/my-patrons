@@ -1,29 +1,46 @@
 {
-  "names": {
-    "fr": [
-      "Pierre de Luxembourg"
-    ],
-    "en": [
-      "Peter of Luxembourg"
-    ],
-    "la": [
-      "Petrus de Luxemburgo"
-    ],
-    "pl": [
-      "Piotr de Luxemburgo"
-    ]
-  },
+    "names": {
+        "fr": [
+            "Pierre de Luxembourg"
+        ],
+        "la": [
+            "Petrus de Luxemburgo"
+        ],
+        "en": [
+            "Peter of Luxembourg"
+        ],
+        "pl": [
+            "Piotr de Luxemburgo"
+        ]
+    },
+    "forenames": ["petrus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1369-07-19"],
-  "died": ["1387-07-02"],
+    "active": true,
 
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1527-04-09"
-  },
+    "born": ["1369-07-19"],
+    "died": ["1387-07-02"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["07-02"],
+    "categories": ["vir", "episcopus"],
 
-  "forenames": ["petrus"],
-  "categories": ["vir", "episcopus"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./2#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/27038",
+        "wiki": "https://en.wikipedia.org/wiki/Pierre_de_Luxembourg"
+    }
 }

@@ -7146,6 +7146,18 @@
                 "mr-2004": "2 VII: #8"
             }
         },
+        "records/patrons/petrus/lux": {
+            "name": {
+                "fr": "Pierre de Luxembourg",
+                "la": "Petrus de Luxemburgo",
+                "en": "Peter of Luxembourg",
+                "pl": "Piotr de Luxemburgo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 VII",
+                "mr-2004": "2 VII: #6"
+            }
+        },
         "records/patrons/otho/bam": {
             "name": {
                 "de": "Otto von Bamberg",
