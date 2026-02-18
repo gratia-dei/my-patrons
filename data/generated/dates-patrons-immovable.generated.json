@@ -4403,6 +4403,18 @@
                 "feast": "3 IV",
                 "mr-2004": "3 IV: #11"
             }
+        },
+        "records/patrons/petrus/dan": {
+            "name": {
+                "pl": "Piotr Edward Dańkowski",
+                "la": "Petrus Eduardus Dańkowski",
+                "en": "Peter Edward Dankowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "3 IV",
+                "feast": "3 IV",
+                "mr-2004": "3 IV: #12"
+            }
         }
     },
     "04-04": {

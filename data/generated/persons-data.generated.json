@@ -23430,11 +23430,11 @@
         }
     },
     "patrons/petrus/dan": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Piotr Edward Dańkowski",
-            "en": "Peter Edward Dankowski",
-            "la": "Petrus Eduardus Dańkowski"
+            "la": "Petrus Eduardus Dańkowski",
+            "en": "Peter Edward Dankowski"
         },
         "died": [
             "1942-04-03"
