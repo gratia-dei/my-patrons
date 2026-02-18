@@ -1,28 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Filomena di Roma"
-    ],
-    "la": [
-      "Philomena Romana"
-    ],
-    "en": [
-      "Philomena of Rome"
-    ],
-    "pl": [
-      "Filomena z Rzymu"
-    ]
-  },
+    "names": {
+        "it": [
+            "Filomena di Roma"
+        ],
+        "la": [
+            "Philomena Romana"
+        ],
+        "en": [
+            "Philomena of Rome"
+        ],
+        "pl": [
+            "Filomena z Rzymu"
+        ]
+    },
+    "forenames": ["philomena"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~304"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1837-01-30"
-  },
+    "born": ["~291"],
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-mentioned": ["08-11"],
+    "categories": ["femina", "martyr"],
 
-  "forenames": ["philomena"],
-  "categories": ["femina", "martyr"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/72655",
+        "wiki": "https://pl.wikipedia.org/wiki/Filomena_(dziewica)"
+    }
 }

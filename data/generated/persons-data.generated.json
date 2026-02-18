@@ -24043,7 +24043,7 @@
         }
     },
     "patrons/philomena/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Filomena di Roma",
             "la": "Philomena Romana",
