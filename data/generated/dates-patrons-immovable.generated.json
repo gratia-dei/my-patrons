@@ -8352,6 +8352,16 @@
                 "mr-1956": "30 VII: #4",
                 "mr-2004": "30 VII: #3"
             }
+        },
+        "records/patrons/petrus/chr": {
+            "name": {
+                "la": "Petrus Chrysologus",
+                "en": "Peter Chrysologus",
+                "pl": "Piotr Chryzolog"
+            },
+            "sources": {
+                "mr-2004": "30 VII: #1"
+            }
         }
     },
     "07-31": {
@@ -8403,6 +8413,16 @@
                 "reliable-death-anniversary": "31 VII",
                 "feast": "31 VII",
                 "mr-2004": "31 VII: #13"
+            }
+        },
+        "records/patrons/petrus/chr": {
+            "name": {
+                "la": "Petrus Chrysologus",
+                "en": "Peter Chrysologus",
+                "pl": "Piotr Chryzolog"
+            },
+            "sources": {
+                "mr-2004": "31 VII: #7"
             }
         }
     },
@@ -14091,6 +14111,17 @@
                 "mr-2004": "2 XII: #8"
             }
         },
+        "records/patrons/petrus/chr": {
+            "name": {
+                "la": "Petrus Chrysologus",
+                "en": "Peter Chrysologus",
+                "pl": "Piotr Chryzolog"
+            },
+            "sources": {
+                "mr-1584": "2 XII: #6",
+                "mr-1956": "2 XII: #2"
+            }
+        },
         "records/patrons/franciscus/xav": {
             "name": {
                 "es": "Francisco Javier",
@@ -14153,6 +14184,16 @@
                 "mr-1584": "4 XII: #1",
                 "mr-1956": "4 XII: #2",
                 "mr-2004": "4 XII: #2"
+            }
+        },
+        "records/patrons/petrus/chr": {
+            "name": {
+                "la": "Petrus Chrysologus",
+                "en": "Peter Chrysologus",
+                "pl": "Piotr Chryzolog"
+            },
+            "sources": {
+                "mr-1956": "4 XII: #1"
             }
         }
     },

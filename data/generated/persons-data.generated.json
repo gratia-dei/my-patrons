@@ -23369,7 +23369,7 @@
         }
     },
     "patrons/petrus/chr": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Petrus Chrysologus",
             "en": "Peter Chrysologus",
