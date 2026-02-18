@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Petronius Bononiensis"
-    ],
-    "en": [
-      "Petronius of Bologna"
-    ],
-    "pl": [
-      "Petroniusz z Bolonii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Petronius Bononiensis"
+        ],
+        "en": [
+            "Petronius of Bologna"
+        ],
+        "pl": [
+            "Petroniusz z Bolonii"
+        ]
+    },
+    "forenames": ["petronius"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~450"],
+    "active": true,
 
-  "also-in-martyrology": ["10-04"],
+    "born": null,
+    "died": ["~450"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["petronius"],
-  "categories": ["vir", "confessor", "episcopus"]
+    "categories": ["vir", "confessor", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./4#7"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/4#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./4#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/63099",
+        "wiki": "https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ty_Petroniusz"
+    }
 }

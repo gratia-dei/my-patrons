@@ -23132,7 +23132,7 @@
         }
     },
     "patrons/petronius/bon": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Petronius Bononiensis",
             "en": "Petronius of Bologna",

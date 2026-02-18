@@ -11697,6 +11697,18 @@
                 "mr-1956": "4 X: #1",
                 "mr-2004": "4 X: #1"
             }
+        },
+        "records/patrons/petronius/bon": {
+            "name": {
+                "la": "Petronius Bononiensis",
+                "en": "Petronius of Bologna",
+                "pl": "Petroniusz z Bolonii"
+            },
+            "sources": {
+                "mr-1584": "4 X: #7",
+                "mr-1956": "4 X: #7",
+                "mr-2004": "4 X: #2"
+            }
         }
     },
     "10-05": {
