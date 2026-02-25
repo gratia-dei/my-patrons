@@ -11994,6 +11994,18 @@
         }
     },
     "10-10": {
+        "records/patrons/angela/tru": {
+            "name": {
+                "pl": "Angela Maria Truszkowska",
+                "la": "Angela Maria Truszkowska",
+                "en": "Angela Mary Truszkowska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "10 X",
+                "feast": "10 X",
+                "mr-2004": "10 X: #14"
+            }
+        },
         "records/patrons/franciscus/bor": {
             "name": {
                 "es": "Francisco de Borja",

@@ -229,6 +229,11 @@
         "ko": "안드레아",
         "pt": "André"
     },
+    "angela": {
+        "la": "Angela",
+        "en": "Angela",
+        "pl": "Angela"
+    },
     "angelus": {
         "la": "Angelus",
         "en": "Angel",
@@ -242,7 +247,7 @@
     },
     "aniela": {
         "la": "Aniela",
-        "en": "Angela",
+        "en": "Aniela",
         "pl": "Aniela"
     },
     "anna": {
@@ -603,6 +608,11 @@
         "en": "Cajetan",
         "pl": "Kajetan",
         "it": "Gaetano"
+    },
+    "camilla": {
+        "la": "Camilla",
+        "en": "Camille",
+        "pl": "Kamila"
     },
     "camillus": {
         "la": "Camillus",

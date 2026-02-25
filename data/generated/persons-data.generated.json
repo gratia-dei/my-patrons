@@ -2274,6 +2274,67 @@
             }
         }
     },
+    "patrons/angela": {
+        "names": {
+            "la": "Angela",
+            "en": "Angela",
+            "pl": "Angela"
+        }
+    },
+    "patrons/angela/tru": {
+        "active": true,
+        "names": {
+            "pl": "Angela Maria Truszkowska",
+            "la": "Angela Maria Truszkowska",
+            "en": "Angela Mary Truszkowska"
+        },
+        "died": [
+            "1899-10-10"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/angela": {
+                "active": true,
+                "names": {
+                    "la": "Angela",
+                    "en": "Angela",
+                    "pl": "Angela"
+                }
+            },
+            "forenames/maria": {
+                "active": true,
+                "names": {
+                    "la": "Maria",
+                    "en": "Mary",
+                    "pl": "Maria",
+                    "arc": "ܡܪܝܡ",
+                    "de": "Maria",
+                    "el": "Μαρία",
+                    "es": "María",
+                    "fr": "Marie",
+                    "it": "Maria",
+                    "ko": "마리아"
+                }
+            },
+            "forenames/sophia": {
+                "active": true,
+                "names": {
+                    "la": "Sophia",
+                    "en": "Sophia",
+                    "pl": "Zofia",
+                    "it": "Sofia"
+                }
+            },
+            "forenames/camilla": {
+                "active": true,
+                "names": {
+                    "la": "Camilla",
+                    "en": "Camille",
+                    "pl": "Kamila"
+                }
+            }
+        }
+    },
     "patrons/angelus": {
         "names": {
             "la": "Angelus",
@@ -18551,7 +18612,7 @@
                 "active": true,
                 "names": {
                     "la": "Aniela",
-                    "en": "Angela",
+                    "en": "Aniela",
                     "pl": "Aniela"
                 }
             }

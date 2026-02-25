@@ -62,6 +62,11 @@
             "en": "Anastasia of Sirmium",
             "pl": "Anastazja z Sirmium"
         },
+        "records/patrons/angela/tru": {
+            "pl": "Angela Maria Truszkowska",
+            "la": "Angela Maria Truszkowska",
+            "en": "Angela Mary Truszkowska"
+        },
         "records/patrons/anna/kim": {
             "ko": "김장금 안나",
             "la": "Anna Kim Chang-gŭm",

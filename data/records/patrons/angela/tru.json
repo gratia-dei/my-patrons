@@ -1,0 +1,53 @@
+{
+    "names": {
+        "pl": [
+            "Angela Maria Truszkowska",
+            "Zofia Kamila Truszkowska"
+        ],
+        "la": [
+            "Angela Maria Truszkowska",
+            "Sophia Camilla Truszkowska"
+        ],
+        "en": [
+            "Angela Mary Truszkowska",
+            "Sophia Camille Truszkowska"
+        ]
+    },
+    "forenames": ["angela", "maria", "sophia", "camilla"],
+    "surnames": [
+        {
+            "pl": "Truszkowska"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1825-05-16"],
+    "died": ["1899-10-10"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1993-04-18"
+    },
+    "canonized": null,
+    "anniversary": ["10-10"],
+
+    "categories": ["femina", "virgo"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./10#14"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/maria-angela-truszkowska.html",
+        "gcatholic": "https://gcatholic.org/p/68488",
+        "wiki": "https://pl.wikipedia.org/wiki/Maria_Angela_Truszkowska"
+    }
+}

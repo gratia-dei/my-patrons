@@ -3604,6 +3604,9 @@
     "b33bfc4acd0780c747b8568032ee468b": {
         "pl": "Sekundus"
     },
+    "b36104e8d6a7e47a01a5681cefb6303d": {
+        "la": "Camilla"
+    },
     "b37136fd43d7f4ea8b0c38a3d2d1634f": {
         "fr": "Guiraud"
     },
@@ -4019,7 +4022,9 @@
         "en": "Richard"
     },
     "c54e140a2dd945e845759e651c934738": {
-        "en": "Angela"
+        "la": "Angela",
+        "en": "Angela",
+        "pl": "Angela"
     },
     "c55288ae2beee50cab1f6402faa0b5ab": {
         "la": "Thecla",
@@ -4156,6 +4161,7 @@
     },
     "ccccb075f22a7524a19bdd2ae1b70b4a": {
         "la": "Aniela",
+        "en": "Aniela",
         "pl": "Aniela"
     },
     "ccfef8af76dc8b1c1e7c40e869449c81": {
@@ -4589,6 +4595,9 @@
         "pl": "Phụng",
         "vi": "Phụng"
     },
+    "e2cf99ca82a7e829d2a4ac85c48154d0": {
+        "en": "Camille"
+    },
     "e2db23987793c3e9164ebc12af43e2ce": {
         "it": "Cesare"
     },
@@ -4627,6 +4636,9 @@
     },
     "e49697971b6be50bbedad583de84bf74": {
         "la": "Bertholdus"
+    },
+    "e4a46a4fa60c8f744548948c65abc87a": {
+        "pl": "Kamila"
     },
     "e4c78fc2807e476471c627ae32ad5e0c": {
         "pl": "Szymon"
