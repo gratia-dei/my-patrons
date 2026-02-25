@@ -393,7 +393,7 @@
     },
 
     "lang-brochure-patron-roles": {
-        "pl": "<strong>6 ról</strong> zapraszanych <em>Patronów</em>:"
+        "pl": "6 ról zapraszanych <em>Patronów</em>:"
     },
 
     "lang-brochure-patron-role-level-1": {
@@ -437,7 +437,7 @@
     },
 
     "lang-brochure-patron-additions": {
-        "pl": "oraz dodatkowo:"
+        "pl": "Dodatkowo:"
     },
 
     "lang-brochure-patron-addition-missions": {
