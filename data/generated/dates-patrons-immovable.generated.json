@@ -8781,6 +8781,17 @@
                 "mr-1584": "4 VIII: #1",
                 "mr-1956": "4 VIII: #1"
             }
+        },
+        "records/patrons/perpetua/rom": {
+            "name": {
+                "la": "Perpetua Romana",
+                "en": "Perpetua of Rome",
+                "pl": "Perpetua z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "4 VIII: #9",
+                "mr-1956": "4 VIII: #4"
+            }
         }
     },
     "08-05": {

@@ -23185,6 +23185,29 @@
             }
         }
     },
+    "patrons/perpetua/rom": {
+        "active": true,
+        "names": {
+            "la": "Perpetua Romana",
+            "en": "Perpetua of Rome",
+            "pl": "Perpetua z Rzymu"
+        },
+        "died": [
+            "~80"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/perpetua": {
+                "active": true,
+                "names": {
+                    "la": "Perpetua",
+                    "en": "Perpetua",
+                    "pl": "Perpetua",
+                    "ko": "페르페투아"
+                }
+            }
+        }
+    },
     "patrons/petronius": {
         "names": {
             "la": "Petronius",

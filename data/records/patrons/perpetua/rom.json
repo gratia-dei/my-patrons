@@ -1,0 +1,43 @@
+{
+    "names": {
+        "la": [
+            "Perpetua Romana"
+        ],
+        "en": [
+            "Perpetua of Rome"
+        ],
+        "pl": [
+            "Perpetua z Rzymu"
+        ]
+    },
+    "forenames": ["perpetua"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~80"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["femina", "coniunx"],
+
+    "data-links": {
+        "mr-1584": ["1:Aug./4#9"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Augusti/4#4"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Perpetua_(m%C4%99czennica_rzymska)"
+    }
+}
