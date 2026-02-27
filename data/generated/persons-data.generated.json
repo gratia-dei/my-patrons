@@ -24480,6 +24480,29 @@
             "el": "Πολύκαρπος"
         }
     },
+    "patrons/polycarpus/rom": {
+        "active": true,
+        "names": {
+            "la": "Polycarpus de Roma",
+            "en": "Polycarp of Rome",
+            "pl": "Polikarp z Rzymu"
+        },
+        "died": [
+            "~300"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/polycarpus": {
+                "active": true,
+                "names": {
+                    "la": "Polycarpus",
+                    "en": "Polycarp",
+                    "pl": "Polikarp",
+                    "el": "Πολύκαρπος"
+                }
+            }
+        }
+    },
     "patrons/polycarpus/smy": {
         "active": true,
         "names": {

@@ -17,6 +17,11 @@
         ]
     },
     "links": {
+        "records/patrons/polycarpus/rom": {
+            "la": "Polycarpus de Roma",
+            "en": "Polycarp of Rome",
+            "pl": "Polikarp z Rzymu"
+        },
         "records/patrons/polycarpus/smy": {
             "el": "Πολύκαρπος Σμύρνης",
             "la": "Polycarpus Smyrnensis",

@@ -910,6 +910,11 @@
             "en": "Pio of Pietrelcina",
             "pl": "Pio z Pietrelciny"
         },
+        "records/patrons/polycarpus/rom": {
+            "la": "Polycarpus de Roma",
+            "en": "Polycarp of Rome",
+            "pl": "Polikarp z Rzymu"
+        },
         "records/patrons/raphael/chy": {
             "pl": "Rafał Chyliński",
             "la": "Raphael Chylinski",

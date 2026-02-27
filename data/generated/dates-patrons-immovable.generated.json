@@ -2639,6 +2639,17 @@
         }
     },
     "02b23": {
+        "records/patrons/polycarpus/rom": {
+            "name": {
+                "la": "Polycarpus de Roma",
+                "en": "Polycarp of Rome",
+                "pl": "Polikarp z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "23 II: #3",
+                "mr-1956": "23 II: #8"
+            }
+        },
         "records/patrons/polycarpus/smy": {
             "name": {
                 "el": "Πολύκαρπος Σμύρνης",
@@ -2782,6 +2793,17 @@
         }
     },
     "02n23": {
+        "records/patrons/polycarpus/rom": {
+            "name": {
+                "la": "Polycarpus de Roma",
+                "en": "Polycarp of Rome",
+                "pl": "Polikarp z Rzymu"
+            },
+            "sources": {
+                "mr-1584": "23 II: #4",
+                "mr-1956": "23 II: #9"
+            }
+        },
         "records/patrons/polycarpus/smy": {
             "name": {
                 "el": "Πολύκαρπος Σμύρνης",
