@@ -1,0 +1,43 @@
+    {
+        "names": {
+            "la": [
+                "Duodecim martyres Smyrnes e Philadelphia"
+            ],
+            "en": [
+                "The Twelve Martyrs of Smyrna from Philadelphia"
+            ],
+            "pl": [
+                "Dwunastu Męczenników Smyrneńskich z Filadelfii"
+            ]
+        },
+    "forenames": ["multa"],
+    "surnames": null,
+    "epithets": null,
+
+    "active": true,
+
+    "born": null,
+    "died": ["~156"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["socia", "martyr"],
+
+    "data-links": {
+        "mr-1584": ["2:Ianu./26#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["2:Februarii/23n#3", "2:Februarii/23b#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": null,
+        "wiki": "https://pl.wikipedia.org/wiki/Polikarp_ze_Smyrny"
+    }
+}

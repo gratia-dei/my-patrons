@@ -742,6 +742,16 @@
                 "mr-1956": "26 I: #1"
             }
         },
+        "records/patrons/multa/dus": {
+            "name": {
+                "la": "Duodecim martyres Smyrnes e Philadelphia",
+                "en": "The Twelve Martyrs of Smyrna from Philadelphia",
+                "pl": "Dwunastu Męczenników Smyrneńskich z Filadelfii"
+            },
+            "sources": {
+                "mr-1584": "26 I: #1"
+            }
+        },
         "records/patrons/timotheus/eph": {
             "name": {
                 "el": "Τιμόθεος",
@@ -2629,17 +2639,6 @@
         }
     },
     "02b23": {
-        "records/patrons/petrus/dam": {
-            "name": {
-                "it": "Pier Damiani",
-                "la": "Petrus Damiani",
-                "en": "Peter Damian",
-                "pl": "Piotr Damiani"
-            },
-            "sources": {
-                "mr-1956": "23 II: #1"
-            }
-        },
         "records/patrons/polycarpus/smy": {
             "name": {
                 "el": "Πολύκαρπος Σμύρνης",
@@ -2649,6 +2648,27 @@
             },
             "sources": {
                 "mr-1956": "23 II: #2"
+            }
+        },
+        "records/patrons/multa/dus": {
+            "name": {
+                "la": "Duodecim martyres Smyrnes e Philadelphia",
+                "en": "The Twelve Martyrs of Smyrna from Philadelphia",
+                "pl": "Dwunastu Męczenników Smyrneńskich z Filadelfii"
+            },
+            "sources": {
+                "mr-1956": "23 II: #2"
+            }
+        },
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-1956": "23 II: #1"
             }
         }
     },
@@ -2762,17 +2782,6 @@
         }
     },
     "02n23": {
-        "records/patrons/petrus/dam": {
-            "name": {
-                "it": "Pier Damiani",
-                "la": "Petrus Damiani",
-                "en": "Peter Damian",
-                "pl": "Piotr Damiani"
-            },
-            "sources": {
-                "mr-1956": "23 II: #2"
-            }
-        },
         "records/patrons/polycarpus/smy": {
             "name": {
                 "el": "Πολύκαρπος Σμύρνης",
@@ -2782,6 +2791,27 @@
             },
             "sources": {
                 "mr-1956": "23 II: #3"
+            }
+        },
+        "records/patrons/multa/dus": {
+            "name": {
+                "la": "Duodecim martyres Smyrnes e Philadelphia",
+                "en": "The Twelve Martyrs of Smyrna from Philadelphia",
+                "pl": "Dwunastu Męczenników Smyrneńskich z Filadelfii"
+            },
+            "sources": {
+                "mr-1956": "23 II: #3"
+            }
+        },
+        "records/patrons/petrus/dam": {
+            "name": {
+                "it": "Pier Damiani",
+                "la": "Petrus Damiani",
+                "en": "Peter Damian",
+                "pl": "Piotr Damiani"
+            },
+            "sources": {
+                "mr-1956": "23 II: #2"
             }
         }
     },

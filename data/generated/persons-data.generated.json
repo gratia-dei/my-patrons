@@ -21558,6 +21558,28 @@
             }
         }
     },
+    "patrons/multa/dus": {
+        "active": true,
+        "names": {
+            "la": "Duodecim martyres Smyrnes e Philadelphia",
+            "en": "The Twelve Martyrs of Smyrna from Philadelphia",
+            "pl": "Dwunastu Męczenników Smyrneńskich z Filadelfii"
+        },
+        "died": [
+            "~156"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/multa": {
+                "active": true,
+                "names": {
+                    "la": "Cum multis nominibus",
+                    "en": "With many names",
+                    "pl": "Z wieloma imionami"
+                }
+            }
+        }
+    },
     "patrons/multa/dva": {
         "active": true,
         "names": {
