@@ -730,6 +730,18 @@
                 "mr-2004": "26 I: #8"
             }
         },
+        "records/patrons/polycarpus/smy": {
+            "name": {
+                "el": "Πολύκαρπος Σμύρνης",
+                "la": "Polycarpus Smyrnensis",
+                "en": "Polycarp of Smyrna",
+                "pl": "Polikarp ze Smyrny"
+            },
+            "sources": {
+                "mr-1584": "26 I: #1",
+                "mr-1956": "26 I: #1"
+            }
+        },
         "records/patrons/timotheus/eph": {
             "name": {
                 "el": "Τιμόθεος",
@@ -2510,6 +2522,17 @@
                 "feast": "23 II",
                 "mr-2004": "23 II: #9"
             }
+        },
+        "records/patrons/polycarpus/smy": {
+            "name": {
+                "el": "Πολύκαρπος Σμύρνης",
+                "la": "Polycarpus Smyrnensis",
+                "en": "Polycarp of Smyrna",
+                "pl": "Polikarp ze Smyrny"
+            },
+            "sources": {
+                "mr-2004": "23 II: #1"
+            }
         }
     },
     "02-24": {
@@ -2615,6 +2638,17 @@
             },
             "sources": {
                 "mr-1956": "23 II: #1"
+            }
+        },
+        "records/patrons/polycarpus/smy": {
+            "name": {
+                "el": "Πολύκαρπος Σμύρνης",
+                "la": "Polycarpus Smyrnensis",
+                "en": "Polycarp of Smyrna",
+                "pl": "Polikarp ze Smyrny"
+            },
+            "sources": {
+                "mr-1956": "23 II: #2"
             }
         }
     },
@@ -2737,6 +2771,17 @@
             },
             "sources": {
                 "mr-1956": "23 II: #2"
+            }
+        },
+        "records/patrons/polycarpus/smy": {
+            "name": {
+                "el": "Πολύκαρπος Σμύρνης",
+                "la": "Polycarpus Smyrnensis",
+                "en": "Polycarp of Smyrna",
+                "pl": "Polikarp ze Smyrny"
+            },
+            "sources": {
+                "mr-1956": "23 II: #3"
             }
         }
     },

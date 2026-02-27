@@ -1,24 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Πολύκαρπος Σμύρνης"
-    ],
-    "en": [
-      "Polycarp of Smyrna"
-    ],
-    "la": [
-      "Polycarpus Smyrnensis"
-    ],
-    "pl": [
-      "Polikarp ze Smyrny"
-    ]
-  },
+    "names": {
+        "el": [
+            "Πολύκαρπος Σμύρνης"
+        ],
+        "la": [
+            "Polycarpus Smyrnensis"
+        ],
+        "en": [
+            "Polycarp of Smyrna"
+        ],
+        "pl": [
+            "Polikarp ze Smyrny"
+        ]
+    },
+    "forenames": ["polycarpus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["~69"],
-  "died": ["~156"],
+    "active": true,
 
-  "also-in-martyrology": ["01-26", "02-23"],
+    "born": null,
+    "died": ["~156"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["polycarpus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./26#1"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/26#1", "1:Februarii/23n#3", "1:Februarii/23b#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./23#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/69132",
+        "wiki": "https://pl.wikipedia.org/wiki/Polikarp_ze_Smyrny"
+    }
 }
