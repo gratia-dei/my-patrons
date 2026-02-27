@@ -24332,11 +24332,11 @@
         }
     },
     "patrons/pius/5pp": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Pio V",
-            "en": "Pope Pius V",
             "la": "Pius Pp. V",
+            "en": "Pope Pius V",
             "pl": "Pius V"
         },
         "died": [

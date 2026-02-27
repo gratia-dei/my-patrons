@@ -5159,6 +5159,18 @@
                 "mr-2004": "30 IV: #20"
             }
         },
+        "records/patrons/pius/5pp": {
+            "name": {
+                "it": "Pio V",
+                "la": "Pius Pp. V",
+                "en": "Pope Pius V",
+                "pl": "Pius V"
+            },
+            "sources": {
+                "feast": "30 IV",
+                "mr-2004": "30 IV: #1"
+            }
+        },
         "records/patrons/catharina/sen": {
             "name": {
                 "it": "Caterina da Siena",
@@ -5183,6 +5195,19 @@
                 "reliable-death-anniversary": "1 V",
                 "feast": "1 V",
                 "mr-2004": "1 V: #23"
+            }
+        },
+        "records/patrons/pius/5pp": {
+            "name": {
+                "it": "Pio V",
+                "la": "Pius Pp. V",
+                "en": "Pope Pius V",
+                "pl": "Pius V"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 V",
+                "mr-1956": "1 V: #2",
+                "mr-2004": "1 V: #19"
             }
         },
         "records/patrons/philippus/apo": {
@@ -5427,6 +5452,17 @@
                 "mr-1584": "5 V: #7",
                 "mr-1956": "5 V: #8",
                 "mr-2004": "5 V: #3"
+            }
+        },
+        "records/patrons/pius/5pp": {
+            "name": {
+                "it": "Pio V",
+                "la": "Pius Pp. V",
+                "en": "Pope Pius V",
+                "pl": "Pius V"
+            },
+            "sources": {
+                "mr-1956": "5 V: #1"
             }
         }
     },
