@@ -1182,12 +1182,28 @@
       }
     },
     "notes": {
+      "time": {
+        "type": {
+          "time": [0, 1]
+        },
+        "name": {
+          "pl": "godzina przyjęcia Komunii Świętej"
+        }
+      },
       "place": {
         "type": {
           "place": [0, 1]
         },
         "name": {
           "pl": "miejsce przyjęcia Komunii Świętej"
+        }
+      },
+      "cemetery-time": {
+        "type": {
+          "time": [0, 1]
+        },
+        "name": {
+          "pl": "godzina modlitwy na cmentarzu"
         }
       },
       "cemetery": {
@@ -1885,6 +1901,14 @@
       }
     },
     "notes": {
+      "time": {
+        "type": {
+          "time": [0, 1]
+        },
+        "name": {
+          "pl": "godzina powierzenia Misji Posłańca"
+        }
+      },
       "place": {
         "type": {
           "place-for-messenger-missions": [1, 1]
@@ -1992,6 +2016,22 @@
         },
         "name": {
           "pl": "usłyszane imię"
+        }
+      },
+      "time": {
+        "type": {
+          "time": [0, 0]
+        },
+        "name": {
+          "pl": "godziny wykonanych kroków"
+        }
+      },
+      "place": {
+        "type": {
+          "place": [0, 0]
+        },
+        "name": {
+          "pl": "miejsca wykonanych kroków"
         }
       },
       "other": {
