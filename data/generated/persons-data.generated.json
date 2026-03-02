@@ -25480,17 +25480,25 @@
         }
     },
     "patrons/romualdus/cam": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Romualdo di Camaldoli",
-            "en": "Romuald of Camaldoli",
             "la": "Romualdus Camaldulensis",
+            "en": "Romuald of Camaldoli",
             "pl": "Romuald z Camaldoli"
         },
         "died": [
             "1027-06-19"
         ],
-        "feasts": [],
+        "feasts": {
+            "feasts/trp": {
+                "active": true,
+                "names": {
+                    "la": "Translatio corporis sancti Romualdi Abbatis",
+                    "pl": "Przeniesienie ciała świętego Romualda Opata"
+                }
+            }
+        },
         "forenames": {
             "forenames/romualdus": {
                 "active": true,

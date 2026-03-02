@@ -1,41 +1,68 @@
 {
-  "names": {
-    "it": [
-      "Romualdo di Camaldoli"
+    "names": {
+        "it": [
+            "Romualdo di Camaldoli"
+        ],
+        "la": [
+            "Romualdus Camaldulensis"
+        ],
+        "en": [
+            "Romuald of Camaldoli"
+        ],
+        "pl": [
+            "Romuald z Camaldoli"
+        ]
+    },
+    "forenames": ["romualdus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "it": "Padre dei Monaci Camaldolesi",
+            "la": "Monachorum Camaldulensium Pater",
+            "en": "Father of the Camaldolese Monks",
+            "pl": "Ojciec Mnichów Kamedułów"
+        }
     ],
-    "en": [
-      "Romuald of Camaldoli"
-    ],
-    "la": [
-      "Romualdus Camaldulensis"
-    ],
-    "pl": [
-      "Romuald z Camaldoli"
-    ]
-  },
 
-  "epithets": [
-    {
-      "it": "Padre dei Monaci Camaldolesi",
-      "en": "Father of the Camaldolese Monks",
-      "la": "Monachorum Camaldulensium Pater",
-      "pl": "Ojciec Mnichów Kamedułów"
+    "active": true,
+
+    "born": ["~951"],
+    "died": ["1027-06-19"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "abbas", "monachus", "eremita", "anachoreta"],
+
+    "data-links": {
+        "mr-1584": ["1:Iuni./19#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Junii/19#3"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iun./19#1"],
+        "mr-2004-movable": []
+    },
+
+    "feasts": {
+        "trp": {
+            "data-links": {
+                "mr-1584": [],
+                "mr-1584-movable": [],
+
+                "mr-1956": ["1:Februarii/7#1"],
+                "mr-1956-movable": [],
+
+                "mr-2004": [],
+                "mr-2004-movable": []
+            }
+        }
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68906",
+        "wiki": "https://pl.wikipedia.org/wiki/Romuald_z_Camaldoli"
     }
-  ],
-
-  "born": ["~951"],
-  "died": ["1027-06-19"],
-
-  "canonized": {
-    "type": "equipollently",
-    "date": "1595"
-  },
-
-  "also-in-martyrology": ["06-19"],
-
-  "forenames": ["romualdus"],
-  "categories": ["vir", "abbas", "monachus", "eremita", "anachoreta"],
-
-  "order": ["osbcam"],
-  "order-founder": ["osbcam"]
 }

@@ -195,6 +195,17 @@
             }
         }
     },
+    "02-07": {
+        "records/patrons/romualdus/cam#trp": {
+            "name": {
+                "la": "Romualdus Camaldulensis (Translatio corporis sancti Romualdi Abbatis)",
+                "pl": "Romuald z Camaldoli (Przeniesienie ciała świętego Romualda Opata)"
+            },
+            "sources": {
+                "mr-1956": "7 II: #1"
+            }
+        }
+    },
     "02-11": {
         "records/patrons/maria/naz#lou": {
             "name": {

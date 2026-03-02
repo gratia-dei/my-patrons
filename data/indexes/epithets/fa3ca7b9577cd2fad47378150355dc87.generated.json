@@ -6,11 +6,11 @@
         "it": [
             "Padre dei Monaci Camaldolesi"
         ],
-        "en": [
-            "Father of the Camaldolese Monks"
-        ],
         "la": [
             "Monachorum Camaldulensium Pater"
+        ],
+        "en": [
+            "Father of the Camaldolese Monks"
         ],
         "pl": [
             "Ojciec Mnichów Kamedułów"
@@ -19,8 +19,8 @@
     "links": {
         "records/patrons/romualdus/cam": {
             "it": "Romualdo di Camaldoli",
-            "en": "Romuald of Camaldoli",
             "la": "Romualdus Camaldulensis",
+            "en": "Romuald of Camaldoli",
             "pl": "Romuald z Camaldoli"
         }
     }

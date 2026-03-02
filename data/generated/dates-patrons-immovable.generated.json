@@ -7141,6 +7141,20 @@
         }
     },
     "06-19": {
+        "records/patrons/romualdus/cam": {
+            "name": {
+                "it": "Romualdo di Camaldoli",
+                "la": "Romualdus Camaldulensis",
+                "en": "Romuald of Camaldoli",
+                "pl": "Romuald z Camaldoli"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 VI",
+                "mr-1584": "19 VI: #6",
+                "mr-1956": "19 VI: #3",
+                "mr-2004": "19 VI: #1"
+            }
+        },
         "records/patrons/iuliana/fal": {
             "name": {
                 "it": "Giuliana Falconieri",
