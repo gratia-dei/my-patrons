@@ -270,6 +270,19 @@
                 "mr-2004": "6 I: #6"
             }
         },
+        "records/patrons/raphaela/por": {
+            "name": {
+                "es": "Rafaela María del Sagrado Corazón",
+                "la": "Raphaela Maria a Sacro Corde",
+                "en": "Rafaela Mary of the Sacred Heart",
+                "pl": "Rafaela Maria od Najświętszego Serca"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "feast": "6 I",
+                "mr-2004": "6 I: #10"
+            }
+        },
         "records/patrons/melanius/rhe": {
             "name": {
                 "fr": "Melaine de Rennes",
@@ -6962,12 +6975,12 @@
                 "mr-2004": "16 VI: #13"
             }
         },
-        "records/patrons/iulitta/qui": {
+        "records/patrons/quiricus/iul": {
             "name": {
-                "el": "Ιουλίττα ο Ταρσεύς",
-                "la": "Iulitta Tarsensis",
-                "en": "Julitta of Tarsus",
-                "pl": "Julitta z Tarsu"
+                "el": "Κυρίκος ο Ταρσεύς",
+                "la": "Quiricus Tarsensis",
+                "en": "Cyricus of Tarsus",
+                "pl": "Cyryk z Tarsu"
             },
             "sources": {
                 "mr-1584": "16 VI: #2",
@@ -6975,12 +6988,12 @@
                 "mr-2004": "16 VI: #1"
             }
         },
-        "records/patrons/quiricus/iul": {
+        "records/patrons/iulitta/qui": {
             "name": {
-                "el": "Κυρίκος ο Ταρσεύς",
-                "la": "Quiricus Tarsensis",
-                "en": "Cyricus of Tarsus",
-                "pl": "Cyryk z Tarsu"
+                "el": "Ιουλίττα ο Ταρσεύς",
+                "la": "Iulitta Tarsensis",
+                "en": "Julitta of Tarsus",
+                "pl": "Julitta z Tarsu"
             },
             "sources": {
                 "mr-1584": "16 VI: #2",
