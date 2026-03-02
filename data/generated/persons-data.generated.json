@@ -25712,12 +25712,12 @@
         }
     },
     "patrons/rupertus/may": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Rupert Mayer",
-            "pl": "Rupert Mayer",
+            "la": "Rupertus Mayer",
             "en": "Rupert Mayer",
-            "la": "Rupertus Mayer"
+            "pl": "Rupert Mayer"
         },
         "died": [
             "1945-11-01"

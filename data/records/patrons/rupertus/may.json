@@ -1,37 +1,53 @@
 {
-  "names": {
-    "de": [
-      "Rupert Mayer"
+    "names": {
+        "de": [
+            "Rupert Mayer"
+        ],
+        "la": [
+            "Rupertus Mayer"
+        ],
+        "en": [
+            "Rupert Mayer"
+        ],
+        "pl": [
+            "Rupert Mayer"
+        ]
+    },
+    "forenames": ["rupertus"],
+    "surnames": [
+        {
+            "de": "Mayer"
+        }
     ],
-    "pl": [
-      "Rupert Mayer"
-    ],
-    "en": [
-      "Rupert Mayer"
-    ],
-    "la": [
-      "Rupertus Mayer"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "de": "Mayer"
+    "active": true,
+
+    "born": ["1876-01-23"],
+    "died": ["1945-11-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-05-03"
+    },
+    "canonized": null,
+    "anniversary": ["11-01"],
+
+    "categories": ["vir", "presbyter"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./1#17"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/rupert-mayer.html",
+        "gcatholic": "https://gcatholic.org/p/68466",
+        "wiki": "https://pl.wikipedia.org/wiki/Rupert_Mayer"
     }
-  ],
-
-  "born": ["1876-01-23"],
-  "died": ["1945-11-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1987-05-03"
-  },
-
-  "also-in-martyrology": ["11-01"],
-
-  "forenames": ["rupertus"],
-  "categories": ["vir", "presbyter"],
-
-  "order": ["sj"]
 }

@@ -13230,6 +13230,19 @@
                 "mr-2004": "1 XI: #14"
             }
         },
+        "records/patrons/rupertus/may": {
+            "name": {
+                "de": "Rupert Mayer",
+                "la": "Rupertus Mayer",
+                "en": "Rupert Mayer",
+                "pl": "Rupert Mayer"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 XI",
+                "feast": "1 XI",
+                "mr-2004": "1 XI: #17"
+            }
+        },
         "records/patrons/benignus/div": {
             "name": {
                 "fr": "Bénigne de Dijon",
