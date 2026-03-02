@@ -6848,6 +6848,19 @@
         }
     },
     "06-07": {
+        "records/patrons/robertus/nov": {
+            "name": {
+                "en": "Robert of Newminster",
+                "la": "Robertus Novomonasteriensis",
+                "pl": "Robert z Newminster"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 VI",
+                "mr-1584": "7 VI: #4",
+                "mr-1956": "7 VI: #5",
+                "mr-2004": "7 VI: #3"
+            }
+        },
         "records/patrons/paulus/con": {
             "name": {
                 "la": "Paulus Constantinopolitanus",

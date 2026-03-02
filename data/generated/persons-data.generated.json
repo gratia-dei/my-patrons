@@ -25280,10 +25280,10 @@
         }
     },
     "patrons/robertus/nov": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Robertus Novomonasteriensis",
             "en": "Robert of Newminster",
+            "la": "Robertus Novomonasteriensis",
             "pl": "Robert z Newminster"
         },
         "died": [
