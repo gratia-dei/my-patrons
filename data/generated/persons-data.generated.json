@@ -25423,11 +25423,11 @@
         }
     },
     "patrons/romanus/arc": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Roman Archutowski",
-            "en": "Roman Archutowski",
-            "la": "Romanus Archutowski"
+            "la": "Romanus Archutowski",
+            "en": "Roman Archutowski"
         },
         "died": [
             "1943-04-18"

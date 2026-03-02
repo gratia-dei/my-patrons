@@ -4987,6 +4987,18 @@
                 "mr-2004": "18 IV: #15"
             }
         },
+        "records/patrons/romanus/arc": {
+            "name": {
+                "pl": "Roman Archutowski",
+                "la": "Romanus Archutowski",
+                "en": "Roman Archutowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 IV",
+                "feast": "18 IV",
+                "mr-2004": "18 IV: #17"
+            }
+        },
         "records/patrons/athanasia/aeg": {
             "name": {
                 "el": "Αθανασία της Αιγίνης",
