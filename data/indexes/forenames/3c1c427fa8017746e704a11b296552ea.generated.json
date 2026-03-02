@@ -14,6 +14,7 @@
             "Julita"
         ],
         "el": [
+            "Ιουλίττα",
             "Ιουλίτα"
         ]
     },
@@ -29,6 +30,12 @@
             "la": "Iulitta Kim",
             "en": "Juliet Kim",
             "pl": "Julita Kim"
+        },
+        "records/patrons/iulitta/qui": {
+            "el": "Ιουλίττα ο Ταρσεύς",
+            "la": "Iulitta Tarsensis",
+            "en": "Julitta of Tarsus",
+            "pl": "Julitta z Tarsu"
         }
     }
 }

@@ -15802,7 +15802,7 @@
             "la": "Iulitta",
             "en": "Juliet",
             "pl": "Julita",
-            "el": "Ιουλίτα"
+            "el": "Ιουλίττα"
         }
     },
     "patrons/iulitta/cae": {
@@ -15824,7 +15824,7 @@
                     "la": "Iulitta",
                     "en": "Juliet",
                     "pl": "Julita",
-                    "el": "Ιουλίτα"
+                    "el": "Ιουλίττα"
                 }
             }
         }
@@ -15848,7 +15848,31 @@
                     "la": "Iulitta",
                     "en": "Juliet",
                     "pl": "Julita",
-                    "el": "Ιουλίτα"
+                    "el": "Ιουλίττα"
+                }
+            }
+        }
+    },
+    "patrons/iulitta/qui": {
+        "active": true,
+        "names": {
+            "el": "Ιουλίττα ο Ταρσεύς",
+            "la": "Iulitta Tarsensis",
+            "en": "Julitta of Tarsus",
+            "pl": "Julitta z Tarsu"
+        },
+        "died": [
+            "~304"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iulitta": {
+                "active": true,
+                "names": {
+                    "la": "Iulitta",
+                    "en": "Juliet",
+                    "pl": "Julita",
+                    "el": "Ιουλίττα"
                 }
             }
         }
@@ -24711,12 +24735,12 @@
         }
     },
     "patrons/quiricus/iul": {
-        "active": false,
+        "active": true,
         "names": {
-            "el": "Κήρυκος /+ Ιουλίττα",
-            "en": "Cyricus /+ Julitta",
-            "la": "Quiricus /+ Iulitta",
-            "pl": "Cyryk /+ Julita"
+            "el": "Κυρίκος ο Ταρσεύς",
+            "la": "Quiricus Tarsensis",
+            "en": "Cyricus of Tarsus",
+            "pl": "Cyryk z Tarsu"
         },
         "died": [
             "~304"

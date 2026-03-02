@@ -6961,6 +6961,32 @@
                 "feast": "16 VI",
                 "mr-2004": "16 VI: #13"
             }
+        },
+        "records/patrons/iulitta/qui": {
+            "name": {
+                "el": "Ιουλίττα ο Ταρσεύς",
+                "la": "Iulitta Tarsensis",
+                "en": "Julitta of Tarsus",
+                "pl": "Julitta z Tarsu"
+            },
+            "sources": {
+                "mr-1584": "16 VI: #2",
+                "mr-1956": "16 VI: #3",
+                "mr-2004": "16 VI: #1"
+            }
+        },
+        "records/patrons/quiricus/iul": {
+            "name": {
+                "el": "Κυρίκος ο Ταρσεύς",
+                "la": "Quiricus Tarsensis",
+                "en": "Cyricus of Tarsus",
+                "pl": "Cyryk z Tarsu"
+            },
+            "sources": {
+                "mr-1584": "16 VI: #2",
+                "mr-1956": "16 VI: #3",
+                "mr-2004": "16 VI: #1"
+            }
         }
     },
     "06-17": {
