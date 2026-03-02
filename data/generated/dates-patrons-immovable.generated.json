@@ -5856,6 +5856,17 @@
                 "mr-2004": "13 V: #6"
             }
         },
+        "records/patrons/robertus/bel": {
+            "name": {
+                "it": "Roberto Bellarmino",
+                "la": "Robertus Bellarminus",
+                "en": "Robert Bellarmine",
+                "pl": "Robert Bellarmin"
+            },
+            "sources": {
+                "mr-1956": "13 V: #1"
+            }
+        },
         "records/patrons/magdalena/alb": {
             "name": {
                 "it": "Maddalena Albrici",
@@ -10803,6 +10814,20 @@
         }
     },
     "09-17": {
+        "records/patrons/robertus/bel": {
+            "name": {
+                "it": "Roberto Bellarmino",
+                "la": "Robertus Bellarminus",
+                "en": "Robert Bellarmine",
+                "pl": "Robert Bellarmin"
+            },
+            "sources": {
+                "reliable-death-anniversary": "17 IX",
+                "feast": "17 IX",
+                "mr-1956": "17 IX: #2",
+                "mr-2004": "17 IX: #1"
+            }
+        },
         "records/patrons/sigismundus/fel": {
             "name": {
                 "pl": "Zygmunt Szczęsny Feliński",

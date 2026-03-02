@@ -1,48 +1,59 @@
 {
-  "names": {
-    "it": [
-      "Roberto Bellarmino",
-      "Roberto Francesco Romolo Bellarmino"
+    "names": {
+        "it": [
+            "Roberto Bellarmino"
+        ],
+        "la": [
+            "Robertus Bellarminus"
+        ],
+        "en": [
+            "Robert Bellarmine"
+        ],
+        "pl": [
+            "Robert Bellarmin"
+        ]
+    },
+    "forenames": ["robertus"],
+    "surnames": [
+        {
+            "it": "Bellarmino",
+            "en": "Bellarmine",
+            "la": "Bellarminus",
+            "pl": "Bellarmin"
+        }
     ],
-    "en": [
-      "Robert Bellarmine",
-      "Roberto Francesco Romolo Bellarmino"
-    ],
-    "la": [
-      "Robertus Bellarminus",
-      "Roberto Francesco Romolo Bellarmino"
-    ],
-    "pl": [
-      "Robert Bellarmin",
-      "Roberto Francesco Romolo Bellarmino"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Bellarmino",
-      "en": "Bellarmine",
-      "la": "Bellarminus",
-      "pl": "Bellarmin"
+    "active": true,
+
+    "born": ["1542-10-04"],
+    "died": ["1621-09-17"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1923-05-13"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1930-06-29"
+    },
+    "anniversary": ["09-17"],
+
+    "categories": ["vir", "confessor", "cardinalis", "episcopus", "doctor-ecclesiae"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Maji/13#1", "1:Septembris/17#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:sept./17#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/roberto-bellarmino.html",
+        "gcatholic": "https://gcatholic.org/p/18937",
+        "wiki": "https://pl.wikipedia.org/wiki/Robert_Bellarmin"
     }
-  ],
-
-  "born": ["1542-10-04"],
-  "died": ["1621-09-17"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1923-05-13"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1930-06-29"
-  },
-
-  "also-in-martyrology": ["05-13", "09-17"],
-
-  "forenames": ["robertus"],
-  "categories": ["vir", "confessor", "cardinalis", "episcopus", "doctor-ecclesiae"],
-
-  "order": ["sj"]
 }
