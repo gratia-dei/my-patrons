@@ -283,6 +283,20 @@
                 "mr-2004": "6 I: #10"
             }
         },
+        "records/patrons/raymundus/pen": {
+            "name": {
+                "ca": "Ramon de Penyafort",
+                "es": "Raimundo de Peñafort",
+                "la": "Raymundus de Penyafort",
+                "en": "Raymond of Penyafort",
+                "pl": "Rajmund z Penyafortu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 I",
+                "mr-1956": "6 I: #3",
+                "mr-2004": "6 I: #5"
+            }
+        },
         "records/patrons/melanius/rhe": {
             "name": {
                 "fr": "Melaine de Rennes",
@@ -320,6 +334,19 @@
                 "mr-1584": "7 I: #2",
                 "mr-1956": "7 I: #2",
                 "mr-2004": "7 I: #3"
+            }
+        },
+        "records/patrons/raymundus/pen": {
+            "name": {
+                "ca": "Ramon de Penyafort",
+                "es": "Raimundo de Peñafort",
+                "la": "Raymundus de Penyafort",
+                "en": "Raymond of Penyafort",
+                "pl": "Rajmund z Penyafortu"
+            },
+            "sources": {
+                "feast": "7 I",
+                "mr-2004": "7 I: #1"
             }
         }
     },
@@ -676,6 +703,18 @@
                 "mr-1584": "23 I: #5",
                 "mr-1956": "23 I: #4",
                 "mr-2004": "23 I: #3"
+            }
+        },
+        "records/patrons/raymundus/pen": {
+            "name": {
+                "ca": "Ramon de Penyafort",
+                "es": "Raimundo de Peñafort",
+                "la": "Raymundus de Penyafort",
+                "en": "Raymond of Penyafort",
+                "pl": "Rajmund z Penyafortu"
+            },
+            "sources": {
+                "mr-1956": "23 I: #1"
             }
         }
     },

@@ -1,38 +1,52 @@
 {
-  "names": {
-    "ca": [
-      "Ramon de Penyafort"
-    ],
-    "es": [
-      "Raimundo de Peñafort"
-    ],
-    "en": [
-      "Raymond of Penyafort"
-    ],
-    "la": [
-      "Raymundus de Penyafort"
-    ],
-    "pl": [
-      "Rajmund z Penyafortu"
-    ]
-  },
+    "names": {
+        "ca": [
+            "Ramon de Penyafort"
+        ],
+        "es": [
+            "Raimundo de Peñafort"
+        ],
+        "la": [
+            "Raymundus de Penyafort"
+        ],
+        "en": [
+            "Raymond of Penyafort"
+        ],
+        "pl": [
+            "Rajmund z Penyafortu"
+        ]
+    },
+    "forenames": ["raymundus"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": [">1170", "<1175"],
-  "died": ["1275-01-06"],
+    "active": true,
 
-  "beatified": {
-    "type": "equipollently",
-    "date": "1542-01-06"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1601-04-29"
-  },
+    "born": [">1170", "<1175"],
+    "died": ["1275-01-06"],
+    "beatified": null,
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1601-04-29"
+    },
+    "anniversary": ["01-07"],
 
-  "also-in-martyrology": ["01-06", "01-07", "01-23"],
+    "categories": ["vir", "confessor", "presbyter", "generalis"],
 
-  "forenames": ["raymundus"],
-  "categories": ["vir", "confessor", "presbyter", "generalis"],
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
 
-  "order": ["op"]
+        "mr-1956": ["1:Januarii/6#3", "1:Januarii/23#1"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:ian./6#5", "1:ian./7#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/raimondo-di-penafort.html",
+        "gcatholic": "https://gcatholic.org/p/24416",
+        "wiki": "https://pl.wikipedia.org/wiki/Rajmund_z_Penyafortu"
+    }
 }
