@@ -27372,11 +27372,11 @@
         }
     },
     "patrons/stephana/qui": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Stefana Quinzani",
-            "en": "Stephanie Quinzani",
             "la": "Stefana Quinzani",
+            "en": "Stephanie Quinzani",
             "pl": "Stefania Quinzani"
         },
         "died": [

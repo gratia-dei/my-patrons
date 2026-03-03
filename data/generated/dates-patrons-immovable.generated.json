@@ -103,6 +103,18 @@
                 "mr-2004": "2 I: #14"
             }
         },
+        "records/patrons/stephana/qui": {
+            "name": {
+                "it": "Stefana Quinzani",
+                "la": "Stefana Quinzani",
+                "en": "Stephanie Quinzani",
+                "pl": "Stefania Quinzani"
+            },
+            "sources": {
+                "reliable-death-anniversary": "2 I",
+                "mr-2004": "2 I: #13"
+            }
+        },
         "records/patrons/basilius/mag": {
             "name": {
                 "el": "Βασίλειος Μέγας",
