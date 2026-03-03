@@ -13418,6 +13418,17 @@
                 "mr-1956": "3 XI: #10",
                 "mr-2004": "3 XI: #8"
             }
+        },
+        "records/patrons/silvia/mat": {
+            "name": {
+                "la": "Silvia, mater Greg6rii Magni",
+                "en": "Sylvia, mather of Gregory the Great",
+                "pl": "Sylwia, matka Grzegorza Wielkiego"
+            },
+            "sources": {
+                "mr-1956": "3 XI: #12",
+                "mr-2004": "3 XI: #7"
+            }
         }
     },
     "11-04": {

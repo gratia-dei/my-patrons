@@ -26615,7 +26615,7 @@
         }
     },
     "patrons/silvia/mat": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Silvia, mater Greg6rii Magni",
             "en": "Sylvia, mather of Gregory the Great",
