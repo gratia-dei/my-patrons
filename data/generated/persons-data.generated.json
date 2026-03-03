@@ -26311,7 +26311,7 @@
         }
     },
     "patrons/serapion/alg": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Serapion Algirensis",
             "en": "Serapion of Algiers",
