@@ -4509,6 +4509,17 @@
                 "mr-2004": "1 IV: #10"
             }
         },
+        "records/patrons/sophia/mac": {
+            "name": {
+                "pl": "Zofia Czeska",
+                "la": "Sophia Maciejowska-Czeska",
+                "en": "Sophia Maciejowska-Czeska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 IV",
+                "feast": "1 IV"
+            }
+        },
         "records/patrons/maria/aeg": {
             "name": {
                 "el": "Μαρία η Αιγυπτία",

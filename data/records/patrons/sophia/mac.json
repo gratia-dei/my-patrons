@@ -1,39 +1,54 @@
 {
-  "names": {
-    "pl": [
-      "Zofia Czeska",
-      "Zofia z Maciejowskich",
-      "Zofia Maciejowska-Czeska",
-      "Zofia z Maciejowskich Czeska"
-    ],
-    "en": [
-      "Sophia Maciejowska-Czeska"
-    ],
-    "la": [
-      "Sophia Maciejowska-Czeska"
-    ]
-  },
-
-  "surnames": [
-    {
-      "pl": "Maciejowska"
+    "names": {
+        "pl": [
+            "Zofia Czeska",
+            "Zofia Maciejowska-Czeska"
+        ],
+        "la": [
+            "Sophia Maciejowska-Czeska"
+        ],
+        "en": [
+            "Sophia Maciejowska-Czeska"
+        ]
     },
-    {
-      "pl": "Czeska"
+    "forenames": ["sophia"],
+    "surnames": [
+        {
+            "pl": "Maciejowska"
+        },
+        {
+            "pl": "Czeska"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1584"],
+    "died": ["1650-04-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2013-06-09"
+    },
+    "canonized": null,
+    "anniversary": ["04-01"],
+
+    "categories": ["femina", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/sofia-czeska-maciejowska.html",
+        "gcatholic": "https://gcatholic.org/p/68609",
+        "wiki": "https://pl.wikipedia.org/wiki/Zofia_Czeska"
     }
-  ],
-
-  "born": ["1584"],
-  "died": ["1650-04-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2013-06-09"
-  },
-
-  "forenames": ["sophia"],
-  "categories": ["femina", "fundator"],
-
-  "order": ["cpbvm"],
-  "order-founder": ["cpbvm"]
 }

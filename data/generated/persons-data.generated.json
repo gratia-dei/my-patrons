@@ -26942,11 +26942,11 @@
         }
     },
     "patrons/sophia/mac": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Zofia Czeska",
-            "en": "Sophia Maciejowska-Czeska",
-            "la": "Sophia Maciejowska-Czeska"
+            "la": "Sophia Maciejowska-Czeska",
+            "en": "Sophia Maciejowska-Czeska"
         },
         "died": [
             "1650-04-01"
