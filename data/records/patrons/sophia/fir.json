@@ -1,23 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Sofia di Fermo"
-    ],
-    "la": [
-      "Sophia Firmana"
-    ],
-    "en": [
-      "Sophia of Fermo"
-    ],
-    "pl": [
-      "Zofia z Fermo"
-    ]
-  },
+    "names": {
+        "it": [
+            "Sofia di Fermo"
+        ],
+        "la": [
+            "Sophia Firmana"
+        ],
+        "en": [
+            "Sophia of Fermo"
+        ],
+        "pl": [
+            "Zofia z Fermo"
+        ]
+    },
+    "forenames": ["sophia"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~250"],
+    "active": true,
 
-  "also-in-martyrology": ["04-30"],
+    "born": null,
+    "died": ["~250"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["sophia"],
-  "categories": ["femina", "martyr", "virgo"]
+    "categories": ["femina", "martyr", "virgo"],
+
+    "data-links": {
+        "mr-1584": ["1:Apr./30#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/30#8"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./30#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70661",
+        "wiki": null
+    }
 }

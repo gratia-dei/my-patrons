@@ -26918,7 +26918,7 @@
         }
     },
     "patrons/sophia/fir": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Sofia di Fermo",
             "la": "Sophia Firmana",

@@ -5366,6 +5366,19 @@
                 "mr-2004": "30 IV: #1"
             }
         },
+        "records/patrons/sophia/fir": {
+            "name": {
+                "it": "Sofia di Fermo",
+                "la": "Sophia Firmana",
+                "en": "Sophia of Fermo",
+                "pl": "Zofia z Fermo"
+            },
+            "sources": {
+                "mr-1584": "30 IV: #6",
+                "mr-1956": "30 IV: #8",
+                "mr-2004": "30 IV: #2"
+            }
+        },
         "records/patrons/catharina/sen": {
             "name": {
                 "it": "Caterina da Siena",
