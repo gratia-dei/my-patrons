@@ -27588,11 +27588,11 @@
         }
     },
     "patrons/tarsicius/aco": {
-        "active": false,
+        "active": true,
         "names": {
-            "la": "Tarsicius Acolytus",
-            "en": "Tarcisius Acolyte",
-            "pl": "Tarsycjusz Akolita"
+            "la": "Tarsicius, acolytus",
+            "en": "Tarcisius, acolyte",
+            "pl": "Tarsycjusz, akolita"
         },
         "died": [
             "~257"
