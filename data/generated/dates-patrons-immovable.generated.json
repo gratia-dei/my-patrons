@@ -4841,6 +4841,17 @@
                 "mr-2004": "11 IV: #11"
             }
         },
+        "records/patrons/stanislaus/cra": {
+            "name": {
+                "pl": "Stanisław ze Szczepanowa",
+                "la": "Stanislaus Cracoviensis",
+                "en": "Stanislaus of Szczepanów"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 IV",
+                "mr-2004": "11 IV: #1"
+            }
+        },
         "records/patrons/leo/1pp": {
             "name": {
                 "la": "Leo I Magnus",
@@ -5712,6 +5723,16 @@
                 "mr-2004": "7 V: #8"
             }
         },
+        "records/patrons/stanislaus/cra": {
+            "name": {
+                "pl": "Stanisław ze Szczepanowa",
+                "la": "Stanislaus Cracoviensis",
+                "en": "Stanislaus of Szczepanów"
+            },
+            "sources": {
+                "mr-1956": "7 V: #1"
+            }
+        },
         "records/patrons/antonius/ere": {
             "name": {
                 "uk": "Антоній Печерський",
@@ -5746,6 +5767,16 @@
             "sources": {
                 "reliable-death-anniversary": "8 V",
                 "feast": "8 V"
+            }
+        },
+        "records/patrons/stanislaus/cra": {
+            "name": {
+                "pl": "Stanisław ze Szczepanowa",
+                "la": "Stanislaus Cracoviensis",
+                "en": "Stanislaus of Szczepanów"
+            },
+            "sources": {
+                "mr-1956": "8 V: #2"
             }
         }
     },

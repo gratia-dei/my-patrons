@@ -27151,11 +27151,11 @@
         }
     },
     "patrons/stanislaus/cra": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Stanisław ze Szczepanowa",
-            "en": "Stanislaus of Szczepanów",
-            "la": "Stanislaus Cracoviensis"
+            "la": "Stanislaus Cracoviensis",
+            "en": "Stanislaus of Szczepanów"
         },
         "died": [
             "1079-04-11"
