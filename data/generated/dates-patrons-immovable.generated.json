@@ -4315,6 +4315,18 @@
         }
     },
     "03-29": {
+        "records/patrons/secundus/ast": {
+            "name": {
+                "it": "Secondo di Asti",
+                "la": "Secundus Astensis",
+                "en": "Secundus of Asti",
+                "pl": "Sekundus z Asti"
+            },
+            "sources": {
+                "mr-1584": "29 III: #5",
+                "mr-1956": "29 III: #5"
+            }
+        },
         "records/patrons/bertholdus/car": {
             "name": {
                 "it": "Bertoldo di Calabria",
@@ -4419,6 +4431,17 @@
             "sources": {
                 "reliable-death-anniversary": "30 III",
                 "mr-2004": "30 III: #11"
+            }
+        },
+        "records/patrons/secundus/ast": {
+            "name": {
+                "it": "Secondo di Asti",
+                "la": "Secundus Astensis",
+                "en": "Secundus of Asti",
+                "pl": "Sekundus z Asti"
+            },
+            "sources": {
+                "mr-2004": "30 III: #1"
             }
         }
     },
