@@ -202,6 +202,17 @@
                 "feast": "5 I",
                 "mr-2004": "5 I: #12"
             }
+        },
+        "records/patrons/simeon/sta": {
+            "name": {
+                "la": "Symeon Stylita Senior",
+                "en": "Simeon Stylites the Elder",
+                "pl": "Symeon Słupnik Starszy"
+            },
+            "sources": {
+                "mr-1584": "5 I: #5",
+                "mr-1956": "5 I: #5"
+            }
         }
     },
     "01-06": {
@@ -8545,6 +8556,16 @@
                 "mr-1584": "27 VII: #1",
                 "mr-1956": "27 VII: #1",
                 "mr-2004": "27 VII: #2"
+            }
+        },
+        "records/patrons/simeon/sta": {
+            "name": {
+                "la": "Symeon Stylita Senior",
+                "en": "Simeon Stylites the Elder",
+                "pl": "Symeon Słupnik Starszy"
+            },
+            "sources": {
+                "mr-2004": "27 VII: #5"
             }
         }
     },

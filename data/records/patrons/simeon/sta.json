@@ -1,30 +1,50 @@
 {
-  "names": {
-    "la": [
-      "Symeon Stylita Senior"
+    "names": {
+        "la": [
+            "Symeon Stylita Senior"
+        ],
+        "en": [
+            "Simeon Stylites the Elder"
+        ],
+        "pl": [
+            "Symeon Słupnik Starszy",
+            "Szymon Słupnik Starszy"
+        ]
+    },
+    "forenames": ["simeon"],
+    "surnames": null,
+    "epithets": [
+        {
+            "la": "Stylita",
+            "en": "Stylites",
+            "pl": "Słupnik"
+        }
     ],
-    "en": [
-      "Simeon Stylites the Elder"
-    ],
-    "pl": [
-      "Symeon Słupnik Starszy",
-      "Szymon Słupnik Starszy"
-    ]
-  },
 
-  "epithets": [
-    {
-      "la": "Stylita",
-      "en": "Stylites",
-      "pl": "Słupnik"
+    "active": true,
+
+    "born": ["~390"],
+    "died": ["459"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "monachus", "stylita"],
+
+    "data-links": {
+        "mr-1584": ["1:Ianu./5#5"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Januarii/5#5"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:iul./27#5"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70604",
+        "wiki": "https://pl.wikipedia.org/wiki/Symeon_S%C5%82upnik_Starszy"
     }
-  ],
-
-  "born": ["~390"],
-  "died": ["459"],
-
-  "also-in-martyrology": ["07-27"],
-
-  "forenames": ["simeon"],
-  "categories": ["vir", "monachus", "stylita"]
 }

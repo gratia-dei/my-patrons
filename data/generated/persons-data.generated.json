@@ -26666,7 +26666,7 @@
         }
     },
     "patrons/simeon/sta": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Symeon Stylita Senior",
             "en": "Simeon Stylites the Elder",
