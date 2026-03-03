@@ -27262,11 +27262,11 @@
         }
     },
     "patrons/stanislaus/sta": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Stanisław Starowieyski",
-            "en": "Stanislaus Starowieyski",
-            "la": "Stanislaus Starowieyski"
+            "la": "Stanislaus Starowieyski",
+            "en": "Stanislaus Starowieyski"
         },
         "died": [
             "1941-04-13"

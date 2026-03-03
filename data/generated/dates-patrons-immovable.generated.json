@@ -4880,6 +4880,16 @@
         }
     },
     "04-13": {
+        "records/patrons/stanislaus/sta": {
+            "name": {
+                "pl": "Stanisław Starowieyski",
+                "la": "Stanislaus Starowieyski",
+                "en": "Stanislaus Starowieyski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 IV"
+            }
+        },
         "records/patrons/iustinus/phi": {
             "name": {
                 "la": "Iustinus Philosophus",
@@ -6736,6 +6746,17 @@
                 "feast": "4 VI",
                 "mr-1956": "4 VI: #1",
                 "mr-2004": "4 VI: #8"
+            }
+        },
+        "records/patrons/stanislaus/sta": {
+            "name": {
+                "pl": "Stanisław Starowieyski",
+                "la": "Stanislaus Starowieyski",
+                "en": "Stanislaus Starowieyski"
+            },
+            "sources": {
+                "feast": "4 VI",
+                "mr-2004": "4 VI: #10"
             }
         }
     },
