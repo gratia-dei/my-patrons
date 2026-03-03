@@ -148,9 +148,9 @@
         },
         "records/patrons/thecla/abb": {
             "de": "Thekla von Kitzingen",
+            "la": "Thecla de Kitzingen",
             "en": "Thecla of Kitzingen",
-            "pl": "Tekla z Kitzingen",
-            "la": "Thecla de Kitzingen"
+            "pl": "Tekla z Kitzingen"
         },
         "records/patrons/wilfridus/ebo": {
             "en": "Wilfrid of York",

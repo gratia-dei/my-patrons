@@ -27916,12 +27916,12 @@
         }
     },
     "patrons/thecla/abb": {
-        "active": false,
+        "active": true,
         "names": {
             "de": "Thekla von Kitzingen",
+            "la": "Thecla de Kitzingen",
             "en": "Thecla of Kitzingen",
-            "pl": "Tekla z Kitzingen",
-            "la": "Thecla de Kitzingen"
+            "pl": "Tekla z Kitzingen"
         },
         "died": [
             "~790"
