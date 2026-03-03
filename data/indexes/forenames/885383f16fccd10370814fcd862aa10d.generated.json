@@ -132,6 +132,11 @@
             "la": "Antonius Maria Zaccaria",
             "en": "Anthony Mary Zaccaria",
             "pl": "Antoni Maria Zaccaria"
+        },
+        "records/patrons/antonius/zaw": {
+            "pl": "Antoni Zawistowski",
+            "la": "Anthony Zawistowski",
+            "en": "Antonius Zawistowski"
         }
     }
 }

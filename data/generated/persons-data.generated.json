@@ -3327,6 +3327,35 @@
             }
         }
     },
+    "patrons/antonius/zaw": {
+        "active": true,
+        "names": {
+            "pl": "Antoni Zawistowski",
+            "la": "Anthony Zawistowski",
+            "en": "Antonius Zawistowski"
+        },
+        "died": [
+            "1942-06-04"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/antonius": {
+                "active": true,
+                "names": {
+                    "la": "Antonius",
+                    "en": "Anthony",
+                    "pl": "Antoni",
+                    "el": "Ἀντώνιος",
+                    "es": "Antonio",
+                    "fr": "Antoine",
+                    "it": "Antonio",
+                    "ja": "アントニオ",
+                    "pt": "Antônio",
+                    "uk": "Антоній"
+                }
+            }
+        }
+    },
     "patrons/apollonia": {
         "names": {
             "la": "Apollonia",

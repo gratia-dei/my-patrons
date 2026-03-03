@@ -6734,6 +6734,18 @@
         }
     },
     "06-04": {
+        "records/patrons/antonius/zaw": {
+            "name": {
+                "pl": "Antoni Zawistowski",
+                "la": "Anthony Zawistowski",
+                "en": "Antonius Zawistowski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "4 VI",
+                "feast": "4 VI",
+                "mr-2004": "4 VI: #10"
+            }
+        },
         "records/patrons/franciscus/car": {
             "name": {
                 "it": "Francesco Caracciolo",
