@@ -27886,11 +27886,11 @@
         }
     },
     "patrons/thaddaeus/dul": {
-        "active": false,
+        "active": true,
         "names": {
             "pl": "Tadeusz Dulny",
-            "en": "Thaddeus Dulny",
-            "la": "Thaddaeus Dulny"
+            "la": "Thaddaeus Dulny",
+            "en": "Thaddeus Dulny"
         },
         "died": [
             "1942-08-07"
