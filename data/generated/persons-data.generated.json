@@ -6659,7 +6659,7 @@
         }
     },
     "patrons/crispina/tha": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Crispina Thagorensis",
             "en": "Crispina of Numidia",

@@ -14910,6 +14910,18 @@
                 "feast": "5 XII",
                 "mr-2004": "5 XII: #8"
             }
+        },
+        "records/patrons/crispina/tha": {
+            "name": {
+                "la": "Crispina Thagorensis",
+                "en": "Crispina of Numidia",
+                "pl": "Kryspina z Numidii"
+            },
+            "sources": {
+                "mr-1584": "5 XII: #2",
+                "mr-1956": "5 XII: #7",
+                "mr-2004": "5 XII: #1"
+            }
         }
     },
     "12-06": {

@@ -1,20 +1,43 @@
 {
-  "names": {
-    "la": [
-      "Crispina Thagorensis"
-    ],
-    "en": [
-      "Crispina of Numidia"
-    ],
-    "pl": [
-      "Kryspina z Numidii"
-    ]
-  },
+    "names": {
+        "la": [
+            "Crispina Thagorensis"
+        ],
+        "en": [
+            "Crispina of Numidia"
+        ],
+        "pl": [
+            "Kryspina z Numidii"
+        ]
+    },
+    "forenames": ["crispina"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~304"],
+    "active": true,
 
-  "also-in-martyrology": ["12-05"],
+    "born": null,
+    "died": ["~304"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["crispina"],
-  "categories": ["femina", "martyr", "materfamilias"]
+    "categories": ["femina", "martyr", "materfamilias"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./5#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/5#7"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./5#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/70469",
+        "wiki": "https://pl.wikipedia.org/wiki/Kryspina_z_Numidii"
+    }
 }
