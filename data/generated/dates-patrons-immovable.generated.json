@@ -15684,6 +15684,19 @@
                 "mr-1956": "27 XII: #1",
                 "mr-2004": "27 XII: #1"
             }
+        },
+        "records/patrons/theodorus/gra": {
+            "name": {
+                "el": "Θεοδώρος Γράπτος",
+                "la": "Theodorus Graptus",
+                "en": "Theodore the Graptus",
+                "pl": "Teodor Graptus"
+            },
+            "sources": {
+                "mr-1584": "27 XII: #3",
+                "mr-1956": "27 XII: #2",
+                "mr-2004": "27 XII: #3"
+            }
         }
     },
     "12-28": {

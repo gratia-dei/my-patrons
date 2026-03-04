@@ -583,6 +583,12 @@
             "la": "Stanislaus Kostka",
             "en": "Stanislaus Kostka"
         },
+        "records/patrons/theodorus/gra": {
+            "el": "Θεοδώρος Γράπτος",
+            "la": "Theodorus Graptus",
+            "en": "Theodore the Graptus",
+            "pl": "Teodor Graptus"
+        },
         "records/patrons/thomas/aqu": {
             "it": "Tommaso d'Aquino",
             "la": "Thomas de Aquino",

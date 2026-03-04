@@ -1,33 +1,53 @@
 {
-  "names": {
-    "el": [
-      "Θεοδώρος Γράπτος"
+    "names": {
+        "el": [
+            "Θεοδώρος Γράπτος"
+        ],
+        "la": [
+            "Theodorus Graptus"
+        ],
+        "en": [
+            "Theodore the Graptus"
+        ],
+        "pl": [
+            "Teodor Graptus"
+        ]
+    },
+    "forenames": ["theodorus"],
+    "surnames": null,
+    "epithets": [
+        {
+            "el": "Γράπτος",
+            "la": "Graptus",
+            "en": "Graptus",
+            "pl": "Graptus"
+        }
     ],
-    "en": [
-      "Theodore the Graptus"
-    ],
-    "la": [
-      "Theodorus Graptus"
-    ],
-    "pl": [
-      "Teodor Graptus"
-    ]
-  },
 
-  "epithets": [
-    {
-      "el": "Γράπτος",
-      "en": "Graptus",
-      "la": "Graptus",
-      "pl": "Graptus"
+    "active": true,
+
+    "born": ["~775"],
+    "died": ["~841"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "confessor", "presbyter", "monachus"],
+
+    "data-links": {
+        "mr-1584": ["1:Dec./27#3"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Decembris/27#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./27#3"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71614",
+        "wiki": "https://en.wikipedia.org/wiki/Theodorus_and_Theophanes"
     }
-  ],
-
-  "born": ["~775"],
-  "died": ["~841"],
-
-  "also-in-martyrology": ["12-27"],
-
-  "forenames": ["theodorus"],
-  "categories": ["vir", "martyr", "presbyter", "monachus"]
 }
