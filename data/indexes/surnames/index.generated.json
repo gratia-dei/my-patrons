@@ -175,6 +175,9 @@
     "26297bf685a3943ff15a40915f00bf49": {
         "pl": "Stępniak"
     },
+    "2784090a67274b3d948ac32d22d8e957": {
+        "la": "Ferrerius"
+    },
     "27fe39ee9e686ea7d769558e772e957c": {
         "fr": "Repin"
     },
@@ -1259,7 +1262,8 @@
         "it": "Acutis"
     },
     "d9b6596019afab9fd898278c6a5ac903": {
-        "es": "Ferrer"
+        "es": "Ferrer",
+        "la": "Ferrer"
     },
     "da16872ab596329687b935c3a0802957": {
         "la": "Falconerius"

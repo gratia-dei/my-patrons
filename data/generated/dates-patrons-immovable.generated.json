@@ -4702,6 +4702,20 @@
                 "feast": "5 IV",
                 "mr-2004": "5 IV: #10"
             }
+        },
+        "records/patrons/vincentius/fer": {
+            "name": {
+                "es": "Vicente Ferrer",
+                "la": "Vincentius Ferrerius",
+                "en": "Vincent Ferrer",
+                "pl": "Wincenty Ferreriusz"
+            },
+            "sources": {
+                "reliable-death-anniversary": "5 IV",
+                "mr-1584": "5 IV: #5",
+                "mr-1956": "5 IV: #1",
+                "mr-2004": "5 IV: #1"
+            }
         }
     },
     "04-06": {

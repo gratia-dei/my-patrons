@@ -26,8 +26,8 @@
     "links": {
         "records/patrons/vincentius/fer": {
             "es": "Vicente Ferrer",
-            "en": "Vincent Ferrer",
             "la": "Vincentius Ferrerius",
+            "en": "Vincent Ferrer",
             "pl": "Wincenty Ferreriusz"
         },
         "records/patrons/vincentius/fre": {
