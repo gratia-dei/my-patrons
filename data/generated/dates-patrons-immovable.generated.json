@@ -8696,6 +8696,18 @@
                 "feast": "29 VII"
             }
         },
+        "records/patrons/urbanus/2pp": {
+            "name": {
+                "la": "Urbanus II",
+                "en": "Urban II",
+                "pl": "Urban II"
+            },
+            "sources": {
+                "reliable-death-anniversary": "29 VII",
+                "mr-1956": "29 VII: #13",
+                "mr-2004": "29 VII: #9"
+            }
+        },
         "records/patrons/felix/2ap": {
             "name": {
                 "la": "Felix II, antipapa",
