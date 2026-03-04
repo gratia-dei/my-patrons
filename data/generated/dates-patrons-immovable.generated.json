@@ -15697,6 +15697,18 @@
                 "mr-1956": "27 XII: #2",
                 "mr-2004": "27 XII: #3"
             }
+        },
+        "records/patrons/theophanes/the": {
+            "name": {
+                "el": "Θεοφάνης Νικαίας",
+                "la": "Theophanes Nicaenus",
+                "en": "Theophanes of Nicaea",
+                "pl": "Teofanes z Nicei"
+            },
+            "sources": {
+                "mr-1584": "27 XII: #3",
+                "mr-1956": "27 XII: #2"
+            }
         }
     },
     "12-28": {

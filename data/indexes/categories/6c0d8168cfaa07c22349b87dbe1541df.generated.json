@@ -589,6 +589,12 @@
             "en": "Theodore the Graptus",
             "pl": "Teodor Graptus"
         },
+        "records/patrons/theophanes/the": {
+            "el": "Θεοφάνης Νικαίας",
+            "la": "Theophanes Nicaenus",
+            "en": "Theophanes of Nicaea",
+            "pl": "Teofanes z Nicei"
+        },
         "records/patrons/thomas/aqu": {
             "it": "Tommaso d'Aquino",
             "la": "Thomas de Aquino",

@@ -3549,6 +3549,12 @@
             "la": "Theodorus Romzsa",
             "pl": "Teodor Romża"
         },
+        "records/patrons/theophanes/the": {
+            "el": "Θεοφάνης Νικαίας",
+            "la": "Theophanes Nicaenus",
+            "en": "Theophanes of Nicaea",
+            "pl": "Teofanes z Nicei"
+        },
         "records/patrons/theophilus/ant": {
             "el": "Θεόφιλος Αντιοχείας",
             "en": "Theophilus of Antioch",

@@ -23,6 +23,12 @@
             "la": "Ioannes Theophanes Vénard",
             "en": "John Theophanes Vénard",
             "pl": "Jan Teofan Vénard"
+        },
+        "records/patrons/theophanes/the": {
+            "el": "Θεοφάνης Νικαίας",
+            "la": "Theophanes Nicaenus",
+            "en": "Theophanes of Nicaea",
+            "pl": "Teofanes z Nicei"
         }
     }
 }

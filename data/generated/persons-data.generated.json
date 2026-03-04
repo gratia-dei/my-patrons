@@ -28011,6 +28011,38 @@
             }
         }
     },
+    "patrons/theophanes": {
+        "names": {
+            "la": "Theophanes",
+            "en": "Theophanes",
+            "pl": "Teofan",
+            "fr": "Théophane"
+        }
+    },
+    "patrons/theophanes/the": {
+        "active": true,
+        "names": {
+            "el": "Θεοφάνης Νικαίας",
+            "la": "Theophanes Nicaenus",
+            "en": "Theophanes of Nicaea",
+            "pl": "Teofanes z Nicei"
+        },
+        "died": [
+            "~845"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/theophanes": {
+                "active": true,
+                "names": {
+                    "la": "Theophanes",
+                    "en": "Theophanes",
+                    "pl": "Teofan",
+                    "fr": "Théophane"
+                }
+            }
+        }
+    },
     "patrons/theophilus": {
         "names": {
             "la": "Theophilus",
