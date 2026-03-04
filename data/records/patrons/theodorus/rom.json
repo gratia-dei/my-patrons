@@ -1,42 +1,60 @@
 {
-  "names": {
-    "uk": [
-      "Теодор Ромжа",
-      "Теодор Юрій Ромжа"
+    "names": {
+        "uk": [
+            "Теодор Ромжа",
+            "Теодор Юрій Ромжа"
+        ],
+        "la": [
+            "Theodorus Romzsa",
+            "Theodorus Gregorius Romzsa"
+        ],
+        "en": [
+            "Theodore Romzha",
+            "Theodore George Romzha"
+        ],
+        "pl": [
+            "Teodor Romża",
+            "Teodor Grzegorz Romża"
+        ]
+    },
+    "forenames": ["theodorus", "georgius"],
+    "surnames": [
+        {
+            "uk": "Ромжа",
+            "en": "Romzha",
+            "la": "Romzsa",
+            "pl": "Romża"
+        }
     ],
-    "en": [
-      "Theodore Romzha",
-      "Theodore George Romzha"
-    ],
-    "la": [
-      "Theodorus Romzsa",
-      "Theodorus Gregorius Romzsa"
-    ],
-    "pl": [
-      "Teodor Romża",
-      "Teodor Grzegorz Romża"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "uk": "Ромжа",
-      "en": "Romzha",
-      "la": "Romzsa",
-      "pl": "Romża"
+    "active": true,
+
+    "born": ["1911-04-14"],
+    "died": ["1947-11-01"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "2001-06-27"
+    },
+    "canonized": null,
+    "anniversary": null,
+
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./1#18"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/mykola-carneckyj-e-24-compagni.html",
+        "gcatholic": "https://gcatholic.org/p/15967",
+        "wiki": "https://pl.wikipedia.org/wiki/Teodor_Rom%C5%BCa"
     }
-  ],
-
-  "born": ["1911-04-14"],
-  "died": ["1947-11-01"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "2001-06-27"
-  },
-
-  "also-in-martyrology": ["11-01"],
-
-  "forenames": ["theodorus", "georgius"],
-  "categories": ["vir", "martyr", "episcopus"]
 }

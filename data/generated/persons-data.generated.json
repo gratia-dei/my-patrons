@@ -27976,11 +27976,11 @@
         }
     },
     "patrons/theodorus/rom": {
-        "active": false,
+        "active": true,
         "names": {
             "uk": "Теодор Ромжа",
-            "en": "Theodore Romzha",
             "la": "Theodorus Romzsa",
+            "en": "Theodore Romzha",
             "pl": "Teodor Romża"
         },
         "died": [

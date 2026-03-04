@@ -13433,6 +13433,18 @@
                 "mr-2004": "1 XI: #17"
             }
         },
+        "records/patrons/theodorus/rom": {
+            "name": {
+                "uk": "Теодор Ромжа",
+                "la": "Theodorus Romzsa",
+                "en": "Theodore Romzha",
+                "pl": "Teodor Romża"
+            },
+            "sources": {
+                "reliable-death-anniversary": "1 XI",
+                "mr-2004": "1 XI: #18"
+            }
+        },
         "records/patrons/benignus/div": {
             "name": {
                 "fr": "Bénigne de Dijon",
