@@ -1,23 +1,46 @@
 {
-  "names": {
-    "el": [
-      "Θεόφιλος Αντιοχείας"
-    ],
-    "en": [
-      "Theophilus of Antioch"
-    ],
-    "la": [
-      "Theophilus Antiochenus"
-    ],
-    "pl": [
-      "Teofil z Antiochii"
-    ]
-  },
+    "names": {
+        "el": [
+            "Θεόφιλος Αντιοχείας"
+        ],
+        "la": [
+            "Theophilus Antiochenus"
+        ],
+        "en": [
+            "Theophilus of Antioch"
+        ],
+        "pl": [
+            "Teofil z Antiochii"
+        ]
+    },
+    "forenames": ["theophilus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["183", "185"],
+    "active": true,
 
-  "also-in-martyrology": ["10-13"],
+    "born": null,
+    "died": ["183", "185"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["theophilus"],
-  "categories": ["vir", "episcopus"]
+    "categories": ["vir", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Oct./13#6"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Octobris/13#6"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:oct./13#1"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/33387",
+        "wiki": "https://pl.wikipedia.org/wiki/Teofil_z_Antiochii"
+    }
 }

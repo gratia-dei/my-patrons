@@ -28052,11 +28052,11 @@
         }
     },
     "patrons/theophilus/ant": {
-        "active": false,
+        "active": true,
         "names": {
             "el": "Θεόφιλος Αντιοχείας",
-            "en": "Theophilus of Antioch",
             "la": "Theophilus Antiochenus",
+            "en": "Theophilus of Antioch",
             "pl": "Teofil z Antiochii"
         },
         "died": [

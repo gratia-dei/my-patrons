@@ -12528,6 +12528,21 @@
             }
         }
     },
+    "10-13": {
+        "records/patrons/theophilus/ant": {
+            "name": {
+                "el": "Θεόφιλος Αντιοχείας",
+                "la": "Theophilus Antiochenus",
+                "en": "Theophilus of Antioch",
+                "pl": "Teofil z Antiochii"
+            },
+            "sources": {
+                "mr-1584": "13 X: #6",
+                "mr-1956": "13 X: #6",
+                "mr-2004": "13 X: #1"
+            }
+        }
+    },
     "10-14": {
         "records/patrons/franciscus/ros": {
             "name": {
