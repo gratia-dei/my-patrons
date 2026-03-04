@@ -13866,6 +13866,19 @@
                 "reliable-death-anniversary": "7 XI",
                 "mr-2004": "7 XI: #14"
             }
+        },
+        "records/patrons/vincentius/gro": {
+            "name": {
+                "it": "Vincenzo Grossi",
+                "la": "Vincentius Grossi",
+                "en": "Vincent Grossi",
+                "pl": "Wincenty Grossi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "7 XI",
+                "feast": "7 XI",
+                "mr-2004": "7 XI: #15"
+            }
         }
     },
     "11-08": {

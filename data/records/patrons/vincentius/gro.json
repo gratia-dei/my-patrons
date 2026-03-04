@@ -1,41 +1,56 @@
 {
-  "names": {
-    "it": [
-      "Vincenzo Grossi"
+    "names": {
+        "it": [
+            "Vincenzo Grossi"
+        ],
+        "la": [
+            "Vincentius Grossi"
+        ],
+        "en": [
+            "Vincent Grossi"
+        ],
+        "pl": [
+            "Wincenty Grossi"
+        ]
+    },
+    "forenames": ["vincentius"],
+    "surnames": [
+        {
+            "it": "Grossi"
+        }
     ],
-    "en": [
-      "Vincent Grossi"
-    ],
-    "la": [
-      "Vincentius Grossi"
-    ],
-    "pl": [
-      "Wincenty Grossi"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "it": "Grossi"
+    "active": true,
+
+    "born": ["1845-03-04"],
+    "died": ["1917-11-07"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1975-11-01"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "2015-10-18"
+    },
+    "anniversary": ["11-07"],
+
+    "categories": ["vir", "presbyter", "conditor"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./7#15"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/vincenzo-grossi.html",
+        "gcatholic": "https://gcatholic.org/p/67282",
+        "wiki": "https://pl.wikipedia.org/wiki/Wincenty_Grossi"
     }
-  ],
-
-  "born": ["1845-03-04"],
-  "died": ["1917-11-07"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1975-11-01"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "2015-10-18"
-  },
-
-  "also-in-martyrology": ["11-07"],
-
-  "forenames": ["vincentius"],
-  "categories": ["vir", "presbyter", "conditor"],
-
-  "order-founder": ["fdo"]
 }

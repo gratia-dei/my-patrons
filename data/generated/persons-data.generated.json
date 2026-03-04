@@ -29355,11 +29355,11 @@
         }
     },
     "patrons/vincentius/gro": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Vincenzo Grossi",
-            "en": "Vincent Grossi",
             "la": "Vincentius Grossi",
+            "en": "Vincent Grossi",
             "pl": "Wincenty Grossi"
         },
         "died": [
