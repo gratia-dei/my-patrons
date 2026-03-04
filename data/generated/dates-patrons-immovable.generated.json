@@ -15762,6 +15762,18 @@
                 "mr-1956": "26 XII: #1",
                 "mr-2004": "26 XII: #1"
             }
+        },
+        "records/patrons/zeno/mai": {
+            "name": {
+                "la": "Zenon Maiumitanensis",
+                "en": "Zeno of Maiuma",
+                "pl": "Zenon z Maiumy"
+            },
+            "sources": {
+                "mr-1584": "26 XII: #6",
+                "mr-1956": "26 XII: #6",
+                "mr-2004": "26 XII: #3"
+            }
         }
     },
     "12-27": {

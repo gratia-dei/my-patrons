@@ -29781,7 +29781,7 @@
         }
     },
     "patrons/zeno/mai": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Zenon Maiumitanensis",
             "en": "Zeno of Maiuma",
