@@ -29255,11 +29255,11 @@
         }
     },
     "patrons/vincentia/lop": {
-        "active": false,
+        "active": true,
         "names": {
             "es": "Vicenta María López Vicuña",
-            "en": "Vincenta Maria López Vicuña",
             "la": "Vincentia Maria López Vicuña",
+            "en": "Vincenta Maria López Vicuña",
             "pl": "Wincencja Maria López Vicuña"
         },
         "died": [

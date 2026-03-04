@@ -15698,6 +15698,19 @@
                 "mr-2004": "26 XII: #8"
             }
         },
+        "records/patrons/vincentia/lop": {
+            "name": {
+                "es": "Vicenta María López Vicuña",
+                "la": "Vincentia Maria López Vicuña",
+                "en": "Vincenta Maria López Vicuña",
+                "pl": "Wincencja Maria López Vicuña"
+            },
+            "sources": {
+                "reliable-death-anniversary": "26 XII",
+                "feast": "26 XII",
+                "mr-2004": "26 XII: #6"
+            }
+        },
         "records/patrons/zosimus/1pp": {
             "name": {
                 "la": "Zosimus, papa",

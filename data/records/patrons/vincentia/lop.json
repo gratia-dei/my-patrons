@@ -1,42 +1,56 @@
 {
-  "names": {
-    "es": [
-      "Vicenta María López Vicuña"
+    "names": {
+        "es": [
+            "Vicenta María López Vicuña"
+        ],
+        "la": [
+            "Vincentia Maria López Vicuña"
+        ],
+        "en": [
+            "Vincenta Maria López Vicuña"
+        ],
+        "pl": [
+            "Wincencja Maria López Vicuña"
+        ]
+    },
+    "forenames": ["vincentia", "maria"],
+    "surnames": [
+        {
+            "es": "López Vicuña"
+        }
     ],
-    "en": [
-      "Vincenta Maria López Vicuña"
-    ],
-    "la": [
-      "Vincentia Maria López Vicuña"
-    ],
-    "pl": [
-      "Wincencja Maria López Vicuña"
-    ]
-  },
+    "epithets": null,
 
-  "surnames": [
-    {
-      "es": "López Vicuña"
+    "active": true,
+
+    "born": ["1847-03-24"],
+    "died": ["1890-12-26"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1950-02-19"
+    },
+    "canonized": {
+        "type": "ceremonially",
+        "date": "1975-05-25"
+    },
+    "anniversary": ["12-26"],
+
+    "categories": ["femina", "virgo", "fundator"],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:dec./26#6"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/vicenta-maria-lopez-y-vicuna.html",
+        "gcatholic": "https://gcatholic.org/p/68047",
+        "wiki": "https://pl.wikipedia.org/wiki/Wincencja_Maria_L%C3%B3pez_Vicu%C3%B1a"
     }
-  ],
-
-  "born": ["1847-03-24"],
-  "died": ["1890-12-26"],
-
-  "beatified": {
-    "type": "ceremonially",
-    "date": "1950-02-19"
-  },
-  "canonized": {
-    "type": "ceremonially",
-    "date": "1975-05-25"
-  },
-
-  "also-in-martyrology": ["12-26"],
-
-  "forenames": ["vincentia", "maria"],
-  "categories": ["femina", "virgo", "fundator"],
-
-  "order": ["rmi"],
-  "order-founder": ["rmi"]
 }
