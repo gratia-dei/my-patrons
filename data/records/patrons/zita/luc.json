@@ -1,26 +1,46 @@
 {
-  "names": {
-    "la": [
-      "Zita Lucensis"
-    ],
-    "en": [
-      "Zita of Lucca"
-    ],
-    "pl": [
-      "Zyta z Lukki"
-    ]
-  },
+    "names": {
+        "la": [
+            "Zita di Lucca"
+        ],
+        "la": [
+            "Zita Lucensis"
+        ],
+        "en": [
+            "Zita of Lucca"
+        ],
+        "pl": [
+            "Zyta z Lukki"
+        ]
+    },
+    "forenames": ["zita"],
+    "surnames": null,
+    "epithets": null,
 
-  "born": ["1212"],
-  "died": ["1272-04-27"],
+    "active": true,
 
-  "canonized": {
-    "type": "equipollently",
-    "date": "1696-09-05"
-  },
+    "born": ["1212"],
+    "died": ["1278-04-27"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "also-in-martyrology": ["04-27"],
+    "categories": ["femina", "virgo"],
 
-  "forenames": ["zita"],
-  "categories": ["femina", "virgo"]
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Aprilis/27#9"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:apr./27#7"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68295",
+        "wiki": "https://pl.wikipedia.org/wiki/Zyta_z_Lukki"
+    }
 }

@@ -5357,6 +5357,18 @@
                 "mr-2004": "27 IV: #10"
             }
         },
+        "records/patrons/zita/luc": {
+            "name": {
+                "la": "Zita Lucensis",
+                "en": "Zita of Lucca",
+                "pl": "Zyta z Lukki"
+            },
+            "sources": {
+                "reliable-death-anniversary": "27 IV",
+                "mr-1956": "27 IV: #9",
+                "mr-2004": "27 IV: #7"
+            }
+        },
         "records/patrons/anastasius/1pp": {
             "name": {
                 "la": "Anastasius Pp. I",

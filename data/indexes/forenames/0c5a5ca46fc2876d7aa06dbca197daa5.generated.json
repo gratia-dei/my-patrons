@@ -1,7 +1,8 @@
 {
     "names": {
         "la": "Zita",
-        "en": "Zita"
+        "en": "Zita",
+        "it": "Zita"
     },
     "translations": {
         "la": [
@@ -12,6 +13,9 @@
         ],
         "pl": [
             "Zyta"
+        ],
+        "it": [
+            "Zita"
         ]
     },
     "links": {

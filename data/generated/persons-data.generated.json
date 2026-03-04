@@ -29806,18 +29806,19 @@
         "names": {
             "la": "Zita",
             "en": "Zita",
-            "pl": "Zyta"
+            "pl": "Zyta",
+            "it": "Zita"
         }
     },
     "patrons/zita/luc": {
-        "active": false,
+        "active": true,
         "names": {
             "la": "Zita Lucensis",
             "en": "Zita of Lucca",
             "pl": "Zyta z Lukki"
         },
         "died": [
-            "1272-04-27"
+            "1278-04-27"
         ],
         "feasts": [],
         "forenames": {
@@ -29826,7 +29827,8 @@
                 "names": {
                     "la": "Zita",
                     "en": "Zita",
-                    "pl": "Zyta"
+                    "pl": "Zyta",
+                    "it": "Zita"
                 }
             }
         }
