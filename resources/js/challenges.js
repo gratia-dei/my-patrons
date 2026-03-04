@@ -358,10 +358,8 @@ requirejs(
     doActionsDependentOfAdvancedMode();
     reloadFileTab();
 
-    infoNotification(uLanguage.getTranslation('lang-challenges-form-info', true));
-
     const [activePatrons, activeFeasts] = getActivePatronsAndFeastsCounts();
-    let migrationInfo = uLanguage.getTranslation('lang-challenges-patrons-and-feasts-migration-info', true)
+    let migrationInfo = uLanguage.getTranslation('lang-challenges-form-info', true)
       .replace(/#patrons#/g, activePatrons)
       .replace(/#feasts#/g, activeFeasts)
     ;
