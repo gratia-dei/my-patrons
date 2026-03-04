@@ -1,23 +1,46 @@
 {
-  "names": {
-    "it": [
-      "Vittorino di Pettau"
-    ],
-    "en": [
-      "Victorinus of Pettau"
-    ],
-    "la": [
-      "Victorinus Petovionensis"
-    ],
-    "pl": [
-      "Wiktoryn z Patawii"
-    ]
-  },
+    "names": {
+        "it": [
+            "Vittorino di Pettau"
+        ],
+        "la": [
+            "Victorinus Petovionensis"
+        ],
+        "en": [
+            "Victorinus of Pettau"
+        ],
+        "pl": [
+            "Wiktoryn z Patawii"
+        ]
+    },
+    "forenames": ["victorinus"],
+    "surnames": null,
+    "epithets": null,
 
-  "died": ["~303"],
+    "active": true,
 
-  "also-in-martyrology": ["11-02"],
+    "born": null,
+    "died": ["~303"],
+    "beatified": null,
+    "canonized": null,
+    "anniversary": null,
 
-  "forenames": ["victorinus"],
-  "categories": ["vir", "martyr", "episcopus"]
+    "categories": ["vir", "martyr", "episcopus"],
+
+    "data-links": {
+        "mr-1584": ["1:Nov./2#2"],
+        "mr-1584-movable": [],
+
+        "mr-1956": ["1:Novembris/2#2"],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:nov./2#2"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/71486",
+        "wiki": "https://pl.wikipedia.org/wiki/Wiktoryn_z_Patawii"
+    }
 }

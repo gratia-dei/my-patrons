@@ -29223,11 +29223,11 @@
         }
     },
     "patrons/victorinus/pet": {
-        "active": false,
+        "active": true,
         "names": {
             "it": "Vittorino di Pettau",
-            "en": "Victorinus of Pettau",
             "la": "Victorinus Petovionensis",
+            "en": "Victorinus of Pettau",
             "pl": "Wiktoryn z Patawii"
         },
         "died": [

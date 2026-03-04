@@ -5,6 +5,9 @@
         },
         "12": {
             "1": "records/patrons/multa/fid"
+        },
+        "2": {
+            "1": "records/patrons/victorinus/pet"
         }
     }
 }
