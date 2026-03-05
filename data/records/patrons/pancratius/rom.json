@@ -26,6 +26,13 @@
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
     "categories": ["vir", "martyr", "puer"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Mai./12#2"],

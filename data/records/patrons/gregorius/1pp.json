@@ -45,6 +45,13 @@
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
     "categories": ["vir", "confessor", "papa", "monachus", "doctor-ecclesiae"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Mart./12#1"],

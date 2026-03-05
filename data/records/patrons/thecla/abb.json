@@ -30,6 +30,13 @@
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
     "categories": ["femina", "virgo", "abbas"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Oct./15#9"],

@@ -33,6 +33,13 @@
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
     "categories": ["femina", "religiosus"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
         "mr-1584": [],

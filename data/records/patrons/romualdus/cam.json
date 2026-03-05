@@ -36,6 +36,13 @@
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
     "categories": ["vir", "abbas", "monachus", "eremita", "anachoreta"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Iuni./19#6"],
