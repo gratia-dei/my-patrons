@@ -36,6 +36,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["04-12", "11-16"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "medicus"],
 
     "data-links": {

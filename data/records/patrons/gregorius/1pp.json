@@ -42,6 +42,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": null,
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "confessor", "papa", "monachus", "doctor-ecclesiae"],
 
     "data-links": {

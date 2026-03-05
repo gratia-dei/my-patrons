@@ -60,6 +60,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["11-15"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
 
     "data-links": {

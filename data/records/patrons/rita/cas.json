@@ -36,6 +36,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["05-22"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["femina", "vidua", "religiosus", "monialis"],
 
     "data-links": {

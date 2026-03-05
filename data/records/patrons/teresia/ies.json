@@ -48,6 +48,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["10-15"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["femina", "virgo", "doctor-ecclesiae"],
 
     "data-links": {

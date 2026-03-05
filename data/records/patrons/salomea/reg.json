@@ -24,6 +24,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": null,
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["femina", "coniunx", "abbas", "professa", "regina"],
 
     "data-links": {

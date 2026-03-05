@@ -34,6 +34,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": null,
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "presbyter", "anachoreta", "stylita"],
 
     "data-links": {

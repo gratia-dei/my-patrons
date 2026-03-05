@@ -26,6 +26,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": null,
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["femina", "vidua", "monialis", "solitarius", "hegumenus"],
 
     "data-links": {

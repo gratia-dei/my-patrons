@@ -32,6 +32,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["03-23"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "episcopus", "iurisperitus"],
 
     "data-links": {

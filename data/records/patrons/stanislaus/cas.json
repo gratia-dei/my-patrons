@@ -32,6 +32,8 @@
     "doctor-of-the-church---todo": null,
     "anniversary": ["05-03"],
 
+    "status---todo": ["beatus/sanctus"],
+    "attributes---todo": ["..."],
     "categories": ["vir", "canonicus-regularis", "presbyter"],
 
     "data-links": {
