@@ -1,0 +1,24 @@
+{
+    "names": {
+        "pl": "igumenka"
+    },
+    "translations": {
+        "la": [
+            "hegumena"
+        ],
+        "en": [
+            "hegumeness"
+        ],
+        "pl": [
+            "igumenka"
+        ]
+    },
+    "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        }
+    }
+}
