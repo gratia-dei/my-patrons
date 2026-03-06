@@ -53,9 +53,6 @@
     "1067a19924602f0e33cb5b4ebaff02ed": {
         "pl": "papież"
     },
-    "1259ccdcb64a0245db891f222a1e4436": {
-        "en": "former"
-    },
     "12fad3a5f2ecde4f7b516aaf952ee350": {
         "la": "poenitens"
     },
@@ -131,10 +128,6 @@
     "23fb08be8c3e1fb32e69098152991c98": {
         "pl": "legat"
     },
-    "2412f780d2a33cbb6d31e39f3931fc6f": {
-        "la": "formator",
-        "pl": "formator"
-    },
     "249ef937372dec2eb1a1220b33376bd0": {
         "pl": "lewita"
     },
@@ -178,6 +171,9 @@
     },
     "3012f2de49cdf29c733029ee828680d2": {
         "la": "coenobita"
+    },
+    "316091241a12c810e6e1f4f7b24028b5": {
+        "la": "formatrix"
     },
     "31f48939f268e29ba8755294708c3a76": {
         "pl": "archidiakon"
@@ -389,6 +385,9 @@
     },
     "743e0b1a701ac72663b83efb0d64051f": {
         "pl": "rekluza"
+    },
+    "75de81200d41577ca01859a42dcb3695": {
+        "en": "formatress"
     },
     "78618192d4811e2acb872920f87df475": {
         "la": "hegumenus"
@@ -788,6 +787,9 @@
     },
     "f04a8849d5fbd6f51b032d1a29866c81": {
         "la": "constitutor"
+    },
+    "f06850d126ec31e6e7c9012636dcc8c3": {
+        "pl": "formatorka"
     },
     "f0a387ce4ce0c1ce50b7cafaf6347aec": {
         "la": "paterfamilias"
