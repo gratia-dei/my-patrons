@@ -1,14 +1,12 @@
 {
     "names": {
-        "pl": "księżna"
+        "en": "duchess"
     },
     "translations": {
         "la": [
-            "principissa",
             "ducissa"
         ],
         "en": [
-            "princess",
             "duchess"
         ],
         "pl": [
@@ -16,12 +14,6 @@
         ]
     },
     "links": {
-        "records/patrons/agnes/pra": {
-            "cs": "Anežka Česká",
-            "la": "Agnes de Bohemia",
-            "en": "Agnes of Bohemia",
-            "pl": "Agnieszka Przemyślidka"
-        },
         "records/patrons/hedwigis/duc": {
             "de": "Hedwig von Andechs",
             "la": "Hedwigis ducissa Polonorum",
