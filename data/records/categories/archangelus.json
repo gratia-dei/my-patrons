@@ -4,6 +4,10 @@
         "en": "archangel",
         "pl": "archanioł"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFFFFF",
     "description": {
         "en": "description coming soon ...",

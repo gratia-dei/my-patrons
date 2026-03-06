@@ -4,6 +4,10 @@
         "en": "confessor",
         "pl": "wyznawca"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#00B300",
     "description": {
         "en": "description coming soon ...",

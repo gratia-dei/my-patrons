@@ -4,6 +4,10 @@
         "en": "pope",
         "pl": "papież"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#EEEEEE",
     "description": {
         "en": "description coming soon ...",

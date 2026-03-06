@@ -4,6 +4,10 @@
         "en": "martyr / martyress",
         "pl": "męczennik / męczennica"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#DC3545",
     "description": {
         "en": "description coming soon ...",

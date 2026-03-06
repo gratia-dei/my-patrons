@@ -4,6 +4,10 @@
         "en": "penitent",
         "pl": ["pokutnik", "pokutnica"]
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#DC3545",
     "description": {
         "en": "description coming soon ...",

@@ -4,6 +4,10 @@
         "en": "subdeacon",
         "pl": "subdiakon"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#CCCCCC",
     "description": {
         "en": "description coming soon ...",

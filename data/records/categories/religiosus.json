@@ -4,6 +4,10 @@
         "en": "religious",
         "pl": "zakonnik / zakonnica"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#000000",
     "description": {
         "en": "description coming soon ...",

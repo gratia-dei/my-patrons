@@ -4,6 +4,10 @@
         "en": "servant",
         "pl": "służący / służąca"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#000000",
     "description": {
         "en": "description coming soon ...",

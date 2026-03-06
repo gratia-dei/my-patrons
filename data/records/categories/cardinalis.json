@@ -4,6 +4,10 @@
         "en": "cardinal",
         "pl": "kardynał"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#B300B3",
     "description": {
         "en": "description coming soon ...",

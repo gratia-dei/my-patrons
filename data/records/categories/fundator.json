@@ -4,6 +4,10 @@
         "en": "founder / foundress",
         "pl": "fundator / fundatorka"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#000000",
     "description": {
         "en": "description coming soon ...",

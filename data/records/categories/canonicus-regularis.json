@@ -4,6 +4,10 @@
         "en": "canon regular",
         "pl": "kanonik regularny"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#B300B3",
     "description": {
         "en": "description coming soon ...",

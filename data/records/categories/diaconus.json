@@ -4,6 +4,10 @@
         "en": "deacon",
         "pl": "diakon"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#CCCCCC",
     "description": {
         "en": "description coming soon ...",

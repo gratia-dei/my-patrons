@@ -4,6 +4,10 @@
         "en": "queen",
         "pl": "królowa"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#0000B3",
     "description": {
         "en": "description coming soon ...",

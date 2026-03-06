@@ -4,6 +4,10 @@
         "en": "spouse / husband / wife",
         "pl": "małżonek / mąż / żona"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFFFFF",
     "description": {
         "en": "description coming soon ...",

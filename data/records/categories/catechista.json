@@ -4,6 +4,10 @@
         "en": "catechist",
         "pl": "katechista"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFA500",
     "description": {
         "en": "description coming soon ...",

@@ -4,6 +4,10 @@
         "en": "associate bishop",
         "pl": "biskup pomocniczy"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#B300B3",
     "description": {
         "en": "description coming soon ...",

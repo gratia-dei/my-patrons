@@ -4,6 +4,10 @@
         "en": "neophyta",
         "pl": "neofita"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFFFFF",
     "description": {
         "en": "description coming soon ...",

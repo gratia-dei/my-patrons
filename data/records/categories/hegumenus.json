@@ -4,6 +4,10 @@
         "en": "hegumen / hegumeness",
         "pl": "igumen / igumenka"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#A15116",
     "description": {
         "en": "description coming soon ...",

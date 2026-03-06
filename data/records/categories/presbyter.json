@@ -4,6 +4,10 @@
         "en": "presbyter",
         "pl": "prezbiter"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#555555",
     "description": {
         "en": "description coming soon ...",

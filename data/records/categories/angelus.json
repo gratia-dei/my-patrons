@@ -4,6 +4,10 @@
         "en": "angel",
         "pl": "anioł"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFFFFF",
     "description": {
         "en": "description coming soon ...",

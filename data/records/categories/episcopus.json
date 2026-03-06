@@ -4,6 +4,10 @@
         "en": "bishop",
         "pl": "biskup"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#B300B3",
     "description": {
         "en": "description coming soon ...",

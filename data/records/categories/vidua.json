@@ -4,6 +4,10 @@
         "en": "widow",
         "pl": "wdowa"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#381A1A",
     "description": {
         "en": "description coming soon ...",

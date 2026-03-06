@@ -4,6 +4,10 @@
         "en": "cenobite",
         "pl": "cenobita"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#A15116",
     "description": {
         "en": "description coming soon ...",

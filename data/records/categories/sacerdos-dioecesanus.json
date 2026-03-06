@@ -4,6 +4,10 @@
         "en": "diocesan priest",
         "pl": "kapłan diecezjalny"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#555555",
     "description": {
         "en": "description coming soon ...",

@@ -4,6 +4,10 @@
         "en": "tertiary",
         "pl": "tercjarz / tercjarka"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#000000",
     "description": {
         "en": "description coming soon ...",

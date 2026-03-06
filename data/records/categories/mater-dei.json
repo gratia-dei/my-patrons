@@ -4,6 +4,10 @@
         "en": "Mother of God",
         "pl": "Matka Boża"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#0DCAF0",
     "description": {
         "en": "description coming soon ...",

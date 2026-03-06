@@ -4,6 +4,10 @@
         "en": "prophet / prophetess",
         "pl": "prorok / prorokini"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#7000A1",
     "description": {
         "en": "description coming soon ...",

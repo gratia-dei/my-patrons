@@ -4,6 +4,10 @@
         "en": "archideacon",
         "pl": "archidiakon"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#CCCCCC",
     "description": {
         "en": "description coming soon ...",

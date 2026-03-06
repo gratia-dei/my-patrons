@@ -4,6 +4,10 @@
         "en": "acolyte",
         "pl": "akolita"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFA500",
     "description": {
         "en": "description coming soon ...",

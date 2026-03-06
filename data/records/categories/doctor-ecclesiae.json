@@ -4,6 +4,10 @@
         "en": "doctor of the Church",
         "pl": "doktor Kościoła"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#E6E600",
     "description": {
         "en": "description coming soon ...",

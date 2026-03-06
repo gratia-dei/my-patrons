@@ -4,6 +4,10 @@
         "en": "instituter / institutress",
         "pl": "instytutor / instytutorka"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#000000",
     "description": {
         "en": "description coming soon ...",

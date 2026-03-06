@@ -4,6 +4,10 @@
         "en": "priest",
         "pl": "kapłan"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#555555",
     "description": {
         "en": "description coming soon ...",

@@ -4,6 +4,10 @@
         "en": "virgin",
         "pl": "dziewica"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#FFB6DA",
     "description": {
         "en": "description coming soon ...",

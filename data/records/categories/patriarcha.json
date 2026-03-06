@@ -4,6 +4,10 @@
         "en": "patriarch",
         "pl": "patriarcha"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#7000A1",
     "description": {
         "en": "description coming soon ...",

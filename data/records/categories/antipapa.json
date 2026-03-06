@@ -4,6 +4,10 @@
         "en": "(anti)pope",
         "pl": "(anty)papież"
     },
+
+    "required---todo": ["..."],
+    "after---todo": ["..."],
+
     "color": "#EEEEEE",
     "description": {
         "en": "description coming soon ...",
