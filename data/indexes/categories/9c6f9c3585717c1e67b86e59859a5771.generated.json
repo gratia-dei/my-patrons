@@ -104,17 +104,6 @@
             "en": "John Baptist de la Salle",
             "pl": "Jan Chrzciciel de la Salle"
         },
-        "records/patrons/iuliana/fal": {
-            "it": "Giuliana Falconieri",
-            "la": "Iuliana Falconieri",
-            "en": "Juliana Falconieri",
-            "pl": "Juliana Falconieri"
-        },
-        "records/patrons/maria/kar": {
-            "pl": "Maria Karłowska",
-            "la": "Maria Karlowska",
-            "en": "Maria Karłowska"
-        },
         "records/patrons/norbertus/mag": {
             "de": "Norbert von Xanten",
             "la": "Norbertus Magdeburgensis",
@@ -126,18 +115,6 @@
             "la": "Patrus Iulianus Eymard",
             "en": "Peter Julian Eymanrd",
             "pl": "Piotr Julian Eymard"
-        },
-        "records/patrons/raphaela/por": {
-            "es": "Rafaela María del Sagrado Corazón",
-            "la": "Raphaela Maria a Sacro Corde",
-            "en": "Rafaela Mary of the Sacred Heart",
-            "pl": "Rafaela Maria od Najświętszego Serca"
-        },
-        "records/patrons/teresia/gon": {
-            "sq": "Tereza e Kalkutës",
-            "la": "Teresia de Calcutta",
-            "en": "Therese of Calcutta",
-            "pl": "Teresa z Kalkuty"
         },
         "records/patrons/vincentius/pau": {
             "fr": "Vincent de Paul",

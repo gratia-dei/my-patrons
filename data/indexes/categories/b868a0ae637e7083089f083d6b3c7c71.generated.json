@@ -1,0 +1,41 @@
+{
+    "names": {
+        "la": "institutrix"
+    },
+    "translations": {
+        "la": [
+            "institutrix"
+        ],
+        "en": [
+            "institutress"
+        ],
+        "pl": [
+            "instytutorka"
+        ]
+    },
+    "links": {
+        "records/patrons/iuliana/fal": {
+            "it": "Giuliana Falconieri",
+            "la": "Iuliana Falconieri",
+            "en": "Juliana Falconieri",
+            "pl": "Juliana Falconieri"
+        },
+        "records/patrons/maria/kar": {
+            "pl": "Maria Karłowska",
+            "la": "Maria Karlowska",
+            "en": "Maria Karłowska"
+        },
+        "records/patrons/raphaela/por": {
+            "es": "Rafaela María del Sagrado Corazón",
+            "la": "Raphaela Maria a Sacro Corde",
+            "en": "Rafaela Mary of the Sacred Heart",
+            "pl": "Rafaela Maria od Najświętszego Serca"
+        },
+        "records/patrons/teresia/gon": {
+            "sq": "Tereza e Kalkutës",
+            "la": "Teresia de Calcutta",
+            "en": "Therese of Calcutta",
+            "pl": "Teresa z Kalkuty"
+        }
+    }
+}

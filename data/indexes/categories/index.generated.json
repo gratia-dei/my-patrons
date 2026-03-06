@@ -325,6 +325,9 @@
     "5652ea6b052915bdfd36d3aad6c5a2b3": {
         "pl": "słupnik"
     },
+    "583b75742c9d25ae041a3a7d78b47dab": {
+        "en": "institutress"
+    },
     "590f35821fbed7b2ab58a9dbaf36c42d": {
         "la": "vir"
     },
@@ -647,6 +650,9 @@
     "b74ccdd4efa84a32ee99e98ebfdb397f": {
         "pl": "prawnik"
     },
+    "b868a0ae637e7083089f083d6b3c7c71": {
+        "la": "institutrix"
+    },
     "b9966b903e860aba4f7deec8262051ae": {
         "en": "apostle"
     },
@@ -805,6 +811,9 @@
     },
     "e2942a04780e223b215eb8b663cf5353": {
         "en": "count"
+    },
+    "e4656f752c90f81803ec1365c98148c7": {
+        "pl": "instytutorka"
     },
     "e6a4bd1346dae883f84426f7602c8fd4": {
         "pl": "kleryk"
