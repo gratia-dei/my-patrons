@@ -43,29 +43,11 @@
             "en": "Berthold of Calabria",
             "pl": "Bertold z Kalabrii"
         },
-        "records/patrons/birgitta/sue": {
-            "sv": "Birgitta Birgersdotter",
-            "la": "Birgitta de Suecia",
-            "en": "Bridget of Sweden",
-            "pl": "Brygida Szwedzka"
-        },
         "records/patrons/carolus/set": {
             "it": "Carlo da Sezze",
             "la": "Carolus de Setia",
             "en": "Charles of Sezze",
             "pl": "Karol z Sezze"
-        },
-        "records/patrons/elisabeth/lus": {
-            "es": "Elisabet de Aragón",
-            "la": "Elisabeth Aragonae",
-            "en": "Elizabeth of Aragon",
-            "pl": "Elżbieta Aragońska"
-        },
-        "records/patrons/francisca/rom": {
-            "it": "Francesca Romana",
-            "la": "Francisca Romana",
-            "en": "Frances of Rome",
-            "pl": "Franciszka Rzymianka"
         },
         "records/patrons/franciscus/gar": {
             "es": "Francisco Gárate Aranguren",
@@ -95,12 +77,6 @@
             "la": "Gundisalvus Garcia",
             "en": "Gonsalo Garcia",
             "pl": "Gonsalwy Garcia"
-        },
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "la": "Hedwigis ducissa Polonorum",
-            "en": "Hedwig of Silesia",
-            "pl": "Jadwiga Śląska"
         },
         "records/patrons/iacobinus/can": {
             "it": "Giacomino de' Canepacci",
@@ -144,38 +120,10 @@
             "en": "John Soan of Goto",
             "pl": "Jan Soan z Goto"
         },
-        "records/patrons/iosephina/bak": {
-            "ar": "جوزفين بخيتة",
-            "la": "Iosephina Bakhita",
-            "en": "Josephine Bakhita",
-            "pl": "Józefina Bakhita"
-        },
         "records/patrons/iosephus/zap": {
             "pl": "Józef Zapłata",
             "la": "Iosephus Zaplata",
             "en": "Joseph Zaplata"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "la": "Margarita de Lotharingia",
-            "en": "Margaret of Lorraine",
-            "pl": "Małgorzata z Lotaryngii"
-        },
-        "records/patrons/maria/dem": {
-            "en": "Miriam Teresa Demjanovich",
-            "la": "Maria Teresia Demjanovich",
-            "pl": "Maria Teresa Demjanovich"
-        },
-        "records/patrons/maria/sou": {
-            "fr": "Bernadette-Marie Soubirous",
-            "la": "Maria Bernarda Soubirous",
-            "en": "Bernadette Soubirous",
-            "pl": "Bernadeta Soubirous"
-        },
-        "records/patrons/martha/wie": {
-            "pl": "Marta Maria Wiecka",
-            "la": "Martha Maria Wiecka",
-            "en": "Martha Mary Wiecka"
         },
         "records/patrons/martinus/por": {
             "es": "Martín de Porres",
@@ -212,12 +160,6 @@
             "la": "Pius a Sancto Aloysio",
             "en": "Pius of Saint Aloysius",
             "pl": "Pius od św. Alojzego"
-        },
-        "records/patrons/rita/cas": {
-            "it": "Rita da Cascia",
-            "la": "Rita de Cassia",
-            "en": "Rita of Cascia",
-            "pl": "Rita z Cascii"
         },
         "records/patrons/simon/bal": {
             "it": "Simone Balacchi",

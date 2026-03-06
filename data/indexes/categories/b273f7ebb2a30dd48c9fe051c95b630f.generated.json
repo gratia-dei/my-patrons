@@ -1,0 +1,76 @@
+{
+    "names": {
+        "la": "religiosa"
+    },
+    "translations": {
+        "la": [
+            "religiosa"
+        ],
+        "en": [
+            "religious"
+        ],
+        "pl": [
+            "zakonnica"
+        ]
+    },
+    "links": {
+        "records/patrons/birgitta/sue": {
+            "sv": "Birgitta Birgersdotter",
+            "la": "Birgitta de Suecia",
+            "en": "Bridget of Sweden",
+            "pl": "Brygida Szwedzka"
+        },
+        "records/patrons/elisabeth/lus": {
+            "es": "Elisabet de Aragón",
+            "la": "Elisabeth Aragonae",
+            "en": "Elizabeth of Aragon",
+            "pl": "Elżbieta Aragońska"
+        },
+        "records/patrons/francisca/rom": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
+        "records/patrons/hedwigis/duc": {
+            "de": "Hedwig von Andechs",
+            "la": "Hedwigis ducissa Polonorum",
+            "en": "Hedwig of Silesia",
+            "pl": "Jadwiga Śląska"
+        },
+        "records/patrons/iosephina/bak": {
+            "ar": "جوزفين بخيتة",
+            "la": "Iosephina Bakhita",
+            "en": "Josephine Bakhita",
+            "pl": "Józefina Bakhita"
+        },
+        "records/patrons/margarita/lot": {
+            "fr": "Marguerite de Lorraine-Vaudémont",
+            "la": "Margarita de Lotharingia",
+            "en": "Margaret of Lorraine",
+            "pl": "Małgorzata z Lotaryngii"
+        },
+        "records/patrons/maria/dem": {
+            "en": "Miriam Teresa Demjanovich",
+            "la": "Maria Teresia Demjanovich",
+            "pl": "Maria Teresa Demjanovich"
+        },
+        "records/patrons/maria/sou": {
+            "fr": "Bernadette-Marie Soubirous",
+            "la": "Maria Bernarda Soubirous",
+            "en": "Bernadette Soubirous",
+            "pl": "Bernadeta Soubirous"
+        },
+        "records/patrons/martha/wie": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        },
+        "records/patrons/rita/cas": {
+            "it": "Rita da Cascia",
+            "la": "Rita de Cassia",
+            "en": "Rita of Cascia",
+            "pl": "Rita z Cascii"
+        }
+    }
+}

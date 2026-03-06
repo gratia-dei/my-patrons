@@ -4,13 +4,15 @@
     },
     "translations": {
         "la": [
-            "religiosus"
+            "religiosus",
+            "religiosa"
         ],
         "en": [
             "religious"
         ],
         "pl": [
-            "zakonnik"
+            "zakonnik",
+            "zakonnica"
         ]
     },
     "links": {
