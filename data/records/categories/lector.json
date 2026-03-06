@@ -5,7 +5,7 @@
         "pl": "lektor"
     },
 
-    "requied": ["vir"],
+    "required": ["vir"],
 
     "color": "#888888",
     "description": {

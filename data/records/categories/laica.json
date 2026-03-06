@@ -5,7 +5,7 @@
         "pl": "świecka"
     },
 
-    "requied": ["femina"],
+    "required": ["femina"],
 
     "color": "#888888",
     "description": {
