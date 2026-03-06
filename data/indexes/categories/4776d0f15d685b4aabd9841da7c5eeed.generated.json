@@ -1,0 +1,157 @@
+{
+    "names": {
+        "la": "fundatrix"
+    },
+    "translations": {
+        "la": [
+            "fundatrix"
+        ],
+        "en": [
+            "foundress"
+        ],
+        "pl": [
+            "fundatorka"
+        ]
+    },
+    "links": {
+        "records/patrons/agnes/mon": {
+            "it": "Agnese di Montepulciano",
+            "la": "Agnes de Monte Politiano",
+            "en": "Agnes of Montepulciano",
+            "pl": "Agnieszka z Montepulciano"
+        },
+        "records/patrons/eugenia/rav": {
+            "it": "Eugenia Ravasco",
+            "la": "Eugenia Ravasco",
+            "en": "Eugenia Ravasco",
+            "pl": "Eugenia Ravasco"
+        },
+        "records/patrons/gertrudis/com": {
+            "it": "Geltrude Comensoli",
+            "la": "Gertrudis Comensoli",
+            "en": "Gertrude Comensoli",
+            "pl": "Gertruda Comensoli"
+        },
+        "records/patrons/ioanna/les": {
+            "fr": "Jeanne de Lestonnac",
+            "la": "Ioanna de Lestonnac",
+            "en": "Joan of Lestonnac",
+            "pl": "Joanna de Lestonnac"
+        },
+        "records/patrons/ioanna/val": {
+            "fr": "Jeanne de Valois",
+            "la": "Ioanna de Valois",
+            "en": "Joan of Valois",
+            "pl": "Joanna de Valois"
+        },
+        "records/patrons/iosephina/bon": {
+            "it": "Giuseppina Gabriella Bonino",
+            "la": "Iosephina Gabriela Bonino",
+            "en": "Josephine Gabriella Bonino",
+            "pl": "Józefina Gabriela Bonino"
+        },
+        "records/patrons/lucia/fil": {
+            "it": "Lucia Filippini",
+            "la": "Lucia Filippini",
+            "en": "Lucy Filippini",
+            "pl": "Łucja Filippini"
+        },
+        "records/patrons/ludovica/mon": {
+            "fr": "Louise-Thérèse de Montaignac de Chauvance",
+            "la": "Ludovica Teresia de Montaignac de Chauvance",
+            "en": "Louise Therese de Montaignac de Chauvance",
+            "pl": "Ludwika Teresa de Montaignac de Chauvance"
+        },
+        "records/patrons/magdalena/can": {
+            "it": "Maddalena di Canossa",
+            "la": "Magdalena de Canossa",
+            "en": "Magdalene of Canossa",
+            "pl": "Magdalena z Canossy"
+        },
+        "records/patrons/marcellina/dar": {
+            "pl": "Marcelina Darowska",
+            "la": "Marcellina Darowska",
+            "en": "Marcelina Darowska"
+        },
+        "records/patrons/margarita/sze": {
+            "pl": "Małgorzata Łucja Szewczyk",
+            "la": "Margarita Lucia Szewczyk",
+            "en": "Margaret Lucy Szewczyk"
+        },
+        "records/patrons/maria/kas": {
+            "de": "Maria Katharina Kasper",
+            "la": "Maria Catharina Kasper",
+            "en": "Maria Katharina Kasper",
+            "pl": "Maria Katarzyna Kasper"
+        },
+        "records/patrons/maria/man": {
+            "it": "Maria Domenica Mantovani",
+            "la": "Maria Dominica Mantovani",
+            "en": "Maria Dominica Mantovani",
+            "pl": "Maria Dominika Mantovani"
+        },
+        "records/patrons/maria/maz": {
+            "it": "Maria Domenica Mazzarello",
+            "la": "Maria Dominica Mazzarello",
+            "en": "Maria Dominica Mazzarello",
+            "pl": "Maria Dominika Mazzarello"
+        },
+        "records/patrons/maria/pos": {
+            "fr": "Marie-Madeleine Postel",
+            "la": "Maria Magdalena Postel",
+            "en": "Mary Magdalene Postel",
+            "pl": "Maria Magdalena Postel"
+        },
+        "records/patrons/maria/ros": {
+            "it": "Maria Crocifissa Di Rosa",
+            "la": "Maria Crucifixa De Rosa",
+            "en": "Maria Crocifissa di Rosa",
+            "pl": "Maria Krucyfiksa di Rosa"
+        },
+        "records/patrons/maria/rub": {
+            "it": "Maria Francesca di Gesù Rubatto",
+            "la": "Maria Francisca a Iesu Rubatto",
+            "en": "Maria Francesca of Jesus Rubatto",
+            "pl": "Maria Franciszka od Jezusa Rubatto"
+        },
+        "records/patrons/maria/sie": {
+            "pl": "Maria od Jezusa Dobrego Pasterza",
+            "la": "Maria a Iesu Bono Pastore",
+            "en": "Maria of Jesus the Good Shepherd"
+        },
+        "records/patrons/maria/wul": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        },
+        "records/patrons/paulina/jar": {
+            "fr": "Pauline Jaricot",
+            "la": "Paulina Maria Jaricot",
+            "en": "Pauline Jaricot",
+            "pl": "Paulina Jaricot"
+        },
+        "records/patrons/sophia/mac": {
+            "pl": "Zofia Czeska",
+            "la": "Sophia Maciejowska-Czeska",
+            "en": "Sophia Maciejowska-Czeska"
+        },
+        "records/patrons/teresia/ver": {
+            "it": "Teresa Eustochio Verzeri",
+            "la": "Teresia Eustochius Verzeri",
+            "en": "Therese Eustochia Verzeri",
+            "pl": "Teresa Eustochia Verzeri"
+        },
+        "records/patrons/ursula/led": {
+            "pl": "Urszula Ledóchowska",
+            "la": "Urszula Ledóchowska",
+            "en": "Ursula Ledóchowska"
+        },
+        "records/patrons/vincentia/lop": {
+            "es": "Vicenta María López Vicuña",
+            "la": "Vincentia Maria López Vicuña",
+            "en": "Vincenta Maria López Vicuña",
+            "pl": "Wincencja Maria López Vicuña"
+        }
+    }
+}
