@@ -32,7 +32,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "vidua", "tertiarius"],
+    "categories": ["femina", "vidua"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]

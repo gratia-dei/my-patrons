@@ -43,7 +43,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "virgo", "sanctimonialis", "tertiarius"],
+    "categories": ["femina", "virgo", "sanctimonialis"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]
