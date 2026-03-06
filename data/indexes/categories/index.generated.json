@@ -484,6 +484,9 @@
     "9592b3ad4d7f96bc644c7d6f34c06576": {
         "la": "carnifex"
     },
+    "964d198e2bec39022a8380e29f136ce7": {
+        "pl": "świecka"
+    },
     "97409ca42cd078f8e8725347f11b866d": {
         "la": "laicus"
     },
@@ -771,6 +774,9 @@
     "e71314dc2768dcf6fd370ad09ad30959": {
         "la": "levita"
     },
+    "e758ae7ad5e88b34dc9deb8945f79fe7": {
+        "la": "laica"
+    },
     "e759c6e135106a930fe9860d04a84a14": {
         "la": "scholasticus"
     },
@@ -819,5 +825,8 @@
     },
     "fd460e9935392044fc9d97bae20c9c80": {
         "en": "styllite"
+    },
+    "ffca939aaee627c32c3d1e58d096bb83": {
+        "en": "laywoman"
     }
 }
