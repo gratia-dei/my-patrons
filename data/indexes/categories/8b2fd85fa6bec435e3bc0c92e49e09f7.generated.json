@@ -20,12 +20,6 @@
             "en": "Giles the Hermit",
             "pl": "Idzi Eremita"
         },
-        "records/patrons/agnes/pra": {
-            "cs": "Anežka Česká",
-            "la": "Agnes de Bohemia",
-            "en": "Agnes of Bohemia",
-            "pl": "Agnieszka Przemyślidka"
-        },
         "records/patrons/anselmus/can": {
             "en": "Anselm of Canterbury",
             "la": "Anselmus Cantuariensis",
@@ -66,33 +60,10 @@
             "en": "Gerasimus of the Jordan",
             "pl": "Gerazym Jordanita"
         },
-        "records/patrons/gertrudis/niv": {
-            "nl": "Gertrudis van Nijvel",
-            "la": "Gertrudis Nivigellensis",
-            "en": "Gertrude of Nivelles",
-            "pl": "Gertruda z Nivelles"
-        },
-        "records/patrons/ioanna/bon": {
-            "it": "Giovanna Maria Bonomo",
-            "la": "Ioanna Maria Bonomo",
-            "en": "Joan Mary Bonomo",
-            "pl": "Joanna Maria Bonomo"
-        },
-        "records/patrons/irmina/tre": {
-            "la": "Irmina de Oeren",
-            "en": "Irmina of Oeren",
-            "pl": "Irmina z Oeren"
-        },
         "records/patrons/macarius/mag": {
             "la": "Macarius Magnus",
             "en": "Maracius the Great",
             "pl": "Makary Wielki"
-        },
-        "records/patrons/magdalena/alb": {
-            "it": "Maddalena Albrici",
-            "la": "Magdalena Albrici",
-            "en": "Magdalena Albrici",
-            "pl": "Magdalena Albrici"
         },
         "records/patrons/magnus/abb": {
             "de": "Magnus von Füssen",
@@ -140,17 +111,6 @@
             "la": "Rupertus Salisburgensis",
             "en": "Rupert of Salzburg",
             "pl": "Rupert z Salzburga"
-        },
-        "records/patrons/salomea/reg": {
-            "pl": "Salomea Piastówna",
-            "la": "Salomea Regina Haliciensis",
-            "en": "Salomea of the Poland"
-        },
-        "records/patrons/thecla/abb": {
-            "de": "Thekla von Kitzingen",
-            "la": "Thecla de Kitzingen",
-            "en": "Thecla of Kitzingen",
-            "pl": "Tekla z Kitzingen"
         },
         "records/patrons/wilfridus/ebo": {
             "en": "Wilfrid of York",
