@@ -1,26 +1,19 @@
 {
     "names": {
-        "en": "catechumen"
+        "pl": "katechumenka"
     },
     "translations": {
         "la": [
-            "catechumenus",
             "catechumena"
         ],
         "en": [
             "catechumen"
         ],
         "pl": [
-            "katechumen",
             "katechumenka"
         ]
     },
     "links": {
-        "records/patrons/ambrosius/med": {
-            "la": "Ambrosius Mediolanensis",
-            "en": "Ambrose of Milan",
-            "pl": "Ambroży z Mediolanu"
-        },
         "records/patrons/felicitas/car": {
             "la": "Felicitas Carthaginensis",
             "en": "Felicity of Carthage",
