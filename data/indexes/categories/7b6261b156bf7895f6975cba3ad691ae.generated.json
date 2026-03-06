@@ -1,33 +1,19 @@
 {
     "names": {
-        "en": "establisher"
+        "pl": "twórczyni"
     },
     "translations": {
         "la": [
-            "constitutor",
             "constitutrix"
         ],
         "en": [
             "establisher"
         ],
         "pl": [
-            "twórca",
             "twórczyni"
         ]
     },
     "links": {
-        "records/patrons/ignatius/loy": {
-            "es": "Ignacio de Loyola",
-            "la": "Ignatius de Loyola",
-            "en": "Ignatius of Loyola",
-            "pl": "Ignacy Loyola"
-        },
-        "records/patrons/ioannes/deo": {
-            "pt": "João de Deus",
-            "la": "Ioannes de Deo",
-            "en": "John of God",
-            "pl": "Jan Boży"
-        },
         "records/patrons/maria/oul": {
             "fr": "Marie de Jésus d'Oultremont",
             "la": "Maria a Iesu d'Oultremont",
