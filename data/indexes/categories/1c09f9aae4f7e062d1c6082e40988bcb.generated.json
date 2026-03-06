@@ -1,0 +1,149 @@
+{
+    "names": {
+        "en": "instituter"
+    },
+    "translations": {
+        "la": [
+            "institutor"
+        ],
+        "en": [
+            "instituter"
+        ],
+        "pl": [
+            "instytutor"
+        ]
+    },
+    "links": {
+        "records/patrons/aloysius/ori": {
+            "it": "Luigi Orione",
+            "la": "Aloysius Orione",
+            "en": "Aloise Orione",
+            "pl": "Alojzy Orione"
+        },
+        "records/patrons/aloysius/var": {
+            "it": "Luigi Variara",
+            "la": "Aloysius Variara",
+            "en": "Aloise Variara",
+            "pl": "Alojzy Variara"
+        },
+        "records/patrons/antonius/zac": {
+            "it": "Antonio Maria Zaccaria",
+            "la": "Antonius Maria Zaccaria",
+            "en": "Anthony Mary Zaccaria",
+            "pl": "Antoni Maria Zaccaria"
+        },
+        "records/patrons/bartholomaeus/bre": {
+            "it": "Bartolomeo da Breganze",
+            "la": "Bartholomaeus de Bregantia",
+            "en": "Bartholomew of Breganze",
+            "pl": "Bartłomiej z Vicenzy"
+        },
+        "records/patrons/bruno/ere": {
+            "de": "Bruno von Köln",
+            "la": "Bruno Cartusiensis",
+            "en": "Bruno of Cologne",
+            "pl": "Bruno Kartuz"
+        },
+        "records/patrons/caietanus/cat": {
+            "it": "Gaetano Catanoso",
+            "la": "Caietanus Catanoso",
+            "en": "Cajetan Catanoso",
+            "pl": "Kajetan Catanoso"
+        },
+        "records/patrons/camillus/lel": {
+            "it": "Camillo de Lellis",
+            "la": "Camillus de Lellis",
+            "en": "Camillus de Lellis",
+            "pl": "Kamil de Lellis"
+        },
+        "records/patrons/franciscus/pau": {
+            "it": "Francesco da Paola",
+            "la": "Franciscus de Paula",
+            "en": "Francis of Paola",
+            "pl": "Franciszek z Paoli"
+        },
+        "records/patrons/franciscus/sal": {
+            "fr": "François de Sales",
+            "la": "Franciscus de Sales",
+            "en": "Francis de Sales",
+            "pl": "Franciszek Salezy"
+        },
+        "records/patrons/gaspar/ber": {
+            "it": "Gaspare Bertoni",
+            "la": "Gaspar Bertoni",
+            "en": "Casper Bertoni",
+            "pl": "Kasper Bertoni"
+        },
+        "records/patrons/gaspar/buf": {
+            "it": "Gaspare del Bufalo",
+            "la": "Gaspar del Bufalo",
+            "en": "Gaspar del Bufalo",
+            "pl": "Kasper del Bufalo"
+        },
+        "records/patrons/hieronymus/emi": {
+            "it": "Girolamo Emiliani",
+            "la": "Hieronymus Emiliani",
+            "en": "Jerome Emiliani",
+            "pl": "Hieronim Emiliani"
+        },
+        "records/patrons/ioannes/deo": {
+            "pt": "João de Deus",
+            "la": "Ioannes de Deo",
+            "en": "John of God",
+            "pl": "Jan Boży"
+        },
+        "records/patrons/ioannes/mat": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
+        "records/patrons/ioannes/sal": {
+            "fr": "Jean-Baptiste de la Salle",
+            "la": "Ioannes Baptista de la Salle",
+            "en": "John Baptist de la Salle",
+            "pl": "Jan Chrzciciel de la Salle"
+        },
+        "records/patrons/iuliana/fal": {
+            "it": "Giuliana Falconieri",
+            "la": "Iuliana Falconieri",
+            "en": "Juliana Falconieri",
+            "pl": "Juliana Falconieri"
+        },
+        "records/patrons/maria/kar": {
+            "pl": "Maria Karłowska",
+            "la": "Maria Karlowska",
+            "en": "Maria Karłowska"
+        },
+        "records/patrons/norbertus/mag": {
+            "de": "Norbert von Xanten",
+            "la": "Norbertus Magdeburgensis",
+            "en": "Norbert of Xanten",
+            "pl": "Norbert z Xanten"
+        },
+        "records/patrons/petrus/eym": {
+            "fr": "Pierre-Julien Eymard",
+            "la": "Patrus Iulianus Eymard",
+            "en": "Peter Julian Eymanrd",
+            "pl": "Piotr Julian Eymard"
+        },
+        "records/patrons/raphaela/por": {
+            "es": "Rafaela María del Sagrado Corazón",
+            "la": "Raphaela Maria a Sacro Corde",
+            "en": "Rafaela Mary of the Sacred Heart",
+            "pl": "Rafaela Maria od Najświętszego Serca"
+        },
+        "records/patrons/teresia/gon": {
+            "sq": "Tereza e Kalkutës",
+            "la": "Teresia de Calcutta",
+            "en": "Therese of Calcutta",
+            "pl": "Teresa z Kalkuty"
+        },
+        "records/patrons/vincentius/pau": {
+            "fr": "Vincent de Paul",
+            "la": "Vincentius de Paul",
+            "en": "Vincent de Paul",
+            "pl": "Wincenty a Paulo"
+        }
+    }
+}

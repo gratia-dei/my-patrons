@@ -1,0 +1,71 @@
+{
+    "names": {
+        "la": "uxoratus"
+    },
+    "translations": {
+        "la": [
+            "uxoratus"
+        ],
+        "en": [
+            "married man"
+        ],
+        "pl": [
+            "żonaty"
+        ]
+    },
+    "links": {
+        "records/patrons/alexius/dei": {
+            "la": "Alexius Confessor, Homo Dei",
+            "en": "Alexius Confessor, the Man of God",
+            "pl": "Aleksy Wyznawca, Człowiek Boży"
+        },
+        "records/patrons/aurelius/sab": {
+            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
+            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
+            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
+        },
+        "records/patrons/caerealis/rom": {
+            "la": "Caerealis de Roma",
+            "en": "Cereal of Rome",
+            "pl": "Cerealis z Rzymu"
+        },
+        "records/patrons/chrysanthus/dar": {
+            "la": "Chrysanthus de Roma",
+            "en": "Chrysanthus of Rome",
+            "pl": "Chryzant z Rzymu"
+        },
+        "records/patrons/felix/lil": {
+            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
+            "en": "Felix of Cordoba; with him, i.a., Liliosa",
+            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
+        },
+        "records/patrons/franciscus/bor": {
+            "es": "Francisco de Borja",
+            "la": "Franciscus Borgia",
+            "en": "Francis Borgia",
+            "pl": "Franciszek Borgiasz"
+        },
+        "records/patrons/iacobus/duc": {
+            "en": "James Duckett",
+            "la": "Iacobus Duckett",
+            "pl": "Jakub Duckett"
+        },
+        "records/patrons/ludovicus/mar": {
+            "fr": "Louis Martin",
+            "la": "Ludovicus Martin",
+            "en": "Louis Martin",
+            "pl": "Ludwik Martin"
+        },
+        "records/patrons/nicolaus/flu": {
+            "de": "Niklaus von Flüe",
+            "la": "Nicolaus de Flüe",
+            "en": "Nicholas of Flüe",
+            "pl": "Mikołaj z Flüe"
+        },
+        "records/patrons/valerianus/tib": {
+            "la": "Valerianus de Roma",
+            "en": "Valerian of Rome",
+            "pl": "Walerian z Rzymu"
+        }
+    }
+}

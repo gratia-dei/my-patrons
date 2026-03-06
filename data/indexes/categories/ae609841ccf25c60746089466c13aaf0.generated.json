@@ -1,0 +1,235 @@
+{
+    "names": {
+        "pl": "zakonnik"
+    },
+    "translations": {
+        "la": [
+            "religiosus"
+        ],
+        "en": [
+            "religious"
+        ],
+        "pl": [
+            "zakonnik"
+        ]
+    },
+    "links": {
+        "records/patrons/albertus/chm": {
+            "pl": "Albert Chmielowski",
+            "la": "Albertus Chmielowski",
+            "en": "Albert Chmielowski"
+        },
+        "records/patrons/aloysius/gon": {
+            "it": "Luigi Gonzaga",
+            "la": "Aloysius Gonzaga",
+            "en": "Aloysius Gonzaga",
+            "pl": "Alojzy Gonzaga"
+        },
+        "records/patrons/andreas/bes": {
+            "fr": "André Bessette",
+            "la": "Andreas Bessette",
+            "en": "Andrew Bessette",
+            "pl": "Andrzej Bessette"
+        },
+        "records/patrons/augustinus/gar": {
+            "es": "Agustín García Calvo",
+            "la": "Augustinus García Calvo",
+            "en": "Augustine García Calvo",
+            "pl": "Augustyn García Calvo"
+        },
+        "records/patrons/bertholdus/car": {
+            "it": "Bertoldo di Calabria",
+            "la": "Bertoldus de Calabria",
+            "en": "Berthold of Calabria",
+            "pl": "Bertold z Kalabrii"
+        },
+        "records/patrons/birgitta/sue": {
+            "sv": "Birgitta Birgersdotter",
+            "la": "Birgitta de Suecia",
+            "en": "Bridget of Sweden",
+            "pl": "Brygida Szwedzka"
+        },
+        "records/patrons/carolus/set": {
+            "it": "Carlo da Sezze",
+            "la": "Carolus de Setia",
+            "en": "Charles of Sezze",
+            "pl": "Karol z Sezze"
+        },
+        "records/patrons/elisabeth/lus": {
+            "es": "Elisabet de Aragón",
+            "la": "Elisabeth Aragonae",
+            "en": "Elizabeth of Aragon",
+            "pl": "Elżbieta Aragońska"
+        },
+        "records/patrons/francisca/rom": {
+            "it": "Francesca Romana",
+            "la": "Francisca Romana",
+            "en": "Frances of Rome",
+            "pl": "Franciszka Rzymianka"
+        },
+        "records/patrons/franciscus/gar": {
+            "es": "Francisco Gárate Aranguren",
+            "la": "Franciscus Gárate Aranguren",
+            "en": "Francis Gárate Aranguren",
+            "pl": "Franciszek Gárate Aranguren"
+        },
+        "records/patrons/franciscus/par": {
+            "es": "Francisco de San Miguel de la Parilla",
+            "la": "Franciscus a Sancto Michaele de la Parilla",
+            "en": "Francis of Saint Michael de la Parilla",
+            "pl": "Franciszek od św. Michała de la Parilla"
+        },
+        "records/patrons/gerardus/maj": {
+            "it": "Gerardo Maiella",
+            "la": "Gerard Majella",
+            "en": "Gerard Majella",
+            "pl": "Gerard Majella"
+        },
+        "records/patrons/gregorius/fra": {
+            "pl": "Grzegorz Frąckowiak",
+            "la": "Gregorius Frąckowiak",
+            "en": "Gregory Frąckowiak"
+        },
+        "records/patrons/gundisalvus/gar": {
+            "pt": "Gonçalo Garcia",
+            "la": "Gundisalvus Garcia",
+            "en": "Gonsalo Garcia",
+            "pl": "Gonsalwy Garcia"
+        },
+        "records/patrons/hedwigis/duc": {
+            "de": "Hedwig von Andechs",
+            "la": "Hedwigis ducissa Polonorum",
+            "en": "Hedwig of Silesia",
+            "pl": "Jadwiga Śląska"
+        },
+        "records/patrons/iacobinus/can": {
+            "it": "Giacomino de' Canepacci",
+            "la": "Iacobinus de' Canepacci",
+            "en": "Jacobinus de Canepacci",
+            "pl": "Jakobin de Canepacci"
+        },
+        "records/patrons/iacobus/kis": {
+            "ja": "ディエゴ喜斎",
+            "la": "Iacobus Kisai",
+            "en": "James Kisai",
+            "pl": "Jakub Kisai"
+        },
+        "records/patrons/ieremias/val": {
+            "ro": "Ieremia Valahul",
+            "la": "Ieremias de Valachia",
+            "en": "Jeremiah of Wallachia",
+            "pl": "Jeremiasz z Wołoszczyzny"
+        },
+        "records/patrons/ignatius/lac": {
+            "it": "Ignazio da Laconi",
+            "la": "Ignatius de Laconi",
+            "en": "Ignatius of Laconi",
+            "pl": "Ignacy z Laconi"
+        },
+        "records/patrons/ioannes/deo": {
+            "pt": "João de Deus",
+            "la": "Ioannes de Deo",
+            "en": "John of God",
+            "pl": "Jan Boży"
+        },
+        "records/patrons/ioannes/lal": {
+            "fr": "Jean de La Lande",
+            "la": "Ioannes de la Lande",
+            "en": "John de La Lande",
+            "pl": "Jan de La Lande"
+        },
+        "records/patrons/ioannes/soa": {
+            "ja": "ヨハネ草庵",
+            "la": "Ioannes de Goto Soan",
+            "en": "John Soan of Goto",
+            "pl": "Jan Soan z Goto"
+        },
+        "records/patrons/iosephina/bak": {
+            "ar": "جوزفين بخيتة",
+            "la": "Iosephina Bakhita",
+            "en": "Josephine Bakhita",
+            "pl": "Józefina Bakhita"
+        },
+        "records/patrons/iosephus/zap": {
+            "pl": "Józef Zapłata",
+            "la": "Iosephus Zaplata",
+            "en": "Joseph Zaplata"
+        },
+        "records/patrons/margarita/lot": {
+            "fr": "Marguerite de Lorraine-Vaudémont",
+            "la": "Margarita de Lotharingia",
+            "en": "Margaret of Lorraine",
+            "pl": "Małgorzata z Lotaryngii"
+        },
+        "records/patrons/maria/dem": {
+            "en": "Miriam Teresa Demjanovich",
+            "la": "Maria Teresia Demjanovich",
+            "pl": "Maria Teresa Demjanovich"
+        },
+        "records/patrons/maria/sou": {
+            "fr": "Bernadette-Marie Soubirous",
+            "la": "Maria Bernarda Soubirous",
+            "en": "Bernadette Soubirous",
+            "pl": "Bernadeta Soubirous"
+        },
+        "records/patrons/martha/wie": {
+            "pl": "Marta Maria Wiecka",
+            "la": "Martha Maria Wiecka",
+            "en": "Martha Mary Wiecka"
+        },
+        "records/patrons/martinus/por": {
+            "es": "Martín de Porres",
+            "la": "Martinus de Porres",
+            "en": "Martin de Porres",
+            "pl": "Marcin de Porres"
+        },
+        "records/patrons/michael/nak": {
+            "ja": "ミゲル中島",
+            "la": "Michael Nakashima",
+            "en": "Michael Nakashima",
+            "pl": "Michał Nakashima"
+        },
+        "records/patrons/nicolaus/ges": {
+            "it": "Nicola da Gesturi",
+            "la": "Nicolaus de Gesturi",
+            "en": "Nicholas of Gesturi",
+            "pl": "Mikołaj z Gesturi"
+        },
+        "records/patrons/petrus/fri": {
+            "de": "Peter Friedhofen",
+            "la": "Petrus Friedhofen",
+            "en": "Peter Friedhofen",
+            "pl": "Piotr Friedhofen"
+        },
+        "records/patrons/philippus/las": {
+            "es": "Felipe de Jesús de Las Casas",
+            "la": "Philippus a Iesu de Las Casas",
+            "en": "Philip of Jesus de Las Casas",
+            "pl": "Filip od Jezusa de Las Casas"
+        },
+        "records/patrons/pius/cam": {
+            "it": "Pio di San Luigi",
+            "la": "Pius a Sancto Aloysio",
+            "en": "Pius of Saint Aloysius",
+            "pl": "Pius od św. Alojzego"
+        },
+        "records/patrons/rita/cas": {
+            "it": "Rita da Cascia",
+            "la": "Rita de Cassia",
+            "en": "Rita of Cascia",
+            "pl": "Rita z Cascii"
+        },
+        "records/patrons/simon/bal": {
+            "it": "Simone Balacchi",
+            "la": "Simon Balacchi",
+            "en": "Simon Balacchi",
+            "pl": "Szymon Balacchi"
+        },
+        "records/patrons/simon/cos": {
+            "pt": "Simão da Costa",
+            "la": "Simon da Costa",
+            "en": "Simon da Costa",
+            "pl": "Szymon da Costa"
+        }
+    }
+}

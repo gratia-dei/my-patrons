@@ -1,0 +1,82 @@
+{
+    "names": {
+        "la": "propheta"
+    },
+    "translations": {
+        "la": [
+            "propheta"
+        ],
+        "en": [
+            "prophet"
+        ],
+        "pl": [
+            "prorok"
+        ]
+    },
+    "links": {
+        "records/patrons/amos/pro": {
+            "he": "עמוס",
+            "la": "Amos, propheta",
+            "en": "Amos, prophet",
+            "pl": "Amos, prorok"
+        },
+        "records/patrons/anna/pro": {
+            "he": "חנה, הנביאה",
+            "la": "Anna, prophetissa",
+            "en": "Anna, the Prophetess",
+            "pl": "Anna, prorokini"
+        },
+        "records/patrons/david/rex": {
+            "he": "דָּוִד בֶּן יִשַׁי",
+            "la": "David, rex",
+            "en": "David, king",
+            "pl": "Dawid, król"
+        },
+        "records/patrons/elias/the": {
+            "he": "אליהו התשבי",
+            "la": "Elias Thesbita",
+            "en": "Elijah the Tishbite",
+            "pl": "Eliasz Tiszbita"
+        },
+        "records/patrons/elisaeus/pro": {
+            "he": "‏אֱלִישָׁע",
+            "la": "Elisaeus, propheta",
+            "en": "Elisha, prophet",
+            "pl": "Elizeusz, prorok"
+        },
+        "records/patrons/ezechiel/pro": {
+            "he": "יחזקאל הנביא",
+            "la": "Ezechiel, propheta",
+            "en": "Ezekiel, prophet",
+            "pl": "Ezechiel, prorok"
+        },
+        "records/patrons/ieremias/pro": {
+            "he": "ירמיהו",
+            "la": "Ieremias, propheta",
+            "en": "Jeremiah, prophet",
+            "pl": "Jeremiasz, prorok"
+        },
+        "records/patrons/isaias/pro": {
+            "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
+            "la": "Isaias, propheta",
+            "en": "Isaiah, prophet",
+            "pl": "Izajasz, prorok"
+        },
+        "records/patrons/malachias/pro": {
+            "la": "Malachias, propheta",
+            "en": "Malachi, the prophet",
+            "pl": "Malachiasz, prorok"
+        },
+        "records/patrons/nahum/pro": {
+            "he": "נחום, הנביא",
+            "la": "Nahum, propheta",
+            "en": "Nahum, prophet",
+            "pl": "Nahum, prorok"
+        },
+        "records/patrons/simeon/sen": {
+            "la": "Simeon, senex",
+            "en": "Simeon, the old man",
+            "pl": "Symeon, starzec"
+        }
+    }
+}

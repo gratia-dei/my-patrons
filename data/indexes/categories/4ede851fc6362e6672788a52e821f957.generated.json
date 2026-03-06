@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "hrabia"
+    },
+    "translations": {
+        "la": [
+            "comes"
+        ],
+        "en": [
+            "count"
+        ],
+        "pl": [
+            "hrabia"
+        ]
+    },
+    "links": {
+        "records/patrons/carolus/bon": {
+            "la": "Carolus Bonus",
+            "en": "Charles the Good",
+            "pl": "Karol Dobry"
+        }
+    }
+}

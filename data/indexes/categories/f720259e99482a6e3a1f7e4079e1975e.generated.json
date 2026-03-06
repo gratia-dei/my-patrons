@@ -1,0 +1,363 @@
+{
+    "names": {
+        "la": "fundator",
+        "pl": "fundator"
+    },
+    "translations": {
+        "la": [
+            "fundator"
+        ],
+        "en": [
+            "founder"
+        ],
+        "pl": [
+            "fundator"
+        ]
+    },
+    "links": {
+        "records/patrons/agnes/mon": {
+            "it": "Agnese di Montepulciano",
+            "la": "Agnes de Monte Politiano",
+            "en": "Agnes of Montepulciano",
+            "pl": "Agnieszka z Montepulciano"
+        },
+        "records/patrons/albertus/chm": {
+            "pl": "Albert Chmielowski",
+            "la": "Albertus Chmielowski",
+            "en": "Albert Chmielowski"
+        },
+        "records/patrons/alexius/fal": {
+            "it": "Alessio Falconieri",
+            "la": "Alexius Falconieri",
+            "en": "Alexis Falconieri",
+            "pl": "Aleksy Falconieri"
+        },
+        "records/patrons/aloysius/scr": {
+            "it": "Luigi Scrosoppi",
+            "la": "Aloysius Scrosoppi",
+            "en": "Aloise Scrosoppi",
+            "pl": "Alojzy Scrosoppi"
+        },
+        "records/patrons/alphonsus/lig": {
+            "it": "Alfonso Maria de' Liguori",
+            "en": "Alphonsus Maria Liguori",
+            "la": "Alphonsus Maria a Ligorio",
+            "pl": "Alfons Maria Liguori"
+        },
+        "records/patrons/andreas/fou": {
+            "fr": "André-Hubert Fournet",
+            "la": "Andreas Hubertus Fournet",
+            "en": "Andrew Hubert Fournet",
+            "pl": "Andrzej Hubert Fournet"
+        },
+        "records/patrons/bartholomaeus/ami": {
+            "it": "Bartolomeo Amadio da Firenze",
+            "la": "Bartholomaeus Amidaeus de Florentia",
+            "en": "Bartholomew Amideus of Florence",
+            "pl": "Bartłomiej Amideusz z Florencji"
+        },
+        "records/patrons/bartholomaeus/lon": {
+            "it": "Bartolo Longo",
+            "la": "Bartholomaeus Longo",
+            "en": "Bartholomew Longo",
+            "pl": "Bartłomiej Longo"
+        },
+        "records/patrons/benedictus/man": {
+            "it": "Benedetto Manetto dell’Antella",
+            "la": "Benedictus Manettus Antella",
+            "en": "Benedict Manettus Antella",
+            "pl": "Benedykt Manettus Antella"
+        },
+        "records/patrons/bernardus/cla": {
+            "fr": "Bernard de Clairvaux",
+            "la": "Bernardus Claravallensis",
+            "en": "Bernard of Clairvaux",
+            "pl": "Bernard z Clairvaux"
+        },
+        "records/patrons/bonfilius/flo": {
+            "it": "Bonfilio Monaldi",
+            "la": "Bonfilius Monaldi",
+            "en": "Bonfilius Monaldi",
+            "pl": "Bonfiliusz Monaldi"
+        },
+        "records/patrons/bruno/ere": {
+            "de": "Bruno von Köln",
+            "la": "Bruno Cartusiensis",
+            "en": "Bruno of Cologne",
+            "pl": "Bruno Kartuz"
+        },
+        "records/patrons/camillus/lel": {
+            "it": "Camillo de Lellis",
+            "la": "Camillus de Lellis",
+            "en": "Camillus de Lellis",
+            "pl": "Kamil de Lellis"
+        },
+        "records/patrons/dominicus/oxo": {
+            "es": "Domingo de Osma",
+            "la": "Dominicus Oxomensis",
+            "en": "Dominic of Osma",
+            "pl": "Dominik Guzmán"
+        },
+        "records/patrons/edmundus/boj": {
+            "pl": "Edmund Bojanowski",
+            "la": "Edmundus Bojanowski",
+            "en": "Edmund Bojanowski"
+        },
+        "records/patrons/eugenia/rav": {
+            "it": "Eugenia Ravasco",
+            "la": "Eugenia Ravasco",
+            "en": "Eugenia Ravasco",
+            "pl": "Eugenia Ravasco"
+        },
+        "records/patrons/franciscus/asi": {
+            "it": "Francesco d'Assisi",
+            "la": "Franciscus Asisiensis",
+            "en": "Francis of Assisi",
+            "pl": "Franciszek z Asyżu"
+        },
+        "records/patrons/franciscus/car": {
+            "it": "Francesco Caracciolo",
+            "en": "Francis Caracciolo",
+            "la": "Franciscus Caracciolo",
+            "pl": "Franciszek Caracciolo"
+        },
+        "records/patrons/franciscus/pau": {
+            "it": "Francesco da Paola",
+            "la": "Franciscus de Paula",
+            "en": "Francis of Paola",
+            "pl": "Franciszek z Paoli"
+        },
+        "records/patrons/gerardinus/sos": {
+            "it": "Gerardino Sostegno da Firenze",
+            "la": "Gerardinus Sostenaeus de Florentia",
+            "en": "Gerardius Sostene of Florence",
+            "pl": "Gerardyn Sosteniusz z Florencji"
+        },
+        "records/patrons/gertrudis/com": {
+            "it": "Geltrude Comensoli",
+            "la": "Gertrudis Comensoli",
+            "en": "Gertrude Comensoli",
+            "pl": "Gertruda Comensoli"
+        },
+        "records/patrons/guido/con": {
+            "it": "Guido Maria Conforti",
+            "la": "Guido Maria Conforti",
+            "en": "Guido Maria Conforti",
+            "pl": "Gwidon Maria Conforti"
+        },
+        "records/patrons/hieronymus/emi": {
+            "it": "Girolamo Emiliani",
+            "la": "Hieronymus Emiliani",
+            "en": "Jerome Emiliani",
+            "pl": "Hieronim Emiliani"
+        },
+        "records/patrons/iacobus/alb": {
+            "it": "Giacomo Alberione",
+            "la": "Iacobus Alberione",
+            "en": "James Alberione",
+            "pl": "Jakub Alberione"
+        },
+        "records/patrons/ignatius/loy": {
+            "es": "Ignacio de Loyola",
+            "la": "Ignatius de Loyola",
+            "en": "Ignatius of Loyola",
+            "pl": "Ignacy Loyola"
+        },
+        "records/patrons/ioanna/les": {
+            "fr": "Jeanne de Lestonnac",
+            "la": "Ioanna de Lestonnac",
+            "en": "Joan of Lestonnac",
+            "pl": "Joanna de Lestonnac"
+        },
+        "records/patrons/ioanna/val": {
+            "fr": "Jeanne de Valois",
+            "la": "Ioanna de Valois",
+            "en": "Joan of Valois",
+            "pl": "Joanna de Valois"
+        },
+        "records/patrons/ioannes/bon": {
+            "it": "Giovanni Buonagiunta Manetti",
+            "la": "Ioannes Bonaiuncta Manetti",
+            "en": "John Bonajuncta Manetti",
+            "pl": "Jan Bonajunkta Manetti"
+        },
+        "records/patrons/ioannes/bos": {
+            "it": "Giovanni Bosco",
+            "la": "Ioannes Bosco",
+            "en": "John Bosco",
+            "pl": "Jan Bosko"
+        },
+        "records/patrons/ioannes/mat": {
+            "fr": "Jean de Matha",
+            "la": "Ioannes de Matha",
+            "en": "John of Matha",
+            "pl": "Jan de Matha"
+        },
+        "records/patrons/iosephina/bon": {
+            "it": "Giuseppina Gabriella Bonino",
+            "la": "Iosephina Gabriela Bonino",
+            "en": "Josephine Gabriella Bonino",
+            "pl": "Józefina Gabriela Bonino"
+        },
+        "records/patrons/iosephus/esc": {
+            "es": "Josemaría Escrivá de Balaguer",
+            "la": "Iosephus Maria Escrivá de Balaguer",
+            "en": "Josemaría Escrivá de Balaguer",
+            "pl": "Josemaría Escrivá de Balaguer"
+        },
+        "records/patrons/iosephus/pel": {
+            "pl": "Józef Sebastian Pelczar",
+            "la": "Iosephus Sebastianus Pelczar",
+            "en": "Joseph Sebastian Pelczar"
+        },
+        "records/patrons/lucia/fil": {
+            "it": "Lucia Filippini",
+            "la": "Lucia Filippini",
+            "en": "Lucy Filippini",
+            "pl": "Łucja Filippini"
+        },
+        "records/patrons/ludovica/mon": {
+            "fr": "Louise-Thérèse de Montaignac de Chauvance",
+            "la": "Ludovica Teresia de Montaignac de Chauvance",
+            "en": "Louise Therese de Montaignac de Chauvance",
+            "pl": "Ludwika Teresa de Montaignac de Chauvance"
+        },
+        "records/patrons/ludovicus/pav": {
+            "it": "Lodovico Pavoni",
+            "la": "Ludovicus Pavoni",
+            "en": "Louis Pavoni",
+            "pl": "Ludwik Pavoni"
+        },
+        "records/patrons/magdalena/can": {
+            "it": "Maddalena di Canossa",
+            "la": "Magdalena de Canossa",
+            "en": "Magdalene of Canossa",
+            "pl": "Magdalena z Canossy"
+        },
+        "records/patrons/marcellina/dar": {
+            "pl": "Marcelina Darowska",
+            "la": "Marcellina Darowska",
+            "en": "Marcelina Darowska"
+        },
+        "records/patrons/margarita/sze": {
+            "pl": "Małgorzata Łucja Szewczyk",
+            "la": "Margarita Lucia Szewczyk",
+            "en": "Margaret Lucy Szewczyk"
+        },
+        "records/patrons/maria/kas": {
+            "de": "Maria Katharina Kasper",
+            "la": "Maria Catharina Kasper",
+            "en": "Maria Katharina Kasper",
+            "pl": "Maria Katarzyna Kasper"
+        },
+        "records/patrons/maria/man": {
+            "it": "Maria Domenica Mantovani",
+            "la": "Maria Dominica Mantovani",
+            "en": "Maria Dominica Mantovani",
+            "pl": "Maria Dominika Mantovani"
+        },
+        "records/patrons/maria/maz": {
+            "it": "Maria Domenica Mazzarello",
+            "la": "Maria Dominica Mazzarello",
+            "en": "Maria Dominica Mazzarello",
+            "pl": "Maria Dominika Mazzarello"
+        },
+        "records/patrons/maria/pos": {
+            "fr": "Marie-Madeleine Postel",
+            "la": "Maria Magdalena Postel",
+            "en": "Mary Magdalene Postel",
+            "pl": "Maria Magdalena Postel"
+        },
+        "records/patrons/maria/ros": {
+            "it": "Maria Crocifissa Di Rosa",
+            "la": "Maria Crucifixa De Rosa",
+            "en": "Maria Crocifissa di Rosa",
+            "pl": "Maria Krucyfiksa di Rosa"
+        },
+        "records/patrons/maria/rub": {
+            "it": "Maria Francesca di Gesù Rubatto",
+            "la": "Maria Francisca a Iesu Rubatto",
+            "en": "Maria Francesca of Jesus Rubatto",
+            "pl": "Maria Franciszka od Jezusa Rubatto"
+        },
+        "records/patrons/maria/sie": {
+            "pl": "Maria od Jezusa Dobrego Pasterza",
+            "la": "Maria a Iesu Bono Pastore",
+            "en": "Maria of Jesus the Good Shepherd"
+        },
+        "records/patrons/maria/wul": {
+            "de": "Maria Therese von Wüllenweber",
+            "la": "Maria Teresia von Wüllenweber",
+            "en": "Maria Therese von Wüllenweber",
+            "pl": "Maria Teresa Wüllenweber"
+        },
+        "records/patrons/maximilianus/kol": {
+            "pl": "Maksymilian Maria Kolbe",
+            "la": "Maximilianus Maria Kolbe",
+            "en": "Maximilian Maria Kolbe"
+        },
+        "records/patrons/norbertus/mag": {
+            "de": "Norbert von Xanten",
+            "la": "Norbertus Magdeburgensis",
+            "en": "Norbert of Xanten",
+            "pl": "Norbert z Xanten"
+        },
+        "records/patrons/paulina/jar": {
+            "fr": "Pauline Jaricot",
+            "la": "Paulina Maria Jaricot",
+            "en": "Pauline Jaricot",
+            "pl": "Paulina Jaricot"
+        },
+        "records/patrons/philippus/ner": {
+            "it": "Filippo Neri",
+            "la": "Fhilippus Nerius",
+            "en": "Fhilip Neri",
+            "pl": "Filip Neri"
+        },
+        "records/patrons/ricoverus/ugu": {
+            "it": "Ricovero Uguccione da Firenze",
+            "la": "Ricoverus Uguccio de Florentia",
+            "en": "Ricoverus Uguccione of Florence",
+            "pl": "Rikowerus Uguccio z Florencji"
+        },
+        "records/patrons/sigismundus/gor": {
+            "pl": "Zygmunt Gorazdowski",
+            "la": "Sigismundus Gorazdowski",
+            "en": "Sigismund Gorazdowski"
+        },
+        "records/patrons/sophia/mac": {
+            "pl": "Zofia Czeska",
+            "la": "Sophia Maciejowska-Czeska",
+            "en": "Sophia Maciejowska-Czeska"
+        },
+        "records/patrons/teresia/ver": {
+            "it": "Teresa Eustochio Verzeri",
+            "la": "Teresia Eustochius Verzeri",
+            "en": "Therese Eustochia Verzeri",
+            "pl": "Teresa Eustochia Verzeri"
+        },
+        "records/patrons/ursula/led": {
+            "pl": "Urszula Ledóchowska",
+            "la": "Urszula Ledóchowska",
+            "en": "Ursula Ledóchowska"
+        },
+        "records/patrons/vincentia/lop": {
+            "es": "Vicenta María López Vicuña",
+            "la": "Vincentia Maria López Vicuña",
+            "en": "Vincenta Maria López Vicuña",
+            "pl": "Wincencja Maria López Vicuña"
+        },
+        "records/patrons/vincentius/pal": {
+            "it": "Vincenzo Pallotti",
+            "la": "Vincentius Pallotti",
+            "en": "Vincent Pallotti",
+            "pl": "Wincenty Pallotti"
+        },
+        "records/patrons/vincentius/pau": {
+            "fr": "Vincent de Paul",
+            "la": "Vincentius de Paul",
+            "en": "Vincent de Paul",
+            "pl": "Wincenty a Paulo"
+        }
+    }
+}

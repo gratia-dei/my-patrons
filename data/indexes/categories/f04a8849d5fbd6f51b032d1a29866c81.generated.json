@@ -1,17 +1,16 @@
 {
     "names": {
-        "la": "constitutor",
-        "en": "constitutor"
+        "la": "constitutor"
     },
     "translations": {
         "la": [
             "constitutor"
         ],
         "en": [
-            "constitutor"
+            "establisher"
         ],
         "pl": [
-            "ustanawiacz"
+            "twórca"
         ]
     },
     "links": {

@@ -1,8 +1,13 @@
 {
     "abbas": {
-        "la": "abbas / abbatissa",
-        "en": "abbot / abbess",
-        "pl": "opat / ksieni"
+        "la": "abbas",
+        "en": "abbot",
+        "pl": "opat"
+    },
+    "abbatissa": {
+        "la": "abbatissa",
+        "en": "abbess",
+        "pl": "ksieni"
     },
     "acolytus": {
         "la": "acolytus",
@@ -28,11 +33,6 @@
         "la": "angelus",
         "en": "angel",
         "pl": "anioł"
-    },
-    "antipapa": {
-        "la": "(anti)papa",
-        "en": "(anti)pope",
-        "pl": "(anty)papież"
     },
     "apostolus": {
         "la": "apostolus",
@@ -84,10 +84,15 @@
         "en": "catechist",
         "pl": "katechista"
     },
-    "catechumenus": {
-        "la": "catechumenus / catechumena",
+    "catechumena": {
+        "la": "catechumena",
         "en": "catechumen",
-        "pl": "katechumen / katechumenka"
+        "pl": "katechumenka"
+    },
+    "catechumenus": {
+        "la": "catechumenus",
+        "en": "catechumen",
+        "pl": "katechumen"
     },
     "clericus": {
         "la": "clericus",
@@ -109,30 +114,45 @@
         "en": "associate bishop",
         "pl": "biskup pomocniczy"
     },
+    "coetus": {
+        "la": "coetus",
+        "en": "group",
+        "pl": "grupa"
+    },
     "comes": {
-        "la": "comes / comitissa",
-        "en": "count / countess",
-        "pl": "hrabia / hrabina"
+        "la": "comes",
+        "en": "count",
+        "pl": "hrabia"
+    },
+    "comitissa": {
+        "la": "comitissa",
+        "en": "countess",
+        "pl": "hrabina"
     },
     "conditor": {
-        "la": "conditor / conditrix",
-        "en": "creator / creatress",
-        "pl": "założyciel / założycielka"
+        "la": "conditor",
+        "en": "creator",
+        "pl": "założyciel"
+    },
+    "conditrix": {
+        "la": "conditrix",
+        "en": "creatress",
+        "pl": "założycielka"
     },
     "confessor": {
         "la": "confessor",
         "en": "confessor",
         "pl": "wyznawca"
     },
-    "coniunx": {
-        "la": "coniunx / maritus / uxor",
-        "en": "spouse / husband / wife",
-        "pl": "małżonek / mąż / żona"
-    },
     "constitutor": {
         "la": "constitutor",
-        "en": "constitutor",
-        "pl": "ustanawiacz"
+        "en": "establisher",
+        "pl": "twórca"
+    },
+    "constitutrix": {
+        "la": "constitutrix",
+        "en": "establisher",
+        "pl": "twórczyni"
     },
     "deus": {
         "la": "Deus",
@@ -144,6 +164,11 @@
         "en": "deacon",
         "pl": "diakon"
     },
+    "discipula": {
+        "la": "discipula",
+        "en": "disciple",
+        "pl": "uczennica"
+    },
     "discipulus": {
         "la": "discipulus",
         "en": "disciple",
@@ -154,10 +179,15 @@
         "en": "doctor of the Church",
         "pl": "doktor Kościoła"
     },
+    "ducissa": {
+        "la": "ducissa",
+        "en": "duchess",
+        "pl": "księżna"
+    },
     "dux": {
-        "la": "dux / ducissa",
-        "en": "duke / duchess",
-        "pl": "książę / księżna"
+        "la": "dux",
+        "en": "duke",
+        "pl": "książę"
     },
     "episcopus": {
         "la": "episcopus",
@@ -174,10 +204,15 @@
         "en": "evangelist",
         "pl": "ewangelista"
     },
-    "famulus": {
-        "la": "famulus / famula",
+    "famula": {
+        "la": "famula",
         "en": "servant",
-        "pl": "służący / służąca"
+        "pl": "służąca"
+    },
+    "famulus": {
+        "la": "famulus",
+        "en": "servant",
+        "pl": "służący"
     },
     "femina": {
         "la": "femina",
@@ -185,14 +220,24 @@
         "pl": "kobieta"
     },
     "formator": {
-        "la": "formator / formatrix",
-        "en": "former / formatress",
-        "pl": "formator / formatorka"
+        "la": "formator",
+        "en": "former",
+        "pl": "formator"
+    },
+    "formatrix": {
+        "la": "formatrix",
+        "en": "formatress",
+        "pl": "formatorka"
     },
     "fundator": {
-        "la": "fundator / fundatrix",
-        "en": "founder / foundress",
-        "pl": "fundator / fundatorka"
+        "la": "fundator",
+        "en": "founder",
+        "pl": "fundator"
+    },
+    "fundatrix": {
+        "la": "fundatrix",
+        "en": "foundress",
+        "pl": "fundatorka"
     },
     "generalis": {
         "la": "generalis",
@@ -200,29 +245,59 @@
         "pl": "generał"
     },
     "gubernator": {
-        "la": "gubernator / gubernatrix",
-        "en": "governor / governoress",
-        "pl": "naczelnik / naczelniczka"
+        "la": "gubernator",
+        "en": "governor",
+        "pl": "naczelnik"
+    },
+    "gubernatrix": {
+        "la": "gubernatrix",
+        "en": "governoress",
+        "pl": "naczelniczka"
+    },
+    "hegumena": {
+        "la": "hegumena",
+        "en": "hegumeness",
+        "pl": "igumenka"
     },
     "hegumenus": {
-        "la": "hegumenus / hegumena",
-        "en": "hegumen / hegumeness",
-        "pl": "igumen / igumenka"
+        "la": "hegumenus",
+        "en": "hegumen",
+        "pl": "igumen"
+    },
+    "incorporata": {
+        "la": "incorporata",
+        "en": "incorporated woman",
+        "pl": "wcielona"
+    },
+    "incorporatus": {
+        "la": "incorporatus",
+        "en": "incorporated man",
+        "pl": "wcielony"
     },
     "institutor": {
-        "la": "institutor / institutrix",
-        "en": "instituter / institutress",
-        "pl": "instytutor / instytutorka"
+        "la": "institutor",
+        "en": "instituter",
+        "pl": "instytutor"
+    },
+    "institutrix": {
+        "la": "institutrix",
+        "en": "institutress",
+        "pl": "instytutorka"
     },
     "iurisperitus": {
         "la": "iurisperitus",
         "en": "lawyer",
         "pl": "prawnik"
     },
+    "laica": {
+        "la": "laica",
+        "en": "laywoman",
+        "pl": "świecka"
+    },
     "laicus": {
-        "la": "laicus / laica",
-        "en": "layman / laywoman",
-        "pl": "świecki / świecka"
+        "la": "laicus",
+        "en": "layman",
+        "pl": "świecki"
     },
     "lector": {
         "la": "lector",
@@ -241,8 +316,8 @@
     },
     "martyr": {
         "la": "martyr",
-        "en": "martyr / martyress",
-        "pl": "męczennik / męczennica"
+        "en": "martyr",
+        "pl": "męczennik"
     },
     "mater-dei": {
         "la": "Mater Dei",
@@ -264,6 +339,11 @@
         "en": "soldier",
         "pl": "żołnierz"
     },
+    "monacha": {
+        "la": "monacha",
+        "en": "nun",
+        "pl": "mniszka"
+    },
     "monachus": {
         "la": "monachus",
         "en": "monk",
@@ -278,6 +358,11 @@
         "la": "neophyta",
         "en": "neophyta",
         "pl": "neofita"
+    },
+    "novitia": {
+        "la": "novitia",
+        "en": "novice",
+        "pl": "nowicjuszka"
     },
     "novitius": {
         "la": "novitius",
@@ -345,14 +430,19 @@
         "pl": "profes świecki"
     },
     "propheta": {
-        "la": "prophet / prophetissa",
-        "en": "prophet / prophetess",
-        "pl": "prorok / prorokini"
+        "la": "propheta",
+        "en": "prophet",
+        "pl": "prorok"
+    },
+    "prophetissa": {
+        "la": "prophetissa",
+        "en": "prophetess",
+        "pl": "prorokini"
     },
     "puer": {
-        "la": "puer / puellus / puella",
-        "en": "child / boy / girl",
-        "pl": "dziecko / chłopiec / dziewczynka"
+        "la": "puer",
+        "en": "child",
+        "pl": "dziecko"
     },
     "reclusa": {
         "la": "reclusa",
@@ -364,10 +454,15 @@
         "en": "queen",
         "pl": "królowa"
     },
-    "religiosus": {
-        "la": "religiosus / religiosa",
+    "religiosa": {
+        "la": "religiosa",
         "en": "religious",
-        "pl": "zakonnik / zakonnica"
+        "pl": "zakonnica"
+    },
+    "religiosus": {
+        "la": "religiosus",
+        "en": "religious",
+        "pl": "zakonnik"
     },
     "rex": {
         "la": "rex",
@@ -389,30 +484,45 @@
         "en": "nun",
         "pl": "mniszka"
     },
+    "scholastica": {
+        "la": "scholastica",
+        "en": "scholar",
+        "pl": "uczona"
+    },
     "scholasticus": {
         "la": "scholasticus",
         "en": "scholar",
-        "pl": "uczony / uczona"
+        "pl": "uczony"
     },
     "senex": {
         "la": "senex",
-        "en": "old person",
+        "en": "old man",
         "pl": "starzec"
     },
-    "servus": {
-        "la": "servus / serva",
-        "en": "slave",
-        "pl": "niewolnik / niewolnica"
+    "senis": {
+        "la": "senis",
+        "en": "old woman",
+        "pl": "staruszka"
     },
-    "socia": {
-        "la": "socia",
-        "en": "group",
-        "pl": "grupa"
+    "serva": {
+        "la": "serva",
+        "en": "slave",
+        "pl": "niewolnica"
+    },
+    "servus": {
+        "la": "servus",
+        "en": "slave",
+        "pl": "niewolnik"
+    },
+    "solitaria": {
+        "la": "solitaria",
+        "en": "solitaress",
+        "pl": "samotnica"
     },
     "solitarius": {
-        "la": "solitarius / solitaria",
-        "en": "solitary / solitaress",
-        "pl": "samotnik / samotnica"
+        "la": "solitarius",
+        "en": "solitary",
+        "pl": "samotnik"
     },
     "stylita": {
         "la": "stylita",
@@ -424,10 +534,15 @@
         "en": "subdeacon",
         "pl": "subdiakon"
     },
-    "tertiarius": {
-        "la": "tertiarius / tertiaria",
-        "en": "tertiary",
-        "pl": "tercjarz / tercjarka"
+    "uxorata": {
+        "la": "uxorata",
+        "en": "married woman",
+        "pl": "zamężna"
+    },
+    "uxoratus": {
+        "la": "uxoratus",
+        "en": "married man",
+        "pl": "żonaty"
     },
     "veteranus": {
         "la": "veteranus",

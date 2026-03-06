@@ -1,0 +1,42 @@
+{
+    "names": {
+        "en": "solitary"
+    },
+    "translations": {
+        "la": [
+            "solitarius"
+        ],
+        "en": [
+            "solitary"
+        ],
+        "pl": [
+            "samotnik"
+        ]
+    },
+    "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        },
+        "records/patrons/leonardus/ere": {
+            "fr": "Léonard de Noblat",
+            "la": "Leonardus Lemovicensis",
+            "en": "Leonard of Noblac",
+            "pl": "Leonard z Limoges"
+        },
+        "records/patrons/maria/aeg": {
+            "el": "Μαρία η Αιγυπτία",
+            "la": "Maria Aegyptiaca",
+            "en": "Mary of Egypt",
+            "pl": "Maria Egipcjanka"
+        },
+        "records/patrons/rosalia/pan": {
+            "it": "Rosalia di Palermo",
+            "la": "Rosalia Panormitana",
+            "en": "Rosalia of Palermo",
+            "pl": "Rozalia z Palermo"
+        }
+    }
+}

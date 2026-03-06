@@ -1,0 +1,23 @@
+{
+    "names": {
+        "pl": "służący"
+    },
+    "translations": {
+        "la": [
+            "famulus"
+        ],
+        "en": [
+            "servant"
+        ],
+        "pl": [
+            "służący"
+        ]
+    },
+    "links": {
+        "records/patrons/eunus/iul": {
+            "la": "Eunus Alexandrinus",
+            "en": "Eunus of Alexandria",
+            "pl": "Euniusz z Aleksandrii"
+        }
+    }
+}

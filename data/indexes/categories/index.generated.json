@@ -8,11 +8,17 @@
     "03ff693ab8e19b6774ec397e64d95ee6": {
         "pl": "pielgrzym"
     },
-    "0456a65fa9b13576073966b4d1fd80ec": {
-        "la": "formator / formatrix"
+    "041cf7cf23d3d372644b707505218fb0": {
+        "en": "duke"
     },
     "0476610784907cd95c537fbfe3dfb55d": {
         "la": "sacerdos dioecesanus"
+    },
+    "0484e083ebe5a6862fe59c213d8ef897": {
+        "pl": "służący"
+    },
+    "04dd7c039dbdff38b4b0c5feb15ed787": {
+        "la": "puer"
     },
     "0685f400aabcaedd89fe7a83bb922c71": {
         "la": "alius apostolus"
@@ -35,11 +41,11 @@
     "0b607e06312cda6c4b7a027f8bedff41": {
         "pl": "rolnik"
     },
-    "0e25c1698aae8b806b8af4d4abfe2982": {
-        "en": "solitary / solitaress"
-    },
     "0e44fab8173e8bbc157eba02c481bea6": {
         "la": "cardinalis episcopus"
+    },
+    "0f309ed80820c02a41d6b4f7b0cd428f": {
+        "la": "uxoratus"
     },
     "0fd7a44fdd13ad881b07c0446d857a1a": {
         "en": "nun"
@@ -47,11 +53,11 @@
     "1067a19924602f0e33cb5b4ebaff02ed": {
         "pl": "papież"
     },
+    "1259ccdcb64a0245db891f222a1e4436": {
+        "en": "former"
+    },
     "12fad3a5f2ecde4f7b516aaf952ee350": {
         "la": "poenitens"
-    },
-    "1363914b618d15056cc33db1eadc949e": {
-        "la": "institutor / institutrix"
     },
     "13710a323e47c5ba56503ece7ad763f6": {
         "en": "scholar"
@@ -65,35 +71,32 @@
     "14206094278b0e5c6f64c286c7ccf9cb": {
         "pl": "matka rodziny"
     },
+    "14e9e923ee281b96d809085e23e3a816": {
+        "pl": "samotnik"
+    },
     "151aef07e2f08ba6f64f7d28505ca0cb": {
         "en": "disciple"
-    },
-    "15fff88df4e06bb362cadfe795670dd4": {
-        "pl": "instytutor / instytutorka"
     },
     "171b6ba14aeefeb08caf15065042a4c2": {
         "en": "monk"
     },
-    "19854de656eb20184b3e317a6200deed": {
-        "la": "famulus / famula"
-    },
-    "198e63d55fd441cffd0223648df1c2a2": {
-        "pl": "samotnik / samotnica"
+    "1950a73b4dd75adfdb6de0b0c46d6cc9": {
+        "la": "gubernator"
     },
     "1aae72c4d831d7668de6152f326c0e8f": {
         "en": "canon regular"
     },
-    "1c07e284dd11fe057c167c8c5f1ea731": {
-        "pl": "uczony / uczona"
+    "1b7d5726533ab525a8760351e9b5e415": {
+        "en": "child"
+    },
+    "1c09f9aae4f7e062d1c6082e40988bcb": {
+        "en": "instituter"
     },
     "1c691044f8465c17bd48b2678b828878": {
         "pl": "neofita"
     },
     "1ca6f99a5bfcd99671ec28d1447c953f": {
         "en": "veteran"
-    },
-    "1cacca8ff23c34fb57966625d80419e2": {
-        "pl": "formator / formatorka"
     },
     "1cdf4c400619855d6dba5d6292da42fa": {
         "la": "princeps"
@@ -122,17 +125,15 @@
     "221182760f5b980c97c7a74a94d57364": {
         "la": "regina"
     },
-    "224c31a9c40f529731ff2e2740f9279e": {
-        "la": "(anti)papa"
-    },
-    "22cada172c02ac4632f8966e6fc31fd9": {
-        "en": "governor / governoress"
-    },
     "22f67d833c8310eab41c6d8b81b67a5a": {
         "pl": "Bóg"
     },
     "23fb08be8c3e1fb32e69098152991c98": {
         "pl": "legat"
+    },
+    "2412f780d2a33cbb6d31e39f3931fc6f": {
+        "la": "formator",
+        "pl": "formator"
     },
     "249ef937372dec2eb1a1220b33376bd0": {
         "pl": "lewita"
@@ -144,22 +145,20 @@
         "la": "monialis"
     },
     "265dbcbd2bce07dfa721ed3daaa30912": {
-        "la": "martyr"
+        "la": "martyr",
+        "en": "martyr"
     },
     "26ac8ccc37adf7ca65a0ccd0428d3d58": {
         "en": "other apostle"
     },
+    "26b648ffb78d41b7e951eaec7a7e3a1a": {
+        "pl": "prorok"
+    },
     "273b9ae535de53399c86a9b83148a8ed": {
         "en": "female"
     },
-    "275f05a0b64eb2077dcbc573c41c4ac3": {
-        "pl": "zakonnik / zakonnica"
-    },
     "27b0b619b6bb3f1895a44fbd748893c1": {
         "en": "catechumen"
-    },
-    "2863e14774dce430ad6ba848b13708ea": {
-        "en": "instituter / institutress"
     },
     "28bb4a8d07e45946d37104a6e4081d6c": {
         "pl": "subdiakon"
@@ -174,11 +173,8 @@
     "2af19384a5ee00fab3a4e213307626d4": {
         "pl": "wdowa"
     },
-    "2f18e79578f7e0d19064a02ae4f4550f": {
-        "la": "conditor / conditrix"
-    },
-    "2f3e85fbe90000a8519cd9b617a3dd28": {
-        "pl": "dziecko / chłopiec / dziewczynka"
+    "2ebc504da456e47cee28d49174e09440": {
+        "pl": "katechumen"
     },
     "3012f2de49cdf29c733029ee828680d2": {
         "la": "coenobita"
@@ -186,26 +182,20 @@
     "31f48939f268e29ba8755294708c3a76": {
         "pl": "archidiakon"
     },
-    "3266f37b2660846d69a2ce87f6296e29": {
-        "en": "creator / creatress"
-    },
     "3281d64d71abcf40e862001e6a5e7c58": {
         "la": "Deus"
-    },
-    "33e0da506f8e8cdbcb0abb0a08cf88e2": {
-        "la": "prophet / prophetissa"
     },
     "3520d88e8cf8fcdd418320906225411a": {
         "pl": "weteran"
     },
-    "359be3ab9ecdca938402c73c4c533c0f": {
-        "en": "prophet / prophetess"
-    },
     "3611dea289526bff962f8b4c45d79ce8": {
         "la": "legatus"
     },
-    "37c6295088dba8ae2611eb2989f9e5a6": {
-        "pl": "fundator / fundatorka"
+    "3710f6ec8ea43c972f6895551b65e8db": {
+        "la": "conditor"
+    },
+    "37387b0d7989ded00353bbfa0a15d1fb": {
+        "pl": "opat"
     },
     "39719bde558fb9b4367151f9a9e33451": {
         "en": "cardinal bishop"
@@ -216,17 +206,14 @@
     "3a65fe50077b0ec7a6e2d45c22f8b92b": {
         "la": "Mater Dei"
     },
-    "3a7287f83ff5175f4ff829c3e4b67af5": {
-        "pl": "hrabia / hrabina"
-    },
     "3a8a750f56c4cca099698a1dc8953b69": {
         "la": "generalis"
     },
-    "3ac9fa9f1e8fcc273350b775d6a4ff45": {
-        "en": "abbot / abbess"
-    },
     "3bc4b63194c49dc2a328ad2dee2406a6": {
         "pl": "diakon"
+    },
+    "3c774f3a6a8f78576d4fd1168a185a32": {
+        "en": "establisher"
     },
     "3cc3ff4a469914f06e1bd4d12ff672df": {
         "en": "professed nun"
@@ -236,6 +223,15 @@
     },
     "3d2e6bded046ca2e3f906f04235b279b": {
         "en": "consul"
+    },
+    "3dab76efff65f3a859dd08a46b0e5894": {
+        "la": "famulus"
+    },
+    "400111e500348901e6373c12f1bf2690": {
+        "en": "married woman"
+    },
+    "4043b3ed9215f1e0f8e80ba5485c7b4d": {
+        "en": "old man"
     },
     "40e3d39abee106afe63bd5361c9d00ac": {
         "en": "patriarch"
@@ -252,9 +248,6 @@
     "427023ff7e5f28a11e61fce0b4917b57": {
         "en": "cardinal"
     },
-    "446f62489dfa78c00b6c24d666c8d468": {
-        "pl": "niewolnik / niewolnica"
-    },
     "45479730da90460ba49dc5ea529b9881": {
         "la": "vir consularis"
     },
@@ -264,17 +257,14 @@
     "466764052acadf446abd1ff3a89d7a4d": {
         "pl": "grupa"
     },
+    "46b8ffb641e44ebf122e002fa3f25b26": {
+        "en": "married man"
+    },
     "484b2e35acd06568893b4dac5d862f67": {
         "en": "lawyer"
     },
-    "48a29eb9cd40d383e5218459566fe8ca": {
-        "la": "puer / puellus / puella"
-    },
     "4b46493ab8bfd6b1a1c800409bbcd3ce": {
         "la": "archangelus"
-    },
-    "4ba7844e0f906e4c134422d3bb254809": {
-        "pl": "naczelnik / naczelniczka"
     },
     "4c0711c0dd6649d201428feb644fcf94": {
         "la": "virgo"
@@ -282,20 +272,20 @@
     "4db08887a6c316ddf20ca2baf71358b8": {
         "pl": "rzeźnik"
     },
-    "4dfa017b21e7206da7656c0bb74964d5": {
-        "la": "comes / comitissa"
-    },
-    "4e3d2fb258421299e77e2492e1a38607": {
-        "pl": "opat / ksieni"
-    },
     "4e59bebdce06a142e4ce23799bc590c5": {
         "pl": "ewangelista"
     },
     "4ec4d0ba3a7bfbfef0968c82c454e057": {
         "en": "legate"
     },
+    "4ede851fc6362e6672788a52e821f957": {
+        "pl": "hrabia"
+    },
     "4f07531952160e2e73a4dafb9f90cf99": {
         "en": "cenobite"
+    },
+    "50ed33c642a7b2404c3b38d6270f132c": {
+        "la": "religiosus"
     },
     "518183d207ac39dd55a8b0ecced4ab3e": {
         "en": "hermit"
@@ -312,9 +302,6 @@
     "5652ea6b052915bdfd36d3aad6c5a2b3": {
         "pl": "słupnik"
     },
-    "5865c6d1bc343612927e89ef033167ab": {
-        "en": "spouse / husband / wife"
-    },
     "590f35821fbed7b2ab58a9dbaf36c42d": {
         "la": "vir"
     },
@@ -324,11 +311,11 @@
     "5ba66f4b561c9b9c0a7f937dceb676f3": {
         "pl": "lektor"
     },
-    "5c42b721e415ab7fb03adcabbd069a21": {
-        "la": "religiosus / religiosa"
-    },
     "5c7b0280d251e8c19787d0561b78c813": {
         "la": "presbyter dioecesanus"
+    },
+    "5da526efa3c10b61a1e2ba33f87f5554": {
+        "la": "coetus"
     },
     "5de1809c9a350ed640f8e644f41cbc86": {
         "la": "canonicus"
@@ -337,11 +324,11 @@
         "la": "anachoreta",
         "pl": "anachoreta"
     },
-    "61d50fb4351eb5a57438434a5a82f9c7": {
-        "en": "layman / laywoman"
-    },
     "637023532de9e9f9fd35c298cafb637c": {
         "la": "sanctimonialis"
+    },
+    "64656dd34249171eaf14fd5673af174d": {
+        "en": "layman"
     },
     "6537edcef636f3edd981404d8ead2ce9": {
         "en": "philosopher"
@@ -354,12 +341,6 @@
     },
     "669f0b859e5f5f2b9e98a7339bfb6f68": {
         "en": "subdeacon"
-    },
-    "67abd1c2374ccd3b64dcbea631fa06fa": {
-        "pl": "książę / księżna"
-    },
-    "6847e0980c3f85b3a966f27b4bd678b2": {
-        "pl": "tercjarz / tercjarka"
     },
     "6a81060b83b919bc115112bf840eca63": {
         "la": "miles"
@@ -376,17 +357,29 @@
     "6e9d599ed430ce0954b6c108fcfc12a5": {
         "la": "coepiscopus"
     },
+    "71b8e335478d48c60a42e934a1ca3623": {
+        "la": "servus"
+    },
+    "71dd21b124b3942e3743c8f20022ea26": {
+        "la": "propheta"
+    },
     "72545f3f86fad045a26ed54abd2bbb9f": {
         "en": "queen"
     },
     "73d6323223b2413e5bfa9c6307a76a49": {
         "en": "pope"
     },
+    "743ce8abd2af1802e00b43a44da60717": {
+        "la": "institutor"
+    },
     "743e0b1a701ac72663b83efb0d64051f": {
         "pl": "rekluza"
     },
-    "746a4a29faa7d156361392274b1f7892": {
-        "la": "solitarius / solitaria"
+    "78618192d4811e2acb872920f87df475": {
+        "la": "hegumenus"
+    },
+    "7919fd9b30573755287e11cd1fe43620": {
+        "la": "uxorata"
     },
     "7996087a1486efce1ff57bfbae0b4ae9": {
         "en": "novice"
@@ -400,14 +393,17 @@
     "8031b0aa75d793cda52be7adb74af9bf": {
         "pl": "mnich"
     },
+    "81de98f70f97e7b3f0f87cfb96cd2522": {
+        "la": "dux"
+    },
     "82646f22d9e5f9e6a0c8bf49c26bb1ad": {
         "en": "diocesan priest"
     },
+    "841d7efb8651af128939b922bb867c46": {
+        "pl": "męczennik"
+    },
     "854a0e99ca3e30a1ecca1eae5ba6f50f": {
         "la": "archdiaconus"
-    },
-    "85bb62e9c64460f685195214e07c9c46": {
-        "en": "count / countess"
     },
     "8604df4927436bb8223964f96d06bba5": {
         "en": "butcher"
@@ -418,8 +414,8 @@
     "8708235e604945abfef1189f0fad52fc": {
         "en": "temporary coadjutor"
     },
-    "87ea578b6bda6b3fc0757d855fd4c7e7": {
-        "la": "laicus / laica"
+    "8728298e8027f8e64bba25479c7771ce": {
+        "pl": "świecki"
     },
     "8862ae30c81f2b05683c299158019d5a": {
         "pl": "doktor Kościoła"
@@ -427,17 +423,14 @@
     "88c3212fb76cb76e5daae5cde57d55ed": {
         "pl": "pokutnik"
     },
-    "8a656ee604a56505521bec99edf267e2": {
-        "en": "duke / duchess"
-    },
     "8adec1b9b9f8ca80033ad8ab2676b1f3": {
         "en": "father of the household"
     },
     "8afa847f50a716e64932d995c8e7435a": {
         "en": "princess"
     },
-    "8b03d2a49830faaebfa926cb0fd33b4f": {
-        "la": "hegumenus / hegumena"
+    "8b2fd85fa6bec435e3bc0c92e49e09f7": {
+        "en": "abbot"
     },
     "8c21ffcf8ea6adcfeafed623f9c00e36": {
         "la": "materfamilias"
@@ -454,11 +447,14 @@
     "8fd0e4ca06f126659aabb0ea085e2463": {
         "pl": "koadiutor tymczasowy"
     },
-    "9067c7281cfb345c048619c7681364a4": {
-        "en": "old person"
+    "907267501328c855aba612d06bbc94e5": {
+        "pl": "uczony"
     },
     "919e189d488a04190ce6bda0cfd1693c": {
         "pl": "księżna"
+    },
+    "948326d7e9073020b6c56effecd14bbf": {
+        "en": "hegumen"
     },
     "953117718e2ea77aeb8c0c0473e59c58": {
         "la": "patriarcha",
@@ -470,26 +466,32 @@
     "9592b3ad4d7f96bc644c7d6f34c06576": {
         "la": "carnifex"
     },
+    "97409ca42cd078f8e8725347f11b866d": {
+        "la": "laicus"
+    },
     "97f974881b3726d9a77014b5f3b4d795": {
         "en": "farmer"
     },
     "99f303b72fdb565df7a567cba2202747": {
         "pl": "ojciec rodziny"
     },
-    "9a5fd9408e49ab384405203a91314113": {
-        "pl": "igumen / igumenka"
-    },
     "9c553d758d4fde12ba5cc72299df6bdd": {
         "pl": "kanonik"
+    },
+    "9c6f9c3585717c1e67b86e59859a5771": {
+        "pl": "instytutor"
     },
     "9dd7f9bf2d64a68247c5aa38cffd1b59": {
         "la": "clericus"
     },
+    "9efb0042848e63b8c51a7380ffaed037": {
+        "la": "solitarius"
+    },
     "9f72ba8ec590a081a3f8e643c2491a6b": {
         "pl": "kapłan"
     },
-    "a088c3f6d2155340d0b0fad5327035f4": {
-        "la": "coniunx / maritus / uxor"
+    "a0ff43c21d3ba8e8cdbea422af35ff14": {
+        "en": "solitary"
     },
     "a149bf7be5cbfad304cdd73afddd1aff": {
         "pl": "lekarz"
@@ -500,20 +502,14 @@
     "a1d6b5694b31e76b8c226d4be6b26093": {
         "la": "evangelista"
     },
-    "a29e0811f6c8c17f13e9034876ce33dd": {
-        "la": "gubernator / gubernatrix"
-    },
-    "a2acab2753eb958789c5330d17ecb543": {
-        "la": "fundator / fundatrix"
-    },
     "a380233d6a8232c84bdf6399654a52bf": {
         "pl": "akolita"
     },
     "a3f2decfa6e0d566fef69a10713738cd": {
         "en": "archangel"
     },
-    "a4d5c94cc63a3c518220b8ced01ec727": {
-        "en": "former / formatress"
+    "a5d8bc89bf21f0bb2ef0285c6fd4653f": {
+        "pl": "twórca"
     },
     "a675aa630a716a40072b18c8cfee8ce8": {
         "en": "catechist"
@@ -534,12 +530,18 @@
     "a88da6f544550a62ba9e43c659b38b05": {
         "pl": "kanonik regularny"
     },
+    "abcc7832a1bfe0a79b84a31494c6379b": {
+        "la": "comes"
+    },
     "abff88ae45fdc285d398a53774c5f35c": {
         "la": "confessor",
         "en": "confessor"
     },
-    "ad513d8757fff35a3e43051df38a2fa0": {
-        "pl": "męczennik / męczennica"
+    "ae4b889183b41626834f1949e1e1cfea": {
+        "pl": "naczelnik"
+    },
+    "ae609841ccf25c60746089466c13aaf0": {
+        "pl": "zakonnik"
     },
     "aeb9573c09919d210512b643907e56b8": {
         "en": "God"
@@ -550,17 +552,14 @@
     "af6725bf03a59d7c6b24aa2b2c1ad05a": {
         "pl": "król"
     },
+    "b0a0c1146cfdd2c67b0d5f359bc53349": {
+        "en": "prophet"
+    },
     "b0c70b38bf5b3e98d5ec630125cb7369": {
         "pl": "żołnierz"
     },
-    "b0c7cdfec394aa2f9b61038b135a9717": {
-        "la": "socia"
-    },
     "b171e159a000fb9376cf96ba8acd73b2": {
         "en": "cleric"
-    },
-    "b1df80ac4d27f8da02411b46e4569bd8": {
-        "la": "tertiarius / tertiaria"
     },
     "b2086154f101464aab3328ba7e060deb": {
         "en": "king"
@@ -568,17 +567,17 @@
     "b295c66465c1212719fc07586d0c545e": {
         "pl": "profeska"
     },
+    "b331a817c803c451ef412fff60e1b724": {
+        "pl": "igumen"
+    },
     "b458764a59fc73e5e630d75e69181eb9": {
         "en": "soldier"
-    },
-    "b490d6490ba06d86498ce87d410767ff": {
-        "en": "child / boy / girl"
     },
     "b49a54cb5d297c088d3e478eca99804e": {
         "la": "canonicus regularis"
     },
-    "b5d54719a1901bafe97551a7ae324cbf": {
-        "la": "catechumenus / catechumena"
+    "b4a0fb87cce2a1196848cd77185a1278": {
+        "pl": "dziecko"
     },
     "b637af78ada000a39023b4ead9db041a": {
         "en": "acolyte"
@@ -594,6 +593,9 @@
     },
     "b9da22a98da8bcd07e78164d846779fc": {
         "pl": "profes świecki"
+    },
+    "ba85b91bf4e0f6b5089217c12d88fea3": {
+        "la": "abbas"
     },
     "bae1e20259f45920889914b0d6bbe4f0": {
         "la": "sacerdos"
@@ -622,17 +624,11 @@
     "c015831cb984167d2801bbd5339954f8": {
         "en": "diocesan presbyter"
     },
-    "c06d4cefeb158637a78347f6a5f12554": {
-        "la": "abbas / abbatissa"
-    },
     "c0b0635984524c3650dd6a98da2bdc7e": {
         "la": "professus laicus"
     },
     "c0f268fca43678e16d2adde8dfa7a3e4": {
         "pl": "filozof"
-    },
-    "c16e378185ee71ca686e24abc62bf832": {
-        "en": "tertiary"
     },
     "c220efd20da17fbd59d67bd77fb003da": {
         "la": "monachus"
@@ -642,9 +638,6 @@
     },
     "c399e886b6a774cc74b8a2502e08a2c5": {
         "la": "principissa"
-    },
-    "c4caa7126e11a048abe36be230ff007c": {
-        "pl": "(anty)papież"
     },
     "c72b77a62c4a43e34adac460398332e6": {
         "pl": "mężczyzna"
@@ -656,14 +649,14 @@
     "c7ab62c97ed5b389d29485b794dc68ff": {
         "la": "coadiutor temporalis"
     },
-    "c801fc526ce1b1b33ee896c7b13d93c0": {
-        "en": "founder / foundress"
-    },
-    "c8a63f3aec7a1193c3db5bad292b683d": {
-        "pl": "prorok / prorokini"
-    },
     "c9ad31e5740747285dae5c168715d2de": {
         "en": "widow"
+    },
+    "c9cf58027d3ba34a0841ef24a7aac175": {
+        "pl": "założyciel"
+    },
+    "caaa84acca34f6fbe1be609bc4e81c43": {
+        "en": "founder"
     },
     "caf1c89e37206ef637fec26d5ae93b98": {
         "pl": "inny apostoł"
@@ -683,11 +676,8 @@
     "d0a87b4018d6521b0f5a49e5e03adb6d": {
         "en": "virgin"
     },
-    "d151f2e3055a7212be9923fd1766cc4e": {
-        "en": "(anti)pope"
-    },
-    "d20e431f7e08686d4695fb04c5286c5b": {
-        "pl": "świecki / świecka"
+    "d3062849c7a26a7a512c4c870ff5991b": {
+        "pl": "żonaty"
     },
     "d4050bb88abf39e445074b58d5308c0d": {
         "pl": "kapłan diecezjalny"
@@ -695,20 +685,20 @@
     "d52daa36758a165b0ea8193084a9c3be": {
         "la": "diaconus"
     },
+    "d53b4c8de265db0763e7a317d75f3d70": {
+        "la": "catechumenus"
+    },
     "d62458748f2155d19ff7b9836da5eff7": {
         "la": "reclusa"
-    },
-    "d767743b2a5781eb64da16305f9404c4": {
-        "pl": "ustanawiacz"
     },
     "d91c5aa06eafa992b792d9cdba299195": {
         "la": "femina"
     },
-    "d9b6b06400504ab896ae492b3aaee18d": {
-        "pl": "katechumen / katechumenka"
-    },
     "db0f6f37ebeb6ea09489124345af2a45": {
         "en": "group"
+    },
+    "dc1edb872a2330fd4c6fe183773bd218": {
+        "pl": "niewolnik"
     },
     "dc5c95c029534f43bc26a76a5f3c083b": {
         "pl": "biskup pomocniczy"
@@ -724,9 +714,6 @@
         "la": "neophyta",
         "en": "neophyta"
     },
-    "ddae583a1af3661a64cc86c1efec0857": {
-        "pl": "służący / służąca"
-    },
     "e0f43c20eb7e1895c5b35fac9e28a3bf": {
         "pl": "konsul"
     },
@@ -735,6 +722,9 @@
     },
     "e206eeeda7c29b90d14249ee7ef14dc6": {
         "la": "catechista"
+    },
+    "e2942a04780e223b215eb8b663cf5353": {
+        "en": "count"
     },
     "e6a4bd1346dae883f84426f7602c8fd4": {
         "pl": "kleryk"
@@ -745,18 +735,14 @@
     "e759c6e135106a930fe9860d04a84a14": {
         "la": "scholasticus"
     },
-    "ea7caa2a7b2851ee4cda445aa7646fee": {
-        "pl": "małżonek / mąż / żona"
+    "edb554083a5bf54053abb5f43788893d": {
+        "pl": "zamężna"
     },
-    "ed9dd7e90328759af22a6d30771e5887": {
-        "en": "hegumen / hegumeness"
-    },
-    "edb6881af488cf172c19b43187f1f407": {
-        "pl": "założyciel / założycielka"
+    "ee2433259b0fe399b40e81d2c98a38b6": {
+        "en": "creator"
     },
     "f04a8849d5fbd6f51b032d1a29866c81": {
-        "la": "constitutor",
-        "en": "constitutor"
+        "la": "constitutor"
     },
     "f0a387ce4ce0c1ce50b7cafaf6347aec": {
         "la": "paterfamilias"
@@ -770,14 +756,15 @@
     "f70d108cdec7c94d2cbe8da51bfcbc98": {
         "pl": "pokutnica"
     },
+    "f720259e99482a6e3a1f7e4079e1975e": {
+        "la": "fundator",
+        "pl": "fundator"
+    },
     "f8119ce5b6b99992ce19cec80d595b95": {
         "la": "apostolus"
     },
     "f9f16d97c90d8c6f2cab37bb6d1f1992": {
         "en": "doctor"
-    },
-    "fad323c6f21a5d0e481d7b031bfe9056": {
-        "en": "martyr / martyress"
     },
     "fba1e5fa6a6fea145b5f2d9fd555b35c": {
         "pl": "kobieta"
@@ -788,16 +775,13 @@
     "fc312f6500885babfda4fe794afead82": {
         "pl": "biskup kardynał"
     },
-    "fc96676cb6bcabbc24051d6afa1e6d8f": {
-        "la": "servus / serva"
+    "fccc5fde8236946a35cb7f4f11ed193a": {
+        "en": "governor"
     },
     "fcefc137babc8d872498f1549ee72735": {
         "en": "Mother of God"
     },
     "fd460e9935392044fc9d97bae20c9c80": {
         "en": "styllite"
-    },
-    "fddd66218dca0cf498ff3d71a49cde9e": {
-        "la": "dux / ducissa"
     }
 }

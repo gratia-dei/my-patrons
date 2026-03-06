@@ -1,0 +1,30 @@
+{
+    "names": {
+        "pl": "igumen"
+    },
+    "translations": {
+        "la": [
+            "hegumenus"
+        ],
+        "en": [
+            "hegumen"
+        ],
+        "pl": [
+            "igumen"
+        ]
+    },
+    "links": {
+        "records/patrons/athanasia/aeg": {
+            "el": "Αθανασία της Αιγίνης",
+            "la": "Athanasia de Aegina",
+            "en": "Athanasia of Aegina",
+            "pl": "Atanazja z Eginy"
+        },
+        "records/patrons/sergius/rad": {
+            "ru": "Сергий Радонежский",
+            "la": "Sergius de Radonez",
+            "en": "Sergius of Radonezh",
+            "pl": "Sergiusz z Radoneża"
+        }
+    }
+}

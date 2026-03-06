@@ -1,16 +1,17 @@
 {
     "names": {
-        "la": "martyr"
+        "la": "martyr",
+        "en": "martyr"
     },
     "translations": {
         "la": [
             "martyr"
         ],
         "en": [
-            "martyr / martyress"
+            "martyr"
         ],
         "pl": [
-            "męczennik / męczennica"
+            "męczennik"
         ]
     },
     "links": {
