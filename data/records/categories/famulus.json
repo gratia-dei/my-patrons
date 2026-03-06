@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "famulus / famula",
+        "la": "famulus",
         "en": "servant",
-        "pl": "służący / służąca"
+        "pl": "służący"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

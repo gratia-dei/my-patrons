@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "religiosus / religiosa",
+        "la": "religiosus",
         "en": "religious",
-        "pl": "zakonnik / zakonnica"
+        "pl": "zakonnik"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

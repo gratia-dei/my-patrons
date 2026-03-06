@@ -5,8 +5,7 @@
         "pl": ["pokutnik", "pokutnica"]
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir", "femina"],
 
     "color": "#DC3545",
     "description": {

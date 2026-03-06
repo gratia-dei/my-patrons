@@ -5,8 +5,7 @@
         "pl": "profeska"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["femina"],
 
     "color": "#000000",
     "description": {

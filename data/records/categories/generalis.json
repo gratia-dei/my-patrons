@@ -5,8 +5,7 @@
         "pl": "generał"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#FFFFFF",
     "description": {

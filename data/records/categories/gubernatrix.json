@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "gubernatrix",
+        "en": "governoress",
+        "pl": "naczelniczka"
+    },
+
+    "required": ["femina"],
+
+    "color": "#000000",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

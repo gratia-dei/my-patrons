@@ -5,8 +5,7 @@
         "pl": "diakon"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#CCCCCC",
     "description": {

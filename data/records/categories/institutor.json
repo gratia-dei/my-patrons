@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "institutor / institutrix",
-        "en": "instituter / institutress",
-        "pl": "instytutor / instytutorka"
+        "la": "institutor",
+        "en": "instituter",
+        "pl": "instytutor"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

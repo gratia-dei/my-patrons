@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "abbas / abbatissa",
-        "en": "abbot / abbess",
-        "pl": "opat / ksieni"
+        "la": "abbas",
+        "en": "abbot",
+        "pl": "opat"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

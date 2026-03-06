@@ -5,8 +5,7 @@
         "pl": "kleryk"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#555555",
     "description": {

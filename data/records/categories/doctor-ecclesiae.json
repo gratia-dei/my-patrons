@@ -5,8 +5,7 @@
         "pl": "doktor Kościoła"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir", "femina"],
 
     "color": "#E6E600",
     "description": {

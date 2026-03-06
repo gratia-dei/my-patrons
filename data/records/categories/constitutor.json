@@ -1,12 +1,11 @@
 {
     "names": {
         "la": "constitutor",
-        "en": "constitutor",
-        "pl": "ustanawiacz"
+        "en": "establisher",
+        "pl": "twórca"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

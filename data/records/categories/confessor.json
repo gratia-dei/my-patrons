@@ -5,8 +5,7 @@
         "pl": "wyznawca"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#00B300",
     "description": {

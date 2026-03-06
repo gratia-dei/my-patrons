@@ -4,6 +4,10 @@
         "en": "doctor",
         "pl": "lekarz"
     },
+
+    "required": ["vir"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "conditor / conditrix",
-        "en": "creator / creatress",
-        "pl": "założyciel / założycielka"
+        "la": "conditor",
+        "en": "creator",
+        "pl": "założyciel"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

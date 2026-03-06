@@ -5,8 +5,7 @@
         "pl": "kapłan diecezjalny"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#555555",
     "description": {

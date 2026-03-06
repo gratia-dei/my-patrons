@@ -5,8 +5,7 @@
         "pl": "archidiakon"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#CCCCCC",
     "description": {

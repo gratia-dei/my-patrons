@@ -1,12 +1,11 @@
 {
     "names": {
         "la": "martyr",
-        "en": "martyr / martyress",
-        "pl": "męczennik / męczennica"
+        "en": "martyr",
+        "pl": "męczennik"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["coetus", "vir", "femina"],
 
     "color": "#DC3545",
     "description": {

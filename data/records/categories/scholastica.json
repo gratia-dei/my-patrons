@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "scholastica",
+        "en": "scholar",
+        "pl": "uczona"
+    },
+
+    "required": ["femina"],
+
+    "color": "#888888",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

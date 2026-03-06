@@ -4,6 +4,10 @@
         "en": "legate",
         "pl": "legat"
     },
+
+    "requied": ["vir"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

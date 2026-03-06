@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "servus / serva",
+        "la": "servus",
         "en": "slave",
-        "pl": "niewolnik / niewolnica"
+        "pl": "niewolnik"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

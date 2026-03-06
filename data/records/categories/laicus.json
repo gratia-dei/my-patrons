@@ -1,9 +1,13 @@
 {
     "names": {
-        "la": "laicus / laica",
-        "en": "layman / laywoman",
-        "pl": "świecki / świecka"
+        "la": "laicus",
+        "en": "layman",
+        "pl": "świecki"
     },
+
+    "requied": ["vir"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

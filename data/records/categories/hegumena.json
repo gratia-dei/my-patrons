@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "hegumena",
+        "en": "hegumeness",
+        "pl": "igumenka"
+    },
+
+    "required": ["femina"],
+
+    "color": "#A15116",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

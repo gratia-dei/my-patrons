@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "gubernator / gubernatrix",
-        "en": "governor / governoress",
-        "pl": "naczelnik / naczelniczka"
+        "la": "gubernator",
+        "en": "governor",
+        "pl": "naczelnik"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

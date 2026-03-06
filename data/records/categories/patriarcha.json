@@ -5,8 +5,7 @@
         "pl": "patriarcha"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#7000A1",
     "description": {

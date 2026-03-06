@@ -5,8 +5,7 @@
         "pl": "archanioł"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": [],
 
     "color": "#FFFFFF",
     "description": {

@@ -5,8 +5,7 @@
         "pl": "subdiakon"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#CCCCCC",
     "description": {

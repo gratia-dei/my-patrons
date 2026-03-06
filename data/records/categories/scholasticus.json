@@ -2,8 +2,12 @@
     "names": {
         "la": "scholasticus",
         "en": "scholar",
-        "pl": "uczony / uczona"
+        "pl": "uczony"
     },
+
+    "required": ["vir"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

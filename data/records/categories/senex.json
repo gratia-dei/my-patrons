@@ -1,12 +1,11 @@
 {
     "names": {
         "la": "senex",
-        "en": "old person",
+        "en": "old man",
         "pl": "starzec"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

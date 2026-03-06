@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "abbatissa",
+        "en": "abbess",
+        "pl": "ksieni"
+    },
+
+    "required": ["femina"],
+
+    "color": "#000000",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

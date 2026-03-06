@@ -1,9 +1,13 @@
 {
   "names": {
-    "la": "catechumenus / catechumena",
+    "la": "catechumenus",
     "en": "catechumen",
-    "pl": "katechumen / katechumenka"
+    "pl": "katechumen"
   },
+
+  "required": ["vir"],
+
+  "color": "#888888",
   "description": {
     "en": "description coming soon ...",
     "pl": "opis pojawi się wkrótce ..."

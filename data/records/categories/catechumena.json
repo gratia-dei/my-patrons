@@ -1,9 +1,13 @@
 {
     "names": {
-        "la": "socia",
-        "en": "group",
-        "pl": "grupa"
+        "la": "catechumena",
+        "en": "catechumen",
+        "pl": "katechumenka"
     },
+
+    "required": ["femina"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "formator / formatrix",
-        "en": "former / formatress",
-        "pl": "formator / formatorka"
+        "la": "formator",
+        "en": "former",
+        "pl": "formator"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

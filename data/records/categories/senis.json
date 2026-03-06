@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "senis",
+        "en": "old woman",
+        "pl": "staruszka"
+    },
+
+    "required": ["femina"],
+
+    "color": "#000000",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

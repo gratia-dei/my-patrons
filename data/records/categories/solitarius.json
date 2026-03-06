@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "solitarius / solitaria",
-        "en": "solitary / solitaress",
-        "pl": "samotnik / samotnica"
+        "la": "solitarius",
+        "en": "solitary",
+        "pl": "samotnik"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

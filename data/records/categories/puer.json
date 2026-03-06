@@ -1,9 +1,13 @@
 {
     "names": {
-        "la": "puer / puellus / puella",
-        "en": "child / boy / girl",
-        "pl": "dziecko / chłopiec / dziewczynka"
+        "la": "puer",
+        "en": "child",
+        "pl": "dziecko"
     },
+
+    "required": ["vir", "femina"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "fundator / fundatrix",
-        "en": "founder / foundress",
-        "pl": "fundator / fundatorka"
+        "la": "fundator",
+        "en": "founder",
+        "pl": "fundator"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#000000",
     "description": {

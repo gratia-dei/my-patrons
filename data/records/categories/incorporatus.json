@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "incorporatus",
+        "en": "incorporated man",
+        "pl": "wcielony"
+    },
+
+    "required": ["vir"],
+
+    "color": "#000000",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

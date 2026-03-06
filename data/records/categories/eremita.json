@@ -5,8 +5,7 @@
         "pl": "eremita"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#A15116",
     "description": {

@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "dux / ducissa",
-        "en": "duke / duchess",
-        "pl": "książę / księżna"
+        "la": "dux",
+        "en": "duke",
+        "pl": "książę"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#0000B3",
     "description": {

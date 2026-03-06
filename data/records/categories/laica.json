@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "laica",
+        "en": "laywoman",
+        "pl": "świecka"
+    },
+
+    "requied": ["femina"],
+
+    "color": "#888888",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

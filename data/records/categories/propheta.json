@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "prophet / prophetissa",
-        "en": "prophet / prophetess",
-        "pl": "prorok / prorokini"
+        "la": "propheta",
+        "en": "prophet",
+        "pl": "prorok"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#7000A1",
     "description": {

@@ -1,12 +1,11 @@
 {
     "names": {
-        "la": "comes / comitissa",
-        "en": "count / countess",
-        "pl": "hrabia / hrabina"
+        "la": "comes",
+        "en": "count",
+        "pl": "hrabia"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#0000B3",
     "description": {

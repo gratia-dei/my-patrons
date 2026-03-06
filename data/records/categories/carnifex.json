@@ -4,6 +4,10 @@
         "en": "butcher",
         "pl": "rzeźnik"
     },
+
+    "required": ["vir"],
+
+    "color": "#888888",
     "description": {
         "en": "description coming soon ...",
         "pl": "opis pojawi się wkrótce ..."

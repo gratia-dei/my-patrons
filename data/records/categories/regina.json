@@ -5,8 +5,7 @@
         "pl": "królowa"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["femina"],
 
     "color": "#0000B3",
     "description": {

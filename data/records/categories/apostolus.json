@@ -5,8 +5,7 @@
         "pl": "apostoł"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#FFA500",
     "description": {

@@ -5,8 +5,7 @@
         "pl": "biskup"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#B300B3",
     "description": {

@@ -1,0 +1,15 @@
+{
+    "names": {
+        "la": "novitia",
+        "en": "novice",
+        "pl": "nowicjuszka"
+    },
+
+    "required": ["femina"],
+
+    "color": "#000000",
+    "description": {
+        "en": "description coming soon ...",
+        "pl": "opis pojawi się wkrótce ..."
+    }
+}

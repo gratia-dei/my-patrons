@@ -5,8 +5,7 @@
         "pl": "papież"
     },
 
-    "required---todo": ["..."],
-    "after---todo": ["..."],
+    "required": ["vir"],
 
     "color": "#EEEEEE",
     "description": {
