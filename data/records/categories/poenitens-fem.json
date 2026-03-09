@@ -2,10 +2,10 @@
     "names": {
         "la": "poenitens",
         "en": "penitent",
-        "pl": "pokutnik"
+        "pl": "pokutnica"
     },
 
-    "required": ["vir"],
+    "required": ["femina"],
 
     "color": "#DC3545",
     "description": {

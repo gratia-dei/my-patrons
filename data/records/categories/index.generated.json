@@ -394,6 +394,11 @@
         "en": "philosopher",
         "pl": "filozof"
     },
+    "poenitens-fem": {
+        "la": "poenitens",
+        "en": "penitent",
+        "pl": "pokutnica"
+    },
     "poenitens": {
         "la": "poenitens",
         "en": "penitent",
