@@ -1,0 +1,572 @@
+{
+    "names": {
+        "pl": "męczennica"
+    },
+    "translations": {
+        "la": [
+            "martyr"
+        ],
+        "en": [
+            "martyr"
+        ],
+        "pl": [
+            "męczennica"
+        ]
+    },
+    "links": {
+        "records/patrons/agatha/cat": {
+            "la": "Agatha Catanensis",
+            "en": "Agatha of Sicily",
+            "pl": "Agata Sycylijska"
+        },
+        "records/patrons/agatha/cho": {
+            "ko": "전경협 아가타",
+            "la": "Agatha Chŏn Kyŏng-hyŏb",
+            "en": "Agatha Chŏn Kyŏng-hyŏb",
+            "pl": "Agata Chŏn Kyŏng-hyŏb"
+        },
+        "records/patrons/agnes/rom": {
+            "la": "Agnes Romana",
+            "en": "Agnes of Rome",
+            "pl": "Agnieszka Rzymianka"
+        },
+        "records/patrons/alicia/kot": {
+            "pl": "Alicja Kotowska",
+            "la": "Alicia Kotowska",
+            "en": "Alice Kotowska"
+        },
+        "records/patrons/ammonarion/ale": {
+            "la": "Ammonarion Alexandrina",
+            "en": "Ammonarion of Alexandria",
+            "pl": "Amonaria z Aleksandrii"
+        },
+        "records/patrons/ammonarion/alt": {
+            "la": "Ammonarion Alexandrina, altera",
+            "en": "Ammonarion of Alexandria, another",
+            "pl": "Amonaria z Aleksandrii, druga"
+        },
+        "records/patrons/anastasia/sir": {
+            "la": "Anastasia Sirmiensis",
+            "en": "Anastasia of Sirmium",
+            "pl": "Anastazja z Sirmium"
+        },
+        "records/patrons/anna/kim": {
+            "ko": "김장금 안나",
+            "la": "Anna Kim Chang-gŭm",
+            "en": "Anna Kim Chang-gŭm",
+            "pl": "Anna Kim Chang-gŭm"
+        },
+        "records/patrons/antonia/mes": {
+            "it": "Antonia Mesina",
+            "la": "Antonia Mesina",
+            "en": "Anthonia Mesina",
+            "pl": "Antonia Mesina"
+        },
+        "records/patrons/apollonia/ale": {
+            "la": "Apollonia de Alexandria",
+            "en": "Apollonia of Alexandria",
+            "pl": "Apolonia z Aleksandrii"
+        },
+        "records/patrons/barbara/nic": {
+            "la": "Barbara Nicomedensis",
+            "en": "Barbara of Nicomedia",
+            "pl": "Barbara z Nikomedii"
+        },
+        "records/patrons/barbara/ulm": {
+            "pl": "Barbara Ulma",
+            "la": "Barbara Ulma",
+            "en": "Barbara Ulma"
+        },
+        "records/patrons/caecilia/rom": {
+            "la": "Caecilia Romana",
+            "en": "Cecilia of Rome",
+            "pl": "Cecylia z Rzymu"
+        },
+        "records/patrons/caelestina/far": {
+            "pl": "Celestyna Faron",
+            "la": "Caelestina Faron",
+            "en": "Celestine Faron"
+        },
+        "records/patrons/caritas/rom": {
+            "la": "Caritas de Roma",
+            "en": "Charity of Rome",
+            "pl": "Miłość z Rzymu"
+        },
+        "records/patrons/carola/luc": {
+            "fr": "Charlotte Lucas",
+            "la": "Carola Lucas",
+            "en": "Charlotte Lucas",
+            "pl": "Szarlota Lucas"
+        },
+        "records/patrons/carolina/koz": {
+            "pl": "Karolina Kózka",
+            "la": "Carolina Kózka",
+            "en": "Caroline Kózka"
+        },
+        "records/patrons/catharina/ale": {
+            "la": "Catharina Alexandrina",
+            "en": "Catherine of Alexandria",
+            "pl": "Katarzyna Aleksandryjska"
+        },
+        "records/patrons/catharina/ver": {
+            "fr": "Catherine du Verdier de La Sorinière",
+            "la": "Catharina du Verdier de La Sorinière",
+            "en": "Catherine du Verdier de La Sorinière",
+            "pl": "Katarzyna du Verdier de La Sorinière"
+        },
+        "records/patrons/catharina/yiv": {
+            "ko": "이 가타리나",
+            "la": "Catharina Yi",
+            "en": "Cathrine Yi",
+            "pl": "Katarzyna Yi"
+        },
+        "records/patrons/christina/per": {
+            "fa": "کریستینای ایرانی",
+            "la": "Christina Persica",
+            "en": "Christina of Persia",
+            "pl": "Krystyna z Persji"
+        },
+        "records/patrons/clementina/nen": {
+            "fr": "Clémentine Anuarite Nengapeta",
+            "la": "Clementina Nengapeta Anuarite",
+            "en": "Clementine Anuarite Nengapeta",
+            "pl": "Klementyna Anuarita Nengapeta"
+        },
+        "records/patrons/columba/kim": {
+            "ko": "김효임 골룸바",
+            "la": "Columba Kim Hyo-im",
+            "en": "Columba Kim Hyo-im",
+            "pl": "Kolumba Kim Hyo-im"
+        },
+        "records/patrons/crispina/tha": {
+            "la": "Crispina Thagorensis",
+            "en": "Crispina of Numidia",
+            "pl": "Kryspina z Numidii"
+        },
+        "records/patrons/cyriaca/pho": {
+            "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
+        "records/patrons/daria/chr": {
+            "la": "Daria de Roma",
+            "en": "Daria of Rome",
+            "pl": "Daria z Rzymu"
+        },
+        "records/patrons/dionysia/ale": {
+            "la": "Dionysia Alexandrina",
+            "en": "Dionysia of Alexandria",
+            "pl": "Dionizja z Aleksandrii"
+        },
+        "records/patrons/donata/sci": {
+            "la": "Donata de Scillium",
+            "en": "Donata of Scillium",
+            "pl": "Donata ze Scilium"
+        },
+        "records/patrons/dorothea/cae": {
+            "la": "Dorothea de Caesarea",
+            "en": "Dorothy of Caesarea",
+            "pl": "Dorota z Cezarei"
+        },
+        "records/patrons/eulalia/eme": {
+            "es": "Eulalia de Mérida",
+            "la": "Eulalia de Mérida",
+            "en": "Eulalia of Mérida",
+            "pl": "Eulalia z Méridy"
+        },
+        "records/patrons/felicitas/car": {
+            "la": "Felicitas Carthaginensis",
+            "en": "Felicity of Carthage",
+            "pl": "Felicyta z Kartaginy"
+        },
+        "records/patrons/felicitas/pri": {
+            "fr": "Félicité Pricet",
+            "la": "Felicitas Pricet",
+            "en": "Felicity Pricet",
+            "pl": "Felicyta Pricet"
+        },
+        "records/patrons/felicitas/rom": {
+            "la": "Felicitas de Roma",
+            "en": "Felicity of Rome",
+            "pl": "Felicyta z Rzymu"
+        },
+        "records/patrons/fides/rom": {
+            "la": "Fides de Roma",
+            "en": "Faith of Rome",
+            "pl": "Wiara z Rzymu"
+        },
+        "records/patrons/generosa/sci": {
+            "la": "Generosa de Scillium",
+            "en": "Generosa of Scillium",
+            "pl": "Generoza ze Scilium"
+        },
+        "records/patrons/ianuaria/sci": {
+            "la": "Ianuaria de Scillium",
+            "en": "Januaria of Scillium",
+            "pl": "Januaria ze Scilium"
+        },
+        "records/patrons/ioanna/ver": {
+            "fr": "Jeanne Véron",
+            "la": "Ioanna Véron",
+            "en": "Joann Véron",
+            "pl": "Joanna Véron"
+        },
+        "records/patrons/iulia/rod": {
+            "pl": "Julia Rodzińska",
+            "en": "Julia Rodzińska",
+            "la": "Iulia Rodzińska"
+        },
+        "records/patrons/iuliana/cam": {
+            "la": "Iuliana de Nicomedia",
+            "en": "Juliana of Nicomedia",
+            "pl": "Juliana z Nikomedii"
+        },
+        "records/patrons/iulitta/cae": {
+            "el": "Ιουλίτα της Καισάρειας",
+            "la": "Julitta Caesariensis",
+            "en": "Julitta of Caesarea",
+            "pl": "Julita z Cezarei"
+        },
+        "records/patrons/iulitta/kim": {
+            "ko": "김 율리에타",
+            "la": "Iulitta Kim",
+            "en": "Juliet Kim",
+            "pl": "Julita Kim"
+        },
+        "records/patrons/iulitta/qui": {
+            "el": "Ιουλίττα ο Ταρσεύς",
+            "la": "Iulitta Tarsensis",
+            "en": "Julitta of Tarsus",
+            "pl": "Julitta z Tarsu"
+        },
+        "records/patrons/iustina/pat": {
+            "it": "Giustina di Padova",
+            "la": "Iustina Patavina",
+            "en": "Justine of Padua",
+            "pl": "Justyna z Padwy"
+        },
+        "records/patrons/liliosa/fel": {
+            "la": "Liliosa de Corduba; cum ea, i.a., Felix",
+            "en": "Liliosa of Cordoba; with her, i.a., Felix",
+            "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
+        },
+        "records/patrons/lucia/kim": {
+            "ko": "김 루치아",
+            "la": "Lucia Kim",
+            "en": "Locy Kim",
+            "pl": "Łucja Kim"
+        },
+        "records/patrons/lucia/kin": {
+            "ko": "김 루치아 (1818년 출생)",
+            "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
+            "en": "Locy Kim; with her, i.a., Magdalena Yi Yŏng-hŭi",
+            "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
+        },
+        "records/patrons/lucia/syr": {
+            "it": "Lucia da Siracusa",
+            "la": "Lucia Syracusana",
+            "en": "Lucia of Syracuse",
+            "pl": "Łucja z Syrakuz"
+        },
+        "records/patrons/ludovica/bes": {
+            "fr": "Louise Bessay de La Voute",
+            "la": "Ludovica Bessay de La Voute",
+            "en": "Louise Bessay de La Voute",
+            "pl": "Ludwika Bessay de La Voute"
+        },
+        "records/patrons/ludovica/poi": {
+            "fr": "Louise Poirier",
+            "la": "Ludovica Poirier",
+            "en": "Louise Poirier",
+            "pl": "Ludwika Poirier"
+        },
+        "records/patrons/magdalena/cho": {
+            "ko": "조 막달레나",
+            "la": "Magdalena Cho",
+            "en": "Magdalene Cho",
+            "pl": "Magdalena Cho"
+        },
+        "records/patrons/magdalena/hok": {
+            "ko": "허계임 막달레나",
+            "la": "Magdalena Hŏ Kye-im",
+            "en": "Magdalene Hŏ Kye-im",
+            "pl": "Magdalena Hŏ Kye-im"
+        },
+        "records/patrons/magdalena/pak": {
+            "ko": "박봉손 막달레나",
+            "la": "Magdalena Pak Pong-son",
+            "en": "Magdalene Pak Pong-son",
+            "pl": "Magdalena Pak Pong-son"
+        },
+        "records/patrons/magdalena/yiy": {
+            "ko": "이영희 막달레나",
+            "la": "Magdalena Yi Yŏng-hŭi",
+            "en": "Magdalene Yi Yŏng-hŭi",
+            "pl": "Magdalena Yi Yŏng-hŭi"
+        },
+        "records/patrons/manathas/cae": {
+            "la": "Manathas Caesariensis",
+            "en": "Manatha of Caesarea",
+            "pl": "Manata z Cezarei"
+        },
+        "records/patrons/margarita/war": {
+            "en": "Margaret Ward",
+            "la": "Margarita Ward",
+            "pl": "Małgorzata Ward"
+        },
+        "records/patrons/maria/bie": {
+            "pl": "Maria Anna Biernacka",
+            "la": "Maria Anna Biernacka",
+            "en": "Maria Anna Biernacka"
+        },
+        "records/patrons/maria/bor": {
+            "pl": "Maria Felicyta Borowik",
+            "la": "Maria Felicitas Borowik",
+            "en": "Mary Felicity Borowik"
+        },
+        "records/patrons/maria/chr": {
+            "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
+            "la": "Maria Canuta a Iesu in Horto Getsemani",
+            "en": "Mary Canuta of the Agonized Jesus in the Garden"
+        },
+        "records/patrons/maria/cie": {
+            "pl": "Maria Gwidona od Miłosierdzia Bożego",
+            "la": "Maria Guidona a Divina Misericordia",
+            "en": "Mary Guidona of Divine Mercy"
+        },
+        "records/patrons/maria/hac": {
+            "fr": "Marie-Anne Hacher du Bois",
+            "la": "Maria Anna Hacher du Bois",
+            "en": "Mary Anna Hacher du Bois",
+            "pl": "Maria Anna Hacher du Bois"
+        },
+        "records/patrons/maria/joz": {
+            "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
+            "la": "Maria Daniela a Iusei et Maria Immaculata",
+            "en": "Mary Daniela of Jesus and Immaculate Mary"
+        },
+        "records/patrons/maria/kra": {
+            "pl": "Maria Antonina Kratochwil",
+            "la": "Maria Antonina Kratochwil",
+            "en": "Mary Antoinette Kratochwil"
+        },
+        "records/patrons/maria/kuk": {
+            "pl": "Maria Rajmunda od Jezusa i Maryi",
+            "la": "Maria Raymunda a Iesu et Maria",
+            "en": "Mary Raymunda of Jesus and Mary"
+        },
+        "records/patrons/maria/mac": {
+            "pl": "Maria Kanizja Mackiewicz",
+            "la": "Maria Canisia Mackiewicz",
+            "en": "Mary Canisia Mackiewicz"
+        },
+        "records/patrons/maria/mar": {
+            "pl": "Maria Stella od Najświętszego Sakramentu",
+            "la": "Maria Stella a Sanctissimo Sacramento",
+            "en": "Maria Stella of the Blessed Sacrament"
+        },
+        "records/patrons/maria/mat": {
+            "pl": "Maria Heliodora Matuszewska",
+            "la": "Maria Heliodora Matuszewska",
+            "en": "Mary Heliodora Matuszewska"
+        },
+        "records/patrons/maria/nar": {
+            "pl": "Maria Boromea Narmontowicz",
+            "la": "Maria Boromea Narmontowicz",
+            "en": "Mary Boromea Narmontowicz"
+        },
+        "records/patrons/maria/rap": {
+            "pl": "Maria Sergia od Matki Bożej Bolesnej",
+            "la": "Maria Sergia a Virgine Perdolenti",
+            "en": "Mary Sergia of Our Lady of Sorrows"
+        },
+        "records/patrons/maria/ulm": {
+            "pl": "Maria Ulma",
+            "la": "Maria Ulma",
+            "en": "Mary Ulma"
+        },
+        "records/patrons/maria/ver": {
+            "fr": "Marie-Louise du Verdier de La Sorinière",
+            "la": "Maria Ludovica du Verdier de La Sorinière",
+            "en": "Mary Louise du Verdier de La Sorinière",
+            "pl": "Maria Ludwika du Verdier de La Sorinière"
+        },
+        "records/patrons/maria/won": {
+            "ko": "원귀임 마리아",
+            "la": "Maria Wŏn Kwi-im",
+            "en": "Mary Wŏn Kwi-im",
+            "pl": "Maria Wŏn Kwi-im"
+        },
+        "records/patrons/maria/zak": {
+            "pl": "Maria Imelda od Jezusa Hostii",
+            "la": "Maria Imelda a Iesu Hostia",
+            "en": "Mary Imelda of the Eucharistic Jesus"
+        },
+        "records/patrons/marina/pis": {
+            "la": "Marina Margarita Antiochena",
+            "en": "Marina Margaret of Antioch",
+            "pl": "Marina Małgorzata z Antiochii"
+        },
+        "records/patrons/martha/kim": {
+            "ko": "김성임 마르타",
+            "la": "Martha Kim Sŏng-im",
+            "en": "Martha Kim Sŏng-im",
+            "pl": "Marta Kim Sŏng-im"
+        },
+        "records/patrons/mercuria/ale": {
+            "la": "Mercuria Alexandrina",
+            "en": "Mercuria of Alexandria",
+            "pl": "Merkuria z Aleksandrii"
+        },
+        "records/patrons/monica/pic": {
+            "fr": "Monique Pichery",
+            "la": "Monica Pichery",
+            "en": "Monica Pichery",
+            "pl": "Monika Pichery"
+        },
+        "records/patrons/multa/ama": {
+            "la": "Sociae Ammonariionis Alexandrinae",
+            "en": "The Female Companions of Ammonarion of Alexandria",
+            "pl": "Towarzyszki Amonarii z Aleksandrii"
+        },
+        "records/patrons/multa/sfa": {
+            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
+            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
+            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
+        },
+        "records/patrons/multa/sms": {
+            "la": "Septem mulieres, sociorum Blasii de Sebaste",
+            "en": "Seven women, companions of Blaise of Sebaste",
+            "pl": "Siedem kobiet, towarzyszki Błażeja z Sebasty"
+        },
+        "records/patrons/multa/urs": {
+            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
+            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
+            "en": "Companions of Ursula of Cologne, virgins and martyrs",
+            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
+        },
+        "records/patrons/natalia/tul": {
+            "pl": "Natalia Tułasiewicz",
+            "la": "Natalia Tułasiewicz",
+            "en": "Natalie Tułasiewicz"
+        },
+        "records/patrons/nympha/try": {
+            "la": "Nympha; cum ea, i.a., Tryphon",
+            "en": "Nympha; with her, i.a., Tryphon",
+            "pl": "Nimfa; z nią, m.in. Tryfon"
+        },
+        "records/patrons/parasceve/pho": {
+            "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
+            "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
+            "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
+        },
+        "records/patrons/perpetua/car": {
+            "la": "Perpetua Carthaginensis",
+            "en": "Perpetua of Carthage",
+            "pl": "Perpetua z Kartaginy"
+        },
+        "records/patrons/perpetua/hon": {
+            "ko": "홍금주 페르페투아",
+            "la": "Perpetua Hong Kŭm-ju",
+            "en": "Perpetua Hong Kŭm-ju",
+            "pl": "Perpetua Hong Kŭm-ju"
+        },
+        "records/patrons/philomena/rom": {
+            "it": "Filomena di Roma",
+            "la": "Philomena Romana",
+            "en": "Philomena of Rome",
+            "pl": "Filomena z Rzymu"
+        },
+        "records/patrons/photina/sam": {
+            "la": "Photina Samaritana",
+            "en": "Photine the Samaritan",
+            "pl": "Fotyna Samarytanka"
+        },
+        "records/patrons/rosa/kim": {
+            "ko": "김 로사",
+            "la": "Rosa Kim",
+            "en": "Rose Kim",
+            "pl": "Róża Kim"
+        },
+        "records/patrons/rosula/car": {
+            "la": "Rosula Carthaginensis",
+            "en": "Rosula of Carthage",
+            "pl": "Rosula z Kartaginy"
+        },
+        "records/patrons/sabigothon/aur": {
+            "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
+            "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
+            "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
+        },
+        "records/patrons/sallustia/rom": {
+            "la": "Sallustia de Roma",
+            "en": "Salustia of Rome",
+            "pl": "Salustia z Rzymu"
+        },
+        "records/patrons/secunda/sci": {
+            "la": "Secunda de Scillium",
+            "en": "Secunda of Scillium",
+            "pl": "Sekunda ze Scilium"
+        },
+        "records/patrons/sophia/fir": {
+            "it": "Sofia di Fermo",
+            "la": "Sophia Firmana",
+            "en": "Sophia of Fermo",
+            "pl": "Zofia z Fermo"
+        },
+        "records/patrons/spes/rom": {
+            "la": "Spes de Roma",
+            "en": "Hope of Rome",
+            "pl": "Nadzieja z Rzymu"
+        },
+        "records/patrons/stanislava/ulm": {
+            "pl": "Stanisława Ulma",
+            "la": "Stanislava Ulma",
+            "en": "Stanislava Ulma"
+        },
+        "records/patrons/susanna/rom": {
+            "la": "Susanna Romana",
+            "en": "Susanna of Rome",
+            "pl": "Zuzanna Rzymska"
+        },
+        "records/patrons/teresia/ste": {
+            "de": "Therese Benedicta vom Kreuz",
+            "la": "Teresia Benedicta a Cruce",
+            "en": "Therese Benedicta of the Cross",
+            "pl": "Teresa Benedykta od Krzyża"
+        },
+        "records/patrons/teresia/yim": {
+            "ko": "이매임 데레사",
+            "la": "Teresia Yi Mae-im",
+            "en": "Therese Yi Mae-im",
+            "pl": "Teresa Yi Mae-im"
+        },
+        "records/patrons/ursula/vir": {
+            "de": "Ursula von Köln",
+            "la": "Ursula Coloniensis",
+            "en": "Ursula of Cologne",
+            "pl": "Urszula z Kolonii"
+        },
+        "records/patrons/vestia/sci": {
+            "la": "Vestia de Scillium",
+            "en": "Vestia of Scillium",
+            "pl": "Westia ze Scilium"
+        },
+        "records/patrons/viatrix/sim": {
+            "la": "Viatrix, cum ea, i.a., Simplicius",
+            "en": "Viatrice; with her, i.a., Simplicius",
+            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
+        },
+        "records/patrons/victoria/gus": {
+            "fr": "Victoire Gusteau",
+            "la": "Victoria Gusteau",
+            "en": "Victoria Gusteau",
+            "pl": "Wiktoria Gusteau"
+        },
+        "records/patrons/victoria/ulm": {
+            "pl": "Wiktoria Ulma",
+            "la": "Victoria Ulma",
+            "en": "Victoria Ulma"
+        }
+    }
+}

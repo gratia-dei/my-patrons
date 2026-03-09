@@ -28,7 +28,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "martyr", "uxorata"],
+    "categories": ["femina", "martyr-fem", "uxorata"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]

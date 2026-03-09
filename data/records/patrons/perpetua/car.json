@@ -25,7 +25,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "martyr", "catechumena"],
+    "categories": ["femina", "martyr-fem", "catechumena"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]

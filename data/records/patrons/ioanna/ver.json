@@ -32,7 +32,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "martyr", "virgo"],
+    "categories": ["femina", "martyr-fem", "virgo"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]

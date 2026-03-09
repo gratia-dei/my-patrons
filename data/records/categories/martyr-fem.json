@@ -2,10 +2,10 @@
     "names": {
         "la": "martyr",
         "en": "martyr",
-        "pl": "męczennik"
+        "pl": "męczennica"
     },
 
-    "required": ["vir"],
+    "required": ["femina"],
 
     "color": "#DC3545",
     "description": {

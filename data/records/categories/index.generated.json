@@ -314,6 +314,16 @@
         "en": "levi",
         "pl": "lewita"
     },
+    "martyr-fem": {
+        "la": "martyr",
+        "en": "martyr",
+        "pl": "męczennica"
+    },
+    "martyr-ind": {
+        "la": "martyr",
+        "en": "martyr",
+        "pl": "męczennik"
+    },
     "martyr": {
         "la": "martyr",
         "en": "martyr",

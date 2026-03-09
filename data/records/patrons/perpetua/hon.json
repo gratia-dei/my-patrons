@@ -41,7 +41,7 @@
 
     "status---todo": ["beatus/sanctus"],
     "attributes---todo": ["..."],
-    "categories": ["femina", "martyr", "vidua"],
+    "categories": ["femina", "martyr-fem", "vidua"],
     "communities": {
         "member---todo": ["..."],
         "creator---todo": ["..."]
