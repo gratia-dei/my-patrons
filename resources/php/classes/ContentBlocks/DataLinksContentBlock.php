@@ -70,8 +70,10 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
             }
 
             $previousLinks = [];
-            foreach ($aliasData as $link) {
+            foreach ($aliasData as $linkKey => $linkVal) {
                 $recordNumber++;
+
+                $link = is_int($linkKey) ? $linkVal : $linkKey;
 
                 $linkData = $this->getDataLinkElements($link);
                 if (is_null($linkData)) {

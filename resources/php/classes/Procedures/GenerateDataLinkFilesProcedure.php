@@ -53,7 +53,9 @@ class GenerateDataLinkFilesProcedure extends Procedure
     {
         foreach ($data as $fieldPath => $fieldData) {
             foreach ($fieldData as $dstDirPathAlias => $dataLinks) {
-                foreach ($dataLinks as $link) {
+                foreach ($dataLinks as $linkKey => $linkVal) {
+                    $link = is_int($linkKey) ? $linkVal : $linkKey;
+
                     $linkData = $this->getDataLinkElements($link);
                     if (is_null($linkData)) {
                         $this->error("invalid link '$link' in file '$sourceFilePath', data-links field '$fieldPath' and directory path alias '$dstDirPathAlias'");
