@@ -1,0 +1,27 @@
+{
+    "names": {
+        "ca": "Tobías"
+    },
+    "translations": {
+        "la": [
+            "Tobias"
+        ],
+        "en": [
+            "Tobias"
+        ],
+        "pl": [
+            "Tobiasz"
+        ],
+        "ca": [
+            "Tobías"
+        ]
+    },
+    "links": {
+        "records/patrons/tobias/bor": {
+            "ca": "Tobías Borrás Romeu",
+            "la": "Tobias Borrás Romeu",
+            "en": "Tobias Borrás Romeu",
+            "pl": "Tobiasz Borrás Romeu"
+        }
+    }
+}

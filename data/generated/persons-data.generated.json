@@ -28545,6 +28545,38 @@
             }
         }
     },
+    "patrons/tobias": {
+        "names": {
+            "la": "Tobias",
+            "en": "Tobias",
+            "pl": "Tobiasz",
+            "ca": "Tobías"
+        }
+    },
+    "patrons/tobias/bor": {
+        "active": true,
+        "names": {
+            "ca": "Tobías Borrás Romeu",
+            "la": "Tobias Borrás Romeu",
+            "en": "Tobias Borrás Romeu",
+            "pl": "Tobiasz Borrás Romeu"
+        },
+        "died": [
+            "1937-02-11"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/tobias": {
+                "active": true,
+                "names": {
+                    "la": "Tobias",
+                    "en": "Tobias",
+                    "pl": "Tobiasz",
+                    "ca": "Tobías"
+                }
+            }
+        }
+    },
     "patrons/tranquillinus": {
         "names": {
             "la": "Tranquillinus",

@@ -232,6 +232,12 @@
             "la": "Simon da Costa",
             "en": "Simon da Costa",
             "pl": "Szymon da Costa"
+        },
+        "records/patrons/tobias/bor": {
+            "ca": "Tobías Borrás Romeu",
+            "la": "Tobias Borrás Romeu",
+            "en": "Tobias Borrás Romeu",
+            "pl": "Tobiasz Borrás Romeu"
         }
     }
 }

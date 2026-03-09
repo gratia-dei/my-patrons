@@ -1,0 +1,64 @@
+{
+    "names": {
+        "ca": [
+            "Tobías Borrás Romeu"
+        ],
+        "la": [
+            "Tobias Borrás Romeu"
+        ],
+        "en": [
+            "Tobias Borrás Romeu"
+        ],
+        "pl": [
+            "Tobiasz Borrás Romeu"
+        ]
+    },
+    "forenames": ["tobias"],
+    "surnames": [
+        {
+            "ca": "Borrás"
+        },
+        {
+            "ca": "Romeu"
+        }
+    ],
+    "epithets": null,
+
+    "active": true,
+
+    "born": ["1861-04-14"],
+    "died": ["1937-02-11"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1992-10-25"
+    },
+    "canonized": null,
+    "doctor-of-the-church---todo": null,
+    "anniversary": ["02-11"],
+
+    "categories": ["vir", "martyr", "religiosus"],
+    "communities": {
+        "member---todo": ["..."],
+        "creator---todo": ["..."]
+    },
+
+    "companions---todo": ["..."],
+    "specially-venerated-persons---todo": ["..."],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": ["1:feb./11#11"],
+        "mr-2004-movable": []
+    },
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/122-martiri-spagnoli.html",
+        "gcatholic": "https://gcatholic.org/p/63715",
+        "wiki": "https://pl.wikipedia.org/wiki/122_m%C4%99czennik%C3%B3w_wojny_domowej_w_Hiszpanii"
+    }
+}

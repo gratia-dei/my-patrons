@@ -2126,6 +2126,19 @@
                 "mr-2004": "11 II: #7"
             }
         },
+        "records/patrons/tobias/bor": {
+            "name": {
+                "ca": "Tobías Borrás Romeu",
+                "la": "Tobias Borrás Romeu",
+                "en": "Tobias Borrás Romeu",
+                "pl": "Tobiasz Borrás Romeu"
+            },
+            "sources": {
+                "reliable-death-anniversary": "11 II",
+                "feast": "11 II",
+                "mr-2004": "11 II: #11"
+            }
+        },
         "records/patrons/lazarus/med": {
             "name": {
                 "la": "Lazarus Mediolanensis",
