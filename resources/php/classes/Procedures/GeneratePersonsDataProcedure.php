@@ -5,6 +5,9 @@ class GeneratePersonsDataProcedure extends Procedure
     private const TRANSLATIONS_FILE_PATH = 'website-language-variables.json';
     private const TRANSLATIONS_VARIABLE_NAME_PREFIX = 'lang-';
 
+    private const CATEGORIES_PATH = 'categories';
+    private const CATEGORIES_ROOT_PATH = 'records/' . self::CATEGORIES_PATH;
+
     private const FEASTS_PATH = 'feasts';
     private const FEASTS_ROOT_PATH = 'records/' . self::FEASTS_PATH;
 
@@ -13,8 +16,10 @@ class GeneratePersonsDataProcedure extends Procedure
 
     private const DATA_FIELD_NAMES = 'names';
     private const DATA_FIELD_DIED = 'died';
+    private const DATA_FIELD_CATEGORIES = 'categories';
     private const DATA_FIELD_FEASTS = 'feasts';
     private const DATA_FIELD_FORENAMES = 'forenames';
+    private const DATA_FIELD_REQUIRED = 'required';
 
     private $dstFileData = [];
 
@@ -103,18 +108,50 @@ class GeneratePersonsDataProcedure extends Procedure
                 $patronUrl = mb_substr($patronUrlWithFileExtension, 0, strpos($patronUrlWithFileExtension, '.'));
 
                 $fileData = $this->getOriginalJsonFileContentArrayForFullPath($elementPath);
-                $patronData = $this->getPatronData($fileData);
+                $patronData = $this->getPatronData($fileData, $patronUrl);
 
                 $this->appendDstFileData($patronUrl, $patronData);
             }
         }
     }
 
-    function getPatronData(array $fileData): array {
+    private function getPatronData(array $fileData, string $patronUrl): array {
         $result = [];
 
+        $categoriesData = [];
+        $categories = $fileData[self::DATA_FIELD_CATEGORIES] ?? [];
+        foreach ($categories as $categoryId) {
+            $categoryKey = self::CATEGORIES_PATH . '/' . $categoryId;
+            $categoryFilePath = self::CATEGORIES_ROOT_PATH . '/' . $this->getDataFileSuffix($categoryId);
+            $categoryFileData = $this->getOriginalJsonFileContentArray($categoryFilePath);
+
+            $categoriesData[$categoryKey][self::DATA_FIELD_ACTIVE] = true; //$categoryFileData[self::DATA_FIELD_ACTIVE] ?? false;
+            $categoriesData[$categoryKey][self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($categoryFileData[self::DATA_FIELD_NAMES] ?? []);
+
+            //additional validation
+            $required = $categoryFileData[self::DATA_FIELD_REQUIRED] ?? null;
+            if (is_null($required)) {
+                $this->error("Missing category '$categoryId' required data for person '$patronUrl'");
+            }
+
+            $isOk = true;
+            foreach ($required as $requiredCategory) {
+                $isOk = false;
+
+                if (in_array($requiredCategory, $categories)) {
+                    $isOk = true;
+                    break;
+                }
+            }
+
+            if (!$isOk) {
+                $this->error("Missing all required categories ['" . implode("', '", $required) . "'] for '$categoryId' and person '$patronUrl'");
+            }
+        }
+
         $feastsData = [];
-        foreach ($fileData[self::DATA_FIELD_FEASTS] ?? [] as $feastId => $data) {
+        $feasts = $fileData[self::DATA_FIELD_FEASTS] ?? [];
+        foreach ($feasts as $feastId => $data) {
             $feastKey = self::FEASTS_PATH . '/' . $feastId;
             $feastFilePath = self::FEASTS_ROOT_PATH . '/' . $this->getDataFileSuffix($feastId);
             $feastFileData = $this->getOriginalJsonFileContentArray($feastFilePath);
@@ -124,7 +161,8 @@ class GeneratePersonsDataProcedure extends Procedure
         }
 
         $forenamesData = [];
-        foreach ($fileData[self::DATA_FIELD_FORENAMES] ?? [] as $forenameId) {
+        $forenames = $fileData[self::DATA_FIELD_FORENAMES] ?? [];
+        foreach ($forenames as $forenameId) {
             $forenameKey = self::FORENAMES_PATH . '/' . $forenameId;
             $forenameFilePath = self::FORENAMES_ROOT_PATH . '/' . $this->getDataFileSuffix($forenameId);
             $forenameFileData = $this->getOriginalJsonFileContentArray($forenameFilePath);
@@ -136,6 +174,7 @@ class GeneratePersonsDataProcedure extends Procedure
         $result[self::DATA_FIELD_ACTIVE] = $fileData[self::DATA_FIELD_ACTIVE] ?? false;
         $result[self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($fileData[self::DATA_FIELD_NAMES] ?? []);
         $result[self::DATA_FIELD_DIED] = $fileData[self::DATA_FIELD_DIED] ?? [];
+        //$result[self::DATA_FIELD_CATEGORIES] = $categoriesData;
         $result[self::DATA_FIELD_FEASTS] = $feastsData;
         $result[self::DATA_FIELD_FORENAMES] = $forenamesData;
 
