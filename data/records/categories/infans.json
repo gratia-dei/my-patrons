@@ -1,11 +1,11 @@
 {
     "names": {
-        "la": "puer",
-        "en": "boy",
-        "pl": "chłopiec"
+        "la": "infans",
+        "en": "child",
+        "pl": "dziecko"
     },
 
-    "required": ["vir"],
+    "required": [],
 
     "color": "#888888",
     "description": {

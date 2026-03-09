@@ -1,11 +1,11 @@
 {
     "names": {
-        "la": "puer",
-        "en": "boy",
-        "pl": "chłopiec"
+        "la": "puella",
+        "en": "girl",
+        "pl": "dziewczynka"
     },
 
-    "required": ["vir"],
+    "required": ["femina"],
 
     "color": "#888888",
     "description": {

@@ -274,6 +274,11 @@
         "en": "incorporated man",
         "pl": "wcielony"
     },
+    "infans": {
+        "la": "infans",
+        "en": "child",
+        "pl": "dziecko"
+    },
     "institutor": {
         "la": "institutor",
         "en": "instituter",
@@ -454,10 +459,15 @@
         "en": "prophetess",
         "pl": "prorokini"
     },
+    "puella": {
+        "la": "puella",
+        "en": "girl",
+        "pl": "dziewczynka"
+    },
     "puer": {
         "la": "puer",
-        "en": "child",
-        "pl": "dziecko"
+        "en": "boy",
+        "pl": "chłopiec"
     },
     "reclusa": {
         "la": "reclusa",

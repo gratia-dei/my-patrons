@@ -80,11 +80,11 @@
     "171b6ba14aeefeb08caf15065042a4c2": {
         "en": "monk"
     },
+    "1a699ad5e06aa8a6db3bcf9cfb2f00f2": {
+        "en": "boy"
+    },
     "1aae72c4d831d7668de6152f326c0e8f": {
         "en": "canon regular"
-    },
-    "1b7d5726533ab525a8760351e9b5e415": {
-        "en": "child"
     },
     "1c09f9aae4f7e062d1c6082e40988bcb": {
         "en": "instituter"
@@ -161,6 +161,9 @@
     },
     "28bb4a8d07e45946d37104a6e4081d6c": {
         "pl": "subdiakon"
+    },
+    "28ca53d2b7bb4aa13549b4022c79dca1": {
+        "en": "girl"
     },
     "29c2dba503acb8b350059150648dd1ca": {
         "pl": "prezbiter diecezjalny"
@@ -446,6 +449,9 @@
     "82646f22d9e5f9e6a0c8bf49c26bb1ad": {
         "en": "diocesan priest"
     },
+    "841917104dcdcd17c29bc4a7c27fa310": {
+        "la": "puella"
+    },
     "841d7efb8651af128939b922bb867c46": {
         "pl": "męczennik"
     },
@@ -626,6 +632,9 @@
     "b0c70b38bf5b3e98d5ec630125cb7369": {
         "pl": "żołnierz"
     },
+    "b1237fde6c69c5cfad5e341179c46caf": {
+        "pl": "chłopiec"
+    },
     "b171e159a000fb9376cf96ba8acd73b2": {
         "en": "cleric"
     },
@@ -646,9 +655,6 @@
     },
     "b49a54cb5d297c088d3e478eca99804e": {
         "la": "canonicus regularis"
-    },
-    "b4a0fb87cce2a1196848cd77185a1278": {
-        "pl": "dziecko"
     },
     "b637af78ada000a39023b4ead9db041a": {
         "en": "acolyte"
@@ -755,6 +761,9 @@
     },
     "d0a87b4018d6521b0f5a49e5e03adb6d": {
         "en": "virgin"
+    },
+    "d13cbaab588de8b3419b6d1e8a35a7e7": {
+        "pl": "dziewczynka"
     },
     "d2981ad66d7b1554215d9cbdb6a30cbf": {
         "pl": "założycielka"

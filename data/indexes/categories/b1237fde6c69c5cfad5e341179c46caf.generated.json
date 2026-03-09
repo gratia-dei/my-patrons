@@ -1,29 +1,19 @@
 {
     "names": {
-        "en": "child"
+        "pl": "chłopiec"
     },
     "translations": {
         "la": [
             "puer"
         ],
         "en": [
-            "child"
+            "boy"
         ],
         "pl": [
-            "dziecko"
+            "chłopiec"
         ]
     },
     "links": {
-        "records/patrons/agatha/cat": {
-            "la": "Agatha Catanensis",
-            "en": "Agatha of Sicily",
-            "pl": "Agata Sycylijska"
-        },
-        "records/patrons/agnes/rom": {
-            "la": "Agnes Romana",
-            "en": "Agnes of Rome",
-            "pl": "Agnieszka Rzymianka"
-        },
         "records/patrons/dioscorus/ale": {
             "la": "Dioscorus Alexandrinus",
             "en": "Dioscorus of Alexandria",
@@ -34,12 +24,6 @@
             "la": "Franciscus Marto",
             "en": "Francisco Marto",
             "pl": "Franciszek Marto"
-        },
-        "records/patrons/hyacintha/mat": {
-            "pt": "Jacinta Marto",
-            "la": "Hyacintha Marto",
-            "en": "Jacinta Marto",
-            "pl": "Hiacynta Marto"
         },
         "records/patrons/iustus/pas": {
             "la": "Iustus Complutensis",
@@ -66,12 +50,6 @@
             "la": "Quiricus Tarsensis",
             "en": "Cyricus of Tarsus",
             "pl": "Cyryk z Tarsu"
-        },
-        "records/patrons/ursula/vir": {
-            "de": "Ursula von Köln",
-            "la": "Ursula Coloniensis",
-            "en": "Ursula of Cologne",
-            "pl": "Urszula z Kolonii"
         }
     }
 }
