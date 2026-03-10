@@ -30,19 +30,19 @@
         "type": "ceremonially",
         "date": "2005-10-23"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["01-01"],
 
-    "status---todo": ["beatus/sanctus"],
+    "status": ["beatus", "sanctus"],
     "attributes---todo": ["..."],
     "categories": ["vir", "presbyter", "fundator"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": [],
+        "creator": ["cssj"]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": {},
@@ -51,7 +51,9 @@
         "mr-1956": {},
         "mr-1956-movable": {},
 
-        "mr-2004": ["1:ian./1#17"],
+        "mr-2004": {
+            "1:ian./1#17": "la#status=beatus|fornames=sigismundus|surnames=Gorazdowski|categories=vir,presbyter,fundator|communities/creator=cssj"
+        },
         "mr-2004-movable": {}
     },
 
