@@ -44,15 +44,15 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": [],
-        "mr-1584-movable": [],
+        "mr-1584": {},
+        "mr-1584-movable": {},
 
         "mr-1956": ["1:Julii/22#8"],
         "mr-1956-variations": ["1:Julii/21#pre-1-ab-1960-07-26", "1:Julii/22#post-1-ab-1960-07-26", "1:Julii/22#8-ab-1960-07-26"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["1:iul./21#1", "1:iul./22#11"],
-        "mr-2004-movable": []
+        "mr-2004-movable": {}
     },
 
     "sources": {

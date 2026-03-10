@@ -55,14 +55,14 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": [],
-        "mr-1584-movable": [],
+        "mr-1584": {},
+        "mr-1584-movable": {},
 
         "mr-1956": ["1:Augusti/20#2", "1:Septembris/3#1"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["1:aug./20#9", "1:aug./21#1"],
-        "mr-2004-movable": [],
+        "mr-2004-movable": {},
 
         "popes": ["1:#257"]
     },

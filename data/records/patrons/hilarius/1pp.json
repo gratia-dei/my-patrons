@@ -36,13 +36,13 @@
 
     "data-links": {
         "mr-1584": ["1:Sept./10#6"],
-        "mr-1584-movable": [],
+        "mr-1584-movable": {},
 
         "mr-1956": ["1:Februarii/28n#4", "1:Februarii/29b#4"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["1:feb./28n#4", "1:feb./29b#1"],
-        "mr-2004-movable": [],
+        "mr-2004-movable": {},
 
         "popes": ["1:#46"]
     },

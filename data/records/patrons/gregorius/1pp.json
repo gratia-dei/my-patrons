@@ -55,13 +55,13 @@
 
     "data-links": {
         "mr-1584": ["1:Mart./12#1"],
-        "mr-1584-movable": [],
+        "mr-1584-movable": {},
 
         "mr-1956": ["1:Martii/12#1"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["1:mar./12#6", "1:sept./3#1"],
-        "mr-2004-movable": [],
+        "mr-2004-movable": {},
 
         "popes": ["1:#64"]
     },
@@ -70,13 +70,13 @@
         "ogm": {
             "data-links": {
                 "mr-1584": ["1:Sept./3#13"],
-                "mr-1584-movable": [],
+                "mr-1584-movable": {},
 
                 "mr-1956": ["1:Septembris/3#13"],
-                "mr-1956-movable": [],
+                "mr-1956-movable": {},
 
-                "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004": {},
+                "mr-2004-movable": {}
             }
         }
     },

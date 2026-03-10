@@ -39,26 +39,26 @@
 
     "data-links": {
         "mr-1584": ["6:Iul./17#2"],
-        "mr-1584-movable": [],
+        "mr-1584-movable": {},
 
         "mr-1956": ["6:Julii/17#2"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["6:iul./17#1"],
-        "mr-2004-movable": []
+        "mr-2004-movable": {}
     },
 
     "feasts": {
         "tms": {
             "data-links": {
                 "mr-1584": ["18:Iul./17#2"],
-                "mr-1584-movable": [],
+                "mr-1584-movable": {},
 
-                "mr-1956": [],
-                "mr-1956-movable": [],
+                "mr-1956": {},
+                "mr-1956-movable": {},
 
-                "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004": {},
+                "mr-2004-movable": {}
             }
         }
     },

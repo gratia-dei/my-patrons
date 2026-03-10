@@ -44,38 +44,38 @@
 
     "data-links": {
         "mr-1584": ["1:Oct./4#1"],
-        "mr-1584-movable": [],
+        "mr-1584-movable": {},
 
         "mr-1956": ["1:Octobris/4#1"],
-        "mr-1956-movable": [],
+        "mr-1956-movable": {},
 
         "mr-2004": ["1:oct./4#1"],
-        "mr-2004-movable": []
+        "mr-2004-movable": {}
     },
 
     "feasts": {
         "tfa": {
             "data-links": {
                 "mr-1584": ["1:Mai./25#9"],
-                "mr-1584-movable": [],
+                "mr-1584-movable": {},
 
                 "mr-1956": ["1:Maji/25#12"],
-                "mr-1956-movable": [],
+                "mr-1956-movable": {},
 
-                "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004": {},
+                "mr-2004-movable": {}
             }
         },
         "fas": {
             "data-links": {
-                "mr-1584": [],
-                "mr-1584-movable": [],
+                "mr-1584": {},
+                "mr-1584-movable": {},
 
                 "mr-1956": ["1:Septembris/17#1"],
-                "mr-1956-movable": [],
+                "mr-1956-movable": {},
 
-                "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004": {},
+                "mr-2004-movable": {}
             }
         }
     },
