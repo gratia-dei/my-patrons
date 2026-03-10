@@ -18,6 +18,8 @@
 
     "popes": "/sources/popes",
 
+    "docs": "/sources/documents/holy-see/",
+
     "mr-1584": "/sources/martyrologium-romanum/1584/martyrologium-romanum/",
     "mr-1584-edition": "/sources/martyrologium-romanum/1584/editio",
     "mr-1584-index": "/sources/martyrologium-romanum/1584/index-nominum-omnium-sanctorum-qui-in-hoc-martyrologio-continentur-ordine-alphabetico-descriptus/",

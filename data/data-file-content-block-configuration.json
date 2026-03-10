@@ -7,6 +7,8 @@
 
     "/indexes/": "IndexedNameContentBlock",
 
+    "/sources/documents/": "DocumentContentBlock",
+
     "/sources/popes/": "PopesContentBlock",
 
     "/sources/martyrologium-romanum/1584/editio/": "RomanMartyrologyEditionContentBlock",

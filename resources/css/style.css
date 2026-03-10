@@ -1927,6 +1927,7 @@ button,
   font-style: italic;
 }
 
+.document-black-color a,
 .roman-martyrology-black-color a,
 .roman-martyrology-red-color a {
   color: inherit;
@@ -1954,8 +1955,13 @@ button,
   font-size: 25px;
 }
 
+.document-text-italic,
 .roman-martyrology-italic {
   font-style: italic;
+}
+
+.document-text-bold {
+  font-weight: bold;
 }
 
 .roman-martyrology-small {
@@ -1970,4 +1976,33 @@ button,
   padding-left: 1em;
   text-indent: -1em;
   display: inline-block;
+}
+
+.document-text-middle {
+  font-size: 1.5em;
+}
+
+.document-text-big {
+  font-size: 2em;
+}
+
+.document-text-align-center {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.document-text-align-right {
+  position: relative;
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+
+.document-text-align-justify {
+  position: relative;
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
 }
