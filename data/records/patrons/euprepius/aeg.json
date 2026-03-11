@@ -36,13 +36,13 @@
 
     "data-links": {
         "mr-1584": ["5:Sept./27#1"],
-        "mr-1584-movable": {},
+        "mr-1584-movable": [],
 
         "mr-1956": ["5:Septembris/27#1"],
-        "mr-1956-movable": {},
+        "mr-1956-movable": [],
 
-        "mr-2004": {},
-        "mr-2004-movable": {}
+        "mr-2004": [],
+        "mr-2004-movable": []
     },
 
     "sources": {

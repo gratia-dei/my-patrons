@@ -40,68 +40,68 @@
 
     "data-links": {
         "mr-1584": ["1:Dec./27#1"],
-        "mr-1584-movable": {},
+        "mr-1584-movable": [],
 
         "mr-1956": ["1:Decembris/27#1"],
-        "mr-1956-movable": {},
+        "mr-1956-movable": [],
 
         "mr-2004": ["1:dec./27#1"],
-        "mr-2004-movable": {}
+        "mr-2004-movable": []
     },
 
     "feasts": {
         "oie": {
             "data-links": {
                 "mr-1584": ["1:Ianu./3#1"],
-                "mr-1584-movable": {},
+                "mr-1584-movable": [],
 
                 "mr-1956": ["1:Januarii/3#1"],
                 "mr-1956-variations": [
                     "1:Januarii/3#1-ab-1960-07-26"
                 ],
-                "mr-1956-movable": {},
+                "mr-1956-movable": [],
 
-                "mr-2004": {},
-                "mr-2004-movable": {}
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "ole": {
             "data-links": {
                 "mr-1584": ["1:Mai./6#1"],
-                "mr-1584-movable": {},
+                "mr-1584-movable": [],
 
                 "mr-1956": ["1:Maji/6#1"],
                 "mr-1956-variations": [
                     "1:Maji/6#2-ab-1960-07-26"
                 ],
-                "mr-1956-movable": {},
+                "mr-1956-movable": [],
 
-                "mr-2004": {},
-                "mr-2004-movable": {}
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "ril": {
             "data-links": {
-                "mr-1584": {},
-                "mr-1584-movable": {},
+                "mr-1584": [],
+                "mr-1584-movable": [],
 
-                "mr-1956": {},
+                "mr-1956": [],
                 "mr-1956-movable": ["3:#14"],
 
-                "mr-2004": {},
-                "mr-2004-movable": {}
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         },
         "dbl": {
             "data-links": {
                 "mr-1584": ["3:Nov./9#1"],
-                "mr-1584-movable": {},
+                "mr-1584-movable": [],
 
                 "mr-1956": ["3:Novembris/9#1"],
-                "mr-1956-movable": {},
+                "mr-1956-movable": [],
 
                 "mr-2004": ["3:nov./9#1"],
-                "mr-2004-movable": {}
+                "mr-2004-movable": []
             }
         }
     },

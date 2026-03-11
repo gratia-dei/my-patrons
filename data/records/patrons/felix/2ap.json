@@ -42,28 +42,28 @@
 
     "data-links": {
         "mr-1584": ["1:Iul./29#2"],
-        "mr-1584-movable": {},
+        "mr-1584-movable": [],
 
         "mr-1956": ["1:Julii/29#2"],
         "mr-1956-variations": ["1:Julii/29#2-ab-1960-07-26"],
-        "mr-1956-movable": {},
+        "mr-1956-movable": [],
 
-        "mr-2004": {},
-        "mr-2004-movable": {}
+        "mr-2004": [],
+        "mr-2004-movable": []
     },
 
     "feasts": {
         "ifp": {
             "data-links": {
                 "mr-1584": ["2:Iul./29#2"],
-                "mr-1584-movable": {},
+                "mr-1584-movable": [],
 
                 "mr-1956": ["2:Julii/29#2"],
                 "mr-1956-variations": ["2:Julii/29#2-ab-1960-07-26"],
-                "mr-1956-movable": {},
+                "mr-1956-movable": [],
 
-                "mr-2004": {},
-                "mr-2004-movable": {}
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         }
     },

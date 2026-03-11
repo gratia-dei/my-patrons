@@ -37,27 +37,27 @@
 
     "data-links": {
         "mr-1584": ["2:Oct./28#1"],
-        "mr-1584-movable": {},
+        "mr-1584-movable": [],
 
         "mr-1956": ["2:Octobris/28#1"],
-        "mr-1956-movable": {},
+        "mr-1956-movable": [],
 
         "mr-2004": ["2:oct./28#1"],
-        "mr-2004-movable": {}
+        "mr-2004-movable": []
     },
 
     "feasts": {
         "vsi": {
             "data-links": {
                 "mr-1584": ["2:Oct./27#1"],
-                "mr-1584-movable": {},
+                "mr-1584-movable": [],
 
                 "mr-1956": ["2:Octobris/27#1"],
                 "mr-1956-variations": ["2:Octobris/27#1-ab-1960-07-26"],
-                "mr-1956-movable": {},
+                "mr-1956-movable": [],
 
-                "mr-2004": {},
-                "mr-2004-movable": {}
+                "mr-2004": [],
+                "mr-2004-movable": []
             }
         }
     },
