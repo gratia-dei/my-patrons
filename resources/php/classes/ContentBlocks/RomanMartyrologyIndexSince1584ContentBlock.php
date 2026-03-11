@@ -113,7 +113,8 @@ class RomanMartyrologyIndexSince1584ContentBlock extends ContentBlock implements
 
             foreach ($values as $language => $text) {
                 $text = $this->getValueWithPossibleImport($text, $language);
-                $text = $this->getTextWithSPecialLinks($text, $aliases[$key] ?? []);
+                $text = $this->getTextWithoutAssignationTags($text);
+                $text = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
                 $result[self::VAR_PREFIX . $key][$language] = $text;
                 $result[self::VAR_PREFIX . $key . self::VAR_FIRST_CHARACTER_ONLY_SUFFIX][$language] = mb_substr($text, 0, 1, self::ENCODING);
                 $result[self::VAR_PREFIX . $key . self::VAR_WITHOUT_FIRST_CHARACTER_SUFFIX][$language] = mb_substr($text, 1, null, self::ENCODING);

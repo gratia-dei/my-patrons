@@ -96,6 +96,7 @@ class RomanMartyrologyMovableFeastsSince1922ContentBlock extends ContentBlock im
             foreach ($values as $type => $typeTexts) {
                 foreach ($typeTexts as $language => $text) {
                     $text = $this->getValueWithPossibleImport($text, $language);
+                    $text = $this->getTextWithoutAssignationTags($text);
                     $result[self::VAR_PREFIX . $type . self::VAR_SUFFIX . $key][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
                 }
             }

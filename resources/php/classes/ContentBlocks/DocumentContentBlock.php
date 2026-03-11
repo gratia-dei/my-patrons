@@ -74,6 +74,7 @@ class DocumentContentBlock extends ContentBlock implements ContentBlockInterface
         foreach ($data as $key => $documentPhrases) {
             foreach ($documentPhrases as $phraseId => $translations) {
                 foreach ($translations as $language => $text) {
+                    $text = $this->getTextWithoutAssignationTags($text);
                     $result["$key-$phraseId"][$language] = $this->getTextWithSpecialLinks($text, $aliases[$key] ?? []);
                 }
             }

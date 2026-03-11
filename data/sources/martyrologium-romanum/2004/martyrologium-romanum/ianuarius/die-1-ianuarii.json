@@ -77,7 +77,7 @@
 
     "17": {
         "mark": "*",
-        "la": "Leopoli in Ucraina, beati [1|Sigismundi Gorazdowski], presbyteri, qui, polonus natione, pietate erga proximum eximus et operum ad vitam tuendam praecursor, Institutum Sororum Sancti Ioseph fundavit, omnimodis in bonum pauperum et derelictorum incumbens."
+        "la": "Leopoli in Ucraina, {1|status=beatus|categories=vir|beati} [1|{1|forenames=sigismundus|Sigismundi} {1|surnames|Gorazdowski}], {1|categories=presbyter|presbyteri}, qui, polonus natione, pietate erga proximum eximus et operum ad vitam tuendam praecursor, {1|communities/creator=cssj|Institutum Sororum Sancti Ioseph {1|categories=fundator|fundavit}}, omnimodis in bonum pauperum et derelictorum incumbens."
     },
 
     "18": {

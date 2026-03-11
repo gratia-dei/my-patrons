@@ -4,7 +4,7 @@
             "la": "[center:][big:][bold:]LITTERA APOSTOLICA[:bold][:big][:center]"
         },
         {
-            "la": "[/][center:][bold:]Venerabili Dei Servo [1|Sigismundo Gorazdowski] Beatorum honores decernuntur.[:bold][:center]"
+            "la": "[/][center:][bold:]{1|status=venerabilis-dei-servus|Venerabili Dei Servo} [1|{1|forenames=sigismundus|Sigismundo} {1|surnames|Gorazdowski}] {1|status=beatus|Beatorum honores decernuntur}.[:bold][:center]"
         },
         {
             "la": "[/][center:]IOANNES PAULUS PP. II[:center]"
