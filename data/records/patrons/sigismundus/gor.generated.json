@@ -1,0 +1,33 @@
+{
+    "2004": {
+        "status": [
+            "beatus"
+        ],
+        "categories": [
+            "vir",
+            "presbyter",
+            "fundator"
+        ],
+        "forenames": [
+            "sigismundus"
+        ],
+        "surnames": [
+            "Gorazdowski"
+        ],
+        "communities/creator": [
+            "cssj"
+        ]
+    },
+    "2001": {
+        "status": [
+            "venerabilis-dei-servus",
+            "beatus"
+        ],
+        "forenames": [
+            "sigismundus"
+        ],
+        "surnames": [
+            "Gorazdowski"
+        ]
+    }
+}

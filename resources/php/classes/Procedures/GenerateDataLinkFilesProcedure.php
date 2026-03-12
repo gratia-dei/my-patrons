@@ -120,13 +120,21 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                     $this->error("There are tag list differencies between text in language '$field' and '$firstField' in static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', link '$link' and directory path alias '$dstDirPathAlias'");
                                 }
 
-                                if (!empty($assignationTags[$recordId])) {
+                                if (!empty($assignationTags[$linkId])) {
                                     $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
 
                                     $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
                                     $personFileFullPath = $this->getFullDataPath($personFilePath);
 
-                                    //$this->personGeneratedFilesData[$personFileFullPath][$year] = ['todo'];//$assignationTags[$recordId];
+                                    $structure = ($this->personGeneratedFilesData[$personFileFullPath][$year] ?? []);
+                                    $structure = [$linkId => $structure];
+                                    foreach ($assignationTags[$linkId] as $assignKey => $assignValueArray) {
+                                        foreach ($assignValueArray as $assignValue) {
+                                            $structure = $this->consolidateAssignationTags($structure, $linkId, $assignKey, $assignValue);
+                                        }
+                                    }
+
+                                    $this->personGeneratedFilesData[$personFileFullPath][$year] = $structure[$linkId];
                                 }
                             }
 

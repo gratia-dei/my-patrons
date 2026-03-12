@@ -333,9 +333,16 @@ abstract class Base
                 $assignValue = $value;
             }
 
-            if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
-                $result[$linkId][$assignFieldPath][] = $assignValue;
-            }
+            $result = $this->consolidateAssignationTags($result, $linkId, $assignFieldPath, $assignValue);
+        }
+
+        return $result;
+    }
+
+    protected function consolidateAssignationTags(array $result, int $linkId, string $assignFieldPath, string $assignValue): array
+    {
+        if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
+            $result[$linkId][$assignFieldPath][] = $assignValue;
         }
 
         return $result;
