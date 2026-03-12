@@ -5,7 +5,10 @@ class GenerateDataLinkFilesProcedure extends Procedure
     private const LANGUAGE_CODE_PATTERN = '/^[a-z][a-z][a-z]?$/';
     private const POSSIBLE_NAME_INDEX = 'name';
 
+    private const UNKNOWN_YEAR = '????';
+
     private $generatedFilesData = [];
+    private $personGeneratedFilesData = [];
 
     public function run(array $dataPaths, string $fieldName): void
     {
@@ -47,6 +50,8 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
         $indexedGeneratedFilesData = $this->getIndexedGeneratedFilesData($this->generatedFilesData);
         $this->saveGeneratedFiles($indexedGeneratedFilesData);
+
+        $this->saveGeneratedFiles($this->personGeneratedFilesData);
     }
 
     private function addDataLinks(array $data, string $sourceFilePath): void
@@ -85,28 +90,48 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             $this->error("cannot find static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
                         }
 
-                        $standardTagList = null;
-                        $firstField = '';
-
-                        foreach ($recordData as $field => $text) {
-                            if (!preg_match(self::LANGUAGE_CODE_PATTERN, $field)) {
-                                continue;
+                        foreach ($recordData as $recordKey => $phraseData) {
+                            if (!is_int($recordKey)) {
+                                $phraseData = $recordData;
                             }
-                            $text = $this->getValueWithPossibleImport($text, $field);
-                            list($text, $assignationTags) = $this->getTextWithSeparatedAssignationTags($text);
 
-                            $tagList = [];
-                            $textTags = $this->getTextTags($text);
-                            foreach ($textTags as list($tagFull, $tagLink, $tagValue)) {
-                                $tagList[$tagLink] = ($tagList[$tagLink] ?? 0) + 1;
+                            $standardTagList = null;
+                            $firstField = '';
+
+                            foreach ($phraseData as $field => $text) {
+                                if (!preg_match(self::LANGUAGE_CODE_PATTERN, $field)) {
+                                    continue;
+                                }
+                                $text = $this->getValueWithPossibleImport($text, $field);
+
+                                list($text, $assignationTags) = $this->getTextWithSeparatedAssignationTags($text);
+
+                                $tagList = [];
+                                $textTags = $this->getTextTags($text);
+                                foreach ($textTags as list($tagFull, $tagLink, $tagValue)) {
+                                    $tagList[$tagLink] = ($tagList[$tagLink] ?? 0) + 1;
+                                }
+                                ksort($tagList);
+
+                                if (is_null($standardTagList)) {
+                                    $standardTagList = $tagList;
+                                    $firstField = $field;
+                                } else if ($standardTagList !== $tagList) {
+                                    $this->error("There are tag list differencies between text in language '$field' and '$firstField' in static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', link '$link' and directory path alias '$dstDirPathAlias'");
+                                }
+
+                                if (!empty($assignationTags[$recordId])) {
+                                    $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
+
+                                    $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
+                                    $personFileFullPath = $this->getFullDataPath($personFilePath);
+
+                                    //$this->personGeneratedFilesData[$personFileFullPath][$year] = ['todo'];//$assignationTags[$recordId];
+                                }
                             }
-                            ksort($tagList);
 
-                            if (is_null($standardTagList)) {
-                                $standardTagList = $tagList;
-                                $firstField = $field;
-                            } else if ($standardTagList !== $tagList) {
-                                $this->error("there are tag list differencies between text in language '$field' and '$firstField' in static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
+                            if (!is_int($recordKey)) {
+                                break;
                             }
                         }
 
@@ -165,6 +190,20 @@ class GenerateDataLinkFilesProcedure extends Procedure
                 }
             }
         }
+    }
+
+    private function getRecordYear(string $pathAlias, string $link, string $recordId): string
+    {
+        $result = self::UNKNOWN_YEAR;
+        $pattern = '~[-:]([0-9]{4})~';
+
+        foreach ([$pathAlias, $link, $recordId] as $text) {
+            if (preg_match($pattern, $text, $matches)) {
+                $result = $matches[1] ?? self::UNKNOWN_YEAR;
+            }
+        }
+
+        return $result;
     }
 
     private function getAssignationTagsStructure(array $tags): array

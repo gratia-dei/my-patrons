@@ -26,11 +26,6 @@
     },
 
     {
-        "class": "GenerateDataLinkFilesProcedure",
-        "params": [["/records/god", "/records/patrons"], "data-links"]
-    },
-
-    {
         "class": "GenerateGroupedDataIndexFilesProcedure",
         "params": ["/records/god", "categories", "names", "/indexes/categories"]
     },
@@ -77,6 +72,11 @@
     {
         "class": "GenerateIndexFileForAllSubDirectoriesDataFilesProcedure",
         "params": ["/indexes/epithets", "names"]
+    },
+
+    {
+        "class": "GenerateDataLinkFilesProcedure",
+        "params": [["/records/god", "/records/patrons"], "data-links"]
     },
 
     {
