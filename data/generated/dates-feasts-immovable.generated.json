@@ -1,16 +1,5 @@
 {
     "01-01": {
-        "records/god/fil#nao": {
-            "name": {
-                "la": "Iesus Christus (Octava Nativitatis Domini)",
-                "pl": "Jezus Chrystus (Oktawa Narodzenia Pańskiego)"
-            },
-            "sources": {
-                "mr-1584": "1 I: #1",
-                "mr-1956": "1 I: #1",
-                "mr-1956-variations": "1 I: #pre-1-ab-1960-07-26"
-            }
-        },
         "records/god/fil#cir": {
             "name": {
                 "la": "Iesus Christus (Circumcisio Domini)",
@@ -20,6 +9,17 @@
                 "mr-1584": "1 I: #1",
                 "mr-1956": "1 I: #1",
                 "mr-1956-variations": "1 I: #1-ab-1960-07-26"
+            }
+        },
+        "records/god/fil#nao": {
+            "name": {
+                "la": "Iesus Christus (Octava Nativitatis Domini)",
+                "pl": "Jezus Chrystus (Oktawa Narodzenia Pańskiego)"
+            },
+            "sources": {
+                "mr-1584": "1 I: #1",
+                "mr-1956": "1 I: #1",
+                "mr-1956-variations": "1 I: #pre-1-ab-1960-07-26"
             }
         },
         "records/patrons/maria/naz#gen": {

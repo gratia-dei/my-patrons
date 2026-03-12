@@ -218,7 +218,7 @@ abstract class Base
     {
         $result = [];
 
-        preg_match_all("/\[(?'link'[^ \|]+)[|](?'value'[^|]+)\]/U", $text, $matches);
+        preg_match_all("/\[(?'link'[^ \|\]]+)[|](?'value'[^|]+)\]/U", $text, $matches);
         foreach ($matches[0] ?? [] as $key => $tag) {
             $value = $matches['value'][$key];
             $link = $matches['link'][$key];
