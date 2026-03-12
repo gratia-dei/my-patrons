@@ -93,6 +93,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                 continue;
                             }
                             $text = $this->getValueWithPossibleImport($text, $field);
+                            list($text, $assignationTags) = $this->getTextWithSeparatedAssignationTags($text);
 
                             $tagList = [];
                             $textTags = $this->getTextTags($text);
@@ -164,5 +165,12 @@ class GenerateDataLinkFilesProcedure extends Procedure
                 }
             }
         }
+    }
+
+    private function getAssignationTagsStructure(array $tags): array
+    {
+        //todo
+
+        return $tags;
     }
 }

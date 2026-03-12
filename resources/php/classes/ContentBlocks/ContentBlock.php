@@ -230,15 +230,4 @@ abstract class ContentBlock extends Content
 
         return false;
     }
-
-    protected function getTextWithoutAssignationTags(string $text): string
-    {
-        $before = $text . 'x';
-        while ($before !== $text) {
-            $before = $text;
-            $text = preg_replace('/\{[0-9]+\|[^{]+\|([^|}]+)\}/U', '\1', $text);
-        }
-
-        return $text;
-    }
 }

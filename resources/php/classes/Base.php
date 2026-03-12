@@ -296,4 +296,48 @@ abstract class Base
 
         return $value;
     }
+
+    protected function getTextWithSeparatedAssignationTags(string $text): array
+    {
+        $values = [];
+
+        do {
+            $before = $text;
+            $pattern = '/\{([0-9]+)\|([^{}]+)\|([^{|}]+)\}/U';
+            $replace = '\3';
+
+            preg_match_all($pattern, $text, $matches);
+            foreach ($matches[0] ?? [] as $key => $tag) {
+                $newTagLinkId = $matches[1][$key] ?? null;
+                $newTagAssignations = $matches[2][$key] ?? null;
+                $newTagValue = $matches[3][$key] ?? null;
+
+                $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignations), $newTagValue);
+            }
+
+            $text = preg_replace($pattern, $replace, $text);
+        } while ($before !== $text);
+
+        return [$text, $values];
+    }
+
+    private function assignNewTag(array $result, int $linkId, array $assignations, string $value): array
+    {
+        foreach ($assignations as $assignation) {
+            $equalPos = strpos($assignation, '=');
+            if ($equalPos !== false) {
+                $assignFieldPath = mb_substr($assignation, 0, $equalPos);
+                $assignValue = mb_substr($assignation, $equalPos + 1);
+            } else {
+                $assignFieldPath = $assignation;
+                $assignValue = $value;
+            }
+
+            if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
+                $result[$linkId][$assignFieldPath][] = $assignValue;
+            }
+        }
+
+        return $result;
+    }
 }
