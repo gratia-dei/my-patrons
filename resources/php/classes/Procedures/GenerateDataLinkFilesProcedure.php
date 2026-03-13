@@ -53,6 +53,14 @@ class GenerateDataLinkFilesProcedure extends Procedure
         $this->saveGeneratedFiles($indexedGeneratedFilesData);
 
         $this->saveGeneratedFiles($this->personGeneratedFilesData);
+
+        foreach ($this->unusedAssignationTags as $filePath => $fileData) {
+            foreach ($fileData as $recordId => $recordData) {
+                foreach ($recordData as $linkId => $linkData) {
+                    $this->error("Unassigned tags for link #$linkId in record #$recordId of file '$filePath'");
+                }
+            }
+        }
     }
 
     private function addDataLinks(array $data, string $sourceFilePath): void
@@ -162,7 +170,13 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     //assignation tags
                     $assignationTags = $this->unusedAssignationTags[$generatedFileFullPath][$recordId][$linkId] ?? [];
                     if (!empty($assignationTags)) {
-                        //... delete item
+                        unset($this->unusedAssignationTags[$generatedFileFullPath][$recordId][$linkId]);
+                        if ($this->unusedAssignationTags[$generatedFileFullPath][$recordId] === []) {
+                            unset($this->unusedAssignationTags[$generatedFileFullPath][$recordId]);
+                            if ($this->unusedAssignationTags[$generatedFileFullPath] === []) {
+                                unset($this->unusedAssignationTags[$generatedFileFullPath]);
+                            }
+                        }
 
                         $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
 
