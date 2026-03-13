@@ -1,59 +1,59 @@
 {
-    "2004": {
-        "status": [
-            "beatus"
-        ],
-        "categories": [
-            "vir",
-            "presbyter",
-            "fundator"
-        ],
-        "forenames": [
-            "sigismundus"
-        ],
-        "surnames#la": [
-            "Gorazdowski"
-        ],
-        "communities/creator": [
-            "cssj"
-        ]
-    },
     "2001": {
-        "status": [
-            "venerabilis-dei-servus",
-            "beatus"
-        ],
-        "forenames": [
-            "sigismundus"
-        ],
-        "surnames#la": [
-            "Gorazdowski"
-        ],
-        "born": [
-            "1845-11-01"
-        ],
-        "ordained-priest": [
-            "1871-07-25"
-        ],
-        "dead": [
-            "1920-01-01"
-        ],
-        "specially-venerated-persons": [
-            "god/fil",
-            "patrons/maria/naz"
-        ],
-        "epithets#la": [
-            "Pater pauperum",
-            "Tecto carentium sacerdos"
-        ],
-        "surnames#pl": [
-            "Gorazdowski"
-        ],
         "anniversary": [
             "06-26"
         ],
         "beatified/date": [
             "2001-06-26"
+        ],
+        "born": [
+            "1845-11-01"
+        ],
+        "dead": [
+            "1920-01-01"
+        ],
+        "epithets#la": [
+            "Pater pauperum",
+            "Tecto carentium sacerdos"
+        ],
+        "forenames": [
+            "sigismundus"
+        ],
+        "ordained-priest": [
+            "1871-07-25"
+        ],
+        "specially-venerated-persons": [
+            "god/fil",
+            "patrons/maria/naz"
+        ],
+        "status": [
+            "venerabilis-dei-servus",
+            "beatus"
+        ],
+        "surnames#la": [
+            "Gorazdowski"
+        ],
+        "surnames#pl": [
+            "Gorazdowski"
+        ]
+    },
+    "2004": {
+        "categories": [
+            "vir",
+            "presbyter",
+            "fundator"
+        ],
+        "communities/creator": [
+            "cssj"
+        ],
+        "forenames": [
+            "sigismundus"
+        ],
+        "status": [
+            "beatus"
+        ],
+        "surnames#la": [
+            "Gorazdowski"
         ]
     }
 }

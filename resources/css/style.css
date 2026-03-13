@@ -1986,6 +1986,10 @@ button,
   font-size: 2em;
 }
 
+.document-text-small {
+  font-size: 0.7em;
+}
+
 .document-text-align-center {
   position: relative;
   display: flex;

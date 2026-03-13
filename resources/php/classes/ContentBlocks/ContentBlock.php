@@ -33,6 +33,9 @@ abstract class ContentBlock extends Content
       '[middle:]' => '<span class="document-text-middle">',
       '[:middle]' => '</span>',
 
+      '[small:]' => '<span class="document-text-small">',
+      '[:small]' => '</span>',
+
       '[bold:]' => '<span class="document-text-bold">',
       '[:bold]' => '</span>',
 
