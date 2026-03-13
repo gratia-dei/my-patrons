@@ -303,16 +303,18 @@ abstract class Base
 
         do {
             $before = $text;
-            $pattern = '/\{([0-9]+)\|([^{}]+)\|([^{|}]+)\}/U';
+            $pattern = '/\{([0-9]+(,[0-9]+)*)\|([^{}]+)\|([^{|}]+)\}/U';
             $replace = '\3';
 
             preg_match_all($pattern, $text, $matches);
             foreach ($matches[0] ?? [] as $key => $tag) {
-                $newTagLinkId = $matches[1][$key] ?? null;
-                $newTagAssignations = $matches[2][$key] ?? null;
-                $newTagValue = $matches[3][$key] ?? null;
+                $newTagLinkIds = explode(',', $matches[1][$key] ?? '');
+                $newTagAssignations = $matches[3][$key] ?? null;
+                $newTagValue = $matches[4][$key] ?? null;
 
-                $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignations), $newTagValue);
+                foreach ($newTagLinkIds as $newTagLinkId) {
+                    $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignations), $newTagValue);
+                }
             }
 
             $text = preg_replace($pattern, $replace, $text);

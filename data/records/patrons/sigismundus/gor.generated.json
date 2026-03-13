@@ -11,7 +11,7 @@
         "forenames": [
             "sigismundus"
         ],
-        "surnames": [
+        "surnames#la": [
             "Gorazdowski"
         ],
         "communities/creator": [
@@ -26,8 +26,34 @@
         "forenames": [
             "sigismundus"
         ],
-        "surnames": [
+        "surnames#la": [
             "Gorazdowski"
+        ],
+        "born": [
+            "1845-11-01"
+        ],
+        "ordained-priest": [
+            "1871-07-25"
+        ],
+        "dead": [
+            "1920-01-01"
+        ],
+        "specially-venerated-persons": [
+            "god/fil",
+            "patrons/maria/naz"
+        ],
+        "epithets#la": [
+            "Pater pauperum",
+            "Tecto carentium sacerdos"
+        ],
+        "surnames#pl": [
+            "Gorazdowski"
+        ],
+        "anniversary": [
+            "06-26"
+        ],
+        "beatified/date": [
+            "2001-06-26"
         ]
     }
 }

@@ -9,6 +9,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
     private $generatedFilesData = [];
     private $personGeneratedFilesData = [];
+    private $unusedAssignationTags = [];
 
     public function run(array $dataPaths, string $fieldName): void
     {
@@ -105,6 +106,20 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                 $text = $this->getValueWithPossibleImport($text, $field);
 
                                 list($text, $assignationTags) = $this->getTextWithSeparatedAssignationTags($text);
+                                if (!empty($assignationTags)) {
+                                    foreach ($assignationTags as $tagsLinkId => $tagsData) {
+                                        foreach ($tagsData as $assignKey => $assignValueArray) {
+                                            foreach ($assignValueArray as $assignValue) {
+                                                $this->unusedAssignationTags[$generatedFileFullPath][$recordId] = $this->consolidateAssignationTags(
+                                                    $this->unusedAssignationTags[$generatedFileFullPath][$recordId] ?? [],
+                                                    $tagsLinkId,
+                                                    $assignKey,
+                                                    $assignValue
+                                                );
+                                            }
+                                        }
+                                    }
+                                }
 
                                 $tagList = [];
                                 $textTags = $this->getTextTags($text);
@@ -118,23 +133,6 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                     $firstField = $field;
                                 } else if ($standardTagList !== $tagList) {
                                     $this->error("There are tag list differencies between text in language '$field' and '$firstField' in static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', link '$link' and directory path alias '$dstDirPathAlias'");
-                                }
-
-                                if (!empty($assignationTags[$linkId])) {
-                                    $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
-
-                                    $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
-                                    $personFileFullPath = $this->getFullDataPath($personFilePath);
-
-                                    $structure = ($this->personGeneratedFilesData[$personFileFullPath][$year] ?? []);
-                                    $structure = [$linkId => $structure];
-                                    foreach ($assignationTags[$linkId] as $assignKey => $assignValueArray) {
-                                        foreach ($assignValueArray as $assignValue) {
-                                            $structure = $this->consolidateAssignationTags($structure, $linkId, $assignKey, $assignValue);
-                                        }
-                                    }
-
-                                    $this->personGeneratedFilesData[$personFileFullPath][$year] = $structure[$linkId];
                                 }
                             }
 
@@ -154,6 +152,27 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         $this->error("try to override static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
                     }
                     $this->generatedFilesData[$generatedFileFullPath][$recordId][$linkId] = $sourceFilePath . $anchor;
+
+                    //assignation tags
+                    $assignationTags = $this->unusedAssignationTags[$generatedFileFullPath][$recordId][$linkId] ?? [];
+                    if (!empty($assignationTags)) {
+                        //... delete item
+
+                        $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
+
+                        $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
+                        $personFileFullPath = $this->getFullDataPath($personFilePath);
+
+                        $structure = ($this->personGeneratedFilesData[$personFileFullPath][$year] ?? []);
+                        $structure = [$linkId => $structure];
+                        foreach ($assignationTags as $assignKey => $assignValueArray) {
+                            foreach ($assignValueArray as $assignValue) {
+                                $structure = $this->consolidateAssignationTags($structure, $linkId, $assignKey, $assignValue);
+                            }
+                        }
+
+                        $this->personGeneratedFilesData[$personFileFullPath][$year] = $structure[$linkId];
+                    }
                 }
             }
         }
@@ -177,10 +196,6 @@ class GenerateDataLinkFilesProcedure extends Procedure
         $result = [];
 
         foreach ($generatedFilesData as $generatedFilePath => $data) {
-            //$readData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath);
-            //var_dump($generatedFilePath);
-            //print_r($readData);
-            //print_r($data);
             $result[$generatedFilePath][self::DATA_LINKS_GENERATED_FILES_INDEX] = $data;
         }
 
@@ -212,12 +227,5 @@ class GenerateDataLinkFilesProcedure extends Procedure
         }
 
         return $result;
-    }
-
-    private function getAssignationTagsStructure(array $tags): array
-    {
-        //todo
-
-        return $tags;
     }
 }
