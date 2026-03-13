@@ -91,6 +91,8 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             $this->error("cannot find static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
                         }
 
+                        $standardTagListTotal = [];
+
                         foreach ($recordData as $recordKey => $phraseData) {
                             if (!is_int($recordKey)) {
                                 $phraseData = $recordData;
@@ -131,6 +133,10 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                 if (is_null($standardTagList)) {
                                     $standardTagList = $tagList;
                                     $firstField = $field;
+
+                                    foreach ($tagList as $tagLink => $tagQuantity) {
+                                        $standardTagListTotal[$tagLink] = ($standardTagListTotal[$tagLink] ?? 0) + $tagQuantity;
+                                    }
                                 } else if ($standardTagList !== $tagList) {
                                     $this->error("There are tag list differencies between text in language '$field' and '$firstField' in static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', link '$link' and directory path alias '$dstDirPathAlias'");
                                 }
@@ -141,7 +147,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             }
                         }
 
-                        foreach ($standardTagList ?? [] as $tagLink => $tagQuantity) {
+                        foreach ($standardTagListTotal as $tagLink => $tagQuantity) {
                             if (preg_match('/^[0-9]+$/', $tagLink)) {
                                 $this->generatedFilesData[$generatedFileFullPath][$recordId][$tagLink] = null;
                             }
