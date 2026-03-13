@@ -304,7 +304,7 @@ abstract class Base
         do {
             $before = $text;
             $pattern = '/\{([0-9]+(,[0-9]+)*)\|([^{}]+)\|([^{|}]+)\}/U';
-            $replace = '\3';
+            $replace = '\4';
 
             preg_match_all($pattern, $text, $matches);
             foreach ($matches[0] ?? [] as $key => $tag) {

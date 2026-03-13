@@ -171,7 +171,9 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             }
                         }
 
+                        ksort($structure[$linkId]);
                         $this->personGeneratedFilesData[$personFileFullPath][$year] = $structure[$linkId];
+                        ksort($this->personGeneratedFilesData[$personFileFullPath]);
                     }
                 }
             }
