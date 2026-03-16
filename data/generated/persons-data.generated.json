@@ -1094,6 +1094,7 @@
             "en": "Albert",
             "pl": "Albert",
             "de": "Albert",
+            "es": "Alberto",
             "fr": "Albert"
         }
     },
@@ -1116,6 +1117,7 @@
                     "en": "Albert",
                     "pl": "Albert",
                     "de": "Albert",
+                    "es": "Alberto",
                     "fr": "Albert"
                 }
             },
@@ -1125,6 +1127,32 @@
                     "la": "Adamus",
                     "en": "Adam",
                     "pl": "Adam"
+                }
+            }
+        }
+    },
+    "patrons/albertus/hur": {
+        "active": true,
+        "names": {
+            "es": "Alberto Hurtado Cruchaga",
+            "la": "Albertus Hurtado Cruchaga",
+            "en": "Albert Hurtado Cruchaga",
+            "pl": "Albert Hurtado Cruchaga"
+        },
+        "died": [
+            "1952-08-18"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/albertus": {
+                "active": true,
+                "names": {
+                    "la": "Albertus",
+                    "en": "Albert",
+                    "pl": "Albert",
+                    "de": "Albert",
+                    "es": "Alberto",
+                    "fr": "Albert"
                 }
             }
         }
@@ -1149,6 +1177,7 @@
                     "en": "Albert",
                     "pl": "Albert",
                     "de": "Albert",
+                    "es": "Alberto",
                     "fr": "Albert"
                 }
             }
@@ -1174,6 +1203,7 @@
                     "en": "Albert",
                     "pl": "Albert",
                     "de": "Albert",
+                    "es": "Alberto",
                     "fr": "Albert"
                 }
             }

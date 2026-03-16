@@ -9762,6 +9762,17 @@
         }
     },
     "08-13": {
+        "records/patrons/albertus/hur": {
+            "name": {
+                "es": "Alberto Hurtado Cruchaga",
+                "la": "Albertus Hurtado Cruchaga",
+                "en": "Albert Hurtado Cruchaga",
+                "pl": "Albert Hurtado Cruchaga"
+            },
+            "sources": {
+                "feast": "13 VIII"
+            }
+        },
         "records/patrons/pontianus/1pp": {
             "name": {
                 "la": "Pontianus Pp.",
@@ -9933,6 +9944,18 @@
         }
     },
     "08-18": {
+        "records/patrons/albertus/hur": {
+            "name": {
+                "es": "Alberto Hurtado Cruchaga",
+                "la": "Albertus Hurtado Cruchaga",
+                "en": "Albert Hurtado Cruchaga",
+                "pl": "Albert Hurtado Cruchaga"
+            },
+            "sources": {
+                "reliable-death-anniversary": "18 VIII",
+                "mr-2004": "18 VIII: #16"
+            }
+        },
         "records/patrons/helena/mat": {
             "name": {
                 "la": "Helena, mater Constantini",
