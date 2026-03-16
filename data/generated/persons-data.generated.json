@@ -12494,6 +12494,38 @@
             }
         }
     },
+    "patrons/ida": {
+        "names": {
+            "la": "Ida",
+            "en": "Ida",
+            "pl": "Ida",
+            "fr": "Ide"
+        }
+    },
+    "patrons/ida/gal": {
+        "active": true,
+        "names": {
+            "fr": "Ida de Boulogne",
+            "la": "Ida de Gallia",
+            "en": "Ida of Lorraine",
+            "pl": "Ida Lotaryńska"
+        },
+        "died": [
+            "1113-04-13"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/ida": {
+                "active": true,
+                "names": {
+                    "la": "Ida",
+                    "en": "Ida",
+                    "pl": "Ida",
+                    "fr": "Ide"
+                }
+            }
+        }
+    },
     "patrons/ieremias": {
         "names": {
             "la": "Ieremias",

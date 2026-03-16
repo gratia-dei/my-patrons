@@ -1,0 +1,29 @@
+{
+    "names": {
+        "la": "Ida",
+        "en": "Ida",
+        "pl": "Ida"
+    },
+    "translations": {
+        "la": [
+            "Ida"
+        ],
+        "en": [
+            "Ida"
+        ],
+        "pl": [
+            "Ida"
+        ],
+        "fr": [
+            "Ide"
+        ]
+    },
+    "links": {
+        "records/patrons/ida/gal": {
+            "fr": "Ida de Boulogne",
+            "la": "Ida de Gallia",
+            "en": "Ida of Lorraine",
+            "pl": "Ida Lotaryńska"
+        }
+    }
+}

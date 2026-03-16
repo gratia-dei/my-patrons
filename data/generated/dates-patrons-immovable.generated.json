@@ -4919,6 +4919,18 @@
         }
     },
     "04-13": {
+        "records/patrons/ida/gal": {
+            "name": {
+                "fr": "Ida de Boulogne",
+                "la": "Ida de Gallia",
+                "en": "Ida of Lorraine",
+                "pl": "Ida Lotaryńska"
+            },
+            "sources": {
+                "reliable-death-anniversary": "13 IV",
+                "mr-2004": "13 IV: #5"
+            }
+        },
         "records/patrons/stanislaus/sta": {
             "name": {
                 "pl": "Stanisław Starowieyski",
