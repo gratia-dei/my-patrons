@@ -1240,6 +1240,12 @@
             "en": "Felix III",
             "pl": "Feliks III"
         },
+        "records/patrons/felix/amo": {
+            "it": "Felice di Nicosia",
+            "la": "Felix a Nicosia",
+            "en": "Felix of Nicosia",
+            "pl": "Feliks z Nikozji"
+        },
         "records/patrons/felix/aqu": {
             "it": "Felice da Aquileia",
             "la": "Felix de Aquileia",

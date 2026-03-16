@@ -8998,6 +8998,42 @@
             }
         }
     },
+    "patrons/felix/amo": {
+        "active": true,
+        "names": {
+            "it": "Felice di Nicosia",
+            "la": "Felix a Nicosia",
+            "en": "Felix of Nicosia",
+            "pl": "Feliks z Nikozji"
+        },
+        "died": [
+            "1787-05-31"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/felix": {
+                "active": true,
+                "names": {
+                    "la": "Felix",
+                    "en": "Felix",
+                    "pl": "Feliks",
+                    "it": "Felice"
+                }
+            },
+            "forenames/iacobus": {
+                "active": true,
+                "names": {
+                    "la": "Iacobus",
+                    "en": "James",
+                    "pl": "Jakub",
+                    "fr": "Jacques",
+                    "it": "Giacomo",
+                    "ja": "ディエゴ",
+                    "sw": "Yakobo"
+                }
+            }
+        }
+    },
     "patrons/felix/aqu": {
         "active": true,
         "names": {

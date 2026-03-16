@@ -6566,6 +6566,19 @@
         }
     },
     "05-31": {
+        "records/patrons/felix/amo": {
+            "name": {
+                "it": "Felice di Nicosia",
+                "la": "Felix a Nicosia",
+                "en": "Felix of Nicosia",
+                "pl": "Feliks z Nikozji"
+            },
+            "sources": {
+                "reliable-death-anniversary": "31 V",
+                "feast": "31 V",
+                "mr-2004": "31 V: #10"
+            }
+        },
         "records/patrons/noe/maw": {
             "name": {
                 "sw": "Noe Mawaggali",
