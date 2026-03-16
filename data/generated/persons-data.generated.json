@@ -14749,6 +14749,35 @@
             "zh": "若瑟"
         }
     },
+    "patrons/iosephus/bil": {
+        "active": true,
+        "names": {
+            "pl": "Józef Bilczewski",
+            "la": "Iosephus Bilczewski",
+            "en": "Joseph Bilczewski"
+        },
+        "died": [
+            "1923-03-20"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/iosephus": {
+                "active": true,
+                "names": {
+                    "la": "Iosephus",
+                    "en": "Joseph",
+                    "pl": "Józef",
+                    "es": "José",
+                    "fr": "Joseph",
+                    "it": "Giuseppe",
+                    "ko": "요셉",
+                    "nl": "Jozef",
+                    "vi": "Giuse",
+                    "zh": "若瑟"
+                }
+            }
+        }
+    },
     "patrons/iosephus/cha": {
         "active": true,
         "names": {

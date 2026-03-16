@@ -42,6 +42,11 @@
             "en": "John Joseph of the Cross",
             "pl": "Jan Józef od Krzyża"
         },
+        "records/patrons/iosephus/bil": {
+            "pl": "Józef Bilczewski",
+            "la": "Iosephus Bilczewski",
+            "en": "Joseph Bilczewski"
+        },
         "records/patrons/iosephus/cha": {
             "ko": "장주기 요셉",
             "la": "Iosephus Chang Chu-gi",

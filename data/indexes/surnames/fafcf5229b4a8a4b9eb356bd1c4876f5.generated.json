@@ -1,0 +1,17 @@
+{
+    "names": {
+        "pl": "Bilczewski"
+    },
+    "translations": {
+        "pl": [
+            "Bilczewski"
+        ]
+    },
+    "links": {
+        "records/patrons/iosephus/bil": {
+            "pl": "Józef Bilczewski",
+            "la": "Iosephus Bilczewski",
+            "en": "Joseph Bilczewski"
+        }
+    }
+}

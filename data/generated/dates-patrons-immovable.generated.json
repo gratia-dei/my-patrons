@@ -3898,6 +3898,18 @@
                 "mr-2004": "20 III: #10"
             }
         },
+        "records/patrons/iosephus/bil": {
+            "name": {
+                "pl": "Józef Bilczewski",
+                "la": "Iosephus Bilczewski",
+                "en": "Joseph Bilczewski"
+            },
+            "sources": {
+                "reliable-death-anniversary": "20 III",
+                "feast": "20 III",
+                "mr-2004": "20 III: #16"
+            }
+        },
         "records/patrons/photina/sam": {
             "name": {
                 "la": "Photina Samaritana",

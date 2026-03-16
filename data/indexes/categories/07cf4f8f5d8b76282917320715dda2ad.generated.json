@@ -2108,6 +2108,11 @@
             "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
             "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
         },
+        "records/patrons/iosephus/bil": {
+            "pl": "Józef Bilczewski",
+            "la": "Iosephus Bilczewski",
+            "en": "Joseph Bilczewski"
+        },
         "records/patrons/iosephus/cha": {
             "ko": "장주기 요셉",
             "la": "Iosephus Chang Chu-gi",
