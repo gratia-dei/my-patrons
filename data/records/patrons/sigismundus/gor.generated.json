@@ -9,6 +9,12 @@
         "born": [
             "1845-11-01"
         ],
+        "categories": [
+            "fundator"
+        ],
+        "communities/creator#c-s-s-j/date": [
+            "die XVII mensis Februarii anno MDCCCLXXXIV Congregationem Sororum S. Ioseph fundavit"
+        ],
         "dead": [
             "1920-01-01"
         ],
@@ -44,13 +50,59 @@
             "fundator"
         ],
         "communities/creator": [
-            "cssj"
+            "c-s-s-j"
         ],
         "forenames": [
             "sigismundus"
         ],
         "status": [
             "beatus"
+        ],
+        "surnames#la": [
+            "Gorazdowski"
+        ]
+    },
+    "2005": {
+        "beatified/date": [
+            "2001-06-26"
+        ],
+        "born": [
+            "1845-11-01"
+        ],
+        "canonized/date": [
+            "2005-10-23"
+        ],
+        "canonized/type": [
+            "ceremonially"
+        ],
+        "categories": [
+            "catechista",
+            "fundator"
+        ],
+        "communities/creator": [
+            "c-s-s-j"
+        ],
+        "communities/creator#c-s-s-j/date": [
+            "1884-02-17"
+        ],
+        "dead": [
+            "1920-01-01"
+        ],
+        "forenames": [
+            "sigismundus"
+        ],
+        "ordained-priest": [
+            "1871-07-25"
+        ],
+        "specially-venerated-persons": [
+            "god/fil",
+            "patrons/maria/naz",
+            "patrons/multa/fid",
+            "patrons/ioseph/naz"
+        ],
+        "status": [
+            "beatus",
+            "sanctus"
         ],
         "surnames#la": [
             "Gorazdowski"

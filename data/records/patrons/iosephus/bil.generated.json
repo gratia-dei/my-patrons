@@ -16,5 +16,17 @@
         "surnames#pl": [
             "Bilczewski"
         ]
+    },
+    "2005": {
+        "forenames": [
+            "iosephus"
+        ],
+        "status": [
+            "beatus",
+            "sanctus"
+        ],
+        "surnames#la": [
+            "Bilczewski"
+        ]
     }
 }
