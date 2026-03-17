@@ -7,11 +7,7 @@
             "Kratochwil"
         ]
     },
-    "links": {
-        "records/patrons/maria/kra": {
-            "pl": "Maria Antonina Kratochwil",
-            "la": "Maria Antonina Kratochwil",
-            "en": "Mary Antoinette Kratochwil"
-        }
-    }
+    "links": [
+        "records/patrons/maria/kra"
+    ]
 }

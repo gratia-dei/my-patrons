@@ -13,16 +13,8 @@
             "książę"
         ]
     },
-    "links": {
-        "records/patrons/carolus/bon": {
-            "la": "Carolus Bonus",
-            "en": "Charles the Good",
-            "pl": "Karol Dobry"
-        },
-        "records/patrons/casimirus/pri": {
-            "pl": "Kazimierz Królewicz",
-            "la": "Casimirus Princeps",
-            "en": "Casimir Jagiellon"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/bon",
+        "records/patrons/casimirus/pri"
+    ]
 }

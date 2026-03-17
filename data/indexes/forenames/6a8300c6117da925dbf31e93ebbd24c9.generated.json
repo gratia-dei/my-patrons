@@ -19,28 +19,10 @@
             "Romain"
         ]
     },
-    "links": {
-        "records/patrons/romanus/abb": {
-            "fr": "Romain de Condat",
-            "la": "Romanus de Monte Iura",
-            "en": "Roman of Condat",
-            "pl": "Roman Jurajski"
-        },
-        "records/patrons/romanus/ada": {
-            "es": "Román Adame Rosales",
-            "la": "Romanus Adame Rosales",
-            "en": "Roman Adame Rosales",
-            "pl": "Roman Adame Rosales"
-        },
-        "records/patrons/romanus/arc": {
-            "pl": "Roman Archutowski",
-            "la": "Romanus Archutowski",
-            "en": "Roman Archutowski"
-        },
-        "records/patrons/romanus/mel": {
-            "la": "Romanus Melodus",
-            "en": "Roman the Melodist",
-            "pl": "Roman Melodos"
-        }
-    }
+    "links": [
+        "records/patrons/romanus/abb",
+        "records/patrons/romanus/ada",
+        "records/patrons/romanus/arc",
+        "records/patrons/romanus/mel"
+    ]
 }

@@ -7,11 +7,7 @@
             "Rodzińska"
         ]
     },
-    "links": {
-        "records/patrons/iulia/rod": {
-            "pl": "Julia Rodzińska",
-            "en": "Julia Rodzińska",
-            "la": "Iulia Rodzińska"
-        }
-    }
+    "links": [
+        "records/patrons/iulia/rod"
+    ]
 }

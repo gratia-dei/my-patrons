@@ -13,11 +13,7 @@
             "profeska"
         ]
     },
-    "links": {
-        "records/patrons/salomea/reg": {
-            "pl": "Salomea Piastówna",
-            "la": "Salomea Regina Haliciensis",
-            "en": "Salomea of the Poland"
-        }
-    }
+    "links": [
+        "records/patrons/salomea/reg"
+    ]
 }

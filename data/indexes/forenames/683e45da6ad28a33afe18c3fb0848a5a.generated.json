@@ -18,12 +18,9 @@
             "경협"
         ]
     },
-    "links": {
-        "records/patrons/agatha/cho": {
-            "ko": "전경협 아가타",
-            "la": "Agatha Chŏn Kyŏng-hyŏb",
-            "en": "Agatha Chŏn Kyŏng-hyŏb",
-            "pl": "Agata Chŏn Kyŏng-hyŏb"
-        }
-    }
+    "links": [
+        "records/patrons/agatha/cho",
+        "records/patrons/agatha/cho",
+        "records/patrons/agatha/cho"
+    ]
 }

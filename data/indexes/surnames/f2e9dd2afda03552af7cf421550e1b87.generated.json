@@ -18,12 +18,9 @@
             "Kisai"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/kis": {
-            "ja": "ディエゴ喜斎",
-            "la": "Iacobus Kisai",
-            "en": "James Kisai",
-            "pl": "Jakub Kisai"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/kis",
+        "records/patrons/iacobus/kis",
+        "records/patrons/iacobus/kis"
+    ]
 }

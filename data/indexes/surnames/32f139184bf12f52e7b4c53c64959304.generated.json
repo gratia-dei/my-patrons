@@ -7,12 +7,7 @@
             "Magallanes"
         ]
     },
-    "links": {
-        "records/patrons/christophorus/mag": {
-            "es": "Cristóbal Magallanes Jara",
-            "la": "Christophorus Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
-            "pl": "Krzysztof Magallanes Jara"
-        }
-    }
+    "links": [
+        "records/patrons/christophorus/mag"
+    ]
 }

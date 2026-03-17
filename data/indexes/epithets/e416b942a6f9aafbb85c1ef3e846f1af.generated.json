@@ -16,12 +16,7 @@
             "Jedenasty"
         ]
     },
-    "links": {
-        "records/patrons/benedictus/11p": {
-            "it": "Benedetto XI",
-            "la": "Benedictus XI",
-            "en": "Benedict XI",
-            "pl": "Benedykt XI"
-        }
-    }
+    "links": [
+        "records/patrons/benedictus/11p"
+    ]
 }

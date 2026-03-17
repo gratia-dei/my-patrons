@@ -20,18 +20,8 @@
             "Benigno"
         ]
     },
-    "links": {
-        "records/patrons/benignus/div": {
-            "fr": "Bénigne de Dijon",
-            "la": "Benignus Divionensis",
-            "en": "Benignus of Dijon",
-            "pl": "Benigny z Dijon"
-        },
-        "records/patrons/benignus/tud": {
-            "it": "Benigno da Todi",
-            "la": "Benignus Tudertinus",
-            "en": "Benignus of Todi",
-            "pl": "Benignus z Todi"
-        }
-    }
+    "links": [
+        "records/patrons/benignus/div",
+        "records/patrons/benignus/tud"
+    ]
 }

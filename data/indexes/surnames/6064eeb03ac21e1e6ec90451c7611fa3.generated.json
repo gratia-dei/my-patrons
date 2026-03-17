@@ -7,12 +7,7 @@
             "Moscati"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/mos": {
-            "it": "Giuseppe Moscati",
-            "la": "Iosephus Moscati",
-            "en": "Joseph Moscati",
-            "pl": "Józef Moscati"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/mos"
+    ]
 }

@@ -1,10 +1,5 @@
 {
-    "links": {
-        "records/patrons/rosalia/pan": {
-            "it": "Rosalia di Palermo",
-            "la": "Rosalia Panormitana",
-            "en": "Rosalia of Palermo",
-            "pl": "Rozalia z Palermo"
-        }
-    }
+    "links": [
+        "patrons/rosalia/pan"
+    ]
 }

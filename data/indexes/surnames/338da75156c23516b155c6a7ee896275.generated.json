@@ -7,11 +7,7 @@
             "Mzyk"
         ]
     },
-    "links": {
-        "records/patrons/ludovicus/mzy": {
-            "pl": "Ludwik Mzyk",
-            "la": "Ludovicus Mzyk",
-            "en": "Louis Mzyk"
-        }
-    }
+    "links": [
+        "records/patrons/ludovicus/mzy"
+    ]
 }

@@ -13,11 +13,7 @@
             "Donat"
         ]
     },
-    "links": {
-        "records/patrons/donatus/sco": {
-            "en": "Donatus of Fiesole",
-            "la": "Donatus Scotus",
-            "pl": "Donat z Fiesole"
-        }
-    }
+    "links": [
+        "records/patrons/donatus/sco"
+    ]
 }

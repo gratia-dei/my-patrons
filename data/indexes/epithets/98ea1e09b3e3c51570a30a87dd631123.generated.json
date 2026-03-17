@@ -16,24 +16,9 @@
             "od Jezusa"
         ]
     },
-    "links": {
-        "records/patrons/maria/nav": {
-            "es": "María Ana de Jesús Navarro",
-            "la": "Maria Anna a Iesu Navarro",
-            "en": "Maria Anna of Jesus Navarro",
-            "pl": "Maria Anna od Jezusa Navarro"
-        },
-        "records/patrons/philippus/las": {
-            "es": "Felipe de Jesús de Las Casas",
-            "la": "Philippus a Iesu de Las Casas",
-            "en": "Philip of Jesus de Las Casas",
-            "pl": "Filip od Jezusa de Las Casas"
-        },
-        "records/patrons/teresia/ies": {
-            "es": "Teresa de Ávila",
-            "la": "Teresia Abulensis",
-            "en": "Therese of Ávila",
-            "pl": "Teresa z Ávili"
-        }
-    }
+    "links": [
+        "records/patrons/maria/nav",
+        "records/patrons/philippus/las",
+        "records/patrons/teresia/ies"
+    ]
 }

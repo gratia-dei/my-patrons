@@ -13,11 +13,7 @@
             "Prokul"
         ]
     },
-    "links": {
-        "records/patrons/proculus/put": {
-            "la": "Proculus Puteolensis",
-            "en": "Proculus of Pozzuoli",
-            "pl": "Prokul z Pozzuoli"
-        }
-    }
+    "links": [
+        "records/patrons/proculus/put"
+    ]
 }

@@ -4,8 +4,6 @@ class Procedure extends Base
 {
     private const ERROR_MESSAGE_PREFIX = 'ERROR! ';
 
-    private const PERSONS_DATA_FILE_PATH = 'generated/persons-data' . self::GENERATED_FILE_NAME_SUFFIX . self::DATA_FILE_EXTENSION;
-
     protected function print($data): void
     {
         echo $this->getDate()->getCurrentDateTime() . ' [' . get_called_class() . '] ' . print_r($data, true) . "\n";

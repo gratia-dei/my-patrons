@@ -13,11 +13,7 @@
             "niewolnica"
         ]
     },
-    "links": {
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/felicitas/car"
+    ]
 }

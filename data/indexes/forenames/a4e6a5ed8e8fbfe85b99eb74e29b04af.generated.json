@@ -13,21 +13,9 @@
             "Marek"
         ]
     },
-    "links": {
-        "records/patrons/marcus/eva": {
-            "la": "Marcus Evangelista",
-            "en": "Mark the Evangelist",
-            "pl": "Marek Ewangelista"
-        },
-        "records/patrons/marcus/hie": {
-            "la": "Marcus Hierosolymitanus",
-            "en": "Mark of Jerusalem",
-            "pl": "Marek z Jerozolimy"
-        },
-        "records/patrons/marcus/mar": {
-            "la": "Marcus; cum eo, i.a., Marcellianus",
-            "en": "Mark; with him, i.a., Marcellian",
-            "pl": "Marek; z nim, m.in., Marcelian"
-        }
-    }
+    "links": [
+        "records/patrons/marcus/eva",
+        "records/patrons/marcus/hie",
+        "records/patrons/marcus/mar"
+    ]
 }

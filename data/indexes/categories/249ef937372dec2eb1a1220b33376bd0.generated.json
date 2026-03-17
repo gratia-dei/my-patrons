@@ -13,12 +13,7 @@
             "lewita"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/asi": {
-            "it": "Francesco d'Assisi",
-            "la": "Franciscus Asisiensis",
-            "en": "Francis of Assisi",
-            "pl": "Franciszek z Asyżu"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/asi"
+    ]
 }

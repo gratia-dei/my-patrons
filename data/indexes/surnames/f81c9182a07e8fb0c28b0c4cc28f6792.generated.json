@@ -7,12 +7,7 @@
             "Véron"
         ]
     },
-    "links": {
-        "records/patrons/ioanna/ver": {
-            "fr": "Jeanne Véron",
-            "la": "Ioanna Véron",
-            "en": "Joann Véron",
-            "pl": "Joanna Véron"
-        }
-    }
+    "links": [
+        "records/patrons/ioanna/ver"
+    ]
 }

@@ -13,11 +13,7 @@
             "Aureliusz"
         ]
     },
-    "links": {
-        "records/patrons/aurelius/sab": {
-            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
-            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
-            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
-        }
-    }
+    "links": [
+        "records/patrons/aurelius/sab"
+    ]
 }

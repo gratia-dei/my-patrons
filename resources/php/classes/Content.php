@@ -39,6 +39,7 @@ abstract class Content extends Base
     ];
 
     private $translatedLanguagesVariablesCache;
+    private $allPersonsDataCache;
 
     protected function getLanguage(): string
     {
@@ -109,6 +110,20 @@ abstract class Content extends Base
         $result = $this->getTranslatedVariables($language, 'languages' . self::DATA_FILE_EXTENSION);
 
         $this->translatedLanguagesVariablesCache = $result;
+
+        return $result;
+    }
+
+    protected function getGeneratedPersonsData(): array
+    {
+        $result = $this->allPersonsDataCache;
+
+        if (is_array($result)) {
+            return $result;
+        }
+
+        $result = $this->getOriginalJsonFileContentArray(self::PERSONS_DATA_FILE_PATH);
+        $this->allPersonsDataCache = $result;
 
         return $result;
     }

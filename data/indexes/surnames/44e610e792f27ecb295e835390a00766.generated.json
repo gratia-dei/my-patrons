@@ -16,12 +16,7 @@
             "Yuan"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/yua": {
-            "zh": "袁在德若瑟",
-            "la": "Iosephus Yuan Zaide",
-            "en": "Joseph John Zaide",
-            "pl": "Józef Yuan Zaide"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/yua"
+    ]
 }

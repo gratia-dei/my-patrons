@@ -7,12 +7,7 @@
             "Savio"
         ]
     },
-    "links": {
-        "records/patrons/dominicus/sav": {
-            "it": "Domenico Savio",
-            "la": "Dominicus Savio",
-            "en": "Dominic Savio",
-            "pl": "Dominik Savio"
-        }
-    }
+    "links": [
+        "records/patrons/dominicus/sav"
+    ]
 }

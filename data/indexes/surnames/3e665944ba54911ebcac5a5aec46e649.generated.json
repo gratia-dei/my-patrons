@@ -7,11 +7,7 @@
             "Wyszyński"
         ]
     },
-    "links": {
-        "records/patrons/stephanus/wys": {
-            "pl": "Stefan Wyszyński",
-            "la": "Stephanus Wyszyński",
-            "en": "Stephen Wyszyński"
-        }
-    }
+    "links": [
+        "records/patrons/stephanus/wys"
+    ]
 }

@@ -14,51 +14,24 @@
             "Edward"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/col": {
-            "en": "Edward Coleman",
-            "la": "Eduardus Coleman",
-            "pl": "Edward Coleman"
-        },
-        "records/patrons/eduardus/con": {
-            "en": "Edward the Confessor",
-            "la": "Eduardus Confessor",
-            "pl": "Edward Wyznawca"
-        },
-        "records/patrons/eduardus/grz": {
-            "pl": "Edward Grzymała",
-            "la": "Eduardus Grzymała",
-            "en": "Edward Grzymała"
-        },
-        "records/patrons/eduardus/kaz": {
-            "pl": "Edward Kaźmierski",
-            "la": "Edwardus Kaźmierski",
-            "en": "Edward Kazmierski"
-        },
-        "records/patrons/eduardus/kli": {
-            "pl": "Edward Klinik",
-            "la": "Eduardus Klinik",
-            "en": "Edward Klinik"
-        },
-        "records/patrons/eduardus/osb": {
-            "en": "Edward Osbaldeston",
-            "la": "Eduardus Osbaldeston",
-            "pl": "Edward Osbaldeston"
-        },
-        "records/patrons/eduardus/rex": {
-            "en": "Edward the Martyr",
-            "la": "Eduardus Martyr",
-            "pl": "Edward Męczennik"
-        },
-        "records/patrons/eduardus/she": {
-            "en": "Edward Shelley",
-            "la": "Eduardus Shelley",
-            "pl": "Edward Shelley"
-        },
-        "records/patrons/petrus/dan": {
-            "pl": "Piotr Edward Dańkowski",
-            "la": "Petrus Eduardus Dańkowski",
-            "en": "Peter Edward Dankowski"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/col",
+        "records/patrons/eduardus/col",
+        "records/patrons/eduardus/con",
+        "records/patrons/eduardus/con",
+        "records/patrons/eduardus/grz",
+        "records/patrons/eduardus/grz",
+        "records/patrons/eduardus/kaz",
+        "records/patrons/eduardus/kaz",
+        "records/patrons/eduardus/kli",
+        "records/patrons/eduardus/kli",
+        "records/patrons/eduardus/osb",
+        "records/patrons/eduardus/osb",
+        "records/patrons/eduardus/rex",
+        "records/patrons/eduardus/rex",
+        "records/patrons/eduardus/she",
+        "records/patrons/eduardus/she",
+        "records/patrons/petrus/dan",
+        "records/patrons/petrus/dan"
+    ]
 }

@@ -14,11 +14,8 @@
             "Anastazja"
         ]
     },
-    "links": {
-        "records/patrons/anastasia/sir": {
-            "la": "Anastasia Sirmiensis",
-            "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Sirmium"
-        }
-    }
+    "links": [
+        "records/patrons/anastasia/sir",
+        "records/patrons/anastasia/sir"
+    ]
 }

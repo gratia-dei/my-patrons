@@ -7,12 +7,7 @@
             "Lambertini"
         ]
     },
-    "links": {
-        "records/patrons/imelda/lam": {
-            "it": "Imelda Lambertini",
-            "la": "Imelda Lambertini",
-            "en": "Imelda Lambertini",
-            "pl": "Imelda Lambertini"
-        }
-    }
+    "links": [
+        "records/patrons/imelda/lam"
+    ]
 }

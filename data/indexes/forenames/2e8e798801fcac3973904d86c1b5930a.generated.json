@@ -16,12 +16,7 @@
             "석두"
         ]
     },
-    "links": {
-        "records/patrons/lucas/hwa": {
-            "ko": "황석두 루가",
-            "la": "Lucas Hwang Sŏk-tu",
-            "en": "Luke Hwang Sŏk-tu",
-            "pl": "Łukasz Hwang Sŏk-tu"
-        }
-    }
+    "links": [
+        "records/patrons/lucas/hwa"
+    ]
 }

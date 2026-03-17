@@ -11,12 +11,7 @@
             "Falconeria"
         ]
     },
-    "links": {
-        "records/patrons/iuliana/fal": {
-            "it": "Giuliana Falconieri",
-            "la": "Iuliana Falconieri",
-            "en": "Juliana Falconieri",
-            "pl": "Juliana Falconieri"
-        }
-    }
+    "links": [
+        "records/patrons/iuliana/fal"
+    ]
 }

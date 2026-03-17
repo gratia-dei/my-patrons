@@ -19,12 +19,10 @@
             "Gemma"
         ]
     },
-    "links": {
-        "records/patrons/gemma/gal": {
-            "it": "Gemma Galgani",
-            "la": "Gemma Galgani",
-            "en": "Gemma Galgani",
-            "pl": "Gemma Galgani"
-        }
-    }
+    "links": [
+        "records/patrons/gemma/gal",
+        "records/patrons/gemma/gal",
+        "records/patrons/gemma/gal",
+        "records/patrons/gemma/gal"
+    ]
 }

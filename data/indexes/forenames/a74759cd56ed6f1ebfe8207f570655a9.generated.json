@@ -13,11 +13,7 @@
             "Porfiriusz"
         ]
     },
-    "links": {
-        "records/patrons/porphyrius/one": {
-            "la": "Porphyrius; cum eo Onesiphorus",
-            "en": "Porphyrius; with him Onesiphorus",
-            "pl": "Porfiriusz; z nim Onezyfor"
-        }
-    }
+    "links": [
+        "records/patrons/porphyrius/one"
+    ]
 }

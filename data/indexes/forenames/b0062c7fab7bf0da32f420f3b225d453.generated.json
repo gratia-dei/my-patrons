@@ -25,30 +25,10 @@
             "Nicola"
         ]
     },
-    "links": {
-        "records/patrons/nicolaus/flu": {
-            "de": "Niklaus von Flüe",
-            "la": "Nicolaus de Flüe",
-            "en": "Nicholas of Flüe",
-            "pl": "Mikołaj z Flüe"
-        },
-        "records/patrons/nicolaus/ges": {
-            "it": "Nicola da Gesturi",
-            "la": "Nicolaus de Gesturi",
-            "en": "Nicholas of Gesturi",
-            "pl": "Mikołaj z Gesturi"
-        },
-        "records/patrons/nicolaus/myr": {
-            "el": "Νικόλαος",
-            "la": "Nicolaus Myrensis",
-            "en": "Nicholas of Myra",
-            "pl": "Mikołaj z Miry"
-        },
-        "records/patrons/nicolaus/stu": {
-            "la": "Nicolaus Studita",
-            "en": "Nicholas the Studite",
-            "pl": "Mikołaj Studita",
-            "fr": "Nicolas le Studite"
-        }
-    }
+    "links": [
+        "records/patrons/nicolaus/flu",
+        "records/patrons/nicolaus/ges",
+        "records/patrons/nicolaus/myr",
+        "records/patrons/nicolaus/stu"
+    ]
 }

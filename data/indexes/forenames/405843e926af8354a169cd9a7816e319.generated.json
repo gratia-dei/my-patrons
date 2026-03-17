@@ -14,11 +14,8 @@
             "Salustia"
         ]
     },
-    "links": {
-        "records/patrons/sallustia/rom": {
-            "la": "Sallustia de Roma",
-            "en": "Salustia of Rome",
-            "pl": "Salustia z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/sallustia/rom",
+        "records/patrons/sallustia/rom"
+    ]
 }

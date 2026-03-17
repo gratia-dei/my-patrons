@@ -7,12 +7,7 @@
             "Navarro de Guevara"
         ]
     },
-    "links": {
-        "records/patrons/maria/nav": {
-            "es": "María Ana de Jesús Navarro",
-            "la": "Maria Anna a Iesu Navarro",
-            "en": "Maria Anna of Jesus Navarro",
-            "pl": "Maria Anna od Jezusa Navarro"
-        }
-    }
+    "links": [
+        "records/patrons/maria/nav"
+    ]
 }

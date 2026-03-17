@@ -13,36 +13,11 @@
             "rekluza"
         ]
     },
-    "links": {
-        "records/patrons/catharina/mon": {
-            "sr": "Озана Которска",
-            "la": "Catharina de Monte Nigro",
-            "en": "Osanna of Cattaro",
-            "pl": "Katarzyna z Czarnogóry"
-        },
-        "records/patrons/coleta/boy": {
-            "fr": "Colette Boylet",
-            "la": "Coleta Boylet",
-            "en": "Colette Boylet",
-            "pl": "Koleta Boylet"
-        },
-        "records/patrons/dorothea/mon": {
-            "de": "Dorothea von Montau",
-            "la": "Dorothea Montoviensis",
-            "en": "Dorothy of Montau",
-            "pl": "Dorota z Mątowów"
-        },
-        "records/patrons/ioanna/mai": {
-            "fr": "Jeanne-Marie de Maillé",
-            "la": "Ioanna Maria de Maille",
-            "en": "Joan Mary of Maille",
-            "pl": "Joanna Maria z Maille"
-        },
-        "records/patrons/sibyllina/bis": {
-            "it": "Sibillina Biscossi",
-            "la": "Sibyllina Biscossi",
-            "en": "Sibyllina Biscossi",
-            "pl": "Sybillina Biscossi"
-        }
-    }
+    "links": [
+        "records/patrons/catharina/mon",
+        "records/patrons/coleta/boy",
+        "records/patrons/dorothea/mon",
+        "records/patrons/ioanna/mai",
+        "records/patrons/sibyllina/bis"
+    ]
 }

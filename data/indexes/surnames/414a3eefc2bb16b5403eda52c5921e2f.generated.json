@@ -7,11 +7,7 @@
             "Bobola"
         ]
     },
-    "links": {
-        "records/patrons/andreas/bob": {
-            "pl": "Andrzej Bobola",
-            "la": "Andreas Bobola",
-            "en": "Andrew Bobola"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/bob"
+    ]
 }

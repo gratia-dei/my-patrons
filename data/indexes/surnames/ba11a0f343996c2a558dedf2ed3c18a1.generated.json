@@ -7,11 +7,7 @@
             "Czeska"
         ]
     },
-    "links": {
-        "records/patrons/sophia/mac": {
-            "pl": "Zofia Czeska",
-            "la": "Sophia Maciejowska-Czeska",
-            "en": "Sophia Maciejowska-Czeska"
-        }
-    }
+    "links": [
+        "records/patrons/sophia/mac"
+    ]
 }

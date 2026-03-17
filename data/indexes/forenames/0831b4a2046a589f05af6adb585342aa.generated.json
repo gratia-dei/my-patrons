@@ -14,16 +14,10 @@
             "Tadeusz"
         ]
     },
-    "links": {
-        "records/patrons/iudas/tha": {
-            "la": "Iudas Thaddaeus",
-            "en": "Judas Thaddaeus",
-            "pl": "Juda Tadeusz Apostoł"
-        },
-        "records/patrons/thaddaeus/dul": {
-            "pl": "Tadeusz Dulny",
-            "la": "Thaddaeus Dulny",
-            "en": "Thaddeus Dulny"
-        }
-    }
+    "links": [
+        "records/patrons/iudas/tha",
+        "records/patrons/iudas/tha",
+        "records/patrons/thaddaeus/dul",
+        "records/patrons/thaddaeus/dul"
+    ]
 }

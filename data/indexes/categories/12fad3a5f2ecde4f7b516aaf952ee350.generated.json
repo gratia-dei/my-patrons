@@ -13,12 +13,7 @@
             "pokutnica"
         ]
     },
-    "links": {
-        "records/patrons/margarita/cor": {
-            "it": "Margherita da Cortona",
-            "la": "Margarita de Cortona",
-            "en": "Margaret of Cortona",
-            "pl": "Małgorzata z Kortony"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/cor"
+    ]
 }

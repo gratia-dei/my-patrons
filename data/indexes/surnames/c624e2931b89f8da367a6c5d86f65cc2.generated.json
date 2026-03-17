@@ -7,12 +7,7 @@
             "del Bufalo"
         ]
     },
-    "links": {
-        "records/patrons/gaspar/buf": {
-            "it": "Gaspare del Bufalo",
-            "la": "Gaspar del Bufalo",
-            "en": "Gaspar del Bufalo",
-            "pl": "Kasper del Bufalo"
-        }
-    }
+    "links": [
+        "records/patrons/gaspar/buf"
+    ]
 }

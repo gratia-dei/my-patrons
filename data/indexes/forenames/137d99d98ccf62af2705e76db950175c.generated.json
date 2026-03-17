@@ -13,11 +13,7 @@
             "Antioch"
         ]
     },
-    "links": {
-        "records/patrons/antiochus/ana": {
-            "la": "Antiochus Anastasiopolitanus",
-            "en": "Antiochus of Anastasiopolis",
-            "pl": "Antioch z Anastasiopolis"
-        }
-    }
+    "links": [
+        "records/patrons/antiochus/ana"
+    ]
 }

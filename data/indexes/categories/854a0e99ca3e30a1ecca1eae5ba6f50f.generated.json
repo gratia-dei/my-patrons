@@ -13,11 +13,7 @@
             "archidiakon"
         ]
     },
-    "links": {
-        "records/patrons/laurentius/rom": {
-            "la": "Laurentius de Roma",
-            "en": "Lawrence of Rome",
-            "pl": "Wawrzyniec z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/laurentius/rom"
+    ]
 }

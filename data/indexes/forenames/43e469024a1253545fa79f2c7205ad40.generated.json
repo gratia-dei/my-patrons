@@ -17,12 +17,8 @@
             "Eulogio"
         ]
     },
-    "links": {
-        "records/patrons/eulogius/cor": {
-            "es": "Eulogio de Córdoba",
-            "la": "Eulogius de Corduba",
-            "en": "Eulogius of Cordoba",
-            "pl": "Eulogiusz z Kordoby"
-        }
-    }
+    "links": [
+        "records/patrons/eulogius/cor",
+        "records/patrons/eulogius/cor"
+    ]
 }

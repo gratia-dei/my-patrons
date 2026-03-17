@@ -13,11 +13,7 @@
             "Lucjusz"
         ]
     },
-    "links": {
-        "records/patrons/lucius/cur": {
-            "la": "Lucius de Curiae Rhaetorum",
-            "en": "Lucius of Chur",
-            "pl": "Lucjusz z Chur"
-        }
-    }
+    "links": [
+        "records/patrons/lucius/cur"
+    ]
 }

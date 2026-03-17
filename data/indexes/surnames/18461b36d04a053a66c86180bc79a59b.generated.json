@@ -7,12 +7,7 @@
             "Forgione"
         ]
     },
-    "links": {
-        "records/patrons/pius/pie": {
-            "it": "Pio da Pietrelcina",
-            "la": "Pius de Pietrelcina",
-            "en": "Pio of Pietrelcina",
-            "pl": "Pio z Pietrelciny"
-        }
-    }
+    "links": [
+        "records/patrons/pius/pie"
+    ]
 }

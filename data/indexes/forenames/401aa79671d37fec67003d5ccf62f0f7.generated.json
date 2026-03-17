@@ -17,12 +17,8 @@
             "Pirminius"
         ]
     },
-    "links": {
-        "records/patrons/pirminus/epi": {
-            "de": "Pirminius von Hornbach",
-            "la": "Pirminus Hornbacensis",
-            "en": "Pirmin of Hornbach",
-            "pl": "Pirmin z Hornbach"
-        }
-    }
+    "links": [
+        "records/patrons/pirminus/epi",
+        "records/patrons/pirminus/epi"
+    ]
 }

@@ -7,11 +7,7 @@
             "Jankowski"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/jan": {
-            "pl": "Józef Jankowski",
-            "la": "Iosephus Jankowski",
-            "en": "Joseph Jankowski"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/jan"
+    ]
 }

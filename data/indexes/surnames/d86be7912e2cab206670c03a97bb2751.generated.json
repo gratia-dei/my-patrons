@@ -16,18 +16,8 @@
             "Kozaki"
         ]
     },
-    "links": {
-        "records/patrons/michael/kzk": {
-            "ja": "ミカエル小崎",
-            "la": "Michael Kozaki",
-            "en": "Michael Kozaki",
-            "pl": "Michał Kozaki"
-        },
-        "records/patrons/thomas/koz": {
-            "ja": "トマス小崎",
-            "la": "Thomas Kozaki",
-            "en": "Thomas Kozaki",
-            "pl": "Tomasz Kozaki"
-        }
-    }
+    "links": [
+        "records/patrons/michael/kzk",
+        "records/patrons/thomas/koz"
+    ]
 }

@@ -7,12 +7,7 @@
             "de Sales"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/sal": {
-            "fr": "François de Sales",
-            "la": "Franciscus de Sales",
-            "en": "Francis de Sales",
-            "pl": "Franciszek Salezy"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/sal"
+    ]
 }

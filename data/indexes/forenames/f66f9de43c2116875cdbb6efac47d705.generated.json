@@ -14,11 +14,8 @@
             "Kwartus"
         ]
     },
-    "links": {
-        "records/patrons/quartus/xys": {
-            "la": "Quartus de Roma",
-            "en": "Quartus of Rome",
-            "pl": "Kwartus z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/quartus/xys",
+        "records/patrons/quartus/xys"
+    ]
 }

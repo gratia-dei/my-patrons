@@ -14,11 +14,7 @@
             "Młodszy"
         ]
     },
-    "links": {
-        "records/patrons/simeon/sti": {
-            "la": "Simeon Stylita Iunior",
-            "en": "Simeon Stylites the Younger",
-            "pl": "Symeon Słupnik Młodszy"
-        }
-    }
+    "links": [
+        "records/patrons/simeon/sti"
+    ]
 }

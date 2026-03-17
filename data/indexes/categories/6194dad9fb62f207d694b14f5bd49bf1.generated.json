@@ -14,34 +14,16 @@
             "anachoreta"
         ]
     },
-    "links": {
-        "records/patrons/gerasimus/ior": {
-            "el": "Γεράσιμος Ἰορδανίτης",
-            "la": "Gerasimus Iordanita",
-            "en": "Gerasimus of the Jordan",
-            "pl": "Gerazym Jordanita"
-        },
-        "records/patrons/moyses/aet": {
-            "la": "Moyses Aethiops",
-            "en": "Moses the Ethiopian",
-            "pl": "Mojżesz Etiopczyk"
-        },
-        "records/patrons/nicolaus/flu": {
-            "de": "Niklaus von Flüe",
-            "la": "Nicolaus de Flüe",
-            "en": "Nicholas of Flüe",
-            "pl": "Mikołaj z Flüe"
-        },
-        "records/patrons/romualdus/cam": {
-            "it": "Romualdo di Camaldoli",
-            "la": "Romualdus Camaldulensis",
-            "en": "Romuald of Camaldoli",
-            "pl": "Romuald z Camaldoli"
-        },
-        "records/patrons/simeon/sti": {
-            "la": "Simeon Stylita Iunior",
-            "en": "Simeon Stylites the Younger",
-            "pl": "Symeon Słupnik Młodszy"
-        }
-    }
+    "links": [
+        "records/patrons/gerasimus/ior",
+        "records/patrons/gerasimus/ior",
+        "records/patrons/moyses/aet",
+        "records/patrons/moyses/aet",
+        "records/patrons/nicolaus/flu",
+        "records/patrons/nicolaus/flu",
+        "records/patrons/romualdus/cam",
+        "records/patrons/romualdus/cam",
+        "records/patrons/simeon/sti",
+        "records/patrons/simeon/sti"
+    ]
 }

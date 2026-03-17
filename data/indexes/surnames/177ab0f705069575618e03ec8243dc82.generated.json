@@ -7,11 +7,7 @@
             "Faron"
         ]
     },
-    "links": {
-        "records/patrons/caelestina/far": {
-            "pl": "Celestyna Faron",
-            "la": "Caelestina Faron",
-            "en": "Celestine Faron"
-        }
-    }
+    "links": [
+        "records/patrons/caelestina/far"
+    ]
 }

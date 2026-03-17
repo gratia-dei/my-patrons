@@ -15,11 +15,9 @@
             "Daria"
         ]
     },
-    "links": {
-        "records/patrons/daria/chr": {
-            "la": "Daria de Roma",
-            "en": "Daria of Rome",
-            "pl": "Daria z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/daria/chr",
+        "records/patrons/daria/chr",
+        "records/patrons/daria/chr"
+    ]
 }

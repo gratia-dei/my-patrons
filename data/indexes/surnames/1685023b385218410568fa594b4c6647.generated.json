@@ -7,12 +7,7 @@
             "Gonzaga"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/gon": {
-            "it": "Luigi Gonzaga",
-            "la": "Aloysius Gonzaga",
-            "en": "Aloysius Gonzaga",
-            "pl": "Alojzy Gonzaga"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/gon"
+    ]
 }

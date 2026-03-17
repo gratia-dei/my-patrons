@@ -7,11 +7,7 @@
             "Zapłata"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/zap": {
-            "pl": "Józef Zapłata",
-            "la": "Iosephus Zaplata",
-            "en": "Joseph Zaplata"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/zap"
+    ]
 }

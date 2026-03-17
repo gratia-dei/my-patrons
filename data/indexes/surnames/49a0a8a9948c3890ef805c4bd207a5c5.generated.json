@@ -7,11 +7,7 @@
             "Duckett"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/duc": {
-            "en": "James Duckett",
-            "la": "Iacobus Duckett",
-            "pl": "Jakub Duckett"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/duc"
+    ]
 }

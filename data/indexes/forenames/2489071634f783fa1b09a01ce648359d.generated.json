@@ -13,11 +13,7 @@
             "Zenon"
         ]
     },
-    "links": {
-        "records/patrons/zeno/mai": {
-            "la": "Zenon Maiumitanensis",
-            "en": "Zeno of Maiuma",
-            "pl": "Zenon z Maiumy"
-        }
-    }
+    "links": [
+        "records/patrons/zeno/mai"
+    ]
 }

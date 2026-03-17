@@ -16,12 +16,7 @@
             "Patient"
         ]
     },
-    "links": {
-        "records/patrons/patiens/met": {
-            "fr": "Patient de Metz",
-            "la": "Patiens Metensis",
-            "en": "Patiens of Metz",
-            "pl": "Pacjens z Metz"
-        }
-    }
+    "links": [
+        "records/patrons/patiens/met"
+    ]
 }

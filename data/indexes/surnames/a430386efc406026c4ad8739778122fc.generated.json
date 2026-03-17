@@ -7,11 +7,7 @@
             "Straszewski"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/str": {
-            "pl": "Józef Straszewski",
-            "la": "Iosephus Straszewski",
-            "en": "Joseph Straszewski"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/str"
+    ]
 }

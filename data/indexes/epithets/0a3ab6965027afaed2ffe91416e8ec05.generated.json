@@ -16,12 +16,7 @@
             "Szkot"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/dun": {
-            "de": "Johannes Duns Scotus",
-            "la": "Ioannes Duns Scotus",
-            "en": "John Duns Scotus",
-            "pl": "Jan Duns Szkot"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/dun"
+    ]
 }

@@ -7,11 +7,7 @@
             "Górecki"
         ]
     },
-    "links": {
-        "records/patrons/marianus/gor": {
-            "pl": "Marian Górecki",
-            "la": "Marianus Górecki",
-            "en": "Marian Górecki"
-        }
-    }
+    "links": [
+        "records/patrons/marianus/gor"
+    ]
 }

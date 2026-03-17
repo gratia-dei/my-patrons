@@ -17,53 +17,24 @@
             "Felice"
         ]
     },
-    "links": {
-        "records/patrons/felix/2ap": {
-            "la": "Felix II, antipapa",
-            "en": "Felix II, antipope",
-            "pl": "Feliks II, antypapież"
-        },
-        "records/patrons/felix/3pp": {
-            "la": "Felix III",
-            "en": "Felix III",
-            "pl": "Feliks III"
-        },
-        "records/patrons/felix/amo": {
-            "it": "Felice di Nicosia",
-            "la": "Felix a Nicosia",
-            "en": "Felix of Nicosia",
-            "pl": "Feliks z Nikozji"
-        },
-        "records/patrons/felix/aqu": {
-            "it": "Felice da Aquileia",
-            "la": "Felix de Aquileia",
-            "en": "Felix of Aquileia",
-            "pl": "Feliks z Akwilei"
-        },
-        "records/patrons/felix/lil": {
-            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
-            "en": "Felix of Cordoba; with him, i.a., Liliosa",
-            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
-        },
-        "records/patrons/felix/phi": {
-            "la": "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres",
-            "en": "Felix; with him, i.a., Philip; as Seven Brothers",
-            "pl": "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
-        },
-        "records/patrons/felix/rom": {
-            "la": "Felix de Roma",
-            "en": "Felix of Rome",
-            "pl": "Feliks z Rzymu"
-        },
-        "records/patrons/felix/sci": {
-            "la": "Felix de Scillium",
-            "en": "Felix of Scillium",
-            "pl": "Feliks ze Scilium"
-        },
-        "records/patrons/sigismundus/fel": {
-            "pl": "Zygmunt Szczęsny Feliński",
-            "la": "Sigismundus Felix Feliński",
-            "en": "Sigismund Szczęsny Feliński"
-        }
-    }
+    "links": [
+        "records/patrons/felix/2ap",
+        "records/patrons/felix/2ap",
+        "records/patrons/felix/3pp",
+        "records/patrons/felix/3pp",
+        "records/patrons/felix/amo",
+        "records/patrons/felix/amo",
+        "records/patrons/felix/aqu",
+        "records/patrons/felix/aqu",
+        "records/patrons/felix/lil",
+        "records/patrons/felix/lil",
+        "records/patrons/felix/phi",
+        "records/patrons/felix/phi",
+        "records/patrons/felix/rom",
+        "records/patrons/felix/rom",
+        "records/patrons/felix/sci",
+        "records/patrons/felix/sci",
+        "records/patrons/sigismundus/fel",
+        "records/patrons/sigismundus/fel"
+    ]
 }

@@ -17,18 +17,10 @@
             "Théophane"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ven": {
-            "fr": "Jean-Théophane Vénard",
-            "la": "Ioannes Theophanes Vénard",
-            "en": "John Theophanes Vénard",
-            "pl": "Jan Teofan Vénard"
-        },
-        "records/patrons/theophanes/the": {
-            "el": "Θεοφάνης Νικαίας",
-            "la": "Theophanes Nicaenus",
-            "en": "Theophanes of Nicaea",
-            "pl": "Teofanes z Nicei"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ven",
+        "records/patrons/ioannes/ven",
+        "records/patrons/theophanes/the",
+        "records/patrons/theophanes/the"
+    ]
 }

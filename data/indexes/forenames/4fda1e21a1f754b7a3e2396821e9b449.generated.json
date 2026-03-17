@@ -18,12 +18,9 @@
             "매임"
         ]
     },
-    "links": {
-        "records/patrons/teresia/yim": {
-            "ko": "이매임 데레사",
-            "la": "Teresia Yi Mae-im",
-            "en": "Therese Yi Mae-im",
-            "pl": "Teresa Yi Mae-im"
-        }
-    }
+    "links": [
+        "records/patrons/teresia/yim",
+        "records/patrons/teresia/yim",
+        "records/patrons/teresia/yim"
+    ]
 }

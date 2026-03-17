@@ -16,12 +16,7 @@
             "Τίτος"
         ]
     },
-    "links": {
-        "records/patrons/titus/cre": {
-            "el": "Τίτος Κρήτης",
-            "la": "Titus Cretensis",
-            "en": "Titus of Crete",
-            "pl": "Tytus z Krety"
-        }
-    }
+    "links": [
+        "records/patrons/titus/cre"
+    ]
 }

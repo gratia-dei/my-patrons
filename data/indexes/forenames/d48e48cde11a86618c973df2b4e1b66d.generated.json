@@ -13,11 +13,7 @@
             "Chryzant"
         ]
     },
-    "links": {
-        "records/patrons/chrysanthus/dar": {
-            "la": "Chrysanthus de Roma",
-            "en": "Chrysanthus of Rome",
-            "pl": "Chryzant z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/chrysanthus/dar"
+    ]
 }

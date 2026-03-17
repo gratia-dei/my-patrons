@@ -7,12 +7,7 @@
             "Comensoli"
         ]
     },
-    "links": {
-        "records/patrons/gertrudis/com": {
-            "it": "Geltrude Comensoli",
-            "la": "Gertrudis Comensoli",
-            "en": "Gertrude Comensoli",
-            "pl": "Gertruda Comensoli"
-        }
-    }
+    "links": [
+        "records/patrons/gertrudis/com"
+    ]
 }

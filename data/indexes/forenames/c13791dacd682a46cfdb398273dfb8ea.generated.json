@@ -13,11 +13,7 @@
             "Euzebiusz"
         ]
     },
-    "links": {
-        "records/patrons/eusebius/ver": {
-            "la": "Eusebius Vercellensis",
-            "en": "Eusebius of Vercelli",
-            "pl": "Euzebiusz z Vercelli"
-        }
-    }
+    "links": [
+        "records/patrons/eusebius/ver"
+    ]
 }

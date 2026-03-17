@@ -16,11 +16,8 @@
             "Cytyn"
         ]
     },
-    "links": {
-        "records/patrons/cittinus/sci": {
-            "la": "Cittinus de Scillium",
-            "en": "Cittinus of Scillium",
-            "pl": "Cytyn ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/cittinus/sci",
+        "records/patrons/cittinus/sci"
+    ]
 }

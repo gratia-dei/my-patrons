@@ -16,18 +16,8 @@
             "Domenica"
         ]
     },
-    "links": {
-        "records/patrons/maria/man": {
-            "it": "Maria Domenica Mantovani",
-            "la": "Maria Dominica Mantovani",
-            "en": "Maria Dominica Mantovani",
-            "pl": "Maria Dominika Mantovani"
-        },
-        "records/patrons/maria/maz": {
-            "it": "Maria Domenica Mazzarello",
-            "la": "Maria Dominica Mazzarello",
-            "en": "Maria Dominica Mazzarello",
-            "pl": "Maria Dominika Mazzarello"
-        }
-    }
+    "links": [
+        "records/patrons/maria/man",
+        "records/patrons/maria/maz"
+    ]
 }

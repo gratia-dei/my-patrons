@@ -14,11 +14,8 @@
             "Faustyna"
         ]
     },
-    "links": {
-        "records/patrons/maria/kow": {
-            "pl": "Maria Faustyna Kowalska",
-            "la": "Maria Faustina Kowalska",
-            "en": "Maria Faustyna Kowalska"
-        }
-    }
+    "links": [
+        "records/patrons/maria/kow",
+        "records/patrons/maria/kow"
+    ]
 }

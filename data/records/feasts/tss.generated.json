@@ -1,19 +1,7 @@
 {
-    "links": {
-        "records/patrons/cyprianus/car": {
-            "la": "Cyprianus Carthaginensis",
-            "en": "Cyprian of Carthage",
-            "pl": "Cyprian z Kartaginy"
-        },
-        "records/patrons/pantaleon/nic": {
-            "la": "Pantaleon de Nicomedia",
-            "en": "Pantaleon of Nicomedia",
-            "pl": "Pantaleon z Nikomedii"
-        },
-        "records/patrons/speratus/sci": {
-            "la": "Speratus de Scillium",
-            "en": "Speratus of Scillium",
-            "pl": "Sperat ze Scilium"
-        }
-    }
+    "links": [
+        "patrons/cyprianus/car",
+        "patrons/pantaleon/nic",
+        "patrons/speratus/sci"
+    ]
 }

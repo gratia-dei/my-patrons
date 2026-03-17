@@ -15,11 +15,7 @@
             "Cheremon"
         ]
     },
-    "links": {
-        "records/patrons/chaeremon/nil": {
-            "la": "Chaeremon Nilopolitanus",
-            "en": "Chaeremon of Nilopolis",
-            "pl": "Chajremon z Nilopolis"
-        }
-    }
+    "links": [
+        "records/patrons/chaeremon/nil"
+    ]
 }

@@ -20,32 +20,11 @@
             "Étienne"
         ]
     },
-    "links": {
-        "records/patrons/stephanus/cue": {
-            "fr": "Étienne-Théodore Cuenot",
-            "la": "Stephanus Theodorus Cuenot",
-            "en": "Stephen Theodore Cuenot",
-            "pl": "Stefan Teodor Cuenot"
-        },
-        "records/patrons/stephanus/gre": {
-            "pl": "Stefan Grelewski",
-            "la": "Stephanus Grelewski",
-            "en": "Stephen Grelewski"
-        },
-        "records/patrons/stephanus/pro": {
-            "la": "Stephanus protomartyr",
-            "en": "Stephen Protomartyr",
-            "pl": "Szczepan Pramęczennik"
-        },
-        "records/patrons/stephanus/wys": {
-            "pl": "Stefan Wyszyński",
-            "la": "Stephanus Wyszyński",
-            "en": "Stephen Wyszyński"
-        },
-        "records/patrons/stephanus/xys": {
-            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
-            "en": "Stephen of Rome, subdeacon of Xystus II",
-            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/stephanus/cue",
+        "records/patrons/stephanus/gre",
+        "records/patrons/stephanus/pro",
+        "records/patrons/stephanus/wys",
+        "records/patrons/stephanus/xys"
+    ]
 }

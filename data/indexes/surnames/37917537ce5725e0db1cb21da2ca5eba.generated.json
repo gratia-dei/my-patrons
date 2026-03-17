@@ -7,12 +7,7 @@
             "Donders"
         ]
     },
-    "links": {
-        "records/patrons/petrus/don": {
-            "nl": "Patrus Donders",
-            "la": "Petrus Donders",
-            "en": "Peter Donders",
-            "pl": "Piotr Donders"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/don"
+    ]
 }

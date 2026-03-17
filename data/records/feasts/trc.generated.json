@@ -1,22 +1,7 @@
 {
-    "links": {
-        "records/patrons/andreas/apo": {
-            "grc": "Ανδρέας",
-            "la": "Andreas Apostolus",
-            "en": "Andrew the Apostle",
-            "pl": "Andrzej Apostoł"
-        },
-        "records/patrons/lucas/eva": {
-            "el": "Ευαγγελιστής Λουκάς",
-            "la": "Lucas Evangelista",
-            "en": "Luke the Evangelist",
-            "pl": "Łukasz Ewangelista"
-        },
-        "records/patrons/timotheus/eph": {
-            "el": "Τιμόθεος",
-            "la": "Timotheus Ephesinus",
-            "en": "Timothy of Ephesus",
-            "pl": "Tymoteusz z Efezu"
-        }
-    }
+    "links": [
+        "patrons/andreas/apo",
+        "patrons/lucas/eva",
+        "patrons/timotheus/eph"
+    ]
 }

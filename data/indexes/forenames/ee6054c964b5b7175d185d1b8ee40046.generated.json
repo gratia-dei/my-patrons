@@ -17,12 +17,7 @@
             "יְשַׁעְיָהוּ"
         ]
     },
-    "links": {
-        "records/patrons/isaias/pro": {
-            "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
-            "la": "Isaias, propheta",
-            "en": "Isaiah, prophet",
-            "pl": "Izajasz, prorok"
-        }
-    }
+    "links": [
+        "records/patrons/isaias/pro"
+    ]
 }

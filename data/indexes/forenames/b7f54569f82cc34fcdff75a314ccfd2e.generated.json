@@ -17,12 +17,7 @@
             "Giustina"
         ]
     },
-    "links": {
-        "records/patrons/iustina/pat": {
-            "it": "Giustina di Padova",
-            "la": "Iustina Patavina",
-            "en": "Justine of Padua",
-            "pl": "Justyna z Padwy"
-        }
-    }
+    "links": [
+        "records/patrons/iustina/pat"
+    ]
 }

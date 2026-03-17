@@ -7,12 +7,7 @@
             "Bessay de La Voute"
         ]
     },
-    "links": {
-        "records/patrons/ludovica/bes": {
-            "fr": "Louise Bessay de La Voute",
-            "la": "Ludovica Bessay de La Voute",
-            "en": "Louise Bessay de La Voute",
-            "pl": "Ludwika Bessay de La Voute"
-        }
-    }
+    "links": [
+        "records/patrons/ludovica/bes"
+    ]
 }

@@ -13,11 +13,7 @@
             "Floskul"
         ]
     },
-    "links": {
-        "records/patrons/flosculus/aur": {
-            "la": "Flosculus de Aurelianum",
-            "en": "Floscule of Orleans",
-            "pl": "Floskul z Orleanu"
-        }
-    }
+    "links": [
+        "records/patrons/flosculus/aur"
+    ]
 }

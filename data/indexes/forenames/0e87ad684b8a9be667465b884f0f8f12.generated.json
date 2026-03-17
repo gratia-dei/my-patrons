@@ -20,18 +20,10 @@
             "コスメ"
         ]
     },
-    "links": {
-        "records/patrons/cosmas/dam": {
-            "el": "Κοσμᾶς ὁ Αἰγεεύς",
-            "la": "Cosmas Aegaeensis",
-            "en": "Cosmas of Aegeae",
-            "pl": "Kosma z Egei"
-        },
-        "records/patrons/cosmas/tak": {
-            "ja": "コスメ竹屋",
-            "la": "Cosmas Takeya",
-            "en": "Cosmas Takeya",
-            "pl": "Kosma Takeya"
-        }
-    }
+    "links": [
+        "records/patrons/cosmas/dam",
+        "records/patrons/cosmas/dam",
+        "records/patrons/cosmas/tak",
+        "records/patrons/cosmas/tak"
+    ]
 }

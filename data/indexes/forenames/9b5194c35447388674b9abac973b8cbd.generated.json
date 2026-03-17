@@ -21,18 +21,8 @@
             "Ieremia"
         ]
     },
-    "links": {
-        "records/patrons/ieremias/pro": {
-            "he": "ירמיהו",
-            "la": "Ieremias, propheta",
-            "en": "Jeremiah, prophet",
-            "pl": "Jeremiasz, prorok"
-        },
-        "records/patrons/ieremias/val": {
-            "ro": "Ieremia Valahul",
-            "la": "Ieremias de Valachia",
-            "en": "Jeremiah of Wallachia",
-            "pl": "Jeremiasz z Wołoszczyzny"
-        }
-    }
+    "links": [
+        "records/patrons/ieremias/pro",
+        "records/patrons/ieremias/val"
+    ]
 }

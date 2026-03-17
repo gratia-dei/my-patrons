@@ -7,12 +7,7 @@
             "Scarpetti"
         ]
     },
-    "links": {
-        "records/patrons/angelus/sca": {
-            "it": "Angelo Scarpetti",
-            "la": "Angelus Scarpetti",
-            "en": "Angel Scarpetti",
-            "pl": "Anioł Scarpetti"
-        }
-    }
+    "links": [
+        "records/patrons/angelus/sca"
+    ]
 }

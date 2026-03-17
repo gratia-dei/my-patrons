@@ -7,18 +7,8 @@
             "Beltrame Quattrocchi"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/bel": {
-            "it": "Luigi Beltrame Quattrocchi",
-            "la": "Aloysius Beltrame Quattrocchi",
-            "en": "Aloise Beltrame Quattrocchi",
-            "pl": "Alojzy Beltrame Quattrocchi"
-        },
-        "records/patrons/maria/bel": {
-            "it": "Maria Beltrame Quattrocchi",
-            "la": "Maria Beltrame Quattrocchi",
-            "en": "Mary Beltrame Quattrocchi",
-            "pl": "Maria Beltrame Quattrocchi"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/bel",
+        "records/patrons/maria/bel"
+    ]
 }

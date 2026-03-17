@@ -7,11 +7,7 @@
             "Turchan"
         ]
     },
-    "links": {
-        "records/patrons/narcissus/tur": {
-            "pl": "Narcyz Turchan",
-            "la": "Narcissus Turchan",
-            "en": "Narcissus Turchan"
-        }
-    }
+    "links": [
+        "records/patrons/narcissus/tur"
+    ]
 }

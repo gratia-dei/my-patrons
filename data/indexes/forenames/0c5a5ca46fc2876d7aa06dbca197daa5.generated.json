@@ -18,11 +18,9 @@
             "Zita"
         ]
     },
-    "links": {
-        "records/patrons/zita/luc": {
-            "la": "Zita Lucensis",
-            "en": "Zita of Lucca",
-            "pl": "Zyta z Lukki"
-        }
-    }
+    "links": [
+        "records/patrons/zita/luc",
+        "records/patrons/zita/luc",
+        "records/patrons/zita/luc"
+    ]
 }

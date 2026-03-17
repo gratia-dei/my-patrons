@@ -16,12 +16,7 @@
             "Bellarmin"
         ]
     },
-    "links": {
-        "records/patrons/robertus/bel": {
-            "it": "Roberto Bellarmino",
-            "la": "Robertus Bellarminus",
-            "en": "Robert Bellarmine",
-            "pl": "Robert Bellarmin"
-        }
-    }
+    "links": [
+        "records/patrons/robertus/bel"
+    ]
 }

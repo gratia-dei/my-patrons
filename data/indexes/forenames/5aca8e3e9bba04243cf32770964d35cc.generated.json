@@ -17,12 +17,8 @@
             "Bentivoglio"
         ]
     },
-    "links": {
-        "records/patrons/bentivolius/bon": {
-            "it": "Bentivoglio de Bonis",
-            "la": "Bentivolius de Bonis",
-            "en": "Bentivolius of Bonis",
-            "pl": "Bentiwoliusz z Bonis"
-        }
-    }
+    "links": [
+        "records/patrons/bentivolius/bon",
+        "records/patrons/bentivolius/bon"
+    ]
 }

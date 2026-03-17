@@ -17,17 +17,10 @@
             "Schotte"
         ]
     },
-    "links": {
-        "records/patrons/donatus/sco": {
-            "en": "Donatus of Fiesole",
-            "la": "Donatus Scotus",
-            "pl": "Donat z Fiesole"
-        },
-        "records/patrons/ioannes/dun": {
-            "de": "Johannes Duns Scotus",
-            "la": "Ioannes Duns Scotus",
-            "en": "John Duns Scotus",
-            "pl": "Jan Duns Szkot"
-        }
-    }
+    "links": [
+        "records/patrons/donatus/sco",
+        "records/patrons/donatus/sco",
+        "records/patrons/ioannes/dun",
+        "records/patrons/ioannes/dun"
+    ]
 }

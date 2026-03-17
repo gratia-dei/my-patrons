@@ -15,11 +15,8 @@
             "Eksuperiusz"
         ]
     },
-    "links": {
-        "records/patrons/exsuperius/the": {
-            "la": "Exsuperius Legionis Thebanae",
-            "en": "Exuperius of the Theban Legion",
-            "pl": "Eksuperiusz z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/exsuperius/the",
+        "records/patrons/exsuperius/the"
+    ]
 }

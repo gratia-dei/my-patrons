@@ -7,11 +7,7 @@
             "Mysakowski"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/mys": {
-            "pl": "Stanisław Mysakowski",
-            "la": "Stanislaus Mysakowski",
-            "en": "Stanislaus Mysakowski"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/mys"
+    ]
 }

@@ -25,59 +25,15 @@
             "Karoli"
         ]
     },
-    "links": {
-        "records/patrons/carolus/acu": {
-            "it": "Carlo Acutis",
-            "la": "Carolus Acutis",
-            "en": "Charles Acutis",
-            "pl": "Karol Acutis"
-        },
-        "records/patrons/carolus/bon": {
-            "la": "Carolus Bonus",
-            "en": "Charles the Good",
-            "pl": "Karol Dobry"
-        },
-        "records/patrons/carolus/bor": {
-            "it": "Carlo Borromeo",
-            "la": "Carolus Borromeo",
-            "en": "Charles Borromeo",
-            "pl": "Karol Boromeusz"
-        },
-        "records/patrons/carolus/cho": {
-            "ko": "조신철 가롤로",
-            "la": "Carolus Cho Shin-ch’ŏl",
-            "en": "Charles Cho Shin-ch’ŏl",
-            "pl": "Karol Cho Shin-ch’ŏl"
-        },
-        "records/patrons/carolus/fou": {
-            "fr": "Charles de Foucauld",
-            "la": "Carolus de Foucauld",
-            "en": "Charles de Foucauld",
-            "pl": "Karol de Foucauld"
-        },
-        "records/patrons/carolus/gar": {
-            "fr": "Charles Garnier",
-            "la": "Carolus Garnier",
-            "en": "Charles Garnier",
-            "pl": "Karol Garnier"
-        },
-        "records/patrons/carolus/lwa": {
-            "sw": "Karoli Lwanga",
-            "la": "Carolus Lwanga",
-            "en": "Charles Lwanga",
-            "pl": "Karol Lwanga"
-        },
-        "records/patrons/carolus/set": {
-            "it": "Carlo da Sezze",
-            "la": "Carolus de Setia",
-            "en": "Charles of Sezze",
-            "pl": "Karol z Sezze"
-        },
-        "records/patrons/ioannes/cal": {
-            "it": "Giovanni Giuseppe della Croce",
-            "la": "Ioannes Ioseph a Cruce",
-            "en": "John Joseph of the Cross",
-            "pl": "Jan Józef od Krzyża"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/acu",
+        "records/patrons/carolus/bon",
+        "records/patrons/carolus/bor",
+        "records/patrons/carolus/cho",
+        "records/patrons/carolus/fou",
+        "records/patrons/carolus/gar",
+        "records/patrons/carolus/lwa",
+        "records/patrons/carolus/set",
+        "records/patrons/ioannes/cal"
+    ]
 }

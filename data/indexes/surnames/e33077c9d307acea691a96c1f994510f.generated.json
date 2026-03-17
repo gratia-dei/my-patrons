@@ -7,12 +7,7 @@
             "Labouré"
         ]
     },
-    "links": {
-        "records/patrons/catharina/lab": {
-            "fr": "Catherine Labouré",
-            "la": "Catharina Labouré",
-            "en": "Catherine Labouré",
-            "pl": "Katarzyna Labouré"
-        }
-    }
+    "links": [
+        "records/patrons/catharina/lab"
+    ]
 }

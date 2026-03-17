@@ -7,12 +7,7 @@
             "Cuenot"
         ]
     },
-    "links": {
-        "records/patrons/stephanus/cue": {
-            "fr": "Étienne-Théodore Cuenot",
-            "la": "Stephanus Theodorus Cuenot",
-            "en": "Stephen Theodore Cuenot",
-            "pl": "Stefan Teodor Cuenot"
-        }
-    }
+    "links": [
+        "records/patrons/stephanus/cue"
+    ]
 }

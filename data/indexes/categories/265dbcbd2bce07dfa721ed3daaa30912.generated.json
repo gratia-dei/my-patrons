@@ -15,2887 +15,1082 @@
             "męczennica"
         ]
     },
-    "links": {
-        "records/patrons/abundantius/abu": {
-            "la": "Abundantius; cum eo, i.a., Abundius",
-            "en": "Abundantius; with him, i.a., Abundius",
-            "pl": "Abundancjusz; z nim, m.in., Abundiusz"
-        },
-        "records/patrons/abundius/lat": {
-            "la": "Abundius de Latium",
-            "en": "Abundius of Latium",
-            "pl": "Abundiusz z Lacjum"
-        },
-        "records/patrons/achilles/kiw": {
-            "sw": "Achile Kiwanuka",
-            "la": "Achilles Kiwanuka",
-            "en": "Achille Kiwanuka",
-            "pl": "Achilles Kiwanuka"
-        },
-        "records/patrons/acutius/put": {
-            "la": "Acutius Puteolensis",
-            "en": "Acutius of Pozzuoli",
-            "pl": "Akucjusz z Pozzuoli"
-        },
-        "records/patrons/adalbertus/nie": {
-            "pl": "Wojciech Nierychlewski",
-            "la": "Adalbertus Nierychlewski",
-            "en": "Adalbert Nierychlewski"
-        },
-        "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch Adalbert Slavníkovec",
-            "en": "Adalbert of Prague",
-            "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
-        },
-        "records/patrons/adelarius/eob": {
-            "la": "Adelarius; cum eo, i.a., Eobanus",
-            "en": "Adolar; with him, i.a., Eoban",
-            "pl": "Adalariusz; z nim, m.in. Eoban"
-        },
-        "records/patrons/adolphus/lud": {
-            "sw": "Adolfo Mukasa Ludigo",
-            "la": "Adolphus Ludigo Mkasa",
-            "en": "Adolphus Ludigo Mkasa",
-            "pl": "Adolf Ludigo Mkasa"
-        },
-        "records/patrons/aemilianus/kov": {
-            "uk": "Омелян Ковч",
-            "la": "Aemilianus Kovc",
-            "en": "Emilian Kovch",
-            "pl": "Emilian Kowcz"
-        },
-        "records/patrons/aemilius/szr": {
-            "pl": "Emil Szramek",
-            "la": "Aemilius Szramek",
-            "en": "Emil Szramek"
-        },
-        "records/patrons/agapitus/xys": {
-            "la": "Agapitus de Roma, diaconus Xysti Pp. II",
-            "en": "Agapitus of Rome, deacon of Xystus II",
-            "pl": "Agapit z Rzymu, diakon Sykstusa II"
-        },
-        "records/patrons/agatha/cat": {
-            "la": "Agatha Catanensis",
-            "en": "Agatha of Sicily",
-            "pl": "Agata Sycylijska"
-        },
-        "records/patrons/agatha/cho": {
-            "ko": "전경협 아가타",
-            "la": "Agatha Chŏn Kyŏng-hyŏb",
-            "en": "Agatha Chŏn Kyŏng-hyŏb",
-            "pl": "Agata Chŏn Kyŏng-hyŏb"
-        },
-        "records/patrons/agathangelus/anc": {
-            "la": "Agathangelus Ancyranus",
-            "en": "Agathangelus of Ancyra",
-            "pl": "Agatangel z Ankary"
-        },
-        "records/patrons/agnes/rom": {
-            "la": "Agnes Romana",
-            "en": "Agnes of Rome",
-            "pl": "Agnieszka Rzymianka"
-        },
-        "records/patrons/albertus/lov": {
-            "fr": "Albert de Louvain",
-            "la": "Albertus Lovaniensis",
-            "en": "Albert of Louvain",
-            "pl": "Albert z Louvain"
-        },
-        "records/patrons/alexander/ale": {
-            "la": "Alexander Alexandrinus",
-            "en": "Alexander of Alexandria",
-            "pl": "Aleksander z Aleksandrii"
-        },
-        "records/patrons/alexander/dor": {
-            "it": "Alessandro Dordi",
-            "la": "Alexander Dordi",
-            "en": "Alexander Dordi",
-            "pl": "Aleksander Dordi"
-        },
-        "records/patrons/alexander/fel": {
-            "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/alexius/zar": {
-            "uk": "Олексій Васильович Зарицький",
-            "la": "Alexius Zaryckyj",
-            "en": "Lex Zaryckyy",
-            "pl": "Aleksy Zarycki"
-        },
-        "records/patrons/alicia/kot": {
-            "pl": "Alicja Kotowska",
-            "la": "Alicia Kotowska",
-            "en": "Alice Kotowska"
-        },
-        "records/patrons/aloysius/cam": {
-            "es": "Luis Campos Górriz",
-            "la": "Aloysius Campos Górriz",
-            "en": "Aloise Campos Górriz",
-            "pl": "Alojzy Campos Górriz"
-        },
-        "records/patrons/aloysius/lig": {
-            "pl": "Alojzy Liguda",
-            "la": "Aloise Liguda",
-            "en": "Aloysius Liguda"
-        },
-        "records/patrons/alphonsus/maz": {
-            "pl": "Alfons Maria Mazurek",
-            "la": "Alphonsus Maria Mazurek",
-            "en": "Alphonsus Maria Mazurek"
-        },
-        "records/patrons/ambrosius/kib": {
-            "sw": "Ambrosio Kibuuka",
-            "la": "Ambrosius Kibuuka",
-            "en": "Ambrose Kibuuka",
-            "pl": "Ambroży Kibuuka"
-        },
-        "records/patrons/ammonarion/ale": {
-            "la": "Ammonarion Alexandrina",
-            "en": "Ammonarion of Alexandria",
-            "pl": "Amonaria z Aleksandrii"
-        },
-        "records/patrons/ammonarion/alt": {
-            "la": "Ammonarion Alexandrina, altera",
-            "en": "Ammonarion of Alexandria, another",
-            "pl": "Amonaria z Aleksandrii, druga"
-        },
-        "records/patrons/amundus/eob": {
-            "la": "Amundus; cum eo, i.a., Eobanus",
-            "en": "Amund; with him, i.a., Eoban",
-            "pl": "Hamund; z nim, m.in. Eoban"
-        },
-        "records/patrons/anastasia/sir": {
-            "la": "Anastasia Sirmiensis",
-            "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Sirmium"
-        },
-        "records/patrons/anatolius/kir": {
-            "sw": "Luka Banabakintu",
-            "la": "Lucas Banabakintu",
-            "en": "Luke Banabakintu",
-            "pl": "Łukasz Banabakintu"
-        },
-        "records/patrons/anatolius/pho": {
-            "la": "Anatolius de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Anatolius of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Anatol z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/andreas/alr": {
-            "fr": "André-Abel Alricy",
-            "la": "Andreas Abel Alricy",
-            "en": "Andrew Abel Alricy",
-            "pl": "Andrzej Abel Alricy"
-        },
-        "records/patrons/andreas/apo": {
-            "grc": "Ανδρέας",
-            "la": "Andreas Apostolus",
-            "en": "Andrew the Apostle",
-            "pl": "Andrzej Apostoł"
-        },
-        "records/patrons/andreas/bob": {
-            "pl": "Andrzej Bobola",
-            "la": "Andreas Bobola",
-            "en": "Andrew Bobola"
-        },
-        "records/patrons/andreas/kim": {
-            "ko": "김대건 안드레아",
-            "la": "Andreas Kim Tae-gŏn",
-            "en": "Andrew Kim Taegon",
-            "pl": "Andrzej Kim Tae-gŏn"
-        },
-        "records/patrons/andreas/sov": {
-            "pt": "André de Soveral",
-            "la": "Andreas de Soveral",
-            "en": "Andrew de Soveral",
-            "pl": "Andrzej de Soveral"
-        },
-        "records/patrons/anicetus/kop": {
-            "pl": "Anicet Kopliński",
-            "la": "Anicetus Koplinski",
-            "en": "Anicetus Kopliński"
-        },
-        "records/patrons/anna/kim": {
-            "ko": "김장금 안나",
-            "la": "Anna Kim Chang-gŭm",
-            "en": "Anna Kim Chang-gŭm",
-            "pl": "Anna Kim Chang-gŭm"
-        },
-        "records/patrons/ansgarius/rom": {
-            "es": "Óscar Arnulfo Romero y Galdámez",
-            "la": "Ansgarius Arnulphus Romero Galdámez",
-            "en": "Oscar Arnulf Romero Galdámez",
-            "pl": "Oskar Arnulf Romero Galdámez"
-        },
-        "records/patrons/anthimus/aeg": {
-            "la": "Anthimus Aegaeensis",
-            "en": "Anthimos of Aegeae",
-            "pl": "Antym z Egei"
-        },
-        "records/patrons/antiochus/ana": {
-            "la": "Antiochus Anastasiopolitanus",
-            "en": "Antiochus of Anastasiopolis",
-            "pl": "Antioch z Anastasiopolis"
-        },
-        "records/patrons/antonia/mes": {
-            "it": "Antonia Mesina",
-            "la": "Antonia Mesina",
-            "en": "Anthonia Mesina",
-            "pl": "Antonia Mesina"
-        },
-        "records/patrons/antoninus/apa": {
-            "la": "Antoninus de Apamea",
-            "en": "Antoninus of Apamea",
-            "pl": "Antonin z Apamei"
-        },
-        "records/patrons/antoninus/mar": {
-            "la": "Antoninus de Roma",
-            "en": "Anton of Rome",
-            "pl": "Antonin z Rzymu"
-        },
-        "records/patrons/antoninus/nic": {
-            "la": "Antoninus Caesariensis",
-            "en": "Antoninus of Caesarea",
-            "pl": "Antonin z Cezarei"
-        },
-        "records/patrons/antonius/baj": {
-            "pl": "Antoni Bajewski",
-            "la": "Antonius Bajewski",
-            "en": "Anthony Bajewski"
-        },
-        "records/patrons/antonius/dan": {
-            "fr": "Antoine Daniel",
-            "la": "Antonius Daniel",
-            "en": "Anthony Daniel",
-            "pl": "Antoni Daniel"
-        },
-        "records/patrons/antonius/dav": {
-            "fr": "Antoine Daveluy",
-            "la": "Antonius Daveluy",
-            "en": "Anthony Daveluy",
-            "pl": "Antoni Daveluy"
-        },
-        "records/patrons/antonius/mar": {
-            "es": "Antonio Martín Hernández",
-            "la": "Antonius Martín Hernández",
-            "en": "Anthony Martín Hernández",
-            "pl": "Antoni Martín Hernández"
-        },
-        "records/patrons/antonius/nag": {
-            "ja": "ルドビコ茨木",
-            "la": "Antonius de Nagasaki",
-            "en": "Anthony of Nagasaki",
-            "pl": "Antoni z Nagasaki"
-        },
-        "records/patrons/antonius/rew": {
-            "pl": "Antoni Rewera",
-            "la": "Antonius Rewera",
-            "en": "Anthony Rewera"
-        },
-        "records/patrons/antonius/swi": {
-            "pl": "Antoni Świadek",
-            "la": "Antonius Świadek",
-            "en": "Anthony Świadek"
-        },
-        "records/patrons/antonius/ulm": {
-            "pl": "Antoni Ulma",
-            "la": "Antonius Ulma",
-            "en": "Anthony Ulma"
-        },
-        "records/patrons/antonius/zaw": {
-            "pl": "Antoni Zawistowski",
-            "la": "Anthony Zawistowski",
-            "en": "Antonius Zawistowski"
-        },
-        "records/patrons/apollonia/ale": {
-            "la": "Apollonia de Alexandria",
-            "en": "Apollonia of Alexandria",
-            "pl": "Apolonia z Aleksandrii"
-        },
-        "records/patrons/aquilinus/sci": {
-            "la": "Aquilinus de Scillium",
-            "en": "Aquilinus of Scillium",
-            "pl": "Akwilin ze Scilium"
-        },
-        "records/patrons/aristarchus/the": {
-            "el": "Αρίσταρχος ο Θεσσαλονικεύς",
-            "la": "Aristarchus Thessalonicensis",
-            "en": "Aristarchus of Thessalonica",
-            "pl": "Arystarch z Tesaloniki"
-        },
-        "records/patrons/ateus/ale": {
-            "la": "Ateus Alexandrinus",
-            "en": "Ateus of Alexandria",
-            "pl": "Ateusz z Aleksandrii"
-        },
-        "records/patrons/atevulfus/eob": {
-            "la": "Atevulfus; cum eo, i.a., Eobanus",
-            "en": "Atevulfus; with him, i.a., Eoban",
-            "pl": "Hatewulf; z nim, m.in. Eoban"
-        },
-        "records/patrons/augustinus/cal": {
-            "es": "Agustín Caloca Cortés",
-            "la": "Augustinus Caloca Cortés",
-            "en": "Augustine Caloca Cortés",
-            "pl": "Augustyn Caloca Cortés"
-        },
-        "records/patrons/augustinus/gar": {
-            "es": "Agustín García Calvo",
-            "la": "Augustinus García Calvo",
-            "en": "Augustine García Calvo",
-            "pl": "Augustyn García Calvo"
-        },
-        "records/patrons/augustinus/zha": {
-            "zh": "趙榮思定",
-            "la": "Augustinus Zhao Rong",
-            "en": "Augustine Zhao Rong",
-            "pl": "Augustyn Zhao Rong"
-        },
-        "records/patrons/aurelius/sab": {
-            "la": "Aurelius de Corduba; cum eo, i.a., Sabigothon Natalia",
-            "en": "Aurelius of Cordoba; with him, i.a., Sabigothon Natalia",
-            "pl": "Aureliusz z Kordoby; z nim, m.in., Sabigotona Natalia"
-        },
-        "records/patrons/auxentius/cae": {
-            "la": "Auxentius Caesariensis; cum eo, i.a., Theotimus",
-            "en": "Auxentius of Caesarea; with him, i.a., Theotimus",
-            "pl": "Auksenty z Cezarei; z nim, m.in., Teotym"
-        },
-        "records/patrons/barbara/nic": {
-            "la": "Barbara Nicomedensis",
-            "en": "Barbara of Nicomedia",
-            "pl": "Barbara z Nikomedii"
-        },
-        "records/patrons/barbara/ulm": {
-            "pl": "Barbara Ulma",
-            "la": "Barbara Ulma",
-            "en": "Barbara Ulma"
-        },
-        "records/patrons/barnabas/apo": {
-            "la": "Barnabas Apostolus",
-            "en": "Barnabas the Apostle",
-            "pl": "Barnaba Apostoł"
-        },
-        "records/patrons/bartholomaeus/apo": {
-            "la": "Bartholomaeus Apostolus",
-            "en": "Bartholomew the Apostle",
-            "pl": "Bartłomiej Apostoł"
-        },
-        "records/patrons/basilius/ant": {
-            "la": "Basilius Antiochenus",
-            "en": "Basil of Antioch",
-            "pl": "Bazyli z Antiochii"
-        },
-        "records/patrons/benignus/div": {
-            "fr": "Bénigne de Dijon",
-            "la": "Benignus Divionensis",
-            "en": "Benignus of Dijon",
-            "pl": "Benigny z Dijon"
-        },
-        "records/patrons/benignus/tud": {
-            "it": "Benigno da Todi",
-            "la": "Benignus Tudertinus",
-            "en": "Benignus of Todi",
-            "pl": "Benignus z Todi"
-        },
-        "records/patrons/besas/ale": {
-            "la": "Besas Alexandrinus",
-            "en": "Besas of Alexandria",
-            "pl": "Bezas z Aleksandrii"
-        },
-        "records/patrons/blasius/seb": {
-            "la": "Blasius de Sebaste",
-            "en": "Blaise of Sebaste",
-            "pl": "Błażej z Sebasty"
-        },
-        "records/patrons/boleslaus/str": {
-            "pl": "Bolesław Strzelecki",
-            "la": "Boleslaus Strzelecki",
-            "en": "Boleslaus Strzelecki"
-        },
-        "records/patrons/bonaventura/nag": {
-            "ja": "ボナベントゥラ",
-            "la": "Bonaventura de Nagasaki",
-            "en": "Bonaventura of Nagasaki",
-            "pl": "Bonawentura z Nagasaki"
-        },
-        "records/patrons/bonifatius/win": {
-            "la": "Bonifatius Winfridus",
-            "en": "Boniface Wynfreth",
-            "pl": "Bonifacy Wynfryd"
-        },
-        "records/patrons/bonifatius/zuk": {
-            "pl": "Bonifacy Żukowski",
-            "la": "Bonifatius Zukowski",
-            "en": "Boniface Zukowski"
-        },
-        "records/patrons/bosa/eob": {
-            "la": "Bosa; cum eo, i.a., Eobanus",
-            "en": "Bosa; with him, i.a., Eoban",
-            "pl": "Boza; z nim, m.in. Eoban"
-        },
-        "records/patrons/bronislaus/kom": {
-            "pl": "Bronisław Komorowski",
-            "la": "Bronislaus Komorowski",
-            "en": "Bronislaus Komorowski"
-        },
-        "records/patrons/bronislaus/kos": {
-            "pl": "Bronisław Kostkowski",
-            "la": "Bronislaus Kostkowski",
-            "en": "Bronislaus Kostkowski"
-        },
-        "records/patrons/bruno/ser": {
-            "sw": "Bruno Sserunkuma",
-            "la": "Bruno Seronuma",
-            "en": "Bruno Sserunkuma",
-            "pl": "Bruno Sserunkuma"
-        },
-        "records/patrons/caecilia/rom": {
-            "la": "Caecilia Romana",
-            "en": "Cecilia of Rome",
-            "pl": "Cecylia z Rzymu"
-        },
-        "records/patrons/caelestina/far": {
-            "pl": "Celestyna Faron",
-            "la": "Caelestina Faron",
-            "en": "Celestine Faron"
-        },
-        "records/patrons/caerealis/rom": {
-            "la": "Caerealis de Roma",
-            "en": "Cereal of Rome",
-            "pl": "Cerealis z Rzymu"
-        },
-        "records/patrons/caesarius/tar": {
-            "it": "Cesario di Terracina",
-            "la": "Caesarius Terracinensis",
-            "en": "Caesarius of Terracina",
-            "pl": "Cezary z Terraciny"
-        },
-        "records/patrons/candidus/the": {
-            "la": "Candidus Legionis Thebanae",
-            "en": "Candidus of the Theban Legion",
-            "pl": "Kandyd z Legii Tebańskiej"
-        },
-        "records/patrons/caritas/rom": {
-            "la": "Caritas de Roma",
-            "en": "Charity of Rome",
-            "pl": "Miłość z Rzymu"
-        },
-        "records/patrons/carola/luc": {
-            "fr": "Charlotte Lucas",
-            "la": "Carola Lucas",
-            "en": "Charlotte Lucas",
-            "pl": "Szarlota Lucas"
-        },
-        "records/patrons/carolina/koz": {
-            "pl": "Karolina Kózka",
-            "la": "Carolina Kózka",
-            "en": "Caroline Kózka"
-        },
-        "records/patrons/carolus/bon": {
-            "la": "Carolus Bonus",
-            "en": "Charles the Good",
-            "pl": "Karol Dobry"
-        },
-        "records/patrons/carolus/cho": {
-            "ko": "조신철 가롤로",
-            "la": "Carolus Cho Shin-ch’ŏl",
-            "en": "Charles Cho Shin-ch’ŏl",
-            "pl": "Karol Cho Shin-ch’ŏl"
-        },
-        "records/patrons/carolus/gar": {
-            "fr": "Charles Garnier",
-            "la": "Carolus Garnier",
-            "en": "Charles Garnier",
-            "pl": "Karol Garnier"
-        },
-        "records/patrons/carolus/lwa": {
-            "sw": "Karoli Lwanga",
-            "la": "Carolus Lwanga",
-            "en": "Charles Lwanga",
-            "pl": "Karol Lwanga"
-        },
-        "records/patrons/casimirus/gre": {
-            "pl": "Kazimierz Grelewski",
-            "la": "Casimirus Grelewski",
-            "en": "Casimir Grelewski"
-        },
-        "records/patrons/casimirus/syk": {
-            "pl": "Kazimierz Sykulski",
-            "la": "Casimirus Sykulski",
-            "en": "Casimir Sykulski"
-        },
-        "records/patrons/catharina/ale": {
-            "la": "Catharina Alexandrina",
-            "en": "Catherine of Alexandria",
-            "pl": "Katarzyna Aleksandryjska"
-        },
-        "records/patrons/catharina/ver": {
-            "fr": "Catherine du Verdier de La Sorinière",
-            "la": "Catharina du Verdier de La Sorinière",
-            "en": "Catherine du Verdier de La Sorinière",
-            "pl": "Katarzyna du Verdier de La Sorinière"
-        },
-        "records/patrons/catharina/yiv": {
-            "ko": "이 가타리나",
-            "la": "Catharina Yi",
-            "en": "Cathrine Yi",
-            "pl": "Katarzyna Yi"
-        },
-        "records/patrons/ceslaus/joz": {
-            "pl": "Czesław Jóźwiak",
-            "la": "Ceslaus Jóźwiak",
-            "en": "Czesław Jóźwiak"
-        },
-        "records/patrons/chaeremon/nil": {
-            "la": "Chaeremon Nilopolitanus",
-            "en": "Chaeremon of Nilopolis",
-            "pl": "Chajremon z Nilopolis"
-        },
-        "records/patrons/christina/per": {
-            "fa": "کریستینای ایرانی",
-            "la": "Christina Persica",
-            "en": "Christina of Persia",
-            "pl": "Krystyna z Persji"
-        },
-        "records/patrons/christophorus/lyc": {
-            "la": "Christophorus Lyciensis",
-            "en": "Christopher of Lycia",
-            "pl": "Krzysztof z Licji"
-        },
-        "records/patrons/christophorus/mag": {
-            "es": "Cristóbal Magallanes Jara",
-            "la": "Christophorus Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
-            "pl": "Krzysztof Magallanes Jara"
-        },
-        "records/patrons/chrysanthus/dar": {
-            "la": "Chrysanthus de Roma",
-            "en": "Chrysanthus of Rome",
-            "pl": "Chryzant z Rzymu"
-        },
-        "records/patrons/cittinus/sci": {
-            "la": "Cittinus de Scillium",
-            "en": "Cittinus of Scillium",
-            "pl": "Cytyn ze Scilium"
-        },
-        "records/patrons/claudius/mar": {
-            "la": "Claudius de Roma",
-            "en": "Claude of Rome",
-            "pl": "Klaudiusz z Rzymu"
-        },
-        "records/patrons/clemens/aga": {
-            "la": "Clemens Ancyranus",
-            "en": "Clement of Ancyra",
-            "pl": "Klemens z Ankary"
-        },
-        "records/patrons/clemens/sep": {
-            "uk": "Климентій Шептицький",
-            "la": "Clemens Šeptyckyj",
-            "en": "Clement Sheptytsky",
-            "pl": "Klemens Szeptycki"
-        },
-        "records/patrons/clementina/nen": {
-            "fr": "Clémentine Anuarite Nengapeta",
-            "la": "Clementina Nengapeta Anuarite",
-            "en": "Clementine Anuarite Nengapeta",
-            "pl": "Klementyna Anuarita Nengapeta"
-        },
-        "records/patrons/columba/kim": {
-            "ko": "김효임 골룸바",
-            "la": "Columba Kim Hyo-im",
-            "en": "Columba Kim Hyo-im",
-            "pl": "Kolumba Kim Hyo-im"
-        },
-        "records/patrons/cornelius/1pp": {
-            "la": "Cornelius Pp.",
-            "en": "Cornelius, pope",
-            "pl": "Korneliusz, papież"
-        },
-        "records/patrons/cosmas/dam": {
-            "el": "Κοσμᾶς ὁ Αἰγεεύς",
-            "la": "Cosmas Aegaeensis",
-            "en": "Cosmas of Aegeae",
-            "pl": "Kosma z Egei"
-        },
-        "records/patrons/cosmas/tak": {
-            "ja": "コスメ竹屋",
-            "la": "Cosmas Takeya",
-            "en": "Cosmas Takeya",
-            "pl": "Kosma Takeya"
-        },
-        "records/patrons/crescentianus/car": {
-            "la": "Crescentianus Carthaginensis",
-            "en": "Crescentianus of Carthage",
-            "pl": "Krescencjan z Kartaginy"
-        },
-        "records/patrons/crispina/tha": {
-            "la": "Crispina Thagorensis",
-            "en": "Crispina of Numidia",
-            "pl": "Kryspina z Numidii"
-        },
-        "records/patrons/cyprianus/car": {
-            "la": "Cyprianus Carthaginensis",
-            "en": "Cyprian of Carthage",
-            "pl": "Cyprian z Kartaginy"
-        },
-        "records/patrons/cyriaca/pho": {
-            "la": "Cyriaca de Roma; cum ea, i.a., Photina Samaritana",
-            "en": "Cyriaca of Rome; with her, i.a., Photine the Samaritan",
-            "pl": "Cyriaka z Rzymu; z nią, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/cyriacus/seb": {
-            "la": "Cyriacus de Sebaste",
-            "en": "Cyriacus of Sebaste",
-            "pl": "Cyriak z Sebasty"
-        },
-        "records/patrons/cyrinius/mar": {
-            "la": "Cyrinius de Roma",
-            "en": "Cyrinius of Rome",
-            "pl": "Cyriniusz z Rzymu"
-        },
-        "records/patrons/damianus/cos": {
-            "el": "Δαμιανός ὁ Αἰγεεύς",
-            "la": "Damianus Aegaeensis",
-            "en": "Damian of Aegeae",
-            "pl": "Damian z Egei"
-        },
-        "records/patrons/daria/chr": {
-            "la": "Daria de Roma",
-            "en": "Daria of Rome",
-            "pl": "Daria z Rzymu"
-        },
-        "records/patrons/david/oke": {
-            "sw": "Daudi Okelo",
-            "la": "David Okelo",
-            "en": "David Okelo",
-            "pl": "Dawid Okelo"
-        },
-        "records/patrons/desiderius/ben": {
-            "la": "Desiderius Beneventanus",
-            "en": "Desiderius of Benevento",
-            "pl": "Dezydery z Benewentu"
-        },
-        "records/patrons/didacus/vit": {
-            "es": "Diego Luis de San Vitores",
-            "la": "Didacus Aloysius de San Vitores",
-            "en": "Didacus Aloise de San Vitores",
-            "pl": "Dydak Alojzy de San Vitores"
-        },
-        "records/patrons/dionysia/ale": {
-            "la": "Dionysia Alexandrina",
-            "en": "Dionysia of Alexandria",
-            "pl": "Dionizja z Aleksandrii"
-        },
-        "records/patrons/dionysius/aqu": {
-            "it": "Dionigi da Aquileia",
-            "la": "Dionysius de Aquileia",
-            "en": "Denis of Aquileia",
-            "pl": "Dionizy z Akwilei"
-        },
-        "records/patrons/dionysius/are": {
-            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
-            "la": "Dionysius Areopagita",
-            "en": "Denis the Areopagite",
-            "pl": "Dionizy Areopagita"
-        },
-        "records/patrons/dionysius/lut": {
-            "fr": "Denis de Paris, avec lui, a.o., Rustique",
-            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
-            "en": "Denis of Paris, with him, i.a., Rusticus",
-            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
-        },
-        "records/patrons/dominicus/car": {
-            "pt": "Domingos Carvalho",
-            "la": "Dominicus Carvalho",
-            "en": "Dominic Carvalho",
-            "pl": "Dominik Carvalho"
-        },
-        "records/patrons/domninus/cae": {
-            "la": "Domninus Caesariensis",
-            "en": "Domninus of Caesarea",
-            "pl": "Domnin z Cezarei"
-        },
-        "records/patrons/donata/sci": {
-            "la": "Donata de Scillium",
-            "en": "Donata of Scillium",
-            "pl": "Donata ze Scilium"
-        },
-        "records/patrons/dorothea/cae": {
-            "la": "Dorothea de Caesarea",
-            "en": "Dorothy of Caesarea",
-            "pl": "Dorota z Cezarei"
-        },
-        "records/patrons/eduardus/col": {
-            "en": "Edward Coleman",
-            "la": "Eduardus Coleman",
-            "pl": "Edward Coleman"
-        },
-        "records/patrons/eduardus/grz": {
-            "pl": "Edward Grzymała",
-            "la": "Eduardus Grzymała",
-            "en": "Edward Grzymała"
-        },
-        "records/patrons/eduardus/kaz": {
-            "pl": "Edward Kaźmierski",
-            "la": "Edwardus Kaźmierski",
-            "en": "Edward Kazmierski"
-        },
-        "records/patrons/eduardus/kli": {
-            "pl": "Edward Klinik",
-            "la": "Eduardus Klinik",
-            "en": "Edward Klinik"
-        },
-        "records/patrons/eduardus/osb": {
-            "en": "Edward Osbaldeston",
-            "la": "Eduardus Osbaldeston",
-            "pl": "Edward Osbaldeston"
-        },
-        "records/patrons/eduardus/rex": {
-            "en": "Edward the Martyr",
-            "la": "Eduardus Martyr",
-            "pl": "Edward Męczennik"
-        },
-        "records/patrons/eduardus/she": {
-            "en": "Edward Shelley",
-            "la": "Eduardus Shelley",
-            "pl": "Edward Shelley"
-        },
-        "records/patrons/eleutherius/dio": {
-            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
-            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
-            "en": "Eleutherius of Paris; with him, i.a., Denis",
-            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
-        },
-        "records/patrons/eleutherius/nic": {
-            "la": "Eleutherius de Nicomedia",
-            "en": "Eleutherius of Nicomedia",
-            "pl": "Eleuteriusz z Nikomedii"
-        },
-        "records/patrons/ellurus/eob": {
-            "la": "Ellurus; cum eo, i.a., Eobanus",
-            "en": "Ellurus; with him, i.a., Eoban",
-            "pl": "Elleher; z nim, m.in. Eoban"
-        },
-        "records/patrons/emmanuel/lev": {
-            "vi": "Emanuen Lê Văn Phụng",
-            "la": "Emmanuel Lê Văn Phụng",
-            "en": "Emmanuel Lê Văn Phụng",
-            "pl": "Emanuel Lê Văn Phụng"
-        },
-        "records/patrons/emmerammus/rat": {
-            "la": "Emmeramus Ratisbonensis",
-            "en": "Emmeram of Regensburg",
-            "pl": "Emmeram z Ratyzbony"
-        },
-        "records/patrons/eobanus/bon": {
-            "la": "Eobanus de Ultraiectum",
-            "en": "Eoban of Utrecht",
-            "pl": "Eoban z Utrechtu"
-        },
-        "records/patrons/epimachus/ale": {
-            "la": "Epimachus Alexandrinus",
-            "en": "Epimachus of Alexandria",
-            "pl": "Epimach z Aleksandrii"
-        },
-        "records/patrons/erasmus/for": {
-            "la": "Erasmus de Formia",
-            "en": "Erasmus of Formia",
-            "pl": "Erazm z Formii"
-        },
-        "records/patrons/eulalia/eme": {
-            "es": "Eulalia de Mérida",
-            "la": "Eulalia de Mérida",
-            "en": "Eulalia of Mérida",
-            "pl": "Eulalia z Méridy"
-        },
-        "records/patrons/eulogius/cor": {
-            "es": "Eulogio de Córdoba",
-            "la": "Eulogius de Corduba",
-            "en": "Eulogius of Cordoba",
-            "pl": "Eulogiusz z Kordoby"
-        },
-        "records/patrons/eunus/iul": {
-            "la": "Eunus Alexandrinus",
-            "en": "Eunus of Alexandria",
-            "pl": "Euniusz z Aleksandrii"
-        },
-        "records/patrons/euprepius/aeg": {
-            "la": "Euprepius Aegaeensis",
-            "en": "Euprepius of Aegeae",
-            "pl": "Euprepiusz z Egei"
-        },
-        "records/patrons/eusebius/ver": {
-            "la": "Eusebius Vercellensis",
-            "en": "Eusebius of Vercelli",
-            "pl": "Euzebiusz z Vercelli"
-        },
-        "records/patrons/euticius/put": {
-            "la": "Euticius Puteolensis",
-            "en": "Eutyches of Pozzuoli",
-            "pl": "Eutyches z Pozzuoli"
-        },
-        "records/patrons/exsuperius/the": {
-            "la": "Exsuperius Legionis Thebanae",
-            "en": "Exuperius of the Theban Legion",
-            "pl": "Eksuperiusz z Legii Tebańskiej"
-        },
-        "records/patrons/ezechiel/pro": {
-            "he": "יחזקאל הנביא",
-            "la": "Ezechiel, propheta",
-            "en": "Ezekiel, prophet",
-            "pl": "Ezechiel, prorok"
-        },
-        "records/patrons/faustinus/sim": {
-            "la": "Faustinus, cum eo, i.a., Simplicius",
-            "en": "Faustinus; with him, i.a., Simplicius",
-            "pl": "Faustyn; z nim, m.in. Symplicjusz"
-        },
-        "records/patrons/felicianus/car": {
-            "la": "Felicianus Carthaginiensis",
-            "en": "Felician of Carthage",
-            "pl": "Felicjan z Kartaginy"
-        },
-        "records/patrons/felicissimus/rog": {
-            "la": "Felicissimus Carthaginensis",
-            "en": "Felicissimus of Carthage",
-            "pl": "Felicyssym z Kartaginy"
-        },
-        "records/patrons/felicissimus/xys": {
-            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
-            "en": "Felicissimus of Rome, deacon of Xystus II",
-            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
-        },
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
-        },
-        "records/patrons/felicitas/pri": {
-            "fr": "Félicité Pricet",
-            "la": "Felicitas Pricet",
-            "en": "Felicity Pricet",
-            "pl": "Felicyta Pricet"
-        },
-        "records/patrons/felicitas/rom": {
-            "la": "Felicitas de Roma",
-            "en": "Felicity of Rome",
-            "pl": "Felicyta z Rzymu"
-        },
-        "records/patrons/felix/2ap": {
-            "la": "Felix II, antipapa",
-            "en": "Felix II, antipope",
-            "pl": "Feliks II, antypapież"
-        },
-        "records/patrons/felix/aqu": {
-            "it": "Felice da Aquileia",
-            "la": "Felix de Aquileia",
-            "en": "Felix of Aquileia",
-            "pl": "Feliks z Akwilei"
-        },
-        "records/patrons/felix/lil": {
-            "la": "Felix de Corduba; cum eo, i.a., Liliosa",
-            "en": "Felix of Cordoba; with him, i.a., Liliosa",
-            "pl": "Feliks z Kordoby; z nim, m.in., Lilioza"
-        },
-        "records/patrons/felix/phi": {
-            "la": "Felix; cum eo, i.a., Philippus; tamquam Septem Fratres",
-            "en": "Felix; with him, i.a., Philip; as Seven Brothers",
-            "pl": "Feliks; z nim, m.in., Filip; jako Siedmiu Braci"
-        },
-        "records/patrons/felix/rom": {
-            "la": "Felix de Roma",
-            "en": "Felix of Rome",
-            "pl": "Feliks z Rzymu"
-        },
-        "records/patrons/felix/sci": {
-            "la": "Felix de Scillium",
-            "en": "Felix of Scillium",
-            "pl": "Feliks ze Scilium"
-        },
-        "records/patrons/festus/ben": {
-            "la": "Festus Beneventanus",
-            "en": "Festus of Benevento",
-            "pl": "Festus z Benewentu"
-        },
-        "records/patrons/fidelis/sig": {
-            "de": "Fidelis von Sigmaringen",
-            "la": "Fidelis de Sigmaringa",
-            "en": "Fidelis of Sigmaringen",
-            "pl": "Fidelis z Sigmaringen"
-        },
-        "records/patrons/fides/rom": {
-            "la": "Fides de Roma",
-            "en": "Faith of Rome",
-            "pl": "Wiara z Rzymu"
-        },
-        "records/patrons/flavius/cle": {
-            "la": "Flavius Clemens",
-            "en": "Flavius Clemens",
-            "pl": "Flawiusz Klemens"
-        },
-        "records/patrons/florianus/lau": {
-            "la": "Florianus Lauriacensis",
-            "en": "Florian of Lauriacum",
-            "pl": "Florian z Lauriacum"
-        },
-        "records/patrons/florianus/ste": {
-            "pl": "Florian Stępniak",
-            "la": "Florianus Stępniak",
-            "en": "Florian Stępniak"
-        },
-        "records/patrons/franciscus/ada": {
-            "ja": "フランシスコ吉",
-            "la": "Franciscus Adauctus de Nagasaki",
-            "en": "Francis Kichi",
-            "pl": "Franciszek Kichi"
-        },
-        "records/patrons/franciscus/bla": {
-            "es": "Francisco Blanco",
-            "la": "Franciscus Blanco",
-            "en": "Francis Blanco",
-            "pl": "Franciszek Blanco"
-        },
-        "records/patrons/franciscus/drz": {
-            "pl": "Franciszek Drzewiecki",
-            "la": "Franciscus Drzewiecki",
-            "en": "Francis Drzewiecki"
-        },
-        "records/patrons/franciscus/kes": {
-            "pl": "Franciszek Kęsy",
-            "la": "Franciscus Kęsy",
-            "en": "Franciszek Kęsy"
-        },
-        "records/patrons/franciscus/mea": {
-            "ja": "フランシスコ医師",
-            "la": "Franciscus de Meako",
-            "en": "Francis of Meako",
-            "pl": "Franciszek z Meako"
-        },
-        "records/patrons/franciscus/par": {
-            "es": "Francisco de San Miguel de la Parilla",
-            "la": "Franciscus a Sancto Michaele de la Parilla",
-            "en": "Francis of Saint Michael de la Parilla",
-            "pl": "Franciszek od św. Michała de la Parilla"
-        },
-        "records/patrons/franciscus/rog": {
-            "pl": "Franciszek Rogaczewski",
-            "la": "Franciscus Rogaczewski",
-            "en": "Francis Rogaczewski"
-        },
-        "records/patrons/franciscus/ros": {
-            "pl": "Franciszek Rosłaniec",
-            "la": "Franciscus Rosłaniec",
-            "en": "Francis Rosłaniec"
-        },
-        "records/patrons/franciscus/str": {
-            "pl": "Franciszek Stryjas",
-            "la": "Franciscus Stryjas",
-            "en": "Francis Stryjas"
-        },
-        "records/patrons/franciscus/ulm": {
-            "pl": "Franciszek Ulma",
-            "la": "Franciscus Ulma",
-            "en": "Francis Ulma"
-        },
-        "records/patrons/gabriel/duf": {
-            "fr": "Gabriel Taurin Dufresse",
-            "la": "Gabriel Taurinus Dufresse",
-            "en": "Gabriel Taurin Dufresse",
-            "pl": "Gabriel Taurin Dufresse"
-        },
-        "records/patrons/gabriel/lal": {
-            "fr": "Gabriel Lalemant",
-            "la": "Gabriel Lalemant",
-            "en": "Gabriel Lalemant",
-            "pl": "Gabriel Lalemant"
-        },
-        "records/patrons/gabriel/nag": {
-            "ja": "ガブリエル",
-            "la": "Gabriel de Nagasaki",
-            "en": "Gabriel of Nagasaki",
-            "pl": "Gabriel z Nagasaki"
-        },
-        "records/patrons/generalis/car": {
-            "la": "Generalis Carthaginensis",
-            "en": "Generalis of Carthage",
-            "pl": "Generalis z Kartaginy"
-        },
-        "records/patrons/generosa/sci": {
-            "la": "Generosa de Scillium",
-            "en": "Generosa of Scillium",
-            "pl": "Generoza ze Scilium"
-        },
-        "records/patrons/georgius/kas": {
-            "pl": "Jerzy Kaszyra",
-            "be": "Юрый Кашыра",
-            "la": "Georgius Kaszyra",
-            "en": "George Kashyra"
-        },
-        "records/patrons/georgius/mar": {
-            "la": "Georgius de Lydda",
-            "en": "George of Lydda",
-            "pl": "Jerzy z Lyddi"
-        },
-        "records/patrons/georgius/pop": {
-            "pl": "Jerzy Popiełuszko",
-            "la": "Georgius Popiełuszko",
-            "en": "George Popiełuszko"
-        },
-        "records/patrons/gerardus/sag": {
-            "it": "Gerardo Sagredo",
-            "hu": "Sagredo Gellért",
-            "la": "Gerardus Sagredo",
-            "en": "Gerard Sagredo",
-            "pl": "Gerard Sagredo"
-        },
-        "records/patrons/germanus/cae": {
-            "la": "Germanus Caesariensis",
-            "en": "Germanus of Caesarea",
-            "pl": "German z Cezarei"
-        },
-        "records/patrons/gildus/irw": {
-            "sw": "Jildo Irwa",
-            "la": "Gildus Irwa",
-            "en": "Gildas Irwa",
-            "pl": "Gildas Irwa"
-        },
-        "records/patrons/gonzaga/gon": {
-            "sw": "Gonzaga Gonza",
-            "la": "Gonzaga Gonza",
-            "en": "Gonzaga Gonza",
-            "pl": "Gonzaga Gonza"
-        },
-        "records/patrons/gordianus/rom": {
-            "la": "Gordianus de Roma",
-            "en": "Gordianus of Rome",
-            "pl": "Gordian z Rzymu"
-        },
-        "records/patrons/gregorius/fra": {
-            "pl": "Grzegorz Frąckowiak",
-            "la": "Gregorius Frąckowiak",
-            "en": "Gregory Frąckowiak"
-        },
-        "records/patrons/gregorius/lak": {
-            "uk": "Григорій Лакота",
-            "pl": "Grzegorz Łakota",
-            "la": "Gregorius Lakota",
-            "en": "Gregory Lakota"
-        },
-        "records/patrons/gualterius/eob": {
-            "la": "Gualterius; cum eo, i.a., Eobanus",
-            "en": "Walter; with him, i.a., Eoban",
-            "pl": "Walter; z nim, m.in. Eoban"
-        },
-        "records/patrons/gulielmus/rep": {
-            "fr": "Guillaume Repin",
-            "la": "Gulielmus Repin",
-            "en": "William Repin",
-            "pl": "Wilhelm Repin"
-        },
-        "records/patrons/gundecarus/eob": {
-            "la": "Gundecarus; cum eo, i.a., Eobanus",
-            "en": "Gundecarus; with him, i.a., Eoban",
-            "pl": "Gundekar; z nim, m.in. Eoban"
-        },
-        "records/patrons/gundisalvus/gar": {
-            "pt": "Gonçalo Garcia",
-            "la": "Gundisalvus Garcia",
-            "en": "Gonsalo Garcia",
-            "pl": "Gonsalwy Garcia"
-        },
-        "records/patrons/gyavira/lwa": {
-            "sw": "Gyaviira Musoke",
-            "la": "Gyavira",
-            "en": "Gyaviira Musoke",
-            "pl": "Gyaviira Musoke"
-        },
-        "records/patrons/henricus/hle": {
-            "pl": "Henryk Hlebowicz",
-            "la": "Henricus Hlebowicz",
-            "en": "Henry Hlebowicz"
-        },
-        "records/patrons/henricus/krz": {
-            "pl": "Henryk Krzysztofik",
-            "la": "Henricus Krzysztofik",
-            "en": "Henry Krzysztofik"
-        },
-        "records/patrons/henricus/mor": {
-            "es": "Enrique Morant Pellicer",
-            "la": "Henricus Morant Pellicer",
-            "en": "Henry Morant Pellicer",
-            "pl": "Henryk Morant Pellicer"
-        },
-        "records/patrons/heron/ale": {
-            "la": "Heron Alexandrinus",
-            "en": "Heron of Alexandria",
-            "pl": "Heron z Aleksandrii"
-        },
-        "records/patrons/hilarion/pro": {
-            "la": "Hilarion; cum eo, Proclus",
-            "en": "Hilarion; with him, Proclus",
-            "pl": "Hilarion; z nim, Prokles"
-        },
-        "records/patrons/hilarius/aqu": {
-            "it": "Ilario da Aquileia",
-            "la": "Hilarius de Aquileia",
-            "en": "Hilarius of Aquileia",
-            "pl": "Hilary z Akwilei"
-        },
-        "records/patrons/hilarius/jan": {
-            "pl": "Hilary Januszewski",
-            "la": "Hilarius Januszewski",
-            "en": "Hillary Januszewski"
-        },
-        "records/patrons/hippolytus/rom": {
-            "la": "Hippolytus Romanus",
-            "en": "Hippolytus of Rome",
-            "pl": "Hipolit Rzymski"
-        },
-        "records/patrons/iacobus/ber": {
-            "fr": "Jacques Berthieu",
-            "la": "Iacobus Berthieu",
-            "en": "James Berthieu",
-            "pl": "Jakub Berthieu"
-        },
-        "records/patrons/iacobus/buz": {
-            "sw": "Yakobo Buzabaliawo",
-            "la": "Iacobus Buzabaliao",
-            "en": "James Buzabaliawo",
-            "pl": "Jakub Buzabaliawo"
-        },
-        "records/patrons/iacobus/duc": {
-            "en": "James Duckett",
-            "la": "Iacobus Duckett",
-            "pl": "Jakub Duckett"
-        },
-        "records/patrons/iacobus/gag": {
-            "fr": "Jacques Gagnot",
-            "la": "Iacobus Gagnot",
-            "en": "James Gagnot",
-            "pl": "Jakub Gagnot"
-        },
-        "records/patrons/iacobus/kis": {
-            "ja": "ディエゴ喜斎",
-            "la": "Iacobus Kisai",
-            "en": "James Kisai",
-            "pl": "Jakub Kisai"
-        },
-        "records/patrons/iacobus/mai": {
-            "la": "Iacobus Maior Apostolus",
-            "en": "James the Great",
-            "pl": "Jakub Większy Apostoł"
-        },
-        "records/patrons/iacobus/min": {
-            "la": "Iacobus Minor Apostolus",
-            "en": "James the Less Apostle",
-            "pl": "Jakub Mniejszy Apostoł"
-        },
-        "records/patrons/ianuaria/sci": {
-            "la": "Ianuaria de Scillium",
-            "en": "Januaria of Scillium",
-            "pl": "Januaria ze Scilium"
-        },
-        "records/patrons/ianuarius/ben": {
-            "la": "Ianuarius Beneventanus",
-            "en": "Januarius of Benevento",
-            "pl": "January z Benewentu"
-        },
-        "records/patrons/ianuarius/fel": {
-            "la": "Ianuarius; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Januarius; with him, i.a., Felix; as Seven Brothers",
-            "pl": "January; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/ianuarius/xys": {
-            "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Januarius of Rome, subdeacon of Xystus II",
-            "pl": "January z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/iarognievus/woj": {
-            "pl": "Jarogniew Wojciechowski",
-            "la": "Jarognievus Wojciechowski",
-            "en": "Jarogniew Wojciechowski"
-        },
-        "records/patrons/ieremias/pro": {
-            "he": "ירמיהו",
-            "la": "Ieremias, propheta",
-            "en": "Jeremiah, prophet",
-            "pl": "Jeremiasz, prorok"
-        },
-        "records/patrons/iesus/men": {
-            "es": "Jesús Méndez Montoya",
-            "la": "Iesus Mendez Montoya",
-            "en": "Jesus Mendez Montoya",
-            "pl": "Jezus Mendez Montoya"
-        },
-        "records/patrons/ignatius/ant": {
-            "grc": "Ἰγνάτιος Ἀντιοχείας",
-            "la": "Ignatius Antiochenus",
-            "en": "Ignatius of Antioch",
-            "pl": "Ignacy Antiocheński"
-        },
-        "records/patrons/ignatius/kim": {
-            "ko": "김제준 이냐시오",
-            "la": "Ignatius Kim Che-jun",
-            "en": "Ignatius Kim Che-jun",
-            "pl": "Ignacy Kim Che-jun"
-        },
-        "records/patrons/ignatius/mal": {
-            "hy": "Իգնատիոս Մալոյան",
-            "la": "Ignatius Maloyan",
-            "en": "Ignatius Maloyan",
-            "pl": "Ignacy Maloyan"
-        },
-        "records/patrons/innocentius/guz": {
-            "pl": "Innocenty Guz",
-            "la": "Innocentius Guz",
-            "en": "Innocent Guz"
-        },
-        "records/patrons/innocentius/the": {
-            "la": "Innocentius Legionis Thebanae",
-            "en": "Innocent of the Theban Legion",
-            "pl": "Innocenty z Legii Tebańskiej"
-        },
-        "records/patrons/ioachim/sak": {
-            "ja": "ヨアキム榊原",
-            "la": "Ioachim Sakakibara",
-            "en": "Joachim Sakakibara",
-            "pl": "Joachim Sakakibara"
-        },
-        "records/patrons/ioanna/ver": {
-            "fr": "Jeanne Véron",
-            "la": "Ioanna Véron",
-            "en": "Joann Véron",
-            "pl": "Joanna Véron"
-        },
-        "records/patrons/ioannes/abu": {
-            "la": "Ioannes; cum eo, i.a., Abundius",
-            "en": "John; with him, i.a., Abundius",
-            "pl": "Jan; z nim, m.in., Abundiusz"
-        },
-        "records/patrons/ioannes/ada": {
-            "en": "John Adams",
-            "la": "Ioannes Adams",
-            "pl": "Jan Adams"
-        },
-        "records/patrons/ioannes/bap": {
-            "he": "יוחנן המטביל",
-            "la": "Ioannes Baptista",
-            "en": "John the Baptist",
-            "pl": "Jan Chrzciciel"
-        },
-        "records/patrons/ioannes/bod": {
-            "en": "John Bodey",
-            "la": "Ioannes Bodey",
-            "pl": "Jan Bodey"
-        },
-        "records/patrons/ioannes/bre": {
-            "fr": "Jean de Brébeuf",
-            "la": "Ioannes de Brébeuf",
-            "en": "John de Brébeuf",
-            "pl": "Jan de Brébeuf"
-        },
-        "records/patrons/ioannes/con": {
-            "vi": "Gioan Baotixita Cỏn",
-            "la": "Ioannes Baptista Cỏn",
-            "en": "John Baptist Cỏn",
-            "pl": "Jan Chrzciciel Cỏn"
-        },
-        "records/patrons/ioannes/ham": {
-            "en": "John Hambley",
-            "la": "Ioannes Hambley",
-            "pl": "Jan Hambley"
-        },
-        "records/patrons/ioannes/kin": {
-            "ja": "ヨハネ絹屋",
-            "la": "Ioannes Kinuya",
-            "en": "John Kinuya",
-            "pl": "Jan Kinuya"
-        },
-        "records/patrons/ioannes/lal": {
-            "fr": "Jean de La Lande",
-            "la": "Ioannes de la Lande",
-            "en": "John de La Lande",
-            "pl": "Jan de La Lande"
-        },
-        "records/patrons/ioannes/low": {
-            "en": "John Lowe",
-            "la": "Ioannes Lowe",
-            "pl": "Jan Lowe"
-        },
-        "records/patrons/ioannes/nep": {
-            "cs": "Jan Nepomucký",
-            "la": "Ioannes Nepomucenus",
-            "en": "John of Nepomuk",
-            "pl": "Jan Nepomucen"
-        },
-        "records/patrons/ioannes/ogi": {
-            "en": "John Ogilvie",
-            "la": "Ioannes Ogilvie",
-            "pl": "Jan Ogilvie"
-        },
-        "records/patrons/ioannes/roc": {
-            "en": "John Roche",
-            "la": "Ioannes Roche",
-            "pl": "Jan Roche"
-        },
-        "records/patrons/ioannes/sar": {
-            "cs": "Jan Sarkander",
-            "la": "Ioannes Sarkander",
-            "en": "John Sarkander",
-            "pl": "Jan Sarkander"
-        },
-        "records/patrons/ioannes/soa": {
-            "ja": "ヨハネ草庵",
-            "la": "Ioannes de Goto Soan",
-            "en": "John Soan of Goto",
-            "pl": "Jan Soan z Goto"
-        },
-        "records/patrons/ioannes/ven": {
-            "fr": "Jean-Théophane Vénard",
-            "la": "Ioannes Theophanes Vénard",
-            "en": "John Theophanes Vénard",
-            "pl": "Jan Teofan Vénard"
-        },
-        "records/patrons/ioannes/yik": {
-            "ko": "이광렬 요한",
-            "la": "Ioannes Baptista Yi Kwang-nyŏl",
-            "en": "John the Baptist Yi Kwang-nyŏl",
-            "pl": "Jan Chrzciciel Yi Kwang-nyŏl"
-        },
-        "records/patrons/iosaphat/kun": {
-            "pl": "Jozafat Kuncewicz",
-            "la": "Iosaphat Kuncewicz",
-            "en": "Josaphat Kuntsevych"
-        },
-        "records/patrons/ioseph/pho": {
-            "la": "Ioseph de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Joseph of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Józef z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/iosephus/cha": {
-            "ko": "장주기 요셉",
-            "la": "Iosephus Chang Chu-gi",
-            "en": "Joseph Chang Chu-gi",
-            "pl": "Józef Chang Chu-gi"
-        },
-        "records/patrons/iosephus/jan": {
-            "pl": "Józef Jankowski",
-            "la": "Iosephus Jankowski",
-            "en": "Joseph Jankowski"
-        },
-        "records/patrons/iosephus/kur": {
-            "pl": "Józef Kurzawa",
-            "la": "Iosephus Kurzawa",
-            "en": "Joseph Kurzawa"
-        },
-        "records/patrons/iosephus/kut": {
-            "pl": "Józef Kut",
-            "la": "Iosephus Kut",
-            "en": "Joseph Kut"
-        },
-        "records/patrons/iosephus/mor": {
-            "fr": "Joseph Moreau",
-            "la": "Iosephus Moreau",
-            "en": "Joseph Moreau",
-            "pl": "Józef Moreau"
-        },
-        "records/patrons/iosephus/ngu": {
-            "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyễn Đình Nghi",
-            "en": "Joseph Nguyễn Đình Nghi",
-            "pl": "Józef Nguyễn Đình Nghi"
-        },
-        "records/patrons/iosephus/paw": {
-            "pl": "Józef Pawłowski",
-            "la": "Iosephus Pawłowski",
-            "en": "Joseph Pawłowski"
-        },
-        "records/patrons/iosephus/str": {
-            "pl": "Józef Straszewski",
-            "la": "Iosephus Straszewski",
-            "en": "Joseph Straszewski"
-        },
-        "records/patrons/iosephus/tua": {
-            "vi": "Giuse Trần Văn Tuấn",
-            "la": "Iosephus Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
-            "pl": "Józef Trần Văn Tuấn"
-        },
-        "records/patrons/iosephus/tun": {
-            "vi": "Giuse Tuân",
-            "la": "Iosephus Tuân",
-            "en": "Joseph Tuân",
-            "pl": "Józef Tuân"
-        },
-        "records/patrons/iosephus/ulm": {
-            "pl": "Józef Ulma",
-            "la": "Iosephus Ulma",
-            "en": "Joseph Ulma"
-        },
-        "records/patrons/iosephus/yua": {
-            "zh": "袁在德若瑟",
-            "la": "Iosephus Yuan Zaide",
-            "en": "Joseph John Zaide",
-            "pl": "Józef Yuan Zaide"
-        },
-        "records/patrons/iosephus/zab": {
-            "es": "José María Zabal Blasco",
-            "la": "Iosephus Maria Zabal Blasco",
-            "en": "Joseph Mary Zabal Blasco",
-            "pl": "Józef Maria Zabal Blasco"
-        },
-        "records/patrons/iosephus/zap": {
-            "pl": "Józef Zapłata",
-            "la": "Iosephus Zaplata",
-            "en": "Joseph Zaplata"
-        },
-        "records/patrons/irenaeus/lug": {
-            "fr": "Irénée de Lyon",
-            "la": "Irenaeus Lugdunensis",
-            "en": "Irenaeus of Lugdunum",
-            "pl": "Ireneusz z Lyonu"
-        },
-        "records/patrons/irenaeus/sir": {
-            "la": "Irenaeus Sirmiensis",
-            "en": "Irenaeus of Sirmium",
-            "pl": "Ireneusz z Sirmium"
-        },
-        "records/patrons/isaac/jog": {
-            "fr": "Isaac Jogues",
-            "la": "Isaac Jogues",
-            "en": "Isaac Jogues",
-            "pl": "Izaak Jogues"
-        },
-        "records/patrons/isaias/pro": {
-            "he": "יְשַׁעְיָהוּ, הַנָּבִיא",
-            "la": "Isaias, propheta",
-            "en": "Isaiah, prophet",
-            "pl": "Izajasz, prorok"
-        },
-        "records/patrons/ischyrion/aeg": {
-            "la": "Ischyrion de Aegypto",
-            "en": "Ischyrion of Egypt",
-            "pl": "Ischyrion z Egiptu"
-        },
-        "records/patrons/isidorus/ale": {
-            "la": "Isidorus Alexandrinus",
-            "en": "Isidore of Alexandria",
-            "pl": "Izydor z Aleksandrii"
-        },
-        "records/patrons/iudas/tha": {
-            "la": "Iudas Thaddaeus",
-            "en": "Judas Thaddaeus",
-            "pl": "Juda Tadeusz Apostoł"
-        },
-        "records/patrons/iulia/rod": {
-            "pl": "Julia Rodzińska",
-            "en": "Julia Rodzińska",
-            "la": "Iulia Rodzińska"
-        },
-        "records/patrons/iuliana/cam": {
-            "la": "Iuliana de Nicomedia",
-            "en": "Juliana of Nicomedia",
-            "pl": "Juliana z Nikomedii"
-        },
-        "records/patrons/iulianus/eun": {
-            "la": "Iulianus Alexandrinus",
-            "en": "Julian of Alexandria",
-            "pl": "Julian z Aleksandrii"
-        },
-        "records/patrons/iulianus/tar": {
-            "it": "Giuliano di Terracina",
-            "la": "Iulianus Terracinensis",
-            "en": "Julian of Terracina",
-            "pl": "Julian z Terraciny"
-        },
-        "records/patrons/iulitta/cae": {
-            "el": "Ιουλίτα της Καισάρειας",
-            "la": "Julitta Caesariensis",
-            "en": "Julitta of Caesarea",
-            "pl": "Julita z Cezarei"
-        },
-        "records/patrons/iulitta/kim": {
-            "ko": "김 율리에타",
-            "la": "Iulitta Kim",
-            "en": "Juliet Kim",
-            "pl": "Julita Kim"
-        },
-        "records/patrons/iulitta/qui": {
-            "el": "Ιουλίττα ο Ταρσεύς",
-            "la": "Iulitta Tarsensis",
-            "en": "Julitta of Tarsus",
-            "pl": "Julitta z Tarsu"
-        },
-        "records/patrons/iustina/pat": {
-            "it": "Giustina di Padova",
-            "la": "Iustina Patavina",
-            "en": "Justine of Padua",
-            "pl": "Justyna z Padwy"
-        },
-        "records/patrons/iustinus/phi": {
-            "la": "Iustinus Philosophus",
-            "en": "Justin the Philosopher",
-            "pl": "Justyn Filozof"
-        },
-        "records/patrons/iustus/pas": {
-            "la": "Iustus Complutensis",
-            "en": "Justus of Complutum",
-            "pl": "Just z Komplutum"
-        },
-        "records/patrons/kizito/lwa": {
-            "sw": "Kizito",
-            "la": "Kizito",
-            "en": "Kizito",
-            "pl": "Kizito"
-        },
-        "records/patrons/ladislaus/gor": {
-            "pl": "Władysław Goral",
-            "la": "Ladislaus Goral",
-            "en": "Ladislaus Goral"
-        },
-        "records/patrons/ladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "la": "Ladislaus Ulma",
-            "en": "Ladislaus Ulma"
-        },
-        "records/patrons/laetantius/sci": {
-            "la": "Laetantius de Scillium",
-            "en": "Laetantius of Scillium",
-            "pl": "Letancjusz ze Scilium"
-        },
-        "records/patrons/largus/aqu": {
-            "it": "Largo da Aquileia",
-            "la": "Largus de Aquileia",
-            "en": "Largus of Aquileia",
-            "pl": "Largus z Akwilei"
-        },
-        "records/patrons/laurentius/bat": {
-            "fr": "Laurent Bâtard",
-            "la": "Laurentius Bâtard",
-            "en": "Laurence Bâtard",
-            "pl": "Wawrzyniec Bâtard"
-        },
-        "records/patrons/laurentius/rom": {
-            "la": "Laurentius de Roma",
-            "en": "Lawrence of Rome",
-            "pl": "Wawrzyniec z Rzymu"
-        },
-        "records/patrons/leo/kar": {
-            "ja": "レオン烏丸",
-            "la": "Leo Karasuma",
-            "en": "Leo Karasuma",
-            "pl": "Leon Karasuma"
-        },
-        "records/patrons/leo/now": {
-            "pl": "Leon Nowakowski",
-            "en": "Leon Nowakowski",
-            "la": "Leo Nowakowski"
-        },
-        "records/patrons/leontius/aeg": {
-            "la": "Leontius Aegaeensis",
-            "en": "Leontius of Aegeae",
-            "pl": "Leoncjusz z Egei"
-        },
-        "records/patrons/liliosa/fel": {
-            "la": "Liliosa de Corduba; cum ea, i.a., Felix",
-            "en": "Liliosa of Cordoba; with her, i.a., Felix",
-            "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
-        },
-        "records/patrons/lucas/ban": {
-            "sw": "Anatoli Kiriggwajjo",
-            "la": "Anatolius Kiriggwajjo",
-            "en": "Anatolius Kiriggwajjo",
-            "pl": "Anatoliusz Kiriggwajjo"
-        },
-        "records/patrons/lucas/hwa": {
-            "ko": "황석두 루가",
-            "la": "Lucas Hwang Sŏk-tu",
-            "en": "Luke Hwang Sŏk-tu",
-            "pl": "Łukasz Hwang Sŏk-tu"
-        },
-        "records/patrons/lucia/kim": {
-            "ko": "김 루치아",
-            "la": "Lucia Kim",
-            "en": "Locy Kim",
-            "pl": "Łucja Kim"
-        },
-        "records/patrons/lucia/kin": {
-            "ko": "김 루치아 (1818년 출생)",
-            "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
-            "en": "Locy Kim; with her, i.a., Magdalena Yi Yŏng-hŭi",
-            "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
-        },
-        "records/patrons/lucia/syr": {
-            "it": "Lucia da Siracusa",
-            "la": "Lucia Syracusana",
-            "en": "Lucia of Syracuse",
-            "pl": "Łucja z Syrakuz"
-        },
-        "records/patrons/lucianus/ant": {
-            "la": "Lucianus de Antiochia",
-            "en": "Lucian of Antioch",
-            "pl": "Lucjan z Antiochii"
-        },
-        "records/patrons/ludovica/bes": {
-            "fr": "Louise Bessay de La Voute",
-            "la": "Ludovica Bessay de La Voute",
-            "en": "Louise Bessay de La Voute",
-            "pl": "Ludwika Bessay de La Voute"
-        },
-        "records/patrons/ludovica/poi": {
-            "fr": "Louise Poirier",
-            "la": "Ludovica Poirier",
-            "en": "Louise Poirier",
-            "pl": "Ludwika Poirier"
-        },
-        "records/patrons/ludovicus/gie": {
-            "pl": "Ludwik Roch Gietyngier",
-            "la": "Ludovicus Rochus Gietyngier",
-            "en": "Louis Roch Gietyngier"
-        },
-        "records/patrons/ludovicus/iba": {
-            "ja": "ルドビコ茨木",
-            "la": "Ludovicus Ibaraki",
-            "en": "Ludovicus Ibaraki",
-            "pl": "Ludwik Ibaraki"
-        },
-        "records/patrons/ludovicus/mzy": {
-            "pl": "Ludwik Mzyk",
-            "la": "Ludovicus Mzyk",
-            "en": "Louis Mzyk"
-        },
-        "records/patrons/macarius/ale": {
-            "la": "Macarius Alexandrinus",
-            "en": "Macarius of Alexandria",
-            "pl": "Makary z Aleksandrii"
-        },
-        "records/patrons/magdalena/cho": {
-            "ko": "조 막달레나",
-            "la": "Magdalena Cho",
-            "en": "Magdalene Cho",
-            "pl": "Magdalena Cho"
-        },
-        "records/patrons/magdalena/hok": {
-            "ko": "허계임 막달레나",
-            "la": "Magdalena Hŏ Kye-im",
-            "en": "Magdalene Hŏ Kye-im",
-            "pl": "Magdalena Hŏ Kye-im"
-        },
-        "records/patrons/magdalena/pak": {
-            "ko": "박봉손 막달레나",
-            "la": "Magdalena Pak Pong-son",
-            "en": "Magdalene Pak Pong-son",
-            "pl": "Magdalena Pak Pong-son"
-        },
-        "records/patrons/magdalena/yiy": {
-            "ko": "이영희 막달레나",
-            "la": "Magdalena Yi Yŏng-hŭi",
-            "en": "Magdalene Yi Yŏng-hŭi",
-            "pl": "Magdalena Yi Yŏng-hŭi"
-        },
-        "records/patrons/magnus/xys": {
-            "la": "Magnus de Roma, subdiaconus Xysti Pp. II",
-            "en": "Magnus of Rome, subdeacon of Xystus II",
-            "pl": "Magnus z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/manathas/cae": {
-            "la": "Manathas Caesariensis",
-            "en": "Manatha of Caesarea",
-            "pl": "Manata z Cezarei"
-        },
-        "records/patrons/marcellianus/mar": {
-            "la": "Marcellianus; cum eo, i.a., Marcus",
-            "en": "Marcellian; with him, i.a., Mark",
-            "pl": "Marcelian; z nim, m.in., Marek"
-        },
-        "records/patrons/marcellinus/1pp": {
-            "la": "Marcellinus, Papa",
-            "en": "Marcellinus, pope",
-            "pl": "Marcelin, papież"
-        },
-        "records/patrons/marcellus/1pp": {
-            "la": "Marcellus Pp. I",
-            "en": "Marcellus I",
-            "pl": "Marceli I"
-        },
-        "records/patrons/marcianus/abu": {
-            "la": "Marcianus; cum eo, i.a., Abundius",
-            "en": "Marcian; with him, i.a., Abundius",
-            "pl": "Marcjan; z nim, m.in., Abundiusz"
-        },
-        "records/patrons/marcus/eva": {
-            "la": "Marcus Evangelista",
-            "en": "Mark the Evangelist",
-            "pl": "Marek Ewangelista"
-        },
-        "records/patrons/marcus/hie": {
-            "la": "Marcus Hierosolymitanus",
-            "en": "Mark of Jerusalem",
-            "pl": "Marek z Jerozolimy"
-        },
-        "records/patrons/marcus/mar": {
-            "la": "Marcus; cum eo, i.a., Marcellianus",
-            "en": "Mark; with him, i.a., Marcellian",
-            "pl": "Marek; z nim, m.in., Marcelian"
-        },
-        "records/patrons/margarita/war": {
-            "en": "Margaret Ward",
-            "la": "Margarita Ward",
-            "pl": "Małgorzata Ward"
-        },
-        "records/patrons/maria/bie": {
-            "pl": "Maria Anna Biernacka",
-            "la": "Maria Anna Biernacka",
-            "en": "Maria Anna Biernacka"
-        },
-        "records/patrons/maria/bor": {
-            "pl": "Maria Felicyta Borowik",
-            "la": "Maria Felicitas Borowik",
-            "en": "Mary Felicity Borowik"
-        },
-        "records/patrons/maria/chr": {
-            "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
-            "la": "Maria Canuta a Iesu in Horto Getsemani",
-            "en": "Mary Canuta of the Agonized Jesus in the Garden"
-        },
-        "records/patrons/maria/cie": {
-            "pl": "Maria Gwidona od Miłosierdzia Bożego",
-            "la": "Maria Guidona a Divina Misericordia",
-            "en": "Mary Guidona of Divine Mercy"
-        },
-        "records/patrons/maria/hac": {
-            "fr": "Marie-Anne Hacher du Bois",
-            "la": "Maria Anna Hacher du Bois",
-            "en": "Mary Anna Hacher du Bois",
-            "pl": "Maria Anna Hacher du Bois"
-        },
-        "records/patrons/maria/joz": {
-            "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
-            "la": "Maria Daniela a Iusei et Maria Immaculata",
-            "en": "Mary Daniela of Jesus and Immaculate Mary"
-        },
-        "records/patrons/maria/kra": {
-            "pl": "Maria Antonina Kratochwil",
-            "la": "Maria Antonina Kratochwil",
-            "en": "Mary Antoinette Kratochwil"
-        },
-        "records/patrons/maria/kuk": {
-            "pl": "Maria Rajmunda od Jezusa i Maryi",
-            "la": "Maria Raymunda a Iesu et Maria",
-            "en": "Mary Raymunda of Jesus and Mary"
-        },
-        "records/patrons/maria/mac": {
-            "pl": "Maria Kanizja Mackiewicz",
-            "la": "Maria Canisia Mackiewicz",
-            "en": "Mary Canisia Mackiewicz"
-        },
-        "records/patrons/maria/mar": {
-            "pl": "Maria Stella od Najświętszego Sakramentu",
-            "la": "Maria Stella a Sanctissimo Sacramento",
-            "en": "Maria Stella of the Blessed Sacrament"
-        },
-        "records/patrons/maria/mat": {
-            "pl": "Maria Heliodora Matuszewska",
-            "la": "Maria Heliodora Matuszewska",
-            "en": "Mary Heliodora Matuszewska"
-        },
-        "records/patrons/maria/nar": {
-            "pl": "Maria Boromea Narmontowicz",
-            "la": "Maria Boromea Narmontowicz",
-            "en": "Mary Boromea Narmontowicz"
-        },
-        "records/patrons/maria/rap": {
-            "pl": "Maria Sergia od Matki Bożej Bolesnej",
-            "la": "Maria Sergia a Virgine Perdolenti",
-            "en": "Mary Sergia of Our Lady of Sorrows"
-        },
-        "records/patrons/maria/ulm": {
-            "pl": "Maria Ulma",
-            "la": "Maria Ulma",
-            "en": "Mary Ulma"
-        },
-        "records/patrons/maria/ver": {
-            "fr": "Marie-Louise du Verdier de La Sorinière",
-            "la": "Maria Ludovica du Verdier de La Sorinière",
-            "en": "Mary Louise du Verdier de La Sorinière",
-            "pl": "Maria Ludwika du Verdier de La Sorinière"
-        },
-        "records/patrons/maria/won": {
-            "ko": "원귀임 마리아",
-            "la": "Maria Wŏn Kwi-im",
-            "en": "Mary Wŏn Kwi-im",
-            "pl": "Maria Wŏn Kwi-im"
-        },
-        "records/patrons/maria/zak": {
-            "pl": "Maria Imelda od Jezusa Hostii",
-            "la": "Maria Imelda a Iesu Hostia",
-            "en": "Mary Imelda of the Eucharistic Jesus"
-        },
-        "records/patrons/marianus/gor": {
-            "pl": "Marian Górecki",
-            "la": "Marianus Górecki",
-            "en": "Marian Górecki"
-        },
-        "records/patrons/marianus/kon": {
-            "pl": "Marian Konopiński",
-            "la": "Marianus Konopiński",
-            "en": "Marian Konopiński"
-        },
-        "records/patrons/marina/pis": {
-            "la": "Marina Margarita Antiochena",
-            "en": "Marina Margaret of Antioch",
-            "pl": "Marina Małgorzata z Antiochii"
-        },
-        "records/patrons/martha/kim": {
-            "ko": "김성임 마르타",
-            "la": "Martha Kim Sŏng-im",
-            "en": "Martha Kim Sŏng-im",
-            "pl": "Marta Kim Sŏng-im"
-        },
-        "records/patrons/martialis/fel": {
-            "la": "Martialis; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Martialis; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Marcjalis; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/martinus/1pp": {
-            "la": "Martinus Pp. I",
-            "en": "Martin I",
-            "pl": "Marcin I"
-        },
-        "records/patrons/martinus/agu": {
-            "es": "Martín de la Ascensión Aguirre",
-            "la": "Martinus ab Ascensione Aguirre",
-            "en": "Martin of the Ascension Aguirre",
-            "pl": "Marcin od Wniebowstąpienia Aguirre"
-        },
-        "records/patrons/martinus/hui": {
-            "fr": "Martin Luc Huin",
-            "la": "Martinus Lucas Huin",
-            "en": "Martin Luke Huin",
-            "pl": "Marcin Łukasz Huin"
-        },
-        "records/patrons/martinus/tad": {
-            "vi": "Martinô Tạ Đức Thịnh",
-            "la": "Martinus Tạ Đức Thịnh",
-            "en": "Martin Tạ Đức Thịnh",
-            "pl": "Marcin Tạ Đức Thịnh"
-        },
-        "records/patrons/martinus/tho": {
-            "vi": "Martinô Thọ",
-            "la": "Martinus Thọ",
-            "en": "Martin Thọ",
-            "pl": "Marcin Thọ"
-        },
-        "records/patrons/matthaeus/eva": {
-            "he": "מתיו האוונגליסט",
-            "la": "Matthaeus Evengelista",
-            "en": "Matthew the Evengelist",
-            "pl": "Mateusz Ewangelista"
-        },
-        "records/patrons/matthias/apo": {
-            "la": "Matthias Apostolus",
-            "en": "Matthias the Apostle",
-            "pl": "Maciej Apostoł"
-        },
-        "records/patrons/matthias/nag": {
-            "ja": "マチアス",
-            "la": "Matthias de Nagasaki",
-            "en": "Matthias of Nagasaki",
-            "pl": "Maciej z Nagasaki"
-        },
-        "records/patrons/mauritius/the": {
-            "la": "Mauritius Legionis Thebanae",
-            "en": "Maurice of the Theban Legion",
-            "pl": "Maurycy z Legii Tebańskiej"
-        },
-        "records/patrons/maximilianus/kol": {
-            "pl": "Maksymilian Maria Kolbe",
-            "la": "Maximilianus Maria Kolbe",
-            "en": "Maximilian Maria Kolbe"
-        },
-        "records/patrons/maximus/rom": {
-            "la": "Maximus de Roma",
-            "en": "Maximus of Rome",
-            "pl": "Maksym z Rzymu"
-        },
-        "records/patrons/mbaya/tuz": {
-            "sw": "Mbaga Tuzinde",
-            "la": "Mbaya Tuzinde",
-            "en": "Mbaga Tuzinde",
-            "pl": "Mbaga Tuzinde"
-        },
-        "records/patrons/mercuria/ale": {
-            "la": "Mercuria Alexandrina",
-            "en": "Mercuria of Alexandria",
-            "pl": "Merkuria z Aleksandrii"
-        },
-        "records/patrons/mgagga/lwa": {
-            "sw": "Mugagga Lubowa",
-            "la": "Mgagga",
-            "en": "Mugagga Lubowa",
-            "pl": "Mugagga Lubowa"
-        },
-        "records/patrons/michael/koz": {
-            "pl": "Michał Kozal",
-            "la": "Michael Kozal",
-            "en": "Michael Kozal"
-        },
-        "records/patrons/michael/kzk": {
-            "ja": "ミカエル小崎",
-            "la": "Michael Kozaki",
-            "en": "Michael Kozaki",
-            "pl": "Michał Kozaki"
-        },
-        "records/patrons/michael/nak": {
-            "ja": "ミゲル中島",
-            "la": "Michael Nakashima",
-            "en": "Michael Nakashima",
-            "pl": "Michał Nakashima"
-        },
-        "records/patrons/michael/tom": {
-            "pl": "Michał Tomaszek",
-            "la": "Michael Tomaszek",
-            "en": "Michael Tomaszek"
-        },
-        "records/patrons/michael/woz": {
-            "pl": "Michał Woźniak",
-            "la": "Michael Woźniak",
-            "en": "Michael Woźniak"
-        },
-        "records/patrons/monica/pic": {
-            "fr": "Monique Pichery",
-            "la": "Monica Pichery",
-            "en": "Monica Pichery",
-            "pl": "Monika Pichery"
-        },
-        "records/patrons/mukasa/kir": {
-            "sw": "Mukasa Kiriwawanvu",
-            "la": "Mukasa Kiriwanvu",
-            "en": "Mukasa Kiriwawanvu",
-            "pl": "Mukasa Kiriwawanvu"
-        },
-        "records/patrons/multa/abr": {
-            "la": "Monachi Abrahamitae",
-            "en": "Abrahamic Monks",
-            "pl": "Mnisi Abrahamici"
-        },
-        "records/patrons/multa/aeg": {
-            "la": "Plurimi Martyres in Aegypto",
-            "en": "Very many Martyrs in Egypt",
-            "pl": "Bardzo liczni Męczennicy w Egipcie"
-        },
-        "records/patrons/multa/ama": {
-            "la": "Sociae Ammonariionis Alexandrinae",
-            "en": "The Female Companions of Ammonarion of Alexandria",
-            "pl": "Towarzyszki Amonarii z Aleksandrii"
-        },
-        "records/patrons/multa/bon": {
-            "la": "Alii Socii Bonifatii Winfridi",
-            "en": "Other Companions of Boniface Wynfreth",
-            "pl": "Inni Towarzysze Bonifacego Wynfryda"
-        },
-        "records/patrons/multa/cae": {
-            "la": "Socia Theotimi Caesariensis",
-            "en": "Theotimus' of Caesarea Companions",
-            "pl": "Towarzysze Teotyma z Cezarei"
-        },
-        "records/patrons/multa/cvq": {
-            "la": "Centum viginti quattuor Martyres Carthaginenses; cum eis, i.a., Felicianus",
-            "en": "One hundred twenty-four Carthaginian Martyrs; with them, i.a., Felician",
-            "pl": "Stu dwudziestu czeterech Męczenników z Kartaginy; z nimi, m.in., Felicjan"
-        },
-        "records/patrons/multa/dps": {
-            "la": "Duo pueri, sociorum Blasii de Sebaste",
-            "en": "Two boys, companions of Blaise of Sebaste",
-            "pl": "Dwóch chłopców, towarzysze Błażeja z Sebasty"
-        },
-        "records/patrons/multa/dus": {
-            "la": "Duodecim martyres Smyrnes e Philadelphia",
-            "en": "The Twelve Martyrs of Smyrna from Philadelphia",
-            "pl": "Dwunastu Męczenników Smyrneńskich z Filadelfii"
-        },
-        "records/patrons/multa/dva": {
-            "la": "Ducenti viri, martyres in insula Palmaria; cum eis, Anastasia",
-            "en": "Two hundred men, martyrs on the island of Palmaria; with them, Anastasia",
-            "pl": "Dwustu mężczyzn, męczenników z wyspy Palmarii; z nimi, Anastazja"
-        },
-        "records/patrons/multa/lug": {
-            "la": "Omnes fere civitas Lugdunenses; cum eis, Irenaeus",
-            "en": "Almost all the citizens of Lyon; with them, Irenaeus",
-            "pl": "Prawie wszyscy mieszkańcy Lyonu; z nimi, Ireneusz"
-        },
-        "records/patrons/multa/mar": {
-            "la": "Septemdecim millibus Christianorum Martyrum Romanorum",
-            "en": "Seventeen thousand Christian Martyrs of Romee",
-            "pl": "Siedemnaście tysięcy chrześcijańskich Męczenników z Rzymu"
-        },
-        "records/patrons/multa/nid": {
-            "la": "Decem milia martyrum pro fide Nicomediae",
-            "en": "Ten thousand Martyrs for the faith from Nicomedia",
-            "pl": "Dziesięć tysięcy Męczenników za wiarę z Nikomedii"
-        },
-        "records/patrons/multa/nie": {
-            "la": "Multa Milia Martyres in Nicomediae ecclesia",
-            "en": "Many Thousands of Martyrs from church in Nicomedia",
-            "pl": "Wiele Tysięcy Męczenników z kościoła w Nikomedii"
-        },
-        "records/patrons/multa/nim": {
-            "la": "Multi Martyres Nicomedienses in montibus et speluncis latentes",
-            "en": "Many Martyrs of Nicomedia hiding in mountains and caves",
-            "pl": "Wielu Męczenników z Nikomedii ukrywających się w górach i jaskiniach"
-        },
-        "records/patrons/multa/nip": {
-            "la": "Innumerabiles Eleutherii sociorum, martyrum Nicomediensis",
-            "en": "Innumerable companions of Eleutherius, martyrs of Nicomedia",
-            "pl": "Niezliczeni towarzysze Eleuteriusza, męczennicy z Nikomedii"
-        },
-        "records/patrons/multa/niv": {
-            "la": "Viginti Martyres persecutionis Diocletiani Nicomediae",
-            "en": "Twenty Martyrs of the Diocletianic persecution in Nicomedia",
-            "pl": "Dwudziestu Męczenników prześladowań Dioklecjana w Nikomedii"
-        },
-        "records/patrons/multa/qda": {
-            "la": "Quadraginta duo martyres Amorii",
-            "en": "Forty-two martyrs of Amorium",
-            "pl": "Czterdziestu dwóch męczenników z Amorium"
-        },
-        "records/patrons/multa/rvu": {
-            "la": "Viginti unus promiscui sexus Martyres Romae; cum eis, i.a., Cornelio Pp.",
-            "en": "Twenty one mixed sex Martyrs in Rome; with them, i.a., Pope Cornelius",
-            "pl": "Dwudziestu jeden męczenników płci mieszanej w Rzymie; z nimi, m.in., Korneliusz, papież"
-        },
-        "records/patrons/multa/sad": {
-            "pl": "Towarzysze Sadoka z Sandomierza",
-            "la": "Sociorum Sadochii de Sandomierz",
-            "en": "Companions of Sadok of Sandomierz"
-        },
-        "records/patrons/multa/sfa": {
-            "la": "Septuaginta feminae, martyres in insula Palmaria; cum eis, Anastasia",
-            "en": "Seventy women, martyrs on the island of Palmaria; with them, Anastasia",
-            "pl": "Siedemdziesiąt kobiet, męczennic z wyspy Palmarii; z nimi, Anastazja"
-        },
-        "records/patrons/multa/sms": {
-            "la": "Septem mulieres, sociorum Blasii de Sebaste",
-            "en": "Seven women, companions of Blaise of Sebaste",
-            "pl": "Siedem kobiet, towarzyszki Błażeja z Sebasty"
-        },
-        "records/patrons/multa/the": {
-            "la": "Sociorum Mauricii, milites legionis Thebanae",
-            "en": "Companions of Maurice, soldiers of the Theban legion",
-            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
-        },
-        "records/patrons/multa/urs": {
-            "de": "Gefährtinnen der Ursula von Köln, Jungfrauen und Märtyrerinnen",
-            "la": "Sociae Ursulae Coloniensis, virgines et martyres",
-            "en": "Companions of Ursula of Cologne, virgins and martyrs",
-            "pl": "Towarzyszki Urszuli z Kolonii, dziewice i męczennice"
-        },
-        "records/patrons/myron/cyz": {
-            "la": "Myron Cyzicensis",
-            "en": "Myron of Cyzicus",
-            "pl": "Miron z Kizyku"
-        },
-        "records/patrons/narcissus/put": {
-            "pl": "Narcyz Putz",
-            "la": "Narcissus Putz",
-            "en": "Narcissus Putz"
-        },
-        "records/patrons/narcissus/tur": {
-            "pl": "Narcyz Turchan",
-            "la": "Narcissus Turchan",
-            "en": "Narcissus Turchan"
-        },
-        "records/patrons/nartzales/sci": {
-            "la": "Nartzales de Scillium",
-            "en": "Nartzalus of Scillium",
-            "pl": "Nartzal ze Scilium"
-        },
-        "records/patrons/natalia/tul": {
-            "pl": "Natalia Tułasiewicz",
-            "la": "Natalia Tułasiewicz",
-            "en": "Natalie Tułasiewicz"
-        },
-        "records/patrons/natalis/cha": {
-            "fr": "Noël Chabanel",
-            "la": "Natalis Chabanel",
-            "en": "Natale Chabanel",
-            "pl": "Natal Chabanel"
-        },
-        "records/patrons/nemesius/ale": {
-            "la": "Nemesius Alexandrinus",
-            "en": "Nemesius of Alexandria",
-            "pl": "Nemezjusz z Aleksandrii"
-        },
-        "records/patrons/nicephorus/cae": {
-            "la": "Nicephorus Caesariensis",
-            "en": "Nicephorus of Caesarea",
-            "pl": "Nicefor z Cezarei"
-        },
-        "records/patrons/noe/maw": {
-            "sw": "Noe Mawaggali",
-            "la": "Noe Mawaggali",
-            "en": "Noe Mawaggali",
-            "pl": "Noe Mawaggali"
-        },
-        "records/patrons/nympha/try": {
-            "la": "Nympha; cum ea, i.a., Tryphon",
-            "en": "Nympha; with her, i.a., Tryphon",
-            "pl": "Nimfa; z nią, m.in. Tryfon"
-        },
-        "records/patrons/onesiphorus/apo": {
-            "la": "Onesiphorus, Apostolorum discipulus",
-            "en": "Onesiphorus, disciple of Apostles",
-            "pl": "Onezyfor, uczeń Apostołów"
-        },
-        "records/patrons/oswaldus/nor": {
-            "en": "Oswald of Northumbria",
-            "la": "Oswaldus rex Northumbriae",
-            "pl": "Oswald z Nortumbrii"
-        },
-        "records/patrons/pancratius/rom": {
-            "la": "Pancratius de Roma",
-            "en": "Pancras of Rome",
-            "pl": "Pankracy z Rzymu"
-        },
-        "records/patrons/pantaleon/nic": {
-            "la": "Pantaleon de Nicomedia",
-            "en": "Pantaleon of Nicomedia",
-            "pl": "Pantaleon z Nikomedii"
-        },
-        "records/patrons/parasceve/pho": {
-            "la": "Parasceve de Roma; cum ea, i.a., Photina Samaritana",
-            "en": "Parasceva of Rome; with her, i.a., Photine the Samaritan",
-            "pl": "Parascewa z Rzymu; z nią, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/pastor/ius": {
-            "la": "Pastor Complutensis",
-            "en": "Pastor of Complutum",
-            "pl": "Pastor z Komplutum"
-        },
-        "records/patrons/paulus/apo": {
-            "he": "שָׁאוּל התרס",
-            "la": "Paulus Tersensis",
-            "en": "Paul of Tarsus",
-            "pl": "Paweł z Tarsu"
-        },
-        "records/patrons/paulus/con": {
-            "la": "Paulus Constantinopolitanus",
-            "en": "Paul of Constantinople",
-            "pl": "Paweł z Bizancjum"
-        },
-        "records/patrons/paulus/iba": {
-            "ja": "パウロ茨木",
-            "la": "Paulus Ibaraki",
-            "en": "Paul Ibaraki",
-            "pl": "Paweł Ibaraki"
-        },
-        "records/patrons/paulus/mik": {
-            "ja": "パウロ三木",
-            "la": "Paulus Miki",
-            "en": "Paul Miki",
-            "pl": "Paweł Miki"
-        },
-        "records/patrons/paulus/ngu": {
-            "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyễn Ngân",
-            "en": "Paul Nguyễn Ngân",
-            "pl": "Paweł Nguyễn Ngân"
-        },
-        "records/patrons/paulus/suz": {
-            "ja": "パウロ鈴木",
-            "la": "Paulus Suzuki",
-            "en": "Paul Suzuki",
-            "pl": "Paweł Suzuki"
-        },
-        "records/patrons/perpetua/car": {
-            "la": "Perpetua Carthaginensis",
-            "en": "Perpetua of Carthage",
-            "pl": "Perpetua z Kartaginy"
-        },
-        "records/patrons/perpetua/hon": {
-            "ko": "홍금주 페르페투아",
-            "la": "Perpetua Hong Kŭm-ju",
-            "en": "Perpetua Hong Kŭm-ju",
-            "pl": "Perpetua Hong Kŭm-ju"
-        },
-        "records/patrons/petrus/apo": {
-            "arc": "ܟܐܦܐ",
-            "la": "Petrus",
-            "en": "Peter the Apostle",
-            "pl": "Piotr Apostoł"
-        },
-        "records/patrons/petrus/aum": {
-            "fr": "Pierre Aumaître",
-            "la": "Petrus Aumaître",
-            "en": "Peter Aumaître",
-            "pl": "Piotr Aumaître"
-        },
-        "records/patrons/petrus/bla": {
-            "es": "Pedro Bautista Blázquez",
-            "la": "Petrus Baptista Blázquez",
-            "en": "Peter Baptist Blázquez",
-            "pl": "Piotr Chrzciciel Blázquez"
-        },
-        "records/patrons/petrus/cal": {
-            "tl": "Pedro Calungsod",
-            "la": "Petrus Calungsod",
-            "en": "Peter Calungsod",
-            "pl": "Piotr Calungsod"
-        },
-        "records/patrons/petrus/dan": {
-            "pl": "Piotr Edward Dańkowski",
-            "la": "Petrus Eduardus Dańkowski",
-            "en": "Peter Edward Dankowski"
-        },
-        "records/patrons/petrus/fav": {
-            "fr": "Pierre-Sulpice-Christophe Faverge",
-            "la": "Petrus Sulpitius Christophorus Faverge",
-            "en": "Peter Sulpice Christopher Faverge",
-            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
-        },
-        "records/patrons/petrus/fre": {
-            "fr": "Pierre Frémond",
-            "la": "Petrus Frémond",
-            "en": "Peter Frémond",
-            "pl": "Piotr Frémond"
-        },
-        "records/patrons/petrus/suk": {
-            "ja": "ペトロ助四郎",
-            "la": "Petrus Sukejiro",
-            "en": "Peter Sukejiro",
-            "pl": "Piotr Sukejiro"
-        },
-        "records/patrons/petrus/wug": {
-            "zh": "吳國盛伯鐸",
-            "la": "Petrus Wu Guosheng",
-            "en": "Peter Wu Guosheng",
-            "pl": "Piotr Wu Guosheng"
-        },
-        "records/patrons/philappianus/fel": {
-            "la": "Philappianus Carthaginiensis",
-            "en": "Felicianus of Carthage",
-            "pl": "Filapian z Kartaginy"
-        },
-        "records/patrons/philippus/apo": {
-            "la": "Philippus Apostolus",
-            "en": "Philip Apostle",
-            "pl": "Filip Apostoł"
-        },
-        "records/patrons/philippus/fel": {
-            "la": "Philippus; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Philip; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Filip; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/philippus/las": {
-            "es": "Felipe de Jesús de Las Casas",
-            "la": "Philippus a Iesu de Las Casas",
-            "en": "Philip of Jesus de Las Casas",
-            "pl": "Filip od Jezusa de Las Casas"
-        },
-        "records/patrons/philomena/rom": {
-            "it": "Filomena di Roma",
-            "la": "Philomena Romana",
-            "en": "Philomena of Rome",
-            "pl": "Filomena z Rzymu"
-        },
-        "records/patrons/philoteus/cae": {
-            "la": "Philoteus Caesariensis; cum eo, i.a., Theotimus",
-            "en": "Philotheus of Caesarea; with him, i.a., Theotimus",
-            "pl": "Filoteusz z Cezarei; z nim, m.in., Teotym"
-        },
-        "records/patrons/photina/sam": {
-            "la": "Photina Samaritana",
-            "en": "Photine the Samaritan",
-            "pl": "Fotyna Samarytanka"
-        },
-        "records/patrons/photis/pho": {
-            "la": "Photis de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Photis of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Fotis z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/photius/pho": {
-            "la": "Photius de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Photios of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Focjusz z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/pius/bar": {
-            "pl": "Pius Bartosik",
-            "la": "Pius Bartosik",
-            "en": "Pius Bartosik"
-        },
-        "records/patrons/polycarpus/rom": {
-            "la": "Polycarpus de Roma",
-            "en": "Polycarp of Rome",
-            "pl": "Polikarp z Rzymu"
-        },
-        "records/patrons/polycarpus/smy": {
-            "el": "Πολύκαρπος Σμύρνης",
-            "la": "Polycarpus Smyrnensis",
-            "en": "Polycarp of Smyrna",
-            "pl": "Polikarp ze Smyrny"
-        },
-        "records/patrons/pontianus/1pp": {
-            "la": "Pontianus Pp.",
-            "en": "Pontian, pope",
-            "pl": "Poncjan, papież"
-        },
-        "records/patrons/porphyrius/one": {
-            "la": "Porphyrius; cum eo Onesiphorus",
-            "en": "Porphyrius; with him Onesiphorus",
-            "pl": "Porfiriusz; z nim Onezyfor"
-        },
-        "records/patrons/proclus/hil": {
-            "la": "Proclus; cum eo, Hilarion",
-            "en": "Proclus; with him, Hilarion",
-            "pl": "Prokles; z nim, Hilarion"
-        },
-        "records/patrons/procopius/cae": {
-            "la": "Procopius de Scythopolis",
-            "en": "Procopius of Scythopolis",
-            "pl": "Prokop ze Scytopolis"
-        },
-        "records/patrons/proculus/put": {
-            "la": "Proculus Puteolensis",
-            "en": "Proculus of Pozzuoli",
-            "pl": "Prokul z Pozzuoli"
-        },
-        "records/patrons/quartus/xys": {
-            "la": "Quartus de Roma",
-            "en": "Quartus of Rome",
-            "pl": "Kwartus z Rzymu"
-        },
-        "records/patrons/quiricus/iul": {
-            "el": "Κυρίκος ο Ταρσεύς",
-            "la": "Quiricus Tarsensis",
-            "en": "Cyricus of Tarsus",
-            "pl": "Cyryk z Tarsu"
-        },
-        "records/patrons/renatus/gou": {
-            "fr": "René Goupil",
-            "la": "Renatus Goupil",
-            "en": "Renat Goupil",
-            "pl": "Renat Goupil"
-        },
-        "records/patrons/respicius/try": {
-            "la": "Respicius; cum eo, i.a., Tryphon",
-            "en": "Respicius; with him, i.a., Tryphon",
-            "pl": "Respicjusz; z nim, m.in. Tryfon"
-        },
-        "records/patrons/revocatus/car": {
-            "la": "Revocatus Carthaginensis",
-            "en": "Revocatus of Carthage",
-            "pl": "Rewokatus z Kartaginy"
-        },
-        "records/patrons/richardus/lei": {
-            "en": "Richard Leigh",
-            "la": "Richardus Leigh",
-            "pl": "Ryszard Leigh"
-        },
-        "records/patrons/richardus/llo": {
-            "en": "Richard Lloyd",
-            "la": "Richardus Lloyd",
-            "pl": "Ryszard Lloyd"
-        },
-        "records/patrons/richardus/mar": {
-            "en": "Richard Martin",
-            "la": "Richardus Martin",
-            "pl": "Ryszard Martin"
-        },
-        "records/patrons/robertus/dib": {
-            "en": "Robert Dibdale",
-            "la": "Robertus Dibdale",
-            "pl": "Robert Dibdale"
-        },
-        "records/patrons/rogatianus/car": {
-            "la": "Rogatianus Carthaginensis",
-            "en": "Rogatian of Carthage",
-            "pl": "Rogacjan z Kartaginy"
-        },
-        "records/patrons/romanus/ada": {
-            "es": "Román Adame Rosales",
-            "la": "Romanus Adame Rosales",
-            "en": "Roman Adame Rosales",
-            "pl": "Roman Adame Rosales"
-        },
-        "records/patrons/romanus/arc": {
-            "pl": "Roman Archutowski",
-            "la": "Romanus Archutowski",
-            "en": "Roman Archutowski"
-        },
-        "records/patrons/rosa/kim": {
-            "ko": "김 로사",
-            "la": "Rosa Kim",
-            "en": "Rose Kim",
-            "pl": "Róża Kim"
-        },
-        "records/patrons/rosula/car": {
-            "la": "Rosula Carthaginensis",
-            "en": "Rosula of Carthage",
-            "pl": "Rosula z Kartaginy"
-        },
-        "records/patrons/rufus/sim": {
-            "la": "Rufus, cum eo, i.a., Simplicius",
-            "en": "Rufus; with him, i.a., Simplicius",
-            "pl": "Rufus; z nim, m.in. Symplicjusz"
-        },
-        "records/patrons/rusticus/dio": {
-            "fr": "Rustique de Paris, avec lui, a.o., Denis",
-            "la": "Rusticus Parisiensis; cum eo, i.a., Dionysius",
-            "en": "Rusticus of Paris; with him, i.a., Denis",
-            "pl": "Rustyk z Paryża; z nim, m.in., Dionizy"
-        },
-        "records/patrons/sabigothon/aur": {
-            "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
-            "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
-            "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
-        },
-        "records/patrons/sadochus/san": {
-            "pl": "Sadok z Sandomierza",
-            "la": "Sadochus de Sandomierz",
-            "en": "Sadok of Sandomierz"
-        },
-        "records/patrons/sallustia/rom": {
-            "la": "Sallustia de Roma",
-            "en": "Salustia of Rome",
-            "pl": "Salustia z Rzymu"
-        },
-        "records/patrons/saturninus/car": {
-            "la": "Saturninus Carthaginensis",
-            "en": "Saturnin of Carthage",
-            "pl": "Saturnin z Kartaginy"
-        },
-        "records/patrons/saturninus/tol": {
-            "la": "Saturninus Tolosanensis",
-            "en": "Saturnin of Toulouse",
-            "pl": "Saturnin z Tuluzy"
-        },
-        "records/patrons/satyrus/car": {
-            "la": "Satyrus Carthaginensis",
-            "en": "Satyrus of Carthage",
-            "pl": "Satur z Kartaginy"
-        },
-        "records/patrons/sbigneus/str": {
-            "pl": "Zbigniew Strzałkowski",
-            "la": "Sbigneus Strzalkowski",
-            "en": "Zbigniew Strzalkowski"
-        },
-        "records/patrons/sebastianus/nam": {
-            "ko": "남이관 세바스티아노",
-            "la": "Sebastianus Nam I-gwan",
-            "en": "Sebastian Nam I-gwan",
-            "pl": "Sebastian Nam I-gwan"
-        },
-        "records/patrons/sebastianus/pho": {
-            "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/secunda/sci": {
-            "la": "Secunda de Scillium",
-            "en": "Secunda of Scillium",
-            "pl": "Sekunda ze Scilium"
-        },
-        "records/patrons/secundinus/car": {
-            "la": "Secundinus seu Secundulus Carthaginensis",
-            "en": "Secundinus or Secundulus of Carthage",
-            "pl": "Sekundyn lub Sekundulus z Kartaginy"
-        },
-        "records/patrons/secundus/ast": {
-            "it": "Secondo di Asti",
-            "la": "Secundus Astensis",
-            "en": "Secundus of Asti",
-            "pl": "Sekundus z Asti"
-        },
-        "records/patrons/serapion/alg": {
-            "la": "Serapion Algirensis",
-            "en": "Serapion of Algiers",
-            "pl": "Serapion z Algieru"
-        },
-        "records/patrons/sevibaldus/eob": {
-            "la": "Sevibaldus; cum eo, i.a., Eobanus",
-            "en": "Sevibaldus; with him, i.a., Eoban",
-            "pl": "Scirbald; z nim, m.in. Eoban"
-        },
-        "records/patrons/sigismundus/rex": {
-            "fr": "Sigismond, roi des Burgondes",
-            "la": "Sigismundus, rex Burgundiae",
-            "en": "Sigismund of Burgundy",
-            "pl": "Zygmunt z Burgundii"
-        },
-        "records/patrons/silanus/fel": {
-            "la": "Silanus; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Silanus; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Sylan; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/silvanus/cae": {
-            "la": "Silvanus Caesariensis; cum eo, i.a., Theotimus",
-            "en": "Silvanus of Caesarea; with him, i.a., Theotimus",
-            "pl": "Sylwan z Cezarei; z nim, m.in., Teotym"
-        },
-        "records/patrons/simon/apo": {
-            "la": "Simon Apostolus",
-            "en": "Simon Apostle",
-            "pl": "Szymon Apostoł"
-        },
-        "records/patrons/simon/cos": {
-            "pt": "Simão da Costa",
-            "la": "Simon da Costa",
-            "en": "Simon da Costa",
-            "pl": "Szymon da Costa"
-        },
-        "records/patrons/simplicius/fau": {
-            "la": "Simplicius, cum eo, i.a., Faustinus",
-            "en": "Simplicius; with him, i.a., Faustinus",
-            "pl": "Symplicjusz; z nim, m.in. Faustyn"
-        },
-        "records/patrons/sine/ulm": {
-            "pl": "Bezimienne dziecko Józefa i Wiktorii Ulmów",
-            "la": "Infans innominatus Iosephi et Victoriae Ulma",
-            "en": "Unnamed child of Józef and Wiktoria Ulma"
-        },
-        "records/patrons/sophia/fir": {
-            "it": "Sofia di Fermo",
-            "la": "Sophia Firmana",
-            "en": "Sophia of Fermo",
-            "pl": "Zofia z Fermo"
-        },
-        "records/patrons/sossius/mis": {
-            "la": "Sossius Missenensis",
-            "en": "Sossius of Misenum",
-            "pl": "Sozjusz z Misenum"
-        },
-        "records/patrons/speratus/sci": {
-            "la": "Speratus de Scillium",
-            "en": "Speratus of Scillium",
-            "pl": "Sperat ze Scilium"
-        },
-        "records/patrons/spes/rom": {
-            "la": "Spes de Roma",
-            "en": "Hope of Rome",
-            "pl": "Nadzieja z Rzymu"
-        },
-        "records/patrons/stanislaus/cra": {
-            "pl": "Stanisław ze Szczepanowa",
-            "la": "Stanislaus Cracoviensis",
-            "en": "Stanislaus of Szczepanów"
-        },
-        "records/patrons/stanislaus/kbs": {
-            "pl": "Stanisław Kubista",
-            "la": "Stanislaus Kubista",
-            "en": "Stanislaus Kubista"
-        },
-        "records/patrons/stanislaus/kub": {
-            "pl": "Stanisław Kubski",
-            "la": "Stanislaus Kubski",
-            "en": "Stanislaus Kubski"
-        },
-        "records/patrons/stanislaus/mys": {
-            "pl": "Stanisław Mysakowski",
-            "la": "Stanislaus Mysakowski",
-            "en": "Stanislaus Mysakowski"
-        },
-        "records/patrons/stanislaus/sta": {
-            "pl": "Stanisław Starowieyski",
-            "la": "Stanislaus Starowieyski",
-            "en": "Stanislaus Starowieyski"
-        },
-        "records/patrons/stanislaus/str": {
-            "pl": "Stanisław Streich",
-            "la": "Stanislaus Streich",
-            "en": "Stanislaus Streich"
-        },
-        "records/patrons/stanislava/ulm": {
-            "pl": "Stanisława Ulma",
-            "la": "Stanislava Ulma",
-            "en": "Stanislava Ulma"
-        },
-        "records/patrons/stephanus/cue": {
-            "fr": "Étienne-Théodore Cuenot",
-            "la": "Stephanus Theodorus Cuenot",
-            "en": "Stephen Theodore Cuenot",
-            "pl": "Stefan Teodor Cuenot"
-        },
-        "records/patrons/stephanus/gre": {
-            "pl": "Stefan Grelewski",
-            "la": "Stephanus Grelewski",
-            "en": "Stephen Grelewski"
-        },
-        "records/patrons/stephanus/pro": {
-            "la": "Stephanus protomartyr",
-            "en": "Stephen Protomartyr",
-            "pl": "Szczepan Pramęczennik"
-        },
-        "records/patrons/stephanus/xys": {
-            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
-            "en": "Stephen of Rome, subdeacon of Xystus II",
-            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/susanna/rom": {
-            "la": "Susanna Romana",
-            "en": "Susanna of Rome",
-            "pl": "Zuzanna Rzymska"
-        },
-        "records/patrons/tarsicius/aco": {
-            "la": "Tarsicius, acolytus",
-            "en": "Tarcisius, acolyte",
-            "pl": "Tarsycjusz, akolita"
-        },
-        "records/patrons/tatianus/aqu": {
-            "it": "Taziano da Aquileia",
-            "la": "Tatianus de Aquileia",
-            "en": "Tatian of Aquileia",
-            "pl": "Tacjan z Akwilei"
-        },
-        "records/patrons/teresia/ste": {
-            "de": "Therese Benedicta vom Kreuz",
-            "la": "Teresia Benedicta a Cruce",
-            "en": "Therese Benedicta of the Cross",
-            "pl": "Teresa Benedykta od Krzyża"
-        },
-        "records/patrons/teresia/yim": {
-            "ko": "이매임 데레사",
-            "la": "Teresia Yi Mae-im",
-            "en": "Therese Yi Mae-im",
-            "pl": "Teresa Yi Mae-im"
-        },
-        "records/patrons/thaddaeus/dul": {
-            "pl": "Tadeusz Dulny",
-            "la": "Thaddaeus Dulny",
-            "en": "Thaddeus Dulny"
-        },
-        "records/patrons/theodorus/gra": {
-            "el": "Θεοδώρος Γράπτος",
-            "la": "Theodorus Graptus",
-            "en": "Theodore the Graptus",
-            "pl": "Teodor Graptus"
-        },
-        "records/patrons/theodorus/rom": {
-            "uk": "Теодор Ромжа",
-            "la": "Theodorus Romzsa",
-            "en": "Theodore Romzha",
-            "pl": "Teodor Romża"
-        },
-        "records/patrons/theophilus/cae": {
-            "la": "Theophilus de Caesarea",
-            "en": "Theophilus of Caesarea",
-            "pl": "Teofil z Cezarei"
-        },
-        "records/patrons/theotimus/cae": {
-            "la": "Theotimus Caesariensis; cum eo, i.a., Philoteus",
-            "en": "Theotimus of Caesarea; with him, i.a., Philotheus",
-            "pl": "Teotym z Cezarei; z nim, m.in., Filoteusz"
-        },
-        "records/patrons/thomas/apo": {
-            "la": "Thomas Apostolus",
-            "en": "Thomas the Apostle",
-            "pl": "Tomasz Apostoł"
-        },
-        "records/patrons/thomas/bec": {
-            "en": "Thomas Becket",
-            "la": "Thomas Becket",
-            "pl": "Tomasz Becket"
-        },
-        "records/patrons/thomas/dan": {
-            "ja": "トマス談義者",
-            "la": "Thomas Dangi",
-            "en": "Thomas Dangi",
-            "pl": "Tomasz Dangi"
-        },
-        "records/patrons/thomas/gar": {
-            "en": "Thomas Garnet",
-            "la": "Thomas Garnet",
-            "pl": "Tomasz Garnet"
-        },
-        "records/patrons/thomas/hol": {
-            "en": "Thomas Holland",
-            "la": "Thomas Holland",
-            "pl": "Tomasz Holland"
-        },
-        "records/patrons/thomas/koz": {
-            "ja": "トマス小崎",
-            "la": "Thomas Kozaki",
-            "en": "Thomas Kozaki",
-            "pl": "Tomasz Kozaki"
-        },
-        "records/patrons/thomas/plu": {
-            "en": "Thomas Plumtree",
-            "la": "Thomas Plumtree",
-            "pl": "Tomasz Plumtree"
-        },
-        "records/patrons/thomas/sit": {
-            "es": "Tomás Sitjar Fortiá",
-            "la": "Thomas Sitjar Fortiá",
-            "en": "Thomas Sitjar Fortiá",
-            "pl": "Tomasz Sitjar Fortiá"
-        },
-        "records/patrons/thomas/son": {
-            "ko": "손자선 토마스",
-            "la": "Thomas Son Cha-sŏn",
-            "en": "Thomas Son Cha-sŏn",
-            "pl": "Tomasz Son Cha-sŏn"
-        },
-        "records/patrons/tiburtius/val": {
-            "la": "Tiburtius de Roma",
-            "en": "Tiburtius of Rome",
-            "pl": "Tyburcjusz z Rzymu"
-        },
-        "records/patrons/timotheus/cae": {
-            "la": "Timotheus Caesariensis; cum eo, i.a., Theotimus",
-            "en": "Timothy of Caesarea; with him, i.a., Theotimus",
-            "pl": "Tymoteusz z Cezarei; z nim, m.in., Teotym"
-        },
-        "records/patrons/timotheus/eph": {
-            "el": "Τιμόθεος",
-            "la": "Timotheus Ephesinus",
-            "en": "Timothy of Ephesus",
-            "pl": "Tymoteusz z Efezu"
-        },
-        "records/patrons/tobias/bor": {
-            "ca": "Tobías Borrás Romeu",
-            "la": "Tobias Borrás Romeu",
-            "en": "Tobias Borrás Romeu",
-            "pl": "Tobiasz Borrás Romeu"
-        },
-        "records/patrons/tranquillinus/rom": {
-            "la": "Tranquillinus de Roma",
-            "en": "Tranquillinus of Rome",
-            "pl": "Trankwilin z Rzymu"
-        },
-        "records/patrons/tryphon/phr": {
-            "la": "Tryphon de Phrygia",
-            "en": "Tryphon of Phrygia",
-            "pl": "Tryfon z Frygii"
-        },
-        "records/patrons/urbanus/1pp": {
-            "la": "Urbanus I",
-            "en": "Urban I",
-            "pl": "Urban I"
-        },
-        "records/patrons/ursula/vir": {
-            "de": "Ursula von Köln",
-            "la": "Ursula Coloniensis",
-            "en": "Ursula of Cologne",
-            "pl": "Urszula z Kolonii"
-        },
-        "records/patrons/vaccarus/eob": {
-            "la": "Vaccarus; cum eo, i.a., Eobanus",
-            "en": "Vaccarus; with him, i.a., Eoban",
-            "pl": "Wakkar; z nim, m.in. Eoban"
-        },
-        "records/patrons/valentinus/int": {
-            "la": "Valentinus Interamnensis",
-            "en": "Valentine of Terni",
-            "pl": "Walenty z Terni"
-        },
-        "records/patrons/valentinus/rom": {
-            "la": "Valentinus de Roma",
-            "en": "Valentine of Rome",
-            "pl": "Walenty z Rzymu"
-        },
-        "records/patrons/valerianus/tib": {
-            "la": "Valerianus de Roma",
-            "en": "Valerian of Rome",
-            "pl": "Walerian z Rzymu"
-        },
-        "records/patrons/venceslaus/boh": {
-            "cs": "Václav, český kníže",
-            "la": "Venceslaus, dux Bohemiae",
-            "en": "Wenceslaus, duke of Bohemia",
-            "pl": "Wacław, książę Czech"
-        },
-        "records/patrons/vestia/sci": {
-            "la": "Vestia de Scillium",
-            "en": "Vestia of Scillium",
-            "pl": "Westia ze Scilium"
-        },
-        "records/patrons/veturius/sci": {
-            "la": "Veturius de Scillium",
-            "en": "Veturius of Scillium",
-            "pl": "Weturiusz ze Scilium"
-        },
-        "records/patrons/viatrix/sim": {
-            "la": "Viatrix, cum ea, i.a., Simplicius",
-            "en": "Viatrice; with her, i.a., Simplicius",
-            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
-        },
-        "records/patrons/victor/1pp": {
-            "la": "Victor I",
-            "en": "Victor I",
-            "pl": "Wiktor I"
-        },
-        "records/patrons/victor/car": {
-            "la": "Victor Carthaginensis",
-            "en": "Victor of Carthage",
-            "pl": "Wiktor z Kartaginy"
-        },
-        "records/patrons/victor/pho": {
-            "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/victor/the": {
-            "la": "Victor Legionis Thebanae",
-            "en": "Victor of the Theban Legion",
-            "pl": "Wiktor z Legii Tebańskiej"
-        },
-        "records/patrons/victoria/gus": {
-            "fr": "Victoire Gusteau",
-            "la": "Victoria Gusteau",
-            "en": "Victoria Gusteau",
-            "pl": "Wiktoria Gusteau"
-        },
-        "records/patrons/victoria/ulm": {
-            "pl": "Wiktoria Ulma",
-            "la": "Victoria Ulma",
-            "en": "Victoria Ulma"
-        },
-        "records/patrons/victorinus/pet": {
-            "it": "Vittorino di Pettau",
-            "la": "Victorinus Petovionensis",
-            "en": "Victorinus of Pettau",
-            "pl": "Wiktoryn z Patawii"
-        },
-        "records/patrons/vincentius/mat": {
-            "pl": "Wincenty Matuszewski",
-            "la": "Vincentius Matuszewski",
-            "en": "Vincent Matuszewski"
-        },
-        "records/patrons/vincentius/xys": {
-            "la": "Vincentius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Vincent of Rome, subdeacon of Xystus II",
-            "pl": "Wincenty z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/vintrungus/eob": {
-            "la": "Vintrungus; cum eo, i.a., Eobanus",
-            "en": "Vintrungus; with him, i.a., Eoban",
-            "pl": "Wintrug; z nim, m.in. Eoban"
-        },
-        "records/patrons/vitalis/fel": {
-            "la": "Vitalis; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Vitalis; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Witalis; z nim, m.in., Feliks; jako Siedmiu Braci"
-        },
-        "records/patrons/vitalis/the": {
-            "la": "Vitalis Legionis Thebanae",
-            "en": "Vitalis of the Theban Legion",
-            "pl": "Witalis z Legii Tebańskiej"
-        },
-        "records/patrons/vladimirus/las": {
-            "pl": "Włodzimierz Laskowski",
-            "la": "Vladimirus Laskowski",
-            "en": "Vladimir Laskowski"
-        },
-        "records/patrons/xystus/2pp": {
-            "la": "Xystus Pp. II",
-            "en": "Sixtus II",
-            "pl": "Sykstus II"
-        },
-        "records/patrons/zebinas/cae": {
-            "la": "Zebinas Caesariensis",
-            "en": "Zebina of Caesarea",
-            "pl": "Zebinas z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/abundantius/abu",
+        "records/patrons/abundantius/abu",
+        "records/patrons/abundius/lat",
+        "records/patrons/abundius/lat",
+        "records/patrons/achilles/kiw",
+        "records/patrons/achilles/kiw",
+        "records/patrons/acutius/put",
+        "records/patrons/acutius/put",
+        "records/patrons/adalbertus/nie",
+        "records/patrons/adalbertus/nie",
+        "records/patrons/adalbertus/pra",
+        "records/patrons/adalbertus/pra",
+        "records/patrons/adelarius/eob",
+        "records/patrons/adelarius/eob",
+        "records/patrons/adolphus/lud",
+        "records/patrons/adolphus/lud",
+        "records/patrons/aemilianus/kov",
+        "records/patrons/aemilianus/kov",
+        "records/patrons/aemilius/szr",
+        "records/patrons/aemilius/szr",
+        "records/patrons/agapitus/xys",
+        "records/patrons/agapitus/xys",
+        "records/patrons/agatha/cat",
+        "records/patrons/agatha/cat",
+        "records/patrons/agatha/cho",
+        "records/patrons/agatha/cho",
+        "records/patrons/agathangelus/anc",
+        "records/patrons/agathangelus/anc",
+        "records/patrons/agnes/rom",
+        "records/patrons/agnes/rom",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/lov",
+        "records/patrons/alexander/ale",
+        "records/patrons/alexander/ale",
+        "records/patrons/alexander/dor",
+        "records/patrons/alexander/dor",
+        "records/patrons/alexander/fel",
+        "records/patrons/alexander/fel",
+        "records/patrons/alexius/zar",
+        "records/patrons/alexius/zar",
+        "records/patrons/alicia/kot",
+        "records/patrons/alicia/kot",
+        "records/patrons/aloysius/cam",
+        "records/patrons/aloysius/cam",
+        "records/patrons/aloysius/lig",
+        "records/patrons/aloysius/lig",
+        "records/patrons/alphonsus/maz",
+        "records/patrons/alphonsus/maz",
+        "records/patrons/ambrosius/kib",
+        "records/patrons/ambrosius/kib",
+        "records/patrons/ammonarion/ale",
+        "records/patrons/ammonarion/ale",
+        "records/patrons/ammonarion/alt",
+        "records/patrons/ammonarion/alt",
+        "records/patrons/amundus/eob",
+        "records/patrons/amundus/eob",
+        "records/patrons/anastasia/sir",
+        "records/patrons/anastasia/sir",
+        "records/patrons/anatolius/kir",
+        "records/patrons/anatolius/kir",
+        "records/patrons/anatolius/pho",
+        "records/patrons/anatolius/pho",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/apo",
+        "records/patrons/andreas/apo",
+        "records/patrons/andreas/bob",
+        "records/patrons/andreas/bob",
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/sov",
+        "records/patrons/andreas/sov",
+        "records/patrons/anicetus/kop",
+        "records/patrons/anicetus/kop",
+        "records/patrons/anna/kim",
+        "records/patrons/anna/kim",
+        "records/patrons/ansgarius/rom",
+        "records/patrons/ansgarius/rom",
+        "records/patrons/anthimus/aeg",
+        "records/patrons/anthimus/aeg",
+        "records/patrons/antiochus/ana",
+        "records/patrons/antiochus/ana",
+        "records/patrons/antonia/mes",
+        "records/patrons/antonia/mes",
+        "records/patrons/antoninus/apa",
+        "records/patrons/antoninus/apa",
+        "records/patrons/antoninus/mar",
+        "records/patrons/antoninus/mar",
+        "records/patrons/antoninus/nic",
+        "records/patrons/antoninus/nic",
+        "records/patrons/antonius/baj",
+        "records/patrons/antonius/baj",
+        "records/patrons/antonius/dan",
+        "records/patrons/antonius/dan",
+        "records/patrons/antonius/dav",
+        "records/patrons/antonius/dav",
+        "records/patrons/antonius/mar",
+        "records/patrons/antonius/mar",
+        "records/patrons/antonius/nag",
+        "records/patrons/antonius/nag",
+        "records/patrons/antonius/rew",
+        "records/patrons/antonius/rew",
+        "records/patrons/antonius/swi",
+        "records/patrons/antonius/swi",
+        "records/patrons/antonius/ulm",
+        "records/patrons/antonius/ulm",
+        "records/patrons/antonius/zaw",
+        "records/patrons/antonius/zaw",
+        "records/patrons/apollonia/ale",
+        "records/patrons/apollonia/ale",
+        "records/patrons/aquilinus/sci",
+        "records/patrons/aquilinus/sci",
+        "records/patrons/aristarchus/the",
+        "records/patrons/aristarchus/the",
+        "records/patrons/ateus/ale",
+        "records/patrons/ateus/ale",
+        "records/patrons/atevulfus/eob",
+        "records/patrons/atevulfus/eob",
+        "records/patrons/augustinus/cal",
+        "records/patrons/augustinus/cal",
+        "records/patrons/augustinus/gar",
+        "records/patrons/augustinus/gar",
+        "records/patrons/augustinus/zha",
+        "records/patrons/augustinus/zha",
+        "records/patrons/aurelius/sab",
+        "records/patrons/aurelius/sab",
+        "records/patrons/auxentius/cae",
+        "records/patrons/auxentius/cae",
+        "records/patrons/barbara/nic",
+        "records/patrons/barbara/nic",
+        "records/patrons/barbara/ulm",
+        "records/patrons/barbara/ulm",
+        "records/patrons/barnabas/apo",
+        "records/patrons/barnabas/apo",
+        "records/patrons/bartholomaeus/apo",
+        "records/patrons/bartholomaeus/apo",
+        "records/patrons/basilius/ant",
+        "records/patrons/basilius/ant",
+        "records/patrons/benignus/div",
+        "records/patrons/benignus/div",
+        "records/patrons/benignus/tud",
+        "records/patrons/benignus/tud",
+        "records/patrons/besas/ale",
+        "records/patrons/besas/ale",
+        "records/patrons/blasius/seb",
+        "records/patrons/blasius/seb",
+        "records/patrons/boleslaus/str",
+        "records/patrons/boleslaus/str",
+        "records/patrons/bonaventura/nag",
+        "records/patrons/bonaventura/nag",
+        "records/patrons/bonifatius/win",
+        "records/patrons/bonifatius/win",
+        "records/patrons/bonifatius/zuk",
+        "records/patrons/bonifatius/zuk",
+        "records/patrons/bosa/eob",
+        "records/patrons/bosa/eob",
+        "records/patrons/bronislaus/kom",
+        "records/patrons/bronislaus/kom",
+        "records/patrons/bronislaus/kos",
+        "records/patrons/bronislaus/kos",
+        "records/patrons/bruno/ser",
+        "records/patrons/bruno/ser",
+        "records/patrons/caecilia/rom",
+        "records/patrons/caecilia/rom",
+        "records/patrons/caelestina/far",
+        "records/patrons/caelestina/far",
+        "records/patrons/caerealis/rom",
+        "records/patrons/caerealis/rom",
+        "records/patrons/caesarius/tar",
+        "records/patrons/caesarius/tar",
+        "records/patrons/candidus/the",
+        "records/patrons/candidus/the",
+        "records/patrons/caritas/rom",
+        "records/patrons/caritas/rom",
+        "records/patrons/carola/luc",
+        "records/patrons/carola/luc",
+        "records/patrons/carolina/koz",
+        "records/patrons/carolina/koz",
+        "records/patrons/carolus/bon",
+        "records/patrons/carolus/bon",
+        "records/patrons/carolus/cho",
+        "records/patrons/carolus/cho",
+        "records/patrons/carolus/gar",
+        "records/patrons/carolus/gar",
+        "records/patrons/carolus/lwa",
+        "records/patrons/carolus/lwa",
+        "records/patrons/casimirus/gre",
+        "records/patrons/casimirus/gre",
+        "records/patrons/casimirus/syk",
+        "records/patrons/casimirus/syk",
+        "records/patrons/catharina/ale",
+        "records/patrons/catharina/ale",
+        "records/patrons/catharina/ver",
+        "records/patrons/catharina/ver",
+        "records/patrons/catharina/yiv",
+        "records/patrons/catharina/yiv",
+        "records/patrons/ceslaus/joz",
+        "records/patrons/ceslaus/joz",
+        "records/patrons/chaeremon/nil",
+        "records/patrons/chaeremon/nil",
+        "records/patrons/christina/per",
+        "records/patrons/christina/per",
+        "records/patrons/christophorus/lyc",
+        "records/patrons/christophorus/lyc",
+        "records/patrons/christophorus/mag",
+        "records/patrons/christophorus/mag",
+        "records/patrons/chrysanthus/dar",
+        "records/patrons/chrysanthus/dar",
+        "records/patrons/cittinus/sci",
+        "records/patrons/cittinus/sci",
+        "records/patrons/claudius/mar",
+        "records/patrons/claudius/mar",
+        "records/patrons/clemens/aga",
+        "records/patrons/clemens/aga",
+        "records/patrons/clemens/sep",
+        "records/patrons/clemens/sep",
+        "records/patrons/clementina/nen",
+        "records/patrons/clementina/nen",
+        "records/patrons/columba/kim",
+        "records/patrons/columba/kim",
+        "records/patrons/cornelius/1pp",
+        "records/patrons/cornelius/1pp",
+        "records/patrons/cosmas/dam",
+        "records/patrons/cosmas/dam",
+        "records/patrons/cosmas/tak",
+        "records/patrons/cosmas/tak",
+        "records/patrons/crescentianus/car",
+        "records/patrons/crescentianus/car",
+        "records/patrons/crispina/tha",
+        "records/patrons/crispina/tha",
+        "records/patrons/cyprianus/car",
+        "records/patrons/cyprianus/car",
+        "records/patrons/cyriaca/pho",
+        "records/patrons/cyriaca/pho",
+        "records/patrons/cyriacus/seb",
+        "records/patrons/cyriacus/seb",
+        "records/patrons/cyrinius/mar",
+        "records/patrons/cyrinius/mar",
+        "records/patrons/damianus/cos",
+        "records/patrons/damianus/cos",
+        "records/patrons/daria/chr",
+        "records/patrons/daria/chr",
+        "records/patrons/david/oke",
+        "records/patrons/david/oke",
+        "records/patrons/desiderius/ben",
+        "records/patrons/desiderius/ben",
+        "records/patrons/didacus/vit",
+        "records/patrons/didacus/vit",
+        "records/patrons/dionysia/ale",
+        "records/patrons/dionysia/ale",
+        "records/patrons/dionysius/aqu",
+        "records/patrons/dionysius/aqu",
+        "records/patrons/dionysius/are",
+        "records/patrons/dionysius/are",
+        "records/patrons/dionysius/lut",
+        "records/patrons/dionysius/lut",
+        "records/patrons/dominicus/car",
+        "records/patrons/dominicus/car",
+        "records/patrons/domninus/cae",
+        "records/patrons/domninus/cae",
+        "records/patrons/donata/sci",
+        "records/patrons/donata/sci",
+        "records/patrons/dorothea/cae",
+        "records/patrons/dorothea/cae",
+        "records/patrons/eduardus/col",
+        "records/patrons/eduardus/col",
+        "records/patrons/eduardus/grz",
+        "records/patrons/eduardus/grz",
+        "records/patrons/eduardus/kaz",
+        "records/patrons/eduardus/kaz",
+        "records/patrons/eduardus/kli",
+        "records/patrons/eduardus/kli",
+        "records/patrons/eduardus/osb",
+        "records/patrons/eduardus/osb",
+        "records/patrons/eduardus/rex",
+        "records/patrons/eduardus/rex",
+        "records/patrons/eduardus/she",
+        "records/patrons/eduardus/she",
+        "records/patrons/eleutherius/dio",
+        "records/patrons/eleutherius/dio",
+        "records/patrons/eleutherius/nic",
+        "records/patrons/eleutherius/nic",
+        "records/patrons/ellurus/eob",
+        "records/patrons/ellurus/eob",
+        "records/patrons/emmanuel/lev",
+        "records/patrons/emmanuel/lev",
+        "records/patrons/emmerammus/rat",
+        "records/patrons/emmerammus/rat",
+        "records/patrons/eobanus/bon",
+        "records/patrons/eobanus/bon",
+        "records/patrons/epimachus/ale",
+        "records/patrons/epimachus/ale",
+        "records/patrons/erasmus/for",
+        "records/patrons/erasmus/for",
+        "records/patrons/eulalia/eme",
+        "records/patrons/eulalia/eme",
+        "records/patrons/eulogius/cor",
+        "records/patrons/eulogius/cor",
+        "records/patrons/eunus/iul",
+        "records/patrons/eunus/iul",
+        "records/patrons/euprepius/aeg",
+        "records/patrons/euprepius/aeg",
+        "records/patrons/eusebius/ver",
+        "records/patrons/eusebius/ver",
+        "records/patrons/euticius/put",
+        "records/patrons/euticius/put",
+        "records/patrons/exsuperius/the",
+        "records/patrons/exsuperius/the",
+        "records/patrons/ezechiel/pro",
+        "records/patrons/ezechiel/pro",
+        "records/patrons/faustinus/sim",
+        "records/patrons/faustinus/sim",
+        "records/patrons/felicianus/car",
+        "records/patrons/felicianus/car",
+        "records/patrons/felicissimus/rog",
+        "records/patrons/felicissimus/rog",
+        "records/patrons/felicissimus/xys",
+        "records/patrons/felicissimus/xys",
+        "records/patrons/felicitas/car",
+        "records/patrons/felicitas/car",
+        "records/patrons/felicitas/pri",
+        "records/patrons/felicitas/pri",
+        "records/patrons/felicitas/rom",
+        "records/patrons/felicitas/rom",
+        "records/patrons/felix/2ap",
+        "records/patrons/felix/2ap",
+        "records/patrons/felix/aqu",
+        "records/patrons/felix/aqu",
+        "records/patrons/felix/lil",
+        "records/patrons/felix/lil",
+        "records/patrons/felix/phi",
+        "records/patrons/felix/phi",
+        "records/patrons/felix/rom",
+        "records/patrons/felix/rom",
+        "records/patrons/felix/sci",
+        "records/patrons/felix/sci",
+        "records/patrons/festus/ben",
+        "records/patrons/festus/ben",
+        "records/patrons/fidelis/sig",
+        "records/patrons/fidelis/sig",
+        "records/patrons/fides/rom",
+        "records/patrons/fides/rom",
+        "records/patrons/flavius/cle",
+        "records/patrons/flavius/cle",
+        "records/patrons/florianus/lau",
+        "records/patrons/florianus/lau",
+        "records/patrons/florianus/ste",
+        "records/patrons/florianus/ste",
+        "records/patrons/franciscus/ada",
+        "records/patrons/franciscus/ada",
+        "records/patrons/franciscus/bla",
+        "records/patrons/franciscus/bla",
+        "records/patrons/franciscus/drz",
+        "records/patrons/franciscus/drz",
+        "records/patrons/franciscus/kes",
+        "records/patrons/franciscus/kes",
+        "records/patrons/franciscus/mea",
+        "records/patrons/franciscus/mea",
+        "records/patrons/franciscus/par",
+        "records/patrons/franciscus/par",
+        "records/patrons/franciscus/rog",
+        "records/patrons/franciscus/rog",
+        "records/patrons/franciscus/ros",
+        "records/patrons/franciscus/ros",
+        "records/patrons/franciscus/str",
+        "records/patrons/franciscus/str",
+        "records/patrons/franciscus/ulm",
+        "records/patrons/franciscus/ulm",
+        "records/patrons/gabriel/duf",
+        "records/patrons/gabriel/duf",
+        "records/patrons/gabriel/lal",
+        "records/patrons/gabriel/lal",
+        "records/patrons/gabriel/nag",
+        "records/patrons/gabriel/nag",
+        "records/patrons/generalis/car",
+        "records/patrons/generalis/car",
+        "records/patrons/generosa/sci",
+        "records/patrons/generosa/sci",
+        "records/patrons/georgius/kas",
+        "records/patrons/georgius/kas",
+        "records/patrons/georgius/mar",
+        "records/patrons/georgius/mar",
+        "records/patrons/georgius/pop",
+        "records/patrons/georgius/pop",
+        "records/patrons/gerardus/sag",
+        "records/patrons/gerardus/sag",
+        "records/patrons/germanus/cae",
+        "records/patrons/germanus/cae",
+        "records/patrons/gildus/irw",
+        "records/patrons/gildus/irw",
+        "records/patrons/gonzaga/gon",
+        "records/patrons/gonzaga/gon",
+        "records/patrons/gordianus/rom",
+        "records/patrons/gordianus/rom",
+        "records/patrons/gregorius/fra",
+        "records/patrons/gregorius/fra",
+        "records/patrons/gregorius/lak",
+        "records/patrons/gregorius/lak",
+        "records/patrons/gualterius/eob",
+        "records/patrons/gualterius/eob",
+        "records/patrons/gulielmus/rep",
+        "records/patrons/gulielmus/rep",
+        "records/patrons/gundecarus/eob",
+        "records/patrons/gundecarus/eob",
+        "records/patrons/gundisalvus/gar",
+        "records/patrons/gundisalvus/gar",
+        "records/patrons/gyavira/lwa",
+        "records/patrons/gyavira/lwa",
+        "records/patrons/henricus/hle",
+        "records/patrons/henricus/hle",
+        "records/patrons/henricus/krz",
+        "records/patrons/henricus/krz",
+        "records/patrons/henricus/mor",
+        "records/patrons/henricus/mor",
+        "records/patrons/heron/ale",
+        "records/patrons/heron/ale",
+        "records/patrons/hilarion/pro",
+        "records/patrons/hilarion/pro",
+        "records/patrons/hilarius/aqu",
+        "records/patrons/hilarius/aqu",
+        "records/patrons/hilarius/jan",
+        "records/patrons/hilarius/jan",
+        "records/patrons/hippolytus/rom",
+        "records/patrons/hippolytus/rom",
+        "records/patrons/iacobus/ber",
+        "records/patrons/iacobus/ber",
+        "records/patrons/iacobus/buz",
+        "records/patrons/iacobus/buz",
+        "records/patrons/iacobus/duc",
+        "records/patrons/iacobus/duc",
+        "records/patrons/iacobus/gag",
+        "records/patrons/iacobus/gag",
+        "records/patrons/iacobus/kis",
+        "records/patrons/iacobus/kis",
+        "records/patrons/iacobus/mai",
+        "records/patrons/iacobus/mai",
+        "records/patrons/iacobus/min",
+        "records/patrons/iacobus/min",
+        "records/patrons/ianuaria/sci",
+        "records/patrons/ianuaria/sci",
+        "records/patrons/ianuarius/ben",
+        "records/patrons/ianuarius/ben",
+        "records/patrons/ianuarius/fel",
+        "records/patrons/ianuarius/fel",
+        "records/patrons/ianuarius/xys",
+        "records/patrons/ianuarius/xys",
+        "records/patrons/iarognievus/woj",
+        "records/patrons/iarognievus/woj",
+        "records/patrons/ieremias/pro",
+        "records/patrons/ieremias/pro",
+        "records/patrons/iesus/men",
+        "records/patrons/iesus/men",
+        "records/patrons/ignatius/ant",
+        "records/patrons/ignatius/ant",
+        "records/patrons/ignatius/kim",
+        "records/patrons/ignatius/kim",
+        "records/patrons/ignatius/mal",
+        "records/patrons/ignatius/mal",
+        "records/patrons/innocentius/guz",
+        "records/patrons/innocentius/guz",
+        "records/patrons/innocentius/the",
+        "records/patrons/innocentius/the",
+        "records/patrons/ioachim/sak",
+        "records/patrons/ioachim/sak",
+        "records/patrons/ioanna/ver",
+        "records/patrons/ioanna/ver",
+        "records/patrons/ioannes/abu",
+        "records/patrons/ioannes/abu",
+        "records/patrons/ioannes/ada",
+        "records/patrons/ioannes/ada",
+        "records/patrons/ioannes/bap",
+        "records/patrons/ioannes/bap",
+        "records/patrons/ioannes/bod",
+        "records/patrons/ioannes/bod",
+        "records/patrons/ioannes/bre",
+        "records/patrons/ioannes/bre",
+        "records/patrons/ioannes/con",
+        "records/patrons/ioannes/con",
+        "records/patrons/ioannes/ham",
+        "records/patrons/ioannes/ham",
+        "records/patrons/ioannes/kin",
+        "records/patrons/ioannes/kin",
+        "records/patrons/ioannes/lal",
+        "records/patrons/ioannes/lal",
+        "records/patrons/ioannes/low",
+        "records/patrons/ioannes/low",
+        "records/patrons/ioannes/nep",
+        "records/patrons/ioannes/nep",
+        "records/patrons/ioannes/ogi",
+        "records/patrons/ioannes/ogi",
+        "records/patrons/ioannes/roc",
+        "records/patrons/ioannes/roc",
+        "records/patrons/ioannes/sar",
+        "records/patrons/ioannes/sar",
+        "records/patrons/ioannes/soa",
+        "records/patrons/ioannes/soa",
+        "records/patrons/ioannes/ven",
+        "records/patrons/ioannes/ven",
+        "records/patrons/ioannes/yik",
+        "records/patrons/ioannes/yik",
+        "records/patrons/iosaphat/kun",
+        "records/patrons/iosaphat/kun",
+        "records/patrons/ioseph/pho",
+        "records/patrons/ioseph/pho",
+        "records/patrons/iosephus/cha",
+        "records/patrons/iosephus/cha",
+        "records/patrons/iosephus/jan",
+        "records/patrons/iosephus/jan",
+        "records/patrons/iosephus/kur",
+        "records/patrons/iosephus/kur",
+        "records/patrons/iosephus/kut",
+        "records/patrons/iosephus/kut",
+        "records/patrons/iosephus/mor",
+        "records/patrons/iosephus/mor",
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/paw",
+        "records/patrons/iosephus/paw",
+        "records/patrons/iosephus/str",
+        "records/patrons/iosephus/str",
+        "records/patrons/iosephus/tua",
+        "records/patrons/iosephus/tua",
+        "records/patrons/iosephus/tun",
+        "records/patrons/iosephus/tun",
+        "records/patrons/iosephus/ulm",
+        "records/patrons/iosephus/ulm",
+        "records/patrons/iosephus/yua",
+        "records/patrons/iosephus/yua",
+        "records/patrons/iosephus/zab",
+        "records/patrons/iosephus/zab",
+        "records/patrons/iosephus/zap",
+        "records/patrons/iosephus/zap",
+        "records/patrons/irenaeus/lug",
+        "records/patrons/irenaeus/lug",
+        "records/patrons/irenaeus/sir",
+        "records/patrons/irenaeus/sir",
+        "records/patrons/isaac/jog",
+        "records/patrons/isaac/jog",
+        "records/patrons/isaias/pro",
+        "records/patrons/isaias/pro",
+        "records/patrons/ischyrion/aeg",
+        "records/patrons/ischyrion/aeg",
+        "records/patrons/isidorus/ale",
+        "records/patrons/isidorus/ale",
+        "records/patrons/iudas/tha",
+        "records/patrons/iudas/tha",
+        "records/patrons/iulia/rod",
+        "records/patrons/iulia/rod",
+        "records/patrons/iuliana/cam",
+        "records/patrons/iuliana/cam",
+        "records/patrons/iulianus/eun",
+        "records/patrons/iulianus/eun",
+        "records/patrons/iulianus/tar",
+        "records/patrons/iulianus/tar",
+        "records/patrons/iulitta/cae",
+        "records/patrons/iulitta/cae",
+        "records/patrons/iulitta/kim",
+        "records/patrons/iulitta/kim",
+        "records/patrons/iulitta/qui",
+        "records/patrons/iulitta/qui",
+        "records/patrons/iustina/pat",
+        "records/patrons/iustina/pat",
+        "records/patrons/iustinus/phi",
+        "records/patrons/iustinus/phi",
+        "records/patrons/iustus/pas",
+        "records/patrons/iustus/pas",
+        "records/patrons/kizito/lwa",
+        "records/patrons/kizito/lwa",
+        "records/patrons/ladislaus/gor",
+        "records/patrons/ladislaus/gor",
+        "records/patrons/ladislaus/ulm",
+        "records/patrons/ladislaus/ulm",
+        "records/patrons/laetantius/sci",
+        "records/patrons/laetantius/sci",
+        "records/patrons/largus/aqu",
+        "records/patrons/largus/aqu",
+        "records/patrons/laurentius/bat",
+        "records/patrons/laurentius/bat",
+        "records/patrons/laurentius/rom",
+        "records/patrons/laurentius/rom",
+        "records/patrons/leo/kar",
+        "records/patrons/leo/kar",
+        "records/patrons/leo/now",
+        "records/patrons/leo/now",
+        "records/patrons/leontius/aeg",
+        "records/patrons/leontius/aeg",
+        "records/patrons/liliosa/fel",
+        "records/patrons/liliosa/fel",
+        "records/patrons/lucas/ban",
+        "records/patrons/lucas/ban",
+        "records/patrons/lucas/hwa",
+        "records/patrons/lucas/hwa",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kin",
+        "records/patrons/lucia/kin",
+        "records/patrons/lucia/syr",
+        "records/patrons/lucia/syr",
+        "records/patrons/lucianus/ant",
+        "records/patrons/lucianus/ant",
+        "records/patrons/ludovica/bes",
+        "records/patrons/ludovica/bes",
+        "records/patrons/ludovica/poi",
+        "records/patrons/ludovica/poi",
+        "records/patrons/ludovicus/gie",
+        "records/patrons/ludovicus/gie",
+        "records/patrons/ludovicus/iba",
+        "records/patrons/ludovicus/iba",
+        "records/patrons/ludovicus/mzy",
+        "records/patrons/ludovicus/mzy",
+        "records/patrons/macarius/ale",
+        "records/patrons/macarius/ale",
+        "records/patrons/magdalena/cho",
+        "records/patrons/magdalena/cho",
+        "records/patrons/magdalena/hok",
+        "records/patrons/magdalena/hok",
+        "records/patrons/magdalena/pak",
+        "records/patrons/magdalena/pak",
+        "records/patrons/magdalena/yiy",
+        "records/patrons/magdalena/yiy",
+        "records/patrons/magnus/xys",
+        "records/patrons/magnus/xys",
+        "records/patrons/manathas/cae",
+        "records/patrons/manathas/cae",
+        "records/patrons/marcellianus/mar",
+        "records/patrons/marcellianus/mar",
+        "records/patrons/marcellinus/1pp",
+        "records/patrons/marcellinus/1pp",
+        "records/patrons/marcellus/1pp",
+        "records/patrons/marcellus/1pp",
+        "records/patrons/marcianus/abu",
+        "records/patrons/marcianus/abu",
+        "records/patrons/marcus/eva",
+        "records/patrons/marcus/eva",
+        "records/patrons/marcus/hie",
+        "records/patrons/marcus/hie",
+        "records/patrons/marcus/mar",
+        "records/patrons/marcus/mar",
+        "records/patrons/margarita/war",
+        "records/patrons/margarita/war",
+        "records/patrons/maria/bie",
+        "records/patrons/maria/bie",
+        "records/patrons/maria/bor",
+        "records/patrons/maria/bor",
+        "records/patrons/maria/chr",
+        "records/patrons/maria/chr",
+        "records/patrons/maria/cie",
+        "records/patrons/maria/cie",
+        "records/patrons/maria/hac",
+        "records/patrons/maria/hac",
+        "records/patrons/maria/joz",
+        "records/patrons/maria/joz",
+        "records/patrons/maria/kra",
+        "records/patrons/maria/kra",
+        "records/patrons/maria/kuk",
+        "records/patrons/maria/kuk",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mar",
+        "records/patrons/maria/mar",
+        "records/patrons/maria/mat",
+        "records/patrons/maria/mat",
+        "records/patrons/maria/nar",
+        "records/patrons/maria/nar",
+        "records/patrons/maria/rap",
+        "records/patrons/maria/rap",
+        "records/patrons/maria/ulm",
+        "records/patrons/maria/ulm",
+        "records/patrons/maria/ver",
+        "records/patrons/maria/ver",
+        "records/patrons/maria/won",
+        "records/patrons/maria/won",
+        "records/patrons/maria/zak",
+        "records/patrons/maria/zak",
+        "records/patrons/marianus/gor",
+        "records/patrons/marianus/gor",
+        "records/patrons/marianus/kon",
+        "records/patrons/marianus/kon",
+        "records/patrons/marina/pis",
+        "records/patrons/marina/pis",
+        "records/patrons/martha/kim",
+        "records/patrons/martha/kim",
+        "records/patrons/martialis/fel",
+        "records/patrons/martialis/fel",
+        "records/patrons/martinus/1pp",
+        "records/patrons/martinus/1pp",
+        "records/patrons/martinus/agu",
+        "records/patrons/martinus/agu",
+        "records/patrons/martinus/hui",
+        "records/patrons/martinus/hui",
+        "records/patrons/martinus/tad",
+        "records/patrons/martinus/tad",
+        "records/patrons/martinus/tho",
+        "records/patrons/martinus/tho",
+        "records/patrons/matthaeus/eva",
+        "records/patrons/matthaeus/eva",
+        "records/patrons/matthias/apo",
+        "records/patrons/matthias/apo",
+        "records/patrons/matthias/nag",
+        "records/patrons/matthias/nag",
+        "records/patrons/mauritius/the",
+        "records/patrons/mauritius/the",
+        "records/patrons/maximilianus/kol",
+        "records/patrons/maximilianus/kol",
+        "records/patrons/maximus/rom",
+        "records/patrons/maximus/rom",
+        "records/patrons/mbaya/tuz",
+        "records/patrons/mbaya/tuz",
+        "records/patrons/mercuria/ale",
+        "records/patrons/mercuria/ale",
+        "records/patrons/mgagga/lwa",
+        "records/patrons/mgagga/lwa",
+        "records/patrons/michael/koz",
+        "records/patrons/michael/koz",
+        "records/patrons/michael/kzk",
+        "records/patrons/michael/kzk",
+        "records/patrons/michael/nak",
+        "records/patrons/michael/nak",
+        "records/patrons/michael/tom",
+        "records/patrons/michael/tom",
+        "records/patrons/michael/woz",
+        "records/patrons/michael/woz",
+        "records/patrons/monica/pic",
+        "records/patrons/monica/pic",
+        "records/patrons/mukasa/kir",
+        "records/patrons/mukasa/kir",
+        "records/patrons/multa/abr",
+        "records/patrons/multa/abr",
+        "records/patrons/multa/aeg",
+        "records/patrons/multa/aeg",
+        "records/patrons/multa/ama",
+        "records/patrons/multa/ama",
+        "records/patrons/multa/bon",
+        "records/patrons/multa/bon",
+        "records/patrons/multa/cae",
+        "records/patrons/multa/cae",
+        "records/patrons/multa/cvq",
+        "records/patrons/multa/cvq",
+        "records/patrons/multa/dps",
+        "records/patrons/multa/dps",
+        "records/patrons/multa/dus",
+        "records/patrons/multa/dus",
+        "records/patrons/multa/dva",
+        "records/patrons/multa/dva",
+        "records/patrons/multa/lug",
+        "records/patrons/multa/lug",
+        "records/patrons/multa/mar",
+        "records/patrons/multa/mar",
+        "records/patrons/multa/nid",
+        "records/patrons/multa/nid",
+        "records/patrons/multa/nie",
+        "records/patrons/multa/nie",
+        "records/patrons/multa/nim",
+        "records/patrons/multa/nim",
+        "records/patrons/multa/nip",
+        "records/patrons/multa/nip",
+        "records/patrons/multa/niv",
+        "records/patrons/multa/niv",
+        "records/patrons/multa/qda",
+        "records/patrons/multa/qda",
+        "records/patrons/multa/rvu",
+        "records/patrons/multa/rvu",
+        "records/patrons/multa/sad",
+        "records/patrons/multa/sad",
+        "records/patrons/multa/sfa",
+        "records/patrons/multa/sfa",
+        "records/patrons/multa/sms",
+        "records/patrons/multa/sms",
+        "records/patrons/multa/the",
+        "records/patrons/multa/the",
+        "records/patrons/multa/urs",
+        "records/patrons/multa/urs",
+        "records/patrons/myron/cyz",
+        "records/patrons/myron/cyz",
+        "records/patrons/narcissus/put",
+        "records/patrons/narcissus/put",
+        "records/patrons/narcissus/tur",
+        "records/patrons/narcissus/tur",
+        "records/patrons/nartzales/sci",
+        "records/patrons/nartzales/sci",
+        "records/patrons/natalia/tul",
+        "records/patrons/natalia/tul",
+        "records/patrons/natalis/cha",
+        "records/patrons/natalis/cha",
+        "records/patrons/nemesius/ale",
+        "records/patrons/nemesius/ale",
+        "records/patrons/nicephorus/cae",
+        "records/patrons/nicephorus/cae",
+        "records/patrons/noe/maw",
+        "records/patrons/noe/maw",
+        "records/patrons/nympha/try",
+        "records/patrons/nympha/try",
+        "records/patrons/onesiphorus/apo",
+        "records/patrons/onesiphorus/apo",
+        "records/patrons/oswaldus/nor",
+        "records/patrons/oswaldus/nor",
+        "records/patrons/pancratius/rom",
+        "records/patrons/pancratius/rom",
+        "records/patrons/pantaleon/nic",
+        "records/patrons/pantaleon/nic",
+        "records/patrons/parasceve/pho",
+        "records/patrons/parasceve/pho",
+        "records/patrons/pastor/ius",
+        "records/patrons/pastor/ius",
+        "records/patrons/paulus/apo",
+        "records/patrons/paulus/apo",
+        "records/patrons/paulus/con",
+        "records/patrons/paulus/con",
+        "records/patrons/paulus/iba",
+        "records/patrons/paulus/iba",
+        "records/patrons/paulus/mik",
+        "records/patrons/paulus/mik",
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/suz",
+        "records/patrons/paulus/suz",
+        "records/patrons/perpetua/car",
+        "records/patrons/perpetua/car",
+        "records/patrons/perpetua/hon",
+        "records/patrons/perpetua/hon",
+        "records/patrons/petrus/apo",
+        "records/patrons/petrus/apo",
+        "records/patrons/petrus/aum",
+        "records/patrons/petrus/aum",
+        "records/patrons/petrus/bla",
+        "records/patrons/petrus/bla",
+        "records/patrons/petrus/cal",
+        "records/patrons/petrus/cal",
+        "records/patrons/petrus/dan",
+        "records/patrons/petrus/dan",
+        "records/patrons/petrus/fav",
+        "records/patrons/petrus/fav",
+        "records/patrons/petrus/fre",
+        "records/patrons/petrus/fre",
+        "records/patrons/petrus/suk",
+        "records/patrons/petrus/suk",
+        "records/patrons/petrus/wug",
+        "records/patrons/petrus/wug",
+        "records/patrons/philappianus/fel",
+        "records/patrons/philappianus/fel",
+        "records/patrons/philippus/apo",
+        "records/patrons/philippus/apo",
+        "records/patrons/philippus/fel",
+        "records/patrons/philippus/fel",
+        "records/patrons/philippus/las",
+        "records/patrons/philippus/las",
+        "records/patrons/philomena/rom",
+        "records/patrons/philomena/rom",
+        "records/patrons/philoteus/cae",
+        "records/patrons/philoteus/cae",
+        "records/patrons/photina/sam",
+        "records/patrons/photina/sam",
+        "records/patrons/photis/pho",
+        "records/patrons/photis/pho",
+        "records/patrons/photius/pho",
+        "records/patrons/photius/pho",
+        "records/patrons/pius/bar",
+        "records/patrons/pius/bar",
+        "records/patrons/polycarpus/rom",
+        "records/patrons/polycarpus/rom",
+        "records/patrons/polycarpus/smy",
+        "records/patrons/polycarpus/smy",
+        "records/patrons/pontianus/1pp",
+        "records/patrons/pontianus/1pp",
+        "records/patrons/porphyrius/one",
+        "records/patrons/porphyrius/one",
+        "records/patrons/proclus/hil",
+        "records/patrons/proclus/hil",
+        "records/patrons/procopius/cae",
+        "records/patrons/procopius/cae",
+        "records/patrons/proculus/put",
+        "records/patrons/proculus/put",
+        "records/patrons/quartus/xys",
+        "records/patrons/quartus/xys",
+        "records/patrons/quiricus/iul",
+        "records/patrons/quiricus/iul",
+        "records/patrons/renatus/gou",
+        "records/patrons/renatus/gou",
+        "records/patrons/respicius/try",
+        "records/patrons/respicius/try",
+        "records/patrons/revocatus/car",
+        "records/patrons/revocatus/car",
+        "records/patrons/richardus/lei",
+        "records/patrons/richardus/lei",
+        "records/patrons/richardus/llo",
+        "records/patrons/richardus/llo",
+        "records/patrons/richardus/mar",
+        "records/patrons/richardus/mar",
+        "records/patrons/robertus/dib",
+        "records/patrons/robertus/dib",
+        "records/patrons/rogatianus/car",
+        "records/patrons/rogatianus/car",
+        "records/patrons/romanus/ada",
+        "records/patrons/romanus/ada",
+        "records/patrons/romanus/arc",
+        "records/patrons/romanus/arc",
+        "records/patrons/rosa/kim",
+        "records/patrons/rosa/kim",
+        "records/patrons/rosula/car",
+        "records/patrons/rosula/car",
+        "records/patrons/rufus/sim",
+        "records/patrons/rufus/sim",
+        "records/patrons/rusticus/dio",
+        "records/patrons/rusticus/dio",
+        "records/patrons/sabigothon/aur",
+        "records/patrons/sabigothon/aur",
+        "records/patrons/sadochus/san",
+        "records/patrons/sadochus/san",
+        "records/patrons/sallustia/rom",
+        "records/patrons/sallustia/rom",
+        "records/patrons/saturninus/car",
+        "records/patrons/saturninus/car",
+        "records/patrons/saturninus/tol",
+        "records/patrons/saturninus/tol",
+        "records/patrons/satyrus/car",
+        "records/patrons/satyrus/car",
+        "records/patrons/sbigneus/str",
+        "records/patrons/sbigneus/str",
+        "records/patrons/sebastianus/nam",
+        "records/patrons/sebastianus/nam",
+        "records/patrons/sebastianus/pho",
+        "records/patrons/sebastianus/pho",
+        "records/patrons/secunda/sci",
+        "records/patrons/secunda/sci",
+        "records/patrons/secundinus/car",
+        "records/patrons/secundinus/car",
+        "records/patrons/secundus/ast",
+        "records/patrons/secundus/ast",
+        "records/patrons/serapion/alg",
+        "records/patrons/serapion/alg",
+        "records/patrons/sevibaldus/eob",
+        "records/patrons/sevibaldus/eob",
+        "records/patrons/sigismundus/rex",
+        "records/patrons/sigismundus/rex",
+        "records/patrons/silanus/fel",
+        "records/patrons/silanus/fel",
+        "records/patrons/silvanus/cae",
+        "records/patrons/silvanus/cae",
+        "records/patrons/simon/apo",
+        "records/patrons/simon/apo",
+        "records/patrons/simon/cos",
+        "records/patrons/simon/cos",
+        "records/patrons/simplicius/fau",
+        "records/patrons/simplicius/fau",
+        "records/patrons/sine/ulm",
+        "records/patrons/sine/ulm",
+        "records/patrons/sophia/fir",
+        "records/patrons/sophia/fir",
+        "records/patrons/sossius/mis",
+        "records/patrons/sossius/mis",
+        "records/patrons/speratus/sci",
+        "records/patrons/speratus/sci",
+        "records/patrons/spes/rom",
+        "records/patrons/spes/rom",
+        "records/patrons/stanislaus/cra",
+        "records/patrons/stanislaus/cra",
+        "records/patrons/stanislaus/kbs",
+        "records/patrons/stanislaus/kbs",
+        "records/patrons/stanislaus/kub",
+        "records/patrons/stanislaus/kub",
+        "records/patrons/stanislaus/mys",
+        "records/patrons/stanislaus/mys",
+        "records/patrons/stanislaus/sta",
+        "records/patrons/stanislaus/sta",
+        "records/patrons/stanislaus/str",
+        "records/patrons/stanislaus/str",
+        "records/patrons/stanislava/ulm",
+        "records/patrons/stanislava/ulm",
+        "records/patrons/stephanus/cue",
+        "records/patrons/stephanus/cue",
+        "records/patrons/stephanus/gre",
+        "records/patrons/stephanus/gre",
+        "records/patrons/stephanus/pro",
+        "records/patrons/stephanus/pro",
+        "records/patrons/stephanus/xys",
+        "records/patrons/stephanus/xys",
+        "records/patrons/susanna/rom",
+        "records/patrons/susanna/rom",
+        "records/patrons/tarsicius/aco",
+        "records/patrons/tarsicius/aco",
+        "records/patrons/tatianus/aqu",
+        "records/patrons/tatianus/aqu",
+        "records/patrons/teresia/ste",
+        "records/patrons/teresia/ste",
+        "records/patrons/teresia/yim",
+        "records/patrons/teresia/yim",
+        "records/patrons/thaddaeus/dul",
+        "records/patrons/thaddaeus/dul",
+        "records/patrons/theodorus/gra",
+        "records/patrons/theodorus/gra",
+        "records/patrons/theodorus/rom",
+        "records/patrons/theodorus/rom",
+        "records/patrons/theophilus/cae",
+        "records/patrons/theophilus/cae",
+        "records/patrons/theotimus/cae",
+        "records/patrons/theotimus/cae",
+        "records/patrons/thomas/apo",
+        "records/patrons/thomas/apo",
+        "records/patrons/thomas/bec",
+        "records/patrons/thomas/bec",
+        "records/patrons/thomas/dan",
+        "records/patrons/thomas/dan",
+        "records/patrons/thomas/gar",
+        "records/patrons/thomas/gar",
+        "records/patrons/thomas/hol",
+        "records/patrons/thomas/hol",
+        "records/patrons/thomas/koz",
+        "records/patrons/thomas/koz",
+        "records/patrons/thomas/plu",
+        "records/patrons/thomas/plu",
+        "records/patrons/thomas/sit",
+        "records/patrons/thomas/sit",
+        "records/patrons/thomas/son",
+        "records/patrons/thomas/son",
+        "records/patrons/tiburtius/val",
+        "records/patrons/tiburtius/val",
+        "records/patrons/timotheus/cae",
+        "records/patrons/timotheus/cae",
+        "records/patrons/timotheus/eph",
+        "records/patrons/timotheus/eph",
+        "records/patrons/tobias/bor",
+        "records/patrons/tobias/bor",
+        "records/patrons/tranquillinus/rom",
+        "records/patrons/tranquillinus/rom",
+        "records/patrons/tryphon/phr",
+        "records/patrons/tryphon/phr",
+        "records/patrons/urbanus/1pp",
+        "records/patrons/urbanus/1pp",
+        "records/patrons/ursula/vir",
+        "records/patrons/ursula/vir",
+        "records/patrons/vaccarus/eob",
+        "records/patrons/vaccarus/eob",
+        "records/patrons/valentinus/int",
+        "records/patrons/valentinus/int",
+        "records/patrons/valentinus/rom",
+        "records/patrons/valentinus/rom",
+        "records/patrons/valerianus/tib",
+        "records/patrons/valerianus/tib",
+        "records/patrons/venceslaus/boh",
+        "records/patrons/venceslaus/boh",
+        "records/patrons/vestia/sci",
+        "records/patrons/vestia/sci",
+        "records/patrons/veturius/sci",
+        "records/patrons/veturius/sci",
+        "records/patrons/viatrix/sim",
+        "records/patrons/viatrix/sim",
+        "records/patrons/victor/1pp",
+        "records/patrons/victor/1pp",
+        "records/patrons/victor/car",
+        "records/patrons/victor/car",
+        "records/patrons/victor/pho",
+        "records/patrons/victor/pho",
+        "records/patrons/victor/the",
+        "records/patrons/victor/the",
+        "records/patrons/victoria/gus",
+        "records/patrons/victoria/gus",
+        "records/patrons/victoria/ulm",
+        "records/patrons/victoria/ulm",
+        "records/patrons/victorinus/pet",
+        "records/patrons/victorinus/pet",
+        "records/patrons/vincentius/mat",
+        "records/patrons/vincentius/mat",
+        "records/patrons/vincentius/xys",
+        "records/patrons/vincentius/xys",
+        "records/patrons/vintrungus/eob",
+        "records/patrons/vintrungus/eob",
+        "records/patrons/vitalis/fel",
+        "records/patrons/vitalis/fel",
+        "records/patrons/vitalis/the",
+        "records/patrons/vitalis/the",
+        "records/patrons/vladimirus/las",
+        "records/patrons/vladimirus/las",
+        "records/patrons/xystus/2pp",
+        "records/patrons/xystus/2pp",
+        "records/patrons/zebinas/cae",
+        "records/patrons/zebinas/cae"
+    ]
 }

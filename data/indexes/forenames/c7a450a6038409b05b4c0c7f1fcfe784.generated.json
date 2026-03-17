@@ -16,17 +16,8 @@
             "Luciano"
         ]
     },
-    "links": {
-        "records/patrons/lucianus/ant": {
-            "la": "Lucianus de Antiochia",
-            "en": "Lucian of Antioch",
-            "pl": "Lucjan z Antiochii"
-        },
-        "records/patrons/lucianus/leo": {
-            "it": "Luciano di Lentini",
-            "la": "Lucianus de Leontini",
-            "en": "Lucian of Lentini",
-            "pl": "Lucjan z Lentini"
-        }
-    }
+    "links": [
+        "records/patrons/lucianus/ant",
+        "records/patrons/lucianus/leo"
+    ]
 }

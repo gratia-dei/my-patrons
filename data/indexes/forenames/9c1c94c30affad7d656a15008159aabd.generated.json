@@ -13,11 +13,7 @@
             "Rogacjan"
         ]
     },
-    "links": {
-        "records/patrons/rogatianus/car": {
-            "la": "Rogatianus Carthaginensis",
-            "en": "Rogatian of Carthage",
-            "pl": "Rogacjan z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/rogatianus/car"
+    ]
 }

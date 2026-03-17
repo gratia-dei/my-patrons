@@ -15,11 +15,9 @@
             "Marina"
         ]
     },
-    "links": {
-        "records/patrons/marina/pis": {
-            "la": "Marina Margarita Antiochena",
-            "en": "Marina Margaret of Antioch",
-            "pl": "Marina Małgorzata z Antiochii"
-        }
-    }
+    "links": [
+        "records/patrons/marina/pis",
+        "records/patrons/marina/pis",
+        "records/patrons/marina/pis"
+    ]
 }

@@ -7,12 +7,7 @@
             "Gárate"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/gar": {
-            "es": "Francisco Gárate Aranguren",
-            "la": "Franciscus Gárate Aranguren",
-            "en": "Francis Gárate Aranguren",
-            "pl": "Franciszek Gárate Aranguren"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/gar"
+    ]
 }

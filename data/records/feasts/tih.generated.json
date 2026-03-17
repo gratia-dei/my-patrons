@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/ioannes/chr": {
-            "la": "Ioannes Chrysostomus",
-            "en": "John Chrysostom",
-            "pl": "Jan Chryzostom"
-        }
-    }
+    "links": [
+        "patrons/ioannes/chr"
+    ]
 }

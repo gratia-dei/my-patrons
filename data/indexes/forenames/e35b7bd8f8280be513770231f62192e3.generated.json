@@ -16,12 +16,7 @@
             "Toribio"
         ]
     },
-    "links": {
-        "records/patrons/turibius/mog": {
-            "es": "Toribio de Mogrovejo",
-            "la": "Turibius de Mogrovejo",
-            "en": "Turibius of Mogrovejo",
-            "pl": "Turybiusz de Mogrovejo"
-        }
-    }
+    "links": [
+        "records/patrons/turibius/mog"
+    ]
 }

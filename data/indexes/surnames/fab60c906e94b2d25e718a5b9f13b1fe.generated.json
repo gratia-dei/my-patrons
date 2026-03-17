@@ -16,12 +16,7 @@
             "Karasuma"
         ]
     },
-    "links": {
-        "records/patrons/leo/kar": {
-            "ja": "レオン烏丸",
-            "la": "Leo Karasuma",
-            "en": "Leo Karasuma",
-            "pl": "Leon Karasuma"
-        }
-    }
+    "links": [
+        "records/patrons/leo/kar"
+    ]
 }

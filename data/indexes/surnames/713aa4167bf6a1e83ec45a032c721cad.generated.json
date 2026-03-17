@@ -7,12 +7,7 @@
             "Kasper"
         ]
     },
-    "links": {
-        "records/patrons/maria/kas": {
-            "de": "Maria Katharina Kasper",
-            "la": "Maria Catharina Kasper",
-            "en": "Maria Katharina Kasper",
-            "pl": "Maria Katarzyna Kasper"
-        }
-    }
+    "links": [
+        "records/patrons/maria/kas"
+    ]
 }

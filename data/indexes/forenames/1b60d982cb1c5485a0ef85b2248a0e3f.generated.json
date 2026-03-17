@@ -14,11 +14,8 @@
             "Zozym"
         ]
     },
-    "links": {
-        "records/patrons/zosimus/1pp": {
-            "la": "Zosimus, papa",
-            "en": "Zosimus, pope",
-            "pl": "Zozym, papież"
-        }
-    }
+    "links": [
+        "records/patrons/zosimus/1pp",
+        "records/patrons/zosimus/1pp"
+    ]
 }

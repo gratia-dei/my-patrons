@@ -16,12 +16,7 @@
             "Kinuya"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/kin": {
-            "ja": "ヨハネ絹屋",
-            "la": "Ioannes Kinuya",
-            "en": "John Kinuya",
-            "pl": "Jan Kinuya"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/kin"
+    ]
 }

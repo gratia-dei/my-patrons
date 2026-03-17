@@ -1,10 +1,5 @@
 {
-    "links": {
-        "records/patrons/paulus/apo": {
-            "he": "שָׁאוּל התרס",
-            "la": "Paulus Tersensis",
-            "en": "Paul of Tarsus",
-            "pl": "Paweł z Tarsu"
-        }
-    }
+    "links": [
+        "patrons/paulus/apo"
+    ]
 }

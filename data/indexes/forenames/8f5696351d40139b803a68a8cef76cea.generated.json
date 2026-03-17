@@ -17,33 +17,16 @@
             "Олена"
         ]
     },
-    "links": {
-        "records/patrons/helena/ens": {
-            "it": "Elena Enselmini",
-            "la": "Helena Enselmini",
-            "en": "Helen Enselmini",
-            "pl": "Helena Enselmini"
-        },
-        "records/patrons/helena/mat": {
-            "la": "Helena, mater Constantini",
-            "en": "Helena, mother of Constantine",
-            "pl": "Helena, matka Konstantyna"
-        },
-        "records/patrons/maria/cie": {
-            "pl": "Maria Gwidona od Miłosierdzia Bożego",
-            "la": "Maria Guidona a Divina Misericordia",
-            "en": "Mary Guidona of Divine Mercy"
-        },
-        "records/patrons/maria/kow": {
-            "pl": "Maria Faustyna Kowalska",
-            "la": "Maria Faustina Kowalska",
-            "en": "Maria Faustyna Kowalska"
-        },
-        "records/patrons/olga/kio": {
-            "uk": "Ольга, княгиня",
-            "la": "Olga Kioviensis",
-            "en": "Olga of Kiev",
-            "pl": "Olga Kijowska"
-        }
-    }
+    "links": [
+        "records/patrons/helena/ens",
+        "records/patrons/helena/ens",
+        "records/patrons/helena/mat",
+        "records/patrons/helena/mat",
+        "records/patrons/maria/cie",
+        "records/patrons/maria/cie",
+        "records/patrons/maria/kow",
+        "records/patrons/maria/kow",
+        "records/patrons/olga/kio",
+        "records/patrons/olga/kio"
+    ]
 }

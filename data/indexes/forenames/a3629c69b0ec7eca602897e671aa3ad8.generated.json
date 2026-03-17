@@ -31,70 +31,17 @@
             "안나"
         ]
     },
-    "links": {
-        "records/patrons/anna/kim": {
-            "ko": "김장금 안나",
-            "la": "Anna Kim Chang-gŭm",
-            "en": "Anna Kim Chang-gŭm",
-            "pl": "Anna Kim Chang-gŭm"
-        },
-        "records/patrons/anna/mar": {
-            "he": "חַנָּה‎",
-            "la": "Anna, mater Mariae",
-            "en": "Anna, mother of Mary",
-            "pl": "Anna, matka Maryi"
-        },
-        "records/patrons/anna/pro": {
-            "he": "חנה, הנביאה",
-            "la": "Anna, prophetissa",
-            "en": "Anna, the Prophetess",
-            "pl": "Anna, prorokini"
-        },
-        "records/patrons/maria/bie": {
-            "pl": "Maria Anna Biernacka",
-            "la": "Maria Anna Biernacka",
-            "en": "Maria Anna Biernacka"
-        },
-        "records/patrons/maria/gal": {
-            "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
-            "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
-            "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
-            "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
-        },
-        "records/patrons/maria/hac": {
-            "fr": "Marie-Anne Hacher du Bois",
-            "la": "Maria Anna Hacher du Bois",
-            "en": "Mary Anna Hacher du Bois",
-            "pl": "Maria Anna Hacher du Bois"
-        },
-        "records/patrons/maria/hos": {
-            "de": "Maria Crescentia Höss",
-            "la": "Maria Crescentia Höss",
-            "en": "Mary Crescentia Höss",
-            "pl": "Maria Krescencja Höss"
-        },
-        "records/patrons/maria/kuk": {
-            "pl": "Maria Rajmunda od Jezusa i Maryi",
-            "la": "Maria Raymunda a Iesu et Maria",
-            "en": "Mary Raymunda of Jesus and Mary"
-        },
-        "records/patrons/maria/nav": {
-            "es": "María Ana de Jesús Navarro",
-            "la": "Maria Anna a Iesu Navarro",
-            "en": "Maria Anna of Jesus Navarro",
-            "pl": "Maria Anna od Jezusa Navarro"
-        },
-        "records/patrons/maria/rub": {
-            "it": "Maria Francesca di Gesù Rubatto",
-            "la": "Maria Francisca a Iesu Rubatto",
-            "en": "Maria Francesca of Jesus Rubatto",
-            "pl": "Maria Franciszka od Jezusa Rubatto"
-        },
-        "records/patrons/maria/sch": {
-            "de": "Maria Theresia Scherer",
-            "la": "Maria Theresia Scherer",
-            "en": "Maria Therese Scherer",
-            "pl": "Maria Teresa Scherer"
-        }
-    }
+    "links": [
+        "records/patrons/anna/kim",
+        "records/patrons/anna/mar",
+        "records/patrons/anna/pro",
+        "records/patrons/maria/bie",
+        "records/patrons/maria/gal",
+        "records/patrons/maria/hac",
+        "records/patrons/maria/hos",
+        "records/patrons/maria/kuk",
+        "records/patrons/maria/nav",
+        "records/patrons/maria/rub",
+        "records/patrons/maria/sch"
+    ]
 }

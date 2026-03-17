@@ -7,12 +7,7 @@
             "Bonino"
         ]
     },
-    "links": {
-        "records/patrons/iosephina/bon": {
-            "it": "Giuseppina Gabriella Bonino",
-            "la": "Iosephina Gabriela Bonino",
-            "en": "Josephine Gabriella Bonino",
-            "pl": "Józefina Gabriela Bonino"
-        }
-    }
+    "links": [
+        "records/patrons/iosephina/bon"
+    ]
 }

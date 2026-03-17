@@ -22,25 +22,9 @@
             "Gerardo"
         ]
     },
-    "links": {
-        "records/patrons/gerardus/abb": {
-            "fr": "Gérard de Brogne",
-            "la": "Gerardus Broniensis",
-            "en": "Gerard of Brogne",
-            "pl": "Gerard z Brogne"
-        },
-        "records/patrons/gerardus/maj": {
-            "it": "Gerardo Maiella",
-            "la": "Gerard Majella",
-            "en": "Gerard Majella",
-            "pl": "Gerard Majella"
-        },
-        "records/patrons/gerardus/sag": {
-            "it": "Gerardo Sagredo",
-            "hu": "Sagredo Gellért",
-            "la": "Gerardus Sagredo",
-            "en": "Gerard Sagredo",
-            "pl": "Gerard Sagredo"
-        }
-    }
+    "links": [
+        "records/patrons/gerardus/abb",
+        "records/patrons/gerardus/maj",
+        "records/patrons/gerardus/sag"
+    ]
 }

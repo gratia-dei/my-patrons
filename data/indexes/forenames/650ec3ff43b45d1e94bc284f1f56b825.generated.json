@@ -16,22 +16,9 @@
             "페르페투아"
         ]
     },
-    "links": {
-        "records/patrons/perpetua/car": {
-            "la": "Perpetua Carthaginensis",
-            "en": "Perpetua of Carthage",
-            "pl": "Perpetua z Kartaginy"
-        },
-        "records/patrons/perpetua/hon": {
-            "ko": "홍금주 페르페투아",
-            "la": "Perpetua Hong Kŭm-ju",
-            "en": "Perpetua Hong Kŭm-ju",
-            "pl": "Perpetua Hong Kŭm-ju"
-        },
-        "records/patrons/perpetua/rom": {
-            "la": "Perpetua Romana",
-            "en": "Perpetua of Rome",
-            "pl": "Perpetua z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/perpetua/car",
+        "records/patrons/perpetua/hon",
+        "records/patrons/perpetua/rom"
+    ]
 }

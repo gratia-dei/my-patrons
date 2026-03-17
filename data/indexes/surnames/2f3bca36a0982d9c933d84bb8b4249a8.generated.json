@@ -7,11 +7,7 @@
             "Kubski"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/kub": {
-            "pl": "Stanisław Kubski",
-            "la": "Stanislaus Kubski",
-            "en": "Stanislaus Kubski"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/kub"
+    ]
 }

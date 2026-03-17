@@ -2,8 +2,6 @@
 
 class GenerateLinksFromPersonsDataProcedure extends Procedure
 {
-    private const NAMES_INDEX = 'names';
-
     public function run(array $dataPaths, string $fieldName): void
     {
         $generatedFilesData = [];
@@ -34,16 +32,7 @@ class GenerateLinksFromPersonsDataProcedure extends Procedure
                 }
 
                 $key = "$indexName/$fileNameWithoutExtension";
-                $dataRow = $personsData[$key] ?? [];
-                if (count($dataRow) === 0) {
-                    $this->error("Missing persons for '$key'");
-                }
-
-                $dataToSet = [];
-                foreach ($dataRow as $pUrl => $pData) {
-                    $dataToSet[$fieldName]["$parentDirName/$pUrl"] = $pData;
-                }
-
+                $dataToSet[$fieldName] = $personsData[$key] ?? [];
                 $pathToSet = $this->getGeneratedFileSuffix(dirname($filePath) . '/' . $fileNameWithoutExtension);
 
                 $generatedFilesData[$pathToSet] = $dataToSet;
@@ -60,7 +49,7 @@ class GenerateLinksFromPersonsDataProcedure extends Procedure
         $personsData = $this->getPersonsData();
         foreach ($personsData as $url => $data) {
             foreach ($data[$index] ?? [] as $key => $val) {
-                $result[$key][$url] = $data[self::NAMES_INDEX];
+                $result[$key][] = $url;
             }
         }
 

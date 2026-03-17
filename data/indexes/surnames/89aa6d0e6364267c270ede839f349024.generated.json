@@ -7,12 +7,7 @@
             "Calungsod"
         ]
     },
-    "links": {
-        "records/patrons/petrus/cal": {
-            "tl": "Pedro Calungsod",
-            "la": "Petrus Calungsod",
-            "en": "Peter Calungsod",
-            "pl": "Piotr Calungsod"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/cal"
+    ]
 }

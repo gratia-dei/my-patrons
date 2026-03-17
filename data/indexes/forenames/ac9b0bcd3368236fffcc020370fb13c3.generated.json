@@ -16,12 +16,7 @@
             "کریستینا"
         ]
     },
-    "links": {
-        "records/patrons/christina/per": {
-            "fa": "کریستینای ایرانی",
-            "la": "Christina Persica",
-            "en": "Christina of Persia",
-            "pl": "Krystyna z Persji"
-        }
-    }
+    "links": [
+        "records/patrons/christina/per"
+    ]
 }

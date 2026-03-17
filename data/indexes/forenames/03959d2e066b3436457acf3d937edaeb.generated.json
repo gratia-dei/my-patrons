@@ -13,11 +13,7 @@
             "Symplicjan"
         ]
     },
-    "links": {
-        "records/patrons/simplicianus/med": {
-            "la": "Simplicianus Mediolanensis",
-            "en": "Simplician of Milan",
-            "pl": "Symplicjan z Mediolanu"
-        }
-    }
+    "links": [
+        "records/patrons/simplicianus/med"
+    ]
 }

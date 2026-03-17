@@ -17,12 +17,7 @@
             "Thekla"
         ]
     },
-    "links": {
-        "records/patrons/thecla/abb": {
-            "de": "Thekla von Kitzingen",
-            "la": "Thecla de Kitzingen",
-            "en": "Thecla of Kitzingen",
-            "pl": "Tekla z Kitzingen"
-        }
-    }
+    "links": [
+        "records/patrons/thecla/abb"
+    ]
 }

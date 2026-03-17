@@ -14,11 +14,8 @@
             "Nemezjusz"
         ]
     },
-    "links": {
-        "records/patrons/nemesius/ale": {
-            "la": "Nemesius Alexandrinus",
-            "en": "Nemesius of Alexandria",
-            "pl": "Nemezjusz z Aleksandrii"
-        }
-    }
+    "links": [
+        "records/patrons/nemesius/ale",
+        "records/patrons/nemesius/ale"
+    ]
 }

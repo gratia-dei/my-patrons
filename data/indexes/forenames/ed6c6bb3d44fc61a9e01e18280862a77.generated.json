@@ -16,17 +16,8 @@
             "マチアス"
         ]
     },
-    "links": {
-        "records/patrons/matthias/apo": {
-            "la": "Matthias Apostolus",
-            "en": "Matthias the Apostle",
-            "pl": "Maciej Apostoł"
-        },
-        "records/patrons/matthias/nag": {
-            "ja": "マチアス",
-            "la": "Matthias de Nagasaki",
-            "en": "Matthias of Nagasaki",
-            "pl": "Maciej z Nagasaki"
-        }
-    }
+    "links": [
+        "records/patrons/matthias/apo",
+        "records/patrons/matthias/nag"
+    ]
 }

@@ -7,12 +7,7 @@
             "de Paul"
         ]
     },
-    "links": {
-        "records/patrons/vincentius/pau": {
-            "fr": "Vincent de Paul",
-            "la": "Vincentius de Paul",
-            "en": "Vincent de Paul",
-            "pl": "Wincenty a Paulo"
-        }
-    }
+    "links": [
+        "records/patrons/vincentius/pau"
+    ]
 }

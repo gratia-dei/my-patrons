@@ -7,12 +7,7 @@
             "de Valois"
         ]
     },
-    "links": {
-        "records/patrons/ioanna/val": {
-            "fr": "Jeanne de Valois",
-            "la": "Ioanna de Valois",
-            "en": "Joan of Valois",
-            "pl": "Joanna de Valois"
-        }
-    }
+    "links": [
+        "records/patrons/ioanna/val"
+    ]
 }

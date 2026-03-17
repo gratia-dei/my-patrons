@@ -17,27 +17,14 @@
             "Sofia"
         ]
     },
-    "links": {
-        "records/patrons/angela/tru": {
-            "pl": "Angela Maria Truszkowska",
-            "la": "Angela Maria Truszkowska",
-            "en": "Angela Mary Truszkowska"
-        },
-        "records/patrons/sophia/fir": {
-            "it": "Sofia di Fermo",
-            "la": "Sophia Firmana",
-            "en": "Sophia of Fermo",
-            "pl": "Zofia z Fermo"
-        },
-        "records/patrons/sophia/mac": {
-            "pl": "Zofia Czeska",
-            "la": "Sophia Maciejowska-Czeska",
-            "en": "Sophia Maciejowska-Czeska"
-        },
-        "records/patrons/sophia/rom": {
-            "la": "Sophia de Roma",
-            "en": "Sophia of Rome",
-            "pl": "Zofia z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/angela/tru",
+        "records/patrons/angela/tru",
+        "records/patrons/sophia/fir",
+        "records/patrons/sophia/fir",
+        "records/patrons/sophia/mac",
+        "records/patrons/sophia/mac",
+        "records/patrons/sophia/rom",
+        "records/patrons/sophia/rom"
+    ]
 }

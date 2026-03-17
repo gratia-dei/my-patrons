@@ -13,11 +13,7 @@
             "Kandyd"
         ]
     },
-    "links": {
-        "records/patrons/candidus/the": {
-            "la": "Candidus Legionis Thebanae",
-            "en": "Candidus of the Theban Legion",
-            "pl": "Kandyd z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/candidus/the"
+    ]
 }

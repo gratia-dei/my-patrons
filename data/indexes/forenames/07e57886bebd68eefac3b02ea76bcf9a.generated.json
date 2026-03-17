@@ -13,11 +13,7 @@
             "Arseniusz"
         ]
     },
-    "links": {
-        "records/patrons/ateus/ale": {
-            "la": "Ateus Alexandrinus",
-            "en": "Ateus of Alexandria",
-            "pl": "Ateusz z Aleksandrii"
-        }
-    }
+    "links": [
+        "records/patrons/ateus/ale"
+    ]
 }

@@ -13,11 +13,7 @@
             "Antym"
         ]
     },
-    "links": {
-        "records/patrons/anthimus/aeg": {
-            "la": "Anthimus Aegaeensis",
-            "en": "Anthimos of Aegeae",
-            "pl": "Antym z Egei"
-        }
-    }
+    "links": [
+        "records/patrons/anthimus/aeg"
+    ]
 }

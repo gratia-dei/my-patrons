@@ -13,11 +13,7 @@
             "Mojżesz"
         ]
     },
-    "links": {
-        "records/patrons/moyses/aet": {
-            "la": "Moyses Aethiops",
-            "en": "Moses the Ethiopian",
-            "pl": "Mojżesz Etiopczyk"
-        }
-    }
+    "links": [
+        "records/patrons/moyses/aet"
+    ]
 }

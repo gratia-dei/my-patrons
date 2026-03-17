@@ -7,11 +7,7 @@
             "Starowieyski"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/sta": {
-            "pl": "Stanisław Starowieyski",
-            "la": "Stanislaus Starowieyski",
-            "en": "Stanislaus Starowieyski"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/sta"
+    ]
 }

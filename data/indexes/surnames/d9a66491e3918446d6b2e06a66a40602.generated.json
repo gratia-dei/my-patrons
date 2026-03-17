@@ -7,12 +7,7 @@
             "Acutis"
         ]
     },
-    "links": {
-        "records/patrons/carolus/acu": {
-            "it": "Carlo Acutis",
-            "la": "Carolus Acutis",
-            "en": "Charles Acutis",
-            "pl": "Karol Acutis"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/acu"
+    ]
 }

@@ -13,69 +13,18 @@
             "apostoł"
         ]
     },
-    "links": {
-        "records/patrons/andreas/apo": {
-            "grc": "Ανδρέας",
-            "la": "Andreas Apostolus",
-            "en": "Andrew the Apostle",
-            "pl": "Andrzej Apostoł"
-        },
-        "records/patrons/bartholomaeus/apo": {
-            "la": "Bartholomaeus Apostolus",
-            "en": "Bartholomew the Apostle",
-            "pl": "Bartłomiej Apostoł"
-        },
-        "records/patrons/iacobus/mai": {
-            "la": "Iacobus Maior Apostolus",
-            "en": "James the Great",
-            "pl": "Jakub Większy Apostoł"
-        },
-        "records/patrons/iacobus/min": {
-            "la": "Iacobus Minor Apostolus",
-            "en": "James the Less Apostle",
-            "pl": "Jakub Mniejszy Apostoł"
-        },
-        "records/patrons/ioannes/eva": {
-            "la": "Ioannes Evangelista",
-            "en": "John the Evangelist",
-            "pl": "Jan Ewangelista"
-        },
-        "records/patrons/iudas/tha": {
-            "la": "Iudas Thaddaeus",
-            "en": "Judas Thaddaeus",
-            "pl": "Juda Tadeusz Apostoł"
-        },
-        "records/patrons/matthaeus/eva": {
-            "he": "מתיו האוונגליסט",
-            "la": "Matthaeus Evengelista",
-            "en": "Matthew the Evengelist",
-            "pl": "Mateusz Ewangelista"
-        },
-        "records/patrons/matthias/apo": {
-            "la": "Matthias Apostolus",
-            "en": "Matthias the Apostle",
-            "pl": "Maciej Apostoł"
-        },
-        "records/patrons/petrus/apo": {
-            "arc": "ܟܐܦܐ",
-            "la": "Petrus",
-            "en": "Peter the Apostle",
-            "pl": "Piotr Apostoł"
-        },
-        "records/patrons/philippus/apo": {
-            "la": "Philippus Apostolus",
-            "en": "Philip Apostle",
-            "pl": "Filip Apostoł"
-        },
-        "records/patrons/simon/apo": {
-            "la": "Simon Apostolus",
-            "en": "Simon Apostle",
-            "pl": "Szymon Apostoł"
-        },
-        "records/patrons/thomas/apo": {
-            "la": "Thomas Apostolus",
-            "en": "Thomas the Apostle",
-            "pl": "Tomasz Apostoł"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/apo",
+        "records/patrons/bartholomaeus/apo",
+        "records/patrons/iacobus/mai",
+        "records/patrons/iacobus/min",
+        "records/patrons/ioannes/eva",
+        "records/patrons/iudas/tha",
+        "records/patrons/matthaeus/eva",
+        "records/patrons/matthias/apo",
+        "records/patrons/petrus/apo",
+        "records/patrons/philippus/apo",
+        "records/patrons/simon/apo",
+        "records/patrons/thomas/apo"
+    ]
 }

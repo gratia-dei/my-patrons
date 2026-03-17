@@ -16,12 +16,7 @@
             "Giacomino"
         ]
     },
-    "links": {
-        "records/patrons/iacobinus/can": {
-            "it": "Giacomino de' Canepacci",
-            "la": "Iacobinus de' Canepacci",
-            "en": "Jacobinus de Canepacci",
-            "pl": "Jakobin de Canepacci"
-        }
-    }
+    "links": [
+        "records/patrons/iacobinus/can"
+    ]
 }

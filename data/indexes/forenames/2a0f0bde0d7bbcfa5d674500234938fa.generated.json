@@ -17,12 +17,8 @@
             "Jildo"
         ]
     },
-    "links": {
-        "records/patrons/gildus/irw": {
-            "sw": "Jildo Irwa",
-            "la": "Gildus Irwa",
-            "en": "Gildas Irwa",
-            "pl": "Gildas Irwa"
-        }
-    }
+    "links": [
+        "records/patrons/gildus/irw",
+        "records/patrons/gildus/irw"
+    ]
 }

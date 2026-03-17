@@ -22,65 +22,16 @@
             "막달레나"
         ]
     },
-    "links": {
-        "records/patrons/magdalena/alb": {
-            "it": "Maddalena Albrici",
-            "la": "Magdalena Albrici",
-            "en": "Magdalena Albrici",
-            "pl": "Magdalena Albrici"
-        },
-        "records/patrons/magdalena/can": {
-            "it": "Maddalena di Canossa",
-            "la": "Magdalena de Canossa",
-            "en": "Magdalene of Canossa",
-            "pl": "Magdalena z Canossy"
-        },
-        "records/patrons/magdalena/cho": {
-            "ko": "조 막달레나",
-            "la": "Magdalena Cho",
-            "en": "Magdalene Cho",
-            "pl": "Magdalena Cho"
-        },
-        "records/patrons/magdalena/hok": {
-            "ko": "허계임 막달레나",
-            "la": "Magdalena Hŏ Kye-im",
-            "en": "Magdalene Hŏ Kye-im",
-            "pl": "Magdalena Hŏ Kye-im"
-        },
-        "records/patrons/magdalena/mor": {
-            "it": "Maddalena Caterina Morano",
-            "la": "Magdalena Catharina Morano",
-            "en": "Magdalene Catherine Morano",
-            "pl": "Magdalena Katarzyna Morano"
-        },
-        "records/patrons/magdalena/pak": {
-            "ko": "박봉손 막달레나",
-            "la": "Magdalena Pak Pong-son",
-            "en": "Magdalene Pak Pong-son",
-            "pl": "Magdalena Pak Pong-son"
-        },
-        "records/patrons/magdalena/yiy": {
-            "ko": "이영희 막달레나",
-            "la": "Magdalena Yi Yŏng-hŭi",
-            "en": "Magdalene Yi Yŏng-hŭi",
-            "pl": "Magdalena Yi Yŏng-hŭi"
-        },
-        "records/patrons/maria/mag": {
-            "la": "Maria Magdalena",
-            "en": "Mary Magdalene",
-            "pl": "Maria Magdalena"
-        },
-        "records/patrons/maria/paz": {
-            "it": "Maria Maddalena de' Pazzi",
-            "la": "Maria Magdalena de' Pazzi",
-            "en": "Mary Magdalene de' Pazzi",
-            "pl": "Maria Magdalena de’ Pazzi"
-        },
-        "records/patrons/maria/pos": {
-            "fr": "Marie-Madeleine Postel",
-            "la": "Maria Magdalena Postel",
-            "en": "Mary Magdalene Postel",
-            "pl": "Maria Magdalena Postel"
-        }
-    }
+    "links": [
+        "records/patrons/magdalena/alb",
+        "records/patrons/magdalena/can",
+        "records/patrons/magdalena/cho",
+        "records/patrons/magdalena/hok",
+        "records/patrons/magdalena/mor",
+        "records/patrons/magdalena/pak",
+        "records/patrons/magdalena/yiy",
+        "records/patrons/maria/mag",
+        "records/patrons/maria/paz",
+        "records/patrons/maria/pos"
+    ]
 }

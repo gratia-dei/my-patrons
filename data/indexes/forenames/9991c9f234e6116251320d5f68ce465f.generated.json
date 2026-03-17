@@ -18,12 +18,9 @@
             "영희"
         ]
     },
-    "links": {
-        "records/patrons/magdalena/yiy": {
-            "ko": "이영희 막달레나",
-            "la": "Magdalena Yi Yŏng-hŭi",
-            "en": "Magdalene Yi Yŏng-hŭi",
-            "pl": "Magdalena Yi Yŏng-hŭi"
-        }
-    }
+    "links": [
+        "records/patrons/magdalena/yiy",
+        "records/patrons/magdalena/yiy",
+        "records/patrons/magdalena/yiy"
+    ]
 }

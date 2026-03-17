@@ -20,28 +20,10 @@
             "Giuliano"
         ]
     },
-    "links": {
-        "records/patrons/antonius/now": {
-            "pl": "Antoni Julian Nowowiejski",
-            "la": "Antonius Iulianus Nowowiejski",
-            "en": "Anthony Julian Nowowiejski"
-        },
-        "records/patrons/iulianus/eun": {
-            "la": "Iulianus Alexandrinus",
-            "en": "Julian of Alexandria",
-            "pl": "Julian z Aleksandrii"
-        },
-        "records/patrons/iulianus/tar": {
-            "it": "Giuliano di Terracina",
-            "la": "Iulianus Terracinensis",
-            "en": "Julian of Terracina",
-            "pl": "Julian z Terraciny"
-        },
-        "records/patrons/petrus/eym": {
-            "fr": "Pierre-Julien Eymard",
-            "la": "Patrus Iulianus Eymard",
-            "en": "Peter Julian Eymanrd",
-            "pl": "Piotr Julian Eymard"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/now",
+        "records/patrons/iulianus/eun",
+        "records/patrons/iulianus/tar",
+        "records/patrons/petrus/eym"
+    ]
 }

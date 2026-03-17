@@ -16,12 +16,7 @@
             "Otto"
         ]
     },
-    "links": {
-        "records/patrons/otho/bam": {
-            "de": "Otto von Bamberg",
-            "la": "Otho Bambergensis",
-            "en": "Otto of Bamberg",
-            "pl": "Otton z Bambergu"
-        }
-    }
+    "links": [
+        "records/patrons/otho/bam"
+    ]
 }

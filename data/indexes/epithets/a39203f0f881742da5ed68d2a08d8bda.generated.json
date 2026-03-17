@@ -16,12 +16,7 @@
             "Ojciec Mnichów Kamedułów"
         ]
     },
-    "links": {
-        "records/patrons/romualdus/cam": {
-            "it": "Romualdo di Camaldoli",
-            "la": "Romualdus Camaldulensis",
-            "en": "Romuald of Camaldoli",
-            "pl": "Romuald z Camaldoli"
-        }
-    }
+    "links": [
+        "records/patrons/romualdus/cam"
+    ]
 }

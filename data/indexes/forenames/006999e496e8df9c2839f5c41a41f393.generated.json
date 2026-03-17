@@ -22,18 +22,12 @@
             "ヨアキム"
         ]
     },
-    "links": {
-        "records/patrons/ioachim/mar": {
-            "he": "יהוֹיָקִים",
-            "la": "Ioachim, pater Mariae",
-            "en": "Joachim, father of Mary",
-            "pl": "Joachim, ojciec Maryi"
-        },
-        "records/patrons/ioachim/sak": {
-            "ja": "ヨアキム榊原",
-            "la": "Ioachim Sakakibara",
-            "en": "Joachim Sakakibara",
-            "pl": "Joachim Sakakibara"
-        }
-    }
+    "links": [
+        "records/patrons/ioachim/mar",
+        "records/patrons/ioachim/mar",
+        "records/patrons/ioachim/mar",
+        "records/patrons/ioachim/sak",
+        "records/patrons/ioachim/sak",
+        "records/patrons/ioachim/sak"
+    ]
 }

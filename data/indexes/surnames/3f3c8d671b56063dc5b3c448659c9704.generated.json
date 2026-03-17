@@ -7,11 +7,7 @@
             "Archutowski"
         ]
     },
-    "links": {
-        "records/patrons/romanus/arc": {
-            "pl": "Roman Archutowski",
-            "la": "Romanus Archutowski",
-            "en": "Roman Archutowski"
-        }
-    }
+    "links": [
+        "records/patrons/romanus/arc"
+    ]
 }

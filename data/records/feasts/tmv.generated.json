@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/monica/vid": {
-            "la": "Monica Thagastensis",
-            "en": "Monica of Tagasta",
-            "pl": "Monika z Tagasty"
-        }
-    }
+    "links": [
+        "patrons/monica/vid"
+    ]
 }

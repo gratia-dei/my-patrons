@@ -25,30 +25,14 @@
             "Elisabeth"
         ]
     },
-    "links": {
-        "records/patrons/elisabeth/cat": {
-            "fr": "Élisabeth de la Sainte Trinité",
-            "la": "Elisabetha a Sanctissima Trinitate",
-            "en": "Elizabeth of the Holy Trinity",
-            "pl": "Elżbieta od Trójcy Przenajświętszej"
-        },
-        "records/patrons/elisabeth/hun": {
-            "de": "Elisabeth von Ungarn",
-            "la": "Elisabeth de Hungaria",
-            "en": "Elizabeth of Hungary",
-            "pl": "Elżbieta Węgierska"
-        },
-        "records/patrons/elisabeth/lus": {
-            "es": "Elisabet de Aragón",
-            "la": "Elisabeth Aragonae",
-            "en": "Elizabeth of Aragon",
-            "pl": "Elżbieta Aragońska"
-        },
-        "records/patrons/elisabeth/sch": {
-            "de": "Elisabeth von Schönau",
-            "la": "Elisabeth z Schönau",
-            "en": "Elisabeth of Schönau",
-            "pl": "Elżbieta z Schönau"
-        }
-    }
+    "links": [
+        "records/patrons/elisabeth/cat",
+        "records/patrons/elisabeth/cat",
+        "records/patrons/elisabeth/hun",
+        "records/patrons/elisabeth/hun",
+        "records/patrons/elisabeth/lus",
+        "records/patrons/elisabeth/lus",
+        "records/patrons/elisabeth/sch",
+        "records/patrons/elisabeth/sch"
+    ]
 }

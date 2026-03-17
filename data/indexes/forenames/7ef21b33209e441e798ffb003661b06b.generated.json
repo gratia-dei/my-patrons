@@ -13,11 +13,7 @@
             "Wiara"
         ]
     },
-    "links": {
-        "records/patrons/fides/rom": {
-            "la": "Fides de Roma",
-            "en": "Faith of Rome",
-            "pl": "Wiara z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/fides/rom"
+    ]
 }

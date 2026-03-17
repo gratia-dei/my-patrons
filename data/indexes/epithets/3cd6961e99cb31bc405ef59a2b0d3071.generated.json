@@ -13,11 +13,7 @@
             "of Saint Joseph"
         ]
     },
-    "links": {
-        "records/patrons/raphael/kal": {
-            "pl": "Rafał Kalinowski",
-            "la": "Raphael Kalinowski",
-            "en": "Raphael Kalinowski"
-        }
-    }
+    "links": [
+        "records/patrons/raphael/kal"
+    ]
 }

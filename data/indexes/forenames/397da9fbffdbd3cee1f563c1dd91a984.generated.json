@@ -13,11 +13,7 @@
             "Maurycy"
         ]
     },
-    "links": {
-        "records/patrons/mauritius/the": {
-            "la": "Mauritius Legionis Thebanae",
-            "en": "Maurice of the Theban Legion",
-            "pl": "Maurycy z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/mauritius/the"
+    ]
 }

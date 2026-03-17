@@ -16,11 +16,7 @@
             "Ennata"
         ]
     },
-    "links": {
-        "records/patrons/manathas/cae": {
-            "la": "Manathas Caesariensis",
-            "en": "Manatha of Caesarea",
-            "pl": "Manata z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/manathas/cae"
+    ]
 }

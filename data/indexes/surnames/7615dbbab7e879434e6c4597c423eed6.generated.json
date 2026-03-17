@@ -7,12 +7,7 @@
             "Kiwanuka"
         ]
     },
-    "links": {
-        "records/patrons/achilles/kiw": {
-            "sw": "Achile Kiwanuka",
-            "la": "Achilles Kiwanuka",
-            "en": "Achille Kiwanuka",
-            "pl": "Achilles Kiwanuka"
-        }
-    }
+    "links": [
+        "records/patrons/achilles/kiw"
+    ]
 }

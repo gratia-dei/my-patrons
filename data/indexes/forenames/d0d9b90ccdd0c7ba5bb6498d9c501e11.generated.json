@@ -35,134 +35,29 @@
             "若瑟"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/cal": {
-            "it": "Giovanni Giuseppe della Croce",
-            "la": "Ioannes Ioseph a Cruce",
-            "en": "John Joseph of the Cross",
-            "pl": "Jan Józef od Krzyża"
-        },
-        "records/patrons/iosephus/bil": {
-            "pl": "Józef Bilczewski",
-            "la": "Iosephus Bilczewski",
-            "en": "Joseph Bilczewski"
-        },
-        "records/patrons/iosephus/cha": {
-            "ko": "장주기 요셉",
-            "la": "Iosephus Chang Chu-gi",
-            "en": "Joseph Chang Chu-gi",
-            "pl": "Józef Chang Chu-gi"
-        },
-        "records/patrons/iosephus/cup": {
-            "it": "Giuseppe da Copertino",
-            "la": "Iosephus de Cupertino",
-            "en": "Joseph of Cupertino",
-            "pl": "Józef z Kupertynu"
-        },
-        "records/patrons/iosephus/esc": {
-            "es": "Josemaría Escrivá de Balaguer",
-            "la": "Iosephus Maria Escrivá de Balaguer",
-            "en": "Josemaría Escrivá de Balaguer",
-            "pl": "Josemaría Escrivá de Balaguer"
-        },
-        "records/patrons/iosephus/jan": {
-            "pl": "Józef Jankowski",
-            "la": "Iosephus Jankowski",
-            "en": "Joseph Jankowski"
-        },
-        "records/patrons/iosephus/kur": {
-            "pl": "Józef Kurzawa",
-            "la": "Iosephus Kurzawa",
-            "en": "Joseph Kurzawa"
-        },
-        "records/patrons/iosephus/kut": {
-            "pl": "Józef Kut",
-            "la": "Iosephus Kut",
-            "en": "Joseph Kut"
-        },
-        "records/patrons/iosephus/mor": {
-            "fr": "Joseph Moreau",
-            "la": "Iosephus Moreau",
-            "en": "Joseph Moreau",
-            "pl": "Józef Moreau"
-        },
-        "records/patrons/iosephus/mos": {
-            "it": "Giuseppe Moscati",
-            "la": "Iosephus Moscati",
-            "en": "Joseph Moscati",
-            "pl": "Józef Moscati"
-        },
-        "records/patrons/iosephus/ngu": {
-            "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyễn Đình Nghi",
-            "en": "Joseph Nguyễn Đình Nghi",
-            "pl": "Józef Nguyễn Đình Nghi"
-        },
-        "records/patrons/iosephus/paw": {
-            "pl": "Józef Pawłowski",
-            "la": "Iosephus Pawłowski",
-            "en": "Joseph Pawłowski"
-        },
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar",
-            "en": "Joseph Sebastian Pelczar"
-        },
-        "records/patrons/iosephus/str": {
-            "pl": "Józef Straszewski",
-            "la": "Iosephus Straszewski",
-            "en": "Joseph Straszewski"
-        },
-        "records/patrons/iosephus/tom": {
-            "it": "Giuseppe Maria Tomasi",
-            "la": "Josephus Maria Tomasi",
-            "en": "Joseph Mary Tomasi",
-            "pl": "Józef Maria Tomasi"
-        },
-        "records/patrons/iosephus/tua": {
-            "vi": "Giuse Trần Văn Tuấn",
-            "la": "Iosephus Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
-            "pl": "Józef Trần Văn Tuấn"
-        },
-        "records/patrons/iosephus/tun": {
-            "vi": "Giuse Tuân",
-            "la": "Iosephus Tuân",
-            "en": "Joseph Tuân",
-            "pl": "Józef Tuân"
-        },
-        "records/patrons/iosephus/ulm": {
-            "pl": "Józef Ulma",
-            "la": "Iosephus Ulma",
-            "en": "Joseph Ulma"
-        },
-        "records/patrons/iosephus/yua": {
-            "zh": "袁在德若瑟",
-            "la": "Iosephus Yuan Zaide",
-            "en": "Joseph John Zaide",
-            "pl": "Józef Yuan Zaide"
-        },
-        "records/patrons/iosephus/zab": {
-            "es": "José María Zabal Blasco",
-            "la": "Iosephus Maria Zabal Blasco",
-            "en": "Joseph Mary Zabal Blasco",
-            "pl": "Józef Maria Zabal Blasco"
-        },
-        "records/patrons/iosephus/zap": {
-            "pl": "Józef Zapłata",
-            "la": "Iosephus Zaplata",
-            "en": "Joseph Zaplata"
-        },
-        "records/patrons/raphael/kal": {
-            "pl": "Rafał Kalinowski",
-            "la": "Raphael Kalinowski",
-            "en": "Raphael Kalinowski"
-        },
-        "records/patrons/sarbelius/mak": {
-            "ar": "شربل مخلوف",
-            "la": "Sarbelius Makhluf",
-            "en": "Charbel Makhlouf",
-            "pl": "Szarbel Makhluf"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/cal",
+        "records/patrons/iosephus/bil",
+        "records/patrons/iosephus/cha",
+        "records/patrons/iosephus/cup",
+        "records/patrons/iosephus/esc",
+        "records/patrons/iosephus/jan",
+        "records/patrons/iosephus/kur",
+        "records/patrons/iosephus/kut",
+        "records/patrons/iosephus/mor",
+        "records/patrons/iosephus/mos",
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/paw",
+        "records/patrons/iosephus/pel",
+        "records/patrons/iosephus/str",
+        "records/patrons/iosephus/tom",
+        "records/patrons/iosephus/tua",
+        "records/patrons/iosephus/tun",
+        "records/patrons/iosephus/ulm",
+        "records/patrons/iosephus/yua",
+        "records/patrons/iosephus/zab",
+        "records/patrons/iosephus/zap",
+        "records/patrons/raphael/kal",
+        "records/patrons/sarbelius/mak"
+    ]
 }

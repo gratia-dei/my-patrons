@@ -7,11 +7,7 @@
             "Tułasiewicz"
         ]
     },
-    "links": {
-        "records/patrons/natalia/tul": {
-            "pl": "Natalia Tułasiewicz",
-            "la": "Natalia Tułasiewicz",
-            "en": "Natalie Tułasiewicz"
-        }
-    }
+    "links": [
+        "records/patrons/natalia/tul"
+    ]
 }

@@ -16,12 +16,7 @@
             "Zhao"
         ]
     },
-    "links": {
-        "records/patrons/augustinus/zha": {
-            "zh": "趙榮思定",
-            "la": "Augustinus Zhao Rong",
-            "en": "Augustine Zhao Rong",
-            "pl": "Augustyn Zhao Rong"
-        }
-    }
+    "links": [
+        "records/patrons/augustinus/zha"
+    ]
 }

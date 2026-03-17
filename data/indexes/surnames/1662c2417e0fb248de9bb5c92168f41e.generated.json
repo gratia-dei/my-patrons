@@ -7,12 +7,7 @@
             "de Lestonnac"
         ]
     },
-    "links": {
-        "records/patrons/ioanna/les": {
-            "fr": "Jeanne de Lestonnac",
-            "la": "Ioanna de Lestonnac",
-            "en": "Joan of Lestonnac",
-            "pl": "Joanna de Lestonnac"
-        }
-    }
+    "links": [
+        "records/patrons/ioanna/les"
+    ]
 }

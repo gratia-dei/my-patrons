@@ -7,11 +7,7 @@
             "Kut"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/kut": {
-            "pl": "Józef Kut",
-            "la": "Iosephus Kut",
-            "en": "Joseph Kut"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/kut"
+    ]
 }

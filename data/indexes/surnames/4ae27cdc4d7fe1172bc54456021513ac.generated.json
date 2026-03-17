@@ -7,11 +7,7 @@
             "Ogilvie"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ogi": {
-            "en": "John Ogilvie",
-            "la": "Ioannes Ogilvie",
-            "pl": "Jan Ogilvie"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ogi"
+    ]
 }

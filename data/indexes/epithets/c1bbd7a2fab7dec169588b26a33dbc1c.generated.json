@@ -16,12 +16,7 @@
             "Piąty"
         ]
     },
-    "links": {
-        "records/patrons/pius/5pp": {
-            "it": "Pio V",
-            "la": "Pius Pp. V",
-            "en": "Pope Pius V",
-            "pl": "Pius V"
-        }
-    }
+    "links": [
+        "records/patrons/pius/5pp"
+    ]
 }

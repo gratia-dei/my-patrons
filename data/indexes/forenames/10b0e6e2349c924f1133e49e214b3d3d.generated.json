@@ -16,12 +16,7 @@
             "Norbert"
         ]
     },
-    "links": {
-        "records/patrons/norbertus/mag": {
-            "de": "Norbert von Xanten",
-            "la": "Norbertus Magdeburgensis",
-            "en": "Norbert of Xanten",
-            "pl": "Norbert z Xanten"
-        }
-    }
+    "links": [
+        "records/patrons/norbertus/mag"
+    ]
 }

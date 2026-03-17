@@ -13,11 +13,7 @@
             "Malachiasz"
         ]
     },
-    "links": {
-        "records/patrons/malachias/pro": {
-            "la": "Malachias, propheta",
-            "en": "Malachi, the prophet",
-            "pl": "Malachiasz, prorok"
-        }
-    }
+    "links": [
+        "records/patrons/malachias/pro"
+    ]
 }

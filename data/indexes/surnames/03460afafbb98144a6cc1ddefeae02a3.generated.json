@@ -7,11 +7,7 @@
             "Osbaldeston"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/osb": {
-            "en": "Edward Osbaldeston",
-            "la": "Eduardus Osbaldeston",
-            "pl": "Edward Osbaldeston"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/osb"
+    ]
 }

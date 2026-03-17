@@ -16,21 +16,15 @@
             "Julia"
         ]
     },
-    "links": {
-        "records/patrons/iulia/rod": {
-            "pl": "Julia Rodzińska",
-            "en": "Julia Rodzińska",
-            "la": "Iulia Rodzińska"
-        },
-        "records/patrons/maria/rap": {
-            "pl": "Maria Sergia od Matki Bożej Bolesnej",
-            "la": "Maria Sergia a Virgine Perdolenti",
-            "en": "Mary Sergia of Our Lady of Sorrows"
-        },
-        "records/patrons/ursula/led": {
-            "pl": "Urszula Ledóchowska",
-            "la": "Urszula Ledóchowska",
-            "en": "Ursula Ledóchowska"
-        }
-    }
+    "links": [
+        "records/patrons/iulia/rod",
+        "records/patrons/iulia/rod",
+        "records/patrons/iulia/rod",
+        "records/patrons/maria/rap",
+        "records/patrons/maria/rap",
+        "records/patrons/maria/rap",
+        "records/patrons/ursula/led",
+        "records/patrons/ursula/led",
+        "records/patrons/ursula/led"
+    ]
 }

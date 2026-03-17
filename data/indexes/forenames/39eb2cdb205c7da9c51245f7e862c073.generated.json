@@ -15,11 +15,9 @@
             "Donata"
         ]
     },
-    "links": {
-        "records/patrons/donata/sci": {
-            "la": "Donata de Scillium",
-            "en": "Donata of Scillium",
-            "pl": "Donata ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/donata/sci",
+        "records/patrons/donata/sci",
+        "records/patrons/donata/sci"
+    ]
 }

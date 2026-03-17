@@ -19,17 +19,14 @@
             "Imelda"
         ]
     },
-    "links": {
-        "records/patrons/imelda/lam": {
-            "it": "Imelda Lambertini",
-            "la": "Imelda Lambertini",
-            "en": "Imelda Lambertini",
-            "pl": "Imelda Lambertini"
-        },
-        "records/patrons/maria/zak": {
-            "pl": "Maria Imelda od Jezusa Hostii",
-            "la": "Maria Imelda a Iesu Hostia",
-            "en": "Mary Imelda of the Eucharistic Jesus"
-        }
-    }
+    "links": [
+        "records/patrons/imelda/lam",
+        "records/patrons/imelda/lam",
+        "records/patrons/imelda/lam",
+        "records/patrons/imelda/lam",
+        "records/patrons/maria/zak",
+        "records/patrons/maria/zak",
+        "records/patrons/maria/zak",
+        "records/patrons/maria/zak"
+    ]
 }

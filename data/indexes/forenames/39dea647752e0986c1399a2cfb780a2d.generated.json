@@ -17,12 +17,7 @@
             "Vicenta"
         ]
     },
-    "links": {
-        "records/patrons/vincentia/lop": {
-            "es": "Vicenta María López Vicuña",
-            "la": "Vincentia Maria López Vicuña",
-            "en": "Vincenta Maria López Vicuña",
-            "pl": "Wincencja Maria López Vicuña"
-        }
-    }
+    "links": [
+        "records/patrons/vincentia/lop"
+    ]
 }

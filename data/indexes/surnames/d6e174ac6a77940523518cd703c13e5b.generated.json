@@ -10,12 +10,7 @@
             "Bosko"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/bos": {
-            "it": "Giovanni Bosco",
-            "la": "Ioannes Bosco",
-            "en": "John Bosco",
-            "pl": "Jan Bosko"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/bos"
+    ]
 }

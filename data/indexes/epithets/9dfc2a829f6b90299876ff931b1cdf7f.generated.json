@@ -13,16 +13,8 @@
             "Trzeci"
         ]
     },
-    "links": {
-        "records/patrons/felix/3pp": {
-            "la": "Felix III",
-            "en": "Felix III",
-            "pl": "Feliks III"
-        },
-        "records/patrons/gregorius/3pp": {
-            "la": "Gregorius III",
-            "en": "Gregory III",
-            "pl": "Grzegorz III"
-        }
-    }
+    "links": [
+        "records/patrons/felix/3pp",
+        "records/patrons/gregorius/3pp"
+    ]
 }

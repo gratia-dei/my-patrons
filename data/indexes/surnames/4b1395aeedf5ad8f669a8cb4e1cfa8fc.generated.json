@@ -7,12 +7,7 @@
             "Durocher"
         ]
     },
-    "links": {
-        "records/patrons/maria/dur": {
-            "fr": "Marie-Rose Durocher",
-            "pl": "Maria Róża Durocher",
-            "la": "Maria Rosa Durocher",
-            "en": "Marie Rose Durocher"
-        }
-    }
+    "links": [
+        "records/patrons/maria/dur"
+    ]
 }

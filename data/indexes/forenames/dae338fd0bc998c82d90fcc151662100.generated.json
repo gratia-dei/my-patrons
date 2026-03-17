@@ -16,22 +16,9 @@
             "Κύριλλος"
         ]
     },
-    "links": {
-        "records/patrons/cyrillus/ale": {
-            "la": "Cyrillus Alexandrinus",
-            "en": "Cyril of Alexandria",
-            "pl": "Cyryl Aleksandryjski"
-        },
-        "records/patrons/cyrillus/hie": {
-            "el": "Κύριλλος Ιεροσολύμων",
-            "la": "Cyrillus Hierosolymitanus",
-            "en": "Cyril of Jerusalem",
-            "pl": "Cyryl Jerozolimski"
-        },
-        "records/patrons/cyrillus/met": {
-            "la": "Cyrillus Thessalonicensis",
-            "en": "Cyril of Thessalonica",
-            "pl": "Cyryl z Tesaloniki"
-        }
-    }
+    "links": [
+        "records/patrons/cyrillus/ale",
+        "records/patrons/cyrillus/hie",
+        "records/patrons/cyrillus/met"
+    ]
 }

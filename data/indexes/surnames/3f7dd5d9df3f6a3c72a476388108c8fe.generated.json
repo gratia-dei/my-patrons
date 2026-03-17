@@ -7,12 +7,7 @@
             "Aumaître"
         ]
     },
-    "links": {
-        "records/patrons/petrus/aum": {
-            "fr": "Pierre Aumaître",
-            "la": "Petrus Aumaître",
-            "en": "Peter Aumaître",
-            "pl": "Piotr Aumaître"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/aum"
+    ]
 }

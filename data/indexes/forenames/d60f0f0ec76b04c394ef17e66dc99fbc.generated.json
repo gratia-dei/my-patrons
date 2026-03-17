@@ -13,11 +13,7 @@
             "Miron"
         ]
     },
-    "links": {
-        "records/patrons/myron/cyz": {
-            "la": "Myron Cyzicensis",
-            "en": "Myron of Cyzicus",
-            "pl": "Miron z Kizyku"
-        }
-    }
+    "links": [
+        "records/patrons/myron/cyz"
+    ]
 }

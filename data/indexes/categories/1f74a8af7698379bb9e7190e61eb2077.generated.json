@@ -13,11 +13,7 @@
             "nowicjusz"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/kos": {
-            "pl": "Stanisław Kostka",
-            "la": "Stanislaus Kostka",
-            "en": "Stanislaus Kostka"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/kos"
+    ]
 }

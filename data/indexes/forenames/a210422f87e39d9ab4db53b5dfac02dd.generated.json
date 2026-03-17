@@ -14,11 +14,7 @@
             "Letancjusz"
         ]
     },
-    "links": {
-        "records/patrons/laetantius/sci": {
-            "la": "Laetantius de Scillium",
-            "en": "Laetantius of Scillium",
-            "pl": "Letancjusz ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/laetantius/sci"
+    ]
 }

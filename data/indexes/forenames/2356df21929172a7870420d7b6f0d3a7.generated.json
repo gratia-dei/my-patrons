@@ -16,11 +16,7 @@
             "Acylin"
         ]
     },
-    "links": {
-        "records/patrons/aquilinus/sci": {
-            "la": "Aquilinus de Scillium",
-            "en": "Aquilinus of Scillium",
-            "pl": "Akwilin ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/aquilinus/sci"
+    ]
 }

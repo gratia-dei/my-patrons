@@ -13,11 +13,7 @@
             "Dezydery"
         ]
     },
-    "links": {
-        "records/patrons/desiderius/ben": {
-            "la": "Desiderius Beneventanus",
-            "en": "Desiderius of Benevento",
-            "pl": "Dezydery z Benewentu"
-        }
-    }
+    "links": [
+        "records/patrons/desiderius/ben"
+    ]
 }

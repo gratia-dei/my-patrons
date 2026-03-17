@@ -17,12 +17,7 @@
             "Σπυρίδων"
         ]
     },
-    "links": {
-        "records/patrons/spyridon/cyp": {
-            "el": "Σπυρίδων Τριμυθούντος",
-            "la": "Spyridon Trimituntinus",
-            "en": "Spyridon of Tremithus",
-            "pl": "Spirydon z Tremituntu"
-        }
-    }
+    "links": [
+        "records/patrons/spyridon/cyp"
+    ]
 }

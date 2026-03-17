@@ -13,120 +13,28 @@
             "diakon"
         ]
     },
-    "links": {
-        "records/patrons/abundantius/abu": {
-            "la": "Abundantius; cum eo, i.a., Abundius",
-            "en": "Abundantius; with him, i.a., Abundius",
-            "pl": "Abundancjusz; z nim, m.in., Abundiusz"
-        },
-        "records/patrons/agapitus/xys": {
-            "la": "Agapitus de Roma, diaconus Xysti Pp. II",
-            "en": "Agapitus of Rome, deacon of Xystus II",
-            "pl": "Agapit z Rzymu, diakon Sykstusa II"
-        },
-        "records/patrons/amundus/eob": {
-            "la": "Amundus; cum eo, i.a., Eobanus",
-            "en": "Amund; with him, i.a., Eoban",
-            "pl": "Hamund; z nim, m.in. Eoban"
-        },
-        "records/patrons/bosa/eob": {
-            "la": "Bosa; cum eo, i.a., Eobanus",
-            "en": "Bosa; with him, i.a., Eoban",
-            "pl": "Boza; z nim, m.in. Eoban"
-        },
-        "records/patrons/caesarius/tar": {
-            "it": "Cesario di Terracina",
-            "la": "Caesarius Terracinensis",
-            "en": "Caesarius of Terracina",
-            "pl": "Cezary z Terraciny"
-        },
-        "records/patrons/eleutherius/dio": {
-            "fr": "Éleuthère de Paris, avec lui, a.o., Denis",
-            "la": "Eleutherius Parisiensis; cum eo, i.a., Dionysius",
-            "en": "Eleutherius of Paris; with him, i.a., Denis",
-            "pl": "Eleuteriusz z Paryża; z nim, m.in., Dionizy"
-        },
-        "records/patrons/ephraem/syr": {
-            "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
-            "la": "Ephraem Syrus",
-            "en": "Ephrem the Syrian",
-            "pl": "Efrem Syryjczyk"
-        },
-        "records/patrons/felicissimus/xys": {
-            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
-            "en": "Felicissimus of Rome, deacon of Xystus II",
-            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
-        },
-        "records/patrons/festus/ben": {
-            "la": "Festus Beneventanus",
-            "en": "Festus of Benevento",
-            "pl": "Festus z Benewentu"
-        },
-        "records/patrons/georgius/cor": {
-            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
-            "en": "George of Cordoba; with him, i.a., Aurelius",
-            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
-        },
-        "records/patrons/ianuarius/xys": {
-            "la": "Ianuarius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Januarius of Rome, subdeacon of Xystus II",
-            "pl": "January z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/laurentius/rom": {
-            "la": "Laurentius de Roma",
-            "en": "Lawrence of Rome",
-            "pl": "Wawrzyniec z Rzymu"
-        },
-        "records/patrons/leo/1pp": {
-            "la": "Leo I Magnus",
-            "en": "Leo I the Great",
-            "pl": "Leon I Wielki"
-        },
-        "records/patrons/magnus/xys": {
-            "la": "Magnus de Roma, subdiaconus Xysti Pp. II",
-            "en": "Magnus of Rome, subdeacon of Xystus II",
-            "pl": "Magnus z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/proculus/put": {
-            "la": "Proculus Puteolensis",
-            "en": "Proculus of Pozzuoli",
-            "pl": "Prokul z Pozzuoli"
-        },
-        "records/patrons/romanus/mel": {
-            "la": "Romanus Melodus",
-            "en": "Roman the Melodist",
-            "pl": "Roman Melodos"
-        },
-        "records/patrons/sevibaldus/eob": {
-            "la": "Sevibaldus; cum eo, i.a., Eobanus",
-            "en": "Sevibaldus; with him, i.a., Eoban",
-            "pl": "Scirbald; z nim, m.in. Eoban"
-        },
-        "records/patrons/sossius/mis": {
-            "la": "Sossius Missenensis",
-            "en": "Sossius of Misenum",
-            "pl": "Sozjusz z Misenum"
-        },
-        "records/patrons/stephanus/pro": {
-            "la": "Stephanus protomartyr",
-            "en": "Stephen Protomartyr",
-            "pl": "Szczepan Pramęczennik"
-        },
-        "records/patrons/stephanus/xys": {
-            "la": "Stephanus de Roma, subdiaconus Xysti Pp. II",
-            "en": "Stephen of Rome, subdeacon of Xystus II",
-            "pl": "Stefan z Rzymu, subdiakon Sykstusa II"
-        },
-        "records/patrons/tatianus/aqu": {
-            "it": "Taziano da Aquileia",
-            "la": "Tatianus de Aquileia",
-            "en": "Tatian of Aquileia",
-            "pl": "Tacjan z Akwilei"
-        },
-        "records/patrons/vincentius/xys": {
-            "la": "Vincentius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Vincent of Rome, subdeacon of Xystus II",
-            "pl": "Wincenty z Rzymu, subdiakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/abundantius/abu",
+        "records/patrons/agapitus/xys",
+        "records/patrons/amundus/eob",
+        "records/patrons/bosa/eob",
+        "records/patrons/caesarius/tar",
+        "records/patrons/eleutherius/dio",
+        "records/patrons/ephraem/syr",
+        "records/patrons/felicissimus/xys",
+        "records/patrons/festus/ben",
+        "records/patrons/georgius/cor",
+        "records/patrons/ianuarius/xys",
+        "records/patrons/laurentius/rom",
+        "records/patrons/leo/1pp",
+        "records/patrons/magnus/xys",
+        "records/patrons/proculus/put",
+        "records/patrons/romanus/mel",
+        "records/patrons/sevibaldus/eob",
+        "records/patrons/sossius/mis",
+        "records/patrons/stephanus/pro",
+        "records/patrons/stephanus/xys",
+        "records/patrons/tatianus/aqu",
+        "records/patrons/vincentius/xys"
+    ]
 }

@@ -17,12 +17,8 @@
             "Lakota"
         ]
     },
-    "links": {
-        "records/patrons/gregorius/lak": {
-            "uk": "Григорій Лакота",
-            "pl": "Grzegorz Łakota",
-            "la": "Gregorius Lakota",
-            "en": "Gregory Lakota"
-        }
-    }
+    "links": [
+        "records/patrons/gregorius/lak",
+        "records/patrons/gregorius/lak"
+    ]
 }

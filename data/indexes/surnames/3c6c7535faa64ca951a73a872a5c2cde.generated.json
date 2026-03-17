@@ -7,11 +7,7 @@
             "Kaźmierski"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/kaz": {
-            "pl": "Edward Kaźmierski",
-            "la": "Edwardus Kaźmierski",
-            "en": "Edward Kazmierski"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/kaz"
+    ]
 }

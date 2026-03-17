@@ -13,62 +13,16 @@
             "lekarz"
         ]
     },
-    "links": {
-        "records/patrons/antiochus/ana": {
-            "la": "Antiochus Anastasiopolitanus",
-            "en": "Antiochus of Anastasiopolis",
-            "pl": "Antioch z Anastasiopolis"
-        },
-        "records/patrons/caesarius/naz": {
-            "la": "Caesarius Nazianzenus",
-            "en": "Caesarius of Nazianzus",
-            "pl": "Cezary z Nazjanzu"
-        },
-        "records/patrons/cosmas/dam": {
-            "el": "Κοσμᾶς ὁ Αἰγεεύς",
-            "la": "Cosmas Aegaeensis",
-            "en": "Cosmas of Aegeae",
-            "pl": "Kosma z Egei"
-        },
-        "records/patrons/damianus/cos": {
-            "el": "Δαμιανός ὁ Αἰγεεύς",
-            "la": "Damianus Aegaeensis",
-            "en": "Damian of Aegeae",
-            "pl": "Damian z Egei"
-        },
-        "records/patrons/domninus/cae": {
-            "la": "Domninus Caesariensis",
-            "en": "Domninus of Caesarea",
-            "pl": "Domnin z Cezarei"
-        },
-        "records/patrons/iosephus/mos": {
-            "it": "Giuseppe Moscati",
-            "la": "Iosephus Moscati",
-            "en": "Joseph Moscati",
-            "pl": "Józef Moscati"
-        },
-        "records/patrons/lucas/eva": {
-            "el": "Ευαγγελιστής Λουκάς",
-            "la": "Lucas Evangelista",
-            "en": "Luke the Evangelist",
-            "pl": "Łukasz Ewangelista"
-        },
-        "records/patrons/martinus/por": {
-            "es": "Martín de Porres",
-            "la": "Martinus de Porres",
-            "en": "Martin de Porres",
-            "pl": "Marcin de Porres"
-        },
-        "records/patrons/pantaleon/nic": {
-            "la": "Pantaleon de Nicomedia",
-            "en": "Pantaleon of Nicomedia",
-            "pl": "Pantaleon z Nikomedii"
-        },
-        "records/patrons/renatus/gou": {
-            "fr": "René Goupil",
-            "la": "Renatus Goupil",
-            "en": "Renat Goupil",
-            "pl": "Renat Goupil"
-        }
-    }
+    "links": [
+        "records/patrons/antiochus/ana",
+        "records/patrons/caesarius/naz",
+        "records/patrons/cosmas/dam",
+        "records/patrons/damianus/cos",
+        "records/patrons/domninus/cae",
+        "records/patrons/iosephus/mos",
+        "records/patrons/lucas/eva",
+        "records/patrons/martinus/por",
+        "records/patrons/pantaleon/nic",
+        "records/patrons/renatus/gou"
+    ]
 }

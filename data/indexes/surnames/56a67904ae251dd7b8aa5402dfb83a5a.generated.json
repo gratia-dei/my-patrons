@@ -7,11 +7,7 @@
             "Żak"
         ]
     },
-    "links": {
-        "records/patrons/maria/zak": {
-            "pl": "Maria Imelda od Jezusa Hostii",
-            "la": "Maria Imelda a Iesu Hostia",
-            "en": "Mary Imelda of the Eucharistic Jesus"
-        }
-    }
+    "links": [
+        "records/patrons/maria/zak"
+    ]
 }

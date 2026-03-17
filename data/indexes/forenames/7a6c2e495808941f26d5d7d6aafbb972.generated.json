@@ -18,17 +18,12 @@
             "Pauline"
         ]
     },
-    "links": {
-        "records/patrons/maria/bor": {
-            "pl": "Maria Felicyta Borowik",
-            "la": "Maria Felicitas Borowik",
-            "en": "Mary Felicity Borowik"
-        },
-        "records/patrons/paulina/jar": {
-            "fr": "Pauline Jaricot",
-            "la": "Paulina Maria Jaricot",
-            "en": "Pauline Jaricot",
-            "pl": "Paulina Jaricot"
-        }
-    }
+    "links": [
+        "records/patrons/maria/bor",
+        "records/patrons/maria/bor",
+        "records/patrons/maria/bor",
+        "records/patrons/paulina/jar",
+        "records/patrons/paulina/jar",
+        "records/patrons/paulina/jar"
+    ]
 }

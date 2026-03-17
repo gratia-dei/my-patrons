@@ -13,11 +13,7 @@
             "Łazarz"
         ]
     },
-    "links": {
-        "records/patrons/lazarus/med": {
-            "la": "Lazarus Mediolanensis",
-            "en": "Lazarus of Milan",
-            "pl": "Łazarz z Mediolanu"
-        }
-    }
+    "links": [
+        "records/patrons/lazarus/med"
+    ]
 }

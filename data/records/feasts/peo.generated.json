@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/god/spi": {
-            "la": "Spiritus Sanctus",
-            "en": "Holy Spirit",
-            "pl": "Duch Święty"
-        }
-    }
+    "links": [
+        "god/spi"
+    ]
 }

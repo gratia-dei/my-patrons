@@ -13,11 +13,7 @@
             "weteran"
         ]
     },
-    "links": {
-        "records/patrons/victor/the": {
-            "la": "Victor Legionis Thebanae",
-            "en": "Victor of the Theban Legion",
-            "pl": "Wiktor z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/victor/the"
+    ]
 }

@@ -7,11 +7,7 @@
             "Lament"
         ]
     },
-    "links": {
-        "records/patrons/boleslava/lam": {
-            "pl": "Bolesława Lament",
-            "la": "Boleslava Lament",
-            "en": "Boleslava Lament"
-        }
-    }
+    "links": [
+        "records/patrons/boleslava/lam"
+    ]
 }

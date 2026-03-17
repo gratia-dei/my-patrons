@@ -16,12 +16,7 @@
             "Szeptycki"
         ]
     },
-    "links": {
-        "records/patrons/clemens/sep": {
-            "uk": "Климентій Шептицький",
-            "la": "Clemens Šeptyckyj",
-            "en": "Clement Sheptytsky",
-            "pl": "Klemens Szeptycki"
-        }
-    }
+    "links": [
+        "records/patrons/clemens/sep"
+    ]
 }

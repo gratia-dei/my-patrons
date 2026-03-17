@@ -16,18 +16,8 @@
             "Bernardino"
         ]
     },
-    "links": {
-        "records/patrons/bernardinus/rea": {
-            "it": "Bernardino Realino",
-            "la": "Bernardinus Realinus",
-            "en": "Bernardine Realino",
-            "pl": "Bernardyn Realino"
-        },
-        "records/patrons/bernardinus/sen": {
-            "it": "Bernardino da Siena",
-            "la": "Bernardinus Senensis",
-            "en": "Bernardine of Siena",
-            "pl": "Bernardyn ze Sieny"
-        }
-    }
+    "links": [
+        "records/patrons/bernardinus/rea",
+        "records/patrons/bernardinus/sen"
+    ]
 }

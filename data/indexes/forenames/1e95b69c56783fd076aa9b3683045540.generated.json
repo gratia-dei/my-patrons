@@ -16,12 +16,7 @@
             "ܐܦܪܝܡ"
         ]
     },
-    "links": {
-        "records/patrons/ephraem/syr": {
-            "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
-            "la": "Ephraem Syrus",
-            "en": "Ephrem the Syrian",
-            "pl": "Efrem Syryjczyk"
-        }
-    }
+    "links": [
+        "records/patrons/ephraem/syr"
+    ]
 }

@@ -19,33 +19,11 @@
             "Μέγας"
         ]
     },
-    "links": {
-        "records/patrons/albertus/mag": {
-            "de": "Albert der Große",
-            "la": "Albertus Magnus",
-            "en": "Albert the Great",
-            "pl": "Albert Wielki"
-        },
-        "records/patrons/basilius/mag": {
-            "el": "Βασίλειος Μέγας",
-            "la": "Basilius Magnus",
-            "en": "Basil the Great",
-            "pl": "Bazyli Wielki"
-        },
-        "records/patrons/gregorius/1pp": {
-            "la": "Gregorius Magnus",
-            "en": "Gregory the Great",
-            "pl": "Grzegorz Wielki"
-        },
-        "records/patrons/leo/1pp": {
-            "la": "Leo I Magnus",
-            "en": "Leo I the Great",
-            "pl": "Leon I Wielki"
-        },
-        "records/patrons/macarius/mag": {
-            "la": "Macarius Magnus",
-            "en": "Maracius the Great",
-            "pl": "Makary Wielki"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/mag",
+        "records/patrons/basilius/mag",
+        "records/patrons/gregorius/1pp",
+        "records/patrons/leo/1pp",
+        "records/patrons/macarius/mag"
+    ]
 }

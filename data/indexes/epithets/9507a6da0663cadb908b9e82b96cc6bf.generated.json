@@ -16,12 +16,7 @@
             "Nepomucen"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/nep": {
-            "cs": "Jan Nepomucký",
-            "la": "Ioannes Nepomucenus",
-            "en": "John of Nepomuk",
-            "pl": "Jan Nepomucen"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/nep"
+    ]
 }

@@ -13,11 +13,7 @@
             "Bogumił"
         ]
     },
-    "links": {
-        "records/patrons/bogumilus/dob": {
-            "pl": "Bogumił z Dobrowa",
-            "la": "Bogumilus de Dobrovia",
-            "en": "Bogumil of Dobrow"
-        }
-    }
+    "links": [
+        "records/patrons/bogumilus/dob"
+    ]
 }

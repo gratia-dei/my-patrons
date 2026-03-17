@@ -13,21 +13,9 @@
             "archanioł"
         ]
     },
-    "links": {
-        "records/patrons/gabriel/arc": {
-            "la": "Gabriel Archangelus",
-            "en": "Archangel Gabriel",
-            "pl": "Gabriel Archanioł"
-        },
-        "records/patrons/michael/arc": {
-            "la": "Michael Archangelus",
-            "en": "Archangel Michael",
-            "pl": "Michał Archanioł"
-        },
-        "records/patrons/raphael/arc": {
-            "la": "Raphael Archangelus",
-            "en": "Archangel Raphael",
-            "pl": "Rafał Archanioł"
-        }
-    }
+    "links": [
+        "records/patrons/gabriel/arc",
+        "records/patrons/michael/arc",
+        "records/patrons/raphael/arc"
+    ]
 }

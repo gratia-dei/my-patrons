@@ -7,12 +7,7 @@
             "de Jacobis"
         ]
     },
-    "links": {
-        "records/patrons/iustinus/iac": {
-            "it": "Giustino de Jacobis",
-            "la": "Iustinus de Iacobis",
-            "en": "Justin de Jacobis",
-            "pl": "Justyn de Jacobis"
-        }
-    }
+    "links": [
+        "records/patrons/iustinus/iac"
+    ]
 }

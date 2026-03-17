@@ -23,44 +23,20 @@
             "Григорій"
         ]
     },
-    "links": {
-        "records/patrons/gregorius/1pp": {
-            "la": "Gregorius Magnus",
-            "en": "Gregory the Great",
-            "pl": "Grzegorz Wielki"
-        },
-        "records/patrons/gregorius/2pp": {
-            "la": "Gregorius II",
-            "en": "Gregory II",
-            "pl": "Grzegorz II"
-        },
-        "records/patrons/gregorius/3pp": {
-            "la": "Gregorius III",
-            "en": "Gregory III",
-            "pl": "Grzegorz III"
-        },
-        "records/patrons/gregorius/fra": {
-            "pl": "Grzegorz Frąckowiak",
-            "la": "Gregorius Frąckowiak",
-            "en": "Gregory Frąckowiak"
-        },
-        "records/patrons/gregorius/lak": {
-            "uk": "Григорій Лакота",
-            "pl": "Grzegorz Łakota",
-            "la": "Gregorius Lakota",
-            "en": "Gregory Lakota"
-        },
-        "records/patrons/gregorius/naz": {
-            "grc": "Γρηγόριος Ναζιανζηνός",
-            "la": "Gregorius Nazianzenus",
-            "en": "Gregory of Nazianzus",
-            "pl": "Grzegorz z Nazjanzu"
-        },
-        "records/patrons/gregorius/nys": {
-            "el": "Γρηγόριος Νύσσης",
-            "la": "Gregorius Nyssenus",
-            "en": "Gregory of Nyssa",
-            "pl": "Grzegorz z Nyssy"
-        }
-    }
+    "links": [
+        "records/patrons/gregorius/1pp",
+        "records/patrons/gregorius/1pp",
+        "records/patrons/gregorius/2pp",
+        "records/patrons/gregorius/2pp",
+        "records/patrons/gregorius/3pp",
+        "records/patrons/gregorius/3pp",
+        "records/patrons/gregorius/fra",
+        "records/patrons/gregorius/fra",
+        "records/patrons/gregorius/lak",
+        "records/patrons/gregorius/lak",
+        "records/patrons/gregorius/naz",
+        "records/patrons/gregorius/naz",
+        "records/patrons/gregorius/nys",
+        "records/patrons/gregorius/nys"
+    ]
 }

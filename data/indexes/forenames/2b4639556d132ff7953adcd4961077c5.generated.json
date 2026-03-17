@@ -13,11 +13,7 @@
             "Agatangel"
         ]
     },
-    "links": {
-        "records/patrons/agathangelus/anc": {
-            "la": "Agathangelus Ancyranus",
-            "en": "Agathangelus of Ancyra",
-            "pl": "Agatangel z Ankary"
-        }
-    }
+    "links": [
+        "records/patrons/agathangelus/anc"
+    ]
 }

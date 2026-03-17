@@ -7,12 +7,7 @@
             "Abellon"
         ]
     },
-    "links": {
-        "records/patrons/andreas/abe": {
-            "fr": "André Abellon",
-            "la": "Andreas Abellon",
-            "en": "Andrew Abellon",
-            "pl": "Andrzej Abellon"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/abe"
+    ]
 }

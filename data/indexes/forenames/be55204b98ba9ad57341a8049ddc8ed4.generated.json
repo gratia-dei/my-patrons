@@ -19,12 +19,10 @@
             "Đình"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/ngu": {
-            "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyễn Đình Nghi",
-            "en": "Joseph Nguyễn Đình Nghi",
-            "pl": "Józef Nguyễn Đình Nghi"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/ngu",
+        "records/patrons/iosephus/ngu"
+    ]
 }

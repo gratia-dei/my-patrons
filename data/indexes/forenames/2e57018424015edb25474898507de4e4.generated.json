@@ -16,17 +16,8 @@
             "Giustino"
         ]
     },
-    "links": {
-        "records/patrons/iustinus/iac": {
-            "it": "Giustino de Jacobis",
-            "la": "Iustinus de Iacobis",
-            "en": "Justin de Jacobis",
-            "pl": "Justyn de Jacobis"
-        },
-        "records/patrons/iustinus/phi": {
-            "la": "Iustinus Philosophus",
-            "en": "Justin the Philosopher",
-            "pl": "Justyn Filozof"
-        }
-    }
+    "links": [
+        "records/patrons/iustinus/iac",
+        "records/patrons/iustinus/phi"
+    ]
 }

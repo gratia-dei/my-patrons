@@ -7,12 +7,7 @@
             "Sarkander"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/sar": {
-            "cs": "Jan Sarkander",
-            "la": "Ioannes Sarkander",
-            "en": "John Sarkander",
-            "pl": "Jan Sarkander"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/sar"
+    ]
 }

@@ -7,11 +7,7 @@
             "Konopiński"
         ]
     },
-    "links": {
-        "records/patrons/marianus/kon": {
-            "pl": "Marian Konopiński",
-            "la": "Marianus Konopiński",
-            "en": "Marian Konopiński"
-        }
-    }
+    "links": [
+        "records/patrons/marianus/kon"
+    ]
 }

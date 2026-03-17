@@ -13,135 +13,30 @@
             "mnich"
         ]
     },
-    "links": {
-        "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch Adalbert Slavníkovec",
-            "en": "Adalbert of Prague",
-            "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
-        },
-        "records/patrons/anselmus/can": {
-            "en": "Anselm of Canterbury",
-            "la": "Anselmus Cantuariensis",
-            "pl": "Anzelm z Canterbury"
-        },
-        "records/patrons/ansgarius/ham": {
-            "de": "Ansgar von Bremen",
-            "la": "Ansgarius Bremensis",
-            "en": "Ansgar of Bremen",
-            "pl": "Ansgar z Bremy"
-        },
-        "records/patrons/atevulfus/eob": {
-            "la": "Atevulfus; cum eo, i.a., Eobanus",
-            "en": "Atevulfus; with him, i.a., Eoban",
-            "pl": "Hatewulf; z nim, m.in. Eoban"
-        },
-        "records/patrons/bonifatius/win": {
-            "la": "Bonifatius Winfridus",
-            "en": "Boniface Wynfreth",
-            "pl": "Bonifacy Wynfryd"
-        },
-        "records/patrons/caesarius/are": {
-            "la": "Caesarius Arelatensis",
-            "en": "Caesarius of Arles",
-            "pl": "Cezary z Arles"
-        },
-        "records/patrons/cyprianus/tan": {
-            "ig": "Onye Saịprọs Michael Iwene Tansi",
-            "la": "Cyprianus Michael Iwene Tansi",
-            "en": "Cyprian Michael Iwene Tansi",
-            "pl": "Cyprian Michał Iwene Tansi"
-        },
-        "records/patrons/cyrillus/met": {
-            "la": "Cyrillus Thessalonicensis",
-            "en": "Cyril of Thessalonica",
-            "pl": "Cyryl z Tesaloniki"
-        },
-        "records/patrons/david/men": {
-            "cy": "Dewi Mynyw",
-            "la": "David Meneviensis",
-            "en": "David of Menevia",
-            "pl": "Dawid z Menevii"
-        },
-        "records/patrons/ellurus/eob": {
-            "la": "Ellurus; cum eo, i.a., Eobanus",
-            "en": "Ellurus; with him, i.a., Eoban",
-            "pl": "Elleher; z nim, m.in. Eoban"
-        },
-        "records/patrons/fulgentius/rus": {
-            "la": "Fulgentius Ruspensis",
-            "en": "Fulgentius of Ruspe",
-            "pl": "Fulgencjusz z Ruspe"
-        },
-        "records/patrons/georgius/cor": {
-            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
-            "en": "George of Cordoba; with him, i.a., Aurelius",
-            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
-        },
-        "records/patrons/gregorius/1pp": {
-            "la": "Gregorius Magnus",
-            "en": "Gregory the Great",
-            "pl": "Grzegorz Wielki"
-        },
-        "records/patrons/gundecarus/eob": {
-            "la": "Gundecarus; cum eo, i.a., Eobanus",
-            "en": "Gundecarus; with him, i.a., Eoban",
-            "pl": "Gundekar; z nim, m.in. Eoban"
-        },
-        "records/patrons/hieronymus/dal": {
-            "la": "Hieronymus Stridonensis",
-            "en": "Jerome of Stridon",
-            "pl": "Hieronim ze Strydonu"
-        },
-        "records/patrons/martinus/tur": {
-            "la": "Martinus Turonensis",
-            "en": "Martin of Tours",
-            "pl": "Marcin z Tours"
-        },
-        "records/patrons/melanius/rhe": {
-            "fr": "Melaine de Rennes",
-            "la": "Melanius Rhedonensis",
-            "en": "Melaine of Rennes",
-            "pl": "Melaniusz z Rennes"
-        },
-        "records/patrons/multa/abr": {
-            "la": "Monachi Abrahamitae",
-            "en": "Abrahamic Monks",
-            "pl": "Mnisi Abrahamici"
-        },
-        "records/patrons/nicolaus/stu": {
-            "la": "Nicolaus Studita",
-            "en": "Nicholas the Studite",
-            "pl": "Mikołaj Studita",
-            "fr": "Nicolas le Studite"
-        },
-        "records/patrons/romualdus/cam": {
-            "it": "Romualdo di Camaldoli",
-            "la": "Romualdus Camaldulensis",
-            "en": "Romuald of Camaldoli",
-            "pl": "Romuald z Camaldoli"
-        },
-        "records/patrons/simeon/sta": {
-            "la": "Symeon Stylita Senior",
-            "en": "Simeon Stylites the Elder",
-            "pl": "Symeon Słupnik Starszy"
-        },
-        "records/patrons/theodorus/gra": {
-            "el": "Θεοδώρος Γράπτος",
-            "la": "Theodorus Graptus",
-            "en": "Theodore the Graptus",
-            "pl": "Teodor Graptus"
-        },
-        "records/patrons/theophanes/the": {
-            "el": "Θεοφάνης Νικαίας",
-            "la": "Theophanes Nicaenus",
-            "en": "Theophanes of Nicaea",
-            "pl": "Teofanes z Nicei"
-        },
-        "records/patrons/vaccarus/eob": {
-            "la": "Vaccarus; cum eo, i.a., Eobanus",
-            "en": "Vaccarus; with him, i.a., Eoban",
-            "pl": "Wakkar; z nim, m.in. Eoban"
-        }
-    }
+    "links": [
+        "records/patrons/adalbertus/pra",
+        "records/patrons/anselmus/can",
+        "records/patrons/ansgarius/ham",
+        "records/patrons/atevulfus/eob",
+        "records/patrons/bonifatius/win",
+        "records/patrons/caesarius/are",
+        "records/patrons/cyprianus/tan",
+        "records/patrons/cyrillus/met",
+        "records/patrons/david/men",
+        "records/patrons/ellurus/eob",
+        "records/patrons/fulgentius/rus",
+        "records/patrons/georgius/cor",
+        "records/patrons/gregorius/1pp",
+        "records/patrons/gundecarus/eob",
+        "records/patrons/hieronymus/dal",
+        "records/patrons/martinus/tur",
+        "records/patrons/melanius/rhe",
+        "records/patrons/multa/abr",
+        "records/patrons/nicolaus/stu",
+        "records/patrons/romualdus/cam",
+        "records/patrons/simeon/sta",
+        "records/patrons/theodorus/gra",
+        "records/patrons/theophanes/the",
+        "records/patrons/vaccarus/eob"
+    ]
 }

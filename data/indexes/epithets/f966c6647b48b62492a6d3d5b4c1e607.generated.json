@@ -16,12 +16,7 @@
             "Czcigodny"
         ]
     },
-    "links": {
-        "records/patrons/petrus/ven": {
-            "fr": "Pierre le Vénérable",
-            "la": "Peter Venerabilis",
-            "en": "Peter the Venerable",
-            "pl": "Piotr Czcigodny"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/ven"
+    ]
 }

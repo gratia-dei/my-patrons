@@ -19,28 +19,10 @@
             "Cesario"
         ]
     },
-    "links": {
-        "records/patrons/bernardus/sil": {
-            "it": "Bernardo Maria di Gesù",
-            "la": "Bernardus Maria a Iesu",
-            "en": "Bernard Mary of Jesus",
-            "pl": "Bernard Maria od Jezusa"
-        },
-        "records/patrons/caesarius/are": {
-            "la": "Caesarius Arelatensis",
-            "en": "Caesarius of Arles",
-            "pl": "Cezary z Arles"
-        },
-        "records/patrons/caesarius/naz": {
-            "la": "Caesarius Nazianzenus",
-            "en": "Caesarius of Nazianzus",
-            "pl": "Cezary z Nazjanzu"
-        },
-        "records/patrons/caesarius/tar": {
-            "it": "Cesario di Terracina",
-            "la": "Caesarius Terracinensis",
-            "en": "Caesarius of Terracina",
-            "pl": "Cezary z Terraciny"
-        }
-    }
+    "links": [
+        "records/patrons/bernardus/sil",
+        "records/patrons/caesarius/are",
+        "records/patrons/caesarius/naz",
+        "records/patrons/caesarius/tar"
+    ]
 }

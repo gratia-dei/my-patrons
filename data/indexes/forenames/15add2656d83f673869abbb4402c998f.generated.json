@@ -20,12 +20,10 @@
             "Gyaviira"
         ]
     },
-    "links": {
-        "records/patrons/gyavira/lwa": {
-            "sw": "Gyaviira Musoke",
-            "la": "Gyavira",
-            "en": "Gyaviira Musoke",
-            "pl": "Gyaviira Musoke"
-        }
-    }
+    "links": [
+        "records/patrons/gyavira/lwa",
+        "records/patrons/gyavira/lwa",
+        "records/patrons/gyavira/lwa",
+        "records/patrons/gyavira/lwa"
+    ]
 }

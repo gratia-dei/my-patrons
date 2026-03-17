@@ -16,12 +16,7 @@
             "Léonard"
         ]
     },
-    "links": {
-        "records/patrons/leonardus/ere": {
-            "fr": "Léonard de Noblat",
-            "la": "Leonardus Lemovicensis",
-            "en": "Leonard of Noblac",
-            "pl": "Leonard z Limoges"
-        }
-    }
+    "links": [
+        "records/patrons/leonardus/ere"
+    ]
 }

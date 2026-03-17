@@ -7,11 +7,7 @@
             "Liguda"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/lig": {
-            "pl": "Alojzy Liguda",
-            "la": "Aloise Liguda",
-            "en": "Aloysius Liguda"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/lig"
+    ]
 }

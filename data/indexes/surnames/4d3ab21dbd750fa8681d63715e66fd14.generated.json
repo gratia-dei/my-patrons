@@ -7,12 +7,7 @@
             "de Porres"
         ]
     },
-    "links": {
-        "records/patrons/martinus/por": {
-            "es": "Martín de Porres",
-            "la": "Martinus de Porres",
-            "en": "Martin de Porres",
-            "pl": "Marcin de Porres"
-        }
-    }
+    "links": [
+        "records/patrons/martinus/por"
+    ]
 }

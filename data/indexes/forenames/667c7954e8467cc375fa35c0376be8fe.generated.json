@@ -13,21 +13,9 @@
             "Rafał"
         ]
     },
-    "links": {
-        "records/patrons/raphael/arc": {
-            "la": "Raphael Archangelus",
-            "en": "Archangel Raphael",
-            "pl": "Rafał Archanioł"
-        },
-        "records/patrons/raphael/chy": {
-            "pl": "Rafał Chyliński",
-            "la": "Raphael Chylinski",
-            "en": "Raphael Chylinski"
-        },
-        "records/patrons/raphael/kal": {
-            "pl": "Rafał Kalinowski",
-            "la": "Raphael Kalinowski",
-            "en": "Raphael Kalinowski"
-        }
-    }
+    "links": [
+        "records/patrons/raphael/arc",
+        "records/patrons/raphael/chy",
+        "records/patrons/raphael/kal"
+    ]
 }

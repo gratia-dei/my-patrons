@@ -13,74 +13,19 @@
             "żołnierz"
         ]
     },
-    "links": {
-        "records/patrons/bertholdus/car": {
-            "it": "Bertoldo di Calabria",
-            "la": "Bertoldus de Calabria",
-            "en": "Berthold of Calabria",
-            "pl": "Bertold z Kalabrii"
-        },
-        "records/patrons/besas/ale": {
-            "la": "Besas Alexandrinus",
-            "en": "Besas of Alexandria",
-            "pl": "Bezas z Aleksandrii"
-        },
-        "records/patrons/caerealis/rom": {
-            "la": "Caerealis de Roma",
-            "en": "Cereal of Rome",
-            "pl": "Cerealis z Rzymu"
-        },
-        "records/patrons/candidus/the": {
-            "la": "Candidus Legionis Thebanae",
-            "en": "Candidus of the Theban Legion",
-            "pl": "Kandyd z Legii Tebańskiej"
-        },
-        "records/patrons/eleutherius/nic": {
-            "la": "Eleutherius de Nicomedia",
-            "en": "Eleutherius of Nicomedia",
-            "pl": "Eleuteriusz z Nikomedii"
-        },
-        "records/patrons/exsuperius/the": {
-            "la": "Exsuperius Legionis Thebanae",
-            "en": "Exuperius of the Theban Legion",
-            "pl": "Eksuperiusz z Legii Tebańskiej"
-        },
-        "records/patrons/ignatius/loy": {
-            "es": "Ignacio de Loyola",
-            "la": "Ignatius de Loyola",
-            "en": "Ignatius of Loyola",
-            "pl": "Ignacy Loyola"
-        },
-        "records/patrons/innocentius/the": {
-            "la": "Innocentius Legionis Thebanae",
-            "en": "Innocent of the Theban Legion",
-            "pl": "Innocenty z Legii Tebańskiej"
-        },
-        "records/patrons/ioannes/deo": {
-            "pt": "João de Deus",
-            "la": "Ioannes de Deo",
-            "en": "John of God",
-            "pl": "Jan Boży"
-        },
-        "records/patrons/mauritius/the": {
-            "la": "Mauritius Legionis Thebanae",
-            "en": "Maurice of the Theban Legion",
-            "pl": "Maurycy z Legii Tebańskiej"
-        },
-        "records/patrons/multa/the": {
-            "la": "Sociorum Mauricii, milites legionis Thebanae",
-            "en": "Companions of Maurice, soldiers of the Theban legion",
-            "pl": "Towarzysze Maurycego, żołnierze legionu tebańskiego"
-        },
-        "records/patrons/victor/the": {
-            "la": "Victor Legionis Thebanae",
-            "en": "Victor of the Theban Legion",
-            "pl": "Wiktor z Legii Tebańskiej"
-        },
-        "records/patrons/vitalis/the": {
-            "la": "Vitalis Legionis Thebanae",
-            "en": "Vitalis of the Theban Legion",
-            "pl": "Witalis z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/bertholdus/car",
+        "records/patrons/besas/ale",
+        "records/patrons/caerealis/rom",
+        "records/patrons/candidus/the",
+        "records/patrons/eleutherius/nic",
+        "records/patrons/exsuperius/the",
+        "records/patrons/ignatius/loy",
+        "records/patrons/innocentius/the",
+        "records/patrons/ioannes/deo",
+        "records/patrons/mauritius/the",
+        "records/patrons/multa/the",
+        "records/patrons/victor/the",
+        "records/patrons/vitalis/the"
+    ]
 }

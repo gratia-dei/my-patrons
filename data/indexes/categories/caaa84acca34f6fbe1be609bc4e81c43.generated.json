@@ -13,211 +13,41 @@
             "fundator"
         ]
     },
-    "links": {
-        "records/patrons/albertus/chm": {
-            "pl": "Albert Chmielowski",
-            "la": "Albertus Chmielowski",
-            "en": "Albert Chmielowski"
-        },
-        "records/patrons/alexius/fal": {
-            "it": "Alessio Falconieri",
-            "la": "Alexius Falconieri",
-            "en": "Alexis Falconieri",
-            "pl": "Aleksy Falconieri"
-        },
-        "records/patrons/aloysius/scr": {
-            "it": "Luigi Scrosoppi",
-            "la": "Aloysius Scrosoppi",
-            "en": "Aloise Scrosoppi",
-            "pl": "Alojzy Scrosoppi"
-        },
-        "records/patrons/alphonsus/lig": {
-            "it": "Alfonso Maria de' Liguori",
-            "en": "Alphonsus Maria Liguori",
-            "la": "Alphonsus Maria a Ligorio",
-            "pl": "Alfons Maria Liguori"
-        },
-        "records/patrons/andreas/fou": {
-            "fr": "André-Hubert Fournet",
-            "la": "Andreas Hubertus Fournet",
-            "en": "Andrew Hubert Fournet",
-            "pl": "Andrzej Hubert Fournet"
-        },
-        "records/patrons/bartholomaeus/ami": {
-            "it": "Bartolomeo Amadio da Firenze",
-            "la": "Bartholomaeus Amidaeus de Florentia",
-            "en": "Bartholomew Amideus of Florence",
-            "pl": "Bartłomiej Amideusz z Florencji"
-        },
-        "records/patrons/bartholomaeus/lon": {
-            "it": "Bartolo Longo",
-            "la": "Bartholomaeus Longo",
-            "en": "Bartholomew Longo",
-            "pl": "Bartłomiej Longo"
-        },
-        "records/patrons/benedictus/man": {
-            "it": "Benedetto Manetto dell’Antella",
-            "la": "Benedictus Manettus Antella",
-            "en": "Benedict Manettus Antella",
-            "pl": "Benedykt Manettus Antella"
-        },
-        "records/patrons/bernardus/cla": {
-            "fr": "Bernard de Clairvaux",
-            "la": "Bernardus Claravallensis",
-            "en": "Bernard of Clairvaux",
-            "pl": "Bernard z Clairvaux"
-        },
-        "records/patrons/bonfilius/flo": {
-            "it": "Bonfilio Monaldi",
-            "la": "Bonfilius Monaldi",
-            "en": "Bonfilius Monaldi",
-            "pl": "Bonfiliusz Monaldi"
-        },
-        "records/patrons/bruno/ere": {
-            "de": "Bruno von Köln",
-            "la": "Bruno Cartusiensis",
-            "en": "Bruno of Cologne",
-            "pl": "Bruno Kartuz"
-        },
-        "records/patrons/camillus/lel": {
-            "it": "Camillo de Lellis",
-            "la": "Camillus de Lellis",
-            "en": "Camillus de Lellis",
-            "pl": "Kamil de Lellis"
-        },
-        "records/patrons/dominicus/oxo": {
-            "es": "Domingo de Osma",
-            "la": "Dominicus Oxomensis",
-            "en": "Dominic of Osma",
-            "pl": "Dominik Guzmán"
-        },
-        "records/patrons/edmundus/boj": {
-            "pl": "Edmund Bojanowski",
-            "la": "Edmundus Bojanowski",
-            "en": "Edmund Bojanowski"
-        },
-        "records/patrons/franciscus/asi": {
-            "it": "Francesco d'Assisi",
-            "la": "Franciscus Asisiensis",
-            "en": "Francis of Assisi",
-            "pl": "Franciszek z Asyżu"
-        },
-        "records/patrons/franciscus/car": {
-            "it": "Francesco Caracciolo",
-            "en": "Francis Caracciolo",
-            "la": "Franciscus Caracciolo",
-            "pl": "Franciszek Caracciolo"
-        },
-        "records/patrons/franciscus/pau": {
-            "it": "Francesco da Paola",
-            "la": "Franciscus de Paula",
-            "en": "Francis of Paola",
-            "pl": "Franciszek z Paoli"
-        },
-        "records/patrons/gerardinus/sos": {
-            "it": "Gerardino Sostegno da Firenze",
-            "la": "Gerardinus Sostenaeus de Florentia",
-            "en": "Gerardius Sostene of Florence",
-            "pl": "Gerardyn Sosteniusz z Florencji"
-        },
-        "records/patrons/guido/con": {
-            "it": "Guido Maria Conforti",
-            "la": "Guido Maria Conforti",
-            "en": "Guido Maria Conforti",
-            "pl": "Gwidon Maria Conforti"
-        },
-        "records/patrons/hieronymus/emi": {
-            "it": "Girolamo Emiliani",
-            "la": "Hieronymus Emiliani",
-            "en": "Jerome Emiliani",
-            "pl": "Hieronim Emiliani"
-        },
-        "records/patrons/iacobus/alb": {
-            "it": "Giacomo Alberione",
-            "la": "Iacobus Alberione",
-            "en": "James Alberione",
-            "pl": "Jakub Alberione"
-        },
-        "records/patrons/ignatius/loy": {
-            "es": "Ignacio de Loyola",
-            "la": "Ignatius de Loyola",
-            "en": "Ignatius of Loyola",
-            "pl": "Ignacy Loyola"
-        },
-        "records/patrons/ioannes/bon": {
-            "it": "Giovanni Buonagiunta Manetti",
-            "la": "Ioannes Bonaiuncta Manetti",
-            "en": "John Bonajuncta Manetti",
-            "pl": "Jan Bonajunkta Manetti"
-        },
-        "records/patrons/ioannes/bos": {
-            "it": "Giovanni Bosco",
-            "la": "Ioannes Bosco",
-            "en": "John Bosco",
-            "pl": "Jan Bosko"
-        },
-        "records/patrons/ioannes/mat": {
-            "fr": "Jean de Matha",
-            "la": "Ioannes de Matha",
-            "en": "John of Matha",
-            "pl": "Jan de Matha"
-        },
-        "records/patrons/iosephus/esc": {
-            "es": "Josemaría Escrivá de Balaguer",
-            "la": "Iosephus Maria Escrivá de Balaguer",
-            "en": "Josemaría Escrivá de Balaguer",
-            "pl": "Josemaría Escrivá de Balaguer"
-        },
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar",
-            "en": "Joseph Sebastian Pelczar"
-        },
-        "records/patrons/ludovicus/pav": {
-            "it": "Lodovico Pavoni",
-            "la": "Ludovicus Pavoni",
-            "en": "Louis Pavoni",
-            "pl": "Ludwik Pavoni"
-        },
-        "records/patrons/maximilianus/kol": {
-            "pl": "Maksymilian Maria Kolbe",
-            "la": "Maximilianus Maria Kolbe",
-            "en": "Maximilian Maria Kolbe"
-        },
-        "records/patrons/norbertus/mag": {
-            "de": "Norbert von Xanten",
-            "la": "Norbertus Magdeburgensis",
-            "en": "Norbert of Xanten",
-            "pl": "Norbert z Xanten"
-        },
-        "records/patrons/philippus/ner": {
-            "it": "Filippo Neri",
-            "la": "Fhilippus Nerius",
-            "en": "Fhilip Neri",
-            "pl": "Filip Neri"
-        },
-        "records/patrons/ricoverus/ugu": {
-            "it": "Ricovero Uguccione da Firenze",
-            "la": "Ricoverus Uguccio de Florentia",
-            "en": "Ricoverus Uguccione of Florence",
-            "pl": "Rikowerus Uguccio z Florencji"
-        },
-        "records/patrons/sigismundus/gor": {
-            "pl": "Zygmunt Gorazdowski",
-            "la": "Sigismundus Gorazdowski",
-            "en": "Sigismund Gorazdowski"
-        },
-        "records/patrons/vincentius/pal": {
-            "it": "Vincenzo Pallotti",
-            "la": "Vincentius Pallotti",
-            "en": "Vincent Pallotti",
-            "pl": "Wincenty Pallotti"
-        },
-        "records/patrons/vincentius/pau": {
-            "fr": "Vincent de Paul",
-            "la": "Vincentius de Paul",
-            "en": "Vincent de Paul",
-            "pl": "Wincenty a Paulo"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/chm",
+        "records/patrons/alexius/fal",
+        "records/patrons/aloysius/scr",
+        "records/patrons/alphonsus/lig",
+        "records/patrons/andreas/fou",
+        "records/patrons/bartholomaeus/ami",
+        "records/patrons/bartholomaeus/lon",
+        "records/patrons/benedictus/man",
+        "records/patrons/bernardus/cla",
+        "records/patrons/bonfilius/flo",
+        "records/patrons/bruno/ere",
+        "records/patrons/camillus/lel",
+        "records/patrons/dominicus/oxo",
+        "records/patrons/edmundus/boj",
+        "records/patrons/franciscus/asi",
+        "records/patrons/franciscus/car",
+        "records/patrons/franciscus/pau",
+        "records/patrons/gerardinus/sos",
+        "records/patrons/guido/con",
+        "records/patrons/hieronymus/emi",
+        "records/patrons/iacobus/alb",
+        "records/patrons/ignatius/loy",
+        "records/patrons/ioannes/bon",
+        "records/patrons/ioannes/bos",
+        "records/patrons/ioannes/mat",
+        "records/patrons/iosephus/esc",
+        "records/patrons/iosephus/pel",
+        "records/patrons/ludovicus/pav",
+        "records/patrons/maximilianus/kol",
+        "records/patrons/norbertus/mag",
+        "records/patrons/philippus/ner",
+        "records/patrons/ricoverus/ugu",
+        "records/patrons/sigismundus/gor",
+        "records/patrons/vincentius/pal",
+        "records/patrons/vincentius/pau"
+    ]
 }

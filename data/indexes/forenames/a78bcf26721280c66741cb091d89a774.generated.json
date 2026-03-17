@@ -20,28 +20,10 @@
             "Lorenzo"
         ]
     },
-    "links": {
-        "records/patrons/laurentius/bat": {
-            "fr": "Laurent Bâtard",
-            "la": "Laurentius Bâtard",
-            "en": "Laurence Bâtard",
-            "pl": "Wawrzyniec Bâtard"
-        },
-        "records/patrons/laurentius/bru": {
-            "it": "Lorenzo da Brindisi",
-            "la": "Laurentius de Brundusio",
-            "en": "Lawrence of Brindisi",
-            "pl": "Wawrzyniec z Brindisi"
-        },
-        "records/patrons/laurentius/can": {
-            "en": "Laurence of Canterbury",
-            "la": "Laurentius Cantuariensis",
-            "pl": "Wawrzyniec z Canterbury"
-        },
-        "records/patrons/laurentius/rom": {
-            "la": "Laurentius de Roma",
-            "en": "Lawrence of Rome",
-            "pl": "Wawrzyniec z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/laurentius/bat",
+        "records/patrons/laurentius/bru",
+        "records/patrons/laurentius/can",
+        "records/patrons/laurentius/rom"
+    ]
 }

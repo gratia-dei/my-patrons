@@ -19,12 +19,10 @@
             "Mukasa"
         ]
     },
-    "links": {
-        "records/patrons/mukasa/kir": {
-            "sw": "Mukasa Kiriwawanvu",
-            "la": "Mukasa Kiriwanvu",
-            "en": "Mukasa Kiriwawanvu",
-            "pl": "Mukasa Kiriwawanvu"
-        }
-    }
+    "links": [
+        "records/patrons/mukasa/kir",
+        "records/patrons/mukasa/kir",
+        "records/patrons/mukasa/kir",
+        "records/patrons/mukasa/kir"
+    ]
 }

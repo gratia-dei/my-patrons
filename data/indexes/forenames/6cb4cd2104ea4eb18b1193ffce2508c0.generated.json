@@ -16,12 +16,7 @@
             "Chiara"
         ]
     },
-    "links": {
-        "records/patrons/clara/asi": {
-            "it": "Chiara d'Assisi",
-            "la": "Clara Assisiensis",
-            "en": "Clara of Assisi",
-            "pl": "Klara z Asyżu"
-        }
-    }
+    "links": [
+        "records/patrons/clara/asi"
+    ]
 }

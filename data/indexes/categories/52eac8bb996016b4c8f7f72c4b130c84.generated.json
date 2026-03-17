@@ -13,11 +13,7 @@
             "akolita"
         ]
     },
-    "links": {
-        "records/patrons/tarsicius/aco": {
-            "la": "Tarsicius, acolytus",
-            "en": "Tarcisius, acolyte",
-            "pl": "Tarsycjusz, akolita"
-        }
-    }
+    "links": [
+        "records/patrons/tarsicius/aco"
+    ]
 }

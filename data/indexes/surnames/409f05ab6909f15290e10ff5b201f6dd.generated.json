@@ -7,12 +7,7 @@
             "Rubatto"
         ]
     },
-    "links": {
-        "records/patrons/maria/rub": {
-            "it": "Maria Francesca di Gesù Rubatto",
-            "la": "Maria Francisca a Iesu Rubatto",
-            "en": "Maria Francesca of Jesus Rubatto",
-            "pl": "Maria Franciszka od Jezusa Rubatto"
-        }
-    }
+    "links": [
+        "records/patrons/maria/rub"
+    ]
 }

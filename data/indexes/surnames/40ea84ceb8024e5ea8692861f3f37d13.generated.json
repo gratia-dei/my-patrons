@@ -7,11 +7,7 @@
             "Kopliński"
         ]
     },
-    "links": {
-        "records/patrons/anicetus/kop": {
-            "pl": "Anicet Kopliński",
-            "la": "Anicetus Koplinski",
-            "en": "Anicetus Kopliński"
-        }
-    }
+    "links": [
+        "records/patrons/anicetus/kop"
+    ]
 }

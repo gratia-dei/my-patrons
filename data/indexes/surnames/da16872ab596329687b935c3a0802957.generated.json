@@ -10,12 +10,7 @@
             "Falconerius"
         ]
     },
-    "links": {
-        "records/patrons/alexius/fal": {
-            "it": "Alessio Falconieri",
-            "la": "Alexius Falconieri",
-            "en": "Alexis Falconieri",
-            "pl": "Aleksy Falconieri"
-        }
-    }
+    "links": [
+        "records/patrons/alexius/fal"
+    ]
 }

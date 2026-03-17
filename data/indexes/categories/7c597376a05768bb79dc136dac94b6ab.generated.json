@@ -13,28 +13,10 @@
             "ewangelista"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/eva": {
-            "la": "Ioannes Evangelista",
-            "en": "John the Evangelist",
-            "pl": "Jan Ewangelista"
-        },
-        "records/patrons/lucas/eva": {
-            "el": "Ευαγγελιστής Λουκάς",
-            "la": "Lucas Evangelista",
-            "en": "Luke the Evangelist",
-            "pl": "Łukasz Ewangelista"
-        },
-        "records/patrons/marcus/eva": {
-            "la": "Marcus Evangelista",
-            "en": "Mark the Evangelist",
-            "pl": "Marek Ewangelista"
-        },
-        "records/patrons/matthaeus/eva": {
-            "he": "מתיו האוונגליסט",
-            "la": "Matthaeus Evengelista",
-            "en": "Matthew the Evengelist",
-            "pl": "Mateusz Ewangelista"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/eva",
+        "records/patrons/lucas/eva",
+        "records/patrons/marcus/eva",
+        "records/patrons/matthaeus/eva"
+    ]
 }

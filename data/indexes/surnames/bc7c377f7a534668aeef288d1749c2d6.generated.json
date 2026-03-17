@@ -7,12 +7,7 @@
             "Caracciolo"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/car": {
-            "it": "Francesco Caracciolo",
-            "en": "Francis Caracciolo",
-            "la": "Franciscus Caracciolo",
-            "pl": "Franciszek Caracciolo"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/car"
+    ]
 }

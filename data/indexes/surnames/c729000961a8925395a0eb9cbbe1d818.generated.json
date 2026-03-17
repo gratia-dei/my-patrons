@@ -7,12 +7,7 @@
             "Mazzarello"
         ]
     },
-    "links": {
-        "records/patrons/maria/maz": {
-            "it": "Maria Domenica Mazzarello",
-            "la": "Maria Dominica Mazzarello",
-            "en": "Maria Dominica Mazzarello",
-            "pl": "Maria Dominika Mazzarello"
-        }
-    }
+    "links": [
+        "records/patrons/maria/maz"
+    ]
 }

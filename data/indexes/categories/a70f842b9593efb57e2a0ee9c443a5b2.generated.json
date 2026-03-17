@@ -13,31 +13,10 @@
             "generał"
         ]
     },
-    "links": {
-        "records/patrons/bernardus/sil": {
-            "it": "Bernardo Maria di Gesù",
-            "la": "Bernardus Maria a Iesu",
-            "en": "Bernard Mary of Jesus",
-            "pl": "Bernard Maria od Jezusa"
-        },
-        "records/patrons/franciscus/bor": {
-            "es": "Francisco de Borja",
-            "la": "Franciscus Borgia",
-            "en": "Francis Borgia",
-            "pl": "Franciszek Borgiasz"
-        },
-        "records/patrons/laurentius/bru": {
-            "it": "Lorenzo da Brindisi",
-            "la": "Laurentius de Brundusio",
-            "en": "Lawrence of Brindisi",
-            "pl": "Wawrzyniec z Brindisi"
-        },
-        "records/patrons/raymundus/pen": {
-            "ca": "Ramon de Penyafort",
-            "es": "Raimundo de Peñafort",
-            "la": "Raymundus de Penyafort",
-            "en": "Raymond of Penyafort",
-            "pl": "Rajmund z Penyafortu"
-        }
-    }
+    "links": [
+        "records/patrons/bernardus/sil",
+        "records/patrons/franciscus/bor",
+        "records/patrons/laurentius/bru",
+        "records/patrons/raymundus/pen"
+    ]
 }

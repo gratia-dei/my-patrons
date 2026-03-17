@@ -14,11 +14,8 @@
             "Chryzolog"
         ]
     },
-    "links": {
-        "records/patrons/petrus/chr": {
-            "la": "Petrus Chrysologus",
-            "en": "Peter Chrysologus",
-            "pl": "Piotr Chryzolog"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/chr",
+        "records/patrons/petrus/chr"
+    ]
 }

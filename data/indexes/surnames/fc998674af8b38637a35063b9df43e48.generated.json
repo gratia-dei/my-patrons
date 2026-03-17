@@ -16,12 +16,7 @@
             "Suzuki"
         ]
     },
-    "links": {
-        "records/patrons/paulus/suz": {
-            "ja": "パウロ鈴木",
-            "la": "Paulus Suzuki",
-            "en": "Paul Suzuki",
-            "pl": "Paweł Suzuki"
-        }
-    }
+    "links": [
+        "records/patrons/paulus/suz"
+    ]
 }

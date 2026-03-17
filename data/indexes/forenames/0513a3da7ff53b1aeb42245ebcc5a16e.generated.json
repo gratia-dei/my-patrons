@@ -22,45 +22,13 @@
             "Margherita"
         ]
     },
-    "links": {
-        "records/patrons/margarita/ala": {
-            "fr": "Marguerite-Marie Alacoque",
-            "la": "Margarita Maria Alacoque",
-            "en": "Margaret Mary Alacoque",
-            "pl": "Małgorzata Maria Alacoque"
-        },
-        "records/patrons/margarita/cor": {
-            "it": "Margherita da Cortona",
-            "la": "Margarita de Cortona",
-            "en": "Margaret of Cortona",
-            "pl": "Małgorzata z Kortony"
-        },
-        "records/patrons/margarita/ebn": {
-            "de": "Margareta Ebner",
-            "la": "Margarita Ebner",
-            "en": "Margaret Ebner",
-            "pl": "Małgorzata Ebner"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "la": "Margarita de Lotharingia",
-            "en": "Margaret of Lorraine",
-            "pl": "Małgorzata z Lotaryngii"
-        },
-        "records/patrons/margarita/sze": {
-            "pl": "Małgorzata Łucja Szewczyk",
-            "la": "Margarita Lucia Szewczyk",
-            "en": "Margaret Lucy Szewczyk"
-        },
-        "records/patrons/margarita/war": {
-            "en": "Margaret Ward",
-            "la": "Margarita Ward",
-            "pl": "Małgorzata Ward"
-        },
-        "records/patrons/marina/pis": {
-            "la": "Marina Margarita Antiochena",
-            "en": "Marina Margaret of Antioch",
-            "pl": "Marina Małgorzata z Antiochii"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/ala",
+        "records/patrons/margarita/cor",
+        "records/patrons/margarita/ebn",
+        "records/patrons/margarita/lot",
+        "records/patrons/margarita/sze",
+        "records/patrons/margarita/war",
+        "records/patrons/marina/pis"
+    ]
 }

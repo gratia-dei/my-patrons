@@ -10,12 +10,7 @@
             "Mariscotti"
         ]
     },
-    "links": {
-        "records/patrons/hyacintha/mar": {
-            "it": "Giacinta Marescotti",
-            "la": "Hyacintha Mariscotti",
-            "en": "Hyacintha Mariscotti",
-            "pl": "Hiacynta Mariscotti"
-        }
-    }
+    "links": [
+        "records/patrons/hyacintha/mar"
+    ]
 }

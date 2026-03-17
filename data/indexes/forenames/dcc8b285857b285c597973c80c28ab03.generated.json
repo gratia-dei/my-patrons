@@ -15,11 +15,9 @@
             "Gedeon"
         ]
     },
-    "links": {
-        "records/patrons/gedeon/man": {
-            "la": "Gedeon, filius Ioash",
-            "en": "Gedeon, son of Joash",
-            "pl": "Gedeon, syn Joasza"
-        }
-    }
+    "links": [
+        "records/patrons/gedeon/man",
+        "records/patrons/gedeon/man",
+        "records/patrons/gedeon/man"
+    ]
 }

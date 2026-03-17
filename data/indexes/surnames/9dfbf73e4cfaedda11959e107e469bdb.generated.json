@@ -7,12 +7,7 @@
             "Variara"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/var": {
-            "it": "Luigi Variara",
-            "la": "Aloysius Variara",
-            "en": "Aloise Variara",
-            "pl": "Alojzy Variara"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/var"
+    ]
 }

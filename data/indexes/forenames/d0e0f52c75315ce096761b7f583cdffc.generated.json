@@ -14,11 +14,8 @@
             "Czesław"
         ]
     },
-    "links": {
-        "records/patrons/ceslaus/joz": {
-            "pl": "Czesław Jóźwiak",
-            "la": "Ceslaus Jóźwiak",
-            "en": "Czesław Jóźwiak"
-        }
-    }
+    "links": [
+        "records/patrons/ceslaus/joz",
+        "records/patrons/ceslaus/joz"
+    ]
 }

@@ -13,11 +13,7 @@
             "Akucjusz"
         ]
     },
-    "links": {
-        "records/patrons/acutius/put": {
-            "la": "Acutius Puteolensis",
-            "en": "Acutius of Pozzuoli",
-            "pl": "Akucjusz z Pozzuoli"
-        }
-    }
+    "links": [
+        "records/patrons/acutius/put"
+    ]
 }

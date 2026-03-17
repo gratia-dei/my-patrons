@@ -13,12 +13,7 @@
             "Matka Boża"
         ]
     },
-    "links": {
-        "records/patrons/maria/naz": {
-            "arc": "ܡܪܝܡ",
-            "en": "Mary, mother of Jesus",
-            "la": "Maria Virgo",
-            "pl": "Maria z Nazaretu"
-        }
-    }
+    "links": [
+        "records/patrons/maria/naz"
+    ]
 }

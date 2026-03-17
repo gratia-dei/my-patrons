@@ -15,12 +15,8 @@
             "Benicjusz"
         ]
     },
-    "links": {
-        "records/patrons/philippus/ben": {
-            "it": "Filippo Benizi",
-            "la": "Philippus Benitius",
-            "en": "Philip Benizi",
-            "pl": "Filip Benicjusz"
-        }
-    }
+    "links": [
+        "records/patrons/philippus/ben",
+        "records/patrons/philippus/ben"
+    ]
 }

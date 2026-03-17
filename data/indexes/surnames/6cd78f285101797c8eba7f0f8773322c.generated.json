@@ -7,12 +7,7 @@
             "de Soveral"
         ]
     },
-    "links": {
-        "records/patrons/andreas/sov": {
-            "pt": "André de Soveral",
-            "la": "Andreas de Soveral",
-            "en": "Andrew de Soveral",
-            "pl": "Andrzej de Soveral"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/sov"
+    ]
 }

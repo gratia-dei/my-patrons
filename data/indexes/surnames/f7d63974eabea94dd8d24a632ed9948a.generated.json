@@ -7,12 +7,7 @@
             "Alberione"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/alb": {
-            "it": "Giacomo Alberione",
-            "la": "Iacobus Alberione",
-            "en": "James Alberione",
-            "pl": "Jakub Alberione"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/alb"
+    ]
 }

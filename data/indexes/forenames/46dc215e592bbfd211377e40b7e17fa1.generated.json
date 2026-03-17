@@ -17,12 +17,8 @@
             "Melaine"
         ]
     },
-    "links": {
-        "records/patrons/melanius/rhe": {
-            "fr": "Melaine de Rennes",
-            "la": "Melanius Rhedonensis",
-            "en": "Melaine of Rennes",
-            "pl": "Melaniusz z Rennes"
-        }
-    }
+    "links": [
+        "records/patrons/melanius/rhe",
+        "records/patrons/melanius/rhe"
+    ]
 }

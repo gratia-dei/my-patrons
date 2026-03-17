@@ -13,17 +13,8 @@
             "asceta"
         ]
     },
-    "links": {
-        "records/patrons/antonius/abb": {
-            "el": "Ἀντώνιος Μέγας",
-            "la": "Antonius Magnus",
-            "en": "Anthony the Great",
-            "pl": "Antoni Wielki"
-        },
-        "records/patrons/hieronymus/dal": {
-            "la": "Hieronymus Stridonensis",
-            "en": "Jerome of Stridon",
-            "pl": "Hieronim ze Strydonu"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/abb",
+        "records/patrons/hieronymus/dal"
+    ]
 }

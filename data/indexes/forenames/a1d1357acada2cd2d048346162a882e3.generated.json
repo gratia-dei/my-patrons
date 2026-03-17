@@ -16,12 +16,7 @@
             "Омелян"
         ]
     },
-    "links": {
-        "records/patrons/aemilianus/kov": {
-            "uk": "Омелян Ковч",
-            "la": "Aemilianus Kovc",
-            "en": "Emilian Kovch",
-            "pl": "Emilian Kowcz"
-        }
-    }
+    "links": [
+        "records/patrons/aemilianus/kov"
+    ]
 }

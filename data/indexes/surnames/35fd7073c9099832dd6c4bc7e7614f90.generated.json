@@ -7,12 +7,7 @@
             "Escrivá de Balaguer"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/esc": {
-            "es": "Josemaría Escrivá de Balaguer",
-            "la": "Iosephus Maria Escrivá de Balaguer",
-            "en": "Josemaría Escrivá de Balaguer",
-            "pl": "Josemaría Escrivá de Balaguer"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/esc"
+    ]
 }

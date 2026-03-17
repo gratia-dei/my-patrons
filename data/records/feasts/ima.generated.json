@@ -1,10 +1,5 @@
 {
-    "links": {
-        "records/god/fil": {
-            "arc": "ܝܫܘܥ",
-            "la": "Iesus Christus",
-            "en": "Jesus Christ",
-            "pl": "Jezus Chrystus"
-        }
-    }
+    "links": [
+        "god/fil"
+    ]
 }

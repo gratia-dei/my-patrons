@@ -17,12 +17,8 @@
             "Malojan"
         ]
     },
-    "links": {
-        "records/patrons/ignatius/mal": {
-            "hy": "Իգնատիոս Մալոյան",
-            "la": "Ignatius Maloyan",
-            "en": "Ignatius Maloyan",
-            "pl": "Ignacy Maloyan"
-        }
-    }
+    "links": [
+        "records/patrons/ignatius/mal",
+        "records/patrons/ignatius/mal"
+    ]
 }

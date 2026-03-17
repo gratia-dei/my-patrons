@@ -14,11 +14,8 @@
             "Trankwilin"
         ]
     },
-    "links": {
-        "records/patrons/tranquillinus/rom": {
-            "la": "Tranquillinus de Roma",
-            "en": "Tranquillinus of Rome",
-            "pl": "Trankwilin z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/tranquillinus/rom",
+        "records/patrons/tranquillinus/rom"
+    ]
 }

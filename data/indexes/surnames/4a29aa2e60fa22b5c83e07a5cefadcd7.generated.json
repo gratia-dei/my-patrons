@@ -7,12 +7,7 @@
             "Mayer"
         ]
     },
-    "links": {
-        "records/patrons/rupertus/may": {
-            "de": "Rupert Mayer",
-            "la": "Rupertus Mayer",
-            "en": "Rupert Mayer",
-            "pl": "Rupert Mayer"
-        }
-    }
+    "links": [
+        "records/patrons/rupertus/may"
+    ]
 }

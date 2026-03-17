@@ -13,11 +13,7 @@
             "Poncjan"
         ]
     },
-    "links": {
-        "records/patrons/pontianus/1pp": {
-            "la": "Pontianus Pp.",
-            "en": "Pontian, pope",
-            "pl": "Poncjan, papież"
-        }
-    }
+    "links": [
+        "records/patrons/pontianus/1pp"
+    ]
 }

@@ -17,12 +17,8 @@
             "Сергий"
         ]
     },
-    "links": {
-        "records/patrons/sergius/rad": {
-            "ru": "Сергий Радонежский",
-            "la": "Sergius de Radonez",
-            "en": "Sergius of Radonezh",
-            "pl": "Sergiusz z Radoneża"
-        }
-    }
+    "links": [
+        "records/patrons/sergius/rad",
+        "records/patrons/sergius/rad"
+    ]
 }

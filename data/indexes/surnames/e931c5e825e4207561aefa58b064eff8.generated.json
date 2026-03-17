@@ -7,12 +7,7 @@
             "Verzeri"
         ]
     },
-    "links": {
-        "records/patrons/teresia/ver": {
-            "it": "Teresa Eustochio Verzeri",
-            "la": "Teresia Eustochius Verzeri",
-            "en": "Therese Eustochia Verzeri",
-            "pl": "Teresa Eustochia Verzeri"
-        }
-    }
+    "links": [
+        "records/patrons/teresia/ver"
+    ]
 }

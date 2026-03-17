@@ -10,11 +10,7 @@
             "Kazminsky"
         ]
     },
-    "links": {
-        "records/patrons/honoratus/kaz": {
-            "pl": "Honorat Koźmiński",
-            "la": "Honoratus Koźmiński",
-            "en": "Honorat Koźmiński"
-        }
-    }
+    "links": [
+        "records/patrons/honoratus/kaz"
+    ]
 }

@@ -13,16 +13,8 @@
             "filozof"
         ]
     },
-    "links": {
-        "records/patrons/aristides/ath": {
-            "la": "Aristides Atheniensis",
-            "en": "Aristides of Athens",
-            "pl": "Arystydes z Aten"
-        },
-        "records/patrons/iustinus/phi": {
-            "la": "Iustinus Philosophus",
-            "en": "Justin the Philosopher",
-            "pl": "Justyn Filozof"
-        }
-    }
+    "links": [
+        "records/patrons/aristides/ath",
+        "records/patrons/iustinus/phi"
+    ]
 }

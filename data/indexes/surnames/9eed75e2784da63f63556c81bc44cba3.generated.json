@@ -7,11 +7,7 @@
             "Coleman"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/col": {
-            "en": "Edward Coleman",
-            "la": "Eduardus Coleman",
-            "pl": "Edward Coleman"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/col"
+    ]
 }

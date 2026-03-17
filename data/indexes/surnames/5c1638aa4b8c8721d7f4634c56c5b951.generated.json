@@ -18,12 +18,9 @@
             "Nakashima"
         ]
     },
-    "links": {
-        "records/patrons/michael/nak": {
-            "ja": "ミゲル中島",
-            "la": "Michael Nakashima",
-            "en": "Michael Nakashima",
-            "pl": "Michał Nakashima"
-        }
-    }
+    "links": [
+        "records/patrons/michael/nak",
+        "records/patrons/michael/nak",
+        "records/patrons/michael/nak"
+    ]
 }

@@ -22,29 +22,10 @@
             "Anjezë"
         ]
     },
-    "links": {
-        "records/patrons/agnes/mon": {
-            "it": "Agnese di Montepulciano",
-            "la": "Agnes de Monte Politiano",
-            "en": "Agnes of Montepulciano",
-            "pl": "Agnieszka z Montepulciano"
-        },
-        "records/patrons/agnes/pra": {
-            "cs": "Anežka Česká",
-            "la": "Agnes de Bohemia",
-            "en": "Agnes of Bohemia",
-            "pl": "Agnieszka Przemyślidka"
-        },
-        "records/patrons/agnes/rom": {
-            "la": "Agnes Romana",
-            "en": "Agnes of Rome",
-            "pl": "Agnieszka Rzymianka"
-        },
-        "records/patrons/teresia/gon": {
-            "sq": "Tereza e Kalkutës",
-            "la": "Teresia de Calcutta",
-            "en": "Therese of Calcutta",
-            "pl": "Teresa z Kalkuty"
-        }
-    }
+    "links": [
+        "records/patrons/agnes/mon",
+        "records/patrons/agnes/pra",
+        "records/patrons/agnes/rom",
+        "records/patrons/teresia/gon"
+    ]
 }

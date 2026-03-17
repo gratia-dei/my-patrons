@@ -13,11 +13,7 @@
             "Filapian"
         ]
     },
-    "links": {
-        "records/patrons/philappianus/fel": {
-            "la": "Philappianus Carthaginiensis",
-            "en": "Felicianus of Carthage",
-            "pl": "Filapian z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/philappianus/fel"
+    ]
 }

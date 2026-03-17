@@ -23,24 +23,12 @@
             "Daudi"
         ]
     },
-    "links": {
-        "records/patrons/david/men": {
-            "cy": "Dewi Mynyw",
-            "la": "David Meneviensis",
-            "en": "David of Menevia",
-            "pl": "Dawid z Menevii"
-        },
-        "records/patrons/david/oke": {
-            "sw": "Daudi Okelo",
-            "la": "David Okelo",
-            "en": "David Okelo",
-            "pl": "Dawid Okelo"
-        },
-        "records/patrons/david/rex": {
-            "he": "דָּוִד בֶּן יִשַׁי",
-            "la": "David, rex",
-            "en": "David, king",
-            "pl": "Dawid, król"
-        }
-    }
+    "links": [
+        "records/patrons/david/men",
+        "records/patrons/david/men",
+        "records/patrons/david/oke",
+        "records/patrons/david/oke",
+        "records/patrons/david/rex",
+        "records/patrons/david/rex"
+    ]
 }

@@ -7,12 +7,7 @@
             "von Wüllenweber"
         ]
     },
-    "links": {
-        "records/patrons/maria/wul": {
-            "de": "Maria Therese von Wüllenweber",
-            "la": "Maria Teresia von Wüllenweber",
-            "en": "Maria Therese von Wüllenweber",
-            "pl": "Maria Teresa Wüllenweber"
-        }
-    }
+    "links": [
+        "records/patrons/maria/wul"
+    ]
 }

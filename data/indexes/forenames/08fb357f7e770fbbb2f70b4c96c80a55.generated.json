@@ -14,11 +14,8 @@
             "Petroniusz"
         ]
     },
-    "links": {
-        "records/patrons/petronius/bon": {
-            "la": "Petronius Bononiensis",
-            "en": "Petronius of Bologna",
-            "pl": "Petroniusz z Bolonii"
-        }
-    }
+    "links": [
+        "records/patrons/petronius/bon",
+        "records/patrons/petronius/bon"
+    ]
 }

@@ -21,35 +21,21 @@
             "루치아"
         ]
     },
-    "links": {
-        "records/patrons/lucia/fil": {
-            "it": "Lucia Filippini",
-            "la": "Lucia Filippini",
-            "en": "Lucy Filippini",
-            "pl": "Łucja Filippini"
-        },
-        "records/patrons/lucia/kim": {
-            "ko": "김 루치아",
-            "la": "Lucia Kim",
-            "en": "Locy Kim",
-            "pl": "Łucja Kim"
-        },
-        "records/patrons/lucia/kin": {
-            "ko": "김 루치아 (1818년 출생)",
-            "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
-            "en": "Locy Kim; with her, i.a., Magdalena Yi Yŏng-hŭi",
-            "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
-        },
-        "records/patrons/lucia/syr": {
-            "it": "Lucia da Siracusa",
-            "la": "Lucia Syracusana",
-            "en": "Lucia of Syracuse",
-            "pl": "Łucja z Syrakuz"
-        },
-        "records/patrons/margarita/sze": {
-            "pl": "Małgorzata Łucja Szewczyk",
-            "la": "Margarita Lucia Szewczyk",
-            "en": "Margaret Lucy Szewczyk"
-        }
-    }
+    "links": [
+        "records/patrons/lucia/fil",
+        "records/patrons/lucia/fil",
+        "records/patrons/lucia/fil",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kin",
+        "records/patrons/lucia/kin",
+        "records/patrons/lucia/kin",
+        "records/patrons/lucia/syr",
+        "records/patrons/lucia/syr",
+        "records/patrons/lucia/syr",
+        "records/patrons/margarita/sze",
+        "records/patrons/margarita/sze",
+        "records/patrons/margarita/sze"
+    ]
 }

@@ -7,12 +7,7 @@
             "Tansi"
         ]
     },
-    "links": {
-        "records/patrons/cyprianus/tan": {
-            "ig": "Onye Saịprọs Michael Iwene Tansi",
-            "la": "Cyprianus Michael Iwene Tansi",
-            "en": "Cyprian Michael Iwene Tansi",
-            "pl": "Cyprian Michał Iwene Tansi"
-        }
-    }
+    "links": [
+        "records/patrons/cyprianus/tan"
+    ]
 }

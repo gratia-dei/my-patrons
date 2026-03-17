@@ -13,11 +13,7 @@
             "Eoban"
         ]
     },
-    "links": {
-        "records/patrons/eobanus/bon": {
-            "la": "Eobanus de Ultraiectum",
-            "en": "Eoban of Utrecht",
-            "pl": "Eoban z Utrechtu"
-        }
-    }
+    "links": [
+        "records/patrons/eobanus/bon"
+    ]
 }

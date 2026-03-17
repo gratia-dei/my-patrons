@@ -19,18 +19,8 @@
             "Damiaan"
         ]
     },
-    "links": {
-        "records/patrons/damianus/cos": {
-            "el": "Δαμιανός ὁ Αἰγεεύς",
-            "la": "Damianus Aegaeensis",
-            "en": "Damian of Aegeae",
-            "pl": "Damian z Egei"
-        },
-        "records/patrons/damianus/veu": {
-            "nl": "Damiaan de Veuster",
-            "la": "Damianus de Veuster",
-            "en": "Damian de Veuster",
-            "pl": "Damian de Veuster"
-        }
-    }
+    "links": [
+        "records/patrons/damianus/cos",
+        "records/patrons/damianus/veu"
+    ]
 }

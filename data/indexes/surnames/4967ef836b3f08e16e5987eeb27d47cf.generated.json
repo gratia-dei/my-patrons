@@ -13,18 +13,9 @@
             "Falconeria"
         ]
     },
-    "links": {
-        "records/patrons/alexius/fal": {
-            "it": "Alessio Falconieri",
-            "la": "Alexius Falconieri",
-            "en": "Alexis Falconieri",
-            "pl": "Aleksy Falconieri"
-        },
-        "records/patrons/iuliana/fal": {
-            "it": "Giuliana Falconieri",
-            "la": "Iuliana Falconieri",
-            "en": "Juliana Falconieri",
-            "pl": "Juliana Falconieri"
-        }
-    }
+    "links": [
+        "records/patrons/alexius/fal",
+        "records/patrons/iuliana/fal",
+        "records/patrons/iuliana/fal"
+    ]
 }

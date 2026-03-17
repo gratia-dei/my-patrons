@@ -14,16 +14,10 @@
             "Urban"
         ]
     },
-    "links": {
-        "records/patrons/urbanus/1pp": {
-            "la": "Urbanus I",
-            "en": "Urban I",
-            "pl": "Urban I"
-        },
-        "records/patrons/urbanus/2pp": {
-            "la": "Urbanus II",
-            "en": "Urban II",
-            "pl": "Urban II"
-        }
-    }
+    "links": [
+        "records/patrons/urbanus/1pp",
+        "records/patrons/urbanus/1pp",
+        "records/patrons/urbanus/2pp",
+        "records/patrons/urbanus/2pp"
+    ]
 }

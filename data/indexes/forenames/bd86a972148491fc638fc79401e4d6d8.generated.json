@@ -17,12 +17,7 @@
             "Mugagga"
         ]
     },
-    "links": {
-        "records/patrons/mgagga/lwa": {
-            "sw": "Mugagga Lubowa",
-            "la": "Mgagga",
-            "en": "Mugagga Lubowa",
-            "pl": "Mugagga Lubowa"
-        }
-    }
+    "links": [
+        "records/patrons/mgagga/lwa"
+    ]
 }

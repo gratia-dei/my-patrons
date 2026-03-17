@@ -13,11 +13,7 @@
             "Jarogniew"
         ]
     },
-    "links": {
-        "records/patrons/iarognievus/woj": {
-            "pl": "Jarogniew Wojciechowski",
-            "la": "Jarognievus Wojciechowski",
-            "en": "Jarogniew Wojciechowski"
-        }
-    }
+    "links": [
+        "records/patrons/iarognievus/woj"
+    ]
 }

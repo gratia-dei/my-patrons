@@ -7,12 +7,7 @@
             "Fournet"
         ]
     },
-    "links": {
-        "records/patrons/andreas/fou": {
-            "fr": "André-Hubert Fournet",
-            "la": "Andreas Hubertus Fournet",
-            "en": "Andrew Hubert Fournet",
-            "pl": "Andrzej Hubert Fournet"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/fou"
+    ]
 }

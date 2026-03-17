@@ -7,11 +7,7 @@
             "Rapiej"
         ]
     },
-    "links": {
-        "records/patrons/maria/rap": {
-            "pl": "Maria Sergia od Matki Bożej Bolesnej",
-            "la": "Maria Sergia a Virgine Perdolenti",
-            "en": "Mary Sergia of Our Lady of Sorrows"
-        }
-    }
+    "links": [
+        "records/patrons/maria/rap"
+    ]
 }

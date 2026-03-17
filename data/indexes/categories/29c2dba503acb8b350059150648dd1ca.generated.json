@@ -13,11 +13,7 @@
             "prezbiter diecezjalny"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/str": {
-            "pl": "Stanisław Streich",
-            "la": "Stanislaus Streich",
-            "en": "Stanislaus Streich"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/str"
+    ]
 }

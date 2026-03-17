@@ -13,11 +13,7 @@
             "Adalariusz"
         ]
     },
-    "links": {
-        "records/patrons/adelarius/eob": {
-            "la": "Adelarius; cum eo, i.a., Eobanus",
-            "en": "Adolar; with him, i.a., Eoban",
-            "pl": "Adalariusz; z nim, m.in. Eoban"
-        }
-    }
+    "links": [
+        "records/patrons/adelarius/eob"
+    ]
 }

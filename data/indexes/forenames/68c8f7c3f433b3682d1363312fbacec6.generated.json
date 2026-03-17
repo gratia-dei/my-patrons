@@ -15,11 +15,8 @@
             "Sylwia"
         ]
     },
-    "links": {
-        "records/patrons/silvia/mat": {
-            "la": "Silvia, mater Greg6rii Magni",
-            "en": "Sylvia, mather of Gregory the Great",
-            "pl": "Sylwia, matka Grzegorza Wielkiego"
-        }
-    }
+    "links": [
+        "records/patrons/silvia/mat",
+        "records/patrons/silvia/mat"
+    ]
 }

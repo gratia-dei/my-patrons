@@ -14,11 +14,8 @@
             "Fulgencjusz"
         ]
     },
-    "links": {
-        "records/patrons/fulgentius/rus": {
-            "la": "Fulgentius Ruspensis",
-            "en": "Fulgentius of Ruspe",
-            "pl": "Fulgencjusz z Ruspe"
-        }
-    }
+    "links": [
+        "records/patrons/fulgentius/rus",
+        "records/patrons/fulgentius/rus"
+    ]
 }

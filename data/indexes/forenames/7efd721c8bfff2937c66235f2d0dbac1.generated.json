@@ -14,11 +14,8 @@
             "Adam"
         ]
     },
-    "links": {
-        "records/patrons/albertus/chm": {
-            "pl": "Albert Chmielowski",
-            "la": "Albertus Chmielowski",
-            "en": "Albert Chmielowski"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/chm",
+        "records/patrons/albertus/chm"
+    ]
 }

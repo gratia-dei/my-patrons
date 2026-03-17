@@ -13,34 +13,11 @@
             "matka rodziny"
         ]
     },
-    "links": {
-        "records/patrons/crispina/tha": {
-            "la": "Crispina Thagorensis",
-            "en": "Crispina of Numidia",
-            "pl": "Kryspina z Numidii"
-        },
-        "records/patrons/francisca/rom": {
-            "it": "Francesca Romana",
-            "la": "Francisca Romana",
-            "en": "Frances of Rome",
-            "pl": "Franciszka Rzymianka"
-        },
-        "records/patrons/ioanna/ber": {
-            "it": "Gianna Beretta Molla",
-            "la": "Ioanna Beretta Molla",
-            "en": "Joan Beretta Molla",
-            "pl": "Joanna Beretta Molla"
-        },
-        "records/patrons/maria/bel": {
-            "it": "Maria Beltrame Quattrocchi",
-            "la": "Maria Beltrame Quattrocchi",
-            "en": "Mary Beltrame Quattrocchi",
-            "pl": "Maria Beltrame Quattrocchi"
-        },
-        "records/patrons/maria/bie": {
-            "pl": "Maria Anna Biernacka",
-            "la": "Maria Anna Biernacka",
-            "en": "Maria Anna Biernacka"
-        }
-    }
+    "links": [
+        "records/patrons/crispina/tha",
+        "records/patrons/francisca/rom",
+        "records/patrons/ioanna/ber",
+        "records/patrons/maria/bel",
+        "records/patrons/maria/bie"
+    ]
 }

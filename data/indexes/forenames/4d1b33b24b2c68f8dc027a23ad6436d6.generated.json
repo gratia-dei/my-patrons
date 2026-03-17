@@ -15,11 +15,8 @@
             "Sozjusz"
         ]
     },
-    "links": {
-        "records/patrons/sossius/mis": {
-            "la": "Sossius Missenensis",
-            "en": "Sossius of Misenum",
-            "pl": "Sozjusz z Misenum"
-        }
-    }
+    "links": [
+        "records/patrons/sossius/mis",
+        "records/patrons/sossius/mis"
+    ]
 }

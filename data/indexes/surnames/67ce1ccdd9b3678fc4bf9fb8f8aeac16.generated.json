@@ -16,12 +16,7 @@
             "Soan"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/soa": {
-            "ja": "ヨハネ草庵",
-            "la": "Ioannes de Goto Soan",
-            "en": "John Soan of Goto",
-            "pl": "Jan Soan z Goto"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/soa"
+    ]
 }

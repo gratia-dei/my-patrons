@@ -14,11 +14,8 @@
             "Marceli"
         ]
     },
-    "links": {
-        "records/patrons/marcellus/1pp": {
-            "la": "Marcellus Pp. I",
-            "en": "Marcellus I",
-            "pl": "Marceli I"
-        }
-    }
+    "links": [
+        "records/patrons/marcellus/1pp",
+        "records/patrons/marcellus/1pp"
+    ]
 }

@@ -19,18 +19,8 @@
             "Bernardo"
         ]
     },
-    "links": {
-        "records/patrons/bernardus/cla": {
-            "fr": "Bernard de Clairvaux",
-            "la": "Bernardus Claravallensis",
-            "en": "Bernard of Clairvaux",
-            "pl": "Bernard z Clairvaux"
-        },
-        "records/patrons/bernardus/sil": {
-            "it": "Bernardo Maria di Gesù",
-            "la": "Bernardus Maria a Iesu",
-            "en": "Bernard Mary of Jesus",
-            "pl": "Bernard Maria od Jezusa"
-        }
-    }
+    "links": [
+        "records/patrons/bernardus/cla",
+        "records/patrons/bernardus/sil"
+    ]
 }

@@ -1,21 +1,7 @@
 {
-    "links": {
-        "records/god/fil": {
-            "arc": "ܝܫܘܥ",
-            "la": "Iesus Christus",
-            "en": "Jesus Christ",
-            "pl": "Jezus Chrystus"
-        },
-        "records/patrons/ioannes/bap": {
-            "he": "יוחנן המטביל",
-            "la": "Ioannes Baptista",
-            "en": "John the Baptist",
-            "pl": "Jan Chrzciciel"
-        },
-        "records/patrons/ioannes/eva": {
-            "la": "Ioannes Evangelista",
-            "en": "John the Evangelist",
-            "pl": "Jan Ewangelista"
-        }
-    }
+    "links": [
+        "god/fil",
+        "patrons/ioannes/bap",
+        "patrons/ioannes/eva"
+    ]
 }

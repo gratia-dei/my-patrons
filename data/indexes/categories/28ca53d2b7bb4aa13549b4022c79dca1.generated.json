@@ -13,28 +13,10 @@
             "dziewczynka"
         ]
     },
-    "links": {
-        "records/patrons/agatha/cat": {
-            "la": "Agatha Catanensis",
-            "en": "Agatha of Sicily",
-            "pl": "Agata Sycylijska"
-        },
-        "records/patrons/agnes/rom": {
-            "la": "Agnes Romana",
-            "en": "Agnes of Rome",
-            "pl": "Agnieszka Rzymianka"
-        },
-        "records/patrons/hyacintha/mat": {
-            "pt": "Jacinta Marto",
-            "la": "Hyacintha Marto",
-            "en": "Jacinta Marto",
-            "pl": "Hiacynta Marto"
-        },
-        "records/patrons/ursula/vir": {
-            "de": "Ursula von Köln",
-            "la": "Ursula Coloniensis",
-            "en": "Ursula of Cologne",
-            "pl": "Urszula z Kolonii"
-        }
-    }
+    "links": [
+        "records/patrons/agatha/cat",
+        "records/patrons/agnes/rom",
+        "records/patrons/hyacintha/mat",
+        "records/patrons/ursula/vir"
+    ]
 }

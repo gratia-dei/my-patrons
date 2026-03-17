@@ -13,11 +13,7 @@
             "Merkuria"
         ]
     },
-    "links": {
-        "records/patrons/mercuria/ale": {
-            "la": "Mercuria Alexandrina",
-            "en": "Mercuria of Alexandria",
-            "pl": "Merkuria z Aleksandrii"
-        }
-    }
+    "links": [
+        "records/patrons/mercuria/ale"
+    ]
 }

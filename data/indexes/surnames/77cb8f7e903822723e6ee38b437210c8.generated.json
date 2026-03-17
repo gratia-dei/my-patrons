@@ -7,11 +7,7 @@
             "Woźniak"
         ]
     },
-    "links": {
-        "records/patrons/michael/woz": {
-            "pl": "Michał Woźniak",
-            "la": "Michael Woźniak",
-            "en": "Michael Woźniak"
-        }
-    }
+    "links": [
+        "records/patrons/michael/woz"
+    ]
 }

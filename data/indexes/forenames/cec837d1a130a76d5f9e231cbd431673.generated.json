@@ -13,11 +13,7 @@
             "Oswald"
         ]
     },
-    "links": {
-        "records/patrons/oswaldus/nor": {
-            "en": "Oswald of Northumbria",
-            "la": "Oswaldus rex Northumbriae",
-            "pl": "Oswald z Nortumbrii"
-        }
-    }
+    "links": [
+        "records/patrons/oswaldus/nor"
+    ]
 }

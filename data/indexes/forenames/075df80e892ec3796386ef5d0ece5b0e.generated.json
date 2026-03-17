@@ -18,12 +18,8 @@
             "Gontran"
         ]
     },
-    "links": {
-        "records/patrons/gunthramnus/rex": {
-            "fr": "Gontran, roi des Francs",
-            "la": "Gunthramnus, rex Francorum",
-            "en": "Guntram, Frankish king",
-            "pl": "Guntram, król Franków"
-        }
-    }
+    "links": [
+        "records/patrons/gunthramnus/rex",
+        "records/patrons/gunthramnus/rex"
+    ]
 }

@@ -14,11 +14,8 @@
             "Nicefor"
         ]
     },
-    "links": {
-        "records/patrons/nicephorus/cae": {
-            "la": "Nicephorus Caesariensis",
-            "en": "Nicephorus of Caesarea",
-            "pl": "Nicefor z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/nicephorus/cae",
+        "records/patrons/nicephorus/cae"
+    ]
 }

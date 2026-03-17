@@ -8,11 +8,7 @@
             "Kostkowski"
         ]
     },
-    "links": {
-        "records/patrons/bronislaus/kos": {
-            "pl": "Bronisław Kostkowski",
-            "la": "Bronislaus Kostkowski",
-            "en": "Bronislaus Kostkowski"
-        }
-    }
+    "links": [
+        "records/patrons/bronislaus/kos"
+    ]
 }

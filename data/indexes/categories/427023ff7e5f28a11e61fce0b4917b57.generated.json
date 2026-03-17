@@ -13,35 +13,11 @@
             "kardynał"
         ]
     },
-    "links": {
-        "records/patrons/carolus/bor": {
-            "it": "Carlo Borromeo",
-            "la": "Carolus Borromeo",
-            "en": "Charles Borromeo",
-            "pl": "Karol Boromeusz"
-        },
-        "records/patrons/iosephus/tom": {
-            "it": "Giuseppe Maria Tomasi",
-            "la": "Josephus Maria Tomasi",
-            "en": "Joseph Mary Tomasi",
-            "pl": "Józef Maria Tomasi"
-        },
-        "records/patrons/petrus/dam": {
-            "it": "Pier Damiani",
-            "la": "Petrus Damiani",
-            "en": "Peter Damian",
-            "pl": "Piotr Damiani"
-        },
-        "records/patrons/robertus/bel": {
-            "it": "Roberto Bellarmino",
-            "la": "Robertus Bellarminus",
-            "en": "Robert Bellarmine",
-            "pl": "Robert Bellarmin"
-        },
-        "records/patrons/stephanus/wys": {
-            "pl": "Stefan Wyszyński",
-            "la": "Stephanus Wyszyński",
-            "en": "Stephen Wyszyński"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/bor",
+        "records/patrons/iosephus/tom",
+        "records/patrons/petrus/dam",
+        "records/patrons/robertus/bel",
+        "records/patrons/stephanus/wys"
+    ]
 }

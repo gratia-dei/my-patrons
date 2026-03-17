@@ -13,11 +13,7 @@
             "Marcelina"
         ]
     },
-    "links": {
-        "records/patrons/marcellina/dar": {
-            "pl": "Marcelina Darowska",
-            "la": "Marcellina Darowska",
-            "en": "Marcelina Darowska"
-        }
-    }
+    "links": [
+        "records/patrons/marcellina/dar"
+    ]
 }

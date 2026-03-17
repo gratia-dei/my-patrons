@@ -7,11 +7,7 @@
             "Mazurek"
         ]
     },
-    "links": {
-        "records/patrons/alphonsus/maz": {
-            "pl": "Alfons Maria Mazurek",
-            "la": "Alphonsus Maria Mazurek",
-            "en": "Alphonsus Maria Mazurek"
-        }
-    }
+    "links": [
+        "records/patrons/alphonsus/maz"
+    ]
 }

@@ -7,11 +7,7 @@
             "Roche"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/roc": {
-            "en": "John Roche",
-            "la": "Ioannes Roche",
-            "pl": "Jan Roche"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/roc"
+    ]
 }

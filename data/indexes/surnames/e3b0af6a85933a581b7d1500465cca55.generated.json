@@ -7,11 +7,7 @@
             "Bajewski"
         ]
     },
-    "links": {
-        "records/patrons/antonius/baj": {
-            "pl": "Antoni Bajewski",
-            "la": "Antonius Bajewski",
-            "en": "Anthony Bajewski"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/baj"
+    ]
 }

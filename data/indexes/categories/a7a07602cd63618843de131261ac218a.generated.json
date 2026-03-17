@@ -14,75 +14,30 @@
             "eremita"
         ]
     },
-    "links": {
-        "records/patrons/antonius/ere": {
-            "uk": "Антоній Печерський",
-            "la": "Antonius Pecherskii",
-            "en": "Anthony of Kiev",
-            "pl": "Antoni Pieczerski"
-        },
-        "records/patrons/benedictus/nur": {
-            "la": "Benedictus Nursinus",
-            "en": "Banadict of Nursia",
-            "pl": "Benedykt z Nursji"
-        },
-        "records/patrons/bogumilus/dob": {
-            "pl": "Bogumił z Dobrowa",
-            "la": "Bogumilus de Dobrovia",
-            "en": "Bogumil of Dobrow"
-        },
-        "records/patrons/bruno/ere": {
-            "de": "Bruno von Köln",
-            "la": "Bruno Cartusiensis",
-            "en": "Bruno of Cologne",
-            "pl": "Bruno Kartuz"
-        },
-        "records/patrons/dominicus/exi": {
-            "es": "Domingo de Silos",
-            "la": "Dominicus de Silos",
-            "en": "Dominic of Silos",
-            "pl": "Dominik z Silos"
-        },
-        "records/patrons/franciscus/pau": {
-            "it": "Francesco da Paola",
-            "la": "Franciscus de Paula",
-            "en": "Francis of Paola",
-            "pl": "Franciszek z Paoli"
-        },
-        "records/patrons/ioannes/tup": {
-            "it": "Giovanni da Tufara",
-            "la": "Ioannes de Tupharia",
-            "en": "John of Tufaria",
-            "pl": "Jan z Tufarii"
-        },
-        "records/patrons/leonardus/ere": {
-            "fr": "Léonard de Noblat",
-            "la": "Leonardus Lemovicensis",
-            "en": "Leonard of Noblac",
-            "pl": "Leonard z Limoges"
-        },
-        "records/patrons/lucius/cur": {
-            "la": "Lucius de Curiae Rhaetorum",
-            "en": "Lucius of Chur",
-            "pl": "Lucjusz z Chur"
-        },
-        "records/patrons/romanus/abb": {
-            "fr": "Romain de Condat",
-            "la": "Romanus de Monte Iura",
-            "en": "Roman of Condat",
-            "pl": "Roman Jurajski"
-        },
-        "records/patrons/romualdus/cam": {
-            "it": "Romualdo di Camaldoli",
-            "la": "Romualdus Camaldulensis",
-            "en": "Romuald of Camaldoli",
-            "pl": "Romuald z Camaldoli"
-        },
-        "records/patrons/sergius/rad": {
-            "ru": "Сергий Радонежский",
-            "la": "Sergius de Radonez",
-            "en": "Sergius of Radonezh",
-            "pl": "Sergiusz z Radoneża"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/ere",
+        "records/patrons/antonius/ere",
+        "records/patrons/benedictus/nur",
+        "records/patrons/benedictus/nur",
+        "records/patrons/bogumilus/dob",
+        "records/patrons/bogumilus/dob",
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ere",
+        "records/patrons/dominicus/exi",
+        "records/patrons/dominicus/exi",
+        "records/patrons/franciscus/pau",
+        "records/patrons/franciscus/pau",
+        "records/patrons/ioannes/tup",
+        "records/patrons/ioannes/tup",
+        "records/patrons/leonardus/ere",
+        "records/patrons/leonardus/ere",
+        "records/patrons/lucius/cur",
+        "records/patrons/lucius/cur",
+        "records/patrons/romanus/abb",
+        "records/patrons/romanus/abb",
+        "records/patrons/romualdus/cam",
+        "records/patrons/romualdus/cam",
+        "records/patrons/sergius/rad",
+        "records/patrons/sergius/rad"
+    ]
 }

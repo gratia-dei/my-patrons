@@ -16,17 +16,8 @@
             "Hyacinthe"
         ]
     },
-    "links": {
-        "records/patrons/hyacinthus/cor": {
-            "fr": "Hyacinthe-Marie Cormier",
-            "la": "Hyacinthus Cormier",
-            "en": "Hyacinth Mary Cormier",
-            "pl": "Jacek Maria Cormier"
-        },
-        "records/patrons/hyacinthus/cra": {
-            "pl": "Jacek Odrowąż",
-            "la": "Hyacinthus Polonus",
-            "en": "Hyacinth of Poland"
-        }
-    }
+    "links": [
+        "records/patrons/hyacinthus/cor",
+        "records/patrons/hyacinthus/cra"
+    ]
 }

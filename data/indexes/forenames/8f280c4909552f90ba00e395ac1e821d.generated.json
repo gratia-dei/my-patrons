@@ -16,12 +16,7 @@
             "Gilles"
         ]
     },
-    "links": {
-        "records/patrons/aegidius/abb": {
-            "fr": "Gilles l'Ermite",
-            "la": "Aegidius Abbas",
-            "en": "Giles the Hermit",
-            "pl": "Idzi Eremita"
-        }
-    }
+    "links": [
+        "records/patrons/aegidius/abb"
+    ]
 }

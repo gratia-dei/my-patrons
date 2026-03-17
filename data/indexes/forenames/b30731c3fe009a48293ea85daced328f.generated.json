@@ -14,16 +14,10 @@
             "Marian"
         ]
     },
-    "links": {
-        "records/patrons/marianus/gor": {
-            "pl": "Marian Górecki",
-            "la": "Marianus Górecki",
-            "en": "Marian Górecki"
-        },
-        "records/patrons/marianus/kon": {
-            "pl": "Marian Konopiński",
-            "la": "Marianus Konopiński",
-            "en": "Marian Konopiński"
-        }
-    }
+    "links": [
+        "records/patrons/marianus/gor",
+        "records/patrons/marianus/gor",
+        "records/patrons/marianus/kon",
+        "records/patrons/marianus/kon"
+    ]
 }

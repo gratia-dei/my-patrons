@@ -13,127 +13,27 @@
             "kapłan"
         ]
     },
-    "links": {
-        "records/patrons/aaron/lev": {
-            "he": "אהרן הכהן",
-            "la": "Aaron, sacerdos",
-            "en": "Aaron, priest",
-            "pl": "Aaron, kapłan"
-        },
-        "records/patrons/andreas/bob": {
-            "pl": "Andrzej Bobola",
-            "la": "Andreas Bobola",
-            "en": "Andrew Bobola"
-        },
-        "records/patrons/antonius/pat": {
-            "pt": "Antônio de Pádua",
-            "la": "Antonius Patavinus",
-            "en": "Anthony of Padua",
-            "pl": "Antoni Padewski"
-        },
-        "records/patrons/athanasius/ale": {
-            "la": "Athanasius Magnus",
-            "en": "Athanasius the Great",
-            "pl": "Atanazy Wielki"
-        },
-        "records/patrons/bernardinus/rea": {
-            "it": "Bernardino Realino",
-            "la": "Bernardinus Realinus",
-            "en": "Bernardine Realino",
-            "pl": "Bernardyn Realino"
-        },
-        "records/patrons/bernardinus/sen": {
-            "it": "Bernardino da Siena",
-            "la": "Bernardinus Senensis",
-            "en": "Bernardine of Siena",
-            "pl": "Bernardyn ze Sieny"
-        },
-        "records/patrons/clemens/hof": {
-            "de": "Klemens Maria Hofbauer",
-            "la": "Clemens Maria Hofbauer",
-            "en": "Clement Mary Hofbauer",
-            "pl": "Klemens Maria Hofbauer"
-        },
-        "records/patrons/fidelis/sig": {
-            "de": "Fidelis von Sigmaringen",
-            "la": "Fidelis de Sigmaringa",
-            "en": "Fidelis of Sigmaringen",
-            "pl": "Fidelis z Sigmaringen"
-        },
-        "records/patrons/franciscus/bor": {
-            "es": "Francisco de Borja",
-            "la": "Franciscus Borgia",
-            "en": "Francis Borgia",
-            "pl": "Franciszek Borgiasz"
-        },
-        "records/patrons/franciscus/ger": {
-            "it": "Francesco de Geronimo",
-            "la": "Franciscus de Geronimo",
-            "en": "Francis de Geronimo",
-            "pl": "Franciszek de Hieronimo"
-        },
-        "records/patrons/franciscus/xav": {
-            "es": "Francisco Javier",
-            "la": "Franciscus Xavier",
-            "en": "Francis Xavier",
-            "pl": "Franciszek Ksawery"
-        },
-        "records/patrons/ioannes/bos": {
-            "it": "Giovanni Bosco",
-            "la": "Ioannes Bosco",
-            "en": "John Bosco",
-            "pl": "Jan Bosko"
-        },
-        "records/patrons/ioannes/cal": {
-            "it": "Giovanni Giuseppe della Croce",
-            "la": "Ioannes Ioseph a Cruce",
-            "en": "John Joseph of the Cross",
-            "pl": "Jan Józef od Krzyża"
-        },
-        "records/patrons/ioannes/cap": {
-            "it": "Giovanni da Capestrano",
-            "la": "Ioannes de Capestrano",
-            "en": "John of Capistrano",
-            "pl": "Jan Kapistran"
-        },
-        "records/patrons/ioannes/ogi": {
-            "en": "John Ogilvie",
-            "la": "Ioannes Ogilvie",
-            "pl": "Jan Ogilvie"
-        },
-        "records/patrons/iosephus/cup": {
-            "it": "Giuseppe da Copertino",
-            "la": "Iosephus de Cupertino",
-            "en": "Joseph of Cupertino",
-            "pl": "Józef z Kupertynu"
-        },
-        "records/patrons/isaac/jog": {
-            "fr": "Isaac Jogues",
-            "la": "Isaac Jogues",
-            "en": "Isaac Jogues",
-            "pl": "Izaak Jogues"
-        },
-        "records/patrons/laurentius/bru": {
-            "it": "Lorenzo da Brindisi",
-            "la": "Laurentius de Brundusio",
-            "en": "Lawrence of Brindisi",
-            "pl": "Wawrzyniec z Brindisi"
-        },
-        "records/patrons/martinus/tur": {
-            "la": "Martinus Turonensis",
-            "en": "Martin of Tours",
-            "pl": "Marcin z Tours"
-        },
-        "records/patrons/pius/10p": {
-            "it": "Pio X",
-            "la": "Pius X",
-            "en": "Pius X",
-            "pl": "Pius X"
-        },
-        "records/patrons/richardus/lei": {
-            "en": "Richard Leigh",
-            "la": "Richardus Leigh",
-            "pl": "Ryszard Leigh"
-        }
-    }
+    "links": [
+        "records/patrons/aaron/lev",
+        "records/patrons/andreas/bob",
+        "records/patrons/antonius/pat",
+        "records/patrons/athanasius/ale",
+        "records/patrons/bernardinus/rea",
+        "records/patrons/bernardinus/sen",
+        "records/patrons/clemens/hof",
+        "records/patrons/fidelis/sig",
+        "records/patrons/franciscus/bor",
+        "records/patrons/franciscus/ger",
+        "records/patrons/franciscus/xav",
+        "records/patrons/ioannes/bos",
+        "records/patrons/ioannes/cal",
+        "records/patrons/ioannes/cap",
+        "records/patrons/ioannes/ogi",
+        "records/patrons/iosephus/cup",
+        "records/patrons/isaac/jog",
+        "records/patrons/laurentius/bru",
+        "records/patrons/martinus/tur",
+        "records/patrons/pius/10p",
+        "records/patrons/richardus/lei"
+    ]
 }

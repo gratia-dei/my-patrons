@@ -7,11 +7,7 @@
             "Kozal"
         ]
     },
-    "links": {
-        "records/patrons/michael/koz": {
-            "pl": "Michał Kozal",
-            "la": "Michael Kozal",
-            "en": "Michael Kozal"
-        }
-    }
+    "links": [
+        "records/patrons/michael/koz"
+    ]
 }

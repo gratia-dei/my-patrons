@@ -7,12 +7,7 @@
             "Adame"
         ]
     },
-    "links": {
-        "records/patrons/romanus/ada": {
-            "es": "Román Adame Rosales",
-            "la": "Romanus Adame Rosales",
-            "en": "Roman Adame Rosales",
-            "pl": "Roman Adame Rosales"
-        }
-    }
+    "links": [
+        "records/patrons/romanus/ada"
+    ]
 }

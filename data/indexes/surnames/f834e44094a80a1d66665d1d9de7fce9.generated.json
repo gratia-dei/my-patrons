@@ -7,12 +7,7 @@
             "Venerini"
         ]
     },
-    "links": {
-        "records/patrons/rosa/ven": {
-            "it": "Rosa Venerini",
-            "la": "Rosa Venerini",
-            "en": "Rose Venerini",
-            "pl": "Róża Venerini"
-        }
-    }
+    "links": [
+        "records/patrons/rosa/ven"
+    ]
 }

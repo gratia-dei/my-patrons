@@ -7,12 +7,7 @@
             "Pricet"
         ]
     },
-    "links": {
-        "records/patrons/felicitas/pri": {
-            "fr": "Félicité Pricet",
-            "la": "Felicitas Pricet",
-            "en": "Felicity Pricet",
-            "pl": "Felicyta Pricet"
-        }
-    }
+    "links": [
+        "records/patrons/felicitas/pri"
+    ]
 }

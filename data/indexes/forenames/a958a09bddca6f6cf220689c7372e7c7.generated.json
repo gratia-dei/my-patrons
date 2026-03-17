@@ -13,11 +13,7 @@
             "Boza"
         ]
     },
-    "links": {
-        "records/patrons/bosa/eob": {
-            "la": "Bosa; cum eo, i.a., Eobanus",
-            "en": "Bosa; with him, i.a., Eoban",
-            "pl": "Boza; z nim, m.in. Eoban"
-        }
-    }
+    "links": [
+        "records/patrons/bosa/eob"
+    ]
 }

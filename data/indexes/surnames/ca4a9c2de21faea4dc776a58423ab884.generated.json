@@ -7,12 +7,7 @@
             "Soubirous"
         ]
     },
-    "links": {
-        "records/patrons/maria/sou": {
-            "fr": "Bernadette-Marie Soubirous",
-            "la": "Maria Bernarda Soubirous",
-            "en": "Bernadette Soubirous",
-            "pl": "Bernadeta Soubirous"
-        }
-    }
+    "links": [
+        "records/patrons/maria/sou"
+    ]
 }

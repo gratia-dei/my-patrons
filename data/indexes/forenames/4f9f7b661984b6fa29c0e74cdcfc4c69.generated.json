@@ -14,11 +14,8 @@
             "Stanisława"
         ]
     },
-    "links": {
-        "records/patrons/stanislava/ulm": {
-            "pl": "Stanisława Ulma",
-            "la": "Stanislava Ulma",
-            "en": "Stanislava Ulma"
-        }
-    }
+    "links": [
+        "records/patrons/stanislava/ulm",
+        "records/patrons/stanislava/ulm"
+    ]
 }

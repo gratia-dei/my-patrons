@@ -7,12 +7,7 @@
             "Alacoque"
         ]
     },
-    "links": {
-        "records/patrons/margarita/ala": {
-            "fr": "Marguerite-Marie Alacoque",
-            "la": "Margarita Maria Alacoque",
-            "en": "Margaret Mary Alacoque",
-            "pl": "Małgorzata Maria Alacoque"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/ala"
+    ]
 }

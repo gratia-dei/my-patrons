@@ -15,11 +15,8 @@
             "Hormizdas"
         ]
     },
-    "links": {
-        "records/patrons/hormisdas/1pp": {
-            "la": "Hormisdas Pp.",
-            "en": "Hormisdas, pope",
-            "pl": "Hormizdas, papież"
-        }
-    }
+    "links": [
+        "records/patrons/hormisdas/1pp",
+        "records/patrons/hormisdas/1pp"
+    ]
 }

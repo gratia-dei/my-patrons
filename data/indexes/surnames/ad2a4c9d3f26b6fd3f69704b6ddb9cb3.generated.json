@@ -13,12 +13,7 @@
             "Kashyra"
         ]
     },
-    "links": {
-        "records/patrons/georgius/kas": {
-            "pl": "Jerzy Kaszyra",
-            "be": "Юрый Кашыра",
-            "la": "Georgius Kaszyra",
-            "en": "George Kashyra"
-        }
-    }
+    "links": [
+        "records/patrons/georgius/kas"
+    ]
 }

@@ -14,11 +14,7 @@
             "Jałmużnik"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ele": {
-            "la": "Ioannes Eleemosynarius",
-            "en": "John the Almsgiver",
-            "pl": "Jan Jałmużnik"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ele"
+    ]
 }

@@ -13,11 +13,7 @@
             "Anzelm"
         ]
     },
-    "links": {
-        "records/patrons/anselmus/can": {
-            "en": "Anselm of Canterbury",
-            "la": "Anselmus Cantuariensis",
-            "pl": "Anzelm z Canterbury"
-        }
-    }
+    "links": [
+        "records/patrons/anselmus/can"
+    ]
 }

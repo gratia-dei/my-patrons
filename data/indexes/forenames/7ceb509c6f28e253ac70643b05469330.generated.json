@@ -13,11 +13,7 @@
             "Pantelejmon"
         ]
     },
-    "links": {
-        "records/patrons/pantaleon/nic": {
-            "la": "Pantaleon de Nicomedia",
-            "en": "Pantaleon of Nicomedia",
-            "pl": "Pantaleon z Nikomedii"
-        }
-    }
+    "links": [
+        "records/patrons/pantaleon/nic"
+    ]
 }

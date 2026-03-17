@@ -14,11 +14,8 @@
             "Sperat"
         ]
     },
-    "links": {
-        "records/patrons/speratus/sci": {
-            "la": "Speratus de Scillium",
-            "en": "Speratus of Scillium",
-            "pl": "Sperat ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/speratus/sci",
+        "records/patrons/speratus/sci"
+    ]
 }

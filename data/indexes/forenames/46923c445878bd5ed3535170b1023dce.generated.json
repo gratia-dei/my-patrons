@@ -15,11 +15,9 @@
             "Serapion"
         ]
     },
-    "links": {
-        "records/patrons/serapion/alg": {
-            "la": "Serapion Algirensis",
-            "en": "Serapion of Algiers",
-            "pl": "Serapion z Algieru"
-        }
-    }
+    "links": [
+        "records/patrons/serapion/alg",
+        "records/patrons/serapion/alg",
+        "records/patrons/serapion/alg"
+    ]
 }

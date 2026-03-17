@@ -16,17 +16,8 @@
             "Isidoro"
         ]
     },
-    "links": {
-        "records/patrons/isidorus/ale": {
-            "la": "Isidorus Alexandrinus",
-            "en": "Isidore of Alexandria",
-            "pl": "Izydor z Aleksandrii"
-        },
-        "records/patrons/isidorus/his": {
-            "es": "Isidoro de Sevilla",
-            "la": "Isidorus Hispalensis",
-            "en": "Isidore of Seville",
-            "pl": "Izydor z Sewilli"
-        }
-    }
+    "links": [
+        "records/patrons/isidorus/ale",
+        "records/patrons/isidorus/his"
+    ]
 }

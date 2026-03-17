@@ -15,11 +15,9 @@
             "Hilarion"
         ]
     },
-    "links": {
-        "records/patrons/hilarion/pro": {
-            "la": "Hilarion; cum eo, Proclus",
-            "en": "Hilarion; with him, Proclus",
-            "pl": "Hilarion; z nim, Prokles"
-        }
-    }
+    "links": [
+        "records/patrons/hilarion/pro",
+        "records/patrons/hilarion/pro",
+        "records/patrons/hilarion/pro"
+    ]
 }

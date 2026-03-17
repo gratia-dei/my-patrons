@@ -13,23 +13,9 @@
             "księżna"
         ]
     },
-    "links": {
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "la": "Hedwigis ducissa Polonorum",
-            "en": "Hedwig of Silesia",
-            "pl": "Jadwiga Śląska"
-        },
-        "records/patrons/kinga/cun": {
-            "pl": "Kinga Węgierska",
-            "la": "Kinga seu Cunegundis",
-            "en": "Kinga of Poland"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "la": "Margarita de Lotharingia",
-            "en": "Margaret of Lorraine",
-            "pl": "Małgorzata z Lotaryngii"
-        }
-    }
+    "links": [
+        "records/patrons/hedwigis/duc",
+        "records/patrons/kinga/cun",
+        "records/patrons/margarita/lot"
+    ]
 }

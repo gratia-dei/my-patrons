@@ -16,12 +16,7 @@
             "Pierwszy"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/p1p": {
-            "it": "Giovanni Paolo I",
-            "la": "Ioannes Paulus Pp. I",
-            "en": "John Paul I",
-            "pl": "Jan Paweł I"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/p1p"
+    ]
 }

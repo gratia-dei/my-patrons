@@ -17,12 +17,8 @@
             "Camillo"
         ]
     },
-    "links": {
-        "records/patrons/camillus/lel": {
-            "it": "Camillo de Lellis",
-            "la": "Camillus de Lellis",
-            "en": "Camillus de Lellis",
-            "pl": "Kamil de Lellis"
-        }
-    }
+    "links": [
+        "records/patrons/camillus/lel",
+        "records/patrons/camillus/lel"
+    ]
 }

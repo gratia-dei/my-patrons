@@ -7,12 +7,7 @@
             "Garcia"
         ]
     },
-    "links": {
-        "records/patrons/gundisalvus/gar": {
-            "pt": "Gonçalo Garcia",
-            "la": "Gundisalvus Garcia",
-            "en": "Gonsalo Garcia",
-            "pl": "Gonsalwy Garcia"
-        }
-    }
+    "links": [
+        "records/patrons/gundisalvus/gar"
+    ]
 }

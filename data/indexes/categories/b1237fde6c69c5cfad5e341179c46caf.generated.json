@@ -13,43 +13,13 @@
             "chłopiec"
         ]
     },
-    "links": {
-        "records/patrons/dioscorus/ale": {
-            "la": "Dioscorus Alexandrinus",
-            "en": "Dioscorus of Alexandria",
-            "pl": "Dioskur z Aleksandrii"
-        },
-        "records/patrons/franciscus/mar": {
-            "pt": "Francisco Marto",
-            "la": "Franciscus Marto",
-            "en": "Francisco Marto",
-            "pl": "Franciszek Marto"
-        },
-        "records/patrons/iustus/pas": {
-            "la": "Iustus Complutensis",
-            "en": "Justus of Complutum",
-            "pl": "Just z Komplutum"
-        },
-        "records/patrons/multa/dps": {
-            "la": "Duo pueri, sociorum Blasii de Sebaste",
-            "en": "Two boys, companions of Blaise of Sebaste",
-            "pl": "Dwóch chłopców, towarzysze Błażeja z Sebasty"
-        },
-        "records/patrons/pancratius/rom": {
-            "la": "Pancratius de Roma",
-            "en": "Pancras of Rome",
-            "pl": "Pankracy z Rzymu"
-        },
-        "records/patrons/pastor/ius": {
-            "la": "Pastor Complutensis",
-            "en": "Pastor of Complutum",
-            "pl": "Pastor z Komplutum"
-        },
-        "records/patrons/quiricus/iul": {
-            "el": "Κυρίκος ο Ταρσεύς",
-            "la": "Quiricus Tarsensis",
-            "en": "Cyricus of Tarsus",
-            "pl": "Cyryk z Tarsu"
-        }
-    }
+    "links": [
+        "records/patrons/dioscorus/ale",
+        "records/patrons/franciscus/mar",
+        "records/patrons/iustus/pas",
+        "records/patrons/multa/dps",
+        "records/patrons/pancratius/rom",
+        "records/patrons/pastor/ius",
+        "records/patrons/quiricus/iul"
+    ]
 }

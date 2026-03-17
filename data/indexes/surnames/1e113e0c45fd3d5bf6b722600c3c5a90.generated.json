@@ -7,12 +7,7 @@
             "Zaccaria"
         ]
     },
-    "links": {
-        "records/patrons/antonius/zac": {
-            "it": "Antonio Maria Zaccaria",
-            "la": "Antonius Maria Zaccaria",
-            "en": "Anthony Mary Zaccaria",
-            "pl": "Antoni Maria Zaccaria"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/zac"
+    ]
 }

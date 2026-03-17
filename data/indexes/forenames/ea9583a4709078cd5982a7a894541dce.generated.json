@@ -14,11 +14,8 @@
             "Epimach"
         ]
     },
-    "links": {
-        "records/patrons/epimachus/ale": {
-            "la": "Epimachus Alexandrinus",
-            "en": "Epimachus of Alexandria",
-            "pl": "Epimach z Aleksandrii"
-        }
-    }
+    "links": [
+        "records/patrons/epimachus/ale",
+        "records/patrons/epimachus/ale"
+    ]
 }

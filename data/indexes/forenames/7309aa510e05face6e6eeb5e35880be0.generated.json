@@ -15,11 +15,8 @@
             "Klaudiusz"
         ]
     },
-    "links": {
-        "records/patrons/claudius/mar": {
-            "la": "Claudius de Roma",
-            "en": "Claude of Rome",
-            "pl": "Klaudiusz z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/claudius/mar",
+        "records/patrons/claudius/mar"
+    ]
 }

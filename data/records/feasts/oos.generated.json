@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/multa/san": {
-            "la": "Omnes Sancti",
-            "en": "All Saints",
-            "pl": "Wszyscy Święci"
-        }
-    }
+    "links": [
+        "patrons/multa/san"
+    ]
 }

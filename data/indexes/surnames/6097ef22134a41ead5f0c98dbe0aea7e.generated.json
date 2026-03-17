@@ -7,11 +7,7 @@
             "Strzelecki"
         ]
     },
-    "links": {
-        "records/patrons/boleslaus/str": {
-            "pl": "Bolesław Strzelecki",
-            "la": "Boleslaus Strzelecki",
-            "en": "Boleslaus Strzelecki"
-        }
-    }
+    "links": [
+        "records/patrons/boleslaus/str"
+    ]
 }

@@ -16,27 +16,10 @@
             "Félicité"
         ]
     },
-    "links": {
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
-        },
-        "records/patrons/felicitas/pri": {
-            "fr": "Félicité Pricet",
-            "la": "Felicitas Pricet",
-            "en": "Felicity Pricet",
-            "pl": "Felicyta Pricet"
-        },
-        "records/patrons/felicitas/rom": {
-            "la": "Felicitas de Roma",
-            "en": "Felicity of Rome",
-            "pl": "Felicyta z Rzymu"
-        },
-        "records/patrons/maria/bor": {
-            "pl": "Maria Felicyta Borowik",
-            "la": "Maria Felicitas Borowik",
-            "en": "Mary Felicity Borowik"
-        }
-    }
+    "links": [
+        "records/patrons/felicitas/car",
+        "records/patrons/felicitas/pri",
+        "records/patrons/felicitas/rom",
+        "records/patrons/maria/bor"
+    ]
 }

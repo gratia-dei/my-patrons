@@ -13,11 +13,7 @@
             "Barnaba"
         ]
     },
-    "links": {
-        "records/patrons/barnabas/apo": {
-            "la": "Barnabas Apostolus",
-            "en": "Barnabas the Apostle",
-            "pl": "Barnaba Apostoł"
-        }
-    }
+    "links": [
+        "records/patrons/barnabas/apo"
+    ]
 }

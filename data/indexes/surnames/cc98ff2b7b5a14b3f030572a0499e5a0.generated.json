@@ -7,11 +7,7 @@
             "Świadek"
         ]
     },
-    "links": {
-        "records/patrons/antonius/swi": {
-            "pl": "Antoni Świadek",
-            "la": "Antonius Świadek",
-            "en": "Anthony Świadek"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/swi"
+    ]
 }

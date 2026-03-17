@@ -13,12 +13,7 @@
             "Portugalczyk"
         ]
     },
-    "links": {
-        "records/patrons/antonius/pat": {
-            "pt": "Antônio de Pádua",
-            "la": "Antonius Patavinus",
-            "en": "Anthony of Padua",
-            "pl": "Antoni Padewski"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/pat"
+    ]
 }

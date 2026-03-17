@@ -15,11 +15,9 @@
             "Ischyrion"
         ]
     },
-    "links": {
-        "records/patrons/ischyrion/aeg": {
-            "la": "Ischyrion de Aegypto",
-            "en": "Ischyrion of Egypt",
-            "pl": "Ischyrion z Egiptu"
-        }
-    }
+    "links": [
+        "records/patrons/ischyrion/aeg",
+        "records/patrons/ischyrion/aeg",
+        "records/patrons/ischyrion/aeg"
+    ]
 }

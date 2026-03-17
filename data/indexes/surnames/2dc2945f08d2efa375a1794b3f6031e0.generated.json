@@ -7,12 +7,7 @@
             "Morant Pellicer"
         ]
     },
-    "links": {
-        "records/patrons/henricus/mor": {
-            "es": "Enrique Morant Pellicer",
-            "la": "Henricus Morant Pellicer",
-            "en": "Henry Morant Pellicer",
-            "pl": "Henryk Morant Pellicer"
-        }
-    }
+    "links": [
+        "records/patrons/henricus/mor"
+    ]
 }

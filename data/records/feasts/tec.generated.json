@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/eduardus/con": {
-            "en": "Edward the Confessor",
-            "la": "Eduardus Confessor",
-            "pl": "Edward Wyznawca"
-        }
-    }
+    "links": [
+        "patrons/eduardus/con"
+    ]
 }

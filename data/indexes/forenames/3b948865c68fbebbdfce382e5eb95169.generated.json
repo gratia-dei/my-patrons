@@ -13,11 +13,7 @@
             "Cecylia"
         ]
     },
-    "links": {
-        "records/patrons/caecilia/rom": {
-            "la": "Caecilia Romana",
-            "en": "Cecilia of Rome",
-            "pl": "Cecylia z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/caecilia/rom"
+    ]
 }

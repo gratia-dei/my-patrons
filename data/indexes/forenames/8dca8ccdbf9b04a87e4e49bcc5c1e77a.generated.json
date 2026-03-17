@@ -13,11 +13,7 @@
             "Domnin"
         ]
     },
-    "links": {
-        "records/patrons/domninus/cae": {
-            "la": "Domninus Caesariensis",
-            "en": "Domninus of Caesarea",
-            "pl": "Domnin z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/domninus/cae"
+    ]
 }

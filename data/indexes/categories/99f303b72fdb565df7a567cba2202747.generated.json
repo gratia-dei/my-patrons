@@ -13,30 +13,10 @@
             "ojciec rodziny"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/bel": {
-            "it": "Luigi Beltrame Quattrocchi",
-            "la": "Aloysius Beltrame Quattrocchi",
-            "en": "Aloise Beltrame Quattrocchi",
-            "pl": "Alojzy Beltrame Quattrocchi"
-        },
-        "records/patrons/iosephus/tua": {
-            "vi": "Giuse Trần Văn Tuấn",
-            "la": "Iosephus Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
-            "pl": "Józef Trần Văn Tuấn"
-        },
-        "records/patrons/iosephus/zab": {
-            "es": "José María Zabal Blasco",
-            "la": "Iosephus Maria Zabal Blasco",
-            "en": "Joseph Mary Zabal Blasco",
-            "pl": "Józef Maria Zabal Blasco"
-        },
-        "records/patrons/nicolaus/flu": {
-            "de": "Niklaus von Flüe",
-            "la": "Nicolaus de Flüe",
-            "en": "Nicholas of Flüe",
-            "pl": "Mikołaj z Flüe"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/bel",
+        "records/patrons/iosephus/tua",
+        "records/patrons/iosephus/zab",
+        "records/patrons/nicolaus/flu"
+    ]
 }

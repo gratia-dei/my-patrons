@@ -16,12 +16,7 @@
             "מַתִּתְיָהוּ"
         ]
     },
-    "links": {
-        "records/patrons/matthaeus/eva": {
-            "he": "מתיו האוונגליסט",
-            "la": "Matthaeus Evengelista",
-            "en": "Matthew the Evengelist",
-            "pl": "Mateusz Ewangelista"
-        }
-    }
+    "links": [
+        "records/patrons/matthaeus/eva"
+    ]
 }

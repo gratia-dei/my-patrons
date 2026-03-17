@@ -13,11 +13,7 @@
             "anioł"
         ]
     },
-    "links": {
-        "records/patrons/multa/ang": {
-            "la": "Angeli Custodes",
-            "en": "Guardian Angels",
-            "pl": "Aniołowie Stróżowie"
-        }
-    }
+    "links": [
+        "records/patrons/multa/ang"
+    ]
 }

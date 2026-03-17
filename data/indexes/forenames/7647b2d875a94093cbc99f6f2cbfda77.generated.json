@@ -20,12 +20,8 @@
             "Charlotte"
         ]
     },
-    "links": {
-        "records/patrons/carola/luc": {
-            "fr": "Charlotte Lucas",
-            "la": "Carola Lucas",
-            "en": "Charlotte Lucas",
-            "pl": "Szarlota Lucas"
-        }
-    }
+    "links": [
+        "records/patrons/carola/luc",
+        "records/patrons/carola/luc"
+    ]
 }

@@ -16,12 +16,7 @@
             "Cassien"
         ]
     },
-    "links": {
-        "records/patrons/cassianus/aug": {
-            "fr": "Cassien d'Autun",
-            "la": "Cassianus Augustodunensis",
-            "en": "Cassian of Autun",
-            "pl": "Kasjan z Autun"
-        }
-    }
+    "links": [
+        "records/patrons/cassianus/aug"
+    ]
 }

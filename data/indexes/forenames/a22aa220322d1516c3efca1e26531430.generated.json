@@ -19,33 +19,11 @@
             "Юрій"
         ]
     },
-    "links": {
-        "records/patrons/georgius/cor": {
-            "la": "Georgius de Corduba; cum eo, i.a., Aurelius",
-            "en": "George of Cordoba; with him, i.a., Aurelius",
-            "pl": "Jerzy z Kordoby; z nim; m.in., Aureliusz"
-        },
-        "records/patrons/georgius/kas": {
-            "pl": "Jerzy Kaszyra",
-            "be": "Юрый Кашыра",
-            "la": "Georgius Kaszyra",
-            "en": "George Kashyra"
-        },
-        "records/patrons/georgius/mar": {
-            "la": "Georgius de Lydda",
-            "en": "George of Lydda",
-            "pl": "Jerzy z Lyddi"
-        },
-        "records/patrons/georgius/pop": {
-            "pl": "Jerzy Popiełuszko",
-            "la": "Georgius Popiełuszko",
-            "en": "George Popiełuszko"
-        },
-        "records/patrons/theodorus/rom": {
-            "uk": "Теодор Ромжа",
-            "la": "Theodorus Romzsa",
-            "en": "Theodore Romzha",
-            "pl": "Teodor Romża"
-        }
-    }
+    "links": [
+        "records/patrons/georgius/cor",
+        "records/patrons/georgius/kas",
+        "records/patrons/georgius/mar",
+        "records/patrons/georgius/pop",
+        "records/patrons/theodorus/rom"
+    ]
 }

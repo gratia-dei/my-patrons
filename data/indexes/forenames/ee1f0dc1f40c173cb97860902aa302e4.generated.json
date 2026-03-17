@@ -16,18 +16,8 @@
             "Secondo"
         ]
     },
-    "links": {
-        "records/patrons/secundus/ast": {
-            "it": "Secondo di Asti",
-            "la": "Secundus Astensis",
-            "en": "Secundus of Asti",
-            "pl": "Sekundus z Asti"
-        },
-        "records/patrons/secundus/pol": {
-            "it": "Secondo Pollo",
-            "la": "Secundus Pollo",
-            "en": "Secundus Pollo",
-            "pl": "Sekundus Pollo"
-        }
-    }
+    "links": [
+        "records/patrons/secundus/ast",
+        "records/patrons/secundus/pol"
+    ]
 }

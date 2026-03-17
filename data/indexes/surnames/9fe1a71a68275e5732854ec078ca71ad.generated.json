@@ -7,11 +7,7 @@
             "Chyliński"
         ]
     },
-    "links": {
-        "records/patrons/raphael/chy": {
-            "pl": "Rafał Chyliński",
-            "la": "Raphael Chylinski",
-            "en": "Raphael Chylinski"
-        }
-    }
+    "links": [
+        "records/patrons/raphael/chy"
+    ]
 }

@@ -7,11 +7,7 @@
             "Wiecka"
         ]
     },
-    "links": {
-        "records/patrons/martha/wie": {
-            "pl": "Marta Maria Wiecka",
-            "la": "Martha Maria Wiecka",
-            "en": "Martha Mary Wiecka"
-        }
-    }
+    "links": [
+        "records/patrons/martha/wie"
+    ]
 }

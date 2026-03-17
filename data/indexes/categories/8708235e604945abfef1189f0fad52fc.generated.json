@@ -13,18 +13,8 @@
             "koadiutor tymczasowy"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/lal": {
-            "fr": "Jean de La Lande",
-            "la": "Ioannes de la Lande",
-            "en": "John de La Lande",
-            "pl": "Jan de La Lande"
-        },
-        "records/patrons/renatus/gou": {
-            "fr": "René Goupil",
-            "la": "Renatus Goupil",
-            "en": "Renat Goupil",
-            "pl": "Renat Goupil"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/lal",
+        "records/patrons/renatus/gou"
+    ]
 }

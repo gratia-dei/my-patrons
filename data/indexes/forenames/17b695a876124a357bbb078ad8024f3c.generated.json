@@ -13,11 +13,7 @@
             "Wirgiliusz"
         ]
     },
-    "links": {
-        "records/patrons/virgilius/are": {
-            "la": "Virgilius Arelatensis",
-            "en": "Virgilius of Arles",
-            "pl": "Wirgiliusz z Arles"
-        }
-    }
+    "links": [
+        "records/patrons/virgilius/are"
+    ]
 }

@@ -7,11 +7,7 @@
             "Shelley"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/she": {
-            "en": "Edward Shelley",
-            "la": "Eduardus Shelley",
-            "pl": "Edward Shelley"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/she"
+    ]
 }

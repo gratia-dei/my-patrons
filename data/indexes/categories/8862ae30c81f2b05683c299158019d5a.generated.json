@@ -13,158 +13,33 @@
             "doktor Kościoła"
         ]
     },
-    "links": {
-        "records/patrons/albertus/mag": {
-            "de": "Albert der Große",
-            "la": "Albertus Magnus",
-            "en": "Albert the Great",
-            "pl": "Albert Wielki"
-        },
-        "records/patrons/alphonsus/lig": {
-            "it": "Alfonso Maria de' Liguori",
-            "en": "Alphonsus Maria Liguori",
-            "la": "Alphonsus Maria a Ligorio",
-            "pl": "Alfons Maria Liguori"
-        },
-        "records/patrons/ambrosius/med": {
-            "la": "Ambrosius Mediolanensis",
-            "en": "Ambrose of Milan",
-            "pl": "Ambroży z Mediolanu"
-        },
-        "records/patrons/anselmus/can": {
-            "en": "Anselm of Canterbury",
-            "la": "Anselmus Cantuariensis",
-            "pl": "Anzelm z Canterbury"
-        },
-        "records/patrons/antonius/pat": {
-            "pt": "Antônio de Pádua",
-            "la": "Antonius Patavinus",
-            "en": "Anthony of Padua",
-            "pl": "Antoni Padewski"
-        },
-        "records/patrons/athanasius/ale": {
-            "la": "Athanasius Magnus",
-            "en": "Athanasius the Great",
-            "pl": "Atanazy Wielki"
-        },
-        "records/patrons/augustinus/hip": {
-            "la": "Augustinus Hipponensis",
-            "en": "Augustine of Hippo",
-            "pl": "Augustyn z Hippony"
-        },
-        "records/patrons/basilius/mag": {
-            "el": "Βασίλειος Μέγας",
-            "la": "Basilius Magnus",
-            "en": "Basil the Great",
-            "pl": "Bazyli Wielki"
-        },
-        "records/patrons/bernardus/cla": {
-            "fr": "Bernard de Clairvaux",
-            "la": "Bernardus Claravallensis",
-            "en": "Bernard of Clairvaux",
-            "pl": "Bernard z Clairvaux"
-        },
-        "records/patrons/cyrillus/ale": {
-            "la": "Cyrillus Alexandrinus",
-            "en": "Cyril of Alexandria",
-            "pl": "Cyryl Aleksandryjski"
-        },
-        "records/patrons/cyrillus/hie": {
-            "el": "Κύριλλος Ιεροσολύμων",
-            "la": "Cyrillus Hierosolymitanus",
-            "en": "Cyril of Jerusalem",
-            "pl": "Cyryl Jerozolimski"
-        },
-        "records/patrons/ephraem/syr": {
-            "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
-            "la": "Ephraem Syrus",
-            "en": "Ephrem the Syrian",
-            "pl": "Efrem Syryjczyk"
-        },
-        "records/patrons/franciscus/sal": {
-            "fr": "François de Sales",
-            "la": "Franciscus de Sales",
-            "en": "Francis de Sales",
-            "pl": "Franciszek Salezy"
-        },
-        "records/patrons/gregorius/1pp": {
-            "la": "Gregorius Magnus",
-            "en": "Gregory the Great",
-            "pl": "Grzegorz Wielki"
-        },
-        "records/patrons/gregorius/naz": {
-            "grc": "Γρηγόριος Ναζιανζηνός",
-            "la": "Gregorius Nazianzenus",
-            "en": "Gregory of Nazianzus",
-            "pl": "Grzegorz z Nazjanzu"
-        },
-        "records/patrons/hieronymus/dal": {
-            "la": "Hieronymus Stridonensis",
-            "en": "Jerome of Stridon",
-            "pl": "Hieronim ze Strydonu"
-        },
-        "records/patrons/ioannes/chr": {
-            "la": "Ioannes Chrysostomus",
-            "en": "John Chrysostom",
-            "pl": "Jan Chryzostom"
-        },
-        "records/patrons/ioannes/cru": {
-            "es": "Juan de la Cruz",
-            "la": "Ioannes a Cruce",
-            "en": "John of the Cross",
-            "pl": "Jan od Krzyża"
-        },
-        "records/patrons/isidorus/his": {
-            "es": "Isidoro de Sevilla",
-            "la": "Isidorus Hispalensis",
-            "en": "Isidore of Seville",
-            "pl": "Izydor z Sewilli"
-        },
-        "records/patrons/laurentius/bru": {
-            "it": "Lorenzo da Brindisi",
-            "la": "Laurentius de Brundusio",
-            "en": "Lawrence of Brindisi",
-            "pl": "Wawrzyniec z Brindisi"
-        },
-        "records/patrons/leo/1pp": {
-            "la": "Leo I Magnus",
-            "en": "Leo I the Great",
-            "pl": "Leon I Wielki"
-        },
-        "records/patrons/petrus/chr": {
-            "la": "Petrus Chrysologus",
-            "en": "Peter Chrysologus",
-            "pl": "Piotr Chryzolog"
-        },
-        "records/patrons/petrus/dam": {
-            "it": "Pier Damiani",
-            "la": "Petrus Damiani",
-            "en": "Peter Damian",
-            "pl": "Piotr Damiani"
-        },
-        "records/patrons/robertus/bel": {
-            "it": "Roberto Bellarmino",
-            "la": "Robertus Bellarminus",
-            "en": "Robert Bellarmine",
-            "pl": "Robert Bellarmin"
-        },
-        "records/patrons/teresia/ies": {
-            "es": "Teresa de Ávila",
-            "la": "Teresia Abulensis",
-            "en": "Therese of Ávila",
-            "pl": "Teresa z Ávili"
-        },
-        "records/patrons/teresia/inf": {
-            "fr": "Thérèse de Lisieux",
-            "la": "Teresia Lexoviensis",
-            "en": "Therese of Lisieux",
-            "pl": "Teresa z Lisieux"
-        },
-        "records/patrons/thomas/aqu": {
-            "it": "Tommaso d'Aquino",
-            "la": "Thomas de Aquino",
-            "en": "Thomas Aquinas",
-            "pl": "Tomasz z Akwinu"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/mag",
+        "records/patrons/alphonsus/lig",
+        "records/patrons/ambrosius/med",
+        "records/patrons/anselmus/can",
+        "records/patrons/antonius/pat",
+        "records/patrons/athanasius/ale",
+        "records/patrons/augustinus/hip",
+        "records/patrons/basilius/mag",
+        "records/patrons/bernardus/cla",
+        "records/patrons/cyrillus/ale",
+        "records/patrons/cyrillus/hie",
+        "records/patrons/ephraem/syr",
+        "records/patrons/franciscus/sal",
+        "records/patrons/gregorius/1pp",
+        "records/patrons/gregorius/naz",
+        "records/patrons/hieronymus/dal",
+        "records/patrons/ioannes/chr",
+        "records/patrons/ioannes/cru",
+        "records/patrons/isidorus/his",
+        "records/patrons/laurentius/bru",
+        "records/patrons/leo/1pp",
+        "records/patrons/petrus/chr",
+        "records/patrons/petrus/dam",
+        "records/patrons/robertus/bel",
+        "records/patrons/teresia/ies",
+        "records/patrons/teresia/inf",
+        "records/patrons/thomas/aqu"
+    ]
 }

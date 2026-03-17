@@ -7,11 +7,7 @@
             "Kęsy"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/kes": {
-            "pl": "Franciszek Kęsy",
-            "la": "Franciscus Kęsy",
-            "en": "Franciszek Kęsy"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/kes"
+    ]
 }

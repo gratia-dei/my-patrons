@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/michael/arc": {
-            "la": "Michael Archangelus",
-            "en": "Archangel Michael",
-            "pl": "Michał Archanioł"
-        }
-    }
+    "links": [
+        "patrons/michael/arc"
+    ]
 }

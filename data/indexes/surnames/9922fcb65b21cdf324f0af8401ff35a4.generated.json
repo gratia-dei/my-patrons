@@ -7,11 +7,7 @@
             "Czartoryski"
         ]
     },
-    "links": {
-        "records/patrons/augustus/cza": {
-            "pl": "August Czartoryski",
-            "la": "Augustus Czartoryski",
-            "en": "August Czartoryski"
-        }
-    }
+    "links": [
+        "records/patrons/augustus/cza"
+    ]
 }

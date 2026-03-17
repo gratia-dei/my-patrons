@@ -34,342 +34,66 @@
             "마리아"
         ]
     },
-    "links": {
-        "records/patrons/alphonsus/lig": {
-            "it": "Alfonso Maria de' Liguori",
-            "en": "Alphonsus Maria Liguori",
-            "la": "Alphonsus Maria a Ligorio",
-            "pl": "Alfons Maria Liguori"
-        },
-        "records/patrons/alphonsus/maz": {
-            "pl": "Alfons Maria Mazurek",
-            "la": "Alphonsus Maria Mazurek",
-            "en": "Alphonsus Maria Mazurek"
-        },
-        "records/patrons/angela/tru": {
-            "pl": "Angela Maria Truszkowska",
-            "la": "Angela Maria Truszkowska",
-            "en": "Angela Mary Truszkowska"
-        },
-        "records/patrons/antonius/puc": {
-            "it": "Antonio Maria Pucci",
-            "la": "Antonius Maria Pucci",
-            "en": "Anthony Mary Pucci",
-            "pl": "Antoni Maria Pucci"
-        },
-        "records/patrons/antonius/zac": {
-            "it": "Antonio Maria Zaccaria",
-            "la": "Antonius Maria Zaccaria",
-            "en": "Anthony Mary Zaccaria",
-            "pl": "Antoni Maria Zaccaria"
-        },
-        "records/patrons/bernardus/sil": {
-            "it": "Bernardo Maria di Gesù",
-            "la": "Bernardus Maria a Iesu",
-            "en": "Bernard Mary of Jesus",
-            "pl": "Bernard Maria od Jezusa"
-        },
-        "records/patrons/boleslava/lam": {
-            "pl": "Bolesława Lament",
-            "la": "Boleslava Lament",
-            "en": "Boleslava Lament"
-        },
-        "records/patrons/clemens/hof": {
-            "de": "Klemens Maria Hofbauer",
-            "la": "Clemens Maria Hofbauer",
-            "en": "Clement Mary Hofbauer",
-            "pl": "Klemens Maria Hofbauer"
-        },
-        "records/patrons/guido/con": {
-            "it": "Guido Maria Conforti",
-            "la": "Guido Maria Conforti",
-            "en": "Guido Maria Conforti",
-            "pl": "Gwidon Maria Conforti"
-        },
-        "records/patrons/ioanna/bon": {
-            "it": "Giovanna Maria Bonomo",
-            "la": "Ioanna Maria Bonomo",
-            "en": "Joan Mary Bonomo",
-            "pl": "Joanna Maria Bonomo"
-        },
-        "records/patrons/ioanna/mai": {
-            "fr": "Jeanne-Marie de Maillé",
-            "la": "Ioanna Maria de Maille",
-            "en": "Joan Mary of Maille",
-            "pl": "Joanna Maria z Maille"
-        },
-        "records/patrons/ioannes/via": {
-            "fr": "Jean-Marie Vianney",
-            "la": "Ioannes Maria Vianney",
-            "en": "John Mary Vianney",
-            "pl": "Jan Maria Vianney"
-        },
-        "records/patrons/iosephus/esc": {
-            "es": "Josemaría Escrivá de Balaguer",
-            "la": "Iosephus Maria Escrivá de Balaguer",
-            "en": "Josemaría Escrivá de Balaguer",
-            "pl": "Josemaría Escrivá de Balaguer"
-        },
-        "records/patrons/iosephus/tom": {
-            "it": "Giuseppe Maria Tomasi",
-            "la": "Josephus Maria Tomasi",
-            "en": "Joseph Mary Tomasi",
-            "pl": "Józef Maria Tomasi"
-        },
-        "records/patrons/iosephus/zab": {
-            "es": "José María Zabal Blasco",
-            "la": "Iosephus Maria Zabal Blasco",
-            "en": "Joseph Mary Zabal Blasco",
-            "pl": "Józef Maria Zabal Blasco"
-        },
-        "records/patrons/margarita/ala": {
-            "fr": "Marguerite-Marie Alacoque",
-            "la": "Margarita Maria Alacoque",
-            "en": "Margaret Mary Alacoque",
-            "pl": "Małgorzata Maria Alacoque"
-        },
-        "records/patrons/maria/aeg": {
-            "el": "Μαρία η Αιγυπτία",
-            "la": "Maria Aegyptiaca",
-            "en": "Mary of Egypt",
-            "pl": "Maria Egipcjanka"
-        },
-        "records/patrons/maria/bel": {
-            "it": "Maria Beltrame Quattrocchi",
-            "la": "Maria Beltrame Quattrocchi",
-            "en": "Mary Beltrame Quattrocchi",
-            "pl": "Maria Beltrame Quattrocchi"
-        },
-        "records/patrons/maria/bie": {
-            "pl": "Maria Anna Biernacka",
-            "la": "Maria Anna Biernacka",
-            "en": "Maria Anna Biernacka"
-        },
-        "records/patrons/maria/bor": {
-            "pl": "Maria Felicyta Borowik",
-            "la": "Maria Felicitas Borowik",
-            "en": "Mary Felicity Borowik"
-        },
-        "records/patrons/maria/chr": {
-            "pl": "Maria Kanuta od Pana Jezusa w Ogrójcu",
-            "la": "Maria Canuta a Iesu in Horto Getsemani",
-            "en": "Mary Canuta of the Agonized Jesus in the Garden"
-        },
-        "records/patrons/maria/cie": {
-            "pl": "Maria Gwidona od Miłosierdzia Bożego",
-            "la": "Maria Guidona a Divina Misericordia",
-            "en": "Mary Guidona of Divine Mercy"
-        },
-        "records/patrons/maria/dem": {
-            "en": "Miriam Teresa Demjanovich",
-            "la": "Maria Teresia Demjanovich",
-            "pl": "Maria Teresa Demjanovich"
-        },
-        "records/patrons/maria/dur": {
-            "fr": "Marie-Rose Durocher",
-            "pl": "Maria Róża Durocher",
-            "la": "Maria Rosa Durocher",
-            "en": "Marie Rose Durocher"
-        },
-        "records/patrons/maria/gal": {
-            "it": "Maria Francesca delle Piaghe di nostro Signore Gesù Cristo",
-            "la": "Maria Francisca a Vulneribus Domini nostri Iesu Christi",
-            "en": "Mary Frances of the Wounds of our Lord Jesus Christ",
-            "pl": "Maria Franciszka od Ran naszego Pana Jezusa Chrystusa"
-        },
-        "records/patrons/maria/hac": {
-            "fr": "Marie-Anne Hacher du Bois",
-            "la": "Maria Anna Hacher du Bois",
-            "en": "Mary Anna Hacher du Bois",
-            "pl": "Maria Anna Hacher du Bois"
-        },
-        "records/patrons/maria/hos": {
-            "de": "Maria Crescentia Höss",
-            "la": "Maria Crescentia Höss",
-            "en": "Mary Crescentia Höss",
-            "pl": "Maria Krescencja Höss"
-        },
-        "records/patrons/maria/joz": {
-            "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
-            "la": "Maria Daniela a Iusei et Maria Immaculata",
-            "en": "Mary Daniela of Jesus and Immaculate Mary"
-        },
-        "records/patrons/maria/kar": {
-            "pl": "Maria Karłowska",
-            "la": "Maria Karlowska",
-            "en": "Maria Karłowska"
-        },
-        "records/patrons/maria/kas": {
-            "de": "Maria Katharina Kasper",
-            "la": "Maria Catharina Kasper",
-            "en": "Maria Katharina Kasper",
-            "pl": "Maria Katarzyna Kasper"
-        },
-        "records/patrons/maria/kow": {
-            "pl": "Maria Faustyna Kowalska",
-            "la": "Maria Faustina Kowalska",
-            "en": "Maria Faustyna Kowalska"
-        },
-        "records/patrons/maria/kra": {
-            "pl": "Maria Antonina Kratochwil",
-            "la": "Maria Antonina Kratochwil",
-            "en": "Mary Antoinette Kratochwil"
-        },
-        "records/patrons/maria/kuk": {
-            "pl": "Maria Rajmunda od Jezusa i Maryi",
-            "la": "Maria Raymunda a Iesu et Maria",
-            "en": "Mary Raymunda of Jesus and Mary"
-        },
-        "records/patrons/maria/mac": {
-            "pl": "Maria Kanizja Mackiewicz",
-            "la": "Maria Canisia Mackiewicz",
-            "en": "Mary Canisia Mackiewicz"
-        },
-        "records/patrons/maria/mag": {
-            "la": "Maria Magdalena",
-            "en": "Mary Magdalene",
-            "pl": "Maria Magdalena"
-        },
-        "records/patrons/maria/man": {
-            "it": "Maria Domenica Mantovani",
-            "la": "Maria Dominica Mantovani",
-            "en": "Maria Dominica Mantovani",
-            "pl": "Maria Dominika Mantovani"
-        },
-        "records/patrons/maria/mar": {
-            "pl": "Maria Stella od Najświętszego Sakramentu",
-            "la": "Maria Stella a Sanctissimo Sacramento",
-            "en": "Maria Stella of the Blessed Sacrament"
-        },
-        "records/patrons/maria/mat": {
-            "pl": "Maria Heliodora Matuszewska",
-            "la": "Maria Heliodora Matuszewska",
-            "en": "Mary Heliodora Matuszewska"
-        },
-        "records/patrons/maria/maz": {
-            "it": "Maria Domenica Mazzarello",
-            "la": "Maria Dominica Mazzarello",
-            "en": "Maria Dominica Mazzarello",
-            "pl": "Maria Dominika Mazzarello"
-        },
-        "records/patrons/maria/nar": {
-            "pl": "Maria Boromea Narmontowicz",
-            "la": "Maria Boromea Narmontowicz",
-            "en": "Mary Boromea Narmontowicz"
-        },
-        "records/patrons/maria/nav": {
-            "es": "María Ana de Jesús Navarro",
-            "la": "Maria Anna a Iesu Navarro",
-            "en": "Maria Anna of Jesus Navarro",
-            "pl": "Maria Anna od Jezusa Navarro"
-        },
-        "records/patrons/maria/naz": {
-            "arc": "ܡܪܝܡ",
-            "en": "Mary, mother of Jesus",
-            "la": "Maria Virgo",
-            "pl": "Maria z Nazaretu"
-        },
-        "records/patrons/maria/oul": {
-            "fr": "Marie de Jésus d'Oultremont",
-            "la": "Maria a Iesu d'Oultremont",
-            "en": "Mary of Jesus d'Oultremont",
-            "pl": "Maria od Jezusa d'Oultremont"
-        },
-        "records/patrons/maria/paz": {
-            "it": "Maria Maddalena de' Pazzi",
-            "la": "Maria Magdalena de' Pazzi",
-            "en": "Mary Magdalene de' Pazzi",
-            "pl": "Maria Magdalena de’ Pazzi"
-        },
-        "records/patrons/maria/pos": {
-            "fr": "Marie-Madeleine Postel",
-            "la": "Maria Magdalena Postel",
-            "en": "Mary Magdalene Postel",
-            "pl": "Maria Magdalena Postel"
-        },
-        "records/patrons/maria/rap": {
-            "pl": "Maria Sergia od Matki Bożej Bolesnej",
-            "la": "Maria Sergia a Virgine Perdolenti",
-            "en": "Mary Sergia of Our Lady of Sorrows"
-        },
-        "records/patrons/maria/ros": {
-            "it": "Maria Crocifissa Di Rosa",
-            "la": "Maria Crucifixa De Rosa",
-            "en": "Maria Crocifissa di Rosa",
-            "pl": "Maria Krucyfiksa di Rosa"
-        },
-        "records/patrons/maria/rub": {
-            "it": "Maria Francesca di Gesù Rubatto",
-            "la": "Maria Francisca a Iesu Rubatto",
-            "en": "Maria Francesca of Jesus Rubatto",
-            "pl": "Maria Franciszka od Jezusa Rubatto"
-        },
-        "records/patrons/maria/sch": {
-            "de": "Maria Theresia Scherer",
-            "la": "Maria Theresia Scherer",
-            "en": "Maria Therese Scherer",
-            "pl": "Maria Teresa Scherer"
-        },
-        "records/patrons/maria/sie": {
-            "pl": "Maria od Jezusa Dobrego Pasterza",
-            "la": "Maria a Iesu Bono Pastore",
-            "en": "Maria of Jesus the Good Shepherd"
-        },
-        "records/patrons/maria/sou": {
-            "fr": "Bernadette-Marie Soubirous",
-            "la": "Maria Bernarda Soubirous",
-            "en": "Bernadette Soubirous",
-            "pl": "Bernadeta Soubirous"
-        },
-        "records/patrons/maria/ulm": {
-            "pl": "Maria Ulma",
-            "la": "Maria Ulma",
-            "en": "Mary Ulma"
-        },
-        "records/patrons/maria/ver": {
-            "fr": "Marie-Louise du Verdier de La Sorinière",
-            "la": "Maria Ludovica du Verdier de La Sorinière",
-            "en": "Mary Louise du Verdier de La Sorinière",
-            "pl": "Maria Ludwika du Verdier de La Sorinière"
-        },
-        "records/patrons/maria/won": {
-            "ko": "원귀임 마리아",
-            "la": "Maria Wŏn Kwi-im",
-            "en": "Mary Wŏn Kwi-im",
-            "pl": "Maria Wŏn Kwi-im"
-        },
-        "records/patrons/maria/wul": {
-            "de": "Maria Therese von Wüllenweber",
-            "la": "Maria Teresia von Wüllenweber",
-            "en": "Maria Therese von Wüllenweber",
-            "pl": "Maria Teresa Wüllenweber"
-        },
-        "records/patrons/maria/zak": {
-            "pl": "Maria Imelda od Jezusa Hostii",
-            "la": "Maria Imelda a Iesu Hostia",
-            "en": "Mary Imelda of the Eucharistic Jesus"
-        },
-        "records/patrons/martha/wie": {
-            "pl": "Marta Maria Wiecka",
-            "la": "Martha Maria Wiecka",
-            "en": "Martha Mary Wiecka"
-        },
-        "records/patrons/maximilianus/kol": {
-            "pl": "Maksymilian Maria Kolbe",
-            "la": "Maximilianus Maria Kolbe",
-            "en": "Maximilian Maria Kolbe"
-        },
-        "records/patrons/raphaela/por": {
-            "es": "Rafaela María del Sagrado Corazón",
-            "la": "Raphaela Maria a Sacro Corde",
-            "en": "Rafaela Mary of the Sacred Heart",
-            "pl": "Rafaela Maria od Najświętszego Serca"
-        },
-        "records/patrons/vincentia/lop": {
-            "es": "Vicenta María López Vicuña",
-            "la": "Vincentia Maria López Vicuña",
-            "en": "Vincenta Maria López Vicuña",
-            "pl": "Wincencja Maria López Vicuña"
-        }
-    }
+    "links": [
+        "records/patrons/alphonsus/lig",
+        "records/patrons/alphonsus/maz",
+        "records/patrons/angela/tru",
+        "records/patrons/antonius/puc",
+        "records/patrons/antonius/zac",
+        "records/patrons/bernardus/sil",
+        "records/patrons/boleslava/lam",
+        "records/patrons/clemens/hof",
+        "records/patrons/guido/con",
+        "records/patrons/ioanna/bon",
+        "records/patrons/ioanna/mai",
+        "records/patrons/ioannes/via",
+        "records/patrons/iosephus/esc",
+        "records/patrons/iosephus/tom",
+        "records/patrons/iosephus/zab",
+        "records/patrons/margarita/ala",
+        "records/patrons/maria/aeg",
+        "records/patrons/maria/bel",
+        "records/patrons/maria/bie",
+        "records/patrons/maria/bor",
+        "records/patrons/maria/chr",
+        "records/patrons/maria/cie",
+        "records/patrons/maria/dem",
+        "records/patrons/maria/dur",
+        "records/patrons/maria/gal",
+        "records/patrons/maria/hac",
+        "records/patrons/maria/hos",
+        "records/patrons/maria/joz",
+        "records/patrons/maria/kar",
+        "records/patrons/maria/kas",
+        "records/patrons/maria/kow",
+        "records/patrons/maria/kra",
+        "records/patrons/maria/kuk",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mag",
+        "records/patrons/maria/man",
+        "records/patrons/maria/mar",
+        "records/patrons/maria/mat",
+        "records/patrons/maria/maz",
+        "records/patrons/maria/nar",
+        "records/patrons/maria/nav",
+        "records/patrons/maria/naz",
+        "records/patrons/maria/oul",
+        "records/patrons/maria/paz",
+        "records/patrons/maria/pos",
+        "records/patrons/maria/rap",
+        "records/patrons/maria/ros",
+        "records/patrons/maria/rub",
+        "records/patrons/maria/sch",
+        "records/patrons/maria/sie",
+        "records/patrons/maria/sou",
+        "records/patrons/maria/ulm",
+        "records/patrons/maria/ver",
+        "records/patrons/maria/won",
+        "records/patrons/maria/wul",
+        "records/patrons/maria/zak",
+        "records/patrons/martha/wie",
+        "records/patrons/maximilianus/kol",
+        "records/patrons/raphaela/por",
+        "records/patrons/vincentia/lop"
+    ]
 }

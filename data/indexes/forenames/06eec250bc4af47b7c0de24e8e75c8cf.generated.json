@@ -17,12 +17,8 @@
             "Colette"
         ]
     },
-    "links": {
-        "records/patrons/coleta/boy": {
-            "fr": "Colette Boylet",
-            "la": "Coleta Boylet",
-            "en": "Colette Boylet",
-            "pl": "Koleta Boylet"
-        }
-    }
+    "links": [
+        "records/patrons/coleta/boy",
+        "records/patrons/coleta/boy"
+    ]
 }

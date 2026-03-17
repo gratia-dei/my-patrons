@@ -16,12 +16,7 @@
             "Gerardino"
         ]
     },
-    "links": {
-        "records/patrons/gerardinus/sos": {
-            "it": "Gerardino Sostegno da Firenze",
-            "la": "Gerardinus Sostenaeus de Florentia",
-            "en": "Gerardius Sostene of Florence",
-            "pl": "Gerardyn Sosteniusz z Florencji"
-        }
-    }
+    "links": [
+        "records/patrons/gerardinus/sos"
+    ]
 }

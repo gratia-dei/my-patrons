@@ -13,11 +13,7 @@
             "Matka cesarza Konstantyna"
         ]
     },
-    "links": {
-        "records/patrons/helena/mat": {
-            "la": "Helena, mater Constantini",
-            "en": "Helena, mother of Constantine",
-            "pl": "Helena, matka Konstantyna"
-        }
-    }
+    "links": [
+        "records/patrons/helena/mat"
+    ]
 }

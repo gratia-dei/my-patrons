@@ -14,26 +14,14 @@
             "Wiktor"
         ]
     },
-    "links": {
-        "records/patrons/victor/1pp": {
-            "la": "Victor I",
-            "en": "Victor I",
-            "pl": "Wiktor I"
-        },
-        "records/patrons/victor/car": {
-            "la": "Victor Carthaginensis",
-            "en": "Victor of Carthage",
-            "pl": "Wiktor z Kartaginy"
-        },
-        "records/patrons/victor/pho": {
-            "la": "Victor de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Victor of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Wiktor z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/victor/the": {
-            "la": "Victor Legionis Thebanae",
-            "en": "Victor of the Theban Legion",
-            "pl": "Wiktor z Legii Tebańskiej"
-        }
-    }
+    "links": [
+        "records/patrons/victor/1pp",
+        "records/patrons/victor/1pp",
+        "records/patrons/victor/car",
+        "records/patrons/victor/car",
+        "records/patrons/victor/pho",
+        "records/patrons/victor/pho",
+        "records/patrons/victor/the",
+        "records/patrons/victor/the"
+    ]
 }

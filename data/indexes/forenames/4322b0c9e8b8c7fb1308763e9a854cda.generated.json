@@ -16,11 +16,7 @@
             "Juda"
         ]
     },
-    "links": {
-        "records/patrons/iudas/tha": {
-            "la": "Iudas Thaddaeus",
-            "en": "Judas Thaddaeus",
-            "pl": "Juda Tadeusz Apostoł"
-        }
-    }
+    "links": [
+        "records/patrons/iudas/tha"
+    ]
 }

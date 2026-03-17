@@ -7,12 +7,7 @@
             "Orione"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/ori": {
-            "it": "Luigi Orione",
-            "la": "Aloysius Orione",
-            "en": "Aloise Orione",
-            "pl": "Alojzy Orione"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/ori"
+    ]
 }

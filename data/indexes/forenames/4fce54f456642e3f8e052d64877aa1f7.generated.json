@@ -13,16 +13,8 @@
             "Bonifacy"
         ]
     },
-    "links": {
-        "records/patrons/bonifatius/win": {
-            "la": "Bonifatius Winfridus",
-            "en": "Boniface Wynfreth",
-            "pl": "Bonifacy Wynfryd"
-        },
-        "records/patrons/bonifatius/zuk": {
-            "pl": "Bonifacy Żukowski",
-            "la": "Bonifatius Zukowski",
-            "en": "Boniface Zukowski"
-        }
-    }
+    "links": [
+        "records/patrons/bonifatius/win",
+        "records/patrons/bonifatius/zuk"
+    ]
 }

@@ -13,21 +13,9 @@
             "Innocenty"
         ]
     },
-    "links": {
-        "records/patrons/innocentius/guz": {
-            "pl": "Innocenty Guz",
-            "la": "Innocentius Guz",
-            "en": "Innocent Guz"
-        },
-        "records/patrons/innocentius/the": {
-            "la": "Innocentius Legionis Thebanae",
-            "en": "Innocent of the Theban Legion",
-            "pl": "Innocenty z Legii Tebańskiej"
-        },
-        "records/patrons/vincentius/xys": {
-            "la": "Vincentius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Vincent of Rome, subdeacon of Xystus II",
-            "pl": "Wincenty z Rzymu, subdiakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/innocentius/guz",
+        "records/patrons/innocentius/the",
+        "records/patrons/vincentius/xys"
+    ]
 }

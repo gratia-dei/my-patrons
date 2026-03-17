@@ -14,11 +14,8 @@
             "Onezyfor"
         ]
     },
-    "links": {
-        "records/patrons/onesiphorus/apo": {
-            "la": "Onesiphorus, Apostolorum discipulus",
-            "en": "Onesiphorus, disciple of Apostles",
-            "pl": "Onezyfor, uczeń Apostołów"
-        }
-    }
+    "links": [
+        "records/patrons/onesiphorus/apo",
+        "records/patrons/onesiphorus/apo"
+    ]
 }

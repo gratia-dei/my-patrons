@@ -13,11 +13,7 @@
             "Leoncjusz"
         ]
     },
-    "links": {
-        "records/patrons/leontius/aeg": {
-            "la": "Leontius Aegaeensis",
-            "en": "Leontius of Aegeae",
-            "pl": "Leoncjusz z Egei"
-        }
-    }
+    "links": [
+        "records/patrons/leontius/aeg"
+    ]
 }

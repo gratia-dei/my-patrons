@@ -16,17 +16,8 @@
             "Victoire"
         ]
     },
-    "links": {
-        "records/patrons/victoria/gus": {
-            "fr": "Victoire Gusteau",
-            "la": "Victoria Gusteau",
-            "en": "Victoria Gusteau",
-            "pl": "Wiktoria Gusteau"
-        },
-        "records/patrons/victoria/ulm": {
-            "pl": "Wiktoria Ulma",
-            "la": "Victoria Ulma",
-            "en": "Victoria Ulma"
-        }
-    }
+    "links": [
+        "records/patrons/victoria/gus",
+        "records/patrons/victoria/ulm"
+    ]
 }

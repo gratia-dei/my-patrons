@@ -7,11 +7,7 @@
             "Leigh"
         ]
     },
-    "links": {
-        "records/patrons/richardus/lei": {
-            "en": "Richard Leigh",
-            "la": "Richardus Leigh",
-            "pl": "Ryszard Leigh"
-        }
-    }
+    "links": [
+        "records/patrons/richardus/lei"
+    ]
 }

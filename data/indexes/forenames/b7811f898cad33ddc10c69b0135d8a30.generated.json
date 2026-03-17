@@ -16,12 +16,7 @@
             "성임"
         ]
     },
-    "links": {
-        "records/patrons/martha/kim": {
-            "ko": "김성임 마르타",
-            "la": "Martha Kim Sŏng-im",
-            "en": "Martha Kim Sŏng-im",
-            "pl": "Marta Kim Sŏng-im"
-        }
-    }
+    "links": [
+        "records/patrons/martha/kim"
+    ]
 }

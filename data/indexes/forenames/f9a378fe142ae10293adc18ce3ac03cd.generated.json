@@ -14,11 +14,8 @@
             "Marcelin"
         ]
     },
-    "links": {
-        "records/patrons/marcellinus/1pp": {
-            "la": "Marcellinus, Papa",
-            "en": "Marcellinus, pope",
-            "pl": "Marcelin, papież"
-        }
-    }
+    "links": [
+        "records/patrons/marcellinus/1pp",
+        "records/patrons/marcellinus/1pp"
+    ]
 }

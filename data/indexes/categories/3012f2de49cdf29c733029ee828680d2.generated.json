@@ -13,18 +13,8 @@
             "cenobita"
         ]
     },
-    "links": {
-        "records/patrons/bruno/ere": {
-            "de": "Bruno von Köln",
-            "la": "Bruno Cartusiensis",
-            "en": "Bruno of Cologne",
-            "pl": "Bruno Kartuz"
-        },
-        "records/patrons/sergius/rad": {
-            "ru": "Сергий Радонежский",
-            "la": "Sergius de Radonez",
-            "en": "Sergius of Radonezh",
-            "pl": "Sergiusz z Radoneża"
-        }
-    }
+    "links": [
+        "records/patrons/bruno/ere",
+        "records/patrons/sergius/rad"
+    ]
 }

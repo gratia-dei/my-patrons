@@ -13,11 +13,7 @@
             "Edmund"
         ]
     },
-    "links": {
-        "records/patrons/edmundus/boj": {
-            "pl": "Edmund Bojanowski",
-            "la": "Edmundus Bojanowski",
-            "en": "Edmund Bojanowski"
-        }
-    }
+    "links": [
+        "records/patrons/edmundus/boj"
+    ]
 }

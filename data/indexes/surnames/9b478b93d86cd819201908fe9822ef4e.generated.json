@@ -7,11 +7,7 @@
             "Becket"
         ]
     },
-    "links": {
-        "records/patrons/thomas/bec": {
-            "en": "Thomas Becket",
-            "la": "Thomas Becket",
-            "pl": "Tomasz Becket"
-        }
-    }
+    "links": [
+        "records/patrons/thomas/bec"
+    ]
 }

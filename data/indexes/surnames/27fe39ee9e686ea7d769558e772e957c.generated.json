@@ -7,12 +7,7 @@
             "Repin"
         ]
     },
-    "links": {
-        "records/patrons/gulielmus/rep": {
-            "fr": "Guillaume Repin",
-            "la": "Gulielmus Repin",
-            "en": "William Repin",
-            "pl": "Wilhelm Repin"
-        }
-    }
+    "links": [
+        "records/patrons/gulielmus/rep"
+    ]
 }

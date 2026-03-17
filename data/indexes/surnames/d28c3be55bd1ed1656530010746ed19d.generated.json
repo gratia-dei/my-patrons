@@ -7,12 +7,7 @@
             "Mantovani"
         ]
     },
-    "links": {
-        "records/patrons/maria/man": {
-            "it": "Maria Domenica Mantovani",
-            "la": "Maria Dominica Mantovani",
-            "en": "Maria Dominica Mantovani",
-            "pl": "Maria Dominika Mantovani"
-        }
-    }
+    "links": [
+        "records/patrons/maria/man"
+    ]
 }

@@ -13,109 +13,24 @@
             "opat"
         ]
     },
-    "links": {
-        "records/patrons/aegidius/abb": {
-            "fr": "Gilles l'Ermite",
-            "la": "Aegidius Abbas",
-            "en": "Giles the Hermit",
-            "pl": "Idzi Eremita"
-        },
-        "records/patrons/anselmus/can": {
-            "en": "Anselm of Canterbury",
-            "la": "Anselmus Cantuariensis",
-            "pl": "Anzelm z Canterbury"
-        },
-        "records/patrons/antonius/abb": {
-            "el": "Ἀντώνιος Μέγας",
-            "la": "Antonius Magnus",
-            "en": "Anthony the Great",
-            "pl": "Antoni Wielki"
-        },
-        "records/patrons/benedictus/nur": {
-            "la": "Benedictus Nursinus",
-            "en": "Banadict of Nursia",
-            "pl": "Benedykt z Nursji"
-        },
-        "records/patrons/bernardus/cla": {
-            "fr": "Bernard de Clairvaux",
-            "la": "Bernardus Claravallensis",
-            "en": "Bernard of Clairvaux",
-            "pl": "Bernard z Clairvaux"
-        },
-        "records/patrons/dominicus/exi": {
-            "es": "Domingo de Silos",
-            "la": "Dominicus de Silos",
-            "en": "Dominic of Silos",
-            "pl": "Dominik z Silos"
-        },
-        "records/patrons/gerardus/abb": {
-            "fr": "Gérard de Brogne",
-            "la": "Gerardus Broniensis",
-            "en": "Gerard of Brogne",
-            "pl": "Gerard z Brogne"
-        },
-        "records/patrons/gerasimus/ior": {
-            "el": "Γεράσιμος Ἰορδανίτης",
-            "la": "Gerasimus Iordanita",
-            "en": "Gerasimus of the Jordan",
-            "pl": "Gerazym Jordanita"
-        },
-        "records/patrons/macarius/mag": {
-            "la": "Macarius Magnus",
-            "en": "Maracius the Great",
-            "pl": "Makary Wielki"
-        },
-        "records/patrons/magnus/abb": {
-            "de": "Magnus von Füssen",
-            "la": "Magnus, abbas",
-            "en": "Magnus of Füssen",
-            "pl": "Magnus z Füssen"
-        },
-        "records/patrons/maurus/abb": {
-            "fr": "Maur, abbé",
-            "la": "Maurus, abbas",
-            "en": "Maurus, abbot",
-            "pl": "Maur, opat"
-        },
-        "records/patrons/petrus/ven": {
-            "fr": "Pierre le Vénérable",
-            "la": "Peter Venerabilis",
-            "en": "Peter the Venerable",
-            "pl": "Piotr Czcigodny"
-        },
-        "records/patrons/pirminus/epi": {
-            "de": "Pirminius von Hornbach",
-            "la": "Pirminus Hornbacensis",
-            "en": "Pirmin of Hornbach",
-            "pl": "Pirmin z Hornbach"
-        },
-        "records/patrons/robertus/nov": {
-            "en": "Robert of Newminster",
-            "la": "Robertus Novomonasteriensis",
-            "pl": "Robert z Newminster"
-        },
-        "records/patrons/romanus/abb": {
-            "fr": "Romain de Condat",
-            "la": "Romanus de Monte Iura",
-            "en": "Roman of Condat",
-            "pl": "Roman Jurajski"
-        },
-        "records/patrons/romualdus/cam": {
-            "it": "Romualdo di Camaldoli",
-            "la": "Romualdus Camaldulensis",
-            "en": "Romuald of Camaldoli",
-            "pl": "Romuald z Camaldoli"
-        },
-        "records/patrons/rupertus/sal": {
-            "de": "Rupert von Salzburg",
-            "la": "Rupertus Salisburgensis",
-            "en": "Rupert of Salzburg",
-            "pl": "Rupert z Salzburga"
-        },
-        "records/patrons/wilfridus/ebo": {
-            "en": "Wilfrid of York",
-            "la": "Wilfridus Eboracensis",
-            "pl": "Wilfryd z Yorku"
-        }
-    }
+    "links": [
+        "records/patrons/aegidius/abb",
+        "records/patrons/anselmus/can",
+        "records/patrons/antonius/abb",
+        "records/patrons/benedictus/nur",
+        "records/patrons/bernardus/cla",
+        "records/patrons/dominicus/exi",
+        "records/patrons/gerardus/abb",
+        "records/patrons/gerasimus/ior",
+        "records/patrons/macarius/mag",
+        "records/patrons/magnus/abb",
+        "records/patrons/maurus/abb",
+        "records/patrons/petrus/ven",
+        "records/patrons/pirminus/epi",
+        "records/patrons/robertus/nov",
+        "records/patrons/romanus/abb",
+        "records/patrons/romualdus/cam",
+        "records/patrons/rupertus/sal",
+        "records/patrons/wilfridus/ebo"
+    ]
 }

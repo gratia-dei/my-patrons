@@ -15,11 +15,9 @@
             "Deusdedit"
         ]
     },
-    "links": {
-        "records/patrons/deusdedit/1pp": {
-            "la": "Deusdedit Pp. I",
-            "en": "Deusdedit I",
-            "pl": "Deusdedit I"
-        }
-    }
+    "links": [
+        "records/patrons/deusdedit/1pp",
+        "records/patrons/deusdedit/1pp",
+        "records/patrons/deusdedit/1pp"
+    ]
 }

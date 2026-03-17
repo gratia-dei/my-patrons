@@ -18,11 +18,8 @@
             "Westina"
         ]
     },
-    "links": {
-        "records/patrons/vestia/sci": {
-            "la": "Vestia de Scillium",
-            "en": "Vestia of Scillium",
-            "pl": "Westia ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/vestia/sci",
+        "records/patrons/vestia/sci"
+    ]
 }

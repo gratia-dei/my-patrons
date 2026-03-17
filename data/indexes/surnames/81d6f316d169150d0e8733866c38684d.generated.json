@@ -11,17 +11,8 @@
             "Martin"
         ]
     },
-    "links": {
-        "records/patrons/ludovicus/mar": {
-            "fr": "Louis Martin",
-            "la": "Ludovicus Martin",
-            "en": "Louis Martin",
-            "pl": "Ludwik Martin"
-        },
-        "records/patrons/richardus/mar": {
-            "en": "Richard Martin",
-            "la": "Richardus Martin",
-            "pl": "Ryszard Martin"
-        }
-    }
+    "links": [
+        "records/patrons/ludovicus/mar",
+        "records/patrons/richardus/mar"
+    ]
 }

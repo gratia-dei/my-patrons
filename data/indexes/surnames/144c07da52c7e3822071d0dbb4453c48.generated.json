@@ -7,11 +7,7 @@
             "Szramek"
         ]
     },
-    "links": {
-        "records/patrons/aemilius/szr": {
-            "pl": "Emil Szramek",
-            "la": "Aemilius Szramek",
-            "en": "Emil Szramek"
-        }
-    }
+    "links": [
+        "records/patrons/aemilius/szr"
+    ]
 }

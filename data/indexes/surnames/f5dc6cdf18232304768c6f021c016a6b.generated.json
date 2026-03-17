@@ -7,11 +7,7 @@
             "Matuszewski"
         ]
     },
-    "links": {
-        "records/patrons/vincentius/mat": {
-            "pl": "Wincenty Matuszewski",
-            "la": "Vincentius Matuszewski",
-            "en": "Vincent Matuszewski"
-        }
-    }
+    "links": [
+        "records/patrons/vincentius/mat"
+    ]
 }

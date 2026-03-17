@@ -19,18 +19,8 @@
             "Raimundo"
         ]
     },
-    "links": {
-        "records/patrons/maximilianus/kol": {
-            "pl": "Maksymilian Maria Kolbe",
-            "la": "Maximilianus Maria Kolbe",
-            "en": "Maximilian Maria Kolbe"
-        },
-        "records/patrons/raymundus/pen": {
-            "ca": "Ramon de Penyafort",
-            "es": "Raimundo de Peñafort",
-            "la": "Raymundus de Penyafort",
-            "en": "Raymond of Penyafort",
-            "pl": "Rajmund z Penyafortu"
-        }
-    }
+    "links": [
+        "records/patrons/maximilianus/kol",
+        "records/patrons/raymundus/pen"
+    ]
 }

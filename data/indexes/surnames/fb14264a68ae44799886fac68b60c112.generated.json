@@ -18,12 +18,9 @@
             "Sukejiro"
         ]
     },
-    "links": {
-        "records/patrons/petrus/suk": {
-            "ja": "ペトロ助四郎",
-            "la": "Petrus Sukejiro",
-            "en": "Peter Sukejiro",
-            "pl": "Piotr Sukejiro"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/suk",
+        "records/patrons/petrus/suk",
+        "records/patrons/petrus/suk"
+    ]
 }

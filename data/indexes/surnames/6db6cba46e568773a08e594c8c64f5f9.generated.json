@@ -7,12 +7,7 @@
             "Rebuschini"
         ]
     },
-    "links": {
-        "records/patrons/henricus/reb": {
-            "it": "Enrico Rebuschini",
-            "la": "Henricus Rebuschini",
-            "en": "Henry Rebuschini",
-            "pl": "Henryk Rebuschini"
-        }
-    }
+    "links": [
+        "records/patrons/henricus/reb"
+    ]
 }

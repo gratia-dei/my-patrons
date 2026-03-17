@@ -20,23 +20,12 @@
             "Hedvig"
         ]
     },
-    "links": {
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "la": "Hedwigis ducissa Polonorum",
-            "en": "Hedwig of Silesia",
-            "pl": "Jadwiga Śląska"
-        },
-        "records/patrons/hedwigis/hun": {
-            "hu": "Anjou Hedvig",
-            "la": "Hedvigis Andegavensis",
-            "en": "Hedwig of Anjou",
-            "pl": "Jadwiga Andegaweńska"
-        },
-        "records/patrons/maria/zak": {
-            "pl": "Maria Imelda od Jezusa Hostii",
-            "la": "Maria Imelda a Iesu Hostia",
-            "en": "Mary Imelda of the Eucharistic Jesus"
-        }
-    }
+    "links": [
+        "records/patrons/hedwigis/duc",
+        "records/patrons/hedwigis/duc",
+        "records/patrons/hedwigis/hun",
+        "records/patrons/hedwigis/hun",
+        "records/patrons/maria/zak",
+        "records/patrons/maria/zak"
+    ]
 }

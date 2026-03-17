@@ -14,11 +14,8 @@
             "Zelotes"
         ]
     },
-    "links": {
-        "records/patrons/simon/apo": {
-            "la": "Simon Apostolus",
-            "en": "Simon Apostle",
-            "pl": "Szymon Apostoł"
-        }
-    }
+    "links": [
+        "records/patrons/simon/apo",
+        "records/patrons/simon/apo"
+    ]
 }

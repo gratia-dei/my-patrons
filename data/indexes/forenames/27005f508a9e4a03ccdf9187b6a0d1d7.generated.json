@@ -14,11 +14,8 @@
             "Rewokatus"
         ]
     },
-    "links": {
-        "records/patrons/revocatus/car": {
-            "la": "Revocatus Carthaginensis",
-            "en": "Revocatus of Carthage",
-            "pl": "Rewokatus z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/revocatus/car",
+        "records/patrons/revocatus/car"
+    ]
 }

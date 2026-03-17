@@ -15,11 +15,8 @@
             "Emmeram"
         ]
     },
-    "links": {
-        "records/patrons/emmerammus/rat": {
-            "la": "Emmeramus Ratisbonensis",
-            "en": "Emmeram of Regensburg",
-            "pl": "Emmeram z Ratyzbony"
-        }
-    }
+    "links": [
+        "records/patrons/emmerammus/rat",
+        "records/patrons/emmerammus/rat"
+    ]
 }

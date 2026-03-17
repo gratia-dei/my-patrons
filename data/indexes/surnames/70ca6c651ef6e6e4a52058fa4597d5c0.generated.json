@@ -7,11 +7,7 @@
             "Szewczyk"
         ]
     },
-    "links": {
-        "records/patrons/margarita/sze": {
-            "pl": "Małgorzata Łucja Szewczyk",
-            "la": "Margarita Lucia Szewczyk",
-            "en": "Margaret Lucy Szewczyk"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/sze"
+    ]
 }

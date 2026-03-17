@@ -13,24 +13,9 @@
             "samotnica"
         ]
     },
-    "links": {
-        "records/patrons/athanasia/aeg": {
-            "el": "Αθανασία της Αιγίνης",
-            "la": "Athanasia de Aegina",
-            "en": "Athanasia of Aegina",
-            "pl": "Atanazja z Eginy"
-        },
-        "records/patrons/maria/aeg": {
-            "el": "Μαρία η Αιγυπτία",
-            "la": "Maria Aegyptiaca",
-            "en": "Mary of Egypt",
-            "pl": "Maria Egipcjanka"
-        },
-        "records/patrons/rosalia/pan": {
-            "it": "Rosalia di Palermo",
-            "la": "Rosalia Panormitana",
-            "en": "Rosalia of Palermo",
-            "pl": "Rozalia z Palermo"
-        }
-    }
+    "links": [
+        "records/patrons/athanasia/aeg",
+        "records/patrons/maria/aeg",
+        "records/patrons/rosalia/pan"
+    ]
 }

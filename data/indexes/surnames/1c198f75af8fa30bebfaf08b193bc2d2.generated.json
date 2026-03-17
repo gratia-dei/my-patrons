@@ -10,12 +10,7 @@
             "Boromeusz"
         ]
     },
-    "links": {
-        "records/patrons/carolus/bor": {
-            "it": "Carlo Borromeo",
-            "la": "Carolus Borromeo",
-            "en": "Charles Borromeo",
-            "pl": "Karol Boromeusz"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/bor"
+    ]
 }

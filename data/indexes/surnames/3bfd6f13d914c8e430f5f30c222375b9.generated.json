@@ -7,12 +7,7 @@
             "Rinaldi"
         ]
     },
-    "links": {
-        "records/patrons/philippus/rin": {
-            "it": "Filippo Rinaldi",
-            "la": "Philippus Rinaldi",
-            "en": "Philip Rinaldi",
-            "pl": "Filip Rinaldi"
-        }
-    }
+    "links": [
+        "records/patrons/philippus/rin"
+    ]
 }

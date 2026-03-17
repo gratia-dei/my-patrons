@@ -14,16 +14,10 @@
             "Weronika"
         ]
     },
-    "links": {
-        "records/patrons/maria/nar": {
-            "pl": "Maria Boromea Narmontowicz",
-            "la": "Maria Boromea Narmontowicz",
-            "en": "Mary Boromea Narmontowicz"
-        },
-        "records/patrons/veronica/hie": {
-            "la": "Veronica Hierosolymitana",
-            "en": "Veronica of Jerusalem",
-            "pl": "Weronika z Jerozolimy"
-        }
-    }
+    "links": [
+        "records/patrons/maria/nar",
+        "records/patrons/maria/nar",
+        "records/patrons/veronica/hie",
+        "records/patrons/veronica/hie"
+    ]
 }

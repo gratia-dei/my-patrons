@@ -13,11 +13,7 @@
             "hrabia"
         ]
     },
-    "links": {
-        "records/patrons/carolus/bon": {
-            "la": "Carolus Bonus",
-            "en": "Charles the Good",
-            "pl": "Karol Dobry"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/bon"
+    ]
 }

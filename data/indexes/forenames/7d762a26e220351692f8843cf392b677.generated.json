@@ -19,12 +19,10 @@
             "Kizito"
         ]
     },
-    "links": {
-        "records/patrons/kizito/lwa": {
-            "sw": "Kizito",
-            "la": "Kizito",
-            "en": "Kizito",
-            "pl": "Kizito"
-        }
-    }
+    "links": [
+        "records/patrons/kizito/lwa",
+        "records/patrons/kizito/lwa",
+        "records/patrons/kizito/lwa",
+        "records/patrons/kizito/lwa"
+    ]
 }

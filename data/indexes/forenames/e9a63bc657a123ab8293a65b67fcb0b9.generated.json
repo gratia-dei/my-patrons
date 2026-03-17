@@ -17,12 +17,8 @@
             "Geneviève"
         ]
     },
-    "links": {
-        "records/patrons/genovefa/nem": {
-            "fr": "Geneviève de Paris",
-            "la": "Genovefa Nemptodurensis",
-            "en": "Genovefa of Paris",
-            "pl": "Genowefa z Paryża"
-        }
-    }
+    "links": [
+        "records/patrons/genovefa/nem",
+        "records/patrons/genovefa/nem"
+    ]
 }

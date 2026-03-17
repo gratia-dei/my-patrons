@@ -7,11 +7,7 @@
             "Dańkowski"
         ]
     },
-    "links": {
-        "records/patrons/petrus/dan": {
-            "pl": "Piotr Edward Dańkowski",
-            "la": "Petrus Eduardus Dańkowski",
-            "en": "Peter Edward Dankowski"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/dan"
+    ]
 }

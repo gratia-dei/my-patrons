@@ -18,12 +18,8 @@
             "Borgiasz"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/bor": {
-            "es": "Francisco de Borja",
-            "la": "Franciscus Borgia",
-            "en": "Francis Borgia",
-            "pl": "Franciszek Borgiasz"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/bor",
+        "records/patrons/franciscus/bor"
+    ]
 }

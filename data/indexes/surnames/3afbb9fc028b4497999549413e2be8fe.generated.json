@@ -7,18 +7,8 @@
             "Moreau"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/mor": {
-            "fr": "Joseph Moreau",
-            "la": "Iosephus Moreau",
-            "en": "Joseph Moreau",
-            "pl": "Józef Moreau"
-        },
-        "records/patrons/ludovicus/mor": {
-            "fr": "Louis-Zéphirin Moreau",
-            "la": "Ludovicus Zephyrinus Moreau",
-            "en": "Louis Zephyrinus Moreau",
-            "pl": "Ludwik Zefiryn Moreau"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/mor",
+        "records/patrons/ludovicus/mor"
+    ]
 }

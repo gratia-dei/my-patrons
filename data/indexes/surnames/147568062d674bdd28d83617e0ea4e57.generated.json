@@ -7,11 +7,7 @@
             "Stryjas"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/str": {
-            "pl": "Franciszek Stryjas",
-            "la": "Franciscus Stryjas",
-            "en": "Francis Stryjas"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/str"
+    ]
 }

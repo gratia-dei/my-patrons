@@ -14,11 +14,8 @@
             "Anastazy"
         ]
     },
-    "links": {
-        "records/patrons/anastasius/1pp": {
-            "la": "Anastasius Pp. I",
-            "en": "Anastasius I, pope",
-            "pl": "Anastazy I, papież"
-        }
-    }
+    "links": [
+        "records/patrons/anastasius/1pp",
+        "records/patrons/anastasius/1pp"
+    ]
 }

@@ -1,74 +1,18 @@
 {
-    "links": {
-        "records/patrons/aquilinus/sci": {
-            "la": "Aquilinus de Scillium",
-            "en": "Aquilinus of Scillium",
-            "pl": "Akwilin ze Scilium"
-        },
-        "records/patrons/cittinus/sci": {
-            "la": "Cittinus de Scillium",
-            "en": "Cittinus of Scillium",
-            "pl": "Cytyn ze Scilium"
-        },
-        "records/patrons/cyprianus/car": {
-            "la": "Cyprianus Carthaginensis",
-            "en": "Cyprian of Carthage",
-            "pl": "Cyprian z Kartaginy"
-        },
-        "records/patrons/donata/sci": {
-            "la": "Donata de Scillium",
-            "en": "Donata of Scillium",
-            "pl": "Donata ze Scilium"
-        },
-        "records/patrons/felix/sci": {
-            "la": "Felix de Scillium",
-            "en": "Felix of Scillium",
-            "pl": "Feliks ze Scilium"
-        },
-        "records/patrons/generosa/sci": {
-            "la": "Generosa de Scillium",
-            "en": "Generosa of Scillium",
-            "pl": "Generoza ze Scilium"
-        },
-        "records/patrons/ianuaria/sci": {
-            "la": "Ianuaria de Scillium",
-            "en": "Januaria of Scillium",
-            "pl": "Januaria ze Scilium"
-        },
-        "records/patrons/laetantius/sci": {
-            "la": "Laetantius de Scillium",
-            "en": "Laetantius of Scillium",
-            "pl": "Letancjusz ze Scilium"
-        },
-        "records/patrons/nartzales/sci": {
-            "la": "Nartzales de Scillium",
-            "en": "Nartzalus of Scillium",
-            "pl": "Nartzal ze Scilium"
-        },
-        "records/patrons/pantaleon/nic": {
-            "la": "Pantaleon de Nicomedia",
-            "en": "Pantaleon of Nicomedia",
-            "pl": "Pantaleon z Nikomedii"
-        },
-        "records/patrons/secunda/sci": {
-            "la": "Secunda de Scillium",
-            "en": "Secunda of Scillium",
-            "pl": "Sekunda ze Scilium"
-        },
-        "records/patrons/speratus/sci": {
-            "la": "Speratus de Scillium",
-            "en": "Speratus of Scillium",
-            "pl": "Sperat ze Scilium"
-        },
-        "records/patrons/vestia/sci": {
-            "la": "Vestia de Scillium",
-            "en": "Vestia of Scillium",
-            "pl": "Westia ze Scilium"
-        },
-        "records/patrons/veturius/sci": {
-            "la": "Veturius de Scillium",
-            "en": "Veturius of Scillium",
-            "pl": "Weturiusz ze Scilium"
-        }
-    }
+    "links": [
+        "patrons/aquilinus/sci",
+        "patrons/cittinus/sci",
+        "patrons/cyprianus/car",
+        "patrons/donata/sci",
+        "patrons/felix/sci",
+        "patrons/generosa/sci",
+        "patrons/ianuaria/sci",
+        "patrons/laetantius/sci",
+        "patrons/nartzales/sci",
+        "patrons/pantaleon/nic",
+        "patrons/secunda/sci",
+        "patrons/speratus/sci",
+        "patrons/vestia/sci",
+        "patrons/veturius/sci"
+    ]
 }

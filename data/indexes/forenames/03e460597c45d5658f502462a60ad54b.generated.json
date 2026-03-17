@@ -15,46 +15,22 @@
             "Stanisław"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/cas": {
-            "pl": "Stanisław Kazimierczyk",
-            "la": "Stanislaus Kazimierczyk",
-            "en": "Stanislaus Kazimierczyk"
-        },
-        "records/patrons/stanislaus/cra": {
-            "pl": "Stanisław ze Szczepanowa",
-            "la": "Stanislaus Cracoviensis",
-            "en": "Stanislaus of Szczepanów"
-        },
-        "records/patrons/stanislaus/kbs": {
-            "pl": "Stanisław Kubista",
-            "la": "Stanislaus Kubista",
-            "en": "Stanislaus Kubista"
-        },
-        "records/patrons/stanislaus/kos": {
-            "pl": "Stanisław Kostka",
-            "la": "Stanislaus Kostka",
-            "en": "Stanislaus Kostka"
-        },
-        "records/patrons/stanislaus/kub": {
-            "pl": "Stanisław Kubski",
-            "la": "Stanislaus Kubski",
-            "en": "Stanislaus Kubski"
-        },
-        "records/patrons/stanislaus/mys": {
-            "pl": "Stanisław Mysakowski",
-            "la": "Stanislaus Mysakowski",
-            "en": "Stanislaus Mysakowski"
-        },
-        "records/patrons/stanislaus/sta": {
-            "pl": "Stanisław Starowieyski",
-            "la": "Stanislaus Starowieyski",
-            "en": "Stanislaus Starowieyski"
-        },
-        "records/patrons/stanislaus/str": {
-            "pl": "Stanisław Streich",
-            "la": "Stanislaus Streich",
-            "en": "Stanislaus Streich"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/cas",
+        "records/patrons/stanislaus/cas",
+        "records/patrons/stanislaus/cra",
+        "records/patrons/stanislaus/cra",
+        "records/patrons/stanislaus/kbs",
+        "records/patrons/stanislaus/kbs",
+        "records/patrons/stanislaus/kos",
+        "records/patrons/stanislaus/kos",
+        "records/patrons/stanislaus/kub",
+        "records/patrons/stanislaus/kub",
+        "records/patrons/stanislaus/mys",
+        "records/patrons/stanislaus/mys",
+        "records/patrons/stanislaus/sta",
+        "records/patrons/stanislaus/sta",
+        "records/patrons/stanislaus/str",
+        "records/patrons/stanislaus/str"
+    ]
 }

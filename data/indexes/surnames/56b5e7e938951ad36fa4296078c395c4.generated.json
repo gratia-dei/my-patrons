@@ -16,12 +16,7 @@
             "Miki"
         ]
     },
-    "links": {
-        "records/patrons/paulus/mik": {
-            "ja": "パウロ三木",
-            "la": "Paulus Miki",
-            "en": "Paul Miki",
-            "pl": "Paweł Miki"
-        }
-    }
+    "links": [
+        "records/patrons/paulus/mik"
+    ]
 }

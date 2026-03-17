@@ -13,17 +13,8 @@
             "pielgrzym"
         ]
     },
-    "links": {
-        "records/patrons/richardus/per": {
-            "en": "Richard the Pilgrim",
-            "la": "Richardus Peregrinus",
-            "pl": "Ryszard z Lukki"
-        },
-        "records/patrons/rochus/per": {
-            "fr": "Roch de Montpellier",
-            "la": "Rochus, peregrinus",
-            "en": "Roch of Montpellier",
-            "pl": "Roch z Montpellier"
-        }
-    }
+    "links": [
+        "records/patrons/richardus/per",
+        "records/patrons/rochus/per"
+    ]
 }

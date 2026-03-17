@@ -7,11 +7,7 @@
             "Dulny"
         ]
     },
-    "links": {
-        "records/patrons/thaddaeus/dul": {
-            "pl": "Tadeusz Dulny",
-            "la": "Thaddaeus Dulny",
-            "en": "Thaddeus Dulny"
-        }
-    }
+    "links": [
+        "records/patrons/thaddaeus/dul"
+    ]
 }

@@ -29,59 +29,24 @@
             "André"
         ]
     },
-    "links": {
-        "records/patrons/andreas/abe": {
-            "fr": "André Abellon",
-            "la": "Andreas Abellon",
-            "en": "Andrew Abellon",
-            "pl": "Andrzej Abellon"
-        },
-        "records/patrons/andreas/alr": {
-            "fr": "André-Abel Alricy",
-            "la": "Andreas Abel Alricy",
-            "en": "Andrew Abel Alricy",
-            "pl": "Andrzej Abel Alricy"
-        },
-        "records/patrons/andreas/apo": {
-            "grc": "Ανδρέας",
-            "la": "Andreas Apostolus",
-            "en": "Andrew the Apostle",
-            "pl": "Andrzej Apostoł"
-        },
-        "records/patrons/andreas/bes": {
-            "fr": "André Bessette",
-            "la": "Andreas Bessette",
-            "en": "Andrew Bessette",
-            "pl": "Andrzej Bessette"
-        },
-        "records/patrons/andreas/bob": {
-            "pl": "Andrzej Bobola",
-            "la": "Andreas Bobola",
-            "en": "Andrew Bobola"
-        },
-        "records/patrons/andreas/cor": {
-            "it": "Andrea Corsini",
-            "la": "Andreas Corsinus",
-            "en": "Andrew Corsini",
-            "pl": "Andrzej Corsini"
-        },
-        "records/patrons/andreas/fou": {
-            "fr": "André-Hubert Fournet",
-            "la": "Andreas Hubertus Fournet",
-            "en": "Andrew Hubert Fournet",
-            "pl": "Andrzej Hubert Fournet"
-        },
-        "records/patrons/andreas/kim": {
-            "ko": "김대건 안드레아",
-            "la": "Andreas Kim Tae-gŏn",
-            "en": "Andrew Kim Taegon",
-            "pl": "Andrzej Kim Tae-gŏn"
-        },
-        "records/patrons/andreas/sov": {
-            "pt": "André de Soveral",
-            "la": "Andreas de Soveral",
-            "en": "Andrew de Soveral",
-            "pl": "Andrzej de Soveral"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/abe",
+        "records/patrons/andreas/abe",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/apo",
+        "records/patrons/andreas/apo",
+        "records/patrons/andreas/bes",
+        "records/patrons/andreas/bes",
+        "records/patrons/andreas/bob",
+        "records/patrons/andreas/bob",
+        "records/patrons/andreas/cor",
+        "records/patrons/andreas/cor",
+        "records/patrons/andreas/fou",
+        "records/patrons/andreas/fou",
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/sov",
+        "records/patrons/andreas/sov"
+    ]
 }

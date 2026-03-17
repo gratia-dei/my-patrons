@@ -7,11 +7,7 @@
             "Bartosik"
         ]
     },
-    "links": {
-        "records/patrons/pius/bar": {
-            "pl": "Pius Bartosik",
-            "la": "Pius Bartosik",
-            "en": "Pius Bartosik"
-        }
-    }
+    "links": [
+        "records/patrons/pius/bar"
+    ]
 }

@@ -17,12 +17,7 @@
             "‏אֱלִישָׁע"
         ]
     },
-    "links": {
-        "records/patrons/elisaeus/pro": {
-            "he": "‏אֱלִישָׁע",
-            "la": "Elisaeus, propheta",
-            "en": "Elisha, prophet",
-            "pl": "Elizeusz, prorok"
-        }
-    }
+    "links": [
+        "records/patrons/elisaeus/pro"
+    ]
 }

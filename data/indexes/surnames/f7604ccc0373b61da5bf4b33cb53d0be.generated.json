@@ -7,12 +7,7 @@
             "Gonxha"
         ]
     },
-    "links": {
-        "records/patrons/teresia/gon": {
-            "sq": "Tereza e Kalkutës",
-            "la": "Teresia de Calcutta",
-            "en": "Therese of Calcutta",
-            "pl": "Teresa z Kalkuty"
-        }
-    }
+    "links": [
+        "records/patrons/teresia/gon"
+    ]
 }

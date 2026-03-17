@@ -15,11 +15,9 @@
             "Generalis"
         ]
     },
-    "links": {
-        "records/patrons/generalis/car": {
-            "la": "Generalis Carthaginensis",
-            "en": "Generalis of Carthage",
-            "pl": "Generalis z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/generalis/car",
+        "records/patrons/generalis/car",
+        "records/patrons/generalis/car"
+    ]
 }

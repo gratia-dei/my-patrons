@@ -17,12 +17,8 @@
             "Filippa"
         ]
     },
-    "links": {
-        "records/patrons/philippa/mar": {
-            "it": "Filippa Mareri",
-            "la": "Philippa Mareri",
-            "en": "Philippa Mareri",
-            "pl": "Filipa Mareri"
-        }
-    }
+    "links": [
+        "records/patrons/philippa/mar",
+        "records/patrons/philippa/mar"
+    ]
 }

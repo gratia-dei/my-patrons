@@ -7,11 +7,7 @@
             "Kubista"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/kbs": {
-            "pl": "Stanisław Kubista",
-            "la": "Stanislaus Kubista",
-            "en": "Stanislaus Kubista"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/kbs"
+    ]
 }

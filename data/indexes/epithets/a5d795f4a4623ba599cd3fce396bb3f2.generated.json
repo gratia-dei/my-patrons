@@ -17,12 +17,8 @@
             "Kauleas"
         ]
     },
-    "links": {
-        "records/patrons/antonius/cau": {
-            "el": "Ἀντώνιος Καυλέας",
-            "la": "Antonius Cauleas",
-            "en": "Anthony Cauleas",
-            "pl": "Antoni Kauleas"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/cau",
+        "records/patrons/antonius/cau"
+    ]
 }

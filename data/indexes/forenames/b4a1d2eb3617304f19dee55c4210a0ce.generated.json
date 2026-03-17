@@ -14,11 +14,8 @@
             "Nikodem"
         ]
     },
-    "links": {
-        "records/patrons/nicodemus/pha": {
-            "la": "Nicodemus, Pharisaeus",
-            "en": "Nicodemus, Pharisee",
-            "pl": "Nikodem, Faryzeusz"
-        }
-    }
+    "links": [
+        "records/patrons/nicodemus/pha",
+        "records/patrons/nicodemus/pha"
+    ]
 }

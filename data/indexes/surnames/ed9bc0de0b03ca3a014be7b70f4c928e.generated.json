@@ -7,11 +7,7 @@
             "Sykulski"
         ]
     },
-    "links": {
-        "records/patrons/casimirus/syk": {
-            "pl": "Kazimierz Sykulski",
-            "la": "Casimirus Sykulski",
-            "en": "Casimir Sykulski"
-        }
-    }
+    "links": [
+        "records/patrons/casimirus/syk"
+    ]
 }

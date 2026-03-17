@@ -7,12 +7,7 @@
             "della Chiesa"
         ]
     },
-    "links": {
-        "records/patrons/antonius/chi": {
-            "it": "Antonio della Chiesa",
-            "la": "Antonius della Chiesa",
-            "en": "Anthony della Chiesa",
-            "pl": "Antoni della Chiesa"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/chi"
+    ]
 }

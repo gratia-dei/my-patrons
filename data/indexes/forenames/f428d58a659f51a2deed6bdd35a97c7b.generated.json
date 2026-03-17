@@ -14,11 +14,7 @@
             "Juwenalis"
         ]
     },
-    "links": {
-        "records/patrons/iuvenalis/nar": {
-            "la": "Iuvenalis Narniensis",
-            "en": "Juvenal of Narni",
-            "pl": "Juwenalis z Narni"
-        }
-    }
+    "links": [
+        "records/patrons/iuvenalis/nar"
+    ]
 }

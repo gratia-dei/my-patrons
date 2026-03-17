@@ -7,12 +7,7 @@
             "Vénard"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ven": {
-            "fr": "Jean-Théophane Vénard",
-            "la": "Ioannes Theophanes Vénard",
-            "en": "John Theophanes Vénard",
-            "pl": "Jan Teofan Vénard"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ven"
+    ]
 }

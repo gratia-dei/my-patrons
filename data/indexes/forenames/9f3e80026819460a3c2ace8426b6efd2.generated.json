@@ -15,11 +15,9 @@
             "Pastor"
         ]
     },
-    "links": {
-        "records/patrons/pastor/ius": {
-            "la": "Pastor Complutensis",
-            "en": "Pastor of Complutum",
-            "pl": "Pastor z Komplutum"
-        }
-    }
+    "links": [
+        "records/patrons/pastor/ius",
+        "records/patrons/pastor/ius",
+        "records/patrons/pastor/ius"
+    ]
 }

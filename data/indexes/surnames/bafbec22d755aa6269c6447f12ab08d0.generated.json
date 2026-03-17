@@ -7,12 +7,7 @@
             "Makhluf"
         ]
     },
-    "links": {
-        "records/patrons/sarbelius/mak": {
-            "ar": "شربل مخلوف",
-            "la": "Sarbelius Makhluf",
-            "en": "Charbel Makhlouf",
-            "pl": "Szarbel Makhluf"
-        }
-    }
+    "links": [
+        "records/patrons/sarbelius/mak"
+    ]
 }

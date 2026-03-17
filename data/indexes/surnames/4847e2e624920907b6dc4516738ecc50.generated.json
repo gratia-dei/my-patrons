@@ -10,11 +10,7 @@
             "Karlowska"
         ]
     },
-    "links": {
-        "records/patrons/maria/kar": {
-            "pl": "Maria Karłowska",
-            "la": "Maria Karlowska",
-            "en": "Maria Karłowska"
-        }
-    }
+    "links": [
+        "records/patrons/maria/kar"
+    ]
 }

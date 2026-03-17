@@ -14,11 +14,8 @@
             "Pramęczennik"
         ]
     },
-    "links": {
-        "records/patrons/stephanus/pro": {
-            "la": "Stephanus protomartyr",
-            "en": "Stephen Protomartyr",
-            "pl": "Szczepan Pramęczennik"
-        }
-    }
+    "links": [
+        "records/patrons/stephanus/pro",
+        "records/patrons/stephanus/pro"
+    ]
 }

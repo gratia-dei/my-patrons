@@ -13,11 +13,7 @@
             "Sekunda"
         ]
     },
-    "links": {
-        "records/patrons/secunda/sci": {
-            "la": "Secunda de Scillium",
-            "en": "Secunda of Scillium",
-            "pl": "Sekunda ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/secunda/sci"
+    ]
 }

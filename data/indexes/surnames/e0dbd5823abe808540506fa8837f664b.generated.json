@@ -7,11 +7,7 @@
             "Borowik"
         ]
     },
-    "links": {
-        "records/patrons/maria/bor": {
-            "pl": "Maria Felicyta Borowik",
-            "la": "Maria Felicitas Borowik",
-            "en": "Mary Felicity Borowik"
-        }
-    }
+    "links": [
+        "records/patrons/maria/bor"
+    ]
 }

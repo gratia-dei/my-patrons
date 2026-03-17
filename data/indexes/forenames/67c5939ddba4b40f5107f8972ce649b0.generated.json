@@ -14,11 +14,8 @@
             "Euprepiusz"
         ]
     },
-    "links": {
-        "records/patrons/euprepius/aeg": {
-            "la": "Euprepius Aegaeensis",
-            "en": "Euprepius of Aegeae",
-            "pl": "Euprepiusz z Egei"
-        }
-    }
+    "links": [
+        "records/patrons/euprepius/aeg",
+        "records/patrons/euprepius/aeg"
+    ]
 }

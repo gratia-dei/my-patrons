@@ -7,11 +7,7 @@
             "Feliński"
         ]
     },
-    "links": {
-        "records/patrons/sigismundus/fel": {
-            "pl": "Zygmunt Szczęsny Feliński",
-            "la": "Sigismundus Felix Feliński",
-            "en": "Sigismund Szczęsny Feliński"
-        }
-    }
+    "links": [
+        "records/patrons/sigismundus/fel"
+    ]
 }

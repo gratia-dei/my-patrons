@@ -14,16 +14,10 @@
             "Felicyssym"
         ]
     },
-    "links": {
-        "records/patrons/felicissimus/rog": {
-            "la": "Felicissimus Carthaginensis",
-            "en": "Felicissimus of Carthage",
-            "pl": "Felicyssym z Kartaginy"
-        },
-        "records/patrons/felicissimus/xys": {
-            "la": "Felicissimus de Roma, diaconus Xysti Pp. II",
-            "en": "Felicissimus of Rome, deacon of Xystus II",
-            "pl": "Felicyssym z Rzymu, diakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/felicissimus/rog",
+        "records/patrons/felicissimus/rog",
+        "records/patrons/felicissimus/xys",
+        "records/patrons/felicissimus/xys"
+    ]
 }

@@ -25,29 +25,22 @@
             "Albert"
         ]
     },
-    "links": {
-        "records/patrons/albertus/chm": {
-            "pl": "Albert Chmielowski",
-            "la": "Albertus Chmielowski",
-            "en": "Albert Chmielowski"
-        },
-        "records/patrons/albertus/hur": {
-            "es": "Alberto Hurtado Cruchaga",
-            "la": "Albertus Hurtado Cruchaga",
-            "en": "Albert Hurtado Cruchaga",
-            "pl": "Albert Hurtado Cruchaga"
-        },
-        "records/patrons/albertus/lov": {
-            "fr": "Albert de Louvain",
-            "la": "Albertus Lovaniensis",
-            "en": "Albert of Louvain",
-            "pl": "Albert z Louvain"
-        },
-        "records/patrons/albertus/mag": {
-            "de": "Albert der Große",
-            "la": "Albertus Magnus",
-            "en": "Albert the Great",
-            "pl": "Albert Wielki"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/chm",
+        "records/patrons/albertus/chm",
+        "records/patrons/albertus/chm",
+        "records/patrons/albertus/chm",
+        "records/patrons/albertus/hur",
+        "records/patrons/albertus/hur",
+        "records/patrons/albertus/hur",
+        "records/patrons/albertus/hur",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/mag",
+        "records/patrons/albertus/mag",
+        "records/patrons/albertus/mag",
+        "records/patrons/albertus/mag"
+    ]
 }

@@ -7,18 +7,8 @@
             "Nguyễn"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/ngu": {
-            "vi": "Giuse Nguyễn Đình Nghi",
-            "la": "Iosephus Nguyễn Đình Nghi",
-            "en": "Joseph Nguyễn Đình Nghi",
-            "pl": "Józef Nguyễn Đình Nghi"
-        },
-        "records/patrons/paulus/ngu": {
-            "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyễn Ngân",
-            "en": "Paul Nguyễn Ngân",
-            "pl": "Paweł Nguyễn Ngân"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/ngu",
+        "records/patrons/paulus/ngu"
+    ]
 }

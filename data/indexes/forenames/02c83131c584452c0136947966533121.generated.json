@@ -13,11 +13,7 @@
             "Lidia"
         ]
     },
-    "links": {
-        "records/patrons/lydia/thy": {
-            "la": "Lydia Thyatirensis",
-            "en": "Lydia of Thyatira",
-            "pl": "Lidia z Tiatyry"
-        }
-    }
+    "links": [
+        "records/patrons/lydia/thy"
+    ]
 }

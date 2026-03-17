@@ -16,12 +16,7 @@
             "Bertholdo"
         ]
     },
-    "links": {
-        "records/patrons/bertholdus/car": {
-            "it": "Bertoldo di Calabria",
-            "la": "Bertoldus de Calabria",
-            "en": "Berthold of Calabria",
-            "pl": "Bertold z Kalabrii"
-        }
-    }
+    "links": [
+        "records/patrons/bertholdus/car"
+    ]
 }

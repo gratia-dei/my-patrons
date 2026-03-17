@@ -19,18 +19,8 @@
             "Giuseppina"
         ]
     },
-    "links": {
-        "records/patrons/iosephina/bak": {
-            "ar": "جوزفين بخيتة",
-            "la": "Iosephina Bakhita",
-            "en": "Josephine Bakhita",
-            "pl": "Józefina Bakhita"
-        },
-        "records/patrons/iosephina/bon": {
-            "it": "Giuseppina Gabriella Bonino",
-            "la": "Iosephina Gabriela Bonino",
-            "en": "Josephine Gabriella Bonino",
-            "pl": "Józefina Gabriela Bonino"
-        }
-    }
+    "links": [
+        "records/patrons/iosephina/bak",
+        "records/patrons/iosephina/bon"
+    ]
 }

@@ -15,21 +15,12 @@
             "Ładysław"
         ]
     },
-    "links": {
-        "records/patrons/ladislaus/gie": {
-            "pl": "Władysław z Gielniowa",
-            "la": "Ladislaus de Gielniów",
-            "en": "Ladislaus of Gielniów"
-        },
-        "records/patrons/ladislaus/gor": {
-            "pl": "Władysław Goral",
-            "la": "Ladislaus Goral",
-            "en": "Ladislaus Goral"
-        },
-        "records/patrons/ladislaus/ulm": {
-            "pl": "Władysław Ulma",
-            "la": "Ladislaus Ulma",
-            "en": "Ladislaus Ulma"
-        }
-    }
+    "links": [
+        "records/patrons/ladislaus/gie",
+        "records/patrons/ladislaus/gie",
+        "records/patrons/ladislaus/gor",
+        "records/patrons/ladislaus/gor",
+        "records/patrons/ladislaus/ulm",
+        "records/patrons/ladislaus/ulm"
+    ]
 }

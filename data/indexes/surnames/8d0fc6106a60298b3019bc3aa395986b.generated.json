@@ -7,11 +7,7 @@
             "Guz"
         ]
     },
-    "links": {
-        "records/patrons/innocentius/guz": {
-            "pl": "Innocenty Guz",
-            "la": "Innocentius Guz",
-            "en": "Innocent Guz"
-        }
-    }
+    "links": [
+        "records/patrons/innocentius/guz"
+    ]
 }

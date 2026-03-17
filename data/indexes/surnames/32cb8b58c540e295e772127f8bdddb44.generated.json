@@ -7,11 +7,7 @@
             "Żukowski"
         ]
     },
-    "links": {
-        "records/patrons/bonifatius/zuk": {
-            "pl": "Bonifacy Żukowski",
-            "la": "Bonifatius Zukowski",
-            "en": "Boniface Zukowski"
-        }
-    }
+    "links": [
+        "records/patrons/bonifatius/zuk"
+    ]
 }

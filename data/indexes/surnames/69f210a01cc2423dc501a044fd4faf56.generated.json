@@ -7,12 +7,7 @@
             "Hofbauer"
         ]
     },
-    "links": {
-        "records/patrons/clemens/hof": {
-            "de": "Klemens Maria Hofbauer",
-            "la": "Clemens Maria Hofbauer",
-            "en": "Clement Mary Hofbauer",
-            "pl": "Klemens Maria Hofbauer"
-        }
-    }
+    "links": [
+        "records/patrons/clemens/hof"
+    ]
 }

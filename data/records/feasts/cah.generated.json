@@ -1,9 +1,5 @@
 {
-    "links": {
-        "records/patrons/augustinus/hip": {
-            "la": "Augustinus Hipponensis",
-            "en": "Augustine of Hippo",
-            "pl": "Augustyn z Hippony"
-        }
-    }
+    "links": [
+        "patrons/augustinus/hip"
+    ]
 }

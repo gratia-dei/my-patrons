@@ -10,12 +10,7 @@
             "Kibuka"
         ]
     },
-    "links": {
-        "records/patrons/ambrosius/kib": {
-            "sw": "Ambrosio Kibuuka",
-            "la": "Ambrosius Kibuuka",
-            "en": "Ambrose Kibuuka",
-            "pl": "Ambroży Kibuuka"
-        }
-    }
+    "links": [
+        "records/patrons/ambrosius/kib"
+    ]
 }

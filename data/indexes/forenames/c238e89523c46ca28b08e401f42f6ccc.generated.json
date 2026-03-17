@@ -14,11 +14,7 @@
             "Bezas"
         ]
     },
-    "links": {
-        "records/patrons/besas/ale": {
-            "la": "Besas Alexandrinus",
-            "en": "Besas of Alexandria",
-            "pl": "Bezas z Aleksandrii"
-        }
-    }
+    "links": [
+        "records/patrons/besas/ale"
+    ]
 }

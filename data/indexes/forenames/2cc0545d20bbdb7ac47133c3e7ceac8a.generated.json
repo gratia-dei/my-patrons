@@ -18,12 +18,8 @@
             "Riquier"
         ]
     },
-    "links": {
-        "records/patrons/richarius/cen": {
-            "fr": "Riquier de Centule",
-            "la": "Richarius Centulensis",
-            "en": "Richarius of Centula",
-            "pl": "Richariusz z Centuli"
-        }
-    }
+    "links": [
+        "records/patrons/richarius/cen",
+        "records/patrons/richarius/cen"
+    ]
 }

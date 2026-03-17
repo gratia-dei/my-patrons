@@ -7,11 +7,7 @@
             "Komorowski"
         ]
     },
-    "links": {
-        "records/patrons/bronislaus/kom": {
-            "pl": "Bronisław Komorowski",
-            "la": "Bronislaus Komorowski",
-            "en": "Bronislaus Komorowski"
-        }
-    }
+    "links": [
+        "records/patrons/bronislaus/kom"
+    ]
 }

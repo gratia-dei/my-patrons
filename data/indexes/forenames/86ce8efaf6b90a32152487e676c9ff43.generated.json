@@ -17,17 +17,10 @@
             "Dorothea"
         ]
     },
-    "links": {
-        "records/patrons/dorothea/cae": {
-            "la": "Dorothea de Caesarea",
-            "en": "Dorothy of Caesarea",
-            "pl": "Dorota z Cezarei"
-        },
-        "records/patrons/dorothea/mon": {
-            "de": "Dorothea von Montau",
-            "la": "Dorothea Montoviensis",
-            "en": "Dorothy of Montau",
-            "pl": "Dorota z Mątowów"
-        }
-    }
+    "links": [
+        "records/patrons/dorothea/cae",
+        "records/patrons/dorothea/cae",
+        "records/patrons/dorothea/mon",
+        "records/patrons/dorothea/mon"
+    ]
 }

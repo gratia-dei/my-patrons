@@ -7,11 +7,7 @@
             "Matuszewska"
         ]
     },
-    "links": {
-        "records/patrons/maria/mat": {
-            "pl": "Maria Heliodora Matuszewska",
-            "la": "Maria Heliodora Matuszewska",
-            "en": "Mary Heliodora Matuszewska"
-        }
-    }
+    "links": [
+        "records/patrons/maria/mat"
+    ]
 }

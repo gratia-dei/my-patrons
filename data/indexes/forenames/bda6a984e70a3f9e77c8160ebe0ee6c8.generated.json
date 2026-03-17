@@ -18,11 +18,8 @@
             "Achacy"
         ]
     },
-    "links": {
-        "records/patrons/acacius/mel": {
-            "la": "Acacius Melitenensis",
-            "en": "Acathius of Melitene",
-            "pl": "Achacjusz z Melitene"
-        }
-    }
+    "links": [
+        "records/patrons/acacius/mel",
+        "records/patrons/acacius/mel"
+    ]
 }

@@ -16,22 +16,9 @@
             "Cesario"
         ]
     },
-    "links": {
-        "records/patrons/caesarius/are": {
-            "la": "Caesarius Arelatensis",
-            "en": "Caesarius of Arles",
-            "pl": "Cezary z Arles"
-        },
-        "records/patrons/caesarius/naz": {
-            "la": "Caesarius Nazianzenus",
-            "en": "Caesarius of Nazianzus",
-            "pl": "Cezary z Nazjanzu"
-        },
-        "records/patrons/caesarius/tar": {
-            "it": "Cesario di Terracina",
-            "la": "Caesarius Terracinensis",
-            "en": "Caesarius of Terracina",
-            "pl": "Cezary z Terraciny"
-        }
-    }
+    "links": [
+        "records/patrons/caesarius/are",
+        "records/patrons/caesarius/naz",
+        "records/patrons/caesarius/tar"
+    ]
 }

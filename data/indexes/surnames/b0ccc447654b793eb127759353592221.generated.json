@@ -7,12 +7,7 @@
             "de Veuster"
         ]
     },
-    "links": {
-        "records/patrons/damianus/veu": {
-            "nl": "Damiaan de Veuster",
-            "la": "Damianus de Veuster",
-            "en": "Damian de Veuster",
-            "pl": "Damian de Veuster"
-        }
-    }
+    "links": [
+        "records/patrons/damianus/veu"
+    ]
 }

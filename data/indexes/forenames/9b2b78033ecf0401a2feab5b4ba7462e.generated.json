@@ -24,18 +24,16 @@
             "Bruno"
         ]
     },
-    "links": {
-        "records/patrons/bruno/ere": {
-            "de": "Bruno von Köln",
-            "la": "Bruno Cartusiensis",
-            "en": "Bruno of Cologne",
-            "pl": "Bruno Kartuz"
-        },
-        "records/patrons/bruno/ser": {
-            "sw": "Bruno Sserunkuma",
-            "la": "Bruno Seronuma",
-            "en": "Bruno Sserunkuma",
-            "pl": "Bruno Sserunkuma"
-        }
-    }
+    "links": [
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ere",
+        "records/patrons/bruno/ser",
+        "records/patrons/bruno/ser",
+        "records/patrons/bruno/ser",
+        "records/patrons/bruno/ser",
+        "records/patrons/bruno/ser"
+    ]
 }

@@ -17,17 +17,8 @@
             "Alfonso"
         ]
     },
-    "links": {
-        "records/patrons/alphonsus/lig": {
-            "it": "Alfonso Maria de' Liguori",
-            "en": "Alphonsus Maria Liguori",
-            "la": "Alphonsus Maria a Ligorio",
-            "pl": "Alfons Maria Liguori"
-        },
-        "records/patrons/alphonsus/maz": {
-            "pl": "Alfons Maria Mazurek",
-            "la": "Alphonsus Maria Mazurek",
-            "en": "Alphonsus Maria Mazurek"
-        }
-    }
+    "links": [
+        "records/patrons/alphonsus/lig",
+        "records/patrons/alphonsus/maz"
+    ]
 }

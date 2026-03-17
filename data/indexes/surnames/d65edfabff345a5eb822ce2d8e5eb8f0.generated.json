@@ -7,11 +7,7 @@
             "Hambley"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ham": {
-            "en": "John Hambley",
-            "la": "Ioannes Hambley",
-            "pl": "Jan Hambley"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ham"
+    ]
 }

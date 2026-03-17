@@ -14,11 +14,7 @@
             "Sprawiedliwy"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/min": {
-            "la": "Iacobus Minor Apostolus",
-            "en": "James the Less Apostle",
-            "pl": "Jakub Mniejszy Apostoł"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/min"
+    ]
 }

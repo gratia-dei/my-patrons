@@ -7,12 +7,7 @@
             "Caloca"
         ]
     },
-    "links": {
-        "records/patrons/augustinus/cal": {
-            "es": "Agustín Caloca Cortés",
-            "la": "Augustinus Caloca Cortés",
-            "en": "Augustine Caloca Cortés",
-            "pl": "Augustyn Caloca Cortés"
-        }
-    }
+    "links": [
+        "records/patrons/augustinus/cal"
+    ]
 }

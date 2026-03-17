@@ -13,24 +13,9 @@
             "rolnik"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/con": {
-            "vi": "Gioan Baotixita Cỏn",
-            "la": "Ioannes Baptista Cỏn",
-            "en": "John Baptist Cỏn",
-            "pl": "Jan Chrzciciel Cỏn"
-        },
-        "records/patrons/iosephus/tua": {
-            "vi": "Giuse Trần Văn Tuấn",
-            "la": "Iosephus Trần Văn Tuấn",
-            "en": "Jóseph Trần Văn Tuấn",
-            "pl": "Józef Trần Văn Tuấn"
-        },
-        "records/patrons/martinus/tho": {
-            "vi": "Martinô Thọ",
-            "la": "Martinus Thọ",
-            "en": "Martin Thọ",
-            "pl": "Marcin Thọ"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/con",
+        "records/patrons/iosephus/tua",
+        "records/patrons/martinus/tho"
+    ]
 }

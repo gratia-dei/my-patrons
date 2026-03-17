@@ -13,67 +13,17 @@
             "król"
         ]
     },
-    "links": {
-        "records/god/fil": {
-            "arc": "ܝܫܘܥ",
-            "la": "Iesus Christus",
-            "en": "Jesus Christ",
-            "pl": "Jezus Chrystus"
-        },
-        "records/patrons/david/rex": {
-            "he": "דָּוִד בֶּן יִשַׁי",
-            "la": "David, rex",
-            "en": "David, king",
-            "pl": "Dawid, król"
-        },
-        "records/patrons/eduardus/con": {
-            "en": "Edward the Confessor",
-            "la": "Eduardus Confessor",
-            "pl": "Edward Wyznawca"
-        },
-        "records/patrons/eduardus/rex": {
-            "en": "Edward the Martyr",
-            "la": "Eduardus Martyr",
-            "pl": "Edward Męczennik"
-        },
-        "records/patrons/gunthramnus/rex": {
-            "fr": "Gontran, roi des Francs",
-            "la": "Gunthramnus, rex Francorum",
-            "en": "Guntram, Frankish king",
-            "pl": "Guntram, król Franków"
-        },
-        "records/patrons/ioannes/rib": {
-            "es": "Juan de Ribera",
-            "la": "Ioannes de Ribera",
-            "en": "John de Ribera",
-            "pl": "Jan de Ribera"
-        },
-        "records/patrons/lucius/cur": {
-            "la": "Lucius de Curiae Rhaetorum",
-            "en": "Lucius of Chur",
-            "pl": "Lucjusz z Chur"
-        },
-        "records/patrons/ludovicus/rex": {
-            "fr": "Louis IX, roi de France",
-            "la": "Ludovicus IX, rex Franciae",
-            "en": "Louis IX, king of France",
-            "pl": "Ludwik IX, król Francji"
-        },
-        "records/patrons/oswaldus/nor": {
-            "en": "Oswald of Northumbria",
-            "la": "Oswaldus rex Northumbriae",
-            "pl": "Oswald z Nortumbrii"
-        },
-        "records/patrons/richardus/per": {
-            "en": "Richard the Pilgrim",
-            "la": "Richardus Peregrinus",
-            "pl": "Ryszard z Lukki"
-        },
-        "records/patrons/sigismundus/rex": {
-            "fr": "Sigismond, roi des Burgondes",
-            "la": "Sigismundus, rex Burgundiae",
-            "en": "Sigismund of Burgundy",
-            "pl": "Zygmunt z Burgundii"
-        }
-    }
+    "links": [
+        "records/god/fil",
+        "records/patrons/david/rex",
+        "records/patrons/eduardus/con",
+        "records/patrons/eduardus/rex",
+        "records/patrons/gunthramnus/rex",
+        "records/patrons/ioannes/rib",
+        "records/patrons/lucius/cur",
+        "records/patrons/ludovicus/rex",
+        "records/patrons/oswaldus/nor",
+        "records/patrons/richardus/per",
+        "records/patrons/sigismundus/rex"
+    ]
 }

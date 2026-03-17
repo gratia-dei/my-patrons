@@ -16,17 +16,8 @@
             "Neuvième"
         ]
     },
-    "links": {
-        "records/patrons/leo/9pp": {
-            "la": "Leo IX",
-            "en": "Leo IX",
-            "pl": "Leon IX"
-        },
-        "records/patrons/ludovicus/rex": {
-            "fr": "Louis IX, roi de France",
-            "la": "Ludovicus IX, rex Franciae",
-            "en": "Louis IX, king of France",
-            "pl": "Ludwik IX, król Francji"
-        }
-    }
+    "links": [
+        "records/patrons/leo/9pp",
+        "records/patrons/ludovicus/rex"
+    ]
 }

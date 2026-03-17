@@ -13,17 +13,8 @@
             "inny apostoł"
         ]
     },
-    "links": {
-        "records/patrons/barnabas/apo": {
-            "la": "Barnabas Apostolus",
-            "en": "Barnabas the Apostle",
-            "pl": "Barnaba Apostoł"
-        },
-        "records/patrons/paulus/apo": {
-            "he": "שָׁאוּל התרס",
-            "la": "Paulus Tersensis",
-            "en": "Paul of Tarsus",
-            "pl": "Paweł z Tarsu"
-        }
-    }
+    "links": [
+        "records/patrons/barnabas/apo",
+        "records/patrons/paulus/apo"
+    ]
 }

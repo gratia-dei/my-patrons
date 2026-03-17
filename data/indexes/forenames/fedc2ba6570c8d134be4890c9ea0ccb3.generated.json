@@ -17,12 +17,7 @@
             "Κήρυκος"
         ]
     },
-    "links": {
-        "records/patrons/quiricus/iul": {
-            "el": "Κυρίκος ο Ταρσεύς",
-            "la": "Quiricus Tarsensis",
-            "en": "Cyricus of Tarsus",
-            "pl": "Cyryk z Tarsu"
-        }
-    }
+    "links": [
+        "records/patrons/quiricus/iul"
+    ]
 }

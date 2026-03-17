@@ -7,12 +7,7 @@
             "Jogues"
         ]
     },
-    "links": {
-        "records/patrons/isaac/jog": {
-            "fr": "Isaac Jogues",
-            "la": "Isaac Jogues",
-            "en": "Isaac Jogues",
-            "pl": "Izaak Jogues"
-        }
-    }
+    "links": [
+        "records/patrons/isaac/jog"
+    ]
 }

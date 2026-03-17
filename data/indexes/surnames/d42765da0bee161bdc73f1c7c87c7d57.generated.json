@@ -7,12 +7,7 @@
             "Méndez"
         ]
     },
-    "links": {
-        "records/patrons/iesus/men": {
-            "es": "Jesús Méndez Montoya",
-            "la": "Iesus Mendez Montoya",
-            "en": "Jesus Mendez Montoya",
-            "pl": "Jezus Mendez Montoya"
-        }
-    }
+    "links": [
+        "records/patrons/iesus/men"
+    ]
 }

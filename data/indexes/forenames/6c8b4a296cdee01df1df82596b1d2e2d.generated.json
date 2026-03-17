@@ -18,12 +18,9 @@
             "Benedicta"
         ]
     },
-    "links": {
-        "records/patrons/teresia/ste": {
-            "de": "Therese Benedicta vom Kreuz",
-            "la": "Teresia Benedicta a Cruce",
-            "en": "Therese Benedicta of the Cross",
-            "pl": "Teresa Benedykta od Krzyża"
-        }
-    }
+    "links": [
+        "records/patrons/teresia/ste",
+        "records/patrons/teresia/ste",
+        "records/patrons/teresia/ste"
+    ]
 }

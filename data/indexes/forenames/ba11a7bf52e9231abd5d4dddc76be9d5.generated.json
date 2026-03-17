@@ -14,16 +14,10 @@
             "Narcyz"
         ]
     },
-    "links": {
-        "records/patrons/narcissus/put": {
-            "pl": "Narcyz Putz",
-            "la": "Narcissus Putz",
-            "en": "Narcissus Putz"
-        },
-        "records/patrons/narcissus/tur": {
-            "pl": "Narcyz Turchan",
-            "la": "Narcissus Turchan",
-            "en": "Narcissus Turchan"
-        }
-    }
+    "links": [
+        "records/patrons/narcissus/put",
+        "records/patrons/narcissus/put",
+        "records/patrons/narcissus/tur",
+        "records/patrons/narcissus/tur"
+    ]
 }

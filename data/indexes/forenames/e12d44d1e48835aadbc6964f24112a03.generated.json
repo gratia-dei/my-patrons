@@ -19,52 +19,14 @@
             "Phaolô"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/p1p": {
-            "it": "Giovanni Paolo I",
-            "la": "Ioannes Paulus Pp. I",
-            "en": "John Paul I",
-            "pl": "Jan Paweł I"
-        },
-        "records/patrons/ioannes/p2p": {
-            "pl": "Jan Paweł II",
-            "la": "Ioannes Paulus Pp. II",
-            "en": "John Paul II"
-        },
-        "records/patrons/paulus/apo": {
-            "he": "שָׁאוּל התרס",
-            "la": "Paulus Tersensis",
-            "en": "Paul of Tarsus",
-            "pl": "Paweł z Tarsu"
-        },
-        "records/patrons/paulus/con": {
-            "la": "Paulus Constantinopolitanus",
-            "en": "Paul of Constantinople",
-            "pl": "Paweł z Bizancjum"
-        },
-        "records/patrons/paulus/iba": {
-            "ja": "パウロ茨木",
-            "la": "Paulus Ibaraki",
-            "en": "Paul Ibaraki",
-            "pl": "Paweł Ibaraki"
-        },
-        "records/patrons/paulus/mik": {
-            "ja": "パウロ三木",
-            "la": "Paulus Miki",
-            "en": "Paul Miki",
-            "pl": "Paweł Miki"
-        },
-        "records/patrons/paulus/ngu": {
-            "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyễn Ngân",
-            "en": "Paul Nguyễn Ngân",
-            "pl": "Paweł Nguyễn Ngân"
-        },
-        "records/patrons/paulus/suz": {
-            "ja": "パウロ鈴木",
-            "la": "Paulus Suzuki",
-            "en": "Paul Suzuki",
-            "pl": "Paweł Suzuki"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/p1p",
+        "records/patrons/ioannes/p2p",
+        "records/patrons/paulus/apo",
+        "records/patrons/paulus/con",
+        "records/patrons/paulus/iba",
+        "records/patrons/paulus/mik",
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/suz"
+    ]
 }

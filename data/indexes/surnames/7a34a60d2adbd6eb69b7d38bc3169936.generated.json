@@ -7,12 +7,7 @@
             "Quinzani"
         ]
     },
-    "links": {
-        "records/patrons/stephana/qui": {
-            "it": "Stefana Quinzani",
-            "la": "Stefana Quinzani",
-            "en": "Stephanie Quinzani",
-            "pl": "Stefania Quinzani"
-        }
-    }
+    "links": [
+        "records/patrons/stephana/qui"
+    ]
 }

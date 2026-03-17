@@ -7,11 +7,7 @@
             "Frąckowiak"
         ]
     },
-    "links": {
-        "records/patrons/gregorius/fra": {
-            "pl": "Grzegorz Frąckowiak",
-            "la": "Gregorius Frąckowiak",
-            "en": "Gregory Frąckowiak"
-        }
-    }
+    "links": [
+        "records/patrons/gregorius/fra"
+    ]
 }

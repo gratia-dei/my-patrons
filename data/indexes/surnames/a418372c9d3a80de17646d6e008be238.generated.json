@@ -7,11 +7,7 @@
             "Pelczar"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar",
-            "en": "Joseph Sebastian Pelczar"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/pel"
+    ]
 }

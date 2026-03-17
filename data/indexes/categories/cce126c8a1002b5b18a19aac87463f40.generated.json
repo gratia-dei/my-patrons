@@ -14,29 +14,10 @@
             "mniszka"
         ]
     },
-    "links": {
-        "records/patrons/athanasia/aeg": {
-            "el": "Αθανασία της Αιγίνης",
-            "la": "Athanasia de Aegina",
-            "en": "Athanasia of Aegina",
-            "pl": "Atanazja z Eginy"
-        },
-        "records/patrons/hyacintha/mar": {
-            "it": "Giacinta Marescotti",
-            "la": "Hyacintha Mariscotti",
-            "en": "Hyacintha Mariscotti",
-            "pl": "Hiacynta Mariscotti"
-        },
-        "records/patrons/kinga/cun": {
-            "pl": "Kinga Węgierska",
-            "la": "Kinga seu Cunegundis",
-            "en": "Kinga of Poland"
-        },
-        "records/patrons/rita/cas": {
-            "it": "Rita da Cascia",
-            "la": "Rita de Cassia",
-            "en": "Rita of Cascia",
-            "pl": "Rita z Cascii"
-        }
-    }
+    "links": [
+        "records/patrons/athanasia/aeg",
+        "records/patrons/hyacintha/mar",
+        "records/patrons/kinga/cun",
+        "records/patrons/rita/cas"
+    ]
 }

@@ -15,11 +15,8 @@
             "Beatrycze"
         ]
     },
-    "links": {
-        "records/patrons/viatrix/sim": {
-            "la": "Viatrix, cum ea, i.a., Simplicius",
-            "en": "Viatrice; with her, i.a., Simplicius",
-            "pl": "Beatrycze; z nią, m.in. Symplicjusz"
-        }
-    }
+    "links": [
+        "records/patrons/viatrix/sim",
+        "records/patrons/viatrix/sim"
+    ]
 }

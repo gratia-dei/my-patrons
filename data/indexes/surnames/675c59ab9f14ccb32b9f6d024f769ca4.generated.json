@@ -7,12 +7,7 @@
             "Fernandes"
         ]
     },
-    "links": {
-        "records/patrons/bartholomaeus/fer": {
-            "pt": "Bartolomeu dos Mártires",
-            "la": "Bartholomaeus a Martyribus Fernandes",
-            "en": "Bartholomew of the Martyrs",
-            "pl": "Bartłomiej Fernandes od Męczenników"
-        }
-    }
+    "links": [
+        "records/patrons/bartholomaeus/fer"
+    ]
 }

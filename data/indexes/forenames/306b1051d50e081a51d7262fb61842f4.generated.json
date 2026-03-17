@@ -14,11 +14,7 @@
             "Just"
         ]
     },
-    "links": {
-        "records/patrons/iustus/pas": {
-            "la": "Iustus Complutensis",
-            "en": "Justus of Complutum",
-            "pl": "Just z Komplutum"
-        }
-    }
+    "links": [
+        "records/patrons/iustus/pas"
+    ]
 }

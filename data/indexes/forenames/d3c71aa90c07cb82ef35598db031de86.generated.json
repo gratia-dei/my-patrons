@@ -13,11 +13,7 @@
             "Pafnucy"
         ]
     },
-    "links": {
-        "records/patrons/paphnutius/epi": {
-            "la": "Paphnutius Thebanus",
-            "en": "Paphnutius of Thebes",
-            "pl": "Pafnucy z Tebaidy"
-        }
-    }
+    "links": [
+        "records/patrons/paphnutius/epi"
+    ]
 }

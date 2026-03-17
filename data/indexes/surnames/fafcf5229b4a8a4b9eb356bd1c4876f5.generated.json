@@ -7,11 +7,7 @@
             "Bilczewski"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/bil": {
-            "pl": "Józef Bilczewski",
-            "la": "Iosephus Bilczewski",
-            "en": "Joseph Bilczewski"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/bil"
+    ]
 }

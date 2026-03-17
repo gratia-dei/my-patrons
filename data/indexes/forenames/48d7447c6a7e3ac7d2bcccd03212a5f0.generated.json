@@ -16,35 +16,11 @@
             "Pio"
         ]
     },
-    "links": {
-        "records/patrons/pius/10p": {
-            "it": "Pio X",
-            "la": "Pius X",
-            "en": "Pius X",
-            "pl": "Pius X"
-        },
-        "records/patrons/pius/5pp": {
-            "it": "Pio V",
-            "la": "Pius Pp. V",
-            "en": "Pope Pius V",
-            "pl": "Pius V"
-        },
-        "records/patrons/pius/bar": {
-            "pl": "Pius Bartosik",
-            "la": "Pius Bartosik",
-            "en": "Pius Bartosik"
-        },
-        "records/patrons/pius/cam": {
-            "it": "Pio di San Luigi",
-            "la": "Pius a Sancto Aloysio",
-            "en": "Pius of Saint Aloysius",
-            "pl": "Pius od św. Alojzego"
-        },
-        "records/patrons/pius/pie": {
-            "it": "Pio da Pietrelcina",
-            "la": "Pius de Pietrelcina",
-            "en": "Pio of Pietrelcina",
-            "pl": "Pio z Pietrelciny"
-        }
-    }
+    "links": [
+        "records/patrons/pius/10p",
+        "records/patrons/pius/5pp",
+        "records/patrons/pius/bar",
+        "records/patrons/pius/cam",
+        "records/patrons/pius/pie"
+    ]
 }

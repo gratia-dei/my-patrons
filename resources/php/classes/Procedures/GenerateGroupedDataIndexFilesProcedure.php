@@ -16,7 +16,7 @@ class GenerateGroupedDataIndexFilesProcedure extends Procedure
 
     private $recordsData = [];
 
-    public function run(string $dataPath, string $dataField, string $namesField, string $destinationPath): void
+    public function run(string $dataPath, string $dataField, string $destinationPath): void
     {
         $rootPath = $this->getFullDataPath($dataPath);
         $fullDataPath = $this->getPath()->getDataPath();
@@ -37,12 +37,6 @@ class GenerateGroupedDataIndexFilesProcedure extends Procedure
             $fileData = $this->getOriginalJsonFileContentArrayForFullPath($fullSourceFilePath);
             $fieldData = $fileData[$dataField] ?? [];
 
-            $namesData = $fileData[$namesField] ?? null;
-            if (is_null($namesData)) {
-                $this->error("Field '$namesField' cannot be null for path '$fullSourceFilePath'");
-            }
-            $sourceObjectNames = $this->getAllMainLanguageValues($namesData);
-
             $dataConversionMethod = self::DATA_CONVERSION_METHODS[$dataField] ?? null;
             if (!is_null($dataConversionMethod)) {
                 $fieldData = $this->$dataConversionMethod($dataField, $fieldData, $fullSourceFilePath);
@@ -60,7 +54,7 @@ class GenerateGroupedDataIndexFilesProcedure extends Procedure
 
                     foreach ($names as $name) {
                         $sourceObjectUrl = str_replace([$fullDataPath, self::DATA_FILE_EXTENSION], '', $fullSourceFilePath);
-                        $this->saveGroupedDataIndexFile($sourceObjectUrl, $sourceObjectNames, $destinationPath, $language, $name, $row);
+                        $this->saveGroupedDataIndexFile($sourceObjectUrl, $destinationPath, $language, $name, $row);
                     }
                 }
             }
@@ -96,7 +90,6 @@ class GenerateGroupedDataIndexFilesProcedure extends Procedure
 
     private function saveGroupedDataIndexFile(
         string $sourceObjectUrl,
-        array $sourceObjectNames,
         string $destinationPath,
         string $language,
         string $name,
@@ -121,7 +114,7 @@ class GenerateGroupedDataIndexFilesProcedure extends Procedure
                 }
             }
         }
-        $fileData[self::FIELD_LINKS][$sourceObjectUrl] = $sourceObjectNames;
+        $fileData[self::FIELD_LINKS][] = $sourceObjectUrl;
 
         $this->setJsonFileContentFromArray($fullDestinationFilePath, $fileData);
     }

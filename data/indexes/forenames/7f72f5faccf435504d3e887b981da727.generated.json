@@ -15,11 +15,9 @@
             "Festus"
         ]
     },
-    "links": {
-        "records/patrons/festus/ben": {
-            "la": "Festus Beneventanus",
-            "en": "Festus of Benevento",
-            "pl": "Festus z Benewentu"
-        }
-    }
+    "links": [
+        "records/patrons/festus/ben",
+        "records/patrons/festus/ben",
+        "records/patrons/festus/ben"
+    ]
 }

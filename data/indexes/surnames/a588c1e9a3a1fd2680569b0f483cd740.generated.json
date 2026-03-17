@@ -7,12 +7,7 @@
             "Okelo"
         ]
     },
-    "links": {
-        "records/patrons/david/oke": {
-            "sw": "Daudi Okelo",
-            "la": "David Okelo",
-            "en": "David Okelo",
-            "pl": "Dawid Okelo"
-        }
-    }
+    "links": [
+        "records/patrons/david/oke"
+    ]
 }

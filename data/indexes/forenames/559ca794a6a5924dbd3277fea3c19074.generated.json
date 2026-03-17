@@ -14,11 +14,7 @@
             "Jozafat"
         ]
     },
-    "links": {
-        "records/patrons/iosaphat/kun": {
-            "pl": "Jozafat Kuncewicz",
-            "la": "Iosaphat Kuncewicz",
-            "en": "Josaphat Kuntsevych"
-        }
-    }
+    "links": [
+        "records/patrons/iosaphat/kun"
+    ]
 }

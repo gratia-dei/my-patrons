@@ -14,11 +14,7 @@
             "Cyriniusz"
         ]
     },
-    "links": {
-        "records/patrons/cyrinius/mar": {
-            "la": "Cyrinius de Roma",
-            "en": "Cyrinius of Rome",
-            "pl": "Cyriniusz z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/cyrinius/mar"
+    ]
 }

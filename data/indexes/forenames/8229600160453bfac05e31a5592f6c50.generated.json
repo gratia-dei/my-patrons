@@ -20,18 +20,8 @@
             "Gertrudis"
         ]
     },
-    "links": {
-        "records/patrons/gertrudis/com": {
-            "it": "Geltrude Comensoli",
-            "la": "Gertrudis Comensoli",
-            "en": "Gertrude Comensoli",
-            "pl": "Gertruda Comensoli"
-        },
-        "records/patrons/gertrudis/niv": {
-            "nl": "Gertrudis van Nijvel",
-            "la": "Gertrudis Nivigellensis",
-            "en": "Gertrude of Nivelles",
-            "pl": "Gertruda z Nivelles"
-        }
-    }
+    "links": [
+        "records/patrons/gertrudis/com",
+        "records/patrons/gertrudis/niv"
+    ]
 }

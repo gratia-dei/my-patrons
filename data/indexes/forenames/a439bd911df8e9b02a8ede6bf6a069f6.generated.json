@@ -16,22 +16,9 @@
             "Alessandro"
         ]
     },
-    "links": {
-        "records/patrons/alexander/ale": {
-            "la": "Alexander Alexandrinus",
-            "en": "Alexander of Alexandria",
-            "pl": "Aleksander z Aleksandrii"
-        },
-        "records/patrons/alexander/dor": {
-            "it": "Alessandro Dordi",
-            "la": "Alexander Dordi",
-            "en": "Alexander Dordi",
-            "pl": "Aleksander Dordi"
-        },
-        "records/patrons/alexander/fel": {
-            "la": "Alexander; cum eo, i.a., Felix; tamquam Septem Fratres",
-            "en": "Alexander; with him, i.a., Felix; as Seven Brothers",
-            "pl": "Aleksander; z nim, m.in., Feliks; jako Siedmiu Braci"
-        }
-    }
+    "links": [
+        "records/patrons/alexander/ale",
+        "records/patrons/alexander/dor",
+        "records/patrons/alexander/fel"
+    ]
 }

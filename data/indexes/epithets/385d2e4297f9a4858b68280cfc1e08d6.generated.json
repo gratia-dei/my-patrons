@@ -7,11 +7,7 @@
             "Kadłubek"
         ]
     },
-    "links": {
-        "records/patrons/vincentius/kad": {
-            "pl": "Wincenty Kadłubek",
-            "la": "Vincentius Kadlubek",
-            "en": "Vincent Kadłubek"
-        }
-    }
+    "links": [
+        "records/patrons/vincentius/kad"
+    ]
 }

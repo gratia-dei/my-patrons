@@ -7,12 +7,7 @@
             "de Las Casas"
         ]
     },
-    "links": {
-        "records/patrons/philippus/las": {
-            "es": "Felipe de Jesús de Las Casas",
-            "la": "Philippus a Iesu de Las Casas",
-            "en": "Philip of Jesus de Las Casas",
-            "pl": "Filip od Jezusa de Las Casas"
-        }
-    }
+    "links": [
+        "records/patrons/philippus/las"
+    ]
 }

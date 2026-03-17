@@ -7,12 +7,7 @@
             "Ebner"
         ]
     },
-    "links": {
-        "records/patrons/margarita/ebn": {
-            "de": "Margareta Ebner",
-            "la": "Margarita Ebner",
-            "en": "Margaret Ebner",
-            "pl": "Małgorzata Ebner"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/ebn"
+    ]
 }

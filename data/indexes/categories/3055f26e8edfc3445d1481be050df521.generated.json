@@ -13,12 +13,7 @@
             "prorokini"
         ]
     },
-    "links": {
-        "records/patrons/anna/pro": {
-            "he": "חנה, הנביאה",
-            "la": "Anna, prophetissa",
-            "en": "Anna, the Prophetess",
-            "pl": "Anna, prorokini"
-        }
-    }
+    "links": [
+        "records/patrons/anna/pro"
+    ]
 }

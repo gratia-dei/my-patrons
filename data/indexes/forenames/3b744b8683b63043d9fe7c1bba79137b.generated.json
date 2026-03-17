@@ -14,11 +14,8 @@
             "Erazm"
         ]
     },
-    "links": {
-        "records/patrons/erasmus/for": {
-            "la": "Erasmus de Formia",
-            "en": "Erasmus of Formia",
-            "pl": "Erazm z Formii"
-        }
-    }
+    "links": [
+        "records/patrons/erasmus/for",
+        "records/patrons/erasmus/for"
+    ]
 }

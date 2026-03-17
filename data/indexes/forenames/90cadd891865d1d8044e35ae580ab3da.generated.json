@@ -15,11 +15,9 @@
             "Gamaliel"
         ]
     },
-    "links": {
-        "records/patrons/gamaliel/hie": {
-            "la": "Gamaliel Hierosolymitanus",
-            "en": "Gamaliel of Jerusalem",
-            "pl": "Gamaliel z Jerozolimy"
-        }
-    }
+    "links": [
+        "records/patrons/gamaliel/hie",
+        "records/patrons/gamaliel/hie",
+        "records/patrons/gamaliel/hie"
+    ]
 }

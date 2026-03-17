@@ -7,11 +7,7 @@
             "Garnet"
         ]
     },
-    "links": {
-        "records/patrons/thomas/gar": {
-            "en": "Thomas Garnet",
-            "la": "Thomas Garnet",
-            "pl": "Tomasz Garnet"
-        }
-    }
+    "links": [
+        "records/patrons/thomas/gar"
+    ]
 }

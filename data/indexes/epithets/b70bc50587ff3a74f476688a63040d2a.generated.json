@@ -16,12 +16,7 @@
             "Bakhita"
         ]
     },
-    "links": {
-        "records/patrons/iosephina/bak": {
-            "ar": "جوزفين بخيتة",
-            "la": "Iosephina Bakhita",
-            "en": "Josephine Bakhita",
-            "pl": "Józefina Bakhita"
-        }
-    }
+    "links": [
+        "records/patrons/iosephina/bak"
+    ]
 }

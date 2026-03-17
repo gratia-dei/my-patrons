@@ -17,27 +17,14 @@
             "レオン"
         ]
     },
-    "links": {
-        "records/patrons/leo/1pp": {
-            "la": "Leo I Magnus",
-            "en": "Leo I the Great",
-            "pl": "Leon I Wielki"
-        },
-        "records/patrons/leo/9pp": {
-            "la": "Leo IX",
-            "en": "Leo IX",
-            "pl": "Leon IX"
-        },
-        "records/patrons/leo/kar": {
-            "ja": "レオン烏丸",
-            "la": "Leo Karasuma",
-            "en": "Leo Karasuma",
-            "pl": "Leon Karasuma"
-        },
-        "records/patrons/leo/now": {
-            "pl": "Leon Nowakowski",
-            "en": "Leon Nowakowski",
-            "la": "Leo Nowakowski"
-        }
-    }
+    "links": [
+        "records/patrons/leo/1pp",
+        "records/patrons/leo/1pp",
+        "records/patrons/leo/9pp",
+        "records/patrons/leo/9pp",
+        "records/patrons/leo/kar",
+        "records/patrons/leo/kar",
+        "records/patrons/leo/now",
+        "records/patrons/leo/now"
+    ]
 }

@@ -14,11 +14,7 @@
             "Miłość"
         ]
     },
-    "links": {
-        "records/patrons/caritas/rom": {
-            "la": "Caritas de Roma",
-            "en": "Charity of Rome",
-            "pl": "Miłość z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/caritas/rom"
+    ]
 }

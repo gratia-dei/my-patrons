@@ -13,11 +13,7 @@
             "Włodzimierz"
         ]
     },
-    "links": {
-        "records/patrons/vladimirus/las": {
-            "pl": "Włodzimierz Laskowski",
-            "la": "Vladimirus Laskowski",
-            "en": "Vladimir Laskowski"
-        }
-    }
+    "links": [
+        "records/patrons/vladimirus/las"
+    ]
 }

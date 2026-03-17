@@ -13,90 +13,20 @@
             "katechista"
         ]
     },
-    "links": {
-        "records/patrons/cosmas/tak": {
-            "ja": "コスメ竹屋",
-            "la": "Cosmas Takeya",
-            "en": "Cosmas Takeya",
-            "pl": "Kosma Takeya"
-        },
-        "records/patrons/david/oke": {
-            "sw": "Daudi Okelo",
-            "la": "David Okelo",
-            "en": "David Okelo",
-            "pl": "Dawid Okelo"
-        },
-        "records/patrons/gildus/irw": {
-            "sw": "Jildo Irwa",
-            "la": "Gildus Irwa",
-            "en": "Gildas Irwa",
-            "pl": "Gildas Irwa"
-        },
-        "records/patrons/iosephus/cha": {
-            "ko": "장주기 요셉",
-            "la": "Iosephus Chang Chu-gi",
-            "en": "Joseph Chang Chu-gi",
-            "pl": "Józef Chang Chu-gi"
-        },
-        "records/patrons/leo/kar": {
-            "ja": "レオン烏丸",
-            "la": "Leo Karasuma",
-            "en": "Leo Karasuma",
-            "pl": "Leon Karasuma"
-        },
-        "records/patrons/lucas/hwa": {
-            "ko": "황석두 루가",
-            "la": "Lucas Hwang Sŏk-tu",
-            "en": "Luke Hwang Sŏk-tu",
-            "pl": "Łukasz Hwang Sŏk-tu"
-        },
-        "records/patrons/michael/nak": {
-            "ja": "ミゲル中島",
-            "la": "Michael Nakashima",
-            "en": "Michael Nakashima",
-            "pl": "Michał Nakashima"
-        },
-        "records/patrons/paulus/iba": {
-            "ja": "パウロ茨木",
-            "la": "Paulus Ibaraki",
-            "en": "Paul Ibaraki",
-            "pl": "Paweł Ibaraki"
-        },
-        "records/patrons/paulus/suz": {
-            "ja": "パウロ鈴木",
-            "la": "Paulus Suzuki",
-            "en": "Paul Suzuki",
-            "pl": "Paweł Suzuki"
-        },
-        "records/patrons/petrus/cal": {
-            "tl": "Pedro Calungsod",
-            "la": "Petrus Calungsod",
-            "en": "Peter Calungsod",
-            "pl": "Piotr Calungsod"
-        },
-        "records/patrons/petrus/suk": {
-            "ja": "ペトロ助四郎",
-            "la": "Petrus Sukejiro",
-            "en": "Peter Sukejiro",
-            "pl": "Piotr Sukejiro"
-        },
-        "records/patrons/petrus/wug": {
-            "zh": "吳國盛伯鐸",
-            "la": "Petrus Wu Guosheng",
-            "en": "Peter Wu Guosheng",
-            "pl": "Piotr Wu Guosheng"
-        },
-        "records/patrons/thomas/dan": {
-            "ja": "トマス談義者",
-            "la": "Thomas Dangi",
-            "en": "Thomas Dangi",
-            "pl": "Tomasz Dangi"
-        },
-        "records/patrons/thomas/son": {
-            "ko": "손자선 토마스",
-            "la": "Thomas Son Cha-sŏn",
-            "en": "Thomas Son Cha-sŏn",
-            "pl": "Tomasz Son Cha-sŏn"
-        }
-    }
+    "links": [
+        "records/patrons/cosmas/tak",
+        "records/patrons/david/oke",
+        "records/patrons/gildus/irw",
+        "records/patrons/iosephus/cha",
+        "records/patrons/leo/kar",
+        "records/patrons/lucas/hwa",
+        "records/patrons/michael/nak",
+        "records/patrons/paulus/iba",
+        "records/patrons/paulus/suz",
+        "records/patrons/petrus/cal",
+        "records/patrons/petrus/suk",
+        "records/patrons/petrus/wug",
+        "records/patrons/thomas/dan",
+        "records/patrons/thomas/son"
+    ]
 }

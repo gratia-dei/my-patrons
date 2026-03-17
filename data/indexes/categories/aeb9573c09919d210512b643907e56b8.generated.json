@@ -13,27 +13,10 @@
             "Bóg"
         ]
     },
-    "links": {
-        "records/god/fil": {
-            "arc": "ܝܫܘܥ",
-            "la": "Iesus Christus",
-            "en": "Jesus Christ",
-            "pl": "Jezus Chrystus"
-        },
-        "records/god/pat": {
-            "la": "Deus Pater",
-            "en": "God the Father",
-            "pl": "Bóg Ojciec"
-        },
-        "records/god/spi": {
-            "la": "Spiritus Sanctus",
-            "en": "Holy Spirit",
-            "pl": "Duch Święty"
-        },
-        "records/god/tri": {
-            "la": "Sacratissima Trinitas",
-            "en": "The Most Holy Trinity",
-            "pl": "Trójca Przenajświętsza"
-        }
-    }
+    "links": [
+        "records/god/fil",
+        "records/god/pat",
+        "records/god/spi",
+        "records/god/tri"
+    ]
 }

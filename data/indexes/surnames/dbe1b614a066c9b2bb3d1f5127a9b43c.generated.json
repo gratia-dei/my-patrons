@@ -7,11 +7,7 @@
             "Ward"
         ]
     },
-    "links": {
-        "records/patrons/margarita/war": {
-            "en": "Margaret Ward",
-            "la": "Margarita Ward",
-            "pl": "Małgorzata Ward"
-        }
-    }
+    "links": [
+        "records/patrons/margarita/war"
+    ]
 }

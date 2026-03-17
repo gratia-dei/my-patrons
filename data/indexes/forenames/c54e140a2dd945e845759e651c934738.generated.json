@@ -15,11 +15,9 @@
             "Angela"
         ]
     },
-    "links": {
-        "records/patrons/angela/tru": {
-            "pl": "Angela Maria Truszkowska",
-            "la": "Angela Maria Truszkowska",
-            "en": "Angela Mary Truszkowska"
-        }
-    }
+    "links": [
+        "records/patrons/angela/tru",
+        "records/patrons/angela/tru",
+        "records/patrons/angela/tru"
+    ]
 }

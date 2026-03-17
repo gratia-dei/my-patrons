@@ -7,11 +7,7 @@
             "Rewera"
         ]
     },
-    "links": {
-        "records/patrons/antonius/rew": {
-            "pl": "Antoni Rewera",
-            "la": "Antonius Rewera",
-            "en": "Anthony Rewera"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/rew"
+    ]
 }

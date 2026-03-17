@@ -18,12 +18,9 @@
             "대건"
         ]
     },
-    "links": {
-        "records/patrons/andreas/kim": {
-            "ko": "김대건 안드레아",
-            "la": "Andreas Kim Tae-gŏn",
-            "en": "Andrew Kim Taegon",
-            "pl": "Andrzej Kim Tae-gŏn"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/kim",
+        "records/patrons/andreas/kim"
+    ]
 }

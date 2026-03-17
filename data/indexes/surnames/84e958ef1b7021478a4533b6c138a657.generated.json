@@ -7,11 +7,7 @@
             "Szymkowiak"
         ]
     },
-    "links": {
-        "records/patrons/sancia/szy": {
-            "pl": "Sancja Szymkowiak",
-            "la": "Sancia Szymkowiak",
-            "en": "Santia Szymkowiak"
-        }
-    }
+    "links": [
+        "records/patrons/sancia/szy"
+    ]
 }

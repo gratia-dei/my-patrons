@@ -19,34 +19,11 @@
             "Enrico"
         ]
     },
-    "links": {
-        "records/patrons/henricus/hle": {
-            "pl": "Henryk Hlebowicz",
-            "la": "Henricus Hlebowicz",
-            "en": "Henry Hlebowicz"
-        },
-        "records/patrons/henricus/krz": {
-            "pl": "Henryk Krzysztofik",
-            "la": "Henricus Krzysztofik",
-            "en": "Henry Krzysztofik"
-        },
-        "records/patrons/henricus/mor": {
-            "es": "Enrique Morant Pellicer",
-            "la": "Henricus Morant Pellicer",
-            "en": "Henry Morant Pellicer",
-            "pl": "Henryk Morant Pellicer"
-        },
-        "records/patrons/henricus/reb": {
-            "it": "Enrico Rebuschini",
-            "la": "Henricus Rebuschini",
-            "en": "Henry Rebuschini",
-            "pl": "Henryk Rebuschini"
-        },
-        "records/patrons/hyacinthus/cor": {
-            "fr": "Hyacinthe-Marie Cormier",
-            "la": "Hyacinthus Cormier",
-            "en": "Hyacinth Mary Cormier",
-            "pl": "Jacek Maria Cormier"
-        }
-    }
+    "links": [
+        "records/patrons/henricus/hle",
+        "records/patrons/henricus/krz",
+        "records/patrons/henricus/mor",
+        "records/patrons/henricus/reb",
+        "records/patrons/hyacinthus/cor"
+    ]
 }

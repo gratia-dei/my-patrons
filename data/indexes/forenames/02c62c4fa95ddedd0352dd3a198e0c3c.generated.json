@@ -19,23 +19,9 @@
             "Олексій"
         ]
     },
-    "links": {
-        "records/patrons/alexius/dei": {
-            "la": "Alexius Confessor, Homo Dei",
-            "en": "Alexius Confessor, the Man of God",
-            "pl": "Aleksy Wyznawca, Człowiek Boży"
-        },
-        "records/patrons/alexius/fal": {
-            "it": "Alessio Falconieri",
-            "la": "Alexius Falconieri",
-            "en": "Alexis Falconieri",
-            "pl": "Aleksy Falconieri"
-        },
-        "records/patrons/alexius/zar": {
-            "uk": "Олексій Васильович Зарицький",
-            "la": "Alexius Zaryckyj",
-            "en": "Lex Zaryckyy",
-            "pl": "Aleksy Zarycki"
-        }
-    }
+    "links": [
+        "records/patrons/alexius/dei",
+        "records/patrons/alexius/fal",
+        "records/patrons/alexius/zar"
+    ]
 }

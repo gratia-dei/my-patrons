@@ -13,11 +13,7 @@
             "a Iesu et Maria"
         ]
     },
-    "links": {
-        "records/patrons/maria/kuk": {
-            "pl": "Maria Rajmunda od Jezusa i Maryi",
-            "la": "Maria Raymunda a Iesu et Maria",
-            "en": "Mary Raymunda of Jesus and Mary"
-        }
-    }
+    "links": [
+        "records/patrons/maria/kuk"
+    ]
 }

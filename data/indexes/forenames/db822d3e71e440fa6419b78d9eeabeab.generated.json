@@ -19,12 +19,10 @@
             "Balbina"
         ]
     },
-    "links": {
-        "records/patrons/balbina/rom": {
-            "it": "Balbina di Roma",
-            "la": "Balbina Romana",
-            "en": "Balbina of Rome",
-            "pl": "Balbina z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/balbina/rom",
+        "records/patrons/balbina/rom",
+        "records/patrons/balbina/rom",
+        "records/patrons/balbina/rom"
+    ]
 }

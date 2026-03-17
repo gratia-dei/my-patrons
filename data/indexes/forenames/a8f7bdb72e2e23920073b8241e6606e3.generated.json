@@ -19,11 +19,7 @@
             "Nartal"
         ]
     },
-    "links": {
-        "records/patrons/nartzales/sci": {
-            "la": "Nartzales de Scillium",
-            "en": "Nartzalus of Scillium",
-            "pl": "Nartzal ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/nartzales/sci"
+    ]
 }

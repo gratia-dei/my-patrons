@@ -20,59 +20,15 @@
             "Luigi"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/bel": {
-            "it": "Luigi Beltrame Quattrocchi",
-            "la": "Aloysius Beltrame Quattrocchi",
-            "en": "Aloise Beltrame Quattrocchi",
-            "pl": "Alojzy Beltrame Quattrocchi"
-        },
-        "records/patrons/aloysius/cam": {
-            "es": "Luis Campos Górriz",
-            "la": "Aloysius Campos Górriz",
-            "en": "Aloise Campos Górriz",
-            "pl": "Alojzy Campos Górriz"
-        },
-        "records/patrons/aloysius/gon": {
-            "it": "Luigi Gonzaga",
-            "la": "Aloysius Gonzaga",
-            "en": "Aloysius Gonzaga",
-            "pl": "Alojzy Gonzaga"
-        },
-        "records/patrons/aloysius/lig": {
-            "pl": "Alojzy Liguda",
-            "la": "Aloise Liguda",
-            "en": "Aloysius Liguda"
-        },
-        "records/patrons/aloysius/ori": {
-            "it": "Luigi Orione",
-            "la": "Aloysius Orione",
-            "en": "Aloise Orione",
-            "pl": "Alojzy Orione"
-        },
-        "records/patrons/aloysius/scr": {
-            "it": "Luigi Scrosoppi",
-            "la": "Aloysius Scrosoppi",
-            "en": "Aloise Scrosoppi",
-            "pl": "Alojzy Scrosoppi"
-        },
-        "records/patrons/aloysius/var": {
-            "it": "Luigi Variara",
-            "la": "Aloysius Variara",
-            "en": "Aloise Variara",
-            "pl": "Alojzy Variara"
-        },
-        "records/patrons/didacus/vit": {
-            "es": "Diego Luis de San Vitores",
-            "la": "Didacus Aloysius de San Vitores",
-            "en": "Didacus Aloise de San Vitores",
-            "pl": "Dydak Alojzy de San Vitores"
-        },
-        "records/patrons/pius/cam": {
-            "it": "Pio di San Luigi",
-            "la": "Pius a Sancto Aloysio",
-            "en": "Pius of Saint Aloysius",
-            "pl": "Pius od św. Alojzego"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/bel",
+        "records/patrons/aloysius/cam",
+        "records/patrons/aloysius/gon",
+        "records/patrons/aloysius/lig",
+        "records/patrons/aloysius/ori",
+        "records/patrons/aloysius/scr",
+        "records/patrons/aloysius/var",
+        "records/patrons/didacus/vit",
+        "records/patrons/pius/cam"
+    ]
 }

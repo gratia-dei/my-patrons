@@ -13,11 +13,7 @@
             "Zbigniew"
         ]
     },
-    "links": {
-        "records/patrons/sbigneus/str": {
-            "pl": "Zbigniew Strzałkowski",
-            "la": "Sbigneus Strzalkowski",
-            "en": "Zbigniew Strzalkowski"
-        }
-    }
+    "links": [
+        "records/patrons/sbigneus/str"
+    ]
 }

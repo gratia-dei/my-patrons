@@ -7,12 +7,7 @@
             "Sitjar"
         ]
     },
-    "links": {
-        "records/patrons/thomas/sit": {
-            "es": "Tomás Sitjar Fortiá",
-            "la": "Thomas Sitjar Fortiá",
-            "en": "Thomas Sitjar Fortiá",
-            "pl": "Tomasz Sitjar Fortiá"
-        }
-    }
+    "links": [
+        "records/patrons/thomas/sit"
+    ]
 }

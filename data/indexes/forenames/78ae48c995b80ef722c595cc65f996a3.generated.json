@@ -13,11 +13,7 @@
             "Sykstus"
         ]
     },
-    "links": {
-        "records/patrons/xystus/2pp": {
-            "la": "Xystus Pp. II",
-            "en": "Sixtus II",
-            "pl": "Sykstus II"
-        }
-    }
+    "links": [
+        "records/patrons/xystus/2pp"
+    ]
 }

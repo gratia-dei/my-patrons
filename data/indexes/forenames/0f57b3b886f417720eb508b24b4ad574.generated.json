@@ -18,12 +18,9 @@
             "Crescentia"
         ]
     },
-    "links": {
-        "records/patrons/maria/hos": {
-            "de": "Maria Crescentia Höss",
-            "la": "Maria Crescentia Höss",
-            "en": "Mary Crescentia Höss",
-            "pl": "Maria Krescencja Höss"
-        }
-    }
+    "links": [
+        "records/patrons/maria/hos",
+        "records/patrons/maria/hos",
+        "records/patrons/maria/hos"
+    ]
 }

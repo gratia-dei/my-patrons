@@ -15,11 +15,8 @@
             "Alipiusz"
         ]
     },
-    "links": {
-        "records/patrons/alypius/tha": {
-            "la": "Alypius Tagastensis",
-            "en": "Alypius of Tagaste",
-            "pl": "Alipiusz z Tagasty"
-        }
-    }
+    "links": [
+        "records/patrons/alypius/tha",
+        "records/patrons/alypius/tha"
+    ]
 }

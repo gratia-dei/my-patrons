@@ -7,12 +7,7 @@
             "Scrosoppi"
         ]
     },
-    "links": {
-        "records/patrons/aloysius/scr": {
-            "it": "Luigi Scrosoppi",
-            "la": "Aloysius Scrosoppi",
-            "en": "Aloise Scrosoppi",
-            "pl": "Alojzy Scrosoppi"
-        }
-    }
+    "links": [
+        "records/patrons/aloysius/scr"
+    ]
 }

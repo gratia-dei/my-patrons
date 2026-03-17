@@ -16,12 +16,7 @@
             "Taziano"
         ]
     },
-    "links": {
-        "records/patrons/tatianus/aqu": {
-            "it": "Taziano da Aquileia",
-            "la": "Tatianus de Aquileia",
-            "en": "Tatian of Aquileia",
-            "pl": "Tacjan z Akwilei"
-        }
-    }
+    "links": [
+        "records/patrons/tatianus/aqu"
+    ]
 }

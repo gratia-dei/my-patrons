@@ -7,12 +7,7 @@
             "Hacher du Bois"
         ]
     },
-    "links": {
-        "records/patrons/maria/hac": {
-            "fr": "Marie-Anne Hacher du Bois",
-            "la": "Maria Anna Hacher du Bois",
-            "en": "Mary Anna Hacher du Bois",
-            "pl": "Maria Anna Hacher du Bois"
-        }
-    }
+    "links": [
+        "records/patrons/maria/hac"
+    ]
 }

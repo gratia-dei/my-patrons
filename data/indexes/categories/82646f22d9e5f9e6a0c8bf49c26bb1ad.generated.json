@@ -13,18 +13,8 @@
             "kapłan diecezjalny"
         ]
     },
-    "links": {
-        "records/patrons/carolus/fou": {
-            "fr": "Charles de Foucauld",
-            "la": "Carolus de Foucauld",
-            "en": "Charles de Foucauld",
-            "pl": "Karol de Foucauld"
-        },
-        "records/patrons/petrus/eym": {
-            "fr": "Pierre-Julien Eymard",
-            "la": "Patrus Iulianus Eymard",
-            "en": "Peter Julian Eymanrd",
-            "pl": "Piotr Julian Eymard"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/fou",
+        "records/patrons/petrus/eym"
+    ]
 }

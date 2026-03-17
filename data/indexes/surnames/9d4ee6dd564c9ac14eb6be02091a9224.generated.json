@@ -7,11 +7,7 @@
             "Adams"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/ada": {
-            "en": "John Adams",
-            "la": "Ioannes Adams",
-            "pl": "Jan Adams"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/ada"
+    ]
 }

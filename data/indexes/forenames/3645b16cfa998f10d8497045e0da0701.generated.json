@@ -14,21 +14,12 @@
             "Antonin"
         ]
     },
-    "links": {
-        "records/patrons/antoninus/apa": {
-            "la": "Antoninus de Apamea",
-            "en": "Antoninus of Apamea",
-            "pl": "Antonin z Apamei"
-        },
-        "records/patrons/antoninus/mar": {
-            "la": "Antoninus de Roma",
-            "en": "Anton of Rome",
-            "pl": "Antonin z Rzymu"
-        },
-        "records/patrons/antoninus/nic": {
-            "la": "Antoninus Caesariensis",
-            "en": "Antoninus of Caesarea",
-            "pl": "Antonin z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/antoninus/apa",
+        "records/patrons/antoninus/apa",
+        "records/patrons/antoninus/mar",
+        "records/patrons/antoninus/mar",
+        "records/patrons/antoninus/nic",
+        "records/patrons/antoninus/nic"
+    ]
 }

@@ -7,11 +7,7 @@
             "Siedliska"
         ]
     },
-    "links": {
-        "records/patrons/maria/sie": {
-            "pl": "Maria od Jezusa Dobrego Pasterza",
-            "la": "Maria a Iesu Bono Pastore",
-            "en": "Maria of Jesus the Good Shepherd"
-        }
-    }
+    "links": [
+        "records/patrons/maria/sie"
+    ]
 }

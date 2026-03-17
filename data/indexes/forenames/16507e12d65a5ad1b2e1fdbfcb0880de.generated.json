@@ -17,12 +17,8 @@
             "Zéphirin"
         ]
     },
-    "links": {
-        "records/patrons/ludovicus/mor": {
-            "fr": "Louis-Zéphirin Moreau",
-            "la": "Ludovicus Zephyrinus Moreau",
-            "en": "Louis Zephyrinus Moreau",
-            "pl": "Ludwik Zefiryn Moreau"
-        }
-    }
+    "links": [
+        "records/patrons/ludovicus/mor",
+        "records/patrons/ludovicus/mor"
+    ]
 }

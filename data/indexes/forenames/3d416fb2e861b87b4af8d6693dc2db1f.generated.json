@@ -13,11 +13,7 @@
             "Agapit"
         ]
     },
-    "links": {
-        "records/patrons/agapitus/xys": {
-            "la": "Agapitus de Roma, diaconus Xysti Pp. II",
-            "en": "Agapitus of Rome, deacon of Xystus II",
-            "pl": "Agapit z Rzymu, diakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/agapitus/xys"
+    ]
 }

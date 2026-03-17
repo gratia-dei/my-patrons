@@ -17,12 +17,8 @@
             "Озана"
         ]
     },
-    "links": {
-        "records/patrons/catharina/mon": {
-            "sr": "Озана Которска",
-            "la": "Catharina de Monte Nigro",
-            "en": "Osanna of Cattaro",
-            "pl": "Katarzyna z Czarnogóry"
-        }
-    }
+    "links": [
+        "records/patrons/catharina/mon",
+        "records/patrons/catharina/mon"
+    ]
 }

@@ -15,11 +15,9 @@
             "Kinga"
         ]
     },
-    "links": {
-        "records/patrons/kinga/cun": {
-            "pl": "Kinga Węgierska",
-            "la": "Kinga seu Cunegundis",
-            "en": "Kinga of Poland"
-        }
-    }
+    "links": [
+        "records/patrons/kinga/cun",
+        "records/patrons/kinga/cun",
+        "records/patrons/kinga/cun"
+    ]
 }

@@ -14,11 +14,7 @@
             "Bez imienia"
         ]
     },
-    "links": {
-        "records/patrons/sine/ulm": {
-            "pl": "Bezimienne dziecko Józefa i Wiktorii Ulmów",
-            "la": "Infans innominatus Iosephi et Victoriae Ulma",
-            "en": "Unnamed child of Józef and Wiktoria Ulma"
-        }
-    }
+    "links": [
+        "records/patrons/sine/ulm"
+    ]
 }

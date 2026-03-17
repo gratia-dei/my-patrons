@@ -18,12 +18,9 @@
             "Takeya"
         ]
     },
-    "links": {
-        "records/patrons/cosmas/tak": {
-            "ja": "コスメ竹屋",
-            "la": "Cosmas Takeya",
-            "en": "Cosmas Takeya",
-            "pl": "Kosma Takeya"
-        }
-    }
+    "links": [
+        "records/patrons/cosmas/tak",
+        "records/patrons/cosmas/tak",
+        "records/patrons/cosmas/tak"
+    ]
 }

@@ -16,12 +16,7 @@
             "Vojtěch"
         ]
     },
-    "links": {
-        "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch Adalbert Slavníkovec",
-            "en": "Adalbert of Prague",
-            "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
-        }
-    }
+    "links": [
+        "records/patrons/adalbertus/pra"
+    ]
 }

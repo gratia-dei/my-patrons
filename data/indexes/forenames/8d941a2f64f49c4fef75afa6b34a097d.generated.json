@@ -14,11 +14,8 @@
             "Satur"
         ]
     },
-    "links": {
-        "records/patrons/satyrus/car": {
-            "la": "Satyrus Carthaginensis",
-            "en": "Satyrus of Carthage",
-            "pl": "Satur z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/satyrus/car",
+        "records/patrons/satyrus/car"
+    ]
 }

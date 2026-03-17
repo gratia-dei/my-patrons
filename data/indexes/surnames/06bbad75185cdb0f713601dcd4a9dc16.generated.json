@@ -7,11 +7,7 @@
             "Kózka"
         ]
     },
-    "links": {
-        "records/patrons/carolina/koz": {
-            "pl": "Karolina Kózka",
-            "la": "Carolina Kózka",
-            "en": "Caroline Kózka"
-        }
-    }
+    "links": [
+        "records/patrons/carolina/koz"
+    ]
 }

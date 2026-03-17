@@ -7,12 +7,7 @@
             "Venimbeni"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/ven": {
-            "it": "Francesco Venimbeni",
-            "la": "Franciscus Venimbeni",
-            "en": "Francis Venimbeni",
-            "pl": "Franciszek Venimbeni"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/ven"
+    ]
 }

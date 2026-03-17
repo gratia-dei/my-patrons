@@ -13,18 +13,8 @@
             "twórca"
         ]
     },
-    "links": {
-        "records/patrons/ignatius/loy": {
-            "es": "Ignacio de Loyola",
-            "la": "Ignatius de Loyola",
-            "en": "Ignatius of Loyola",
-            "pl": "Ignacy Loyola"
-        },
-        "records/patrons/ioannes/deo": {
-            "pt": "João de Deus",
-            "la": "Ioannes de Deo",
-            "en": "John of God",
-            "pl": "Jan Boży"
-        }
-    }
+    "links": [
+        "records/patrons/ignatius/loy",
+        "records/patrons/ioannes/deo"
+    ]
 }

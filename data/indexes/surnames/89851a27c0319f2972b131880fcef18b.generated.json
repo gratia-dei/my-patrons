@@ -7,12 +7,7 @@
             "Fieschi"
         ]
     },
-    "links": {
-        "records/patrons/catharina/fie": {
-            "it": "Caterina da Genova",
-            "la": "Catharina Genuensis",
-            "en": "Catherine of Genoa",
-            "pl": "Katarzyna z Genui"
-        }
-    }
+    "links": [
+        "records/patrons/catharina/fie"
+    ]
 }

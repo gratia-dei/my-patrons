@@ -7,12 +7,7 @@
             "Blanco"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/bla": {
-            "es": "Francisco Blanco",
-            "la": "Franciscus Blanco",
-            "en": "Francis Blanco",
-            "pl": "Franciszek Blanco"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/bla"
+    ]
 }

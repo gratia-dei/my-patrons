@@ -17,12 +17,8 @@
             "Bonfilio"
         ]
     },
-    "links": {
-        "records/patrons/bonfilius/flo": {
-            "it": "Bonfilio Monaldi",
-            "la": "Bonfilius Monaldi",
-            "en": "Bonfilius Monaldi",
-            "pl": "Bonfiliusz Monaldi"
-        }
-    }
+    "links": [
+        "records/patrons/bonfilius/flo",
+        "records/patrons/bonfilius/flo"
+    ]
 }

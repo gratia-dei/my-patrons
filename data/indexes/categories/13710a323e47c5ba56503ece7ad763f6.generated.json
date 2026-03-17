@@ -13,11 +13,7 @@
             "uczony"
         ]
     },
-    "links": {
-        "records/patrons/theophilus/cae": {
-            "la": "Theophilus de Caesarea",
-            "en": "Theophilus of Caesarea",
-            "pl": "Teofil z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/theophilus/cae"
+    ]
 }

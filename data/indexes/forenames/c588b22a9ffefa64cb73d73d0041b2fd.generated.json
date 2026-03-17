@@ -17,17 +17,10 @@
             "Θεόφιλος"
         ]
     },
-    "links": {
-        "records/patrons/theophilus/ant": {
-            "el": "Θεόφιλος Αντιοχείας",
-            "la": "Theophilus Antiochenus",
-            "en": "Theophilus of Antioch",
-            "pl": "Teofil z Antiochii"
-        },
-        "records/patrons/theophilus/cae": {
-            "la": "Theophilus de Caesarea",
-            "en": "Theophilus of Caesarea",
-            "pl": "Teofil z Cezarei"
-        }
-    }
+    "links": [
+        "records/patrons/theophilus/ant",
+        "records/patrons/theophilus/ant",
+        "records/patrons/theophilus/cae",
+        "records/patrons/theophilus/cae"
+    ]
 }

@@ -7,12 +7,7 @@
             "Benfatti"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/ben": {
-            "it": "Giacomo Benfatti",
-            "la": "Iacobus Benfatti",
-            "en": "James Benfatti",
-            "pl": "Jakub Benfatti"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/ben"
+    ]
 }

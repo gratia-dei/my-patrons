@@ -19,29 +19,10 @@
             "思定"
         ]
     },
-    "links": {
-        "records/patrons/augustinus/cal": {
-            "es": "Agustín Caloca Cortés",
-            "la": "Augustinus Caloca Cortés",
-            "en": "Augustine Caloca Cortés",
-            "pl": "Augustyn Caloca Cortés"
-        },
-        "records/patrons/augustinus/gar": {
-            "es": "Agustín García Calvo",
-            "la": "Augustinus García Calvo",
-            "en": "Augustine García Calvo",
-            "pl": "Augustyn García Calvo"
-        },
-        "records/patrons/augustinus/hip": {
-            "la": "Augustinus Hipponensis",
-            "en": "Augustine of Hippo",
-            "pl": "Augustyn z Hippony"
-        },
-        "records/patrons/augustinus/zha": {
-            "zh": "趙榮思定",
-            "la": "Augustinus Zhao Rong",
-            "en": "Augustine Zhao Rong",
-            "pl": "Augustyn Zhao Rong"
-        }
-    }
+    "links": [
+        "records/patrons/augustinus/cal",
+        "records/patrons/augustinus/gar",
+        "records/patrons/augustinus/hip",
+        "records/patrons/augustinus/zha"
+    ]
 }

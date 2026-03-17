@@ -7,12 +7,7 @@
             "Baldinucci"
         ]
     },
-    "links": {
-        "records/patrons/antonius/bal": {
-            "it": "Antonio Baldinucci",
-            "la": "Antonius Baldinucci",
-            "en": "Anthony Baldinucci",
-            "pl": "Antoni Baldinucci"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/bal"
+    ]
 }

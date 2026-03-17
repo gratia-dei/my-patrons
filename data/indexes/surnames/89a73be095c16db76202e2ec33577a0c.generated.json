@@ -7,12 +7,7 @@
             "Cỏn"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/con": {
-            "vi": "Gioan Baotixita Cỏn",
-            "la": "Ioannes Baptista Cỏn",
-            "en": "John Baptist Cỏn",
-            "pl": "Jan Chrzciciel Cỏn"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/con"
+    ]
 }

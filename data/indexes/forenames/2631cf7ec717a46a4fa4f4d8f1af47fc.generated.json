@@ -17,12 +17,8 @@
             "Αρίσταρχος"
         ]
     },
-    "links": {
-        "records/patrons/aristarchus/the": {
-            "el": "Αρίσταρχος ο Θεσσαλονικεύς",
-            "la": "Aristarchus Thessalonicensis",
-            "en": "Aristarchus of Thessalonica",
-            "pl": "Arystarch z Tesaloniki"
-        }
-    }
+    "links": [
+        "records/patrons/aristarchus/the",
+        "records/patrons/aristarchus/the"
+    ]
 }

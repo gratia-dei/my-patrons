@@ -7,12 +7,7 @@
             "Friedhofen"
         ]
     },
-    "links": {
-        "records/patrons/petrus/fri": {
-            "de": "Peter Friedhofen",
-            "la": "Petrus Friedhofen",
-            "en": "Peter Friedhofen",
-            "pl": "Piotr Friedhofen"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/fri"
+    ]
 }

@@ -13,11 +13,7 @@
             "Apostoł Germanii"
         ]
     },
-    "links": {
-        "records/patrons/bonifatius/win": {
-            "la": "Bonifatius Winfridus",
-            "en": "Boniface Wynfreth",
-            "pl": "Bonifacy Wynfryd"
-        }
-    }
+    "links": [
+        "records/patrons/bonifatius/win"
+    ]
 }

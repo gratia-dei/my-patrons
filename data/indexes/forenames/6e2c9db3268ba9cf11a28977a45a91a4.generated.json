@@ -17,12 +17,8 @@
             "Fantino"
         ]
     },
-    "links": {
-        "records/patrons/fantinus/sen": {
-            "it": "Fantino il Vecchio",
-            "la": "Fantinur Senior",
-            "en": "Fantinus the Older",
-            "pl": "Fantyn Starszy"
-        }
-    }
+    "links": [
+        "records/patrons/fantinus/sen",
+        "records/patrons/fantinus/sen"
+    ]
 }

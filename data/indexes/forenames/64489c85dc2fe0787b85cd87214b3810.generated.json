@@ -13,11 +13,7 @@
             "Alicja"
         ]
     },
-    "links": {
-        "records/patrons/alicia/kot": {
-            "pl": "Alicja Kotowska",
-            "la": "Alicia Kotowska",
-            "en": "Alice Kotowska"
-        }
-    }
+    "links": [
+        "records/patrons/alicia/kot"
+    ]
 }

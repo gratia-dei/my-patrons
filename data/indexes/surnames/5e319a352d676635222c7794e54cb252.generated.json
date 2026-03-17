@@ -7,11 +7,7 @@
             "Rosłaniec"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/ros": {
-            "pl": "Franciszek Rosłaniec",
-            "la": "Franciscus Rosłaniec",
-            "en": "Francis Rosłaniec"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/ros"
+    ]
 }

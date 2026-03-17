@@ -14,11 +14,8 @@
             "Zuzanna"
         ]
     },
-    "links": {
-        "records/patrons/susanna/rom": {
-            "la": "Susanna Romana",
-            "en": "Susanna of Rome",
-            "pl": "Zuzanna Rzymska"
-        }
-    }
+    "links": [
+        "records/patrons/susanna/rom",
+        "records/patrons/susanna/rom"
+    ]
 }

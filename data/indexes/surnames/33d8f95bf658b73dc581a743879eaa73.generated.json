@@ -7,12 +7,7 @@
             "Hurtado"
         ]
     },
-    "links": {
-        "records/patrons/albertus/hur": {
-            "es": "Alberto Hurtado Cruchaga",
-            "la": "Albertus Hurtado Cruchaga",
-            "en": "Albert Hurtado Cruchaga",
-            "pl": "Albert Hurtado Cruchaga"
-        }
-    }
+    "links": [
+        "records/patrons/albertus/hur"
+    ]
 }

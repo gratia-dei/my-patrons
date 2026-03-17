@@ -13,16 +13,8 @@
             "katechumenka"
         ]
     },
-    "links": {
-        "records/patrons/felicitas/car": {
-            "la": "Felicitas Carthaginensis",
-            "en": "Felicity of Carthage",
-            "pl": "Felicyta z Kartaginy"
-        },
-        "records/patrons/perpetua/car": {
-            "la": "Perpetua Carthaginensis",
-            "en": "Perpetua of Carthage",
-            "pl": "Perpetua z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/felicitas/car",
+        "records/patrons/perpetua/car"
+    ]
 }

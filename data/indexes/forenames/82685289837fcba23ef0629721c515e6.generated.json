@@ -17,22 +17,12 @@
             "Μακάριος"
         ]
     },
-    "links": {
-        "records/patrons/macarius/ale": {
-            "la": "Macarius Alexandrinus",
-            "en": "Macarius of Alexandria",
-            "pl": "Makary z Aleksandrii"
-        },
-        "records/patrons/macarius/hie": {
-            "el": "Μακάριος Ἱεροσολύμων",
-            "la": "Macarius Hierosolymitanus",
-            "en": "Macarius of Jerusalem",
-            "pl": "Makary z Jerozolimy"
-        },
-        "records/patrons/macarius/mag": {
-            "la": "Macarius Magnus",
-            "en": "Maracius the Great",
-            "pl": "Makary Wielki"
-        }
-    }
+    "links": [
+        "records/patrons/macarius/ale",
+        "records/patrons/macarius/ale",
+        "records/patrons/macarius/hie",
+        "records/patrons/macarius/hie",
+        "records/patrons/macarius/mag",
+        "records/patrons/macarius/mag"
+    ]
 }

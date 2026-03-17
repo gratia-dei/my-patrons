@@ -7,11 +7,7 @@
             "Nowowiejski"
         ]
     },
-    "links": {
-        "records/patrons/antonius/now": {
-            "pl": "Antoni Julian Nowowiejski",
-            "la": "Antonius Iulianus Nowowiejski",
-            "en": "Anthony Julian Nowowiejski"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/now"
+    ]
 }

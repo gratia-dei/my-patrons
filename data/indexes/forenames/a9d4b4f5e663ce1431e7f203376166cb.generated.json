@@ -17,12 +17,7 @@
             "Rita"
         ]
     },
-    "links": {
-        "records/patrons/rita/cas": {
-            "it": "Rita da Cascia",
-            "la": "Rita de Cassia",
-            "en": "Rita of Cascia",
-            "pl": "Rita z Cascii"
-        }
-    }
+    "links": [
+        "records/patrons/rita/cas"
+    ]
 }

@@ -13,11 +13,7 @@
             "Korbinian"
         ]
     },
-    "links": {
-        "records/patrons/corbinianus/fri": {
-            "la": "Corbinianus de Frisingae",
-            "en": "Corbinian of Freising",
-            "pl": "Korbinian z Fryzyngi"
-        }
-    }
+    "links": [
+        "records/patrons/corbinianus/fri"
+    ]
 }

@@ -14,11 +14,8 @@
             "Metody"
         ]
     },
-    "links": {
-        "records/patrons/methodius/cyr": {
-            "la": "Methodius Thessalonicensis",
-            "en": "Methodius of Thessalonica",
-            "pl": "Metody z Tesaloniki"
-        }
-    }
+    "links": [
+        "records/patrons/methodius/cyr",
+        "records/patrons/methodius/cyr"
+    ]
 }

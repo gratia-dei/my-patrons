@@ -7,12 +7,7 @@
             "Ludigo"
         ]
     },
-    "links": {
-        "records/patrons/adolphus/lud": {
-            "sw": "Adolfo Mukasa Ludigo",
-            "la": "Adolphus Ludigo Mkasa",
-            "en": "Adolphus Ludigo Mkasa",
-            "pl": "Adolf Ludigo Mkasa"
-        }
-    }
+    "links": [
+        "records/patrons/adolphus/lud"
+    ]
 }

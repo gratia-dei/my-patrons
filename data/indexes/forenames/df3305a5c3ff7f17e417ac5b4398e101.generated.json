@@ -16,22 +16,9 @@
             "세바스티아노"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar",
-            "en": "Joseph Sebastian Pelczar"
-        },
-        "records/patrons/sebastianus/nam": {
-            "ko": "남이관 세바스티아노",
-            "la": "Sebastianus Nam I-gwan",
-            "en": "Sebastian Nam I-gwan",
-            "pl": "Sebastian Nam I-gwan"
-        },
-        "records/patrons/sebastianus/pho": {
-            "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/pel",
+        "records/patrons/sebastianus/nam",
+        "records/patrons/sebastianus/pho"
+    ]
 }

@@ -16,12 +16,7 @@
             "Boży"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/deo": {
-            "pt": "João de Deus",
-            "la": "Ioannes de Deo",
-            "en": "John of God",
-            "pl": "Jan Boży"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/deo"
+    ]
 }

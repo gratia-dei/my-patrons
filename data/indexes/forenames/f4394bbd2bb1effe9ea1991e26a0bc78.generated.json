@@ -20,28 +20,14 @@
             "Климентій"
         ]
     },
-    "links": {
-        "records/patrons/clemens/aga": {
-            "la": "Clemens Ancyranus",
-            "en": "Clement of Ancyra",
-            "pl": "Klemens z Ankary"
-        },
-        "records/patrons/clemens/hof": {
-            "de": "Klemens Maria Hofbauer",
-            "la": "Clemens Maria Hofbauer",
-            "en": "Clement Mary Hofbauer",
-            "pl": "Klemens Maria Hofbauer"
-        },
-        "records/patrons/clemens/sep": {
-            "uk": "Климентій Шептицький",
-            "la": "Clemens Šeptyckyj",
-            "en": "Clement Sheptytsky",
-            "pl": "Klemens Szeptycki"
-        },
-        "records/patrons/flavius/cle": {
-            "la": "Flavius Clemens",
-            "en": "Flavius Clemens",
-            "pl": "Flawiusz Klemens"
-        }
-    }
+    "links": [
+        "records/patrons/clemens/aga",
+        "records/patrons/clemens/aga",
+        "records/patrons/clemens/hof",
+        "records/patrons/clemens/hof",
+        "records/patrons/clemens/sep",
+        "records/patrons/clemens/sep",
+        "records/patrons/flavius/cle",
+        "records/patrons/flavius/cle"
+    ]
 }

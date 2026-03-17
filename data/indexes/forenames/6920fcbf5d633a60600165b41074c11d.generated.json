@@ -13,11 +13,7 @@
             "Konstantyn"
         ]
     },
-    "links": {
-        "records/patrons/cyrillus/met": {
-            "la": "Cyrillus Thessalonicensis",
-            "en": "Cyril of Thessalonica",
-            "pl": "Cyryl z Tesaloniki"
-        }
-    }
+    "links": [
+        "records/patrons/cyrillus/met"
+    ]
 }

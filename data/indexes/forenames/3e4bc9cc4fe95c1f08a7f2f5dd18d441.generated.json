@@ -13,21 +13,9 @@
             "Kazimierz"
         ]
     },
-    "links": {
-        "records/patrons/casimirus/gre": {
-            "pl": "Kazimierz Grelewski",
-            "la": "Casimirus Grelewski",
-            "en": "Casimir Grelewski"
-        },
-        "records/patrons/casimirus/pri": {
-            "pl": "Kazimierz Królewicz",
-            "la": "Casimirus Princeps",
-            "en": "Casimir Jagiellon"
-        },
-        "records/patrons/casimirus/syk": {
-            "pl": "Kazimierz Sykulski",
-            "la": "Casimirus Sykulski",
-            "en": "Casimir Sykulski"
-        }
-    }
+    "links": [
+        "records/patrons/casimirus/gre",
+        "records/patrons/casimirus/pri",
+        "records/patrons/casimirus/syk"
+    ]
 }

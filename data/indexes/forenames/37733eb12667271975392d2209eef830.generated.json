@@ -16,12 +16,7 @@
             "Γεράσιμος"
         ]
     },
-    "links": {
-        "records/patrons/gerasimus/ior": {
-            "el": "Γεράσιμος Ἰορδανίτης",
-            "la": "Gerasimus Iordanita",
-            "en": "Gerasimus of the Jordan",
-            "pl": "Gerazym Jordanita"
-        }
-    }
+    "links": [
+        "records/patrons/gerasimus/ior"
+    ]
 }

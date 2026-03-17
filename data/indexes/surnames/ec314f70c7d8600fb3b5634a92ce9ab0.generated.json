@@ -7,11 +7,7 @@
             "Klinik"
         ]
     },
-    "links": {
-        "records/patrons/eduardus/kli": {
-            "pl": "Edward Klinik",
-            "la": "Eduardus Klinik",
-            "en": "Edward Klinik"
-        }
-    }
+    "links": [
+        "records/patrons/eduardus/kli"
+    ]
 }

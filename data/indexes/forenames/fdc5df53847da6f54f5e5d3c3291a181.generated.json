@@ -13,11 +13,7 @@
             "Radzim"
         ]
     },
-    "links": {
-        "records/patrons/gaudentius/rad": {
-            "pl": "Radzim Gaudenty",
-            "la": "Gaudentius seu Radzim",
-            "en": "Radim Gaudentius"
-        }
-    }
+    "links": [
+        "records/patrons/gaudentius/rad"
+    ]
 }

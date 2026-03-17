@@ -16,12 +16,7 @@
             "Manetto"
         ]
     },
-    "links": {
-        "records/patrons/benedictus/man": {
-            "it": "Benedetto Manetto dell’Antella",
-            "la": "Benedictus Manettus Antella",
-            "en": "Benedict Manettus Antella",
-            "pl": "Benedykt Manettus Antella"
-        }
-    }
+    "links": [
+        "records/patrons/benedictus/man"
+    ]
 }

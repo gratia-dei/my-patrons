@@ -16,12 +16,7 @@
             "Ide"
         ]
     },
-    "links": {
-        "records/patrons/ida/gal": {
-            "fr": "Ida de Boulogne",
-            "la": "Ida de Gallia",
-            "en": "Ida of Lorraine",
-            "pl": "Ida Lotaryńska"
-        }
-    }
+    "links": [
+        "records/patrons/ida/gal"
+    ]
 }

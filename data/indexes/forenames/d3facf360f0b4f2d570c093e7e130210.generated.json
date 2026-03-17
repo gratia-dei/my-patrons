@@ -23,50 +23,22 @@
             "Vincenzo"
         ]
     },
-    "links": {
-        "records/patrons/vincentius/fer": {
-            "es": "Vicente Ferrer",
-            "la": "Vincentius Ferrerius",
-            "en": "Vincent Ferrer",
-            "pl": "Wincenty Ferreriusz"
-        },
-        "records/patrons/vincentius/fre": {
-            "pl": "Wincenty Frelichowski",
-            "la": "Vincentius Frelichowski",
-            "en": "Vincent Frrelichowski"
-        },
-        "records/patrons/vincentius/gro": {
-            "it": "Vincenzo Grossi",
-            "la": "Vincentius Grossi",
-            "en": "Vincent Grossi",
-            "pl": "Wincenty Grossi"
-        },
-        "records/patrons/vincentius/kad": {
-            "pl": "Wincenty Kadłubek",
-            "la": "Vincentius Kadlubek",
-            "en": "Vincent Kadłubek"
-        },
-        "records/patrons/vincentius/mat": {
-            "pl": "Wincenty Matuszewski",
-            "la": "Vincentius Matuszewski",
-            "en": "Vincent Matuszewski"
-        },
-        "records/patrons/vincentius/pal": {
-            "it": "Vincenzo Pallotti",
-            "la": "Vincentius Pallotti",
-            "en": "Vincent Pallotti",
-            "pl": "Wincenty Pallotti"
-        },
-        "records/patrons/vincentius/pau": {
-            "fr": "Vincent de Paul",
-            "la": "Vincentius de Paul",
-            "en": "Vincent de Paul",
-            "pl": "Wincenty a Paulo"
-        },
-        "records/patrons/vincentius/xys": {
-            "la": "Vincentius de Roma, subdiaconus Xysti Pp. II",
-            "en": "Vincent of Rome, subdeacon of Xystus II",
-            "pl": "Wincenty z Rzymu, subdiakon Sykstusa II"
-        }
-    }
+    "links": [
+        "records/patrons/vincentius/fer",
+        "records/patrons/vincentius/fer",
+        "records/patrons/vincentius/fre",
+        "records/patrons/vincentius/fre",
+        "records/patrons/vincentius/gro",
+        "records/patrons/vincentius/gro",
+        "records/patrons/vincentius/kad",
+        "records/patrons/vincentius/kad",
+        "records/patrons/vincentius/mat",
+        "records/patrons/vincentius/mat",
+        "records/patrons/vincentius/pal",
+        "records/patrons/vincentius/pal",
+        "records/patrons/vincentius/pau",
+        "records/patrons/vincentius/pau",
+        "records/patrons/vincentius/xys",
+        "records/patrons/vincentius/xys"
+    ]
 }

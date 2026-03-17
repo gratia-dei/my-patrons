@@ -7,12 +7,7 @@
             "Gagnot"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/gag": {
-            "fr": "Jacques Gagnot",
-            "la": "Iacobus Gagnot",
-            "en": "James Gagnot",
-            "pl": "Jakub Gagnot"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/gag"
+    ]
 }

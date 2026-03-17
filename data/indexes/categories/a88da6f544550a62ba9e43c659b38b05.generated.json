@@ -13,11 +13,7 @@
             "kanonik regularny"
         ]
     },
-    "links": {
-        "records/patrons/stanislaus/cas": {
-            "pl": "Stanisław Kazimierczyk",
-            "la": "Stanislaus Kazimierczyk",
-            "en": "Stanislaus Kazimierczyk"
-        }
-    }
+    "links": [
+        "records/patrons/stanislaus/cas"
+    ]
 }

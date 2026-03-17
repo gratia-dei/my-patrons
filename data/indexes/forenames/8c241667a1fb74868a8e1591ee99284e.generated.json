@@ -20,35 +20,11 @@
             "Bartolomeu"
         ]
     },
-    "links": {
-        "records/patrons/bartholomaeus/ami": {
-            "it": "Bartolomeo Amadio da Firenze",
-            "la": "Bartholomaeus Amidaeus de Florentia",
-            "en": "Bartholomew Amideus of Florence",
-            "pl": "Bartłomiej Amideusz z Florencji"
-        },
-        "records/patrons/bartholomaeus/apo": {
-            "la": "Bartholomaeus Apostolus",
-            "en": "Bartholomew the Apostle",
-            "pl": "Bartłomiej Apostoł"
-        },
-        "records/patrons/bartholomaeus/bre": {
-            "it": "Bartolomeo da Breganze",
-            "la": "Bartholomaeus de Bregantia",
-            "en": "Bartholomew of Breganze",
-            "pl": "Bartłomiej z Vicenzy"
-        },
-        "records/patrons/bartholomaeus/fer": {
-            "pt": "Bartolomeu dos Mártires",
-            "la": "Bartholomaeus a Martyribus Fernandes",
-            "en": "Bartholomew of the Martyrs",
-            "pl": "Bartłomiej Fernandes od Męczenników"
-        },
-        "records/patrons/bartholomaeus/lon": {
-            "it": "Bartolo Longo",
-            "la": "Bartholomaeus Longo",
-            "en": "Bartholomew Longo",
-            "pl": "Bartłomiej Longo"
-        }
-    }
+    "links": [
+        "records/patrons/bartholomaeus/ami",
+        "records/patrons/bartholomaeus/apo",
+        "records/patrons/bartholomaeus/bre",
+        "records/patrons/bartholomaeus/fer",
+        "records/patrons/bartholomaeus/lon"
+    ]
 }

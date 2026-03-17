@@ -7,12 +7,7 @@
             "Lwanga"
         ]
     },
-    "links": {
-        "records/patrons/carolus/lwa": {
-            "sw": "Karoli Lwanga",
-            "la": "Carolus Lwanga",
-            "en": "Charles Lwanga",
-            "pl": "Karol Lwanga"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/lwa"
+    ]
 }

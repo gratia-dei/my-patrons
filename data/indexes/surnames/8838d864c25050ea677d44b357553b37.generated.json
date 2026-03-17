@@ -7,11 +7,7 @@
             "Ledóchowska"
         ]
     },
-    "links": {
-        "records/patrons/ursula/led": {
-            "pl": "Urszula Ledóchowska",
-            "la": "Urszula Ledóchowska",
-            "en": "Ursula Ledóchowska"
-        }
-    }
+    "links": [
+        "records/patrons/ursula/led"
+    ]
 }

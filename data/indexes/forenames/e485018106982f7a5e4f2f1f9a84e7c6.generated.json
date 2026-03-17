@@ -16,18 +16,8 @@
             "Rupert"
         ]
     },
-    "links": {
-        "records/patrons/rupertus/may": {
-            "de": "Rupert Mayer",
-            "la": "Rupertus Mayer",
-            "en": "Rupert Mayer",
-            "pl": "Rupert Mayer"
-        },
-        "records/patrons/rupertus/sal": {
-            "de": "Rupert von Salzburg",
-            "la": "Rupertus Salisburgensis",
-            "en": "Rupert of Salzburg",
-            "pl": "Rupert z Salzburga"
-        }
-    }
+    "links": [
+        "records/patrons/rupertus/may",
+        "records/patrons/rupertus/sal"
+    ]
 }

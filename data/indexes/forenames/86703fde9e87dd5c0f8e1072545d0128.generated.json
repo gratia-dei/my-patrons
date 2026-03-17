@@ -18,12 +18,9 @@
             "Alfred"
         ]
     },
-    "links": {
-        "records/patrons/andreas/bes": {
-            "fr": "André Bessette",
-            "la": "Andreas Bessette",
-            "en": "Andrew Bessette",
-            "pl": "Andrzej Bessette"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/bes",
+        "records/patrons/andreas/bes",
+        "records/patrons/andreas/bes"
+    ]
 }

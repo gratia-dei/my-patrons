@@ -21,17 +21,9 @@
             "Vojtěch"
         ]
     },
-    "links": {
-        "records/patrons/adalbertus/nie": {
-            "pl": "Wojciech Nierychlewski",
-            "la": "Adalbertus Nierychlewski",
-            "en": "Adalbert Nierychlewski"
-        },
-        "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch Adalbert Slavníkovec",
-            "en": "Adalbert of Prague",
-            "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
-        }
-    }
+    "links": [
+        "records/patrons/adalbertus/nie",
+        "records/patrons/adalbertus/pra",
+        "records/patrons/adalbertus/pra"
+    ]
 }

@@ -7,11 +7,7 @@
             "Januszewski"
         ]
     },
-    "links": {
-        "records/patrons/hilarius/jan": {
-            "pl": "Hilary Januszewski",
-            "la": "Hilarius Januszewski",
-            "en": "Hillary Januszewski"
-        }
-    }
+    "links": [
+        "records/patrons/hilarius/jan"
+    ]
 }

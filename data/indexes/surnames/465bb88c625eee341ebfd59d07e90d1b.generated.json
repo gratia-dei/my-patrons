@@ -14,12 +14,7 @@
             "de Hieronimo"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/ger": {
-            "it": "Francesco de Geronimo",
-            "la": "Franciscus de Geronimo",
-            "en": "Francis de Geronimo",
-            "pl": "Franciszek de Hieronimo"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/ger"
+    ]
 }

@@ -21,48 +21,13 @@
             "Giovanna"
         ]
     },
-    "links": {
-        "records/patrons/ioanna/arc": {
-            "fr": "Jeanne d'Arc",
-            "la": "Ioanna Arcensis",
-            "en": "Joan of Arc",
-            "pl": "Joanna d'Arc"
-        },
-        "records/patrons/ioanna/ber": {
-            "it": "Gianna Beretta Molla",
-            "la": "Ioanna Beretta Molla",
-            "en": "Joan Beretta Molla",
-            "pl": "Joanna Beretta Molla"
-        },
-        "records/patrons/ioanna/bon": {
-            "it": "Giovanna Maria Bonomo",
-            "la": "Ioanna Maria Bonomo",
-            "en": "Joan Mary Bonomo",
-            "pl": "Joanna Maria Bonomo"
-        },
-        "records/patrons/ioanna/les": {
-            "fr": "Jeanne de Lestonnac",
-            "la": "Ioanna de Lestonnac",
-            "en": "Joan of Lestonnac",
-            "pl": "Joanna de Lestonnac"
-        },
-        "records/patrons/ioanna/mai": {
-            "fr": "Jeanne-Marie de Maillé",
-            "la": "Ioanna Maria de Maille",
-            "en": "Joan Mary of Maille",
-            "pl": "Joanna Maria z Maille"
-        },
-        "records/patrons/ioanna/val": {
-            "fr": "Jeanne de Valois",
-            "la": "Ioanna de Valois",
-            "en": "Joan of Valois",
-            "pl": "Joanna de Valois"
-        },
-        "records/patrons/ioanna/ver": {
-            "fr": "Jeanne Véron",
-            "la": "Ioanna Véron",
-            "en": "Joann Véron",
-            "pl": "Joanna Véron"
-        }
-    }
+    "links": [
+        "records/patrons/ioanna/arc",
+        "records/patrons/ioanna/ber",
+        "records/patrons/ioanna/bon",
+        "records/patrons/ioanna/les",
+        "records/patrons/ioanna/mai",
+        "records/patrons/ioanna/val",
+        "records/patrons/ioanna/ver"
+    ]
 }

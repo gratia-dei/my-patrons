@@ -27,30 +27,18 @@
             "로사"
         ]
     },
-    "links": {
-        "records/patrons/maria/dur": {
-            "fr": "Marie-Rose Durocher",
-            "pl": "Maria Róża Durocher",
-            "la": "Maria Rosa Durocher",
-            "en": "Marie Rose Durocher"
-        },
-        "records/patrons/rosa/kim": {
-            "ko": "김 로사",
-            "la": "Rosa Kim",
-            "en": "Rose Kim",
-            "pl": "Róża Kim"
-        },
-        "records/patrons/rosa/lim": {
-            "es": "Rosa de Lima",
-            "la": "Rosa de Lima",
-            "en": "Rose of Lima",
-            "pl": "Róża z Limy"
-        },
-        "records/patrons/rosa/ven": {
-            "it": "Rosa Venerini",
-            "la": "Rosa Venerini",
-            "en": "Rose Venerini",
-            "pl": "Róża Venerini"
-        }
-    }
+    "links": [
+        "records/patrons/maria/dur",
+        "records/patrons/maria/dur",
+        "records/patrons/maria/dur",
+        "records/patrons/rosa/kim",
+        "records/patrons/rosa/kim",
+        "records/patrons/rosa/kim",
+        "records/patrons/rosa/lim",
+        "records/patrons/rosa/lim",
+        "records/patrons/rosa/lim",
+        "records/patrons/rosa/ven",
+        "records/patrons/rosa/ven",
+        "records/patrons/rosa/ven"
+    ]
 }

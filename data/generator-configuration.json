@@ -27,11 +27,11 @@
 
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/god", "categories", "names", "/indexes/categories"]
+        "params": ["/records/god", "categories", "/indexes/categories"]
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/patrons", "categories", "names", "/indexes/categories"]
+        "params": ["/records/patrons", "categories", "/indexes/categories"]
     },
     {
         "class": "GenerateIndexFileForAllSubDirectoriesDataFilesProcedure",
@@ -39,11 +39,11 @@
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/god", "forenames", "names", "/indexes/forenames"]
+        "params": ["/records/god", "forenames", "/indexes/forenames"]
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/patrons", "forenames", "names", "/indexes/forenames"]
+        "params": ["/records/patrons", "forenames", "/indexes/forenames"]
     },
     {
         "class": "GenerateIndexFileForAllSubDirectoriesDataFilesProcedure",
@@ -51,11 +51,11 @@
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/god", "surnames", "names", "/indexes/surnames"]
+        "params": ["/records/god", "surnames", "/indexes/surnames"]
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/patrons", "surnames", "names", "/indexes/surnames"]
+        "params": ["/records/patrons", "surnames", "/indexes/surnames"]
     },
     {
         "class": "GenerateIndexFileForAllSubDirectoriesDataFilesProcedure",
@@ -63,11 +63,11 @@
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/god", "epithets", "names", "/indexes/epithets"]
+        "params": ["/records/god", "epithets", "/indexes/epithets"]
     },
     {
         "class": "GenerateGroupedDataIndexFilesProcedure",
-        "params": ["/records/patrons", "epithets", "names", "/indexes/epithets"]
+        "params": ["/records/patrons", "epithets", "/indexes/epithets"]
     },
     {
         "class": "GenerateIndexFileForAllSubDirectoriesDataFilesProcedure",

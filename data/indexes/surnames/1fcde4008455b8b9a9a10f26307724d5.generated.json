@@ -7,12 +7,7 @@
             "Morano"
         ]
     },
-    "links": {
-        "records/patrons/magdalena/mor": {
-            "it": "Maddalena Caterina Morano",
-            "la": "Magdalena Catharina Morano",
-            "en": "Magdalene Catherine Morano",
-            "pl": "Magdalena Katarzyna Morano"
-        }
-    }
+    "links": [
+        "records/patrons/magdalena/mor"
+    ]
 }

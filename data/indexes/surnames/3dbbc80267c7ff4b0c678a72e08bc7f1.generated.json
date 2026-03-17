@@ -7,11 +7,7 @@
             "Zawistowski"
         ]
     },
-    "links": {
-        "records/patrons/antonius/zaw": {
-            "pl": "Antoni Zawistowski",
-            "la": "Anthony Zawistowski",
-            "en": "Antonius Zawistowski"
-        }
-    }
+    "links": [
+        "records/patrons/antonius/zaw"
+    ]
 }

@@ -19,23 +19,9 @@
             "Christophe"
         ]
     },
-    "links": {
-        "records/patrons/christophorus/lyc": {
-            "la": "Christophorus Lyciensis",
-            "en": "Christopher of Lycia",
-            "pl": "Krzysztof z Licji"
-        },
-        "records/patrons/christophorus/mag": {
-            "es": "Cristóbal Magallanes Jara",
-            "la": "Christophorus Magallanes Jara",
-            "en": "Christopher Magallanes Jara",
-            "pl": "Krzysztof Magallanes Jara"
-        },
-        "records/patrons/petrus/fav": {
-            "fr": "Pierre-Sulpice-Christophe Faverge",
-            "la": "Petrus Sulpitius Christophorus Faverge",
-            "en": "Peter Sulpice Christopher Faverge",
-            "pl": "Piotr Sulpicjusz Krzysztof Faverge"
-        }
-    }
+    "links": [
+        "records/patrons/christophorus/lyc",
+        "records/patrons/christophorus/mag",
+        "records/patrons/petrus/fav"
+    ]
 }

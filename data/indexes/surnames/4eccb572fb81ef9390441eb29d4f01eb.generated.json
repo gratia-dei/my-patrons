@@ -7,12 +7,7 @@
             "Mesina"
         ]
     },
-    "links": {
-        "records/patrons/antonia/mes": {
-            "it": "Antonia Mesina",
-            "la": "Antonia Mesina",
-            "en": "Anthonia Mesina",
-            "pl": "Antonia Mesina"
-        }
-    }
+    "links": [
+        "records/patrons/antonia/mes"
+    ]
 }

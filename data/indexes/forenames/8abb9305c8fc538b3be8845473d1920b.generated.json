@@ -14,11 +14,8 @@
             "Atanazy"
         ]
     },
-    "links": {
-        "records/patrons/athanasius/ale": {
-            "la": "Athanasius Magnus",
-            "en": "Athanasius the Great",
-            "pl": "Atanazy Wielki"
-        }
-    }
+    "links": [
+        "records/patrons/athanasius/ale",
+        "records/patrons/athanasius/ale"
+    ]
 }

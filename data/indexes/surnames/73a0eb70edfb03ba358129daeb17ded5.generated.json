@@ -7,11 +7,7 @@
             "Bodey"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/bod": {
-            "en": "John Bodey",
-            "la": "Ioannes Bodey",
-            "pl": "Jan Bodey"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/bod"
+    ]
 }

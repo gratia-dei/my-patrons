@@ -17,17 +17,10 @@
             "Monique"
         ]
     },
-    "links": {
-        "records/patrons/monica/pic": {
-            "fr": "Monique Pichery",
-            "la": "Monica Pichery",
-            "en": "Monica Pichery",
-            "pl": "Monika Pichery"
-        },
-        "records/patrons/monica/vid": {
-            "la": "Monica Thagastensis",
-            "en": "Monica of Tagasta",
-            "pl": "Monika z Tagasty"
-        }
-    }
+    "links": [
+        "records/patrons/monica/pic",
+        "records/patrons/monica/pic",
+        "records/patrons/monica/vid",
+        "records/patrons/monica/vid"
+    ]
 }

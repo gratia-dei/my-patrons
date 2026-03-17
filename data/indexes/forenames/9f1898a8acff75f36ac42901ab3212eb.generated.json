@@ -16,18 +16,8 @@
             "Gaspare"
         ]
     },
-    "links": {
-        "records/patrons/gaspar/ber": {
-            "it": "Gaspare Bertoni",
-            "la": "Gaspar Bertoni",
-            "en": "Casper Bertoni",
-            "pl": "Kasper Bertoni"
-        },
-        "records/patrons/gaspar/buf": {
-            "it": "Gaspare del Bufalo",
-            "la": "Gaspar del Bufalo",
-            "en": "Gaspar del Bufalo",
-            "pl": "Kasper del Bufalo"
-        }
-    }
+    "links": [
+        "records/patrons/gaspar/ber",
+        "records/patrons/gaspar/buf"
+    ]
 }

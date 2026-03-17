@@ -17,12 +17,8 @@
             "Maur"
         ]
     },
-    "links": {
-        "records/patrons/maurus/abb": {
-            "fr": "Maur, abbé",
-            "la": "Maurus, abbas",
-            "en": "Maurus, abbot",
-            "pl": "Maur, opat"
-        }
-    }
+    "links": [
+        "records/patrons/maurus/abb",
+        "records/patrons/maurus/abb"
+    ]
 }

@@ -19,12 +19,10 @@
             "Abel"
         ]
     },
-    "links": {
-        "records/patrons/andreas/alr": {
-            "fr": "André-Abel Alricy",
-            "la": "Andreas Abel Alricy",
-            "en": "Andrew Abel Alricy",
-            "pl": "Andrzej Abel Alricy"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/alr",
+        "records/patrons/andreas/alr"
+    ]
 }

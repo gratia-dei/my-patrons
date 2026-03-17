@@ -16,12 +16,7 @@
             "Dziewiąty"
         ]
     },
-    "links": {
-        "records/patrons/ludovicus/rex": {
-            "fr": "Louis IX, roi de France",
-            "la": "Ludovicus IX, rex Franciae",
-            "en": "Louis IX, king of France",
-            "pl": "Ludwik IX, król Francji"
-        }
-    }
+    "links": [
+        "records/patrons/ludovicus/rex"
+    ]
 }

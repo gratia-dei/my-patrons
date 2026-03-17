@@ -14,12 +14,8 @@
             "patriarcha"
         ]
     },
-    "links": {
-        "records/patrons/pius/10p": {
-            "it": "Pio X",
-            "la": "Pius X",
-            "en": "Pius X",
-            "pl": "Pius X"
-        }
-    }
+    "links": [
+        "records/patrons/pius/10p",
+        "records/patrons/pius/10p"
+    ]
 }

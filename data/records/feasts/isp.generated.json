@@ -1,24 +1,8 @@
 {
-    "links": {
-        "records/patrons/abibo/hie": {
-            "la": "Abibo Hierosolymitanus",
-            "en": "Abibon of Jerusalem",
-            "pl": "Abibo z Jerozolimy"
-        },
-        "records/patrons/gamaliel/hie": {
-            "la": "Gamaliel Hierosolymitanus",
-            "en": "Gamaliel of Jerusalem",
-            "pl": "Gamaliel z Jerozolimy"
-        },
-        "records/patrons/nicodemus/pha": {
-            "la": "Nicodemus, Pharisaeus",
-            "en": "Nicodemus, Pharisee",
-            "pl": "Nikodem, Faryzeusz"
-        },
-        "records/patrons/stephanus/pro": {
-            "la": "Stephanus protomartyr",
-            "en": "Stephen Protomartyr",
-            "pl": "Szczepan Pramęczennik"
-        }
-    }
+    "links": [
+        "patrons/abibo/hie",
+        "patrons/gamaliel/hie",
+        "patrons/nicodemus/pha",
+        "patrons/stephanus/pro"
+    ]
 }

@@ -13,703 +13,132 @@
             "biskup"
         ]
     },
-    "links": {
-        "records/patrons/acacius/mel": {
-            "la": "Acacius Melitenensis",
-            "en": "Acathius of Melitene",
-            "pl": "Achacjusz z Melitene"
-        },
-        "records/patrons/adalbertus/pra": {
-            "cz": "Vojtěch Adalbert Slavníkovec",
-            "en": "Adalbert of Prague",
-            "la": "Adalbertus Pragensis",
-            "pl": "Wojciech Sławnikowic"
-        },
-        "records/patrons/agricola/niv": {
-            "fr": "Agricole de Nevers",
-            "la": "Agricola Nivernensis",
-            "en": "Agricola of Nevers",
-            "pl": "Agrykola z Nevers"
-        },
-        "records/patrons/albertus/lov": {
-            "fr": "Albert de Louvain",
-            "la": "Albertus Lovaniensis",
-            "en": "Albert of Louvain",
-            "pl": "Albert z Louvain"
-        },
-        "records/patrons/albertus/mag": {
-            "de": "Albert der Große",
-            "la": "Albertus Magnus",
-            "en": "Albert the Great",
-            "pl": "Albert Wielki"
-        },
-        "records/patrons/alphonsus/lig": {
-            "it": "Alfonso Maria de' Liguori",
-            "en": "Alphonsus Maria Liguori",
-            "la": "Alphonsus Maria a Ligorio",
-            "pl": "Alfons Maria Liguori"
-        },
-        "records/patrons/alypius/tha": {
-            "la": "Alypius Tagastensis",
-            "en": "Alypius of Tagaste",
-            "pl": "Alipiusz z Tagasty"
-        },
-        "records/patrons/ambrosius/med": {
-            "la": "Ambrosius Mediolanensis",
-            "en": "Ambrose of Milan",
-            "pl": "Ambroży z Mediolanu"
-        },
-        "records/patrons/andreas/cor": {
-            "it": "Andrea Corsini",
-            "la": "Andreas Corsinus",
-            "en": "Andrew Corsini",
-            "pl": "Andrzej Corsini"
-        },
-        "records/patrons/anselmus/can": {
-            "en": "Anselm of Canterbury",
-            "la": "Anselmus Cantuariensis",
-            "pl": "Anzelm z Canterbury"
-        },
-        "records/patrons/ansgarius/ham": {
-            "de": "Ansgar von Bremen",
-            "la": "Ansgarius Bremensis",
-            "en": "Ansgar of Bremen",
-            "pl": "Ansgar z Bremy"
-        },
-        "records/patrons/ansgarius/rom": {
-            "es": "Óscar Arnulfo Romero y Galdámez",
-            "la": "Ansgarius Arnulphus Romero Galdámez",
-            "en": "Oscar Arnulf Romero Galdámez",
-            "pl": "Oskar Arnulf Romero Galdámez"
-        },
-        "records/patrons/antonius/cau": {
-            "el": "Ἀντώνιος Καυλέας",
-            "la": "Antonius Cauleas",
-            "en": "Anthony Cauleas",
-            "pl": "Antoni Kauleas"
-        },
-        "records/patrons/antonius/dav": {
-            "fr": "Antoine Daveluy",
-            "la": "Antonius Daveluy",
-            "en": "Anthony Daveluy",
-            "pl": "Antoni Daveluy"
-        },
-        "records/patrons/antonius/now": {
-            "pl": "Antoni Julian Nowowiejski",
-            "la": "Antonius Iulianus Nowowiejski",
-            "en": "Anthony Julian Nowowiejski"
-        },
-        "records/patrons/aristarchus/the": {
-            "el": "Αρίσταρχος ο Θεσσαλονικεύς",
-            "la": "Aristarchus Thessalonicensis",
-            "en": "Aristarchus of Thessalonica",
-            "pl": "Arystarch z Tesaloniki"
-        },
-        "records/patrons/asprenas/nea": {
-            "it": "Aspreno di Napoli",
-            "la": "Asprenas de Neapolis",
-            "en": "Aspren of Naples",
-            "pl": "Aspren z Neapolu"
-        },
-        "records/patrons/athanasius/ale": {
-            "la": "Athanasius Magnus",
-            "en": "Athanasius the Great",
-            "pl": "Atanazy Wielki"
-        },
-        "records/patrons/augustinus/hip": {
-            "la": "Augustinus Hipponensis",
-            "en": "Augustine of Hippo",
-            "pl": "Augustyn z Hippony"
-        },
-        "records/patrons/bartholomaeus/bre": {
-            "it": "Bartolomeo da Breganze",
-            "la": "Bartholomaeus de Bregantia",
-            "en": "Bartholomew of Breganze",
-            "pl": "Bartłomiej z Vicenzy"
-        },
-        "records/patrons/bartholomaeus/fer": {
-            "pt": "Bartolomeu dos Mártires",
-            "la": "Bartholomaeus a Martyribus Fernandes",
-            "en": "Bartholomew of the Martyrs",
-            "pl": "Bartłomiej Fernandes od Męczenników"
-        },
-        "records/patrons/basilius/mag": {
-            "el": "Βασίλειος Μέγας",
-            "la": "Basilius Magnus",
-            "en": "Basil the Great",
-            "pl": "Bazyli Wielki"
-        },
-        "records/patrons/blasius/seb": {
-            "la": "Blasius de Sebaste",
-            "en": "Blaise of Sebaste",
-            "pl": "Błażej z Sebasty"
-        },
-        "records/patrons/bogumilus/dob": {
-            "pl": "Bogumił z Dobrowa",
-            "la": "Bogumilus de Dobrovia",
-            "en": "Bogumil of Dobrow"
-        },
-        "records/patrons/bonifatius/win": {
-            "la": "Bonifatius Winfridus",
-            "en": "Boniface Wynfreth",
-            "pl": "Bonifacy Wynfryd"
-        },
-        "records/patrons/caesarius/are": {
-            "la": "Caesarius Arelatensis",
-            "en": "Caesarius of Arles",
-            "pl": "Cezary z Arles"
-        },
-        "records/patrons/carolus/bor": {
-            "it": "Carlo Borromeo",
-            "la": "Carolus Borromeo",
-            "en": "Charles Borromeo",
-            "pl": "Karol Boromeusz"
-        },
-        "records/patrons/cassianus/aug": {
-            "fr": "Cassien d'Autun",
-            "la": "Cassianus Augustodunensis",
-            "en": "Cassian of Autun",
-            "pl": "Kasjan z Autun"
-        },
-        "records/patrons/chaeremon/nil": {
-            "la": "Chaeremon Nilopolitanus",
-            "en": "Chaeremon of Nilopolis",
-            "pl": "Chajremon z Nilopolis"
-        },
-        "records/patrons/clemens/aga": {
-            "la": "Clemens Ancyranus",
-            "en": "Clement of Ancyra",
-            "pl": "Klemens z Ankary"
-        },
-        "records/patrons/corbinianus/fri": {
-            "la": "Corbinianus de Frisingae",
-            "en": "Corbinian of Freising",
-            "pl": "Korbinian z Fryzyngi"
-        },
-        "records/patrons/cyprianus/car": {
-            "la": "Cyprianus Carthaginensis",
-            "en": "Cyprian of Carthage",
-            "pl": "Cyprian z Kartaginy"
-        },
-        "records/patrons/cyrillus/ale": {
-            "la": "Cyrillus Alexandrinus",
-            "en": "Cyril of Alexandria",
-            "pl": "Cyryl Aleksandryjski"
-        },
-        "records/patrons/cyrillus/hie": {
-            "el": "Κύριλλος Ιεροσολύμων",
-            "la": "Cyrillus Hierosolymitanus",
-            "en": "Cyril of Jerusalem",
-            "pl": "Cyryl Jerozolimski"
-        },
-        "records/patrons/cyrillus/met": {
-            "la": "Cyrillus Thessalonicensis",
-            "en": "Cyril of Thessalonica",
-            "pl": "Cyryl z Tesaloniki"
-        },
-        "records/patrons/david/men": {
-            "cy": "Dewi Mynyw",
-            "la": "David Meneviensis",
-            "en": "David of Menevia",
-            "pl": "Dawid z Menevii"
-        },
-        "records/patrons/dionysius/are": {
-            "grc": "Διονύσιος ὁ Ἀρεοπαγίτης",
-            "la": "Dionysius Areopagita",
-            "en": "Denis the Areopagite",
-            "pl": "Dionizy Areopagita"
-        },
-        "records/patrons/dionysius/cor": {
-            "el": "Διονύσιος Κορίνθου",
-            "la": "Dionysius Corinthius",
-            "en": "Dionysius of Corinth",
-            "pl": "Dionizy z Koryntu"
-        },
-        "records/patrons/dionysius/lut": {
-            "fr": "Denis de Paris, avec lui, a.o., Rustique",
-            "la": "Dionysius Parisiensis, cum eo, i.a., Rusticus",
-            "en": "Denis of Paris, with him, i.a., Rusticus",
-            "pl": "Dionizy z Paryża, z nim, m.in., Rustyk"
-        },
-        "records/patrons/donatus/sco": {
-            "en": "Donatus of Fiesole",
-            "la": "Donatus Scotus",
-            "pl": "Donat z Fiesole"
-        },
-        "records/patrons/emmerammus/rat": {
-            "la": "Emmeramus Ratisbonensis",
-            "en": "Emmeram of Regensburg",
-            "pl": "Emmeram z Ratyzbony"
-        },
-        "records/patrons/eobanus/bon": {
-            "la": "Eobanus de Ultraiectum",
-            "en": "Eoban of Utrecht",
-            "pl": "Eoban z Utrechtu"
-        },
-        "records/patrons/erasmus/for": {
-            "la": "Erasmus de Formia",
-            "en": "Erasmus of Formia",
-            "pl": "Erazm z Formii"
-        },
-        "records/patrons/eusebius/ver": {
-            "la": "Eusebius Vercellensis",
-            "en": "Eusebius of Vercelli",
-            "pl": "Euzebiusz z Vercelli"
-        },
-        "records/patrons/flosculus/aur": {
-            "la": "Flosculus de Aurelianum",
-            "en": "Floscule of Orleans",
-            "pl": "Floskul z Orleanu"
-        },
-        "records/patrons/franciscus/sal": {
-            "fr": "François de Sales",
-            "la": "Franciscus de Sales",
-            "en": "Francis de Sales",
-            "pl": "Franciszek Salezy"
-        },
-        "records/patrons/fulgentius/rus": {
-            "la": "Fulgentius Ruspensis",
-            "en": "Fulgentius of Ruspe",
-            "pl": "Fulgencjusz z Ruspe"
-        },
-        "records/patrons/gabriel/duf": {
-            "fr": "Gabriel Taurin Dufresse",
-            "la": "Gabriel Taurinus Dufresse",
-            "en": "Gabriel Taurin Dufresse",
-            "pl": "Gabriel Taurin Dufresse"
-        },
-        "records/patrons/gaudentius/rad": {
-            "pl": "Radzim Gaudenty",
-            "la": "Gaudentius seu Radzim",
-            "en": "Radim Gaudentius"
-        },
-        "records/patrons/geraldus/bit": {
-            "fr": "Guiraud de Béziers",
-            "la": "Geraldus Biterrensis",
-            "en": "Gerald of Béziers",
-            "pl": "Gerald z Béziers"
-        },
-        "records/patrons/gerardus/sag": {
-            "it": "Gerardo Sagredo",
-            "hu": "Sagredo Gellért",
-            "la": "Gerardus Sagredo",
-            "en": "Gerard Sagredo",
-            "pl": "Gerard Sagredo"
-        },
-        "records/patrons/gregorius/lak": {
-            "uk": "Григорій Лакота",
-            "pl": "Grzegorz Łakota",
-            "la": "Gregorius Lakota",
-            "en": "Gregory Lakota"
-        },
-        "records/patrons/gregorius/naz": {
-            "grc": "Γρηγόριος Ναζιανζηνός",
-            "la": "Gregorius Nazianzenus",
-            "en": "Gregory of Nazianzus",
-            "pl": "Grzegorz z Nazjanzu"
-        },
-        "records/patrons/gregorius/nys": {
-            "el": "Γρηγόριος Νύσσης",
-            "la": "Gregorius Nyssenus",
-            "en": "Gregory of Nyssa",
-            "pl": "Grzegorz z Nyssy"
-        },
-        "records/patrons/guido/con": {
-            "it": "Guido Maria Conforti",
-            "la": "Guido Maria Conforti",
-            "en": "Guido Maria Conforti",
-            "pl": "Gwidon Maria Conforti"
-        },
-        "records/patrons/gulielmus/tem": {
-            "fr": "Guillaume Tempier",
-            "la": "Gulielmus Tempier",
-            "en": "William Tempier",
-            "pl": "Wilhelm Tempier"
-        },
-        "records/patrons/hilarius/aqu": {
-            "it": "Ilario da Aquileia",
-            "la": "Hilarius de Aquileia",
-            "en": "Hilarius of Aquileia",
-            "pl": "Hilary z Akwilei"
-        },
-        "records/patrons/hugo/lin": {
-            "en": "Hugo of Lincoln",
-            "la": "Hugo Lincolniensis",
-            "pl": "Hugo z Lincoln"
-        },
-        "records/patrons/iacobus/ben": {
-            "it": "Giacomo Benfatti",
-            "la": "Iacobus Benfatti",
-            "en": "James Benfatti",
-            "pl": "Jakub Benfatti"
-        },
-        "records/patrons/iacobus/min": {
-            "la": "Iacobus Minor Apostolus",
-            "en": "James the Less Apostle",
-            "pl": "Jakub Mniejszy Apostoł"
-        },
-        "records/patrons/iacobus/str": {
-            "pl": "Jakub Strzemię",
-            "la": "Iacobus Strepa",
-            "en": "James Strzemie"
-        },
-        "records/patrons/ianuarius/ben": {
-            "la": "Ianuarius Beneventanus",
-            "en": "Januarius of Benevento",
-            "pl": "January z Benewentu"
-        },
-        "records/patrons/ignatius/ant": {
-            "grc": "Ἰγνάτιος Ἀντιοχείας",
-            "la": "Ignatius Antiochenus",
-            "en": "Ignatius of Antioch",
-            "pl": "Ignacy Antiocheński"
-        },
-        "records/patrons/ignatius/mal": {
-            "hy": "Իգնատիոս Մալոյան",
-            "la": "Ignatius Maloyan",
-            "en": "Ignatius Maloyan",
-            "pl": "Ignacy Maloyan"
-        },
-        "records/patrons/ioannes/chr": {
-            "la": "Ioannes Chrysostomus",
-            "en": "John Chrysostom",
-            "pl": "Jan Chryzostom"
-        },
-        "records/patrons/ioannes/ele": {
-            "la": "Ioannes Eleemosynarius",
-            "en": "John the Almsgiver",
-            "pl": "Jan Jałmużnik"
-        },
-        "records/patrons/ioannes/rib": {
-            "es": "Juan de Ribera",
-            "la": "Ioannes de Ribera",
-            "en": "John de Ribera",
-            "pl": "Jan de Ribera"
-        },
-        "records/patrons/iosaphat/kun": {
-            "pl": "Jozafat Kuncewicz",
-            "la": "Iosaphat Kuncewicz",
-            "en": "Josaphat Kuntsevych"
-        },
-        "records/patrons/iosephus/bil": {
-            "pl": "Józef Bilczewski",
-            "la": "Iosephus Bilczewski",
-            "en": "Joseph Bilczewski"
-        },
-        "records/patrons/iosephus/pel": {
-            "pl": "Józef Sebastian Pelczar",
-            "la": "Iosephus Sebastianus Pelczar",
-            "en": "Joseph Sebastian Pelczar"
-        },
-        "records/patrons/irenaeus/lug": {
-            "fr": "Irénée de Lyon",
-            "la": "Irenaeus Lugdunensis",
-            "en": "Irenaeus of Lugdunum",
-            "pl": "Ireneusz z Lyonu"
-        },
-        "records/patrons/irenaeus/sir": {
-            "la": "Irenaeus Sirmiensis",
-            "en": "Irenaeus of Sirmium",
-            "pl": "Ireneusz z Sirmium"
-        },
-        "records/patrons/isidorus/his": {
-            "es": "Isidoro de Sevilla",
-            "la": "Isidorus Hispalensis",
-            "en": "Isidore of Seville",
-            "pl": "Izydor z Sewilli"
-        },
-        "records/patrons/iustinus/iac": {
-            "it": "Giustino de Jacobis",
-            "la": "Iustinus de Iacobis",
-            "en": "Justin de Jacobis",
-            "pl": "Justyn de Jacobis"
-        },
-        "records/patrons/iuvenalis/nar": {
-            "la": "Iuvenalis Narniensis",
-            "en": "Juvenal of Narni",
-            "pl": "Juwenalis z Narni"
-        },
-        "records/patrons/ladislaus/gor": {
-            "pl": "Władysław Goral",
-            "la": "Ladislaus Goral",
-            "en": "Ladislaus Goral"
-        },
-        "records/patrons/laurentius/can": {
-            "en": "Laurence of Canterbury",
-            "la": "Laurentius Cantuariensis",
-            "pl": "Wawrzyniec z Canterbury"
-        },
-        "records/patrons/lazarus/med": {
-            "la": "Lazarus Mediolanensis",
-            "en": "Lazarus of Milan",
-            "pl": "Łazarz z Mediolanu"
-        },
-        "records/patrons/lucianus/leo": {
-            "it": "Luciano di Lentini",
-            "la": "Lucianus de Leontini",
-            "en": "Lucian of Lentini",
-            "pl": "Lucjan z Lentini"
-        },
-        "records/patrons/ludovicus/mor": {
-            "fr": "Louis-Zéphirin Moreau",
-            "la": "Ludovicus Zephyrinus Moreau",
-            "en": "Louis Zephyrinus Moreau",
-            "pl": "Ludwik Zefiryn Moreau"
-        },
-        "records/patrons/macarius/hie": {
-            "el": "Μακάριος Ἱεροσολύμων",
-            "la": "Macarius Hierosolymitanus",
-            "en": "Macarius of Jerusalem",
-            "pl": "Makary z Jerozolimy"
-        },
-        "records/patrons/marcus/hie": {
-            "la": "Marcus Hierosolymitanus",
-            "en": "Mark of Jerusalem",
-            "pl": "Marek z Jerozolimy"
-        },
-        "records/patrons/martinus/tur": {
-            "la": "Martinus Turonensis",
-            "en": "Martin of Tours",
-            "pl": "Marcin z Tours"
-        },
-        "records/patrons/maximus/hie": {
-            "la": "Maximus Hierosolymitanus",
-            "en": "Maximus of Jerusalem",
-            "pl": "Maksym z Jerozolimy"
-        },
-        "records/patrons/melanius/rhe": {
-            "fr": "Melaine de Rennes",
-            "la": "Melanius Rhedonensis",
-            "en": "Melaine of Rennes",
-            "pl": "Melaniusz z Rennes"
-        },
-        "records/patrons/methodius/cyr": {
-            "la": "Methodius Thessalonicensis",
-            "en": "Methodius of Thessalonica",
-            "pl": "Metody z Tesaloniki"
-        },
-        "records/patrons/michael/koz": {
-            "pl": "Michał Kozal",
-            "la": "Michael Kozal",
-            "en": "Michael Kozal"
-        },
-        "records/patrons/modestus/hie": {
-            "la": "Modestus Hierosolymitanus",
-            "en": "Modestus of Jerusalem",
-            "pl": "Modest z Jerozolimy"
-        },
-        "records/patrons/modestus/tre": {
-            "de": "Modestus von Trier",
-            "la": "Modestus Trevirensis",
-            "en": "Modestus of Trier",
-            "pl": "Modest z Trewiru"
-        },
-        "records/patrons/nicolaus/myr": {
-            "el": "Νικόλαος",
-            "la": "Nicolaus Myrensis",
-            "en": "Nicholas of Myra",
-            "pl": "Mikołaj z Miry"
-        },
-        "records/patrons/norbertus/mag": {
-            "de": "Norbert von Xanten",
-            "la": "Norbertus Magdeburgensis",
-            "en": "Norbert of Xanten",
-            "pl": "Norbert z Xanten"
-        },
-        "records/patrons/otho/bam": {
-            "de": "Otto von Bamberg",
-            "la": "Otho Bambergensis",
-            "en": "Otto of Bamberg",
-            "pl": "Otton z Bambergu"
-        },
-        "records/patrons/paphnutius/epi": {
-            "la": "Paphnutius Thebanus",
-            "en": "Paphnutius of Thebes",
-            "pl": "Pafnucy z Tebaidy"
-        },
-        "records/patrons/patiens/met": {
-            "fr": "Patient de Metz",
-            "la": "Patiens Metensis",
-            "en": "Patiens of Metz",
-            "pl": "Pacjens z Metz"
-        },
-        "records/patrons/patricius/hib": {
-            "ga": "Naomh Pádraig",
-            "en": "Patrick of Ireland",
-            "la": "Patricius episcopus in Hibernia",
-            "pl": "Patryk z Irlandii"
-        },
-        "records/patrons/paulus/con": {
-            "la": "Paulus Constantinopolitanus",
-            "en": "Paul of Constantinople",
-            "pl": "Paweł z Bizancjum"
-        },
-        "records/patrons/petronius/bon": {
-            "la": "Petronius Bononiensis",
-            "en": "Petronius of Bologna",
-            "pl": "Petroniusz z Bolonii"
-        },
-        "records/patrons/petrus/chr": {
-            "la": "Petrus Chrysologus",
-            "en": "Peter Chrysologus",
-            "pl": "Piotr Chryzolog"
-        },
-        "records/patrons/petrus/dam": {
-            "it": "Pier Damiani",
-            "la": "Petrus Damiani",
-            "en": "Peter Damian",
-            "pl": "Piotr Damiani"
-        },
-        "records/patrons/petrus/lux": {
-            "fr": "Pierre de Luxembourg",
-            "la": "Petrus de Luxemburgo",
-            "en": "Peter of Luxembourg",
-            "pl": "Piotr de Luxemburgo"
-        },
-        "records/patrons/petrus/tho": {
-            "it": "Pietro Tommaso",
-            "la": "Petrus Thomas",
-            "en": "Peter Thomas",
-            "pl": "Piotr Tomasz"
-        },
-        "records/patrons/pirminus/epi": {
-            "de": "Pirminius von Hornbach",
-            "la": "Pirminus Hornbacensis",
-            "en": "Pirmin of Hornbach",
-            "pl": "Pirmin z Hornbach"
-        },
-        "records/patrons/pius/10p": {
-            "it": "Pio X",
-            "la": "Pius X",
-            "en": "Pius X",
-            "pl": "Pius X"
-        },
-        "records/patrons/polycarpus/smy": {
-            "el": "Πολύκαρπος Σμύρνης",
-            "la": "Polycarpus Smyrnensis",
-            "en": "Polycarp of Smyrna",
-            "pl": "Polikarp ze Smyrny"
-        },
-        "records/patrons/robertus/bel": {
-            "it": "Roberto Bellarmino",
-            "la": "Robertus Bellarminus",
-            "en": "Robert Bellarmine",
-            "pl": "Robert Bellarmin"
-        },
-        "records/patrons/rupertus/sal": {
-            "de": "Rupert von Salzburg",
-            "la": "Rupertus Salisburgensis",
-            "en": "Rupert of Salzburg",
-            "pl": "Rupert z Salzburga"
-        },
-        "records/patrons/saturninus/tol": {
-            "la": "Saturninus Tolosanensis",
-            "en": "Saturnin of Toulouse",
-            "pl": "Saturnin z Tuluzy"
-        },
-        "records/patrons/sigismundus/fel": {
-            "pl": "Zygmunt Szczęsny Feliński",
-            "la": "Sigismundus Felix Feliński",
-            "en": "Sigismund Szczęsny Feliński"
-        },
-        "records/patrons/simplicianus/med": {
-            "la": "Simplicianus Mediolanensis",
-            "en": "Simplician of Milan",
-            "pl": "Symplicjan z Mediolanu"
-        },
-        "records/patrons/spyridon/cyp": {
-            "el": "Σπυρίδων Τριμυθούντος",
-            "la": "Spyridon Trimituntinus",
-            "en": "Spyridon of Tremithus",
-            "pl": "Spirydon z Tremituntu"
-        },
-        "records/patrons/stanislaus/cra": {
-            "pl": "Stanisław ze Szczepanowa",
-            "la": "Stanislaus Cracoviensis",
-            "en": "Stanislaus of Szczepanów"
-        },
-        "records/patrons/stephanus/cue": {
-            "fr": "Étienne-Théodore Cuenot",
-            "la": "Stephanus Theodorus Cuenot",
-            "en": "Stephen Theodore Cuenot",
-            "pl": "Stefan Teodor Cuenot"
-        },
-        "records/patrons/theodorus/rom": {
-            "uk": "Теодор Ромжа",
-            "la": "Theodorus Romzsa",
-            "en": "Theodore Romzha",
-            "pl": "Teodor Romża"
-        },
-        "records/patrons/theophanes/the": {
-            "el": "Θεοφάνης Νικαίας",
-            "la": "Theophanes Nicaenus",
-            "en": "Theophanes of Nicaea",
-            "pl": "Teofanes z Nicei"
-        },
-        "records/patrons/theophilus/ant": {
-            "el": "Θεόφιλος Αντιοχείας",
-            "la": "Theophilus Antiochenus",
-            "en": "Theophilus of Antioch",
-            "pl": "Teofil z Antiochii"
-        },
-        "records/patrons/thomas/bec": {
-            "en": "Thomas Becket",
-            "la": "Thomas Becket",
-            "pl": "Tomasz Becket"
-        },
-        "records/patrons/timotheus/eph": {
-            "el": "Τιμόθεος",
-            "la": "Timotheus Ephesinus",
-            "en": "Timothy of Ephesus",
-            "pl": "Tymoteusz z Efezu"
-        },
-        "records/patrons/titus/cre": {
-            "el": "Τίτος Κρήτης",
-            "la": "Titus Cretensis",
-            "en": "Titus of Crete",
-            "pl": "Tytus z Krety"
-        },
-        "records/patrons/turibius/mog": {
-            "es": "Toribio de Mogrovejo",
-            "la": "Turibius de Mogrovejo",
-            "en": "Turibius of Mogrovejo",
-            "pl": "Turybiusz de Mogrovejo"
-        },
-        "records/patrons/valentinus/int": {
-            "la": "Valentinus Interamnensis",
-            "en": "Valentine of Terni",
-            "pl": "Walenty z Terni"
-        },
-        "records/patrons/valerianus/ave": {
-            "la": "Valerianus, episcopus Avensan.",
-            "en": "Valerian of Abbenza",
-            "pl": "Walerian z Abbenzy"
-        },
-        "records/patrons/victorinus/pet": {
-            "it": "Vittorino di Pettau",
-            "la": "Victorinus Petovionensis",
-            "en": "Victorinus of Pettau",
-            "pl": "Wiktoryn z Patawii"
-        },
-        "records/patrons/vincentius/kad": {
-            "pl": "Wincenty Kadłubek",
-            "la": "Vincentius Kadlubek",
-            "en": "Vincent Kadłubek"
-        },
-        "records/patrons/virgilius/are": {
-            "la": "Virgilius Arelatensis",
-            "en": "Virgilius of Arles",
-            "pl": "Wirgiliusz z Arles"
-        },
-        "records/patrons/wilfridus/ebo": {
-            "en": "Wilfrid of York",
-            "la": "Wilfridus Eboracensis",
-            "pl": "Wilfryd z Yorku"
-        },
-        "records/patrons/zeno/mai": {
-            "la": "Zenon Maiumitanensis",
-            "en": "Zeno of Maiuma",
-            "pl": "Zenon z Maiumy"
-        }
-    }
+    "links": [
+        "records/patrons/acacius/mel",
+        "records/patrons/adalbertus/pra",
+        "records/patrons/agricola/niv",
+        "records/patrons/albertus/lov",
+        "records/patrons/albertus/mag",
+        "records/patrons/alphonsus/lig",
+        "records/patrons/alypius/tha",
+        "records/patrons/ambrosius/med",
+        "records/patrons/andreas/cor",
+        "records/patrons/anselmus/can",
+        "records/patrons/ansgarius/ham",
+        "records/patrons/ansgarius/rom",
+        "records/patrons/antonius/cau",
+        "records/patrons/antonius/dav",
+        "records/patrons/antonius/now",
+        "records/patrons/aristarchus/the",
+        "records/patrons/asprenas/nea",
+        "records/patrons/athanasius/ale",
+        "records/patrons/augustinus/hip",
+        "records/patrons/bartholomaeus/bre",
+        "records/patrons/bartholomaeus/fer",
+        "records/patrons/basilius/mag",
+        "records/patrons/blasius/seb",
+        "records/patrons/bogumilus/dob",
+        "records/patrons/bonifatius/win",
+        "records/patrons/caesarius/are",
+        "records/patrons/carolus/bor",
+        "records/patrons/cassianus/aug",
+        "records/patrons/chaeremon/nil",
+        "records/patrons/clemens/aga",
+        "records/patrons/corbinianus/fri",
+        "records/patrons/cyprianus/car",
+        "records/patrons/cyrillus/ale",
+        "records/patrons/cyrillus/hie",
+        "records/patrons/cyrillus/met",
+        "records/patrons/david/men",
+        "records/patrons/dionysius/are",
+        "records/patrons/dionysius/cor",
+        "records/patrons/dionysius/lut",
+        "records/patrons/donatus/sco",
+        "records/patrons/emmerammus/rat",
+        "records/patrons/eobanus/bon",
+        "records/patrons/erasmus/for",
+        "records/patrons/eusebius/ver",
+        "records/patrons/flosculus/aur",
+        "records/patrons/franciscus/sal",
+        "records/patrons/fulgentius/rus",
+        "records/patrons/gabriel/duf",
+        "records/patrons/gaudentius/rad",
+        "records/patrons/geraldus/bit",
+        "records/patrons/gerardus/sag",
+        "records/patrons/gregorius/lak",
+        "records/patrons/gregorius/naz",
+        "records/patrons/gregorius/nys",
+        "records/patrons/guido/con",
+        "records/patrons/gulielmus/tem",
+        "records/patrons/hilarius/aqu",
+        "records/patrons/hugo/lin",
+        "records/patrons/iacobus/ben",
+        "records/patrons/iacobus/min",
+        "records/patrons/iacobus/str",
+        "records/patrons/ianuarius/ben",
+        "records/patrons/ignatius/ant",
+        "records/patrons/ignatius/mal",
+        "records/patrons/ioannes/chr",
+        "records/patrons/ioannes/ele",
+        "records/patrons/ioannes/rib",
+        "records/patrons/iosaphat/kun",
+        "records/patrons/iosephus/bil",
+        "records/patrons/iosephus/pel",
+        "records/patrons/irenaeus/lug",
+        "records/patrons/irenaeus/sir",
+        "records/patrons/isidorus/his",
+        "records/patrons/iustinus/iac",
+        "records/patrons/iuvenalis/nar",
+        "records/patrons/ladislaus/gor",
+        "records/patrons/laurentius/can",
+        "records/patrons/lazarus/med",
+        "records/patrons/lucianus/leo",
+        "records/patrons/ludovicus/mor",
+        "records/patrons/macarius/hie",
+        "records/patrons/marcus/hie",
+        "records/patrons/martinus/tur",
+        "records/patrons/maximus/hie",
+        "records/patrons/melanius/rhe",
+        "records/patrons/methodius/cyr",
+        "records/patrons/michael/koz",
+        "records/patrons/modestus/hie",
+        "records/patrons/modestus/tre",
+        "records/patrons/nicolaus/myr",
+        "records/patrons/norbertus/mag",
+        "records/patrons/otho/bam",
+        "records/patrons/paphnutius/epi",
+        "records/patrons/patiens/met",
+        "records/patrons/patricius/hib",
+        "records/patrons/paulus/con",
+        "records/patrons/petronius/bon",
+        "records/patrons/petrus/chr",
+        "records/patrons/petrus/dam",
+        "records/patrons/petrus/lux",
+        "records/patrons/petrus/tho",
+        "records/patrons/pirminus/epi",
+        "records/patrons/pius/10p",
+        "records/patrons/polycarpus/smy",
+        "records/patrons/robertus/bel",
+        "records/patrons/rupertus/sal",
+        "records/patrons/saturninus/tol",
+        "records/patrons/sigismundus/fel",
+        "records/patrons/simplicianus/med",
+        "records/patrons/spyridon/cyp",
+        "records/patrons/stanislaus/cra",
+        "records/patrons/stephanus/cue",
+        "records/patrons/theodorus/rom",
+        "records/patrons/theophanes/the",
+        "records/patrons/theophilus/ant",
+        "records/patrons/thomas/bec",
+        "records/patrons/timotheus/eph",
+        "records/patrons/titus/cre",
+        "records/patrons/turibius/mog",
+        "records/patrons/valentinus/int",
+        "records/patrons/valerianus/ave",
+        "records/patrons/victorinus/pet",
+        "records/patrons/vincentius/kad",
+        "records/patrons/virgilius/are",
+        "records/patrons/wilfridus/ebo",
+        "records/patrons/zeno/mai"
+    ]
 }

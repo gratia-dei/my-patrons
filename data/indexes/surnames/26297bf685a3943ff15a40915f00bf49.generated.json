@@ -7,11 +7,7 @@
             "Stępniak"
         ]
     },
-    "links": {
-        "records/patrons/florianus/ste": {
-            "pl": "Florian Stępniak",
-            "la": "Florianus Stępniak",
-            "en": "Florian Stępniak"
-        }
-    }
+    "links": [
+        "records/patrons/florianus/ste"
+    ]
 }

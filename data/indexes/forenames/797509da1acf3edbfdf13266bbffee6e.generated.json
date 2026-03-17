@@ -14,17 +14,10 @@
             "Ireneusz"
         ]
     },
-    "links": {
-        "records/patrons/irenaeus/lug": {
-            "fr": "Irénée de Lyon",
-            "la": "Irenaeus Lugdunensis",
-            "en": "Irenaeus of Lugdunum",
-            "pl": "Ireneusz z Lyonu"
-        },
-        "records/patrons/irenaeus/sir": {
-            "la": "Irenaeus Sirmiensis",
-            "en": "Irenaeus of Sirmium",
-            "pl": "Ireneusz z Sirmium"
-        }
-    }
+    "links": [
+        "records/patrons/irenaeus/lug",
+        "records/patrons/irenaeus/lug",
+        "records/patrons/irenaeus/sir",
+        "records/patrons/irenaeus/sir"
+    ]
 }

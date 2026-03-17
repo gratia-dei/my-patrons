@@ -13,12 +13,7 @@
             "biskup kardynał"
         ]
     },
-    "links": {
-        "records/patrons/petrus/dam": {
-            "it": "Pier Damiani",
-            "la": "Petrus Damiani",
-            "en": "Peter Damian",
-            "pl": "Piotr Damiani"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/dam"
+    ]
 }

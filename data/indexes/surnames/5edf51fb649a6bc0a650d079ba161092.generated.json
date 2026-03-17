@@ -17,12 +17,7 @@
             "Kapistran"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/cap": {
-            "it": "Giovanni da Capestrano",
-            "la": "Ioannes de Capestrano",
-            "en": "John of Capistrano",
-            "pl": "Jan Kapistran"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/cap"
+    ]
 }

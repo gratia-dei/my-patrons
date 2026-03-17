@@ -7,12 +7,7 @@
             "de Ribera"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/rib": {
-            "es": "Juan de Ribera",
-            "la": "Ioannes de Ribera",
-            "en": "John de Ribera",
-            "pl": "Jan de Ribera"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/rib"
+    ]
 }

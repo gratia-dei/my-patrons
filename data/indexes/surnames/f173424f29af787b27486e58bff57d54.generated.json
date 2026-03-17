@@ -7,11 +7,7 @@
             "Strepa"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/str": {
-            "pl": "Jakub Strzemię",
-            "la": "Iacobus Strepa",
-            "en": "James Strzemie"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/str"
+    ]
 }

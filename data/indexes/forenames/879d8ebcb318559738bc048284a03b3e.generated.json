@@ -17,12 +17,8 @@
             "Filomena"
         ]
     },
-    "links": {
-        "records/patrons/philomena/rom": {
-            "it": "Filomena di Roma",
-            "la": "Philomena Romana",
-            "en": "Philomena of Rome",
-            "pl": "Filomena z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/philomena/rom",
+        "records/patrons/philomena/rom"
+    ]
 }

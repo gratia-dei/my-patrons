@@ -7,12 +7,7 @@
             "de Matha"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/mat": {
-            "fr": "Jean de Matha",
-            "la": "Ioannes de Matha",
-            "en": "John of Matha",
-            "pl": "Jan de Matha"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/mat"
+    ]
 }

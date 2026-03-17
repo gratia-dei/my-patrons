@@ -7,12 +7,7 @@
             "Neri"
         ]
     },
-    "links": {
-        "records/patrons/philippus/ner": {
-            "it": "Filippo Neri",
-            "la": "Fhilippus Nerius",
-            "en": "Fhilip Neri",
-            "pl": "Filip Neri"
-        }
-    }
+    "links": [
+        "records/patrons/philippus/ner"
+    ]
 }

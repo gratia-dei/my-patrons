@@ -19,12 +19,10 @@
             "Ngân"
         ]
     },
-    "links": {
-        "records/patrons/paulus/ngu": {
-            "vi": "Phaolô Nguyễn Ngân",
-            "la": "Paulus Nguyễn Ngân",
-            "en": "Paul Nguyễn Ngân",
-            "pl": "Paweł Nguyễn Ngân"
-        }
-    }
+    "links": [
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/ngu",
+        "records/patrons/paulus/ngu"
+    ]
 }

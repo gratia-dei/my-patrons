@@ -14,11 +14,8 @@
             "Tyburcjusz"
         ]
     },
-    "links": {
-        "records/patrons/tiburtius/val": {
-            "la": "Tiburtius de Roma",
-            "en": "Tiburtius of Rome",
-            "pl": "Tyburcjusz z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/tiburtius/val",
+        "records/patrons/tiburtius/val"
+    ]
 }

@@ -16,12 +16,7 @@
             "Chang"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/cha": {
-            "ko": "장주기 요셉",
-            "la": "Iosephus Chang Chu-gi",
-            "en": "Joseph Chang Chu-gi",
-            "pl": "Józef Chang Chu-gi"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/cha"
+    ]
 }

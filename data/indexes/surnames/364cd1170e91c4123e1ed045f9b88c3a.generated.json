@@ -7,12 +7,7 @@
             "Jaricot"
         ]
     },
-    "links": {
-        "records/patrons/paulina/jar": {
-            "fr": "Pauline Jaricot",
-            "la": "Paulina Maria Jaricot",
-            "en": "Pauline Jaricot",
-            "pl": "Paulina Jaricot"
-        }
-    }
+    "links": [
+        "records/patrons/paulina/jar"
+    ]
 }

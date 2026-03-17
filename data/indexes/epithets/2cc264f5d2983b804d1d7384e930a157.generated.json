@@ -13,12 +13,7 @@
             "Grzesznica"
         ]
     },
-    "links": {
-        "records/patrons/maria/aeg": {
-            "el": "Μαρία η Αιγυπτία",
-            "la": "Maria Aegyptiaca",
-            "en": "Mary of Egypt",
-            "pl": "Maria Egipcjanka"
-        }
-    }
+    "links": [
+        "records/patrons/maria/aeg"
+    ]
 }

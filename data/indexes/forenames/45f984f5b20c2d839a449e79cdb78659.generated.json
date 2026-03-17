@@ -16,23 +16,9 @@
             "Girolamo"
         ]
     },
-    "links": {
-        "records/patrons/hieronymus/dal": {
-            "la": "Hieronymus Stridonensis",
-            "en": "Jerome of Stridon",
-            "pl": "Hieronim ze Strydonu"
-        },
-        "records/patrons/hieronymus/emi": {
-            "it": "Girolamo Emiliani",
-            "la": "Hieronymus Emiliani",
-            "en": "Jerome Emiliani",
-            "pl": "Hieronim Emiliani"
-        },
-        "records/patrons/hieronymus/tif": {
-            "it": "Girolamo da Sant'Angelo in Vado",
-            "la": "Hieronymus de Tiferno Metaurensi",
-            "en": "Jerome Ranucci",
-            "pl": "Hieronim Ranucci"
-        }
-    }
+    "links": [
+        "records/patrons/hieronymus/dal",
+        "records/patrons/hieronymus/emi",
+        "records/patrons/hieronymus/tif"
+    ]
 }

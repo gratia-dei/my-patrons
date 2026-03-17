@@ -13,12 +13,7 @@
             "księżna"
         ]
     },
-    "links": {
-        "records/patrons/agnes/pra": {
-            "cs": "Anežka Česká",
-            "la": "Agnes de Bohemia",
-            "en": "Agnes of Bohemia",
-            "pl": "Agnieszka Przemyślidka"
-        }
-    }
+    "links": [
+        "records/patrons/agnes/pra"
+    ]
 }

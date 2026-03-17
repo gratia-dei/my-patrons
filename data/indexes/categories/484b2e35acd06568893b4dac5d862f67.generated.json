@@ -13,18 +13,8 @@
             "prawnik"
         ]
     },
-    "links": {
-        "records/patrons/bartholomaeus/lon": {
-            "it": "Bartolo Longo",
-            "la": "Bartholomaeus Longo",
-            "en": "Bartholomew Longo",
-            "pl": "Bartłomiej Longo"
-        },
-        "records/patrons/turibius/mog": {
-            "es": "Toribio de Mogrovejo",
-            "la": "Turibius de Mogrovejo",
-            "en": "Turibius of Mogrovejo",
-            "pl": "Turybiusz de Mogrovejo"
-        }
-    }
+    "links": [
+        "records/patrons/bartholomaeus/lon",
+        "records/patrons/turibius/mog"
+    ]
 }

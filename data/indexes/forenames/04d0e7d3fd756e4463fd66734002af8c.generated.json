@@ -17,12 +17,8 @@
             "Nuno"
         ]
     },
-    "links": {
-        "records/patrons/nonius/per": {
-            "pt": "Nuno Álvares Pereira",
-            "la": "Nonius Álvares Pereira",
-            "en": "Nonius Álvares Pereira",
-            "pl": "Noniusz Álvares Pereira"
-        }
-    }
+    "links": [
+        "records/patrons/nonius/per",
+        "records/patrons/nonius/per"
+    ]
 }

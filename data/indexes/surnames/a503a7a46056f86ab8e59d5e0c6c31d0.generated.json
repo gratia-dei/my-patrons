@@ -16,60 +16,15 @@
             "Kim"
         ]
     },
-    "links": {
-        "records/patrons/andreas/kim": {
-            "ko": "김대건 안드레아",
-            "la": "Andreas Kim Tae-gŏn",
-            "en": "Andrew Kim Taegon",
-            "pl": "Andrzej Kim Tae-gŏn"
-        },
-        "records/patrons/anna/kim": {
-            "ko": "김장금 안나",
-            "la": "Anna Kim Chang-gŭm",
-            "en": "Anna Kim Chang-gŭm",
-            "pl": "Anna Kim Chang-gŭm"
-        },
-        "records/patrons/columba/kim": {
-            "ko": "김효임 골룸바",
-            "la": "Columba Kim Hyo-im",
-            "en": "Columba Kim Hyo-im",
-            "pl": "Kolumba Kim Hyo-im"
-        },
-        "records/patrons/ignatius/kim": {
-            "ko": "김제준 이냐시오",
-            "la": "Ignatius Kim Che-jun",
-            "en": "Ignatius Kim Che-jun",
-            "pl": "Ignacy Kim Che-jun"
-        },
-        "records/patrons/iulitta/kim": {
-            "ko": "김 율리에타",
-            "la": "Iulitta Kim",
-            "en": "Juliet Kim",
-            "pl": "Julita Kim"
-        },
-        "records/patrons/lucia/kim": {
-            "ko": "김 루치아",
-            "la": "Lucia Kim",
-            "en": "Locy Kim",
-            "pl": "Łucja Kim"
-        },
-        "records/patrons/lucia/kin": {
-            "ko": "김 루치아 (1818년 출생)",
-            "la": "Lucia Kim; cum ea, i.a., Magdalena Yi Yŏng-hŭi",
-            "en": "Locy Kim; with her, i.a., Magdalena Yi Yŏng-hŭi",
-            "pl": "Łucja Kim; z nią, m.in., Magdalena Yi Yŏng-hŭi"
-        },
-        "records/patrons/martha/kim": {
-            "ko": "김성임 마르타",
-            "la": "Martha Kim Sŏng-im",
-            "en": "Martha Kim Sŏng-im",
-            "pl": "Marta Kim Sŏng-im"
-        },
-        "records/patrons/rosa/kim": {
-            "ko": "김 로사",
-            "la": "Rosa Kim",
-            "en": "Rose Kim",
-            "pl": "Róża Kim"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/kim",
+        "records/patrons/anna/kim",
+        "records/patrons/columba/kim",
+        "records/patrons/ignatius/kim",
+        "records/patrons/iulitta/kim",
+        "records/patrons/lucia/kim",
+        "records/patrons/lucia/kin",
+        "records/patrons/martha/kim",
+        "records/patrons/rosa/kim"
+    ]
 }

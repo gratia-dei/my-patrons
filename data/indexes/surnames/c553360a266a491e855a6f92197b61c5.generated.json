@@ -10,12 +10,7 @@
             "Corsinus"
         ]
     },
-    "links": {
-        "records/patrons/andreas/cor": {
-            "it": "Andrea Corsini",
-            "la": "Andreas Corsinus",
-            "en": "Andrew Corsini",
-            "pl": "Andrzej Corsini"
-        }
-    }
+    "links": [
+        "records/patrons/andreas/cor"
+    ]
 }

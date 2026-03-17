@@ -18,12 +18,9 @@
             "Graptus"
         ]
     },
-    "links": {
-        "records/patrons/theodorus/gra": {
-            "el": "Θεοδώρος Γράπτος",
-            "la": "Theodorus Graptus",
-            "en": "Theodore the Graptus",
-            "pl": "Teodor Graptus"
-        }
-    }
+    "links": [
+        "records/patrons/theodorus/gra",
+        "records/patrons/theodorus/gra",
+        "records/patrons/theodorus/gra"
+    ]
 }

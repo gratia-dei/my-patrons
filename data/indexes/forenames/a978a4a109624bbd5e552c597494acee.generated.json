@@ -18,12 +18,9 @@
             "נַחוּם"
         ]
     },
-    "links": {
-        "records/patrons/nahum/pro": {
-            "he": "נחום, הנביא",
-            "la": "Nahum, propheta",
-            "en": "Nahum, prophet",
-            "pl": "Nahum, prorok"
-        }
-    }
+    "links": [
+        "records/patrons/nahum/pro",
+        "records/patrons/nahum/pro",
+        "records/patrons/nahum/pro"
+    ]
 }

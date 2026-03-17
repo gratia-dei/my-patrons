@@ -33,83 +33,32 @@
             "Катарина"
         ]
     },
-    "links": {
-        "records/patrons/catharina/ale": {
-            "la": "Catharina Alexandrina",
-            "en": "Catherine of Alexandria",
-            "pl": "Katarzyna Aleksandryjska"
-        },
-        "records/patrons/catharina/fie": {
-            "it": "Caterina da Genova",
-            "la": "Catharina Genuensis",
-            "en": "Catherine of Genoa",
-            "pl": "Katarzyna z Genui"
-        },
-        "records/patrons/catharina/lab": {
-            "fr": "Catherine Labouré",
-            "la": "Catharina Labouré",
-            "en": "Catherine Labouré",
-            "pl": "Katarzyna Labouré"
-        },
-        "records/patrons/catharina/mon": {
-            "sr": "Озана Которска",
-            "la": "Catharina de Monte Nigro",
-            "en": "Osanna of Cattaro",
-            "pl": "Katarzyna z Czarnogóry"
-        },
-        "records/patrons/catharina/sen": {
-            "it": "Caterina da Siena",
-            "la": "Catharina Senensis",
-            "en": "Catherine of Siena",
-            "pl": "Katarzyna ze Sieny"
-        },
-        "records/patrons/catharina/tek": {
-            "moh": "Kateri Tekakwitha",
-            "la": "Catharina Tekakwitha",
-            "en": "Catherine Tekakwitha",
-            "pl": "Katarzyna Tekakwitha"
-        },
-        "records/patrons/catharina/ver": {
-            "fr": "Catherine du Verdier de La Sorinière",
-            "la": "Catharina du Verdier de La Sorinière",
-            "en": "Catherine du Verdier de La Sorinière",
-            "pl": "Katarzyna du Verdier de La Sorinière"
-        },
-        "records/patrons/catharina/vol": {
-            "it": "Caterina Volpicelli",
-            "la": "Catharina Volpicelli",
-            "en": "Catherine Volpicelli",
-            "pl": "Katarzyna Volpicelli"
-        },
-        "records/patrons/catharina/yiv": {
-            "ko": "이 가타리나",
-            "la": "Catharina Yi",
-            "en": "Cathrine Yi",
-            "pl": "Katarzyna Yi"
-        },
-        "records/patrons/gertrudis/com": {
-            "it": "Geltrude Comensoli",
-            "la": "Gertrudis Comensoli",
-            "en": "Gertrude Comensoli",
-            "pl": "Gertruda Comensoli"
-        },
-        "records/patrons/magdalena/mor": {
-            "it": "Maddalena Caterina Morano",
-            "la": "Magdalena Catharina Morano",
-            "en": "Magdalene Catherine Morano",
-            "pl": "Magdalena Katarzyna Morano"
-        },
-        "records/patrons/maria/kas": {
-            "de": "Maria Katharina Kasper",
-            "la": "Maria Catharina Kasper",
-            "en": "Maria Katharina Kasper",
-            "pl": "Maria Katarzyna Kasper"
-        },
-        "records/patrons/maria/sch": {
-            "de": "Maria Theresia Scherer",
-            "la": "Maria Theresia Scherer",
-            "en": "Maria Therese Scherer",
-            "pl": "Maria Teresa Scherer"
-        }
-    }
+    "links": [
+        "records/patrons/catharina/ale",
+        "records/patrons/catharina/ale",
+        "records/patrons/catharina/fie",
+        "records/patrons/catharina/fie",
+        "records/patrons/catharina/lab",
+        "records/patrons/catharina/lab",
+        "records/patrons/catharina/mon",
+        "records/patrons/catharina/mon",
+        "records/patrons/catharina/sen",
+        "records/patrons/catharina/sen",
+        "records/patrons/catharina/tek",
+        "records/patrons/catharina/tek",
+        "records/patrons/catharina/ver",
+        "records/patrons/catharina/ver",
+        "records/patrons/catharina/vol",
+        "records/patrons/catharina/vol",
+        "records/patrons/catharina/yiv",
+        "records/patrons/catharina/yiv",
+        "records/patrons/gertrudis/com",
+        "records/patrons/gertrudis/com",
+        "records/patrons/magdalena/mor",
+        "records/patrons/magdalena/mor",
+        "records/patrons/maria/kas",
+        "records/patrons/maria/kas",
+        "records/patrons/maria/sch",
+        "records/patrons/maria/sch"
+    ]
 }

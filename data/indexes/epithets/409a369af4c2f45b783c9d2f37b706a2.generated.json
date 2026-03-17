@@ -13,11 +13,7 @@
             "Apostoł Anglów"
         ]
     },
-    "links": {
-        "records/patrons/gregorius/1pp": {
-            "la": "Gregorius Magnus",
-            "en": "Gregory the Great",
-            "pl": "Grzegorz Wielki"
-        }
-    }
+    "links": [
+        "records/patrons/gregorius/1pp"
+    ]
 }

@@ -15,11 +15,9 @@
             "Irmina"
         ]
     },
-    "links": {
-        "records/patrons/irmina/tre": {
-            "la": "Irmina de Oeren",
-            "en": "Irmina of Oeren",
-            "pl": "Irmina z Oeren"
-        }
-    }
+    "links": [
+        "records/patrons/irmina/tre",
+        "records/patrons/irmina/tre",
+        "records/patrons/irmina/tre"
+    ]
 }

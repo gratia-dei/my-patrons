@@ -7,11 +7,7 @@
             "Krzysztofik"
         ]
     },
-    "links": {
-        "records/patrons/henricus/krz": {
-            "pl": "Henryk Krzysztofik",
-            "la": "Henricus Krzysztofik",
-            "en": "Henry Krzysztofik"
-        }
-    }
+    "links": [
+        "records/patrons/henricus/krz"
+    ]
 }

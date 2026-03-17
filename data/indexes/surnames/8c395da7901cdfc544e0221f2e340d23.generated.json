@@ -7,11 +7,7 @@
             "Kurzawa"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/kur": {
-            "pl": "Józef Kurzawa",
-            "la": "Iosephus Kurzawa",
-            "en": "Joseph Kurzawa"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/kur"
+    ]
 }

@@ -19,17 +19,14 @@
             "Eugenia"
         ]
     },
-    "links": {
-        "records/patrons/eugenia/rav": {
-            "it": "Eugenia Ravasco",
-            "la": "Eugenia Ravasco",
-            "en": "Eugenia Ravasco",
-            "pl": "Eugenia Ravasco"
-        },
-        "records/patrons/maria/mac": {
-            "pl": "Maria Kanizja Mackiewicz",
-            "la": "Maria Canisia Mackiewicz",
-            "en": "Mary Canisia Mackiewicz"
-        }
-    }
+    "links": [
+        "records/patrons/eugenia/rav",
+        "records/patrons/eugenia/rav",
+        "records/patrons/eugenia/rav",
+        "records/patrons/eugenia/rav",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mac"
+    ]
 }

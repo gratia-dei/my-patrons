@@ -7,12 +7,7 @@
             "Gusteau"
         ]
     },
-    "links": {
-        "records/patrons/victoria/gus": {
-            "fr": "Victoire Gusteau",
-            "la": "Victoria Gusteau",
-            "en": "Victoria Gusteau",
-            "pl": "Wiktoria Gusteau"
-        }
-    }
+    "links": [
+        "records/patrons/victoria/gus"
+    ]
 }

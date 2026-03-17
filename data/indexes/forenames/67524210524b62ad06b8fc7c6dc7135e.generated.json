@@ -23,46 +23,20 @@
             "ルドビコ"
         ]
     },
-    "links": {
-        "records/patrons/ludovicus/gie": {
-            "pl": "Ludwik Roch Gietyngier",
-            "la": "Ludovicus Rochus Gietyngier",
-            "en": "Louis Roch Gietyngier"
-        },
-        "records/patrons/ludovicus/iba": {
-            "ja": "ルドビコ茨木",
-            "la": "Ludovicus Ibaraki",
-            "en": "Ludovicus Ibaraki",
-            "pl": "Ludwik Ibaraki"
-        },
-        "records/patrons/ludovicus/mar": {
-            "fr": "Louis Martin",
-            "la": "Ludovicus Martin",
-            "en": "Louis Martin",
-            "pl": "Ludwik Martin"
-        },
-        "records/patrons/ludovicus/mor": {
-            "fr": "Louis-Zéphirin Moreau",
-            "la": "Ludovicus Zephyrinus Moreau",
-            "en": "Louis Zephyrinus Moreau",
-            "pl": "Ludwik Zefiryn Moreau"
-        },
-        "records/patrons/ludovicus/mzy": {
-            "pl": "Ludwik Mzyk",
-            "la": "Ludovicus Mzyk",
-            "en": "Louis Mzyk"
-        },
-        "records/patrons/ludovicus/pav": {
-            "it": "Lodovico Pavoni",
-            "la": "Ludovicus Pavoni",
-            "en": "Louis Pavoni",
-            "pl": "Ludwik Pavoni"
-        },
-        "records/patrons/ludovicus/rex": {
-            "fr": "Louis IX, roi de France",
-            "la": "Ludovicus IX, rex Franciae",
-            "en": "Louis IX, king of France",
-            "pl": "Ludwik IX, król Francji"
-        }
-    }
+    "links": [
+        "records/patrons/ludovicus/gie",
+        "records/patrons/ludovicus/gie",
+        "records/patrons/ludovicus/iba",
+        "records/patrons/ludovicus/iba",
+        "records/patrons/ludovicus/mar",
+        "records/patrons/ludovicus/mar",
+        "records/patrons/ludovicus/mor",
+        "records/patrons/ludovicus/mor",
+        "records/patrons/ludovicus/mzy",
+        "records/patrons/ludovicus/mzy",
+        "records/patrons/ludovicus/pav",
+        "records/patrons/ludovicus/pav",
+        "records/patrons/ludovicus/rex",
+        "records/patrons/ludovicus/rex"
+    ]
 }

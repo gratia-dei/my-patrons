@@ -20,12 +20,10 @@
             "Mbaga"
         ]
     },
-    "links": {
-        "records/patrons/mbaya/tuz": {
-            "sw": "Mbaga Tuzinde",
-            "la": "Mbaya Tuzinde",
-            "en": "Mbaga Tuzinde",
-            "pl": "Mbaga Tuzinde"
-        }
-    }
+    "links": [
+        "records/patrons/mbaya/tuz",
+        "records/patrons/mbaya/tuz",
+        "records/patrons/mbaya/tuz",
+        "records/patrons/mbaya/tuz"
+    ]
 }

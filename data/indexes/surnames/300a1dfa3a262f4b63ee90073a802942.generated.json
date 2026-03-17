@@ -7,12 +7,7 @@
             "Eymard"
         ]
     },
-    "links": {
-        "records/patrons/petrus/eym": {
-            "fr": "Pierre-Julien Eymard",
-            "la": "Patrus Iulianus Eymard",
-            "en": "Peter Julian Eymanrd",
-            "pl": "Piotr Julian Eymard"
-        }
-    }
+    "links": [
+        "records/patrons/petrus/eym"
+    ]
 }

@@ -7,12 +7,7 @@
             "Lalemant"
         ]
     },
-    "links": {
-        "records/patrons/gabriel/lal": {
-            "fr": "Gabriel Lalemant",
-            "la": "Gabriel Lalemant",
-            "en": "Gabriel Lalemant",
-            "pl": "Gabriel Lalemant"
-        }
-    }
+    "links": [
+        "records/patrons/gabriel/lal"
+    ]
 }

@@ -13,124 +13,26 @@
             "wdowa"
         ]
     },
-    "links": {
-        "records/patrons/anna/pro": {
-            "he": "חנה, הנביאה",
-            "la": "Anna, prophetissa",
-            "en": "Anna, the Prophetess",
-            "pl": "Anna, prorokini"
-        },
-        "records/patrons/athanasia/aeg": {
-            "el": "Αθανασία της Αιγίνης",
-            "la": "Athanasia de Aegina",
-            "en": "Athanasia of Aegina",
-            "pl": "Atanazja z Eginy"
-        },
-        "records/patrons/birgitta/sue": {
-            "sv": "Birgitta Birgersdotter",
-            "la": "Birgitta de Suecia",
-            "en": "Bridget of Sweden",
-            "pl": "Brygida Szwedzka"
-        },
-        "records/patrons/catharina/fie": {
-            "it": "Caterina da Genova",
-            "la": "Catharina Genuensis",
-            "en": "Catherine of Genoa",
-            "pl": "Katarzyna z Genui"
-        },
-        "records/patrons/catharina/yiv": {
-            "ko": "이 가타리나",
-            "la": "Catharina Yi",
-            "en": "Cathrine Yi",
-            "pl": "Katarzyna Yi"
-        },
-        "records/patrons/dorothea/mon": {
-            "de": "Dorothea von Montau",
-            "la": "Dorothea Montoviensis",
-            "en": "Dorothy of Montau",
-            "pl": "Dorota z Mątowów"
-        },
-        "records/patrons/elisabeth/hun": {
-            "de": "Elisabeth von Ungarn",
-            "la": "Elisabeth de Hungaria",
-            "en": "Elizabeth of Hungary",
-            "pl": "Elżbieta Węgierska"
-        },
-        "records/patrons/elisabeth/lus": {
-            "es": "Elisabet de Aragón",
-            "la": "Elisabeth Aragonae",
-            "en": "Elizabeth of Aragon",
-            "pl": "Elżbieta Aragońska"
-        },
-        "records/patrons/francisca/rom": {
-            "it": "Francesca Romana",
-            "la": "Francisca Romana",
-            "en": "Frances of Rome",
-            "pl": "Franciszka Rzymianka"
-        },
-        "records/patrons/hedwigis/duc": {
-            "de": "Hedwig von Andechs",
-            "la": "Hedwigis ducissa Polonorum",
-            "en": "Hedwig of Silesia",
-            "pl": "Jadwiga Śląska"
-        },
-        "records/patrons/ida/gal": {
-            "fr": "Ida de Boulogne",
-            "la": "Ida de Gallia",
-            "en": "Ida of Lorraine",
-            "pl": "Ida Lotaryńska"
-        },
-        "records/patrons/ioanna/les": {
-            "fr": "Jeanne de Lestonnac",
-            "la": "Ioanna de Lestonnac",
-            "en": "Joan of Lestonnac",
-            "pl": "Joanna de Lestonnac"
-        },
-        "records/patrons/ludovica/mar": {
-            "fr": "Louise de Marillac",
-            "la": "Ludovica de Marillac",
-            "en": "Louise de Marillac",
-            "pl": "Ludwika de Marillac"
-        },
-        "records/patrons/magdalena/pak": {
-            "ko": "박봉손 막달레나",
-            "la": "Magdalena Pak Pong-son",
-            "en": "Magdalene Pak Pong-son",
-            "pl": "Magdalena Pak Pong-son"
-        },
-        "records/patrons/margarita/lot": {
-            "fr": "Marguerite de Lorraine-Vaudémont",
-            "la": "Margarita de Lotharingia",
-            "en": "Margaret of Lorraine",
-            "pl": "Małgorzata z Lotaryngii"
-        },
-        "records/patrons/maria/oul": {
-            "fr": "Marie de Jésus d'Oultremont",
-            "la": "Maria a Iesu d'Oultremont",
-            "en": "Mary of Jesus d'Oultremont",
-            "pl": "Maria od Jezusa d'Oultremont"
-        },
-        "records/patrons/monica/vid": {
-            "la": "Monica Thagastensis",
-            "en": "Monica of Tagasta",
-            "pl": "Monika z Tagasty"
-        },
-        "records/patrons/perpetua/hon": {
-            "ko": "홍금주 페르페투아",
-            "la": "Perpetua Hong Kŭm-ju",
-            "en": "Perpetua Hong Kŭm-ju",
-            "pl": "Perpetua Hong Kŭm-ju"
-        },
-        "records/patrons/rita/cas": {
-            "it": "Rita da Cascia",
-            "la": "Rita de Cassia",
-            "en": "Rita of Cascia",
-            "pl": "Rita z Cascii"
-        },
-        "records/patrons/sophia/rom": {
-            "la": "Sophia de Roma",
-            "en": "Sophia of Rome",
-            "pl": "Zofia z Rzymu"
-        }
-    }
+    "links": [
+        "records/patrons/anna/pro",
+        "records/patrons/athanasia/aeg",
+        "records/patrons/birgitta/sue",
+        "records/patrons/catharina/fie",
+        "records/patrons/catharina/yiv",
+        "records/patrons/dorothea/mon",
+        "records/patrons/elisabeth/hun",
+        "records/patrons/elisabeth/lus",
+        "records/patrons/francisca/rom",
+        "records/patrons/hedwigis/duc",
+        "records/patrons/ida/gal",
+        "records/patrons/ioanna/les",
+        "records/patrons/ludovica/mar",
+        "records/patrons/magdalena/pak",
+        "records/patrons/margarita/lot",
+        "records/patrons/maria/oul",
+        "records/patrons/monica/vid",
+        "records/patrons/perpetua/hon",
+        "records/patrons/rita/cas",
+        "records/patrons/sophia/rom"
+    ]
 }

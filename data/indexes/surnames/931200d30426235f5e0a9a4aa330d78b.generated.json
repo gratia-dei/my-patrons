@@ -7,12 +7,7 @@
             "Ravasco"
         ]
     },
-    "links": {
-        "records/patrons/eugenia/rav": {
-            "it": "Eugenia Ravasco",
-            "la": "Eugenia Ravasco",
-            "en": "Eugenia Ravasco",
-            "pl": "Eugenia Ravasco"
-        }
-    }
+    "links": [
+        "records/patrons/eugenia/rav"
+    ]
 }

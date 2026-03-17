@@ -7,12 +7,7 @@
             "Amoroso"
         ]
     },
-    "links": {
-        "records/patrons/felix/amo": {
-            "it": "Felice di Nicosia",
-            "la": "Felix a Nicosia",
-            "en": "Felix of Nicosia",
-            "pl": "Feliks z Nikozji"
-        }
-    }
+    "links": [
+        "records/patrons/felix/amo"
+    ]
 }

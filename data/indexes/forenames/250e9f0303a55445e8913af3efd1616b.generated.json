@@ -16,12 +16,7 @@
             "Pádraig"
         ]
     },
-    "links": {
-        "records/patrons/patricius/hib": {
-            "ga": "Naomh Pádraig",
-            "en": "Patrick of Ireland",
-            "la": "Patricius episcopus in Hibernia",
-            "pl": "Patryk z Irlandii"
-        }
-    }
+    "links": [
+        "records/patrons/patricius/hib"
+    ]
 }

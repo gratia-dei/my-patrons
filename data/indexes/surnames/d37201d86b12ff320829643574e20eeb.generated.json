@@ -16,12 +16,7 @@
             "Kostist"
         ]
     },
-    "links": {
-        "records/patrons/ieremias/val": {
-            "ro": "Ieremia Valahul",
-            "la": "Ieremias de Valachia",
-            "en": "Jeremiah of Wallachia",
-            "pl": "Jeremiasz z Wołoszczyzny"
-        }
-    }
+    "links": [
+        "records/patrons/ieremias/val"
+    ]
 }

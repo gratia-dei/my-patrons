@@ -7,11 +7,7 @@
             "Sopoćko"
         ]
     },
-    "links": {
-        "records/patrons/michael/sop": {
-            "pl": "Michał Sopoćko",
-            "la": "Michael Sopocko",
-            "en": "Michael Sopocko"
-        }
-    }
+    "links": [
+        "records/patrons/michael/sop"
+    ]
 }

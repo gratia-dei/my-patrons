@@ -13,11 +13,7 @@
             "Abibo"
         ]
     },
-    "links": {
-        "records/patrons/abibo/hie": {
-            "la": "Abibo Hierosolymitanus",
-            "en": "Abibon of Jerusalem",
-            "pl": "Abibo z Jerozolimy"
-        }
-    }
+    "links": [
+        "records/patrons/abibo/hie"
+    ]
 }

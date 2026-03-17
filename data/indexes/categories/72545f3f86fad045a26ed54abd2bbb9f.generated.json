@@ -13,41 +13,12 @@
             "królowa"
         ]
     },
-    "links": {
-        "records/patrons/elisabeth/lus": {
-            "es": "Elisabet de Aragón",
-            "la": "Elisabeth Aragonae",
-            "en": "Elizabeth of Aragon",
-            "pl": "Elżbieta Aragońska"
-        },
-        "records/patrons/hedwigis/hun": {
-            "hu": "Anjou Hedvig",
-            "la": "Hedvigis Andegavensis",
-            "en": "Hedwig of Anjou",
-            "pl": "Jadwiga Andegaweńska"
-        },
-        "records/patrons/ioanna/val": {
-            "fr": "Jeanne de Valois",
-            "la": "Ioanna de Valois",
-            "en": "Joan of Valois",
-            "pl": "Joanna de Valois"
-        },
-        "records/patrons/maria/naz": {
-            "arc": "ܡܪܝܡ",
-            "en": "Mary, mother of Jesus",
-            "la": "Maria Virgo",
-            "pl": "Maria z Nazaretu"
-        },
-        "records/patrons/mathildis/reg": {
-            "de": "Mathilde von Ringelheim",
-            "la": "Mathildis de Ringelheim",
-            "en": "Matilda of Ringelheim",
-            "pl": "Matylda von Ringelheim"
-        },
-        "records/patrons/salomea/reg": {
-            "pl": "Salomea Piastówna",
-            "la": "Salomea Regina Haliciensis",
-            "en": "Salomea of the Poland"
-        }
-    }
+    "links": [
+        "records/patrons/elisabeth/lus",
+        "records/patrons/hedwigis/hun",
+        "records/patrons/ioanna/val",
+        "records/patrons/maria/naz",
+        "records/patrons/mathildis/reg",
+        "records/patrons/salomea/reg"
+    ]
 }

@@ -14,12 +14,8 @@
             "Adaukt"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/ada": {
-            "ja": "フランシスコ吉",
-            "la": "Franciscus Adauctus de Nagasaki",
-            "en": "Francis Kichi",
-            "pl": "Franciszek Kichi"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/ada",
+        "records/patrons/franciscus/ada"
+    ]
 }

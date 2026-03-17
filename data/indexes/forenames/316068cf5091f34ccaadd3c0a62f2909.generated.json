@@ -14,11 +14,8 @@
             "Gundekar"
         ]
     },
-    "links": {
-        "records/patrons/gundecarus/eob": {
-            "la": "Gundecarus; cum eo, i.a., Eobanus",
-            "en": "Gundecarus; with him, i.a., Eoban",
-            "pl": "Gundekar; z nim, m.in. Eoban"
-        }
-    }
+    "links": [
+        "records/patrons/gundecarus/eob",
+        "records/patrons/gundecarus/eob"
+    ]
 }

@@ -14,11 +14,8 @@
             "Kanizja"
         ]
     },
-    "links": {
-        "records/patrons/maria/mac": {
-            "pl": "Maria Kanizja Mackiewicz",
-            "la": "Maria Canisia Mackiewicz",
-            "en": "Mary Canisia Mackiewicz"
-        }
-    }
+    "links": [
+        "records/patrons/maria/mac",
+        "records/patrons/maria/mac"
+    ]
 }

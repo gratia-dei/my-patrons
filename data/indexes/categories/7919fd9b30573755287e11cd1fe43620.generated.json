@@ -13,86 +13,21 @@
             "zamężna"
         ]
     },
-    "links": {
-        "records/patrons/anastasia/sir": {
-            "la": "Anastasia Sirmiensis",
-            "en": "Anastasia of Sirmium",
-            "pl": "Anastazja z Sirmium"
-        },
-        "records/patrons/caecilia/rom": {
-            "la": "Caecilia Romana",
-            "en": "Cecilia of Rome",
-            "pl": "Cecylia z Rzymu"
-        },
-        "records/patrons/daria/chr": {
-            "la": "Daria de Roma",
-            "en": "Daria of Rome",
-            "pl": "Daria z Rzymu"
-        },
-        "records/patrons/francisca/rom": {
-            "it": "Francesca Romana",
-            "la": "Francisca Romana",
-            "en": "Frances of Rome",
-            "pl": "Franciszka Rzymianka"
-        },
-        "records/patrons/ioanna/mai": {
-            "fr": "Jeanne-Marie de Maillé",
-            "la": "Ioanna Maria de Maille",
-            "en": "Joan Mary of Maille",
-            "pl": "Joanna Maria z Maille"
-        },
-        "records/patrons/liliosa/fel": {
-            "la": "Liliosa de Corduba; cum ea, i.a., Felix",
-            "en": "Liliosa of Cordoba; with her, i.a., Felix",
-            "pl": "Lilioza z Kordoby; z nią, m.in., Feliks"
-        },
-        "records/patrons/ludovica/poi": {
-            "fr": "Louise Poirier",
-            "la": "Ludovica Poirier",
-            "en": "Louise Poirier",
-            "pl": "Ludwika Poirier"
-        },
-        "records/patrons/marcellina/dar": {
-            "pl": "Marcelina Darowska",
-            "la": "Marcellina Darowska",
-            "en": "Marcelina Darowska"
-        },
-        "records/patrons/margarita/war": {
-            "en": "Margaret Ward",
-            "la": "Margarita Ward",
-            "pl": "Małgorzata Ward"
-        },
-        "records/patrons/mathildis/reg": {
-            "de": "Mathilde von Ringelheim",
-            "la": "Mathildis de Ringelheim",
-            "en": "Matilda of Ringelheim",
-            "pl": "Matylda von Ringelheim"
-        },
-        "records/patrons/perpetua/rom": {
-            "la": "Perpetua Romana",
-            "en": "Perpetua of Rome",
-            "pl": "Perpetua z Rzymu"
-        },
-        "records/patrons/sabigothon/aur": {
-            "la": "Sabigothon Natalia de Corduba; cum ea, i.a., Aurelius",
-            "en": "Sabigothon Natalie of Cordoba; with her, i.a., Aurelius",
-            "pl": "Sabigotona Natalia z Kordoby; z nią, m.in., Aureliusz"
-        },
-        "records/patrons/sallustia/rom": {
-            "la": "Sallustia de Roma",
-            "en": "Salustia of Rome",
-            "pl": "Salustia z Rzymu"
-        },
-        "records/patrons/salomea/reg": {
-            "pl": "Salomea Piastówna",
-            "la": "Salomea Regina Haliciensis",
-            "en": "Salomea of the Poland"
-        },
-        "records/patrons/zelie/gue": {
-            "fr": "Zélie Guérin",
-            "la": "Zelie Guérin",
-            "en": "Zelie Guérin",
-            "pl": "Zelia Guérin"
-        }
-    }
+    "links": [
+        "records/patrons/anastasia/sir",
+        "records/patrons/caecilia/rom",
+        "records/patrons/daria/chr",
+        "records/patrons/francisca/rom",
+        "records/patrons/ioanna/mai",
+        "records/patrons/liliosa/fel",
+        "records/patrons/ludovica/poi",
+        "records/patrons/marcellina/dar",
+        "records/patrons/margarita/war",
+        "records/patrons/mathildis/reg",
+        "records/patrons/perpetua/rom",
+        "records/patrons/sabigothon/aur",
+        "records/patrons/sallustia/rom",
+        "records/patrons/salomea/reg",
+        "records/patrons/zelie/gue"
+    ]
 }

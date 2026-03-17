@@ -13,11 +13,7 @@
             "Krescencjan"
         ]
     },
-    "links": {
-        "records/patrons/crescentianus/car": {
-            "la": "Crescentianus Carthaginensis",
-            "en": "Crescentianus of Carthage",
-            "pl": "Krescencjan z Kartaginy"
-        }
-    }
+    "links": [
+        "records/patrons/crescentianus/car"
+    ]
 }

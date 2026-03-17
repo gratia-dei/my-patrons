@@ -13,16 +13,8 @@
             "Florian"
         ]
     },
-    "links": {
-        "records/patrons/florianus/lau": {
-            "la": "Florianus Lauriacensis",
-            "en": "Florian of Lauriacum",
-            "pl": "Florian z Lauriacum"
-        },
-        "records/patrons/florianus/ste": {
-            "pl": "Florian Stępniak",
-            "la": "Florianus Stępniak",
-            "en": "Florian Stępniak"
-        }
-    }
+    "links": [
+        "records/patrons/florianus/lau",
+        "records/patrons/florianus/ste"
+    ]
 }

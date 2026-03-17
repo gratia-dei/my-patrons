@@ -12,12 +12,8 @@
             "Aemiliani"
         ]
     },
-    "links": {
-        "records/patrons/hieronymus/emi": {
-            "it": "Girolamo Emiliani",
-            "la": "Hieronymus Emiliani",
-            "en": "Jerome Emiliani",
-            "pl": "Hieronim Emiliani"
-        }
-    }
+    "links": [
+        "records/patrons/hieronymus/emi",
+        "records/patrons/hieronymus/emi"
+    ]
 }

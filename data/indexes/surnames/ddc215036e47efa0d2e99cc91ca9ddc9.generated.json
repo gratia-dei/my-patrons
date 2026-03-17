@@ -7,12 +7,7 @@
             "Berthieu"
         ]
     },
-    "links": {
-        "records/patrons/iacobus/ber": {
-            "fr": "Jacques Berthieu",
-            "la": "Iacobus Berthieu",
-            "en": "James Berthieu",
-            "pl": "Jakub Berthieu"
-        }
-    }
+    "links": [
+        "records/patrons/iacobus/ber"
+    ]
 }

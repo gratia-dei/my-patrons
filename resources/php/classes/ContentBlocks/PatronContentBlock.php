@@ -12,8 +12,6 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         self::NAMES_INDEX,
     ];
 
-    private const RECORDS_ROOT_PATH = 'records';
-
     private $dataLinksContentBlock;
     private $galleryContentBlock;
     private $indexedNamesListContentBlock;

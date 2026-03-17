@@ -16,12 +16,7 @@
             "od Krzyża"
         ]
     },
-    "links": {
-        "records/patrons/ioannes/cru": {
-            "es": "Juan de la Cruz",
-            "la": "Ioannes a Cruce",
-            "en": "John of the Cross",
-            "pl": "Jan od Krzyża"
-        }
-    }
+    "links": [
+        "records/patrons/ioannes/cru"
+    ]
 }

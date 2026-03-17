@@ -16,12 +16,7 @@
             "Romża"
         ]
     },
-    "links": {
-        "records/patrons/theodorus/rom": {
-            "uk": "Теодор Ромжа",
-            "la": "Theodorus Romzsa",
-            "en": "Theodore Romzha",
-            "pl": "Teodor Romża"
-        }
-    }
+    "links": [
+        "records/patrons/theodorus/rom"
+    ]
 }

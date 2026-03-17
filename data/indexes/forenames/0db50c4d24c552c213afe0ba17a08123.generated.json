@@ -15,11 +15,9 @@
             "Eleonora"
         ]
     },
-    "links": {
-        "records/patrons/maria/joz": {
-            "pl": "Maria Daniela od Jezusa i Maryi Niepokalanej",
-            "la": "Maria Daniela a Iusei et Maria Immaculata",
-            "en": "Mary Daniela of Jesus and Immaculate Mary"
-        }
-    }
+    "links": [
+        "records/patrons/maria/joz",
+        "records/patrons/maria/joz",
+        "records/patrons/maria/joz"
+    ]
 }

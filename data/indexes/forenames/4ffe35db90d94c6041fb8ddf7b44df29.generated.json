@@ -17,22 +17,12 @@
             "Roberto"
         ]
     },
-    "links": {
-        "records/patrons/robertus/bel": {
-            "it": "Roberto Bellarmino",
-            "la": "Robertus Bellarminus",
-            "en": "Robert Bellarmine",
-            "pl": "Robert Bellarmin"
-        },
-        "records/patrons/robertus/dib": {
-            "en": "Robert Dibdale",
-            "la": "Robertus Dibdale",
-            "pl": "Robert Dibdale"
-        },
-        "records/patrons/robertus/nov": {
-            "en": "Robert of Newminster",
-            "la": "Robertus Novomonasteriensis",
-            "pl": "Robert z Newminster"
-        }
-    }
+    "links": [
+        "records/patrons/robertus/bel",
+        "records/patrons/robertus/bel",
+        "records/patrons/robertus/dib",
+        "records/patrons/robertus/dib",
+        "records/patrons/robertus/nov",
+        "records/patrons/robertus/nov"
+    ]
 }

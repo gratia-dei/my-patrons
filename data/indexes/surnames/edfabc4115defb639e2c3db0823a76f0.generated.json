@@ -7,12 +7,7 @@
             "Tuân"
         ]
     },
-    "links": {
-        "records/patrons/iosephus/tun": {
-            "vi": "Giuse Tuân",
-            "la": "Iosephus Tuân",
-            "en": "Joseph Tuân",
-            "pl": "Józef Tuân"
-        }
-    }
+    "links": [
+        "records/patrons/iosephus/tun"
+    ]
 }

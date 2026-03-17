@@ -13,18 +13,8 @@
             "kanonik"
         ]
     },
-    "links": {
-        "records/patrons/dominicus/oxo": {
-            "es": "Domingo de Osma",
-            "la": "Dominicus Oxomensis",
-            "en": "Dominic of Osma",
-            "pl": "Dominik Guzmán"
-        },
-        "records/patrons/ioannes/nep": {
-            "cs": "Jan Nepomucký",
-            "la": "Ioannes Nepomucenus",
-            "en": "John of Nepomuk",
-            "pl": "Jan Nepomucen"
-        }
-    }
+    "links": [
+        "records/patrons/dominicus/oxo",
+        "records/patrons/ioannes/nep"
+    ]
 }

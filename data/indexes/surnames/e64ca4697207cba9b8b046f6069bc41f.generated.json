@@ -7,12 +7,7 @@
             "Realino"
         ]
     },
-    "links": {
-        "records/patrons/bernardinus/rea": {
-            "it": "Bernardino Realino",
-            "la": "Bernardinus Realinus",
-            "en": "Bernardine Realino",
-            "pl": "Bernardyn Realino"
-        }
-    }
+    "links": [
+        "records/patrons/bernardinus/rea"
+    ]
 }

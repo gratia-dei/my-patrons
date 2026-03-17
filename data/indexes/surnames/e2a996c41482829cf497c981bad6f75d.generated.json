@@ -7,11 +7,7 @@
             "Drzewiecki"
         ]
     },
-    "links": {
-        "records/patrons/franciscus/drz": {
-            "pl": "Franciszek Drzewiecki",
-            "la": "Franciscus Drzewiecki",
-            "en": "Francis Drzewiecki"
-        }
-    }
+    "links": [
+        "records/patrons/franciscus/drz"
+    ]
 }

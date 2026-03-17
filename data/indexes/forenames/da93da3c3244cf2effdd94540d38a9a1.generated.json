@@ -14,11 +14,8 @@
             "Generoza"
         ]
     },
-    "links": {
-        "records/patrons/generosa/sci": {
-            "la": "Generosa de Scillium",
-            "en": "Generosa of Scillium",
-            "pl": "Generoza ze Scilium"
-        }
-    }
+    "links": [
+        "records/patrons/generosa/sci",
+        "records/patrons/generosa/sci"
+    ]
 }

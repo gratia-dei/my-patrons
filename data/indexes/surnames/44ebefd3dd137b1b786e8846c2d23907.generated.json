@@ -16,12 +16,7 @@
             "di Rosa"
         ]
     },
-    "links": {
-        "records/patrons/maria/ros": {
-            "it": "Maria Crocifissa Di Rosa",
-            "la": "Maria Crucifixa De Rosa",
-            "en": "Maria Crocifissa di Rosa",
-            "pl": "Maria Krucyfiksa di Rosa"
-        }
-    }
+    "links": [
+        "records/patrons/maria/ros"
+    ]
 }

@@ -15,27 +15,10 @@
             "książę"
         ]
     },
-    "links": {
-        "records/patrons/carolus/bon": {
-            "la": "Carolus Bonus",
-            "en": "Charles the Good",
-            "pl": "Karol Dobry"
-        },
-        "records/patrons/casimirus/pri": {
-            "pl": "Kazimierz Królewicz",
-            "la": "Casimirus Princeps",
-            "en": "Casimir Jagiellon"
-        },
-        "records/patrons/sebastianus/pho": {
-            "la": "Sebastianus de Roma; cum eo, i.a., Photina Samaritana",
-            "en": "Sebastian of Rome; with him, i.a., Photine the Samaritan",
-            "pl": "Sebastian z Rzymu; z nim, m.in., Fotyna Samarytanka"
-        },
-        "records/patrons/venceslaus/boh": {
-            "cs": "Václav, český kníže",
-            "la": "Venceslaus, dux Bohemiae",
-            "en": "Wenceslaus, duke of Bohemia",
-            "pl": "Wacław, książę Czech"
-        }
-    }
+    "links": [
+        "records/patrons/carolus/bon",
+        "records/patrons/casimirus/pri",
+        "records/patrons/sebastianus/pho",
+        "records/patrons/venceslaus/boh"
+    ]
 }

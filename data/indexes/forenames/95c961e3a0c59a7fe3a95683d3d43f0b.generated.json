@@ -16,12 +16,7 @@
             "Ольга"
         ]
     },
-    "links": {
-        "records/patrons/olga/kio": {
-            "uk": "Ольга, княгиня",
-            "la": "Olga Kioviensis",
-            "en": "Olga of Kiev",
-            "pl": "Olga Kijowska"
-        }
-    }
+    "links": [
+        "records/patrons/olga/kio"
+    ]
 }

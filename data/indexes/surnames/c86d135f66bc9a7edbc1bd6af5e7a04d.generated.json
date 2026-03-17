@@ -7,12 +7,7 @@
             "Cormier"
         ]
     },
-    "links": {
-        "records/patrons/hyacinthus/cor": {
-            "fr": "Hyacinthe-Marie Cormier",
-            "la": "Hyacinthus Cormier",
-            "en": "Hyacinth Mary Cormier",
-            "pl": "Jacek Maria Cormier"
-        }
-    }
+    "links": [
+        "records/patrons/hyacinthus/cor"
+    ]
 }

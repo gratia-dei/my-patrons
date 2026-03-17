@@ -7,12 +7,7 @@
             "Bertoni"
         ]
     },
-    "links": {
-        "records/patrons/gaspar/ber": {
-            "it": "Gaspare Bertoni",
-            "la": "Gaspar Bertoni",
-            "en": "Casper Bertoni",
-            "pl": "Kasper Bertoni"
-        }
-    }
+    "links": [
+        "records/patrons/gaspar/ber"
+    ]
 }

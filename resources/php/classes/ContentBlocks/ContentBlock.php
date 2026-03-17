@@ -2,6 +2,8 @@
 
 abstract class ContentBlock extends Content
 {
+    protected const RECORDS_ROOT_PATH = 'records';
+
     protected const UNKNOWN_PAGE_NUMBER = '?';
     protected const UNKNOWN_PAGE_COLUMN_NUMBER = '?';
 
@@ -189,12 +191,17 @@ abstract class ContentBlock extends Content
         return str_replace('/', '-', $url);
     }
 
-    protected function getLinksContent(array $data, string $recordContent): string
+    protected function getLinksContent(array $urls, string $recordContent): string
     {
         $result = '';
 
+        $allPersonsData = $this->getGeneratedPersonsData();
+
         $linksTranslations = [];
-        foreach ($data as $url => $names) {
+        foreach ($urls as $url) {
+            $personDataUrl = trim(str_replace(self::RECORDS_ROOT_PATH, '', $url), '/');
+            $names = $allPersonsData[$personDataUrl][self::PATRON_NAMES_INDEX] ?? [];
+
             $key = $this->getConvertedLinkUrl($url);
             $linksTranslations[$key] = $names;
         }
@@ -202,7 +209,7 @@ abstract class ContentBlock extends Content
         $linksTextVariables = $this->getTranslatedVariablesForLangData($language, $linksTranslations);
 
         $dataToSort = [];
-        foreach ($data as $url => $names) {
+        foreach ($urls as $url) {
             $variable = self::VARIABLE_NAME_SIGN . $this->getConvertedLinkUrl($url) . self::VARIABLE_NAME_SIGN;
             $translatedName = $this->getReplacedContent($variable, $linksTextVariables, true);
             $translatedNameWithoutTags = $this->stripTags($translatedName);

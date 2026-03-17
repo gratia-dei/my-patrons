@@ -21,18 +21,10 @@
             "Jesús"
         ]
     },
-    "links": {
-        "records/god/fil": {
-            "arc": "ܝܫܘܥ",
-            "la": "Iesus Christus",
-            "en": "Jesus Christ",
-            "pl": "Jezus Chrystus"
-        },
-        "records/patrons/iesus/men": {
-            "es": "Jesús Méndez Montoya",
-            "la": "Iesus Mendez Montoya",
-            "en": "Jesus Mendez Montoya",
-            "pl": "Jezus Mendez Montoya"
-        }
-    }
+    "links": [
+        "records/god/fil",
+        "records/god/fil",
+        "records/patrons/iesus/men",
+        "records/patrons/iesus/men"
+    ]
 }

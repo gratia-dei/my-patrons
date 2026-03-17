@@ -14,16 +14,8 @@
             "Amonaria"
         ]
     },
-    "links": {
-        "records/patrons/ammonarion/ale": {
-            "la": "Ammonarion Alexandrina",
-            "en": "Ammonarion of Alexandria",
-            "pl": "Amonaria z Aleksandrii"
-        },
-        "records/patrons/ammonarion/alt": {
-            "la": "Ammonarion Alexandrina, altera",
-            "en": "Ammonarion of Alexandria, another",
-            "pl": "Amonaria z Aleksandrii, druga"
-        }
-    }
+    "links": [
+        "records/patrons/ammonarion/ale",
+        "records/patrons/ammonarion/alt"
+    ]
 }

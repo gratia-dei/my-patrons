@@ -7,12 +7,7 @@
             "Longo"
         ]
     },
-    "links": {
-        "records/patrons/bartholomaeus/lon": {
-            "it": "Bartolo Longo",
-            "la": "Bartholomaeus Longo",
-            "en": "Bartholomew Longo",
-            "pl": "Bartłomiej Longo"
-        }
-    }
+    "links": [
+        "records/patrons/bartholomaeus/lon"
+    ]
 }

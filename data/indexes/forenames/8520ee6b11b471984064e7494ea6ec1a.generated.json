@@ -17,12 +17,8 @@
             "René"
         ]
     },
-    "links": {
-        "records/patrons/renatus/gou": {
-            "fr": "René Goupil",
-            "la": "Renatus Goupil",
-            "en": "Renat Goupil",
-            "pl": "Renat Goupil"
-        }
-    }
+    "links": [
+        "records/patrons/renatus/gou",
+        "records/patrons/renatus/gou"
+    ]
 }

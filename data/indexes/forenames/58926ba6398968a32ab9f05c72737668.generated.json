@@ -16,12 +16,7 @@
             "אַהֲרֹן"
         ]
     },
-    "links": {
-        "records/patrons/aaron/lev": {
-            "he": "אהרן הכהן",
-            "la": "Aaron, sacerdos",
-            "en": "Aaron, priest",
-            "pl": "Aaron, kapłan"
-        }
-    }
+    "links": [
+        "records/patrons/aaron/lev"
+    ]
 }
