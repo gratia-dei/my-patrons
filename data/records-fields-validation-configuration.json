@@ -1,0 +1,58 @@
+{
+    "god": "patrons",
+
+    "patrons": {
+        "names#language": {},
+        "forenames": {},
+        "surnames#language": {},
+        "epithets#language": {},
+
+        "active": {},
+
+        "born": {},
+        "died": {},
+        "beatified/date": {},
+        "beatified/type": {},
+        "canonized/date": {},
+        "canonized/type": {},
+        "doctor-of-the-church": {},
+        "anniversary": {},
+
+        "status": {},
+        "attributes": {},
+        "categories": {},
+        "communities/member": {},
+        "communities/creator": {},
+
+        "companions": {},
+        "special-venerated-persons": {},
+
+        "data-links": {},
+
+        "feasts#feast/data-links": {},
+
+        "sources/causesanti": {},
+        "sources/gcatholic": {},
+        "sources/wiki": {}
+    },
+
+    "categories": {
+        "names#language": {},
+
+        "required-any": {},
+
+        "color": {}
+    },
+
+    "feasts": {
+        "names#language": {},
+
+        "active": {},
+
+        "images": {}
+    },
+
+    "forenames": {
+        "names#language": {}
+    }
+}

@@ -173,5 +173,10 @@
     {
         "class": "GenerateLinksFromPersonsDataProcedure",
         "params": [["/records/feasts"], "links"]
+    },
+
+    {
+        "class": "RecordsFieldsValidationProcedure",
+        "params": ["/records"]
     }
 ]
