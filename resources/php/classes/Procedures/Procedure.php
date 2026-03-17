@@ -4,6 +4,8 @@ class Procedure extends Base
 {
     private const ERROR_MESSAGE_PREFIX = 'ERROR! ';
 
+    protected const FIELDS_INDEX = 'fields';
+
     protected function print($data): void
     {
         echo $this->getDate()->getCurrentDateTime() . ' [' . get_called_class() . '] ' . print_r($data, true) . "\n";

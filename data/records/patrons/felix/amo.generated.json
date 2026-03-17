@@ -1,11 +1,13 @@
 {
-    "2005": {
-        "forenames": [
-            "felix"
-        ],
-        "status": [
-            "beatus",
-            "sanctus"
-        ]
+    "fields": {
+        "2005": {
+            "forenames": [
+                "felix"
+            ],
+            "status": [
+                "beatus",
+                "sanctus"
+            ]
+        }
     }
 }

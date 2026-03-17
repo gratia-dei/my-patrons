@@ -183,7 +183,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
                         $personFileFullPath = $this->getFullDataPath($personFilePath);
 
-                        $structure = ($this->personGeneratedFilesData[$personFileFullPath][$year] ?? []);
+                        $structure = ($this->personGeneratedFilesData[$personFileFullPath][self::FIELDS_INDEX][$year] ?? []);
                         $structure = [$linkId => $structure];
                         foreach ($assignationTags as $assignKey => $assignValueArray) {
                             foreach ($assignValueArray as $assignValue) {
@@ -192,8 +192,8 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         }
 
                         ksort($structure[$linkId]);
-                        $this->personGeneratedFilesData[$personFileFullPath][$year] = $structure[$linkId];
-                        ksort($this->personGeneratedFilesData[$personFileFullPath]);
+                        $this->personGeneratedFilesData[$personFileFullPath][self::FIELDS_INDEX][$year] = $structure[$linkId];
+                        ksort($this->personGeneratedFilesData[$personFileFullPath][self::FIELDS_INDEX]);
                     }
                 }
             }

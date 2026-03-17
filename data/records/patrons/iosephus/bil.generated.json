@@ -1,32 +1,34 @@
 {
-    "2001": {
-        "anniversary": [
-            "03-20"
-        ],
-        "beatified/date": [
-            "2001-06-26"
-        ],
-        "forenames": [
-            "iosephus"
-        ],
-        "status": [
-            "venerabilis-dei-servus",
-            "beatus"
-        ],
-        "surnames#pl": [
-            "Bilczewski"
-        ]
-    },
-    "2005": {
-        "forenames": [
-            "iosephus"
-        ],
-        "status": [
-            "beatus",
-            "sanctus"
-        ],
-        "surnames#la": [
-            "Bilczewski"
-        ]
+    "fields": {
+        "2001": {
+            "anniversary": [
+                "03-20"
+            ],
+            "beatified/date": [
+                "2001-06-26"
+            ],
+            "forenames": [
+                "iosephus"
+            ],
+            "status": [
+                "venerabilis-dei-servus",
+                "beatus"
+            ],
+            "surnames#pl": [
+                "Bilczewski"
+            ]
+        },
+        "2005": {
+            "forenames": [
+                "iosephus"
+            ],
+            "status": [
+                "beatus",
+                "sanctus"
+            ],
+            "surnames#la": [
+                "Bilczewski"
+            ]
+        }
     }
 }
