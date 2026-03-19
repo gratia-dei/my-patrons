@@ -2,57 +2,421 @@
     "god": "patrons",
 
     "patrons": {
-        "names#language": {},
-        "forenames": {},
-        "surnames#language": {},
-        "epithets#language": {},
+        "names": {
+            "types": ["associative-array"]
+        },
+        "names/#language": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "names#language": "array-value"
+            }
+        },
 
-        "active": {},
+        "forenames": {
+            "types": ["indexed-array"],
+            "element-types": ["#forename"],
+            "assignments": {
+                "forenames": "array-value"
+            }
+        },
 
-        "born": {},
-        "died": {},
-        "beatified/date": {},
-        "beatified/type": {},
-        "canonized/date": {},
-        "canonized/type": {},
-        "doctor-of-the-church": {},
-        "anniversary": {},
+        "surnames": {
+            "types": ["empty-array", "indexed-array"]
+        },
+        "surnames/#index": {
+            "types": ["associative-array"]
+        },
+        "surnames/#index/#language": {
+            "types": ["string", "indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "surnames#language": ["value", "array-value"]
+            }
+        },
 
-        "status": {},
-        "attributes": {},
-        "categories": {},
-        "communities/member": {},
-        "communities/creator": {},
+        "epithets": {
+            "types": ["empty-array", "indexed-array"]
+        },
+        "epithets/#index": {
+            "types": ["associative-array"]
+        },
+        "epithets/#index/#language": {
+            "types": ["string", "indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "epithets#language": ["value", "array-value"]
+            }
+        },
 
-        "companions": {},
-        "special-venerated-persons": {},
 
-        "data-links": {},
 
-        "feasts#feast/data-links": {},
+        "active": {
+            "types": ["boolean"]
+        },
 
-        "sources/causesanti": {},
-        "sources/gcatholic": {},
-        "sources/wiki": {}
+
+
+        "born": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "born": "array-value"
+            }
+        },
+
+        "dead": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "dead": "array-value"
+            }
+        },
+
+        "beatified": {
+            "types": ["null", "associative-array"]
+        },
+        "beatified/date": {
+            "types": ["string"],
+            "assignments": {
+                "beatified/date": "value"
+            }
+        },
+        "beatified/type": {
+            "types": ["string"],
+            "assignments": {
+                "beatified/type": "value"
+            }
+        },
+
+        "canonized": {
+            "types": ["null", "associative-array"]
+        },
+        "canonized/date": {
+            "types": ["string"],
+            "assignments": {
+                "canonized/date": "value"
+            }
+        },
+        "canonized/type": {
+            "types": ["string"],
+            "assignments": {
+                "canonized/type": "value"
+            }
+        },
+
+        "doctor-of-the-church": {
+            "types": ["null", "string"],
+            "assignments": {
+                "doctor-of-the-church": "value"
+            }
+        },
+
+        "feast": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "feast": "array-value"
+            }
+        },
+
+
+
+
+        "statuses": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["#status"],
+            "assignments": {
+                "statuses": "array-value"
+            }
+        },
+
+        "attributes": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["#attribute"],
+            "assignments": {
+                "attributes": "array-value"
+            }
+        },
+
+        "categories": {
+            "types": ["indexed-array"],
+            "element-types": ["#category"],
+            "assignments": {
+                "categories": "array-value"
+            }
+        },
+
+        "communities": {
+            "types": ["empty-array", "associative-array"],
+            "assignments": {
+                "communities#community/names#language": "communities/#community:names#language",
+                "communities#community/siglum": "communities/#community:siglum"
+            }
+        },
+        "communities/member": {
+            "types": ["empty-array", "associative-array"],
+            "assignments": {
+                "communities/member": "array-index"
+            }
+        },
+        "communities/member/#community": {
+            "types": ["associative-array"]
+        },
+        "communities/member/#community/date": {
+            "types": ["null", "string", "indexed-array"],
+            "assignments": {
+                "communities/member#community/date": ["value", "array-value"]
+            }
+        },
+        "communities/creator": {
+            "types": ["empty-array", "associative-array"],
+            "assignments": {
+                "communities/creator": "array-index"
+            }
+        },
+        "communities/creator/#community": {
+            "types": ["associative-array"]
+        },
+        "communities/creator/#community/date": {
+            "types": ["null", "string", "indexed-array"],
+            "assignments": {
+                "communities/creator/#community/date": ["value", "array-value"]
+            }
+        },
+
+        "companions": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["#person"],
+            "assignments": {
+                "companions": "array-value"
+            }
+        },
+
+        "special-venerated-persons": {
+            "types": ["empty-array", "indexed-array"],
+            "element-types": ["#person"],
+            "assignments": {
+                "specially-venerated-persons": "array-value"
+            }
+        },
+
+
+
+        "data-links": {
+            "types": ["associative-array"]
+        },
+        "data-links/mr-1584": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1584-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1584-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-2004": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-2004-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/docs": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+
+        "feasts": {
+            "types": ["empty-array", "associative-array"],
+            "assignments": {
+                "feasts": "array-index",
+                "feasts#feast/names": "feasts/#feast:names#language",
+                "feasts#feast/date": "feasts/#feast:date"
+            }
+        },
+        "feasts/#feast": {
+            "types": ["associative-array"]
+        },
+        "feasts/#feast/data-links": {
+            "types": ["associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1584": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1584-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1584-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-2004": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-2004-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/docs": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+
+
+
+
+        "images": {
+            "types": ["empty-array", "indexed-array"]
+        },
+        "images/#index": {
+            "types": ["associative-array"]
+        },
+        "images/#index/page-url": {
+            "types": ["string"]
+        },
+        "images/#index/file-url": {
+            "types": ["string"]
+        },
+        "images/#index/attribution": {
+            "types": ["string"]
+        },
+        "images/#index/area-center-x": {
+            "types": ["integer"]
+        },
+        "images/#index/area-center-y": {
+            "types": ["integer"]
+        },
+        "images/#index/area-center-to-edge-distiance": {
+            "types": ["integer"]
+        },
+
+
+
+        "sources": {
+            "types": ["associative-array"]
+        },
+        "sources/causesanti": {
+            "types": ["null", "string", "indexed-array"]
+        },
+        "sources/gcatholic": {
+            "types": ["null", "string", "indexed-array"]
+        },
+        "sources/wikipedia": {
+            "types": ["null", "string", "indexed-array"]
+        }
+    },
+
+    "communities": {
+        "names": {
+            "types": ["associative-array"]
+        },
+        "names/#language": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "names#language": "array-value"
+            }
+        },
+
+        "siglum": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "siglum": "array-value"
+            }
+        },
+
+        "active": {
+            "types": ["boolean"]
+        },
+
+        "date": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "date": "array-value"
+            }
+        }
     },
 
     "categories": {
-        "names#language": {},
+        "names": {
+            "types": ["associative-array"]
+        },
+        "names/#language": {
+            "types": ["indexed-array"],
+            "element-types": ["string"]
+        },
 
-        "required-any": {},
+        "required-any": {
+            "types": ["indexed-array"],
+            "element-types": ["#category"]
+        },
 
-        "color": {}
+        "color": {
+            "types": ["string"]
+        }
     },
 
     "feasts": {
-        "names#language": {},
+        "names": {
+            "types": ["associative-array"]
+        },
+        "names/#language": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "names#language": "array-value"
+            }
+        },
 
-        "active": {},
+        "active": {
+            "types": ["boolean"]
+        },
 
-        "images": {}
+        "date": {
+            "types": ["indexed-array"],
+            "element-types": ["string"],
+            "assignments": {
+                "date": "array-value"
+            }
+        },
+
+        "images": {
+            "types": ["empty-array", "indexed-array"]
+        },
+        "images/#index": {
+            "types": ["associative-array"]
+        },
+        "images/#index/page-url": {
+            "types": ["string"]
+        },
+        "images/#index/file-url": {
+            "types": ["string"]
+        },
+        "images/#index/attribution": {
+            "types": ["string"]
+        },
+        "images/#index/area-center-x": {
+            "types": ["integer"]
+        },
+        "images/#index/area-center-y": {
+            "types": ["integer"]
+        },
+        "images/#index/area-center-to-edge-distiance": {
+            "types": ["integer"]
+        }
     },
 
     "forenames": {
-        "names#language": {}
+        "names": {
+            "types": ["associative-array"]
+        },
+        "names/#language": {
+            "types": ["indexed-array"],
+            "element-types": ["string"]
+        }
     }
 }
