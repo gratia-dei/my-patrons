@@ -299,7 +299,7 @@ abstract class Base
         return $value;
     }
 
-    protected function getTextWithSeparatedAssignationTags(string $text): array
+    protected function getTextWithSeparatedAssignmentTags(string $text): array
     {
         $values = [];
 
@@ -311,11 +311,11 @@ abstract class Base
             preg_match_all($pattern, $text, $matches);
             foreach ($matches[0] ?? [] as $key => $tag) {
                 $newTagLinkIds = explode(',', $matches[1][$key] ?? '');
-                $newTagAssignations = $matches[3][$key] ?? null;
+                $newTagAssignments = $matches[3][$key] ?? null;
                 $newTagValue = $matches[4][$key] ?? null;
 
                 foreach ($newTagLinkIds as $newTagLinkId) {
-                    $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignations), $newTagValue);
+                    $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignments), $newTagValue);
                 }
             }
 
@@ -325,25 +325,25 @@ abstract class Base
         return [$text, $values];
     }
 
-    private function assignNewTag(array $result, int $linkId, array $assignations, string $value): array
+    private function assignNewTag(array $result, int $linkId, array $assignments, string $value): array
     {
-        foreach ($assignations as $assignation) {
-            $equalPos = strpos($assignation, '=');
+        foreach ($assignments as $assignment) {
+            $equalPos = strpos($assignment, '=');
             if ($equalPos !== false) {
-                $assignFieldPath = mb_substr($assignation, 0, $equalPos);
-                $assignValue = mb_substr($assignation, $equalPos + 1);
+                $assignFieldPath = mb_substr($assignment, 0, $equalPos);
+                $assignValue = mb_substr($assignment, $equalPos + 1);
             } else {
-                $assignFieldPath = $assignation;
+                $assignFieldPath = $assignment;
                 $assignValue = $value;
             }
 
-            $result = $this->consolidateAssignationTags($result, $linkId, $assignFieldPath, $assignValue);
+            $result = $this->consolidateAssignmentTags($result, $linkId, $assignFieldPath, $assignValue);
         }
 
         return $result;
     }
 
-    protected function consolidateAssignationTags(array $result, int $linkId, string $assignFieldPath, string $assignValue): array
+    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue): array
     {
         if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
             $result[$linkId][$assignFieldPath][] = $assignValue;

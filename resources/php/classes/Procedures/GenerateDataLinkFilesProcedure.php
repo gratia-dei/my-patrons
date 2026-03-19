@@ -9,7 +9,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
     private $generatedFilesData = [];
     private $personGeneratedFilesData = [];
-    private $unusedAssignationTags = [];
+    private $unusedAssignmentTags = [];
 
     public function run(array $dataPaths, string $fieldName): void
     {
@@ -54,7 +54,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
         $this->saveGeneratedFiles($this->personGeneratedFilesData);
 
-        foreach ($this->unusedAssignationTags as $filePath => $fileData) {
+        foreach ($this->unusedAssignmentTags as $filePath => $fileData) {
             foreach ($fileData as $recordId => $recordData) {
                 foreach ($recordData as $linkId => $linkData) {
                     $this->error("Unassigned tags for link #$linkId in record #$recordId of file '$filePath'");
@@ -115,13 +115,13 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                 }
                                 $text = $this->getValueWithPossibleImport($text, $field);
 
-                                list($text, $assignationTags) = $this->getTextWithSeparatedAssignationTags($text);
-                                if (!empty($assignationTags)) {
-                                    foreach ($assignationTags as $tagsLinkId => $tagsData) {
+                                list($text, $assignmentTags) = $this->getTextWithSeparatedAssignmentTags($text);
+                                if (!empty($assignmentTags)) {
+                                    foreach ($assignmentTags as $tagsLinkId => $tagsData) {
                                         foreach ($tagsData as $assignKey => $assignValueArray) {
                                             foreach ($assignValueArray as $assignValue) {
-                                                $this->unusedAssignationTags[$generatedFileFullPath][$recordId] = $this->consolidateAssignationTags(
-                                                    $this->unusedAssignationTags[$generatedFileFullPath][$recordId] ?? [],
+                                                $this->unusedAssignmentTags[$generatedFileFullPath][$recordId] = $this->consolidateAssignmentTags(
+                                                    $this->unusedAssignmentTags[$generatedFileFullPath][$recordId] ?? [],
                                                     $tagsLinkId,
                                                     $assignKey,
                                                     $assignValue
@@ -167,14 +167,14 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     }
                     $this->generatedFilesData[$generatedFileFullPath][$recordId][$linkId] = $sourceFilePath . $anchor;
 
-                    //assignation tags
-                    $assignationTags = $this->unusedAssignationTags[$generatedFileFullPath][$recordId][$linkId] ?? [];
-                    if (!empty($assignationTags)) {
-                        unset($this->unusedAssignationTags[$generatedFileFullPath][$recordId][$linkId]);
-                        if ($this->unusedAssignationTags[$generatedFileFullPath][$recordId] === []) {
-                            unset($this->unusedAssignationTags[$generatedFileFullPath][$recordId]);
-                            if ($this->unusedAssignationTags[$generatedFileFullPath] === []) {
-                                unset($this->unusedAssignationTags[$generatedFileFullPath]);
+                    //assignment tags
+                    $assignmentTags = $this->unusedAssignmentTags[$generatedFileFullPath][$recordId][$linkId] ?? [];
+                    if (!empty($assignmentTags)) {
+                        unset($this->unusedAssignmentTags[$generatedFileFullPath][$recordId][$linkId]);
+                        if ($this->unusedAssignmentTags[$generatedFileFullPath][$recordId] === []) {
+                            unset($this->unusedAssignmentTags[$generatedFileFullPath][$recordId]);
+                            if ($this->unusedAssignmentTags[$generatedFileFullPath] === []) {
+                                unset($this->unusedAssignmentTags[$generatedFileFullPath]);
                             }
                         }
 
@@ -185,9 +185,9 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
                         $structure = ($this->personGeneratedFilesData[$personFileFullPath][self::FIELDS_INDEX][$year] ?? []);
                         $structure = [$linkId => $structure];
-                        foreach ($assignationTags as $assignKey => $assignValueArray) {
+                        foreach ($assignmentTags as $assignKey => $assignValueArray) {
                             foreach ($assignValueArray as $assignValue) {
-                                $structure = $this->consolidateAssignationTags($structure, $linkId, $assignKey, $assignValue);
+                                $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue);
                             }
                         }
 
