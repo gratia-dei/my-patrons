@@ -157,7 +157,7 @@
         "communities/member": {
             "types": ["empty-array", "associative-array"],
             "assignments": {
-                "communities/member": "array-index"
+                "communities/member": "array-key"
             }
         },
         "communities/member/#community": {
@@ -172,7 +172,7 @@
         "communities/creator": {
             "types": ["empty-array", "associative-array"],
             "assignments": {
-                "communities/creator": "array-index"
+                "communities/creator": "array-key"
             }
         },
         "communities/creator/#community": {
@@ -231,7 +231,7 @@
         "feasts": {
             "types": ["empty-array", "associative-array"],
             "assignments": {
-                "feasts": "array-index",
+                "feasts": "array-key",
                 "feasts#feast/names": "feasts/#feast:names#language",
                 "feasts#feast/date": "feasts/#feast:date"
             }
