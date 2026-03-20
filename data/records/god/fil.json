@@ -36,13 +36,20 @@
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["~33"],
     "beatified": null,
     "canonized": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
+    "statuses": [],
+    "attributes": [],
     "categories": ["deus", "vir", "rex"],
+    "communities": [],
+
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": [],
@@ -52,7 +59,9 @@
         "mr-1956-movable": [],
 
         "mr-2004": [],
-        "mr-2004-movable": []
+        "mr-2004-movable": [],
+
+        "docs": []
     },
 
     "feasts": {
@@ -65,7 +74,9 @@
                 "mr-1956-movable": ["1:#1"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#1"]
+                "mr-2004-movable": ["1:#1"],
+
+                "docs": []
             }
         },
         "nav": {
@@ -77,7 +88,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "nat": {
@@ -89,7 +102,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:dec./25#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "nao": {
@@ -105,7 +120,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "sfa": {
@@ -121,7 +138,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#2"]
+                "mr-2004-movable": ["1:#2"],
+
+                "docs": []
             }
         },
         "cir": {
@@ -137,7 +156,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "sni": {
@@ -149,7 +170,9 @@
                 "mr-1956-movable": ["1:#2"],
 
                 "mr-2004": ["1:ian./3#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "epv": {
@@ -165,7 +188,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "epi": {
@@ -177,7 +202,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:ian./6#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "epo": {
@@ -190,7 +217,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "rel": {
@@ -202,7 +231,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "bad": {
@@ -218,7 +249,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#3"]
+                "mr-2004-movable": ["1:#3"],
+
+                "docs": []
             }
         },
         "d70": {
@@ -230,7 +263,9 @@
                 "mr-1956-movable": ["1:#4"],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "prd": {
@@ -242,7 +277,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:feb./2#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "and": {
@@ -254,7 +291,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:mar./25#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "dci": {
@@ -266,7 +305,9 @@
                 "mr-1956-movable": ["1:#5"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#4"]
+                "mr-2004-movable": ["1:#4"],
+
+                "docs": []
             }
         },
         "d1q": {
@@ -278,7 +319,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#5"]
+                "mr-2004-movable": ["1:#5"],
+
+                "docs": []
             }
         },
         "dps": {
@@ -294,7 +337,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "dpl": {
@@ -310,7 +355,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#6"]
+                "mr-2004-movable": ["1:#6"],
+
+                "docs": []
             }
         },
         "f5h": {
@@ -322,7 +369,9 @@
                 "mr-1956-movable": ["1:#9"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#7"]
+                "mr-2004-movable": ["1:#7"],
+
+                "docs": []
             }
         },
         "f6p": {
@@ -334,7 +383,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["2:#7"]
+                "mr-2004-movable": ["2:#7"],
+
+                "docs": []
             }
         },
         "sas": {
@@ -346,7 +397,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["3:#7"]
+                "mr-2004-movable": ["3:#7"],
+
+                "docs": []
             }
         },
         "res": {
@@ -358,7 +411,9 @@
                 "mr-1956-movable": ["1:#10"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#8"]
+                "mr-2004-movable": ["1:#8"],
+
+                "docs": []
             }
         },
         "dia": {
@@ -370,7 +425,9 @@
                 "mr-1956-movable": ["1:#12"],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "ril": {
@@ -382,7 +439,9 @@
                 "mr-1956-movable": ["1:#14"],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "inv": {
@@ -399,7 +458,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "asv": {
@@ -411,7 +472,9 @@
                 "mr-1956-movable": ["1:#15"],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "asc": {
@@ -423,7 +486,9 @@
                 "mr-1956-movable": ["1:#16"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#9", "2:#9"]
+                "mr-2004-movable": ["1:#9", "2:#9"],
+
+                "docs": []
             }
         },
         "aso": {
@@ -439,7 +504,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "ces": {
@@ -451,7 +518,9 @@
                 "mr-1956-movable": ["1:#21"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#12", "2:#12"]
+                "mr-2004-movable": ["1:#12", "2:#12"],
+
+                "docs": []
             }
         },
         "cro": {
@@ -467,7 +536,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "sci": {
@@ -479,7 +550,9 @@
                 "mr-1956-movable": ["1:#23"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#13"]
+                "mr-2004-movable": ["1:#13"],
+
+                "docs": []
             }
         },
         "sco": {
@@ -495,7 +568,9 @@
                 ],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "san": {
@@ -507,7 +582,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "tra": {
@@ -519,7 +596,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:aug./6#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "exa": {
@@ -531,7 +610,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:sept./14#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "dbl": {
@@ -543,7 +624,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:nov./9#1"],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "ima": {
@@ -555,7 +638,9 @@
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         },
         "rex": {
@@ -567,7 +652,9 @@
                 "mr-1956-movable": ["1:#25"],
 
                 "mr-2004": [],
-                "mr-2004-movable": ["1:#15"]
+                "mr-2004-movable": ["1:#15"],
+
+                "docs": []
             }
         }
     },
@@ -586,6 +673,6 @@
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/Jezus_Chrystus"
+        "wikipedia": "https://pl.wikipedia.org/wiki/Jezus_Chrystus"
     }
 }

@@ -12,11 +12,18 @@ class RecordsFieldsValidationProcedure extends Procedure
     private const FIELDS_CONFIG_ASSIGNMENTS_INDEX = 'assignments';
 
     private const FIELDS_CONFIG_TYPE_NULL = 'null';
+    private const FIELDS_CONFIG_TYPE_BOOLEAN = 'boolean';
     private const FIELDS_CONFIG_TYPE_INTEGER = 'integer';
     private const FIELDS_CONFIG_TYPE_STRING = 'string';
     private const FIELDS_CONFIG_TYPE_EMPTY_ARRAY = 'empty-array';
     private const FIELDS_CONFIG_TYPE_INDEXED_ARRAY = 'indexed-array';
     private const FIELDS_CONFIG_TYPE_ASSOCIATIVE_ARRAY = 'associative-array';
+
+    private const FIELDS_CONFIG_EMPTY_TYPES = [self::FIELDS_CONFIG_TYPE_NULL, self::FIELDS_CONFIG_TYPE_EMPTY_ARRAY];
+
+    private const CATEGORIES_FILE_PATH = 'records/categories/index.generated.json';
+    private const FEASTS_FILE_PATH = 'records/feasts/index.generated.json';
+    private const FORENAMES_FILE_PATH = 'records/forenames/index.generated.json';
 
     private $parametrizedFieldsValues = [];
 
@@ -88,6 +95,24 @@ class RecordsFieldsValidationProcedure extends Procedure
 
     private function loadParametrizedFieldsValues(): void
     {
+        $field = 'category';
+        $data = $this->getOriginalJsonFileContentArray(self::CATEGORIES_FILE_PATH);
+        foreach ($data as $value => $row) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
+
+        $field = 'feast';
+        $data = $this->getOriginalJsonFileContentArray(self::FEASTS_FILE_PATH);
+        foreach ($data as $value => $row) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
+
+        $field = 'forename';
+        $data = $this->getOriginalJsonFileContentArray(self::FORENAMES_FILE_PATH);
+        foreach ($data as $value => $row) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
+
         $field = 'language';
         $data = $this->getOriginalJsonFileContentArray(self::LANGUAGES_FILE_PATH);
         foreach ($data as $value => $row) {
@@ -99,8 +124,6 @@ class RecordsFieldsValidationProcedure extends Procedure
         foreach ($data as $value) {
             $this->parametrizedFieldsValues[$field][$value] = $value;
         }
-
-        //...
     }
 
     private function getParametrizedKeys(string $type): array
@@ -119,6 +142,8 @@ class RecordsFieldsValidationProcedure extends Procedure
             return [$configField];
         }
 
+        $isIndex = ($configField === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . 'index');
+
         list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($configField, 1));
 
         foreach ($staticDataKeys as $key) {
@@ -132,7 +157,7 @@ class RecordsFieldsValidationProcedure extends Procedure
             throw new GeneratorException('Empty parametrized fields');
         }
         foreach ($result as $key) {
-            if (!isset($validKeys[$key])) {
+            if (!isset($validKeys[$key]) && (!$isIndex || !is_int($key))) {
                 throw new GeneratorException("Invalid parametrized value '$key'");
             }
         }
@@ -144,6 +169,18 @@ class RecordsFieldsValidationProcedure extends Procedure
     {
         foreach ($types as $type) {
             switch ($type) {
+                case self::FIELDS_CONFIG_TYPE_NULL:
+                    if (is_null($value)) {
+                        return;
+                    }
+                    break;
+
+                case self::FIELDS_CONFIG_TYPE_BOOLEAN:
+                    if (!is_null($value) && is_bool($value)) {
+                        return;
+                    }
+                    break;
+
                 case self::FIELDS_CONFIG_TYPE_STRING:
                     if (!is_null($value) && is_string($value)) {
                         return;
@@ -163,17 +200,8 @@ class RecordsFieldsValidationProcedure extends Procedure
                     break;
 
                 case self::FIELDS_CONFIG_TYPE_INDEXED_ARRAY:
-                    if (!is_null($value) && is_array($value) && $value !== []) {
-                        $areAllKeysInteger = true;
-                        foreach ($value as $key => $val) {
-                            if (!is_int($key)) {
-                                $areAllKeysInteger = false;
-                                break;
-                            }
-                        }
-                        if ($areAllKeysInteger) {
-                            return;
-                        }
+                    if (!is_null($value) && is_array($value) && $value !== [] && array_keys($value) === range(0, count($value) - 1)) {
+                        return;
                     }
                     break;
 
@@ -206,9 +234,9 @@ class RecordsFieldsValidationProcedure extends Procedure
             $pathConfigPath = trim("$fieldPath/$configField", '/');
             $pathConfig = $configData[$pathConfigPath] ?? [];
 
-            $configTypes = $pathConfig[self::FIELDS_CONFIG_TYPES_INDEX] ?? null;
-            $configElementTypes = $pathConfig[self::FIELDS_CONFIG_ELEMENT_TYPES_INDEX] ?? null;
-            $configAssignments = $pathConfig[self::FIELDS_CONFIG_ASSIGNMENTS_INDEX] ?? null;
+            $configTypes = $pathConfig[self::FIELDS_CONFIG_TYPES_INDEX] ?? [];
+            $configElementTypes = $pathConfig[self::FIELDS_CONFIG_ELEMENT_TYPES_INDEX] ?? [];
+            $configAssignments = $pathConfig[self::FIELDS_CONFIG_ASSIGNMENTS_INDEX] ?? [];
 
             $staticDataKeys = is_array($staticDataContext) ? array_keys($staticDataContext) : [];
 
@@ -219,31 +247,38 @@ class RecordsFieldsValidationProcedure extends Procedure
                         throw new GeneratorException('Missing field');
                     }
 
-                    if (!is_null($configTypes)) {
+                    if ($configTypes !== []) {
                         $this->validateType($configTypes, $staticDataContext[$field] ?? null);
                     }
-                    if (!is_null($configElementTypes) && is_array($staticDataContext[$field])) {
+                    if ($configElementTypes !== [] && is_array($staticDataContext[$field])) {
                         foreach ($staticDataContext[$field] as $val) {
                             $this->validateType($configElementTypes, $val);
                         }
                     }
-
-
                 }
             } catch (GeneratorException $ex) {
-                $this->error($ex->getMessage() . " for path '$fieldPath/$configField' in source file '$filePath'");
+                $this->error($ex->getMessage() . " for field '$fieldPath/$configField' in source file '$filePath'");
             }
 
             foreach ($fields as $field) {
+                $staticValue = $staticDataContext[$field] ?? null;
+
+                if (is_null($staticValue) && in_array(self::FIELDS_CONFIG_TYPE_NULL, $configTypes, true)) {
+                    continue;
+                }
+                if ($staticValue === [] && in_array(self::FIELDS_CONFIG_TYPE_EMPTY_ARRAY, $configTypes, true)) {
+                    continue;
+                }
+
                 $this->validate(
                     $filePath,
                     $configData,
                     $configFieldsContext[$configField],
-                    $staticDataContext[$field] ?? null,
+                    $staticValue,
                     "$fieldPath/$field"
                 );
 
-                unset($staticDataContext[$field]);
+                //unset($staticDataContext[$field]);
             }
         }
     }

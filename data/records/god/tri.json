@@ -16,8 +16,8 @@
             "Trójca"
         ]
     },
-    "forenames": null,
-    "surnames": null,
+    "forenames": [],
+    "surnames": [],
     "epithets": [
         {
             "la": "Sacratissima Trinitas",
@@ -32,9 +32,37 @@
     "died": ["-"],
     "beatified": null,
     "canonized": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
+    "statuses": [],
+    "attributes": [],
     "categories": ["deus"],
+    "communities": [],
+
+    "companions": [],
+    "specially-venerated-persons": [],
+
+    "data-links": {
+        "mr-1584": [],
+        "mr-1584-index": [],
+        "mr-1584-movable": [],
+
+        "mr-1956": [],
+        "mr-1956-index-sanctorum-1": [],
+        "mr-1956-index-sanctorum-2": [],
+        "mr-1956-index-sanctorum-3": [],
+        "mr-1956-index-festorum": [],
+        "mr-1956-index-locorum": [],
+        "mr-1956-index-locorum-sine": [],
+        "mr-1956-movable": [],
+
+        "mr-2004": [],
+        "mr-2004-index": [],
+        "mr-2004-movable": [],
+
+        "docs": []
+    },
 
     "feasts": {
         "tri": {
@@ -54,7 +82,9 @@
 
                 "mr-2004": [],
                 "mr-2004-index": [],
-                "mr-2004-movable": ["1:#11"]
+                "mr-2004-movable": ["1:#11"],
+
+                "docs": []
             }
         },
         "mis": {
@@ -74,7 +104,9 @@
 
                 "mr-2004": [],
                 "mr-2004-index": [],
-                "mr-2004-movable": []
+                "mr-2004-movable": [],
+
+                "docs": []
             }
         }
     },
@@ -93,6 +125,6 @@
     "sources": {
         "causesanti": null,
         "gcatholic": null,
-        "wiki": "https://pl.wikipedia.org/wiki/Tr%C3%B3jca_%C5%9Awi%C4%99ta"
+        "wikipedia": "https://pl.wikipedia.org/wiki/Tr%C3%B3jca_%C5%9Awi%C4%99ta"
     }
 }

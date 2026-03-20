@@ -14,7 +14,7 @@
         },
 
         "forenames": {
-            "types": ["indexed-array"],
+            "types": ["empty-array", "indexed-array"],
             "element-types": ["#forename"],
             "assignments": {
                 "forenames": "array-value"
@@ -65,7 +65,7 @@
             }
         },
 
-        "dead": {
+        "died": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
@@ -112,11 +112,11 @@
             }
         },
 
-        "feast": {
+        "anniversary": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "feast": "array-value"
+                "anniversary": "array-value"
             }
         },
 
@@ -193,7 +193,7 @@
             }
         },
 
-        "special-venerated-persons": {
+        "specially-venerated-persons": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#person"],
             "assignments": {
@@ -268,7 +268,7 @@
 
 
         "images": {
-            "types": ["empty-array", "indexed-array"]
+            "types": ["empty-array", "associative-array"]
         },
         "images/#index": {
             "types": ["associative-array"]
@@ -288,7 +288,7 @@
         "images/#index/area-center-y": {
             "types": ["integer"]
         },
-        "images/#index/area-center-to-edge-distiance": {
+        "images/#index/area-center-to-edge-distance": {
             "types": ["integer"]
         },
 
@@ -405,7 +405,7 @@
         "images/#index/area-center-y": {
             "types": ["integer"]
         },
-        "images/#index/area-center-to-edge-distiance": {
+        "images/#index/area-center-to-edge-distance": {
             "types": ["integer"]
         }
     },
