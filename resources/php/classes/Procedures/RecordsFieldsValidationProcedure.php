@@ -4,14 +4,34 @@ class RecordsFieldsValidationProcedure extends Procedure
 {
     private const CONFIGURATION_FILE_PATH = 'records-fields-validation-configuration.json';
 
+    private const PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX = '#';
+    private const PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX = '---required';
+
+    private const FIELDS_CONFIG_TYPES_INDEX = 'types';
+    private const FIELDS_CONFIG_ELEMENT_TYPES_INDEX = 'element-types';
+    private const FIELDS_CONFIG_ASSIGNMENTS_INDEX = 'assignments';
+
+    private const FIELDS_CONFIG_TYPE_NULL = 'null';
+    private const FIELDS_CONFIG_TYPE_INTEGER = 'integer';
+    private const FIELDS_CONFIG_TYPE_STRING = 'string';
+    private const FIELDS_CONFIG_TYPE_EMPTY_ARRAY = 'empty-array';
+    private const FIELDS_CONFIG_TYPE_INDEXED_ARRAY = 'indexed-array';
+    private const FIELDS_CONFIG_TYPE_ASSOCIATIVE_ARRAY = 'associative-array';
+
+    private $parametrizedFieldsValues = [];
+
     public function run(string $srcRootPath): void
     {
+        $this->loadParametrizedFieldsValues();
+
         $config = $this->getOriginalJsonFileContentArray(self::CONFIGURATION_FILE_PATH);
 
         foreach ($config as $recordType => $pathData) {
             if (!is_array($pathData)) {
                 $pathData = $config[$pathData] ?? [];
             }
+
+            $configFields = $this->getConfigFields($pathData);
 
             $generatedFileSuffix = $this->getGeneratedFileSuffix();
             $fullRootPath = $this->getFullDataPath($srcRootPath);
@@ -40,18 +60,11 @@ class RecordsFieldsValidationProcedure extends Procedure
                 $staticData = $this->getOriginalJsonFileContentArrayForFullPath($staticFilePath);
                 $generatedData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath)[self::FIELDS_INDEX] ?? [];
 
-                $shortFilePath = mb_substr($staticFilePathWithoutExtension, mb_strlen($fullRootPath) + 1);
+                $sourceFilePath = mb_substr($staticFilePathWithoutExtension, mb_strlen($fullRootPath));
 
-                $this->validateFile($shortFilePath, $staticData, $generatedData, $pathData);
+                $this->validate($sourceFilePath, $pathData, $configFields, $staticData);
             }
         }
-    }
-
-    private function validateFile(string $sourceFilePath, array $staticData, array $generatedData, array $configData): void
-    {
-        $configFields = $this->getConfigFields($configData);
-
-        $this->validate($sourceFilePath, $configFields, $staticData);
     }
 
     private function getConfigFields(array $configData): array
@@ -73,14 +86,165 @@ class RecordsFieldsValidationProcedure extends Procedure
         return $result;
     }
 
-    private function validate(string $filePath, array $configFieldsContext, mixed $staticDataContext, string $fieldPath = ''): void
+    private function loadParametrizedFieldsValues(): void
     {
-        foreach ($configFieldsContext as $subfield => $subFields) {
-            if (!array_key_exists($subfield, $staticDataContext)) {
-                $this->error("Missing field path '$fieldPath/$subfield' in source file '$filePath'");
+        $field = 'language';
+        $data = $this->getOriginalJsonFileContentArray(self::LANGUAGES_FILE_PATH);
+        foreach ($data as $value => $row) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
+
+        $field .= self::PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX;
+        $data = self::SELECTABLE_LANGUAGES_ORDER;
+        foreach ($data as $value) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
+
+        //...
+    }
+
+    private function getParametrizedKeys(string $type): array
+    {
+        return [
+            $this->parametrizedFieldsValues[$type] ?? [],
+            $this->parametrizedFieldsValues[$type . self::PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX] ?? [],
+        ];
+    }
+
+    private function getRealExistingConfigFields(string $configField, array $staticDataKeys): array
+    {
+        $result = [];
+
+        if (mb_substr($configField, 0, 1) !== self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX) {
+            return [$configField];
+        }
+
+        list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($configField, 1));
+
+        foreach ($staticDataKeys as $key) {
+            $result[$key] = $key;
+        }
+        foreach ($requiredKeys as $key) {
+            $result[$key] = $key;
+        }
+
+        if ($result === []) {
+            throw new GeneratorException('Empty parametrized fields');
+        }
+        foreach ($result as $key) {
+            if (!isset($validKeys[$key])) {
+                throw new GeneratorException("Invalid parametrized value '$key'");
             }
-            $this->validate($filePath, $configFieldsContext[$subfield], $staticDataContext[$subfield] ?? null, $fieldPath . '/' . $subfield);
-            unset($staticDataContext[$subfield]);
+        }
+
+        return $result;
+    }
+
+    private function validateType(array $types, mixed $value): void
+    {
+        foreach ($types as $type) {
+            switch ($type) {
+                case self::FIELDS_CONFIG_TYPE_STRING:
+                    if (!is_null($value) && is_string($value)) {
+                        return;
+                    }
+                    break;
+
+                case self::FIELDS_CONFIG_TYPE_EMPTY_ARRAY:
+                    if (!is_null($value) && is_array($value) && $value === []) {
+                        return;
+                    }
+                    break;
+
+                case self::FIELDS_CONFIG_TYPE_ASSOCIATIVE_ARRAY:
+                    if (!is_null($value) && is_array($value) && $value !== []) {
+                        return;
+                    }
+                    break;
+
+                case self::FIELDS_CONFIG_TYPE_INDEXED_ARRAY:
+                    if (!is_null($value) && is_array($value) && $value !== []) {
+                        $areAllKeysInteger = true;
+                        foreach ($value as $key => $val) {
+                            if (!is_int($key)) {
+                                $areAllKeysInteger = false;
+                                break;
+                            }
+                        }
+                        if ($areAllKeysInteger) {
+                            return;
+                        }
+                    }
+                    break;
+
+                default:
+                    if (mb_substr($type, 0, 1) !== self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX) {
+                        throw new GeneratorException("Unknown fields config type '$type'");
+                    }
+
+                    list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($type, 1));
+                    if (($validKeys[$value] ?? null) === $value) {
+                        return;
+                    }
+                    break;
+            }
+        }
+
+        throw new GeneratorException("Record file value not matching to any possibly (element-)types ['" . implode("', '", $types) . "']");
+    }
+
+    private function validate(
+        string $filePath,
+        array $configData,
+        array $configFieldsContext,
+        mixed $staticDataContext,
+        string $fieldPath = ''
+    ): void {
+        foreach ($configFieldsContext as $configField => $subfields) {
+            $fields = ['!!!'];
+
+            $pathConfigPath = trim("$fieldPath/$configField", '/');
+            $pathConfig = $configData[$pathConfigPath] ?? [];
+
+            $configTypes = $pathConfig[self::FIELDS_CONFIG_TYPES_INDEX] ?? null;
+            $configElementTypes = $pathConfig[self::FIELDS_CONFIG_ELEMENT_TYPES_INDEX] ?? null;
+            $configAssignments = $pathConfig[self::FIELDS_CONFIG_ASSIGNMENTS_INDEX] ?? null;
+
+            $staticDataKeys = is_array($staticDataContext) ? array_keys($staticDataContext) : [];
+
+            try {
+                $fields = $this->getRealExistingConfigFields($configField, $staticDataKeys);
+                foreach ($fields as $field) {
+                    if (!array_key_exists($field, $staticDataContext)) {
+                        throw new GeneratorException('Missing field');
+                    }
+
+                    if (!is_null($configTypes)) {
+                        $this->validateType($configTypes, $staticDataContext[$field] ?? null);
+                    }
+                    if (!is_null($configElementTypes) && is_array($staticDataContext[$field])) {
+                        foreach ($staticDataContext[$field] as $val) {
+                            $this->validateType($configElementTypes, $val);
+                        }
+                    }
+
+
+                }
+            } catch (GeneratorException $ex) {
+                $this->error($ex->getMessage() . " for path '$fieldPath/$configField' in source file '$filePath'");
+            }
+
+            foreach ($fields as $field) {
+                $this->validate(
+                    $filePath,
+                    $configData,
+                    $configFieldsContext[$configField],
+                    $staticDataContext[$field] ?? null,
+                    "$fieldPath/$field"
+                );
+
+                unset($staticDataContext[$field]);
+            }
         }
     }
 }

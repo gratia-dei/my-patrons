@@ -20,7 +20,7 @@
         ]
     },
     "forenames": ["iesus"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "la": "Christus",
