@@ -48,6 +48,10 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
         $tableTitle = $translatedName;
         $tableContent = '';
         foreach ($this->pathData as $aliasPath => $aliasData) {
+            if ($aliasData === [self::DATA_LINK_SOURCE_TO_CHECK_SIGN]) {
+                continue;
+            }
+
             $mainPath = $this->getPathToRedirect($aliasPath);
 
             $contentBlockClass = null;
@@ -74,6 +78,9 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
                 $recordNumber++;
 
                 $link = is_int($linkKey) ? $linkVal : $linkKey;
+                if ($link === self::DATA_LINK_SOURCE_TO_CHECK_SIGN) {
+                    continue;
+                }
 
                 $linkData = $this->getDataLinkElements($link);
                 if (is_null($linkData)) {

@@ -42,6 +42,7 @@ abstract class Base
     protected const LANG_VARIABLE_PREFIX = 'lang-';
 
     protected const DATA_LINKS_GENERATED_FILES_INDEX = 'data-links';
+    protected const DATA_LINK_SOURCE_TO_CHECK_SIGN = '...';
 
     protected const DELETED_RECORD_TAG = '[x]';
 
