@@ -51,14 +51,14 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": [],
-        "mr-1584-movable": [],
+        "mr-1584": ["..."],
+        "mr-1584-movable": ["..."],
 
-        "mr-1956": [],
-        "mr-1956-movable": [],
+        "mr-1956": ["..."],
+        "mr-1956-movable": ["..."],
 
         "mr-2004": ["1:maii/31#10", "..."],
-        "mr-2004-movable": [],
+        "mr-2004-movable": ["..."],
 
         "docs": {
             "5:2005/10/23#1": "https://www.vatican.va/archive/aas/documents/2006/luglio%202006.pdf#page=1"

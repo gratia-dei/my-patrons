@@ -40,27 +40,27 @@
 
     "data-links": {
         "mr-1584": ["1:Iul./25#1", "..."],
-        "mr-1584-movable": [],
+        "mr-1584-movable": ["..."],
 
         "mr-1956": ["1:Julii/25#1", "..."],
-        "mr-1956-movable": [],
+        "mr-1956-movable": ["..."],
 
         "mr-2004": ["1:iul./25#1", "..."],
-        "mr-2004-movable": []
+        "mr-2004-movable": ["..."]
     },
 
     "feasts": {
         "vim": {
             "data-links": {
                 "mr-1584": ["1:Iul./24#1", "..."],
-                "mr-1584-movable": [],
+                "mr-1584-movable": ["..."],
 
                 "mr-1956": ["1:Julii/24#1", "..."],
                 "mr-1956-variations": ["1:Julii/24#1-ab-1960-07-26", "..."],
-                "mr-1956-movable": [],
+                "mr-1956-movable": ["..."],
 
-                "mr-2004": [],
-                "mr-2004-movable": []
+                "mr-2004": ["..."],
+                "mr-2004-movable": ["..."]
             }
         }
     },

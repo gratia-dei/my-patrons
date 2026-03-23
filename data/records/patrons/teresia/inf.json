@@ -63,14 +63,14 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": [],
-        "mr-1584-movable": [],
+        "mr-1584": ["..."],
+        "mr-1584-movable": ["..."],
 
         "mr-1956": ["1:Septembris/30#3", "1:Octobris/3#1", "..."],
-        "mr-1956-movable": [],
+        "mr-1956-movable": ["..."],
 
         "mr-2004": ["1:sept./30#14", "1:oct./1#1", "..."],
-        "mr-2004-movable": []
+        "mr-2004-movable": ["..."]
     },
 
     "sources": {

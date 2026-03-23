@@ -39,14 +39,14 @@
 
     "data-links": {
         "mr-1584": ["1:Iuni./28#3", "..."],
-        "mr-1584-movable": [],
+        "mr-1584-movable": ["..."],
 
         "mr-1956": ["1:Junii/28#2", "..."],
-        "mr-1956-movable": [],
+        "mr-1956-movable": ["..."],
         "mr-1956-variations": ["1:Junii/28#2-ab-1960-07-26", "1:Julii/3#pre-1-ab-1960-07-26", "..."],
 
         "mr-2004": ["1:iun./28#1", "..."],
-        "mr-2004-movable": []
+        "mr-2004-movable": ["..."]
     },
 
     "sources": {
