@@ -35,24 +35,24 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": ["1:Sept./29#1"],
+        "mr-1584": ["1:Sept./29#1", "..."],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Septembris/29#1"],
+        "mr-1956": ["1:Septembris/29#1", "..."],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:sept./29#1"],
+        "mr-2004": ["1:sept./29#1", "..."],
         "mr-2004-movable": []
     },
 
     "feasts": {
         "ama": {
             "data-links": {
-                "mr-1584": ["1:Mai./8#1"],
+                "mr-1584": ["1:Mai./8#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Maji/8#1"],
-                "mr-1956-variations": ["1:Maji/8#1-ab-1960-07-26", "1:Maji/8#11-ab-1960-07-26"],
+                "mr-1956": ["1:Maji/8#1", "..."],
+                "mr-1956-variations": ["1:Maji/8#1-ab-1960-07-26", "1:Maji/8#11-ab-1960-07-26", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -61,13 +61,13 @@
         },
         "dma": {
             "data-links": {
-                "mr-1584": ["2:Sept./29#1"],
+                "mr-1584": ["2:Sept./29#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["2:Septembris/29#1"],
+                "mr-1956": ["2:Septembris/29#1", "..."],
                 "mr-1956-movable": [],
 
-                "mr-2004": ["4:sept./29#1"],
+                "mr-2004": ["4:sept./29#1", "..."],
                 "mr-2004-movable": []
             }
         }

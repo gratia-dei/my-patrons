@@ -45,13 +45,13 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": ["1:Iuni./29#1"],
+        "mr-1584": ["1:Iuni./29#1", "..."],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Junii/29#1"],
+        "mr-1956": ["1:Junii/29#1", "..."],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:iun./29#1"],
+        "mr-2004": ["1:iun./29#1", "..."],
         "mr-2004-movable": [],
 
         "popes": ["1:#1"]
@@ -60,24 +60,24 @@
     "feasts": {
         "pcr": {
             "data-links": {
-                "mr-1584": ["1:Ianu./18#1"],
+                "mr-1584": ["1:Ianu./18#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Januarii/18#1"],
-                "mr-1956-variations": ["1:Januarii/18#1-ab-1960-07-26", "1:Februarii/22#post-1-ab-1960-07-26"],
+                "mr-1956": ["1:Januarii/18#1", "..."],
+                "mr-1956-variations": ["1:Januarii/18#1-ab-1960-07-26", "1:Februarii/22#post-1-ab-1960-07-26", "..."],
                 "mr-1956-movable": [],
 
-                "mr-2004": ["1:feb./22#1"],
+                "mr-2004": ["1:feb./22#1", "..."],
                 "mr-2004-movable": []
             }
         },
         "pca": {
             "data-links": {
-                "mr-1584": ["1:Febr./22#1"],
+                "mr-1584": ["1:Febr./22#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Februarii/22#1"],
-                "mr-1956-variations": ["1:Februarii/22#1-ab-1960-07-26"],
+                "mr-1956": ["1:Februarii/22#1", "..."],
+                "mr-1956-variations": ["1:Februarii/22#1-ab-1960-07-26", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -86,12 +86,12 @@
         },
         "r1p": {
             "data-links": {
-                "mr-1584": ["1:Apr./25#2"],
+                "mr-1584": ["1:Apr./25#2", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Aprilis/25#1"],
-                "mr-1956-movable": ["1:#11"],
-                "mr-1956-variations-movable": ["1:#11-ab-1960-07-26"],
+                "mr-1956": ["1:Aprilis/25#1", "..."],
+                "mr-1956-movable": ["1:#11", "..."],
+                "mr-1956-variations-movable": ["1:#11-ab-1960-07-26", "..."],
 
                 "mr-2004": [],
                 "mr-2004-movable": []
@@ -103,7 +103,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": [],
-                "mr-1956-movable": ["2:#15"],
+                "mr-1956-movable": ["2:#15", "..."],
 
                 "mr-2004": [],
                 "mr-2004-movable": []
@@ -111,10 +111,10 @@
         },
         "ppv": {
             "data-links": {
-                "mr-1584": ["1:Iuni./28#1"],
+                "mr-1584": ["1:Iuni./28#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Junii/28#1"],
+                "mr-1956": ["1:Junii/28#1", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -123,11 +123,11 @@
         },
         "ppo": {
             "data-links": {
-                "mr-1584": ["1:Iul./6#1"],
+                "mr-1584": ["1:Iul./6#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Julii/6#1"],
-                "mr-1956-variations": ["1:Julii/6#1-ab-1960-07-26"],
+                "mr-1956": ["1:Julii/6#1", "..."],
+                "mr-1956-variations": ["1:Julii/6#1-ab-1960-07-26", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -136,11 +136,11 @@
         },
         "pav": {
             "data-links": {
-                "mr-1584": ["1:Aug./1#1"],
+                "mr-1584": ["1:Aug./1#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Augusti/1#1"],
-                "mr-1956-variations": ["1:Augusti/1#1-ab-1960-07-26", "1:Augusti/1#post-13-ab-1960-07-26"],
+                "mr-1956": ["1:Augusti/1#1", "..."],
+                "mr-1956-variations": ["1:Augusti/1#1-ab-1960-07-26", "1:Augusti/1#post-13-ab-1960-07-26", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -149,13 +149,13 @@
         },
         "dba": {
             "data-links": {
-                "mr-1584": ["1:Nov./18#1"],
+                "mr-1584": ["1:Nov./18#1", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Novembris/18#1"],
+                "mr-1956": ["1:Novembris/18#1", "..."],
                 "mr-1956-movable": [],
 
-                "mr-2004": ["1:nov./18#1"],
+                "mr-2004": ["1:nov./18#1", "..."],
                 "mr-2004-movable": []
             }
         }

@@ -36,23 +36,23 @@
     "specially-venerated-persons---todo": ["..."],
 
     "data-links": {
-        "mr-1584": ["1:Sept./30#1"],
+        "mr-1584": ["1:Sept./30#1", "..."],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Septembris/30#1"],
+        "mr-1956": ["1:Septembris/30#1", "..."],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:sept./30#1"],
+        "mr-2004": ["1:sept./30#1", "..."],
         "mr-2004-movable": []
     },
 
     "feasts": {
         "thd": {
             "data-links": {
-                "mr-1584": ["1:Mai./9#7"],
+                "mr-1584": ["1:Mai./9#7", "..."],
                 "mr-1584-movable": [],
 
-                "mr-1956": ["1:Maji/9#9"],
+                "mr-1956": ["1:Maji/9#9", "..."],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],

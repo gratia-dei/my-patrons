@@ -57,11 +57,11 @@
         "mr-1584": [],
         "mr-1584-movable": [],
 
-        "mr-1956": ["1:Augusti/4#2", "1:Augusti/9#2"],
-        "mr-1956-variations": ["1:Augusti/4#2-ab-1960-07-26", "1:Augusti/8#pre-1-ab-1960-07-26", "1:Augusti/9#2-ab-1960-07-26"],
+        "mr-1956": ["1:Augusti/4#2", "1:Augusti/9#2", "..."],
+        "mr-1956-variations": ["1:Augusti/4#2-ab-1960-07-26", "1:Augusti/8#pre-1-ab-1960-07-26", "1:Augusti/9#2-ab-1960-07-26", "..."],
         "mr-1956-movable": [],
 
-        "mr-2004": ["1:aug./4#1"],
+        "mr-2004": ["1:aug./4#1", "..."],
         "mr-2004-movable": []
     },
 
