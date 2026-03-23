@@ -187,6 +187,12 @@ class RecordsFieldsValidationProcedure extends Procedure
                     }
                     break;
 
+                case self::FIELDS_CONFIG_TYPE_INTEGER:
+                    if (!is_null($value) && is_int($value)) {
+                        return;
+                    }
+                    break;
+
                 case self::FIELDS_CONFIG_TYPE_EMPTY_ARRAY:
                     if (!is_null($value) && is_array($value) && $value === []) {
                         return;
@@ -231,6 +237,7 @@ class RecordsFieldsValidationProcedure extends Procedure
         array $configData,
         array $configFieldsContext,
         mixed $staticDataContext,
+        string $configFieldPath = '',
         string $fieldPath = ''
     ): void {
         $staticDataKeys = [];
@@ -241,7 +248,7 @@ class RecordsFieldsValidationProcedure extends Procedure
         foreach ($configFieldsContext as $configField => $subfields) {
             $fields = ['!!!'];
 
-            $pathConfigPath = trim("$fieldPath/$configField", '/');
+            $pathConfigPath = trim("$configFieldPath/$configField", '/');
             $pathConfig = $configData[$pathConfigPath] ?? [];
 
             $configTypes = $pathConfig[self::FIELDS_CONFIG_TYPES_INDEX] ?? [];
@@ -287,6 +294,7 @@ class RecordsFieldsValidationProcedure extends Procedure
                     $configData,
                     $configFieldsContext[$configField],
                     $staticValue,
+                    "$configFieldPath/$configField",
                     "$fieldPath/$field"
                 );
             }
