@@ -212,16 +212,46 @@
         "data-links/mr-1584-movable": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
+        "data-links/mr-1584-index": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
         "data-links/mr-1956": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "data-links/mr-1584-movable": {
+        "data-links/mr-1956-variations": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-variations-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-sanctorum-1": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-sanctorum-2": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-sanctorum-3": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-festorum": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-locorum": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-1956-index-locorum-sine": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "data-links/mr-2004": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "data-links/mr-2004-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "data-links/mr-2004-index": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "data-links/docs": {
@@ -248,16 +278,46 @@
         "feasts/#feast/data-links/mr-1584-movable": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
+        "feasts/#feast/data-links/mr-1584-index": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
         "feasts/#feast/data-links/mr-1956": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "feasts/#feast/data-links/mr-1584-movable": {
+        "feasts/#feast/data-links/mr-1956-variations": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-variations-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-sanctorum-1": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-sanctorum-2": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-sanctorum-3": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-festorum": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-locorum": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-1956-index-locorum-sine": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "feasts/#feast/data-links/mr-2004": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "feasts/#feast/data-links/mr-2004-movable": {
+            "types": ["empty-array", "indexed-array", "associative-array"]
+        },
+        "feasts/#feast/data-links/mr-2004-index": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "feasts/#feast/data-links/docs": {

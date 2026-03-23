@@ -218,7 +218,12 @@ class RecordsFieldsValidationProcedure extends Procedure
             }
         }
 
-        throw new GeneratorException("Record file value not matching to any possibly (element-)types ['" . implode("', '", $types) . "']");
+        throw new GeneratorException("Record file value not matching to any possibly types ['" . implode("', '", $types) . "']");
+    }
+
+    private function makeError(string $message, string $fieldPath, string $filePath): void
+    {
+        $this->error($message . " for field '" . trim($fieldPath, '/') . "' in source file '" . trim($filePath, '/') . "'");
     }
 
     private function validate(
@@ -228,6 +233,11 @@ class RecordsFieldsValidationProcedure extends Procedure
         mixed $staticDataContext,
         string $fieldPath = ''
     ): void {
+        $staticDataKeys = [];
+        if (is_array($staticDataContext)) {
+            $staticDataKeys = array_keys($staticDataContext);
+        }
+
         foreach ($configFieldsContext as $configField => $subfields) {
             $fields = ['!!!'];
 
@@ -243,8 +253,9 @@ class RecordsFieldsValidationProcedure extends Procedure
             try {
                 $fields = $this->getRealExistingConfigFields($configField, $staticDataKeys);
                 foreach ($fields as $field) {
-                    if (!array_key_exists($field, $staticDataContext)) {
-                        throw new GeneratorException('Missing field');
+                    $nextFoundField = array_shift($staticDataKeys);
+                    if ($field !== $nextFoundField) {
+                        throw new GeneratorException("Expected field is '$field' but found '$nextFoundField'");
                     }
 
                     if ($configTypes !== []) {
@@ -257,11 +268,12 @@ class RecordsFieldsValidationProcedure extends Procedure
                     }
                 }
             } catch (GeneratorException $ex) {
-                $this->error($ex->getMessage() . " for field '$fieldPath/$configField' in source file '$filePath'");
+                $this->makeError($ex->getMessage(), "$fieldPath/$configField", $filePath);
             }
 
             foreach ($fields as $field) {
                 $staticValue = $staticDataContext[$field] ?? null;
+                unset($staticDataContext[$field]);
 
                 if (is_null($staticValue) && in_array(self::FIELDS_CONFIG_TYPE_NULL, $configTypes, true)) {
                     continue;
@@ -277,8 +289,12 @@ class RecordsFieldsValidationProcedure extends Procedure
                     $staticValue,
                     "$fieldPath/$field"
                 );
+            }
+        }
 
-                //unset($staticDataContext[$field]);
+        if (is_array($staticDataContext) && $staticDataContext !== [] && $configFieldsContext !== []) {
+            foreach ($staticDataContext as $field => $value) {
+                $this->makeError("Expected field is '' but found '$field'", $fieldPath, $filePath);
             }
         }
     }
