@@ -220,10 +220,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": ["1:Augusti/22#1"],
-                "mr-1956-variations": [
-                    "1:Augusti/22#1-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations": ["1:Augusti/22#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -260,10 +257,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": ["1:Septembris/15#1"],
-                "mr-1956-variations": [
-                    "1:Septembris/15#1-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations": ["1:Septembris/15#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -290,10 +284,7 @@
                 "mr-1956": ["1:Septembris/15#2"],
                 "mr-1956-variations": ["1:Septembris/15#2-ab-1960-07-26"],
                 "mr-1956-movable": ["1:#7"],
-                "mr-1956-variations-movable": [
-                    "1:#7-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations-movable": ["1:#7-ab-1960-07-26"],
 
                 "mr-2004": ["1:sept./15#1"],
                 "mr-2004-movable": []
@@ -305,10 +296,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": ["1:Augusti/10#2", "1:Septembris/24#1"],
-                "mr-1956-variations": [
-                    "1:Septembris/24#1-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations": ["1:Septembris/24#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -321,10 +309,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": ["2:Octobris/7#1"],
-                "mr-1956-variations": [
-                    "2:Octobris/7#1-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations": ["2:Octobris/7#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
                 "mr-2004": [],
@@ -337,10 +322,7 @@
                 "mr-1584-movable": [],
 
                 "mr-1956": ["1:Octobris/7#1"],
-                "mr-1956-variations": [
-                    "1:Octobris/7#1-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations": ["1:Octobris/7#1-ab-1960-07-26"],
                 "mr-1956-movable": [],
 
                 "mr-2004": ["1:oct./7#1"],
@@ -440,10 +422,7 @@
 
                 "mr-1956": [],
                 "mr-1956-movable": ["2:#3"],
-                "mr-1956-variations-movable": [
-                    "2:#3-ab-1960-07-26"
-
-                ],
+                "mr-1956-variations-movable": ["2:#3-ab-1960-07-26"],
 
                 "mr-2004": [],
                 "mr-2004-movable": ["2:#2"]

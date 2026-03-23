@@ -6,6 +6,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
     private const POSSIBLE_NAME_INDEX = 'name';
 
     private const UNKNOWN_YEAR = '????';
+    private const DATA_LINK_SOURCE_TO_CHECK_SIGN = '...';
 
     private $generatedFilesData = [];
     private $personGeneratedFilesData = [];
@@ -69,6 +70,9 @@ class GenerateDataLinkFilesProcedure extends Procedure
             foreach ($fieldData as $dstDirPathAlias => $dataLinks) {
                 foreach ($dataLinks as $linkKey => $linkVal) {
                     $link = is_int($linkKey) ? $linkVal : $linkKey;
+                    if ($link === self::DATA_LINK_SOURCE_TO_CHECK_SIGN) {
+                        continue;
+                    }
 
                     $linkData = $this->getDataLinkElements($link);
                     if (is_null($linkData)) {
