@@ -37,16 +37,16 @@
     "doctor-of-the-church": null,
     "anniversary": ["06-19"],
 
-    "statuses": ["..."],
-    "attributes": ["..."],
+    "statuses": [],
+    "attributes": [],
     "categories": ["femina", "virgo", "institutrix"],
     "communities": {
         "member": ["..."],
         "creator": ["..."]
     },
 
-    "companions": ["..."],
-    "specially-venerated-persons": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": ["..."],

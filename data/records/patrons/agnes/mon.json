@@ -29,16 +29,16 @@
     "doctor-of-the-church": null,
     "anniversary": ["04-20"],
 
-    "statuses": ["..."],
-    "attributes": ["..."],
+    "statuses": [],
+    "attributes": [],
     "categories": ["femina", "virgo", "fundatrix"],
     "communities": {
         "member": ["..."],
         "creator": ["..."]
     },
 
-    "companions": ["..."],
-    "specially-venerated-persons": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": ["1:Sept./16#8", "..."],

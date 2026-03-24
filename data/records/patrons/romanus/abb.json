@@ -29,16 +29,16 @@
     "doctor-of-the-church": null,
     "anniversary": [],
 
-    "statuses": ["..."],
-    "attributes": ["..."],
+    "statuses": [],
+    "attributes": [],
     "categories": ["vir", "abbas", "eremita"],
     "communities": {
         "member": ["..."],
         "creator": ["..."]
     },
 
-    "companions": ["..."],
-    "specially-venerated-persons": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": ["1:Febr./28n#3", "1:Febr./29b#3", "..."],

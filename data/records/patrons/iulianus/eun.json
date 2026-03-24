@@ -23,16 +23,16 @@
     "doctor-of-the-church": null,
     "anniversary": [],
 
-    "statuses": ["..."],
-    "attributes": ["..."],
+    "statuses": [],
+    "attributes": [],
     "categories": ["vir", "martyr"],
     "communities": {
         "member": ["..."],
         "creator": ["..."]
     },
 
-    "companions": ["..."],
-    "specially-venerated-persons": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": ["1:Febr./27n#2", "1:Febr./28b#2", "2:Oct./30#3", "..."],

@@ -43,16 +43,16 @@
     "doctor-of-the-church": null,
     "anniversary": ["12-14"],
 
-    "statuses": ["..."],
-    "attributes": ["..."],
+    "statuses": [],
+    "attributes": [],
     "categories": ["vir", "confessor", "presbyter", "doctor-ecclesiae"],
     "communities": {
         "member": ["..."],
         "creator": ["..."]
     },
 
-    "companions": ["..."],
-    "specially-venerated-persons": ["..."],
+    "companions": [],
+    "specially-venerated-persons": [],
 
     "data-links": {
         "mr-1584": ["..."],

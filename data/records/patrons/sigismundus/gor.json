@@ -34,7 +34,7 @@
     "anniversary": ["01-01"],
 
     "statuses": ["beatus", "sanctus"],
-    "attributes": ["..."],
+    "attributes": [],
     "categories": ["vir", "presbyter", "fundator"],
     "communities": {
         "member": [],
