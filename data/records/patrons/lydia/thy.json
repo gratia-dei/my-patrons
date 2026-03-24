@@ -46,6 +46,8 @@
         "docs": ["..."]
     },
 
+    "feasts": {},
+
     "images": {
         "1": {
             "page-url": "https://commons.wikimedia.org/wiki/File:Lidia.jpg",
