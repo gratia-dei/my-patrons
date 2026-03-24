@@ -73,10 +73,20 @@
 
                 "mr-1956": ["..."],
                 "mr-1956-movable": ["3:#3", "..."],
+                "mr-1956-variations": ["..."],
                 "mr-1956-variations-movable": ["3:#3-ab-1960-07-26", "..."],
+                "mr-1956-index-sanctorum-1": ["..."],
+                "mr-1956-index-sanctorum-2": ["..."],
+                "mr-1956-index-sanctorum-3": ["..."],
+                "mr-1956-index-festorum": ["..."],
+                "mr-1956-index-locorum": ["..."],
+                "mr-1956-index-locorum-sine": ["..."],
 
                 "mr-2004": ["..."],
-                "mr-2004-movable": ["3:#2", "..."]
+                "mr-2004-movable": ["3:#2", "..."],
+                "mr-2004-index": ["..."],
+
+                "docs": ["..."]
             }
         },
         "sin": {
