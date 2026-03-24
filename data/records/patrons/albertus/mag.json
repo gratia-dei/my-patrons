@@ -35,6 +35,7 @@
         ]
     },
     "forenames": ["albertus"],
+    "surnames": [],
     "epithets": [
         {
             "de": "der Große",
@@ -43,7 +44,6 @@
             "pl": "Wielki"
         }
     ],
-    "surnames": [],
 
     "active": true,
 
