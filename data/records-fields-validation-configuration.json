@@ -218,10 +218,10 @@
         "data-links/mr-1956": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "data-links/mr-1956-variations": {
+        "data-links/mr-1956-movable": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "data-links/mr-1956-movable": {
+        "data-links/mr-1956-variations": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "data-links/mr-1956-variations-movable": {
@@ -284,10 +284,10 @@
         "feasts/#feast/data-links/mr-1956": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "feasts/#feast/data-links/mr-1956-variations": {
+        "feasts/#feast/data-links/mr-1956-movable": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
-        "feasts/#feast/data-links/mr-1956-movable": {
+        "feasts/#feast/data-links/mr-1956-variations": {
             "types": ["empty-array", "indexed-array", "associative-array"]
         },
         "feasts/#feast/data-links/mr-1956-variations-movable": {
