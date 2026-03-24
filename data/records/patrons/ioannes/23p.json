@@ -19,7 +19,7 @@
         ]
     },
     "forenames": ["ioannes"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "en": "the Twenty-Third",
@@ -40,19 +40,19 @@
         "type": "ceremonially",
         "date": "2014-04-27"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["10-11"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "papa"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

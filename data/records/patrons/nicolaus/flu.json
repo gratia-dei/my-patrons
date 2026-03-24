@@ -14,8 +14,8 @@
         ]
     },
     "forenames": ["nicolaus"],
-    "surnames": null,
-    "epithets": null,
+    "surnames": [],
+    "epithets": [],
 
     "active": true,
 
@@ -29,19 +29,19 @@
         "type": "ceremonially",
         "date": "1947-05-15"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["03-21"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "uxoratus", "paterfamilias", "anachoreta"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

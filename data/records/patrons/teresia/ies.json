@@ -23,7 +23,7 @@
         ]
     },
     "forenames": ["teresia"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "es": "de Jesús",
@@ -45,19 +45,19 @@
         "type": "ceremonially",
         "date": "1622-03-12"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["10-15"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["femina", "virgo", "doctor-ecclesiae"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

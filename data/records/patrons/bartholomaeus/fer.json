@@ -42,19 +42,19 @@
         "type": "equipollently",
         "date": "2019-07-05"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["07-16"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "episcopus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

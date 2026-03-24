@@ -19,7 +19,7 @@
             "fr": "Véron"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -27,19 +27,19 @@
     "died": ["1794-03-20"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["femina", "martyr-fem", "virgo"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

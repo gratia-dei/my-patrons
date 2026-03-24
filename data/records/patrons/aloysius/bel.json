@@ -19,7 +19,7 @@
             "it": "Beltrame Quattrocchi"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -30,19 +30,19 @@
         "date": "2001-10-21"
     },
     "canonized": null,
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["11-09"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "paterfamilias"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

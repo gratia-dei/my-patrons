@@ -23,11 +23,11 @@
             "fr": "de La Lande"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["1646-10-19"],
     "beatified": {
         "type": "ceremonially",
@@ -37,19 +37,19 @@
         "type": "ceremonially",
         "date": "1930-06-29"
     },
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr", "coadiutor-temporalis", "religiosus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

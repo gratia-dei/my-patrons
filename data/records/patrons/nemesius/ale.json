@@ -11,28 +11,28 @@
         ]
     },
     "forenames": ["nemesius"],
-    "surnames": null,
-    "epithets": null,
+    "surnames": [],
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["~250", "~251"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["14:Oct./30#3", "1:Dec./19#1", "..."],

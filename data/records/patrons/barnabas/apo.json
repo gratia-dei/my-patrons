@@ -11,7 +11,7 @@
         ]
     },
     "forenames": ["barnabas"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "la": "Apostolus",
@@ -22,23 +22,23 @@
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["~61"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "alius-apostolus", "martyr"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Iuni./11#1", "..."],

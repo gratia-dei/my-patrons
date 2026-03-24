@@ -43,7 +43,7 @@
             "pl": "Wielki"
         }
     ],
-    "surnames": null,
+    "surnames": [],
 
     "active": true,
 
@@ -57,19 +57,19 @@
         "type": "ceremonially",
         "date": "1931-12-16"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["11-15"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "confessor", "episcopus", "doctor-ecclesiae"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

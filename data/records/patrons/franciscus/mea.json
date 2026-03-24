@@ -14,12 +14,12 @@
         ]
     },
     "forenames": ["franciscus"],
-    "surnames": null,
-    "epithets": null,
+    "surnames": [],
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["1597-02-05"],
     "beatified": {
         "type": "ceremonially",
@@ -29,19 +29,19 @@
         "type": "ceremonially",
         "date": "1862-06-08"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["02-05"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr", "neophyta"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

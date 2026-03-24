@@ -12,28 +12,28 @@
         ]
     },
     "forenames": ["veturius"],
-    "surnames": null,
-    "epithets": null,
+    "surnames": [],
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["180-07-17"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["4:Iul./17#2", "..."],

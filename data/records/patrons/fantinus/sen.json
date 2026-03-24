@@ -14,7 +14,7 @@
         ]
     },
     "forenames": ["fantinus"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "it": "Il Vecchio",
@@ -32,23 +32,23 @@
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["~336"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

@@ -22,7 +22,7 @@
             "ca": "Romeu"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -33,17 +33,17 @@
         "date": "1992-10-25"
     },
     "canonized": null,
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["02-11"],
 
     "categories": ["vir", "martyr", "religiosus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

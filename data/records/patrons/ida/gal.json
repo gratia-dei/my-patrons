@@ -18,8 +18,8 @@
         ]
     },
     "forenames": ["ida"],
-    "surnames": null,
-    "epithets": null,
+    "surnames": [],
+    "epithets": [],
 
     "active": true,
 
@@ -27,17 +27,17 @@
     "died": ["1113-04-13"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
     "categories": ["femina", "vidua"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

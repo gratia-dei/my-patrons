@@ -20,30 +20,30 @@
             "pt": "da Costa"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["1570-07-16"],
     "beatified": {
         "type": "ceremonially",
         "date": "1854-11-05"
     },
     "canonized": null,
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["01-19"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr", "religiosus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

@@ -19,11 +19,11 @@
             "pt": "Carvalho"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["1645-07-16"],
     "beatified": {
         "type": "ceremonially",
@@ -33,19 +33,19 @@
         "type": "ceremonially",
         "date": "2017-10-15"
     },
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

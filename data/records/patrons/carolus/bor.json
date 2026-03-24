@@ -20,7 +20,7 @@
             "pl": "Boromeusz"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -31,19 +31,19 @@
         "type": "ceremonially",
         "date": "1610-11-01"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["11-03"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "confessor", "cardinalis", "episcopus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

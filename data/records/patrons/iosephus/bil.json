@@ -16,7 +16,7 @@
             "pl": "Bilczewski"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -30,17 +30,17 @@
         "type": "ceremonially",
         "date": "2005-10-23"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["03-20"],
 
     "categories": ["vir", "episcopus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

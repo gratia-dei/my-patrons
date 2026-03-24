@@ -13,7 +13,7 @@
     ]
   },
     "forenames": ["iacobus"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "la": "Frater Domini",
@@ -34,23 +34,23 @@
 
     "active": true,
 
-    "born": null,
+    "born": [],
     "died": ["~62"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "apostolus", "martyr", "episcopus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["2:Mai./1#1", "..."],

@@ -14,7 +14,7 @@
         ]
     },
     "forenames": ["theodorus"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "el": "Γράπτος",
@@ -30,19 +30,19 @@
     "died": ["~841"],
     "beatified": null,
     "canonized": null,
-    "doctor-of-the-church---todo": null,
-    "anniversary": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["vir", "martyr", "confessor", "presbyter", "monachus"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["1:Dec./27#3", "..."],

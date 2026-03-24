@@ -18,7 +18,7 @@
         ]
     },
     "forenames": ["rosa"],
-    "surnames": null,
+    "surnames": [],
     "epithets": [
         {
             "es": "de Sancta Maria",
@@ -40,19 +40,19 @@
         "type": "ceremonially",
         "date": "1671-04-12"
     },
-    "doctor-of-the-church---todo": null,
+    "doctor-of-the-church": null,
     "anniversary": ["08-23"],
 
-    "status---todo": ["beatus/sanctus"],
-    "attributes---todo": ["..."],
+    "status": ["beatus/sanctus"],
+    "attributes": ["..."],
     "categories": ["femina", "virgo"],
     "communities": {
-        "member---todo": ["..."],
-        "creator---todo": ["..."]
+        "member": ["..."],
+        "creator": ["..."]
     },
 
-    "companions---todo": ["..."],
-    "specially-venerated-persons---todo": ["..."],
+    "companions": ["..."],
+    "specially-venerated-persons": ["..."],
 
     "data-links": {
         "mr-1584": ["..."],

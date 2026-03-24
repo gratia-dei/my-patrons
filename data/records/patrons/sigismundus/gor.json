@@ -16,7 +16,7 @@
             "pl": "Gorazdowski"
         }
     ],
-    "epithets": null,
+    "epithets": [],
 
     "active": true,
 
@@ -34,7 +34,7 @@
     "anniversary": ["01-01"],
 
     "status": ["beatus", "sanctus"],
-    "attributes---todo": ["..."],
+    "attributes": ["..."],
     "categories": ["vir", "presbyter", "fundator"],
     "communities": {
         "member": [],
