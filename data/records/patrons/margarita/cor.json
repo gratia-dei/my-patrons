@@ -35,10 +35,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["femina", "poenitens-fem"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

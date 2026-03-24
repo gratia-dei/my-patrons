@@ -54,10 +54,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["femina", "virgo", "doctor-ecclesiae"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

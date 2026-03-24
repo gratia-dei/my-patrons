@@ -30,10 +30,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["vir", "apostolus", "evangelista"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

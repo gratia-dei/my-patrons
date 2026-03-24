@@ -40,10 +40,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["vir", "confessor", "fundator", "institutor"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

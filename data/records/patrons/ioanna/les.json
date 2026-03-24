@@ -39,10 +39,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["femina", "vidua", "conditrix", "fundatrix"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

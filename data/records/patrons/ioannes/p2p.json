@@ -42,10 +42,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["vir", "papa"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],

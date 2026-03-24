@@ -32,10 +32,7 @@
     "statuses": [],
     "attributes": [],
     "categories": ["vir", "abbas", "asceta"],
-    "communities": {
-        "member": ["..."],
-        "creator": ["..."]
-    },
+    "communities": {},
 
     "companions": [],
     "specially-venerated-persons": [],
