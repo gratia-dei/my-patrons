@@ -50,6 +50,8 @@
         "popes": ["1:#33"]
     },
 
+    "images": {},
+
     "sources": {
         "causesanti": null,
         "gcatholic": "https://gcatholic.org/hierarchy/pope/SL1",

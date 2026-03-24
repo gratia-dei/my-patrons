@@ -44,6 +44,8 @@
         "popes": ["1:#18"]
     },
 
+    "images": {},
+
     "sources": {
         "causesanti": null,
         "gcatholic": "https://gcatholic.org/hierarchy/pope/PN1",

@@ -50,6 +50,8 @@
         "popes": ["1:#30"]
     },
 
+    "images": {},
+
     "sources": {
         "causesanti": null,
         "gcatholic": "https://gcatholic.org/hierarchy/pope/MC1",

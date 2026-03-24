@@ -55,6 +55,8 @@
         "popes": ["1:#45"]
     },
 
+    "images": {},
+
     "sources": {
         "causesanti": null,
         "gcatholic": "https://gcatholic.org/hierarchy/pope/L01",

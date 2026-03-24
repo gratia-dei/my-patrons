@@ -44,6 +44,8 @@
         "popes": ["1:#21"]
     },
 
+    "images": {},
+
     "sources": {
         "causesanti": null,
         "gcatholic": "https://gcatholic.org/hierarchy/pope/CR1",
