@@ -36,7 +36,7 @@
     "doctor-of-the-church": null,
     "anniversary": ["11-24"],
 
-    "status": ["beatus/sanctus"],
+    "statuses": ["..."],
     "attributes": ["..."],
     "categories": ["vir", "martyr", "agricola"],
     "communities": {

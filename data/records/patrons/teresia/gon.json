@@ -48,7 +48,7 @@
     "doctor-of-the-church": null,
     "anniversary": ["09-05"],
 
-    "status": ["beatus/sanctus"],
+    "statuses": ["..."],
     "attributes": ["..."],
     "categories": ["femina", "virgo", "institutrix"],
     "communities": {

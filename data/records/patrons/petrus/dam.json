@@ -29,7 +29,7 @@
     "doctor-of-the-church": null,
     "anniversary": [],
 
-    "status": ["beatus/sanctus"],
+    "statuses": ["..."],
     "attributes": ["..."],
     "categories": ["vir", "confessor", "cardinalis", "cardinalis-episcopus", "episcopus", "doctor-ecclesiae"],
     "communities": {

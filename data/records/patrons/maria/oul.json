@@ -44,7 +44,7 @@
     "doctor-of-the-church": null,
     "anniversary": ["02-22"],
 
-    "status": ["beatus/sanctus"],
+    "statuses": ["..."],
     "attributes": ["..."],
     "categories": ["femina", "vidua", "constitutrix"],
     "communities": {

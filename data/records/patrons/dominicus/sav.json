@@ -36,7 +36,7 @@
     "doctor-of-the-church": null,
     "anniversary": ["03-09", "05-06"],
 
-    "status": ["beatus/sanctus"],
+    "statuses": ["..."],
     "attributes": ["..."],
     "categories": ["vir"],
     "communities": {
