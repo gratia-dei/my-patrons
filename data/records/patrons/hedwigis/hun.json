@@ -23,12 +23,12 @@
     "born": [">1373-10-03", "<1374-02-18"],
     "died": ["1399-07-17"],
     "beatified": {
-        "date": "1986-08-08",
-        "type": "ceremonially"
+        "type": "ceremonially",
+        "date": "1986-08-08"
     },
     "canonized": {
-        "date": "1997-06-08",
-        "type": "ceremonially"
+        "type": "ceremonially",
+        "date": "1997-06-08"
     },
     "doctor-of-the-church": null,
     "anniversary": ["10-16"],

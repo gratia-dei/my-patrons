@@ -1,23 +1,5 @@
 {
     "data-links": {
-        "48": {
-            "1": "records/patrons/felix/3pp"
-        },
-        "64": {
-            "1": "records/patrons/gregorius/1pp"
-        },
-        "90": {
-            "1": "records/patrons/gregorius/3pp"
-        },
-        "46": {
-            "1": "records/patrons/hilarius/1pp"
-        },
-        "52": {
-            "1": "records/patrons/hormisdas/1pp"
-        },
-        "261": {
-            "1": "records/patrons/ioannes/23p"
-        },
         "263": {
             "1": "records/patrons/ioannes/p1p"
         },
