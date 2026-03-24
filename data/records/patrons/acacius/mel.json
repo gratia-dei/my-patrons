@@ -30,8 +30,7 @@
     "attributes": [],
     "categories": ["vir", "episcopus"],
     "communities": {},
-
-    "companions": [],
+"companions": [],
     "specially-venerated-persons": [],
 
     "data-links": {
@@ -49,8 +48,10 @@
         "mr-1956-movable": ["..."],
 
         "mr-2004": ["1:apr./17#5", "..."],
+        "mr-2004-movable": ["..."],
         "mr-2004-index": ["1:a/acacius#2", "..."],
-        "mr-2004-movable": ["..."]
+
+        "docs": ["..."]
     },
 
     "images": {},
