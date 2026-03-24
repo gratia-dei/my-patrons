@@ -8335,7 +8335,7 @@
     "patrons/ephraem/syr": {
         "active": true,
         "names": {
-            "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+            "syc": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
             "la": "Ephraem Syrus",
             "en": "Ephrem the Syrian",
             "pl": "Efrem Syryjczyk"

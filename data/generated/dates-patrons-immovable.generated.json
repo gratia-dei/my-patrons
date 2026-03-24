@@ -1003,7 +1003,7 @@
         },
         "records/patrons/ephraem/syr": {
             "name": {
-                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "syc": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
                 "la": "Ephraem Syrus",
                 "en": "Ephrem the Syrian",
                 "pl": "Efrem Syryjczyk"
@@ -7126,7 +7126,7 @@
     "06-09": {
         "records/patrons/ephraem/syr": {
             "name": {
-                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "syc": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
                 "la": "Ephraem Syrus",
                 "en": "Ephrem the Syrian",
                 "pl": "Efrem Syryjczyk"
@@ -7340,7 +7340,7 @@
         },
         "records/patrons/ephraem/syr": {
             "name": {
-                "sy": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
+                "syc": "ܐܦܪܝܡ ܣܘܪܝܝܐ",
                 "la": "Ephraem Syrus",
                 "en": "Ephrem the Syrian",
                 "pl": "Efrem Syryjczyk"
