@@ -76,32 +76,32 @@
         "beatified": {
             "types": ["null", "associative-array"]
         },
-        "beatified/date": {
-            "types": ["string"],
-            "assignments": {
-                "beatified/date": "value"
-            }
-        },
         "beatified/type": {
             "types": ["string"],
             "assignments": {
                 "beatified/type": "value"
             }
         },
+        "beatified/date": {
+            "types": ["string"],
+            "assignments": {
+                "beatified/date": "value"
+            }
+        },
 
         "canonized": {
             "types": ["null", "associative-array"]
-        },
-        "canonized/date": {
-            "types": ["string"],
-            "assignments": {
-                "canonized/date": "value"
-            }
         },
         "canonized/type": {
             "types": ["string"],
             "assignments": {
                 "canonized/type": "value"
+            }
+        },
+        "canonized/date": {
+            "types": ["string"],
+            "assignments": {
+                "canonized/date": "value"
             }
         },
 

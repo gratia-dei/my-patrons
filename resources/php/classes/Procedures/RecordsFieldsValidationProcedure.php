@@ -5,7 +5,6 @@ class RecordsFieldsValidationProcedure extends Procedure
     private const CONFIGURATION_FILE_PATH = 'records-fields-validation-configuration.json';
 
     private const PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX = '#';
-    private const PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX = '---required';
 
     private const FIELDS_CONFIG_TYPES_INDEX = 'types';
     private const FIELDS_CONFIG_ELEMENT_TYPES_INDEX = 'element-types';
@@ -118,20 +117,11 @@ class RecordsFieldsValidationProcedure extends Procedure
         foreach ($data as $value => $row) {
             $this->parametrizedFieldsValues[$field][$value] = $value;
         }
-
-        $field .= self::PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX;
-        $data = self::SELECTABLE_LANGUAGES_ORDER;
-        foreach ($data as $value) {
-            $this->parametrizedFieldsValues[$field][$value] = $value;
-        }
     }
 
     private function getParametrizedKeys(string $type): array
     {
-        return [
-            $this->parametrizedFieldsValues[$type] ?? [],
-            $this->parametrizedFieldsValues[$type . self::PARAMETRIZED_REQUIRED_FIELD_SOURCE_PATH_SUFFIX] ?? [],
-        ];
+        return $this->parametrizedFieldsValues[$type] ?? [];
     }
 
     private function getRealExistingConfigFields(string $configField, array $staticDataKeys): array
@@ -144,12 +134,9 @@ class RecordsFieldsValidationProcedure extends Procedure
 
         $isIndex = ($configField === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . 'index');
 
-        list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($configField, 1));
+        $validKeys = $this->getParametrizedKeys(mb_substr($configField, 1));
 
         foreach ($staticDataKeys as $key) {
-            $result[$key] = $key;
-        }
-        foreach ($requiredKeys as $key) {
             $result[$key] = $key;
         }
 
@@ -216,7 +203,7 @@ class RecordsFieldsValidationProcedure extends Procedure
                         throw new GeneratorException("Unknown fields config type '$type'");
                     }
 
-                    list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($type, 1));
+                    $validKeys = $this->getParametrizedKeys(mb_substr($type, 1));
                     if (($validKeys[$value] ?? null) === $value) {
                         return;
                     }
