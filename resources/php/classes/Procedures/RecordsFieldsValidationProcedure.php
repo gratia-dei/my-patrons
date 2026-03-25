@@ -5,6 +5,7 @@ class RecordsFieldsValidationProcedure extends Procedure
     private const CONFIGURATION_FILE_PATH = 'records-fields-validation-configuration.json';
 
     private const PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX = '#';
+    private const PARAMETRIZED_REQUIRED_VALUES_SUFFIX = '-with-required-values';
 
     private const FIELDS_CONFIG_TYPES_INDEX = 'types';
     private const FIELDS_CONFIG_ELEMENT_TYPES_INDEX = 'element-types';
@@ -117,11 +118,20 @@ class RecordsFieldsValidationProcedure extends Procedure
         foreach ($data as $value => $row) {
             $this->parametrizedFieldsValues[$field][$value] = $value;
         }
+
+        $field .= self::PARAMETRIZED_REQUIRED_VALUES_SUFFIX;
+        $data = self::SELECTABLE_LANGUAGES_ORDER;
+        foreach ($data as $value) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
     }
 
     private function getParametrizedKeys(string $type): array
     {
-        return $this->parametrizedFieldsValues[$type] ?? [];
+        return [
+            $this->parametrizedFieldsValues[$type] ?? [],
+            $this->parametrizedFieldsValues[$type . self::PARAMETRIZED_REQUIRED_VALUES_SUFFIX] ?? [],
+        ];
     }
 
     private function getRealExistingConfigFields(string $configField, array $staticDataKeys): array
@@ -134,10 +144,22 @@ class RecordsFieldsValidationProcedure extends Procedure
 
         $isIndex = ($configField === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . 'index');
 
-        $validKeys = $this->getParametrizedKeys(mb_substr($configField, 1));
+        $isRequired = false;
+        $possibleSuffixPosition = strpos($configField, self::PARAMETRIZED_REQUIRED_VALUES_SUFFIX);
+        if ($possibleSuffixPosition !== false) {
+            $isRequired = true;
+            $configField = mb_substr($configField, 0, $possibleSuffixPosition);
+        }
+
+        list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($configField, 1));
 
         foreach ($staticDataKeys as $key) {
             $result[$key] = $key;
+        }
+        if ($isRequired) {
+            foreach ($requiredKeys as $key) {
+                $result[$key] = $key;
+            }
         }
 
         if ($result === []) {
@@ -203,7 +225,7 @@ class RecordsFieldsValidationProcedure extends Procedure
                         throw new GeneratorException("Unknown fields config type '$type'");
                     }
 
-                    $validKeys = $this->getParametrizedKeys(mb_substr($type, 1));
+                    list($validKeys, $requiredKeys) = $this->getParametrizedKeys(mb_substr($type, 1));
                     if (($validKeys[$value] ?? null) === $value) {
                         return;
                     }

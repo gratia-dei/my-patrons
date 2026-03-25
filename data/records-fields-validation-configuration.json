@@ -5,7 +5,7 @@
         "names": {
             "types": ["associative-array"]
         },
-        "names/#language": {
+        "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
@@ -41,7 +41,7 @@
         "epithets/#index": {
             "types": ["associative-array"]
         },
-        "epithets/#index/#language": {
+        "epithets/#index/#language-with-required-values": {
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
@@ -372,7 +372,7 @@
         "names": {
             "types": ["associative-array"]
         },
-        "names/#language": {
+        "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
@@ -405,7 +405,7 @@
         "names": {
             "types": ["associative-array"]
         },
-        "names/#language": {
+        "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"]
         },
@@ -424,7 +424,7 @@
         "names": {
             "types": ["associative-array"]
         },
-        "names/#language": {
+        "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
@@ -474,7 +474,7 @@
         "names": {
             "types": ["associative-array"]
         },
-        "names/#language": {
+        "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"]
         }
