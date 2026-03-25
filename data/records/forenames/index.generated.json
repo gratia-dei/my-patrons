@@ -64,8 +64,9 @@
         "pl": "Adalariusz"
     },
     "adelheidis": {
-        "la": "Adela",
-        "en": "Adele"
+        "la": "Adelheidis",
+        "en": "Adele",
+        "pl": "Adela"
     },
     "adolphus": {
         "la": "Adolphus",
@@ -2980,7 +2981,7 @@
         "la": "Venceslaus",
         "en": "Wenceslaus",
         "pl": "Wacław",
-        "cz": "Václav"
+        "cs": "Václav"
     },
     "veronica": {
         "la": "Veronica",

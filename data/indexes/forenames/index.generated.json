@@ -2016,7 +2016,7 @@
         "sw": "Achile"
     },
     "652c32e3acec34c19d209ebca0a0dcd1": {
-        "la": "Adela"
+        "pl": "Adela"
     },
     "654be4a26cb5a103c8335fb4dfebd077": {
         "pl": "Z wieloma imionami"
@@ -2932,7 +2932,7 @@
         "es": "Juan"
     },
     "92ed58830face4754f06810e4d9ac325": {
-        "cz": "Václav"
+        "cs": "Václav"
     },
     "92f993a3d16c374f38588b5906202cf3": {
         "pt": "Nuno"
@@ -4648,6 +4648,9 @@
     },
     "e3e409440457e2af7ed0bb25092f220a": {
         "he": "‏אֱלִישָׁע"
+    },
+    "e3e6a32ba292a018659d798414b4a321": {
+        "la": "Adelheidis"
     },
     "e3fd80c87c6daed7ee42dc7060d21b57": {
         "en": "Sulpice",

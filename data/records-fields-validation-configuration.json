@@ -475,7 +475,7 @@
             "types": ["associative-array"]
         },
         "names/#language-with-required-values": {
-            "types": ["indexed-array"],
+            "types": ["string", "indexed-array"],
             "element-types": ["string"]
         }
     }

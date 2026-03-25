@@ -19267,8 +19267,9 @@
             "forenames/adelheidis": {
                 "active": true,
                 "names": {
-                    "la": "Adela",
-                    "en": "Adele"
+                    "la": "Adelheidis",
+                    "en": "Adele",
+                    "pl": "Adela"
                 }
             }
         }
@@ -29211,7 +29212,7 @@
             "la": "Venceslaus",
             "en": "Wenceslaus",
             "pl": "Wacław",
-            "cz": "Václav"
+            "cs": "Václav"
         }
     },
     "patrons/venceslaus/boh": {
@@ -29234,7 +29235,7 @@
                     "la": "Venceslaus",
                     "en": "Wenceslaus",
                     "pl": "Wacław",
-                    "cz": "Václav"
+                    "cs": "Václav"
                 }
             }
         }

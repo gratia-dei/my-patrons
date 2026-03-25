@@ -1,13 +1,16 @@
 {
     "names": {
-        "la": "Adela"
+        "pl": "Adela"
     },
     "translations": {
         "la": [
-            "Adela"
+            "Adelheidis"
         ],
         "en": [
             "Adele"
+        ],
+        "pl": [
+            "Adela"
         ]
     },
     "links": [
