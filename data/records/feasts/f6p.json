@@ -3,12 +3,17 @@
         "la": [
             "feria sexta in Passione Domini"
         ],
+        "en": [
+            "Friday in the Passion of the Lord"
+        ],
         "pl": [
             "Wielki Piątek"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

@@ -3,12 +3,17 @@
         "la": [
             "Baptismus Domini"
         ],
+        "en": [
+            "The Baptism of the Lord"
+        ],
         "pl": [
             "Chrzest Pański"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

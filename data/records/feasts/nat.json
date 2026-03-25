@@ -3,12 +3,17 @@
         "la": [
             "Nativitas Domini"
         ],
+        "en": [
+            "The Nativity of the Lord"
+        ],
         "pl": [
             "Narodzenie Pańskie"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

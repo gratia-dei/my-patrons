@@ -3,12 +3,17 @@
         "la": [
             "Octava Nativitatis Domini"
         ],
+        "en": [
+            "The Octave of the Nativity of the Lord"
+        ],
         "pl": [
             "Oktawa Narodzenia Pańskiego"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

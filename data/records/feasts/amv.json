@@ -3,12 +3,17 @@
         "la": [
             "Vigilia Assumptionis Beatae Mariae Virginis"
         ],
+        "en": [
+            "The Vigil of the Assumption of the Blessed Virgin Mary"
+        ],
         "pl": [
             "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

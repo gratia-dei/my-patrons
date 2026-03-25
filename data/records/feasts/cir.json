@@ -3,12 +3,17 @@
         "la": [
             "Circumcisio Domini"
         ],
+        "en": [
+            "The Circumcision of the Lord"
+        ],
         "pl": [
             "Obrzezanie Pańskie"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

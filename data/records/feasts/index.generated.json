@@ -1,14 +1,17 @@
 {
     "ama": {
         "la": "Apparitio Michaelis Archangeli in monte Gargano",
+        "en": "The Apparition of the Archangel Michael on Mount Gargano",
         "pl": "Objawienie Michała Archanioła na górze Gargano"
     },
     "amo": {
         "la": "Octava Assumptionis Beatae Mariae Virginis",
+        "en": "The Octave of the Assumption of the Blessed Virgin Mary",
         "pl": "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
     },
     "amv": {
         "la": "Vigilia Assumptionis Beatae Mariae Virginis",
+        "en": "The Vigil of the Assumption of the Blessed Virgin Mary",
         "pl": "Wigilia Wniebowzięcia Najświętszej Maryi Panny"
     },
     "and": {
@@ -22,11 +25,13 @@
         "pl": "Zwiastowanie Błogosławionej Maryi Dziewicy Bożej Rodzicielki"
     },
     "asc": {
-        "la": "Ascénsio Iesu Christi",
+        "la": "Ascensio Iesu Christi",
+        "en": "The Ascension of Jesus Christ",
         "pl": "Wniebowstąpienie Jezusa Chrystusa"
     },
     "aso": {
         "la": "Octava Ascensionis Iesu Christi",
+        "en": "The Octave of the Ascension of Jesus Christ",
         "pl": "Oktawa Wniebowstąpienia Jezusa Chrystusa"
     },
     "ass": {
@@ -36,74 +41,92 @@
     },
     "asv": {
         "la": "Vigilia Ascensionis Iesu Christi",
+        "en": "The Vigil of the Ascension of Jesus Christ",
         "pl": "Wigilia Wniebowstąpienia Jezusa Chrystusa"
     },
     "bad": {
         "la": "Baptismus Domini",
+        "en": "The Baptism of the Lord",
         "pl": "Chrzest Pański"
     },
     "cah": {
         "la": "Conversio sancti Augustini",
+        "en": "The Conversion of Saint Augustine",
         "pl": "Nawrócenie świętego Augustyna"
     },
     "ces": {
         "la": "Sanctissimum Corpore et Sanguis Christi",
+        "en": "The Most Holy Body and Blood of Christ",
         "pl": "Najświętsze Ciało i Krew Chrystusa"
     },
     "cib": {
         "la": "Prima Inventio Capitis Ioannis Baptistae",
+        "en": "The First Discovery of the Head of John the Baptist",
         "pl": "Pierwsze Odnalezienie Głowy Jana Chrzciciela"
     },
     "cim": {
         "la": "Conceptio Immaculata beatae Mariae Virginis",
+        "en": "The Immaculate Conception of the Blessed Virgin Mary",
         "pl": "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
     },
     "cio": {
         "la": "Octava Conceptionis Immaculatae beatae Mariae Virginis",
+        "en": "The Octave of the Immaculate Conception of the Blessed Virgin Mary",
         "pl": "Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
     },
     "cir": {
         "la": "Circumcisio Domini",
+        "en": "The Circumcision of the Lord",
         "pl": "Obrzezanie Pańskie"
     },
     "civ": {
         "la": "Vigilia Conceptionis Immaculatae beatae Mariae Virginis",
+        "en": "The Vigil of the Immaculate Conception of the Blessed Virgin Mary",
         "pl": "Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
     },
     "cpa": {
         "la": "Conversio sancti Pauli Apostoli",
+        "en": "The Conversion of Saint Paul the Apostle",
         "pl": "Nawrócenie świętego Pawła Apostoła"
     },
     "cro": {
         "la": "Octava Sanctissimi Corporis Christi",
+        "en": "The Octave of the Most Holy Body of Christ",
         "pl": "Oktawa Najświętszego Ciała Chrystusa"
     },
     "d1a": {
         "la": "Dominica prima Adventus",
+        "en": "The First Sunday of Advent",
         "pl": "Pierwsza Niedziela Adwentu"
     },
     "d1q": {
         "la": "Dominica prima in Quadragesima",
+        "en": "The First Sunday in Lent",
         "pl": "Pierwsza Niedziela Wielkiego Postu"
     },
     "d70": {
         "la": "Dominica Septuagesimæ",
+        "en": "Septuagesima Sunday",
         "pl": "Niedziela Siedemdziesiątnicy"
     },
     "dba": {
         "la": "Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae",
+        "en": "The Dedication of the Basilicas of the Holy Apostles Peter and Paul in Rome",
         "pl": "Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie"
     },
     "dbl": {
         "la": "Dedicatio Basilicae Lateranensis in Romae",
+        "en": "The Dedication of the Lateran Basilica in Rome",
         "pl": "Poświęcenie Bazyliki Laterańskiej w Rzymie"
     },
     "dbm": {
-        "la": "Dedicatio Basilicae Sanctae Mariae in Romae",
+        "la": "Dedicatio Basilicae Sanctae Mariae ad Nives in Romae",
+        "en": "The Dedication of the Basilica of Saint Mary of the Snows in Rome",
         "pl": "Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie"
     },
     "dbp": {
         "la": "Dedicatio Basilicae Sancti Pauli Apostoli in Romae",
+        "en": "The Dedication of the Basilica of Saint Paul the Apostle in Rome",
         "pl": "Poświęcenie Bazyliki Świętego Pawła Apostoła w Rzymie"
     },
     "dci": {
@@ -113,34 +136,42 @@
     },
     "dem": {
         "la": "Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae",
+        "en": "The Dedication of the Church of Saint Mary of the Martyrs in Rome",
         "pl": "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach w Rzymie"
     },
     "dia": {
         "la": "Dominica in Albis",
+        "en": "Sunday in White",
         "pl": "Niedziela Biała"
     },
     "dma": {
         "la": "Dedicatio Basilicae Sancti Michaelis in monte Gargano",
+        "en": "The Dedication of the Basilica of Saint Michael on Mount Gargano",
         "pl": "Poświęcenie Bazyliki Świętego Michała na górze Gargano"
     },
     "dpl": {
         "la": "Dominica in Palmis de Passione Domini",
+        "en": "Palm Sunday of the Lord’s Passion",
         "pl": "Niedziela Palmowa Męki Pańskiej"
     },
     "dps": {
         "la": "Dominica Passionis",
+        "en": "Passion Sunday",
         "pl": "Niedziela Męki Pańskiej"
     },
     "epi": {
         "la": "Epiphania Domini",
+        "en": "The Epiphany of the Lord",
         "pl": "Objawienie Pańskie"
     },
     "epo": {
         "la": "Octava Epiphaniae Domini",
+        "en": "The Octave of the Epiphany of the Lord",
         "pl": "Oktawa Objawienia Pańskiego"
     },
     "epv": {
         "la": "Vigilia Epiphaniae Domini",
+        "en": "The Vigil of the Epiphany of the Lord",
         "pl": "Wigilia Objawienia Pańskiego"
     },
     "exa": {
@@ -150,18 +181,22 @@
     },
     "f5h": {
         "la": "Feria quinta Hebdomadae sanctae",
+        "en": "Thursday of Holy Week",
         "pl": "Wielki Czwartek"
     },
     "f6p": {
         "la": "feria sexta in Passione Domini",
+        "en": "Friday in the Passion of the Lord",
         "pl": "Wielki Piątek"
     },
     "fas": {
         "la": "Stigmatum Impressio sancti Francisci",
+        "en": "The Imprinting of the Stigmata of Saint Francis",
         "pl": "Odciśnięcie Stygmatów świętego Franciszka"
     },
     "fat": {
         "la": "Beata Maria Virgo de Fatima",
+        "en": "Blessed Virgin Mary of Fatima",
         "pl": "Błogosławiona Maryja Dziewica z Fatimy"
     },
     "gen": {
@@ -171,34 +206,42 @@
     },
     "gua": {
         "la": "Beata Maria Virgo de Guadalupe",
+        "en": "Blessed Virgin Mary of Guadalupe",
         "pl": "Błogosławiona Maryja Dziewica z Guadalupe"
     },
     "ico": {
         "la": "Immaculatum Cor beate Mariae Virginis",
+        "en": "The Immaculate Heart of the Blessed Virgin Mary",
         "pl": "Niepokalane Serce Najświętszej Maryi Panny"
     },
     "ifp": {
         "la": "Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae",
+        "en": "The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome",
         "pl": "Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie"
     },
     "ima": {
         "la": "Imago Salvatoris",
+        "en": "The Image of the Savior",
         "pl": "Wizerunek Zbawiciela"
     },
     "inv": {
         "la": "Inventio Sacrosanctae Crucis Dominicae",
+        "en": "The Discovery of the Most Holy Cross of the Lord",
         "pl": "Odnalezienie najświętszego Krzyża Pańskiego"
     },
     "irp": {
         "la": "Inventio corporis sanctae Rosaliae, Virginis Panormitanae",
+        "en": "The Discovery of the Body of Saint Rosalia, Virgin of Palermo",
         "pl": "Odnalezienie ciała świętej Rozalii, Dziewicy z Palermo"
     },
     "isp": {
         "la": "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis",
+        "en": "The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon",
         "pl": "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
     },
     "lou": {
         "la": "Beata Maria Virgo de Lourdes",
+        "en": "Blessed Virgin Mary of Lourdes",
         "pl": "Matka Boża z Lourdes"
     },
     "mat": {
@@ -207,6 +250,8 @@
         "pl": "Macierzyństwo błogosławionej Maryi Dziewicy"
     },
     "mis": {
+        "la": "Misericordia Dei",
+        "en": "The Mercy of God",
         "pl": "Miłosierdzie Boże"
     },
     "mmc": {
@@ -216,34 +261,42 @@
     },
     "mnm": {
         "la": "Beata Maria Virgo de Mercede Nuncupatae",
+        "en": "Blessed Virgin Mary of Mercy",
         "pl": "Błogosławiona Maryja Dziewica od Wykupu Niewolników"
     },
     "mrp": {
+        "la": "Sancta Virgo Maria, Regina Poloniae",
         "en": "The Most Holy Virgin Mary, Queen of Poland",
         "pl": "Najświętsza Maryja Panna Królowa Polski"
     },
     "nao": {
         "la": "Octava Nativitatis Domini",
+        "en": "The Octave of the Nativity of the Lord",
         "pl": "Oktawa Narodzenia Pańskiego"
     },
     "nat": {
         "la": "Nativitas Domini",
+        "en": "The Nativity of the Lord",
         "pl": "Narodzenie Pańskie"
     },
     "nav": {
         "la": "Vigilia Nativitatis Domini",
+        "en": "The Vigil of the Nativity of the Lord",
         "pl": "Wigilia Narodzenia Pańskiego"
     },
     "nib": {
         "la": "Nativitas sancti Ioannis Baptistae",
+        "en": "The Nativity of Saint John the Baptist",
         "pl": "Narodziny świętego Jana Chrzciciela"
     },
     "nio": {
         "la": "Octava Nativitatis sancti Ioannis Baptistae",
+        "en": "The Octave of the Nativity of Saint John the Baptist",
         "pl": "Oktawa Narodzin świętego Jana Chrzciciela"
     },
     "niv": {
         "la": "Vigilia Nativitatis sancti Ioannis Baptistae",
+        "en": "The Vigil of the Nativity of Saint John the Baptist",
         "pl": "Wigilia Narodzin świętego Jana Chrzciciela"
     },
     "nma": {

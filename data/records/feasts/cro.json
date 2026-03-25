@@ -3,12 +3,17 @@
         "la": [
             "Octava Sanctissimi Corporis Christi"
         ],
+        "en": [
+            "The Octave of the Most Holy Body of Christ"
+        ],
         "pl": [
             "Oktawa Najświętszego Ciała Chrystusa"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

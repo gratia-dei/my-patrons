@@ -3,6 +3,7 @@
         "records/god/fil#cir": {
             "name": {
                 "la": "Iesus Christus (Circumcisio Domini)",
+                "en": "Jesus Christ (The Circumcision of the Lord)",
                 "pl": "Jezus Chrystus (Obrzezanie Pańskie)"
             },
             "sources": {
@@ -14,6 +15,7 @@
         "records/god/fil#nao": {
             "name": {
                 "la": "Iesus Christus (Octava Nativitatis Domini)",
+                "en": "Jesus Christ (The Octave of the Nativity of the Lord)",
                 "pl": "Jezus Chrystus (Oktawa Narodzenia Pańskiego)"
             },
             "sources": {
@@ -58,6 +60,7 @@
         "records/god/fil#epv": {
             "name": {
                 "la": "Iesus Christus (Vigilia Epiphaniae Domini)",
+                "en": "Jesus Christ (The Vigil of the Epiphany of the Lord)",
                 "pl": "Jezus Chrystus (Wigilia Objawienia Pańskiego)"
             },
             "sources": {
@@ -70,6 +73,7 @@
         "records/god/fil#epi": {
             "name": {
                 "la": "Iesus Christus (Epiphania Domini)",
+                "en": "Jesus Christ (The Epiphany of the Lord)",
                 "pl": "Jezus Chrystus (Objawienie Pańskie)"
             },
             "sources": {
@@ -95,6 +99,7 @@
         "records/god/fil#epo": {
             "name": {
                 "la": "Iesus Christus (Octava Epiphaniae Domini)",
+                "en": "Jesus Christ (The Octave of the Epiphany of the Lord)",
                 "pl": "Jezus Chrystus (Oktawa Objawienia Pańskiego)"
             },
             "sources": {
@@ -105,6 +110,7 @@
         "records/god/fil#bad": {
             "name": {
                 "la": "Iesus Christus (Baptismus Domini)",
+                "en": "Jesus Christ (The Baptism of the Lord)",
                 "pl": "Jezus Chrystus (Chrzest Pański)"
             },
             "sources": {
@@ -128,6 +134,7 @@
         "records/patrons/paulus/apo#cpa": {
             "name": {
                 "la": "Paulus Tersensis (Conversio sancti Pauli Apostoli)",
+                "en": "Paul of Tarsus (The Conversion of Saint Paul the Apostle)",
                 "pl": "Paweł z Tarsu (Nawrócenie świętego Pawła Apostoła)"
             },
             "sources": {
@@ -210,6 +217,7 @@
         "records/patrons/maria/naz#lou": {
             "name": {
                 "la": "Maria Virgo (Beata Maria Virgo de Lourdes)",
+                "en": "Mary, mother of Jesus (Blessed Virgin Mary of Lourdes)",
                 "pl": "Maria z Nazaretu (Matka Boża z Lourdes)"
             },
             "sources": {
@@ -267,6 +275,7 @@
         "records/patrons/ioannes/bap#cib": {
             "name": {
                 "la": "Ioannes Baptista (Prima Inventio Capitis Ioannis Baptistae)",
+                "en": "John the Baptist (The First Discovery of the Head of John the Baptist)",
                 "pl": "Jan Chrzciciel (Pierwsze Odnalezienie Głowy Jana Chrzciciela)"
             },
             "sources": {
@@ -303,6 +312,7 @@
         "records/patrons/ioannes/bap#cib": {
             "name": {
                 "la": "Ioannes Baptista (Prima Inventio Capitis Ioannis Baptistae)",
+                "en": "John the Baptist (The First Discovery of the Head of John the Baptist)",
                 "pl": "Jan Chrzciciel (Pierwsze Odnalezienie Głowy Jana Chrzciciela)"
             },
             "sources": {
@@ -375,6 +385,7 @@
         "records/patrons/augustinus/hip#cah": {
             "name": {
                 "la": "Augustinus Hipponensis (Conversio sancti Augustini)",
+                "en": "Augustine of Hippo (The Conversion of Saint Augustine)",
                 "pl": "Augustyn z Hippony (Nawrócenie świętego Augustyna)"
             },
             "sources": {
@@ -410,6 +421,7 @@
         "records/god/fil#inv": {
             "name": {
                 "la": "Iesus Christus (Inventio Sacrosanctae Crucis Dominicae)",
+                "en": "Jesus Christ (The Discovery of the Most Holy Cross of the Lord)",
                 "pl": "Jezus Chrystus (Odnalezienie najświętszego Krzyża Pańskiego)"
             },
             "sources": {
@@ -423,6 +435,7 @@
         "records/patrons/augustinus/hip#cah": {
             "name": {
                 "la": "Augustinus Hipponensis (Conversio sancti Augustini)",
+                "en": "Augustine of Hippo (The Conversion of Saint Augustine)",
                 "pl": "Augustyn z Hippony (Nawrócenie świętego Augustyna)"
             },
             "sources": {
@@ -469,6 +482,7 @@
         "records/patrons/michael/arc#ama": {
             "name": {
                 "la": "Michael Archangelus (Apparitio Michaelis Archangeli in monte Gargano)",
+                "en": "Archangel Michael (The Apparition of the Archangel Michael on Mount Gargano)",
                 "pl": "Michał Archanioł (Objawienie Michała Archanioła na górze Gargano)"
             },
             "sources": {
@@ -546,6 +560,7 @@
         "records/patrons/maria/naz#dem": {
             "name": {
                 "la": "Maria Virgo (Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae)",
+                "en": "Mary, mother of Jesus (The Dedication of the Church of Saint Mary of the Martyrs in Rome)",
                 "pl": "Maria z Nazaretu (Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach w Rzymie)"
             },
             "sources": {
@@ -556,6 +571,7 @@
         "records/patrons/maria/naz#fat": {
             "name": {
                 "la": "Maria Virgo (Beata Maria Virgo de Fatima)",
+                "en": "Mary, mother of Jesus (Blessed Virgin Mary of Fatima)",
                 "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica z Fatimy)"
             },
             "sources": {
@@ -648,6 +664,7 @@
         "records/patrons/ioannes/bap#niv": {
             "name": {
                 "la": "Ioannes Baptista (Vigilia Nativitatis sancti Ioannis Baptistae)",
+                "en": "John the Baptist (The Vigil of the Nativity of Saint John the Baptist)",
                 "pl": "Jan Chrzciciel (Wigilia Narodzin świętego Jana Chrzciciela)"
             },
             "sources": {
@@ -660,6 +677,7 @@
         "records/patrons/ioannes/bap#nib": {
             "name": {
                 "la": "Ioannes Baptista (Nativitas sancti Ioannis Baptistae)",
+                "en": "John the Baptist (The Nativity of Saint John the Baptist)",
                 "pl": "Jan Chrzciciel (Narodziny świętego Jana Chrzciciela)"
             },
             "sources": {
@@ -695,6 +713,7 @@
         "records/patrons/ioannes/bap#nio": {
             "name": {
                 "la": "Ioannes Baptista (Octava Nativitatis sancti Ioannis Baptistae)",
+                "en": "John the Baptist (The Octave of the Nativity of Saint John the Baptist)",
                 "pl": "Jan Chrzciciel (Oktawa Narodzin świętego Jana Chrzciciela)"
             },
             "sources": {
@@ -775,6 +794,7 @@
         "records/patrons/rosalia/pan#irp": {
             "name": {
                 "la": "Rosalia Panormitana (Inventio corporis sanctae Rosaliae, Virginis Panormitanae)",
+                "en": "Rosalia of Palermo (The Discovery of the Body of Saint Rosalia, Virgin of Palermo)",
                 "pl": "Rozalia z Palermo (Odnalezienie ciała świętej Rozalii, Dziewicy z Palermo)"
             },
             "sources": {
@@ -967,6 +987,7 @@
         "records/patrons/felix/2ap#ifp": {
             "name": {
                 "la": "Felix II, antipapa (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Felix II, antipope (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Feliks II, antypapież (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -977,6 +998,7 @@
         "records/patrons/marcus/mar#ifp": {
             "name": {
                 "la": "Marcus; cum eo, i.a., Marcellianus (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Mark; with him, i.a., Marcellian (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Marek; z nim, m.in., Marcelian (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -987,6 +1009,7 @@
         "records/patrons/marcellianus/mar#ifp": {
             "name": {
                 "la": "Marcellianus; cum eo, i.a., Marcus (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Marcellian; with him, i.a., Mark (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Marcelian; z nim, m.in., Marek (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -997,6 +1020,7 @@
         "records/patrons/tranquillinus/rom#ifp": {
             "name": {
                 "la": "Tranquillinus de Roma (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Tranquillinus of Rome (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Trankwilin z Rzymu (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -1007,6 +1031,7 @@
         "records/patrons/abundius/lat#ifp": {
             "name": {
                 "la": "Abundius de Latium (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Abundius of Latium (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Abundiusz z Lacjum (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -1017,6 +1042,7 @@
         "records/patrons/abundantius/abu#ifp": {
             "name": {
                 "la": "Abundantius; cum eo, i.a., Abundius (Inventio sanctorum Felicis Papae Secundi, Marci et Marcelliani, fratrum, eorumque patris Tranquillini Presbyteri, Abundii Presbyteri et Abundantii Diaconi, Martyrum, in Romae)",
+                "en": "Abundantius; with him, i.a., Abundius (The Discovery of Saints Felix II, pope, Marcus and Marcellian, brothers, and their father Tranquillinus the Priest, Abundius the Priest, and Abundantius the Deacon, Martyrs, in Rome)",
                 "pl": "Abundancjusz; z nim, m.in., Abundiusz (Odnalezienie świętych papieża Feliksa II, Marka i Marcelliana, braci, ich ojca Trankwilina prezbitera, Abundiusza prezbitera i Abundancjusza diakona, męczenników, w Rzymie)"
             },
             "sources": {
@@ -1042,6 +1068,7 @@
         "records/patrons/stephanus/pro#isp": {
             "name": {
                 "la": "Stephanus protomartyr (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "en": "Stephen Protomartyr (The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon)",
                 "pl": "Szczepan Pramęczennik (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
             },
             "sources": {
@@ -1053,6 +1080,7 @@
         "records/patrons/gamaliel/hie#isp": {
             "name": {
                 "la": "Gamaliel Hierosolymitanus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "en": "Gamaliel of Jerusalem (The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon)",
                 "pl": "Gamaliel z Jerozolimy (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
             },
             "sources": {
@@ -1064,6 +1092,7 @@
         "records/patrons/nicodemus/pha#isp": {
             "name": {
                 "la": "Nicodemus, Pharisaeus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "en": "Nicodemus, Pharisee (The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon)",
                 "pl": "Nikodem, Faryzeusz (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
             },
             "sources": {
@@ -1075,6 +1104,7 @@
         "records/patrons/abibo/hie#isp": {
             "name": {
                 "la": "Abibo Hierosolymitanus (Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis)",
+                "en": "Abibon of Jerusalem (The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon)",
                 "pl": "Abibo z Jerozolimy (Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba)"
             },
             "sources": {
@@ -1087,7 +1117,8 @@
     "08-05": {
         "records/patrons/maria/naz#dbm": {
             "name": {
-                "la": "Maria Virgo (Dedicatio Basilicae Sanctae Mariae in Romae)",
+                "la": "Maria Virgo (Dedicatio Basilicae Sanctae Mariae ad Nives in Romae)",
+                "en": "Mary, mother of Jesus (The Dedication of the Basilica of Saint Mary of the Snows in Rome)",
                 "pl": "Maria z Nazaretu (Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie)"
             },
             "sources": {
@@ -1126,6 +1157,7 @@
         "records/patrons/maria/naz#mnm": {
             "name": {
                 "la": "Maria Virgo (Beata Maria Virgo de Mercede Nuncupatae)",
+                "en": "Mary, mother of Jesus (Blessed Virgin Mary of Mercy)",
                 "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica od Wykupu Niewolników)"
             },
             "sources": {
@@ -1137,6 +1169,7 @@
         "records/patrons/maria/naz#amv": {
             "name": {
                 "la": "Maria Virgo (Vigilia Assumptionis Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Vigil of the Assumption of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Wigilia Wniebowzięcia Najświętszej Maryi Panny)"
             },
             "sources": {
@@ -1175,6 +1208,7 @@
         "records/patrons/maria/naz#amo": {
             "name": {
                 "la": "Maria Virgo (Octava Assumptionis Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Octave of the Assumption of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Oktawa Wniebowzięcia Najświętszej Maryi Panny)"
             },
             "sources": {
@@ -1185,6 +1219,7 @@
         "records/patrons/maria/naz#ico": {
             "name": {
                 "la": "Maria Virgo (Immaculatum Cor beate Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Immaculate Heart of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Niepokalane Serce Najświętszej Maryi Panny)"
             },
             "sources": {
@@ -1316,6 +1351,7 @@
         "records/patrons/franciscus/asi#fas": {
             "name": {
                 "la": "Franciscus Asisiensis (Stigmatum Impressio sancti Francisci)",
+                "en": "Francis of Assisi (The Imprinting of the Stigmata of Saint Francis)",
                 "pl": "Franciszek z Asyżu (Odciśnięcie Stygmatów świętego Franciszka)"
             },
             "sources": {
@@ -1339,6 +1375,7 @@
         "records/patrons/maria/naz#mnm": {
             "name": {
                 "la": "Maria Virgo (Beata Maria Virgo de Mercede Nuncupatae)",
+                "en": "Mary, mother of Jesus (Blessed Virgin Mary of Mercy)",
                 "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica od Wykupu Niewolników)"
             },
             "sources": {
@@ -1351,6 +1388,7 @@
         "records/patrons/michael/arc#dma": {
             "name": {
                 "la": "Michael Archangelus (Dedicatio Basilicae Sancti Michaelis in monte Gargano)",
+                "en": "Archangel Michael (The Dedication of the Basilica of Saint Michael on Mount Gargano)",
                 "pl": "Michał Archanioł (Poświęcenie Bazyliki Świętego Michała na górze Gargano)"
             },
             "sources": {
@@ -1466,6 +1504,7 @@
         "records/god/fil#dbl": {
             "name": {
                 "la": "Iesus Christus (Dedicatio Basilicae Lateranensis in Romae)",
+                "en": "Jesus Christ (The Dedication of the Lateran Basilica in Rome)",
                 "pl": "Jezus Chrystus (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
             },
             "sources": {
@@ -1477,6 +1516,7 @@
         "records/patrons/ioannes/bap#dbl": {
             "name": {
                 "la": "Ioannes Baptista (Dedicatio Basilicae Lateranensis in Romae)",
+                "en": "John the Baptist (The Dedication of the Lateran Basilica in Rome)",
                 "pl": "Jan Chrzciciel (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
             },
             "sources": {
@@ -1488,6 +1528,7 @@
         "records/patrons/ioannes/eva#dbl": {
             "name": {
                 "la": "Ioannes Evangelista (Dedicatio Basilicae Lateranensis in Romae)",
+                "en": "John the Evangelist (The Dedication of the Lateran Basilica in Rome)",
                 "pl": "Jan Ewangelista (Poświęcenie Bazyliki Laterańskiej w Rzymie)"
             },
             "sources": {
@@ -1499,6 +1540,7 @@
         "records/god/fil#ima": {
             "name": {
                 "la": "Iesus Christus (Imago Salvatoris)",
+                "en": "Jesus Christ (The Image of the Savior)",
                 "pl": "Jezus Chrystus (Wizerunek Zbawiciela)"
             },
             "sources": {
@@ -1511,6 +1553,7 @@
         "records/patrons/petrus/apo#dba": {
             "name": {
                 "la": "Petrus (Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae)",
+                "en": "Peter the Apostle (The Dedication of the Basilicas of the Holy Apostles Peter and Paul in Rome)",
                 "pl": "Piotr Apostoł (Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie)"
             },
             "sources": {
@@ -1522,6 +1565,7 @@
         "records/patrons/paulus/apo#dba": {
             "name": {
                 "la": "Paulus Tersensis (Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae)",
+                "en": "Paul of Tarsus (The Dedication of the Basilicas of the Holy Apostles Peter and Paul in Rome)",
                 "pl": "Paweł z Tarsu (Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie)"
             },
             "sources": {
@@ -1571,6 +1615,7 @@
         "records/patrons/maria/naz#civ": {
             "name": {
                 "la": "Maria Virgo (Vigilia Conceptionis Immaculatae beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Vigil of the Immaculate Conception of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Wigilia Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1582,6 +1627,7 @@
         "records/patrons/maria/naz#cim": {
             "name": {
                 "la": "Maria Virgo (Conceptio Immaculata beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Immaculate Conception of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Niepokalane Poczęcie Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1604,6 +1650,7 @@
         "records/patrons/paulus/apo#dbp": {
             "name": {
                 "la": "Paulus Tersensis (Dedicatio Basilicae Sancti Pauli Apostoli in Romae)",
+                "en": "Paul of Tarsus (The Dedication of the Basilica of Saint Paul the Apostle in Rome)",
                 "pl": "Paweł z Tarsu (Poświęcenie Bazyliki Świętego Pawła Apostoła w Rzymie)"
             },
             "sources": {
@@ -1615,6 +1662,7 @@
         "records/patrons/maria/naz#gua": {
             "name": {
                 "la": "Maria Virgo (Beata Maria Virgo de Guadalupe)",
+                "en": "Mary, mother of Jesus (Blessed Virgin Mary of Guadalupe)",
                 "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica z Guadalupe)"
             },
             "sources": {
@@ -1635,6 +1683,7 @@
         "records/patrons/maria/naz#cio": {
             "name": {
                 "la": "Maria Virgo (Octava Conceptionis Immaculatae beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Octave of the Immaculate Conception of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1658,6 +1707,7 @@
         "records/god/fil#nav": {
             "name": {
                 "la": "Iesus Christus (Vigilia Nativitatis Domini)",
+                "en": "Jesus Christ (The Vigil of the Nativity of the Lord)",
                 "pl": "Jezus Chrystus (Wigilia Narodzenia Pańskiego)"
             },
             "sources": {
@@ -1670,6 +1720,7 @@
         "records/god/fil#nat": {
             "name": {
                 "la": "Iesus Christus (Nativitas Domini)",
+                "en": "Jesus Christ (The Nativity of the Lord)",
                 "pl": "Jezus Chrystus (Narodzenie Pańskie)"
             },
             "sources": {

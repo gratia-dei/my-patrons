@@ -3,12 +3,17 @@
         "la": [
             "Nativitas sancti Ioannis Baptistae"
         ],
+        "en": [
+            "The Nativity of Saint John the Baptist"
+        ],
         "pl": [
             "Narodziny świętego Jana Chrzciciela"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

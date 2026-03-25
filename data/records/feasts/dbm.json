@@ -1,17 +1,25 @@
 {
     "names": {
         "la": [
-            "Dedicatio Basilicae Sanctae Mariae in Romae",
             "Dedicatio Basilicae Sanctae Mariae ad Nives in Romae",
+            "Dedicatio Basilicae Sanctae Mariae in Romae",
             "Sancta Maria ad Nives"
+        ],
+        "en": [
+            "The Dedication of the Basilica of Saint Mary of the Snows in Rome",
+            "The Dedication of the Basilica of Saint Mary in Rome",
+            "Saint Mary of the Snows"
         ],
         "pl": [
             "Poświęcenie Bazyliki Najświętszej Maryi Panny Śnieżnej w Rzymie",
+            "Poświęcenie Bazyliki Najświętszej Maryi Panny w Rzymie",
             "Najświętsza Maria Śnieżna"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

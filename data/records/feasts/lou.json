@@ -3,12 +3,17 @@
         "la": [
             "Beata Maria Virgo de Lourdes"
         ],
+        "en": [
+            "Blessed Virgin Mary of Lourdes"
+        ],
         "pl": [
             "Matka Boża z Lourdes"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

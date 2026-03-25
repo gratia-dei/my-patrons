@@ -3,12 +3,17 @@
         "la": [
             "Octava Assumptionis Beatae Mariae Virginis"
         ],
+        "en": [
+            "The Octave of the Assumption of the Blessed Virgin Mary"
+        ],
         "pl": [
             "Oktawa Wniebowzięcia Najświętszej Maryi Panny"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

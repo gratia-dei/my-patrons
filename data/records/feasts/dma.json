@@ -3,12 +3,17 @@
         "la": [
             "Dedicatio Basilicae Sancti Michaelis in monte Gargano"
         ],
+        "en": [
+            "The Dedication of the Basilica of Saint Michael on Mount Gargano"
+        ],
         "pl": [
             "Poświęcenie Bazyliki Świętego Michała na górze Gargano"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

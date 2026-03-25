@@ -3,12 +3,17 @@
         "la": [
             "Prima Inventio Capitis Ioannis Baptistae"
         ],
+        "en": [
+            "The First Discovery of the Head of John the Baptist"
+        ],
         "pl": [
             "Pierwsze Odnalezienie Głowy Jana Chrzciciela"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

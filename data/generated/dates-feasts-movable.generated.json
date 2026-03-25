@@ -3,6 +3,7 @@
         "records/god/fil#bad": {
             "name": {
                 "la": "Iesus Christus (Baptismus Domini)",
+                "en": "Jesus Christ (The Baptism of the Lord)",
                 "pl": "Jezus Chrystus (Chrzest Pański)"
             },
             "sources": {
@@ -25,6 +26,7 @@
         "records/god/fil#d1a": {
             "name": {
                 "la": "Iesus Christus (Dominica prima Adventus)",
+                "en": "Jesus Christ (The First Sunday of Advent)",
                 "pl": "Jezus Chrystus (Pierwsza Niedziela Adwentu)"
             },
             "sources": {
@@ -135,6 +137,7 @@
         "records/god/fil#aso": {
             "name": {
                 "la": "Iesus Christus (Octava Ascensionis Iesu Christi)",
+                "en": "Jesus Christ (The Octave of the Ascension of Jesus Christ)",
                 "pl": "Jezus Chrystus (Oktawa Wniebowstąpienia Jezusa Chrystusa)"
             },
             "sources": {
@@ -144,6 +147,7 @@
         "records/god/fil#cro": {
             "name": {
                 "la": "Iesus Christus (Octava Sanctissimi Corporis Christi)",
+                "en": "Jesus Christ (The Octave of the Most Holy Body of Christ)",
                 "pl": "Jezus Chrystus (Oktawa Najświętszego Ciała Chrystusa)"
             },
             "sources": {
@@ -175,6 +179,7 @@
         "records/god/fil#dps": {
             "name": {
                 "la": "Iesus Christus (Dominica Passionis)",
+                "en": "Jesus Christ (Passion Sunday)",
                 "pl": "Jezus Chrystus (Niedziela Męki Pańskiej)"
             },
             "sources": {
@@ -187,6 +192,7 @@
         "records/god/fil#f6p": {
             "name": {
                 "la": "Iesus Christus (feria sexta in Passione Domini)",
+                "en": "Jesus Christ (Friday in the Passion of the Lord)",
                 "pl": "Jezus Chrystus (Wielki Piątek)"
             },
             "sources": {
@@ -198,6 +204,7 @@
         "records/god/fil#f5h": {
             "name": {
                 "la": "Iesus Christus (Feria quinta Hebdomadae sanctae)",
+                "en": "Jesus Christ (Thursday of Holy Week)",
                 "pl": "Jezus Chrystus (Wielki Czwartek)"
             },
             "sources": {
@@ -211,6 +218,7 @@
         "records/god/fil#d1q": {
             "name": {
                 "la": "Iesus Christus (Dominica prima in Quadragesima)",
+                "en": "Jesus Christ (The First Sunday in Lent)",
                 "pl": "Jezus Chrystus (Pierwsza Niedziela Wielkiego Postu)"
             },
             "sources": {
@@ -236,6 +244,7 @@
         "records/god/fil#d70": {
             "name": {
                 "la": "Iesus Christus (Dominica Septuagesimæ)",
+                "en": "Jesus Christ (Septuagesima Sunday)",
                 "pl": "Jezus Chrystus (Niedziela Siedemdziesiątnicy)"
             },
             "sources": {
@@ -248,6 +257,7 @@
         "records/god/fil#dpl": {
             "name": {
                 "la": "Iesus Christus (Dominica in Palmis de Passione Domini)",
+                "en": "Jesus Christ (Palm Sunday of the Lord’s Passion)",
                 "pl": "Jezus Chrystus (Niedziela Palmowa Męki Pańskiej)"
             },
             "sources": {
@@ -327,6 +337,7 @@
         "records/god/fil#asv": {
             "name": {
                 "la": "Iesus Christus (Vigilia Ascensionis Iesu Christi)",
+                "en": "Jesus Christ (The Vigil of the Ascension of Jesus Christ)",
                 "pl": "Jezus Chrystus (Wigilia Wniebowstąpienia Jezusa Chrystusa)"
             },
             "sources": {
@@ -346,7 +357,8 @@
     "getResurrectionFeastDateValidSince1584OrEarlier|39": {
         "records/god/fil#asc": {
             "name": {
-                "la": "Iesus Christus (Ascénsio Iesu Christi)",
+                "la": "Iesus Christus (Ascensio Iesu Christi)",
+                "en": "Jesus Christ (The Ascension of Jesus Christ)",
                 "pl": "Jezus Chrystus (Wniebowstąpienie Jezusa Chrystusa)"
             },
             "sources": {
@@ -359,7 +371,8 @@
     "getResurrectionFeastDateValidSince1584OrEarlier|42": {
         "records/god/fil#asc": {
             "name": {
-                "la": "Iesus Christus (Ascénsio Iesu Christi)",
+                "la": "Iesus Christus (Ascensio Iesu Christi)",
+                "en": "Jesus Christ (The Ascension of Jesus Christ)",
                 "pl": "Jezus Chrystus (Wniebowstąpienie Jezusa Chrystusa)"
             },
             "sources": {
@@ -371,6 +384,7 @@
         "records/god/fil#aso": {
             "name": {
                 "la": "Iesus Christus (Octava Ascensionis Iesu Christi)",
+                "en": "Jesus Christ (The Octave of the Ascension of Jesus Christ)",
                 "pl": "Jezus Chrystus (Oktawa Wniebowstąpienia Jezusa Chrystusa)"
             },
             "sources": {
@@ -428,6 +442,7 @@
         "records/god/fil#ces": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Corpore et Sanguis Christi)",
+                "en": "Jesus Christ (The Most Holy Body and Blood of Christ)",
                 "pl": "Jezus Chrystus (Najświętsze Ciało i Krew Chrystusa)"
             },
             "sources": {
@@ -441,6 +456,7 @@
         "records/god/fil#ces": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Corpore et Sanguis Christi)",
+                "en": "Jesus Christ (The Most Holy Body and Blood of Christ)",
                 "pl": "Jezus Chrystus (Najświętsze Ciało i Krew Chrystusa)"
             },
             "sources": {
@@ -452,6 +468,7 @@
         "records/god/fil#cro": {
             "name": {
                 "la": "Iesus Christus (Octava Sanctissimi Corporis Christi)",
+                "en": "Jesus Christ (The Octave of the Most Holy Body of Christ)",
                 "pl": "Jezus Chrystus (Oktawa Najświętszego Ciała Chrystusa)"
             },
             "sources": {
@@ -475,6 +492,7 @@
         "records/patrons/maria/naz#ico": {
             "name": {
                 "la": "Maria Virgo (Immaculatum Cor beate Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Immaculate Heart of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Niepokalane Serce Najświętszej Maryi Panny)"
             },
             "sources": {
@@ -486,6 +504,7 @@
         "records/god/fil#dia": {
             "name": {
                 "la": "Iesus Christus (Dominica in Albis)",
+                "en": "Jesus Christ (Sunday in White)",
                 "pl": "Jezus Chrystus (Niedziela Biała)"
             },
             "sources": {

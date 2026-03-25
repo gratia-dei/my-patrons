@@ -4,6 +4,10 @@
             "Sanctissimum Corpore et Sanguis Christi",
             "Sanctissimum Corpore Christi"
         ],
+        "en": [
+            "The Most Holy Body and Blood of Christ",
+            "The Most Holy Body of Christ"
+        ],
         "pl": [
             "Najświętsze Ciało i Krew Chrystusa",
             "Najświętsze Ciało Chrystusa"
@@ -11,6 +15,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

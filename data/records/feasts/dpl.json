@@ -5,14 +5,21 @@
             "Dominica Palmarum",
             "Dominica secunda Passionis seu in palmis"
         ],
+        "en": [
+            "Palm Sunday of the Lord’s Passion",
+            "Palm Sunday",
+            "The Second Sunday of the Passion, or Palm Sunday"
+        ],
         "pl": [
             "Niedziela Palmowa Męki Pańskiej",
             "Niedziela Palmowa",
-            "Druga Niedziela Męki Pańskiej lub na palmach"
+            "Druga Niedziela Męki Pańskiej lub Palmowa"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

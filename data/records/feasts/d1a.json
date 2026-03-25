@@ -3,12 +3,17 @@
         "la": [
             "Dominica prima Adventus"
         ],
+        "en": [
+            "The First Sunday of Advent"
+        ],
         "pl": [
             "Pierwsza Niedziela Adwentu"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

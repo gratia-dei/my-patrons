@@ -3,12 +3,17 @@
         "la": [
             "Octava Conceptionis Immaculatae beatae Mariae Virginis"
         ],
+        "en": [
+            "The Octave of the Immaculate Conception of the Blessed Virgin Mary"
+        ],
         "pl": [
             "Oktawa Niepokalanego Poczęcia Błogosławionej Maryi Dziewicy"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

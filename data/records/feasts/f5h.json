@@ -4,6 +4,10 @@
             "Feria quinta Hebdomadae sanctae",
             "Coena Dominica"
         ],
+        "en": [
+            "Thursday of Holy Week",
+            "The Lord’s Supper"
+        ],
         "pl": [
             "Wielki Czwartek",
             "Wieczerza Pańska"
@@ -11,6 +15,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

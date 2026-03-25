@@ -3,12 +3,17 @@
         "la": [
             "Dominica in Albis"
         ],
+        "en": [
+            "Sunday in White"
+        ],
         "pl": [
             "Niedziela Biała"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

@@ -3,12 +3,17 @@
         "la": [
             "Conversio sancti Augustini"
         ],
+        "en": [
+            "The Conversion of Saint Augustine"
+        ],
         "pl": [
             "Nawrócenie świętego Augustyna"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

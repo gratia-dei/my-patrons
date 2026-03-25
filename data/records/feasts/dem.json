@@ -4,6 +4,10 @@
             "Dedicatio Ecclesiae sanctae Mariae ad Martyres in Romae",
             "Sanctae Mariae ad Martyres"
         ],
+        "en": [
+            "The Dedication of the Church of Saint Mary of the Martyrs in Rome",
+            "Saint Mary of the Martyrs"
+        ],
         "pl": [
             "Poświęcenie Kościoła Najświętszej Maryi Panny przy Męczennikach w Rzymie",
             "Najświętsza Maryja Panna przy Męczennikach"
@@ -11,6 +15,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

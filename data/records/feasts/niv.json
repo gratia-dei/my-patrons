@@ -3,12 +3,17 @@
         "la": [
             "Vigilia Nativitatis sancti Ioannis Baptistae"
         ],
+        "en": [
+            "The Vigil of the Nativity of Saint John the Baptist"
+        ],
         "pl": [
             "Wigilia Narodzin świętego Jana Chrzciciela"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

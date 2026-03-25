@@ -1,5 +1,8 @@
 {
     "names": {
+        "la": [
+            "Sancta Virgo Maria, Regina Poloniae"
+        ],
         "en": [
             "The Most Holy Virgin Mary, Queen of Poland"
         ],
@@ -10,6 +13,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

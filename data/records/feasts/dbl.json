@@ -5,6 +5,11 @@
             "Dedicatio Basilicae Sanctissimi Salvatoris in Romae",
             "Sanctissimi Salvator"
         ],
+        "en": [
+            "The Dedication of the Lateran Basilica in Rome",
+            "The Dedication of the Basilica of the Most Holy Savior in Rome",
+            "The Most Holy Savior"
+        ],
         "pl": [
             "Poświęcenie Bazyliki Laterańskiej w Rzymie",
             "Poświęcenie Bazyliki Najświętszego Zbawiciela w Rzymie",
@@ -13,6 +18,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

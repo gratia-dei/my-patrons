@@ -3,12 +3,17 @@
         "la": [
             "Stigmatum Impressio sancti Francisci"
         ],
+        "en": [
+            "The Imprinting of the Stigmata of Saint Francis"
+        ],
         "pl": [
             "Odciśnięcie Stygmatów świętego Franciszka"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

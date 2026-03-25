@@ -3,12 +3,17 @@
         "la": [
             "Vigilia Nativitatis Domini"
         ],
+        "en": [
+            "The Vigil of the Nativity of the Lord"
+        ],
         "pl": [
             "Wigilia Narodzenia Pańskiego"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

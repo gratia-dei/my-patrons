@@ -3,12 +3,17 @@
         "la": [
             "Inventio corporis sanctae Rosaliae, Virginis Panormitanae"
         ],
+        "en": [
+            "The Discovery of the Body of Saint Rosalia, Virgin of Palermo"
+        ],
         "pl": [
             "Odnalezienie ciała świętej Rozalii, Dziewicy z Palermo"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

@@ -3,12 +3,17 @@
         "la": [
             "Inventio beatissimi Stephani Protomartyris, et sanctorum Gamalielis, Nicodemi et Abibonis"
         ],
+        "en": [
+            "The Discovery of the Blessed Stephen the Protomartyr, and Saints Gamaliel, Nicodemus and Abibon"
+        ],
         "pl": [
             "Odnalezienie błogosławionego Szczepana Pramęczennika, oraz świętych Gamaliela, Nikodema i Abiba"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

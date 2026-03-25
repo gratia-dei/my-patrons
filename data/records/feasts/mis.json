@@ -1,11 +1,19 @@
 {
     "names": {
+        "la": [
+            "Misericordia Dei"
+        ],
+        "en": [
+            "The Mercy of God"
+        ],
         "pl": [
             "Miłosierdzie Boże"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

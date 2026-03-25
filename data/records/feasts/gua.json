@@ -3,12 +3,17 @@
         "la": [
             "Beata Maria Virgo de Guadalupe"
         ],
+        "en": [
+            "Blessed Virgin Mary of Guadalupe"
+        ],
         "pl": [
             "Błogosławiona Maryja Dziewica z Guadalupe"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

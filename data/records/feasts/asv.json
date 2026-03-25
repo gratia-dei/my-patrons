@@ -3,12 +3,17 @@
         "la": [
             "Vigilia Ascensionis Iesu Christi"
         ],
+        "en": [
+            "The Vigil of the Ascension of Jesus Christ"
+        ],
         "pl": [
             "Wigilia Wniebowstąpienia Jezusa Chrystusa"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

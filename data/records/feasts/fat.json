@@ -3,12 +3,17 @@
         "la": [
             "Beata Maria Virgo de Fatima"
         ],
+        "en": [
+            "Blessed Virgin Mary of Fatima"
+        ],
         "pl": [
             "Błogosławiona Maryja Dziewica z Fatimy"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

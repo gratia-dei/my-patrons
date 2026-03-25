@@ -3,12 +3,17 @@
         "la": [
             "Apparitio Michaelis Archangeli in monte Gargano"
         ],
+        "en": [
+            "The Apparition of the Archangel Michael on Mount Gargano"
+        ],
         "pl": [
             "Objawienie Michała Archanioła na górze Gargano"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

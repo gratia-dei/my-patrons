@@ -4,6 +4,10 @@
             "Dominica Passionis",
             "Dominica prima Passionis"
         ],
+        "en": [
+            "Passion Sunday",
+            "First Sunday of the Passion"
+        ],
         "pl": [
             "Niedziela Męki Pańskiej",
             "Pierwsza Niedziela Męki Pańskiej"
@@ -11,6 +15,8 @@
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

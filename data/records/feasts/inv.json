@@ -3,12 +3,17 @@
         "la": [
             "Inventio Sacrosanctae Crucis Dominicae"
         ],
+        "en": [
+            "The Discovery of the Most Holy Cross of the Lord"
+        ],
         "pl": [
             "Odnalezienie najświętszego Krzyża Pańskiego"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

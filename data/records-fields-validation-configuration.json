@@ -437,7 +437,7 @@
         },
 
         "date": {
-            "types": ["indexed-array"],
+            "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
                 "date": "array-value"

@@ -3,12 +3,17 @@
         "la": [
             "Conceptio Immaculata beatae Mariae Virginis"
         ],
+        "en": [
+            "The Immaculate Conception of the Blessed Virgin Mary"
+        ],
         "pl": [
             "Niepokalane Poczęcie Błogosławionej Maryi Dziewicy"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

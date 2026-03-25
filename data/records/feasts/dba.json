@@ -3,12 +3,17 @@
         "la": [
             "Dedicatio Basilicarum Sanctorum Apostolorum Petri et Pauli in Romae"
         ],
+        "en": [
+            "The Dedication of the Basilicas of the Holy Apostles Peter and Paul in Rome"
+        ],
         "pl": [
             "Poświęcenie Bazylik Świętych Apostołów Piotra i Pawła w Rzymie"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

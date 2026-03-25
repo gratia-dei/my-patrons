@@ -3,12 +3,17 @@
         "la": [
             "Dominica prima in Quadragesima"
         ],
+        "en": [
+            "The First Sunday in Lent"
+        ],
         "pl": [
             "Pierwsza Niedziela Wielkiego Postu"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

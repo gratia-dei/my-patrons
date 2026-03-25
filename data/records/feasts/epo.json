@@ -3,12 +3,17 @@
         "la": [
             "Octava Epiphaniae Domini"
         ],
+        "en": [
+            "The Octave of the Epiphany of the Lord"
+        ],
         "pl": [
             "Oktawa Objawienia Pańskiego"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

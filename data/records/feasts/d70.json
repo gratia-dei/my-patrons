@@ -3,12 +3,17 @@
         "la": [
             "Dominica Septuagesimæ"
         ],
+        "en": [
+            "Septuagesima Sunday"
+        ],
         "pl": [
             "Niedziela Siedemdziesiątnicy"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

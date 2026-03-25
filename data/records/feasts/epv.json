@@ -3,12 +3,17 @@
         "la": [
             "Vigilia Epiphaniae Domini"
         ],
+        "en": [
+            "The Vigil of the Epiphany of the Lord"
+        ],
         "pl": [
             "Wigilia Objawienia Pańskiego"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

@@ -3,12 +3,17 @@
         "la": [
             "Beata Maria Virgo de Mercede Nuncupatae"
         ],
+        "en": [
+            "Blessed Virgin Mary of Mercy"
+        ],
         "pl": [
             "Błogosławiona Maryja Dziewica od Wykupu Niewolników"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

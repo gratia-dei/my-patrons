@@ -3,12 +3,17 @@
         "la": [
             "Octava Ascensionis Iesu Christi"
         ],
+        "en": [
+            "The Octave of the Ascension of Jesus Christ"
+        ],
         "pl": [
             "Oktawa Wniebowstąpienia Jezusa Chrystusa"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

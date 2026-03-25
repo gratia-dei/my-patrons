@@ -3,12 +3,17 @@
         "la": [
             "Epiphania Domini"
         ],
+        "en": [
+            "The Epiphany of the Lord"
+        ],
         "pl": [
             "Objawienie Pańskie"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }

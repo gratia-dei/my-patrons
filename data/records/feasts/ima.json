@@ -3,12 +3,17 @@
         "la": [
             "Imago Salvatoris"
         ],
+        "en": [
+            "The Image of the Savior"
+        ],
         "pl": [
             "Wizerunek Zbawiciela"
         ]
     },
 
     "active": true,
+
+    "date": [],
 
     "images": {}
 }
