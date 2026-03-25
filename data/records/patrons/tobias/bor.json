@@ -36,6 +36,8 @@
     "doctor-of-the-church": null,
     "anniversary": ["02-11"],
 
+    "statuses": [],
+    "attributes": [],
     "categories": ["vir", "martyr", "religiosus"],
     "communities": {},
 
