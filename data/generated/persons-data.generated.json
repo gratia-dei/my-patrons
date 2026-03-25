@@ -54,6 +54,7 @@
                 "active": true,
                 "names": {
                     "la": "Sancta Familia",
+                    "en": "The Holy Family",
                     "pl": "Święta Rodzina"
                 }
             },
@@ -69,6 +70,7 @@
                 "active": true,
                 "names": {
                     "la": "Sanctissimum Nomen Iesus",
+                    "en": "The Most Holy Name of Jesus",
                     "pl": "Najświętsze Imię Jezus"
                 }
             },
@@ -100,6 +102,7 @@
                 "active": true,
                 "names": {
                     "la": "Relatio Pueri Iesu de Aegypto",
+                    "en": "The Return of the Child Jesus from Egypt",
                     "pl": "Powrót Dzieciątka Jezus z Egiptu"
                 }
             },
@@ -187,6 +190,7 @@
                 "active": true,
                 "names": {
                     "la": "Sabbato sancto",
+                    "en": "Holy Saturday",
                     "pl": "Wielka Sobota"
                 }
             },
@@ -194,6 +198,7 @@
                 "active": true,
                 "names": {
                     "la": "Resurrectio Iesu Christi",
+                    "en": "The Resurrection of Jesus Christ",
                     "pl": "Zmartwychwstanie Jezusa Chrystusa"
                 }
             },
@@ -209,6 +214,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
+                    "en": "The Lesser Litanies at Saint John Lateran in Rome",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
@@ -264,6 +270,7 @@
                 "active": true,
                 "names": {
                     "la": "Sanctissimum Cor Iesu",
+                    "en": "The Most Sacred Heart of Jesus",
                     "pl": "Najświętsze Serce Jezusa"
                 }
             },
@@ -271,6 +278,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava Sacratissimi Cordis Iesu",
+                    "en": "The Octave of the Most Sacred Heart of Jesus",
                     "pl": "Oktawa Najświętszego Serca Jezusa"
                 }
             },
@@ -278,6 +286,7 @@
                 "active": true,
                 "names": {
                     "la": "Pretiosissimus Sanguis Christi",
+                    "en": "The Most Precious Blood of Christ",
                     "pl": "Najdroższa Krew Chrystusa"
                 }
             },
@@ -285,6 +294,7 @@
                 "active": true,
                 "names": {
                     "la": "Transfiguratio Domini",
+                    "en": "The Transfiguration of the Lord",
                     "pl": "Przemienienie Pańskie"
                 }
             },
@@ -316,6 +326,7 @@
                 "active": true,
                 "names": {
                     "la": "Iesus Christus Universorum Rex",
+                    "en": "Jesus Christ, King of the Universe",
                     "pl": "Jezus Chrystus Król Wszechświata"
                 }
             }
@@ -361,6 +372,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia Pentecostes",
+                    "en": "The Vigil of Pentecost",
                     "pl": "Wigilia Zesłania Ducha Świętego"
                 }
             },
@@ -368,6 +380,7 @@
                 "active": true,
                 "names": {
                     "la": "Dies Pentecostes",
+                    "en": "The Day of Pentecost",
                     "pl": "Zesłanie Ducha Świętego"
                 }
             },
@@ -375,6 +388,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava Pentecostes",
+                    "en": "The Octave of Pentecost",
                     "pl": "Oktawa Zesłania Ducha Świętego"
                 }
             }
@@ -396,6 +410,7 @@
                 "active": true,
                 "names": {
                     "la": "Sollemnitas sacratissimae et indivíduae Trinitatis",
+                    "en": "The Solemnity of the Most Holy and Undivided Trinity",
                     "pl": "Uroczystość Trójcy Przenajświętszej"
                 }
             },
@@ -1772,6 +1787,7 @@
                 "active": true,
                 "names": {
                     "la": "Ordinatio sancti Ambrosii episcopi",
+                    "en": "The Ordination of Saint Ambrose, Bishop",
                     "pl": "Wyświęcenie świętego Ambrożego biskupa"
                 }
             }
@@ -2111,6 +2127,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Andreae Apostoli",
+                    "en": "The Vigil of Saint Andrew the Apostle",
                     "pl": "Wigilia świętego Andrzeja Apostoła"
                 }
             },
@@ -2118,6 +2135,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+                    "en": "The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul",
                     "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
                 }
             }
@@ -3466,6 +3484,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -3794,6 +3813,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Augustini",
+                    "en": "The Translation of the Body of Saint Augustine",
                     "pl": "Przeniesienie ciała świętego Augustyna"
                 }
             },
@@ -4110,6 +4130,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Bartholomaei Apostoli",
+                    "en": "The Vigil of Saint Bartholomew the Apostle” – czyli „Wigilia św. Bartłomieja Apostoła",
                     "pl": "Wigilia świętego Bartłomieja Apostoła"
                 }
             }
@@ -4258,6 +4279,7 @@
                 "active": true,
                 "names": {
                     "la": "Ordinatio sancti Basili Magni",
+                    "en": "The Ordination of Saint Basil the Great",
                     "pl": "Wyświęcenie świętego Bazylego Wielkiego"
                 }
             }
@@ -4679,6 +4701,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sanctae Birgittae viduae",
+                    "en": "The Translation of the Body of Saint Bridget, Widow",
                     "pl": "Przeniesienie ciała świętej Brygidy wdowy"
                 }
             }
@@ -6264,6 +6287,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -6763,6 +6787,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             },
@@ -6770,6 +6795,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -7566,6 +7592,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Dominici",
+                    "en": "The Translation of Saint Dominic",
                     "pl": "Przeniesienie świętego Dominika"
                 }
             }
@@ -7662,6 +7689,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -7834,6 +7862,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Eduardi, regis et confessoris",
+                    "en": "The Translation of the Body of Saint Edward, King and Confessor",
                     "pl": "Przeniesienie ciała świętego Edwarda, króla i wyznawcy"
                 }
             }
@@ -8409,6 +8438,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Epimachi",
+                    "en": "The Translation of Saint Epimachus",
                     "pl": "Przeniesienie świętego Epimacha"
                 }
             }
@@ -8640,6 +8670,7 @@
                 "active": true,
                 "names": {
                     "la": "Ordinatio sancti Eusebii episcopi",
+                    "en": "The Ordination of Saint Eusebius, Bishop",
                     "pl": "Wyświęcenie świętego Euzebiusza biskupa"
                 }
             }
@@ -9173,6 +9204,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -9301,6 +9333,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Flavii Clementis",
+                    "en": "The Translation of Saint Flavius Clemens",
                     "pl": "Przeniesienie świętego Flawiusza Klemensa"
                 }
             }
@@ -9502,6 +9535,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Francisci",
+                    "en": "The Translation of Saint Francis",
                     "pl": "Przeniesienie świętego Franciszka"
                 }
             },
@@ -9907,6 +9941,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Francisci Salesii",
+                    "en": "The Translation of the Body of Saint Francis de Sales",
                     "pl": "Przeniesienie ciała świętego Franciszka Salezego"
                 }
             }
@@ -10429,6 +10464,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -10998,6 +11034,7 @@
                 "active": true,
                 "names": {
                     "la": "Ordinatio sancti Gregorii Magni in Summum Pontificem",
+                    "en": "The Ordination of Saint Gregory the Great as Supreme Pontiff",
                     "pl": "Wyniesienie świętego Grzegorza Wielkiego na Papieża"
                 }
             }
@@ -11133,6 +11170,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Gregorii Nazianzeni",
+                    "en": "The Translation of Saint Gregory of Nazianzus",
                     "pl": "Przeniesienie świętego Grzegorza z Nazjanzu"
                 }
             }
@@ -11708,6 +11746,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Hieronymi Presbyteri, Confessoris et Ecclesiae Doctoris",
+                    "en": "The Translation of Saint Jerome, Priest, Confessor, and Doctor of the Church",
                     "pl": "Przeniesienie świętego Hieronima Prezbitera, Wyznawcy i Doktora Kościoła"
                 }
             }
@@ -12383,6 +12422,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Iacobi Apostoli",
+                    "en": "The Vigil of Saint James the Apostle",
                     "pl": "Wigilia świętego Jakuba Apostoła"
                 }
             }
@@ -12476,6 +12516,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -12762,6 +12803,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Ignatii, Episcopi et Martyris",
+                    "en": "The Translation of Saint Ignatius, Bishop and Martyr",
                     "pl": "Przeniesienie świętego Ignacego, Biskupa i Męczennika"
                 }
             }
@@ -13390,6 +13432,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
+                    "en": "The Lesser Litanies at Saint John Lateran in Rome",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
@@ -13421,6 +13464,7 @@
                 "active": true,
                 "names": {
                     "la": "Passio sancti Ioannis Baptistae",
+                    "en": "The Passion of Saint John the Baptist",
                     "pl": "Męczeństwo świętego Jana Chrzciciela"
                 }
             },
@@ -13697,6 +13741,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Ioannis Christostomi",
+                    "en": "The Translation of the Body of Saint John Chrysostom",
                     "pl": "Przeniesienie ciała świętego Jana Chryzostoma"
                 }
             }
@@ -13914,6 +13959,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava sancti Ioannis Apostoli et Evangelistae",
+                    "en": "The Octave of Saint John the Apostle and Evangelist",
                     "pl": "Oktawa świętego Jana Apostoła i Ewangelisty"
                 }
             },
@@ -13921,6 +13967,7 @@
                 "active": true,
                 "names": {
                     "la": "Ioannes Apostolus et Evangelista in olei",
+                    "en": "John the Apostle and Evangelist in the Oil",
                     "pl": "Jan Apostoł i Ewangelista w oleju"
                 }
             },
@@ -13928,6 +13975,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctum Joannem in Laterano",
+                    "en": "The Lesser Litanies at Saint John Lateran in Rome",
                     "pl": "Rzymska mała procesja błagalna do świętego Jana na Lateranie"
                 }
             },
@@ -14719,6 +14767,7 @@
                 "active": true,
                 "names": {
                     "la": "Sancta Familia",
+                    "en": "The Holy Family",
                     "pl": "Święta Rodzina"
                 }
             },
@@ -14726,6 +14775,7 @@
                 "active": true,
                 "names": {
                     "la": "loseph Sponsus beatissimae Virginis Mariae",
+                    "en": "Joseph, Spouse of the Blessed Virgin Mary",
                     "pl": "Józef Oblubieniec Błogosławionej Maryi Dziewicy"
                 }
             },
@@ -14733,6 +14783,7 @@
                 "active": true,
                 "names": {
                     "la": "Ioseph Opifex",
+                    "en": "Joseph the Worker",
                     "pl": "Józef Rzemieślnik"
                 }
             }
@@ -15818,6 +15869,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Simonis et Iudae",
+                    "en": "The Vigil of the Holy Apostles Simon and Jude",
                     "pl": "Wigilia świętych Apostołów Szymona i Judy"
                 }
             }
@@ -15893,6 +15945,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Iulianae",
+                    "en": "The Translation of Saint Juliana",
                     "pl": "Przeniesienie świętej Juliany"
                 }
             }
@@ -16381,6 +16434,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -16526,6 +16580,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Laurentii Martyris",
+                    "en": "The Vigil of Saint Lawrence the Martyr",
                     "pl": "Wigilia świętego Wawrzyńca Męczennika"
                 }
             },
@@ -16533,6 +16588,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava sancti Laurentii Martyris",
+                    "en": "The Octave of Saint Lawrence the Martyr",
                     "pl": "Oktawa świętego Wawrzyńca Męczennika"
                 }
             }
@@ -16823,6 +16879,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+                    "en": "The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul",
                     "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
                 }
             }
@@ -18029,6 +18086,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Marci Evangelistae",
+                    "en": "The Translation of Saint Mark the Evangelist",
                     "pl": "Przeniesienie świętego Marka Ewangelisty"
                 }
             }
@@ -19436,6 +19494,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaniae minores ad sanctam Mariam Majorem",
+                    "en": "The Lesser Litanies at Saint Mary Major in Rome",
                     "pl": "Rzymska mała procesja błagalna do świętej Maryi Większej"
                 }
             },
@@ -19523,6 +19582,7 @@
                 "active": true,
                 "names": {
                     "la": "Nativitas Beatae Mariae Virginis",
+                    "en": "The Nativity of the Blessed Virgin Mary",
                     "pl": "Narodziny Błogosławionej Maryi Dziewicy"
                 }
             },
@@ -19530,6 +19590,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava Nativitatis Beatae Mariae Virginis",
+                    "en": "The Octave of the Nativity of the Blessed Virgin Mary",
                     "pl": "Oktawa Narodzin Błogosławionej Maryi Dziewicy"
                 }
             },
@@ -19537,6 +19598,7 @@
                 "active": true,
                 "names": {
                     "la": "Sanctissimum Nomen beate Virginis Mariae",
+                    "en": "The Most Holy Name of the Blessed Virgin Mary",
                     "pl": "Najświętsze Imię Błogosławionej Maryi Dziewicy"
                 }
             },
@@ -19544,6 +19606,7 @@
                 "active": true,
                 "names": {
                     "la": "Beate Maria Virgo Perdolentis",
+                    "en": "Blessed Mary, the Very Sorrowful Virgin",
                     "pl": "Matka Boska Bolesna"
                 }
             },
@@ -19559,6 +19622,7 @@
                 "active": true,
                 "names": {
                     "la": "Sancta Maria de Victoria",
+                    "en": "Saint Mary of Victory",
                     "pl": "Matka Boża Zwycięska"
                 }
             },
@@ -19566,6 +19630,7 @@
                 "active": true,
                 "names": {
                     "la": "Beatae Maria Virgo de Rosario",
+                    "en": "Blessed Mary, Virgin of the Rosary",
                     "pl": "Błogosławiona Maryja Dziewica Różańcowa"
                 }
             },
@@ -19613,6 +19678,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Sacrae Domus Genetricis Dei Mariae",
+                    "en": "The Translation of the Holy House of the Mother of God Mary",
                     "pl": "Przeniesienie Świętego Domu Maryi Bożej Rodzicielki"
                 }
             },
@@ -19628,6 +19694,7 @@
                 "active": true,
                 "names": {
                     "la": "Sancta Familia",
+                    "en": "The Holy Family",
                     "pl": "Święta Rodzina"
                 }
             },
@@ -20702,6 +20769,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Martini, Episcopi et Confessoris; et Dedicatio Basilicae suae hoc ipso die, quo etiam is ante aliquot annos Episcopum fuerat ordinatus",
+                    "en": "The Translation of Saint Martin, Bishop and Confessor; and the Dedication of His Basilica on the same day on Which He Had Also Been Ordained Bishop Several Years Earlier",
                     "pl": "Przeniesienie świętego Marcina, Biskupa i Wyznawcy; i Poświęcenie jego Bazyliki tego samego dnia, w którym kilka lat wcześniej przyjął on święcenia biskupie"
                 }
             }
@@ -20776,6 +20844,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Matthaei, Apostoli et Evangelistae",
+                    "en": "The Translation of Saint Matthew, Apostle and Evangelist",
                     "pl": "Przeniesienie świętego Mateusza, Apostoła i Ewangelisty"
                 }
             },
@@ -20783,6 +20852,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Mathaei, Apostoli et Evangelistae",
+                    "en": "The Vigil of Saint Matthew, Apostle and Evangelist",
                     "pl": "Wigilia świętego Mateusza, Apostoła i Ewangelisty"
                 }
             }
@@ -20831,6 +20901,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sancti Matthiae Apostoli",
+                    "en": "The Vigil of Saint Matthias the Apostle",
                     "pl": "Wigilia świętego Macieja Apostoła"
                 }
             }
@@ -21532,6 +21603,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sanctae Monicae",
+                    "en": "Translatio corporis sanctae Monicae",
                     "pl": "Przeniesienie ciała świętej Moniki"
                 }
             }
@@ -22091,6 +22163,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia Omnium Sanctorum",
+                    "en": "The Vigil of All Saints",
                     "pl": "Wigilia Wszystkich Świętych"
                 }
             },
@@ -22098,6 +22171,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava Omnium Sanctorum",
+                    "en": "The Octave of All Saints",
                     "pl": "Oktawa Wszystkich Świętych"
                 }
             }
@@ -22340,6 +22414,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -22610,6 +22685,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Nicolai",
+                    "en": "The Translation of Saint Nicholas",
                     "pl": "Przeniesienie świętego Mikołaja"
                 }
             }
@@ -22962,6 +23038,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             },
@@ -22969,6 +23046,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -23210,6 +23288,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
+                    "en": "The Vigil of the Holy Apostles Peter and Paul",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
@@ -23217,6 +23296,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
+                    "en": "The Octave of the Holy Apostles Peter and Pau",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
@@ -23530,6 +23610,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Cathedra sancti Petri Apostoli",
+                    "en": "The Chair of Saint Peter the Apostle in Rome",
                     "pl": "Katedra Świętego Piotra w Rzymie"
                 }
             },
@@ -23537,6 +23618,7 @@
                 "active": true,
                 "names": {
                     "la": "Antiochiae Cathedra sancti Petri Apostoli",
+                    "en": "The Chair of Saint Peter the Apostle at Antioch",
                     "pl": "Katedra Świętego Piotra w Antiochii"
                 }
             },
@@ -23544,6 +23626,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaníae majores ad sanctum Petrum",
+                    "en": "The Greater Litanies at Saint Peter in Rome",
                     "pl": "Rzymska wielka procesja błagalna do świętego Piotra"
                 }
             },
@@ -23551,6 +23634,7 @@
                 "active": true,
                 "names": {
                     "la": "Romae Litaníae minores ad sanctum Petrum",
+                    "en": "The Lesser Litanies at Saint Peter in Rome",
                     "pl": "Rzymska mała procesja błagalna do świętego Piotra"
                 }
             },
@@ -23558,6 +23642,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Patri et Pauli",
+                    "en": "The Vigil of the Holy Apostles Peter and Paul",
                     "pl": "Wigilia świętych Apostołów Piotra i Pawła"
                 }
             },
@@ -23565,6 +23650,7 @@
                 "active": true,
                 "names": {
                     "la": "Octava sanctorum Apostolorum Patri et Pauli",
+                    "en": "The Octave of the Holy Apostles Peter and Pau",
                     "pl": "Oktawa świętych Apostołów Piotra i Pawła"
                 }
             },
@@ -23572,6 +23658,7 @@
                 "active": true,
                 "names": {
                     "la": "Dedicatio sancti Petri Apostoli ad Vincula",
+                    "en": "The Dedication of Saint Peter the Apostle in Chains",
                     "pl": "Poświęcenie świętego Piotra Apostoła w Okowach"
                 }
             },
@@ -25712,6 +25799,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Romualdi Abbatis",
+                    "en": "The Translation of the Body of Saint Romuald, Abbot",
                     "pl": "Przeniesienie ciała świętego Romualda Opata"
                 }
             }
@@ -26413,6 +26501,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -26949,6 +27038,7 @@
                 "active": true,
                 "names": {
                     "la": "Vigilia sanctorum Apostolorum Simonis et Iudae",
+                    "en": "The Vigil of the Holy Apostles Simon and Jude",
                     "pl": "Wigilia świętych Apostołów Szymona i Judy"
                 }
             }
@@ -27256,6 +27346,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             },
@@ -27263,6 +27354,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -27668,6 +27760,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio corporis sancti Stephani Protomartyris",
+                    "en": "The Translation of the Body of Saint Stephen, the Protomartyr",
                     "pl": "Przeniesienie ciała świętego Szczepana Pramęczennika"
                 }
             },
@@ -28344,6 +28437,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sancti Thomae Apostoli",
+                    "en": "The Translation of Saint Thomas the Apostle” – czyli „Przeniesienie św. Tomasza Apostoła",
                     "pl": "Przeniesienie świętego Tomasza Apostoła"
                 }
             }
@@ -28687,6 +28781,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis",
+                    "en": "The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul",
                     "pl": "Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła"
                 }
             }
@@ -29195,6 +29290,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }
@@ -29232,6 +29328,7 @@
                 "active": true,
                 "names": {
                     "la": "Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris",
+                    "en": "The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr",
                     "pl": "Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika"
                 }
             }

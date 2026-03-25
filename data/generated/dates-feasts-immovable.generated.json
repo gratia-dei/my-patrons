@@ -39,6 +39,7 @@
         "records/patrons/ioannes/eva#oie": {
             "name": {
                 "la": "Ioannes Evangelista (Octava sancti Ioannis Apostoli et Evangelistae)",
+                "en": "John the Evangelist (The Octave of Saint John the Apostle and Evangelist)",
                 "pl": "Jan Ewangelista (Oktawa świętego Jana Apostoła i Ewangelisty)"
             },
             "sources": {
@@ -49,6 +50,7 @@
         "records/god/fil#sni": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Nomen Iesus)",
+                "en": "Jesus Christ (The Most Holy Name of Jesus)",
                 "pl": "Jezus Chrystus (Najświętsze Imię Jezus)"
             },
             "sources": {
@@ -87,6 +89,7 @@
         "records/god/fil#rel": {
             "name": {
                 "la": "Iesus Christus (Relatio Pueri Iesu de Aegypto)",
+                "en": "Jesus Christ (The Return of the Child Jesus from Egypt)",
                 "pl": "Jezus Chrystus (Powrót Dzieciątka Jezus z Egiptu)"
             },
             "sources": {
@@ -122,6 +125,7 @@
         "records/patrons/petrus/apo#pcr": {
             "name": {
                 "la": "Petrus (Romae Cathedra sancti Petri Apostoli)",
+                "en": "Peter the Apostle (The Chair of Saint Peter the Apostle in Rome)",
                 "pl": "Piotr Apostoł (Katedra Świętego Piotra w Rzymie)"
             },
             "sources": {
@@ -148,6 +152,7 @@
         "records/patrons/ioannes/chr#tih": {
             "name": {
                 "la": "Ioannes Chrysostomus (Translatio corporis sancti Ioannis Christostomi)",
+                "en": "John Chrysostom (The Translation of the Body of Saint John Chrysostom)",
                 "pl": "Jan Chryzostom (Przeniesienie ciała świętego Jana Chryzostoma)"
             },
             "sources": {
@@ -160,6 +165,7 @@
         "records/patrons/franciscus/sal#tfs": {
             "name": {
                 "la": "Franciscus de Sales (Translatio corporis sancti Francisci Salesii)",
+                "en": "Francis de Sales (The Translation of the Body of Saint Francis de Sales)",
                 "pl": "Franciszek Salezy (Przeniesienie ciała świętego Franciszka Salezego)"
             },
             "sources": {
@@ -171,6 +177,7 @@
         "records/patrons/marcus/eva#tme": {
             "name": {
                 "la": "Marcus Evangelista (Translatio sancti Marci Evangelistae)",
+                "en": "Mark the Evangelist (The Translation of Saint Mark the Evangelist)",
                 "pl": "Marek Ewangelista (Przeniesienie świętego Marka Ewangelisty)"
             },
             "sources": {
@@ -206,6 +213,7 @@
         "records/patrons/romualdus/cam#trp": {
             "name": {
                 "la": "Romualdus Camaldulensis (Translatio corporis sancti Romualdi Abbatis)",
+                "en": "Romuald of Camaldoli (The Translation of the Body of Saint Romuald, Abbot)",
                 "pl": "Romuald z Camaldoli (Przeniesienie ciała świętego Romualda Opata)"
             },
             "sources": {
@@ -230,6 +238,7 @@
         "records/patrons/iuliana/cam#tic": {
             "name": {
                 "la": "Iuliana de Nicomedia (Translatio sancti Iulianae)",
+                "en": "Juliana of Nicomedia (The Translation of Saint Juliana)",
                 "pl": "Juliana z Nikomedii (Przeniesienie świętej Juliany)"
             },
             "sources": {
@@ -241,6 +250,7 @@
         "records/patrons/petrus/apo#pca": {
             "name": {
                 "la": "Petrus (Antiochiae Cathedra sancti Petri Apostoli)",
+                "en": "Peter the Apostle (The Chair of Saint Peter the Apostle at Antioch)",
                 "pl": "Piotr Apostoł (Katedra Świętego Piotra w Antiochii)"
             },
             "sources": {
@@ -251,6 +261,7 @@
         "records/patrons/petrus/apo#pcr": {
             "name": {
                 "la": "Petrus (Romae Cathedra sancti Petri Apostoli)",
+                "en": "Peter the Apostle (The Chair of Saint Peter the Apostle in Rome)",
                 "pl": "Piotr Apostoł (Katedra Świętego Piotra w Rzymie)"
             },
             "sources": {
@@ -263,6 +274,7 @@
         "records/patrons/matthias/apo#vma": {
             "name": {
                 "la": "Matthias Apostolus (Vigilia sancti Matthiae Apostoli)",
+                "en": "Matthias the Apostle (The Vigil of Saint Matthias the Apostle)",
                 "pl": "Maciej Apostoł (Wigilia świętego Macieja Apostoła)"
             },
             "sources": {
@@ -288,6 +300,7 @@
         "records/patrons/augustinus/hip#tah": {
             "name": {
                 "la": "Augustinus Hipponensis (Translatio corporis sancti Augustini)",
+                "en": "Augustine of Hippo (The Translation of the Body of Saint Augustine)",
                 "pl": "Augustyn z Hippony (Przeniesienie ciała świętego Augustyna)"
             },
             "sources": {
@@ -300,6 +313,7 @@
         "records/patrons/matthias/apo#vma": {
             "name": {
                 "la": "Matthias Apostolus (Vigilia sancti Matthiae Apostoli)",
+                "en": "Matthias the Apostle (The Vigil of Saint Matthias the Apostle)",
                 "pl": "Maciej Apostoł (Wigilia świętego Macieja Apostoła)"
             },
             "sources": {
@@ -325,6 +339,7 @@
         "records/patrons/augustinus/hip#tah": {
             "name": {
                 "la": "Augustinus Hipponensis (Translatio corporis sancti Augustini)",
+                "en": "Augustine of Hippo (The Translation of the Body of Saint Augustine)",
                 "pl": "Augustyn z Hippony (Przeniesienie ciała świętego Augustyna)"
             },
             "sources": {
@@ -337,6 +352,7 @@
         "records/patrons/ioseph/naz#sin": {
             "name": {
                 "la": "Ioseph Nazarenus (loseph Sponsus beatissimae Virginis Mariae)",
+                "en": "Joseph of Nazareth (Joseph, Spouse of the Blessed Virgin Mary)",
                 "pl": "Józef z Nazaretu (Józef Oblubieniec Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -373,6 +389,7 @@
         "records/patrons/monica/vid#tmv": {
             "name": {
                 "la": "Monica Thagastensis (Translatio corporis sanctae Monicae)",
+                "en": "Monica of Tagasta (Translatio corporis sanctae Monicae)",
                 "pl": "Monika z Tagasty (Przeniesienie ciała świętej Moniki)"
             },
             "sources": {
@@ -397,6 +414,7 @@
         "records/patrons/petrus/apo#r1p": {
             "name": {
                 "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "en": "Peter the Apostle (The Greater Litanies at Saint Peter in Rome)",
                 "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
             },
             "sources": {
@@ -409,6 +427,7 @@
         "records/patrons/ioseph/naz#oin": {
             "name": {
                 "la": "Ioseph Nazarenus (Ioseph Opifex)",
+                "en": "Joseph of Nazareth (Joseph the Worker)",
                 "pl": "Józef z Nazaretu (Józef Rzemieślnik)"
             },
             "sources": {
@@ -447,6 +466,7 @@
         "records/patrons/ioannes/eva#ole": {
             "name": {
                 "la": "Ioannes Evangelista (Ioannes Apostolus et Evangelista in olei)",
+                "en": "John the Evangelist (John the Apostle and Evangelist in the Oil)",
                 "pl": "Jan Ewangelista (Jan Apostoł i Ewangelista w oleju)"
             },
             "sources": {
@@ -458,6 +478,7 @@
         "records/patrons/matthaeus/eva#tma": {
             "name": {
                 "la": "Matthaeus Evengelista (Translatio sancti Matthaei, Apostoli et Evangelistae)",
+                "en": "Matthew the Evengelist (The Translation of Saint Matthew, Apostle and Evangelist)",
                 "pl": "Mateusz Ewangelista (Przeniesienie świętego Mateusza, Apostoła i Ewangelisty)"
             },
             "sources": {
@@ -470,6 +491,7 @@
         "records/patrons/stephanus/pro#tsp": {
             "name": {
                 "la": "Stephanus protomartyr (Translatio corporis sancti Stephani Protomartyris)",
+                "en": "Stephen Protomartyr (The Translation of the Body of Saint Stephen, the Protomartyr)",
                 "pl": "Szczepan Pramęczennik (Przeniesienie ciała świętego Szczepana Pramęczennika)"
             },
             "sources": {
@@ -496,6 +518,7 @@
         "records/patrons/andreas/apo#trc": {
             "name": {
                 "la": "Andreas Apostolus (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "en": "Andrew the Apostle (The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul)",
                 "pl": "Andrzej Apostoł (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
             },
             "sources": {
@@ -506,6 +529,7 @@
         "records/patrons/lucas/eva#trc": {
             "name": {
                 "la": "Lucas Evangelista (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "en": "Luke the Evangelist (The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul)",
                 "pl": "Łukasz Ewangelista (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
             },
             "sources": {
@@ -516,6 +540,7 @@
         "records/patrons/timotheus/eph#trc": {
             "name": {
                 "la": "Timotheus Ephesinus (Translatio sanctorum Andreae Apostoli, Lucae Evangelistae et Timothei, ex beati Pauli discipulis)",
+                "en": "Timothy of Ephesus (The Translation of Saints Andrew the Apostle, Luke the Evangelist, and Timothy, Disciples of Blessed Paul)",
                 "pl": "Tymoteusz z Efezu (Przeniesienie ciał świętych Andrzeja Apostoła, Łukasza Ewangelisty oraz Tymoteusza, ucznia błogosławionego Pawła Apostoła)"
             },
             "sources": {
@@ -526,6 +551,7 @@
         "records/patrons/hieronymus/dal#thd": {
             "name": {
                 "la": "Hieronymus Stridonensis (Translatio sancti Hieronymi Presbyteri, Confessoris et Ecclesiae Doctoris)",
+                "en": "Jerome of Stridon (The Translation of Saint Jerome, Priest, Confessor, and Doctor of the Church)",
                 "pl": "Hieronim ze Strydonu (Przeniesienie świętego Hieronima Prezbitera, Wyznawcy i Doktora Kościoła)"
             },
             "sources": {
@@ -536,6 +562,7 @@
         "records/patrons/nicolaus/myr#tmm": {
             "name": {
                 "la": "Nicolaus Myrensis (Translatio sancti Nicolai)",
+                "en": "Nicholas of Myra (The Translation of Saint Nicholas)",
                 "pl": "Mikołaj z Miry (Przeniesienie świętego Mikołaja)"
             },
             "sources": {
@@ -548,6 +575,7 @@
         "records/patrons/epimachus/ale#tea": {
             "name": {
                 "la": "Epimachus Alexandrinus (Translatio sancti Epimachi)",
+                "en": "Epimachus of Alexandria (The Translation of Saint Epimachus)",
                 "pl": "Epimach z Aleksandrii (Przeniesienie świętego Epimacha)"
             },
             "sources": {
@@ -583,6 +611,7 @@
         "records/patrons/dominicus/oxo#tdo": {
             "name": {
                 "la": "Dominicus Oxomensis (Translatio sancti Dominici)",
+                "en": "Dominic of Osma (The Translation of Saint Dominic)",
                 "pl": "Dominik Guzmán (Przeniesienie świętego Dominika)"
             },
             "sources": {
@@ -595,6 +624,7 @@
         "records/patrons/franciscus/asi#tfa": {
             "name": {
                 "la": "Franciscus Asisiensis (Translatio sancti Francisci)",
+                "en": "Francis of Assisi (The Translation of Saint Francis)",
                 "pl": "Franciszek z Asyżu (Przeniesienie świętego Franciszka)"
             },
             "sources": {
@@ -629,6 +659,7 @@
         "records/patrons/gregorius/naz#tgn": {
             "name": {
                 "la": "Gregorius Nazianzenus (Translatio sancti Gregorii Nazianzeni)",
+                "en": "Gregory of Nazianzus (The Translation of Saint Gregory of Nazianzus)",
                 "pl": "Grzegorz z Nazjanzu (Przeniesienie świętego Grzegorza z Nazjanzu)"
             },
             "sources": {
@@ -641,6 +672,7 @@
         "records/patrons/basilius/mag#obm": {
             "name": {
                 "la": "Basilius Magnus (Ordinatio sancti Basili Magni)",
+                "en": "Basil the Great (The Ordination of Saint Basil the Great)",
                 "pl": "Bazyli Wielki (Wyświęcenie świętego Bazylego Wielkiego)"
             },
             "sources": {
@@ -653,6 +685,7 @@
         "records/patrons/flavius/cle#tfc": {
             "name": {
                 "la": "Flavius Clemens (Translatio sancti Flavii Clementis)",
+                "en": "Flavius Clemens (The Translation of Saint Flavius Clemens)",
                 "pl": "Flawiusz Klemens (Przeniesienie świętego Flawiusza Klemensa)"
             },
             "sources": {
@@ -691,6 +724,7 @@
         "records/patrons/petrus/apo#ppv": {
             "name": {
                 "la": "Petrus (Vigilia sanctorum Apostolorum Patri et Pauli)",
+                "en": "Peter the Apostle (The Vigil of the Holy Apostles Peter and Paul)",
                 "pl": "Piotr Apostoł (Wigilia świętych Apostołów Piotra i Pawła)"
             },
             "sources": {
@@ -701,6 +735,7 @@
         "records/patrons/paulus/apo#ppv": {
             "name": {
                 "la": "Paulus Tersensis (Vigilia sanctorum Apostolorum Patri et Pauli)",
+                "en": "Paul of Tarsus (The Vigil of the Holy Apostles Peter and Paul)",
                 "pl": "Paweł z Tarsu (Wigilia świętych Apostołów Piotra i Pawła)"
             },
             "sources": {
@@ -724,6 +759,7 @@
         "records/god/fil#san": {
             "name": {
                 "la": "Iesus Christus (Pretiosissimus Sanguis Christi)",
+                "en": "Jesus Christ (The Most Precious Blood of Christ)",
                 "pl": "Jezus Chrystus (Najdroższa Krew Chrystusa)"
             },
             "sources": {
@@ -748,6 +784,7 @@
         "records/patrons/thomas/apo#tta": {
             "name": {
                 "la": "Thomas Apostolus (Translatio sancti Thomae Apostoli)",
+                "en": "Thomas the Apostle (The Translation of Saint Thomas the Apostle” – czyli „Przeniesienie św. Tomasza Apostoła)",
                 "pl": "Tomasz Apostoł (Przeniesienie świętego Tomasza Apostoła)"
             },
             "sources": {
@@ -760,6 +797,7 @@
         "records/patrons/martinus/tur#tmt": {
             "name": {
                 "la": "Martinus Turonensis (Translatio sancti Martini, Episcopi et Confessoris; et Dedicatio Basilicae suae hoc ipso die, quo etiam is ante aliquot annos Episcopum fuerat ordinatus)",
+                "en": "Martin of Tours (The Translation of Saint Martin, Bishop and Confessor; and the Dedication of His Basilica on the same day on Which He Had Also Been Ordained Bishop Several Years Earlier)",
                 "pl": "Marcin z Tours (Przeniesienie świętego Marcina, Biskupa i Wyznawcy; i Poświęcenie jego Bazyliki tego samego dnia, w którym kilka lat wcześniej przyjął on święcenia biskupie)"
             },
             "sources": {
@@ -772,6 +810,7 @@
         "records/patrons/petrus/apo#ppo": {
             "name": {
                 "la": "Petrus (Octava sanctorum Apostolorum Patri et Pauli)",
+                "en": "Peter the Apostle (The Octave of the Holy Apostles Peter and Pau)",
                 "pl": "Piotr Apostoł (Oktawa świętych Apostołów Piotra i Pawła)"
             },
             "sources": {
@@ -782,6 +821,7 @@
         "records/patrons/paulus/apo#ppo": {
             "name": {
                 "la": "Paulus Tersensis (Octava sanctorum Apostolorum Patri et Pauli)",
+                "en": "Paul of Tarsus (The Octave of the Holy Apostles Peter and Pau)",
                 "pl": "Paweł z Tarsu (Oktawa świętych Apostołów Piotra i Pawła)"
             },
             "sources": {
@@ -820,6 +860,7 @@
         "records/patrons/speratus/sci#tms": {
             "name": {
                 "la": "Speratus de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Speratus of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Sperat ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -829,6 +870,7 @@
         "records/patrons/nartzales/sci#tms": {
             "name": {
                 "la": "Nartzales de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Nartzalus of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Nartzal ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -838,6 +880,7 @@
         "records/patrons/cittinus/sci#tms": {
             "name": {
                 "la": "Cittinus de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Cittinus of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Cytyn ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -847,6 +890,7 @@
         "records/patrons/veturius/sci#tms": {
             "name": {
                 "la": "Veturius de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Veturius of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Weturiusz ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -856,6 +900,7 @@
         "records/patrons/felix/sci#tms": {
             "name": {
                 "la": "Felix de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Felix of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Feliks ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -865,6 +910,7 @@
         "records/patrons/aquilinus/sci#tms": {
             "name": {
                 "la": "Aquilinus de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Aquilinus of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Akwilin ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -874,6 +920,7 @@
         "records/patrons/laetantius/sci#tms": {
             "name": {
                 "la": "Laetantius de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Laetantius of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Letancjusz ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -883,6 +930,7 @@
         "records/patrons/ianuaria/sci#tms": {
             "name": {
                 "la": "Ianuaria de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Januaria of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Januaria ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -892,6 +940,7 @@
         "records/patrons/generosa/sci#tms": {
             "name": {
                 "la": "Generosa de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Generosa of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Generoza ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -901,6 +950,7 @@
         "records/patrons/vestia/sci#tms": {
             "name": {
                 "la": "Vestia de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Vestia of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Westia ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -910,6 +960,7 @@
         "records/patrons/donata/sci#tms": {
             "name": {
                 "la": "Donata de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Donata of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Donata ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -919,6 +970,7 @@
         "records/patrons/secunda/sci#tms": {
             "name": {
                 "la": "Secunda de Scillium (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Secunda of Scillium (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Sekunda ze Scilium (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -928,6 +980,7 @@
         "records/patrons/cyprianus/car#tms": {
             "name": {
                 "la": "Cyprianus Carthaginensis (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Cyprian of Carthage (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Cyprian z Kartaginy (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -937,6 +990,7 @@
         "records/patrons/pantaleon/nic#tms": {
             "name": {
                 "la": "Pantaleon de Nicomedia (Translatio Martyrum Scillitanorum reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Pantaleon of Nicomedia (The Translation of the Relics of the Scillitan Martyrs, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Pantaleon z Nikomedii (Przeniesienie relikwii Męczenników ze Scilium, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -946,6 +1000,7 @@
         "records/patrons/speratus/sci#tss": {
             "name": {
                 "la": "Speratus de Scillium (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Speratus of Scillium (The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Sperat ze Scilium (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -955,6 +1010,7 @@
         "records/patrons/cyprianus/car#tss": {
             "name": {
                 "la": "Cyprianus Carthaginensis (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Cyprian of Carthage (The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Cyprian z Kartaginy (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -964,6 +1020,7 @@
         "records/patrons/pantaleon/nic#tss": {
             "name": {
                 "la": "Pantaleon de Nicomedia (Translatio Sperati reliqiae, cum ossibus beati Cypriani et capite sancti Pantaleonis Martyris)",
+                "en": "Pantaleon of Nicomedia (The Translation of the Relics of Speratus, together with the Bones of Blessed Cyprian and the Head of Saint Pantaleon the Martyr)",
                 "pl": "Pantaleon z Nikomedii (Przeniesienie relikwii Speratusa, razem z kośćmi błogosławionego Cypriana i głową świętego Pantaleona Męczennika)"
             },
             "sources": {
@@ -975,6 +1032,7 @@
         "records/patrons/iacobus/mai#vim": {
             "name": {
                 "la": "Iacobus Maior Apostolus (Vigilia sancti Iacobi Apostoli)",
+                "en": "James the Great (The Vigil of Saint James the Apostle)",
                 "pl": "Jakub Większy Apostoł (Wigilia świętego Jakuba Apostoła)"
             },
             "sources": {
@@ -1055,6 +1113,7 @@
         "records/patrons/petrus/apo#pav": {
             "name": {
                 "la": "Petrus (Dedicatio sancti Petri Apostoli ad Vincula)",
+                "en": "Peter the Apostle (The Dedication of Saint Peter the Apostle in Chains)",
                 "pl": "Piotr Apostoł (Poświęcenie świętego Piotra Apostoła w Okowach)"
             },
             "sources": {
@@ -1132,6 +1191,7 @@
         "records/god/fil#tra": {
             "name": {
                 "la": "Iesus Christus (Transfiguratio Domini)",
+                "en": "Jesus Christ (The Transfiguration of the Lord)",
                 "pl": "Jezus Chrystus (Przemienienie Pańskie)"
             },
             "sources": {
@@ -1145,6 +1205,7 @@
         "records/patrons/laurentius/rom#vlr": {
             "name": {
                 "la": "Laurentius de Roma (Vigilia sancti Laurentii Martyris)",
+                "en": "Lawrence of Rome (The Vigil of Saint Lawrence the Martyr)",
                 "pl": "Wawrzyniec z Rzymu (Wigilia świętego Wawrzyńca Męczennika)"
             },
             "sources": {
@@ -1196,6 +1257,7 @@
         "records/patrons/laurentius/rom#olr": {
             "name": {
                 "la": "Laurentius de Roma (Octava sancti Laurentii Martyris)",
+                "en": "Lawrence of Rome (The Octave of Saint Lawrence the Martyr)",
                 "pl": "Wawrzyniec z Rzymu (Oktawa świętego Wawrzyńca Męczennika)"
             },
             "sources": {
@@ -1242,6 +1304,7 @@
         "records/patrons/bartholomaeus/apo#vba": {
             "name": {
                 "la": "Bartholomaeus Apostolus (Vigilia sancti Bartholomaei Apostoli)",
+                "en": "Bartholomew the Apostle (The Vigil of Saint Bartholomew the Apostle” – czyli „Wigilia św. Bartłomieja Apostoła)",
                 "pl": "Bartłomiej Apostoł (Wigilia świętego Bartłomieja Apostoła)"
             },
             "sources": {
@@ -1253,6 +1316,7 @@
         "records/patrons/bartholomaeus/apo#vba": {
             "name": {
                 "la": "Bartholomaeus Apostolus (Vigilia sancti Bartholomaei Apostoli)",
+                "en": "Bartholomew the Apostle (The Vigil of Saint Bartholomew the Apostle” – czyli „Wigilia św. Bartłomieja Apostoła)",
                 "pl": "Bartłomiej Apostoł (Wigilia świętego Bartłomieja Apostoła)"
             },
             "sources": {
@@ -1264,6 +1328,7 @@
         "records/patrons/ioannes/bap#pib": {
             "name": {
                 "la": "Ioannes Baptista (Passio sancti Ioannis Baptistae)",
+                "en": "John the Baptist (The Passion of Saint John the Baptist)",
                 "pl": "Jan Chrzciciel (Męczeństwo świętego Jana Chrzciciela)"
             },
             "sources": {
@@ -1277,6 +1342,7 @@
         "records/patrons/gregorius/1pp#ogm": {
             "name": {
                 "la": "Gregorius Magnus (Ordinatio sancti Gregorii Magni in Summum Pontificem)",
+                "en": "Gregory the Great (The Ordination of Saint Gregory the Great as Supreme Pontiff)",
                 "pl": "Grzegorz Wielki (Wyniesienie świętego Grzegorza Wielkiego na Papieża)"
             },
             "sources": {
@@ -1289,6 +1355,7 @@
         "records/patrons/maria/naz#nma": {
             "name": {
                 "la": "Maria Virgo (Nativitas Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Nativity of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Narodziny Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1302,6 +1369,7 @@
         "records/patrons/maria/naz#snm": {
             "name": {
                 "la": "Maria Virgo (Sanctissimum Nomen beate Virginis Mariae)",
+                "en": "Mary, mother of Jesus (The Most Holy Name of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Najświętsze Imię Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1328,6 +1396,7 @@
         "records/patrons/maria/naz#nmo": {
             "name": {
                 "la": "Maria Virgo (Octava Nativitatis Beatae Mariae Virginis)",
+                "en": "Mary, mother of Jesus (The Octave of the Nativity of the Blessed Virgin Mary)",
                 "pl": "Maria z Nazaretu (Oktawa Narodzin Błogosławionej Maryi Dziewicy)"
             },
             "sources": {
@@ -1338,6 +1407,7 @@
         "records/patrons/maria/naz#per": {
             "name": {
                 "la": "Maria Virgo (Beate Maria Virgo Perdolentis)",
+                "en": "Mary, mother of Jesus (Blessed Mary, the Very Sorrowful Virgin)",
                 "pl": "Maria z Nazaretu (Matka Boska Bolesna)"
             },
             "sources": {
@@ -1363,6 +1433,7 @@
         "records/patrons/matthaeus/eva#vme": {
             "name": {
                 "la": "Matthaeus Evengelista (Vigilia sancti Mathaei, Apostoli et Evangelistae)",
+                "en": "Matthew the Evengelist (The Vigil of Saint Matthew, Apostle and Evangelist)",
                 "pl": "Mateusz Ewangelista (Wigilia świętego Mateusza, Apostoła i Ewangelisty)"
             },
             "sources": {
@@ -1402,6 +1473,7 @@
         "records/patrons/maria/naz#vic": {
             "name": {
                 "la": "Maria Virgo (Sancta Maria de Victoria)",
+                "en": "Mary, mother of Jesus (Saint Mary of Victory)",
                 "pl": "Maria z Nazaretu (Matka Boża Zwycięska)"
             },
             "sources": {
@@ -1413,6 +1485,7 @@
         "records/patrons/birgitta/sue#tbv": {
             "name": {
                 "la": "Birgitta de Suecia (Translatio corporis sanctae Birgittae viduae)",
+                "en": "Bridget of Sweden (The Translation of the Body of Saint Bridget, Widow)",
                 "pl": "Brygida Szwedzka (Przeniesienie ciała świętej Brygidy wdowy)"
             },
             "sources": {
@@ -1422,6 +1495,7 @@
         "records/patrons/maria/naz#ros": {
             "name": {
                 "la": "Maria Virgo (Beatae Maria Virgo de Rosario)",
+                "en": "Mary, mother of Jesus (Blessed Mary, Virgin of the Rosary)",
                 "pl": "Maria z Nazaretu (Błogosławiona Maryja Dziewica Różańcowa)"
             },
             "sources": {
@@ -1447,6 +1521,7 @@
         "records/patrons/eduardus/con#tec": {
             "name": {
                 "la": "Eduardus Confessor (Translatio corporis sancti Eduardi, regis et confessoris)",
+                "en": "Edward the Confessor (The Translation of the Body of Saint Edward, King and Confessor)",
                 "pl": "Edward Wyznawca (Przeniesienie ciała świętego Edwarda, króla i wyznawcy)"
             },
             "sources": {
@@ -1458,6 +1533,7 @@
         "records/patrons/simon/apo#vsi": {
             "name": {
                 "la": "Simon Apostolus (Vigilia sanctorum Apostolorum Simonis et Iudae)",
+                "en": "Simon Apostle (The Vigil of the Holy Apostles Simon and Jude)",
                 "pl": "Szymon Apostoł (Wigilia świętych Apostołów Szymona i Judy)"
             },
             "sources": {
@@ -1468,6 +1544,7 @@
         "records/patrons/iudas/tha#vsi": {
             "name": {
                 "la": "Iudas Thaddaeus (Vigilia sanctorum Apostolorum Simonis et Iudae)",
+                "en": "Judas Thaddaeus (The Vigil of the Holy Apostles Simon and Jude)",
                 "pl": "Juda Tadeusz Apostoł (Wigilia świętych Apostołów Szymona i Judy)"
             },
             "sources": {
@@ -1480,6 +1557,7 @@
         "records/patrons/multa/san#vos": {
             "name": {
                 "la": "Omnes Sancti (Vigilia Omnium Sanctorum)",
+                "en": "All Saints (The Vigil of All Saints)",
                 "pl": "Wszyscy Święci (Wigilia Wszystkich Świętych)"
             },
             "sources": {
@@ -1492,6 +1570,7 @@
         "records/patrons/multa/san#oos": {
             "name": {
                 "la": "Omnes Sancti (Octava Omnium Sanctorum)",
+                "en": "All Saints (The Octave of All Saints)",
                 "pl": "Wszyscy Święci (Oktawa Wszystkich Świętych)"
             },
             "sources": {
@@ -1593,6 +1672,7 @@
         "records/patrons/andreas/apo#vaa": {
             "name": {
                 "la": "Andreas Apostolus (Vigilia sancti Andreae Apostoli)",
+                "en": "Andrew the Apostle (The Vigil of Saint Andrew the Apostle)",
                 "pl": "Andrzej Apostoł (Wigilia świętego Andrzeja Apostoła)"
             },
             "sources": {
@@ -1605,6 +1685,7 @@
         "records/patrons/ambrosius/med#oam": {
             "name": {
                 "la": "Ambrosius Mediolanensis (Ordinatio sancti Ambrosii episcopi)",
+                "en": "Ambrose of Milan (The Ordination of Saint Ambrose, Bishop)",
                 "pl": "Ambroży z Mediolanu (Wyświęcenie świętego Ambrożego biskupa)"
             },
             "sources": {
@@ -1641,6 +1722,7 @@
         "records/patrons/maria/naz#tsd": {
             "name": {
                 "la": "Maria Virgo (Translatio Sacrae Domus Genetricis Dei Mariae)",
+                "en": "Mary, mother of Jesus (The Translation of the Holy House of the Mother of God Mary)",
                 "pl": "Maria z Nazaretu (Przeniesienie Świętego Domu Maryi Bożej Rodzicielki)"
             },
             "sources": {
@@ -1674,6 +1756,7 @@
         "records/patrons/eusebius/ver#oev": {
             "name": {
                 "la": "Eusebius Vercellensis (Ordinatio sancti Eusebii episcopi)",
+                "en": "Eusebius of Vercelli (The Ordination of Saint Eusebius, Bishop)",
                 "pl": "Euzebiusz z Vercelli (Wyświęcenie świętego Euzebiusza biskupa)"
             },
             "sources": {
@@ -1695,6 +1778,7 @@
         "records/patrons/ignatius/ant#tia": {
             "name": {
                 "la": "Ignatius Antiochenus (Translatio sancti Ignatii, Episcopi et Martyris)",
+                "en": "Ignatius of Antioch (The Translation of Saint Ignatius, Bishop and Martyr)",
                 "pl": "Ignacy Antiocheński (Przeniesienie świętego Ignacego, Biskupa i Męczennika)"
             },
             "sources": {

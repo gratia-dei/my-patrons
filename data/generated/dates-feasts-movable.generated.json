@@ -15,6 +15,7 @@
         "records/god/fil#rex": {
             "name": {
                 "la": "Iesus Christus (Iesus Christus Universorum Rex)",
+                "en": "Jesus Christ (Jesus Christ, King of the Universe)",
                 "pl": "Jezus Chrystus (Jezus Chrystus Król Wszechświata)"
             },
             "sources": {
@@ -39,6 +40,7 @@
         "records/god/fil#sfa": {
             "name": {
                 "la": "Iesus Christus (Sancta Familia)",
+                "en": "Jesus Christ (The Holy Family)",
                 "pl": "Jezus Chrystus (Święta Rodzina)"
             },
             "sources": {
@@ -48,6 +50,7 @@
         "records/patrons/maria/naz#sfa": {
             "name": {
                 "la": "Maria Virgo (Sancta Familia)",
+                "en": "Mary, mother of Jesus (The Holy Family)",
                 "pl": "Maria z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -57,6 +60,7 @@
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
+                "en": "Joseph of Nazareth (The Holy Family)",
                 "pl": "Józef z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -68,6 +72,7 @@
         "records/god/fil#sfa": {
             "name": {
                 "la": "Iesus Christus (Sancta Familia)",
+                "en": "Jesus Christ (The Holy Family)",
                 "pl": "Jezus Chrystus (Święta Rodzina)"
             },
             "sources": {
@@ -77,6 +82,7 @@
         "records/patrons/maria/naz#sfa": {
             "name": {
                 "la": "Maria Virgo (Sancta Familia)",
+                "en": "Mary, mother of Jesus (The Holy Family)",
                 "pl": "Maria z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -86,6 +92,7 @@
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
+                "en": "Joseph of Nazareth (The Holy Family)",
                 "pl": "Józef z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -97,6 +104,7 @@
         "records/god/fil#sfa": {
             "name": {
                 "la": "Iesus Christus (Sancta Familia)",
+                "en": "Jesus Christ (The Holy Family)",
                 "pl": "Jezus Chrystus (Święta Rodzina)"
             },
             "sources": {
@@ -106,6 +114,7 @@
         "records/patrons/maria/naz#sfa": {
             "name": {
                 "la": "Maria Virgo (Sancta Familia)",
+                "en": "Mary, mother of Jesus (The Holy Family)",
                 "pl": "Maria z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -115,6 +124,7 @@
         "records/patrons/ioseph/naz#sfa": {
             "name": {
                 "la": "Ioseph Nazarenus (Sancta Familia)",
+                "en": "Joseph of Nazareth (The Holy Family)",
                 "pl": "Józef z Nazaretu (Święta Rodzina)"
             },
             "sources": {
@@ -126,6 +136,7 @@
         "records/god/fil#rex": {
             "name": {
                 "la": "Iesus Christus (Iesus Christus Universorum Rex)",
+                "en": "Jesus Christ (Jesus Christ, King of the Universe)",
                 "pl": "Jezus Chrystus (Jezus Chrystus Król Wszechświata)"
             },
             "sources": {
@@ -157,6 +168,7 @@
         "records/god/fil#sco": {
             "name": {
                 "la": "Iesus Christus (Octava Sacratissimi Cordis Iesu)",
+                "en": "Jesus Christ (The Octave of the Most Sacred Heart of Jesus)",
                 "pl": "Jezus Chrystus (Oktawa Najświętszego Serca Jezusa)"
             },
             "sources": {
@@ -168,6 +180,7 @@
         "records/god/fil#sas": {
             "name": {
                 "la": "Iesus Christus (Sabbato sancto)",
+                "en": "Jesus Christ (Holy Saturday)",
                 "pl": "Jezus Chrystus (Wielka Sobota)"
             },
             "sources": {
@@ -272,6 +285,7 @@
         "records/patrons/maria/naz#per": {
             "name": {
                 "la": "Maria Virgo (Beate Maria Virgo Perdolentis)",
+                "en": "Mary, mother of Jesus (Blessed Mary, the Very Sorrowful Virgin)",
                 "pl": "Maria z Nazaretu (Matka Boska Bolesna)"
             },
             "sources": {
@@ -284,6 +298,7 @@
         "records/god/fil#res": {
             "name": {
                 "la": "Iesus Christus (Resurrectio Iesu Christi)",
+                "en": "Jesus Christ (The Resurrection of Jesus Christ)",
                 "pl": "Jezus Chrystus (Zmartwychwstanie Jezusa Chrystusa)"
             },
             "sources": {
@@ -297,6 +312,7 @@
         "records/patrons/maria/naz#rmm": {
             "name": {
                 "la": "Maria Virgo (Romae Litaniae minores ad sanctam Mariam Majorem)",
+                "en": "Mary, mother of Jesus (The Lesser Litanies at Saint Mary Major in Rome)",
                 "pl": "Maria z Nazaretu (Rzymska mała procesja błagalna do świętej Maryi Większej)"
             },
             "sources": {
@@ -308,6 +324,7 @@
         "records/god/fil#ril": {
             "name": {
                 "la": "Iesus Christus (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "en": "Jesus Christ (The Lesser Litanies at Saint John Lateran in Rome)",
                 "pl": "Jezus Chrystus (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
             },
             "sources": {
@@ -317,6 +334,7 @@
         "records/patrons/ioannes/bap#ril": {
             "name": {
                 "la": "Ioannes Baptista (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "en": "John the Baptist (The Lesser Litanies at Saint John Lateran in Rome)",
                 "pl": "Jan Chrzciciel (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
             },
             "sources": {
@@ -326,6 +344,7 @@
         "records/patrons/ioannes/eva#ril": {
             "name": {
                 "la": "Ioannes Evangelista (Romae Litaniae minores ad sanctum Joannem in Laterano)",
+                "en": "John the Evangelist (The Lesser Litanies at Saint John Lateran in Rome)",
                 "pl": "Jan Ewangelista (Rzymska mała procesja błagalna do świętego Jana na Lateranie)"
             },
             "sources": {
@@ -347,6 +366,7 @@
         "records/patrons/petrus/apo#r2p": {
             "name": {
                 "la": "Petrus (Romae Litaníae minores ad sanctum Petrum)",
+                "en": "Peter the Apostle (The Lesser Litanies at Saint Peter in Rome)",
                 "pl": "Piotr Apostoł (Rzymska mała procesja błagalna do świętego Piotra)"
             },
             "sources": {
@@ -396,6 +416,7 @@
         "records/god/spi#pev": {
             "name": {
                 "la": "Spiritus Sanctus (Vigilia Pentecostes)",
+                "en": "Holy Spirit (The Vigil of Pentecost)",
                 "pl": "Duch Święty (Wigilia Zesłania Ducha Świętego)"
             },
             "sources": {
@@ -407,6 +428,7 @@
         "records/god/spi#pen": {
             "name": {
                 "la": "Spiritus Sanctus (Dies Pentecostes)",
+                "en": "Holy Spirit (The Day of Pentecost)",
                 "pl": "Duch Święty (Zesłanie Ducha Świętego)"
             },
             "sources": {
@@ -420,6 +442,7 @@
         "records/god/tri#tri": {
             "name": {
                 "la": "Sacratissima Trinitas (Sollemnitas sacratissimae et indivíduae Trinitatis)",
+                "en": "The Most Holy Trinity (The Solemnity of the Most Holy and Undivided Trinity)",
                 "pl": "Trójca Przenajświętsza (Uroczystość Trójcy Przenajświętszej)"
             },
             "sources": {
@@ -431,6 +454,7 @@
         "records/god/spi#peo": {
             "name": {
                 "la": "Spiritus Sanctus (Octava Pentecostes)",
+                "en": "Holy Spirit (The Octave of Pentecost)",
                 "pl": "Duch Święty (Oktawa Zesłania Ducha Świętego)"
             },
             "sources": {
@@ -480,6 +504,7 @@
         "records/god/fil#sci": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Cor Iesu)",
+                "en": "Jesus Christ (The Most Sacred Heart of Jesus)",
                 "pl": "Jezus Chrystus (Najświętsze Serce Jezusa)"
             },
             "sources": {
@@ -516,6 +541,7 @@
         "records/god/fil#sco": {
             "name": {
                 "la": "Iesus Christus (Octava Sacratissimi Cordis Iesu)",
+                "en": "Jesus Christ (The Octave of the Most Sacred Heart of Jesus)",
                 "pl": "Jezus Chrystus (Oktawa Najświętszego Serca Jezusa)"
             },
             "sources": {
@@ -527,6 +553,7 @@
         "records/patrons/petrus/apo#r1p": {
             "name": {
                 "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "en": "Peter the Apostle (The Greater Litanies at Saint Peter in Rome)",
                 "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
             },
             "sources": {
@@ -538,6 +565,7 @@
         "records/patrons/petrus/apo#r1p": {
             "name": {
                 "la": "Petrus (Romae Litaníae majores ad sanctum Petrum)",
+                "en": "Peter the Apostle (The Greater Litanies at Saint Peter in Rome)",
                 "pl": "Piotr Apostoł (Rzymska wielka procesja błagalna do świętego Piotra)"
             },
             "sources": {
@@ -549,6 +577,7 @@
         "records/god/fil#sni": {
             "name": {
                 "la": "Iesus Christus (Sanctissimum Nomen Iesus)",
+                "en": "Jesus Christ (The Most Holy Name of Jesus)",
                 "pl": "Jezus Chrystus (Najświętsze Imię Jezus)"
             },
             "sources": {
