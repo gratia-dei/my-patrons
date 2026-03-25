@@ -5,11 +5,7 @@
         "pl": "wdowa"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#381A1A",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#381A1A"
 }

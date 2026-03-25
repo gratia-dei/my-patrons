@@ -5,11 +5,7 @@
         "pl": "hrabina"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#0000B3",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#0000B3"
 }

@@ -5,11 +5,7 @@
         "pl": "papież"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#EEEEEE",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#EEEEEE"
 }

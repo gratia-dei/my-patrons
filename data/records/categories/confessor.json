@@ -5,11 +5,7 @@
         "pl": "wyznawca"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#00B300",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#00B300"
 }

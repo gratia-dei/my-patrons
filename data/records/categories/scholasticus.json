@@ -5,11 +5,7 @@
         "pl": "uczony"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#888888",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#888888"
 }

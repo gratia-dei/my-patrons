@@ -5,11 +5,7 @@
         "pl": "mniszka"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#000000",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#000000"
 }

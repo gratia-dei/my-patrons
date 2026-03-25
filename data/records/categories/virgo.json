@@ -5,11 +5,7 @@
         "pl": "dziewica"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#FFB6DA",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#FFB6DA"
 }

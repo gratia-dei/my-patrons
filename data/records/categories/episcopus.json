@@ -5,11 +5,7 @@
         "pl": "biskup"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#B300B3",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#B300B3"
 }

@@ -5,11 +5,7 @@
         "pl": "Bóg"
     },
 
-    "required": [],
+    "required-any": [],
 
-    "color": "#FFFFFF",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#FFFFFF"
 }

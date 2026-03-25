@@ -49,6 +49,7 @@ class RecordsFieldsValidationProcedure extends Procedure
                 $dirName = dirname($staticFilePath);
 
                 if ($isDirectory
+                    || !$this->getFile()->exists($staticFilePath)
                     || in_array($staticFilePath, [
                         $this->getIndexFilePath($dirName),
                         $this->getIndexFilePath($dirName, true),

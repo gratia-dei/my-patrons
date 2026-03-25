@@ -5,11 +5,7 @@
         "pl": "katechumenka"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#888888",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#888888"
 }

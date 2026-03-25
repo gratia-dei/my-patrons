@@ -5,11 +5,7 @@
         "pl": "prorokini"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#7000A1",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#7000A1"
 }

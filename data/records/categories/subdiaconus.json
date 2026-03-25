@@ -5,11 +5,7 @@
         "pl": "subdiakon"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#CCCCCC",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#CCCCCC"
 }

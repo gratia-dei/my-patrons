@@ -406,12 +406,12 @@
             "types": ["associative-array"]
         },
         "names/#language-with-required-values": {
-            "types": ["indexed-array"],
+            "types": ["string", "indexed-array"],
             "element-types": ["string"]
         },
 
         "required-any": {
-            "types": ["indexed-array"],
+            "types": ["empty-array", "indexed-array"],
             "element-types": ["#category"]
         },
 

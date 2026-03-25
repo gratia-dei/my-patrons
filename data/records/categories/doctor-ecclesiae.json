@@ -5,11 +5,7 @@
         "pl": "doktor Kościoła"
     },
 
-    "required": ["vir", "femina"],
+    "required-any": ["vir", "femina"],
 
-    "color": "#E6E600",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#E6E600"
 }

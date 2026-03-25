@@ -19,7 +19,7 @@ class GeneratePersonsDataProcedure extends Procedure
     private const DATA_FIELD_CATEGORIES = 'categories';
     private const DATA_FIELD_FEASTS = 'feasts';
     private const DATA_FIELD_FORENAMES = 'forenames';
-    private const DATA_FIELD_REQUIRED = 'required';
+    private const DATA_FIELD_REQUIRED_ANY = 'required-any';
 
     private $dstFileData = [];
 
@@ -129,7 +129,7 @@ class GeneratePersonsDataProcedure extends Procedure
             $categoriesData[$categoryKey][self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($categoryFileData[self::DATA_FIELD_NAMES] ?? []);
 
             //additional validation
-            $required = $categoryFileData[self::DATA_FIELD_REQUIRED] ?? null;
+            $required = $categoryFileData[self::DATA_FIELD_REQUIRED_ANY] ?? null;
             if (is_null($required)) {
                 $this->error("Missing category '$categoryId' required data for person '$patronUrl'");
             }

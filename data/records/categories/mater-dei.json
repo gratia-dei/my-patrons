@@ -5,11 +5,7 @@
         "pl": "Matka Boża"
     },
 
-    "required": ["femina"],
+    "required-any": ["femina"],
 
-    "color": "#0DCAF0",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#0DCAF0"
 }

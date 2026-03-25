@@ -5,11 +5,7 @@
         "pl": "męczennik"
     },
 
-    "required": ["vir"],
+    "required-any": ["vir"],
 
-    "color": "#DC3545",
-    "description": {
-        "en": "description coming soon ...",
-        "pl": "opis pojawi się wkrótce ..."
-    }
+    "color": "#DC3545"
 }
