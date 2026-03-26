@@ -3847,6 +3847,19 @@
         }
     },
     "03-19": {
+        "records/patrons/marcellus/cal": {
+            "name": {
+                "fr": "Marcel Callo",
+                "la": "Marcellus Callo",
+                "en": "Marcellus Callo",
+                "pl": "Marceli Callo"
+            },
+            "sources": {
+                "reliable-death-anniversary": "19 III",
+                "feast": "19 III",
+                "mr-2004": "19 III: #9"
+            }
+        },
         "records/patrons/narcissus/tur": {
             "name": {
                 "pl": "Narcyz Turchan",

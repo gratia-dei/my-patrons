@@ -18010,7 +18010,8 @@
         "names": {
             "la": "Marcellus",
             "en": "Marcellus",
-            "pl": "Marceli"
+            "pl": "Marceli",
+            "fr": "Marcel"
         }
     },
     "patrons/marcellus/1pp": {
@@ -18030,7 +18031,32 @@
                 "names": {
                     "la": "Marcellus",
                     "en": "Marcellus",
-                    "pl": "Marceli"
+                    "pl": "Marceli",
+                    "fr": "Marcel"
+                }
+            }
+        }
+    },
+    "patrons/marcellus/cal": {
+        "active": true,
+        "names": {
+            "fr": "Marcel Callo",
+            "la": "Marcellus Callo",
+            "en": "Marcellus Callo",
+            "pl": "Marceli Callo"
+        },
+        "died": [
+            "1945-03-19"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/marcellus": {
+                "active": true,
+                "names": {
+                    "la": "Marcellus",
+                    "en": "Marcellus",
+                    "pl": "Marceli",
+                    "fr": "Marcel"
                 }
             }
         }
