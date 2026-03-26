@@ -24827,6 +24827,38 @@
             }
         }
     },
+    "patrons/placidus": {
+        "names": {
+            "la": "Placidus",
+            "en": "Placid",
+            "pl": "Placyd",
+            "it": "Placido"
+        }
+    },
+    "patrons/placidus/ric": {
+        "active": true,
+        "names": {
+            "it": "Placido Riccardi",
+            "la": "Placidus Riccardi",
+            "en": "Placid Riccardi",
+            "pl": "Placyd Riccardi"
+        },
+        "died": [
+            "1915-03-25"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/placidus": {
+                "active": true,
+                "names": {
+                    "la": "Placidus",
+                    "en": "Placid",
+                    "pl": "Placyd",
+                    "it": "Placido"
+                }
+            }
+        }
+    },
     "patrons/polycarpus": {
         "names": {
             "la": "Polycarpus",

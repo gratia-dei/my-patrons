@@ -4282,6 +4282,18 @@
                 "mr-2004": "25 III: #14"
             }
         },
+        "records/patrons/placidus/ric": {
+            "name": {
+                "it": "Placido Riccardi",
+                "la": "Placidus Riccardi",
+                "en": "Placid Riccardi",
+                "pl": "Placyd Riccardi"
+            },
+            "sources": {
+                "reliable-death-anniversary": "25 III",
+                "mr-2004": "25 III: #15"
+            }
+        },
         "records/patrons/irenaeus/sir": {
             "name": {
                 "la": "Irenaeus Sirmiensis",

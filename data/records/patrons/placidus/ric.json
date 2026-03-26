@@ -1,0 +1,73 @@
+{
+    "names": {
+        "it": [
+            "Placido Riccardi"
+        ],
+        "la": [
+            "Placidus Riccardi"
+        ],
+        "en": [
+            "Placid Riccardi"
+        ],
+        "pl": [
+            "Placyd Riccardi"
+        ]
+    },
+    "forenames": ["placidus"],
+    "surnames": [
+        {
+            "it": "Riccardi"
+        }
+    ],
+    "epithets": [],
+
+    "active": true,
+
+    "born": ["1844-06-24"],
+    "died": ["1915-03-25"],
+    "beatified": null,
+    "canonized": null,
+    "doctor-of-the-church": null,
+    "anniversary": [],
+
+    "statuses": [],
+    "attributes": [],
+    "categories": ["vir", "presbyter"],
+    "communities": {},
+
+    "companions": [],
+    "specially-venerated-persons": [],
+
+    "data-links": {
+        "mr-1584": ["..."],
+        "mr-1584-movable": ["..."],
+        "mr-1584-index": ["..."],
+
+        "mr-1956": ["..."],
+        "mr-1956-movable": ["..."],
+        "mr-1956-variations": ["..."],
+        "mr-1956-variations-movable": ["..."],
+        "mr-1956-index-sanctorum-1": ["..."],
+        "mr-1956-index-sanctorum-2": ["..."],
+        "mr-1956-index-sanctorum-3": ["..."],
+        "mr-1956-index-festorum": ["..."],
+        "mr-1956-index-locorum": ["..."],
+        "mr-1956-index-locorum-sine": ["..."],
+
+        "mr-2004": ["1:mar./25#15", "..."],
+        "mr-2004-movable": ["..."],
+        "mr-2004-index": ["..."],
+
+        "docs": ["..."]
+    },
+
+    "feasts": {},
+
+    "images": {},
+
+    "sources": {
+        "causesanti": null,
+        "gcatholic": "https://gcatholic.org/p/68128",
+        "wikipedia": "https://it.wikipedia.org/wiki/Placido_Riccardi"
+    }
+}
