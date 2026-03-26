@@ -181,7 +181,7 @@
             "feasts/f6p": {
                 "active": true,
                 "names": {
-                    "la": "feria sexta in Passione Domini",
+                    "la": "Feria sexta in Passione Domini",
                     "en": "Friday in the Passion of the Lord",
                     "pl": "Wielki Piątek"
                 }
@@ -14774,7 +14774,7 @@
             "feasts/sin": {
                 "active": true,
                 "names": {
-                    "la": "loseph Sponsus beatissimae Virginis Mariae",
+                    "la": "Ioseph Sponsus beatissimae Virginis Mariae",
                     "en": "Joseph, Spouse of the Blessed Virgin Mary",
                     "pl": "Józef Oblubieniec Błogosławionej Maryi Dziewicy"
                 }
