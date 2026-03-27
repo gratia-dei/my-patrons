@@ -131,8 +131,10 @@ class GenerateDateDataFileProcedure extends Procedure
                 continue;
             }
 
-            $fileData = $this->getOriginalJsonFileContentArrayForFullPath($path)[self::DATA_LINKS_GENERATED_FILES_INDEX] ?? [];
-            if (empty($fileData)) {
+            $fileData = $this->getOriginalJsonFileContentArrayForFullPath($path);
+            $fileDataDataLinks = $fileData[self::DATA_LINKS_GENERATED_FILES_INDEX] ?? [];
+            $fileDataInCalendar = $fileData[self::IN_CALENDAR_GENERATED_FILES_INDEX] ?? [];
+            if (empty($fileDataDataLinks)) {
                 continue;
             }
 
@@ -171,7 +173,7 @@ class GenerateDateDataFileProcedure extends Procedure
             );
             $staticData = $this->getOriginalJsonFileContentArrayForFullPath($staticDataFilePath) ?? [];
 
-            foreach ($fileData as $recordId => $recordData) {
+            foreach ($fileDataDataLinks as $recordId => $recordData) {
                 $skipDueToDeletedRecord = false;
                 foreach ($staticData[$recordId] as $dataValue) {
                     if (trim($dataValue) === self::DELETED_RECORD_TAG) {
@@ -183,9 +185,11 @@ class GenerateDateDataFileProcedure extends Procedure
                     continue;
                 }
 
-                foreach ($recordData as $patronUrl) {
-                    $dayWithRomanMonth = $this->getDate()->getDayWithRomanMonth($aliasForRomanFormatting);
-                    $this->addToFileData($alias, $patronUrl, $sourceId, "$dayWithRomanMonth: #$recordId");
+                foreach ($recordData as $linkId => $patronUrl) {
+                    if (true === ($fileDataInCalendar[$recordId][$linkId] ?? false)) {
+                        $dayWithRomanMonth = $this->getDate()->getDayWithRomanMonth($aliasForRomanFormatting);
+                        $this->addToFileData($alias, $patronUrl, $sourceId, "$dayWithRomanMonth: #$recordId");
+                    }
                 }
             }
         }
@@ -337,7 +341,9 @@ class GenerateDateDataFileProcedure extends Procedure
         $staticFileData = $this->getOriginalJsonFileContentArrayForFullPath($staticFilePath);
 
         $generatedFilePath = $this->getGeneratedFileSuffix($srcPath);
-        $generatedFileData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath)[self::DATA_LINKS_GENERATED_FILES_INDEX] ?? [];
+        $generatedFileData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath);
+        $generatedFileDataDataLinks = $generatedFileData[self::DATA_LINKS_GENERATED_FILES_INDEX] ?? [];
+        $generatedFileDataInCalendar = $generatedFileData[self::IN_CALENDAR_GENERATED_FILES_INDEX] ?? [];
 
         $year = date('Y');
 
@@ -358,7 +364,7 @@ class GenerateDateDataFileProcedure extends Procedure
             $baseList = is_string($baseValue) ? [$baseValue] : $baseValue;
             $moveList = is_int($moveValue) ? [$moveValue] : $moveValue;
 
-            $patronsLinks = $generatedFileData[$key] ?? [];
+            $patronsLinks = $generatedFileDataDataLinks[$key] ?? [];
             ksort($patronsLinks);
 
             foreach ($moveList as $moveId => $moveDays) {
@@ -389,18 +395,20 @@ class GenerateDateDataFileProcedure extends Procedure
                     }
                 }
 
-                foreach ($moveIdPatronsLinks as $patronUrl) {
-                    if ($writeOnlyMovableRecords) {
-                        $this->addToFileData("$base|$moveDays", $patronUrl, $sourceId, "#$key");
-                    } else {
-                        if (!$dateClass->isMonthWithDayValid($monthWithDay)) {
-                            continue;
-                        }
-                        $calculatedDate = $dateClass->getDateMovedByDays("$year-$monthWithDay", $moveDays);
-                        $calculatedMonthWithDay = $dateClass->getDateMonthWithDay($calculatedDate);
-                        $dayWithRomanMonth = $dateClass->getDayWithRomanMonth($calculatedMonthWithDay);
+                foreach ($moveIdPatronsLinks as $linkId => $patronUrl) {
+                    if (true === ($generatedFileDataInCalendar[$key][$linkId] ?? false)) {
+                        if ($writeOnlyMovableRecords) {
+                            $this->addToFileData("$base|$moveDays", $patronUrl, $sourceId, "#$key");
+                        } else {
+                            if (!$dateClass->isMonthWithDayValid($monthWithDay)) {
+                                continue;
+                            }
+                            $calculatedDate = $dateClass->getDateMovedByDays("$year-$monthWithDay", $moveDays);
+                            $calculatedMonthWithDay = $dateClass->getDateMonthWithDay($calculatedDate);
+                            $dayWithRomanMonth = $dateClass->getDayWithRomanMonth($calculatedMonthWithDay);
 
-                        $this->addToFileData($calculatedMonthWithDay, $patronUrl, $sourceId, "$dayWithRomanMonth: #$key");
+                            $this->addToFileData($calculatedMonthWithDay, $patronUrl, $sourceId, "$dayWithRomanMonth: #$key");
+                        }
                     }
                 }
             }
