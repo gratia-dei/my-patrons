@@ -12,5 +12,19 @@
         "1": {
             "1": "records/patrons/maria/naz#pur"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

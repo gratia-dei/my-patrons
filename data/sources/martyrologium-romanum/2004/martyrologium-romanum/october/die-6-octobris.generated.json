@@ -9,5 +9,16 @@
         "12": {
             "1": "records/patrons/maria/gal"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "14": {
+            "1": true
+        },
+        "12": {
+            "1": true
+        }
     }
 }

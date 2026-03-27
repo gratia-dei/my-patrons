@@ -3,5 +3,10 @@
         "13": {
             "1": "records/patrons/emmanuel/lev"
         }
+    },
+    "in-calendar": {
+        "13": {
+            "1": true
+        }
     }
 }

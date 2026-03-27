@@ -3,5 +3,10 @@
         "7": {
             "1": "records/patrons/mathildis/reg"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        }
     }
 }

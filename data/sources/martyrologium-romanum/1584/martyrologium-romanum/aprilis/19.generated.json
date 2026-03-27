@@ -3,5 +3,10 @@
         "8": {
             "1": "records/patrons/leo/9pp"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        }
     }
 }

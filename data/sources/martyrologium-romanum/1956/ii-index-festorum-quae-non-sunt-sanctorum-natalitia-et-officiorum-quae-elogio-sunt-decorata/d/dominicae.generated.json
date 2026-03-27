@@ -3,5 +3,10 @@
         "8": {
             "1": "records/god/spi#pen"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        }
     }
 }

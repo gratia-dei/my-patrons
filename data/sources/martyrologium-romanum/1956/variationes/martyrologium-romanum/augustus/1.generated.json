@@ -6,5 +6,13 @@
         "post-13-ab-1960-07-26": {
             "1": "records/patrons/petrus/apo#pav"
         }
+    },
+    "in-calendar": {
+        "1-ab-1960-07-26": {
+            "1": true
+        },
+        "post-13-ab-1960-07-26": {
+            "1": true
+        }
     }
 }

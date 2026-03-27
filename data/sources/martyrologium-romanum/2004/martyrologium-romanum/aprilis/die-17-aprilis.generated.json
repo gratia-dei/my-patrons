@@ -9,5 +9,16 @@
         "13": {
             "1": "records/patrons/maria/nav"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "15": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        }
     }
 }

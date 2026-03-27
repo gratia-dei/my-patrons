@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/rupertus/sal"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

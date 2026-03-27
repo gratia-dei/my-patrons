@@ -4,5 +4,11 @@
             "1": "records/patrons/florianus/ste",
             "2": "records/patrons/iosephus/str"
         }
+    },
+    "in-calendar": {
+        "16": {
+            "1": true,
+            "2": true
+        }
     }
 }

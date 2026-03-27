@@ -10,5 +10,17 @@
             "1": "records/patrons/iosue/nun",
             "2": "records/patrons/gedeon/man"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        },
+        "3": {
+            "2": true,
+            "1": true
+        }
     }
 }

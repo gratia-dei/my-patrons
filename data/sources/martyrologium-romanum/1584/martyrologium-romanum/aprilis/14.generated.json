@@ -5,5 +5,12 @@
             "2": "records/patrons/valerianus/tib",
             "3": "records/patrons/maximus/rom"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "3": true,
+            "1": true,
+            "2": true
+        }
     }
 }

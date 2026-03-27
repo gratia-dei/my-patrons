@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/turibius/mog"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

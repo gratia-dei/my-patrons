@@ -4,5 +4,11 @@
             "1": "records/patrons/marianus/gor",
             "2": "records/patrons/bronislaus/kom"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "2": true,
+            "1": true
+        }
     }
 }

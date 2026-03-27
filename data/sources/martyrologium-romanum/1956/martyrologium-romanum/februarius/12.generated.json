@@ -12,5 +12,19 @@
         "7": {
             "1": "records/patrons/antonius/cau"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true,
+            "5": true,
+            "4": true,
+            "6": true,
+            "3": true,
+            "7": true
+        },
+        "7": {
+            "1": true
+        }
     }
 }

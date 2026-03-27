@@ -25,5 +25,32 @@
         "2": {
             "1": "records/patrons/xystus/2pp"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "3": {
+            "2": true,
+            "1": true,
+            "3": true,
+            "4": true,
+            "7": true,
+            "6": true,
+            "5": true
+        },
+        "4": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "6": {
+            "1": true,
+            "2": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

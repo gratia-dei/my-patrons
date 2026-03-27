@@ -9,5 +9,16 @@
         "2": {
             "1": "records/patrons/victorinus/pet"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "12": {
+            "1": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

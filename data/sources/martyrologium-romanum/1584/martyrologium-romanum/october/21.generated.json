@@ -4,5 +4,11 @@
             "1": "records/patrons/ursula/vir",
             "2": "records/patrons/multa/urs"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "2": true,
+            "1": true
+        }
     }
 }

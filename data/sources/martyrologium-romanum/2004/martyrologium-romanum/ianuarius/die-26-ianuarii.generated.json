@@ -7,5 +7,14 @@
             "1": "records/patrons/timotheus/eph",
             "2": "records/patrons/titus/cre"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        },
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

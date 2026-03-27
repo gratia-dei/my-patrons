@@ -7,5 +7,14 @@
         "4": {
             "1": "records/patrons/ischyrion/aeg"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true,
+            "2": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

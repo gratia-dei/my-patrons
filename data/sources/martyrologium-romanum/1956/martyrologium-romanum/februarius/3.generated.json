@@ -8,5 +8,15 @@
             "2": "records/patrons/multa/dps",
             "3": "records/patrons/multa/sms"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        },
+        "1": {
+            "1": true,
+            "2": true,
+            "3": true
+        }
     }
 }

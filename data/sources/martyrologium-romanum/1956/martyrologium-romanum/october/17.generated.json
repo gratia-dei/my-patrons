@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/margarita/ala"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

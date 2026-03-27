@@ -10,5 +10,17 @@
             "1": "records/patrons/maria/naz#ros",
             "2": "records/patrons/maria/naz#vic"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        },
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

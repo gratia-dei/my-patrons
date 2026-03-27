@@ -15,5 +15,22 @@
         "15": {
             "1": "records/patrons/placidus/ric"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "17": {
+            "1": true
+        },
+        "18": {
+            "1": true
+        },
+        "14": {
+            "1": true
+        },
+        "15": {
+            "1": true
+        }
     }
 }

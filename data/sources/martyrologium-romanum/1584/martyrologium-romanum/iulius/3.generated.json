@@ -3,5 +3,10 @@
         "9": {
             "1": "records/patrons/thomas/apo#tta"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        }
     }
 }

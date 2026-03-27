@@ -16,5 +16,23 @@
         "1": {
             "1": "records/patrons/bonifatius/win"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "2": true,
+            "5": true,
+            "11": true,
+            "7": true,
+            "10": true,
+            "1": true,
+            "4": true,
+            "9": true,
+            "6": true,
+            "8": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

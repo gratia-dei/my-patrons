@@ -15,5 +15,22 @@
             "3": "records/patrons/faustinus/sim",
             "4": "records/patrons/viatrix/sim"
         }
+    },
+    "in-calendar": {
+        "2-ab-1960-07-26": {
+            "7": true,
+            "6": true,
+            "1": true,
+            "2": true,
+            "4": true,
+            "3": true,
+            "5": true
+        },
+        "3-ab-1960-07-26": {
+            "3": true,
+            "1": true,
+            "2": true,
+            "4": true
+        }
     }
 }

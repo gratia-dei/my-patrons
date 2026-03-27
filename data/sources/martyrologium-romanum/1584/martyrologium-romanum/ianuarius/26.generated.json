@@ -4,5 +4,11 @@
             "1": "records/patrons/polycarpus/smy",
             "2": "records/patrons/multa/dus"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

@@ -9,5 +9,16 @@
         "8": {
             "1": "records/patrons/nicolaus/flu"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

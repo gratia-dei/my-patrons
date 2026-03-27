@@ -6,5 +6,13 @@
         "19": {
             "1": "records/patrons/vladimirus/las"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "19": {
+            "1": true
+        }
     }
 }

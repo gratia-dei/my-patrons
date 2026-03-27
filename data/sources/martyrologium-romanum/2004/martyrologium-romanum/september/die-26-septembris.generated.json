@@ -21,5 +21,28 @@
         "2": {
             "1": "records/patrons/gedeon/man"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "11": true,
+            "6": true,
+            "3": true,
+            "7": true,
+            "5": true,
+            "10": true,
+            "2": true,
+            "4": true,
+            "12": true,
+            "8": true,
+            "9": true,
+            "1": true
+        },
+        "1": {
+            "1": true,
+            "2": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

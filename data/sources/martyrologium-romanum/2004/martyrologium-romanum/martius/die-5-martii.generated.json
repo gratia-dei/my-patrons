@@ -12,5 +12,19 @@
         "8": {
             "1": "records/patrons/virgilius/are"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        },
+        "11": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

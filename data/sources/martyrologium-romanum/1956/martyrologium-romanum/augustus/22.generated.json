@@ -9,5 +9,16 @@
         "6": {
             "1": "records/patrons/philippus/ben"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

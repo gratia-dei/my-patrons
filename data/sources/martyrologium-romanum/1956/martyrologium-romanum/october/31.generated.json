@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/multa/san#vos"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

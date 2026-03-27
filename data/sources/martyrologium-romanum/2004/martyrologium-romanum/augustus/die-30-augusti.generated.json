@@ -8,5 +8,15 @@
             "5": "records/patrons/ioannes/roc",
             "6": "records/patrons/richardus/llo"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "3": true,
+            "5": true,
+            "1": true,
+            "2": true,
+            "6": true,
+            "4": true
+        }
     }
 }

@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/ioseph/naz#sin"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

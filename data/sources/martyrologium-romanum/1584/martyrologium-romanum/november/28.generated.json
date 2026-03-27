@@ -3,5 +3,10 @@
         "5": {
             "1": "records/patrons/gregorius/3pp"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        }
     }
 }

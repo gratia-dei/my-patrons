@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/catharina/sen"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

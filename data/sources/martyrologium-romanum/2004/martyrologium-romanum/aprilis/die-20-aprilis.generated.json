@@ -3,5 +3,10 @@
         "12": {
             "1": "records/patrons/agnes/mon"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "1": true
+        }
     }
 }

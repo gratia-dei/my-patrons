@@ -3,5 +3,10 @@
         "3": {
             "1": "records/patrons/flavius/cle"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "1": true
+        }
     }
 }

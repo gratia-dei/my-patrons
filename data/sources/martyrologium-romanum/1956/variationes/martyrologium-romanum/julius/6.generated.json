@@ -4,5 +4,11 @@
             "2": "records/patrons/paulus/apo#ppo",
             "1": "records/patrons/petrus/apo#ppo"
         }
+    },
+    "in-calendar": {
+        "1-ab-1960-07-26": {
+            "2": true,
+            "1": true
+        }
     }
 }

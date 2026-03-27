@@ -12,5 +12,19 @@
         "4": {
             "1": "records/patrons/zosimus/1pp"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

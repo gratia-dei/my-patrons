@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/sossius/mis"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

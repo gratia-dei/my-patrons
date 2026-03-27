@@ -3,5 +3,10 @@
         "10": {
             "1": "records/patrons/simon/lip"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "1": true
+        }
     }
 }

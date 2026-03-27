@@ -6,5 +6,13 @@
         "5": {
             "1": "records/patrons/simplicianus/med"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

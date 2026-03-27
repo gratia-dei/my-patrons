@@ -12,5 +12,19 @@
         "6": {
             "1": "records/patrons/sibyllina/bis"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "9": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

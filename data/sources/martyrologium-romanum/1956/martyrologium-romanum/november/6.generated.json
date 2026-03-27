@@ -3,5 +3,10 @@
         "7": {
             "1": "records/patrons/leonardus/ere"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        }
     }
 }

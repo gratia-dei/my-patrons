@@ -9,5 +9,16 @@
         "13": {
             "1": "records/patrons/salomea/reg"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "12": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        }
     }
 }

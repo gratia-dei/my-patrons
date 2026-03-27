@@ -41,7 +41,9 @@ abstract class Base
     protected const VARIABLE_NAME_SIGN = '#';
     protected const LANG_VARIABLE_PREFIX = 'lang-';
 
+    protected const IN_CALENDAR_GENERATED_FILES_INDEX = 'in-calendar';
     protected const DATA_LINKS_GENERATED_FILES_INDEX = 'data-links';
+
     protected const DATA_LINK_SOURCE_TO_CHECK_SIGN = '...';
 
     protected const DELETED_RECORD_TAG = '[x]';
@@ -49,6 +51,9 @@ abstract class Base
     protected const HTML_TAG_BR = '<br />';
 
     protected const RECORD_ID_WITH_NAME_EXTENSION_SEPARATOR = '--';
+
+    protected const MAIN_PAGE_PARAM = '?mode=home';
+
     private const RECORD_ID_NAME_EXTENSION_CHARACTERS_MAPPING = [
         ' ' => '-',
         '/' => '',
@@ -58,7 +63,8 @@ abstract class Base
         ',' => '',
     ];
 
-    protected const MAIN_PAGE_PARAM = '?mode=home';
+    private const DATA_LINK_SEPARATOR_WITH_CALENDAR = ':';
+    private const DATA_LINK_SEPARATOR_WITHOUT_CALENDAR = '*';
 
     public function __construct()
     {
@@ -208,15 +214,17 @@ abstract class Base
 
     protected function getDataLinkElements(string $link): ?array
     {
-        if (!preg_match("/^(?'link_id'[1-9][0-9]*)[:](?'path'[^# ]*)[#](?'record_id'[1-9A-Za-z][-0-9A-Za-z]*)$/", $link, $matches)) {
+        $separators = self::DATA_LINK_SEPARATOR_WITH_CALENDAR . self::DATA_LINK_SEPARATOR_WITHOUT_CALENDAR;
+        if (!preg_match("/^(?'link_id'[1-9][0-9]*)(?'separator'[$separators])(?'path'[^# ]*)[#](?'record_id'[1-9A-Za-z][-0-9A-Za-z]*)$/", $link, $matches)) {
             return null;
         }
 
         $linkId = (int) $matches['link_id'];
         $path = $matches['path'];
         $recordId = $matches['record_id'];
+        $showInCalendar = ($matches['separator'] === self::DATA_LINK_SEPARATOR_WITH_CALENDAR);
 
-        return [$linkId, $path, $recordId];
+        return [$linkId, $path, $recordId, $showInCalendar];
     }
 
     protected function getTextTags(string $text): array

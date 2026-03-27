@@ -3,5 +3,10 @@
         "10": {
             "1": "records/patrons/flavius/cle#tfc"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "1": true
+        }
     }
 }

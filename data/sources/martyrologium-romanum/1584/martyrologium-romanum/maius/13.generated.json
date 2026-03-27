@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/maria/naz#dem"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

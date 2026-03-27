@@ -4,5 +4,11 @@
             "1": "records/patrons/maria/naz#ros",
             "2": "records/patrons/maria/naz#vic"
         }
+    },
+    "in-calendar": {
+        "1-ab-1960-07-26": {
+            "2": true,
+            "1": true
+        }
     }
 }

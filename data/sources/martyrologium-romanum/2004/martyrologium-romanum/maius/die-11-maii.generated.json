@@ -6,5 +6,13 @@
         "11": {
             "1": "records/patrons/ignatius/lac"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "1": true
+        },
+        "11": {
+            "1": true
+        }
     }
 }

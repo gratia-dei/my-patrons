@@ -5,5 +5,12 @@
             "2": "records/patrons/rusticus/dio",
             "3": "records/patrons/eleutherius/dio"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true,
+            "3": true,
+            "2": true
+        }
     }
 }

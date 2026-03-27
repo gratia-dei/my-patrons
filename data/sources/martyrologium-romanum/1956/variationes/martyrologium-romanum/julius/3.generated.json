@@ -3,5 +3,10 @@
         "pre-1-ab-1960-07-26": {
             "1": "records/patrons/irenaeus/lug"
         }
+    },
+    "in-calendar": {
+        "pre-1-ab-1960-07-26": {
+            "1": true
+        }
     }
 }

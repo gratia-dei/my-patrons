@@ -3,5 +3,10 @@
         "7": {
             "1": "records/patrons/ioanna/arc"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        }
     }
 }

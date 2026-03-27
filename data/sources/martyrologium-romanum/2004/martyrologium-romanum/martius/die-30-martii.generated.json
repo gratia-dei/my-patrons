@@ -11,5 +11,18 @@
         "1": {
             "1": "records/patrons/secundus/ast"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "1": true,
+            "4": true,
+            "6": true,
+            "3": true,
+            "2": true,
+            "5": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

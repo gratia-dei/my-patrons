@@ -13,5 +13,20 @@
         "9": {
             "1": "records/patrons/thomas/aqu"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        },
+        "2": {
+            "3": true,
+            "2": true,
+            "1": true,
+            "4": true
+        },
+        "9": {
+            "1": true
+        }
     }
 }

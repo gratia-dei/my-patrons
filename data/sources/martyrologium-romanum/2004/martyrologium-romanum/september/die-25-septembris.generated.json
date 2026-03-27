@@ -3,5 +3,10 @@
         "9": {
             "1": "records/patrons/sergius/rad"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        }
     }
 }

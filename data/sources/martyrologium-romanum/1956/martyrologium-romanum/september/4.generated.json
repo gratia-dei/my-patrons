@@ -3,5 +3,10 @@
         "11": {
             "1": "records/patrons/rosalia/pan"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "1": true
+        }
     }
 }

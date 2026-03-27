@@ -7,5 +7,14 @@
             "4": "records/patrons/germanus/cae",
             "5": "records/patrons/manathas/cae"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "4": true,
+            "5": true,
+            "2": true,
+            "3": true
+        }
     }
 }

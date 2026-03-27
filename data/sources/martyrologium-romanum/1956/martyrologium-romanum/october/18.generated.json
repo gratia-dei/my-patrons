@@ -8,5 +8,15 @@
         "1": {
             "1": "records/patrons/lucas/eva"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "2": true,
+            "1": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

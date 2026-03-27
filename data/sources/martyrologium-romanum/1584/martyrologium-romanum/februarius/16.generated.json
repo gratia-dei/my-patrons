@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/iuliana/cam#tic"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

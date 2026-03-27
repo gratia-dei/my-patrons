@@ -8,5 +8,15 @@
         "8": {
             "1": "records/god/fil#ima"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true,
+            "3": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

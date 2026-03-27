@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/felicitas/rom"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

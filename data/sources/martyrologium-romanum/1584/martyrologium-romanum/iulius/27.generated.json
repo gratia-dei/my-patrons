@@ -10,5 +10,17 @@
         "1": {
             "1": "records/patrons/pantaleon/nic"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "3": true,
+            "2": true,
+            "1": true,
+            "5": true,
+            "4": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

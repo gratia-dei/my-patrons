@@ -4,5 +4,11 @@
             "1": "records/patrons/proclus/hil",
             "2": "records/patrons/hilarion/pro"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "2": true,
+            "1": true
+        }
     }
 }

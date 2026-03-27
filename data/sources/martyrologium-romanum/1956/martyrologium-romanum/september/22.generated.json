@@ -12,5 +12,19 @@
         "4": {
             "1": "records/patrons/emmerammus/rat"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "3": true,
+            "2": true,
+            "5": true,
+            "1": true,
+            "7": true,
+            "4": true,
+            "6": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

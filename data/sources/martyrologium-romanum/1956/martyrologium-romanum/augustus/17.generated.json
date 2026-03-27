@@ -9,5 +9,16 @@
         "4": {
             "1": "records/patrons/myron/cyz"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

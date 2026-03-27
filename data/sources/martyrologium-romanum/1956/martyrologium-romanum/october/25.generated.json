@@ -11,5 +11,18 @@
             "1": "records/patrons/chrysanthus/dar",
             "2": "records/patrons/daria/chr"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "4": true,
+            "2": true,
+            "3": true,
+            "1": true,
+            "5": true
+        },
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

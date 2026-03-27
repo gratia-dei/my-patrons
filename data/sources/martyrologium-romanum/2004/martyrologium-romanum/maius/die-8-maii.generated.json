@@ -3,5 +3,10 @@
         "17": {
             "1": "records/patrons/antonius/baj"
         }
+    },
+    "in-calendar": {
+        "17": {
+            "1": true
+        }
     }
 }

@@ -14,5 +14,21 @@
         "1": {
             "1": "records/patrons/ioachim/mar"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "5": true,
+            "9": true,
+            "2": true,
+            "8": true,
+            "1": true,
+            "7": true,
+            "6": true,
+            "4": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

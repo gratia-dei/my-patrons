@@ -18,5 +18,25 @@
         "19": {
             "1": "records/patrons/ioannes/23p"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "9": true,
+            "10": true,
+            "6": true,
+            "13": true,
+            "3": true,
+            "1": true,
+            "8": true,
+            "4": true,
+            "5": true,
+            "12": true,
+            "2": true,
+            "7": true,
+            "11": true
+        },
+        "19": {
+            "1": true
+        }
     }
 }

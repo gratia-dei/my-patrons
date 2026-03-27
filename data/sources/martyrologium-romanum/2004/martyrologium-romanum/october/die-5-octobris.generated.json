@@ -6,5 +6,13 @@
         "19": {
             "1": "records/patrons/maria/kow"
         }
+    },
+    "in-calendar": {
+        "17": {
+            "1": true
+        },
+        "19": {
+            "1": true
+        }
     }
 }

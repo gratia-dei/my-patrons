@@ -20,5 +20,27 @@
         "13": {
             "1": "records/patrons/urbanus/2pp"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "7": true,
+            "6": true,
+            "1": true,
+            "2": true,
+            "4": true,
+            "3": true,
+            "5": true
+        },
+        "3": {
+            "2": true,
+            "1": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        }
     }
 }

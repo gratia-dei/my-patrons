@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/venceslaus/boh"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

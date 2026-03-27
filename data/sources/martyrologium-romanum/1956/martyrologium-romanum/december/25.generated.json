@@ -11,5 +11,18 @@
         "5": {
             "1": "records/patrons/multa/nie"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "2": {
+            "1": true,
+            "2": true,
+            "3": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

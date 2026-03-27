@@ -10,5 +10,17 @@
         "15": {
             "1": "records/patrons/iosephus/kut"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "1": true,
+            "2": true
+        },
+        "9": {
+            "1": true
+        },
+        "15": {
+            "1": true
+        }
     }
 }

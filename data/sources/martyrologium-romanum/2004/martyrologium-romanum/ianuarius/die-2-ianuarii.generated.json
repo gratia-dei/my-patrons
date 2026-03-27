@@ -11,5 +11,18 @@
         "13": {
             "1": "records/patrons/stephana/qui"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true
+        },
+        "14": {
+            "1": true,
+            "2": true
+        },
+        "13": {
+            "1": true
+        }
     }
 }

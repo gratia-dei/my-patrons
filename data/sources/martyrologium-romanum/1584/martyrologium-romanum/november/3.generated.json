@@ -3,5 +3,10 @@
         "9": {
             "1": "records/patrons/pirminus/epi"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        }
     }
 }

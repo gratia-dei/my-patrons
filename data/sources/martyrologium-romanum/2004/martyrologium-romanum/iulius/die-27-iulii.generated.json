@@ -13,5 +13,20 @@
         "5": {
             "1": "records/patrons/simeon/sta"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "2": true,
+            "4": true,
+            "1": true,
+            "5": true,
+            "3": true
+        },
+        "2": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

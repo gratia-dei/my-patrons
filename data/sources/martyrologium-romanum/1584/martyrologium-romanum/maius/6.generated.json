@@ -6,5 +6,13 @@
         "10": {
             "1": "records/patrons/matthaeus/eva#tma"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

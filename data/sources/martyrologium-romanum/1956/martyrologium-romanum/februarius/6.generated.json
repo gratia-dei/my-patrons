@@ -7,5 +7,14 @@
         "1": {
             "1": "records/patrons/titus/cre"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true,
+            "2": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

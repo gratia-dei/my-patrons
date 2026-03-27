@@ -15,5 +15,22 @@
         "15": {
             "1": "records/patrons/simon/bal"
         }
+    },
+    "in-calendar": {
+        "16": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "15": {
+            "1": true
+        }
     }
 }

@@ -3,5 +3,10 @@
         "5": {
             "1": "records/patrons/multa/qda"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        }
     }
 }

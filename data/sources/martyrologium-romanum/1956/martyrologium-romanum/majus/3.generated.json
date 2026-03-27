@@ -10,5 +10,17 @@
         "3": {
             "1": "records/patrons/iuvenalis/nar"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "4": {
+            "1": true,
+            "2": true
+        },
+        "3": {
+            "1": true
+        }
     }
 }

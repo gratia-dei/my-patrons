@@ -29,5 +29,36 @@
             "93": "records/patrons/magdalena/hok",
             "94": "records/patrons/lucia/kim"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "92": true,
+            "1": true,
+            "78": true,
+            "4": true,
+            "90": true,
+            "47": true,
+            "38": true,
+            "89": true,
+            "79": true,
+            "20": true,
+            "91": true,
+            "22": true,
+            "94": true,
+            "76": true,
+            "39": true,
+            "93": true,
+            "45": true,
+            "73": true,
+            "36": true,
+            "75": true,
+            "12": true,
+            "46": true,
+            "11": true,
+            "77": true,
+            "88": true,
+            "74": true,
+            "21": true
+        }
     }
 }

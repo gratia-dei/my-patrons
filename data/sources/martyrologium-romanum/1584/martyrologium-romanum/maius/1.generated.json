@@ -10,5 +10,17 @@
         "5": {
             "1": "records/patrons/sigismundus/rex"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        },
+        "2": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/ioannes/ket"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

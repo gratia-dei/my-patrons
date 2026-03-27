@@ -9,5 +9,16 @@
         "1": {
             "1": "records/patrons/maria/naz#fat"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

@@ -8,5 +8,15 @@
         "10": {
             "1": "records/patrons/hyacintha/mar"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true,
+            "3": true,
+            "2": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

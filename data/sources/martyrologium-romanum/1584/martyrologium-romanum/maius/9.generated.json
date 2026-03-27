@@ -14,5 +14,21 @@
         "8": {
             "1": "records/patrons/nicolaus/myr#tmm"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true,
+            "2": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

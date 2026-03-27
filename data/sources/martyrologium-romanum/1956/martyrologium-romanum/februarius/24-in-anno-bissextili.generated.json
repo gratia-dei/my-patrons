@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/matthias/apo#vma"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

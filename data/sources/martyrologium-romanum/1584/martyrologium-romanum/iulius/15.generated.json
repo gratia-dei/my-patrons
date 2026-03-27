@@ -4,5 +4,11 @@
             "1": "records/patrons/antiochus/ana",
             "2": "records/patrons/cyriacus/seb"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true,
+            "2": true
+        }
     }
 }

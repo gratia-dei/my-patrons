@@ -3,5 +3,10 @@
         "14": {
             "1": "records/patrons/alexius/zar"
         }
+    },
+    "in-calendar": {
+        "14": {
+            "1": true
+        }
     }
 }

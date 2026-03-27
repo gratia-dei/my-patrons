@@ -12,5 +12,19 @@
         "5": {
             "1": "records/patrons/petrus/dam"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        },
+        "9": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

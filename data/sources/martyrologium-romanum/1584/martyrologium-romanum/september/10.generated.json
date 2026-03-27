@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/hilarius/1pp"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

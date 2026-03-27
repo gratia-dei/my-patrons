@@ -5,5 +5,12 @@
             "2": "records/patrons/respicius/try",
             "3": "records/patrons/nympha/try"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "3": true,
+            "2": true,
+            "1": true
+        }
     }
 }

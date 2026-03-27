@@ -9,5 +9,16 @@
         "10": {
             "1": "records/patrons/vincentius/fre"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

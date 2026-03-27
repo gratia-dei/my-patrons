@@ -9,5 +9,16 @@
         "10": {
             "1": "records/patrons/thecla/abb"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

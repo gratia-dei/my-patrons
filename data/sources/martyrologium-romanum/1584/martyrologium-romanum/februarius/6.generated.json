@@ -4,5 +4,11 @@
             "1": "records/patrons/dorothea/cae",
             "2": "records/patrons/theophilus/cae"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

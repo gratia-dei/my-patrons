@@ -9,5 +9,16 @@
         "13": {
             "1": "records/patrons/iosephus/pel"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        }
     }
 }

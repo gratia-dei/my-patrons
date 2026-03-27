@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/romanus/abb"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

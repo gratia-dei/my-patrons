@@ -6,5 +6,13 @@
         "9": {
             "1": "records/patrons/martinus/tur#tmt"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "9": {
+            "1": true
+        }
     }
 }

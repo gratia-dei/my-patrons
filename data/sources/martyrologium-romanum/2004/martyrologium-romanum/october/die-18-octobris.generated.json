@@ -11,5 +11,18 @@
         "1": {
             "1": "records/patrons/lucas/eva"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "3": true,
+            "2": true,
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

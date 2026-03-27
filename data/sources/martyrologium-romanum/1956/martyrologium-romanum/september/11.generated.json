@@ -3,5 +3,10 @@
         "4": {
             "1": "records/patrons/paphnutius/epi"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true
+        }
     }
 }

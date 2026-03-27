@@ -3,5 +3,10 @@
         "3": {
             "1": "records/patrons/benignus/tud"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "1": true
+        }
     }
 }

@@ -4,5 +4,11 @@
             "1": "records/patrons/eleutherius/nic",
             "2": "records/patrons/multa/nip"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

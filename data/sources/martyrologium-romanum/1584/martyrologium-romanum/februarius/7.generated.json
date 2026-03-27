@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/richardus/per"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

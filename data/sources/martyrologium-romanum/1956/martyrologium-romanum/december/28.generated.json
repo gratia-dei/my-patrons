@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/franciscus/sal"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

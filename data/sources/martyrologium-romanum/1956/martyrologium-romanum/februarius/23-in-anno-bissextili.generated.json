@@ -10,5 +10,17 @@
         "8": {
             "1": "records/patrons/polycarpus/rom"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "2": true,
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

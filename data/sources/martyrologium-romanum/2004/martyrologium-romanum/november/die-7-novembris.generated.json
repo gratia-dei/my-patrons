@@ -9,5 +9,16 @@
         "15": {
             "1": "records/patrons/vincentius/gro"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "1": true
+        },
+        "14": {
+            "1": true
+        },
+        "15": {
+            "1": true
+        }
     }
 }

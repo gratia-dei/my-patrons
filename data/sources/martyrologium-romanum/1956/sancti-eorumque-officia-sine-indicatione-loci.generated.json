@@ -3,5 +3,10 @@
         "50": {
             "1": "records/god/tri#tri"
         }
+    },
+    "in-calendar": {
+        "50": {
+            "1": true
+        }
     }
 }

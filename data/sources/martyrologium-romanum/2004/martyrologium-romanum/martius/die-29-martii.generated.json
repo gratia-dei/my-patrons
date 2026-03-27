@@ -9,5 +9,16 @@
         "7": {
             "1": "records/patrons/ioannes/ham"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        }
     }
 }

@@ -9,5 +9,16 @@
         "1": {
             "1": "records/patrons/ioannes/cru"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "2": true,
+            "4": true,
+            "1": true,
+            "3": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

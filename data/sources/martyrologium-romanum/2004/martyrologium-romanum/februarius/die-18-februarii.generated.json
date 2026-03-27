@@ -9,5 +9,16 @@
         "6": {
             "1": "records/patrons/ioannes/fae"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "1": true
+        },
+        "11": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

@@ -18,5 +18,25 @@
             "15": "records/patrons/chaeremon/nil",
             "16": "records/patrons/ischyrion/aeg"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "5": true,
+            "6": true,
+            "9": true,
+            "11": true,
+            "15": true,
+            "8": true,
+            "13": true,
+            "4": true,
+            "1": true,
+            "10": true,
+            "16": true,
+            "12": true,
+            "2": true,
+            "3": true,
+            "7": true,
+            "14": true
+        }
     }
 }

@@ -49,9 +49,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
         }
         $this->checkGeneratedFilesData();
 
-        $indexedGeneratedFilesData = $this->getIndexedGeneratedFilesData($this->generatedFilesData);
-        $this->saveGeneratedFiles($indexedGeneratedFilesData);
-
+        $this->saveGeneratedFiles($this->generatedFilesData);
         $this->saveGeneratedFiles($this->personGeneratedFilesData);
 
         foreach ($this->unusedAssignmentTags as $filePath => $fileData) {
@@ -77,7 +75,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     if (is_null($linkData)) {
                         $this->error("invalid link '$link' in file '$sourceFilePath', data-links field '$fieldPath' and directory path alias '$dstDirPathAlias'");
                     }
-                    list($linkId, $dstFilePathAlias, $recordId) = $linkData;
+                    list($linkId, $dstFilePathAlias, $recordId, $showInCalendar) = $linkData;
 
                     if ($dstFilePathAlias === '') {
                         $dstPathAlias = $dstDirPathAlias;
@@ -96,7 +94,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     $generatedFileFullPath = $this->getFullDataPath($generatedFilePath);
 
                     $staticFileData = $this->getOriginalJsonFileContentArray($staticFilePath);
-                    if (!isset($this->generatedFilesData[$generatedFileFullPath][$recordId])) {
+                    if (!isset($this->generatedFilesData[$generatedFileFullPath][self::DATA_LINKS_GENERATED_FILES_INDEX][$recordId])) {
                         $recordData = $staticFileData[$recordId][self::POSSIBLE_NAME_INDEX] ?? $staticFileData[$recordId] ?? null;
                         if (is_null($recordData)) {
                             $this->error("cannot find static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
@@ -160,15 +158,16 @@ class GenerateDataLinkFilesProcedure extends Procedure
 
                         foreach ($standardTagListTotal as $tagLink => $tagQuantity) {
                             if (preg_match('/^[0-9]+$/', $tagLink)) {
-                                $this->generatedFilesData[$generatedFileFullPath][$recordId][$tagLink] = null;
+                                $this->generatedFilesData[$generatedFileFullPath][self::DATA_LINKS_GENERATED_FILES_INDEX][$recordId][$tagLink] = null;
                             }
                         }
                     }
 
-                    if (isset($this->generatedFilesData[$generatedFileFullPath][$recordId][$linkId])) {
+                    if (isset($this->generatedFilesData[$generatedFileFullPath][self::DATA_LINKS_GENERATED_FILES_INDEX][$recordId][$linkId])) {
                         $this->error("try to override static file '$staticFilePath' record with ID #$recordId for file '$sourceFilePath', data-links field '$fieldPath', link '$link' and directory path alias '$dstDirPathAlias'");
                     }
-                    $this->generatedFilesData[$generatedFileFullPath][$recordId][$linkId] = $sourceFilePath . $anchor;
+                    $this->generatedFilesData[$generatedFileFullPath][self::DATA_LINKS_GENERATED_FILES_INDEX][$recordId][$linkId] = $sourceFilePath . $anchor;
+                    $this->generatedFilesData[$generatedFileFullPath][self::IN_CALENDAR_GENERATED_FILES_INDEX][$recordId][$linkId] = $showInCalendar;
 
                     //assignment tags
                     $assignmentTags = $this->unusedAssignmentTags[$generatedFileFullPath][$recordId][$linkId] ?? [];
@@ -216,21 +215,10 @@ class GenerateDataLinkFilesProcedure extends Procedure
         return $result;
     }
 
-    private function getIndexedGeneratedFilesData(array $generatedFilesData): array
-    {
-        $result = [];
-
-        foreach ($generatedFilesData as $generatedFilePath => $data) {
-            $result[$generatedFilePath][self::DATA_LINKS_GENERATED_FILES_INDEX] = $data;
-        }
-
-        return $result;
-    }
-
     private function checkGeneratedFilesData(): void
     {
         foreach ($this->generatedFilesData as $generatedFilePath => $pathData) {
-            foreach ($pathData as $recordId => $recordData) {
+            foreach ($pathData[self::DATA_LINKS_GENERATED_FILES_INDEX] as $recordId => $recordData) {
                 foreach ($recordData as $linkId => $link) {
                     if (is_null($link)) {
                         $this->error("orphan link ID '$linkId' in generated file '$generatedFilePath' record with ID #$recordId");

@@ -12,5 +12,19 @@
         "2": {
             "1": "records/patrons/lydia/thy"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "4": true,
+            "2": true,
+            "3": true,
+            "1": true
+        },
+        "3": {
+            "1": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

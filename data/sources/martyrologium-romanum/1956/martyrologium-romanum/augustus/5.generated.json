@@ -9,5 +9,16 @@
         "10": {
             "1": "records/patrons/oswaldus/nor"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

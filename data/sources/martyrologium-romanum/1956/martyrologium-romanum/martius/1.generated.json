@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/felix/3pp"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

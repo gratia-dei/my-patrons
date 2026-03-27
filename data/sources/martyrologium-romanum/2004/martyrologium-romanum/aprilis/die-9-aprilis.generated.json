@@ -3,5 +3,10 @@
         "14": {
             "1": "records/patrons/caelestina/far"
         }
+    },
+    "in-calendar": {
+        "14": {
+            "1": true
+        }
     }
 }

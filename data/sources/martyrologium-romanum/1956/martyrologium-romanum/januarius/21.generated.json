@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/agnes/rom"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

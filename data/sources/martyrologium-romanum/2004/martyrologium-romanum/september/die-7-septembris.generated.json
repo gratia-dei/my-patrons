@@ -4,5 +4,11 @@
             "1": "records/patrons/festus/ben",
             "2": "records/patrons/desiderius/ben"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "2": true,
+            "1": true
+        }
     }
 }

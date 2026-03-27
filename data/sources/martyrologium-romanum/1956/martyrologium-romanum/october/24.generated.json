@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/raphael/arc"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

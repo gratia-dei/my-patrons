@@ -9,5 +9,16 @@
         "3": {
             "1": "records/patrons/multa/nid"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        },
+        "3": {
+            "1": true
+        }
     }
 }

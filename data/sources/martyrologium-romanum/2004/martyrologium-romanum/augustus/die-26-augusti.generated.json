@@ -3,5 +3,10 @@
         "15": {
             "1": "records/patrons/maria/bel"
         }
+    },
+    "in-calendar": {
+        "15": {
+            "1": true
+        }
     }
 }

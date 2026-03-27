@@ -6,5 +6,13 @@
         "1": {
             "1": "records/patrons/monica/vid"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

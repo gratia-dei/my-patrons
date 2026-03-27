@@ -9,5 +9,16 @@
         "2": {
             "1": "records/patrons/sophia/fir"
         }
+    },
+    "in-calendar": {
+        "20": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

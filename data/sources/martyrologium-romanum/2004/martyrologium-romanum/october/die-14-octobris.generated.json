@@ -4,5 +4,11 @@
             "1": "records/patrons/stanislaus/mys",
             "2": "records/patrons/franciscus/ros"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "2": true,
+            "1": true
+        }
     }
 }

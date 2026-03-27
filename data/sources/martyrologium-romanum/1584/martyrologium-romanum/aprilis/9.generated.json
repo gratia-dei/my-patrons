@@ -3,5 +3,10 @@
         "10": {
             "1": "records/patrons/monica/vid#tmv"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "1": true
+        }
     }
 }

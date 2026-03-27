@@ -3,5 +3,10 @@
         "5": {
             "1": "records/patrons/aristides/ath"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        }
     }
 }

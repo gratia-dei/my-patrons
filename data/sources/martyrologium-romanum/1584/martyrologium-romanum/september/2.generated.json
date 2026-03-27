@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/antoninus/apa"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

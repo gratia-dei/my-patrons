@@ -18,5 +18,25 @@
         "17": {
             "1": "records/patrons/sigismundus/gor"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "18": {
+            "1": true
+        },
+        "17": {
+            "1": true
+        }
     }
 }

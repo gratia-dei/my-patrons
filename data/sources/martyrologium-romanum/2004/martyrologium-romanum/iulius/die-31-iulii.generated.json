@@ -12,5 +12,19 @@
         "7": {
             "1": "records/patrons/petrus/chr"
         }
+    },
+    "in-calendar": {
+        "17": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "13": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        }
     }
 }

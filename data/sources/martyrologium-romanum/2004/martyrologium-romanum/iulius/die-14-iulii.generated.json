@@ -3,5 +3,10 @@
         "1": {
             "1": "records/patrons/camillus/lel"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        }
     }
 }

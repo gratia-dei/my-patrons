@@ -4,5 +4,11 @@
             "1": "records/patrons/michael/arc",
             "2": "records/patrons/michael/arc#dma"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

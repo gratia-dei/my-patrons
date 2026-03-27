@@ -11,5 +11,18 @@
         "1": {
             "1": "records/patrons/petrus/apo#pav"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "3": true,
+            "1": true,
+            "2": true
+        },
+        "8": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

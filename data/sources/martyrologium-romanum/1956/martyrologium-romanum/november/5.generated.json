@@ -7,5 +7,14 @@
             "4": "records/patrons/silvanus/cae",
             "5": "records/patrons/multa/cae"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true,
+            "5": true,
+            "3": true,
+            "4": true,
+            "2": true
+        }
     }
 }

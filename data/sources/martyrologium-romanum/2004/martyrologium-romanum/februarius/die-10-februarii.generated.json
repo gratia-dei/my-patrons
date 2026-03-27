@@ -8,5 +8,15 @@
             "5": "records/patrons/maria/hac",
             "6": "records/patrons/ludovica/poi"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "2": true,
+            "4": true,
+            "6": true,
+            "5": true,
+            "3": true,
+            "1": true
+        }
     }
 }

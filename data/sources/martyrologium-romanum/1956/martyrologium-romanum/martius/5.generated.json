@@ -6,5 +6,13 @@
         "6": {
             "1": "records/patrons/ioannes/cal"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

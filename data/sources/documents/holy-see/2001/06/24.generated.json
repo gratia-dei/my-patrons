@@ -4,5 +4,11 @@
             "1": "records/patrons/sigismundus/gor",
             "2": "records/patrons/iosephus/bil"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

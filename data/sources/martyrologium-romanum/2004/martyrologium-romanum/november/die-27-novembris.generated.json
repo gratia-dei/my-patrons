@@ -3,5 +3,10 @@
         "15": {
             "1": "records/patrons/bronislaus/kos"
         }
+    },
+    "in-calendar": {
+        "15": {
+            "1": true
+        }
     }
 }

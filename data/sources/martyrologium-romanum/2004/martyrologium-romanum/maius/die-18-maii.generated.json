@@ -3,5 +3,10 @@
         "11": {
             "1": "records/patrons/stanislaus/kub"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "1": true
+        }
     }
 }

@@ -6,5 +6,13 @@
         "12": {
             "1": "records/patrons/boleslaus/str"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "12": {
+            "1": true
+        }
     }
 }

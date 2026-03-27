@@ -13,5 +13,20 @@
         "2": {
             "1": "records/patrons/margarita/ala"
         }
+    },
+    "in-calendar": {
+        "17": {
+            "1": true,
+            "2": true
+        },
+        "16": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

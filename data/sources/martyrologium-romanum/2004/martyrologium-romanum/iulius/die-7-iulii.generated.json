@@ -3,5 +3,10 @@
         "7": {
             "1": "records/patrons/benedictus/11p"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        }
     }
 }

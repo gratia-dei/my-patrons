@@ -7,5 +7,14 @@
         "2": {
             "1": "records/patrons/gregorius/nys"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true,
+            "2": true
+        },
+        "2": {
+            "1": true
+        }
     }
 }

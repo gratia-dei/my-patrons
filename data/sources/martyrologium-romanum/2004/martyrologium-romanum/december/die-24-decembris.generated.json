@@ -9,5 +9,16 @@
         "8": {
             "1": "records/patrons/sarbelius/mak"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

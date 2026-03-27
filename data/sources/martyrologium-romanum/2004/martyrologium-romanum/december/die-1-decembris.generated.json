@@ -9,5 +9,16 @@
         "1": {
             "1": "records/patrons/nahum/pro"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "1": true
+        },
+        "14": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

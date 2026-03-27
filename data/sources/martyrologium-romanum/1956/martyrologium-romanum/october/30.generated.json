@@ -22,5 +22,29 @@
             "1": "records/patrons/pontianus/1pp",
             "2": "records/patrons/hippolytus/rom"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "2": true,
+            "3": true,
+            "6": true,
+            "8": true,
+            "12": true,
+            "5": true,
+            "10": true,
+            "1": true,
+            "15": true,
+            "7": true,
+            "13": true,
+            "9": true,
+            "14": true,
+            "16": true,
+            "4": true,
+            "11": true
+        },
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

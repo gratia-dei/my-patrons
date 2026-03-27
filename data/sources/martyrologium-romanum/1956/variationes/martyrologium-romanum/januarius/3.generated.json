@@ -3,5 +3,10 @@
         "1-ab-1960-07-26": {
             "1": "records/patrons/ioannes/eva#oie"
         }
+    },
+    "in-calendar": {
+        "1-ab-1960-07-26": {
+            "1": true
+        }
     }
 }

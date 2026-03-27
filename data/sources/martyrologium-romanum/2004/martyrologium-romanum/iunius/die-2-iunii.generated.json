@@ -7,5 +7,14 @@
             "1": "records/patrons/sadochus/san",
             "2": "records/patrons/multa/sad"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "1": true
+        },
+        "8": {
+            "2": true,
+            "1": true
+        }
     }
 }

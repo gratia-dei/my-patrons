@@ -16,5 +16,23 @@
         "4": {
             "1": "records/patrons/martinus/1pp"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "2": true,
+            "1": true,
+            "4": true,
+            "3": true
+        },
+        "5": {
+            "1": true
+        },
+        "1": {
+            "1": true,
+            "2": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

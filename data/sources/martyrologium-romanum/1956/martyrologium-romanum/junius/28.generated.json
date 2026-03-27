@@ -8,5 +8,15 @@
             "1": "records/patrons/petrus/apo#ppv",
             "2": "records/patrons/paulus/apo#ppv"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true,
+            "2": true
+        },
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

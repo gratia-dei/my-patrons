@@ -3,5 +3,10 @@
         "6": {
             "1": "records/patrons/ignatius/ant#tia"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        }
     }
 }

@@ -4,5 +4,11 @@
             "1": "records/patrons/irenaeus/lug",
             "2": "records/patrons/multa/lug"
         }
+    },
+    "in-calendar": {
+        "2-ab-1960-07-26": {
+            "1": true,
+            "2": true
+        }
     }
 }

@@ -10,5 +10,17 @@
             "3": "records/patrons/dionysia/ale",
             "4": "records/patrons/ammonarion/alt"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        },
+        "5": {
+            "1": true,
+            "4": true,
+            "3": true,
+            "2": true
+        }
     }
 }

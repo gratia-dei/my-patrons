@@ -5,5 +5,12 @@
             "2": "records/patrons/robertus/dib",
             "3": "records/patrons/ioannes/low"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true,
+            "3": true,
+            "2": true
+        }
     }
 }

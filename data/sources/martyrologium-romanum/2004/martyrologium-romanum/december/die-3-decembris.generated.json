@@ -9,5 +9,16 @@
         "5": {
             "1": "records/patrons/lucius/cur"
         }
+    },
+    "in-calendar": {
+        "6": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "5": {
+            "1": true
+        }
     }
 }

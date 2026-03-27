@@ -13,5 +13,20 @@
             "1": "records/patrons/cornelius/1pp",
             "2": "records/patrons/cyprianus/car"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "2": true,
+            "1": true,
+            "4": true,
+            "3": true
+        },
+        "16": {
+            "1": true
+        },
+        "1": {
+            "1": true,
+            "2": true
+        }
     }
 }

@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/malachias/pro"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

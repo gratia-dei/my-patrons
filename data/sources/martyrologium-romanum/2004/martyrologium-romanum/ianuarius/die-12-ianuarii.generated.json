@@ -3,5 +3,10 @@
         "12": {
             "1": "records/patrons/antonius/puc"
         }
+    },
+    "in-calendar": {
+        "12": {
+            "1": true
+        }
     }
 }

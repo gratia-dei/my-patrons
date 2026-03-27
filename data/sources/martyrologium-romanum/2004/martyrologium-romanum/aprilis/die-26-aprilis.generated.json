@@ -7,5 +7,14 @@
         "4": {
             "1": "records/patrons/richarius/cen"
         }
+    },
+    "in-calendar": {
+        "11": {
+            "2": true,
+            "1": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

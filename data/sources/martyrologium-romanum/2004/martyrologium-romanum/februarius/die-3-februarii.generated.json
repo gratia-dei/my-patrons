@@ -10,5 +10,17 @@
         "1": {
             "1": "records/patrons/blasius/seb"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "2": true,
+            "1": true
+        },
+        "2": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

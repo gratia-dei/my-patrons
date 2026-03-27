@@ -9,5 +9,16 @@
         "12": {
             "1": "records/patrons/stephanus/cue"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        },
+        "9": {
+            "1": true
+        },
+        "12": {
+            "1": true
+        }
     }
 }

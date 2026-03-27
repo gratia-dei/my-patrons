@@ -3,5 +3,10 @@
         "4": {
             "1": "records/patrons/agricola/niv"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true
+        }
     }
 }

@@ -4,5 +4,11 @@
             "1": "records/patrons/onesiphorus/apo",
             "2": "records/patrons/porphyrius/one"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true,
+            "2": true
+        }
     }
 }

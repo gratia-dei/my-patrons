@@ -3,5 +3,10 @@
         "5": {
             "1": "records/patrons/macarius/hie"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        }
     }
 }

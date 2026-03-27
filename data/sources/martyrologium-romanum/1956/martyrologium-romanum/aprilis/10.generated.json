@@ -6,5 +6,13 @@
         "6": {
             "1": "records/patrons/michael/san"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

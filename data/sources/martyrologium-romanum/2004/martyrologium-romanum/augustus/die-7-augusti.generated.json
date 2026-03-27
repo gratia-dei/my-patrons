@@ -12,5 +12,19 @@
         "15": {
             "1": "records/patrons/edmundus/boj"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "6": true,
+            "7": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "4": true,
+            "1": true
+        },
+        "15": {
+            "1": true
+        }
     }
 }

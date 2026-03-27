@@ -4,5 +4,11 @@
             "1": "records/patrons/pontianus/1pp",
             "2": "records/patrons/hippolytus/rom"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        }
     }
 }

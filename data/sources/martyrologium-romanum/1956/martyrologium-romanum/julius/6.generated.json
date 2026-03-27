@@ -10,5 +10,17 @@
         "4": {
             "1": "records/patrons/tranquillinus/rom"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "1": {
+            "2": true,
+            "1": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

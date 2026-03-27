@@ -6,5 +6,13 @@
         "1-ab-1960-07-26": {
             "1": "records/patrons/maria/naz#amo"
         }
+    },
+    "in-calendar": {
+        "2-ab-1960-07-26": {
+            "1": true
+        },
+        "1-ab-1960-07-26": {
+            "1": true
+        }
     }
 }

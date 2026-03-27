@@ -28,5 +28,35 @@
         "10": {
             "1": "records/patrons/thaddaeus/dul"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "1": true
+        },
+        "2": {
+            "6": true,
+            "7": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "4": true,
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        },
+        "3": {
+            "1": true,
+            "2": true
+        },
+        "8": {
+            "1": true
+        },
+        "10": {
+            "1": true
+        }
     }
 }

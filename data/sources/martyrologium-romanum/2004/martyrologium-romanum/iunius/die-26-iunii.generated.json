@@ -3,5 +3,10 @@
         "17": {
             "1": "records/patrons/iosephus/esc"
         }
+    },
+    "in-calendar": {
+        "17": {
+            "1": true
+        }
     }
 }

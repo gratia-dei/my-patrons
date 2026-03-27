@@ -4,5 +4,11 @@
             "1": "records/patrons/quiricus/iul",
             "2": "records/patrons/iulitta/qui"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "2": true,
+            "1": true
+        }
     }
 }

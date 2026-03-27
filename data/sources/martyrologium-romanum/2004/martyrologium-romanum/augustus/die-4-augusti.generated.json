@@ -9,5 +9,16 @@
         "1": {
             "1": "records/patrons/ioannes/via"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        },
+        "14": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

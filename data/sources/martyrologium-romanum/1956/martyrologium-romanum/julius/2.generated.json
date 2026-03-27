@@ -9,5 +9,16 @@
         "6": {
             "1": "records/patrons/otho/bam"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

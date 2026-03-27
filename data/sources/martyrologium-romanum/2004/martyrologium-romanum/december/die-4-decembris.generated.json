@@ -3,5 +3,10 @@
         "2": {
             "1": "records/patrons/barbara/nic"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "1": true
+        }
     }
 }

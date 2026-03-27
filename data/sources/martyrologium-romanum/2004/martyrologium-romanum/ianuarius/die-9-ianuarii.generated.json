@@ -4,5 +4,11 @@
             "1": "records/patrons/iosephus/paw",
             "2": "records/patrons/casimirus/gre"
         }
+    },
+    "in-calendar": {
+        "10": {
+            "2": true,
+            "1": true
+        }
     }
 }

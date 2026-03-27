@@ -6,5 +6,13 @@
         "8-ab-1960-07-26": {
             "1": "records/patrons/laurentius/bru"
         }
+    },
+    "in-calendar": {
+        "post-1-ab-1960-07-26": {
+            "1": true
+        },
+        "8-ab-1960-07-26": {
+            "1": true
+        }
     }
 }

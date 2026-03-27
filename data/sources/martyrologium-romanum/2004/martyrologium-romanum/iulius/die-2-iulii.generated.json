@@ -6,5 +6,13 @@
         "6": {
             "1": "records/patrons/petrus/lux"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

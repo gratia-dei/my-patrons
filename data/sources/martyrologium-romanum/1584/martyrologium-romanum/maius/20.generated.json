@@ -3,5 +3,10 @@
         "7": {
             "1": "records/patrons/bernardinus/sen"
         }
+    },
+    "in-calendar": {
+        "7": {
+            "1": true
+        }
     }
 }

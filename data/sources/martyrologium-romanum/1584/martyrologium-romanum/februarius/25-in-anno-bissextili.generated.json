@@ -9,5 +9,16 @@
         "6": {
             "1": "records/patrons/modestus/tre"
         }
+    },
+    "in-calendar": {
+        "8": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "6": {
+            "1": true
+        }
     }
 }

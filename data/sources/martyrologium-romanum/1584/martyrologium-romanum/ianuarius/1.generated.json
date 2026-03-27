@@ -10,5 +10,17 @@
         "8": {
             "1": "records/patrons/fulgentius/rus"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "2": true,
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

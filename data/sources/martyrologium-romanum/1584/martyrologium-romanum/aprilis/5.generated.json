@@ -3,5 +3,10 @@
         "5": {
             "1": "records/patrons/vincentius/fer"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        }
     }
 }

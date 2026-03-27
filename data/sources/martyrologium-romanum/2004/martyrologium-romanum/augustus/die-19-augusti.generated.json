@@ -3,5 +3,10 @@
         "20": {
             "1": "records/patrons/thomas/sit"
         }
+    },
+    "in-calendar": {
+        "20": {
+            "1": true
+        }
     }
 }

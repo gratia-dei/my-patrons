@@ -6,5 +6,13 @@
         "3": {
             "1": "records/patrons/procopius/cae"
         }
+    },
+    "in-calendar": {
+        "4": {
+            "1": true
+        },
+        "3": {
+            "1": true
+        }
     }
 }

@@ -6,5 +6,13 @@
         "1": {
             "1": "records/patrons/urbanus/1pp"
         }
+    },
+    "in-calendar": {
+        "9": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

@@ -4,5 +4,11 @@
             "1": "records/patrons/rogatianus/car",
             "2": "records/patrons/felicissimus/rog"
         }
+    },
+    "in-calendar": {
+        "2": {
+            "2": true,
+            "1": true
+        }
     }
 }

@@ -9,5 +9,16 @@
         "1": {
             "1": "records/patrons/teresia/inf"
         }
+    },
+    "in-calendar": {
+        "15": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        }
     }
 }

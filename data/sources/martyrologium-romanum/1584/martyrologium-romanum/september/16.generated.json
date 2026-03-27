@@ -9,5 +9,16 @@
         "8": {
             "1": "records/patrons/agnes/mon"
         }
+    },
+    "in-calendar": {
+        "3": {
+            "2": true,
+            "1": true,
+            "4": true,
+            "3": true
+        },
+        "8": {
+            "1": true
+        }
     }
 }

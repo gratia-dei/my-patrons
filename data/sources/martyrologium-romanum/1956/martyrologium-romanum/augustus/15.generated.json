@@ -15,5 +15,22 @@
         "4": {
             "1": "records/patrons/tarsicius/aco"
         }
+    },
+    "in-calendar": {
+        "5": {
+            "1": true
+        },
+        "2": {
+            "1": true
+        },
+        "1": {
+            "1": true
+        },
+        "7": {
+            "1": true
+        },
+        "4": {
+            "1": true
+        }
     }
 }

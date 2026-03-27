@@ -9,5 +9,16 @@
             "6": "records/patrons/euticius/put",
             "7": "records/patrons/acutius/put"
         }
+    },
+    "in-calendar": {
+        "1": {
+            "7": true,
+            "3": true,
+            "6": true,
+            "2": true,
+            "1": true,
+            "5": true,
+            "4": true
+        }
     }
 }
