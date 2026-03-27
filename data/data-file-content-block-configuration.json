@@ -9,8 +9,6 @@
 
     "/sources/documents/": "DocumentContentBlock",
 
-    "/sources/popes/": "PopesContentBlock",
-
     "/sources/martyrologium-romanum/1584/editio/": "RomanMartyrologyEditionContentBlock",
     "/sources/martyrologium-romanum/1584/martyrologium-romanum/": "RomanMartyrologyDayElogiesSince1584ContentBlock",
     "/sources/martyrologium-romanum/1584/index-nominum-omnium-sanctorum-qui-in-hoc-martyrologio-continentur-ordine-alphabetico-descriptus/": "RomanMartyrologyIndexSince1584ContentBlock",
