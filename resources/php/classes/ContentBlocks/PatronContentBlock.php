@@ -63,7 +63,7 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         $variables['date-of-death'] = $dateOfDeath === [] ? self::UNKNOWN_SIGN : $dateOfDeath;
         $variables['beatification'] = $this->getDateWithType($mainFileData['beatified'] ?? []);
         $variables['canonization'] = $this->getDateWithType($mainFileData['canonized'] ?? []);
-        $variables['anniversaries-days'] = $this->getFormattedMonthsWithDays($mainFileData[self::PATRON_ANNIVERSARY_INDEX] ?? []);
+        $variables['feast-days'] = $this->getFormattedMonthsWithDays($mainFileData[self::PATRON_FEAST_INDEX] ?? []);
         $variables['order'] = empty($mainFileData['order'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order'];
         $variables['order-founder'] = empty($mainFileData['order-founder'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order-founder'];
         $variables['categories'] = count($categories) > 0 ? $categories : self::NON_EXISTENCE;

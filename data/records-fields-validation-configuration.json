@@ -112,11 +112,11 @@
             }
         },
 
-        "anniversary": {
+        "feast": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "anniversary": "array-value"
+                "feast": "array-value"
             }
         },
 

@@ -1,9 +1,6 @@
 {
     "fields": {
         "2001": {
-            "anniversary": [
-                "06-26"
-            ],
             "beatified/date": [
                 "2001-06-26"
             ],
@@ -22,6 +19,9 @@
             "epithets#la": [
                 "Pater pauperum",
                 "Tecto carentium sacerdos"
+            ],
+            "feast": [
+                "06-26"
             ],
             "forenames": [
                 "sigismundus"

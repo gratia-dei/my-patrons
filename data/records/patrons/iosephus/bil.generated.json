@@ -1,11 +1,11 @@
 {
     "fields": {
         "2001": {
-            "anniversary": [
-                "03-20"
-            ],
             "beatified/date": [
                 "2001-06-26"
+            ],
+            "feast": [
+                "03-20"
             ],
             "forenames": [
                 "iosephus"
