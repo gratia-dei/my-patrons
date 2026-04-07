@@ -4769,6 +4769,18 @@
         }
     },
     "04-06": {
+        "records/patrons/petrina/mor": {
+            "name": {
+                "it": "Pierina Morosini",
+                "la": "Petrina Morosini",
+                "en": "Petra Morosini",
+                "pl": "Piotra Morosini"
+            },
+            "sources": {
+                "reliable-death-anniversary": "6 IV",
+                "mr-2004": "6 IV: #15"
+            }
+        },
         "records/patrons/methodius/cyr": {
             "name": {
                 "la": "Methodius Thessalonicensis",

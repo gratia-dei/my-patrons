@@ -23577,6 +23577,38 @@
             }
         }
     },
+    "patrons/petrina": {
+        "names": {
+            "la": "Petrina",
+            "en": "Petra",
+            "pl": "Piotra",
+            "it": "Pierina"
+        }
+    },
+    "patrons/petrina/mor": {
+        "active": true,
+        "names": {
+            "it": "Pierina Morosini",
+            "la": "Petrina Morosini",
+            "en": "Petra Morosini",
+            "pl": "Piotra Morosini"
+        },
+        "died": [
+            "1957-04-06"
+        ],
+        "feasts": [],
+        "forenames": {
+            "forenames/petrina": {
+                "active": true,
+                "names": {
+                    "la": "Petrina",
+                    "en": "Petra",
+                    "pl": "Piotra",
+                    "it": "Pierina"
+                }
+            }
+        }
+    },
     "patrons/petronius": {
         "names": {
             "la": "Petronius",

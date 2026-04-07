@@ -1,0 +1,79 @@
+{
+    "names": {
+        "it": [
+            "Pierina Morosini"
+        ],
+        "la": [
+            "Petrina Morosini"
+        ],
+        "en": [
+            "Petra Morosini"
+        ],
+        "pl": [
+            "Piotra Morosini"
+        ]
+    },
+    "forenames": ["petrina"],
+    "surnames": [
+        {
+            "it": "Morosini"
+        }
+    ],
+    "epithets": [],
+
+    "active": true,
+
+    "born": ["1931-01-07"],
+    "died": ["1957-04-06"],
+    "beatified": {
+        "type": "ceremonially",
+        "date": "1987-10-04"
+    },
+    "canonized": null,
+    "doctor-of-the-church": null,
+    "feast": [],
+
+    "statuses": [],
+    "attributes": [],
+    "categories": ["femina", "martyr-fem", "virgo"],
+    "communities": {
+        "member": {},
+        "creator": {}
+    },
+
+    "companions": [],
+    "specially-venerated-persons": [],
+
+    "data-links": {
+        "mr-1584": ["..."],
+        "mr-1584-movable": ["..."],
+        "mr-1584-index": ["..."],
+
+        "mr-1956": ["..."],
+        "mr-1956-movable": ["..."],
+        "mr-1956-variations": ["..."],
+        "mr-1956-variations-movable": ["..."],
+        "mr-1956-index-sanctorum-1": ["..."],
+        "mr-1956-index-sanctorum-2": ["..."],
+        "mr-1956-index-sanctorum-3": ["..."],
+        "mr-1956-index-festorum": ["..."],
+        "mr-1956-index-locorum": ["..."],
+        "mr-1956-index-locorum-sine": ["..."],
+
+        "mr-2004": ["1:apr./6#15", "..."],
+        "mr-2004-movable": ["..."],
+        "mr-2004-index": ["..."],
+
+        "docs": ["..."]
+    },
+
+    "feasts": {},
+
+    "images": {},
+
+    "sources": {
+        "causesanti": "https://www.causesanti.va/it/santi-e-beati/pierina-morosini.html",
+        "gcatholic": "https://gcatholic.org/p/67931",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Pierina_Morosini"
+    }
+}
