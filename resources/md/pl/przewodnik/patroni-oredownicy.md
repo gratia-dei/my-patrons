@@ -13,7 +13,7 @@ Pamiętaj, że:
 - można zaprosić tylko **jednego Patrona Orędownika** każdego dnia!
 - z określonym Uczestnikiem możesz wspólnie zaprosić Patronów Orędowników **nie częściej niż raz w miesiącu kalendarzowym**!
 
-## Jak zaprosić Patrona Opiekuna? ##
+## Jak zaprosić Patrona Orędownika? ##
 **Konkretnego Patrona możesz zaprosić do grona Twoich Orędowników tylko raz**! W tym celu kliknij w edytorze wyzwań przycisk **_„Dodaj nowe wyzwanie“_** i wybierz typ wyzwania: **_„Patron Orędownik [R]”_**.
 
 **Konieczne wymagania** zaproszenia:
