@@ -27,7 +27,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1942-04-10"],
+        "death": {
+            "date": ["1942-04-10"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1999-06-13"

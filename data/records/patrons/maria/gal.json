@@ -50,7 +50,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1791-10-07"],
+        "death": {
+            "date": ["1791-10-07"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "equipollently",
         "date": "1843-11-12"

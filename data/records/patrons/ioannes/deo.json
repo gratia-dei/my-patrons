@@ -32,7 +32,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1550-03-08"],
+        "death": {
+            "date": ["1550-03-08"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "equipollently",
         "date": "1630-09-21"

@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1942-08-29"],
+        "death": {
+            "date": ["1942-08-29"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2002-08-18"

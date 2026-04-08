@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["969"],
+        "death": {
+            "date": ["969"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

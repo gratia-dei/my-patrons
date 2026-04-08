@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1894-07-29"],
+        "death": {
+            "date": ["1894-07-29"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2008-10-19"

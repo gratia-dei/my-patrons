@@ -26,7 +26,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1608-06-23"],
+        "death": {
+            "date": ["1608-06-23"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "type": "ceremonially",
         "date": "1970-10-25"

@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1332-11-19"],
+        "death": {
+            "date": ["1332-11-19"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1839-05-26"

@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1447-03-06"],
+        "death": {
+            "date": ["1447-03-06"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1740-01-23"

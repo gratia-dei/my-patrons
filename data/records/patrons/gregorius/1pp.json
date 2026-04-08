@@ -41,7 +41,11 @@
             "place": null,
             "description": null
         },
-    "died": ["604-03-12"],
+        "death": {
+            "date": ["604-03-12"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1298-03-03",
     },
 

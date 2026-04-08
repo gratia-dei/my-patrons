@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "died": ["2006-10-12"],
+        "death": {
+            "date": ["2006-10-12"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2020-10-10"

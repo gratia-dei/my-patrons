@@ -26,7 +26,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1893-04-08"],
+        "death": {
+            "date": ["1893-04-08"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2004-04-25"

@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": ["444-06-27"],
+        "death": {
+            "date": ["444-06-27"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1882-07-28",
     },
 

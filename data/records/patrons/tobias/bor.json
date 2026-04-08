@@ -32,7 +32,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1937-02-11"],
+        "death": {
+            "date": ["1937-02-11"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1992-10-25"

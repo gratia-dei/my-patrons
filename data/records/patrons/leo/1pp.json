@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "died": ["461-11-10"],
+        "death": {
+            "date": ["461-11-10"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1754-10-15",
     },
 

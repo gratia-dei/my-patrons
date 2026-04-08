@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": ["~134", "~150"],
+        "death": {
+            "date": ["~134", "~150"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

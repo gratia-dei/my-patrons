@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1820-03-15"],
+        "death": {
+            "date": ["1820-03-15"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1888-01-29"

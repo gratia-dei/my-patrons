@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1440-03-09"],
+        "death": {
+            "date": ["1440-03-09"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "type": "ceremonially",
         "date": "1608-05-29"

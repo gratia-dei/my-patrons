@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["386"],
+        "death": {
+            "date": ["386"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1882-07-28",
     },
 

@@ -36,7 +36,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1914-08-20"],
+        "death": {
+            "date": ["1914-08-20"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1951-06-03"

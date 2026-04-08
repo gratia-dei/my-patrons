@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1787-08-01"],
+        "death": {
+            "date": ["1787-08-01"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1816-09-15"

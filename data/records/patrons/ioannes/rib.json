@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1611-01-06"],
+        "death": {
+            "date": ["1611-01-06"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1796-09-18"

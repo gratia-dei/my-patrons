@@ -27,7 +27,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1981-05-28"],
+        "death": {
+            "date": ["1981-05-28"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2021-09-12"

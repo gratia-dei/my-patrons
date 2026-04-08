@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["865-02-03"],
+        "death": {
+            "date": ["865-02-03"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

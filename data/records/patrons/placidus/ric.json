@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1915-03-25"],
+        "death": {
+            "date": ["1915-03-25"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

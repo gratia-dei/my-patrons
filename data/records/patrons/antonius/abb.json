@@ -28,7 +28,11 @@
             "place": null,
             "description": null
         },
-    "died": ["356"],
+        "death": {
+            "date": ["356"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

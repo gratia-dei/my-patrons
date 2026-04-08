@@ -26,7 +26,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1274-03-07"],
+        "death": {
+            "date": ["1274-03-07"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1567-04-11",
     },
 

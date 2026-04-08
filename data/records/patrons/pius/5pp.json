@@ -36,7 +36,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1572-05-01"],
+        "death": {
+            "date": ["1572-05-01"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1672-04-27"

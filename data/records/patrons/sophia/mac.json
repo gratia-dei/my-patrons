@@ -30,7 +30,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1650-04-01"],
+        "death": {
+            "date": ["1650-04-01"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2013-06-09"

@@ -30,7 +30,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1584-11-03"],
+        "death": {
+            "date": ["1584-11-03"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "type": "ceremonially",
         "date": "1610-11-01"

@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1366-01-06"],
+        "death": {
+            "date": ["1366-01-06"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

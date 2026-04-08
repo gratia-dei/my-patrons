@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1792-09-03"],
+        "death": {
+            "date": ["1792-09-03"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1926-10-17"

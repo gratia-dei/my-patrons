@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1473-12-24"],
+        "death": {
+            "date": ["1473-12-24"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1676-03-29"

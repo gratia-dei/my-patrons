@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1815-09-14"],
+        "death": {
+            "date": ["1815-09-14"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1900-05-27"

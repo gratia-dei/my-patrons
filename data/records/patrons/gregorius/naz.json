@@ -34,7 +34,11 @@
             "place": null,
             "description": null
         },
-    "died": ["~389"],
+        "death": {
+            "date": ["~389"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1568-07-09",
     },
 

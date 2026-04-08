@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1484-09-29"],
+        "death": {
+            "date": ["1484-09-29"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "type": "ceremonially",
         "date": "1997-06-10"

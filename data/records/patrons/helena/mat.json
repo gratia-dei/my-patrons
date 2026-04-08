@@ -37,7 +37,11 @@
             "place": null,
             "description": null
         },
-    "died": ["~329"],
+        "death": {
+            "date": ["~329"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

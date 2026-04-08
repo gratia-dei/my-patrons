@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1505-05-04"],
+        "death": {
+            "date": ["1505-05-04"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

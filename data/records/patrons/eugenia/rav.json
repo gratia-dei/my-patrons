@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1900-12-30"],
+        "death": {
+            "date": ["1900-12-30"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2003-04-27"

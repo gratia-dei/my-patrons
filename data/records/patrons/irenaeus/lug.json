@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["~202"],
+        "death": {
+            "date": ["~202"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "2022-01-21",
     },
 

@@ -31,7 +31,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1419-04-05"],
+        "death": {
+            "date": ["1419-04-05"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

@@ -40,7 +40,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1878-02-22"],
+        "death": {
+            "date": ["1878-02-22"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1997-10-12"

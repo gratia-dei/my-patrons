@@ -32,7 +32,11 @@
             "place": null,
             "description": null
         },
-    "died": ["2005-04-02"],
+        "death": {
+            "date": ["2005-04-02"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2011-05-01"

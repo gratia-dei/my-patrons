@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": ["869-02-14"],
+        "death": {
+            "date": ["869-02-14"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

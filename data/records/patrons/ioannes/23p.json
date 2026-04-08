@@ -36,7 +36,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1963-06-03"],
+        "death": {
+            "date": ["1963-06-03"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2000-09-03"

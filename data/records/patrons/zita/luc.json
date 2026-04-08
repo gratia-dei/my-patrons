@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1278-04-27"],
+        "death": {
+            "date": ["1278-04-27"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

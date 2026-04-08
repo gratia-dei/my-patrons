@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1885-06-27"],
+        "death": {
+            "date": ["1885-06-27"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1990-11-04"

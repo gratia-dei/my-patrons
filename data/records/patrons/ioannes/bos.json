@@ -38,7 +38,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1888-01-31"],
+        "death": {
+            "date": ["1888-01-31"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1929-06-02"

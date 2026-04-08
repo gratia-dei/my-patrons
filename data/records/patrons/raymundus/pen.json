@@ -28,7 +28,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1275-01-06"],
+        "death": {
+            "date": ["1275-01-06"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "type": "ceremonially",
         "date": "1601-04-29"

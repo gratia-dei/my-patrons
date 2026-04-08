@@ -28,7 +28,11 @@
             "place": null,
             "description": null
         },
-    "died": ["~450"],
+        "death": {
+            "date": ["~450"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1729-02-19",
     },
 

@@ -22,7 +22,11 @@
             "place": null,
             "description": null
         },
-    "died": [">50", "<80"],
+        "death": {
+            "date": [">50", "<80"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

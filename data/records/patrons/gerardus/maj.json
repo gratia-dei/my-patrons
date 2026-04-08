@@ -31,7 +31,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1755-10-16"],
+        "death": {
+            "date": ["1755-10-16"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1893-01-29"

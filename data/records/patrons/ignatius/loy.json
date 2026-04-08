@@ -29,7 +29,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1556-07-31"],
+        "death": {
+            "date": ["1556-07-31"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "1609-07-27"

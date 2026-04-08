@@ -25,7 +25,11 @@
             "place": null,
             "description": null
         },
-    "died": [">301", "<400"],
+        "death": {
+            "date": [">301", "<400"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

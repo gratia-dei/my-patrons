@@ -32,7 +32,11 @@
             "place": null,
             "description": null
         },
-    "died": ["1915-06-11"],
+        "death": {
+            "date": ["1915-06-11"],
+            "place": null,
+            "description": null
+        },
     "beatified": {
         "type": "ceremonially",
         "date": "2001-10-07"
