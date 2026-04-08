@@ -35,9 +35,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1888-01-15"
-    },
+        "canonization": {
+            "date": ["1888-01-15"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["02-17"],

@@ -46,9 +46,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1712-05-22"
-    },
+        "canonization": {
+            "date": ["1712-05-22"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["04-30"],

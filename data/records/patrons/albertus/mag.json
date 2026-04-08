@@ -63,9 +63,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1931-12-16"
-    },
+        "canonization": {
+            "date": ["1931-12-16"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1931-12-16",
     },
 

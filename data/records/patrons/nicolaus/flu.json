@@ -35,9 +35,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1947-05-15"
-    },
+        "canonization": {
+            "date": ["1947-05-15"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["03-21"],

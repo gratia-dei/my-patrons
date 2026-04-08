@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2000-05-21"
-    },
+        "canonization": {
+            "date": ["2000-05-21"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["05-25"],

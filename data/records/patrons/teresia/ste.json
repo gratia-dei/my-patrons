@@ -50,9 +50,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1998-10-11"
-    },
+        "canonization": {
+            "date": ["1998-10-11"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["08-09"],

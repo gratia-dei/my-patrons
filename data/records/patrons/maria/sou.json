@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1933-12-08"
-    },
+        "canonization": {
+            "date": ["1933-12-08"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["04-16"],

@@ -35,9 +35,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1988-10-02"
-    },
+        "canonization": {
+            "date": ["1988-10-02"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["04-10"],

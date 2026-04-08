@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1975-10-26"
-    },
+        "canonization": {
+            "date": ["1975-10-26"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["07-31"],

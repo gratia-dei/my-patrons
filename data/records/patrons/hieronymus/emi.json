@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1767-07-16"
-    },
+        "canonization": {
+            "date": ["1767-07-16"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["02-08"],

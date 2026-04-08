@@ -27,9 +27,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1997-06-10"
-    },
+        "canonization": {
+            "date": ["1997-06-10"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["09-29"],

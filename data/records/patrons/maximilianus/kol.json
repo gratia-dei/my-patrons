@@ -38,9 +38,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1982-10-10"
-    },
+        "canonization": {
+            "date": ["1982-10-10"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["08-14"],

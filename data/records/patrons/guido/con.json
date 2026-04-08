@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2011-10-23"
-    },
+        "canonization": {
+            "date": ["2011-10-23"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["11-05"],

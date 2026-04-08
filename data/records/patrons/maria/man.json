@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2022-05-15"
-    },
+        "canonization": {
+            "date": ["2022-05-15"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["02-02"],

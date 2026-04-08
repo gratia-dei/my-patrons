@@ -54,9 +54,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1925-05-17"
-    },
+        "canonization": {
+            "date": ["1925-05-17"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1997-10-19",
     },
 

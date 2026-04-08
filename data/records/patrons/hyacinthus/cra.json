@@ -27,9 +27,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1594-04-17"
-    },
+        "canonization": {
+            "date": ["1594-04-17"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["08-15"],

@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1934-03-11"
-    },
+        "canonization": {
+            "date": ["1934-03-11"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["03-15", "05-09"],

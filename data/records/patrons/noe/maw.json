@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1964-10-18"
-    },
+        "canonization": {
+            "date": ["1964-10-18"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

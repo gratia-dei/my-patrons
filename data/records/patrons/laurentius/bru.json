@@ -35,9 +35,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1881-12-08"
-    },
+        "canonization": {
+            "date": ["1881-12-08"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1959-03-19",
     },
 

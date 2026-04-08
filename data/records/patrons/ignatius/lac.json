@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1951-10-21"
-    },
+        "canonization": {
+            "date": ["1951-10-21"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["05-11"],

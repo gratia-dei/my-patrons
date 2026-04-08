@@ -32,9 +32,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2007-06-03"
-    },
+        "canonization": {
+            "date": ["2007-06-03"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["07-18"],

@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1900-05-24"
-    },
+        "canonization": {
+            "date": ["1900-05-24"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["05-22"],

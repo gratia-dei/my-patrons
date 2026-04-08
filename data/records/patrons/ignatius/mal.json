@@ -42,9 +42,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2025-10-19"
-    },
+        "canonization": {
+            "date": ["2025-10-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["06-11"],

@@ -51,9 +51,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1622-03-12"
-    },
+        "canonization": {
+            "date": ["1622-03-12"],
+            "place": null,
+            "description": null
+        },
     "doctor-of-the-church": "1970-09-27",
     },
 

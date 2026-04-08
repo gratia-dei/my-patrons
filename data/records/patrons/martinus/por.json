@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1962-05-06"
-    },
+        "canonization": {
+            "date": ["1962-05-06"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["11-03"],

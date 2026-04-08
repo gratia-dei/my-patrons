@@ -46,9 +46,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1669-04-28"
-    },
+        "canonization": {
+            "date": ["1669-04-28"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["05-25"],

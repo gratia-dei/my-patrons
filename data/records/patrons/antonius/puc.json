@@ -43,9 +43,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1962-12-09"
-    },
+        "canonization": {
+            "date": ["1962-12-09"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["01-12"],

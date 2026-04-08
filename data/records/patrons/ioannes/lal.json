@@ -43,9 +43,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1930-06-29"
-    },
+        "canonization": {
+            "date": ["1930-06-29"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

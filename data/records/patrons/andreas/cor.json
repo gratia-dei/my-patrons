@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1629-04-22"
-    },
+        "canonization": {
+            "date": ["1629-04-22"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["01-06"],

@@ -41,9 +41,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1977-10-09"
-    },
+        "canonization": {
+            "date": ["1977-10-09"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["07-24"],

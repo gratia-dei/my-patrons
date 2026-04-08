@@ -41,9 +41,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1737-06-16"
-    },
+        "canonization": {
+            "date": ["1737-06-16"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["09-27"],

@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "2000-04-30"
-    },
+        "canonization": {
+            "date": ["2000-04-30"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["10-05"],

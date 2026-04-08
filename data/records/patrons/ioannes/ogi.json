@@ -36,9 +36,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1976-10-17"
-    },
+        "canonization": {
+            "date": ["1976-10-17"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["03-10"],

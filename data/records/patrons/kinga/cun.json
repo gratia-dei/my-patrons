@@ -28,9 +28,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1999-06-16"
-    },
+        "canonization": {
+            "date": ["1999-06-16"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["03-03"],

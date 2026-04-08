@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1988-06-19"
-    },
+        "canonization": {
+            "date": ["1988-06-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["11-24"],

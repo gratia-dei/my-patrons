@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1920-05-13"
-    },
+        "canonization": {
+            "date": ["1920-05-13"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["10-16", "10-17"],

@@ -31,9 +31,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1970-10-25"
-    },
+        "canonization": {
+            "date": ["1970-10-25"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["06-23"],

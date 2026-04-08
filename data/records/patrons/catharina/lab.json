@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1947-07-27"
-    },
+        "canonization": {
+            "date": ["1947-07-27"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["12-31"],

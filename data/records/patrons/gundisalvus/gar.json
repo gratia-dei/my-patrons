@@ -39,9 +39,11 @@
             "place": null,
             "description": null
         },
-    "canonized": {
-        "date": "1862-06-08"
-    },
+        "canonization": {
+            "date": ["1862-06-08"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["02-05"],
