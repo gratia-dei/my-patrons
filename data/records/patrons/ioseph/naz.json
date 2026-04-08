@@ -28,9 +28,6 @@
     "events": {
     "born": ["<-1"],
     "died": [">1"],
-    "beatified": null,
-    "canonized": null,
-    "doctor-of-the-church": null,
     },
 
     "feast": [],

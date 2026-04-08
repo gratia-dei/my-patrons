@@ -24,12 +24,10 @@
     "events": {
     "born": ["~1550"],
     "died": ["1588-08-30"],
-    "beatified": null,
     "canonized": {
         "type": "ceremonially",
         "date": "1970-10-25"
     },
-    "doctor-of-the-church": null,
     },
 
     "feast": ["08-30"],

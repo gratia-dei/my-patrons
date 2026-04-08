@@ -26,9 +26,6 @@
     "events": {
     "born": [">1190", "<1200"],
     "died": ["1236-02-16"],
-    "beatified": null,
-    "canonized": null,
-    "doctor-of-the-church": null,
     },
 
     "feast": [],

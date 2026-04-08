@@ -23,9 +23,6 @@
     "events": {
     "born": ["~301"],
     "died": ["~304"],
-    "beatified": null,
-    "canonized": null,
-    "doctor-of-the-church": null,
     },
 
     "feast": [],

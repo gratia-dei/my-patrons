@@ -19,12 +19,10 @@
     "events": {
     "born": ["~1183"],
     "died": ["1257-08-15"],
-    "beatified": null,
     "canonized": {
         "type": "ceremonially",
         "date": "1594-04-17"
     },
-    "doctor-of-the-church": null,
     },
 
     "feast": ["08-15"],

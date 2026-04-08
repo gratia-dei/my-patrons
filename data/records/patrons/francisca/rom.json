@@ -30,12 +30,10 @@
     "events": {
     "born": ["1384"],
     "died": ["1440-03-09"],
-    "beatified": null,
     "canonized": {
         "type": "ceremonially",
         "date": "1608-05-29"
     },
-    "doctor-of-the-church": null,
     },
 
     "feast": ["03-09"],

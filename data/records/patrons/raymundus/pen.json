@@ -25,12 +25,10 @@
     "events": {
     "born": [">1170", "<1175"],
     "died": ["1275-01-06"],
-    "beatified": null,
     "canonized": {
         "type": "ceremonially",
         "date": "1601-04-29"
     },
-    "doctor-of-the-church": null,
     },
 
     "feast": ["01-07"],

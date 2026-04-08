@@ -22,9 +22,6 @@
     "events": {
     "born": ["~778"],
     "died": ["~845"],
-    "beatified": null,
-    "canonized": null,
-    "doctor-of-the-church": null,
     },
 
     "feast": [],

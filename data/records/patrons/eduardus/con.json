@@ -25,9 +25,6 @@
     "events": {
     "born": ["~1003"],
     "died": ["1066-01-05"],
-    "beatified": null,
-    "canonized": null,
-    "doctor-of-the-church": null,
     },
 
     "feast": [],

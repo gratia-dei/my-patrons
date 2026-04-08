@@ -19,12 +19,10 @@
     "events": {
     "born": ["~1414"],
     "died": ["1484-09-29"],
-    "beatified": null,
     "canonized": {
         "type": "ceremonially",
         "date": "1997-06-10"
     },
-    "doctor-of-the-church": null,
     },
 
     "feast": ["09-29"],
