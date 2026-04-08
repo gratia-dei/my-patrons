@@ -16,18 +16,7 @@
 
     "active": true,
 
-    "events": {
-        "birth": {
-            "date": [],
-            "place": null,
-            "description": null
-        },
-        "death": {
-            "date": [],
-            "place": null,
-            "description": null
-        },
-    },
+    "events": {},
 
     "feast": [],
 

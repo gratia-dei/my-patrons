@@ -32,11 +32,9 @@
             "description": null
         },
     "beatified": {
-        "type": "ceremonially",
         "date": "1753-02-24"
     },
     "canonized": {
-        "type": "ceremonially",
         "date": "1767-07-16"
     },
     },

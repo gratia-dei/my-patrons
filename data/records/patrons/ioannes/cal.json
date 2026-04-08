@@ -46,11 +46,9 @@
             "description": null
         },
     "beatified": {
-        "type": "ceremonially",
         "date": "1789-05-24"
     },
     "canonized": {
-        "type": "ceremonially",
         "date": "1839-05-26"
     },
     },

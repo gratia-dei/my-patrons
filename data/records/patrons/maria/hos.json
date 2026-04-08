@@ -35,11 +35,9 @@
             "description": null
         },
     "beatified": {
-        "type": "ceremonially",
         "date": "1900-10-07"
     },
     "canonized": {
-        "type": "ceremonially",
         "date": "2001-11-25"
     },
     },
