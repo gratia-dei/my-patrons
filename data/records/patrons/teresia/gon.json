@@ -35,6 +35,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1910-08-26"],
     "died": ["1997-09-05"],
     "beatified": {
@@ -46,6 +47,7 @@
         "date": "2016-09-04"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["09-05"],
 

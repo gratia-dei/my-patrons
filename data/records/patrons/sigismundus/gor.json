@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1845-11-01"],
     "died": ["1920-01-01"],
     "beatified": {
@@ -31,6 +32,7 @@
         "date": "2005-10-23"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["01-01"],
 

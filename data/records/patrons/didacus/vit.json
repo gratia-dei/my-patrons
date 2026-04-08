@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1627-11-12"],
     "died": ["1672-04-02"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["04-02"],
 

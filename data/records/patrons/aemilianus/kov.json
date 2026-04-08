@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1884-08-20"],
     "died": ["1944-03-25"],
     "beatified": {
@@ -35,6 +36,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

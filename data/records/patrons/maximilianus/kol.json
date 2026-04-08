@@ -22,6 +22,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1894-01-08"],
     "died": ["1941-08-14"],
     "beatified": {
@@ -33,6 +34,7 @@
         "date": "1982-10-10"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["08-14"],
 

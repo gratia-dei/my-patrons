@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1768"],
     "died": ["1814-11-07"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "2000-10-01"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["07-09"],
 

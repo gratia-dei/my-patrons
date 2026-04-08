@@ -25,11 +25,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~305"],
     "died": ["373-06-09", "378-06-09"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": "1920-10-05",
+    },
 
     "feast": [],
 

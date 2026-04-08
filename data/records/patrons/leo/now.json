@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1913-06-28"],
     "died": ["1939-10-31"],
     "beatified": {
@@ -28,6 +29,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-31"],
 

@@ -16,11 +16,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~378"],
     "died": ["444-06-27"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": "1882-07-28",
+    },
 
     "feast": [],
 

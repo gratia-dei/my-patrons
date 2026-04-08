@@ -30,6 +30,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1412-01-06"],
     "died": ["1431-05-30"],
     "beatified": {
@@ -41,6 +42,7 @@
         "date": "1920-05-16"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["05-30"],
 

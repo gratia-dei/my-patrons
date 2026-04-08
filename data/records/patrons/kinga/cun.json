@@ -17,6 +17,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1234-03-05"],
     "died": ["1292-07-24"],
     "beatified": null,
@@ -25,6 +26,7 @@
         "date": "1999-06-16"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-03"],
 

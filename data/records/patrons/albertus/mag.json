@@ -47,6 +47,7 @@
 
     "active": true,
 
+    "events": {
     "born": [">1195", "<1206"],
     "died": ["1280-11-15"],
     "beatified": {
@@ -58,6 +59,7 @@
         "date": "1931-12-16"
     },
     "doctor-of-the-church": "1931-12-16",
+    },
 
     "feast": ["11-15"],
 

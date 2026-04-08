@@ -20,11 +20,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1090", "~1091"],
     "died": ["1153-08-20"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": "1830-08-20",
+    },
 
     "feast": [],
 

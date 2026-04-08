@@ -21,6 +21,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1913-01-13"],
     "died": ["1942-04-10"],
     "beatified": {
@@ -29,6 +30,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["04-10"],
 

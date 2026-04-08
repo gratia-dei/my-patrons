@@ -23,11 +23,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["1665-06-19"],
     "died": ["1717-11-07"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1931-01-07"],
     "died": ["1957-04-06"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

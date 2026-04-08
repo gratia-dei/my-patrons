@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1651-04-30"],
     "died": ["1719-04-07"],
     "beatified": {
@@ -34,6 +35,7 @@
         "date": "1900-05-24"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["04-07"],
 

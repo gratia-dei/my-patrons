@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1845-01-04"],
     "died": ["1900-12-30"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-24"],
 

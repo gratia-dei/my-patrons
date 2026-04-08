@@ -21,6 +21,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1865-09-04"],
     "died": ["1935-03-24"],
     "beatified": {
@@ -29,6 +30,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-24"],
 

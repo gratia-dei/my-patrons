@@ -30,6 +30,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1556-06-29"],
     "died": ["1625-03-05"],
     "beatified": {
@@ -38,6 +39,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-05"],
 

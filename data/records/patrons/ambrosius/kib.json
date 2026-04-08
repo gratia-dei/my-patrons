@@ -24,6 +24,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1868"],
     "died": ["1886-06-03"],
     "beatified": {
@@ -35,6 +36,7 @@
         "date": "1964-10-18"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["06-03"],
 

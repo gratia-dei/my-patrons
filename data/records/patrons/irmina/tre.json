@@ -19,11 +19,13 @@
 
     "active": true,
 
+    "events": {
     "born": [],
     "died": ["~710"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

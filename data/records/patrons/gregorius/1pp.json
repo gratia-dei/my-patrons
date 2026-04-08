@@ -35,11 +35,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["540"],
     "died": ["604-03-12"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": "1298-03-03",
+    },
 
     "feast": [],
 

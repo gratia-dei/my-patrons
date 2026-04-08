@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1819-04-16"],
     "died": ["1892-01-12"],
     "beatified": {
@@ -38,6 +39,7 @@
         "date": "1962-12-09"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["01-12"],
 

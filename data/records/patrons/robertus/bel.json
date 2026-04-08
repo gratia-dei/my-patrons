@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1542-10-04"],
     "died": ["1621-09-17"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "1930-06-29"
     },
     "doctor-of-the-church": "1931-09-17",
+    },
 
     "feast": ["09-17"],
 

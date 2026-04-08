@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1896-09-15"],
     "died": [">1942-10-14", "<1942-10-30"],
     "beatified": {
@@ -28,6 +29,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-14"],
 

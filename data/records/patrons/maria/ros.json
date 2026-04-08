@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1813-11-06"],
     "died": ["1855-12-15"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "1954-06-12"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["12-15"],
 

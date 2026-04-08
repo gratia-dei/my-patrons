@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1882-08-05"],
     "died": ["1958-06-08"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["06-08"],
 

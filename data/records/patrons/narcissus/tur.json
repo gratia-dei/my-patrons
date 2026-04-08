@@ -21,6 +21,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1879-09-19"],
     "died": ["1942-03-19"],
     "beatified": {
@@ -29,6 +30,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-19"],
 

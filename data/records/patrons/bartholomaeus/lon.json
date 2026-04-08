@@ -25,6 +25,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1841-02-10"],
     "died": ["1926-10-05"],
     "beatified": {
@@ -36,6 +37,7 @@
         "date": "2025-10-19"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-05"],
 

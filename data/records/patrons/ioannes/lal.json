@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": [],
     "died": ["1646-10-19"],
     "beatified": {
@@ -38,6 +39,7 @@
         "date": "1930-06-29"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

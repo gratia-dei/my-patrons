@@ -34,6 +34,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1868-04-29"],
     "died": ["1889-11-02"],
     "beatified": {
@@ -42,6 +43,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1947-09-14"],
     "died": ["1984-10-19"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-19"],
 

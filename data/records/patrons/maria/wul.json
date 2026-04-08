@@ -34,6 +34,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1833-02-19"],
     "died": ["1907-12-25"],
     "beatified": {
@@ -42,6 +43,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["12-25"],
 

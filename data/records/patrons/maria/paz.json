@@ -30,6 +30,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1566-04-02"],
     "died": ["1607-05-25"],
     "beatified": {
@@ -41,6 +42,7 @@
         "date": "1669-04-28"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["05-25"],
 

@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1384"],
     "died": ["1440-03-09"],
     "beatified": null,
@@ -35,6 +36,7 @@
         "date": "1608-05-29"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-09"],
 

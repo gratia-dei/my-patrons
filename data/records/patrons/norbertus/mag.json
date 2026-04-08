@@ -20,11 +20,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1080"],
     "died": ["1134-06-06"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

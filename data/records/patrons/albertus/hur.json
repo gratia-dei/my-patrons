@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1901-01-22"],
     "died": ["1952-08-18"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "2005-10-23"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["08-13"],
 

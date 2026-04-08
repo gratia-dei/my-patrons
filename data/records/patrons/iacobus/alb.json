@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1884-04-04"],
     "died": ["1971-11-26"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["11-26"],
 

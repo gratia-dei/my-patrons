@@ -24,6 +24,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1302-11-30"],
     "died": ["1373-01-06", "1374-01-06"],
     "beatified": {
@@ -35,6 +36,7 @@
         "date": "1629-04-22"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["01-06"],
 

@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1820-05-20"],
     "died": ["1885-06-27"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["06-27"],
 

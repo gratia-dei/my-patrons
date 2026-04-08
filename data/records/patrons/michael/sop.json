@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1888-11-01"],
     "died": ["1975-02-15"],
     "beatified": {
@@ -28,6 +29,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["02-15"],
 

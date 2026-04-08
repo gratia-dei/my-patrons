@@ -26,11 +26,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~629"],
     "died": ["901-02-12"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

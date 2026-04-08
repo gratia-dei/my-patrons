@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1912-10-17"],
     "died": ["1963-10-30"],
     "beatified": {
@@ -35,6 +36,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-30"],
 

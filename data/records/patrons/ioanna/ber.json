@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1922-10-04"],
     "died": ["1962-04-28"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "2004-05-16"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["04-28"],
 

@@ -24,6 +24,7 @@
 
     "active": true,
 
+    "events": {
     "born": [],
     "died": ["1570-07-16"],
     "beatified": {
@@ -32,6 +33,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["01-19"],
 

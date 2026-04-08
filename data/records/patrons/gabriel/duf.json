@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1750-12-08"],
     "died": ["1815-09-14"],
     "beatified": {
@@ -38,6 +39,7 @@
         "date": "2000-10-01"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["07-09"],
 

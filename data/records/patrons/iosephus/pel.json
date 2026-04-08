@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1842-01-17"],
     "died": ["1924-03-28"],
     "beatified": {
@@ -31,6 +32,7 @@
         "date": "2003-05-18"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["03-28"],
 

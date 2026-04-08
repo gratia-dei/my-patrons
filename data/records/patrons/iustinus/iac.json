@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1800-10-09"],
     "died": ["1860-07-31"],
     "beatified": {
@@ -34,6 +35,7 @@
         "date": "1975-10-26"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["07-31"],
 

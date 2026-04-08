@@ -25,6 +25,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1915-01-17"],
     "died": ["1941-05-08"],
     "beatified": {
@@ -33,6 +34,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["05-08"],
 

@@ -34,11 +34,13 @@
 
     "active": true,
 
+    "events": {
     "born": [],
     "died": ["~62"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

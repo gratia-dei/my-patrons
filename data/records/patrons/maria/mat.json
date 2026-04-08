@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1906-02-08"],
     "died": ["1943-08-01"],
     "beatified": {
@@ -31,6 +32,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["08-01"],
 

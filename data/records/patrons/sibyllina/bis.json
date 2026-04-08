@@ -23,11 +23,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["1287"],
     "died": ["1367-03-19"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

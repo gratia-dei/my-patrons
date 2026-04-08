@@ -23,6 +23,7 @@
 
     "active": true,
 
+    "events": {
     "born": [],
     "died": ["1645-07-16"],
     "beatified": {
@@ -34,6 +35,7 @@
         "date": "2017-10-15"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

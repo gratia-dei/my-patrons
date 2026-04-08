@@ -20,11 +20,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1566"],
     "died": ["1588-08-30"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

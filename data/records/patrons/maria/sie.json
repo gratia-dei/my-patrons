@@ -29,6 +29,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1842-11-12"],
     "died": ["1902-11-21"],
     "beatified": {
@@ -37,6 +38,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["11-21"],
 

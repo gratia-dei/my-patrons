@@ -32,11 +32,13 @@
 
     "active": true,
 
+    "events": {
     "born": ["1565-01-21"],
     "died": ["1624-04-17"],
     "beatified": null,
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": [],
 

@@ -27,6 +27,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1991-05-03"],
     "died": ["2006-10-12"],
     "beatified": {
@@ -38,6 +39,7 @@
         "date": "2025-04-27"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["10-12"],
 

@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["~1574"],
     "died": ["1608-06-23"],
     "beatified": null,
@@ -28,6 +29,7 @@
         "date": "1970-10-25"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["06-23"],
 

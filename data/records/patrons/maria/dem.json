@@ -20,6 +20,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1901-03-26"],
     "died": ["1927-05-08"],
     "beatified": {
@@ -28,6 +29,7 @@
     },
     "canonized": null,
     "doctor-of-the-church": null,
+    },
 
     "feast": ["05-08"],
 

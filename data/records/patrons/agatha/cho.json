@@ -26,6 +26,7 @@
 
     "active": true,
 
+    "events": {
     "born": ["1790"],
     "died": ["1839-09-26"],
     "beatified": {
@@ -37,6 +38,7 @@
         "date": "1984-05-06"
     },
     "doctor-of-the-church": null,
+    },
 
     "feast": ["09-20"],
 
