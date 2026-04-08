@@ -5,6 +5,9 @@ class GenerateDateDataFileProcedure extends Procedure
     private const FILTER_PATRONS = 'patrons';
     private const FILTER_FEASTS = 'feasts';
 
+    private const DATA_FIELD_EVENTS = 'events';
+    private const DATA_FIELD_DATE = 'date';
+
     private const RECORDS_TREE_MODE = 'records-tree';
     private const DATES_TREE_MODE = 'dates-tree';
     private const MOVABLE_DATES_FILE_MODE = 'movable-dates-file';
@@ -18,7 +21,7 @@ class GenerateDateDataFileProcedure extends Procedure
     ];
 
     private const RECORD_TREE_SOURCE_FIELDS = [
-        'reliable-death-anniversary' => self::PATRON_DIED_INDEX,
+        'reliable-death-anniversary' => self::PATRON_DEATH_INDEX,
         'feast' => self::PATRON_FEAST_INDEX,
     ];
     private const RECORD_TREE_METHODS = [
@@ -253,7 +256,7 @@ class GenerateDateDataFileProcedure extends Procedure
 
             $fileData = $this->getOriginalJsonFileContentArrayForFullPath($path) ?? [];
 
-            $monthsWithDays = $this->$method($fileData[$sourceField] ?? []);
+            $monthsWithDays = $this->$method($fileData[self::DATA_FIELD_EVENTS][$sourceField][self::DATA_FIELD_DATE] ?? $fileData[$sourceField] ?? []);
             foreach ($monthsWithDays as $monthWithDay) {
                 $replacedMonthWithDay = str_replace(
                     [self::LEAP_YEARS_ONLY_SEPARATOR, self::NO_LEAP_YEARS_ONLY_SEPARATOR],

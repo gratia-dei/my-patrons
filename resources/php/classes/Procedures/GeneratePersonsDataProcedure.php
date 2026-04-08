@@ -14,8 +14,10 @@ class GeneratePersonsDataProcedure extends Procedure
     private const FORENAMES_PATH = 'forenames';
     private const FORENAMES_ROOT_PATH = 'records/' . self::FORENAMES_PATH;
 
+    private const DATA_FIELD_EVENTS = 'events';
+    private const DATA_FIELD_DATE = 'date';
     private const DATA_FIELD_NAMES = 'names';
-    private const DATA_FIELD_DIED = 'died';
+    private const DATA_FIELD_DEATH = 'death';
     private const DATA_FIELD_CATEGORIES = 'categories';
     private const DATA_FIELD_FEASTS = 'feasts';
     private const DATA_FIELD_FORENAMES = 'forenames';
@@ -173,7 +175,7 @@ class GeneratePersonsDataProcedure extends Procedure
 
         $result[self::DATA_FIELD_ACTIVE] = $fileData[self::DATA_FIELD_ACTIVE] ?? false;
         $result[self::DATA_FIELD_NAMES] = $this->getAllMainLanguageValues($fileData[self::DATA_FIELD_NAMES] ?? []);
-        $result[self::DATA_FIELD_DIED] = $fileData[self::DATA_FIELD_DIED] ?? [];
+        $result[self::DATA_FIELD_DEATH] = $fileData[self::DATA_FIELD_EVENTS][self::DATA_FIELD_DEATH][self::DATA_FIELD_DATE] ?? [];
         //$result[self::DATA_FIELD_CATEGORIES] = $categoriesData;
         $result[self::DATA_FIELD_FEASTS] = $feastsData;
         $result[self::DATA_FIELD_FORENAMES] = $forenamesData;
