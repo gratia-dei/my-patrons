@@ -26,7 +26,7 @@
             "date": [">30"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

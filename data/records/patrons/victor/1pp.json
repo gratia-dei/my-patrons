@@ -32,7 +32,7 @@
             "date": [">197", "<200"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

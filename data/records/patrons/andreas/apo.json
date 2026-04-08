@@ -33,7 +33,7 @@
             "date": [">60", "<70"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

@@ -30,7 +30,7 @@
             "date": [">500", "<512"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

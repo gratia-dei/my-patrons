@@ -26,7 +26,7 @@
             "date": [">253-06-01", "<253-06-30"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

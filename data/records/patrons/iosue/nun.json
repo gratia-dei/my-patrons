@@ -26,7 +26,7 @@
             "date": [">-1300", "<-1201"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

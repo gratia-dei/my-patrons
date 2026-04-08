@@ -29,7 +29,7 @@
             "date": [">201", "<300"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

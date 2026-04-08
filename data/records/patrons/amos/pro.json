@@ -29,7 +29,7 @@
             "date": [">-800", "<-701"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],

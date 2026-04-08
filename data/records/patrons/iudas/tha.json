@@ -27,7 +27,7 @@
             "date": [">65", "<80"],
             "place": null,
             "description": null
-        },
+        }
     },
 
     "feast": [],
