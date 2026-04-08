@@ -41,9 +41,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1909-04-18"
-    },
+        "beatification": {
+            "date": ["1909-04-18"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "1920-05-16"
     },

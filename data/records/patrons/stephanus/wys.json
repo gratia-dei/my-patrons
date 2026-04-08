@@ -32,9 +32,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "2021-09-12"
-    },
+        "beatification": {
+            "date": ["2021-09-12"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["05-28"],

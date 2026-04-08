@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1950-03-05"
-    },
+        "beatification": {
+            "date": ["1950-03-05"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "1954-06-12"
     },

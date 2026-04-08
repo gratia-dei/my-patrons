@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1990-04-29"
-    },
+        "beatification": {
+            "date": ["1990-04-29"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["12-05"],

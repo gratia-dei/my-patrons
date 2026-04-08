@@ -31,9 +31,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "2001-06-26"
-    },
+        "beatification": {
+            "date": ["2001-06-26"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "2005-10-23"
     },

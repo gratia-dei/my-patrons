@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1609-07-27"
-    },
+        "beatification": {
+            "date": ["1609-07-27"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "1622-03-13"
     },

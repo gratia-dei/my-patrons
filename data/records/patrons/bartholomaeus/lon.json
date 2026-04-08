@@ -36,9 +36,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1980-10-26"
-    },
+        "beatification": {
+            "date": ["1980-10-26"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "2025-10-19"
     },

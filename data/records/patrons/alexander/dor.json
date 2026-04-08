@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "2015-12-05"
-    },
+        "beatification": {
+            "date": ["2015-12-05"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["08-25"],

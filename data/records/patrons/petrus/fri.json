@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1985-06-23"
-    },
+        "beatification": {
+            "date": ["1985-06-23"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["12-21"],

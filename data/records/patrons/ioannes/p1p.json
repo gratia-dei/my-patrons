@@ -41,9 +41,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "2022-09-04"
-    },
+        "beatification": {
+            "date": ["2022-09-04"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

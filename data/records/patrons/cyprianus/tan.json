@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1998-03-22"
-    },
+        "beatification": {
+            "date": ["1998-03-22"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["01-20"],

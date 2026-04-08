@@ -34,9 +34,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1926-10-17"
-    },
+        "beatification": {
+            "date": ["1926-10-17"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["09-02"],

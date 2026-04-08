@@ -35,9 +35,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1854-11-05"
-    },
+        "beatification": {
+            "date": ["1854-11-05"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["01-19"],

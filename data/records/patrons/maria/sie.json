@@ -40,9 +40,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1989-04-23"
-    },
+        "beatification": {
+            "date": ["1989-04-23"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["11-21"],

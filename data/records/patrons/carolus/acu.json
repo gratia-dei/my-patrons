@@ -38,9 +38,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "2020-10-10"
-    },
+        "beatification": {
+            "date": ["2020-10-10"],
+            "place": null,
+            "description": null
+        },
     "canonized": {
         "date": "2025-04-27"
     },

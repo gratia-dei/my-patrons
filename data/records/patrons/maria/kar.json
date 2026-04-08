@@ -32,9 +32,11 @@
             "place": null,
             "description": null
         },
-    "beatified": {
-        "date": "1997-06-06"
-    },
+        "beatification": {
+            "date": ["1997-06-06"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["03-24"],
