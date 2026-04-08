@@ -57,60 +57,27 @@
 
 
 
-        "born": {
+        "events": {
+            "types": ["empty-array", "associative-array"]
+        },
+        "events/#event": {
+            "types": ["associative-array"]
+        },
+        "events/#event/date": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "born": "array-value"
+                "events/birth": "array-value"
             }
+        },
+        "events/#event/place": {
+            "types": ["null"]
+        },
+        "events/#event/description": {
+            "types": ["null"]
         },
 
-        "died": {
-            "types": ["empty-array", "indexed-array"],
-            "element-types": ["string"],
-            "assignments": {
-                "dead": "array-value"
-            }
-        },
 
-        "beatified": {
-            "types": ["null", "associative-array"]
-        },
-        "beatified/type": {
-            "types": ["string"],
-            "assignments": {
-                "beatified/type": "value"
-            }
-        },
-        "beatified/date": {
-            "types": ["string"],
-            "assignments": {
-                "beatified/date": "value"
-            }
-        },
-
-        "canonized": {
-            "types": ["null", "associative-array"]
-        },
-        "canonized/type": {
-            "types": ["string"],
-            "assignments": {
-                "canonized/type": "value"
-            }
-        },
-        "canonized/date": {
-            "types": ["string"],
-            "assignments": {
-                "canonized/date": "value"
-            }
-        },
-
-        "doctor-of-the-church": {
-            "types": ["null", "string"],
-            "assignments": {
-                "doctor-of-the-church": "value"
-            }
-        },
 
         "feast": {
             "types": ["empty-array", "indexed-array"],

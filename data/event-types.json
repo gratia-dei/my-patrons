@@ -1,0 +1,51 @@
+{
+    "birth": {
+        "names": {
+            "en": "birth",
+            "la": "nativitas",
+            "pl": "narodziny"
+        },
+
+        "multiple": false
+    },
+
+    "death": {
+        "names": {
+            "en": "death",
+            "la": "mors",
+            "pl": "śmierć"
+        },
+
+        "multiple": false
+    },
+
+    "beatification": {
+        "names": {
+            "en": "beatification",
+            "la": "beatificatio",
+            "pl": "beatyfikacja"
+        },
+
+        "multiple": false
+    },
+
+    "canonization": {
+        "names": {
+            "en": "canonization",
+            "la": "canonizatio",
+            "pl": "narodziny"
+        },
+
+        "multiple": false
+    },
+
+    "doctor-of-the-church-proclamation": {
+        "names": {
+            "en": "Doctor of the Church proclamation",
+            "la": "proclamatio Doctoris Ecclesiae",
+            "pl": "ogłoszenie Doktorem Kościoła"
+        },
+
+        "multiple": false
+    }
+}
