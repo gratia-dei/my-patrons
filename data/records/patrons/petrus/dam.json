@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1828-09-27",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1828-09-27"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

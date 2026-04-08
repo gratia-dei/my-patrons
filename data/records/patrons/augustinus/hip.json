@@ -30,7 +30,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1298-03-03",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1298-03-03"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

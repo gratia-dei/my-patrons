@@ -36,7 +36,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1920-10-05",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1920-10-05"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

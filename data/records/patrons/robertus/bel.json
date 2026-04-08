@@ -47,7 +47,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1931-09-17",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1931-09-17"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["09-17"],

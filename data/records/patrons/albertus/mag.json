@@ -68,7 +68,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1931-12-16",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1931-12-16"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["11-15"],

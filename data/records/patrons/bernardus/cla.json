@@ -31,7 +31,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1830-08-20",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1830-08-20"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

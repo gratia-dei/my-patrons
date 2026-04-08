@@ -38,7 +38,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1754-10-15",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1754-10-15"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

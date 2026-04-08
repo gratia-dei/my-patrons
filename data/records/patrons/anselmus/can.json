@@ -27,7 +27,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1720-02-08",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1720-02-08"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

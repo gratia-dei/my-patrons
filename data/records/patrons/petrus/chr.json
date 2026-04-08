@@ -33,7 +33,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1729-02-19",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1729-02-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

@@ -51,7 +51,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1926-08-24",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1926-08-24"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["12-14"],

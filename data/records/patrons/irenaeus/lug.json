@@ -30,7 +30,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "2022-01-21",
+        "doctor-of-the-church-proclamation": {
+            "date": ["2022-01-21"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

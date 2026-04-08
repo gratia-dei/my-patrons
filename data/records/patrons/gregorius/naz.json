@@ -39,7 +39,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1568-07-09",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1568-07-09"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

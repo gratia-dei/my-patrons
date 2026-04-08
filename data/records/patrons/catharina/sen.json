@@ -35,7 +35,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1970-10-04",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1970-10-04"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

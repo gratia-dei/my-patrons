@@ -49,7 +49,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1946-01-16",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1946-01-16"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

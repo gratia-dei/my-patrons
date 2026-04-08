@@ -40,7 +40,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1959-03-19",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1959-03-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["07-21"],

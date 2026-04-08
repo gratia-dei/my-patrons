@@ -31,7 +31,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1567-04-11",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1567-04-11"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

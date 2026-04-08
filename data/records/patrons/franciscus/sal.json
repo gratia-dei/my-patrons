@@ -45,7 +45,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1877-07-19",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1877-07-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["01-24"],

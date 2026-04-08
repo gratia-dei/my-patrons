@@ -59,7 +59,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1997-10-19",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1997-10-19"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["10-01"],

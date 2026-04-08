@@ -30,7 +30,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1722-04-25",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1722-04-25"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": [],

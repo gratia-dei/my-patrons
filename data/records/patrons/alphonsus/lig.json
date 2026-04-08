@@ -48,7 +48,11 @@
             "place": null,
             "description": null
         },
-    "doctor-of-the-church": "1871-03-23",
+        "doctor-of-the-church-proclamation": {
+            "date": ["1871-03-23"],
+            "place": null,
+            "description": null
+        },
     },
 
     "feast": ["08-01"],
