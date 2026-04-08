@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1895-05-11"],
+        "birth": {
+            "date": ["1895-05-11"],
+            "place": null,
+            "description": null
+        },
     "died": ["1941-04-13"],
     "beatified": {
         "type": "ceremonially",

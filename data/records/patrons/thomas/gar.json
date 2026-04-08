@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1574"],
+        "birth": {
+            "date": ["~1574"],
+            "place": null,
+            "description": null
+        },
     "died": ["1608-06-23"],
     "canonized": {
         "type": "ceremonially",

@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1606-08-15"],
+        "birth": {
+            "date": ["1606-08-15"],
+            "place": null,
+            "description": null
+        },
     "died": ["1670-03-01"],
     },
 

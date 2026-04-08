@@ -23,7 +23,11 @@
     "active": true,
 
     "events": {
-    "born": ["~380"],
+        "birth": {
+            "date": ["~380"],
+            "place": null,
+            "description": null
+        },
     "died": ["~450"],
     "doctor-of-the-church": "1729-02-19",
     },

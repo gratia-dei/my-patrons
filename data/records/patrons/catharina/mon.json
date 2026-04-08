@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1493-11-25"],
+        "birth": {
+            "date": ["1493-11-25"],
+            "place": null,
+            "description": null
+        },
     "died": ["1565-04-27"],
     },
 

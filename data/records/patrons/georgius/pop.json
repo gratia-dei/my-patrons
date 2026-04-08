@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1947-09-14"],
+        "birth": {
+            "date": ["1947-09-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1984-10-19"],
     "beatified": {
         "type": "ceremonially",

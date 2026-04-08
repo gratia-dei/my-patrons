@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1712-08-02"],
+        "birth": {
+            "date": ["1712-08-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1792-09-03"],
     "beatified": {
         "type": "ceremonially",

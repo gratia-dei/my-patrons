@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1559-07-22"],
+        "birth": {
+            "date": ["1559-07-22"],
+            "place": null,
+            "description": null
+        },
     "died": ["1619-07-22"],
     "beatified": {
         "type": "ceremonially",

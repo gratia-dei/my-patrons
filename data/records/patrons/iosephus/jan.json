@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1910-11-17"],
+        "birth": {
+            "date": ["1910-11-17"],
+            "place": null,
+            "description": null
+        },
     "died": ["1941-10-16"],
     "beatified": {
         "type": "ceremonially",

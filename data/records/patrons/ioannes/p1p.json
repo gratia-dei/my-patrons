@@ -31,7 +31,11 @@
     "active": true,
 
     "events": {
-    "born": ["1912-10-17"],
+        "birth": {
+            "date": ["1912-10-17"],
+            "place": null,
+            "description": null
+        },
     "died": ["1978-09-28"],
     "beatified": {
         "type": "ceremonially",

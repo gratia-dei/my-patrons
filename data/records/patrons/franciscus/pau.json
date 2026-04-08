@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1416-03-27"],
+        "birth": {
+            "date": ["1416-03-27"],
+            "place": null,
+            "description": null
+        },
     "died": ["1507-04-02"],
     },
 

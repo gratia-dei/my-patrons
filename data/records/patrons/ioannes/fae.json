@@ -40,7 +40,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1395"],
+        "birth": {
+            "date": ["~1395"],
+            "place": null,
+            "description": null
+        },
     "died": ["1455-02-18"],
     },
 

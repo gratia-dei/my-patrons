@@ -39,7 +39,11 @@
     "active": true,
 
     "events": {
-    "born": ["1195-08-15"],
+        "birth": {
+            "date": ["1195-08-15"],
+            "place": null,
+            "description": null
+        },
     "died": ["1231-06-13"],
     "doctor-of-the-church": "1946-01-16",
     },

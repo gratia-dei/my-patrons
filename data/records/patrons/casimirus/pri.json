@@ -18,7 +18,11 @@
     "active": true,
 
     "events": {
-    "born": ["1458-10-03"],
+        "birth": {
+            "date": ["1458-10-03"],
+            "place": null,
+            "description": null
+        },
     "died": ["1484-03-04"],
     },
 

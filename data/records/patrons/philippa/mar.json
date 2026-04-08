@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": [">1190", "<1200"],
+        "birth": {
+            "date": [">1190", "<1200"],
+            "place": null,
+            "description": null
+        },
     "died": ["1236-02-16"],
     },
 

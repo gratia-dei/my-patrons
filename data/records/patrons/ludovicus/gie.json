@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1904-08-16"],
+        "birth": {
+            "date": ["1904-08-16"],
+            "place": null,
+            "description": null
+        },
     "died": ["1941-11-30"],
     "beatified": {
         "type": "ceremonially",

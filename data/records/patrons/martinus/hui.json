@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1836-10-20"],
+        "birth": {
+            "date": ["1836-10-20"],
+            "place": null,
+            "description": null
+        },
     "died": ["1866-03-30"],
     "beatified": {
         "type": "ceremonially",

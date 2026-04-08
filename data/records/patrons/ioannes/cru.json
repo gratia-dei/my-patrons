@@ -31,7 +31,11 @@
     "active": true,
 
     "events": {
-    "born": ["1542-06-24"],
+        "birth": {
+            "date": ["1542-06-24"],
+            "place": null,
+            "description": null
+        },
     "died": ["1591-12-14"],
     "beatified": {
         "type": "ceremonially",

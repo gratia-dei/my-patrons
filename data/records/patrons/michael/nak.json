@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1583"],
+        "birth": {
+            "date": ["1583"],
+            "place": null,
+            "description": null
+        },
     "died": ["1628-12-25"],
     },
 

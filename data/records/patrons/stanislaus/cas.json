@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1433-09-27"],
+        "birth": {
+            "date": ["1433-09-27"],
+            "place": null,
+            "description": null
+        },
     "died": ["1489-05-03"],
     "beatified": {
         "type": "ceremonially",

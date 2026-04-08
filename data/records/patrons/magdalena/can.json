@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1774-03-01"],
+        "birth": {
+            "date": ["1774-03-01"],
+            "place": null,
+            "description": null
+        },
     "died": ["1835-04-10"],
     "beatified": {
         "type": "ceremonially",

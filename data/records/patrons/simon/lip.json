@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": [">1438", "<1440"],
+        "birth": {
+            "date": [">1438", "<1440"],
+            "place": null,
+            "description": null
+        },
     "died": ["1482-07-18"],
     "beatified": {
         "type": "ceremonially",

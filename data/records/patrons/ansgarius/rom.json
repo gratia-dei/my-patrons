@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1917-08-15"],
+        "birth": {
+            "date": ["1917-08-15"],
+            "place": null,
+            "description": null
+        },
     "died": ["1980-03-24"],
     "beatified": {
         "type": "ceremonially",

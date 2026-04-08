@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": ["1033"],
+        "birth": {
+            "date": ["1033"],
+            "place": null,
+            "description": null
+        },
     "died": ["1109-04-21"],
     "doctor-of-the-church": "1720-02-08",
     },

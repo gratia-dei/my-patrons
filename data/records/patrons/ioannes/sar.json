@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1576-12-20"],
+        "birth": {
+            "date": ["1576-12-20"],
+            "place": null,
+            "description": null
+        },
     "died": ["1620-03-17"],
     "beatified": {
         "type": "ceremonially",

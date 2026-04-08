@@ -35,7 +35,11 @@
     "active": true,
 
     "events": {
-    "born": ["1880-07-18"],
+        "birth": {
+            "date": ["1880-07-18"],
+            "place": null,
+            "description": null
+        },
     "died": ["1906-11-09"],
     "beatified": {
         "type": "ceremonially",

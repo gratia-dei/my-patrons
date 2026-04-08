@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1843-09-05"],
+        "birth": {
+            "date": ["1843-09-05"],
+            "place": null,
+            "description": null
+        },
     "died": ["1906-02-08"],
     "beatified": {
         "type": "ceremonially",

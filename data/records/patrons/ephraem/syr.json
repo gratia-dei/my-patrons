@@ -26,7 +26,11 @@
     "active": true,
 
     "events": {
-    "born": ["~305"],
+        "birth": {
+            "date": ["~305"],
+            "place": null,
+            "description": null
+        },
     "died": ["373-06-09", "378-06-09"],
     "doctor-of-the-church": "1920-10-05",
     },

@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1879-02-14"],
+        "birth": {
+            "date": ["1879-02-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1964-04-04"],
     "beatified": {
         "type": "ceremonially",

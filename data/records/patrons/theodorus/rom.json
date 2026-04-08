@@ -31,7 +31,11 @@
     "active": true,
 
     "events": {
-    "born": ["1911-04-14"],
+        "birth": {
+            "date": ["1911-04-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1947-11-01"],
     "beatified": {
         "type": "ceremonially",

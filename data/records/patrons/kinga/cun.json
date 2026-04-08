@@ -18,7 +18,11 @@
     "active": true,
 
     "events": {
-    "born": ["1234-03-05"],
+        "birth": {
+            "date": ["1234-03-05"],
+            "place": null,
+            "description": null
+        },
     "died": ["1292-07-24"],
     "canonized": {
         "type": "ceremonially",

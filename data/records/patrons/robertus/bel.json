@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1542-10-04"],
+        "birth": {
+            "date": ["1542-10-04"],
+            "place": null,
+            "description": null
+        },
     "died": ["1621-09-17"],
     "beatified": {
         "type": "ceremonially",

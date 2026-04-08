@@ -23,7 +23,11 @@
     "active": true,
 
     "events": {
-    "born": ["1894-01-08"],
+        "birth": {
+            "date": ["1894-01-08"],
+            "place": null,
+            "description": null
+        },
     "died": ["1941-08-14"],
     "beatified": {
         "type": "ceremonially",

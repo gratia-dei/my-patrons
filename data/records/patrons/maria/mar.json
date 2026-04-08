@@ -30,7 +30,11 @@
     "active": true,
 
     "events": {
-    "born": ["1888-12-14"],
+        "birth": {
+            "date": ["1888-12-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1943-08-01"],
     "beatified": {
         "type": "ceremonially",

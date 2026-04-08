@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1786-01-06"],
+        "birth": {
+            "date": ["1786-01-06"],
+            "place": null,
+            "description": null
+        },
     "died": ["1837-12-28"],
     "beatified": {
         "type": "ceremonially",

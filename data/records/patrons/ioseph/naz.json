@@ -26,7 +26,11 @@
     "active": true,
 
     "events": {
-    "born": ["<-1"],
+        "birth": {
+            "date": ["<-1"],
+            "place": null,
+            "description": null
+        },
     "died": [">1"],
     },
 

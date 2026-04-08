@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1746"],
+        "birth": {
+            "date": ["~1746"],
+            "place": null,
+            "description": null
+        },
     "died": ["1815-01-27"],
     "beatified": {
         "type": "ceremonially",

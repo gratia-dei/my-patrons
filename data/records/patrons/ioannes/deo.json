@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1495-03-08"],
+        "birth": {
+            "date": ["1495-03-08"],
+            "place": null,
+            "description": null
+        },
     "died": ["1550-03-08"],
     "beatified": {
         "type": "equipollently",

@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1818"],
+        "birth": {
+            "date": ["1818"],
+            "place": null,
+            "description": null
+        },
     "died": ["1839-07-20"],
     "beatified": {
         "type": "ceremonially",

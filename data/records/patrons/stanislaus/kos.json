@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1550-10-28"],
+        "birth": {
+            "date": ["1550-10-28"],
+            "place": null,
+            "description": null
+        },
     "died": ["1568-08-15"],
     "beatified": {
         "type": "ceremonially",

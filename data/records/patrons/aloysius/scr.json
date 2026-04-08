@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1804-08-04"],
+        "birth": {
+            "date": ["1804-08-04"],
+            "place": null,
+            "description": null
+        },
     "died": ["1884-04-03"],
     "beatified": {
         "type": "ceremonially",

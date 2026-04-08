@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": ["~250"],
+        "birth": {
+            "date": ["~250"],
+            "place": null,
+            "description": null
+        },
     "died": ["304"],
     },
 

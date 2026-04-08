@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1892-12-23"],
+        "birth": {
+            "date": ["1892-12-23"],
+            "place": null,
+            "description": null
+        },
     "died": ["1940-01-11"],
     "beatified": {
         "type": "ceremonially",

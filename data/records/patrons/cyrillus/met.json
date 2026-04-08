@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": [">826", "<828"],
+        "birth": {
+            "date": [">826", "<828"],
+            "place": null,
+            "description": null
+        },
     "died": ["869-02-14"],
     },
 

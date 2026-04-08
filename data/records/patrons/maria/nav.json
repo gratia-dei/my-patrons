@@ -33,7 +33,11 @@
     "active": true,
 
     "events": {
-    "born": ["1565-01-21"],
+        "birth": {
+            "date": ["1565-01-21"],
+            "place": null,
+            "description": null
+        },
     "died": ["1624-04-17"],
     },
 

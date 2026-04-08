@@ -26,7 +26,11 @@
     "active": true,
 
     "events": {
-    "born": ["1233-08-15"],
+        "birth": {
+            "date": ["1233-08-15"],
+            "place": null,
+            "description": null
+        },
     "died": ["1285-08-22"],
     "beatified": {
         "type": "ceremonially",

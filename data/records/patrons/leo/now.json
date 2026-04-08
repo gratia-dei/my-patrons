@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1913-06-28"],
+        "birth": {
+            "date": ["1913-06-28"],
+            "place": null,
+            "description": null
+        },
     "died": ["1939-10-31"],
     "beatified": {
         "type": "ceremonially",

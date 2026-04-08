@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1905-08-25"],
+        "birth": {
+            "date": ["1905-08-25"],
+            "place": null,
+            "description": null
+        },
     "died": ["1938-10-05"],
     "beatified": {
         "type": "ceremonially",

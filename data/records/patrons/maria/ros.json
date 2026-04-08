@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1813-11-06"],
+        "birth": {
+            "date": ["1813-11-06"],
+            "place": null,
+            "description": null
+        },
     "died": ["1855-12-15"],
     "beatified": {
         "type": "ceremonially",

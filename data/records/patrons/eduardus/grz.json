@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1906-09-29"],
+        "birth": {
+            "date": ["1906-09-29"],
+            "place": null,
+            "description": null
+        },
     "died": ["1942-08-10"],
     "beatified": {
         "type": "ceremonially",

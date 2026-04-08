@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1538-11-16"],
+        "birth": {
+            "date": ["1538-11-16"],
+            "place": null,
+            "description": null
+        },
     "died": ["1606-03-23"],
     "beatified": {
         "type": "ceremonially",

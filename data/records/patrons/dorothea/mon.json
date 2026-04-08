@@ -23,7 +23,11 @@
     "active": true,
 
     "events": {
-    "born": ["1347-01-25", "1347-02-06"],
+        "birth": {
+            "date": ["1347-01-25", "1347-02-06"],
+            "place": null,
+            "description": null
+        },
     "died": ["1394-06-25"],
     "beatified": {
         "type": "ceremonially",

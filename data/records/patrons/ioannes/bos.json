@@ -33,7 +33,11 @@
     "active": true,
 
     "events": {
-    "born": ["1815-08-16"],
+        "birth": {
+            "date": ["1815-08-16"],
+            "place": null,
+            "description": null
+        },
     "died": ["1888-01-31"],
     "beatified": {
         "type": "ceremonially",

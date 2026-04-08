@@ -26,7 +26,11 @@
     "active": true,
 
     "events": {
-    "born": ["1642-12-17"],
+        "birth": {
+            "date": ["1642-12-17"],
+            "place": null,
+            "description": null
+        },
     "died": ["1716-05-11"],
     "beatified": {
         "type": "ceremonially",

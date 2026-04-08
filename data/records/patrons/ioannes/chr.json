@@ -25,7 +25,11 @@
     "active": true,
 
     "events": {
-    "born": ["~347"],
+        "birth": {
+            "date": ["~347"],
+            "place": null,
+            "description": null
+        },
     "died": ["407-09-14"],
     "doctor-of-the-church": "1568-07-09",
     },

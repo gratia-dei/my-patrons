@@ -33,7 +33,11 @@
     "active": true,
 
     "events": {
-    "born": ["1835-09-01"],
+        "birth": {
+            "date": ["1835-09-01"],
+            "place": null,
+            "description": null
+        },
     "died": ["1907-11-15"],
     "beatified": {
         "type": "ceremonially",

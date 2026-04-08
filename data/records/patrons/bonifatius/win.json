@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": [">672", "<675"],
+        "birth": {
+            "date": [">672", "<675"],
+            "place": null,
+            "description": null
+        },
     "died": ["754-06-05"],
     },
 

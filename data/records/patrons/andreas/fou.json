@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1752-12-06"],
+        "birth": {
+            "date": ["1752-12-06"],
+            "place": null,
+            "description": null
+        },
     "died": ["1834-05-13"],
     "beatified": {
         "type": "ceremonially",

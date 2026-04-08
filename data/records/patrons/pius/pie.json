@@ -32,7 +32,11 @@
     "active": true,
 
     "events": {
-    "born": ["1887-05-25"],
+        "birth": {
+            "date": ["1887-05-25"],
+            "place": null,
+            "description": null
+        },
     "died": ["1968-09-23"],
     "beatified": {
         "type": "ceremonially",

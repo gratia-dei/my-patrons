@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1744-02-04"],
+        "birth": {
+            "date": ["1744-02-04"],
+            "place": null,
+            "description": null
+        },
     "died": ["1794-01-02"],
     "beatified": {
         "type": "ceremonially",

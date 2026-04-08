@@ -31,7 +31,11 @@
     "active": true,
 
     "events": {
-    "born": ["1566-04-02"],
+        "birth": {
+            "date": ["1566-04-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1607-05-25"],
     "beatified": {
         "type": "ceremonially",

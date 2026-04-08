@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1649-09-12"],
+        "birth": {
+            "date": ["1649-09-12"],
+            "place": null,
+            "description": null
+        },
     "died": ["1713-01-01"],
     "beatified": {
         "type": "ceremonially",

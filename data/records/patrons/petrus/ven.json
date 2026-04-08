@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1092"],
+        "birth": {
+            "date": ["~1092"],
+            "place": null,
+            "description": null
+        },
     "died": ["1156-12-25"],
     },
 

@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1603-06-17"],
+        "birth": {
+            "date": ["1603-06-17"],
+            "place": null,
+            "description": null
+        },
     "died": ["1663-09-18"],
     "beatified": {
         "type": "ceremonially",

@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1806-05-02"],
+        "birth": {
+            "date": ["1806-05-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1876-12-31"],
     "beatified": {
         "type": "ceremonially",

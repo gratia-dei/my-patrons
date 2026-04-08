@@ -39,7 +39,11 @@
     "active": true,
 
     "events": {
-    "born": ["1873-01-02"],
+        "birth": {
+            "date": ["1873-01-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1897-09-30"],
     "beatified": {
         "type": "ceremonially",

@@ -25,7 +25,11 @@
     "active": true,
 
     "events": {
-    "born": ["1538-10-02"],
+        "birth": {
+            "date": ["1538-10-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1584-11-03"],
     "canonized": {
         "type": "ceremonially",

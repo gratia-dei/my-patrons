@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1905-06-30"],
+        "birth": {
+            "date": ["1905-06-30"],
+            "place": null,
+            "description": null
+        },
     "died": ["1936-11-28"],
     "beatified": {
         "type": "ceremonially",

@@ -22,7 +22,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1550"],
+        "birth": {
+            "date": ["~1550"],
+            "place": null,
+            "description": null
+        },
     "died": ["1588-08-30"],
     "canonized": {
         "type": "ceremonially",

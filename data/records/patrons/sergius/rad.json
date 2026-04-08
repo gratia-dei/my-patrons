@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1314-05-14"],
+        "birth": {
+            "date": ["1314-05-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1392-09-25"],
     },
 

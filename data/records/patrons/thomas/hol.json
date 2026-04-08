@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1600"],
+        "birth": {
+            "date": ["~1600"],
+            "place": null,
+            "description": null
+        },
     "died": ["1642-12-12"],
     },
 

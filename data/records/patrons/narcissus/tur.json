@@ -22,7 +22,11 @@
     "active": true,
 
     "events": {
-    "born": ["1879-09-19"],
+        "birth": {
+            "date": ["1879-09-19"],
+            "place": null,
+            "description": null
+        },
     "died": ["1942-03-19"],
     "beatified": {
         "type": "ceremonially",

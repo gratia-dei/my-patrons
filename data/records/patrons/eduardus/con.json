@@ -23,7 +23,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1003"],
+        "birth": {
+            "date": ["~1003"],
+            "place": null,
+            "description": null
+        },
     "died": ["1066-01-05"],
     },
 

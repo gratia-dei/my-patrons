@@ -35,7 +35,11 @@
     "active": true,
 
     "events": {
-    "born": ["1844-02-14"],
+        "birth": {
+            "date": ["1844-02-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1904-08-06"],
     "beatified": {
         "type": "ceremonially",

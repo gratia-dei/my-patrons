@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1844-06-24"],
+        "birth": {
+            "date": ["1844-06-24"],
+            "place": null,
+            "description": null
+        },
     "died": ["1915-03-25"],
     },
 

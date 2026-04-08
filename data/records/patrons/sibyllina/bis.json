@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1287"],
+        "birth": {
+            "date": ["1287"],
+            "place": null,
+            "description": null
+        },
     "died": ["1367-03-19"],
     },
 

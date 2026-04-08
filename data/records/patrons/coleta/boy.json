@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1381-01-13"],
+        "birth": {
+            "date": ["1381-01-13"],
+            "place": null,
+            "description": null
+        },
     "died": ["1447-03-06"],
     "beatified": {
         "type": "ceremonially",

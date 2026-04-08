@@ -30,7 +30,11 @@
     "active": true,
 
     "events": {
-    "born": ["1895-01-25"],
+        "birth": {
+            "date": ["1895-01-25"],
+            "place": null,
+            "description": null
+        },
     "died": ["1943-08-01"],
     "beatified": {
         "type": "ceremonially",

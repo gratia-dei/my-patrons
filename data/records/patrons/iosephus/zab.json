@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1898-03-20"],
+        "birth": {
+            "date": ["1898-03-20"],
+            "place": null,
+            "description": null
+        },
     "died": ["1936-12-08"],
     "beatified": {
         "type": "ceremonially",

@@ -25,7 +25,11 @@
     "active": true,
 
     "events": {
-    "born": ["1878-03-12"],
+        "birth": {
+            "date": ["1878-03-12"],
+            "place": null,
+            "description": null
+        },
     "died": ["1903-04-11"],
     "beatified": {
         "type": "ceremonially",

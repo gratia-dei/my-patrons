@@ -48,7 +48,11 @@
     "active": true,
 
     "events": {
-    "born": [">1195", "<1206"],
+        "birth": {
+            "date": [">1195", "<1206"],
+            "place": null,
+            "description": null
+        },
     "died": ["1280-11-15"],
     "beatified": {
         "type": "ceremonially",

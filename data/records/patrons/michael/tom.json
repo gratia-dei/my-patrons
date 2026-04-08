@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1960-09-23"],
+        "birth": {
+            "date": ["1960-09-23"],
+            "place": null,
+            "description": null
+        },
     "died": ["1991-08-09"],
     "beatified": {
         "type": "ceremonially",

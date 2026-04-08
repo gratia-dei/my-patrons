@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1672-01-13"],
+        "birth": {
+            "date": ["1672-01-13"],
+            "place": null,
+            "description": null
+        },
     "died": ["1732-03-25"],
     "beatified": {
         "type": "ceremonially",

@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": [],
+        "birth": {
+            "date": [],
+            "place": null,
+            "description": null
+        },
     "died": ["~202"],
     "doctor-of-the-church": "2022-01-21",
     },

@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1888-11-01"],
+        "birth": {
+            "date": ["1888-11-01"],
+            "place": null,
+            "description": null
+        },
     "died": ["1975-02-15"],
     "beatified": {
         "type": "ceremonially",

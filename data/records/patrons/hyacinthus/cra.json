@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1183"],
+        "birth": {
+            "date": ["~1183"],
+            "place": null,
+            "description": null
+        },
     "died": ["1257-08-15"],
     "canonized": {
         "type": "ceremonially",

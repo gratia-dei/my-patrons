@@ -35,7 +35,11 @@
     "active": true,
 
     "events": {
-    "born": ["1654-08-15"],
+        "birth": {
+            "date": ["1654-08-15"],
+            "place": null,
+            "description": null
+        },
     "died": ["1734-03-05"],
     "beatified": {
         "type": "ceremonially",

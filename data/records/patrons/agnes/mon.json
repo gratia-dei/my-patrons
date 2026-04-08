@@ -20,7 +20,11 @@
     "active": true,
 
     "events": {
-    "born": ["1268-01-28"],
+        "birth": {
+            "date": ["1268-01-28"],
+            "place": null,
+            "description": null
+        },
     "died": ["1317-04-20"],
     "canonized": {
         "type": "ceremonially",

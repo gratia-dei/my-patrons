@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1556-12-27"],
+        "birth": {
+            "date": ["1556-12-27"],
+            "place": null,
+            "description": null
+        },
     "died": ["1640-02-02"],
     "beatified": {
         "type": "ceremonially",

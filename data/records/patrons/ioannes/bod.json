@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1549"],
+        "birth": {
+            "date": ["1549"],
+            "place": null,
+            "description": null
+        },
     "died": ["1583-11-02"],
     },
 

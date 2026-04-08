@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1842-04-02"],
+        "birth": {
+            "date": ["1842-04-02"],
+            "place": null,
+            "description": null
+        },
     "died": ["1857-03-09"],
     "beatified": {
         "type": "ceremonially",

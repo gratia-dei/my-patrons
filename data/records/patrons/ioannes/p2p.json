@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1920-05-18"],
+        "birth": {
+            "date": ["1920-05-18"],
+            "place": null,
+            "description": null
+        },
     "died": ["2005-04-02"],
     "beatified": {
         "type": "ceremonially",

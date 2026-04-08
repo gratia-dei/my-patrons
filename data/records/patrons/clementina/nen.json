@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1939-12-29"],
+        "birth": {
+            "date": ["1939-12-29"],
+            "place": null,
+            "description": null
+        },
     "died": ["1964-12-01"],
     "beatified": {
         "type": "ceremonially",

@@ -22,7 +22,11 @@
     "active": true,
 
     "events": {
-    "born": ["1865-09-04"],
+        "birth": {
+            "date": ["1865-09-04"],
+            "place": null,
+            "description": null
+        },
     "died": ["1935-03-24"],
     "beatified": {
         "type": "ceremonially",

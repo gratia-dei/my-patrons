@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1921-12-06"],
+        "birth": {
+            "date": ["1921-12-06"],
+            "place": null,
+            "description": null
+        },
     "died": ["1945-03-19"],
     "beatified": {
         "type": "ceremonially",

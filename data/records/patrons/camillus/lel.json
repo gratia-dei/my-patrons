@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["1550-05-25"],
+        "birth": {
+            "date": ["1550-05-25"],
+            "place": null,
+            "description": null
+        },
     "died": ["1614-07-14"],
     "beatified": {
         "type": "ceremonially",

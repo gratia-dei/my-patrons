@@ -17,7 +17,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1414"],
+        "birth": {
+            "date": ["~1414"],
+            "place": null,
+            "description": null
+        },
     "died": ["1484-09-29"],
     "canonized": {
         "type": "ceremonially",

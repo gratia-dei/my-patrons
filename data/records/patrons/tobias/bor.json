@@ -27,7 +27,11 @@
     "active": true,
 
     "events": {
-    "born": ["1861-04-14"],
+        "birth": {
+            "date": ["1861-04-14"],
+            "place": null,
+            "description": null
+        },
     "died": ["1937-02-11"],
     "beatified": {
         "type": "ceremonially",

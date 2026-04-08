@@ -24,7 +24,11 @@
     "active": true,
 
     "events": {
-    "born": ["801"],
+        "birth": {
+            "date": ["801"],
+            "place": null,
+            "description": null
+        },
     "died": ["865-02-03"],
     },
 

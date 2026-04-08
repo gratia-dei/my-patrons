@@ -33,7 +33,11 @@
     "active": true,
 
     "events": {
-    "born": ["~1266"],
+        "birth": {
+            "date": ["~1266"],
+            "place": null,
+            "description": null
+        },
     "died": ["1308-11-08"],
     "beatified": {
         "type": "ceremonially",

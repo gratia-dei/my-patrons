@@ -21,7 +21,11 @@
     "active": true,
 
     "events": {
-    "born": ["1940-04-03"],
+        "birth": {
+            "date": ["1940-04-03"],
+            "place": null,
+            "description": null
+        },
     "died": ["1944-03-24"],
     "beatified": {
         "type": "ceremonially",
