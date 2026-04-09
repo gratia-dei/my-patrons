@@ -24,6 +24,7 @@ abstract class Base
     protected const PERSONS_DATA_FILE_PATH = 'generated/persons-data' . self::GENERATED_FILE_NAME_SUFFIX . self::DATA_FILE_EXTENSION;
 
     protected const LANGUAGES_FILE_PATH = 'languages' . self::DATA_FILE_EXTENSION;
+    protected const EVENTS_FILE_PATH = 'event-types' . self::DATA_FILE_EXTENSION;
 
     protected const DATA_FIELD_ACTIVE = 'active';
 

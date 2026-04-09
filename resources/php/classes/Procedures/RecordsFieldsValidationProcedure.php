@@ -125,6 +125,12 @@ class RecordsFieldsValidationProcedure extends Procedure
         foreach ($data as $value) {
             $this->parametrizedFieldsValues[$field][$value] = $value;
         }
+
+        $field = 'event';
+        $data = $this->getOriginalJsonFileContentArray(self::EVENTS_FILE_PATH);
+        foreach ($data as $value => $row) {
+            $this->parametrizedFieldsValues[$field][$value] = $value;
+        }
     }
 
     private function getParametrizedKeys(string $type): array
