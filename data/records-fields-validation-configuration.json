@@ -9,7 +9,7 @@
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "names#language": "array-value"
+                "names/#language": "array-value"
             }
         },
 
@@ -31,7 +31,7 @@
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "surnames#language": ["value", "array-value"]
+                "surnames/#language": ["value", "array-value"]
             }
         },
 
@@ -45,7 +45,7 @@
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "epithets#language": ["value", "array-value"]
+                "epithets/#language": ["value", "array-value"]
             }
         },
 
@@ -67,14 +67,20 @@
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "events/birth": "array-value"
+                "events/#event/date": "array-value"
             }
         },
         "events/#event/place": {
-            "types": ["null"]
+            "types": ["null"],
+            "assignments": {
+                "events/#event/place": ["value", "array-value"]
+            }
         },
         "events/#event/description": {
-            "types": ["null"]
+            "types": ["null"],
+            "assignments": {
+                "events/#event/description": ["value", "array-value"]
+            }
         },
 
 
@@ -117,8 +123,8 @@
         "communities": {
             "types": ["empty-array", "associative-array"],
             "assignments": {
-                "communities#community/names#language": "communities/#community:names#language",
-                "communities#community/siglum": "communities/#community:siglum"
+                "communities/#community/names/#language": "communities/#community:names/#language",
+                "communities/#community/siglum": "communities/#community:siglum"
             }
         },
         "communities/member": {
@@ -133,7 +139,7 @@
         "communities/member/#community/date": {
             "types": ["null", "string", "indexed-array"],
             "assignments": {
-                "communities/member#community/date": ["value", "array-value"]
+                "communities/member/#community/date": ["value", "array-value"]
             }
         },
         "communities/creator": {
@@ -229,8 +235,8 @@
             "types": ["empty-array", "associative-array"],
             "assignments": {
                 "feasts": "array-key",
-                "feasts#feast/names": "feasts/#feast:names#language",
-                "feasts#feast/date": "feasts/#feast:date"
+                "feasts/#feast/names": "feasts/#feast:names/#language",
+                "feasts/#feast/date": "feasts/#feast:date"
             }
         },
         "feasts/#feast": {
@@ -343,7 +349,7 @@
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "names#language": "array-value"
+                "names/#language": "array-value"
             }
         },
 
@@ -395,7 +401,7 @@
             "types": ["indexed-array"],
             "element-types": ["string"],
             "assignments": {
-                "names#language": "array-value"
+                "names/#language": "array-value"
             }
         },
 
