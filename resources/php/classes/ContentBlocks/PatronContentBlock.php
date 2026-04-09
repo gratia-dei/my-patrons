@@ -4,6 +4,8 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
 {
     private const NAMES_INDEX = self::PATRON_NAMES_INDEX;
     private const FEASTS_INDEX = self::PATRON_FEASTS_INDEX;
+    private const EVENTS_INDEX = self::PATRON_EVENTS_INDEX;
+    private const DATE_INDEX = self::PATRON_DATE_INDEX;
 
     private const TRANSLATED_INDEXES = [
         self::NAMES_INDEX,
@@ -55,14 +57,24 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         $forenames = $this->getRecordTypeElementsList($mainFileData['forenames'] ?? [], 'forenames');
         $categories = $this->getRecordTypeElementsList($mainFileData['categories'] ?? [], 'categories');
 
-        $dateOfBirth = $this->getFormattedDates($mainFileData['born']);
-        $dateOfDeath = $this->getFormattedDates($mainFileData[self::PATRON_DEATH_INDEX]);
+        $birthData = $mainFileData[self::EVENTS_INDEX]['birth'][self::DATE_INDEX] ?? null;
+        $deathData = $mainFileData[self::EVENTS_INDEX][self::PATRON_DEATH_INDEX][self::DATE_INDEX] ?? null;
+
+        $dateOfBirth = self::NON_EXISTENCE;
+        $dateOfDeath = self::NON_EXISTENCE;
+
+        if (!is_null($birthData)) {
+            $dateOfBirth = $this->getFormattedDates($birthData);
+        }
+        if (!is_null($deathData)) {
+            $dateOfDeath = $this->getFormattedDates($deathData);
+        }
 
         $variables = [];
         $variables['date-of-birth'] = $dateOfBirth === [] ? self::UNKNOWN_SIGN : $dateOfBirth;
         $variables['date-of-death'] = $dateOfDeath === [] ? self::UNKNOWN_SIGN : $dateOfDeath;
-        $variables['beatification'] = $this->getDateWithType($mainFileData['beatified'] ?? []);
-        $variables['canonization'] = $this->getDateWithType($mainFileData['canonized'] ?? []);
+        $variables['beatification'] = $this->getDateWithPlaceAndDescription($mainFileData[self::EVENTS_INDEX]['beatification'] ?? []);
+        $variables['canonization'] = $this->getDateWithPlaceAndDescription($mainFileData[self::EVENTS_INDEX]['canonization'] ?? []);
         $variables['feast-days'] = $this->getFormattedMonthsWithDays($mainFileData[self::PATRON_FEAST_INDEX] ?? []);
         $variables['order'] = empty($mainFileData['order'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order'];
         $variables['order-founder'] = empty($mainFileData['order-founder'] ?? []) ? self::NON_EXISTENCE : $mainFileData['order-founder'];
@@ -135,18 +147,14 @@ class PatronContentBlock extends ContentBlock implements ContentBlockInterface
         ;
     }
 
-    private function getDateWithType(array $data): string
+    private function getDateWithPlaceAndDescription(array $data): string
     {
-        $result = $data['date'] ?? null;
-        $type = $data['type'] ?? null;
+        $result = self::NON_EXISTENCE;
 
-        if (is_null($result)) {
-            $result = self::NON_EXISTENCE;
-        } else {
-            $result = $this->getFormattedDate($result);
-            if (!is_null($type)) {
-                $result .= " (#lang-$type-adverb#)";
-            }
+        $dates = $data[self::DATE_INDEX] ?? null;
+
+        if (!is_null($dates)) {
+            $result = implode(', ', $this->getFormattedDates($dates));
         }
 
         return $result;

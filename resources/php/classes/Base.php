@@ -15,6 +15,8 @@ abstract class Base
     protected const PATRON_NAMES_INDEX = 'names';
     protected const PATRON_FEASTS_INDEX = 'feasts';
     protected const PATRON_DEATH_INDEX = 'death';
+    protected const PATRON_EVENTS_INDEX = 'events';
+    protected const PATRON_DATE_INDEX = 'date';
     protected const PATRON_FEAST_INDEX = 'feast';
     protected const PATRON_FEASTS_PATH = self::PATRON_FEASTS_INDEX . '/';
     protected const INDEXES_ROOT_PATH = '/indexes';

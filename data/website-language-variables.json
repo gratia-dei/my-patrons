@@ -642,11 +642,6 @@
         "pl": "kategorie"
     },
 
-    "lang-ceremonially-adverb": {
-        "en": "ceremonially",
-        "pl": "ceremonialnie"
-    },
-
     "lang-challenge": {
         "en": "challenge",
         "pl": "wyzwanie"
@@ -1124,11 +1119,6 @@
         "en": "epithets",
         "la": "epitheta",
         "pl": "epitety"
-    },
-
-    "lang-equipollently-adverb": {
-        "en": "equipollently",
-        "pl": "równoważnie"
     },
 
     "lang-error-forbidden": {
