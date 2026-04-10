@@ -10,6 +10,20 @@
             "statuses/beatus": [
                 "Beatae"
             ]
+        },
+        "2005": {
+            "feasts/dbm/names/la": [
+                "Maria a Nive"
+            ],
+            "forenames": [
+                "maria"
+            ],
+            "forenames/la": [
+                "Maria"
+            ],
+            "statuses": [
+                "sanctus"
+            ]
         }
     }
 }

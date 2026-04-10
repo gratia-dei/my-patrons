@@ -155,39 +155,115 @@
             ]
         },
         "2005": {
-            "beatified/date": [
-                "2001-06-26"
-            ],
-            "born": [
-                "1845-11-01"
-            ],
-            "canonized/date": [
-                "2005-10-23"
-            ],
-            "canonized/type": [
-                "ceremonially"
+            "/events/priestly-ordination/date": [
+                "1871-07-25"
             ],
             "categories": [
+                "presbyter",
                 "catechista",
                 "fundator"
             ],
-            "communities/creator": [
-                "c-s-s-j"
+            "communities/c-s-s-j/names/la": [
+                "Congregatio Sororum Sancti Ioseph"
             ],
-            "communities/creator#c-s-s-j/date": [
+            "communities/creator/c-s-s-j/date": [
                 "1884-02-17"
             ],
-            "dead": [
+            "events/#presence/date": [
+                ">1871,<1877"
+            ],
+            "events/beatification/date": [
+                "2001-06-26"
+            ],
+            "events/beatification/place": [
+                "Roma",
+                "Sanctus Petrus"
+            ],
+            "events/birth/date": [
+                "1845-11-01"
+            ],
+            "events/birth/place/la": [
+                "Sanochia",
+                "Polonia"
+            ],
+            "events/canonization-announcement/date": [
+                "2005-02-24"
+            ],
+            "events/canonization-miracle-recognition/date": [
+                "2004-12-20"
+            ],
+            "events/canonization/date": [
+                "2005-10-23"
+            ],
+            "events/canonization/place": [
+                "Forum ante Patriarchalem Basilicam Vaticanam"
+            ],
+            "events/canonization/place/la": [
+                "Roma"
+            ],
+            "events/death/date": [
                 "1920-01-01"
+            ],
+            "events/death/place": [
+                "Leopolis"
+            ],
+            "events/education#1/description/la": [
+                "gymnasio"
+            ],
+            "events/education#2/description/la": [
+                "Iurisprudentiae Facultatem Studiorum Universitatis Leopolitanae"
+            ],
+            "events/education#2/place/la": [
+                "Leopolis",
+                "Universitas Leopolitana"
+            ],
+            "events/education#3/place/la": [
+                "Leopolis",
+                "Seminarium Maius Leopolitanum"
+            ],
+            "events/education@2/place/la": [
+                "Ucraina"
+            ],
+            "events/presence#1/place/la": [
+                "Archidiocesis Leopolitana"
+            ],
+            "events/presence#2/date": [
+                ">1877"
+            ],
+            "events/presence#2/place/la": [
+                "Leopolis"
+            ],
+            "events/presence#3/date": [
+                ">1914"
+            ],
+            "events/presence#3/place": [
+                "Domus Congregationis Sororum Sancti Ioseph"
+            ],
+            "events/process-opening/date": [
+                "1989"
+            ],
+            "events/process-opening/place/la": [
+                "Archidiocesis Leopolitana"
+            ],
+            "events/role#1/description/la": [
+                "vicarius"
+            ],
+            "events/role#2/description/la": [
+                "administrator"
+            ],
+            "events/role#3/description/la": [
+                "religionis doctor"
+            ],
+            "events/role#4/description": [
+                "catechista"
             ],
             "forenames": [
                 "sigismundus"
             ],
-            "ordained-priest": [
-                "1871-07-25"
+            "names/la": [
+                "Sigismundus Gorazdowski"
             ],
             "specially-venerated-persons": [
-                "god/fil",
                 "patrons/maria/naz",
                 "patrons/multa/fid",
                 "patrons/ioseph/naz"
@@ -196,7 +272,11 @@
                 "beatus",
                 "sanctus"
             ],
-            "surnames#la": [
+            "statuses": [
+                "beatus",
+                "sanctus"
+            ],
+            "surnames/la": [
                 "Gorazdowski"
             ]
         }

@@ -83,7 +83,10 @@
         "mr-2004-movable": ["..."],
         "mr-2004-index": ["..."],
 
-        "docs": ["..."]
+        "docs": {
+            "10002:2005/10/23#1": "https://www.vatican.va/archive/aas/documents/2006/luglio%202006.pdf#page=1",
+            "...": "..."
+        }
     },
 
     "feasts": {},

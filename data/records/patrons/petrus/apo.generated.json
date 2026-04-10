@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "2005": {
+            "categories": [
+                "apostolus"
+            ],
+            "forenames": [
+                "petrus"
+            ],
+            "forenames/la": [
+                "Petrus"
+            ],
+            "statuses": [
+                "beatus"
+            ],
+            "statuses/sanctus": [
+                "Sanctum"
+            ]
+        }
+    }
+}

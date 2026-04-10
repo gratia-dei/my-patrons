@@ -4,6 +4,23 @@
             "forenames": [
                 "iesus"
             ]
+        },
+        "2005": {
+            "epithets/la": [
+                "Christus",
+                "Redemptor hominum",
+                "Salvator"
+            ],
+            "forenames": [
+                "iesus"
+            ],
+            "forenames/la": [
+                "Iesus"
+            ],
+            "names/la": [
+                "Filius",
+                "Iesus Christus"
+            ]
         }
     }
 }

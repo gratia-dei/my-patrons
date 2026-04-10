@@ -1,14 +1,23 @@
 {
     "fields": {
         "2005": {
-            "caietanus": [
-                "Caietanum"
+            "events/canonization/place": [
+                "Forum ante Patriarchalem Basilicam Vaticanam"
+            ],
+            "forenames": [
+                "caietanus"
+            ],
+            "forenames/la": [
+                "Caietanus"
+            ],
+            "names/la": [
+                "Caietanus Catanoso"
             ],
             "status": [
                 "beatus",
                 "sanctus"
             ],
-            "surnames#la": [
+            "surnames/la": [
                 "Catanoso"
             ]
         }
