@@ -17,7 +17,8 @@
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#forename"],
             "assignments": {
-                "forenames": "array-value"
+                "forenames": "array-value",
+                "forenames/#language": "forenames:names/#language"
             }
         },
 
@@ -139,7 +140,7 @@
         "communities/member/#community/date": {
             "types": ["null", "string", "indexed-array"],
             "assignments": {
-                "communities/member/#community/date": ["value", "array-value"]
+                "communities/member/#community/date": ["value", "array-value", "this:events/community-join/date"]
             }
         },
         "communities/creator": {
@@ -154,7 +155,7 @@
         "communities/creator/#community/date": {
             "types": ["null", "string", "indexed-array"],
             "assignments": {
-                "communities/creator/#community/date": ["value", "array-value"]
+                "communities/creator/#community/date": ["value", "array-value", "this:events/community-found/date"]
             }
         },
 
@@ -235,7 +236,7 @@
             "types": ["empty-array", "associative-array"],
             "assignments": {
                 "feasts": "array-key",
-                "feasts/#feast/names": "feasts/#feast:names/#language",
+                "feasts/#feast/names/#language": "feasts/#feast:names/#language",
                 "feasts/#feast/date": "feasts/#feast:date"
             }
         },

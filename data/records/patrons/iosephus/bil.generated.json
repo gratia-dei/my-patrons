@@ -1,8 +1,11 @@
 {
     "fields": {
         "2001": {
-            "beatified/date": [
+            "event/beatofocation/date": [
                 "2001-06-26"
+            ],
+            "events/beatification/place/la": [
+                "Leopolis"
             ],
             "feast": [
                 "03-20"
@@ -10,11 +13,17 @@
             "forenames": [
                 "iosephus"
             ],
+            "forenames/pl": [
+                "Józef"
+            ],
+            "names/pl": [
+                "Józef Bilczewski"
+            ],
             "status": [
                 "venerabilis-dei-servus",
                 "beatus"
             ],
-            "surnames#pl": [
+            "surnames/pl": [
                 "Bilczewski"
             ]
         },

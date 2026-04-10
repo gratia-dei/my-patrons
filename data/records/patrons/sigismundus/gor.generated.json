@@ -1,24 +1,105 @@
 {
     "fields": {
         "2001": {
-            "beatified/date": [
-                "2001-06-26"
-            ],
-            "born": [
-                "1845-11-01"
-            ],
             "categories": [
                 "fundator"
             ],
-            "communities/creator#c-s-s-j/date": [
-                "die XVII mensis Februarii anno MDCCCLXXXIV Congregationem Sororum S. Ioseph fundavit"
+            "communities/c-s-s-j/names/la": [
+                "Congregatio Sororum S. Ioseph"
             ],
-            "dead": [
-                "1920-01-01"
+            "communities/creator/c-s-s-j/date": [
+                "1884-02-17"
             ],
-            "epithets#la": [
+            "epithets/la": [
                 "Pater pauperum",
                 "Tecto carentium sacerdos"
+            ],
+            "event/beatofocation/date": [
+                "2001-06-26"
+            ],
+            "events.place#1/place": [
+                "[italic:]Wojnilów[:italic]"
+            ],
+            "events/beatification-miracle-recognition/date": [
+                "2001-04-24"
+            ],
+            "events/beatification/date": [
+                "2001-06-26"
+            ],
+            "events/beatification/place/la": [
+                "Leopolis"
+            ],
+            "events/birth/date": [
+                "1845-11-01"
+            ],
+            "events/birth/place/la": [
+                "[italic:]Sanok[:italic]",
+                "dioecesis Premisliensis Latinorum",
+                "Polonia Meridiana"
+            ],
+            "events/death/date": [
+                "1920-01-01"
+            ],
+            "events/death/place": [
+                "Leopolis"
+            ],
+            "events/education#1/description/la": [
+                "completio gymnasii"
+            ],
+            "events/education#2/description/la": [
+                "in studiorum Universitate Leopolitana iuris disciplinae dedit nomen"
+            ],
+            "events/education#2/place": [
+                "Leopolis",
+                "Universitas Leopolitana"
+            ],
+            "events/education#3/description/la": [
+                "urbis Seminarium ingressus est"
+            ],
+            "events/education#3/place": [
+                "Leopolis"
+            ],
+            "events/heroic-virtues-recognition/date": [
+                "1999-12-20"
+            ],
+            "events/presence#1/description/la": [
+                "Ingruente in oppido [italic:]Wojnilów[:italic] cholera morbo, perquam impigre aegrotis assedit, absque metu contagionis adiens periculum"
+            ],
+            "events/presence#2/description/la": [
+                "Leopolim translatus, complura de caritate incepta suscepit"
+            ],
+            "events/presence#2/place/la": [
+                "Leopolis"
+            ],
+            "events/priestly-ordination/date": [
+                "1871-07-25"
+            ],
+            "events/priestly-ordination/description/la": [
+                "ordine sacro auctus est"
+            ],
+            "events/process-opening/date": [
+                "1989"
+            ],
+            "events/process-opening/description/la": [
+                "anno MCMLXXXIX dioecesana inquisitio incohata est"
+            ],
+            "events/role#1/description": [
+                "vicarius paroecialis"
+            ],
+            "events/role#1/place": [
+                "Galicia"
+            ],
+            "events/role#2/description/la": [
+                "editor"
+            ],
+            "events/role#3/description/la": [
+                "compositor"
+            ],
+            "events/role#4/descritpion": [
+                "secretarius"
+            ],
+            "events/role#4/place": [
+                "Institutum Pauperum Christianorum"
             ],
             "feast": [
                 "06-26"
@@ -26,21 +107,31 @@
             "forenames": [
                 "sigismundus"
             ],
-            "ordained-priest": [
-                "1871-07-25"
+            "forenames/pl": [
+                "Zygmunt"
+            ],
+            "names/la": [
+                "Sigismundus Gorazdowski"
+            ],
+            "names/pl": [
+                "Zygmunt Gorazdowski"
             ],
             "specially-venerated-persons": [
-                "god/fil",
                 "patrons/maria/naz"
             ],
             "status": [
                 "venerabilis-dei-servus",
                 "beatus"
             ],
-            "surnames#la": [
+            "statuses": [
+                "venerabilis-dei-servus",
+                "beatus",
+                "servus-dei"
+            ],
+            "surnames/la": [
                 "Gorazdowski"
             ],
-            "surnames#pl": [
+            "surnames/pl": [
                 "Gorazdowski"
             ]
         },

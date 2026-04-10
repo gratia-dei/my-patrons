@@ -68,7 +68,10 @@
         "mr-2004-movable": ["..."],
         "mr-2004-index": ["..."],
 
-        "docs": ["..."]
+        "docs": {
+            "10001:2001/06/24#1": "https://www.vatican.va/archive/aas/documents/2003/gennaio%202003.pdf#page=37",
+            "...": "..."
+        }
     },
 
 
