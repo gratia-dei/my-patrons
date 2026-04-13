@@ -7,6 +7,7 @@ class GuideMainContent extends MainContent implements MainContentInterface
 
     private string $file = '';
     private string $title = '';
+    private ?string $icon = null;
 
     public function configure(string $path): bool
     {
@@ -50,6 +51,7 @@ class GuideMainContent extends MainContent implements MainContentInterface
             $this->path = $path;
             $this->markdownFile = $this->getReplacedContent(self::VARIABLE_NAME_SIGN . $templateIndex . self::VARIABLE_NAME_SIGN, $templateVariables);
             $this->title = $this->getReplacedContent(self::VARIABLE_NAME_SIGN . $nameIndex . self::VARIABLE_NAME_SIGN, $nameVariables, true);
+            $this->icon = $guideConfig[$chapter]['icon'] ?? null;
 
             return true;
         }
@@ -66,8 +68,19 @@ class GuideMainContent extends MainContent implements MainContentInterface
     {
         $result = $this->getOriginalHtmlFileContent('main-contents/guide-main-content.html');
 
+        $iconContent = '';
+        if (!is_null($this->icon)) {
+            $iconContent = $this->getOriginalHtmlFileContent('content-blocks/challenge-icon-content-block.html');
+            $variables = [
+                'svg-icon-path' => $this->icon,
+            ];
+
+            $iconContent = $this->getReplacedContent($iconContent, $variables);
+        }
+
         $variables = [
             'file-path' => $this->markdownFile,
+            'title-icon' => $iconContent,
             'title' => $this->title,
         ];
         $result = $this->getReplacedContent($result, $variables);

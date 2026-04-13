@@ -3,6 +3,7 @@
         "name": {
             "pl": "Przewodnik"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/wstep"
@@ -14,6 +15,7 @@
         "name": {
             "pl": "Bóg i ja"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/bog-i-ja"
@@ -25,6 +27,7 @@
         "name": {
             "pl": "Misje Specjalne"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-specjalne"
@@ -36,6 +39,7 @@
         "name": {
             "pl": "Misje Apostoła"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-apostola"
@@ -47,6 +51,7 @@
         "name": {
             "pl": "Notatki własne"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/notatki-wlasne"
@@ -58,6 +63,7 @@
         "name": {
             "pl": "Patroni Opiekunowie"
         },
+        "icon": "patron-guardian-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-opiekunowie"
@@ -69,6 +75,7 @@
         "name": {
             "pl": "Moi Patroni"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/moi-patroni"
@@ -80,6 +87,7 @@
         "name": {
             "pl": "Karty kolekcjonerskie"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/karty-kolekcjonerskie"
@@ -91,6 +99,7 @@
         "name": {
             "pl": "Patroni Imion"
         },
+        "icon": "special-patron-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-imion"
@@ -102,6 +111,7 @@
         "name": {
             "pl": "Misje Wierności"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-wiernosci"
@@ -113,6 +123,7 @@
         "name": {
             "pl": "Patroni Mentorzy"
         },
+        "icon": "patron-mentor-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-mentorzy"
@@ -124,6 +135,7 @@
         "name": {
             "pl": "Sakramenty"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/sakramenty"
@@ -135,6 +147,7 @@
         "name": {
             "pl": "Patroni Obrońcy"
         },
+        "icon": "patron-defender-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-obroncy"
@@ -146,6 +159,7 @@
         "name": {
             "pl": "Misje Odpustu"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-odpustu"
@@ -157,6 +171,7 @@
         "name": {
             "pl": "Misje Posłańca"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-poslanca"
@@ -168,6 +183,7 @@
         "name": {
             "pl": "Patroni Orędownicy"
         },
+        "icon": "patron-advocate-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-oredownicy"
@@ -179,6 +195,7 @@
         "name": {
             "pl": "Cykle Pobożności"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/cykle-poboznosci"
@@ -190,6 +207,7 @@
         "name": {
             "pl": "Misje Pobożności"
         },
+        "icon": "special-mission-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/misje-poboznosci"
@@ -201,6 +219,7 @@
         "name": {
             "pl": "Patroni Wspomożyciele"
         },
+        "icon": "patron-helper-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-wspomozyciele"
@@ -212,6 +231,7 @@
         "name": {
             "pl": "Patroni Przewodnicy"
         },
+        "icon": "patron-guide-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-przewodnicy"
@@ -223,6 +243,7 @@
         "name": {
             "pl": "Patroni Serca"
         },
+        "icon": "special-patron-icon",
         "description": {
             "template": {
                 "pl": "pl/przewodnik/patroni-serca"
@@ -234,6 +255,7 @@
         "name": {
             "pl": "Podsumowanie"
         },
+        "icon": null,
         "description": {
             "template": {
                 "pl": "pl/przewodnik/podsumowanie"

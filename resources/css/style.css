@@ -2010,3 +2010,23 @@ button,
   align-items: space-between;
   justify-content: space-between;
 }
+
+
+
+.challenge-colors-legend {
+  display: inline-block;
+  width: 50%;
+  height: 50%;
+  padding: 0px;
+  margin: 5px;
+}
+
+
+
+.challenge-icon-medium {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  padding: 0px;
+  margin: 5px;
+}
