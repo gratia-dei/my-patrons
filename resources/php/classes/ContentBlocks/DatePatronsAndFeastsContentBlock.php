@@ -4,6 +4,7 @@ class DatePatronsAndFeastsContentBlock extends DateContentBlock implements Conte
 {
     protected function setOtherProperties(string $dates): void
     {
+        $this->iconFile = 'patron-defender-icon';
         $this->listNameVariable = 'lang-defender-patrons';
         $this->formTemplate = $this->getOriginalHtmlFileContent('content-blocks/date-change-form-single-full-content-block.html');
         $this->dateFormInfoLangVariable = 'lang-date-form-info-for-defender-patrons';

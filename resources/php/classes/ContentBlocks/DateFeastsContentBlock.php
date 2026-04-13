@@ -4,6 +4,7 @@ class DateFeastsContentBlock extends DateContentBlock implements ContentBlockInt
 {
     protected function setOtherProperties(string $dates): void
     {
+        $this->iconFile = 'patron-defender-icon';
         $this->listNameVariable = 'lang-feasts-to-discover';
         $this->formTemplate = $this->getOriginalHtmlFileContent('content-blocks/date-change-form-single-full-content-block.html');
         $this->dateFormInfoLangVariable = 'lang-date-form-info-for-feasts-to-discover';

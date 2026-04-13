@@ -16,6 +16,7 @@ abstract class DateContentBlock extends ContentBlock implements ContentBlockInte
     protected $dates = [];
     protected $rows = [];
     protected $textVariables;
+    protected $iconFile;
     protected $listNameVariable;
     protected $mainTemplate;
     protected $itemTemplate;
@@ -74,6 +75,7 @@ abstract class DateContentBlock extends ContentBlock implements ContentBlockInte
         }
 
         $variables = [
+            'icon-file' => $this->iconFile,
             'list-name-variable' => $this->getListNameVariable(),
             'dates' => $this->getDatesString(),
             'patrons-list' => $patronsListContent,
