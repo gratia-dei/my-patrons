@@ -2030,3 +2030,11 @@ button,
   padding: 0px;
   margin: 5px;
 }
+
+.challenge-icon-small {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  padding: 0px;
+  margin: 5px;
+}
