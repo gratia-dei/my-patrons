@@ -1,84 +1,70 @@
 {
     "fields": {
-        "2001": {
-            "event/beatofocation/date": {
-                "2001-06-26": [
-                    "todo"
-                ]
-            },
-            "events/beatification/place/la": {
-                "Leopolis": [
-                    "todo"
-                ]
-            },
-            "feast": {
-                "03-20": [
-                    "todo"
-                ]
-            },
-            "forenames": {
-                "iosephus": [
-                    "todo"
-                ]
-            },
-            "forenames/pl": {
-                "Józef": [
-                    "todo"
-                ]
-            },
-            "names/pl": {
-                "Józef Bilczewski": [
-                    "todo"
-                ]
-            },
-            "status": {
-                "venerabilis-dei-servus": [
-                    "todo"
-                ],
-                "beatus": [
-                    "todo"
-                ]
-            },
-            "surnames/pl": {
-                "Bilczewski": [
-                    "todo"
-                ]
-            }
+        "event/beatofocation/date": {
+            "2001-06-26": [
+                "todo"
+            ]
         },
-        "2005": {
-            "events/canonization/place": {
-                "Forum ante Patriarchalem Basilicam Vaticanam": [
-                    "todo"
-                ]
-            },
-            "forenames": {
-                "iosephus": [
-                    "todo"
-                ]
-            },
-            "forenames/la": {
-                "Iosephus": [
-                    "todo"
-                ]
-            },
-            "names/la": {
-                "Iosephus Bilczewski": [
-                    "todo"
-                ]
-            },
-            "status": {
-                "beatus": [
-                    "todo"
-                ],
-                "sanctus": [
-                    "todo"
-                ]
-            },
-            "surnames/la": {
-                "Bilczewski": [
-                    "todo"
-                ]
-            }
+        "events/beatification/place/la": {
+            "Leopolis": [
+                "todo"
+            ]
+        },
+        "events/canonization/place": {
+            "Forum ante Patriarchalem Basilicam Vaticanam": [
+                "todo"
+            ]
+        },
+        "feast": {
+            "03-20": [
+                "todo"
+            ]
+        },
+        "forenames": {
+            "iosephus": [
+                "todo"
+            ]
+        },
+        "forenames/la": {
+            "Iosephus": [
+                "todo"
+            ]
+        },
+        "forenames/pl": {
+            "Józef": [
+                "todo"
+            ]
+        },
+        "names/la": {
+            "Iosephus Bilczewski": [
+                "todo"
+            ]
+        },
+        "names/pl": {
+            "Józef Bilczewski": [
+                "todo"
+            ]
+        },
+        "status": {
+            "venerabilis-dei-servus": [
+                "todo"
+            ],
+            "beatus": [
+                "todo"
+            ],
+            "sanctus": [
+                "todo"
+            ]
+        },
+        "surnames/la": {
+            "Bilczewski": [
+                "todo"
+            ]
+        },
+        "surnames/pl": {
+            "Bilczewski": [
+                "todo"
+            ]
         }
     }
 }

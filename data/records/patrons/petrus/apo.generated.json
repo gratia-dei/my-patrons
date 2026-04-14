@@ -1,31 +1,29 @@
 {
     "fields": {
-        "2005": {
-            "categories": {
-                "apostolus": [
-                    "todo"
-                ]
-            },
-            "forenames": {
-                "petrus": [
-                    "todo"
-                ]
-            },
-            "forenames/la": {
-                "Petrus": [
-                    "todo"
-                ]
-            },
-            "statuses": {
-                "beatus": [
-                    "todo"
-                ]
-            },
-            "statuses/sanctus": {
-                "Sanctum": [
-                    "todo"
-                ]
-            }
+        "categories": {
+            "apostolus": [
+                "todo"
+            ]
+        },
+        "forenames": {
+            "petrus": [
+                "todo"
+            ]
+        },
+        "forenames/la": {
+            "Petrus": [
+                "todo"
+            ]
+        },
+        "statuses": {
+            "beatus": [
+                "todo"
+            ]
+        },
+        "statuses/sanctus": {
+            "Sanctum": [
+                "todo"
+            ]
         }
     }
 }

@@ -1,21 +1,19 @@
 {
     "fields": {
-        "2005": {
-            "forenames": {
-                "martinus": [
-                    "todo"
-                ]
-            },
-            "forenames/la": {
-                "Martinus": [
-                    "todo"
-                ]
-            },
-            "statuses": {
-                "sanctus": [
-                    "todo"
-                ]
-            }
+        "forenames": {
+            "martinus": [
+                "todo"
+            ]
+        },
+        "forenames/la": {
+            "Martinus": [
+                "todo"
+            ]
+        },
+        "statuses": {
+            "sanctus": [
+                "todo"
+            ]
         }
     }
 }

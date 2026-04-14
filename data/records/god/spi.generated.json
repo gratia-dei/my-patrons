@@ -1,28 +1,24 @@
 {
     "fields": {
-        "2001": {
-            "names/pl": {
-                "Duch Święty": [
-                    "todo"
-                ]
-            },
-            "statuses/pl": {
-                "Święty": [
-                    "todo"
-                ]
-            }
+        "names/la": {
+            "Spiritus Sancti": [
+                "todo"
+            ]
         },
-        "2005": {
-            "names/la": {
-                "Spiritus Sancti": [
-                    "todo"
-                ]
-            },
-            "statuses": {
-                "sanctus": [
-                    "todo"
-                ]
-            }
+        "names/pl": {
+            "Duch Święty": [
+                "todo"
+            ]
+        },
+        "statuses": {
+            "sanctus": [
+                "todo"
+            ]
+        },
+        "statuses/pl": {
+            "Święty": [
+                "todo"
+            ]
         }
     }
 }

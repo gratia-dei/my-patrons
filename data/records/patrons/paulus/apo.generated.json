@@ -1,29 +1,27 @@
 {
     "fields": {
-        "2005": {
-            "categories": {
-                "alius-apostolus": [
-                    "todo"
-                ]
-            },
-            "forenames": {
-                "paulus": [
-                    "todo"
-                ]
-            },
-            "forenames/la": {
-                "Paulus": [
-                    "todo"
-                ]
-            },
-            "statuses": {
-                "sanctus": [
-                    "todo"
-                ],
-                "beatus": [
-                    "todo"
-                ]
-            }
+        "categories": {
+            "alius-apostolus": [
+                "todo"
+            ]
+        },
+        "forenames": {
+            "paulus": [
+                "todo"
+            ]
+        },
+        "forenames/la": {
+            "Paulus": [
+                "todo"
+            ]
+        },
+        "statuses": {
+            "sanctus": [
+                "todo"
+            ],
+            "beatus": [
+                "todo"
+            ]
         }
     }
 }

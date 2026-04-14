@@ -1,42 +1,40 @@
 {
     "fields": {
-        "2005": {
-            "events/canonization/place": {
-                "Forum ante Patriarchalem Basilicam Vaticanam": [
-                    "todo"
-                ]
-            },
-            "forenames": {
-                "albertus": [
-                    "todo"
-                ]
-            },
-            "forenames/la": {
-                "Albertus": [
-                    "todo"
-                ]
-            },
-            "names/la": {
-                "Albertus Hurtado Cruchaga": [
-                    "todo"
-                ]
-            },
-            "status": {
-                "beatus": [
-                    "todo"
-                ],
-                "sanctus": [
-                    "todo"
-                ]
-            },
-            "surnames/la": {
-                "Hurtado": [
-                    "todo"
-                ],
-                "Cruchaga": [
-                    "todo"
-                ]
-            }
+        "events/canonization/place": {
+            "Forum ante Patriarchalem Basilicam Vaticanam": [
+                "todo"
+            ]
+        },
+        "forenames": {
+            "albertus": [
+                "todo"
+            ]
+        },
+        "forenames/la": {
+            "Albertus": [
+                "todo"
+            ]
+        },
+        "names/la": {
+            "Albertus Hurtado Cruchaga": [
+                "todo"
+            ]
+        },
+        "status": {
+            "beatus": [
+                "todo"
+            ],
+            "sanctus": [
+                "todo"
+            ]
+        },
+        "surnames/la": {
+            "Hurtado": [
+                "todo"
+            ],
+            "Cruchaga": [
+                "todo"
+            ]
         }
     }
 }
