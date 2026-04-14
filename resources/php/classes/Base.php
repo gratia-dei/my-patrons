@@ -351,7 +351,8 @@ abstract class Base
                 $assignValue = $value;
             }
 
-            $result = $this->consolidateAssignmentTags($result, $linkId, $assignFieldPath, $assignValue);
+            $assignValueWithoutTextFormattingTags = preg_replace('/\[[^]]+\]/', '', $assignValue);
+            $result = $this->consolidateAssignmentTags($result, $linkId, $assignFieldPath, $assignValueWithoutTextFormattingTags);
         }
 
         return $result;
