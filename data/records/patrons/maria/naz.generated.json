@@ -1,29 +1,43 @@
 {
     "fields": {
         "2001": {
-            "forenames": [
-                "maria"
-            ],
-            "names/la": [
-                "Maria Virgo"
-            ],
-            "statuses/beatus": [
-                "Beatae"
-            ]
+            "forenames": {
+                "maria": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Maria Virgo": [
+                    "todo"
+                ]
+            },
+            "statuses/beatus": {
+                "Beatae": [
+                    "todo"
+                ]
+            }
         },
         "2005": {
-            "feasts/dbm/names/la": [
-                "Maria a Nive"
-            ],
-            "forenames": [
-                "maria"
-            ],
-            "forenames/la": [
-                "Maria"
-            ],
-            "statuses": [
-                "sanctus"
-            ]
+            "feasts/dbm/names/la": {
+                "Maria a Nive": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "maria": [
+                    "todo"
+                ]
+            },
+            "forenames/la": {
+                "Maria": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "sanctus": [
+                    "todo"
+                ]
+            }
         }
     }
 }

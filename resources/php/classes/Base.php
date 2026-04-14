@@ -361,7 +361,8 @@ abstract class Base
     protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue): array
     {
         if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
-            $result[$linkId][$assignFieldPath][] = $assignValue;
+            $valueArray = ['todo'];
+            $result[$linkId][$assignFieldPath][$assignValue] = $valueArray;
         }
 
         return $result;

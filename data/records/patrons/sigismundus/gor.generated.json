@@ -1,284 +1,492 @@
 {
     "fields": {
         "2001": {
-            "categories": [
-                "fundator"
-            ],
-            "communities/c-s-s-j/names/la": [
-                "Congregatio Sororum S. Ioseph"
-            ],
-            "communities/creator/c-s-s-j/date": [
-                "1884-02-17"
-            ],
-            "epithets/la": [
-                "Pater pauperum",
-                "Tecto carentium sacerdos"
-            ],
-            "event/beatofocation/date": [
-                "2001-06-26"
-            ],
-            "events.place#1/place": [
-                "Wojnilów"
-            ],
-            "events/beatification-miracle-recognition/date": [
-                "2001-04-24"
-            ],
-            "events/beatification/date": [
-                "2001-06-26"
-            ],
-            "events/beatification/place/la": [
-                "Leopolis"
-            ],
-            "events/birth/date": [
-                "1845-11-01"
-            ],
-            "events/birth/place/la": [
-                "Sanok",
-                "dioecesis Premisliensis Latinorum",
-                "Polonia Meridiana"
-            ],
-            "events/death/date": [
-                "1920-01-01"
-            ],
-            "events/death/place": [
-                "Leopolis"
-            ],
-            "events/education#1/description/la": [
-                "completio gymnasii"
-            ],
-            "events/education#2/description/la": [
-                "in studiorum Universitate Leopolitana iuris disciplinae dedit nomen"
-            ],
-            "events/education#2/place": [
-                "Leopolis",
-                "Universitas Leopolitana"
-            ],
-            "events/education#3/description/la": [
-                "urbis Seminarium ingressus est"
-            ],
-            "events/education#3/place": [
-                "Leopolis"
-            ],
-            "events/heroic-virtues-recognition/date": [
-                "1999-12-20"
-            ],
-            "events/presence#1/description/la": [
-                "Ingruente in oppido Wojnilów cholera morbo, perquam impigre aegrotis assedit, absque metu contagionis adiens periculum"
-            ],
-            "events/presence#2/description/la": [
-                "Leopolim translatus, complura de caritate incepta suscepit"
-            ],
-            "events/presence#2/place/la": [
-                "Leopolis"
-            ],
-            "events/priestly-ordination/date": [
-                "1871-07-25"
-            ],
-            "events/priestly-ordination/description/la": [
-                "ordine sacro auctus est"
-            ],
-            "events/process-opening/date": [
-                "1989"
-            ],
-            "events/process-opening/description/la": [
-                "anno MCMLXXXIX dioecesana inquisitio incohata est"
-            ],
-            "events/role#1/description": [
-                "vicarius paroecialis"
-            ],
-            "events/role#1/place": [
-                "Galicia"
-            ],
-            "events/role#2/description/la": [
-                "editor"
-            ],
-            "events/role#3/description/la": [
-                "compositor"
-            ],
-            "events/role#4/descritpion": [
-                "secretarius"
-            ],
-            "events/role#4/place": [
-                "Institutum Pauperum Christianorum"
-            ],
-            "feast": [
-                "06-26"
-            ],
-            "forenames": [
-                "sigismundus"
-            ],
-            "forenames/pl": [
-                "Zygmunt"
-            ],
-            "names/la": [
-                "Sigismundus Gorazdowski"
-            ],
-            "names/pl": [
-                "Zygmunt Gorazdowski"
-            ],
-            "specially-venerated-persons": [
-                "patrons/maria/naz"
-            ],
-            "status": [
-                "venerabilis-dei-servus",
-                "beatus"
-            ],
-            "statuses": [
-                "venerabilis-dei-servus",
-                "beatus",
-                "servus-dei"
-            ],
-            "surnames/la": [
-                "Gorazdowski"
-            ],
-            "surnames/pl": [
-                "Gorazdowski"
-            ]
+            "categories": {
+                "fundator": [
+                    "todo"
+                ]
+            },
+            "communities/c-s-s-j/names/la": {
+                "Congregatio Sororum S. Ioseph": [
+                    "todo"
+                ]
+            },
+            "communities/creator/c-s-s-j/date": {
+                "1884-02-17": [
+                    "todo"
+                ]
+            },
+            "epithets/la": {
+                "Pater pauperum": [
+                    "todo"
+                ],
+                "Tecto carentium sacerdos": [
+                    "todo"
+                ]
+            },
+            "event/beatofocation/date": {
+                "2001-06-26": [
+                    "todo"
+                ]
+            },
+            "events.place#1/place": {
+                "Wojnilów": [
+                    "todo"
+                ]
+            },
+            "events/beatification-miracle-recognition/date": {
+                "2001-04-24": [
+                    "todo"
+                ]
+            },
+            "events/beatification/date": {
+                "2001-06-26": [
+                    "todo"
+                ]
+            },
+            "events/beatification/place/la": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/birth/date": {
+                "1845-11-01": [
+                    "todo"
+                ]
+            },
+            "events/birth/place/la": {
+                "Sanok": [
+                    "todo"
+                ],
+                "dioecesis Premisliensis Latinorum": [
+                    "todo"
+                ],
+                "Polonia Meridiana": [
+                    "todo"
+                ]
+            },
+            "events/death/date": {
+                "1920-01-01": [
+                    "todo"
+                ]
+            },
+            "events/death/place": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/education#1/description/la": {
+                "completio gymnasii": [
+                    "todo"
+                ]
+            },
+            "events/education#2/description/la": {
+                "in studiorum Universitate Leopolitana iuris disciplinae dedit nomen": [
+                    "todo"
+                ]
+            },
+            "events/education#2/place": {
+                "Leopolis": [
+                    "todo"
+                ],
+                "Universitas Leopolitana": [
+                    "todo"
+                ]
+            },
+            "events/education#3/description/la": {
+                "urbis Seminarium ingressus est": [
+                    "todo"
+                ]
+            },
+            "events/education#3/place": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/heroic-virtues-recognition/date": {
+                "1999-12-20": [
+                    "todo"
+                ]
+            },
+            "events/presence#1/description/la": {
+                "Ingruente in oppido Wojnilów cholera morbo, perquam impigre aegrotis assedit, absque metu contagionis adiens periculum": [
+                    "todo"
+                ]
+            },
+            "events/presence#2/description/la": {
+                "Leopolim translatus, complura de caritate incepta suscepit": [
+                    "todo"
+                ]
+            },
+            "events/presence#2/place/la": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/priestly-ordination/date": {
+                "1871-07-25": [
+                    "todo"
+                ]
+            },
+            "events/priestly-ordination/description/la": {
+                "ordine sacro auctus est": [
+                    "todo"
+                ]
+            },
+            "events/process-opening/date": {
+                "1989": [
+                    "todo"
+                ]
+            },
+            "events/process-opening/description/la": {
+                "anno MCMLXXXIX dioecesana inquisitio incohata est": [
+                    "todo"
+                ]
+            },
+            "events/role#1/description": {
+                "vicarius paroecialis": [
+                    "todo"
+                ]
+            },
+            "events/role#1/place": {
+                "Galicia": [
+                    "todo"
+                ]
+            },
+            "events/role#2/description/la": {
+                "editor": [
+                    "todo"
+                ]
+            },
+            "events/role#3/description/la": {
+                "compositor": [
+                    "todo"
+                ]
+            },
+            "events/role#4/descritpion": {
+                "secretarius": [
+                    "todo"
+                ]
+            },
+            "events/role#4/place": {
+                "Institutum Pauperum Christianorum": [
+                    "todo"
+                ]
+            },
+            "feast": {
+                "06-26": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "sigismundus": [
+                    "todo"
+                ]
+            },
+            "forenames/pl": {
+                "Zygmunt": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Sigismundus Gorazdowski": [
+                    "todo"
+                ]
+            },
+            "names/pl": {
+                "Zygmunt Gorazdowski": [
+                    "todo"
+                ]
+            },
+            "specially-venerated-persons": {
+                "patrons/maria/naz": [
+                    "todo"
+                ]
+            },
+            "status": {
+                "venerabilis-dei-servus": [
+                    "todo"
+                ],
+                "beatus": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "venerabilis-dei-servus": [
+                    "todo"
+                ],
+                "beatus": [
+                    "todo"
+                ],
+                "servus-dei": [
+                    "todo"
+                ]
+            },
+            "surnames/la": {
+                "Gorazdowski": [
+                    "todo"
+                ]
+            },
+            "surnames/pl": {
+                "Gorazdowski": [
+                    "todo"
+                ]
+            }
         },
         "2004": {
-            "categories": [
-                "vir",
-                "presbyter",
-                "fundator"
-            ],
-            "communities/creator": [
-                "c-s-s-j"
-            ],
-            "forenames": [
-                "sigismundus"
-            ],
-            "status": [
-                "beatus"
-            ],
-            "surnames#la": [
-                "Gorazdowski"
-            ]
+            "categories": {
+                "vir": [
+                    "todo"
+                ],
+                "presbyter": [
+                    "todo"
+                ],
+                "fundator": [
+                    "todo"
+                ]
+            },
+            "communities/creator": {
+                "c-s-s-j": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "sigismundus": [
+                    "todo"
+                ]
+            },
+            "status": {
+                "beatus": [
+                    "todo"
+                ]
+            },
+            "surnames#la": {
+                "Gorazdowski": [
+                    "todo"
+                ]
+            }
         },
         "2005": {
-            "/events/priestly-ordination/date": [
-                "1871-07-25"
-            ],
-            "categories": [
-                "presbyter",
-                "catechista",
-                "fundator"
-            ],
-            "communities/c-s-s-j/names/la": [
-                "Congregatio Sororum Sancti Ioseph"
-            ],
-            "communities/creator/c-s-s-j/date": [
-                "1884-02-17"
-            ],
-            "events/#presence/date": [
-                ">1871,<1877"
-            ],
-            "events/beatification/date": [
-                "2001-06-26"
-            ],
-            "events/beatification/place": [
-                "Roma",
-                "Sanctus Petrus"
-            ],
-            "events/birth/date": [
-                "1845-11-01"
-            ],
-            "events/birth/place/la": [
-                "Sanochia",
-                "Polonia"
-            ],
-            "events/canonization-announcement/date": [
-                "2005-02-24"
-            ],
-            "events/canonization-miracle-recognition/date": [
-                "2004-12-20"
-            ],
-            "events/canonization/date": [
-                "2005-10-23"
-            ],
-            "events/canonization/place": [
-                "Forum ante Patriarchalem Basilicam Vaticanam"
-            ],
-            "events/canonization/place/la": [
-                "Roma"
-            ],
-            "events/death/date": [
-                "1920-01-01"
-            ],
-            "events/death/place": [
-                "Leopolis"
-            ],
-            "events/education#1/description/la": [
-                "gymnasio"
-            ],
-            "events/education#2/description/la": [
-                "Iurisprudentiae Facultatem Studiorum Universitatis Leopolitanae"
-            ],
-            "events/education#2/place/la": [
-                "Leopolis",
-                "Universitas Leopolitana"
-            ],
-            "events/education#3/place/la": [
-                "Leopolis",
-                "Seminarium Maius Leopolitanum"
-            ],
-            "events/education@2/place/la": [
-                "Ucraina"
-            ],
-            "events/presence#1/place/la": [
-                "Archidiocesis Leopolitana"
-            ],
-            "events/presence#2/date": [
-                ">1877"
-            ],
-            "events/presence#2/place/la": [
-                "Leopolis"
-            ],
-            "events/presence#3/date": [
-                ">1914"
-            ],
-            "events/presence#3/place": [
-                "Domus Congregationis Sororum Sancti Ioseph"
-            ],
-            "events/process-opening/date": [
-                "1989"
-            ],
-            "events/process-opening/place/la": [
-                "Archidiocesis Leopolitana"
-            ],
-            "events/role#1/description/la": [
-                "vicarius"
-            ],
-            "events/role#2/description/la": [
-                "administrator"
-            ],
-            "events/role#3/description/la": [
-                "religionis doctor"
-            ],
-            "events/role#4/description": [
-                "catechista"
-            ],
-            "forenames": [
-                "sigismundus"
-            ],
-            "names/la": [
-                "Sigismundus Gorazdowski"
-            ],
-            "specially-venerated-persons": [
-                "patrons/maria/naz",
-                "patrons/multa/fid",
-                "patrons/ioseph/naz"
-            ],
-            "status": [
-                "beatus",
-                "sanctus"
-            ],
-            "statuses": [
-                "beatus",
-                "sanctus"
-            ],
-            "surnames/la": [
-                "Gorazdowski"
-            ]
+            "/events/priestly-ordination/date": {
+                "1871-07-25": [
+                    "todo"
+                ]
+            },
+            "categories": {
+                "presbyter": [
+                    "todo"
+                ],
+                "catechista": [
+                    "todo"
+                ],
+                "fundator": [
+                    "todo"
+                ]
+            },
+            "communities/c-s-s-j/names/la": {
+                "Congregatio Sororum Sancti Ioseph": [
+                    "todo"
+                ]
+            },
+            "communities/creator/c-s-s-j/date": {
+                "1884-02-17": [
+                    "todo"
+                ]
+            },
+            "events/#presence/date": {
+                ">1871,<1877": [
+                    "todo"
+                ]
+            },
+            "events/beatification/date": {
+                "2001-06-26": [
+                    "todo"
+                ]
+            },
+            "events/beatification/place": {
+                "Roma": [
+                    "todo"
+                ],
+                "Sanctus Petrus": [
+                    "todo"
+                ]
+            },
+            "events/birth/date": {
+                "1845-11-01": [
+                    "todo"
+                ]
+            },
+            "events/birth/place/la": {
+                "Sanochia": [
+                    "todo"
+                ],
+                "Polonia": [
+                    "todo"
+                ]
+            },
+            "events/canonization-announcement/date": {
+                "2005-02-24": [
+                    "todo"
+                ]
+            },
+            "events/canonization-miracle-recognition/date": {
+                "2004-12-20": [
+                    "todo"
+                ]
+            },
+            "events/canonization/date": {
+                "2005-10-23": [
+                    "todo"
+                ]
+            },
+            "events/canonization/place": {
+                "Forum ante Patriarchalem Basilicam Vaticanam": [
+                    "todo"
+                ]
+            },
+            "events/canonization/place/la": {
+                "Roma": [
+                    "todo"
+                ]
+            },
+            "events/death/date": {
+                "1920-01-01": [
+                    "todo"
+                ]
+            },
+            "events/death/place": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/education#1/description/la": {
+                "gymnasio": [
+                    "todo"
+                ]
+            },
+            "events/education#2/description/la": {
+                "Iurisprudentiae Facultatem Studiorum Universitatis Leopolitanae": [
+                    "todo"
+                ]
+            },
+            "events/education#2/place/la": {
+                "Leopolis": [
+                    "todo"
+                ],
+                "Universitas Leopolitana": [
+                    "todo"
+                ]
+            },
+            "events/education#3/place/la": {
+                "Leopolis": [
+                    "todo"
+                ],
+                "Seminarium Maius Leopolitanum": [
+                    "todo"
+                ]
+            },
+            "events/education@2/place/la": {
+                "Ucraina": [
+                    "todo"
+                ]
+            },
+            "events/presence#1/place/la": {
+                "Archidiocesis Leopolitana": [
+                    "todo"
+                ]
+            },
+            "events/presence#2/date": {
+                ">1877": [
+                    "todo"
+                ]
+            },
+            "events/presence#2/place/la": {
+                "Leopolis": [
+                    "todo"
+                ]
+            },
+            "events/presence#3/date": {
+                ">1914": [
+                    "todo"
+                ]
+            },
+            "events/presence#3/place": {
+                "Domus Congregationis Sororum Sancti Ioseph": [
+                    "todo"
+                ]
+            },
+            "events/process-opening/date": {
+                "1989": [
+                    "todo"
+                ]
+            },
+            "events/process-opening/place/la": {
+                "Archidiocesis Leopolitana": [
+                    "todo"
+                ]
+            },
+            "events/role#1/description/la": {
+                "vicarius": [
+                    "todo"
+                ]
+            },
+            "events/role#2/description/la": {
+                "administrator": [
+                    "todo"
+                ]
+            },
+            "events/role#3/description/la": {
+                "religionis doctor": [
+                    "todo"
+                ]
+            },
+            "events/role#4/description": {
+                "catechista": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "sigismundus": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Sigismundus Gorazdowski": [
+                    "todo"
+                ]
+            },
+            "specially-venerated-persons": {
+                "patrons/maria/naz": [
+                    "todo"
+                ],
+                "patrons/multa/fid": [
+                    "todo"
+                ],
+                "patrons/ioseph/naz": [
+                    "todo"
+                ]
+            },
+            "status": {
+                "beatus": [
+                    "todo"
+                ],
+                "sanctus": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "beatus": [
+                    "todo"
+                ],
+                "sanctus": [
+                    "todo"
+                ]
+            },
+            "surnames/la": {
+                "Gorazdowski": [
+                    "todo"
+                ]
+            }
         }
     }
 }

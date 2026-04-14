@@ -1,14 +1,18 @@
 {
     "fields": {
         "2001": {
-            "names/pl": [
-                "Ojciec"
-            ]
+            "names/pl": {
+                "Ojciec": [
+                    "todo"
+                ]
+            }
         },
         "2005": {
-            "names/la": [
-                "Pater"
-            ]
+            "names/la": {
+                "Pater": [
+                    "todo"
+                ]
+            }
         }
     }
 }

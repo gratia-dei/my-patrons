@@ -1,25 +1,39 @@
 {
     "fields": {
         "2005": {
-            "events/canonization/place": [
-                "Forum ante Patriarchalem Basilicam Vaticanam"
-            ],
-            "forenames": [
-                "caietanus"
-            ],
-            "forenames/la": [
-                "Caietanus"
-            ],
-            "names/la": [
-                "Caietanus Catanoso"
-            ],
-            "status": [
-                "beatus",
-                "sanctus"
-            ],
-            "surnames/la": [
-                "Catanoso"
-            ]
+            "events/canonization/place": {
+                "Forum ante Patriarchalem Basilicam Vaticanam": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "caietanus": [
+                    "todo"
+                ]
+            },
+            "forenames/la": {
+                "Caietanus": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Caietanus Catanoso": [
+                    "todo"
+                ]
+            },
+            "status": {
+                "beatus": [
+                    "todo"
+                ],
+                "sanctus": [
+                    "todo"
+                ]
+            },
+            "surnames/la": {
+                "Catanoso": [
+                    "todo"
+                ]
+            }
         }
     }
 }

@@ -1,29 +1,47 @@
 {
     "fields": {
         "2001": {
-            "forenames": [
-                "iesus"
-            ],
-            "names/pl": [
-                "Syn"
-            ]
+            "forenames": {
+                "iesus": [
+                    "todo"
+                ]
+            },
+            "names/pl": {
+                "Syn": [
+                    "todo"
+                ]
+            }
         },
         "2005": {
-            "epithets/la": [
-                "Christus",
-                "Redemptor hominum",
-                "Salvator"
-            ],
-            "forenames": [
-                "iesus"
-            ],
-            "forenames/la": [
-                "Iesus"
-            ],
-            "names/la": [
-                "Filius",
-                "Iesus Christus"
-            ]
+            "epithets/la": {
+                "Christus": [
+                    "todo"
+                ],
+                "Redemptor hominum": [
+                    "todo"
+                ],
+                "Salvator": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "iesus": [
+                    "todo"
+                ]
+            },
+            "forenames/la": {
+                "Iesus": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Filius": [
+                    "todo"
+                ],
+                "Iesus Christus": [
+                    "todo"
+                ]
+            }
         }
     }
 }

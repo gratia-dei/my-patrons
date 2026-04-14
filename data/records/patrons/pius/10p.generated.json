@@ -1,21 +1,31 @@
 {
     "fields": {
         "2005": {
-            "epithets/la": [
-                "X"
-            ],
-            "forenames": [
-                "pius"
-            ],
-            "forenames/la": [
-                "Pius"
-            ],
-            "names/pl": [
-                "Pius X"
-            ],
-            "statuses": [
-                "sanctus"
-            ]
+            "epithets/la": {
+                "X": [
+                    "todo"
+                ]
+            },
+            "forenames": {
+                "pius": [
+                    "todo"
+                ]
+            },
+            "forenames/la": {
+                "Pius": [
+                    "todo"
+                ]
+            },
+            "names/pl": {
+                "Pius X": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "sanctus": [
+                    "todo"
+                ]
+            }
         }
     }
 }

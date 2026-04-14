@@ -1,23 +1,33 @@
 {
     "fields": {
         "2001": {
-            "forenames": [
-                "ioseph"
-            ],
-            "statuses": [
-                "sanctus"
-            ]
+            "forenames": {
+                "ioseph": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "sanctus": [
+                    "todo"
+                ]
+            }
         },
         "2005": {
-            "forenames": [
-                "ioseph"
-            ],
-            "forenames/la": [
-                "Ioseph"
-            ],
-            "statuses": [
-                "sanctus"
-            ]
+            "forenames": {
+                "ioseph": [
+                    "todo"
+                ]
+            },
+            "forenames/la": {
+                "Ioseph": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "sanctus": [
+                    "todo"
+                ]
+            }
         }
     }
 }

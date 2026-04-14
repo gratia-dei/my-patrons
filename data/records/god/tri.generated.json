@@ -1,17 +1,27 @@
 {
     "fields": {
         "2005": {
-            "epithets/la": [
-                "Individua",
-                "Sancta"
-            ],
-            "names/la": [
-                "Trinitas",
-                "Sancta et Individua Trinitas"
-            ],
-            "statuses": [
-                "sanctus"
-            ]
+            "epithets/la": {
+                "Individua": [
+                    "todo"
+                ],
+                "Sancta": [
+                    "todo"
+                ]
+            },
+            "names/la": {
+                "Trinitas": [
+                    "todo"
+                ],
+                "Sancta et Individua Trinitas": [
+                    "todo"
+                ]
+            },
+            "statuses": {
+                "sanctus": [
+                    "todo"
+                ]
+            }
         }
     }
 }

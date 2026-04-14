@@ -120,7 +120,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                 if (!empty($assignmentTags)) {
                                     foreach ($assignmentTags as $tagsLinkId => $tagsData) {
                                         foreach ($tagsData as $assignKey => $assignValueArray) {
-                                            foreach ($assignValueArray as $assignValue) {
+                                            foreach ($assignValueArray as $assignValue => $years) {
                                                 $this->unusedAssignmentTags[$generatedFileFullPath][$recordId] = $this->consolidateAssignmentTags(
                                                     $this->unusedAssignmentTags[$generatedFileFullPath][$recordId] ?? [],
                                                     $tagsLinkId,
@@ -188,7 +188,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         $structure = ($this->personGeneratedFilesData[$personFileFullPath][self::FIELDS_INDEX][$year] ?? []);
                         $structure = [$linkId => $structure];
                         foreach ($assignmentTags as $assignKey => $assignValueArray) {
-                            foreach ($assignValueArray as $assignValue) {
+                            foreach ($assignValueArray as $assignValue => $years) {
                                 $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue);
                             }
                         }
