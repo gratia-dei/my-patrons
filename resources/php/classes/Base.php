@@ -57,7 +57,7 @@ abstract class Base
 
     protected const MAIN_PAGE_PARAM = '?mode=home';
 
-    protected const UNKNOWN_YEAR = '????';
+    protected const UNKNOWN_YEAR = 0;
 
     private const RECORD_ID_NAME_EXTENSION_CHARACTERS_MAPPING = [
         ' ' => '-',
@@ -360,10 +360,10 @@ abstract class Base
         return $result;
     }
 
-    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue, array $years = [], ?int $year = null): array
+    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue, array $years = [], int $year = self::UNKNOWN_YEAR): array
     {
         if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
-            if (!is_null($year) && !in_array($year, $years, true)) {
+            if ($year !== self::UNKNOWN_YEAR && !in_array($year, $years, true)) {
                 $years[] = $year;
                 sort($years);
             }

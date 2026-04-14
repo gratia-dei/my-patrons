@@ -228,14 +228,14 @@ class GenerateDataLinkFilesProcedure extends Procedure
         }
     }
 
-    private function getRecordYear(string $pathAlias, string $link, string $recordId): string
+    private function getRecordYear(string $pathAlias, string $link, string $recordId): int
     {
         $result = self::UNKNOWN_YEAR;
         $pattern = '~[-:]([0-9]{4})~';
 
         foreach ([$pathAlias, $link, $recordId] as $text) {
             if (preg_match($pattern, $text, $matches)) {
-                $result = $matches[1] ?? self::UNKNOWN_YEAR;
+                $result = (int) ($matches[1] ?? self::UNKNOWN_YEAR);
             }
         }
 
