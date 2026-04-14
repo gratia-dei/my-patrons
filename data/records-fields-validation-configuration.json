@@ -8,7 +8,7 @@
         "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "names/#language": "array-value"
             }
         },
@@ -16,9 +16,8 @@
         "forenames": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#forename"],
-            "assignments": {
-                "forenames": "array-value",
-                "forenames/#language": "forenames:names/#language"
+            "assignments---todo": {
+                "forenames/#language": "forenames/#forename:names/#language"
             }
         },
 
@@ -31,7 +30,7 @@
         "surnames/#index/#language": {
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "surnames/#language": ["value", "array-value"]
             }
         },
@@ -45,7 +44,7 @@
         "epithets/#index/#language-with-required-values": {
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "epithets/#language": ["value", "array-value"]
             }
         },
@@ -67,19 +66,19 @@
         "events/#event/date": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "events/#event/date": "array-value"
             }
         },
         "events/#event/place": {
             "types": ["null"],
-            "assignments": {
+            "assignments---todo": {
                 "events/#event/place": ["value", "array-value"]
             }
         },
         "events/#event/description": {
             "types": ["null"],
-            "assignments": {
+            "assignments---todo": {
                 "events/#event/description": ["value", "array-value"]
             }
         },
@@ -89,7 +88,7 @@
         "feast": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "feast": "array-value"
             }
         },
@@ -100,37 +99,37 @@
         "statuses": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#status"],
-            "assignments": {
-                "statuses": "array-value"
+            "assignments---todo": {
+                "statuses/#language": "statuses/#status:names/#language"
             }
         },
 
         "attributes": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#attribute"],
-            "assignments": {
-                "attributes": "array-value"
+            "assignments---todo": {
+                "attributes/#language": "attributes/#attribute:names/#language"
             }
         },
 
         "categories": {
             "types": ["indexed-array"],
             "element-types": ["#category"],
-            "assignments": {
-                "categories": "array-value"
+            "assignments---todo": {
+                "categories/#language": "categories/#category:names/#language"
             }
         },
 
         "communities": {
             "types": ["empty-array", "associative-array"],
-            "assignments": {
-                "communities/#community/names/#language": "communities/#community:names/#language",
-                "communities/#community/siglum": "communities/#community:siglum"
+            "assignments---todo": {
+                "communities/#language": "communities/#community:names/#language",
+                "communities/siglum": "communities/#community:siglum"
             }
         },
         "communities/member": {
             "types": ["empty-array", "associative-array"],
-            "assignments": {
+            "assignments---todo": {
                 "communities/member": "array-key"
             }
         },
@@ -139,13 +138,13 @@
         },
         "communities/member/#community/date": {
             "types": ["null", "string", "indexed-array"],
-            "assignments": {
-                "communities/member/#community/date": ["value", "array-value", "this:events/community-join/date"]
+            "assignments---todo": {
+                "communities/#community/member/date": ["value", "array-value", "this:events/community-join/date"]
             }
         },
         "communities/creator": {
             "types": ["empty-array", "associative-array"],
-            "assignments": {
+            "assignments---todo": {
                 "communities/creator": "array-key"
             }
         },
@@ -154,24 +153,24 @@
         },
         "communities/creator/#community/date": {
             "types": ["null", "string", "indexed-array"],
-            "assignments": {
-                "communities/creator/#community/date": ["value", "array-value", "this:events/community-found/date"]
+            "assignments---todo": {
+                "communities/#community/creator/date": ["value", "array-value", "this:events/community-found/date"]
             }
         },
 
         "companions": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#person"],
-            "assignments": {
-                "companions": "array-value"
+            "assignments---todo": {
+                "companions/#language": "patrons/#patron:names/#language"
             }
         },
 
         "specially-venerated-persons": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["#person"],
-            "assignments": {
-                "specially-venerated-persons": "array-value"
+            "assignments---todo": {
+                "specially-venerated-persons/#language": "patrons/#patron:names/#language"
             }
         },
 
@@ -234,10 +233,10 @@
 
         "feasts": {
             "types": ["empty-array", "associative-array"],
-            "assignments": {
+            "assignments---todo": {
                 "feasts": "array-key",
-                "feasts/#feast/names/#language": "feasts/#feast:names/#language",
-                "feasts/#feast/date": "feasts/#feast:date"
+                "feasts/#language": "feasts/#feast:names/#language",
+                "feasts/date": "feasts/#feast:date"
             }
         },
         "feasts/#feast": {
@@ -349,7 +348,7 @@
         "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "names/#language": "array-value"
             }
         },
@@ -357,7 +356,7 @@
         "siglum": {
             "types": ["indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "siglum": "array-value"
             }
         },
@@ -369,7 +368,7 @@
         "date": {
             "types": ["indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "date": "array-value"
             }
         }
@@ -401,7 +400,7 @@
         "names/#language-with-required-values": {
             "types": ["indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "names/#language": "array-value"
             }
         },
@@ -413,7 +412,7 @@
         "date": {
             "types": ["empty-array", "indexed-array"],
             "element-types": ["string"],
-            "assignments": {
+            "assignments---todo": {
                 "date": "array-value"
             }
         },
