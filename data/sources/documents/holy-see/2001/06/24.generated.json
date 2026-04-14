@@ -3,17 +3,17 @@
         "1": {
             "1": "records/patrons/sigismundus/gor",
             "101": "records/patrons/iosephus/bil",
-            "10002": "records/god/fil",
+            "1000002": "records/god/fil",
             "10001": "records/patrons/ioseph/naz",
-            "10003": "records/patrons/maria/naz"
+            "10002": "records/patrons/maria/naz"
         }
     },
     "in-calendar": {
         "1": {
-            "10002": true,
+            "1000002": true,
             "10001": true,
             "101": true,
-            "10003": true,
+            "10002": true,
             "1": true
         }
     }
