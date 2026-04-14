@@ -57,6 +57,8 @@ abstract class Base
 
     protected const MAIN_PAGE_PARAM = '?mode=home';
 
+    protected const UNKNOWN_YEAR = '????';
+
     private const RECORD_ID_NAME_EXTENSION_CHARACTERS_MAPPING = [
         ' ' => '-',
         '/' => '',
@@ -358,11 +360,15 @@ abstract class Base
         return $result;
     }
 
-    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue): array
+    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue, array $years = [], ?int $year = null): array
     {
         if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
-            $valueArray = ['todo'];
-            $result[$linkId][$assignFieldPath][$assignValue] = $valueArray;
+            if (!is_null($year) && !in_array($year, $years, true)) {
+                $years[] = $year;
+                sort($years);
+            }
+
+            $result[$linkId][$assignFieldPath][$assignValue] = $years;
         }
 
         return $result;

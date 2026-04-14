@@ -2,25 +2,25 @@
     "fields": {
         "categories": {
             "alius-apostolus": [
-                "todo"
+                2005
             ]
         },
         "forenames": {
             "paulus": [
-                "todo"
+                2005
             ]
         },
         "forenames/la": {
             "Paulus": [
-                "todo"
+                2005
             ]
         },
         "statuses": {
             "sanctus": [
-                "todo"
+                2005
             ],
             "beatus": [
-                "todo"
+                2005
             ]
         }
     }

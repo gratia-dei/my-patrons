@@ -2,36 +2,36 @@
     "fields": {
         "epithets/la": {
             "Christus": [
-                "todo"
+                2005
             ],
             "Redemptor hominum": [
-                "todo"
+                2005
             ],
             "Salvator": [
-                "todo"
+                2005
             ]
         },
         "forenames": {
             "iesus": [
-                "todo"
+                2005
             ]
         },
         "forenames/la": {
             "Iesus": [
-                "todo"
+                2005
             ]
         },
         "names/la": {
             "Filius": [
-                "todo"
+                2005
             ],
             "Iesus Christus": [
-                "todo"
+                2005
             ]
         },
         "names/pl": {
             "Syn": [
-                "todo"
+                2001
             ]
         }
     }

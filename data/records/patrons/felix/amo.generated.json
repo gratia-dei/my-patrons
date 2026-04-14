@@ -2,30 +2,30 @@
     "fields": {
         "events/canonization/place": {
             "Forum ante Patriarchalem Basilicam Vaticanam": [
-                "todo"
+                2005
             ]
         },
         "forenames": {
             "felix": [
-                "todo"
+                2005
             ]
         },
         "forenames/pl": {
             "Felix": [
-                "todo"
+                2005
             ]
         },
         "names/la": {
             "Felix a Nicosia": [
-                "todo"
+                2005
             ]
         },
         "status": {
             "beatus": [
-                "todo"
+                2005
             ],
             "sanctus": [
-                "todo"
+                2005
             ]
         }
     }

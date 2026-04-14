@@ -2,27 +2,27 @@
     "fields": {
         "categories": {
             "apostolus": [
-                "todo"
+                2005
             ]
         },
         "forenames": {
             "petrus": [
-                "todo"
+                2005
             ]
         },
         "forenames/la": {
             "Petrus": [
-                "todo"
+                2005
             ]
         },
         "statuses": {
             "beatus": [
-                "todo"
+                2005
             ]
         },
         "statuses/sanctus": {
             "Sanctum": [
-                "todo"
+                2005
             ]
         }
     }

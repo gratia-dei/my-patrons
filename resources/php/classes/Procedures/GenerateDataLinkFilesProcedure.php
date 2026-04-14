@@ -5,8 +5,6 @@ class GenerateDataLinkFilesProcedure extends Procedure
     private const LANGUAGE_CODE_PATTERN = '/^[a-z][a-z][a-z]?$/';
     private const POSSIBLE_NAME_INDEX = 'name';
 
-    private const UNKNOWN_YEAR = '????';
-
     private $generatedFilesData = [];
     private $personGeneratedFilesData = [];
     private $unusedAssignmentTags = [];
@@ -77,6 +75,8 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     }
                     list($linkId, $dstFilePathAlias, $recordId, $showInCalendar) = $linkData;
 
+                    $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
+
                     if ($dstFilePathAlias === '') {
                         $dstPathAlias = $dstDirPathAlias;
                     } else {
@@ -125,7 +125,9 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                                     $this->unusedAssignmentTags[$generatedFileFullPath][$recordId] ?? [],
                                                     $tagsLinkId,
                                                     $assignKey,
-                                                    $assignValue
+                                                    $assignValue,
+                                                    $years,
+                                                    $year
                                                 );
                                             }
                                         }
@@ -180,8 +182,6 @@ class GenerateDataLinkFilesProcedure extends Procedure
                             }
                         }
 
-                        $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
-
                         $personFilePath = $this->getGeneratedFileSuffix($sourceFilePath);
                         $personFileFullPath = $this->getFullDataPath($personFilePath);
 
@@ -189,7 +189,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         $structure = [$linkId => $structure];
                         foreach ($assignmentTags as $assignKey => $assignValueArray) {
                             foreach ($assignValueArray as $assignValue => $years) {
-                                $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue);
+                                $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue, $years, $year);
                             }
                         }
 

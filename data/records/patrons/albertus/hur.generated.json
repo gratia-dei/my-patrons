@@ -2,38 +2,38 @@
     "fields": {
         "events/canonization/place": {
             "Forum ante Patriarchalem Basilicam Vaticanam": [
-                "todo"
+                2005
             ]
         },
         "forenames": {
             "albertus": [
-                "todo"
+                2005
             ]
         },
         "forenames/la": {
             "Albertus": [
-                "todo"
+                2005
             ]
         },
         "names/la": {
             "Albertus Hurtado Cruchaga": [
-                "todo"
+                2005
             ]
         },
         "status": {
             "beatus": [
-                "todo"
+                2005
             ],
             "sanctus": [
-                "todo"
+                2005
             ]
         },
         "surnames/la": {
             "Hurtado": [
-                "todo"
+                2005
             ],
             "Cruchaga": [
-                "todo"
+                2005
             ]
         }
     }

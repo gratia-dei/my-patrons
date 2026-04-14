@@ -2,22 +2,22 @@
     "fields": {
         "names/la": {
             "Spiritus Sancti": [
-                "todo"
+                2005
             ]
         },
         "names/pl": {
             "Duch Święty": [
-                "todo"
+                2001
             ]
         },
         "statuses": {
             "sanctus": [
-                "todo"
+                2005
             ]
         },
         "statuses/pl": {
             "Święty": [
-                "todo"
+                2001
             ]
         }
     }

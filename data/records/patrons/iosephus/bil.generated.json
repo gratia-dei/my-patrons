@@ -2,68 +2,68 @@
     "fields": {
         "event/beatofocation/date": {
             "2001-06-26": [
-                "todo"
+                2001
             ]
         },
         "events/beatification/place/la": {
             "Leopolis": [
-                "todo"
+                2001
             ]
         },
         "events/canonization/place": {
             "Forum ante Patriarchalem Basilicam Vaticanam": [
-                "todo"
+                2005
             ]
         },
         "feast": {
             "03-20": [
-                "todo"
+                2001
             ]
         },
         "forenames": {
             "iosephus": [
-                "todo"
+                2005
             ]
         },
         "forenames/la": {
             "Iosephus": [
-                "todo"
+                2005
             ]
         },
         "forenames/pl": {
             "Józef": [
-                "todo"
+                2001
             ]
         },
         "names/la": {
             "Iosephus Bilczewski": [
-                "todo"
+                2005
             ]
         },
         "names/pl": {
             "Józef Bilczewski": [
-                "todo"
+                2001
             ]
         },
         "status": {
             "venerabilis-dei-servus": [
-                "todo"
+                2001
             ],
             "beatus": [
-                "todo"
+                2005
             ],
             "sanctus": [
-                "todo"
+                2005
             ]
         },
         "surnames/la": {
             "Bilczewski": [
-                "todo"
+                2005
             ]
         },
         "surnames/pl": {
             "Bilczewski": [
-                "todo"
+                2001
             ]
         }
     }
