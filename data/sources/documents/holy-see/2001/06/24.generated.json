@@ -4,6 +4,8 @@
             "1": "records/patrons/sigismundus/gor",
             "101": "records/patrons/iosephus/bil",
             "1000002": "records/god/fil",
+            "1000001": "records/god/pat",
+            "1000003": "records/god/spi",
             "10001": "records/patrons/ioseph/naz",
             "10002": "records/patrons/maria/naz"
         }
@@ -11,6 +13,8 @@
     "in-calendar": {
         "1": {
             "1000002": true,
+            "1000001": true,
+            "1000003": true,
             "10001": true,
             "101": true,
             "10002": true,
