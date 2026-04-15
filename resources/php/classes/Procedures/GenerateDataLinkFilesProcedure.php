@@ -126,7 +126,6 @@ class GenerateDataLinkFilesProcedure extends Procedure
                                                     $tagsLinkId,
                                                     $assignKey,
                                                     $assignValue,
-                                                    $years,
                                                     $year
                                                 );
                                             }
@@ -189,7 +188,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                         $structure = [$linkId => $structure];
                         foreach ($assignmentTags as $assignKey => $assignValueArray) {
                             foreach ($assignValueArray as $assignValue => $years) {
-                                $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue, $years, $year);
+                                $structure = $this->consolidateAssignmentTags($structure, $linkId, $assignKey, $assignValue, $year);
                             }
                         }
 

@@ -10,9 +10,12 @@
                 2004
             ],
             "presbyter": [
+                2004,
                 2005
             ],
             "fundator": [
+                2001,
+                2004,
                 2005
             ],
             "catechista": [
@@ -34,6 +37,7 @@
         },
         "communities/creator/c-s-s-j/date": {
             "1884-02-17": [
+                2001,
                 2005
             ]
         },
@@ -67,6 +71,7 @@
         },
         "events/beatification/date": {
             "2001-06-26": [
+                2001,
                 2005
             ]
         },
@@ -85,6 +90,7 @@
         },
         "events/birth/date": {
             "1845-11-01": [
+                2001,
                 2005
             ]
         },
@@ -132,11 +138,13 @@
         },
         "events/death/date": {
             "1920-01-01": [
+                2001,
                 2005
             ]
         },
         "events/death/place": {
             "Leopolis": [
+                2001,
                 2005
             ]
         },
@@ -222,6 +230,7 @@
         },
         "events/presence#2/place/la": {
             "Leopolis": [
+                2001,
                 2005
             ]
         },
@@ -247,6 +256,7 @@
         },
         "events/process-opening/date": {
             "1989": [
+                2001,
                 2005
             ]
         },
@@ -313,6 +323,8 @@
         },
         "forenames": {
             "sigismundus": [
+                2001,
+                2004,
                 2005
             ]
         },
@@ -323,6 +335,7 @@
         },
         "names/la": {
             "Sigismundus Gorazdowski": [
+                2001,
                 2005
             ]
         },
@@ -333,6 +346,7 @@
         },
         "specially-venerated-persons": {
             "patrons/maria/naz": [
+                2001,
                 2005
             ],
             "patrons/multa/fid": [
@@ -344,6 +358,8 @@
         },
         "status": {
             "beatus": [
+                2001,
+                2004,
                 2005
             ],
             "venerabilis-dei-servus": [
@@ -358,6 +374,7 @@
                 2001
             ],
             "beatus": [
+                2001,
                 2005
             ],
             "servus-dei": [
@@ -374,6 +391,7 @@
         },
         "surnames/la": {
             "Gorazdowski": [
+                2001,
                 2005
             ]
         },

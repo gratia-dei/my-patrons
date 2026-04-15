@@ -2,6 +2,7 @@
     "fields": {
         "forenames": {
             "ioseph": [
+                2001,
                 2005
             ]
         },
@@ -12,6 +13,7 @@
         },
         "statuses": {
             "sanctus": [
+                2001,
                 2005
             ]
         }

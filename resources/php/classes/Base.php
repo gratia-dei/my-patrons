@@ -360,16 +360,14 @@ abstract class Base
         return $result;
     }
 
-    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue, array $years = [], int $year = self::UNKNOWN_YEAR): array
+    protected function consolidateAssignmentTags(array $result, int $linkId, string $assignFieldPath, string $assignValue, ?int $year = null): array
     {
-        if (!in_array($assignValue, $result[$linkId][$assignFieldPath] ?? [], true)) {
-            if ($year !== self::UNKNOWN_YEAR && !in_array($year, $years, true)) {
-                $years[] = $year;
-                sort($years);
-            }
-
-            $result[$linkId][$assignFieldPath][$assignValue] = $years;
+        $years = $result[$linkId][$assignFieldPath][$assignValue] ?? [];
+        if (!is_null($year) && !in_array($year, $years, true)) {
+            $years[] = $year;
+            sort($years);
         }
+        $result[$linkId][$assignFieldPath][$assignValue] = $years;
 
         return $result;
     }
