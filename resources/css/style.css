@@ -2015,8 +2015,9 @@ button,
 
 .challenge-colors-legend {
   display: inline-block;
-  width: 50%;
-  height: 50%;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
   padding: 0px;
   margin: 5px;
 }
