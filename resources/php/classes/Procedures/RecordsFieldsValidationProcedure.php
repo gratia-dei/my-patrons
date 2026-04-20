@@ -39,6 +39,7 @@ class RecordsFieldsValidationProcedure extends Procedure
             }
 
             $configFields = $this->getConfigFields($pathData);
+            list($assignmentsFieldsPaths, $assignmentsConfig) = $this->getAssignmentsConfigData($pathData, $recordType);
 
             $generatedFileSuffix = $this->getGeneratedFileSuffix();
             $fullRootPath = $this->getFullDataPath($srcRootPath);
@@ -71,6 +72,8 @@ class RecordsFieldsValidationProcedure extends Procedure
                 $sourceFilePath = mb_substr($staticFilePathWithoutExtension, mb_strlen($fullRootPath));
 
                 $this->validate($sourceFilePath, $pathData, $configFields, $staticData);
+
+                $externalRecords = $this->getExternalRecordsFieldsWithAssignmentsValidation($sourceFilePath, $assignmentsFieldsPaths, $assignmentsConfig, $staticData, $generatedData);
             }
         }
     }
@@ -92,6 +95,33 @@ class RecordsFieldsValidationProcedure extends Procedure
         }
 
         return $result;
+    }
+
+    private function getAssignmentsConfigData(array $configData, string $recordType): array
+    {
+        $fieldsPaths = [];
+        $assignmentsData = [];
+
+        foreach ($configData as $fieldPath => $fieldData) {
+            $assignments = $fieldData[self::FIELDS_CONFIG_ASSIGNMENTS_INDEX] ?? [];
+            if ($assignments === []) {
+                continue;
+            }
+
+            foreach ($assignments as $assignmentPath => $methods) {
+                if (isset($fieldsPaths[$assignmentPath])) {
+                    $this->makeError("Duplicate assignment path '$assignmentPath'", $fieldPath, $recordType);
+                }
+                $fieldsPaths[$assignmentPath] = str_replace(self::PARAMETRIZED_REQUIRED_VALUES_SUFFIX, '', $fieldPath);
+
+                if (!is_array($methods)) {
+                    $methods = [$methods];
+                }
+                $assignmentsData[$assignmentPath] = $methods;
+            }
+        }
+
+        return [$fieldsPaths, $assignmentsData];
     }
 
     private function loadParametrizedFieldsValues(): void
@@ -321,5 +351,21 @@ class RecordsFieldsValidationProcedure extends Procedure
                 $this->makeError("Expected field is '' but found '$field'", $fieldPath, $filePath);
             }
         }
+    }
+
+    private function getExternalRecordsFieldsWithAssignmentsValidation(string $sourceFilePath, array $fieldsPaths, array $assignmentsConfig, array $staticData, array $generatedData): array
+    {
+        $externalRecords = [];
+
+        //var_dump($fieldsPaths, $assignmentsConfig);exit;
+
+        //bierzemy dane z generatedData i przetwarzamy je z walidacja za pomoca kluczy assignments
+        // - eksporty od razu wpisujemy w plikach doeclowych w indeksie 'fields'
+
+        //$field = 'field';
+        //$fieldPath = 'abc';
+        //$this->makeError("Expected field is '' but found '$field'", $fieldPath, $sourceFilePath);
+
+        return $externalRecords;
     }
 }
