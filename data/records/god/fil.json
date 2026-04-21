@@ -28,9 +28,19 @@
             "pl": "Chrystus"
         },
         {
-            "la": "Dei Filius",
-            "en": "God the Son",
+            "la": "Filius Dei",
+            "en": "Son of God",
             "pl": "Syn Boży"
+        },
+        {
+            "la": "Redemptor",
+            "en": "Redeemer",
+            "pl": "Odkupiciel"
+        },
+        {
+            "la": "Salvator",
+            "en": "Saviour",
+            "pl": "Zbawiciel"
         }
     ],
 

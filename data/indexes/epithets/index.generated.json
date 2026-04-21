@@ -11,6 +11,9 @@
     "00f007a4f4db56758ee52e639e2a49a0": {
         "en": "of the Agonized Jesus in the Garden"
     },
+    "010e3e2c4dab4b37a8b44cc8e86921eb": {
+        "pl": "Zbawiciel"
+    },
     "01ab366bd3af2987fbd35208bf146c57": {
         "la": "Magnus"
     },
@@ -23,14 +26,20 @@
     "02db1fdc3550181c223ed5f93205b573": {
         "en": "Chrysostom"
     },
-    "046aac1785ace90ed6ac49293512d684": {
-        "la": "Dei Filius"
+    "0345ae4e3bc3dee30b091e81bbc2934a": {
+        "pl": "Odkupiciel"
+    },
+    "0478a623bbf7792d991d2ed4b07a1f35": {
+        "la": "Filius Dei"
     },
     "05e6987f245ffaae18bf5331e79d6087": {
         "la": "Discipulus sancti Pauli Apostoli"
     },
     "067e6a1bae26d991459a24b1bb1f82ce": {
         "en": "The first Priest from the Levitical order"
+    },
+    "06de1a70be1978f7aa4bed9a9876eb35": {
+        "en": "Redeemer"
     },
     "071ca199d3a0a2176551f378ad29d119": {
         "it": "Beato Angelico"
@@ -89,14 +98,14 @@
     "130286fa1c4183bd17191cbad847a830": {
         "es": "de San Miguel"
     },
-    "1369f260aa2add99ff02f38114f1358a": {
-        "en": "God the Son"
-    },
     "14a0e473a2946488316d2789ed27f5cd": {
         "en": "the Ethiopian"
     },
     "1560673bc08ac85eee8c5b1335b29aea": {
         "la": "a Sanctissimo Sacramento"
+    },
+    "162250f182a1414376b59df874279386": {
+        "la": "Redemptor"
     },
     "1666ca77ab75f7d731e645fa6ef4fc60": {
         "en": "Just"
@@ -212,6 +221,9 @@
     "3546e3682a4af71b100d85f514338fab": {
         "it": "di San Luigi"
     },
+    "371572c71e802c9eefa062240d816e97": {
+        "en": "Saviour"
+    },
     "385d2e4297f9a4858b68280cfc1e08d6": {
         "pl": "Kadłubek"
     },
@@ -246,6 +258,9 @@
     },
     "3f87ff7c4fc62d1dc253ec660c71460a": {
         "en": "God the Father"
+    },
+    "40489db03bd38d3d17e841d206efedfe": {
+        "en": "Son of God"
     },
     "409a369af4c2f45b783c9d2f37b706a2": {
         "la": "Anglorum Apostolus"
@@ -510,6 +525,9 @@
     },
     "908b53fc9c379c8ed8bad6d45ff51bed": {
         "en": "the Theologian"
+    },
+    "91524c16e9ac80084b0c5cb1eba83f35": {
+        "la": "Salvator"
     },
     "92aa525ecd6f44381598c217d43fbcf1": {
         "la": "Chrysostomus"
