@@ -18,8 +18,12 @@ abstract class Base
     protected const PATRON_EVENTS_INDEX = 'events';
     protected const PATRON_DATE_INDEX = 'date';
     protected const PATRON_FEAST_INDEX = 'feast';
+
     protected const PATRON_FEASTS_PATH = self::PATRON_FEASTS_INDEX . '/';
     protected const INDEXES_ROOT_PATH = '/indexes';
+
+    protected const ASSIGNMENT_CONFIG_LOCAL = 'local';
+    protected const ASSIGNMENT_CONFIG_EXTERNAL = 'external';
 
     protected const PERSONS_DATA_FILE_PATH = 'generated/persons-data' . self::GENERATED_FILE_NAME_SUFFIX . self::DATA_FILE_EXTENSION;
 

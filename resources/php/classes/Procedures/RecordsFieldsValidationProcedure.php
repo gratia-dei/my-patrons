@@ -19,6 +19,9 @@ class RecordsFieldsValidationProcedure extends Procedure
     private const FIELDS_CONFIG_TYPE_INDEXED_ARRAY = 'indexed-array';
     private const FIELDS_CONFIG_TYPE_ASSOCIATIVE_ARRAY = 'associative-array';
 
+    private const FIELDS_CONFIG_LOCAL_FIND_LOCATION_ARRAY_VALUE = 'array-value';
+    private const FIELDS_CONFIG_LOCAL_FIND_LOCATION_VALUE = 'value';
+
     private const FIELDS_CONFIG_EMPTY_TYPES = [self::FIELDS_CONFIG_TYPE_NULL, self::FIELDS_CONFIG_TYPE_EMPTY_ARRAY];
 
     private const CATEGORIES_FILE_PATH = 'records/categories/index.generated.json';
@@ -67,13 +70,13 @@ class RecordsFieldsValidationProcedure extends Procedure
                 $generatedFilePath = $this->getGeneratedFileSuffix($staticFilePathWithoutExtension);
 
                 $staticData = $this->getOriginalJsonFileContentArrayForFullPath($staticFilePath);
-                $generatedData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath)[self::FIELDS_INDEX] ?? [];
+                $generatedFieldsData = $this->getOriginalJsonFileContentArrayForFullPath($generatedFilePath)[self::FIELDS_INDEX] ?? [];
 
                 $sourceFilePath = mb_substr($staticFilePathWithoutExtension, mb_strlen($fullRootPath));
 
                 $this->validate($sourceFilePath, $pathData, $configFields, $staticData);
 
-                $externalRecords = $this->getExternalRecordsFieldsWithAssignmentsValidation($sourceFilePath, $assignmentsFieldsPaths, $assignmentsConfig, $staticData, $generatedData);
+                $externalRecords = $this->getExternalRecordsFieldsWithAssignmentsValidation($sourceFilePath, $assignmentsFieldsPaths, $assignmentsConfig, $staticData, $generatedFieldsData);
             }
         }
     }
@@ -171,6 +174,11 @@ class RecordsFieldsValidationProcedure extends Procedure
         ];
     }
 
+    private function isIndexPathElementVariable(string $field): bool
+    {
+        return ($field === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . 'index');
+    }
+
     private function getRealExistingConfigFields(string $configField, array $staticDataKeys): array
     {
         $result = [];
@@ -179,7 +187,7 @@ class RecordsFieldsValidationProcedure extends Procedure
             return [$configField];
         }
 
-        $isIndex = ($configField === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . 'index');
+        $isIndex = $this->isIndexPathElementVariable($configField);
 
         $isRequired = false;
         $possibleSuffixPosition = strpos($configField, self::PARAMETRIZED_REQUIRED_VALUES_SUFFIX);
@@ -353,19 +361,137 @@ class RecordsFieldsValidationProcedure extends Procedure
         }
     }
 
-    private function getExternalRecordsFieldsWithAssignmentsValidation(string $sourceFilePath, array $fieldsPaths, array $assignmentsConfig, array $staticData, array $generatedData): array
-    {
+    private function getExternalRecordsFieldsWithAssignmentsValidation(
+        string $sourceFilePath,
+        array $assignmentsFieldsPaths,
+        array $assignmentsConfig,
+        array $staticData,
+        array $generatedFieldsData
+    ): array {
         $externalRecords = [];
 
-        //var_dump($fieldsPaths, $assignmentsConfig);exit;
+        foreach ($generatedFieldsData as $fieldPath => $fieldData) {
+            $isPathFound = false;
+            $fieldPathArr = explode('/', $fieldPath);
+            $fieldPathCount = count($fieldPathArr);
 
-        //bierzemy dane z generatedData i przetwarzamy je z walidacja za pomoca kluczy assignments
-        // - eksporty od razu wpisujemy w plikach doeclowych w indeksie 'fields'
+            $pathVariables = [];
+            foreach ($assignmentsFieldsPaths as $assignmentPath => $assignmentFieldPath) {
+                $assignmentPathArr = explode('/', $assignmentPath);
+                $finalAssignmentPathArr = $assignmentPathArr;
 
-        //$field = 'field';
-        //$fieldPath = 'abc';
-        //$this->makeError("Expected field is '' but found '$field'", $fieldPath, $sourceFilePath);
+                if ($fieldPathCount !== count($assignmentPathArr)) {
+                    continue;
+                }
+
+                foreach ($assignmentPathArr as $key => $assignmentPathElement) {
+                    $fieldPathElement = $fieldPathArr[$key] ?? '!!!';
+                    if ($assignmentPathElement !== $fieldPathElement) {
+                        if ($assignmentPathElement[0] === self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX) {
+                            $variableName = mb_substr($assignmentPathElement, 1);
+                            $variableValue = $this->parametrizedFieldsValues[$variableName][$fieldPathElement] ?? null;
+
+                            if ($variableValue === $fieldPathElement) {
+                                $finalAssignmentPathArr[$key] = $variableValue;
+                                $pathVariables[self::PARAMETRIZED_FIELD_PATH_ELEMENT_PREFIX . $variableName] = $variableValue;
+                            }
+                        }
+                    }
+
+                    if ($finalAssignmentPathArr === $fieldPathArr) {
+                        $isPathFound = true;
+                        break;
+                    }
+                }
+            }
+
+            if (!$isPathFound) {
+                $this->makeError('Unknown assignment path', $fieldPath, $sourceFilePath);
+            }
+
+            $assignmentConfig = $assignmentsConfig[$assignmentPath] ?? [];
+            if ($assignmentConfig === []) {
+                $this->makeError("Empty assignment config in path '$assignmentPath'", $fieldPath, $sourceFilePath);
+            }
+
+            foreach ($fieldData as $fieldValue => $years) {
+                try {
+                    $isValid = $this->isLocalAssignmentValid(
+                        explode('/', $assignmentFieldPath),
+                        $staticData,
+                        $fieldValue,
+                        $assignmentConfig[self::ASSIGNMENT_CONFIG_LOCAL] ?? [],
+                        $pathVariables
+                    );
+                } catch (GeneratorException $ex) {
+                    $this->makeError($ex->getMessage(), "$fieldPath", $sourceFilePath);
+                }
+
+                if (!$isValid) {
+                    $this->makeError("Missing value '$fieldValue' in path '$assignmentFieldPath'", $fieldPath, $sourceFilePath);
+                }
+
+                //todo externals
+                // - eksporty od razu wpisujemy w plikach doeclowych w indeksie 'fields'
+            }
+        }
 
         return $externalRecords;
+    }
+
+    private function isLocalAssignmentValid(array $pathArr, mixed $data, string $value, array $findLocations, array $variables): bool {
+        if ($findLocations === []) {
+            return true;
+        }
+
+        $pathElement = array_shift($pathArr);
+        if (is_null($pathElement)) {
+            return false;
+        }
+
+        $pathElement = $variables[$pathElement] ?? $pathElement;
+
+        if ($this->isIndexPathElementVariable($pathElement)) {
+            if (!is_array($data)) {
+                return false;
+            }
+
+            foreach ($data as $dataValue) {
+                $isValid = $this->isLocalAssignmentValid($pathArr, $dataValue, $value, $findLocations, $variables);
+
+                if ($isValid) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        if (!isset($data[$pathElement])) {
+            return false;
+        }
+        $subdata = $data[$pathElement];
+
+        foreach ($findLocations as $location) {
+            switch ($location) {
+                case self::FIELDS_CONFIG_LOCAL_FIND_LOCATION_ARRAY_VALUE:
+                    if (is_array($subdata) && in_array($value, $subdata, true)) {
+                        return true;
+                    }
+                    break;
+                case self::FIELDS_CONFIG_LOCAL_FIND_LOCATION_VALUE:
+                    if ($subdata === $value) {
+                        return true;
+                    }
+                    break;
+
+                default:
+                    throw new GeneratorException("Unknown find location value '$location'");
+                    break;
+
+            }
+        }
+
+        return $this->isLocalAssignmentValid($pathArr, $subdata, $value, $findLocations, $variables);
     }
 }

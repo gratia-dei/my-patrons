@@ -44,8 +44,10 @@
         "epithets/#index/#language-with-required-values": {
             "types": ["string", "indexed-array"],
             "element-types": ["string"],
-            "assignments---todo": {
-                "epithets/#language": ["value", "array-value"]
+            "assignments": {
+                "epithets/#language": {
+                    "local": ["value", "array-value"]
+                }
             }
         },
 
