@@ -1,16 +1,11 @@
 {
     "fields": {
-        "forenames": {
-            "nicolaus": [
-                2005
-            ]
-        },
         "forenames/la": {
             "Nicolaus": [
                 2005
             ]
         },
-        "statuses": {
+        "statuses/la": {
             "sanctus": [
                 2005
             ]

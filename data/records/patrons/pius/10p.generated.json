@@ -5,13 +5,11 @@
                 2005
             ]
         },
-        "forenames": {
-            "pius": [
-                2005
-            ]
-        },
         "forenames/la": {
             "Pius": [
+                2005
+            ],
+            "Paulus": [
                 2005
             ]
         },
@@ -20,7 +18,7 @@
                 2005
             ]
         },
-        "statuses": {
+        "statuses/la": {
             "sanctus": [
                 2005
             ]

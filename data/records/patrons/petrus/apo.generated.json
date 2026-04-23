@@ -1,17 +1,15 @@
 {
     "fields": {
-        "categories": {
-            "apostolus": [
-                2005
-            ]
-        },
-        "forenames": {
-            "petrus": [
+        "categories/la": {
+            "Apostolus": [
                 2005
             ]
         },
         "forenames/la": {
             "Petrus": [
+                2005
+            ],
+            "Patrus": [
                 2005
             ]
         },
@@ -20,8 +18,8 @@
                 2005
             ]
         },
-        "statuses/sanctus": {
-            "Sanctum": [
+        "statuses/la": {
+            "Sanctus": [
                 2005
             ]
         }

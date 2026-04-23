@@ -1,34 +1,25 @@
 {
     "fields": {
-        "feasts/dbm/names/la": {
-            "Maria a Nive": [
-                2005
-            ]
-        },
-        "forenames": {
-            "maria": [
-                2001,
-                2005
-            ]
-        },
         "forenames/la": {
             "Maria": [
+                2001,
                 2005
             ]
         },
         "names/la": {
             "Maria Virgo": [
                 2001
-            ]
-        },
-        "statuses": {
-            "sanctus": [
+            ],
+            "Maria a Nive": [
                 2005
             ]
         },
-        "statuses/beatus": {
-            "Beatae": [
+        "statuses/la": {
+            "Beata": [
                 2001
+            ],
+            "Sancta": [
+                2005
             ]
         }
     }

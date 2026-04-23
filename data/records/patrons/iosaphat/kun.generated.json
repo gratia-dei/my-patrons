@@ -1,17 +1,12 @@
 {
     "fields": {
-        "forenames": {
-            "iosaphat": [
-                2005
-            ]
-        },
         "forenames/la": {
             "Iosaphat": [
                 2005
             ]
         },
-        "statuses/sanctus": {
-            "sancti": [
+        "statuses/la": {
+            "sanctus": [
                 2005
             ]
         }

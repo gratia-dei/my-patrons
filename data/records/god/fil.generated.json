@@ -2,6 +2,7 @@
     "fields": {
         "epithets/la": {
             "Christus": [
+                2001,
                 2005
             ],
             "Redemptor": [
@@ -17,6 +18,11 @@
                 2005
             ]
         },
+        "forenames/pl": {
+            "Iesus": [
+                2005
+            ]
+        },
         "names/la": {
             "Filius": [
                 2005
@@ -27,6 +33,11 @@
         },
         "names/pl": {
             "Syn": [
+                2001
+            ]
+        },
+        "specially-venerated-persons/la": {
+            "Iesus": [
                 2001
             ]
         }

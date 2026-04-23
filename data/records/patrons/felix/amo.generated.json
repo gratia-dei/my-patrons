@@ -1,12 +1,12 @@
 {
     "fields": {
-        "events/canonization/place": {
-            "Forum ante Patriarchalem Basilicam Vaticanam": [
+        "epithets/la": {
+            "a Nicosia": [
                 2005
             ]
         },
-        "forenames": {
-            "felix": [
+        "events/canonization/place": {
+            "Forum ante Patriarchalem Basilicam Vaticanam": [
                 2005
             ]
         },
@@ -20,8 +20,8 @@
                 2005
             ]
         },
-        "status": {
-            "beatus": [
+        "statuses/la": {
+            "Beatus": [
                 2005
             ],
             "sanctus": [

@@ -1,12 +1,7 @@
 {
     "fields": {
-        "categories": {
-            "alius-apostolus": [
-                2005
-            ]
-        },
-        "forenames": {
-            "paulus": [
+        "categories/la": {
+            "Apostolus": [
                 2005
             ]
         },
@@ -16,10 +11,12 @@
             ]
         },
         "statuses": {
-            "sanctus": [
-                2005
-            ],
             "beatus": [
+                2005
+            ]
+        },
+        "statuses/la": {
+            "sanctus": [
                 2005
             ]
         }

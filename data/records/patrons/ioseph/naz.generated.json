@@ -1,19 +1,21 @@
 {
     "fields": {
-        "forenames": {
-            "ioseph": [
+        "forenames/la": {
+            "Ioseph": [
                 2001,
                 2005
             ]
         },
-        "forenames/la": {
+        "forenames/pl": {
             "Ioseph": [
                 2005
             ]
         },
-        "statuses": {
+        "statuses/la": {
+            "Sanctus": [
+                2001
+            ],
             "sanctus": [
-                2001,
                 2005
             ]
         }

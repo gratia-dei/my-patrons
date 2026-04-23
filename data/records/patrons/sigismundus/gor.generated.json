@@ -10,24 +10,30 @@
                 2004
             ],
             "presbyter": [
-                2004,
-                2005
+                2004
             ],
             "fundator": [
-                2001,
-                2004,
-                2005
+                2004
             ],
             "catechista": [
+                2005
+            ]
+        },
+        "categories/la": {
+            "fundator": [
+                2001,
+                2005
+            ],
+            "vir": [
+                2001
+            ],
+            "presbyter": [
                 2005
             ]
         },
         "communities/c-s-s-j/names/la": {
             "Congregatio Sororum S. Ioseph": [
                 2001
-            ],
-            "Congregatio Sororum Sancti Ioseph": [
-                2005
             ]
         },
         "communities/creator": {
@@ -37,31 +43,30 @@
         },
         "communities/creator/c-s-s-j/date": {
             "1884-02-17": [
-                2001,
+                2001
+            ]
+        },
+        "communities/creator/date": {
+            "1884-02-17": [
+                2005
+            ]
+        },
+        "communities/names/la": {
+            "Congregatio Sororum Sancti Ioseph": [
                 2005
             ]
         },
         "epithets/la": {
-            "Pater pauperum": [
+            "pater pauperum": [
                 2001
             ],
-            "Tecto carentium sacerdos": [
+            "tecto carentium sacerdos": [
                 2001
             ]
         },
-        "event/beatofocation/date": {
+        "event/beatification/date": {
             "2001-06-26": [
                 2001
-            ]
-        },
-        "events.place#1/place": {
-            "Wojnilów": [
-                2001
-            ]
-        },
-        "events/#presence/date": {
-            ">1871,<1877": [
-                2005
             ]
         },
         "events/beatification-miracle-recognition/date": {
@@ -152,7 +157,7 @@
             "completio gymnasii": [
                 2001
             ],
-            "gymnasio": [
+            "gymnasium": [
                 2005
             ]
         },
@@ -174,6 +179,9 @@
         },
         "events/education#2/place/la": {
             "Leopolis": [
+                2005
+            ],
+            "Ucraina": [
                 2005
             ],
             "Universitas Leopolitana": [
@@ -198,14 +206,19 @@
                 2005
             ]
         },
-        "events/education@2/place/la": {
-            "Ucraina": [
-                2005
-            ]
-        },
         "events/heroic-virtues-recognition/date": {
             "1999-12-20": [
                 2001
+            ]
+        },
+        "events/place#1/place": {
+            "Wojnilów": [
+                2001
+            ]
+        },
+        "events/presence#1/date": {
+            ">1871,<1877": [
+                2005
             ]
         },
         "events/presence#1/description/la": {
@@ -323,8 +336,12 @@
         },
         "forenames": {
             "sigismundus": [
+                2004
+            ]
+        },
+        "forenames/la": {
+            "Sigismundus": [
                 2001,
-                2004,
                 2005
             ]
         },
@@ -342,11 +359,16 @@
         "names/pl": {
             "Zygmunt Gorazdowski": [
                 2001
+            ],
+            "ZygmuntGorazdowski": [
+                2001
+            ],
+            "Sigismundus Gorazdowski": [
+                2005
             ]
         },
         "specially-venerated-persons": {
             "patrons/maria/naz": [
-                2001,
                 2005
             ],
             "patrons/multa/fid": [
@@ -356,29 +378,42 @@
                 2005
             ]
         },
+        "specially-venerated-persons/la": {
+            "Maria Virgo": [
+                2001
+            ]
+        },
         "status": {
             "beatus": [
-                2001,
-                2004,
-                2005
-            ],
-            "venerabilis-dei-servus": [
-                2001
-            ],
-            "sanctus": [
+                2004
+            ]
+        },
+        "status/la": {
+            "beatus": [
                 2005
             ]
         },
-        "statuses": {
-            "venerabilis-dei-servus": [
+        "status/pl": {
+            "Czcigodny Sługa Boży": [
                 2001
             ],
-            "beatus": [
+            "błogosławiony": [
+                2001
+            ]
+        },
+        "statuses/la": {
+            "Venerabilis Dei Servus": [
+                2001
+            ],
+            "Beatus": [
                 2001,
                 2005
             ],
-            "servus-dei": [
+            "Servus Dei": [
                 2001
+            ],
+            "beatus": [
+                2005
             ],
             "sanctus": [
                 2005

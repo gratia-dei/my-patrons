@@ -1,17 +1,12 @@
 {
     "fields": {
-        "forenames": {
-            "martinus": [
-                2005
-            ]
-        },
         "forenames/la": {
             "Martinus": [
                 2005
             ]
         },
         "statuses": {
-            "sanctus": [
+            "sanctus/la=sanctus": [
                 2005
             ]
         }

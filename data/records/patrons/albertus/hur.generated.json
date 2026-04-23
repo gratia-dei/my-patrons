@@ -5,11 +5,6 @@
                 2005
             ]
         },
-        "forenames": {
-            "albertus": [
-                2005
-            ]
-        },
         "forenames/la": {
             "Albertus": [
                 2005
@@ -20,8 +15,8 @@
                 2005
             ]
         },
-        "status": {
-            "beatus": [
+        "statuses/la": {
+            "Beatus": [
                 2005
             ],
             "sanctus": [

@@ -327,7 +327,7 @@ abstract class Base
 
         do {
             $before = $text;
-            $pattern = '/\{([0-9]+(,[0-9]+)*)\|([^{}]+)\|([^{|}]+)\}/U';
+            $pattern = '/\{([0-9]+(,[0-9]+)*)\^([^{}]+)\^([^{\^}]+)\}/U';
             $replace = '\4';
 
             preg_match_all($pattern, $text, $matches);
@@ -337,7 +337,7 @@ abstract class Base
                 $newTagValue = $matches[4][$key] ?? null;
 
                 foreach ($newTagLinkIds as $newTagLinkId) {
-                    $values = $this->assignNewTag($values, $newTagLinkId, explode('|', $newTagAssignments), $newTagValue);
+                    $values = $this->assignNewTag($values, $newTagLinkId, explode('^', $newTagAssignments), $newTagValue);
                 }
             }
 
