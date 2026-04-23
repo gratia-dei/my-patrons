@@ -86,7 +86,10 @@ class DataLinksContentBlock extends ContentBlock implements ContentBlockInterfac
                 if (is_null($linkData)) {
                     continue;
                 }
-                list($linkId, $subPathAlias, $recordId, $showInCalendar) = $linkData;
+                list($linkId, $subPathAlias, $recordId, $showInCalendar, $showInSources) = $linkData;
+                if (!$showInSources) {
+                    continue;
+                }
                 if (isset($previousLinks[$subPathAlias][$recordId])) {
                     continue;
                 }

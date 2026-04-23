@@ -73,7 +73,7 @@ class GenerateDataLinkFilesProcedure extends Procedure
                     if (is_null($linkData)) {
                         $this->error("invalid link '$link' in file '$sourceFilePath', data-links field '$fieldPath' and directory path alias '$dstDirPathAlias'");
                     }
-                    list($linkId, $dstFilePathAlias, $recordId, $showInCalendar) = $linkData;
+                    list($linkId, $dstFilePathAlias, $recordId, $showInCalendar, $showInSources) = $linkData;
 
                     $year = $this->getRecordYear($dstDirPathAlias, $link, $recordId);
 
@@ -230,7 +230,8 @@ class GenerateDataLinkFilesProcedure extends Procedure
     private function getRecordYear(string $pathAlias, string $link, string $recordId): int
     {
         $result = self::UNKNOWN_YEAR;
-        $pattern = '~[-:]([0-9]{4})~';
+        $separators = self::DATA_LINK_SEPARATOR_WITH_CALENDAR . self::DATA_LINK_SEPARATOR_WITHOUT_CALENDAR . self::DATA_LINK_SEPARATOR_HIDDEN;
+        $pattern = '~[-' . $separators . ']([0-9]{4})~';
 
         foreach ([$pathAlias, $link, $recordId] as $text) {
             if (preg_match($pattern, $text, $matches)) {
